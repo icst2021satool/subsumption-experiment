@@ -1,0 +1,9 @@
+{
+"Class" : "weka.classifiers.CostMatrix$InstanceExpression", 
+"Methods" : [{ "Name" : "<init>" ,
+"Duas" : 4,
+"0" :  "(860,877, this)",
+"1" :  "(865,(874,875), node)",
+"2" :  "(865,(874,877), node)",
+"3" :  "(865,877, node)"}]
+}

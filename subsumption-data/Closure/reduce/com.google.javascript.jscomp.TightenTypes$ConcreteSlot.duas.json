@@ -1,0 +1,11 @@
+{
+"Class" : "com.google.javascript.jscomp.TightenTypes$ConcreteSlot", 
+"Methods" : [{ "Name" : "addConcreteType" ,
+"Duas" : 6,
+"0" :  "(299,(301,301), this)",
+"1" :  "(299,(301,301), this)",
+"2" :  "(299,(301,301), origType)",
+"3" :  "(299,(301,301), origType)",
+"4" :  "(300,(301,301), this.type)",
+"5" :  "(300,(301,301), this.type)"}]
+}

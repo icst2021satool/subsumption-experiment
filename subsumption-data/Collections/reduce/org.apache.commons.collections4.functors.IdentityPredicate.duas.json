@@ -1,0 +1,15 @@
+{
+"Class" : "org.apache.commons.collections4.functors.IdentityPredicate", 
+"Methods" : [{ "Name" : "identityPredicate" ,
+"Duas" : 3,
+"0" :  "(47,(47,48), object)",
+"1" :  "(47,(47,50), object)",
+"2" :  "(47,50, object)"},{ "Name" : "evaluate" ,
+"Duas" : 6,
+"0" :  "(72,(72,72), this)",
+"1" :  "(72,(72,72), this)",
+"2" :  "(72,(72,72), object)",
+"3" :  "(72,(72,72), object)",
+"4" :  "(72,(72,72), this.iValue)",
+"5" :  "(72,(72,72), this.iValue)"}]
+}

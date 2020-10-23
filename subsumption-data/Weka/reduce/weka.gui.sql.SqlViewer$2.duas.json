@@ -1,0 +1,9 @@
+{
+"Class" : "weka.gui.sql.SqlViewer$2", 
+"Methods" : [{ "Name" : "run" ,
+"Duas" : 4,
+"0" :  "(645,647, this)",
+"1" :  "(645,647, this.val$jf)",
+"2" :  "(645,652, err)",
+"3" :  "(645,654, err)"}]
+}

@@ -1,0 +1,23 @@
+{
+"Class" : "weka.gui.beans.SubstringReplacerCustomizer$6", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Duas" : 18,
+"0" :  "(249,251, this)",
+"1" :  "(249,(253,254), this)",
+"2" :  "(249,(253,258), this)",
+"3" :  "(249,254, this)",
+"4" :  "(249,255, this)",
+"5" :  "(249,251, this.this$0)",
+"6" :  "(249,(253,254), this.this$0)",
+"7" :  "(249,(253,258), this.this$0)",
+"8" :  "(249,254, this.this$0)",
+"9" :  "(249,255, this.this$0)",
+"10" :  "(249,251, this.m_listModel)",
+"11" :  "(249,(253,254), this.m_listModel)",
+"12" :  "(249,(253,258), this.m_listModel)",
+"13" :  "(249,254, this.m_upBut)",
+"14" :  "(249,255, this.m_downBut)",
+"15" :  "(249,(250,251), selected)",
+"16" :  "(249,(250,258), selected)",
+"17" :  "(249,251, selected)"}]
+}

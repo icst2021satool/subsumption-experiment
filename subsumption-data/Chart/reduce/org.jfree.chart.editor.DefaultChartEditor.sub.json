@@ -1,0 +1,14 @@
+{
+"Class" : "org.jfree.chart.editor.DefaultChartEditor", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Duas" : "3" ,
+"Subsumers" : 2,
+"0" : [ 1, 0], "S0" : [0, 1 ],
+"1" : [ 2], "S1" : [2 ]
+},{ "Name" : "attemptModifyBackgroundPaint" ,
+"Duas" : "5" ,
+"Subsumers" : 2,
+"0" : [ 4, 2, 1, 0], "S0" : [0, 1, 2, 4 ],
+"1" : [ 3], "S1" : [3 ]
+}]
+}

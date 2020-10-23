@@ -1,0 +1,23 @@
+{
+"Class" : "weka.gui.knowledgeflow.steps.ScatterPlotMatrixInteractiveView$2", 
+"Methods" : [{ "Name" : "mouseClicked" ,
+"Duas" : 18,
+"0" :  "(120,122, this)",
+"1" :  "(120,124, this)",
+"2" :  "(120,128, this)",
+"3" :  "(120,129, this)",
+"4" :  "(120,122, this.this$0)",
+"5" :  "(120,124, this.this$0)",
+"6" :  "(120,128, this.this$0)",
+"7" :  "(120,129, this.this$0)",
+"8" :  "(120,122, this.m_history)",
+"9" :  "(120,124, this.m_history)",
+"10" :  "(120,128, this.m_matrixPanel)",
+"11" :  "(120,129, this.m_matrixPanel)",
+"12" :  "(120,(121,122), index)",
+"13" :  "(120,(121,135), index)",
+"14" :  "(120,122, index)",
+"15" :  "(124,(125,128), insts)",
+"16" :  "(124,(125,135), insts)",
+"17" :  "(124,128, insts)"}]
+}

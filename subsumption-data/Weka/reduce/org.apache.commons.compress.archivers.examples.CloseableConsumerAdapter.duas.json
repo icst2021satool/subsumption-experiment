@@ -1,0 +1,17 @@
+{
+"Class" : "org.apache.commons.compress.archivers.examples.CloseableConsumerAdapter", 
+"Methods" : [{ "Name" : "<init>" ,
+"Duas" : 4,
+"0" :  "(28,32, this)",
+"1" :  "(28,(29,30), consumer)",
+"2" :  "(28,(29,32), consumer)",
+"3" :  "(28,32, consumer)"},{ "Name" : "close" ,
+"Duas" : 7,
+"0" :  "(42,(42,43), this)",
+"1" :  "(42,(42,45), this)",
+"2" :  "(42,43, this)",
+"3" :  "(42,(42,43), this.closeable)",
+"4" :  "(42,(42,45), this.closeable)",
+"5" :  "(42,43, this.closeable)",
+"6" :  "(42,43, this.consumer)"}]
+}

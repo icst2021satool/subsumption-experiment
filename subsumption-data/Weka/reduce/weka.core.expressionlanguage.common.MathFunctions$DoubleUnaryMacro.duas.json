@@ -1,0 +1,14 @@
+{
+"Class" : "weka.core.expressionlanguage.common.MathFunctions$DoubleUnaryMacro", 
+"Methods" : [{ "Name" : "evaluate" ,
+"Duas" : 9,
+"0" :  "(113,119, this)",
+"1" :  "(113,116, this)",
+"2" :  "(113,114, this)",
+"3" :  "(113,(113,114), params)",
+"4" :  "(113,(113,115), params)",
+"5" :  "(113,(115,116), params)",
+"6" :  "(113,(115,119), params)",
+"7" :  "(113,119, params)",
+"8" :  "(113,119, this.func)"}]
+}

@@ -1,0 +1,9 @@
+{
+"Class" : "org.apache.commons.collections4.queue.UnmodifiableQueue", 
+"Methods" : [{ "Name" : "unmodifiableQueue" ,
+"Duas" : 4,
+"0" :  "(55,(55,57), queue)",
+"1" :  "(55,(55,60), queue)",
+"2" :  "(55,60, queue)",
+"3" :  "(55,57, queue)"}]
+}

@@ -1,0 +1,20 @@
+{
+"Class" : "weka.core.pmml.jaxbbindings.Segment", 
+"Methods" : [{ "Name" : "getExtension" ,
+"Duas" : 8,
+"0" :  "(146,(146,147), this)",
+"1" :  "(146,(146,149), this)",
+"2" :  "(146,149, this)",
+"3" :  "(146,147, this)",
+"4" :  "(146,(146,147), this.extension)",
+"5" :  "(146,(146,149), this.extension)",
+"6" :  "(146,149, this.extension)",
+"7" :  "(147,149, this.extension)"},{ "Name" : "getWeight" ,
+"Duas" : 6,
+"0" :  "(689,(689,690), this)",
+"1" :  "(689,(689,692), this)",
+"2" :  "(689,692, this)",
+"3" :  "(689,(689,690), this.weight)",
+"4" :  "(689,(689,692), this.weight)",
+"5" :  "(689,692, this.weight)"}]
+}

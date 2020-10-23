@@ -1,0 +1,9 @@
+{
+"Class" : "com.google.javascript.jscomp.ExtractPrototypeMemberDeclarations$PrototypeMemberDeclaration", 
+"Methods" : [{ "Name" : "extractDeclaration" ,
+"Duas" : 4,
+"0" :  "(359,(359,360), n)",
+"1" :  "(359,(359,362), n)",
+"2" :  "(359,362, n)",
+"3" :  "(359,363, n)"}]
+}

@@ -1,0 +1,18 @@
+{
+"Class" : "com.fasterxml.jackson.databind.deser.impl.NullProvider", 
+"Methods" : [{ "Name" : "nullValue" ,
+"Duas" : 13,
+"0" :  "(33,(33,33), this)",
+"1" :  "(33,(33,37), this)",
+"2" :  "(33,37, this)",
+"3" :  "(33,34, this)",
+"4" :  "(33,(33,34), ctxt)",
+"5" :  "(33,(33,37), ctxt)",
+"6" :  "(33,34, ctxt)",
+"7" :  "(33,(33,33), this._isPrimitive)",
+"8" :  "(33,(33,37), this._isPrimitive)",
+"9" :  "(33,(33,34), FAIL_ON_NULL_FOR_PRIMITIVES)",
+"10" :  "(33,(33,37), FAIL_ON_NULL_FOR_PRIMITIVES)",
+"11" :  "(33,34, this._rawType)",
+"12" :  "(33,37, this._nullValue)"}]
+}

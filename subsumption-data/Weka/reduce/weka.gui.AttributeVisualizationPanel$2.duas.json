@@ -1,0 +1,19 @@
+{
+"Class" : "weka.gui.AttributeVisualizationPanel$2", 
+"Methods" : [{ "Name" : "itemStateChanged" ,
+"Duas" : 14,
+"0" :  "(225,226, this)",
+"1" :  "(225,(227,228), this)",
+"2" :  "(225,(227,231), this)",
+"3" :  "(225,228, this)",
+"4" :  "(225,(225,226), ie)",
+"5" :  "(225,(225,231), ie)",
+"6" :  "(225,226, this.this$0)",
+"7" :  "(225,(227,228), this.this$0)",
+"8" :  "(225,(227,231), this.this$0)",
+"9" :  "(225,228, this.this$0)",
+"10" :  "(225,226, this.m_colorAttrib)",
+"11" :  "(225,(227,228), this.m_as)",
+"12" :  "(225,(227,231), this.m_as)",
+"13" :  "(225,228, this.m_attribIndex)"}]
+}

@@ -1,0 +1,23 @@
+{
+"Class" : "javax.xml.bind.util.ValidationEventCollector", 
+"Methods" : [{ "Name" : "hasEvents" ,
+"Duas" : 4,
+"0" :  "(66,(66,66), this)",
+"1" :  "(66,(66,66), this)",
+"2" :  "(66,(66,66), this.events)",
+"3" :  "(66,(66,66), this.events)"},{ "Name" : "handleEvent" ,
+"Duas" : 9,
+"0" :  "(70,(73,84), event)",
+"1" :  "(70,(73,75), event)",
+"2" :  "(70,(73,78), event)",
+"3" :  "(70,(73,81), event)",
+"4" :  "(70,84, event)",
+"5" :  "(72,90, retVal)",
+"6" :  "(75,90, retVal)",
+"7" :  "(78,90, retVal)",
+"8" :  "(81,90, retVal)"},{ "Name" : "_assert" ,
+"Duas" : 3,
+"0" :  "(94,(94,95), b)",
+"1" :  "(94,(94,97), b)",
+"2" :  "(94,95, msg)"}]
+}

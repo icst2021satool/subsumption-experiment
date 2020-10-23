@@ -1,0 +1,10 @@
+{
+"Class" : "org.mockito.internal.util.collections.Iterables", 
+"Methods" : [{ "Name" : "toIterable" ,
+"Duas" : 5,
+"0" :  "(16,(17,18), in)",
+"1" :  "(16,(17,20), in)",
+"2" :  "(16,18, in)",
+"3" :  "(16,20, out)",
+"4" :  "(16,18, out)"}]
+}

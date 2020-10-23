@@ -1,0 +1,15 @@
+{
+"Class" : "weka.gui.knowledgeflow.steps.SendToPerspectiveStepEditorDialog", 
+"Methods" : [{ "Name" : "setStepToEdit" ,
+"Duas" : 10,
+"0" :  "(56,70, this)",
+"1" :  "(56,71, this)",
+"2" :  "(56,76, this)",
+"3" :  "(56,78, this)",
+"4" :  "(56,79, this)",
+"5" :  "(56,63, this)",
+"6" :  "(56,78, step)",
+"7" :  "(56,71, this.m_perspectivesCombo)",
+"8" :  "(56,76, this.m_perspectivesCombo)",
+"9" :  "(56,63, this.m_perspectivesCombo)"}]
+}

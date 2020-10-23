@@ -1,0 +1,17 @@
+{
+"Class" : "com.google.javascript.jscomp.FunctionNames$FunctionExpressionNamer", 
+"Methods" : [{ "Name" : "setFunctionName" ,
+"Duas" : 12,
+"0" :  "(164,167, name)",
+"1" :  "(164,(165,165), $assertionsDisabled)",
+"2" :  "(164,(165,166), $assertionsDisabled)",
+"3" :  "(164,(166,166), $assertionsDisabled)",
+"4" :  "(164,(166,167), $assertionsDisabled)",
+"5" :  "(164,167, record)",
+"6" :  "(164,(166,166), record)",
+"7" :  "(164,(166,167), record)",
+"8" :  "(164,(165,165), record)",
+"9" :  "(164,(165,166), record)",
+"10" :  "(164,(166,166), record.name)",
+"11" :  "(164,(166,167), record.name)"}]
+}

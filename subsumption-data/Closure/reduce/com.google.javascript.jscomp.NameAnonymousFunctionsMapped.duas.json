@@ -1,0 +1,18 @@
+{
+"Class" : "com.google.javascript.jscomp.NameAnonymousFunctionsMapped", 
+"Methods" : [{ "Name" : "<init>" ,
+"Duas" : 6,
+"0" :  "(60,66, this)",
+"1" :  "(60,67, this)",
+"2" :  "(60,68, this)",
+"3" :  "(60,(62,62), previousMap)",
+"4" :  "(60,(62,62), previousMap)",
+"5" :  "(60,67, previousMap)"},{ "Name" : "process" ,
+"Duas" : 6,
+"0" :  "(73,(78,79), this)",
+"1" :  "(73,(78,81), this)",
+"2" :  "(73,79, this)",
+"3" :  "(73,79, this.compiler)",
+"4" :  "(73,(78,79), this.namedCount)",
+"5" :  "(73,(78,81), this.namedCount)"}]
+}

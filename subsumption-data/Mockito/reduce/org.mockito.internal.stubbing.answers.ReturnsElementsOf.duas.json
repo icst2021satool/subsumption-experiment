@@ -1,0 +1,18 @@
+{
+"Class" : "org.mockito.internal.stubbing.answers.ReturnsElementsOf", 
+"Methods" : [{ "Name" : "<init>" ,
+"Duas" : 4,
+"0" :  "(36,41, this)",
+"1" :  "(36,(37,38), elements)",
+"2" :  "(36,(37,41), elements)",
+"3" :  "(36,41, elements)"},{ "Name" : "answer" ,
+"Duas" : 8,
+"0" :  "(45,(45,46), this)",
+"1" :  "(45,(45,48), this)",
+"2" :  "(45,48, this)",
+"3" :  "(45,46, this)",
+"4" :  "(45,(45,46), this.elements)",
+"5" :  "(45,(45,48), this.elements)",
+"6" :  "(45,48, this.elements)",
+"7" :  "(45,46, this.elements)"}]
+}

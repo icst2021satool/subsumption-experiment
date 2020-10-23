@@ -1,0 +1,14 @@
+{
+"Class" : "org.mockito.internal.util.reflection.LenientCopyTool", 
+"Methods" : [{ "Name" : "copy" ,
+"Duas" : "7" ,
+"Subsumers" : 0 
+},{ "Name" : "copyValues" ,
+"Duas" : "20" ,
+"Subsumers" : 4,
+"0" : [ 13, 14, 15, 12, 3, 2, 1, 0], "S0" : [0, 1, 2, 3, 4, 5, 6, 7, 9, 10, 12, 13, 14, 15, 17 ],
+"1" : [ 11], "S1" : [4, 5, 6, 7, 9, 10, 11, 17 ],
+"2" : [ 19, 18, 16], "S2" : [4, 5, 6, 7, 9, 10, 16, 17, 18, 19 ],
+"3" : [ 8], "S3" : [5, 8 ]
+}]
+}

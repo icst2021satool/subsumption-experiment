@@ -1,0 +1,9 @@
+{
+"Class" : "org.apache.commons.collections4.multimap.AbstractMultiValuedMap$Values", 
+"Methods" : [{ "Name" : "iterator" ,
+"Duas" : 4,
+"0" :  "(878,880, this)",
+"1" :  "(878,880, this.this$0)",
+"2" :  "(878,882, chain)",
+"3" :  "(878,880, chain)"}]
+}

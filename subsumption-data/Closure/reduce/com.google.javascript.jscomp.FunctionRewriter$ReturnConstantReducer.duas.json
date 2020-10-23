@@ -1,0 +1,22 @@
+{
+"Class" : "com.google.javascript.jscomp.FunctionRewriter$ReturnConstantReducer", 
+"Methods" : [{ "Name" : "reduce" ,
+"Duas" : 11,
+"0" :  "(364,368, this)",
+"1" :  "(364,370, this)",
+"2" :  "(364,(364,365), node)",
+"3" :  "(364,(364,368), node)",
+"4" :  "(364,368, node)",
+"5" :  "(364,372, node)",
+"6" :  "(364,370, node)",
+"7" :  "(364,365, node)",
+"8" :  "(368,(369,370), valueNode)",
+"9" :  "(368,(369,372), valueNode)",
+"10" :  "(368,370, valueNode)"},{ "Name" : "getValueNode" ,
+"Duas" : 5,
+"0" :  "(384,(385,385), value)",
+"1" :  "(384,(385,389), value)",
+"2" :  "(384,(385,387), value)",
+"3" :  "(384,(385,389), value)",
+"4" :  "(384,387, value)"}]
+}

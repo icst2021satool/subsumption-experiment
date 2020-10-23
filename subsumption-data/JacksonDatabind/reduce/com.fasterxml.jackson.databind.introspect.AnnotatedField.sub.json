@@ -1,0 +1,14 @@
+{
+"Class" : "com.fasterxml.jackson.databind.introspect.AnnotatedField", 
+"Methods" : [{ "Name" : "getAnnotation" ,
+"Duas" : "7" ,
+"Subsumers" : 2,
+"0" : [ 4, 0], "S0" : [0, 2, 3, 4, 6 ],
+"1" : [ 5, 1], "S1" : [1, 2, 3, 5, 6 ]
+},{ "Name" : "readResolve" ,
+"Duas" : "4" ,
+"Subsumers" : 2,
+"0" : [ 3, 0], "S0" : [0, 2, 3 ],
+"1" : [ 1], "S1" : [1, 2 ]
+}]
+}

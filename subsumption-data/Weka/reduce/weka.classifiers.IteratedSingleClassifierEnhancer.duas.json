@@ -1,0 +1,20 @@
+{
+"Class" : "weka.classifiers.IteratedSingleClassifierEnhancer", 
+"Methods" : [{ "Name" : "buildClassifier" ,
+"Duas" : 7,
+"0" :  "(67,(67,68), this)",
+"1" :  "(67,(67,70), this)",
+"2" :  "(67,70, this)",
+"3" :  "(67,(67,68), this.m_Classifier)",
+"4" :  "(67,(67,70), this.m_Classifier)",
+"5" :  "(67,70, this.m_Classifier)",
+"6" :  "(67,70, this.m_NumIterations)"},{ "Name" : "setOptions" ,
+"Duas" : 7,
+"0" :  "(108,112, this)",
+"1" :  "(108,115, this)",
+"2" :  "(108,110, this)",
+"3" :  "(108,115, options)",
+"4" :  "(108,(109,110), iterations)",
+"5" :  "(108,(109,112), iterations)",
+"6" :  "(108,110, iterations)"}]
+}

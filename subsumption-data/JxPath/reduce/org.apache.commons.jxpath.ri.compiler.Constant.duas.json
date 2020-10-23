@@ -1,0 +1,21 @@
+{
+"Class" : "org.apache.commons.jxpath.ri.compiler.Constant", 
+"Methods" : [{ "Name" : "toString" ,
+"Duas" : 16,
+"0" :  "(65,(65,66), this)",
+"1" :  "(65,(65,76), this)",
+"2" :  "(65,76, this)",
+"3" :  "(65,66, this)",
+"4" :  "(65,67, this)",
+"5" :  "(65,(65,66), this.value)",
+"6" :  "(65,(65,76), this.value)",
+"7" :  "(65,76, this.value)",
+"8" :  "(65,66, this.value)",
+"9" :  "(65,67, this.value)",
+"10" :  "(66,(68,69), doubleValue)",
+"11" :  "(66,(68,72), doubleValue)",
+"12" :  "(66,72, doubleValue)",
+"13" :  "(67,(68,69), longValue)",
+"14" :  "(67,(68,72), longValue)",
+"15" :  "(67,69, longValue)"}]
+}

@@ -1,0 +1,11 @@
+{
+"Class" : "weka.gui.knowledgeflow.BaseInteractiveViewer$2", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Duas" : 6,
+"0" :  "(101,(101,105), this)",
+"1" :  "(101,(101,109), this)",
+"2" :  "(101,105, this)",
+"3" :  "(101,(101,105), this.this$0)",
+"4" :  "(101,(101,109), this.this$0)",
+"5" :  "(101,105, this.this$0)"}]
+}

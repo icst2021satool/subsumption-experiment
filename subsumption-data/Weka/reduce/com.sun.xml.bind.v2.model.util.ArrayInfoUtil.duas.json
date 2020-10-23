@@ -1,0 +1,11 @@
+{
+"Class" : "com.sun.xml.bind.v2.model.util.ArrayInfoUtil", 
+"Methods" : [{ "Name" : "calcArrayTypeName" ,
+"Duas" : 6,
+"0" :  "(32,(32,33), n)",
+"1" :  "(32,(32,36), n)",
+"2" :  "(32,36, n)",
+"3" :  "(32,37, n)",
+"4" :  "(34,37, uri)",
+"5" :  "(36,37, uri)"}]
+}

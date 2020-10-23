@@ -1,0 +1,14 @@
+{
+"Class" : "com.google.gson.DefaultTypeAdapters$DefaultTimeTypeAdapter", 
+"Methods" : [{ "Name" : "deserialize" ,
+"Duas" : 9,
+"0" :  "(345,349, this)",
+"1" :  "(345,349, this)",
+"2" :  "(345,350, this)",
+"3" :  "(345,(345,346), json)",
+"4" :  "(345,(345,349), json)",
+"5" :  "(345,350, json)",
+"6" :  "(345,349, this.format)",
+"7" :  "(345,349, this.format)",
+"8" :  "(345,350, this.format)"}]
+}

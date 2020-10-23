@@ -1,0 +1,20 @@
+{
+"Class" : "org.jfree.chart.plot.junit.IntervalMarkerTests", 
+"Methods" : [{ "Name" : "suite" ,
+"Duas" : 4,
+"0" :  "(85,(85,85), class$org$jfree$chart$plot$junit$IntervalMarkerTests)",
+"1" :  "(85,(85,85), class$org$jfree$chart$plot$junit$IntervalMarkerTests)",
+"2" :  "(85,85, class$org$jfree$chart$plot$junit$IntervalMarkerTests)",
+"3" :  "(85,85, class$org$jfree$chart$plot$junit$IntervalMarkerTests)"},{ "Name" : "testCloning" ,
+"Duas" : 10,
+"0" :  "(130,(138,138), m1)",
+"1" :  "(130,(138,138), m1)",
+"2" :  "(130,(139,139), m1)",
+"3" :  "(130,(139,139), m1)",
+"4" :  "(130,140, m1)",
+"5" :  "(133,(138,138), m2)",
+"6" :  "(133,(138,138), m2)",
+"7" :  "(133,(139,139), m2)",
+"8" :  "(133,(139,139), m2)",
+"9" :  "(133,140, m2)"}]
+}

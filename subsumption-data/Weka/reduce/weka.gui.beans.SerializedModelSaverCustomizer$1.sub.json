@@ -1,0 +1,11 @@
+{
+"Class" : "weka.gui.beans.SerializedModelSaverCustomizer$1", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Duas" : "14" ,
+"Subsumers" : 4,
+"0" : [ 10, 8, 2, 0], "S0" : [0, 2, 8, 10 ],
+"1" : [ 9, 1], "S1" : [1, 9 ],
+"2" : [ 11, 12, 13, 6, 3, 4, 5], "S2" : [3, 4, 5, 6, 11, 12, 13 ],
+"3" : [ 7], "S3" : [7 ]
+}]
+}

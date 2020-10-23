@@ -1,0 +1,16 @@
+{
+"Class" : "org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream$Data", 
+"Methods" : [{ "Name" : "initTT" ,
+"Duas" : 11,
+"0" :  "(959,966, this)",
+"1" :  "(959,966, length)",
+"2" :  "(959,966, length)",
+"3" :  "(959,(965,966), length)",
+"4" :  "(959,(965,969), length)",
+"5" :  "(959,(965,965), ttShadow)",
+"6" :  "(959,(965,966), ttShadow)",
+"7" :  "(959,(965,966), ttShadow)",
+"8" :  "(959,(965,969), ttShadow)",
+"9" :  "(959,969, ttShadow)",
+"10" :  "(966,969, ttShadow)"}]
+}

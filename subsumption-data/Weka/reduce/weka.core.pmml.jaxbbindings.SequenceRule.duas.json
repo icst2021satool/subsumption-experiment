@@ -1,0 +1,13 @@
+{
+"Class" : "weka.core.pmml.jaxbbindings.SequenceRule", 
+"Methods" : [{ "Name" : "getContent" ,
+"Duas" : 8,
+"0" :  "(120,(120,121), this)",
+"1" :  "(120,(120,123), this)",
+"2" :  "(120,123, this)",
+"3" :  "(120,121, this)",
+"4" :  "(120,(120,121), this.content)",
+"5" :  "(120,(120,123), this.content)",
+"6" :  "(120,123, this.content)",
+"7" :  "(121,123, this.content)"}]
+}

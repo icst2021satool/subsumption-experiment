@@ -1,0 +1,20 @@
+{
+"Class" : "org.apache.commons.collections4.bidimap.AbstractDualBidiMap$KeySet", 
+"Methods" : [{ "Name" : "remove" ,
+"Duas" : 15,
+"0" :  "(434,(434,435), this)",
+"1" :  "(434,(434,439), this)",
+"2" :  "(434,435, this)",
+"3" :  "(434,436, this)",
+"4" :  "(434,(434,435), key)",
+"5" :  "(434,(434,439), key)",
+"6" :  "(434,435, key)",
+"7" :  "(434,(434,435), this.parent)",
+"8" :  "(434,(434,439), this.parent)",
+"9" :  "(434,435, this.parent)",
+"10" :  "(434,436, this.parent)",
+"11" :  "(434,(434,435), this.normalMap)",
+"12" :  "(434,(434,439), this.normalMap)",
+"13" :  "(434,435, this.normalMap)",
+"14" :  "(434,436, this.reverseMap)"}]
+}

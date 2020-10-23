@@ -1,0 +1,20 @@
+{
+"Class" : "org.jfree.chart.renderer.category.junit.StatisticalBarRendererTests", 
+"Methods" : [{ "Name" : "suite" ,
+"Duas" : 4,
+"0" :  "(79,(79,79), class$org$jfree$chart$renderer$category$junit$StatisticalBarRendererTests)",
+"1" :  "(79,(79,79), class$org$jfree$chart$renderer$category$junit$StatisticalBarRendererTests)",
+"2" :  "(79,79, class$org$jfree$chart$renderer$category$junit$StatisticalBarRendererTests)",
+"3" :  "(79,79, class$org$jfree$chart$renderer$category$junit$StatisticalBarRendererTests)"},{ "Name" : "testCloning" ,
+"Duas" : 10,
+"0" :  "(126,(134,134), r1)",
+"1" :  "(126,(134,134), r1)",
+"2" :  "(126,(135,135), r1)",
+"3" :  "(126,(135,135), r1)",
+"4" :  "(126,136, r1)",
+"5" :  "(129,(134,134), r2)",
+"6" :  "(129,(134,134), r2)",
+"7" :  "(129,(135,135), r2)",
+"8" :  "(129,(135,135), r2)",
+"9" :  "(129,136, r2)"}]
+}

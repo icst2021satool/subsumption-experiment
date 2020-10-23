@@ -1,0 +1,15 @@
+{
+"Class" : "com.google.javascript.jscomp.DefinitionsRemover$VarDefinition", 
+"Methods" : [{ "Name" : "performRemove" ,
+"Duas" : 10,
+"0" :  "(382,386, this)",
+"1" :  "(382,386, this.name)",
+"2" :  "(382,(383,383), var)",
+"3" :  "(382,(383,383), var)",
+"4" :  "(382,385, var)",
+"5" :  "(382,388, var)",
+"6" :  "(385,(387,387), parent)",
+"7" :  "(385,(387,387), parent)",
+"8" :  "(385,388, parent)",
+"9" :  "(386,388, rValue)"}]
+}

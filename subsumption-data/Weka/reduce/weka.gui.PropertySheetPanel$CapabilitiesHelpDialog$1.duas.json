@@ -1,0 +1,14 @@
+{
+"Class" : "weka.gui.PropertySheetPanel$CapabilitiesHelpDialog$1", 
+"Methods" : [{ "Name" : "windowClosing" ,
+"Duas" : 9,
+"0" :  "(138,(139,140), this)",
+"1" :  "(138,(139,142), this)",
+"2" :  "(138,140, this)",
+"3" :  "(138,(139,140), this.this$1)",
+"4" :  "(138,(139,142), this.this$1)",
+"5" :  "(138,140, this.this$1)",
+"6" :  "(138,(139,140), this.this$0)",
+"7" :  "(138,(139,142), this.this$0)",
+"8" :  "(138,140, this.this$0)"}]
+}

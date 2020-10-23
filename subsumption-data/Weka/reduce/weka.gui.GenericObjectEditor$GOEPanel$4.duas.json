@@ -1,0 +1,15 @@
+{
+"Class" : "weka.gui.GenericObjectEditor$GOEPanel$4", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Duas" : 10,
+"0" :  "(797,(800,800), this)",
+"1" :  "(797,(800,805), this)",
+"2" :  "(797,(801,802), this)",
+"3" :  "(797,(801,805), this)",
+"4" :  "(797,802, this)",
+"5" :  "(797,(800,800), this.this$1)",
+"6" :  "(797,(800,805), this.this$1)",
+"7" :  "(797,(801,802), this.this$1)",
+"8" :  "(797,(801,805), this.this$1)",
+"9" :  "(797,802, this.this$1)"}]
+}

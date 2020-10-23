@@ -1,0 +1,14 @@
+{
+"Class" : "org.apache.commons.math3.optimization.linear.Relationship", 
+"Methods" : [{ "Name" : "oppositeRelationship" ,
+"Duas" : 9,
+"0" :  "(58,(58,64), this)",
+"1" :  "(58,(58,60), this)",
+"2" :  "(58,(58,62), this)",
+"3" :  "(58,(58,64), $SwitchMap$org$apache$commons$math3$optimization$linear$Relationship)",
+"4" :  "(58,(58,60), $SwitchMap$org$apache$commons$math3$optimization$linear$Relationship)",
+"5" :  "(58,(58,62), $SwitchMap$org$apache$commons$math3$optimization$linear$Relationship)",
+"6" :  "(58,60, GEQ)",
+"7" :  "(58,62, LEQ)",
+"8" :  "(58,64, EQ)"}]
+}

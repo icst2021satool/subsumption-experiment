@@ -1,0 +1,12 @@
+{
+"Class" : "weka.core.packageManagement.Package", 
+"Methods" : [{ "Name" : "getPackageMetaDataElement" ,
+"Duas" : 7,
+"0" :  "(212,(212,213), this)",
+"1" :  "(212,(212,216), this)",
+"2" :  "(212,216, this)",
+"3" :  "(212,216, key)",
+"4" :  "(212,(212,213), this.m_packageMetaData)",
+"5" :  "(212,(212,216), this.m_packageMetaData)",
+"6" :  "(212,216, this.m_packageMetaData)"}]
+}

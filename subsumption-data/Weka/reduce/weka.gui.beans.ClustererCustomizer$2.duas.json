@@ -1,0 +1,19 @@
+{
+"Class" : "weka.gui.beans.ClustererCustomizer$2", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Duas" : 14,
+"0" :  "(94,(94,95), this)",
+"1" :  "(94,(94,98), this)",
+"2" :  "(94,(98,99), this)",
+"3" :  "(94,(98,102), this)",
+"4" :  "(94,102, this)",
+"5" :  "(94,99, this)",
+"6" :  "(94,95, this)",
+"7" :  "(94,(94,95), this.this$0)",
+"8" :  "(94,(94,98), this.this$0)",
+"9" :  "(94,(98,99), this.this$0)",
+"10" :  "(94,(98,102), this.this$0)",
+"11" :  "(94,102, this.this$0)",
+"12" :  "(94,99, this.this$0)",
+"13" :  "(94,95, this.this$0)"}]
+}

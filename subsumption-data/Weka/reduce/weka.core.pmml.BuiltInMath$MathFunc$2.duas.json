@@ -1,0 +1,7 @@
+{
+"Class" : "weka.core.pmml.BuiltInMath$MathFunc$2", 
+"Methods" : [{ "Name" : "legalNumParams" ,
+"Duas" : 2,
+"0" :  "(65,(65,65), num)",
+"1" :  "(65,(65,65), num)"}]
+}

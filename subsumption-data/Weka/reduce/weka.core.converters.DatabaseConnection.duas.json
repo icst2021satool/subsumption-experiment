@@ -1,0 +1,14 @@
+{
+"Class" : "weka.core.converters.DatabaseConnection", 
+"Methods" : [{ "Name" : "getMetaData" ,
+"Duas" : 4,
+"0" :  "(102,(102,103), this)",
+"1" :  "(102,(102,105), this)",
+"2" :  "(102,105, this)",
+"3" :  "(102,105, this.m_Connection)"},{ "Name" : "getUpdateCount" ,
+"Duas" : 4,
+"0" :  "(115,(115,116), this)",
+"1" :  "(115,(115,118), this)",
+"2" :  "(115,118, this)",
+"3" :  "(115,118, this.m_PreparedStatement)"}]
+}

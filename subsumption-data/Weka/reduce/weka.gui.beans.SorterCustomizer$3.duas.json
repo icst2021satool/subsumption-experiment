@@ -1,0 +1,23 @@
+{
+"Class" : "weka.gui.beans.SorterCustomizer$3", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Duas" : 18,
+"0" :  "(213,215, this)",
+"1" :  "(213,(217,218), this)",
+"2" :  "(213,(217,222), this)",
+"3" :  "(213,218, this)",
+"4" :  "(213,219, this)",
+"5" :  "(213,215, this.this$0)",
+"6" :  "(213,(217,218), this.this$0)",
+"7" :  "(213,(217,222), this.this$0)",
+"8" :  "(213,218, this.this$0)",
+"9" :  "(213,219, this.this$0)",
+"10" :  "(213,215, this.m_listModel)",
+"11" :  "(213,(217,218), this.m_listModel)",
+"12" :  "(213,(217,222), this.m_listModel)",
+"13" :  "(213,218, this.m_upBut)",
+"14" :  "(213,219, this.m_downBut)",
+"15" :  "(213,(214,215), selected)",
+"16" :  "(213,(214,222), selected)",
+"17" :  "(213,215, selected)"}]
+}

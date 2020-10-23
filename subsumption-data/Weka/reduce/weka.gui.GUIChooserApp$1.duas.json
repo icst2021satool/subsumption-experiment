@@ -1,0 +1,18 @@
+{
+"Class" : "weka.gui.GUIChooserApp$1", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Duas" : 13,
+"0" :  "(319,(319,320), this)",
+"1" :  "(319,(319,324), this)",
+"2" :  "(319,322, this)",
+"3" :  "(319,(319,320), this.this$0)",
+"4" :  "(319,(319,324), this.this$0)",
+"5" :  "(319,322, this.this$0)",
+"6" :  "(319,(319,320), this.m_Self)",
+"7" :  "(319,(319,324), this.m_Self)",
+"8" :  "(319,322, this.m_Self)",
+"9" :  "(319,324, m_LogWindow)",
+"10" :  "(319,320, m_LogWindow)",
+"11" :  "(319,321, m_LogWindow)",
+"12" :  "(319,322, m_LogWindow)"}]
+}

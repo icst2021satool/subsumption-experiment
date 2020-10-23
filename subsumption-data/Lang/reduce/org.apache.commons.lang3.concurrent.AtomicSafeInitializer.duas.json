@@ -1,0 +1,16 @@
+{
+"Class" : "org.apache.commons.lang3.concurrent.AtomicSafeInitializer", 
+"Methods" : [{ "Name" : "get" ,
+"Duas" : 11,
+"0" :  "(76,(76,77), this)",
+"1" :  "(76,(76,82), this)",
+"2" :  "(76,(77,78), this)",
+"3" :  "(76,(77,76), this)",
+"4" :  "(76,78, this)",
+"5" :  "(76,(76,77), this.reference)",
+"6" :  "(76,(76,82), this.reference)",
+"7" :  "(76,78, this.reference)",
+"8" :  "(76,(77,78), this.factory)",
+"9" :  "(76,(77,76), this.factory)",
+"10" :  "(76,82, result)"}]
+}

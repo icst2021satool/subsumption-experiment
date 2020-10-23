@@ -1,0 +1,9 @@
+{
+"Class" : "weka.gui.knowledgeflow.steps.SubstringReplacerStepEditorDialog$9", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Duas" : "9" ,
+"Subsumers" : 2,
+"0" : [ 8, 6, 5, 4, 2, 3, 0, 1], "S0" : [0, 1, 2, 3, 4, 5, 6, 8 ],
+"1" : [ 7], "S1" : [7 ]
+}]
+}

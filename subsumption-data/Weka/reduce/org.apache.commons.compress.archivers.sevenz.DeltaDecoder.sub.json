@@ -1,0 +1,10 @@
+{
+"Class" : "org.apache.commons.compress.archivers.sevenz.DeltaDecoder", 
+"Methods" : [{ "Name" : "getOptionsFromCoder" ,
+"Duas" : "10" ,
+"Subsumers" : 3,
+"0" : [ 7, 2], "S0" : [0, 2, 5, 7 ],
+"1" : [ 9, 8, 4, 3], "S1" : [0, 3, 4, 5, 8, 9 ],
+"2" : [ 6, 1], "S2" : [1, 6 ]
+}]
+}

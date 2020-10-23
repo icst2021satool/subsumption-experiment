@@ -1,0 +1,20 @@
+{
+"Class" : "com.google.javascript.jscomp.ShowByPathWarningsGuard", 
+"Methods" : [{ "Name" : "<init>" ,
+"Duas" : 15,
+"0" :  "(56,63, this)",
+"1" :  "(56,61, this)",
+"2" :  "(56,(57,57), paths)",
+"3" :  "(56,(57,57), paths)",
+"4" :  "(56,59, paths)",
+"5" :  "(56,(58,58), showType)",
+"6" :  "(56,(58,58), showType)",
+"7" :  "(56,(60,61), showType)",
+"8" :  "(56,(60,63), showType)",
+"9" :  "(56,(60,61), INCLUDE)",
+"10" :  "(56,(60,63), INCLUDE)",
+"11" :  "(56,63, OFF)",
+"12" :  "(56,61, OFF)",
+"13" :  "(59,63, pathList)",
+"14" :  "(59,61, pathList)"}]
+}

@@ -1,0 +1,9 @@
+{
+"Class" : "com.google.javascript.rhino.jstype.UnknownType", 
+"Methods" : [{ "Name" : "getReferenceName" ,
+"Duas" : 4,
+"0" :  "(139,(139,139), this)",
+"1" :  "(139,(139,139), this)",
+"2" :  "(139,(139,139), this.isChecked)",
+"3" :  "(139,(139,139), this.isChecked)"}]
+}

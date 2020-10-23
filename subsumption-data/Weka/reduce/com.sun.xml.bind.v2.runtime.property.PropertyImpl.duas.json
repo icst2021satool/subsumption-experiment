@@ -1,0 +1,11 @@
+{
+"Class" : "com.sun.xml.bind.v2.runtime.property.PropertyImpl", 
+"Methods" : [{ "Name" : "<init>" ,
+"Duas" : 6,
+"0" :  "(36,39, this)",
+"1" :  "(36,(38,39), context)",
+"2" :  "(36,(38,41), context)",
+"3" :  "(36,39, prop)",
+"4" :  "(36,(38,39), context.retainPropertyInfo)",
+"5" :  "(36,(38,41), context.retainPropertyInfo)"}]
+}

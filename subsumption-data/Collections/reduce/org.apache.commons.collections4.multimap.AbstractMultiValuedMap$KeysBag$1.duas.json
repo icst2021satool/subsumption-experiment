@@ -1,0 +1,15 @@
+{
+"Class" : "org.apache.commons.collections4.multimap.AbstractMultiValuedMap$KeysBag$1", 
+"Methods" : [{ "Name" : "nextIterator" ,
+"Duas" : 10,
+"0" :  "(741,(741,742), this)",
+"1" :  "(741,(741,744), this)",
+"2" :  "(741,744, this)",
+"3" :  "(741,745, this)",
+"4" :  "(741,746, this)",
+"5" :  "(741,(741,742), this.keyIterator)",
+"6" :  "(741,(741,744), this.keyIterator)",
+"7" :  "(741,744, this.keyIterator)",
+"8" :  "(741,745, this.this$1)",
+"9" :  "(741,745, this.this$0)"}]
+}

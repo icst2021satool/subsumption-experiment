@@ -1,0 +1,10 @@
+{
+"Class" : "com.google.javascript.jscomp.DefinitionsRemover$Definition", 
+"Methods" : [{ "Name" : "remove" ,
+"Duas" : 5,
+"0" :  "(111,(111,112), this)",
+"1" :  "(111,(111,114), this)",
+"2" :  "(111,112, this)",
+"3" :  "(111,(111,112), this.isExtern)",
+"4" :  "(111,(111,114), this.isExtern)"}]
+}

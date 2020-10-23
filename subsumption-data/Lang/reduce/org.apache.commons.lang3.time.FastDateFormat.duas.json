@@ -1,0 +1,10 @@
+{
+"Class" : "org.apache.commons.lang3.time.FastDateFormat", 
+"Methods" : [{ "Name" : "equals" ,
+"Duas" : 5,
+"0" :  "(548,553, this)",
+"1" :  "(548,(548,549), obj)",
+"2" :  "(548,(548,551), obj)",
+"3" :  "(548,551, obj)",
+"4" :  "(548,553, this.printer)"}]
+}

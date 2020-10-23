@@ -1,0 +1,12 @@
+{
+"Class" : "com.google.javascript.jscomp.LinkedFlowScope$FlowScopeJoinOp", 
+"Methods" : [{ "Name" : "apply" ,
+"Duas" : 7,
+"0" :  "(247,(251,252), linkedA)",
+"1" :  "(247,(251,254), linkedA)",
+"2" :  "(247,254, linkedA)",
+"3" :  "(247,252, linkedA)",
+"4" :  "(248,(251,252), linkedB)",
+"5" :  "(248,(251,254), linkedB)",
+"6" :  "(248,254, linkedB)"}]
+}

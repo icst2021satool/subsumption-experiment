@@ -1,0 +1,23 @@
+{
+"Class" : "weka.gui.beans.JoinCustomizer$6", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Duas" : 18,
+"0" :  "(279,(284,285), this)",
+"1" :  "(279,(284,288), this)",
+"2" :  "(279,285, this)",
+"3" :  "(279,286, this)",
+"4" :  "(279,281, this)",
+"5" :  "(279,(284,285), this.this$0)",
+"6" :  "(279,(284,288), this.this$0)",
+"7" :  "(279,285, this.this$0)",
+"8" :  "(279,286, this.this$0)",
+"9" :  "(279,281, this.this$0)",
+"10" :  "(279,(284,285), this.m_secondListModel)",
+"11" :  "(279,(284,288), this.m_secondListModel)",
+"12" :  "(279,281, this.m_secondListModel)",
+"13" :  "(279,285, this.m_upTwoBut)",
+"14" :  "(279,286, this.m_downTwoBut)",
+"15" :  "(279,(280,281), selected)",
+"16" :  "(279,(280,284), selected)",
+"17" :  "(279,281, selected)"}]
+}

@@ -1,0 +1,20 @@
+{
+"Class" : "weka.gui.GenericObjectEditor$JTreePopupMenu$2", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Duas" : 15,
+"0" :  "(630,(630,631), this)",
+"1" :  "(630,(630,635), this)",
+"2" :  "(630,631, this)",
+"3" :  "(630,632, this)",
+"4" :  "(630,633, this)",
+"5" :  "(630,(630,631), e)",
+"6" :  "(630,(630,635), e)",
+"7" :  "(630,(630,631), this.this$1)",
+"8" :  "(630,(630,635), this.this$1)",
+"9" :  "(630,631, this.this$1)",
+"10" :  "(630,632, this.this$1)",
+"11" :  "(630,633, this.this$1)",
+"12" :  "(630,631, this.this$0)",
+"13" :  "(630,632, this.this$0)",
+"14" :  "(630,632, this.m_Support)"}]
+}

@@ -1,0 +1,14 @@
+{
+"Class" : "org.jfree.chart.axis.junit.CategoryAnchorTests", 
+"Methods" : [{ "Name" : "suite" ,
+"Duas" : 4,
+"0" :  "(68,(68,68), class$org$jfree$chart$axis$junit$CategoryAnchorTests)",
+"1" :  "(68,(68,68), class$org$jfree$chart$axis$junit$CategoryAnchorTests)",
+"2" :  "(68,68, class$org$jfree$chart$axis$junit$CategoryAnchorTests)",
+"3" :  "(68,68, class$org$jfree$chart$axis$junit$CategoryAnchorTests)"},{ "Name" : "testSerialization" ,
+"Duas" : 4,
+"0" :  "(107,(125,125), a1)",
+"1" :  "(107,(125,125), a1)",
+"2" :  "(118,(125,125), a2)",
+"3" :  "(118,(125,125), a2)"}]
+}

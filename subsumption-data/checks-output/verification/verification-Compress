@@ -1,0 +1,712 @@
+org.apache.commons.compress.archivers.ar.ArArchiveInputStream org.apache.commons.compress.archivers.zip.ExtraFieldUtils org.apache.commons.compress.archivers.tar.TarArchiveOutputStream org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream org.apache.commons.compress.archivers.zip.FallbackZipEncoding org.apache.commons.compress.compressors.CompressorStreamFactory org.apache.commons.compress.archivers.tar.TarBuffer org.apache.commons.compress.changes.Change org.apache.commons.compress.archivers.tar.TarArchiveInputStream org.apache.commons.compress.archivers.jar.JarArchiveOutputStream org.apache.commons.compress.archivers.cpio.CpioArchiveInputStream org.apache.commons.compress.archivers.zip.ZipUtil org.apache.commons.compress.archivers.tar.TarArchiveEntry org.apache.commons.compress.archivers.tar.TarUtils org.apache.commons.compress.archivers.zip.ZipEncodingHelper$SimpleEncodingHolder org.apache.commons.compress.archivers.zip.ZipFile org.apache.commons.compress.archivers.cpio.CpioArchiveOutputStream org.apache.commons.compress.archivers.ar.ArArchiveOutputStream org.apache.commons.compress.archivers.zip.UnrecognizedExtraField org.apache.commons.compress.archivers.zip.AsiExtraField org.apache.commons.compress.archivers.zip.ZipArchiveInputStream org.apache.commons.compress.archivers.zip.ZipEncodingHelper org.apache.commons.compress.archivers.zip.NioZipEncoding org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream org.apache.commons.compress.archivers.zip.ZipArchiveEntry org.apache.commons.compress.changes.ChangeSet org.apache.commons.compress.archivers.zip.AbstractUnicodeExtraField org.apache.commons.compress.archivers.cpio.CpioArchiveEntry org.apache.commons.compress.archivers.zip.ZipLong org.apache.commons.compress.archivers.ArchiveStreamFactory org.apache.commons.compress.archivers.zip.Simple8BitZipEncoding org.apache.commons.compress.archivers.zip.JarMarker org.apache.commons.compress.archivers.zip.ZipShort
+org.apache.commons.compress.archivers.ar.ArArchiveInputStream
+Directory of jaguar data: ../jaguar-data/commons-compress/1b
+Directory of subsumption data: ../subsumption-data/Compress
+Analyzing class org.apache.commons.compress.archivers.ar.ArArchiveInputStream 
+../jaguar-data/commons-compress/1b/jaguar/.jaguar/matrix
+org.apache.commons.compress.archivers.ar.ArArchiveInputStream.matrix
+../subsumption-data/Compress/reduce/org.apache.commons.compress.archivers.ar.ArArchiveInputStream.sub.json
+>>>>> org.apache.commons.compress.archivers.ar.ArArchiveInputStream <<<<<
+0:getNextArEntry:64
+1:matches:18
+Total :1: tests for class:org.apache.commons.compress.archivers.ar.ArArchiveInputStream:
+Methods executed: 1
+org.apache.commons.compress.archivers.zip.ExtraFieldUtils
+Directory of jaguar data: ../jaguar-data/commons-compress/1b
+Directory of subsumption data: ../subsumption-data/Compress
+Analyzing class org.apache.commons.compress.archivers.zip.ExtraFieldUtils 
+../jaguar-data/commons-compress/1b/jaguar/.jaguar/matrix
+org.apache.commons.compress.archivers.zip.ExtraFieldUtils.matrix
+../subsumption-data/Compress/reduce/org.apache.commons.compress.archivers.zip.ExtraFieldUtils.sub.json
+>>>>> org.apache.commons.compress.archivers.zip.ExtraFieldUtils <<<<<
+0:createExtraField:4
+1:parse:42
+2:mergeLocalFileDataData:44
+3:mergeCentralDirectoryData:44
+No unconstrained duas covered in testcase 0 of mergeLocalFileDataData: [1 1 1 1 1 1 1 1 0 1 1 0 1 1 1 0 0 1 0 0 1 1 1 1 1 1 1 1 1 0 1 1 1 1 0 0 0
+ 0 0 1 0 0 0 0]: [0 0 0 0 0 0 0 0 1 0 0 1 0 0 0 1 1 0 1 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 1 1
+ 1 1 0 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0]
+[1 1 0 1 0 0 0 1 0 1 1 0 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1
+ 1 1 0 1 1 1 1]
+[0 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0]
+[0 1 0 1 0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0]
+[0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 4 of mergeLocalFileDataData: [1 1 1 1 1 1 1 1 0 1 1 0 1 1 1 0 0 1 0 0 1 1 1 1 1 1 1 1 1 0 1 1 1 1 0 0 0
+ 0 0 1 0 0 0 0]: [0 0 0 0 0 0 0 0 1 0 0 1 0 0 0 1 1 0 1 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 1 1
+ 1 1 0 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0]
+[1 1 0 1 0 0 0 1 0 1 1 0 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1
+ 1 1 0 1 1 1 1]
+[0 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0]
+[0 1 0 1 0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0]
+[0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 4 of mergeCentralDirectoryData: [1 1 1 1 1 1 1 1 0 1 1 0 1 1 1 0 0 1 0 0 1 1 1 1 1 1 1 1 1 0 1 1 1 1 0 0 0
+ 0 0 1 0 0 0 0]: [0 0 0 0 0 0 0 0 1 0 0 1 0 0 0 1 1 0 1 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 1 1
+ 1 1 0 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0]
+[1 1 0 1 0 0 0 1 0 1 1 0 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1
+ 1 1 0 1 1 1 1]
+[0 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0]
+[0 1 0 1 0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0]
+[0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 5 of mergeLocalFileDataData: [1 1 1 1 1 1 1 1 0 1 1 0 1 1 1 0 0 1 0 0 1 1 1 1 1 1 1 1 1 0 1 1 1 1 0 0 0
+ 0 0 1 0 0 0 0]: [0 0 0 0 0 0 0 0 1 0 0 1 0 0 0 1 1 0 1 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 1 1
+ 1 1 0 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0]
+[1 1 0 1 0 0 0 1 0 1 1 0 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1
+ 1 1 0 1 1 1 1]
+[0 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0]
+[0 1 0 1 0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0]
+[0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 5 of mergeCentralDirectoryData: [1 1 1 1 1 1 1 1 0 1 1 0 1 1 1 0 0 1 0 0 1 1 1 1 1 1 1 1 1 0 1 1 1 1 0 0 0
+ 0 0 1 0 0 0 0]: [0 0 0 0 0 0 0 0 1 0 0 1 0 0 0 1 1 0 1 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 1 1
+ 1 1 0 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0]
+[1 1 0 1 0 0 0 1 0 1 1 0 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1
+ 1 1 0 1 1 1 1]
+[0 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0]
+[0 1 0 1 0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0]
+[0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 9 of mergeLocalFileDataData: [1 1 1 1 1 1 1 1 0 1 1 0 1 1 1 0 0 1 0 0 1 1 1 1 1 1 1 1 1 0 1 1 1 1 0 0 0
+ 0 0 1 0 0 0 0]: [0 0 0 0 0 0 0 0 1 0 0 1 0 0 0 1 1 0 1 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 1 1
+ 1 1 0 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0]
+[1 1 0 1 0 0 0 1 0 1 1 0 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1
+ 1 1 0 1 1 1 1]
+[0 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0]
+[0 1 0 1 0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0]
+[0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 9 of mergeCentralDirectoryData: [1 1 1 1 1 1 1 1 0 1 1 0 1 1 1 0 0 1 0 0 1 1 1 1 1 1 1 1 1 0 1 1 1 1 0 0 0
+ 0 0 1 0 0 0 0]: [0 0 0 0 0 0 0 0 1 0 0 1 0 0 0 1 1 0 1 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 1 1
+ 1 1 0 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0]
+[1 1 0 1 0 0 0 1 0 1 1 0 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1
+ 1 1 0 1 1 1 1]
+[0 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0]
+[0 1 0 1 0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0]
+[0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 14 of mergeLocalFileDataData: [1 1 1 1 1 1 1 1 0 1 1 0 1 1 1 0 0 1 0 0 1 1 1 1 1 1 1 1 1 0 1 1 1 1 0 0 0
+ 0 0 1 0 0 0 0]: [0 0 0 0 0 0 0 0 1 0 0 1 0 0 0 1 1 0 1 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 1 1
+ 1 1 0 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0]
+[1 1 0 1 0 0 0 1 0 1 1 0 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1
+ 1 1 0 1 1 1 1]
+[0 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0]
+[0 1 0 1 0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0]
+[0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 14 of mergeCentralDirectoryData: [1 1 1 1 1 1 1 1 0 1 1 0 1 1 1 0 0 1 0 0 1 1 1 1 1 1 1 1 1 0 1 1 1 1 0 0 0
+ 0 0 1 0 0 0 0]: [0 0 0 0 0 0 0 0 1 0 0 1 0 0 0 1 1 0 1 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 1 1
+ 1 1 0 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0]
+[1 1 0 1 0 0 0 1 0 1 1 0 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1
+ 1 1 0 1 1 1 1]
+[0 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0]
+[0 1 0 1 0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0]
+[0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0]
+Total :24: tests for class:org.apache.commons.compress.archivers.zip.ExtraFieldUtils:
+Methods executed: 4
+Unconstrained method :mergeLocalFileDataData:1:5
+Unconstrained method :mergeCentralDirectoryData:1:4
+org.apache.commons.compress.archivers.tar.TarArchiveOutputStream
+Directory of jaguar data: ../jaguar-data/commons-compress/1b
+Directory of subsumption data: ../subsumption-data/Compress
+Analyzing class org.apache.commons.compress.archivers.tar.TarArchiveOutputStream 
+../jaguar-data/commons-compress/1b/jaguar/.jaguar/matrix
+org.apache.commons.compress.archivers.tar.TarArchiveOutputStream.matrix
+../subsumption-data/Compress/reduce/org.apache.commons.compress.archivers.tar.TarArchiveOutputStream.sub.json
+>>>>> org.apache.commons.compress.archivers.tar.TarArchiveOutputStream <<<<<
+0:close:10
+1:putNextEntry:31
+2:closeEntry:40
+3:write:119
+4:writeEOFRecord:17
+Total :3: tests for class:org.apache.commons.compress.archivers.tar.TarArchiveOutputStream:
+Methods executed: 5
+org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream
+Directory of jaguar data: ../jaguar-data/commons-compress/1b
+Directory of subsumption data: ../subsumption-data/Compress
+Analyzing class org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream 
+../jaguar-data/commons-compress/1b/jaguar/.jaguar/matrix
+org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream.matrix
+../subsumption-data/Compress/reduce/org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream.sub.json
+>>>>> org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream <<<<<
+0:isSeekable:4
+1:setUseLanguageEncodingFlag:7
+2:finish:12
+3:closeEntry:88
+4:putNextEntry:45
+5:setLevel:14
+6:write:58
+7:close:12
+8:flush:6
+9:deflate:5
+10:writeLocalFileHeader:109
+11:writeDataDescriptor:16
+12:writeCentralFileHeader:74
+13:writeOut:14
+14:deflateUntilInputIsNeeded:5
+15:writeVersionNeededToExtractAndGeneralPurposeBits:19
+Total :18: tests for class:org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream:
+Methods executed: 12
+org.apache.commons.compress.archivers.zip.FallbackZipEncoding
+Directory of jaguar data: ../jaguar-data/commons-compress/1b
+Directory of subsumption data: ../subsumption-data/Compress
+Analyzing class org.apache.commons.compress.archivers.zip.FallbackZipEncoding 
+../jaguar-data/commons-compress/1b/jaguar/.jaguar/matrix
+org.apache.commons.compress.archivers.zip.FallbackZipEncoding.matrix
+../subsumption-data/Compress/reduce/org.apache.commons.compress.archivers.zip.FallbackZipEncoding.sub.json
+>>>>> org.apache.commons.compress.archivers.zip.FallbackZipEncoding <<<<<
+0:encode:8
+1:decode:8
+Total :16: tests for class:org.apache.commons.compress.archivers.zip.FallbackZipEncoding:
+Methods executed: 2
+org.apache.commons.compress.compressors.CompressorStreamFactory
+Directory of jaguar data: ../jaguar-data/commons-compress/1b
+Directory of subsumption data: ../subsumption-data/Compress
+Analyzing class org.apache.commons.compress.compressors.CompressorStreamFactory 
+../jaguar-data/commons-compress/1b/jaguar/.jaguar/matrix
+org.apache.commons.compress.compressors.CompressorStreamFactory.matrix
+../subsumption-data/Compress/reduce/org.apache.commons.compress.compressors.CompressorStreamFactory.sub.json
+>>>>> org.apache.commons.compress.compressors.CompressorStreamFactory <<<<<
+0:createCompressorInputStream:11
+1:createCompressorOutputStream:11
+Total :2: tests for class:org.apache.commons.compress.compressors.CompressorStreamFactory:
+Methods executed: 1
+org.apache.commons.compress.archivers.tar.TarBuffer
+Directory of jaguar data: ../jaguar-data/commons-compress/1b
+Directory of subsumption data: ../subsumption-data/Compress
+Analyzing class org.apache.commons.compress.archivers.tar.TarBuffer 
+../jaguar-data/commons-compress/1b/jaguar/.jaguar/matrix
+org.apache.commons.compress.archivers.tar.TarBuffer.matrix
+../subsumption-data/Compress/reduce/org.apache.commons.compress.archivers.tar.TarBuffer.sub.json
+>>>>> org.apache.commons.compress.archivers.tar.TarBuffer <<<<<
+0:initialize:9
+1:isEOFRecord:14
+2:skipRecord:22
+3:readRecord:28
+4:readBlock:59
+5:writeRecord:35
+6:writeRecord:39
+7:writeBlock:20
+8:flushBlock:14
+9:close:38
+Total :4: tests for class:org.apache.commons.compress.archivers.tar.TarBuffer:
+Methods executed: 8
+org.apache.commons.compress.changes.Change
+Directory of jaguar data: ../jaguar-data/commons-compress/1b
+Directory of subsumption data: ../subsumption-data/Compress
+Analyzing class org.apache.commons.compress.changes.Change 
+../jaguar-data/commons-compress/1b/jaguar/.jaguar/matrix
+org.apache.commons.compress.changes.Change.matrix
+../subsumption-data/Compress/reduce/org.apache.commons.compress.changes.Change.sub.json
+>>>>> org.apache.commons.compress.changes.Change <<<<<
+0:<init>:7
+1:<init>:10
+Total :5: tests for class:org.apache.commons.compress.changes.Change:
+Methods executed: 1
+org.apache.commons.compress.archivers.tar.TarArchiveInputStream
+Directory of jaguar data: ../jaguar-data/commons-compress/1b
+Directory of subsumption data: ../subsumption-data/Compress
+Analyzing class org.apache.commons.compress.archivers.tar.TarArchiveInputStream 
+../jaguar-data/commons-compress/1b/jaguar/.jaguar/matrix
+org.apache.commons.compress.archivers.tar.TarArchiveInputStream.matrix
+../subsumption-data/Compress/reduce/org.apache.commons.compress.archivers.tar.TarArchiveInputStream.sub.json
+>>>>> org.apache.commons.compress.archivers.tar.TarArchiveInputStream <<<<<
+0:available:9
+1:skip:22
+2:getNextTarEntry:117
+3:read:4
+4:read:127
+5:copyEntryContents:7
+6:matches:18
+Total :2: tests for class:org.apache.commons.compress.archivers.tar.TarArchiveInputStream:
+Methods executed: 4
+org.apache.commons.compress.archivers.jar.JarArchiveOutputStream
+Directory of jaguar data: ../jaguar-data/commons-compress/1b
+Directory of subsumption data: ../subsumption-data/Compress
+Analyzing class org.apache.commons.compress.archivers.jar.JarArchiveOutputStream 
+../jaguar-data/commons-compress/1b/jaguar/.jaguar/matrix
+org.apache.commons.compress.archivers.jar.JarArchiveOutputStream.matrix
+../subsumption-data/Compress/reduce/org.apache.commons.compress.archivers.jar.JarArchiveOutputStream.sub.json
+>>>>> org.apache.commons.compress.archivers.jar.JarArchiveOutputStream <<<<<
+0:putNextEntry:8
+Total :2: tests for class:org.apache.commons.compress.archivers.jar.JarArchiveOutputStream:
+Methods executed: 1
+org.apache.commons.compress.archivers.cpio.CpioArchiveInputStream
+Directory of jaguar data: ../jaguar-data/commons-compress/1b
+Directory of subsumption data: ../subsumption-data/Compress
+Analyzing class org.apache.commons.compress.archivers.cpio.CpioArchiveInputStream 
+../jaguar-data/commons-compress/1b/jaguar/.jaguar/matrix
+org.apache.commons.compress.archivers.cpio.CpioArchiveInputStream.matrix
+../subsumption-data/Compress/reduce/org.apache.commons.compress.archivers.cpio.CpioArchiveInputStream.sub.json
+>>>>> org.apache.commons.compress.archivers.cpio.CpioArchiveInputStream <<<<<
+0:available:4
+1:close:6
+2:closeEntry:5
+3:ensureOpen:4
+4:getNextCPIOEntry:47
+5:pad:8
+6:read:6
+7:read:82
+8:readFully:22
+9:readNewEntry:47
+10:skip:33
+11:matches:12
+Total :1: tests for class:org.apache.commons.compress.archivers.cpio.CpioArchiveInputStream:
+Methods executed: 1
+org.apache.commons.compress.archivers.zip.ZipUtil
+Directory of jaguar data: ../jaguar-data/commons-compress/1b
+Directory of subsumption data: ../subsumption-data/Compress
+Analyzing class org.apache.commons.compress.archivers.zip.ZipUtil 
+../jaguar-data/commons-compress/1b/jaguar/.jaguar/matrix
+org.apache.commons.compress.archivers.zip.ZipUtil.matrix
+../subsumption-data/Compress/reduce/org.apache.commons.compress.archivers.zip.ZipUtil.sub.json
+>>>>> org.apache.commons.compress.archivers.zip.ZipUtil <<<<<
+0:toDosTime:6
+1:adjustToLong:4
+Total :20: tests for class:org.apache.commons.compress.archivers.zip.ZipUtil:
+Methods executed: 2
+org.apache.commons.compress.archivers.tar.TarArchiveEntry
+Directory of jaguar data: ../jaguar-data/commons-compress/1b
+Directory of subsumption data: ../subsumption-data/Compress
+Analyzing class org.apache.commons.compress.archivers.tar.TarArchiveEntry 
+../jaguar-data/commons-compress/1b/jaguar/.jaguar/matrix
+org.apache.commons.compress.archivers.tar.TarArchiveEntry.matrix
+../subsumption-data/Compress/reduce/org.apache.commons.compress.archivers.tar.TarArchiveEntry.sub.json
+>>>>> org.apache.commons.compress.archivers.tar.TarArchiveEntry <<<<<
+0:<init>:10
+1:<init>:15
+2:<init>:25
+3:equals:8
+4:isGNULongNameEntry:8
+5:isDirectory:12
+6:getDirectoryEntries:27
+7:writeEntryHeader:44
+8:normalizeFileName:38
+Total :5: tests for class:org.apache.commons.compress.archivers.tar.TarArchiveEntry:
+Methods executed: 5
+org.apache.commons.compress.archivers.tar.TarUtils
+Directory of jaguar data: ../jaguar-data/commons-compress/1b
+Directory of subsumption data: ../subsumption-data/Compress
+Analyzing class org.apache.commons.compress.archivers.tar.TarUtils 
+../jaguar-data/commons-compress/1b/jaguar/.jaguar/matrix
+org.apache.commons.compress.archivers.tar.TarUtils.matrix
+../subsumption-data/Compress/reduce/org.apache.commons.compress.archivers.tar.TarUtils.sub.json
+>>>>> org.apache.commons.compress.archivers.tar.TarUtils <<<<<
+0:parseOctal:43
+1:parseName:19
+2:getNameBytes:37
+3:getOctalBytes:45
+4:computeCheckSum:15
+Total :3: tests for class:org.apache.commons.compress.archivers.tar.TarUtils:
+Methods executed: 5
+org.apache.commons.compress.archivers.zip.ZipEncodingHelper$SimpleEncodingHolder
+Directory of jaguar data: ../jaguar-data/commons-compress/1b
+Directory of subsumption data: ../subsumption-data/Compress
+Analyzing class org.apache.commons.compress.archivers.zip.ZipEncodingHelper$SimpleEncodingHolder 
+../jaguar-data/commons-compress/1b/jaguar/.jaguar/matrix
+org.apache.commons.compress.archivers.zip.ZipEncodingHelper$SimpleEncodingHolder.matrix
+../subsumption-data/Compress/reduce/org.apache.commons.compress.archivers.zip.ZipEncodingHelper$SimpleEncodingHolder.sub.json
+>>>>> org.apache.commons.compress.archivers.zip.ZipEncodingHelper$SimpleEncodingHolder <<<<<
+0:getEncoding:10
+Total :6: tests for class:org.apache.commons.compress.archivers.zip.ZipEncodingHelper$SimpleEncodingHolder:
+Methods executed: 1
+org.apache.commons.compress.archivers.zip.ZipFile
+Directory of jaguar data: ../jaguar-data/commons-compress/1b
+Directory of subsumption data: ../subsumption-data/Compress
+Analyzing class org.apache.commons.compress.archivers.zip.ZipFile 
+../jaguar-data/commons-compress/1b/jaguar/.jaguar/matrix
+org.apache.commons.compress.archivers.zip.ZipFile.matrix
+../subsumption-data/Compress/reduce/org.apache.commons.compress.archivers.zip.ZipFile.sub.json
+>>>>> org.apache.commons.compress.archivers.zip.ZipFile <<<<<
+0:<init>:4
+1:closeQuietly:3
+2:getInputStream:12
+3:populateFromCentralDirectory:73
+4:positionAtCentralDirectory:60
+5:resolveLocalFileHeaderData:39
+6:startsWithLocalFileHeader:16
+7:setNameAndCommentFromExtraFields:27
+8:getUnicodeStringIfOriginalMatches:9
+Total :13: tests for class:org.apache.commons.compress.archivers.zip.ZipFile:
+Methods executed: 7
+org.apache.commons.compress.archivers.cpio.CpioArchiveOutputStream
+Directory of jaguar data: ../jaguar-data/commons-compress/1b
+Directory of subsumption data: ../subsumption-data/Compress
+Analyzing class org.apache.commons.compress.archivers.cpio.CpioArchiveOutputStream 
+../jaguar-data/commons-compress/1b/jaguar/.jaguar/matrix
+org.apache.commons.compress.archivers.cpio.CpioArchiveOutputStream.matrix
+../subsumption-data/Compress/reduce/org.apache.commons.compress.archivers.cpio.CpioArchiveOutputStream.sub.json
+>>>>> org.apache.commons.compress.archivers.cpio.CpioArchiveOutputStream <<<<<
+0:ensureOpen:4
+1:setFormat:6
+2:putNextEntry:25
+3:writeHeader:20
+4:closeArchiveEntry:34
+5:write:50
+6:finish:17
+7:close:6
+8:pad:6
+9:writeAsciiLong:32
+Total :2: tests for class:org.apache.commons.compress.archivers.cpio.CpioArchiveOutputStream:
+Methods executed: 6
+org.apache.commons.compress.archivers.ar.ArArchiveOutputStream
+Directory of jaguar data: ../jaguar-data/commons-compress/1b
+Directory of subsumption data: ../subsumption-data/Compress
+Analyzing class org.apache.commons.compress.archivers.ar.ArArchiveOutputStream 
+../jaguar-data/commons-compress/1b/jaguar/.jaguar/matrix
+org.apache.commons.compress.archivers.ar.ArArchiveOutputStream.matrix
+../subsumption-data/Compress/reduce/org.apache.commons.compress.archivers.ar.ArArchiveOutputStream.sub.json
+>>>>> org.apache.commons.compress.archivers.ar.ArArchiveOutputStream <<<<<
+0:closeArchiveEntry:8
+1:putArchiveEntry:23
+2:fill:13
+3:writeEntryHeader:42
+Total :2: tests for class:org.apache.commons.compress.archivers.ar.ArArchiveOutputStream:
+Methods executed: 3
+org.apache.commons.compress.archivers.zip.UnrecognizedExtraField
+Directory of jaguar data: ../jaguar-data/commons-compress/1b
+Directory of subsumption data: ../subsumption-data/Compress
+Analyzing class org.apache.commons.compress.archivers.zip.UnrecognizedExtraField 
+../jaguar-data/commons-compress/1b/jaguar/.jaguar/matrix
+org.apache.commons.compress.archivers.zip.UnrecognizedExtraField.matrix
+../subsumption-data/Compress/reduce/org.apache.commons.compress.archivers.zip.UnrecognizedExtraField.sub.json
+>>>>> org.apache.commons.compress.archivers.zip.UnrecognizedExtraField <<<<<
+0:getCentralDirectoryLength:7
+1:getCentralDirectoryData:7
+2:parseFromCentralDirectoryData:6
+3:copy:4
+Total :6: tests for class:org.apache.commons.compress.archivers.zip.UnrecognizedExtraField:
+Methods executed: 4
+org.apache.commons.compress.archivers.zip.AsiExtraField
+Directory of jaguar data: ../jaguar-data/commons-compress/1b
+Directory of subsumption data: ../subsumption-data/Compress
+Analyzing class org.apache.commons.compress.archivers.zip.AsiExtraField 
+../jaguar-data/commons-compress/1b/jaguar/.jaguar/matrix
+org.apache.commons.compress.archivers.zip.AsiExtraField.matrix
+../subsumption-data/Compress/reduce/org.apache.commons.compress.archivers.zip.AsiExtraField.sub.json
+>>>>> org.apache.commons.compress.archivers.zip.AsiExtraField <<<<<
+0:isLink:2
+1:isDirectory:6
+2:parseFromLocalFileData:24
+3:getMode:8
+Total :9: tests for class:org.apache.commons.compress.archivers.zip.AsiExtraField:
+Methods executed: 4
+org.apache.commons.compress.archivers.zip.ZipArchiveInputStream
+Directory of jaguar data: ../jaguar-data/commons-compress/1b
+Directory of subsumption data: ../subsumption-data/Compress
+Analyzing class org.apache.commons.compress.archivers.zip.ZipArchiveInputStream 
+../jaguar-data/commons-compress/1b/jaguar/.jaguar/matrix
+org.apache.commons.compress.archivers.zip.ZipArchiveInputStream.matrix
+../subsumption-data/Compress/reduce/org.apache.commons.compress.archivers.zip.ZipArchiveInputStream.sub.json
+>>>>> org.apache.commons.compress.archivers.zip.ZipArchiveInputStream <<<<<
+0:getNextZipEntry:3
+1:matches:20
+Total :1: tests for class:org.apache.commons.compress.archivers.zip.ZipArchiveInputStream:
+Methods executed: 1
+org.apache.commons.compress.archivers.zip.ZipEncodingHelper
+Directory of jaguar data: ../jaguar-data/commons-compress/1b
+Directory of subsumption data: ../subsumption-data/Compress
+Analyzing class org.apache.commons.compress.archivers.zip.ZipEncodingHelper 
+../jaguar-data/commons-compress/1b/jaguar/.jaguar/matrix
+org.apache.commons.compress.archivers.zip.ZipEncodingHelper.matrix
+../subsumption-data/Compress/reduce/org.apache.commons.compress.archivers.zip.ZipEncodingHelper.sub.json
+>>>>> org.apache.commons.compress.archivers.zip.ZipEncodingHelper <<<<<
+0:growBuffer:6
+1:getZipEncoding:11
+2:isUTF8:10
+Total :24: tests for class:org.apache.commons.compress.archivers.zip.ZipEncodingHelper:
+Methods executed: 3
+org.apache.commons.compress.archivers.zip.NioZipEncoding
+Directory of jaguar data: ../jaguar-data/commons-compress/1b
+Directory of subsumption data: ../subsumption-data/Compress
+Analyzing class org.apache.commons.compress.archivers.zip.NioZipEncoding 
+../jaguar-data/commons-compress/1b/jaguar/.jaguar/matrix
+org.apache.commons.compress.archivers.zip.NioZipEncoding.matrix
+../subsumption-data/Compress/reduce/org.apache.commons.compress.archivers.zip.NioZipEncoding.sub.json
+>>>>> org.apache.commons.compress.archivers.zip.NioZipEncoding <<<<<
+0:encode:55
+Total :4: tests for class:org.apache.commons.compress.archivers.zip.NioZipEncoding:
+Methods executed: 1
+org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream
+Directory of jaguar data: ../jaguar-data/commons-compress/1b
+Directory of subsumption data: ../subsumption-data/Compress
+Analyzing class org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream 
+../jaguar-data/commons-compress/1b/jaguar/.jaguar/matrix
+org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream.matrix
+../subsumption-data/Compress/reduce/org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream.sub.json
+>>>>> org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream <<<<<
+0:makeMaps:29
+1:hbMakeCodeLengths:253
+2:<init>:13
+3:write:27
+4:writeRun:84
+5:close:9
+6:finish:12
+7:initBlock:12
+8:endBlock:22
+9:hbAssignCodes:38
+10:bsFinishedWithStream:14
+11:bsW:22
+12:sendMTFValues:841
+13:simpleSort:168
+14:vswap:24
+15:med3:29
+16:qSort3:311
+17:mainSort:370
+18:randomiseBlock:51
+19:doReversibleTransformation:44
+20:fullGtU:233
+21:allocateCompressStructures:16
+22:generateMTFValues:185
+Total :1: tests for class:org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream:
+Methods executed: 3
+org.apache.commons.compress.archivers.zip.ZipArchiveEntry
+Directory of jaguar data: ../jaguar-data/commons-compress/1b
+Directory of subsumption data: ../subsumption-data/Compress
+Analyzing class org.apache.commons.compress.archivers.zip.ZipArchiveEntry 
+../jaguar-data/commons-compress/1b/jaguar/.jaguar/matrix
+org.apache.commons.compress.archivers.zip.ZipArchiveEntry.matrix
+../subsumption-data/Compress/reduce/org.apache.commons.compress.archivers.zip.ZipArchiveEntry.sub.json
+>>>>> org.apache.commons.compress.archivers.zip.ZipArchiveEntry <<<<<
+0:<init>:5
+1:clone:14
+2:setUnixMode:7
+3:getUnixMode:5
+4:setExtraFields:14
+5:getExtraFields:8
+6:addExtraField:10
+7:addAsFirstExtraField:8
+8:removeExtraField:11
+9:getExtraField:7
+10:getLocalFileDataExtra:3
+11:getName:6
+12:mergeExtraFields:35
+No unconstrained duas covered in testcase 3 of setExtraFields: [1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[1 0 0 1 0 0 0 1 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 4 of setExtraFields: [1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[1 0 0 1 0 0 0 1 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 8 of setExtraFields: [1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[1 0 0 1 0 0 0 1 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 13 of setExtraFields: [1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[1 0 0 1 0 0 0 1 0 0 0 0 0 0]
+Total :24: tests for class:org.apache.commons.compress.archivers.zip.ZipArchiveEntry:
+Methods executed: 10
+Unconstrained method :setExtraFields:1:4
+org.apache.commons.compress.changes.ChangeSet
+Directory of jaguar data: ../jaguar-data/commons-compress/1b
+Directory of subsumption data: ../subsumption-data/Compress
+Analyzing class org.apache.commons.compress.changes.ChangeSet 
+../jaguar-data/commons-compress/1b/jaguar/.jaguar/matrix
+org.apache.commons.compress.changes.ChangeSet.matrix
+../subsumption-data/Compress/reduce/org.apache.commons.compress.changes.ChangeSet.sub.json
+>>>>> org.apache.commons.compress.changes.ChangeSet <<<<<
+0:perform:39
+1:addDeletion:32
+2:isDeletedLater:18
+Total :5: tests for class:org.apache.commons.compress.changes.ChangeSet:
+Methods executed: 1
+org.apache.commons.compress.archivers.zip.AbstractUnicodeExtraField
+Directory of jaguar data: ../jaguar-data/commons-compress/1b
+Directory of subsumption data: ../subsumption-data/Compress
+Analyzing class org.apache.commons.compress.archivers.zip.AbstractUnicodeExtraField 
+../jaguar-data/commons-compress/1b/jaguar/.jaguar/matrix
+org.apache.commons.compress.archivers.zip.AbstractUnicodeExtraField.matrix
+../subsumption-data/Compress/reduce/org.apache.commons.compress.archivers.zip.AbstractUnicodeExtraField.sub.json
+>>>>> org.apache.commons.compress.archivers.zip.AbstractUnicodeExtraField <<<<<
+0:assembleData:11
+1:getCentralDirectoryData:7
+2:getCentralDirectoryLength:7
+3:parseFromLocalFileData:17
+Total :8: tests for class:org.apache.commons.compress.archivers.zip.AbstractUnicodeExtraField:
+Methods executed: 4
+org.apache.commons.compress.archivers.cpio.CpioArchiveEntry
+Directory of jaguar data: ../jaguar-data/commons-compress/1b
+Directory of subsumption data: ../subsumption-data/Compress
+Analyzing class org.apache.commons.compress.archivers.cpio.CpioArchiveEntry 
+../jaguar-data/commons-compress/1b/jaguar/.jaguar/matrix
+org.apache.commons.compress.archivers.cpio.CpioArchiveEntry.matrix
+../subsumption-data/Compress/reduce/org.apache.commons.compress.archivers.cpio.CpioArchiveEntry.sub.json
+>>>>> org.apache.commons.compress.archivers.cpio.CpioArchiveEntry <<<<<
+0:checkNewFormat:4
+1:checkOldFormat:4
+2:isBlockDevice:4
+3:isCharacterDevice:4
+4:isDirectory:4
+5:isNetwork:4
+6:isPipe:4
+7:isRegularFile:4
+8:isSocket:4
+9:isSymbolicLink:4
+10:setSize:7
+11:setFormat:13
+12:setMode:5
+Total :2: tests for class:org.apache.commons.compress.archivers.cpio.CpioArchiveEntry:
+Methods executed: 3
+org.apache.commons.compress.archivers.zip.ZipLong
+Directory of jaguar data: ../jaguar-data/commons-compress/1b
+Directory of subsumption data: ../subsumption-data/Compress
+Analyzing class org.apache.commons.compress.archivers.zip.ZipLong 
+../jaguar-data/commons-compress/1b/jaguar/.jaguar/matrix
+org.apache.commons.compress.archivers.zip.ZipLong.matrix
+../subsumption-data/Compress/reduce/org.apache.commons.compress.archivers.zip.ZipLong.sub.json
+>>>>> org.apache.commons.compress.archivers.zip.ZipLong <<<<<
+0:equals:10
+Total :2: tests for class:org.apache.commons.compress.archivers.zip.ZipLong:
+Methods executed: 1
+org.apache.commons.compress.archivers.ArchiveStreamFactory
+Directory of jaguar data: ../jaguar-data/commons-compress/1b
+Directory of subsumption data: ../subsumption-data/Compress
+Analyzing class org.apache.commons.compress.archivers.ArchiveStreamFactory 
+../jaguar-data/commons-compress/1b/jaguar/.jaguar/matrix
+org.apache.commons.compress.archivers.ArchiveStreamFactory.matrix
+../subsumption-data/Compress/reduce/org.apache.commons.compress.archivers.ArchiveStreamFactory.sub.json
+>>>>> org.apache.commons.compress.archivers.ArchiveStreamFactory <<<<<
+0:createArchiveInputStream:20
+1:createArchiveOutputStream:20
+2:createArchiveInputStream:32
+Total :15: tests for class:org.apache.commons.compress.archivers.ArchiveStreamFactory:
+Methods executed: 2
+org.apache.commons.compress.archivers.zip.Simple8BitZipEncoding
+Directory of jaguar data: ../jaguar-data/commons-compress/1b
+Directory of subsumption data: ../subsumption-data/Compress
+Analyzing class org.apache.commons.compress.archivers.zip.Simple8BitZipEncoding 
+../jaguar-data/commons-compress/1b/jaguar/.jaguar/matrix
+org.apache.commons.compress.archivers.zip.Simple8BitZipEncoding.matrix
+../subsumption-data/Compress/reduce/org.apache.commons.compress.archivers.zip.Simple8BitZipEncoding.sub.json
+>>>>> org.apache.commons.compress.archivers.zip.Simple8BitZipEncoding <<<<<
+0:<init>:20
+1:decodeByte:6
+2:canEncodeChar:8
+3:pushEncodedChar:13
+4:encodeHighChar:48
+5:canEncode:15
+6:encode:34
+7:decode:14
+Total :5: tests for class:org.apache.commons.compress.archivers.zip.Simple8BitZipEncoding:
+Methods executed: 8
+org.apache.commons.compress.archivers.zip.JarMarker
+Directory of jaguar data: ../jaguar-data/commons-compress/1b
+Directory of subsumption data: ../subsumption-data/Compress
+Analyzing class org.apache.commons.compress.archivers.zip.JarMarker 
+../jaguar-data/commons-compress/1b/jaguar/.jaguar/matrix
+org.apache.commons.compress.archivers.zip.JarMarker.matrix
+../subsumption-data/Compress/reduce/org.apache.commons.compress.archivers.zip.JarMarker.sub.json
+>>>>> org.apache.commons.compress.archivers.zip.JarMarker <<<<<
+0:parseFromLocalFileData:2
+Total :1: tests for class:org.apache.commons.compress.archivers.zip.JarMarker:
+Methods executed: 1
+org.apache.commons.compress.archivers.zip.ZipShort
+Directory of jaguar data: ../jaguar-data/commons-compress/1b
+Directory of subsumption data: ../subsumption-data/Compress
+Analyzing class org.apache.commons.compress.archivers.zip.ZipShort 
+../jaguar-data/commons-compress/1b/jaguar/.jaguar/matrix
+org.apache.commons.compress.archivers.zip.ZipShort.matrix
+../subsumption-data/Compress/reduce/org.apache.commons.compress.archivers.zip.ZipShort.sub.json
+>>>>> org.apache.commons.compress.archivers.zip.ZipShort <<<<<
+0:equals:10
+Total :15: tests for class:org.apache.commons.compress.archivers.zip.ZipShort:
+Methods executed: 1

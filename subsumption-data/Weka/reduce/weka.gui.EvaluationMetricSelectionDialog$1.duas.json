@@ -1,0 +1,22 @@
+{
+"Class" : "weka.gui.EvaluationMetricSelectionDialog$1", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Duas" : 17,
+"0" :  "(150,156, this)",
+"1" :  "(150,153, this)",
+"2" :  "(150,156, this.this$0)",
+"3" :  "(150,153, this.this$0)",
+"4" :  "(150,153, this.m_selectedEvalMetrics)",
+"5" :  "(150,153, this.val$metricInstances)",
+"6" :  "(150,(152,153), selected)",
+"7" :  "(150,(152,156), selected)",
+"8" :  "(150,153, selected)",
+"9" :  "(152,(152,153), i)",
+"10" :  "(152,(152,156), i)",
+"11" :  "(152,153, i)",
+"12" :  "(152,152, i)",
+"13" :  "(152,(152,153), i)",
+"14" :  "(152,(152,156), i)",
+"15" :  "(152,153, i)",
+"16" :  "(152,152, i)"}]
+}

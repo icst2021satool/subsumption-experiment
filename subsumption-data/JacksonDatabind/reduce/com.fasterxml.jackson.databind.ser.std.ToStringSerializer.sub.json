@@ -1,0 +1,16 @@
+{
+"Class" : "com.fasterxml.jackson.databind.ser.std.ToStringSerializer", 
+"Methods" : [{ "Name" : "isEmpty" ,
+"Duas" : "7" ,
+"Subsumers" : 4,
+"0" : [ 0], "S0" : [0 ],
+"1" : [ 5], "S1" : [1, 2, 3, 5 ],
+"2" : [ 6], "S2" : [1, 2, 3, 6 ],
+"3" : [ 4], "S3" : [1, 2, 4 ]
+},{ "Name" : "acceptJsonFormatVisitor" ,
+"Duas" : "4" ,
+"Subsumers" : 2,
+"0" : [ 3, 2, 0], "S0" : [0, 2, 3 ],
+"1" : [ 1], "S1" : [1 ]
+}]
+}

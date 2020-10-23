@@ -1,0 +1,9 @@
+{
+"Class" : "weka.gui.GUIChooserApp$3", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Duas" : "4" ,
+"Subsumers" : 2,
+"0" : [ 2, 1, 0], "S0" : [0, 1, 2 ],
+"1" : [ 3], "S1" : [3 ]
+}]
+}

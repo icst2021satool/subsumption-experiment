@@ -1,0 +1,10 @@
+{
+"Class" : "org.apache.commons.compress.compressors.CompressorInputStream", 
+"Methods" : [{ "Name" : "count" ,
+"Duas" : 5,
+"0" :  "(45,46, this)",
+"1" :  "(45,(45,46), read)",
+"2" :  "(45,(45,48), read)",
+"3" :  "(45,46, read)",
+"4" :  "(45,46, this.bytesRead)"}]
+}

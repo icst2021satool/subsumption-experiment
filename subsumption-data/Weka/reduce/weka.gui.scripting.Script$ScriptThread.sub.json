@@ -1,0 +1,14 @@
+{
+"Class" : "weka.gui.scripting.Script$ScriptThread", 
+"Methods" : [{ "Name" : "run" ,
+"Duas" : "9" ,
+"Subsumers" : 2,
+"0" : [ 7, 6, 5, 3, 4, 0], "S0" : [0, 2, 3, 4, 5, 6, 7 ],
+"1" : [ 8, 1], "S1" : [1, 2, 8 ]
+},{ "Name" : "stopScript" ,
+"Duas" : "4" ,
+"Subsumers" : 2,
+"0" : [ 2, 3, 0], "S0" : [0, 2, 3 ],
+"1" : [ 1], "S1" : [1 ]
+}]
+}

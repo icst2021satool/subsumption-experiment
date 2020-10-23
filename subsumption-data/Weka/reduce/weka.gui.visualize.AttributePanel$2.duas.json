@@ -1,0 +1,15 @@
+{
+"Class" : "weka.gui.visualize.AttributePanel$2", 
+"Methods" : [{ "Name" : "attributeSelectionChange" ,
+"Duas" : 10,
+"0" :  "(630,(630,631), e)",
+"1" :  "(630,(630,633), e)",
+"2" :  "(630,633, e)",
+"3" :  "(630,631, e)",
+"4" :  "(630,(630,631), e.m_xChange)",
+"5" :  "(630,(630,633), e.m_xChange)",
+"6" :  "(630,633, err)",
+"7" :  "(630,631, err)",
+"8" :  "(630,633, e.m_indexVal)",
+"9" :  "(630,631, e.m_indexVal)"}]
+}

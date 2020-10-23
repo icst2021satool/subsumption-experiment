@@ -1,0 +1,122 @@
+org.apache.commons.csv.CSVLexer org.apache.commons.csv.CSVPrinter org.apache.commons.csv.CSVParser$1 org.apache.commons.csv.CSVRecord org.apache.commons.csv.CSVParser org.apache.commons.csv.CSVFormat org.apache.commons.csv.ExtendedBufferedReader org.apache.commons.csv.Lexer
+org.apache.commons.csv.CSVLexer
+Directory of jaguar data: ../jaguar-data/commons-csv/1b
+Directory of subsumption data: ../subsumption-data/Csv
+Analyzing class org.apache.commons.csv.CSVLexer 
+../jaguar-data/commons-csv/1b/jaguar/.jaguar/matrix
+org.apache.commons.csv.CSVLexer.matrix
+../subsumption-data/Csv/reduce/org.apache.commons.csv.CSVLexer.sub.json
+>>>>> org.apache.commons.csv.CSVLexer <<<<<
+0:nextToken:166
+1:simpleTokenLexer:40
+2:encapsulatedTokenLexer:59
+Total :31: tests for class:org.apache.commons.csv.CSVLexer:
+Methods executed: 2
+org.apache.commons.csv.CSVPrinter
+Directory of jaguar data: ../jaguar-data/commons-csv/1b
+Directory of subsumption data: ../subsumption-data/Csv
+Analyzing class org.apache.commons.csv.CSVPrinter 
+../jaguar-data/commons-csv/1b/jaguar/.jaguar/matrix
+org.apache.commons.csv.CSVPrinter.matrix
+../subsumption-data/Csv/reduce/org.apache.commons.csv.CSVPrinter.sub.json
+>>>>> org.apache.commons.csv.CSVPrinter <<<<<
+0:<init>:6
+1:flush:6
+2:println:13
+3:printComment:53
+4:print:22
+5:printSep:8
+6:printAndEscape:67
+7:printAndEncapsulate:121
+8:print:12
+Total :15: tests for class:org.apache.commons.csv.CSVPrinter:
+Methods executed: 8
+org.apache.commons.csv.CSVParser$1
+Directory of jaguar data: ../jaguar-data/commons-csv/1b
+Directory of subsumption data: ../subsumption-data/Csv
+Analyzing class org.apache.commons.csv.CSVParser$1 
+../jaguar-data/commons-csv/1b/jaguar/.jaguar/matrix
+org.apache.commons.csv.CSVParser$1.matrix
+../subsumption-data/Csv/reduce/org.apache.commons.csv.CSVParser$1.sub.json
+>>>>> org.apache.commons.csv.CSVParser$1 <<<<<
+0:hasNext:11
+1:next:7
+Total :4: tests for class:org.apache.commons.csv.CSVParser$1:
+Methods executed: 2
+org.apache.commons.csv.CSVRecord
+Directory of jaguar data: ../jaguar-data/commons-csv/1b
+Directory of subsumption data: ../subsumption-data/Csv
+Analyzing class org.apache.commons.csv.CSVRecord 
+../jaguar-data/commons-csv/1b/jaguar/.jaguar/matrix
+org.apache.commons.csv.CSVRecord.matrix
+../subsumption-data/Csv/reduce/org.apache.commons.csv.CSVRecord.sub.json
+>>>>> org.apache.commons.csv.CSVRecord <<<<<
+0:<init>:7
+1:get:12
+Total :24: tests for class:org.apache.commons.csv.CSVRecord:
+Methods executed: 2
+org.apache.commons.csv.CSVParser
+Directory of jaguar data: ../jaguar-data/commons-csv/1b
+Directory of subsumption data: ../subsumption-data/Csv
+Analyzing class org.apache.commons.csv.CSVParser 
+../jaguar-data/commons-csv/1b/jaguar/.jaguar/matrix
+org.apache.commons.csv.CSVParser.matrix
+../subsumption-data/Csv/reduce/org.apache.commons.csv.CSVParser.sub.json
+>>>>> org.apache.commons.csv.CSVParser <<<<<
+0:getRecords:6
+1:getRecord:62
+2:initializeHeader:35
+Total :24: tests for class:org.apache.commons.csv.CSVParser:
+Methods executed: 3
+org.apache.commons.csv.CSVFormat
+Directory of jaguar data: ../jaguar-data/commons-csv/1b
+Directory of subsumption data: ../subsumption-data/Csv
+Analyzing class org.apache.commons.csv.CSVFormat 
+../jaguar-data/commons-csv/1b/jaguar/.jaguar/matrix
+org.apache.commons.csv.CSVFormat.matrix
+../subsumption-data/Csv/reduce/org.apache.commons.csv.CSVFormat.sub.json
+>>>>> org.apache.commons.csv.CSVFormat <<<<<
+0:isLineBreak:4
+1:validate:48
+2:withDelimiter:11
+3:withEncapsulator:11
+4:isEncapsulating:4
+5:withCommentStart:11
+6:isCommentingEnabled:4
+7:withEscape:11
+8:isEscaping:4
+9:toString:25
+Total :49: tests for class:org.apache.commons.csv.CSVFormat:
+Methods executed: 9
+org.apache.commons.csv.ExtendedBufferedReader
+Directory of jaguar data: ../jaguar-data/commons-csv/1b
+Directory of subsumption data: ../subsumption-data/Csv
+Analyzing class org.apache.commons.csv.ExtendedBufferedReader 
+../jaguar-data/commons-csv/1b/jaguar/.jaguar/matrix
+org.apache.commons.csv.ExtendedBufferedReader.matrix
+../subsumption-data/Csv/reduce/org.apache.commons.csv.ExtendedBufferedReader.sub.json
+>>>>> org.apache.commons.csv.ExtendedBufferedReader <<<<<
+0:read:7
+1:read:56
+2:readLine:10
+Total :34: tests for class:org.apache.commons.csv.ExtendedBufferedReader:
+Methods executed: 2
+org.apache.commons.csv.Lexer
+Directory of jaguar data: ../jaguar-data/commons-csv/1b
+Directory of subsumption data: ../subsumption-data/Csv
+Analyzing class org.apache.commons.csv.Lexer 
+../jaguar-data/commons-csv/1b/jaguar/.jaguar/matrix
+org.apache.commons.csv.Lexer.matrix
+../subsumption-data/Csv/reduce/org.apache.commons.csv.Lexer.sub.json
+>>>>> org.apache.commons.csv.Lexer <<<<<
+0:readEscape:7
+1:trimTrailingSpaces:21
+2:isWhitespace:8
+3:isEndOfLine:16
+4:isEndOfFile:2
+5:isDelimiter:6
+6:isEscape:10
+7:isEncapsulator:10
+8:isCommentStart:10
+Total :31: tests for class:org.apache.commons.csv.Lexer:
+Methods executed: 9

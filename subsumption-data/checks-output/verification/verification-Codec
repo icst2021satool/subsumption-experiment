@@ -1,0 +1,278 @@
+org.apache.commons.codec.language.Soundex org.apache.commons.codec.net.RFC1522Codec org.apache.commons.codec.net.QCodec org.apache.commons.codec.language.DoubleMetaphone org.apache.commons.codec.net.QuotedPrintableCodec org.apache.commons.codec.binary.Base64 org.apache.commons.codec.language.SoundexUtils org.apache.commons.codec.net.BCodec org.apache.commons.codec.language.RefinedSoundex org.apache.commons.codec.binary.BinaryCodec org.apache.commons.codec.digest.DigestUtils org.apache.commons.codec.net.URLCodec org.apache.commons.codec.language.Metaphone org.apache.commons.codec.language.Caverphone org.apache.commons.codec.language.DoubleMetaphone$DoubleMetaphoneResult org.apache.commons.codec.binary.Hex
+org.apache.commons.codec.language.Soundex
+Directory of jaguar data: ../jaguar-data/commons-codec/1b
+Directory of subsumption data: ../subsumption-data/Codec
+Analyzing class org.apache.commons.codec.language.Soundex 
+../jaguar-data/commons-codec/1b/jaguar/.jaguar/matrix
+org.apache.commons.codec.language.Soundex.matrix
+../subsumption-data/Codec/reduce/org.apache.commons.codec.language.Soundex.sub.json
+>>>>> org.apache.commons.codec.language.Soundex <<<<<
+0:encode:4
+1:getMappingCode:22
+2:map:9
+3:soundex:41
+Total :27: tests for class:org.apache.commons.codec.language.Soundex:
+Methods executed: 4
+org.apache.commons.codec.net.RFC1522Codec
+Directory of jaguar data: ../jaguar-data/commons-codec/1b
+Directory of subsumption data: ../subsumption-data/Codec
+Analyzing class org.apache.commons.codec.net.RFC1522Codec 
+../jaguar-data/commons-codec/1b/jaguar/.jaguar/matrix
+org.apache.commons.codec.net.RFC1522Codec.matrix
+../subsumption-data/Codec/reduce/org.apache.commons.codec.net.RFC1522Codec.sub.json
+>>>>> org.apache.commons.codec.net.RFC1522Codec <<<<<
+0:encodeText:7
+1:decodeText:40
+Total :12: tests for class:org.apache.commons.codec.net.RFC1522Codec:
+Methods executed: 2
+org.apache.commons.codec.net.QCodec
+Directory of jaguar data: ../jaguar-data/commons-codec/1b
+Directory of subsumption data: ../subsumption-data/Codec
+Analyzing class org.apache.commons.codec.net.QCodec 
+../jaguar-data/commons-codec/1b/jaguar/.jaguar/matrix
+org.apache.commons.codec.net.QCodec.matrix
+../subsumption-data/Codec/reduce/org.apache.commons.codec.net.QCodec.sub.json
+>>>>> org.apache.commons.codec.net.QCodec <<<<<
+0:doEncoding:26
+1:doDecoding:43
+2:encode:5
+3:encode:4
+4:decode:4
+5:encode:7
+6:decode:7
+Total :11: tests for class:org.apache.commons.codec.net.QCodec:
+Methods executed: 4
+org.apache.commons.codec.language.DoubleMetaphone
+Directory of jaguar data: ../jaguar-data/commons-codec/1b
+Directory of subsumption data: ../subsumption-data/Codec
+Analyzing class org.apache.commons.codec.language.DoubleMetaphone 
+../jaguar-data/commons-codec/1b/jaguar/.jaguar/matrix
+org.apache.commons.codec.language.DoubleMetaphone.matrix
+../subsumption-data/Codec/reduce/org.apache.commons.codec.language.DoubleMetaphone.sub.json
+>>>>> org.apache.commons.codec.language.DoubleMetaphone <<<<<
+0:doubleMetaphone:1724
+1:encode:4
+2:handleAEIOUY:4
+3:handleC:97
+4:handleCC:27
+5:handleCH:32
+6:handleD:24
+7:handleG:128
+8:handleGH:67
+9:handleH:19
+10:handleJ:76
+11:handleL:17
+12:handleP:16
+13:handleR:23
+14:handleS:83
+15:handleSC:35
+16:handleT:41
+17:handleW:57
+18:handleX:24
+19:handleZ:33
+20:conditionC0:27
+21:conditionCH0:12
+22:conditionCH1:28
+23:conditionL0:18
+24:conditionM0:18
+25:isSlavoGermanic:8
+26:isVowel:2
+27:isSilentStart:18
+28:cleanInput:7
+29:charAt:8
+30:contains:29
+Total :11: tests for class:org.apache.commons.codec.language.DoubleMetaphone:
+Methods executed: 31
+org.apache.commons.codec.net.QuotedPrintableCodec
+Directory of jaguar data: ../jaguar-data/commons-codec/1b
+Directory of subsumption data: ../subsumption-data/Codec
+Analyzing class org.apache.commons.codec.net.QuotedPrintableCodec 
+../jaguar-data/commons-codec/1b/jaguar/.jaguar/matrix
+org.apache.commons.codec.net.QuotedPrintableCodec.matrix
+../subsumption-data/Codec/reduce/org.apache.commons.codec.net.QuotedPrintableCodec.sub.json
+>>>>> org.apache.commons.codec.net.QuotedPrintableCodec <<<<<
+0:encodeQuotedPrintable:34
+1:decodeQuotedPrintable:30
+2:encode:4
+3:decode:5
+4:decode:4
+5:encode:11
+6:decode:11
+7:encode:5
+Total :22: tests for class:org.apache.commons.codec.net.QuotedPrintableCodec:
+Methods executed: 4
+org.apache.commons.codec.binary.Base64
+Directory of jaguar data: ../jaguar-data/commons-codec/1b
+Directory of subsumption data: ../subsumption-data/Codec
+Analyzing class org.apache.commons.codec.binary.Base64 
+../jaguar-data/commons-codec/1b/jaguar/.jaguar/matrix
+org.apache.commons.codec.binary.Base64.matrix
+../subsumption-data/Codec/reduce/org.apache.commons.codec.binary.Base64.sub.json
+>>>>> org.apache.commons.codec.binary.Base64 <<<<<
+0:isBase64:8
+1:isArrayByteBase64:16
+2:decode:4
+3:encodeBase64:164
+4:decodeBase64:76
+5:discardWhitespace:25
+6:discardNonBase64:25
+7:encode:4
+8:encodeInteger:3
+9:toIntegerBytes:20
+Total :31: tests for class:org.apache.commons.codec.binary.Base64:
+Methods executed: 10
+org.apache.commons.codec.language.SoundexUtils
+Directory of jaguar data: ../jaguar-data/commons-codec/1b
+Directory of subsumption data: ../subsumption-data/Codec
+Analyzing class org.apache.commons.codec.language.SoundexUtils 
+../jaguar-data/commons-codec/1b/jaguar/.jaguar/matrix
+org.apache.commons.codec.language.SoundexUtils.matrix
+../subsumption-data/Codec/reduce/org.apache.commons.codec.language.SoundexUtils.sub.json
+>>>>> org.apache.commons.codec.language.SoundexUtils <<<<<
+0:clean:37
+1:differenceEncoded:26
+Total :29: tests for class:org.apache.commons.codec.language.SoundexUtils:
+Methods executed: 2
+org.apache.commons.codec.net.BCodec
+Directory of jaguar data: ../jaguar-data/commons-codec/1b
+Directory of subsumption data: ../subsumption-data/Codec
+Analyzing class org.apache.commons.codec.net.BCodec 
+../jaguar-data/commons-codec/1b/jaguar/.jaguar/matrix
+org.apache.commons.codec.net.BCodec.matrix
+../subsumption-data/Codec/reduce/org.apache.commons.codec.net.BCodec.sub.json
+>>>>> org.apache.commons.codec.net.BCodec <<<<<
+0:doEncoding:3
+1:doDecoding:3
+2:encode:5
+3:encode:4
+4:decode:4
+5:encode:7
+6:decode:7
+Total :9: tests for class:org.apache.commons.codec.net.BCodec:
+Methods executed: 4
+org.apache.commons.codec.language.RefinedSoundex
+Directory of jaguar data: ../jaguar-data/commons-codec/1b
+Directory of subsumption data: ../subsumption-data/Codec
+Analyzing class org.apache.commons.codec.language.RefinedSoundex 
+../jaguar-data/commons-codec/1b/jaguar/.jaguar/matrix
+org.apache.commons.codec.language.RefinedSoundex.matrix
+../subsumption-data/Codec/reduce/org.apache.commons.codec.language.RefinedSoundex.sub.json
+>>>>> org.apache.commons.codec.language.RefinedSoundex <<<<<
+0:encode:4
+1:getMappingCode:5
+2:soundex:31
+Total :7: tests for class:org.apache.commons.codec.language.RefinedSoundex:
+Methods executed: 3
+org.apache.commons.codec.binary.BinaryCodec
+Directory of jaguar data: ../jaguar-data/commons-codec/1b
+Directory of subsumption data: ../subsumption-data/Codec
+Analyzing class org.apache.commons.codec.binary.BinaryCodec 
+../jaguar-data/commons-codec/1b/jaguar/.jaguar/matrix
+org.apache.commons.codec.binary.BinaryCodec.matrix
+../subsumption-data/Codec/reduce/org.apache.commons.codec.binary.BinaryCodec.sub.json
+>>>>> org.apache.commons.codec.binary.BinaryCodec <<<<<
+0:encode:3
+1:decode:12
+2:toByteArray:4
+3:fromAscii:42
+4:fromAscii:42
+5:toAsciiBytes:47
+6:toAsciiChars:47
+Total :13: tests for class:org.apache.commons.codec.binary.BinaryCodec:
+Methods executed: 6
+org.apache.commons.codec.digest.DigestUtils
+Directory of jaguar data: ../jaguar-data/commons-codec/1b
+Directory of subsumption data: ../subsumption-data/Codec
+Analyzing class org.apache.commons.codec.digest.DigestUtils 
+../jaguar-data/commons-codec/1b/jaguar/.jaguar/matrix
+org.apache.commons.codec.digest.DigestUtils.matrix
+../subsumption-data/Codec/reduce/org.apache.commons.codec.digest.DigestUtils.sub.json
+>>>>> org.apache.commons.codec.digest.DigestUtils <<<<<
+0:digest:11
+Total :5: tests for class:org.apache.commons.codec.digest.DigestUtils:
+Methods executed: 1
+org.apache.commons.codec.net.URLCodec
+Directory of jaguar data: ../jaguar-data/commons-codec/1b
+Directory of subsumption data: ../subsumption-data/Codec
+Analyzing class org.apache.commons.codec.net.URLCodec 
+../jaguar-data/commons-codec/1b/jaguar/.jaguar/matrix
+org.apache.commons.codec.net.URLCodec.matrix
+../subsumption-data/Codec/reduce/org.apache.commons.codec.net.URLCodec.sub.json
+>>>>> org.apache.commons.codec.net.URLCodec <<<<<
+0:encodeUrl:43
+1:decodeUrl:33
+2:encode:5
+3:encode:4
+4:decode:5
+5:decode:4
+6:encode:11
+7:decode:11
+Total :16: tests for class:org.apache.commons.codec.net.URLCodec:
+Methods executed: 4
+org.apache.commons.codec.language.Metaphone
+Directory of jaguar data: ../jaguar-data/commons-codec/1b
+Directory of subsumption data: ../subsumption-data/Codec
+Analyzing class org.apache.commons.codec.language.Metaphone 
+../jaguar-data/commons-codec/1b/jaguar/.jaguar/matrix
+org.apache.commons.codec.language.Metaphone.matrix
+../subsumption-data/Codec/reduce/org.apache.commons.codec.language.Metaphone.sub.json
+>>>>> org.apache.commons.codec.language.Metaphone <<<<<
+0:metaphone:553
+1:isVowel:4
+2:isPreviousChar:14
+3:isNextChar:14
+4:regionMatch:14
+5:isLastChar:4
+6:encode:4
+Total :38: tests for class:org.apache.commons.codec.language.Metaphone:
+Methods executed: 7
+org.apache.commons.codec.language.Caverphone
+Directory of jaguar data: ../jaguar-data/commons-codec/1b
+Directory of subsumption data: ../subsumption-data/Codec
+Analyzing class org.apache.commons.codec.language.Caverphone 
+../jaguar-data/commons-codec/1b/jaguar/.jaguar/matrix
+org.apache.commons.codec.language.Caverphone.matrix
+../subsumption-data/Codec/reduce/org.apache.commons.codec.language.Caverphone.sub.json
+>>>>> org.apache.commons.codec.language.Caverphone <<<<<
+0:caverphone:5
+1:encode:4
+Total :5: tests for class:org.apache.commons.codec.language.Caverphone:
+Methods executed: 2
+org.apache.commons.codec.language.DoubleMetaphone$DoubleMetaphoneResult
+Directory of jaguar data: ../jaguar-data/commons-codec/1b
+Directory of subsumption data: ../subsumption-data/Codec
+Analyzing class org.apache.commons.codec.language.DoubleMetaphone$DoubleMetaphoneResult 
+../jaguar-data/commons-codec/1b/jaguar/.jaguar/matrix
+org.apache.commons.codec.language.DoubleMetaphone$DoubleMetaphoneResult.matrix
+../subsumption-data/Codec/reduce/org.apache.commons.codec.language.DoubleMetaphone$DoubleMetaphoneResult.sub.json
+>>>>> org.apache.commons.codec.language.DoubleMetaphone$DoubleMetaphoneResult <<<<<
+0:appendPrimary:9
+1:appendAlternate:9
+2:appendPrimary:11
+3:appendAlternate:11
+4:isComplete:12
+Total :9: tests for class:org.apache.commons.codec.language.DoubleMetaphone$DoubleMetaphoneResult:
+Methods executed: 3
+org.apache.commons.codec.binary.Hex
+Directory of jaguar data: ../jaguar-data/commons-codec/1b
+Directory of subsumption data: ../subsumption-data/Codec
+Analyzing class org.apache.commons.codec.binary.Hex 
+../jaguar-data/commons-codec/1b/jaguar/.jaguar/matrix
+org.apache.commons.codec.binary.Hex.matrix
+../subsumption-data/Codec/reduce/org.apache.commons.codec.binary.Hex.sub.json
+>>>>> org.apache.commons.codec.binary.Hex <<<<<
+0:decodeHex:21
+1:toDigit:5
+2:encodeHex:21
+3:decode:3
+4:encode:3
+Wrong subsumption: encode
+t:[0 1 0]
+u:[0 1 0]
+s:[0 1 1]
+Wrong subsumption: decode
+t:[0 1 0]
+u:[0 1 0]
+s:[0 1 1]
+Total :18: tests for class:org.apache.commons.codec.binary.Hex:
+Methods executed: 5

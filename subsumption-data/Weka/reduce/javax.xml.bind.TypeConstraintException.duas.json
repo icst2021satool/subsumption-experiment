@@ -1,0 +1,22 @@
+{
+"Class" : "javax.xml.bind.TypeConstraintException", 
+"Methods" : [{ "Name" : "toString" ,
+"Duas" : 6,
+"0" :  "(139,(139,140), this)",
+"1" :  "(139,(139,142), this)",
+"2" :  "(139,139, this)",
+"3" :  "(139,(139,140), this.linkedException)",
+"4" :  "(139,(139,142), this.linkedException)",
+"5" :  "(139,139, this.linkedException)"},{ "Name" : "printStackTrace" ,
+"Duas" : 10,
+"0" :  "(152,(152,153), this)",
+"1" :  "(152,(152,157), this)",
+"2" :  "(152,157, this)",
+"3" :  "(152,153, this)",
+"4" :  "(152,157, s)",
+"5" :  "(152,153, s)",
+"6" :  "(152,154, s)",
+"7" :  "(152,(152,153), this.linkedException)",
+"8" :  "(152,(152,157), this.linkedException)",
+"9" :  "(152,153, this.linkedException)"}]
+}

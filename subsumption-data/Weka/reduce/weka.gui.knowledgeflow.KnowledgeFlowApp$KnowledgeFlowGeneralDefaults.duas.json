@@ -1,0 +1,17 @@
+{
+"Class" : "weka.gui.knowledgeflow.KnowledgeFlowApp$KnowledgeFlowGeneralDefaults", 
+"Methods" : [{ "Name" : "<init>" ,
+"Duas" : 12,
+"0" :  "(226,249, this)",
+"1" :  "(226,249, this.m_defaults)",
+"2" :  "(226,248, EXECUTION_ENV_KEY)",
+"3" :  "(226,249, EXECUTION_ENV_KEY)",
+"4" :  "(236,(241,242), execs)",
+"5" :  "(236,(241,248), execs)",
+"6" :  "(236,242, execs)",
+"7" :  "(238,248, execList)",
+"8" :  "(238,244, execList)",
+"9" :  "(242,(243,244), e)",
+"10" :  "(242,(243,246), e)",
+"11" :  "(242,244, e)"}]
+}

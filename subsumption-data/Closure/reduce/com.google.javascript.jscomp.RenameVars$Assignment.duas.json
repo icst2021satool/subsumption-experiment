@@ -1,0 +1,11 @@
+{
+"Class" : "com.google.javascript.jscomp.RenameVars$Assignment", 
+"Methods" : [{ "Name" : "setNewName" ,
+"Duas" : 6,
+"0" :  "(107,(107,107), this)",
+"1" :  "(107,(107,107), this)",
+"2" :  "(107,108, this)",
+"3" :  "(107,108, newName)",
+"4" :  "(107,(107,107), this.newName)",
+"5" :  "(107,(107,107), this.newName)"}]
+}

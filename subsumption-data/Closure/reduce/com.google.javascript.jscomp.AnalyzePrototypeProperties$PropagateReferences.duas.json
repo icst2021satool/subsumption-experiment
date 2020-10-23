@@ -1,0 +1,22 @@
+{
+"Class" : "com.google.javascript.jscomp.AnalyzePrototypeProperties$PropagateReferences", 
+"Methods" : [{ "Name" : "traverseEdge" ,
+"Duas" : 17,
+"0" :  "(524,(526,528), this)",
+"1" :  "(524,(526,530), this)",
+"2" :  "(524,(524,525), start)",
+"3" :  "(524,(524,533), start)",
+"4" :  "(524,525, start)",
+"5" :  "(524,530, edge)",
+"6" :  "(524,(526,528), edge)",
+"7" :  "(524,(526,530), edge)",
+"8" :  "(524,530, dest)",
+"9" :  "(524,528, dest)",
+"10" :  "(524,(526,528), this.this$0)",
+"11" :  "(524,(526,530), this.this$0)",
+"12" :  "(525,(526,526), startModule)",
+"13" :  "(525,(526,530), startModule)",
+"14" :  "(525,(526,528), startModule)",
+"15" :  "(525,(526,530), startModule)",
+"16" :  "(525,528, startModule)"}]
+}

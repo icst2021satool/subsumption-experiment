@@ -1,0 +1,16 @@
+{
+"Class" : "weka.gui.beans.JoinCustomizer$1", 
+"Methods" : [{ "Name" : "valueChanged" ,
+"Duas" : 11,
+"0" :  "(211,(212,213), this)",
+"1" :  "(211,(212,216), this)",
+"2" :  "(211,213, this)",
+"3" :  "(211,(211,212), e)",
+"4" :  "(211,(211,216), e)",
+"5" :  "(211,(212,213), this.this$0)",
+"6" :  "(211,(212,216), this.this$0)",
+"7" :  "(211,213, this.this$0)",
+"8" :  "(211,(212,213), this.m_deleteOneBut)",
+"9" :  "(211,(212,216), this.m_deleteOneBut)",
+"10" :  "(211,213, this.m_deleteOneBut)"}]
+}

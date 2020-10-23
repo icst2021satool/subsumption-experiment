@@ -1,0 +1,21 @@
+{
+"Class" : "weka.filters.unsupervised.instance.SparseToNonSparse", 
+"Methods" : [{ "Name" : "input" ,
+"Duas" : 16,
+"0" :  "(109,(109,110), this)",
+"1" :  "(109,(109,112), this)",
+"2" :  "(109,(112,113), this)",
+"3" :  "(109,(112,116), this)",
+"4" :  "(109,123, this)",
+"5" :  "(109,113, this)",
+"6" :  "(109,114, this)",
+"7" :  "(109,(117,118), instance)",
+"8" :  "(109,(117,121), instance)",
+"9" :  "(109,121, instance)",
+"10" :  "(109,118, instance)",
+"11" :  "(109,119, instance)",
+"12" :  "(109,(112,113), this.m_NewBatch)",
+"13" :  "(109,(112,116), this.m_NewBatch)",
+"14" :  "(118,123, inst)",
+"15" :  "(121,123, inst)"}]
+}

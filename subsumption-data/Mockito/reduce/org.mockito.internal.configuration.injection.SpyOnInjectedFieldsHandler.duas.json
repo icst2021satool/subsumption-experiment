@@ -1,0 +1,18 @@
+{
+"Class" : "org.mockito.internal.configuration.injection.SpyOnInjectedFieldsHandler", 
+"Methods" : [{ "Name" : "processInjection" ,
+"Duas" : 13,
+"0" :  "(32,(35,37), field)",
+"1" :  "(32,(35,55), field)",
+"2" :  "(32,43, field)",
+"3" :  "(32,43, field)",
+"4" :  "(32,43, fieldOwner)",
+"5" :  "(32,43, CALLS_REAL_METHODS)",
+"6" :  "(32,(35,35), fieldReader)",
+"7" :  "(32,(35,55), fieldReader)",
+"8" :  "(32,37, fieldReader)",
+"9" :  "(37,(38,41), instance)",
+"10" :  "(37,(38,43), instance)",
+"11" :  "(37,43, instance)",
+"12" :  "(37,41, instance)"}]
+}

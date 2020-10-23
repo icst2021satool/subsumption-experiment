@@ -1,0 +1,11 @@
+{
+"Class" : "org.apache.commons.collections4.iterators.UnmodifiableMapIterator", 
+"Methods" : [{ "Name" : "unmodifiableMapIterator" ,
+"Duas" : 6,
+"0" :  "(47,(47,48), iterator)",
+"1" :  "(47,(47,50), iterator)",
+"2" :  "(47,(50,52), iterator)",
+"3" :  "(47,(50,55), iterator)",
+"4" :  "(47,55, iterator)",
+"5" :  "(47,52, iterator)"}]
+}

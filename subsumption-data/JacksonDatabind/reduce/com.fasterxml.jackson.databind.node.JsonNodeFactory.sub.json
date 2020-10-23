@@ -1,0 +1,50 @@
+{
+"Class" : "com.fasterxml.jackson.databind.node.JsonNodeFactory", 
+"Methods" : [{ "Name" : "withExactBigDecimals" ,
+"Duas" : "4" ,
+"Subsumers" : 2,
+"0" : [ 0], "S0" : [0, 2, 3 ],
+"1" : [ 1], "S1" : [1, 2, 3 ]
+},{ "Name" : "booleanNode" ,
+"Duas" : "2" ,
+"Subsumers" : 2,
+"0" : [ 0], "S0" : [0 ],
+"1" : [ 1], "S1" : [1 ]
+},{ "Name" : "numberNode" ,
+"Duas" : "4" ,
+"Subsumers" : 2,
+"0" : [ 1], "S0" : [0, 1, 3 ],
+"1" : [ 2], "S1" : [0, 2, 3 ]
+},{ "Name" : "numberNode" ,
+"Duas" : "4" ,
+"Subsumers" : 2,
+"0" : [ 1], "S0" : [0, 1, 3 ],
+"1" : [ 2], "S1" : [0, 2, 3 ]
+},{ "Name" : "numberNode" ,
+"Duas" : "4" ,
+"Subsumers" : 2,
+"0" : [ 1], "S0" : [0, 1, 3 ],
+"1" : [ 2], "S1" : [0, 2, 3 ]
+},{ "Name" : "numberNode" ,
+"Duas" : "4" ,
+"Subsumers" : 2,
+"0" : [ 1], "S0" : [0, 1, 3 ],
+"1" : [ 2], "S1" : [0, 2, 3 ]
+},{ "Name" : "numberNode" ,
+"Duas" : "4" ,
+"Subsumers" : 2,
+"0" : [ 1], "S0" : [0, 1, 3 ],
+"1" : [ 2], "S1" : [0, 2, 3 ]
+},{ "Name" : "numberNode" ,
+"Duas" : "4" ,
+"Subsumers" : 2,
+"0" : [ 1], "S0" : [0, 1, 3 ],
+"1" : [ 2], "S1" : [0, 2, 3 ]
+},{ "Name" : "numberNode" ,
+"Duas" : "11" ,
+"Subsumers" : 3,
+"0" : [ 6, 5, 0], "S0" : [0, 5, 6 ],
+"1" : [ 8, 2], "S1" : [1, 2, 4, 7, 8, 10 ],
+"2" : [ 9, 3], "S2" : [1, 3, 4, 7, 9, 10 ]
+}]
+}

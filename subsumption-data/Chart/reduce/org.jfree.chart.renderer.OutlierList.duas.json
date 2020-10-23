@@ -1,0 +1,23 @@
+{
+"Class" : "org.jfree.chart.renderer.OutlierList", 
+"Methods" : [{ "Name" : "isOverlapped" ,
+"Duas" : 4,
+"0" :  "(158,162, this)",
+"1" :  "(158,(158,159), other)",
+"2" :  "(158,(158,162), other)",
+"3" :  "(158,162, other)"},{ "Name" : "updateAveragedOutlier" ,
+"Duas" : 13,
+"0" :  "(172,181, this)",
+"1" :  "(172,181, totalXCoords)",
+"2" :  "(172,178, totalXCoords)",
+"3" :  "(173,181, totalYCoords)",
+"4" :  "(173,179, totalYCoords)",
+"5" :  "(174,181, size)",
+"6" :  "(175,(176,177), iterator)",
+"7" :  "(175,(176,181), iterator)",
+"8" :  "(175,177, iterator)",
+"9" :  "(178,181, totalXCoords)",
+"10" :  "(178,178, totalXCoords)",
+"11" :  "(179,181, totalYCoords)",
+"12" :  "(179,179, totalYCoords)"}]
+}

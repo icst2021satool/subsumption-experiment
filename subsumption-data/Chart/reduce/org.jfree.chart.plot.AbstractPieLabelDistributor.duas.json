@@ -1,0 +1,10 @@
+{
+"Class" : "org.jfree.chart.plot.AbstractPieLabelDistributor", 
+"Methods" : [{ "Name" : "addPieLabelRecord" ,
+"Duas" : 5,
+"0" :  "(81,84, this)",
+"1" :  "(81,(81,82), record)",
+"2" :  "(81,(81,84), record)",
+"3" :  "(81,84, record)",
+"4" :  "(81,84, this.labels)"}]
+}

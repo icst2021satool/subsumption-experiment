@@ -1,0 +1,18 @@
+{
+"Class" : "weka.classifiers.pmml.consumer.SupportVectorMachineModel$SigmoidKernel", 
+"Methods" : [{ "Name" : "<init>" ,
+"Duas" : 13,
+"0" :  "(379,399, this)",
+"1" :  "(379,384, this)",
+"2" :  "(379,396, sigElement)",
+"3" :  "(381,(382,382), gammaString)",
+"4" :  "(381,(382,396), gammaString)",
+"5" :  "(381,(382,384), gammaString)",
+"6" :  "(381,(382,396), gammaString)",
+"7" :  "(381,384, gammaString)",
+"8" :  "(396,(397,397), coefString)",
+"9" :  "(396,(397,410), coefString)",
+"10" :  "(396,(397,399), coefString)",
+"11" :  "(396,(397,410), coefString)",
+"12" :  "(396,399, coefString)"}]
+}

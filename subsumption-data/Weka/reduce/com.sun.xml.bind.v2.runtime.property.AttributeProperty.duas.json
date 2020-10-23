@@ -1,0 +1,11 @@
+{
+"Class" : "com.sun.xml.bind.v2.runtime.property.AttributeProperty", 
+"Methods" : [{ "Name" : "serializeAttributes" ,
+"Duas" : 6,
+"0" :  "(71,73, this)",
+"1" :  "(71,73, w)",
+"2" :  "(71,73, this.attName)",
+"3" :  "(71,(72,73), value)",
+"4" :  "(71,(72,74), value)",
+"5" :  "(71,73, value)"}]
+}

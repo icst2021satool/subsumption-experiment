@@ -1,0 +1,16 @@
+{
+"Class" : "org.apache.commons.collections4.set.TransformedNavigableSet", 
+"Methods" : [{ "Name" : "transformedNavigableSet" ,
+"Duas" : 11,
+"0" :  "(75,(76,76), set)",
+"1" :  "(75,(76,84), set)",
+"2" :  "(75,(76,78), set)",
+"3" :  "(75,(76,84), set)",
+"4" :  "(75,78, set)",
+"5" :  "(75,79, set)",
+"6" :  "(75,(76,76), transformer)",
+"7" :  "(75,(76,84), transformer)",
+"8" :  "(75,81, transformer)",
+"9" :  "(75,84, decorated)",
+"10" :  "(75,81, decorated)"}]
+}

@@ -1,0 +1,9 @@
+{
+"Class" : "org.jfree.chart.util.junit.PaintMapTests", 
+"Methods" : [{ "Name" : "suite" ,
+"Duas" : 4,
+"0" :  "(70,(70,70), class$org$jfree$chart$util$junit$PaintMapTests)",
+"1" :  "(70,(70,70), class$org$jfree$chart$util$junit$PaintMapTests)",
+"2" :  "(70,70, class$org$jfree$chart$util$junit$PaintMapTests)",
+"3" :  "(70,70, class$org$jfree$chart$util$junit$PaintMapTests)"}]
+}

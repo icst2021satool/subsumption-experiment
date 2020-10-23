@@ -1,0 +1,14 @@
+{
+"Class" : "org.jfree.data.xy.VectorDataItem", 
+"Methods" : [{ "Name" : "getVectorX" ,
+"Duas" : "3" ,
+"Subsumers" : 2,
+"0" : [ 2, 0], "S0" : [0, 2 ],
+"1" : [ 1], "S1" : [1 ]
+},{ "Name" : "getVectorY" ,
+"Duas" : "3" ,
+"Subsumers" : 2,
+"0" : [ 2, 0], "S0" : [0, 2 ],
+"1" : [ 1], "S1" : [1 ]
+}]
+}

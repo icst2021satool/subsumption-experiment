@@ -1,0 +1,16 @@
+{
+"Class" : "org.jfree.data.time.junit.TimeTableXYDatasetTests", 
+"Methods" : [{ "Name" : "suite" ,
+"Duas" : "4" ,
+"Subsumers" : 2,
+"0" : [ 3, 0], "S0" : [0, 3 ],
+"1" : [ 2, 1], "S1" : [1, 2 ]
+},{ "Name" : "testEquals" ,
+"Duas" : "10" ,
+"Subsumers" : 4,
+"0" : [ 0], "S0" : [0, 2, 3, 4, 5, 8, 9 ],
+"1" : [ 1], "S1" : [1, 2, 3, 4, 5, 8, 9 ],
+"2" : [ 6], "S2" : [2, 3, 4, 5, 6, 8, 9 ],
+"3" : [ 7], "S3" : [2, 3, 4, 5, 7, 8, 9 ]
+}]
+}

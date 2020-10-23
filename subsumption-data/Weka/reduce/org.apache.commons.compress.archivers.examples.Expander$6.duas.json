@@ -1,0 +1,17 @@
+{
+"Class" : "org.apache.commons.compress.archivers.examples.Expander$6", 
+"Methods" : [{ "Name" : "writeEntryDataTo" ,
+"Duas" : 12,
+"0" :  "(326,328, this)",
+"1" :  "(326,(328,329), this)",
+"2" :  "(326,(328,331), this)",
+"3" :  "(326,329, out)",
+"4" :  "(326,328, this.val$archive)",
+"5" :  "(326,(328,329), this.val$archive)",
+"6" :  "(326,(328,331), this.val$archive)",
+"7" :  "(326,328, buffer)",
+"8" :  "(326,(328,329), buffer)",
+"9" :  "(326,(328,331), buffer)",
+"10" :  "(326,329, buffer)",
+"11" :  "(328,329, n)"}]
+}

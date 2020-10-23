@@ -1,0 +1,13 @@
+{
+"Class" : "weka.gui.knowledgeflow.steps.ImageViewerInteractiveView$MainPanel$1", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Duas" : 8,
+"0" :  "(230,236, this)",
+"1" :  "(230,237, this)",
+"2" :  "(230,236, this.val$id)",
+"3" :  "(230,237, this.val$id)",
+"4" :  "(231,(232,233), z)",
+"5" :  "(231,(232,236), z)",
+"6" :  "(231,236, z)",
+"7" :  "(233,236, z)"}]
+}

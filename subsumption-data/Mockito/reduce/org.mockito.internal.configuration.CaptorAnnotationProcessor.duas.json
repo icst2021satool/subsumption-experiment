@@ -1,0 +1,9 @@
+{
+"Class" : "org.mockito.internal.configuration.CaptorAnnotationProcessor", 
+"Methods" : [{ "Name" : "process" ,
+"Duas" : 4,
+"0" :  "(19,25, field)",
+"1" :  "(19,22, field)",
+"2" :  "(19,(20,21), type)",
+"3" :  "(19,(20,25), type)"}]
+}

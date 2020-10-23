@@ -1,0 +1,9 @@
+{
+"Class" : "weka.knowledgeflow.steps.MemoryBasedDataSource", 
+"Methods" : [{ "Name" : "stepInit" ,
+"Duas" : 4,
+"0" :  "(76,(76,77), this)",
+"1" :  "(76,(76,80), this)",
+"2" :  "(76,(76,77), this.m_instances)",
+"3" :  "(76,(76,80), this.m_instances)"}]
+}

@@ -1,0 +1,12 @@
+{
+"Class" : "com.google.javascript.jscomp.AmbiguateProperties$PropertyGraph", 
+"Methods" : [{ "Name" : "<init>" ,
+"Duas" : "5" ,
+"Subsumers" : 1,
+"0" : [ 4, 2, 1, 0], "S0" : [0, 1, 2, 3, 4 ]
+},{ "Name" : "clearNodeAnnotations" ,
+"Duas" : "3" ,
+"Subsumers" : 1,
+"0" : [ 2, 0], "S0" : [0, 1, 2 ]
+}]
+}

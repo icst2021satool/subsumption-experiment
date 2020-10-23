@@ -1,0 +1,9 @@
+{
+"Class" : "org.apache.commons.collections4.map.UnmodifiableOrderedMap", 
+"Methods" : [{ "Name" : "unmodifiableOrderedMap" ,
+"Duas" : 4,
+"0" :  "(61,(61,63), map)",
+"1" :  "(61,(61,66), map)",
+"2" :  "(61,66, map)",
+"3" :  "(61,63, map)"}]
+}

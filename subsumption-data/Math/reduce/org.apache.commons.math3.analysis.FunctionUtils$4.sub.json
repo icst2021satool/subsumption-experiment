@@ -1,0 +1,9 @@
+{
+"Class" : "org.apache.commons.math3.analysis.FunctionUtils$4", 
+"Methods" : [{ "Name" : "value" ,
+"Duas" : "19" ,
+"Subsumers" : 2,
+"0" : [ 17, 18, 15, 14], "S0" : [0, 1, 2, 3, 4, 5, 6, 8, 9, 11, 12, 13, 14, 15, 16, 17, 18 ],
+"1" : [ 10, 7], "S1" : [1, 5, 7, 10 ]
+}]
+}

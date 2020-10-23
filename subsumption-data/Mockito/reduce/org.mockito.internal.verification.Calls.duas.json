@@ -1,0 +1,9 @@
+{
+"Class" : "org.mockito.internal.verification.Calls", 
+"Methods" : [{ "Name" : "<init>" ,
+"Duas" : 4,
+"0" :  "(23,27, this)",
+"1" :  "(23,(24,25), wantedNumberOfInvocations)",
+"2" :  "(23,(24,27), wantedNumberOfInvocations)",
+"3" :  "(23,27, wantedNumberOfInvocations)"}]
+}

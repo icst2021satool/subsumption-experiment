@@ -1,0 +1,18 @@
+{
+"Class" : "org.jfree.chart.BufferedImageRenderingSource", 
+"Methods" : [{ "Name" : "<init>" ,
+"Duas" : 4,
+"0" :  "(71,75, this)",
+"1" :  "(71,(72,73), image)",
+"2" :  "(71,(72,75), image)",
+"3" :  "(71,75, image)"},{ "Name" : "getSelectionState" ,
+"Duas" : 8,
+"0" :  "(97,(100,101), dataset)",
+"1" :  "(97,(100,103), dataset)",
+"2" :  "(97,(98,99), iterator)",
+"3" :  "(97,(98,105), iterator)",
+"4" :  "(97,99, iterator)",
+"5" :  "(99,(100,101), das)",
+"6" :  "(99,(100,103), das)",
+"7" :  "(99,101, das)"}]
+}

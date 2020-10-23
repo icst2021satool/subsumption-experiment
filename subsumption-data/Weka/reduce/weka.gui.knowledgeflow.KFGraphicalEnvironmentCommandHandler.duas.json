@@ -1,0 +1,16 @@
+{
+"Class" : "weka.gui.knowledgeflow.KFGraphicalEnvironmentCommandHandler", 
+"Methods" : [{ "Name" : "<init>" ,
+"Duas" : 2,
+"0" :  "(61,73, this)",
+"1" :  "(44,73, this.m_commands)"},{ "Name" : "performCommand" ,
+"Duas" : 8,
+"0" :  "(93,95, this)",
+"1" :  "(93,98, commandName)",
+"2" :  "(93,96, commandArgs)",
+"3" :  "(93,95, this.m_mainPerspective)",
+"4" :  "(93,(94,95), command)",
+"5" :  "(93,(94,98), command)",
+"6" :  "(93,95, command)",
+"7" :  "(93,96, command)"}]
+}

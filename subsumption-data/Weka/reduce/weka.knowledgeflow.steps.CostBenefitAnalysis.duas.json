@@ -1,0 +1,11 @@
+{
+"Class" : "weka.knowledgeflow.steps.CostBenefitAnalysis", 
+"Methods" : [{ "Name" : "getInteractiveViewers" ,
+"Duas" : 6,
+"0" :  "(90,(92,93), this)",
+"1" :  "(90,(92,97), this)",
+"2" :  "(90,(92,93), this.m_data)",
+"3" :  "(90,(92,97), this.m_data)",
+"4" :  "(90,97, views)",
+"5" :  "(90,93, views)"}]
+}

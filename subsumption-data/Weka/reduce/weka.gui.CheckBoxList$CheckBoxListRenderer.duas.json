@@ -1,0 +1,15 @@
+{
+"Class" : "weka.gui.CheckBoxList$CheckBoxListRenderer", 
+"Methods" : [{ "Name" : "getListCellRendererComponent" ,
+"Duas" : 10,
+"0" :  "(515,517, this)",
+"1" :  "(515,519, this)",
+"2" :  "(515,521, this)",
+"3" :  "(515,523, this)",
+"4" :  "(515,517, list)",
+"5" :  "(515,519, list)",
+"6" :  "(515,(517,517), isSelected)",
+"7" :  "(515,(517,518), isSelected)",
+"8" :  "(515,(519,519), isSelected)",
+"9" :  "(515,(519,520), isSelected)"}]
+}

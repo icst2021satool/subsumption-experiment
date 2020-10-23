@@ -1,0 +1,10 @@
+{
+"Class" : "com.google.javascript.jscomp.DefaultPassConfig$8", 
+"Methods" : [{ "Name" : "create" ,
+"Duas" : 5,
+"0" :  "(875,881, compiler)",
+"1" :  "(875,877, compiler)",
+"2" :  "(875,(876,877), convention)",
+"3" :  "(875,(876,881), convention)",
+"4" :  "(875,877, convention)"}]
+}

@@ -1,0 +1,15 @@
+{
+"Class" : "com.google.javascript.jscomp.ConcreteType$ConcreteUniqueType", 
+"Methods" : [{ "Name" : "<init>" ,
+"Duas" : "2" ,
+"Subsumers" : 2,
+"0" : [ 0], "S0" : [0 ],
+"1" : [ 1], "S1" : [1 ]
+},{ "Name" : "equals" ,
+"Duas" : "8" ,
+"Subsumers" : 3,
+"0" : [ 6, 4, 0], "S0" : [0, 2, 4, 6 ],
+"1" : [ 7, 5, 1], "S1" : [1, 2, 5, 7 ],
+"2" : [ 3], "S2" : [3 ]
+}]
+}

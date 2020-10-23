@@ -1,0 +1,14 @@
+{
+"Class" : "org.mockito.internal.configuration.injection.ConstructorInjection$SimpleArgumentResolver", 
+"Methods" : [{ "Name" : "resolveTypeInstances" ,
+"Duas" : 3,
+"0" :  "(77,79, this)",
+"1" :  "(77,81, argumentInstances)",
+"2" :  "(77,79, argumentInstances)"},{ "Name" : "objectThatIsAssignableFrom" ,
+"Duas" : 5,
+"0" :  "(85,(86,86), argType)",
+"1" :  "(85,(86,87), argType)",
+"2" :  "(85,(86,86), object)",
+"3" :  "(85,(86,87), object)",
+"4" :  "(85,86, object)"}]
+}

@@ -1,0 +1,16 @@
+{
+"Class" : "org.apache.commons.collections4.CollectionUtils$SetOperationCardinalityHelper", 
+"Methods" : [{ "Name" : "setCardinality" ,
+"Duas" : 11,
+"0" :  "(161,162, this)",
+"1" :  "(161,162, obj)",
+"2" :  "(161,(161,162), count)",
+"3" :  "(161,(161,164), count)",
+"4" :  "(161,162, this.newList)",
+"5" :  "(161,(161,162), i)",
+"6" :  "(161,(161,164), i)",
+"7" :  "(161,161, i)",
+"8" :  "(161,(161,162), i)",
+"9" :  "(161,(161,164), i)",
+"10" :  "(161,161, i)"}]
+}

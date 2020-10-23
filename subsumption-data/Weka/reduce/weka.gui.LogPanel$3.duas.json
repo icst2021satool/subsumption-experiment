@@ -1,0 +1,17 @@
+{
+"Class" : "weka.gui.LogPanel$3", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Duas" : 12,
+"0" :  "(156,160, this)",
+"1" :  "(156,161, this)",
+"2" :  "(156,158, this)",
+"3" :  "(156,160, this.this$0)",
+"4" :  "(156,161, this.this$0)",
+"5" :  "(156,158, this.this$0)",
+"6" :  "(156,160, this.m_Frame)",
+"7" :  "(156,161, this.m_Frame)",
+"8" :  "(156,158, this.m_Frame)",
+"9" :  "(156,(157,158), windowAncestor)",
+"10" :  "(156,(157,160), windowAncestor)",
+"11" :  "(156,158, windowAncestor)"}]
+}

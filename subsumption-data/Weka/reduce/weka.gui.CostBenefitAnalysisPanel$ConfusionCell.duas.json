@@ -1,0 +1,22 @@
+{
+"Class" : "weka.gui.CostBenefitAnalysisPanel$ConfusionCell", 
+"Methods" : [{ "Name" : "setCellValue" ,
+"Duas" : 17,
+"0" :  "(213,216, this)",
+"1" :  "(213,219, this)",
+"2" :  "(213,220, this)",
+"3" :  "(213,224, this)",
+"4" :  "(213,214, this)",
+"5" :  "(213,(213,214), cellValue)",
+"6" :  "(213,(213,216), cellValue)",
+"7" :  "(213,219, cellValue)",
+"8" :  "(213,214, cellValue)",
+"9" :  "(213,214, max)",
+"10" :  "(213,219, scaleFactor)",
+"11" :  "(213,220, precision)",
+"12" :  "(213,219, this.m_conf_cell)",
+"13" :  "(213,220, this.m_conf_perc)",
+"14" :  "(213,224, this.m_percentageP)",
+"15" :  "(214,220, this.m_percentage)",
+"16" :  "(216,220, this.m_percentage)"}]
+}

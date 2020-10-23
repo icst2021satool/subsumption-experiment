@@ -1,0 +1,10 @@
+{
+"Class" : "weka.filters.SimpleFilter", 
+"Methods" : [{ "Name" : "setInputFormat" ,
+"Duas" : 5,
+"0" :  "(115,(119,120), this)",
+"1" :  "(115,(119,123), this)",
+"2" :  "(115,123, this)",
+"3" :  "(115,120, this)",
+"4" :  "(115,120, instanceInfo)"}]
+}

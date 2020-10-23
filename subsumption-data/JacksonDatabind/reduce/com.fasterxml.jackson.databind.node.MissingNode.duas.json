@@ -1,0 +1,9 @@
+{
+"Class" : "com.fasterxml.jackson.databind.node.MissingNode", 
+"Methods" : [{ "Name" : "equals" ,
+"Duas" : 4,
+"0" :  "(89,(89,89), this)",
+"1" :  "(89,(89,89), this)",
+"2" :  "(89,(89,89), o)",
+"3" :  "(89,(89,89), o)"}]
+}

@@ -1,0 +1,21 @@
+{
+"Class" : "com.sun.xml.bind.v2.runtime.output.C14nXmlOutput$DynamicAttribute", 
+"Methods" : [{ "Name" : "getURI" ,
+"Duas" : 8,
+"0" :  "(107,(107,107), this)",
+"1" :  "(107,(107,108), this)",
+"2" :  "(107,108, this)",
+"3" :  "(107,(107,107), this.prefix)",
+"4" :  "(107,(107,108), this.prefix)",
+"5" :  "(107,108, this.prefix)",
+"6" :  "(107,108, this.this$0)",
+"7" :  "(107,108, this.nsContext)"},{ "Name" : "compareTo" ,
+"Duas" : 7,
+"0" :  "(112,114, this)",
+"1" :  "(112,114, that)",
+"2" :  "(112,114, this.localName)",
+"3" :  "(112,114, that.localName)",
+"4" :  "(112,(113,113), r)",
+"5" :  "(112,(113,114), r)",
+"6" :  "(112,113, r)"}]
+}

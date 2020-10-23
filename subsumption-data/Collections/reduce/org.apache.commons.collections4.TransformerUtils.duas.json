@@ -1,0 +1,19 @@
+{
+"Class" : "org.apache.commons.collections4.TransformerUtils", 
+"Methods" : [{ "Name" : "switchMapTransformer" ,
+"Duas" : 14,
+"0" :  "(366,(366,367), objectsAndTransformers)",
+"1" :  "(366,(366,369), objectsAndTransformers)",
+"2" :  "(366,369, objectsAndTransformers)",
+"3" :  "(366,370, objectsAndTransformers)",
+"4" :  "(366,374, objectsAndTransformers)",
+"5" :  "(369,378, def)",
+"6" :  "(371,378, trs)",
+"7" :  "(371,376, trs)",
+"8" :  "(372,378, preds)",
+"9" :  "(372,375, preds)",
+"10" :  "(373,375, i)",
+"11" :  "(373,376, i)",
+"12" :  "(376,375, i)",
+"13" :  "(376,376, i)"}]
+}

@@ -1,0 +1,15 @@
+{
+"Class" : "org.joda.time.chrono.BasicSingleEraDateTimeField", 
+"Methods" : [{ "Name" : "set" ,
+"Duas" : 10,
+"0" :  "(73,(73,73), this)",
+"1" :  "(73,(73,76), this)",
+"2" :  "(73,76, instant)",
+"3" :  "(73,(73,73), text)",
+"4" :  "(73,(73,76), text)",
+"5" :  "(73,(73,74), text)",
+"6" :  "(73,(73,76), text)",
+"7" :  "(73,74, text)",
+"8" :  "(73,(73,73), this.iEraText)",
+"9" :  "(73,(73,76), this.iEraText)"}]
+}

@@ -1,0 +1,9 @@
+{
+"Class" : "org.jfree.data.xy.junit.XYIntervalTests", 
+"Methods" : [{ "Name" : "suite" ,
+"Duas" : 4,
+"0" :  "(67,(67,67), class$org$jfree$data$xy$junit$XYIntervalTests)",
+"1" :  "(67,(67,67), class$org$jfree$data$xy$junit$XYIntervalTests)",
+"2" :  "(67,67, class$org$jfree$data$xy$junit$XYIntervalTests)",
+"3" :  "(67,67, class$org$jfree$data$xy$junit$XYIntervalTests)"}]
+}

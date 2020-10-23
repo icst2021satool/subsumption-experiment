@@ -1,0 +1,14 @@
+{
+"Class" : "org.apache.commons.jxpath.ri.model.container.ContainerPointerFactory", 
+"Methods" : [{ "Name" : "createNodePointer" ,
+"Duas" : "4" ,
+"Subsumers" : 2,
+"0" : [ 3, 2, 0], "S0" : [0, 2, 3 ],
+"1" : [ 1], "S1" : [1 ]
+},{ "Name" : "createNodePointer" ,
+"Duas" : "4" ,
+"Subsumers" : 2,
+"0" : [ 3, 1, 0], "S0" : [0, 1, 3 ],
+"1" : [ 2], "S1" : [2 ]
+}]
+}

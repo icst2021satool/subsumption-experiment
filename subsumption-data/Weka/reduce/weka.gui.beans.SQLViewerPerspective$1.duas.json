@@ -1,0 +1,13 @@
+{
+"Class" : "weka.gui.beans.SQLViewerPerspective$1", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Duas" : 8,
+"0" :  "(75,(75,76), this)",
+"1" :  "(75,(75,78), this)",
+"2" :  "(75,76, this)",
+"3" :  "(75,(75,76), this.this$0)",
+"4" :  "(75,(75,78), this.this$0)",
+"5" :  "(75,76, this.this$0)",
+"6" :  "(75,(75,76), this.m_mainPerspective)",
+"7" :  "(75,(75,78), this.m_mainPerspective)"}]
+}

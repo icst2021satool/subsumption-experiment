@@ -1,0 +1,10 @@
+{
+"Class" : "weka.gui.beans.KnowledgeFlowApp$MainKFPerspective$29", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Duas" : "13" ,
+"Subsumers" : 3,
+"0" : [ 10, 6, 5, 3, 1], "S0" : [0, 1, 2, 3, 4, 5, 6, 7, 9, 10, 12 ],
+"1" : [ 11], "S1" : [0, 2, 4, 7, 9, 11, 12 ],
+"2" : [ 8], "S2" : [8 ]
+}]
+}

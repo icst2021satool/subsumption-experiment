@@ -1,0 +1,10 @@
+{
+"Class" : "weka.datagenerators.classifiers.classification.Agrawal$1", 
+"Methods" : [{ "Name" : "determineClass" ,
+"Duas" : "4" ,
+"Subsumers" : 3,
+"0" : [ 2], "S0" : [0, 2 ],
+"1" : [ 3], "S1" : [0, 3 ],
+"2" : [ 1], "S2" : [1 ]
+}]
+}

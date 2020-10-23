@@ -1,0 +1,10 @@
+{
+"Class" : "weka.gui.beans.InstanceEvent", 
+"Methods" : [{ "Name" : "setStatus" ,
+"Duas" : 5,
+"0" :  "(120,(122,123), this)",
+"1" :  "(120,(122,125), this)",
+"2" :  "(120,123, this)",
+"3" :  "(120,(122,123), this.m_status)",
+"4" :  "(120,(122,125), this.m_status)"}]
+}

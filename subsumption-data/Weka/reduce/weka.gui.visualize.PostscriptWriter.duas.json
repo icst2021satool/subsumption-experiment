@@ -1,0 +1,8 @@
+{
+"Class" : "weka.gui.visualize.PostscriptWriter", 
+"Methods" : [{ "Name" : "generateOutput" ,
+"Duas" : 3,
+"0" :  "(101,(112,114), ostrm)",
+"1" :  "(101,(112,120), ostrm)",
+"2" :  "(101,114, ostrm)"}]
+}

@@ -1,0 +1,8 @@
+{
+"Class" : "org.apache.commons.compress.archivers.jar.JarArchiveInputStream", 
+"Methods" : [{ "Name" : "getNextJarEntry" ,
+"Duas" : 3,
+"0" :  "(35,(36,36), entry)",
+"1" :  "(35,(36,36), entry)",
+"2" :  "(35,36, entry)"}]
+}

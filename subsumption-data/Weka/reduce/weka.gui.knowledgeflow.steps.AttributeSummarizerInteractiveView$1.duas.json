@@ -1,0 +1,9 @@
+{
+"Class" : "weka.gui.knowledgeflow.steps.AttributeSummarizerInteractiveView$1", 
+"Methods" : [{ "Name" : "entriesDeleted" ,
+"Duas" : 4,
+"0" :  "(106,112, ds)",
+"1" :  "(106,109, ds)",
+"2" :  "(107,112, toRemove)",
+"3" :  "(107,109, toRemove)"}]
+}

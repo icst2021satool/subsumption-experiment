@@ -1,0 +1,14 @@
+{
+"Class" : "com.sun.xml.bind.v2.runtime.property.SingleMapNodeProperty$Stack", 
+"Methods" : [{ "Name" : "push" ,
+"Duas" : "7" ,
+"Subsumers" : 2,
+"0" : [ 6, 5, 2, 0], "S0" : [0, 2, 5, 6 ],
+"1" : [ 4, 3, 1], "S1" : [1, 3, 4 ]
+},{ "Name" : "pop" ,
+"Duas" : "10" ,
+"Subsumers" : 2,
+"0" : [ 8, 7, 4, 3, 0], "S0" : [0, 3, 4, 5, 7, 8, 9 ],
+"1" : [ 6, 2, 1], "S1" : [1, 2, 5, 6, 9 ]
+}]
+}

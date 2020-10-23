@@ -1,0 +1,22 @@
+{
+"Class" : "weka.core.pmml.jaxbbindings.Decisions", 
+"Methods" : [{ "Name" : "getExtension" ,
+"Duas" : 8,
+"0" :  "(85,(85,86), this)",
+"1" :  "(85,(85,88), this)",
+"2" :  "(85,88, this)",
+"3" :  "(85,86, this)",
+"4" :  "(85,(85,86), this.extension)",
+"5" :  "(85,(85,88), this.extension)",
+"6" :  "(85,88, this.extension)",
+"7" :  "(86,88, this.extension)"},{ "Name" : "getDecision" ,
+"Duas" : 8,
+"0" :  "(114,(114,115), this)",
+"1" :  "(114,(114,117), this)",
+"2" :  "(114,117, this)",
+"3" :  "(114,115, this)",
+"4" :  "(114,(114,115), this.decision)",
+"5" :  "(114,(114,117), this.decision)",
+"6" :  "(114,117, this.decision)",
+"7" :  "(115,117, this.decision)"}]
+}

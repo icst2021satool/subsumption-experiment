@@ -1,0 +1,7 @@
+{
+"Class" : "weka.gui.sql.event.ConnectionEvent", 
+"Methods" : [{ "Name" : "failed" ,
+"Duas" : 2,
+"0" :  "(98,(98,98), this)",
+"1" :  "(98,(98,98), this)"}]
+}

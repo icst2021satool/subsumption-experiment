@@ -1,0 +1,22 @@
+{
+"Class" : "weka.core.pmml.jaxbbindings.Discretize", 
+"Methods" : [{ "Name" : "getExtension" ,
+"Duas" : 8,
+"0" :  "(91,(91,92), this)",
+"1" :  "(91,(91,94), this)",
+"2" :  "(91,94, this)",
+"3" :  "(91,92, this)",
+"4" :  "(91,(91,92), this.extension)",
+"5" :  "(91,(91,94), this.extension)",
+"6" :  "(91,94, this.extension)",
+"7" :  "(92,94, this.extension)"},{ "Name" : "getDiscretizeBin" ,
+"Duas" : 8,
+"0" :  "(120,(120,121), this)",
+"1" :  "(120,(120,123), this)",
+"2" :  "(120,123, this)",
+"3" :  "(120,121, this)",
+"4" :  "(120,(120,121), this.discretizeBin)",
+"5" :  "(120,(120,123), this.discretizeBin)",
+"6" :  "(120,123, this.discretizeBin)",
+"7" :  "(121,123, this.discretizeBin)"}]
+}

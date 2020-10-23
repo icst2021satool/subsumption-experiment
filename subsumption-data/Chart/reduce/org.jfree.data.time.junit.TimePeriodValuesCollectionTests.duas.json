@@ -1,0 +1,9 @@
+{
+"Class" : "org.jfree.data.time.junit.TimePeriodValuesCollectionTests", 
+"Methods" : [{ "Name" : "suite" ,
+"Duas" : 4,
+"0" :  "(77,(77,77), class$org$jfree$data$time$junit$TimePeriodValuesCollectionTests)",
+"1" :  "(77,(77,77), class$org$jfree$data$time$junit$TimePeriodValuesCollectionTests)",
+"2" :  "(77,77, class$org$jfree$data$time$junit$TimePeriodValuesCollectionTests)",
+"3" :  "(77,77, class$org$jfree$data$time$junit$TimePeriodValuesCollectionTests)"}]
+}

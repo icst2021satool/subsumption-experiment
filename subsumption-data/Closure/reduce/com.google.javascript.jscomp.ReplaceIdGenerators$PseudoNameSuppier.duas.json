@@ -1,0 +1,16 @@
+{
+"Class" : "com.google.javascript.jscomp.ReplaceIdGenerators$PseudoNameSuppier", 
+"Methods" : [{ "Name" : "getName" ,
+"Duas" : 11,
+"0" :  "(145,(145,146), this)",
+"1" :  "(145,(145,148), this)",
+"2" :  "(145,146, this)",
+"3" :  "(145,146, this)",
+"4" :  "(145,148, name)",
+"5" :  "(145,146, name)",
+"6" :  "(145,(145,146), INCONSISTENT)",
+"7" :  "(145,(145,148), INCONSISTENT)",
+"8" :  "(145,(145,146), this.renameStrategy)",
+"9" :  "(145,(145,148), this.renameStrategy)",
+"10" :  "(145,146, this.counter)"}]
+}

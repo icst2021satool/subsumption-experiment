@@ -1,0 +1,20 @@
+{
+"Class" : "weka.core.pmml.jaxbbindings.RadialBasisKernelType", 
+"Methods" : [{ "Name" : "getExtension" ,
+"Duas" : 8,
+"0" :  "(81,(81,82), this)",
+"1" :  "(81,(81,84), this)",
+"2" :  "(81,84, this)",
+"3" :  "(81,82, this)",
+"4" :  "(81,(81,82), this.extension)",
+"5" :  "(81,(81,84), this.extension)",
+"6" :  "(81,84, this.extension)",
+"7" :  "(82,84, this.extension)"},{ "Name" : "getGamma" ,
+"Duas" : 6,
+"0" :  "(120,(120,121), this)",
+"1" :  "(120,(120,123), this)",
+"2" :  "(120,123, this)",
+"3" :  "(120,(120,121), this.gamma)",
+"4" :  "(120,(120,123), this.gamma)",
+"5" :  "(120,123, this.gamma)"}]
+}

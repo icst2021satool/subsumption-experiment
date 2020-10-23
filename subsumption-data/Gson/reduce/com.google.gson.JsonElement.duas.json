@@ -1,0 +1,20 @@
+{
+"Class" : "com.google.gson.JsonElement", 
+"Methods" : [{ "Name" : "getAsJsonObject" ,
+"Duas" : 3,
+"0" :  "(80,(80,81), this)",
+"1" :  "(80,(80,83), this)",
+"2" :  "(80,81, this)"},{ "Name" : "getAsJsonArray" ,
+"Duas" : 3,
+"0" :  "(96,(96,97), this)",
+"1" :  "(96,(96,99), this)",
+"2" :  "(96,97, this)"},{ "Name" : "getAsJsonPrimitive" ,
+"Duas" : 3,
+"0" :  "(112,(112,113), this)",
+"1" :  "(112,(112,115), this)",
+"2" :  "(112,113, this)"},{ "Name" : "getAsJsonNull" ,
+"Duas" : 3,
+"0" :  "(129,(129,130), this)",
+"1" :  "(129,(129,132), this)",
+"2" :  "(129,130, this)"}]
+}

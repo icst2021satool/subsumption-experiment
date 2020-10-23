@@ -1,0 +1,13 @@
+{
+"Class" : "weka.gui.beans.KnowledgeFlowApp$23", 
+"Methods" : [{ "Name" : "windowClosing" ,
+"Duas" : 8,
+"0" :  "(5177,(5177,5178), this)",
+"1" :  "(5177,(5177,5180), this)",
+"2" :  "(5177,5180, this)",
+"3" :  "(5177,5178, this)",
+"4" :  "(5177,(5177,5178), this.val$customizer)",
+"5" :  "(5177,(5177,5180), this.val$customizer)",
+"6" :  "(5177,5178, this.val$customizer)",
+"7" :  "(5177,5180, this.val$d)"}]
+}

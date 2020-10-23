@@ -1,0 +1,15 @@
+{
+"Class" : "org.apache.commons.collections4.bag.SynchronizedBag", 
+"Methods" : [{ "Name" : "equals" ,
+"Duas" : 10,
+"0" :  "(87,(87,88), this)",
+"1" :  "(87,(87,90), this)",
+"2" :  "(87,90, this)",
+"3" :  "(87,90, this)",
+"4" :  "(87,91, this)",
+"5" :  "(87,(87,88), object)",
+"6" :  "(87,(87,90), object)",
+"7" :  "(87,91, object)",
+"8" :  "(87,90, this.lock)",
+"9" :  "(87,90, this.lock)"}]
+}

@@ -1,0 +1,23 @@
+{
+"Class" : "org.jfree.data.statistics.junit.DefaultStatisticalCategoryDatasetTests", 
+"Methods" : [{ "Name" : "suite" ,
+"Duas" : 4,
+"0" :  "(73,(73,73), class$org$jfree$data$statistics$junit$DefaultStatisticalCategoryDatasetTests)",
+"1" :  "(73,(73,73), class$org$jfree$data$statistics$junit$DefaultStatisticalCategoryDatasetTests)",
+"2" :  "(73,73, class$org$jfree$data$statistics$junit$DefaultStatisticalCategoryDatasetTests)",
+"3" :  "(73,73, class$org$jfree$data$statistics$junit$DefaultStatisticalCategoryDatasetTests)"},{ "Name" : "testCloning" ,
+"Duas" : 13,
+"0" :  "(142,(155,155), d1)",
+"1" :  "(142,(155,155), d1)",
+"2" :  "(142,(156,156), d1)",
+"3" :  "(142,(156,156), d1)",
+"4" :  "(142,157, d1)",
+"5" :  "(142,160, d1)",
+"6" :  "(142,161, d1)",
+"7" :  "(150,(155,155), d2)",
+"8" :  "(150,(155,155), d2)",
+"9" :  "(150,(156,156), d2)",
+"10" :  "(150,(156,156), d2)",
+"11" :  "(150,157, d2)",
+"12" :  "(150,161, d2)"}]
+}

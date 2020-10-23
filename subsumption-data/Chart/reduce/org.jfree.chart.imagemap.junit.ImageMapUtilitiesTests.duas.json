@@ -1,0 +1,9 @@
+{
+"Class" : "org.jfree.chart.imagemap.junit.ImageMapUtilitiesTests", 
+"Methods" : [{ "Name" : "suite" ,
+"Duas" : 4,
+"0" :  "(60,(60,60), class$org$jfree$chart$imagemap$junit$ImageMapUtilitiesTests)",
+"1" :  "(60,(60,60), class$org$jfree$chart$imagemap$junit$ImageMapUtilitiesTests)",
+"2" :  "(60,60, class$org$jfree$chart$imagemap$junit$ImageMapUtilitiesTests)",
+"3" :  "(60,60, class$org$jfree$chart$imagemap$junit$ImageMapUtilitiesTests)"}]
+}

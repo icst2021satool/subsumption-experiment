@@ -1,0 +1,9 @@
+{
+"Class" : "weka.gui.knowledgeflow.steps.ScatterPlotMatrixInteractiveView$1", 
+"Methods" : [{ "Name" : "entriesDeleted" ,
+"Duas" : 4,
+"0" :  "(104,110, ds)",
+"1" :  "(104,107, ds)",
+"2" :  "(105,110, toRemove)",
+"3" :  "(105,107, toRemove)"}]
+}

@@ -1,0 +1,371 @@
+org.apache.commons.cli.PatternOptionBuilder org.apache.commons.cli.OptionValidator org.apache.commons.cli.Util org.apache.commons.cli.Option org.apache.commons.cli.OptionGroup org.apache.commons.cli.GnuParser org.apache.commons.cli.CommandLine org.apache.commons.cli.TypeHandler org.apache.commons.cli.HelpFormatter org.apache.commons.cli.PosixParser org.apache.commons.cli.Parser org.apache.commons.cli.OptionBuilder org.apache.commons.cli.Options
+org.apache.commons.cli.PatternOptionBuilder
+Directory of jaguar data: ../jaguar-data/commons-cli/1b
+Directory of subsumption data: ../subsumption-data/Cli
+Analyzing class org.apache.commons.cli.PatternOptionBuilder 
+../jaguar-data/commons-cli/1b/jaguar/.jaguar/matrix
+org.apache.commons.cli.PatternOptionBuilder.matrix
+../subsumption-data/Cli/reduce/org.apache.commons.cli.PatternOptionBuilder.sub.json
+>>>>> org.apache.commons.cli.PatternOptionBuilder <<<<<
+0:getValueClass:27
+1:isValueCode:20
+2:parsePattern:56
+Total :1: tests for class:org.apache.commons.cli.PatternOptionBuilder:
+Methods executed: 3
+org.apache.commons.cli.OptionValidator
+Directory of jaguar data: ../jaguar-data/commons-cli/1b
+Directory of subsumption data: ../subsumption-data/Cli
+Analyzing class org.apache.commons.cli.OptionValidator 
+../jaguar-data/commons-cli/1b/jaguar/.jaguar/matrix
+org.apache.commons.cli.OptionValidator.matrix
+../subsumption-data/Cli/reduce/org.apache.commons.cli.OptionValidator.sub.json
+>>>>> org.apache.commons.cli.OptionValidator <<<<<
+0:validateOption:26
+1:isValidOpt:8
+Total :88: tests for class:org.apache.commons.cli.OptionValidator:
+Methods executed: 2
+org.apache.commons.cli.Util
+Directory of jaguar data: ../jaguar-data/commons-cli/1b
+Directory of subsumption data: ../subsumption-data/Cli
+Analyzing class org.apache.commons.cli.Util 
+../jaguar-data/commons-cli/1b/jaguar/.jaguar/matrix
+org.apache.commons.cli.Util.matrix
+../subsumption-data/Cli/reduce/org.apache.commons.cli.Util.sub.json
+>>>>> org.apache.commons.cli.Util <<<<<
+0:stripLeadingHyphens:7
+1:stripLeadingAndTrailingQuotes:12
+Total :74: tests for class:org.apache.commons.cli.Util:
+Methods executed: 2
+org.apache.commons.cli.Option
+Directory of jaguar data: ../jaguar-data/commons-cli/1b
+Directory of subsumption data: ../subsumption-data/Cli
+Analyzing class org.apache.commons.cli.Option 
+../jaguar-data/commons-cli/1b/jaguar/.jaguar/matrix
+org.apache.commons.cli.Option.matrix
+../subsumption-data/Cli/reduce/org.apache.commons.cli.Option.sub.json
+>>>>> org.apache.commons.cli.Option <<<<<
+0:<init>:7
+1:getKey:8
+2:hasLongOpt:4
+3:hasArg:8
+4:hasArgName:8
+5:hasArgs:8
+6:hasValueSeparator:4
+7:addValue:6
+8:processValue:27
+9:add:13
+10:getValue:4
+11:getValue:5
+12:getValue:4
+13:getValues:4
+14:toString:25
+15:hasNoValues:4
+16:equals:43
+17:hashCode:11
+Total :88: tests for class:org.apache.commons.cli.Option:
+Methods executed: 15
+org.apache.commons.cli.OptionGroup
+Directory of jaguar data: ../jaguar-data/commons-cli/1b
+Directory of subsumption data: ../subsumption-data/Cli
+Analyzing class org.apache.commons.cli.OptionGroup 
+../jaguar-data/commons-cli/1b/jaguar/.jaguar/matrix
+org.apache.commons.cli.OptionGroup.matrix
+../subsumption-data/Cli/reduce/org.apache.commons.cli.OptionGroup.sub.json
+>>>>> org.apache.commons.cli.OptionGroup <<<<<
+0:setSelected:14
+1:toString:19
+Total :10: tests for class:org.apache.commons.cli.OptionGroup:
+Methods executed: 2
+org.apache.commons.cli.GnuParser
+Directory of jaguar data: ../jaguar-data/commons-cli/1b
+Directory of subsumption data: ../subsumption-data/Cli
+Analyzing class org.apache.commons.cli.GnuParser 
+../jaguar-data/commons-cli/1b/jaguar/.jaguar/matrix
+org.apache.commons.cli.GnuParser.matrix
+../subsumption-data/Cli/reduce/org.apache.commons.cli.GnuParser.sub.json
+>>>>> org.apache.commons.cli.GnuParser <<<<<
+0:flatten:170
+Total :13: tests for class:org.apache.commons.cli.GnuParser:
+Methods executed: 1
+org.apache.commons.cli.CommandLine
+Directory of jaguar data: ../jaguar-data/commons-cli/1b
+Directory of subsumption data: ../subsumption-data/Cli
+Analyzing class org.apache.commons.cli.CommandLine 
+../jaguar-data/commons-cli/1b/jaguar/.jaguar/matrix
+org.apache.commons.cli.CommandLine.matrix
+../subsumption-data/Cli/reduce/org.apache.commons.cli.CommandLine.sub.json
+>>>>> org.apache.commons.cli.CommandLine <<<<<
+0:getOptionObject:13
+1:getOptionValue:3
+2:getOptionValues:21
+3:getOptionValue:4
+4:addOption:12
+Total :70: tests for class:org.apache.commons.cli.CommandLine:
+Methods executed: 4
+org.apache.commons.cli.TypeHandler
+Directory of jaguar data: ../jaguar-data/commons-cli/1b
+Directory of subsumption data: ../subsumption-data/Cli
+Analyzing class org.apache.commons.cli.TypeHandler 
+../jaguar-data/commons-cli/1b/jaguar/.jaguar/matrix
+org.apache.commons.cli.TypeHandler.matrix
+../subsumption-data/Cli/reduce/org.apache.commons.cli.TypeHandler.sub.json
+>>>>> org.apache.commons.cli.TypeHandler <<<<<
+0:createValue:45
+1:createDate:5
+Total :1: tests for class:org.apache.commons.cli.TypeHandler:
+Methods executed: 1
+org.apache.commons.cli.HelpFormatter
+Directory of jaguar data: ../jaguar-data/commons-cli/1b
+Directory of subsumption data: ../subsumption-data/Cli
+Analyzing class org.apache.commons.cli.HelpFormatter 
+../jaguar-data/commons-cli/1b/jaguar/.jaguar/matrix
+org.apache.commons.cli.HelpFormatter.matrix
+../subsumption-data/Cli/reduce/org.apache.commons.cli.HelpFormatter.sub.json
+>>>>> org.apache.commons.cli.HelpFormatter <<<<<
+0:printHelp:37
+1:printUsage:23
+2:appendOptionGroup:14
+3:appendOption:18
+4:renderOptions:76
+5:renderWrappedText:31
+6:findWrapPos:88
+7:createPadding:10
+8:rtrim:21
+No unconstrained duas covered in testcase 1 of printUsage: [1 1 1 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0]: [0 0 0 0 0 1 1 1 1 1 1 0 0 0 1 1 1 0 1 1 1 1 1]
+[0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 0 1 0 0 0 0]
+[1 1 1 1 1 1 0 0 0 0 0 1 1 1 0 0 1 0 1 0 0 0 0]
+[0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0]
+[1 1 1 1 1 0 1 0 0 0 0 1 1 1 1 0 0 0 0 0 0 0 0]
+[0 0 0 0 0 0 0 1 1 0 1 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 1 1 0 0 1 1 0 1 1 1 1 0 0 0 1 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 0 0]
+[1 1 1 1 1 0 0 0 0 1 0 1 1 1 0 0 0 1 0 0 1 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0]
+[1 1 1 1 1 0 0 0 0 0 0 1 1 1 0 1 0 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 1 of renderOptions: [0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0]: [0 1 0 0 1 1 0 0 1 0 0 1 1 0 1 0 1 0 1 1 0 1 1 1 0 0 0 0 0 0 0 1 0 0 1 1 0
+ 1 1 1 1 1 1 0 0 0 0 0 1 1 1 1 1 1 0 1 1 1 0 0 0 0 0 1 1 1 1 1 1 0 0 0 0 1
+ 0 0]
+[0 1 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0
+ 0 0]
+[1 1 0 0 0 0 1 1 1 1 1 0 0 0 1 0 0 1 0 0 0 0 0 0 0 1 0 1 0 1 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 0 0 0 0 0 0 0 1 1 0
+ 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0]
+[1 0 1 0 0 0 1 1 0 1 1 0 0 0 0 0 0 1 1 0 1 1 0 0 0 1 0 1 0 1 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0 0 1 0 1 1 0
+ 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0]
+[1 0 1 0 0 0 1 1 0 1 1 0 0 0 0 0 0 1 0 0 0 0 0 0 1 1 1 1 1 1 1 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 1 0 0 1 0 0 0 0 1 0 1 1 0 0 0 1 1 1 1 0 0 0 0 0 0 1 0 1 1 0
+ 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0]
+[1 0 0 0 0 0 1 1 0 1 1 0 0 0 0 0 0 1 0 1 1 0 0 0 0 1 0 1 0 1 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0 0 0 1 1 1 0
+ 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0]
+[1 0 0 0 0 0 1 1 0 1 1 0 0 0 0 0 0 1 0 0 0 0 0 0 1 1 1 1 1 1 1 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 1 1 0 0 0 0 1 1 1 1 0 0 0 0 0 0 0 1 1 1 0
+ 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0
+ 0 0]
+[1 0 0 0 0 0 1 1 0 1 1 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 1 0 1 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 1 0 0 0 0 0 0 1 1 0
+ 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 1
+ 0 0]
+[1 0 0 0 0 0 1 1 0 1 1 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 1 0 1 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 1 0 1 0 0 0 1 1 1
+ 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0
+ 0 0]
+[1 0 0 0 0 0 1 1 0 1 1 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 1 0 1 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 1 0 0 0 0 1 1 0
+ 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0
+ 0 0]
+[1 0 0 0 0 0 1 1 0 1 1 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 1 0 1 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0 1 0 0 1 1 0
+ 0 1]
+[0 0 0 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0
+ 0 0 0 0 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0]
+[0 0 0 1 1 0 1 0 0 0 0 1 0 1 0 1 0 0 0 0 0 0 0 0 1 0 1 1 1 1 1 0 1 1 1 0 0
+ 0 0 0 0 1 0 1 1 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0]
+[0 0 0 1 0 0 1 0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 1 0 1 1 1 1 1 0 1 1 0 1 0
+ 0 0 0 0 0 0 1 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0]
+[0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0
+ 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0]
+[0 0 0 0 0 1 1 0 0 0 0 0 1 0 0 0 1 0 0 0 0 0 0 0 1 0 1 1 1 1 1 1 0 0 0 0 0
+ 0 0 0 0 0 1 0 1 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0]
+[0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 0 1 1 1 1 1 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 1 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0]
+[0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 1 1 1 1 1 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 1 0 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0]
+[0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1 1 1 1 0 0 0 0 0 1
+ 0 1 0 1 0 0 0 1 0 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0]
+[0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1 1 1 1 0 0 0 0 0 1
+ 0 0 1 0 0 0 0 1 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0]
+[0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1 1 1 1 0 0 0 0 0 0
+ 1 0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0]
+[0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1 1 1 1 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 1 1 0 1 0 0 0 0 0 0 0 0 1 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0]
+[0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1 1 1 1 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 1 0 1 1 0 0 0 0 0 0 0 0 0 1 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0]
+Total :6: tests for class:org.apache.commons.cli.HelpFormatter:
+Methods executed: 8
+Unconstrained method :printUsage:1:1
+Unconstrained method :renderOptions:1:1
+org.apache.commons.cli.PosixParser
+Directory of jaguar data: ../jaguar-data/commons-cli/1b
+Directory of subsumption data: ../subsumption-data/Cli
+Analyzing class org.apache.commons.cli.PosixParser 
+../jaguar-data/commons-cli/1b/jaguar/.jaguar/matrix
+org.apache.commons.cli.PosixParser.matrix
+../subsumption-data/Cli/reduce/org.apache.commons.cli.PosixParser.sub.json
+>>>>> org.apache.commons.cli.PosixParser <<<<<
+0:flatten:49
+1:gobble:9
+2:process:29
+3:processOptionToken:15
+4:burstToken:45
+No unconstrained duas covered in testcase 12 of flatten: [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0]: [0 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 0 0 0 0 0 0 1 0 0 0 1 1 0 1
+ 1 1 1 1 1 1 1 1 1 1 1 0]
+[0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0]
+[1 1 1 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 1 0 0 0 0 1 1 1 1 0 1 0 1 0 1 1 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0]
+[1 0 1 1 0 0 0 0 0 0 0 0 0 1 0 0 0 1 0 0 0 0 0 1 1 1 1 0 1 0 1 0 1 0 1 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 1 1 0 0 0 0 0 0 0 0 0 0]
+[1 0 1 0 1 0 0 0 0 0 0 0 1 0 0 1 0 1 0 0 0 0 0 1 1 1 1 0 1 0 1 1 0 0 0 1 0
+ 1 1 0 0 0 0 0 0 0 0 0 1]
+[0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
+ 0 0 1 0 0 0 0 0 0 0 0 0]
+[1 0 1 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1 0 1 0 0 0 1 1 1 1 0 1 0 1 1 0 0 0 1 1
+ 0 0 1 0 0 0 0 0 0 0 0 1]
+[0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 1 0 0 0 0 0 0 1 0]
+[1 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 1 1 1 1 0 1 0 1 1 0 0 0 1 0
+ 0 0 0 1 0 0 0 0 0 0 1 0]
+[0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0
+ 0 0 0 0 1 0 0 0 0 0 0 0]
+[1 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 1 1 1 0 1 1 0 0 0 0 0 0 0
+ 0 0 0 0 1 0 0 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 1 1 0 0 0 0]
+[1 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 0 0 1 0 0 1 1 1 1 1 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 1 1 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 1 0 0 1 1 0 0]
+[1 0 1 0 0 0 0 0 0 1 1 0 0 0 0 0 0 1 0 0 0 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 1 0 0 1 1 0 0]
+Total :61: tests for class:org.apache.commons.cli.PosixParser:
+Methods executed: 5
+Unconstrained method :flatten:1:1
+org.apache.commons.cli.Parser
+Directory of jaguar data: ../jaguar-data/commons-cli/1b
+Directory of subsumption data: ../subsumption-data/Cli
+Analyzing class org.apache.commons.cli.Parser 
+../jaguar-data/commons-cli/1b/jaguar/.jaguar/matrix
+org.apache.commons.cli.Parser.matrix
+../subsumption-data/Cli/reduce/org.apache.commons.cli.Parser.sub.json
+>>>>> org.apache.commons.cli.Parser <<<<<
+0:parse:61
+1:processProperties:34
+2:checkRequiredOptions:11
+3:processArgs:19
+4:processOption:35
+Total :73: tests for class:org.apache.commons.cli.Parser:
+Methods executed: 4
+org.apache.commons.cli.OptionBuilder
+Directory of jaguar data: ../jaguar-data/commons-cli/1b
+Directory of subsumption data: ../subsumption-data/Cli
+Analyzing class org.apache.commons.cli.OptionBuilder 
+../jaguar-data/commons-cli/1b/jaguar/.jaguar/matrix
+org.apache.commons.cli.OptionBuilder.matrix
+../subsumption-data/Cli/reduce/org.apache.commons.cli.OptionBuilder.sub.json
+>>>>> org.apache.commons.cli.OptionBuilder <<<<<
+0:hasArg:3
+1:create:2
+Total :20: tests for class:org.apache.commons.cli.OptionBuilder:
+Methods executed: 2
+org.apache.commons.cli.Options
+Directory of jaguar data: ../jaguar-data/commons-cli/1b
+Directory of subsumption data: ../subsumption-data/Cli
+Analyzing class org.apache.commons.cli.Options 
+../jaguar-data/commons-cli/1b/jaguar/.jaguar/matrix
+org.apache.commons.cli.Options.matrix
+../subsumption-data/Cli/reduce/org.apache.commons.cli.Options.sub.json
+>>>>> org.apache.commons.cli.Options <<<<<
+0:addOptionGroup:13
+1:addOption:24
+2:helpOptions:10
+3:getOption:12
+4:hasOption:12
+No unconstrained duas covered in testcase 11 of helpOptions: [1 0 0 0 0 1 0 0 0 0]: [0 1 1 1 0 0 0 1 1 1]
+[0 1 0 1 0 0 0 1 0 1]
+[1 1 0 1 1 1 1 1 0 1]
+[0 0 1 0 0 0 0 0 1 0]
+[1 0 1 0 1 1 1 0 1 0]
+No unconstrained duas covered in testcase 16 of helpOptions: [1 0 0 0 0 1 0 0 0 0]: [0 1 1 1 0 0 0 1 1 1]
+[0 1 0 1 0 0 0 1 0 1]
+[1 1 0 1 1 1 1 1 0 1]
+[0 0 1 0 0 0 0 0 1 0]
+[1 0 1 0 1 1 1 0 1 0]
+Total :82: tests for class:org.apache.commons.cli.Options:
+Methods executed: 5
+Unconstrained method :helpOptions:1:2

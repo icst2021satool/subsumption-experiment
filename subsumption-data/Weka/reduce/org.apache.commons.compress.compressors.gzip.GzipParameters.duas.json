@@ -1,0 +1,12 @@
+{
+"Class" : "org.apache.commons.compress.compressors.gzip.GzipParameters", 
+"Methods" : [{ "Name" : "setCompressionLevel" ,
+"Duas" : 7,
+"0" :  "(51,54, this)",
+"1" :  "(51,(51,51), compressionLevel)",
+"2" :  "(51,(51,52), compressionLevel)",
+"3" :  "(51,52, compressionLevel)",
+"4" :  "(51,(51,52), compressionLevel)",
+"5" :  "(51,(51,54), compressionLevel)",
+"6" :  "(51,54, compressionLevel)"}]
+}

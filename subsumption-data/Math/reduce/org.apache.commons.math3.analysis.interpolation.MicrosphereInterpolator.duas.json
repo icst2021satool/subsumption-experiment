@@ -1,0 +1,15 @@
+{
+"Class" : "org.apache.commons.math3.analysis.interpolation.MicrosphereInterpolator", 
+"Methods" : [{ "Name" : "<init>" ,
+"Duas" : 10,
+"0" :  "(76,84, this)",
+"1" :  "(76,85, this)",
+"2" :  "(76,(80,81), elements)",
+"3" :  "(76,(80,84), elements)",
+"4" :  "(76,84, elements)",
+"5" :  "(76,81, elements)",
+"6" :  "(76,(77,78), exponent)",
+"7" :  "(76,(77,80), exponent)",
+"8" :  "(76,85, exponent)",
+"9" :  "(76,78, exponent)"}]
+}

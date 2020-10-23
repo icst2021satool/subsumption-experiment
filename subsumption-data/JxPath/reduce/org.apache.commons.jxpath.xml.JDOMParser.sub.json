@@ -1,0 +1,9 @@
+{
+"Class" : "org.apache.commons.jxpath.xml.JDOMParser", 
+"Methods" : [{ "Name" : "parseXML" ,
+"Duas" : "6" ,
+"Subsumers" : 2,
+"0" : [ 0], "S0" : [0 ],
+"1" : [ 5, 2, 3, 4, 1], "S1" : [1, 2, 3, 4, 5 ]
+}]
+}

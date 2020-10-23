@@ -1,0 +1,14 @@
+{
+"Class" : "org.joda.time.format.PeriodFormatterBuilder$CompositeAffix", 
+"Methods" : [{ "Name" : "parse" ,
+"Duas" : "8" ,
+"Subsumers" : 2,
+"0" : [ 7, 6, 3, 2, 1, 0], "S0" : [0, 1, 2, 3, 6, 7 ],
+"1" : [ 5, 4], "S1" : [4, 5 ]
+},{ "Name" : "scan" ,
+"Duas" : "7" ,
+"Subsumers" : 2,
+"0" : [ 6, 4, 3, 1, 0], "S0" : [0, 1, 3, 4, 6 ],
+"1" : [ 5, 2], "S1" : [2, 5 ]
+}]
+}

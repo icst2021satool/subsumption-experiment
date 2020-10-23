@@ -1,0 +1,17 @@
+{
+"Class" : "weka.gui.visualize.Plot2D$1", 
+"Methods" : [{ "Name" : "windowClosing" ,
+"Duas" : 12,
+"0" :  "(598,(598,598), this)",
+"1" :  "(598,(598,599), this)",
+"2" :  "(598,599, this)",
+"3" :  "(598,601, this)",
+"4" :  "(598,(598,599), this)",
+"5" :  "(598,(598,601), this)",
+"6" :  "(598,(598,598), this.val$newFrame)",
+"7" :  "(598,(598,599), this.val$newFrame)",
+"8" :  "(598,(598,599), this.val$testf)",
+"9" :  "(598,(598,601), this.val$testf)",
+"10" :  "(598,599, this.this$0)",
+"11" :  "(598,601, this.val$jf)"}]
+}

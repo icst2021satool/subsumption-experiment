@@ -1,0 +1,16 @@
+{
+"Class" : "com.google.javascript.jscomp.graph.GraphColoring$GreedyGraphColoring$1", 
+"Methods" : [{ "Name" : "compare" ,
+"Duas" : 11,
+"0" :  "(139,141, this)",
+"1" :  "(139,(141,141), this)",
+"2" :  "(139,(141,141), this)",
+"3" :  "(139,141, o1)",
+"4" :  "(139,141, o2)",
+"5" :  "(139,141, this.this$0)",
+"6" :  "(139,(141,141), this.this$0)",
+"7" :  "(139,(141,141), this.this$0)",
+"8" :  "(139,(141,141), result)",
+"9" :  "(139,(141,141), result)",
+"10" :  "(139,141, result)"}]
+}

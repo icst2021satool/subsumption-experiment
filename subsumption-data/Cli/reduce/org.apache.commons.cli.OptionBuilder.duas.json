@@ -1,0 +1,11 @@
+{
+"Class" : "org.apache.commons.cli.OptionBuilder", 
+"Methods" : [{ "Name" : "hasArg" ,
+"Duas" : 3,
+"0" :  "(117,(117,117), hasArg)",
+"1" :  "(117,(117,117), hasArg)",
+"2" :  "(117,119, instance)"},{ "Name" : "create" ,
+"Duas" : 2,
+"0" :  "(331,(331,333), longopt)",
+"1" :  "(331,(331,336), longopt)"}]
+}

@@ -1,0 +1,20 @@
+{
+"Class" : "weka.core.pmml.jaxbbindings.BaselineModel", 
+"Methods" : [{ "Name" : "getContent" ,
+"Duas" : 8,
+"0" :  "(125,(125,126), this)",
+"1" :  "(125,(125,128), this)",
+"2" :  "(125,128, this)",
+"3" :  "(125,126, this)",
+"4" :  "(125,(125,126), this.content)",
+"5" :  "(125,(125,128), this.content)",
+"6" :  "(125,128, this.content)",
+"7" :  "(126,128, this.content)"},{ "Name" : "isIsScorable" ,
+"Duas" : 6,
+"0" :  "(188,(188,189), this)",
+"1" :  "(188,(188,191), this)",
+"2" :  "(188,191, this)",
+"3" :  "(188,(188,189), this.isScorable)",
+"4" :  "(188,(188,191), this.isScorable)",
+"5" :  "(188,191, this.isScorable)"}]
+}

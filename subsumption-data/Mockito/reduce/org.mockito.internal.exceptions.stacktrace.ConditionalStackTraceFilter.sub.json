@@ -1,0 +1,9 @@
+{
+"Class" : "org.mockito.internal.exceptions.stacktrace.ConditionalStackTraceFilter", 
+"Methods" : [{ "Name" : "filter" ,
+"Duas" : "8" ,
+"Subsumers" : 2,
+"0" : [ 5, 0], "S0" : [0, 5 ],
+"1" : [ 7, 6, 3, 4, 2, 1], "S1" : [1, 2, 3, 4, 6, 7 ]
+}]
+}

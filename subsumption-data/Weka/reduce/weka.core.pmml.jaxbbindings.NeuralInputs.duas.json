@@ -1,0 +1,22 @@
+{
+"Class" : "weka.core.pmml.jaxbbindings.NeuralInputs", 
+"Methods" : [{ "Name" : "getExtension" ,
+"Duas" : 8,
+"0" :  "(83,(83,84), this)",
+"1" :  "(83,(83,86), this)",
+"2" :  "(83,86, this)",
+"3" :  "(83,84, this)",
+"4" :  "(83,(83,84), this.extension)",
+"5" :  "(83,(83,86), this.extension)",
+"6" :  "(83,86, this.extension)",
+"7" :  "(84,86, this.extension)"},{ "Name" : "getNeuralInput" ,
+"Duas" : 8,
+"0" :  "(112,(112,113), this)",
+"1" :  "(112,(112,115), this)",
+"2" :  "(112,115, this)",
+"3" :  "(112,113, this)",
+"4" :  "(112,(112,113), this.neuralInput)",
+"5" :  "(112,(112,115), this.neuralInput)",
+"6" :  "(112,115, this.neuralInput)",
+"7" :  "(113,115, this.neuralInput)"}]
+}

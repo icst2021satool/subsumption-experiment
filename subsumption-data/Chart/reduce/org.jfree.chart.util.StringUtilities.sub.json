@@ -1,0 +1,14 @@
+{
+"Class" : "org.jfree.chart.util.StringUtilities", 
+"Methods" : [{ "Name" : "startsWithIgnoreCase" ,
+"Duas" : "6" ,
+"Subsumers" : 2,
+"0" : [ 3, 0], "S0" : [0, 3 ],
+"1" : [ 5, 4, 2, 1], "S1" : [1, 2, 4, 5 ]
+},{ "Name" : "endsWithIgnoreCase" ,
+"Duas" : "6" ,
+"Subsumers" : 2,
+"0" : [ 3, 0], "S0" : [0, 3 ],
+"1" : [ 5, 4, 2, 1], "S1" : [1, 2, 4, 5 ]
+}]
+}

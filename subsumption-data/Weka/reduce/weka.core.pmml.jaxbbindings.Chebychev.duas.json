@@ -1,0 +1,13 @@
+{
+"Class" : "weka.core.pmml.jaxbbindings.Chebychev", 
+"Methods" : [{ "Name" : "getExtension" ,
+"Duas" : 8,
+"0" :  "(74,(74,75), this)",
+"1" :  "(74,(74,77), this)",
+"2" :  "(74,77, this)",
+"3" :  "(74,75, this)",
+"4" :  "(74,(74,75), this.extension)",
+"5" :  "(74,(74,77), this.extension)",
+"6" :  "(74,77, this.extension)",
+"7" :  "(75,77, this.extension)"}]
+}

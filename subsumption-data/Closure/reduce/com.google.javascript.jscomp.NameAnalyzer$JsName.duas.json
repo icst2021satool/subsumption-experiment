@@ -1,0 +1,21 @@
+{
+"Class" : "com.google.javascript.jscomp.NameAnalyzer$JsName", 
+"Methods" : [{ "Name" : "toString" ,
+"Duas" : 16,
+"0" :  "(241,(244,245), this)",
+"1" :  "(241,(244,256), this)",
+"2" :  "(241,247, this)",
+"3" :  "(241,(244,245), this.prototypeNames)",
+"4" :  "(241,(244,256), this.prototypeNames)",
+"5" :  "(241,247, this.prototypeNames)",
+"6" :  "(241,256, out)",
+"7" :  "(241,245, out)",
+"8" :  "(241,246, out)",
+"9" :  "(241,249, out)",
+"10" :  "(241,251, out)",
+"11" :  "(247,(248,249), pIter)",
+"12" :  "(247,(248,256), pIter)",
+"13" :  "(247,249, pIter)",
+"14" :  "(247,(250,251), pIter)",
+"15" :  "(247,(250,248), pIter)"}]
+}

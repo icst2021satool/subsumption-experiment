@@ -1,0 +1,11 @@
+{
+"Class" : "org.apache.commons.compress.archivers.dump.DumpArchiveInputStream$1", 
+"Methods" : [{ "Name" : "compare" ,
+"Duas" : 6,
+"0" :  "(143,(143,143), p)",
+"1" :  "(143,(143,144), p)",
+"2" :  "(143,147, p)",
+"3" :  "(143,(143,144), q)",
+"4" :  "(143,(143,147), q)",
+"5" :  "(143,147, q)"}]
+}

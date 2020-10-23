@@ -1,0 +1,12 @@
+{
+"Class" : "org.apache.commons.compress.utils.ServiceLoaderIterator", 
+"Methods" : [{ "Name" : "getNextServiceLoader" ,
+"Duas" : "10" ,
+"Subsumers" : 0 
+},{ "Name" : "next" ,
+"Duas" : "7" ,
+"Subsumers" : 2,
+"0" : [ 5, 4, 0], "S0" : [0, 4, 5 ],
+"1" : [ 6, 2, 3, 1], "S1" : [1, 2, 3, 6 ]
+}]
+}

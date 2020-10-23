@@ -1,0 +1,14 @@
+{
+"Class" : "weka.gui.beans.SubstringReplacerCustomizer$2", 
+"Methods" : [{ "Name" : "propertyChange" ,
+"Duas" : 9,
+"0" :  "(176,179, this)",
+"1" :  "(176,180, this)",
+"2" :  "(176,179, this.this$0)",
+"3" :  "(176,180, this.this$0)",
+"4" :  "(176,180, this.m_list)",
+"5" :  "(176,179, this.m_matchField)",
+"6" :  "(176,(177,178), mr)",
+"7" :  "(176,(177,182), mr)",
+"8" :  "(176,179, mr)"}]
+}

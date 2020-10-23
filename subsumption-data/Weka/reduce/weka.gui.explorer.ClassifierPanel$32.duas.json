@@ -1,0 +1,18 @@
+{
+"Class" : "weka.gui.explorer.ClassifierPanel$32", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Duas" : 13,
+"0" :  "(2272,(2272,2273), this)",
+"1" :  "(2272,(2272,2275), this)",
+"2" :  "(2272,2275, this)",
+"3" :  "(2272,2277, this)",
+"4" :  "(2272,2273, this)",
+"5" :  "(2272,(2272,2273), this.val$vp)",
+"6" :  "(2272,(2272,2275), this.val$vp)",
+"7" :  "(2272,2273, this.val$vp)",
+"8" :  "(2272,2275, this.val$selectedNames)",
+"9" :  "(2272,2277, this.this$0)",
+"10" :  "(2272,2277, this.val$grph)",
+"11" :  "(2273,2277, title)",
+"12" :  "(2275,2277, title)"}]
+}

@@ -1,0 +1,11 @@
+{
+"Class" : "weka.gui.beans.ClassAssignerCustomizer$3", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Duas" : 6,
+"0" :  "(127,(128,129), this)",
+"1" :  "(127,(128,131), this)",
+"2" :  "(127,129, this)",
+"3" :  "(127,(128,129), this.this$0)",
+"4" :  "(127,(128,131), this.this$0)",
+"5" :  "(127,129, this.this$0)"}]
+}

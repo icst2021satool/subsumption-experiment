@@ -1,0 +1,12 @@
+{
+"Class" : "com.github.fracpete.jclipboardhelper.TransferableString", 
+"Methods" : [{ "Name" : "getTransferData" ,
+"Duas" : 7,
+"0" :  "(89,90, this)",
+"1" :  "(89,(89,90), flavor)",
+"2" :  "(89,(89,92), flavor)",
+"3" :  "(89,92, flavor)",
+"4" :  "(89,(89,90), stringFlavor)",
+"5" :  "(89,(89,92), stringFlavor)",
+"6" :  "(89,90, this.m_Data)"}]
+}

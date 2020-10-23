@@ -1,0 +1,21 @@
+{
+"Class" : "weka.gui.knowledgeflow.steps.AttributeSummarizerInteractiveView", 
+"Methods" : [{ "Name" : "init" ,
+"Duas" : 16,
+"0" :  "(92,181, this)",
+"1" :  "(92,181, this)",
+"2" :  "(92,171, this)",
+"3" :  "(92,173, this)",
+"4" :  "(92,175, this)",
+"5" :  "(92,176, this)",
+"6" :  "(92,181, this.m_clearButton)",
+"7" :  "(92,175, this.m_summarizer)",
+"8" :  "(92,176, this.m_summarizer)",
+"9" :  "(94,171, this.m_history)",
+"10" :  "(94,173, this.m_history)",
+"11" :  "(167,(174,175), first)",
+"12" :  "(167,(174,179), first)",
+"13" :  "(172,175, instances)",
+"14" :  "(177,(174,175), first)",
+"15" :  "(177,(174,179), first)"}]
+}

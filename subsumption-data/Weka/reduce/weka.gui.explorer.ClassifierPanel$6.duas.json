@@ -1,0 +1,20 @@
+{
+"Class" : "weka.gui.explorer.ClassifierPanel$6", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Duas" : 15,
+"0" :  "(506,(507,507), this)",
+"1" :  "(506,(507,510), this)",
+"2" :  "(506,(507,508), this)",
+"3" :  "(506,(507,510), this)",
+"4" :  "(506,508, this)",
+"5" :  "(506,(507,507), this.this$0)",
+"6" :  "(506,(507,510), this.this$0)",
+"7" :  "(506,(507,508), this.this$0)",
+"8" :  "(506,(507,510), this.this$0)",
+"9" :  "(506,508, this.this$0)",
+"10" :  "(506,(507,508), this.m_EvalWRTCostsBut)",
+"11" :  "(506,(507,510), this.m_EvalWRTCostsBut)",
+"12" :  "(506,(507,507), this.m_SetCostsFrame)",
+"13" :  "(506,(507,510), this.m_SetCostsFrame)",
+"14" :  "(506,508, this.m_SetCostsFrame)"}]
+}

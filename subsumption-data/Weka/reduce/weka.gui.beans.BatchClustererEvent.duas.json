@@ -1,0 +1,11 @@
+{
+"Class" : "weka.gui.beans.BatchClustererEvent", 
+"Methods" : [{ "Name" : "<init>" ,
+"Duas" : 6,
+"0" :  "(84,93, this)",
+"1" :  "(84,91, this)",
+"2" :  "(84,(90,91), testOrTrain)",
+"3" :  "(84,(90,93), testOrTrain)",
+"4" :  "(84,91, TEST)",
+"5" :  "(84,93, TRAINING)"}]
+}

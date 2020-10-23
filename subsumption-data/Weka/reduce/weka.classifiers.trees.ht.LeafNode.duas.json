@@ -1,0 +1,14 @@
+{
+"Class" : "weka.classifiers.trees.ht.LeafNode", 
+"Methods" : [{ "Name" : "updateNode" ,
+"Duas" : 9,
+"0" :  "(72,(72,73), this)",
+"1" :  "(72,(72,75), this)",
+"2" :  "(72,75, this)",
+"3" :  "(72,73, this)",
+"4" :  "(72,75, inst)",
+"5" :  "(72,73, inst)",
+"6" :  "(72,(72,73), this.m_theNode)",
+"7" :  "(72,(72,75), this.m_theNode)",
+"8" :  "(72,73, this.m_theNode)"}]
+}

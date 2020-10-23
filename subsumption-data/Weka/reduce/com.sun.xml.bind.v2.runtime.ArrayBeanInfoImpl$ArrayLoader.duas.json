@@ -1,0 +1,15 @@
+{
+"Class" : "com.sun.xml.bind.v2.runtime.ArrayBeanInfoImpl$ArrayLoader", 
+"Methods" : [{ "Name" : "childElement" ,
+"Duas" : 10,
+"0" :  "(77,81, this)",
+"1" :  "(77,78, this)",
+"2" :  "(77,79, this)",
+"3" :  "(77,81, state)",
+"4" :  "(77,78, state)",
+"5" :  "(77,79, state)",
+"6" :  "(77,(77,78), ea)",
+"7" :  "(77,(77,81), ea)",
+"8" :  "(77,81, ea)",
+"9" :  "(77,78, this.itemLoader)"}]
+}

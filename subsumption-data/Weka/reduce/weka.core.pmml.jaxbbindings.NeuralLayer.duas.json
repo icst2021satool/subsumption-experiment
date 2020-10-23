@@ -1,0 +1,22 @@
+{
+"Class" : "weka.core.pmml.jaxbbindings.NeuralLayer", 
+"Methods" : [{ "Name" : "getExtension" ,
+"Duas" : 8,
+"0" :  "(98,(98,99), this)",
+"1" :  "(98,(98,101), this)",
+"2" :  "(98,101, this)",
+"3" :  "(98,99, this)",
+"4" :  "(98,(98,99), this.extension)",
+"5" :  "(98,(98,101), this.extension)",
+"6" :  "(98,101, this.extension)",
+"7" :  "(99,101, this.extension)"},{ "Name" : "getNeuron" ,
+"Duas" : 8,
+"0" :  "(127,(127,128), this)",
+"1" :  "(127,(127,130), this)",
+"2" :  "(127,130, this)",
+"3" :  "(127,128, this)",
+"4" :  "(127,(127,128), this.neuron)",
+"5" :  "(127,(127,130), this.neuron)",
+"6" :  "(127,130, this.neuron)",
+"7" :  "(128,130, this.neuron)"}]
+}

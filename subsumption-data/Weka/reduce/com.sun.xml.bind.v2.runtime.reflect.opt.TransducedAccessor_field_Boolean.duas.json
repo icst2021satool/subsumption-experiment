@@ -1,0 +1,9 @@
+{
+"Class" : "com.sun.xml.bind.v2.runtime.reflect.opt.TransducedAccessor_field_Boolean", 
+"Methods" : [{ "Name" : "parse" ,
+"Duas" : 4,
+"0" :  "(33,36, o)",
+"1" :  "(33,(35,36), b)",
+"2" :  "(33,(35,37), b)",
+"3" :  "(33,36, b)"}]
+}

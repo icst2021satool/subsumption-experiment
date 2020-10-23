@@ -1,0 +1,11 @@
+{
+"Class" : "weka.gui.beans.AttributeSummarizerCustomizer$3", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Duas" : 6,
+"0" :  "(239,(240,241), this)",
+"1" :  "(239,(240,243), this)",
+"2" :  "(239,241, this)",
+"3" :  "(239,(240,241), this.this$0)",
+"4" :  "(239,(240,243), this.this$0)",
+"5" :  "(239,241, this.this$0)"}]
+}

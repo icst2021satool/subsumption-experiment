@@ -1,0 +1,20 @@
+{
+"Class" : "org.apache.commons.math3.geometry.partitioning.RegionFactory$DifferenceMerger", 
+"Methods" : [{ "Name" : "merge" ,
+"Duas" : 15,
+"0" :  "(214,216, this)",
+"1" :  "(214,(214,216), leaf)",
+"2" :  "(214,(214,222), leaf)",
+"3" :  "(214,222, leaf)",
+"4" :  "(214,216, leaf)",
+"5" :  "(214,222, tree)",
+"6" :  "(214,224, parentTree)",
+"7" :  "(214,218, parentTree)",
+"8" :  "(214,224, isPlusChild)",
+"9" :  "(214,218, isPlusChild)",
+"10" :  "(214,(222,222), leafFromInstance)",
+"11" :  "(214,(222,222), leafFromInstance)",
+"12" :  "(214,(216,216), leafFromInstance)",
+"13" :  "(214,(216,216), leafFromInstance)",
+"14" :  "(214,216, this.this$0)"}]
+}

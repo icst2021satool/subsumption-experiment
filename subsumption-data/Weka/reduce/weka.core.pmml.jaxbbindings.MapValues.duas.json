@@ -1,0 +1,22 @@
+{
+"Class" : "weka.core.pmml.jaxbbindings.MapValues", 
+"Methods" : [{ "Name" : "getExtension" ,
+"Duas" : 8,
+"0" :  "(101,(101,102), this)",
+"1" :  "(101,(101,104), this)",
+"2" :  "(101,104, this)",
+"3" :  "(101,102, this)",
+"4" :  "(101,(101,102), this.extension)",
+"5" :  "(101,(101,104), this.extension)",
+"6" :  "(101,104, this.extension)",
+"7" :  "(102,104, this.extension)"},{ "Name" : "getFieldColumnPair" ,
+"Duas" : 8,
+"0" :  "(130,(130,131), this)",
+"1" :  "(130,(130,133), this)",
+"2" :  "(130,133, this)",
+"3" :  "(130,131, this)",
+"4" :  "(130,(130,131), this.fieldColumnPair)",
+"5" :  "(130,(130,133), this.fieldColumnPair)",
+"6" :  "(130,133, this.fieldColumnPair)",
+"7" :  "(131,133, this.fieldColumnPair)"}]
+}

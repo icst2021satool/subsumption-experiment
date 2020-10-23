@@ -1,0 +1,23 @@
+{
+"Class" : "org.jfree.chart.plot.dial.junit.DialPointerTests", 
+"Methods" : [{ "Name" : "suite" ,
+"Duas" : 4,
+"0" :  "(70,(70,70), class$org$jfree$chart$plot$dial$junit$DialPointerTests)",
+"1" :  "(70,(70,70), class$org$jfree$chart$plot$dial$junit$DialPointerTests)",
+"2" :  "(70,70, class$org$jfree$chart$plot$dial$junit$DialPointerTests)",
+"3" :  "(70,70, class$org$jfree$chart$plot$dial$junit$DialPointerTests)"},{ "Name" : "testCloning" ,
+"Duas" : 13,
+"0" :  "(158,(166,166), i1)",
+"1" :  "(158,(166,166), i1)",
+"2" :  "(158,(167,167), i1)",
+"3" :  "(158,(167,167), i1)",
+"4" :  "(158,168, i1)",
+"5" :  "(158,172, i1)",
+"6" :  "(158,173, i1)",
+"7" :  "(161,(166,166), i2)",
+"8" :  "(161,(166,166), i2)",
+"9" :  "(161,(167,167), i2)",
+"10" :  "(161,(167,167), i2)",
+"11" :  "(161,168, i2)",
+"12" :  "(161,174, i2)"}]
+}

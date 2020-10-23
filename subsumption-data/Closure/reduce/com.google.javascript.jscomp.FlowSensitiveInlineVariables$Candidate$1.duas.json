@@ -1,0 +1,15 @@
+{
+"Class" : "com.google.javascript.jscomp.FlowSensitiveInlineVariables$Candidate$1", 
+"Methods" : [{ "Name" : "apply" ,
+"Duas" : 10,
+"0" :  "(367,376, this)",
+"1" :  "(367,(367,382), input)",
+"2" :  "(367,(367,374), input)",
+"3" :  "(367,(367,376), input)",
+"4" :  "(367,376, input)",
+"5" :  "(367,376, this.val$scope)",
+"6" :  "(376,(377,377), var)",
+"7" :  "(376,(377,382), var)",
+"8" :  "(376,(377,379), var)",
+"9" :  "(376,(377,382), var)"}]
+}

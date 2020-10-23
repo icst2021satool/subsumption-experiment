@@ -1,0 +1,16 @@
+{
+"Class" : "com.fasterxml.jackson.databind.node.NodeCursor$Array", 
+"Methods" : [{ "Name" : "nextToken" ,
+"Duas" : 8,
+"0" :  "(152,(152,153), this)",
+"1" :  "(152,(152,156), this)",
+"2" :  "(152,156, this)",
+"3" :  "(152,157, this)",
+"4" :  "(152,153, this)",
+"5" :  "(152,(152,153), this._contents)",
+"6" :  "(152,(152,156), this._contents)",
+"7" :  "(152,156, this._contents)"},{ "Name" : "currentHasChildren" ,
+"Duas" : 2,
+"0" :  "(170,(170,170), this)",
+"1" :  "(170,(170,170), this)"}]
+}

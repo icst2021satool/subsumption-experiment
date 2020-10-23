@@ -1,0 +1,21 @@
+{
+"Class" : "org.jfree.chart.junit.XYBarChartTests", 
+"Methods" : [{ "Name" : "suite" ,
+"Duas" : 4,
+"0" :  "(82,(82,82), class$org$jfree$chart$junit$XYBarChartTests)",
+"1" :  "(82,(82,82), class$org$jfree$chart$junit$XYBarChartTests)",
+"2" :  "(82,82, class$org$jfree$chart$junit$XYBarChartTests)",
+"3" :  "(82,82, class$org$jfree$chart$junit$XYBarChartTests)"},{ "Name" : "testReplaceDataset" ,
+"Duas" : 6,
+"0" :  "(144,(145,145), range)",
+"1" :  "(144,(145,145), range)",
+"2" :  "(144,145, range)",
+"3" :  "(144,(147,147), range)",
+"4" :  "(144,(147,147), range)",
+"5" :  "(144,147, range)"},{ "Name" : "testSetSeriesToolTipGenerator" ,
+"Duas" : 4,
+"0" :  "(159,(162,162), tt)",
+"1" :  "(159,(162,162), tt)",
+"2" :  "(161,(162,162), tt2)",
+"3" :  "(161,(162,162), tt2)"}]
+}

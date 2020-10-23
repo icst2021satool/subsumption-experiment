@@ -1,0 +1,14 @@
+{
+"Class" : "org.jfree.data.time.junit.TimePeriodAnchorTests", 
+"Methods" : [{ "Name" : "suite" ,
+"Duas" : 4,
+"0" :  "(67,(67,67), class$org$jfree$data$time$junit$TimePeriodAnchorTests)",
+"1" :  "(67,(67,67), class$org$jfree$data$time$junit$TimePeriodAnchorTests)",
+"2" :  "(67,67, class$org$jfree$data$time$junit$TimePeriodAnchorTests)",
+"3" :  "(67,67, class$org$jfree$data$time$junit$TimePeriodAnchorTests)"},{ "Name" : "testSerialization" ,
+"Duas" : 4,
+"0" :  "(93,(111,111), a1)",
+"1" :  "(93,(111,111), a1)",
+"2" :  "(105,(111,111), a2)",
+"3" :  "(105,(111,111), a2)"}]
+}

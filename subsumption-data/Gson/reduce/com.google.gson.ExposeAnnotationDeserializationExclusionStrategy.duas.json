@@ -1,0 +1,9 @@
+{
+"Class" : "com.google.gson.ExposeAnnotationDeserializationExclusionStrategy", 
+"Methods" : [{ "Name" : "shouldSkipField" ,
+"Duas" : 4,
+"0" :  "(33,(34,35), annotation)",
+"1" :  "(33,(34,37), annotation)",
+"2" :  "(33,(37,37), annotation)",
+"3" :  "(33,(37,37), annotation)"}]
+}

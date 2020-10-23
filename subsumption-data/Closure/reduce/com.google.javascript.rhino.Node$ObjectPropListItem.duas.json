@@ -1,0 +1,11 @@
+{
+"Class" : "com.google.javascript.rhino.Node$ObjectPropListItem", 
+"Methods" : [{ "Name" : "toString" ,
+"Duas" : 6,
+"0" :  "(311,(311,311), this)",
+"1" :  "(311,(311,311), this)",
+"2" :  "(311,311, this)",
+"3" :  "(311,(311,311), this.objectValue)",
+"4" :  "(311,(311,311), this.objectValue)",
+"5" :  "(311,311, this.objectValue)"}]
+}

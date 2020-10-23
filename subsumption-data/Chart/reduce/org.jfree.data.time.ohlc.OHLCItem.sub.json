@@ -1,0 +1,24 @@
+{
+"Class" : "org.jfree.data.time.ohlc.OHLCItem", 
+"Methods" : [{ "Name" : "getOpenValue" ,
+"Duas" : "3" ,
+"Subsumers" : 2,
+"0" : [ 2, 0], "S0" : [0, 2 ],
+"1" : [ 1], "S1" : [1 ]
+},{ "Name" : "getHighValue" ,
+"Duas" : "3" ,
+"Subsumers" : 2,
+"0" : [ 2, 0], "S0" : [0, 2 ],
+"1" : [ 1], "S1" : [1 ]
+},{ "Name" : "getLowValue" ,
+"Duas" : "3" ,
+"Subsumers" : 2,
+"0" : [ 2, 0], "S0" : [0, 2 ],
+"1" : [ 1], "S1" : [1 ]
+},{ "Name" : "getCloseValue" ,
+"Duas" : "3" ,
+"Subsumers" : 2,
+"0" : [ 2, 0], "S0" : [0, 2 ],
+"1" : [ 1], "S1" : [1 ]
+}]
+}

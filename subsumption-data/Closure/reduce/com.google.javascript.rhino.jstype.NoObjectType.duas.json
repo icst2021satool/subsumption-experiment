@@ -1,0 +1,18 @@
+{
+"Class" : "com.google.javascript.rhino.jstype.NoObjectType", 
+"Methods" : [{ "Name" : "isSubtype" ,
+"Duas" : 10,
+"0" :  "(76,(76,77), this)",
+"1" :  "(76,(76,79), this)",
+"2" :  "(76,(76,77), that)",
+"3" :  "(76,(76,79), that)",
+"4" :  "(76,(79,79), that)",
+"5" :  "(76,(79,79), that)",
+"6" :  "(76,(79,79), that)",
+"7" :  "(76,(79,79), that)",
+"8" :  "(76,(79,79), that)",
+"9" :  "(76,(79,79), that)"},{ "Name" : "toStringHelper" ,
+"Duas" : 2,
+"0" :  "(151,(151,151), forAnnotations)",
+"1" :  "(151,(151,151), forAnnotations)"}]
+}

@@ -1,0 +1,17 @@
+{
+"Class" : "weka.gui.scripting.GroovyScript$GroovyThread", 
+"Methods" : [{ "Name" : "doRun" ,
+"Duas" : 12,
+"0" :  "(87,(88,89), this)",
+"1" :  "(87,(88,90), this)",
+"2" :  "(87,(90,91), this)",
+"3" :  "(87,(90,93), this)",
+"4" :  "(87,91, this)",
+"5" :  "(87,89, this)",
+"6" :  "(87,(88,89), groovy)",
+"7" :  "(87,(88,90), groovy)",
+"8" :  "(87,(90,91), groovy)",
+"9" :  "(87,(90,93), groovy)",
+"10" :  "(87,91, groovy)",
+"11" :  "(87,89, groovy)"}]
+}

@@ -1,0 +1,22 @@
+{
+"Class" : "weka.core.pmml.jaxbbindings.DerivedField", 
+"Methods" : [{ "Name" : "getExtension" ,
+"Duas" : 8,
+"0" :  "(124,(124,125), this)",
+"1" :  "(124,(124,127), this)",
+"2" :  "(124,127, this)",
+"3" :  "(124,125, this)",
+"4" :  "(124,(124,125), this.extension)",
+"5" :  "(124,(124,127), this.extension)",
+"6" :  "(124,127, this.extension)",
+"7" :  "(125,127, this.extension)"},{ "Name" : "getValue" ,
+"Duas" : 8,
+"0" :  "(345,(345,346), this)",
+"1" :  "(345,(345,348), this)",
+"2" :  "(345,348, this)",
+"3" :  "(345,346, this)",
+"4" :  "(345,(345,346), this.value)",
+"5" :  "(345,(345,348), this.value)",
+"6" :  "(345,348, this.value)",
+"7" :  "(346,348, this.value)"}]
+}

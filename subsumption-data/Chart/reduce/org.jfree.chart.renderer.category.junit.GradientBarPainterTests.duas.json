@@ -1,0 +1,9 @@
+{
+"Class" : "org.jfree.chart.renderer.category.junit.GradientBarPainterTests", 
+"Methods" : [{ "Name" : "suite" ,
+"Duas" : 4,
+"0" :  "(68,(68,68), class$org$jfree$chart$renderer$category$junit$GradientBarPainterTests)",
+"1" :  "(68,(68,68), class$org$jfree$chart$renderer$category$junit$GradientBarPainterTests)",
+"2" :  "(68,68, class$org$jfree$chart$renderer$category$junit$GradientBarPainterTests)",
+"3" :  "(68,68, class$org$jfree$chart$renderer$category$junit$GradientBarPainterTests)"}]
+}

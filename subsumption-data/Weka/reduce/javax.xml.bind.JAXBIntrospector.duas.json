@@ -1,0 +1,9 @@
+{
+"Class" : "javax.xml.bind.JAXBIntrospector", 
+"Methods" : [{ "Name" : "getValue" ,
+"Duas" : 4,
+"0" :  "(69,(69,70), jaxbElement)",
+"1" :  "(69,(69,74), jaxbElement)",
+"2" :  "(69,74, jaxbElement)",
+"3" :  "(69,70, jaxbElement)"}]
+}

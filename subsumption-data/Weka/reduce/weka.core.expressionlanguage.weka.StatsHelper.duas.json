@@ -1,0 +1,18 @@
+{
+"Class" : "weka.core.expressionlanguage.weka.StatsHelper", 
+"Methods" : [{ "Name" : "getVariable" ,
+"Duas" : 13,
+"0" :  "(125,(125,126), this)",
+"1" :  "(125,(125,129), this)",
+"2" :  "(125,126, this)",
+"3" :  "(125,127, this)",
+"4" :  "(125,(125,126), name)",
+"5" :  "(125,(125,129), name)",
+"6" :  "(125,129, name)",
+"7" :  "(125,126, name)",
+"8" :  "(125,127, name)",
+"9" :  "(125,(125,126), this.variables)",
+"10" :  "(125,(125,129), this.variables)",
+"11" :  "(125,127, this.variables)",
+"12" :  "(125,126, this.usedVariables)"}]
+}

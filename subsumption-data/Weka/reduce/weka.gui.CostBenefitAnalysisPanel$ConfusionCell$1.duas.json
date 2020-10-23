@@ -1,0 +1,19 @@
+{
+"Class" : "weka.gui.CostBenefitAnalysisPanel$ConfusionCell$1", 
+"Methods" : [{ "Name" : "paintComponent" ,
+"Duas" : 14,
+"0" :  "(180,(182,183), this)",
+"1" :  "(180,(182,189), this)",
+"2" :  "(180,184, this)",
+"3" :  "(180,185, this)",
+"4" :  "(180,186, this)",
+"5" :  "(180,183, gx)",
+"6" :  "(180,187, gx)",
+"7" :  "(180,(182,183), this.this$0)",
+"8" :  "(180,(182,189), this.this$0)",
+"9" :  "(180,186, this.this$0)",
+"10" :  "(180,(182,183), this.m_percentage)",
+"11" :  "(180,(182,189), this.m_percentage)",
+"12" :  "(180,186, this.m_percentage)",
+"13" :  "(180,183, BLUE)"}]
+}

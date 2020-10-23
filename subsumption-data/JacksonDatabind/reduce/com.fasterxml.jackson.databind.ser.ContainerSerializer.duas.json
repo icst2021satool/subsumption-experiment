@@ -1,0 +1,20 @@
+{
+"Class" : "com.fasterxml.jackson.databind.ser.ContainerSerializer", 
+"Methods" : [{ "Name" : "withValueTypeSerializer" ,
+"Duas" : 5,
+"0" :  "(52,53, this)",
+"1" :  "(52,52, this)",
+"2" :  "(52,(52,52), vts)",
+"3" :  "(52,(52,53), vts)",
+"4" :  "(52,53, vts)"},{ "Name" : "hasContentTypeAnnotation" ,
+"Duas" : 9,
+"0" :  "(125,126, provider)",
+"1" :  "(125,(125,126), property)",
+"2" :  "(125,(125,133), property)",
+"3" :  "(125,(128,129), property)",
+"4" :  "(125,(128,133), property)",
+"5" :  "(126,(127,128), intr)",
+"6" :  "(126,(127,133), intr)",
+"7" :  "(126,(128,129), intr)",
+"8" :  "(126,(128,133), intr)"}]
+}

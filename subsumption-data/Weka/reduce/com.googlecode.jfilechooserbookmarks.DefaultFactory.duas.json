@@ -1,0 +1,10 @@
+{
+"Class" : "com.googlecode.jfilechooserbookmarks.DefaultFactory", 
+"Methods" : [{ "Name" : "getBookmarksManager" ,
+"Duas" : 5,
+"0" :  "(44,45, this)",
+"1" :  "(44,(44,45), m_Manager)",
+"2" :  "(44,(44,46), m_Manager)",
+"3" :  "(44,46, m_Manager)",
+"4" :  "(45,46, m_Manager)"}]
+}

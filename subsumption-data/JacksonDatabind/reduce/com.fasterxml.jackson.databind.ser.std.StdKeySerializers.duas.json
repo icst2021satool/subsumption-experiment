@@ -1,0 +1,22 @@
+{
+"Class" : "com.fasterxml.jackson.databind.ser.std.StdKeySerializers", 
+"Methods" : [{ "Name" : "getStdKeySerializer" ,
+"Duas" : 17,
+"0" :  "(26,(26,27), keyType)",
+"1" :  "(26,(26,29), keyType)",
+"2" :  "(26,29, keyType)",
+"3" :  "(26,44, DEFAULT_KEY_SERIALIZER)",
+"4" :  "(26,34, DEFAULT_KEY_SERIALIZER)",
+"5" :  "(26,27, DEFAULT_KEY_SERIALIZER)",
+"6" :  "(26,31, DEFAULT_STRING_SERIALIZER)",
+"7" :  "(26,38, instance)",
+"8" :  "(26,41, instance)",
+"9" :  "(29,(30,31), cls)",
+"10" :  "(29,(30,33), cls)",
+"11" :  "(29,(33,34), cls)",
+"12" :  "(29,(33,37), cls)",
+"13" :  "(29,(37,38), cls)",
+"14" :  "(29,(37,40), cls)",
+"15" :  "(29,(40,41), cls)",
+"16" :  "(29,(40,44), cls)"}]
+}

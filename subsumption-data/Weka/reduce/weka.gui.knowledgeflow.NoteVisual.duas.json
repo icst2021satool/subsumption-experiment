@@ -1,0 +1,12 @@
+{
+"Class" : "weka.gui.knowledgeflow.NoteVisual", 
+"Methods" : [{ "Name" : "setHighlighted" ,
+"Duas" : 7,
+"0" :  "(81,85, this)",
+"1" :  "(81,87, this)",
+"2" :  "(81,82, this)",
+"3" :  "(81,(81,82), highlighted)",
+"4" :  "(81,(81,85), highlighted)",
+"5" :  "(81,82, BLUE)",
+"6" :  "(81,85, GRAY)"}]
+}

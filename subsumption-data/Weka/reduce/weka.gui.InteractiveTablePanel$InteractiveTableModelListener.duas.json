@@ -1,0 +1,15 @@
+{
+"Class" : "weka.gui.InteractiveTablePanel$InteractiveTableModelListener", 
+"Methods" : [{ "Name" : "tableChanged" ,
+"Duas" : 10,
+"0" :  "(164,167, this)",
+"1" :  "(164,168, this)",
+"2" :  "(164,(164,165), evt)",
+"3" :  "(164,(164,170), evt)",
+"4" :  "(164,165, evt)",
+"5" :  "(164,166, evt)",
+"6" :  "(164,167, this.this$0)",
+"7" :  "(164,168, this.this$0)",
+"8" :  "(164,167, this.m_table)",
+"9" :  "(164,168, this.m_table)"}]
+}

@@ -1,0 +1,13 @@
+{
+"Class" : "weka.gui.ExtensionFileFilter", 
+"Methods" : [{ "Name" : "accept" ,
+"Duas" : 8,
+"0" :  "(104,108, this)",
+"1" :  "(104,(105,106), file)",
+"2" :  "(104,(105,108), file)",
+"3" :  "(104,108, this.m_Extension)",
+"4" :  "(104,(109,110), name)",
+"5" :  "(104,(109,108), name)",
+"6" :  "(108,(109,110), element)",
+"7" :  "(108,(109,108), element)"}]
+}

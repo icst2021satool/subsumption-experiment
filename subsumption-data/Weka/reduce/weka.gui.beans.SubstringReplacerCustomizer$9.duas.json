@@ -1,0 +1,14 @@
+{
+"Class" : "weka.gui.beans.SubstringReplacerCustomizer$9", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Duas" : 9,
+"0" :  "(278,281, this)",
+"1" :  "(278,282, this)",
+"2" :  "(278,281, this.this$0)",
+"3" :  "(278,282, this.this$0)",
+"4" :  "(278,282, this.m_list)",
+"5" :  "(278,281, this.m_regexCheck)",
+"6" :  "(278,(279,280), mr)",
+"7" :  "(278,(279,284), mr)",
+"8" :  "(278,281, mr)"}]
+}

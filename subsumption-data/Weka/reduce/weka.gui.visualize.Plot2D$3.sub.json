@@ -1,0 +1,9 @@
+{
+"Class" : "weka.gui.visualize.Plot2D$3", 
+"Methods" : [{ "Name" : "mouseClicked" ,
+"Duas" : "8" ,
+"Subsumers" : 2,
+"0" : [ 6, 4, 3, 0], "S0" : [0, 3, 4, 6 ],
+"1" : [ 7, 5, 2, 1], "S1" : [1, 2, 5, 7 ]
+}]
+}

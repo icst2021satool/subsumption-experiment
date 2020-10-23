@@ -1,0 +1,9 @@
+{
+"Class" : "weka.gui.Main$16", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Duas" : "8" ,
+"Subsumers" : 2,
+"0" : [ 7, 5, 4, 2, 3, 0, 1], "S0" : [0, 1, 2, 3, 4, 5, 7 ],
+"1" : [ 6], "S1" : [6 ]
+}]
+}

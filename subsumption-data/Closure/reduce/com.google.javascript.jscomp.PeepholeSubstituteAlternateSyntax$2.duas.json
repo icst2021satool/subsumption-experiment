@@ -1,0 +1,11 @@
+{
+"Class" : "com.google.javascript.jscomp.PeepholeSubstituteAlternateSyntax$2", 
+"Methods" : [{ "Name" : "apply" ,
+"Duas" : 6,
+"0" :  "(1077,(1077,1077), this)",
+"1" :  "(1077,(1077,1077), this)",
+"2" :  "(1077,(1077,1077), input)",
+"3" :  "(1077,(1077,1077), input)",
+"4" :  "(1077,(1077,1077), this.val$precedence)",
+"5" :  "(1077,(1077,1077), this.val$precedence)"}]
+}

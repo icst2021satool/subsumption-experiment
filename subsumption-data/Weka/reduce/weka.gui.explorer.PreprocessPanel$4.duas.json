@@ -1,0 +1,19 @@
+{
+"Class" : "weka.gui.explorer.PreprocessPanel$4", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Duas" : 14,
+"0" :  "(322,330, this)",
+"1" :  "(322,331, this)",
+"2" :  "(322,334, this)",
+"3" :  "(322,330, this.this$0)",
+"4" :  "(322,331, this.this$0)",
+"5" :  "(322,334, this.this$0)",
+"6" :  "(322,327, frame)",
+"7" :  "(323,(324,325), window)",
+"8" :  "(323,(324,327), window)",
+"9" :  "(323,325, window)",
+"10" :  "(325,327, frame)",
+"11" :  "(327,(333,334), dialog)",
+"12" :  "(327,(333,337), dialog)",
+"13" :  "(327,334, dialog)"}]
+}

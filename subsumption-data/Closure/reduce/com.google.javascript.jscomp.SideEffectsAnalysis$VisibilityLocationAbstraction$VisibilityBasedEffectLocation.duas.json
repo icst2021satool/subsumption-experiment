@@ -1,0 +1,16 @@
+{
+"Class" : "com.google.javascript.jscomp.SideEffectsAnalysis$VisibilityLocationAbstraction$VisibilityBasedEffectLocation", 
+"Methods" : [{ "Name" : "intersectsLocation" ,
+"Duas" : 6,
+"0" :  "(908,(914,914), this)",
+"1" :  "(908,(914,914), this)",
+"2" :  "(908,(914,914), this.visibilityMask)",
+"3" :  "(908,(914,914), this.visibilityMask)",
+"4" :  "(911,(914,914), otherMask)",
+"5" :  "(911,(914,914), otherMask)"},{ "Name" : "isEmpty" ,
+"Duas" : 4,
+"0" :  "(919,(919,919), this)",
+"1" :  "(919,(919,919), this)",
+"2" :  "(919,(919,919), this.visibilityMask)",
+"3" :  "(919,(919,919), this.visibilityMask)"}]
+}

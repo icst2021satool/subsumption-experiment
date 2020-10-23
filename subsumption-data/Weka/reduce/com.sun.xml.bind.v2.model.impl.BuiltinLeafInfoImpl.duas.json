@@ -1,0 +1,16 @@
+{
+"Class" : "com.sun.xml.bind.v2.model.impl.BuiltinLeafInfoImpl", 
+"Methods" : [{ "Name" : "<init>" ,
+"Duas" : 7,
+"0" :  "(34,34, this)",
+"1" :  "(34,35, this)",
+"2" :  "(34,34, type)",
+"3" :  "(34,(34,34), typeNames)",
+"4" :  "(34,(34,34), typeNames)",
+"5" :  "(34,34, typeNames)",
+"6" :  "(34,35, typeNames)"},{ "Name" : "createLeaves" ,
+"Duas" : 3,
+"0" :  "(76,79, nav)",
+"1" :  "(76,83, leaves)",
+"2" :  "(76,80, leaves)"}]
+}

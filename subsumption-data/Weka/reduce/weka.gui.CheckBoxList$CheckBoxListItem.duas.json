@@ -1,0 +1,9 @@
+{
+"Class" : "weka.gui.CheckBoxList$CheckBoxListItem", 
+"Methods" : [{ "Name" : "equals" ,
+"Duas" : 4,
+"0" :  "(125,129, this)",
+"1" :  "(125,(125,126), o)",
+"2" :  "(125,(125,129), o)",
+"3" :  "(125,129, o)"}]
+}

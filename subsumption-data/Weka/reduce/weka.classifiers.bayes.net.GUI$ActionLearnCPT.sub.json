@@ -1,0 +1,9 @@
+{
+"Class" : "weka.classifiers.bayes.net.GUI$ActionLearnCPT", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Duas" : "18" ,
+"Subsumers" : 2,
+"0" : [ 12, 6, 0], "S0" : [0, 6, 12 ],
+"1" : [ 15, 16, 17, 14, 13, 8, 9, 10, 11, 7, 2, 3, 4, 5, 1], "S1" : [1, 2, 3, 4, 5, 7, 8, 9, 10, 11, 13, 14, 15, 16, 17 ]
+}]
+}

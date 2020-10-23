@@ -1,0 +1,13 @@
+{
+"Class" : "org.apache.commons.math3.analysis.function.Logistic$Parametric", 
+"Methods" : [{ "Name" : "validateParameters" ,
+"Duas" : 8,
+"0" :  "(192,(192,193), param)",
+"1" :  "(192,(192,195), param)",
+"2" :  "(192,(195,196), param)",
+"3" :  "(192,(195,198), param)",
+"4" :  "(192,(198,199), param)",
+"5" :  "(192,(198,201), param)",
+"6" :  "(192,199, param)",
+"7" :  "(192,196, param)"}]
+}

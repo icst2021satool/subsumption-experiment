@@ -1,0 +1,10 @@
+{
+"Class" : "com.fasterxml.jackson.databind.deser.impl.NullProvider", 
+"Methods" : [{ "Name" : "nullValue" ,
+"Duas" : "13" ,
+"Subsumers" : 3,
+"0" : [ 11, 9, 6, 4, 3], "S0" : [0, 3, 4, 6, 7, 9, 11 ],
+"1" : [ 10, 5], "S1" : [0, 2, 5, 7, 10, 12 ],
+"2" : [ 8, 1], "S2" : [1, 2, 8, 12 ]
+}]
+}

@@ -1,0 +1,14 @@
+{
+"Class" : "javax.xml.bind.TypeConstraintException", 
+"Methods" : [{ "Name" : "toString" ,
+"Duas" : "6" ,
+"Subsumers" : 2,
+"0" : [ 3, 0], "S0" : [0, 2, 3, 5 ],
+"1" : [ 4, 1], "S1" : [1, 2, 4, 5 ]
+},{ "Name" : "printStackTrace" ,
+"Duas" : "10" ,
+"Subsumers" : 2,
+"0" : [ 9, 7, 5, 6, 3, 0], "S0" : [0, 2, 3, 4, 5, 6, 7, 9 ],
+"1" : [ 8, 1], "S1" : [1, 2, 4, 8 ]
+}]
+}

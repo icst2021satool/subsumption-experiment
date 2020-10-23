@@ -1,0 +1,10 @@
+{
+"Class" : "weka.gui.CloseableTabTitle$1", 
+"Methods" : [{ "Name" : "getText" ,
+"Duas" : 5,
+"0" :  "(106,108, this)",
+"1" :  "(106,108, this.this$0)",
+"2" :  "(106,(107,108), index)",
+"3" :  "(106,(107,110), index)",
+"4" :  "(106,108, index)"}]
+}

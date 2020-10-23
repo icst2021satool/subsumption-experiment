@@ -1,0 +1,12 @@
+{
+"Class" : "com.google.javascript.jscomp.FunctionInjector$CallSiteType$6", 
+"Methods" : [{ "Name" : "prepare" ,
+"Duas" : 7,
+"0" :  "(380,(384,384), this)",
+"1" :  "(380,(384,384), this)",
+"2" :  "(380,385, injector)",
+"3" :  "(380,385, callNode)",
+"4" :  "(383,(384,384), callSiteType)",
+"5" :  "(383,(384,384), callSiteType)",
+"6" :  "(383,385, callSiteType)"}]
+}

@@ -1,0 +1,20 @@
+{
+"Class" : "weka.core.pmml.jaxbbindings.SetPredicate", 
+"Methods" : [{ "Name" : "getExtension" ,
+"Duas" : 8,
+"0" :  "(88,(88,89), this)",
+"1" :  "(88,(88,91), this)",
+"2" :  "(88,91, this)",
+"3" :  "(88,89, this)",
+"4" :  "(88,(88,89), this.extension)",
+"5" :  "(88,(88,91), this.extension)",
+"6" :  "(88,91, this.extension)",
+"7" :  "(89,91, this.extension)"},{ "Name" : "getOperator" ,
+"Duas" : 6,
+"0" :  "(175,(175,176), this)",
+"1" :  "(175,(175,178), this)",
+"2" :  "(175,178, this)",
+"3" :  "(175,(175,176), this.operator)",
+"4" :  "(175,(175,178), this.operator)",
+"5" :  "(175,178, this.operator)"}]
+}

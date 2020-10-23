@@ -1,0 +1,22 @@
+{
+"Class" : "org.apache.commons.lang3.concurrent.BasicThreadFactory$Builder", 
+"Methods" : [{ "Name" : "wrappedFactory" ,
+"Duas" : 5,
+"0" :  "(283,288, this)",
+"1" :  "(283,289, this)",
+"2" :  "(283,(283,284), factory)",
+"3" :  "(283,(283,288), factory)",
+"4" :  "(283,288, factory)"},{ "Name" : "namingPattern" ,
+"Duas" : 5,
+"0" :  "(301,306, this)",
+"1" :  "(301,307, this)",
+"2" :  "(301,(301,302), pattern)",
+"3" :  "(301,(301,306), pattern)",
+"4" :  "(301,306, pattern)"},{ "Name" : "uncaughtExceptionHandler" ,
+"Duas" : 5,
+"0" :  "(346,351, this)",
+"1" :  "(346,352, this)",
+"2" :  "(346,(346,347), handler)",
+"3" :  "(346,(346,351), handler)",
+"4" :  "(346,351, handler)"}]
+}

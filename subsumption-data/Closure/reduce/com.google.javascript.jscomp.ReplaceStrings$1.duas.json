@@ -1,0 +1,9 @@
+{
+"Class" : "com.google.javascript.jscomp.ReplaceStrings$1", 
+"Methods" : [{ "Name" : "apply" ,
+"Duas" : 4,
+"0" :  "(174,(174,174), result)",
+"1" :  "(174,(174,174), result)",
+"2" :  "(174,(174,174), result.replacementLocations)",
+"3" :  "(174,(174,174), result.replacementLocations)"}]
+}

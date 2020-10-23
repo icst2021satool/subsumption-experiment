@@ -1,0 +1,15 @@
+{
+"Class" : "org.mockito.internal.verification.VerificationDataImpl", 
+"Methods" : [{ "Name" : "assertWantedIsVerifiable" ,
+"Duas" : 10,
+"0" :  "(36,(36,37), this)",
+"1" :  "(36,(36,39), this)",
+"2" :  "(36,(40,41), this)",
+"3" :  "(36,(40,43), this)",
+"4" :  "(36,(36,37), this.wanted)",
+"5" :  "(36,(36,39), this.wanted)",
+"6" :  "(36,(40,41), this.wanted)",
+"7" :  "(36,(40,43), this.wanted)",
+"8" :  "(39,(40,41), o)",
+"9" :  "(39,(40,43), o)"}]
+}

@@ -1,0 +1,17 @@
+{
+"Class" : "weka.gui.knowledgeflow.steps.SorterStepEditorDialog$8", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Duas" : 12,
+"0" :  "(299,(301,301), this)",
+"1" :  "(299,(301,301), this)",
+"2" :  "(299,302, this)",
+"3" :  "(299,(301,301), this.this$0)",
+"4" :  "(299,(301,301), this.this$0)",
+"5" :  "(299,302, this.this$0)",
+"6" :  "(299,302, this.m_list)",
+"7" :  "(299,(301,301), this.m_descending)",
+"8" :  "(299,(301,301), this.m_descending)",
+"9" :  "(299,(300,301), m)",
+"10" :  "(299,(300,304), m)",
+"11" :  "(299,301, m)"}]
+}

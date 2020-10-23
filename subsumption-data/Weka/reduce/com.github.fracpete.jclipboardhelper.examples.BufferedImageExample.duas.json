@@ -1,0 +1,15 @@
+{
+"Class" : "com.github.fracpete.jclipboardhelper.examples.BufferedImageExample", 
+"Methods" : [{ "Name" : "main" ,
+"Duas" : 10,
+"0" :  "(39,58, out)",
+"1" :  "(39,59, out)",
+"2" :  "(39,40, out)",
+"3" :  "(39,46, out)",
+"4" :  "(39,47, in)",
+"5" :  "(39,52, err)",
+"6" :  "(39,56, separator)",
+"7" :  "(50,(51,52), img)",
+"8" :  "(50,(51,55), img)",
+"9" :  "(50,57, img)"}]
+}

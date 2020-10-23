@@ -1,0 +1,726 @@
+DUA-DUA subsumption
+@@ Method, Nodes, Edges, DUAs, UDUAs, RDUAs, UPerc, RPerc, Time_s, Time_ms
+
+
+#org/apache/commons/cli/TypeHandler/createValue:
+Method createValue reduced in 0 minutes and 0 seconds. Total em milliseconds 46
+## nodes: 20
+## edges: 28
+## duas: 45
+## Unconstrained duas: 10
+## Reduction nodes: 18
+@@ org.apache.commons.cli.TypeHandler.createValue,20,28,45,10,18,22.22222222222222,40.0,0,46
+
+org.apache.commons.cli.TypeHandler.createValue;45;10;18;46;
+
+
+#org/apache/commons/cli/TypeHandler/createDate:
+Method createDate reduced in 0 minutes and 0 seconds. Total em milliseconds 2
+## nodes: 4
+## edges: 4
+## duas: 5
+## Unconstrained duas: 2
+## Reduction nodes: 3
+@@ org.apache.commons.cli.TypeHandler.createDate,4,4,5,2,3,40.0,60.0,0,2
+
+org.apache.commons.cli.TypeHandler.createDate;5;2;3;2;
+
+
+#org/apache/commons/cli/Options/addOptionGroup:
+Method addOptionGroup reduced in 0 minutes and 0 seconds. Total em milliseconds 4
+## nodes: 6
+## edges: 7
+## duas: 12
+## Unconstrained duas: 3
+## Reduction nodes: 4
+@@ org.apache.commons.cli.Options.addOptionGroup,6,7,12,3,4,25.0,33.33333333333333,0,4
+
+org.apache.commons.cli.Options.addOptionGroup;12;3;4;4;
+
+
+#org/apache/commons/cli/Options/addOption:
+Method addOption reduced in 0 minutes and 0 seconds. Total em milliseconds 8
+## nodes: 8
+## edges: 10
+## duas: 23
+## Unconstrained duas: 5
+## Reduction nodes: 7
+@@ org.apache.commons.cli.Options.addOption,8,10,23,5,7,21.73913043478261,30.434782608695656,0,8
+
+org.apache.commons.cli.Options.addOption;23;5;7;8;
+
+
+#org/apache/commons/cli/Options/helpOptions:
+Method helpOptions reduced in 0 minutes and 0 seconds. Total em milliseconds 6
+## nodes: 7
+## edges: 8
+## duas: 10
+## Unconstrained duas: 2
+## Reduction nodes: 4
+@@ org.apache.commons.cli.Options.helpOptions,7,8,10,2,4,20.0,40.0,0,6
+
+org.apache.commons.cli.Options.helpOptions;10;2;4;6;
+
+
+#org/apache/commons/cli/Options/getOption:
+Method getOption reduced in 0 minutes and 0 seconds. Total em milliseconds 3
+## nodes: 4
+## edges: 4
+## duas: 12
+## Unconstrained duas: 2
+## Reduction nodes: 2
+@@ org.apache.commons.cli.Options.getOption,4,4,12,2,2,16.666666666666664,16.666666666666664,0,3
+
+org.apache.commons.cli.Options.getOption;12;2;2;3;
+
+
+#org/apache/commons/cli/Options/hasOption:
+Method hasOption reduced in 0 minutes and 0 seconds. Total em milliseconds 3
+## nodes: 6
+## edges: 7
+## duas: 12
+## Unconstrained duas: 3
+## Reduction nodes: 4
+@@ org.apache.commons.cli.Options.hasOption,6,7,12,3,4,25.0,33.33333333333333,0,3
+
+org.apache.commons.cli.Options.hasOption;12;3;4;3;
+
+
+#org/apache/commons/cli/HelpFormatter/printHelp:
+Method printHelp reduced in 0 minutes and 0 seconds. Total em milliseconds 17
+## nodes: 14
+## edges: 20
+## duas: 37
+## Unconstrained duas: 10
+## Reduction nodes: 14
+@@ org.apache.commons.cli.HelpFormatter.printHelp,14,20,37,10,14,27.027027027027028,37.83783783783784,0,17
+
+org.apache.commons.cli.HelpFormatter.printHelp;37;10;14;17;
+
+
+#org/apache/commons/cli/HelpFormatter/printUsage:
+Method printUsage reduced in 0 minutes and 0 seconds. Total em milliseconds 11
+## nodes: 11
+## edges: 14
+## duas: 22
+## Unconstrained duas: 5
+## Reduction nodes: 8
+@@ org.apache.commons.cli.HelpFormatter.printUsage,11,14,22,5,8,22.727272727272727,36.36363636363637,0,11
+
+org.apache.commons.cli.HelpFormatter.printUsage;22;5;8;11;
+
+
+#org/apache/commons/cli/HelpFormatter/appendOptionGroup:
+Method appendOptionGroup reduced in 0 minutes and 0 seconds. Total em milliseconds 4
+## nodes: 10
+## edges: 13
+## duas: 14
+## Unconstrained duas: 6
+## Reduction nodes: 8
+@@ org.apache.commons.cli.HelpFormatter.appendOptionGroup,10,13,14,6,8,42.857142857142854,57.14285714285714,0,4
+
+org.apache.commons.cli.HelpFormatter.appendOptionGroup;14;6;8;4;
+
+
+#org/apache/commons/cli/HelpFormatter/appendOption:
+Method appendOption reduced in 0 minutes and 0 seconds. Total em milliseconds 3
+## nodes: 12
+## edges: 16
+## duas: 18
+## Unconstrained duas: 9
+## Reduction nodes: 10
+@@ org.apache.commons.cli.HelpFormatter.appendOption,12,16,18,9,10,50.0,55.55555555555556,0,3
+
+org.apache.commons.cli.HelpFormatter.appendOption;18;9;10;3;
+
+
+#org/apache/commons/cli/HelpFormatter/renderOptions:
+Method renderOptions reduced in 0 minutes and 0 seconds. Total em milliseconds 60
+## nodes: 25
+## edges: 34
+## duas: 76
+## Unconstrained duas: 19
+## Reduction nodes: 31
+@@ org.apache.commons.cli.HelpFormatter.renderOptions,25,34,76,19,31,25.0,40.78947368421053,0,60
+
+org.apache.commons.cli.HelpFormatter.renderOptions;76;19;31;60;
+
+
+#org/apache/commons/cli/HelpFormatter/renderWrappedText:
+Method renderWrappedText reduced in 0 minutes and 0 seconds. Total em milliseconds 5
+## nodes: 7
+## edges: 8
+## duas: 28
+## Unconstrained duas: 2
+## Reduction nodes: 3
+@@ org.apache.commons.cli.HelpFormatter.renderWrappedText,7,8,28,2,3,7.142857142857142,10.714285714285714,0,5
+
+org.apache.commons.cli.HelpFormatter.renderWrappedText;28;2;3;5;
+
+
+#org/apache/commons/cli/HelpFormatter/findWrapPos:
+Method findWrapPos reduced in 0 minutes and 0 seconds. Total em milliseconds 35
+## nodes: 26
+## edges: 40
+## duas: 88
+## Unconstrained duas: 29
+## Reduction nodes: 54
+@@ org.apache.commons.cli.HelpFormatter.findWrapPos,26,40,88,29,54,32.95454545454545,61.36363636363637,0,35
+
+org.apache.commons.cli.HelpFormatter.findWrapPos;88;29;54;35;
+
+
+#org/apache/commons/cli/HelpFormatter/createPadding:
+Method createPadding reduced in 0 minutes and 0 seconds. Total em milliseconds 2
+## nodes: 5
+## edges: 5
+## duas: 10
+## Unconstrained duas: 2
+## Reduction nodes: 4
+@@ org.apache.commons.cli.HelpFormatter.createPadding,5,5,10,2,4,20.0,40.0,0,2
+
+org.apache.commons.cli.HelpFormatter.createPadding;10;2;4;2;
+
+
+#org/apache/commons/cli/HelpFormatter/rtrim:
+Method rtrim reduced in 0 minutes and 0 seconds. Total em milliseconds 3
+## nodes: 9
+## edges: 12
+## duas: 21
+## Unconstrained duas: 7
+## Reduction nodes: 15
+@@ org.apache.commons.cli.HelpFormatter.rtrim,9,12,21,7,15,33.33333333333333,71.42857142857143,0,3
+
+org.apache.commons.cli.HelpFormatter.rtrim;21;7;15;3;
+
+
+#org/apache/commons/cli/CommandLine/getOptionObject:
+Method getOptionObject reduced in 0 minutes and 0 seconds. Total em milliseconds 1
+## nodes: 7
+## edges: 8
+## duas: 13
+## Unconstrained duas: 3
+## Reduction nodes: 4
+@@ org.apache.commons.cli.CommandLine.getOptionObject,7,8,13,3,4,23.076923076923077,30.76923076923077,0,1
+
+org.apache.commons.cli.CommandLine.getOptionObject;13;3;4;1;
+
+
+#org/apache/commons/cli/CommandLine/getOptionValue:
+Method getOptionValue reduced in 0 minutes and 0 seconds. Total em milliseconds 1
+## nodes: 5
+## edges: 5
+## duas: 3
+## Unconstrained duas: 2
+## Reduction nodes: 3
+@@ org.apache.commons.cli.CommandLine.getOptionValue,5,5,3,2,3,66.66666666666666,100.0,0,1
+
+org.apache.commons.cli.CommandLine.getOptionValue;3;2;3;1;
+
+
+#org/apache/commons/cli/CommandLine/getOptionValues:
+Method getOptionValues reduced in 0 minutes and 0 seconds. Total em milliseconds 1
+## nodes: 6
+## edges: 7
+## duas: 21
+## Unconstrained duas: 4
+## Reduction nodes: 8
+@@ org.apache.commons.cli.CommandLine.getOptionValues,6,7,21,4,8,19.047619047619047,38.095238095238095,0,1
+
+org.apache.commons.cli.CommandLine.getOptionValues;21;4;8;1;
+
+
+#org/apache/commons/cli/CommandLine/getOptionValue:
+Method getOptionValue reduced in 0 minutes and 0 seconds. Total em milliseconds 1
+## nodes: 5
+## edges: 5
+## duas: 4
+## Unconstrained duas: 2
+## Reduction nodes: 3
+@@ org.apache.commons.cli.CommandLine.getOptionValue,5,5,4,2,3,50.0,75.0,0,1
+
+org.apache.commons.cli.CommandLine.getOptionValue;4;2;3;1;
+
+
+#org/apache/commons/cli/CommandLine/addOption:
+Method addOption reduced in 0 minutes and 0 seconds. Total em milliseconds 0
+## nodes: 5
+## edges: 5
+## duas: 12
+## Unconstrained duas: 2
+## Reduction nodes: 3
+@@ org.apache.commons.cli.CommandLine.addOption,5,5,12,2,3,16.666666666666664,25.0,0,0
+
+org.apache.commons.cli.CommandLine.addOption;12;2;3;0;
+
+
+#org/apache/commons/cli/PosixParser/flatten:
+Method flatten reduced in 0 minutes and 0 seconds. Total em milliseconds 18
+## nodes: 21
+## edges: 28
+## duas: 46
+## Unconstrained duas: 8
+## Reduction nodes: 16
+@@ org.apache.commons.cli.PosixParser.flatten,21,28,46,8,16,17.391304347826086,34.78260869565217,0,18
+
+org.apache.commons.cli.PosixParser.flatten;46;8;16;18;
+
+
+#org/apache/commons/cli/PosixParser/gobble:
+Method gobble reduced in 0 minutes and 0 seconds. Total em milliseconds 0
+## nodes: 5
+## edges: 6
+## duas: 9
+## Unconstrained duas: 2
+## Reduction nodes: 3
+@@ org.apache.commons.cli.PosixParser.gobble,5,6,9,2,3,22.22222222222222,33.33333333333333,0,0
+
+org.apache.commons.cli.PosixParser.gobble;9;2;3;0;
+
+
+#org/apache/commons/cli/PosixParser/process:
+Method process reduced in 0 minutes and 0 seconds. Total em milliseconds 3
+## nodes: 9
+## edges: 12
+## duas: 25
+## Unconstrained duas: 5
+## Reduction nodes: 9
+@@ org.apache.commons.cli.PosixParser.process,9,12,25,5,9,20.0,36.0,0,3
+
+org.apache.commons.cli.PosixParser.process;25;5;9;3;
+
+
+#org/apache/commons/cli/PosixParser/processOptionToken:
+Method processOptionToken reduced in 0 minutes and 0 seconds. Total em milliseconds 2
+## nodes: 6
+## edges: 7
+## duas: 13
+## Unconstrained duas: 3
+## Reduction nodes: 4
+@@ org.apache.commons.cli.PosixParser.processOptionToken,6,7,13,3,4,23.076923076923077,30.76923076923077,0,2
+
+org.apache.commons.cli.PosixParser.processOptionToken;13;3;4;2;
+
+
+#org/apache/commons/cli/PosixParser/burstToken:
+Method burstToken reduced in 0 minutes and 0 seconds. Total em milliseconds 12
+## nodes: 12
+## edges: 16
+## duas: 43
+## Unconstrained duas: 10
+## Reduction nodes: 21
+@@ org.apache.commons.cli.PosixParser.burstToken,12,16,43,10,21,23.25581395348837,48.837209302325576,0,12
+
+org.apache.commons.cli.PosixParser.burstToken;43;10;21;12;
+
+
+#org/apache/commons/cli/Option/<init>:
+Method <init> reduced in 0 minutes and 0 seconds. Total em milliseconds 0
+## nodes: 4
+## edges: 4
+## duas: 6
+## Unconstrained duas: 2
+## Reduction nodes: 3
+@@ org.apache.commons.cli.Option.<init>,4,4,6,2,3,33.33333333333333,50.0,0,0
+
+org.apache.commons.cli.Option.<init>;6;2;3;0;
+
+
+#org/apache/commons/cli/Option/getKey:
+Method getKey reduced in 0 minutes and 0 seconds. Total em milliseconds 1
+## nodes: 4
+## edges: 4
+## duas: 8
+## Unconstrained duas: 2
+## Reduction nodes: 2
+@@ org.apache.commons.cli.Option.getKey,4,4,8,2,2,25.0,25.0,0,1
+
+org.apache.commons.cli.Option.getKey;8;2;2;1;
+
+
+#org/apache/commons/cli/Option/hasLongOpt:
+Method hasLongOpt reduced in 0 minutes and 0 seconds. Total em milliseconds 1
+## nodes: 5
+## edges: 5
+## duas: 4
+## Unconstrained duas: 2
+## Reduction nodes: 2
+@@ org.apache.commons.cli.Option.hasLongOpt,5,5,4,2,2,50.0,50.0,0,1
+
+org.apache.commons.cli.Option.hasLongOpt;4;2;2;1;
+
+
+#org/apache/commons/cli/Option/hasArg:
+Method hasArg reduced in 0 minutes and 0 seconds. Total em milliseconds 0
+## nodes: 6
+## edges: 7
+## duas: 8
+## Unconstrained duas: 3
+## Reduction nodes: 4
+@@ org.apache.commons.cli.Option.hasArg,6,7,8,3,4,37.5,50.0,0,0
+
+org.apache.commons.cli.Option.hasArg;8;3;4;0;
+
+
+#org/apache/commons/cli/Option/hasArgName:
+Method hasArgName reduced in 0 minutes and 0 seconds. Total em milliseconds 1
+## nodes: 6
+## edges: 7
+## duas: 8
+## Unconstrained duas: 3
+## Reduction nodes: 4
+@@ org.apache.commons.cli.Option.hasArgName,6,7,8,3,4,37.5,50.0,0,1
+
+org.apache.commons.cli.Option.hasArgName;8;3;4;1;
+
+
+#org/apache/commons/cli/Option/hasArgs:
+Method hasArgs reduced in 0 minutes and 0 seconds. Total em milliseconds 1
+## nodes: 6
+## edges: 7
+## duas: 8
+## Unconstrained duas: 3
+## Reduction nodes: 4
+@@ org.apache.commons.cli.Option.hasArgs,6,7,8,3,4,37.5,50.0,0,1
+
+org.apache.commons.cli.Option.hasArgs;8;3;4;1;
+
+
+#org/apache/commons/cli/Option/hasValueSeparator:
+Method hasValueSeparator reduced in 0 minutes and 0 seconds. Total em milliseconds 0
+## nodes: 5
+## edges: 5
+## duas: 4
+## Unconstrained duas: 2
+## Reduction nodes: 2
+@@ org.apache.commons.cli.Option.hasValueSeparator,5,5,4,2,2,50.0,50.0,0,0
+
+org.apache.commons.cli.Option.hasValueSeparator;4;2;2;0;
+
+
+#org/apache/commons/cli/Option/addValue:
+Method addValue reduced in 0 minutes and 0 seconds. Total em milliseconds 0
+## nodes: 4
+## edges: 4
+## duas: 6
+## Unconstrained duas: 2
+## Reduction nodes: 2
+@@ org.apache.commons.cli.Option.addValue,4,4,6,2,2,33.33333333333333,33.33333333333333,0,0
+
+org.apache.commons.cli.Option.addValue;6;2;2;0;
+
+
+#org/apache/commons/cli/Option/processValue:
+Method processValue reduced in 0 minutes and 0 seconds. Total em milliseconds 3
+## nodes: 8
+## edges: 10
+## duas: 23
+## Unconstrained duas: 5
+## Reduction nodes: 11
+@@ org.apache.commons.cli.Option.processValue,8,10,23,5,11,21.73913043478261,47.82608695652174,0,3
+
+org.apache.commons.cli.Option.processValue;23;5;11;3;
+
+
+#org/apache/commons/cli/Option/add:
+Method add reduced in 0 minutes and 0 seconds. Total em milliseconds 1
+## nodes: 5
+## edges: 6
+## duas: 13
+## Unconstrained duas: 3
+## Reduction nodes: 5
+@@ org.apache.commons.cli.Option.add,5,6,13,3,5,23.076923076923077,38.46153846153847,0,1
+
+org.apache.commons.cli.Option.add;13;3;5;1;
+
+
+#org/apache/commons/cli/Option/getValue:
+Method getValue reduced in 0 minutes and 0 seconds. Total em milliseconds 0
+## nodes: 5
+## edges: 5
+## duas: 4
+## Unconstrained duas: 2
+## Reduction nodes: 3
+@@ org.apache.commons.cli.Option.getValue,5,5,4,2,3,50.0,75.0,0,0
+
+org.apache.commons.cli.Option.getValue;4;2;3;0;
+
+
+#org/apache/commons/cli/Option/getValue:
+Method getValue reduced in 0 minutes and 0 seconds. Total em milliseconds 0
+## nodes: 5
+## edges: 5
+## duas: 5
+## Unconstrained duas: 2
+## Reduction nodes: 3
+@@ org.apache.commons.cli.Option.getValue,5,5,5,2,3,40.0,60.0,0,0
+
+org.apache.commons.cli.Option.getValue;5;2;3;0;
+
+
+#org/apache/commons/cli/Option/getValue:
+Method getValue reduced in 0 minutes and 0 seconds. Total em milliseconds 0
+## nodes: 5
+## edges: 5
+## duas: 4
+## Unconstrained duas: 2
+## Reduction nodes: 3
+@@ org.apache.commons.cli.Option.getValue,5,5,4,2,3,50.0,75.0,0,0
+
+org.apache.commons.cli.Option.getValue;4;2;3;0;
+
+
+#org/apache/commons/cli/Option/getValues:
+Method getValues reduced in 0 minutes and 0 seconds. Total em milliseconds 0
+## nodes: 5
+## edges: 5
+## duas: 4
+## Unconstrained duas: 2
+## Reduction nodes: 3
+@@ org.apache.commons.cli.Option.getValues,5,5,4,2,3,50.0,75.0,0,0
+
+org.apache.commons.cli.Option.getValues;4;2;3;0;
+
+
+#org/apache/commons/cli/Option/toString:
+Method toString reduced in 0 minutes and 0 seconds. Total em milliseconds 2
+## nodes: 8
+## edges: 10
+## duas: 24
+## Unconstrained duas: 6
+## Reduction nodes: 7
+@@ org.apache.commons.cli.Option.toString,8,10,24,6,7,25.0,29.166666666666668,0,2
+
+org.apache.commons.cli.Option.toString;24;6;7;2;
+
+
+#org/apache/commons/cli/Option/hasNoValues:
+Method hasNoValues reduced in 0 minutes and 0 seconds. Total em milliseconds 0
+## nodes: 5
+## edges: 5
+## duas: 4
+## Unconstrained duas: 2
+## Reduction nodes: 2
+@@ org.apache.commons.cli.Option.hasNoValues,5,5,4,2,2,50.0,50.0,0,0
+
+org.apache.commons.cli.Option.hasNoValues;4;2;2;0;
+
+
+#org/apache/commons/cli/Option/equals:
+Method equals reduced in 0 minutes and 0 seconds. Total em milliseconds 6
+## nodes: 17
+## edges: 25
+## duas: 43
+## Unconstrained duas: 11
+## Reduction nodes: 18
+@@ org.apache.commons.cli.Option.equals,17,25,43,11,18,25.581395348837212,41.86046511627907,0,6
+
+org.apache.commons.cli.Option.equals;43;11;18;6;
+
+
+#org/apache/commons/cli/Option/hashCode:
+Method hashCode reduced in 0 minutes and 0 seconds. Total em milliseconds 2
+## nodes: 8
+## edges: 9
+## duas: 11
+## Unconstrained duas: 4
+## Reduction nodes: 5
+@@ org.apache.commons.cli.Option.hashCode,8,9,11,4,5,36.36363636363637,45.45454545454545,0,2
+
+org.apache.commons.cli.Option.hashCode;11;4;5;2;
+
+
+#org/apache/commons/cli/Util/stripLeadingHyphens:
+Method stripLeadingHyphens reduced in 0 minutes and 0 seconds. Total em milliseconds 0
+## nodes: 6
+## edges: 7
+## duas: 7
+## Unconstrained duas: 3
+## Reduction nodes: 4
+@@ org.apache.commons.cli.Util.stripLeadingHyphens,6,7,7,3,4,42.857142857142854,57.14285714285714,0,0
+
+org.apache.commons.cli.Util.stripLeadingHyphens;7;3;4;0;
+
+
+#org/apache/commons/cli/Util/stripLeadingAndTrailingQuotes:
+Method stripLeadingAndTrailingQuotes reduced in 0 minutes and 0 seconds. Total em milliseconds 4
+## nodes: 6
+## edges: 7
+## duas: 12
+## Unconstrained duas: 4
+## Reduction nodes: 7
+@@ org.apache.commons.cli.Util.stripLeadingAndTrailingQuotes,6,7,12,4,7,33.33333333333333,58.333333333333336,0,4
+
+org.apache.commons.cli.Util.stripLeadingAndTrailingQuotes;12;4;7;4;
+
+
+#org/apache/commons/cli/GnuParser/flatten:
+Method flatten reduced in 0 minutes and 0 seconds. Total em milliseconds 180
+## nodes: 40
+## edges: 57
+## duas: 154
+## Unconstrained duas: 49
+## Reduction nodes: 90
+@@ org.apache.commons.cli.GnuParser.flatten,40,57,154,49,90,31.818181818181817,58.44155844155844,0,180
+
+org.apache.commons.cli.GnuParser.flatten;154;49;90;180;
+
+
+#org/apache/commons/cli/OptionGroup/setSelected:
+Method setSelected reduced in 0 minutes and 0 seconds. Total em milliseconds 0
+## nodes: 5
+## edges: 6
+## duas: 14
+## Unconstrained duas: 3
+## Reduction nodes: 5
+@@ org.apache.commons.cli.OptionGroup.setSelected,5,6,14,3,5,21.428571428571427,35.714285714285715,0,0
+
+org.apache.commons.cli.OptionGroup.setSelected;14;3;5;0;
+
+
+#org/apache/commons/cli/OptionGroup/toString:
+Method toString reduced in 0 minutes and 0 seconds. Total em milliseconds 3
+## nodes: 10
+## edges: 12
+## duas: 15
+## Unconstrained duas: 4
+## Reduction nodes: 6
+@@ org.apache.commons.cli.OptionGroup.toString,10,12,15,4,6,26.666666666666668,40.0,0,3
+
+org.apache.commons.cli.OptionGroup.toString;15;4;6;3;
+
+
+#org/apache/commons/cli/PatternOptionBuilder/getValueClass:
+Method getValueClass reduced in 0 minutes and 0 seconds. Total em milliseconds 3
+## nodes: 20
+## edges: 28
+## duas: 27
+## Unconstrained duas: 10
+## Reduction nodes: 18
+@@ org.apache.commons.cli.PatternOptionBuilder.getValueClass,20,28,27,10,18,37.03703703703704,66.66666666666666,0,3
+
+org.apache.commons.cli.PatternOptionBuilder.getValueClass;27;10;18;3;
+
+
+#org/apache/commons/cli/PatternOptionBuilder/isValueCode:
+Method isValueCode reduced in 0 minutes and 0 seconds. Total em milliseconds 5
+## nodes: 13
+## edges: 22
+## duas: 20
+## Unconstrained duas: 11
+## Reduction nodes: 20
+@@ org.apache.commons.cli.PatternOptionBuilder.isValueCode,13,22,20,11,20,55.00000000000001,100.0,0,5
+
+org.apache.commons.cli.PatternOptionBuilder.isValueCode;20;11;20;5;
+
+
+#org/apache/commons/cli/PatternOptionBuilder/parsePattern:
+Method parsePattern reduced in 0 minutes and 0 seconds. Total em milliseconds 30
+## nodes: 20
+## edges: 26
+## duas: 56
+## Unconstrained duas: 25
+## Reduction nodes: 42
+@@ org.apache.commons.cli.PatternOptionBuilder.parsePattern,20,26,56,25,42,44.642857142857146,75.0,0,30
+
+org.apache.commons.cli.PatternOptionBuilder.parsePattern;56;25;42;30;
+
+
+#org/apache/commons/cli/Parser/parse:
+Method parse reduced in 0 minutes and 0 seconds. Total em milliseconds 37
+## nodes: 25
+## edges: 36
+## duas: 59
+## Unconstrained duas: 18
+## Reduction nodes: 33
+@@ org.apache.commons.cli.Parser.parse,25,36,59,18,33,30.508474576271187,55.932203389830505,0,37
+
+org.apache.commons.cli.Parser.parse;59;18;33;37;
+
+
+#org/apache/commons/cli/Parser/processProperties:
+Method processProperties reduced in 0 minutes and 0 seconds. Total em milliseconds 11
+## nodes: 17
+## edges: 25
+## duas: 33
+## Unconstrained duas: 10
+## Reduction nodes: 20
+@@ org.apache.commons.cli.Parser.processProperties,17,25,33,10,20,30.303030303030305,60.60606060606061,0,11
+
+org.apache.commons.cli.Parser.processProperties;33;10;20;11;
+
+
+#org/apache/commons/cli/Parser/checkRequiredOptions:
+Method checkRequiredOptions reduced in 0 minutes and 0 seconds. Total em milliseconds 1
+## nodes: 7
+## edges: 8
+## duas: 11
+## Unconstrained duas: 2
+## Reduction nodes: 3
+@@ org.apache.commons.cli.Parser.checkRequiredOptions,7,8,11,2,3,18.181818181818183,27.27272727272727,0,1
+
+org.apache.commons.cli.Parser.checkRequiredOptions;11;2;3;1;
+
+Warning: Method:org.apache.commons.cli.Parser.processArgs has incoming edges.
+
+#org/apache/commons/cli/Parser/processOption:
+Method processOption reduced in 0 minutes and 0 seconds. Total em milliseconds 3
+## nodes: 12
+## edges: 16
+## duas: 35
+## Unconstrained duas: 8
+## Reduction nodes: 10
+@@ org.apache.commons.cli.Parser.processOption,12,16,35,8,10,22.857142857142858,28.57142857142857,0,3
+
+org.apache.commons.cli.Parser.processOption;35;8;10;3;
+
+
+#org/apache/commons/cli/OptionBuilder/hasArg:
+Method hasArg reduced in 0 minutes and 0 seconds. Total em milliseconds 0
+## nodes: 5
+## edges: 5
+## duas: 3
+## Unconstrained duas: 2
+## Reduction nodes: 3
+@@ org.apache.commons.cli.OptionBuilder.hasArg,5,5,3,2,3,66.66666666666666,100.0,0,0
+
+org.apache.commons.cli.OptionBuilder.hasArg;3;2;3;0;
+
+
+#org/apache/commons/cli/OptionBuilder/create:
+Method create reduced in 0 minutes and 0 seconds. Total em milliseconds 0
+## nodes: 4
+## edges: 4
+## duas: 2
+## Unconstrained duas: 2
+## Reduction nodes: 2
+@@ org.apache.commons.cli.OptionBuilder.create,4,4,2,2,2,100.0,100.0,0,0
+
+org.apache.commons.cli.OptionBuilder.create;2;2;2;0;
+
+
+#org/apache/commons/cli/OptionValidator/validateOption:
+Method validateOption reduced in 0 minutes and 0 seconds. Total em milliseconds 5
+## nodes: 13
+## edges: 17
+## duas: 26
+## Unconstrained duas: 8
+## Reduction nodes: 16
+@@ org.apache.commons.cli.OptionValidator.validateOption,13,17,26,8,16,30.76923076923077,61.53846153846154,0,5
+
+org.apache.commons.cli.OptionValidator.validateOption;26;8;16;5;
+
+
+#org/apache/commons/cli/OptionValidator/isValidOpt:
+Method isValidOpt reduced in 0 minutes and 0 seconds. Total em milliseconds 1
+## nodes: 8
+## edges: 11
+## duas: 8
+## Unconstrained duas: 5
+## Reduction nodes: 8
+@@ org.apache.commons.cli.OptionValidator.isValidOpt,8,11,8,5,8,62.5,100.0,0,1
+
+org.apache.commons.cli.OptionValidator.isValidOpt;8;5;8;1;
+
+60 methods analyzed in 0 minutes and 0 seconds
+Unconstrained DUAs time (ms):963

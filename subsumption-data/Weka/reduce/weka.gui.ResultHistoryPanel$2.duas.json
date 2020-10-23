@@ -1,0 +1,10 @@
+{
+"Class" : "weka.gui.ResultHistoryPanel$2", 
+"Methods" : [{ "Name" : "keyReleased" ,
+"Duas" : 5,
+"0" :  "(179,180, this)",
+"1" :  "(179,(179,180), e)",
+"2" :  "(179,(179,191), e)",
+"3" :  "(179,180, this.this$0)",
+"4" :  "(179,180, this.m_List)"}]
+}

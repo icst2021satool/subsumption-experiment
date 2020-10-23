@@ -1,0 +1,15 @@
+{
+"Class" : "org.apache.commons.math3.optimization.fitting.CurveFitter$OldTheoreticalValuesFunction", 
+"Methods" : [{ "Name" : "value" ,
+"Duas" : 10,
+"0" :  "(234,237, this)",
+"1" :  "(234,237, point)",
+"2" :  "(234,237, this.f)",
+"3" :  "(234,240, values)",
+"4" :  "(234,237, values)",
+"5" :  "(235,237, i)",
+"6" :  "(236,(236,236), i$)",
+"7" :  "(236,(236,240), i$)",
+"8" :  "(236,236, i$)",
+"9" :  "(237,237, i)"}]
+}

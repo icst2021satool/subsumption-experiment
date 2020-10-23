@@ -1,0 +1,10 @@
+{
+"Class" : "weka.classifiers.pmml.consumer.GeneralRegression$LinkFunction$9", 
+"Methods" : [{ "Name" : "eval" ,
+"Duas" : "8" ,
+"Subsumers" : 3,
+"0" : [ 6], "S0" : [0, 1, 2, 3, 5, 6 ],
+"1" : [ 7], "S1" : [0, 1, 2, 3, 5, 7 ],
+"2" : [ 4], "S2" : [0, 1, 2, 4, 5 ]
+}]
+}

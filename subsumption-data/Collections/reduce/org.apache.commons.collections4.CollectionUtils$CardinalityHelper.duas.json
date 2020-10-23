@@ -1,0 +1,8 @@
+{
+"Class" : "org.apache.commons.collections4.CollectionUtils$CardinalityHelper", 
+"Methods" : [{ "Name" : "getFreq" ,
+"Duas" : 3,
+"0" :  "(117,(118,119), count)",
+"1" :  "(117,(118,121), count)",
+"2" :  "(117,119, count)"}]
+}

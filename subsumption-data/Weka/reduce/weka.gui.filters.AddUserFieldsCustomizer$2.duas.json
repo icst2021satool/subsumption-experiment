@@ -1,0 +1,14 @@
+{
+"Class" : "weka.gui.filters.AddUserFieldsCustomizer$2", 
+"Methods" : [{ "Name" : "propertyChange" ,
+"Duas" : 9,
+"0" :  "(185,187, this)",
+"1" :  "(185,188, this)",
+"2" :  "(185,187, this.this$0)",
+"3" :  "(185,188, this.this$0)",
+"4" :  "(185,188, this.m_list)",
+"5" :  "(185,187, this.m_nameField)",
+"6" :  "(185,(186,187), a)",
+"7" :  "(185,(186,190), a)",
+"8" :  "(185,187, a)"}]
+}

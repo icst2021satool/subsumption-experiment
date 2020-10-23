@@ -1,0 +1,7 @@
+{
+"Class" : "org.mockito.internal.matchers.LessOrEqual", 
+"Methods" : [{ "Name" : "matchResult" ,
+"Duas" : 2,
+"0" :  "(25,(25,25), result)",
+"1" :  "(25,(25,25), result)"}]
+}

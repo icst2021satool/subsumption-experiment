@@ -1,0 +1,10 @@
+{
+"Class" : "weka.gui.explorer.ClassifierPanel$6", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Duas" : "15" ,
+"Subsumers" : 3,
+"0" : [ 14, 10, 9, 7, 4, 2], "S0" : [0, 2, 4, 5, 7, 9, 10, 12, 14 ],
+"1" : [ 11, 8, 3], "S1" : [0, 3, 5, 8, 11, 12 ],
+"2" : [ 13, 6, 1], "S2" : [1, 6, 13 ]
+}]
+}

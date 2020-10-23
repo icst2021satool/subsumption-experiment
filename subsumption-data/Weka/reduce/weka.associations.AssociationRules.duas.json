@@ -1,0 +1,19 @@
+{
+"Class" : "weka.associations.AssociationRules", 
+"Methods" : [{ "Name" : "<init>" ,
+"Duas" : 14,
+"0" :  "(63,74, this)",
+"1" :  "(63,75, this)",
+"2" :  "(63,74, rules)",
+"3" :  "(63,(69,70), producer)",
+"4" :  "(63,(69,74), producer)",
+"5" :  "(63,70, producer)",
+"6" :  "(64,(65,66), producerString)",
+"7" :  "(64,(65,69), producerString)",
+"8" :  "(64,75, producerString)",
+"9" :  "(64,71, producerString)",
+"10" :  "(64,66, producerString)",
+"11" :  "(66,75, producerString)",
+"12" :  "(66,71, producerString)",
+"13" :  "(71,75, producerString)"}]
+}

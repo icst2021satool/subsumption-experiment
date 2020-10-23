@@ -1,0 +1,21 @@
+{
+"Class" : "weka.gui.knowledgeflow.GetPerspectiveNamesGraphicalCommand", 
+"Methods" : [{ "Name" : "setGraphicalEnvironment" ,
+"Duas" : 4,
+"0" :  "(54,57, this)",
+"1" :  "(54,(56,57), graphicalEnvironment)",
+"2" :  "(54,(56,59), graphicalEnvironment)",
+"3" :  "(54,57, graphicalEnvironment)"},{ "Name" : "performCommand" ,
+"Duas" : 11,
+"0" :  "(92,(92,93), this)",
+"1" :  "(92,(92,96), this)",
+"2" :  "(92,98, this)",
+"3" :  "(92,(92,93), this.m_mainPerspective)",
+"4" :  "(92,(92,96), this.m_mainPerspective)",
+"5" :  "(92,98, this.m_mainPerspective)",
+"6" :  "(99,107, result)",
+"7" :  "(99,103, result)",
+"8" :  "(100,(102,103), p)",
+"9" :  "(100,(102,105), p)",
+"10" :  "(100,103, p)"}]
+}

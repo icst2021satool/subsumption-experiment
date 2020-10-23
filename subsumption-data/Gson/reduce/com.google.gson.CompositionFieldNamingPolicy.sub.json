@@ -1,0 +1,14 @@
+{
+"Class" : "com.google.gson.CompositionFieldNamingPolicy", 
+"Methods" : [{ "Name" : "<init>" ,
+"Duas" : "4" ,
+"Subsumers" : 2,
+"0" : [ 3, 2, 0], "S0" : [0, 2, 3 ],
+"1" : [ 1], "S1" : [1 ]
+},{ "Name" : "translateName" ,
+"Duas" : "17" ,
+"Subsumers" : 2,
+"0" : [ 8, 0], "S0" : [0, 6, 8 ],
+"1" : [ 15, 16, 13, 12], "S1" : [1, 2, 3, 4, 5, 6, 7, 9, 10, 11, 12, 13, 14, 15, 16 ]
+}]
+}

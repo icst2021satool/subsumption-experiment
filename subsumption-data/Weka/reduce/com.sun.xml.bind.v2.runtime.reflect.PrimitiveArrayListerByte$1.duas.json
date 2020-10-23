@@ -1,0 +1,11 @@
+{
+"Class" : "com.sun.xml.bind.v2.runtime.reflect.PrimitiveArrayListerByte$1", 
+"Methods" : [{ "Name" : "hasNext" ,
+"Duas" : 6,
+"0" :  "(36,(36,36), this)",
+"1" :  "(36,(36,36), this)",
+"2" :  "(36,(36,36), this.val$objects)",
+"3" :  "(36,(36,36), this.val$objects)",
+"4" :  "(36,(36,36), this.idx)",
+"5" :  "(36,(36,36), this.idx)"}]
+}

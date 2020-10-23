@@ -1,0 +1,20 @@
+{
+"Class" : "weka.core.EnvironmentProperties", 
+"Methods" : [{ "Name" : "getProperty" ,
+"Duas" : 15,
+"0" :  "(50,(50,51), this)",
+"1" :  "(50,(50,53), this)",
+"2" :  "(50,53, this)",
+"3" :  "(50,56, this)",
+"4" :  "(50,51, this)",
+"5" :  "(50,53, key)",
+"6" :  "(50,56, key)",
+"7" :  "(50,(50,51), this.m_env)",
+"8" :  "(50,(50,53), this.m_env)",
+"9" :  "(50,53, this.m_env)",
+"10" :  "(51,53, this.m_env)",
+"11" :  "(53,(55,56), result)",
+"12" :  "(53,(55,59), result)",
+"13" :  "(53,59, result)",
+"14" :  "(56,59, result)"}]
+}

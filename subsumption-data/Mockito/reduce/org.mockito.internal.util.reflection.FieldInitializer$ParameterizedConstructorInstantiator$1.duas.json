@@ -1,0 +1,23 @@
+{
+"Class" : "org.mockito.internal.util.reflection.FieldInitializer$ParameterizedConstructorInstantiator$1", 
+"Methods" : [{ "Name" : "compare" ,
+"Duas" : 7,
+"0" :  "(219,221, this)",
+"1" :  "(219,222, this)",
+"2" :  "(219,221, constructorA)",
+"3" :  "(219,222, constructorB)",
+"4" :  "(219,(220,221), argLengths)",
+"5" :  "(219,(220,225), argLengths)",
+"6" :  "(219,225, argLengths)"},{ "Name" : "countMockableParams" ,
+"Duas" : 10,
+"0" :  "(229,(231,232), this)",
+"1" :  "(229,(231,230), this)",
+"2" :  "(229,(231,232), this.this$0)",
+"3" :  "(229,(231,230), this.this$0)",
+"4" :  "(229,235, constructorMockableParamsSize)",
+"5" :  "(229,232, constructorMockableParamsSize)",
+"6" :  "(230,(231,232), aClass)",
+"7" :  "(230,(231,230), aClass)",
+"8" :  "(232,235, constructorMockableParamsSize)",
+"9" :  "(232,232, constructorMockableParamsSize)"}]
+}

@@ -1,0 +1,12 @@
+{
+"Class" : "com.fasterxml.jackson.databind.deser.std.NumberDeserializers$BigDecimalDeserializer", 
+"Methods" : [{ "Name" : "deserialize" ,
+"Duas" : "21" ,
+"Subsumers" : 5,
+"0" : [ 17, 16, 10, 9, 3, 0], "S0" : [0, 3, 4, 7, 9, 10, 11, 14, 16, 17 ],
+"1" : [ 12, 5], "S1" : [1, 5, 12 ],
+"2" : [ 13, 6], "S2" : [1, 4, 6, 11, 13 ],
+"3" : [ 18], "S3" : [2, 4, 7, 8, 11, 14, 15, 18 ],
+"4" : [ 20, 19], "S4" : [2, 4, 7, 8, 11, 14, 15, 19, 20 ]
+}]
+}

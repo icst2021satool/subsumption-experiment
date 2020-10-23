@@ -1,0 +1,11 @@
+{
+"Class" : "com.sun.xml.bind.v2.runtime.reflect.Lister$ArrayLister$1", 
+"Methods" : [{ "Name" : "hasNext" ,
+"Duas" : 6,
+"0" :  "(179,(179,179), this)",
+"1" :  "(179,(179,179), this)",
+"2" :  "(179,(179,179), this.val$objects)",
+"3" :  "(179,(179,179), this.val$objects)",
+"4" :  "(179,(179,179), this.idx)",
+"5" :  "(179,(179,179), this.idx)"}]
+}

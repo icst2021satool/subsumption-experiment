@@ -1,0 +1,18 @@
+{
+"Class" : "weka.knowledgeflow.steps.ClassifierPerformanceEvaluator$AggregateableClassifierErrorsPlotInstances", 
+"Methods" : [{ "Name" : "finishUp" ,
+"Duas" : 13,
+"0" :  "(720,(722,723), this)",
+"1" :  "(720,(722,726), this)",
+"2" :  "(720,(726,726), this)",
+"3" :  "(720,(726,728), this)",
+"4" :  "(720,728, this)",
+"5" :  "(720,(726,728), this)",
+"6" :  "(720,(726,730), this)",
+"7" :  "(720,(722,723), this.m_SaveForVisualization)",
+"8" :  "(720,(722,726), this.m_SaveForVisualization)",
+"9" :  "(720,(726,726), this.m_Instances)",
+"10" :  "(720,(726,728), this.m_Instances)",
+"11" :  "(720,(726,728), this.m_pointSizeProportionalToMargin)",
+"12" :  "(720,(726,730), this.m_pointSizeProportionalToMargin)"}]
+}

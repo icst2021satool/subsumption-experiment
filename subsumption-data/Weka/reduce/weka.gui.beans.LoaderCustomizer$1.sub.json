@@ -1,0 +1,11 @@
+{
+"Class" : "weka.gui.beans.LoaderCustomizer$1", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Duas" : "12" ,
+"Subsumers" : 4,
+"0" : [ 9, 7, 2, 0], "S0" : [0, 2, 7, 9 ],
+"1" : [ 8, 1], "S1" : [1, 8 ],
+"2" : [ 10, 11, 5, 3, 4], "S2" : [3, 4, 5, 10, 11 ],
+"3" : [ 6], "S3" : [6 ]
+}]
+}

@@ -1,0 +1,9 @@
+{
+"Class" : "com.sun.xml.bind.v2.runtime.property.ArrayElementNodeProperty", 
+"Methods" : [{ "Name" : "serializeItem" ,
+"Duas" : "8" ,
+"Subsumers" : 2,
+"0" : [ 7, 5, 4, 3, 1, 0], "S0" : [0, 1, 3, 4, 5, 7 ],
+"1" : [ 6, 2], "S1" : [2, 6 ]
+}]
+}

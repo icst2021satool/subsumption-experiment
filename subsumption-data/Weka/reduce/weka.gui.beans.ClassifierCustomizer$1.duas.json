@@ -1,0 +1,11 @@
+{
+"Class" : "weka.gui.beans.ClassifierCustomizer$1", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Duas" : 6,
+"0" :  "(116,(116,117), this)",
+"1" :  "(116,(116,121), this)",
+"2" :  "(116,118, this)",
+"3" :  "(116,(116,117), this.this$0)",
+"4" :  "(116,(116,121), this.this$0)",
+"5" :  "(116,118, this.this$0)"}]
+}

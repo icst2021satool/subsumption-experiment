@@ -1,0 +1,22 @@
+{
+"Class" : "weka.core.pmml.jaxbbindings.Sequence", 
+"Methods" : [{ "Name" : "getExtension" ,
+"Duas" : 8,
+"0" :  "(108,(108,109), this)",
+"1" :  "(108,(108,111), this)",
+"2" :  "(108,111, this)",
+"3" :  "(108,109, this)",
+"4" :  "(108,(108,109), this.extension)",
+"5" :  "(108,(108,111), this.extension)",
+"6" :  "(108,111, this.extension)",
+"7" :  "(109,111, this.extension)"},{ "Name" : "getExtensionAndDelimiterAndTime" ,
+"Duas" : 8,
+"0" :  "(164,(164,165), this)",
+"1" :  "(164,(164,167), this)",
+"2" :  "(164,167, this)",
+"3" :  "(164,165, this)",
+"4" :  "(164,(164,165), this.extensionAndDelimiterAndTime)",
+"5" :  "(164,(164,167), this.extensionAndDelimiterAndTime)",
+"6" :  "(164,167, this.extensionAndDelimiterAndTime)",
+"7" :  "(165,167, this.extensionAndDelimiterAndTime)"}]
+}

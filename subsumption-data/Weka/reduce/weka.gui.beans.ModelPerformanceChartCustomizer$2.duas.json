@@ -1,0 +1,17 @@
+{
+"Class" : "weka.gui.beans.ModelPerformanceChartCustomizer$2", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Duas" : 12,
+"0" :  "(227,(235,236), this)",
+"1" :  "(227,(235,239), this)",
+"2" :  "(227,(239,240), this)",
+"3" :  "(227,(239,242), this)",
+"4" :  "(227,240, this)",
+"5" :  "(227,237, this)",
+"6" :  "(227,(235,236), this.this$0)",
+"7" :  "(227,(235,239), this.this$0)",
+"8" :  "(227,(239,240), this.this$0)",
+"9" :  "(227,(239,242), this.this$0)",
+"10" :  "(227,240, this.this$0)",
+"11" :  "(227,237, this.this$0)"}]
+}

@@ -1,0 +1,17 @@
+{
+"Class" : "org.joda.time.format.DateTimeFormatterBuilder$StringLiteral", 
+"Methods" : [{ "Name" : "parseInto" ,
+"Duas" : 12,
+"0" :  "(1303,(1303,1304), this)",
+"1" :  "(1303,(1303,1306), this)",
+"2" :  "(1303,1304, this)",
+"3" :  "(1303,(1303,1304), text)",
+"4" :  "(1303,(1303,1306), text)",
+"5" :  "(1303,(1303,1304), position)",
+"6" :  "(1303,(1303,1306), position)",
+"7" :  "(1303,1306, position)",
+"8" :  "(1303,1304, position)",
+"9" :  "(1303,(1303,1304), this.iValue)",
+"10" :  "(1303,(1303,1306), this.iValue)",
+"11" :  "(1303,1304, this.iValue)"}]
+}

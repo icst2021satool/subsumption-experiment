@@ -1,0 +1,15 @@
+{
+"Class" : "weka.gui.knowledgeflow.steps.FlowByExpressionStepEditorDialog$7", 
+"Methods" : [{ "Name" : "mouseClicked" ,
+"Duas" : 10,
+"0" :  "(512,522, this)",
+"1" :  "(512,522, this.this$0)",
+"2" :  "(512,(513,514), p)",
+"3" :  "(512,(513,526), p)",
+"4" :  "(512,(514,515), p)",
+"5" :  "(512,(514,526), p)",
+"6" :  "(512,516, p)",
+"7" :  "(519,(521,522), thisNode)",
+"8" :  "(519,(521,526), thisNode)",
+"9" :  "(519,522, thisNode)"}]
+}

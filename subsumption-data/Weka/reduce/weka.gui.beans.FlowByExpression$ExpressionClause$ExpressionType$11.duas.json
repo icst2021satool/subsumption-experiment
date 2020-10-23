@@ -1,0 +1,14 @@
+{
+"Class" : "weka.gui.beans.FlowByExpression$ExpressionClause$ExpressionType$11", 
+"Methods" : [{ "Name" : "evaluate" ,
+"Duas" : 9,
+"0" :  "(610,(610,611), inst)",
+"1" :  "(610,(610,614), inst)",
+"2" :  "(610,620, inst)",
+"3" :  "(610,(610,611), lhsAttIndex)",
+"4" :  "(610,(610,614), lhsAttIndex)",
+"5" :  "(610,620, lhsAttIndex)",
+"6" :  "(610,(614,615), regexPattern)",
+"7" :  "(610,(614,618), regexPattern)",
+"8" :  "(610,625, regexPattern)"}]
+}

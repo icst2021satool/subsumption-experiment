@@ -1,0 +1,12 @@
+{
+"Class" : "javax.xml.bind.annotation.adapters.HexBinaryAdapter", 
+"Methods" : [{ "Name" : "unmarshal" ,
+"Duas" : 3,
+"0" :  "(26,(26,26), s)",
+"1" :  "(26,(26,27), s)",
+"2" :  "(26,27, s)"},{ "Name" : "marshal" ,
+"Duas" : 3,
+"0" :  "(31,(31,31), bytes)",
+"1" :  "(31,(31,32), bytes)",
+"2" :  "(31,32, bytes)"}]
+}

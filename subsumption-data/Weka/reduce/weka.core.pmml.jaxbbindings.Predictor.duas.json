@@ -1,0 +1,13 @@
+{
+"Class" : "weka.core.pmml.jaxbbindings.Predictor", 
+"Methods" : [{ "Name" : "getExtension" ,
+"Duas" : 8,
+"0" :  "(89,(89,90), this)",
+"1" :  "(89,(89,92), this)",
+"2" :  "(89,92, this)",
+"3" :  "(89,90, this)",
+"4" :  "(89,(89,90), this.extension)",
+"5" :  "(89,(89,92), this.extension)",
+"6" :  "(89,92, this.extension)",
+"7" :  "(90,92, this.extension)"}]
+}

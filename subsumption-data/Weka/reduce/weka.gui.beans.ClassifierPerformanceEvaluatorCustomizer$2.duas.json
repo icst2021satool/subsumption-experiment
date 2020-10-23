@@ -1,0 +1,11 @@
+{
+"Class" : "weka.gui.beans.ClassifierPerformanceEvaluatorCustomizer$2", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Duas" : 6,
+"0" :  "(124,(125,126), this)",
+"1" :  "(124,(125,128), this)",
+"2" :  "(124,126, this)",
+"3" :  "(124,(125,126), this.this$0)",
+"4" :  "(124,(125,128), this.this$0)",
+"5" :  "(124,126, this.this$0)"}]
+}

@@ -1,0 +1,19 @@
+{
+"Class" : "weka.gui.scripting.GroovyPanel", 
+"Methods" : [{ "Name" : "newCodePane" ,
+"Duas" : 14,
+"0" :  "(67,81, BLACK)",
+"1" :  "(67,82, WHITE)",
+"2" :  "(67,(75,76), props)",
+"3" :  "(67,(75,81), props)",
+"4" :  "(67,81, props)",
+"5" :  "(67,82, props)",
+"6" :  "(67,83, props)",
+"7" :  "(67,76, props)",
+"8" :  "(74,81, result)",
+"9" :  "(74,82, result)",
+"10" :  "(74,83, result)",
+"11" :  "(74,86, result)",
+"12" :  "(74,77, result)",
+"13" :  "(74,78, result)"}]
+}

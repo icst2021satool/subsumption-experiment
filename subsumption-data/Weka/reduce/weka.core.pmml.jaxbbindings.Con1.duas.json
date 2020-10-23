@@ -1,0 +1,13 @@
+{
+"Class" : "weka.core.pmml.jaxbbindings.Con1", 
+"Methods" : [{ "Name" : "getExtension" ,
+"Duas" : 8,
+"0" :  "(83,(83,84), this)",
+"1" :  "(83,(83,86), this)",
+"2" :  "(83,86, this)",
+"3" :  "(83,84, this)",
+"4" :  "(83,(83,84), this.extension)",
+"5" :  "(83,(83,86), this.extension)",
+"6" :  "(83,86, this.extension)",
+"7" :  "(84,86, this.extension)"}]
+}

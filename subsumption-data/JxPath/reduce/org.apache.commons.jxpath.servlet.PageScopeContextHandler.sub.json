@@ -1,0 +1,8 @@
+{
+"Class" : "org.apache.commons.jxpath.servlet.PageScopeContextHandler", 
+"Methods" : [{ "Name" : "getPropertyNames" ,
+"Duas" : "6" ,
+"Subsumers" : 1,
+"0" : [ 5, 3, 1], "S0" : [0, 1, 2, 3, 4, 5 ]
+}]
+}

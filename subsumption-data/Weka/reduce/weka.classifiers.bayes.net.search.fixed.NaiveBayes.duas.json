@@ -1,0 +1,23 @@
+{
+"Class" : "weka.classifiers.bayes.net.search.fixed.NaiveBayes", 
+"Methods" : [{ "Name" : "buildStructure" ,
+"Duas" : 18,
+"0" :  "(65,67, bayesNet)",
+"1" :  "(65,(65,66), instances)",
+"2" :  "(65,(65,70), instances)",
+"3" :  "(65,(66,67), instances)",
+"4" :  "(65,(66,65), instances)",
+"5" :  "(65,67, instances)",
+"6" :  "(65,(65,66), iAttribute)",
+"7" :  "(65,(65,70), iAttribute)",
+"8" :  "(65,(66,67), iAttribute)",
+"9" :  "(65,(66,65), iAttribute)",
+"10" :  "(65,65, iAttribute)",
+"11" :  "(65,67, iAttribute)",
+"12" :  "(65,(65,66), iAttribute)",
+"13" :  "(65,(65,70), iAttribute)",
+"14" :  "(65,(66,67), iAttribute)",
+"15" :  "(65,(66,65), iAttribute)",
+"16" :  "(65,65, iAttribute)",
+"17" :  "(65,67, iAttribute)"}]
+}

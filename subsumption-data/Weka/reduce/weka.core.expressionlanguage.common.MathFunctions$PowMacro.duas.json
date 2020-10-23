@@ -1,0 +1,12 @@
+{
+"Class" : "weka.core.expressionlanguage.common.MathFunctions$PowMacro", 
+"Methods" : [{ "Name" : "evaluate" ,
+"Duas" : 7,
+"0" :  "(273,(273,274), params)",
+"1" :  "(273,(273,275), params)",
+"2" :  "(273,(275,276), params)",
+"3" :  "(273,(275,277), params)",
+"4" :  "(273,(277,278), params)",
+"5" :  "(273,(277,279), params)",
+"6" :  "(273,279, params)"}]
+}

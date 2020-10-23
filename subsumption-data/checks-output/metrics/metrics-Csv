@@ -1,0 +1,112 @@
+Nr.   Classes Functions      NCSS  Javadocs Package
+  1         9        79       602        57 org.apache.commons.csv
+    --------- --------- --------- ---------
+            9        79       602        57 Total
+
+ Packages   Classes Functions      NCSS  Javadocs | per
+-------------------------------------------------------------
+     1.00      9.00     79.00    602.00     57.00 | Project
+               9.00     79.00    602.00     57.00 | Package
+                         8.78     66.89      6.33 | Class
+                                   7.62      0.72 | Function
+
+Nr. NCSS Functions Classes Javadocs Class
+  1   81         8       1        9 org.apache.commons.csv.CSVParser
+  2   19         4       0        0 org.apache.commons.csv.CSVParser.Iterator
+  3  130        11       0        8 org.apache.commons.csv.CSVPrinter
+  4  109        25       0       22 org.apache.commons.csv.CSVFormat
+  5   49         7       0        6 org.apache.commons.csv.ExtendedBufferedReader
+  6  101         4       0        3 org.apache.commons.csv.CSVLexer
+  7   64        12       0        4 org.apache.commons.csv.Lexer
+  8   11         1       1        1 org.apache.commons.csv.Token
+  9   22         7       0        4 org.apache.commons.csv.CSVRecord
+Average Object NCSS:                 65.11
+Average Object Functions:             8.78
+Average Object Inner Classes:         0.22
+Average Object Javadoc Comments:      6.33
+Program NCSS:                       602.00
+
+Nr. NCSS CCN JVDC Function
+  1    2   1    1 org.apache.commons.csv.CSVParser.CSVParser(Reader)
+  2    4   1    1 org.apache.commons.csv.CSVParser.CSVParser(Reader,CSVFormat)
+  3    2   1    1 org.apache.commons.csv.CSVParser.CSVParser(String,CSVFormat)
+  4    6   2    1 org.apache.commons.csv.CSVParser.getRecords()
+  5   24   9    1 org.apache.commons.csv.CSVParser.getRecord()
+  6   15   6    1 org.apache.commons.csv.CSVParser.initializeHeader(CSVFormat)
+  7    4   2    0 org.apache.commons.csv.CSVParser.Iterator.hasNext()
+  8    8   4    0 org.apache.commons.csv.CSVParser.Iterator.next()
+  9    4   4    0 org.apache.commons.csv.CSVParser.Iterator.getNextRecord()
+ 10    2   2    0 org.apache.commons.csv.CSVParser.Iterator.remove()
+ 11   21   1    1 org.apache.commons.csv.CSVParser.iterator()
+ 12    2   1    1 org.apache.commons.csv.CSVParser.getLineNumber()
+ 13    4   2    1 org.apache.commons.csv.CSVPrinter.CSVPrinter(Appendable,CSVFormat)
+ 14    3   1    1 org.apache.commons.csv.CSVPrinter.println()
+ 15    3   2    1 org.apache.commons.csv.CSVPrinter.flush()
+ 16    4   2    1 org.apache.commons.csv.CSVPrinter.println(String)
+ 17   22   9    1 org.apache.commons.csv.CSVPrinter.printComment(String)
+ 18    9   3    0 org.apache.commons.csv.CSVPrinter.print(CharSequence,int,int)
+ 19    5   2    0 org.apache.commons.csv.CSVPrinter.printSep()
+ 20   23  10    0 org.apache.commons.csv.CSVPrinter.printAndEscape(CharSequence,int,int)
+ 21   43  22    0 org.apache.commons.csv.CSVPrinter.printAndEncapsulate(CharSequence,int,int)
+ 22    8   3    1 org.apache.commons.csv.CSVPrinter.print(String,boolean)
+ 23    2   1    1 org.apache.commons.csv.CSVPrinter.print(String)
+ 24    9   1    1 org.apache.commons.csv.CSVFormat.CSVFormat(char,char,char,char,boolean,boolean,String,String[])
+ 25    2   2    1 org.apache.commons.csv.CSVFormat.isLineBreak(char)
+ 26   11  13    1 org.apache.commons.csv.CSVFormat.validate()
+ 27    2   1    1 org.apache.commons.csv.CSVFormat.getDelimiter()
+ 28    4   3    1 org.apache.commons.csv.CSVFormat.withDelimiter(char)
+ 29    2   1    1 org.apache.commons.csv.CSVFormat.getEncapsulator()
+ 30    4   3    1 org.apache.commons.csv.CSVFormat.withEncapsulator(char)
+ 31    2   1    0 org.apache.commons.csv.CSVFormat.isEncapsulating()
+ 32    2   1    1 org.apache.commons.csv.CSVFormat.getCommentStart()
+ 33    4   3    1 org.apache.commons.csv.CSVFormat.withCommentStart(char)
+ 34    2   1    1 org.apache.commons.csv.CSVFormat.isCommentingEnabled()
+ 35    2   1    1 org.apache.commons.csv.CSVFormat.getEscape()
+ 36    4   3    1 org.apache.commons.csv.CSVFormat.withEscape(char)
+ 37    2   1    0 org.apache.commons.csv.CSVFormat.isEscaping()
+ 38    2   1    1 org.apache.commons.csv.CSVFormat.isSurroundingSpacesIgnored()
+ 39    2   1    1 org.apache.commons.csv.CSVFormat.withSurroundingSpacesIgnored(boolean)
+ 40    2   1    1 org.apache.commons.csv.CSVFormat.isEmptyLinesIgnored()
+ 41    2   1    1 org.apache.commons.csv.CSVFormat.withEmptyLinesIgnored(boolean)
+ 42    2   1    1 org.apache.commons.csv.CSVFormat.getLineSeparator()
+ 43    2   1    1 org.apache.commons.csv.CSVFormat.withLineSeparator(String)
+ 44    2   1    0 org.apache.commons.csv.CSVFormat.getHeader()
+ 45    2   1    1 org.apache.commons.csv.CSVFormat.withHeader(String)
+ 46    2   1    1 org.apache.commons.csv.CSVFormat.parse(Reader)
+ 47    5   2    1 org.apache.commons.csv.CSVFormat.format(String)
+ 48   17   6    0 org.apache.commons.csv.CSVFormat.toString()
+ 49    2   1    1 org.apache.commons.csv.ExtendedBufferedReader.ExtendedBufferedReader(Reader)
+ 50    6   2    0 org.apache.commons.csv.ExtendedBufferedReader.read()
+ 51    2   1    1 org.apache.commons.csv.ExtendedBufferedReader.readAgain()
+ 52   18  10    0 org.apache.commons.csv.ExtendedBufferedReader.read(int[],int,int)
+ 53    9   3    1 org.apache.commons.csv.ExtendedBufferedReader.readLine()
+ 54    5   1    1 org.apache.commons.csv.ExtendedBufferedReader.lookAhead()
+ 55    2   1    1 org.apache.commons.csv.ExtendedBufferedReader.getLineNumber()
+ 56    2   1    0 org.apache.commons.csv.CSVLexer.CSVLexer(CSVFormat,ExtendedBufferedReader)
+ 57   41  22    1 org.apache.commons.csv.CSVLexer.nextToken(Token)
+ 58   23   7    1 org.apache.commons.csv.CSVLexer.simpleTokenLexer(Token,int)
+ 59   34  16    1 org.apache.commons.csv.CSVLexer.encapsulatedTokenLexer(Token,int)
+ 60   12   1    0 org.apache.commons.csv.Lexer.Lexer(CSVFormat,ExtendedBufferedReader)
+ 61    2   1    0 org.apache.commons.csv.Lexer.getLineNumber()
+ 62   15  11    0 org.apache.commons.csv.Lexer.readEscape(int)
+ 63    6   4    0 org.apache.commons.csv.Lexer.trimTrailingSpaces(StringBuilder)
+ 64    2   2    1 org.apache.commons.csv.Lexer.isWhitespace(int)
+ 65    4   4    1 org.apache.commons.csv.Lexer.isEndOfLine(int)
+ 66    2   1    1 org.apache.commons.csv.Lexer.isEndOfFile(int)
+ 67    1   1    0 org.apache.commons.csv.Lexer.nextToken(Token)
+ 68    2   1    0 org.apache.commons.csv.Lexer.isDelimiter(int)
+ 69    2   2    0 org.apache.commons.csv.Lexer.isEscape(int)
+ 70    2   2    0 org.apache.commons.csv.Lexer.isEncapsulator(int)
+ 71    2   2    0 org.apache.commons.csv.Lexer.isCommentStart(int)
+ 72    5   1    0 org.apache.commons.csv.Token.reset()
+ 73    3   2    0 org.apache.commons.csv.CSVRecord.CSVRecord(String[],Integer)
+ 74    2   1    1 org.apache.commons.csv.CSVRecord.get(int)
+ 75    5   4    1 org.apache.commons.csv.CSVRecord.get(String)
+ 76    2   1    0 org.apache.commons.csv.CSVRecord.iterator()
+ 77    2   1    0 org.apache.commons.csv.CSVRecord.values()
+ 78    2   1    1 org.apache.commons.csv.CSVRecord.size()
+ 79    2   1    0 org.apache.commons.csv.CSVRecord.toString()
+Average Function NCSS:       6.72
+Average Function CCN:        3.19
+Average Function JVDC:       0.63
+Program NCSS:              602.00

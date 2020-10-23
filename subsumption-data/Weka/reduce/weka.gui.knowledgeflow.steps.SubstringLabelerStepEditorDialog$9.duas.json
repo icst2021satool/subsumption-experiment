@@ -1,0 +1,14 @@
+{
+"Class" : "weka.gui.knowledgeflow.steps.SubstringLabelerStepEditorDialog$9", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Duas" : 9,
+"0" :  "(355,358, this)",
+"1" :  "(355,359, this)",
+"2" :  "(355,358, this.this$0)",
+"3" :  "(355,359, this.this$0)",
+"4" :  "(355,359, this.m_list)",
+"5" :  "(355,358, this.m_regexCheck)",
+"6" :  "(355,(356,357), m)",
+"7" :  "(355,(356,361), m)",
+"8" :  "(355,358, m)"}]
+}

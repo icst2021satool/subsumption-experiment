@@ -1,0 +1,13 @@
+{
+"Class" : "weka.core.pmml.jaxbbindings.MISSINGVALUESTRATEGY", 
+"Methods" : [{ "Name" : "fromValue" ,
+"Duas" : 8,
+"0" :  "(60,65, v)",
+"1" :  "(60,(61,62), v)",
+"2" :  "(60,(61,60), v)",
+"3" :  "(60,(61,62), c)",
+"4" :  "(60,(61,60), c)",
+"5" :  "(60,62, c)",
+"6" :  "(60,(61,62), c.value)",
+"7" :  "(60,(61,60), c.value)"}]
+}

@@ -1,0 +1,9 @@
+{
+"Class" : "org.apache.commons.math3.special.Beta$1", 
+"Methods" : [{ "Name" : "getB" ,
+"Duas" : "14" ,
+"Subsumers" : 2,
+"0" : [ 13, 10, 8, 6, 4, 3, 0], "S0" : [0, 3, 4, 6, 8, 10, 13 ],
+"1" : [ 12, 11, 9, 7, 5, 2, 1], "S1" : [1, 2, 5, 7, 9, 11, 12 ]
+}]
+}

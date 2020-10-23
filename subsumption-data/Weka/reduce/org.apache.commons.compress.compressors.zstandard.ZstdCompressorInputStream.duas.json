@@ -1,0 +1,9 @@
+{
+"Class" : "org.apache.commons.compress.compressors.zstandard.ZstdCompressorInputStream", 
+"Methods" : [{ "Name" : "read" ,
+"Duas" : 4,
+"0" :  "(78,79, this)",
+"1" :  "(78,(79,79), ret)",
+"2" :  "(78,(79,79), ret)",
+"3" :  "(78,80, ret)"}]
+}

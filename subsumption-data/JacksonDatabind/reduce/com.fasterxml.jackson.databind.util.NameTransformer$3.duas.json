@@ -1,0 +1,14 @@
+{
+"Class" : "com.fasterxml.jackson.databind.util.NameTransformer$3", 
+"Methods" : [{ "Name" : "reverse" ,
+"Duas" : 9,
+"0" :  "(61,(61,62), this)",
+"1" :  "(61,(61,64), this)",
+"2" :  "(61,62, this)",
+"3" :  "(61,(61,62), transformed)",
+"4" :  "(61,(61,64), transformed)",
+"5" :  "(61,62, transformed)",
+"6" :  "(61,(61,62), this.val$prefix)",
+"7" :  "(61,(61,64), this.val$prefix)",
+"8" :  "(61,62, this.val$prefix)"}]
+}

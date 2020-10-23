@@ -1,0 +1,13 @@
+{
+"Class" : "weka.gui.beans.LoaderCustomizer$8", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Duas" : 8,
+"0" :  "(628,(637,638), this)",
+"1" :  "(628,(637,640), this)",
+"2" :  "(628,640, this)",
+"3" :  "(628,638, this)",
+"4" :  "(628,(637,638), this.this$0)",
+"5" :  "(628,(637,640), this.this$0)",
+"6" :  "(628,640, this.this$0)",
+"7" :  "(628,638, this.this$0)"}]
+}

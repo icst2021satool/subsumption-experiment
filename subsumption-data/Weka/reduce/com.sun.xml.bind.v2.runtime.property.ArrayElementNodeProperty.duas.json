@@ -1,0 +1,13 @@
+{
+"Class" : "com.sun.xml.bind.v2.runtime.property.ArrayElementNodeProperty", 
+"Methods" : [{ "Name" : "serializeItem" ,
+"Duas" : 8,
+"0" :  "(36,39, this)",
+"1" :  "(36,39, expected)",
+"2" :  "(36,(36,37), item)",
+"3" :  "(36,(36,39), item)",
+"4" :  "(36,39, item)",
+"5" :  "(36,39, w)",
+"6" :  "(36,37, w)",
+"7" :  "(36,39, this.fieldName)"}]
+}

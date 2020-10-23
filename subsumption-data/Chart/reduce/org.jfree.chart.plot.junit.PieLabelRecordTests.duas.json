@@ -1,0 +1,9 @@
+{
+"Class" : "org.jfree.chart.plot.junit.PieLabelRecordTests", 
+"Methods" : [{ "Name" : "suite" ,
+"Duas" : 4,
+"0" :  "(68,(68,68), class$org$jfree$chart$plot$junit$PieLabelRecordTests)",
+"1" :  "(68,(68,68), class$org$jfree$chart$plot$junit$PieLabelRecordTests)",
+"2" :  "(68,68, class$org$jfree$chart$plot$junit$PieLabelRecordTests)",
+"3" :  "(68,68, class$org$jfree$chart$plot$junit$PieLabelRecordTests)"}]
+}

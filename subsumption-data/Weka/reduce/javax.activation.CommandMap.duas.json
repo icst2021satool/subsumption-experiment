@@ -1,0 +1,21 @@
+{
+"Class" : "javax.activation.CommandMap", 
+"Methods" : [{ "Name" : "getDefaultCommandMap" ,
+"Duas" : 10,
+"0" :  "(48,(48,49), defaultCommandMap)",
+"1" :  "(48,(48,52), defaultCommandMap)",
+"2" :  "(48,49, defaultCommandMap)",
+"3" :  "(48,53, map)",
+"4" :  "(48,56, map)",
+"5" :  "(52,56, tccl)",
+"6" :  "(53,(54,55), def)",
+"7" :  "(53,(54,58), def)",
+"8" :  "(53,58, def)",
+"9" :  "(55,58, def)"},{ "Name" : "setDefaultCommandMap" ,
+"Duas" : 5,
+"0" :  "(70,88, commandMap)",
+"1" :  "(70,87, map)",
+"2" :  "(70,(71,74), security)",
+"3" :  "(70,(71,87), security)",
+"4" :  "(70,74, security)"}]
+}

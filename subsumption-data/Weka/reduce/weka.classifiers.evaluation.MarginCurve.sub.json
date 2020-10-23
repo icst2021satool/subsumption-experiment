@@ -1,0 +1,14 @@
+{
+"Class" : "weka.classifiers.evaluation.MarginCurve", 
+"Methods" : [{ "Name" : "getCurve" ,
+"Duas" : "15" ,
+"Subsumers" : 2,
+"0" : [ 14, 13], "S0" : [0, 1, 2, 3, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14 ],
+"1" : [ 4], "S1" : [4 ]
+},{ "Name" : "getMargins" ,
+"Duas" : "15" ,
+"Subsumers" : 2,
+"0" : [ 12, 13, 14, 10], "S0" : [0, 1, 2, 3, 4, 5, 7, 8, 9, 10, 11, 12, 13, 14 ],
+"1" : [ 6], "S1" : [2, 3, 6 ]
+}]
+}

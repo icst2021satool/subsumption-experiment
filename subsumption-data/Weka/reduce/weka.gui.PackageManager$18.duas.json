@@ -1,0 +1,19 @@
+{
+"Class" : "weka.gui.PackageManager$18", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Duas" : 14,
+"0" :  "(2205,2211, this)",
+"1" :  "(2205,2212, this)",
+"2" :  "(2205,2213, this)",
+"3" :  "(2205,2207, this)",
+"4" :  "(2205,2211, this.this$0)",
+"5" :  "(2205,2212, this.this$0)",
+"6" :  "(2205,2213, this.this$0)",
+"7" :  "(2205,2207, this.this$0)",
+"8" :  "(2205,2211, this.m_infoPane)",
+"9" :  "(2205,2212, this.m_infoPane)",
+"10" :  "(2205,2207, this.m_browserHistory)",
+"11" :  "(2205,(2206,2207), back)",
+"12" :  "(2205,(2206,2210), back)",
+"13" :  "(2205,2207, back)"}]
+}

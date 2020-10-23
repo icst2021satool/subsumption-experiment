@@ -1,0 +1,8 @@
+{
+"Class" : "weka.gui.AttributeVisualizationPanel$1", 
+"Methods" : [{ "Name" : "componentResized" ,
+"Duas" : 3,
+"0" :  "(215,(215,218), this)",
+"1" :  "(215,(215,218), this.this$0)",
+"2" :  "(215,(215,218), this.m_data)"}]
+}

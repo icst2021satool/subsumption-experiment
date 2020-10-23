@@ -1,0 +1,14 @@
+{
+"Class" : "org.apache.commons.compress.archivers.sevenz.CoderBase", 
+"Methods" : [{ "Name" : "canAcceptOptions" ,
+"Duas" : 4,
+"0" :  "(42,(43,44), opts)",
+"1" :  "(42,(43,42), opts)",
+"2" :  "(42,(43,44), c)",
+"3" :  "(42,(43,42), c)"},{ "Name" : "numberOptionOrDefault" ,
+"Duas" : 4,
+"0" :  "(83,(83,83), options)",
+"1" :  "(83,(83,83), options)",
+"2" :  "(83,83, options)",
+"3" :  "(83,83, defaultValue)"}]
+}

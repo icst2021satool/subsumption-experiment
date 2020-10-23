@@ -1,0 +1,14 @@
+{
+"Class" : "weka.gui.knowledgeflow.steps.SubstringReplacerStepEditorDialog$3", 
+"Methods" : [{ "Name" : "propertyChange" ,
+"Duas" : 9,
+"0" :  "(218,221, this)",
+"1" :  "(218,222, this)",
+"2" :  "(218,221, this.this$0)",
+"3" :  "(218,222, this.this$0)",
+"4" :  "(218,222, this.m_list)",
+"5" :  "(218,221, this.m_replaceField)",
+"6" :  "(218,(219,220), mr)",
+"7" :  "(218,(219,224), mr)",
+"8" :  "(218,221, mr)"}]
+}

@@ -1,0 +1,8 @@
+{
+"Class" : "org.apache.commons.collections4.bidimap.DualTreeBidiMap$ViewMap", 
+"Methods" : [{ "Name" : "clear" ,
+"Duas" : "4" ,
+"Subsumers" : 1,
+"0" : [ 2, 3, 0], "S0" : [0, 1, 2, 3 ]
+}]
+}

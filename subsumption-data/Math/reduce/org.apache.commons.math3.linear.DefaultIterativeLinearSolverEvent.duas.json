@@ -1,0 +1,16 @@
+{
+"Class" : "org.apache.commons.math3.linear.DefaultIterativeLinearSolverEvent", 
+"Methods" : [{ "Name" : "getResidual" ,
+"Duas" : 6,
+"0" :  "(114,(114,115), this)",
+"1" :  "(114,(114,117), this)",
+"2" :  "(114,115, this)",
+"3" :  "(114,(114,115), this.r)",
+"4" :  "(114,(114,117), this.r)",
+"5" :  "(114,115, this.r)"},{ "Name" : "providesResidual" ,
+"Duas" : 4,
+"0" :  "(142,(142,142), this)",
+"1" :  "(142,(142,142), this)",
+"2" :  "(142,(142,142), this.r)",
+"3" :  "(142,(142,142), this.r)"}]
+}

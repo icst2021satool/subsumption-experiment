@@ -1,0 +1,14 @@
+{
+"Class" : "com.google.javascript.jscomp.NameAnalyzer$PrototypeSetNode", 
+"Methods" : [{ "Name" : "remove" ,
+"Duas" : 9,
+"0" :  "(360,366, this)",
+"1" :  "(360,363, this)",
+"2" :  "(360,366, this.parent)",
+"3" :  "(360,366, this.this$0)",
+"4" :  "(360,363, this.this$0)",
+"5" :  "(360,(361,363), gramps)",
+"6" :  "(360,(361,366), gramps)",
+"7" :  "(360,366, gramps)",
+"8" :  "(360,363, gramps)"}]
+}

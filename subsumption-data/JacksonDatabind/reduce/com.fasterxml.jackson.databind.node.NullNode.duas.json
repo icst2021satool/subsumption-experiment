@@ -1,0 +1,9 @@
+{
+"Class" : "com.fasterxml.jackson.databind.node.NullNode", 
+"Methods" : [{ "Name" : "equals" ,
+"Duas" : 4,
+"0" :  "(56,(56,56), this)",
+"1" :  "(56,(56,56), this)",
+"2" :  "(56,(56,56), o)",
+"3" :  "(56,(56,56), o)"}]
+}

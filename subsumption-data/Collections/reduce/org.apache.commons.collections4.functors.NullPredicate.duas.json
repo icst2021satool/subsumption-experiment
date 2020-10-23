@@ -1,0 +1,7 @@
+{
+"Class" : "org.apache.commons.collections4.functors.NullPredicate", 
+"Methods" : [{ "Name" : "evaluate" ,
+"Duas" : 2,
+"0" :  "(64,(64,64), object)",
+"1" :  "(64,(64,64), object)"}]
+}

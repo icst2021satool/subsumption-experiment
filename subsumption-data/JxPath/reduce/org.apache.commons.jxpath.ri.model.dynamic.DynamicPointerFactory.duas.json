@@ -1,0 +1,23 @@
+{
+"Class" : "org.apache.commons.jxpath.ri.model.dynamic.DynamicPointerFactory", 
+"Methods" : [{ "Name" : "createNodePointer" ,
+"Duas" : 6,
+"0" :  "(49,54, name)",
+"1" :  "(49,54, bean)",
+"2" :  "(49,54, locale)",
+"3" :  "(49,(50,51), bi)",
+"4" :  "(49,(50,56), bi)",
+"5" :  "(49,51, bi)"},{ "Name" : "createNodePointer" ,
+"Duas" : 11,
+"0" :  "(64,73, parent)",
+"1" :  "(64,65, parent)",
+"2" :  "(64,73, name)",
+"3" :  "(64,65, name)",
+"4" :  "(64,(64,65), bean)",
+"5" :  "(64,(64,68), bean)",
+"6" :  "(64,68, bean)",
+"7" :  "(64,73, bean)",
+"8" :  "(68,(69,70), bi)",
+"9" :  "(68,(69,75), bi)",
+"10" :  "(68,70, bi)"}]
+}

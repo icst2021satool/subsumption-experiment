@@ -1,0 +1,13 @@
+{
+"Class" : "org.apache.commons.jxpath.ri.model.beans.BeanPointerFactory", 
+"Methods" : [{ "Name" : "createNodePointer" ,
+"Duas" : 8,
+"0" :  "(55,60, parent)",
+"1" :  "(55,56, parent)",
+"2" :  "(55,60, name)",
+"3" :  "(55,56, name)",
+"4" :  "(55,(55,56), bean)",
+"5" :  "(55,(55,59), bean)",
+"6" :  "(55,59, bean)",
+"7" :  "(55,60, bean)"}]
+}

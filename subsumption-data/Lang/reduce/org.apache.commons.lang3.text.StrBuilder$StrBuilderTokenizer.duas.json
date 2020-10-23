@@ -1,0 +1,20 @@
+{
+"Class" : "org.apache.commons.lang3.text.StrBuilder$StrBuilderTokenizer", 
+"Methods" : [{ "Name" : "tokenize" ,
+"Duas" : 9,
+"0" :  "(2817,2820, this)",
+"1" :  "(2817,2818, this)",
+"2" :  "(2817,(2817,2818), chars)",
+"3" :  "(2817,(2817,2820), chars)",
+"4" :  "(2817,2820, chars)",
+"5" :  "(2817,2820, offset)",
+"6" :  "(2817,2820, count)",
+"7" :  "(2817,2818, this.this$0)",
+"8" :  "(2817,2818, this.buffer)"},{ "Name" : "getContent" ,
+"Duas" : 5,
+"0" :  "(2826,2828, this)",
+"1" :  "(2826,2828, this.this$0)",
+"2" :  "(2826,(2827,2828), str)",
+"3" :  "(2826,(2827,2830), str)",
+"4" :  "(2826,2830, str)"}]
+}

@@ -1,0 +1,12 @@
+{
+"Class" : "weka.gui.experiment.Experimenter$3", 
+"Methods" : [{ "Name" : "run" ,
+"Duas" : 7,
+"0" :  "(194,196, this)",
+"1" :  "(194,(194,196), m_Memory)",
+"2" :  "(194,(194,194), m_Memory)",
+"3" :  "(194,202, m_Memory)",
+"4" :  "(194,196, this.val$jf)",
+"5" :  "(194,201, err)",
+"6" :  "(194,203, err)"}]
+}

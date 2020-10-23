@@ -1,0 +1,13 @@
+{
+"Class" : "weka.core.pmml.jaxbbindings.BayesOutput", 
+"Methods" : [{ "Name" : "getExtension" ,
+"Duas" : 8,
+"0" :  "(82,(82,83), this)",
+"1" :  "(82,(82,85), this)",
+"2" :  "(82,85, this)",
+"3" :  "(82,83, this)",
+"4" :  "(82,(82,83), this.extension)",
+"5" :  "(82,(82,85), this.extension)",
+"6" :  "(82,85, this.extension)",
+"7" :  "(83,85, this.extension)"}]
+}

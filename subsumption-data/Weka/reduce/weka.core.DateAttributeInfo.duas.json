@@ -1,0 +1,13 @@
+{
+"Class" : "weka.core.DateAttributeInfo", 
+"Methods" : [{ "Name" : "<init>" ,
+"Duas" : 8,
+"0" :  "(36,40, this)",
+"1" :  "(36,42, this)",
+"2" :  "(36,38, this)",
+"3" :  "(36,(37,38), dateFormat)",
+"4" :  "(36,(37,40), dateFormat)",
+"5" :  "(36,38, dateFormat)",
+"6" :  "(38,42, this.m_DateFormat)",
+"7" :  "(40,42, this.m_DateFormat)"}]
+}

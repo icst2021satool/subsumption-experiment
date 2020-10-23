@@ -1,0 +1,23 @@
+{
+"Class" : "weka.gui.beans.SubstringLabelerCustomizer$6", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Duas" : 18,
+"0" :  "(272,274, this)",
+"1" :  "(272,(276,277), this)",
+"2" :  "(272,(276,281), this)",
+"3" :  "(272,277, this)",
+"4" :  "(272,278, this)",
+"5" :  "(272,274, this.this$0)",
+"6" :  "(272,(276,277), this.this$0)",
+"7" :  "(272,(276,281), this.this$0)",
+"8" :  "(272,277, this.this$0)",
+"9" :  "(272,278, this.this$0)",
+"10" :  "(272,274, this.m_listModel)",
+"11" :  "(272,(276,277), this.m_listModel)",
+"12" :  "(272,(276,281), this.m_listModel)",
+"13" :  "(272,277, this.m_upBut)",
+"14" :  "(272,278, this.m_downBut)",
+"15" :  "(272,(273,274), selected)",
+"16" :  "(272,(273,281), selected)",
+"17" :  "(272,274, selected)"}]
+}

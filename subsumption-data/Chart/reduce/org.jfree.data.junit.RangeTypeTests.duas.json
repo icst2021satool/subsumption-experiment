@@ -1,0 +1,14 @@
+{
+"Class" : "org.jfree.data.junit.RangeTypeTests", 
+"Methods" : [{ "Name" : "suite" ,
+"Duas" : 4,
+"0" :  "(67,(67,67), class$org$jfree$data$junit$RangeTypeTests)",
+"1" :  "(67,(67,67), class$org$jfree$data$junit$RangeTypeTests)",
+"2" :  "(67,67, class$org$jfree$data$junit$RangeTypeTests)",
+"3" :  "(67,67, class$org$jfree$data$junit$RangeTypeTests)"},{ "Name" : "testSerialization" ,
+"Duas" : 4,
+"0" :  "(113,(131,131), r1)",
+"1" :  "(113,(131,131), r1)",
+"2" :  "(124,(131,131), r2)",
+"3" :  "(124,(131,131), r2)"}]
+}

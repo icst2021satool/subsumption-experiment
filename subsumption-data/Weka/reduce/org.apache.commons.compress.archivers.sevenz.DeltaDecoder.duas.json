@@ -1,0 +1,15 @@
+{
+"Class" : "org.apache.commons.compress.archivers.sevenz.DeltaDecoder", 
+"Methods" : [{ "Name" : "getOptionsFromCoder" ,
+"Duas" : 10,
+"0" :  "(62,(62,62), coder)",
+"1" :  "(62,(62,63), coder)",
+"2" :  "(62,(62,63), coder)",
+"3" :  "(62,(62,65), coder)",
+"4" :  "(62,65, coder)",
+"5" :  "(62,(62,62), coder.properties)",
+"6" :  "(62,(62,63), coder.properties)",
+"7" :  "(62,(62,63), coder.properties)",
+"8" :  "(62,(62,65), coder.properties)",
+"9" :  "(62,65, coder.properties)"}]
+}

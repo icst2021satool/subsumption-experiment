@@ -1,0 +1,17 @@
+{
+"Class" : "org.apache.commons.lang3.concurrent.ConstantInitializer", 
+"Methods" : [{ "Name" : "hashCode" ,
+"Duas" : 3,
+"0" :  "(92,(92,92), this)",
+"1" :  "(92,(92,92), this)",
+"2" :  "(92,92, this)"},{ "Name" : "equals" ,
+"Duas" : 8,
+"0" :  "(106,(106,107), this)",
+"1" :  "(106,(106,109), this)",
+"2" :  "(106,114, this)",
+"3" :  "(106,(106,107), obj)",
+"4" :  "(106,(106,109), obj)",
+"5" :  "(106,(109,110), obj)",
+"6" :  "(106,(109,113), obj)",
+"7" :  "(106,113, obj)"}]
+}

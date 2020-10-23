@@ -1,0 +1,14 @@
+{
+"Class" : "org.apache.commons.compress.archivers.examples.CloseableConsumerAdapter", 
+"Methods" : [{ "Name" : "<init>" ,
+"Duas" : "4" ,
+"Subsumers" : 2,
+"0" : [ 3, 2, 0], "S0" : [0, 2, 3 ],
+"1" : [ 1], "S1" : [1 ]
+},{ "Name" : "close" ,
+"Duas" : "7" ,
+"Subsumers" : 2,
+"0" : [ 6, 5, 3, 2, 0], "S0" : [0, 2, 3, 5, 6 ],
+"1" : [ 4, 1], "S1" : [1, 4 ]
+}]
+}

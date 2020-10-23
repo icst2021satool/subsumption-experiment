@@ -1,0 +1,9 @@
+{
+"Class" : "weka.core.packageManagement.Package", 
+"Methods" : [{ "Name" : "getPackageMetaDataElement" ,
+"Duas" : "7" ,
+"Subsumers" : 2,
+"0" : [ 4, 0], "S0" : [0, 4 ],
+"1" : [ 6, 5, 3, 2, 1], "S1" : [1, 2, 3, 5, 6 ]
+}]
+}

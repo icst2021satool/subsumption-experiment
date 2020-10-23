@@ -1,0 +1,14 @@
+{
+"Class" : "weka.gui.FileEditor$1", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Duas" : 9,
+"0" :  "(91,96, this)",
+"1" :  "(91,93, this)",
+"2" :  "(91,94, this)",
+"3" :  "(91,96, this.this$0)",
+"4" :  "(91,93, this.this$0)",
+"5" :  "(91,94, this.this$0)",
+"6" :  "(91,93, this.m_FileChooser)",
+"7" :  "(91,(92,93), cmdString)",
+"8" :  "(91,(92,96), cmdString)"}]
+}

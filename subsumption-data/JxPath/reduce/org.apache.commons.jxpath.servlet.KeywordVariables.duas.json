@@ -1,0 +1,13 @@
+{
+"Class" : "org.apache.commons.jxpath.servlet.KeywordVariables", 
+"Methods" : [{ "Name" : "getVariable" ,
+"Duas" : 8,
+"0" :  "(43,(43,44), this)",
+"1" :  "(43,(43,46), this)",
+"2" :  "(43,44, this)",
+"3" :  "(43,(43,44), variable)",
+"4" :  "(43,(43,46), variable)",
+"5" :  "(43,(43,44), this.keyword)",
+"6" :  "(43,(43,46), this.keyword)",
+"7" :  "(43,44, this.object)"}]
+}

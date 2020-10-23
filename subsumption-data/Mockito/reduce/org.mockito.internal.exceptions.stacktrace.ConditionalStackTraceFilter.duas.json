@@ -1,0 +1,13 @@
+{
+"Class" : "org.mockito.internal.exceptions.stacktrace.ConditionalStackTraceFilter", 
+"Methods" : [{ "Name" : "filter" ,
+"Duas" : 8,
+"0" :  "(20,(20,21), this)",
+"1" :  "(20,(20,23), this)",
+"2" :  "(20,23, this)",
+"3" :  "(20,23, throwable)",
+"4" :  "(20,24, throwable)",
+"5" :  "(20,(20,21), this.config)",
+"6" :  "(20,(20,23), this.config)",
+"7" :  "(20,23, this.filter)"}]
+}

@@ -1,0 +1,13 @@
+{
+"Class" : "weka.gui.beans.SaverCustomizer$9", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Duas" : 8,
+"0" :  "(557,(557,558), this)",
+"1" :  "(557,(557,561), this)",
+"2" :  "(557,561, this)",
+"3" :  "(557,558, this)",
+"4" :  "(557,(557,558), this.this$0)",
+"5" :  "(557,(557,561), this.this$0)",
+"6" :  "(557,561, this.val$prefixLab)",
+"7" :  "(557,558, this.val$prefixLab)"}]
+}

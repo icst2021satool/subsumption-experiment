@@ -1,0 +1,20 @@
+{
+"Class" : "weka.core.pmml.jaxbbindings.Coefficient", 
+"Methods" : [{ "Name" : "getExtension" ,
+"Duas" : 8,
+"0" :  "(78,(78,79), this)",
+"1" :  "(78,(78,81), this)",
+"2" :  "(78,81, this)",
+"3" :  "(78,79, this)",
+"4" :  "(78,(78,79), this.extension)",
+"5" :  "(78,(78,81), this.extension)",
+"6" :  "(78,81, this.extension)",
+"7" :  "(79,81, this.extension)"},{ "Name" : "getValue" ,
+"Duas" : 6,
+"0" :  "(93,(93,94), this)",
+"1" :  "(93,(93,96), this)",
+"2" :  "(93,96, this)",
+"3" :  "(93,(93,94), this.value)",
+"4" :  "(93,(93,96), this.value)",
+"5" :  "(93,96, this.value)"}]
+}

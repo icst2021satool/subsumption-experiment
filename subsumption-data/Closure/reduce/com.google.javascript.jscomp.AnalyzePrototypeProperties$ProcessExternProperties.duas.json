@@ -1,0 +1,10 @@
+{
+"Class" : "com.google.javascript.jscomp.AnalyzePrototypeProperties$ProcessExternProperties", 
+"Methods" : [{ "Name" : "visit" ,
+"Duas" : 5,
+"0" :  "(513,514, this)",
+"1" :  "(513,(513,514), n)",
+"2" :  "(513,(513,517), n)",
+"3" :  "(513,514, n)",
+"4" :  "(513,514, this.this$0)"}]
+}

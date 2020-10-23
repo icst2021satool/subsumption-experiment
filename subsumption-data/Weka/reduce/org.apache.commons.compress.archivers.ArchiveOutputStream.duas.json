@@ -1,0 +1,10 @@
+{
+"Class" : "org.apache.commons.compress.archivers.ArchiveOutputStream", 
+"Methods" : [{ "Name" : "count" ,
+"Duas" : 5,
+"0" :  "(130,131, this)",
+"1" :  "(130,(130,131), written)",
+"2" :  "(130,(130,133), written)",
+"3" :  "(130,131, written)",
+"4" :  "(130,131, this.bytesWritten)"}]
+}

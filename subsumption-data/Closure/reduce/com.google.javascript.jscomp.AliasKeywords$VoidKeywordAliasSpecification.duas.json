@@ -1,0 +1,12 @@
+{
+"Class" : "com.google.javascript.jscomp.AliasKeywords$VoidKeywordAliasSpecification", 
+"Methods" : [{ "Name" : "visit" ,
+"Duas" : 7,
+"0" :  "(267,269, this)",
+"1" :  "(267,269, n)",
+"2" :  "(267,269, parent)",
+"3" :  "(267,(268,268), value)",
+"4" :  "(267,(268,271), value)",
+"5" :  "(267,(268,269), value)",
+"6" :  "(267,(268,271), value)"}]
+}

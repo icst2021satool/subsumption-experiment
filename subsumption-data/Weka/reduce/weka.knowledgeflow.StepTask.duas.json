@@ -1,0 +1,13 @@
+{
+"Class" : "weka.knowledgeflow.StepTask", 
+"Methods" : [{ "Name" : "notifyCallback" ,
+"Duas" : 8,
+"0" :  "(200,(200,201), this)",
+"1" :  "(200,(200,203), this)",
+"2" :  "(200,201, this)",
+"3" :  "(200,(200,201), this.m_callback)",
+"4" :  "(200,(200,203), this.m_callback)",
+"5" :  "(200,201, this.m_callback)",
+"6" :  "(200,201, this.m_callbackNotifier)",
+"7" :  "(200,201, this.m_result)"}]
+}

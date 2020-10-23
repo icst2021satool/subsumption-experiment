@@ -1,0 +1,15 @@
+{
+"Class" : "org.mockito.internal.runners.RunnerFactory", 
+"Methods" : [{ "Name" : "create" ,
+"Duas" : 10,
+"0" :  "(27,(27,28), this)",
+"1" :  "(27,(27,30), this)",
+"2" :  "(27,30, this)",
+"3" :  "(27,28, this)",
+"4" :  "(27,30, klass)",
+"5" :  "(27,28, klass)",
+"6" :  "(27,(27,28), this.runnerProvider)",
+"7" :  "(27,(27,30), this.runnerProvider)",
+"8" :  "(27,30, this.runnerProvider)",
+"9" :  "(27,28, this.runnerProvider)"}]
+}

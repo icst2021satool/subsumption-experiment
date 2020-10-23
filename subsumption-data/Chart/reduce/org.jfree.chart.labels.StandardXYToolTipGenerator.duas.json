@@ -1,0 +1,13 @@
+{
+"Class" : "org.jfree.chart.labels.StandardXYToolTipGenerator", 
+"Methods" : [{ "Name" : "equals" ,
+"Duas" : 8,
+"0" :  "(177,(177,178), this)",
+"1" :  "(177,(177,180), this)",
+"2" :  "(177,183, this)",
+"3" :  "(177,(177,178), obj)",
+"4" :  "(177,(177,180), obj)",
+"5" :  "(177,(180,181), obj)",
+"6" :  "(177,(180,183), obj)",
+"7" :  "(177,183, obj)"}]
+}

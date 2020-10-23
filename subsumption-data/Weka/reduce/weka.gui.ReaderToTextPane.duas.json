@@ -1,0 +1,9 @@
+{
+"Class" : "weka.gui.ReaderToTextPane", 
+"Methods" : [{ "Name" : "run" ,
+"Duas" : 4,
+"0" :  "(116,144, this)",
+"1" :  "(116,145, this)",
+"2" :  "(116,144, this.m_Input)",
+"3" :  "(116,145, this.m_Buffer)"}]
+}

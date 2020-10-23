@@ -1,0 +1,22 @@
+{
+"Class" : "weka.knowledgeflow.steps.FlowByExpression$ExpressionClause$ExpressionType$8", 
+"Methods" : [{ "Name" : "evaluate" ,
+"Duas" : 17,
+"0" :  "(905,(905,906), inst)",
+"1" :  "(905,(905,909), inst)",
+"2" :  "(905,911, inst)",
+"3" :  "(905,(917,918), inst)",
+"4" :  "(905,(917,922), inst)",
+"5" :  "(905,922, inst)",
+"6" :  "(905,(905,906), lhsAttIndex)",
+"7" :  "(905,(905,909), lhsAttIndex)",
+"8" :  "(905,911, lhsAttIndex)",
+"9" :  "(905,930, rhsOperand)",
+"10" :  "(905,(916,917), rhsIsAttribute)",
+"11" :  "(905,(916,930), rhsIsAttribute)",
+"12" :  "(905,(917,918), rhsAttIndex)",
+"13" :  "(905,(917,922), rhsAttIndex)",
+"14" :  "(905,922, rhsAttIndex)",
+"15" :  "(911,930, lhsString)",
+"16" :  "(911,924, lhsString)"}]
+}

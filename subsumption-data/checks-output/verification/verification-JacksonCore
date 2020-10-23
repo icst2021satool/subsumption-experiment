@@ -1,0 +1,1125 @@
+com.fasterxml.jackson.core.JsonStreamContext com.fasterxml.jackson.core.util.TextBuffer com.fasterxml.jackson.core.sym.CharsToNameCanonicalizer com.fasterxml.jackson.core.json.ReaderBasedJsonParser com.fasterxml.jackson.core.io.UTF8Writer com.fasterxml.jackson.core.sym.NameN com.fasterxml.jackson.core.JsonToken com.fasterxml.jackson.core.util.DefaultPrettyPrinter com.fasterxml.jackson.core.io.SerializedString com.fasterxml.jackson.core.util.InternCache com.fasterxml.jackson.core.util.BufferRecycler com.fasterxml.jackson.core.io.CharTypes com.fasterxml.jackson.core.io.MergedStream com.fasterxml.jackson.core.Base64Variant com.fasterxml.jackson.core.sym.BytesToNameCanonicalizer com.fasterxml.jackson.core.Version com.fasterxml.jackson.core.json.JsonGeneratorImpl com.fasterxml.jackson.core.io.NumberOutput com.fasterxml.jackson.core.format.InputAccessor$Std com.fasterxml.jackson.core.io.BaseReader com.fasterxml.jackson.core.json.JsonWriteContext com.fasterxml.jackson.core.io.NumberInput com.fasterxml.jackson.core.sym.BytesToNameCanonicalizer$Bucket com.fasterxml.jackson.core.JsonParser$Feature com.fasterxml.jackson.core.io.JsonStringEncoder com.fasterxml.jackson.core.JsonProcessingException com.fasterxml.jackson.core.JsonGenerator$Feature com.fasterxml.jackson.core.json.UTF8JsonGenerator com.fasterxml.jackson.core.JsonFactory$Feature com.fasterxml.jackson.core.util.DefaultPrettyPrinter$Lf2SpacesIndenter com.fasterxml.jackson.core.sym.Name1 com.fasterxml.jackson.core.format.DataFormatDetector com.fasterxml.jackson.core.util.ByteArrayBuilder com.fasterxml.jackson.core.format.DataFormatMatcher com.fasterxml.jackson.core.Base64Variants com.fasterxml.jackson.core.base.ParserMinimalBase com.fasterxml.jackson.core.sym.Name3 com.fasterxml.jackson.core.base.GeneratorBase com.fasterxml.jackson.core.json.UTF8StreamJsonParser com.fasterxml.jackson.core.JsonParser com.fasterxml.jackson.core.json.JsonReadContext com.fasterxml.jackson.core.json.ByteSourceJsonBootstrapper com.fasterxml.jackson.core.io.IOContext com.fasterxml.jackson.core.JsonLocation com.fasterxml.jackson.core.io.UTF32Reader com.fasterxml.jackson.core.JsonFactory com.fasterxml.jackson.core.util.VersionUtil com.fasterxml.jackson.core.json.WriterBasedJsonGenerator com.fasterxml.jackson.core.sym.Name2 com.fasterxml.jackson.core.sym.CharsToNameCanonicalizer$Bucket com.fasterxml.jackson.core.base.ParserBase
+com.fasterxml.jackson.core.JsonStreamContext
+Directory of jaguar data: ../jaguar-data/jackson-core/1b
+Directory of subsumption data: ../subsumption-data/JacksonCore
+Analyzing class com.fasterxml.jackson.core.JsonStreamContext 
+../jaguar-data/jackson-core/1b/jaguar/.jaguar/matrix
+com.fasterxml.jackson.core.JsonStreamContext.matrix
+../subsumption-data/JacksonCore/reduce/com.fasterxml.jackson.core.JsonStreamContext.sub.json
+>>>>> com.fasterxml.jackson.core.JsonStreamContext <<<<<
+0:inArray:4
+1:inRoot:4
+2:inObject:4
+3:getTypeDesc:8
+4:getCurrentIndex:6
+Total :161: tests for class:com.fasterxml.jackson.core.JsonStreamContext:
+Methods executed: 5
+com.fasterxml.jackson.core.util.TextBuffer
+Directory of jaguar data: ../jaguar-data/jackson-core/1b
+Directory of subsumption data: ../subsumption-data/JacksonCore
+Analyzing class com.fasterxml.jackson.core.util.TextBuffer 
+../jaguar-data/jackson-core/1b/jaguar/.jaguar/matrix
+com.fasterxml.jackson.core.util.TextBuffer.matrix
+../subsumption-data/JacksonCore/reduce/com.fasterxml.jackson.core.util.TextBuffer.sub.json
+>>>>> com.fasterxml.jackson.core.util.TextBuffer <<<<<
+0:releaseBuffers:16
+1:resetWithEmpty:5
+2:resetWithShared:5
+3:resetWithCopy:17
+4:resetWithString:6
+5:findBuffer:9
+6:size:21
+7:getTextOffset:6
+8:hasTextAsCharacters:12
+9:getTextBuffer:27
+10:contentsAsString:70
+11:contentsAsArray:6
+12:contentsAsDecimal:22
+13:ensureNotShared:5
+14:append:24
+15:append:63
+16:append:63
+17:getCurrentSegment:20
+18:emptyAndGetCurrentSegment:13
+19:finishCurrentSegment:17
+20:expandCurrentSegment:6
+21:unshare:23
+22:expand:23
+23:buildResultArray:62
+No unconstrained duas covered in testcase 10 of buildResultArray: [0 1 0 1 1 1 1 0 1 1 1 0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 1 0 1 1 1 1 0 0 0 0
+ 0 0 0 0 1 1 0 1 1 1 1 1 1 0 1 1 1 1 1 0 0 0 1 0 0]: [1 0 0 0 0 0 0 1 0 0 0 0 0 1 1 1 1 0 1 0 0 0 0 1 1 1 1 0 1 0 0 0 0 1 0 1 1
+ 1 1 1 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 1 1 0 1 1]
+[1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0
+ 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 1 0 0 0 0 0 0 0 0 1 1 1 0 0 0 1 0 1 0 1 1 0 0 1 0 0 0 0 0 0 0 0 1 1 0
+ 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1
+ 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 1 0 0 0 0 0 0 0 0 1 1 0 1 0 0 1 0 1 0 1 1 0 0 0 1 0 0 0 0 0 0 0 1 0 1
+ 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 1 0 0 1 0 1 0 0 0 0 0 0 0 0 1 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 0 1 1]
+[0 1 0 1 1 1 1 0 1 1 1 0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 1 0 1 1 1 1 0 0 0 0
+ 0 0 0 0 1 1 0 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 1 1 1 1 0 1 1 0 0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 1 0 1 0 1 1 0 0 0 0
+ 0 0 0 0 1 1 1 0 0 1 1 0 0 1 0 0 0 1 0 0 0 0 0 0 0]
+[0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 1 1 1 0 1 1 0 0 0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 1 0 0 1 1 0 0 0 0
+ 0 0 0 0 1 1 1 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+Total :143: tests for class:com.fasterxml.jackson.core.util.TextBuffer:
+Methods executed: 19
+Unconstrained method :buildResultArray:1:1
+com.fasterxml.jackson.core.sym.CharsToNameCanonicalizer
+Directory of jaguar data: ../jaguar-data/jackson-core/1b
+Directory of subsumption data: ../subsumption-data/JacksonCore
+Analyzing class com.fasterxml.jackson.core.sym.CharsToNameCanonicalizer 
+../jaguar-data/jackson-core/1b/jaguar/.jaguar/matrix
+com.fasterxml.jackson.core.sym.CharsToNameCanonicalizer.matrix
+../subsumption-data/JacksonCore/reduce/com.fasterxml.jackson.core.sym.CharsToNameCanonicalizer.sub.json
+>>>>> com.fasterxml.jackson.core.sym.CharsToNameCanonicalizer <<<<<
+0:mergeChild:35
+1:release:9
+2:collisionCount:18
+3:findSymbol:113
+4:calcHash:19
+5:calcHash:19
+6:rehash:117
+Total :99: tests for class:com.fasterxml.jackson.core.sym.CharsToNameCanonicalizer:
+Methods executed: 6
+com.fasterxml.jackson.core.json.ReaderBasedJsonParser
+Directory of jaguar data: ../jaguar-data/jackson-core/1b
+Directory of subsumption data: ../subsumption-data/JacksonCore
+Analyzing class com.fasterxml.jackson.core.json.ReaderBasedJsonParser 
+../jaguar-data/jackson-core/1b/jaguar/.jaguar/matrix
+com.fasterxml.jackson.core.json.ReaderBasedJsonParser.matrix
+../subsumption-data/JacksonCore/reduce/com.fasterxml.jackson.core.json.ReaderBasedJsonParser.sub.json
+>>>>> com.fasterxml.jackson.core.json.ReaderBasedJsonParser <<<<<
+0:releaseBuffered:9
+1:loadMore:17
+2:getNextChar:14
+3:_closeInput:15
+4:_releaseBuffers:6
+5:getText:14
+6:getValueAsString:15
+7:getValueAsString:16
+8:_getText2:13
+9:getTextCharacters:58
+10:getTextLength:28
+11:getTextOffset:24
+12:getBinaryValue:37
+13:readBinaryValue:20
+14:_readBinary:225
+15:nextToken:171
+16:_nextAfterName:19
+17:nextTextValue:44
+18:nextIntValue:39
+19:nextLongValue:39
+20:nextBooleanValue:45
+21:parseNumberText:163
+22:parseNumberText2:402
+23:_verifyNoLeadingZeroes:49
+24:_handleInvalidNumberStart:48
+25:_parseFieldName:57
+26:_parseFieldName2:63
+27:_handleUnusualFieldName:98
+28:_parseApostropheFieldName:47
+29:_handleUnexpectedValue:43
+30:_handleApostropheValue:51
+31:_parseUnusualFieldName2:55
+32:_finishString:43
+33:_finishString2:50
+34:_skipString:50
+35:_skipCR:21
+36:_skipWS:32
+37:_skipWSOrEnd:31
+38:_skipComment:26
+39:_skipCComment:45
+40:_skipCppComment:24
+41:_decodeEscaped:55
+42:_matchToken:63
+43:_decodeBase64:145
+44:_reportInvalidToken:23
+Total :99: tests for class:com.fasterxml.jackson.core.json.ReaderBasedJsonParser:
+Methods executed: 35
+com.fasterxml.jackson.core.io.UTF8Writer
+Directory of jaguar data: ../jaguar-data/jackson-core/1b
+Directory of subsumption data: ../subsumption-data/JacksonCore
+Analyzing class com.fasterxml.jackson.core.io.UTF8Writer 
+../jaguar-data/jackson-core/1b/jaguar/.jaguar/matrix
+com.fasterxml.jackson.core.io.UTF8Writer.matrix
+../subsumption-data/JacksonCore/reduce/com.fasterxml.jackson.core.io.UTF8Writer.sub.json
+>>>>> com.fasterxml.jackson.core.io.UTF8Writer <<<<<
+0:close:31
+1:flush:15
+2:write:205
+3:write:97
+4:write:205
+5:convertSurrogate:8
+6:illegalSurrogateDesc:10
+Total :2: tests for class:com.fasterxml.jackson.core.io.UTF8Writer:
+Methods executed: 3
+com.fasterxml.jackson.core.sym.NameN
+Directory of jaguar data: ../jaguar-data/jackson-core/1b
+Directory of subsumption data: ../subsumption-data/JacksonCore
+Analyzing class com.fasterxml.jackson.core.sym.NameN 
+../jaguar-data/jackson-core/1b/jaguar/.jaguar/matrix
+com.fasterxml.jackson.core.sym.NameN.matrix
+../subsumption-data/JacksonCore/reduce/com.fasterxml.jackson.core.sym.NameN.sub.json
+>>>>> com.fasterxml.jackson.core.sym.NameN <<<<<
+0:<init>:6
+1:equals:24
+Total :5: tests for class:com.fasterxml.jackson.core.sym.NameN:
+Methods executed: 2
+com.fasterxml.jackson.core.JsonToken
+Directory of jaguar data: ../jaguar-data/jackson-core/1b
+Directory of subsumption data: ../subsumption-data/JacksonCore
+Analyzing class com.fasterxml.jackson.core.JsonToken 
+../jaguar-data/jackson-core/1b/jaguar/.jaguar/matrix
+com.fasterxml.jackson.core.JsonToken.matrix
+../subsumption-data/JacksonCore/reduce/com.fasterxml.jackson.core.JsonToken.sub.json
+>>>>> com.fasterxml.jackson.core.JsonToken <<<<<
+0:<init>:24
+1:isNumeric:8
+2:isScalarValue:4
+Total :1: tests for class:com.fasterxml.jackson.core.JsonToken:
+Methods executed: 1
+com.fasterxml.jackson.core.util.DefaultPrettyPrinter
+Directory of jaguar data: ../jaguar-data/jackson-core/1b
+Directory of subsumption data: ../subsumption-data/JacksonCore
+Analyzing class com.fasterxml.jackson.core.util.DefaultPrettyPrinter 
+../jaguar-data/jackson-core/1b/jaguar/.jaguar/matrix
+com.fasterxml.jackson.core.util.DefaultPrettyPrinter.matrix
+../subsumption-data/JacksonCore/reduce/com.fasterxml.jackson.core.util.DefaultPrettyPrinter.sub.json
+>>>>> com.fasterxml.jackson.core.util.DefaultPrettyPrinter <<<<<
+0:<init>:4
+1:withRootSeparator:17
+2:indentArraysWith:5
+3:indentObjectsWith:5
+4:withArrayIndenter:15
+5:withObjectIndenter:15
+6:_withSpaces:9
+7:writeRootValueSeparator:7
+8:writeStartObject:6
+9:writeObjectFieldValueSeparator:6
+10:writeEndObject:15
+11:writeStartArray:7
+12:writeEndArray:15
+Total :2: tests for class:com.fasterxml.jackson.core.util.DefaultPrettyPrinter:
+Methods executed: 7
+com.fasterxml.jackson.core.io.SerializedString
+Directory of jaguar data: ../jaguar-data/jackson-core/1b
+Directory of subsumption data: ../subsumption-data/JacksonCore
+Analyzing class com.fasterxml.jackson.core.io.SerializedString 
+../jaguar-data/jackson-core/1b/jaguar/.jaguar/matrix
+com.fasterxml.jackson.core.io.SerializedString.matrix
+../subsumption-data/JacksonCore/reduce/com.fasterxml.jackson.core.io.SerializedString.sub.json
+>>>>> com.fasterxml.jackson.core.io.SerializedString <<<<<
+0:<init>:4
+1:asQuotedChars:7
+2:asUnquotedUTF8:7
+3:asQuotedUTF8:7
+4:appendQuotedUTF8:19
+5:appendQuoted:19
+6:appendUnquotedUTF8:19
+7:appendUnquoted:11
+8:writeQuotedUTF8:10
+9:writeUnquotedUTF8:10
+10:putQuotedUTF8:16
+11:putUnquotedUTF8:16
+12:equals:13
+Total :16: tests for class:com.fasterxml.jackson.core.io.SerializedString:
+Methods executed: 12
+com.fasterxml.jackson.core.util.InternCache
+Directory of jaguar data: ../jaguar-data/jackson-core/1b
+Directory of subsumption data: ../subsumption-data/JacksonCore
+Analyzing class com.fasterxml.jackson.core.util.InternCache 
+../jaguar-data/jackson-core/1b/jaguar/.jaguar/matrix
+com.fasterxml.jackson.core.util.InternCache.matrix
+../subsumption-data/JacksonCore/reduce/com.fasterxml.jackson.core.util.InternCache.sub.json
+>>>>> com.fasterxml.jackson.core.util.InternCache <<<<<
+0:removeEldestEntry:2
+1:intern:6
+Total :48: tests for class:com.fasterxml.jackson.core.util.InternCache:
+Methods executed: 2
+com.fasterxml.jackson.core.util.BufferRecycler
+Directory of jaguar data: ../jaguar-data/jackson-core/1b
+Directory of subsumption data: ../subsumption-data/JacksonCore
+Analyzing class com.fasterxml.jackson.core.util.BufferRecycler 
+../jaguar-data/jackson-core/1b/jaguar/.jaguar/matrix
+com.fasterxml.jackson.core.util.BufferRecycler.matrix
+../subsumption-data/JacksonCore/reduce/com.fasterxml.jackson.core.util.BufferRecycler.sub.json
+>>>>> com.fasterxml.jackson.core.util.BufferRecycler <<<<<
+0:allocByteBuffer:10
+1:allocCharBuffer:27
+Total :172: tests for class:com.fasterxml.jackson.core.util.BufferRecycler:
+Methods executed: 2
+com.fasterxml.jackson.core.io.CharTypes
+Directory of jaguar data: ../jaguar-data/jackson-core/1b
+Directory of subsumption data: ../subsumption-data/JacksonCore
+Analyzing class com.fasterxml.jackson.core.io.CharTypes 
+../jaguar-data/jackson-core/1b/jaguar/.jaguar/matrix
+com.fasterxml.jackson.core.io.CharTypes.matrix
+../subsumption-data/JacksonCore/reduce/com.fasterxml.jackson.core.io.CharTypes.sub.json
+>>>>> com.fasterxml.jackson.core.io.CharTypes <<<<<
+0:charToHex:4
+1:appendQuoted:36
+Total :9: tests for class:com.fasterxml.jackson.core.io.CharTypes:
+Methods executed: 2
+com.fasterxml.jackson.core.io.MergedStream
+Directory of jaguar data: ../jaguar-data/jackson-core/1b
+Directory of subsumption data: ../subsumption-data/JacksonCore
+Analyzing class com.fasterxml.jackson.core.io.MergedStream 
+../jaguar-data/jackson-core/1b/jaguar/.jaguar/matrix
+com.fasterxml.jackson.core.io.MergedStream.matrix
+../subsumption-data/JacksonCore/reduce/com.fasterxml.jackson.core.io.MergedStream.sub.json
+>>>>> com.fasterxml.jackson.core.io.MergedStream <<<<<
+0:available:9
+1:mark:7
+2:markSupported:8
+3:read:18
+4:read:37
+5:reset:6
+6:skip:33
+7:freeMergedBuffer:10
+Total :7: tests for class:com.fasterxml.jackson.core.io.MergedStream:
+Methods executed: 6
+com.fasterxml.jackson.core.Base64Variant
+Directory of jaguar data: ../jaguar-data/jackson-core/1b
+Directory of subsumption data: ../subsumption-data/JacksonCore
+Analyzing class com.fasterxml.jackson.core.Base64Variant 
+../jaguar-data/jackson-core/1b/jaguar/.jaguar/matrix
+com.fasterxml.jackson.core.Base64Variant.matrix
+../subsumption-data/JacksonCore/reduce/com.fasterxml.jackson.core.Base64Variant.sub.json
+>>>>> com.fasterxml.jackson.core.Base64Variant <<<<<
+0:<init>:34
+1:usesPaddingChar:6
+2:usesPaddingChar:6
+3:decodeBase64Char:5
+4:decodeBase64Char:5
+5:decodeBase64Byte:5
+6:encodeBase64Partial:27
+7:encodeBase64Partial:18
+8:encodeBase64Partial:28
+9:encode:48
+10:decode:98
+11:equals:4
+12:_reportInvalidBase64:28
+Total :12: tests for class:com.fasterxml.jackson.core.Base64Variant:
+Methods executed: 5
+com.fasterxml.jackson.core.sym.BytesToNameCanonicalizer
+Directory of jaguar data: ../jaguar-data/jackson-core/1b
+Directory of subsumption data: ../subsumption-data/JacksonCore
+Analyzing class com.fasterxml.jackson.core.sym.BytesToNameCanonicalizer 
+../jaguar-data/jackson-core/1b/jaguar/.jaguar/matrix
+com.fasterxml.jackson.core.sym.BytesToNameCanonicalizer.matrix
+../subsumption-data/JacksonCore/reduce/com.fasterxml.jackson.core.sym.BytesToNameCanonicalizer.sub.json
+>>>>> com.fasterxml.jackson.core.sym.BytesToNameCanonicalizer <<<<<
+0:<init>:19
+1:release:12
+2:mergeChild:18
+3:size:8
+4:maybeDirty:4
+5:findName:27
+6:findName:39
+7:findName:43
+8:addName:16
+9:addName:24
+10:calcHash:22
+11:calcQuads:46
+12:_addSymbol:114
+13:rehash:152
+14:findBestBucket:26
+15:unshareCollision:6
+16:constructName:9
+17:constructName:32
+No unconstrained duas covered in testcase 91 of calcHash: [1 1 1 1 1 0 1 1 1 1 0 1 1 0 1 1 1 0 0 1 0 0]: [0 0 0 0 0 1 0 0 0 0 1 0 0 1 0 0 0 1 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 1 1]
+[1 1 1 1 1 0 1 1 1 1 0 1 1 0 1 1 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0]
+[1 1 1 1 0 0 1 0 1 1 1 0 0 1 0 0 0 0 0 0 0 0]
+[0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+Total :172: tests for class:com.fasterxml.jackson.core.sym.BytesToNameCanonicalizer:
+Methods executed: 14
+Unconstrained method :calcHash:1:1
+com.fasterxml.jackson.core.Version
+Directory of jaguar data: ../jaguar-data/jackson-core/1b
+Directory of subsumption data: ../subsumption-data/JacksonCore
+Analyzing class com.fasterxml.jackson.core.Version 
+../jaguar-data/jackson-core/1b/jaguar/.jaguar/matrix
+com.fasterxml.jackson.core.Version.matrix
+../subsumption-data/JacksonCore/reduce/com.fasterxml.jackson.core.Version.sub.json
+>>>>> com.fasterxml.jackson.core.Version <<<<<
+0:<init>:8
+1:isUknownVersion:4
+2:isSnapshot:8
+3:toString:6
+4:equals:51
+5:compareTo:37
+Total :4: tests for class:com.fasterxml.jackson.core.Version:
+Methods executed: 2
+com.fasterxml.jackson.core.json.JsonGeneratorImpl
+Directory of jaguar data: ../jaguar-data/jackson-core/1b
+Directory of subsumption data: ../subsumption-data/JacksonCore
+Analyzing class com.fasterxml.jackson.core.json.JsonGeneratorImpl 
+../jaguar-data/jackson-core/1b/jaguar/.jaguar/matrix
+com.fasterxml.jackson.core.json.JsonGeneratorImpl.matrix
+../subsumption-data/JacksonCore/reduce/com.fasterxml.jackson.core.json.JsonGeneratorImpl.sub.json
+>>>>> com.fasterxml.jackson.core.json.JsonGeneratorImpl <<<<<
+0:<init>:5
+1:setHighestNonEscapedChar:5
+2:setCharacterEscapes:7
+Total :66: tests for class:com.fasterxml.jackson.core.json.JsonGeneratorImpl:
+Methods executed: 3
+com.fasterxml.jackson.core.io.NumberOutput
+Directory of jaguar data: ../jaguar-data/jackson-core/1b
+Directory of subsumption data: ../subsumption-data/JacksonCore
+Analyzing class com.fasterxml.jackson.core.io.NumberOutput 
+../jaguar-data/jackson-core/1b/jaguar/.jaguar/matrix
+com.fasterxml.jackson.core.io.NumberOutput.matrix
+../subsumption-data/JacksonCore/reduce/com.fasterxml.jackson.core.io.NumberOutput.sub.json
+>>>>> com.fasterxml.jackson.core.io.NumberOutput <<<<<
+0:outputInt:96
+1:outputInt:96
+2:outputLong:71
+3:outputLong:83
+4:toString:16
+5:toString:6
+6:outputLeadingTriplet:19
+7:outputLeadingTriplet:19
+8:calcLongStrLength:16
+Total :27: tests for class:com.fasterxml.jackson.core.io.NumberOutput:
+Methods executed: 4
+com.fasterxml.jackson.core.format.InputAccessor$Std
+Directory of jaguar data: ../jaguar-data/jackson-core/1b
+Directory of subsumption data: ../subsumption-data/JacksonCore
+Analyzing class com.fasterxml.jackson.core.format.InputAccessor$Std 
+../jaguar-data/jackson-core/1b/jaguar/.jaguar/matrix
+com.fasterxml.jackson.core.format.InputAccessor$Std.matrix
+../subsumption-data/JacksonCore/reduce/com.fasterxml.jackson.core.format.InputAccessor$Std.sub.json
+>>>>> com.fasterxml.jackson.core.format.InputAccessor$Std <<<<<
+0:hasMoreBytes:25
+1:nextByte:15
+Total :4: tests for class:com.fasterxml.jackson.core.format.InputAccessor$Std:
+Methods executed: 2
+com.fasterxml.jackson.core.io.BaseReader
+Directory of jaguar data: ../jaguar-data/jackson-core/1b
+Directory of subsumption data: ../subsumption-data/JacksonCore
+Analyzing class com.fasterxml.jackson.core.io.BaseReader 
+../jaguar-data/jackson-core/1b/jaguar/.jaguar/matrix
+com.fasterxml.jackson.core.io.BaseReader.matrix
+../subsumption-data/JacksonCore/reduce/com.fasterxml.jackson.core.io.BaseReader.sub.json
+>>>>> com.fasterxml.jackson.core.io.BaseReader <<<<<
+0:close:5
+1:read:14
+2:freeBuffers:6
+Total :3: tests for class:com.fasterxml.jackson.core.io.BaseReader:
+Methods executed: 2
+com.fasterxml.jackson.core.json.JsonWriteContext
+Directory of jaguar data: ../jaguar-data/jackson-core/1b
+Directory of subsumption data: ../subsumption-data/JacksonCore
+Analyzing class com.fasterxml.jackson.core.json.JsonWriteContext 
+../jaguar-data/jackson-core/1b/jaguar/.jaguar/matrix
+com.fasterxml.jackson.core.json.JsonWriteContext.matrix
+../subsumption-data/JacksonCore/reduce/com.fasterxml.jackson.core.json.JsonWriteContext.sub.json
+>>>>> com.fasterxml.jackson.core.json.JsonWriteContext <<<<<
+0:createChildArrayContext:5
+1:createChildObjectContext:5
+2:writeFieldName:14
+3:writeValue:27
+4:appendDesc:25
+Total :63: tests for class:com.fasterxml.jackson.core.json.JsonWriteContext:
+Methods executed: 4
+com.fasterxml.jackson.core.io.NumberInput
+Directory of jaguar data: ../jaguar-data/jackson-core/1b
+Directory of subsumption data: ../subsumption-data/JacksonCore
+Analyzing class com.fasterxml.jackson.core.io.NumberInput 
+../jaguar-data/jackson-core/1b/jaguar/.jaguar/matrix
+com.fasterxml.jackson.core.io.NumberInput.matrix
+../subsumption-data/JacksonCore/reduce/com.fasterxml.jackson.core.io.NumberInput.sub.json
+>>>>> com.fasterxml.jackson.core.io.NumberInput <<<<<
+0:parseInt:72
+1:parseInt:79
+2:parseLong:4
+3:inLongRange:29
+4:inLongRange:29
+5:parseAsInt:44
+6:parseAsLong:44
+7:parseAsDouble:8
+8:parseDouble:3
+Total :50: tests for class:com.fasterxml.jackson.core.io.NumberInput:
+Methods executed: 5
+com.fasterxml.jackson.core.sym.BytesToNameCanonicalizer$Bucket
+Directory of jaguar data: ../jaguar-data/jackson-core/1b
+Directory of subsumption data: ../subsumption-data/JacksonCore
+Analyzing class com.fasterxml.jackson.core.sym.BytesToNameCanonicalizer$Bucket 
+../jaguar-data/jackson-core/1b/jaguar/.jaguar/matrix
+com.fasterxml.jackson.core.sym.BytesToNameCanonicalizer$Bucket.matrix
+../subsumption-data/JacksonCore/reduce/com.fasterxml.jackson.core.sym.BytesToNameCanonicalizer$Bucket.sub.json
+>>>>> com.fasterxml.jackson.core.sym.BytesToNameCanonicalizer$Bucket <<<<<
+0:<init>:5
+1:find:40
+2:find:40
+Total :7: tests for class:com.fasterxml.jackson.core.sym.BytesToNameCanonicalizer$Bucket:
+Methods executed: 2
+com.fasterxml.jackson.core.JsonParser$Feature
+Directory of jaguar data: ../jaguar-data/jackson-core/1b
+Directory of subsumption data: ../subsumption-data/JacksonCore
+Analyzing class com.fasterxml.jackson.core.JsonParser$Feature 
+../jaguar-data/jackson-core/1b/jaguar/.jaguar/matrix
+com.fasterxml.jackson.core.JsonParser$Feature.matrix
+../subsumption-data/JacksonCore/reduce/com.fasterxml.jackson.core.JsonParser$Feature.sub.json
+>>>>> com.fasterxml.jackson.core.JsonParser$Feature <<<<<
+0:collectDefaults:18
+Total :1: tests for class:com.fasterxml.jackson.core.JsonParser$Feature:
+Methods executed: 1
+com.fasterxml.jackson.core.io.JsonStringEncoder
+Directory of jaguar data: ../jaguar-data/jackson-core/1b
+Directory of subsumption data: ../subsumption-data/JacksonCore
+Analyzing class com.fasterxml.jackson.core.io.JsonStringEncoder 
+../jaguar-data/jackson-core/1b/jaguar/.jaguar/matrix
+com.fasterxml.jackson.core.io.JsonStringEncoder.matrix
+../subsumption-data/JacksonCore/reduce/com.fasterxml.jackson.core.io.JsonStringEncoder.sub.json
+>>>>> com.fasterxml.jackson.core.io.JsonStringEncoder <<<<<
+0:getInstance:8
+1:quoteAsString:132
+2:quoteAsUTF8:323
+3:encodeAsUTF8:290
+4:_appendByteEscape:24
+5:_convertSurrogate:8
+Total :14: tests for class:com.fasterxml.jackson.core.io.JsonStringEncoder:
+Methods executed: 5
+com.fasterxml.jackson.core.JsonProcessingException
+Directory of jaguar data: ../jaguar-data/jackson-core/1b
+Directory of subsumption data: ../subsumption-data/JacksonCore
+Analyzing class com.fasterxml.jackson.core.JsonProcessingException 
+../jaguar-data/jackson-core/1b/jaguar/.jaguar/matrix
+com.fasterxml.jackson.core.JsonProcessingException.matrix
+../subsumption-data/JacksonCore/reduce/com.fasterxml.jackson.core.JsonProcessingException.sub.json
+>>>>> com.fasterxml.jackson.core.JsonProcessingException <<<<<
+0:<init>:6
+1:getMessage:24
+Total :31: tests for class:com.fasterxml.jackson.core.JsonProcessingException:
+Methods executed: 2
+com.fasterxml.jackson.core.JsonGenerator$Feature
+Directory of jaguar data: ../jaguar-data/jackson-core/1b
+Directory of subsumption data: ../subsumption-data/JacksonCore
+Analyzing class com.fasterxml.jackson.core.JsonGenerator$Feature 
+../jaguar-data/jackson-core/1b/jaguar/.jaguar/matrix
+com.fasterxml.jackson.core.JsonGenerator$Feature.matrix
+../subsumption-data/JacksonCore/reduce/com.fasterxml.jackson.core.JsonGenerator$Feature.sub.json
+>>>>> com.fasterxml.jackson.core.JsonGenerator$Feature <<<<<
+0:collectDefaults:18
+Total :1: tests for class:com.fasterxml.jackson.core.JsonGenerator$Feature:
+Methods executed: 1
+com.fasterxml.jackson.core.json.UTF8JsonGenerator
+Directory of jaguar data: ../jaguar-data/jackson-core/1b
+Directory of subsumption data: ../subsumption-data/JacksonCore
+Analyzing class com.fasterxml.jackson.core.json.UTF8JsonGenerator 
+../jaguar-data/jackson-core/1b/jaguar/.jaguar/matrix
+com.fasterxml.jackson.core.json.UTF8JsonGenerator.matrix
+../subsumption-data/JacksonCore/reduce/com.fasterxml.jackson.core.json.UTF8JsonGenerator.sub.json
+>>>>> com.fasterxml.jackson.core.json.UTF8JsonGenerator <<<<<
+0:<init>:5
+1:writeFieldName:26
+2:writeFieldName:26
+3:writeStartArray:17
+4:writeEndArray:26
+5:writeStartObject:17
+6:writeEndObject:26
+7:_writeFieldName:62
+8:_writeFieldName:50
+9:_writePPFieldName:68
+10:_writePPFieldName:39
+11:writeString:52
+12:_writeLongString:24
+13:_writeLongString:25
+14:writeString:45
+15:writeString:35
+16:writeRawUTF8String:26
+17:writeUTF8String:36
+18:writeRaw:25
+19:writeRaw:17
+20:writeRaw:4
+21:writeRaw:69
+22:writeRaw:29
+23:_writeSegmentedRaw:70
+24:writeBinary:27
+25:writeBinary:46
+26:writeNumber:17
+27:_writeQuotedShort:17
+28:writeNumber:17
+29:_writeQuotedInt:17
+30:writeNumber:17
+31:_writeQuotedLong:17
+32:writeNumber:11
+33:writeNumber:17
+34:writeNumber:17
+35:writeNumber:17
+36:writeNumber:8
+37:_writeQuotedRaw:24
+38:writeBoolean:16
+39:_verifyValueWrite:39
+40:_verifyPrettyValueWrite:24
+41:flush:10
+42:close:37
+43:_releaseBuffers:18
+44:_writeBytes:23
+45:_writeBytes:25
+46:_writeStringSegments:30
+47:_writeStringSegments:19
+48:_writeStringSegment:53
+49:_writeStringSegment2:88
+50:_writeStringSegmentASCII2:109
+51:_writeCustomStringSegment2:169
+52:_writeCustomEscape:14
+53:_handleLongCustomEscape:39
+54:_writeUTF8Segments:2
+55:_writeUTF8Segment:37
+56:_writeUTF8Segment2:64
+57:_writeBinary:74
+58:_writeBinary:115
+59:_writeBinary:97
+60:_readMore:36
+61:_outputRawMultiByteChar:27
+62:_outputSurrogates:22
+63:_outputMultiByteChar:28
+64:_decodeSurrogate:9
+65:_writeNull:13
+66:_writeGenericEscape:22
+67:_flushBuffer:7
+Total :22: tests for class:com.fasterxml.jackson.core.json.UTF8JsonGenerator:
+Methods executed: 35
+com.fasterxml.jackson.core.JsonFactory$Feature
+Directory of jaguar data: ../jaguar-data/jackson-core/1b
+Directory of subsumption data: ../subsumption-data/JacksonCore
+Analyzing class com.fasterxml.jackson.core.JsonFactory$Feature 
+../jaguar-data/jackson-core/1b/jaguar/.jaguar/matrix
+com.fasterxml.jackson.core.JsonFactory$Feature.matrix
+../subsumption-data/JacksonCore/reduce/com.fasterxml.jackson.core.JsonFactory$Feature.sub.json
+>>>>> com.fasterxml.jackson.core.JsonFactory$Feature <<<<<
+0:collectDefaults:18
+1:enabledIn:4
+Total :1: tests for class:com.fasterxml.jackson.core.JsonFactory$Feature:
+Methods executed: 1
+com.fasterxml.jackson.core.util.DefaultPrettyPrinter$Lf2SpacesIndenter
+Directory of jaguar data: ../jaguar-data/jackson-core/1b
+Directory of subsumption data: ../subsumption-data/JacksonCore
+Analyzing class com.fasterxml.jackson.core.util.DefaultPrettyPrinter$Lf2SpacesIndenter 
+../jaguar-data/jackson-core/1b/jaguar/.jaguar/matrix
+com.fasterxml.jackson.core.util.DefaultPrettyPrinter$Lf2SpacesIndenter.matrix
+../subsumption-data/JacksonCore/reduce/com.fasterxml.jackson.core.util.DefaultPrettyPrinter$Lf2SpacesIndenter.sub.json
+>>>>> com.fasterxml.jackson.core.util.DefaultPrettyPrinter$Lf2SpacesIndenter <<<<<
+0:withLinefeed:8
+1:writeIndentation:16
+Total :1: tests for class:com.fasterxml.jackson.core.util.DefaultPrettyPrinter$Lf2SpacesIndenter:
+Methods executed: 1
+com.fasterxml.jackson.core.sym.Name1
+Directory of jaguar data: ../jaguar-data/jackson-core/1b
+Directory of subsumption data: ../subsumption-data/JacksonCore
+Analyzing class com.fasterxml.jackson.core.sym.Name1 
+../jaguar-data/jackson-core/1b/jaguar/.jaguar/matrix
+com.fasterxml.jackson.core.sym.Name1.matrix
+../subsumption-data/JacksonCore/reduce/com.fasterxml.jackson.core.sym.Name1.sub.json
+>>>>> com.fasterxml.jackson.core.sym.Name1 <<<<<
+0:equals:6
+1:equals:8
+2:equals:8
+Total :6: tests for class:com.fasterxml.jackson.core.sym.Name1:
+Methods executed: 1
+com.fasterxml.jackson.core.format.DataFormatDetector
+Directory of jaguar data: ../jaguar-data/jackson-core/1b
+Directory of subsumption data: ../subsumption-data/JacksonCore
+Analyzing class com.fasterxml.jackson.core.format.DataFormatDetector 
+../jaguar-data/jackson-core/1b/jaguar/.jaguar/matrix
+com.fasterxml.jackson.core.format.DataFormatDetector.matrix
+../subsumption-data/JacksonCore/reduce/com.fasterxml.jackson.core.format.DataFormatDetector.sub.json
+>>>>> com.fasterxml.jackson.core.format.DataFormatDetector <<<<<
+0:withOptimalMatch:12
+1:withMinimalMatch:12
+2:withMaxInputLookahead:12
+3:toString:21
+4:_findFormat:44
+Total :4: tests for class:com.fasterxml.jackson.core.format.DataFormatDetector:
+Methods executed: 1
+com.fasterxml.jackson.core.util.ByteArrayBuilder
+Directory of jaguar data: ../jaguar-data/jackson-core/1b
+Directory of subsumption data: ../subsumption-data/JacksonCore
+Analyzing class com.fasterxml.jackson.core.util.ByteArrayBuilder 
+../jaguar-data/jackson-core/1b/jaguar/.jaguar/matrix
+com.fasterxml.jackson.core.util.ByteArrayBuilder.matrix
+../subsumption-data/JacksonCore/reduce/com.fasterxml.jackson.core.util.ByteArrayBuilder.sub.json
+>>>>> com.fasterxml.jackson.core.util.ByteArrayBuilder <<<<<
+0:<init>:7
+1:reset:6
+2:release:13
+3:append:12
+4:appendTwoBytes:19
+5:appendThreeBytes:25
+6:toByteArray:36
+7:write:20
+8:_allocMore:9
+Total :16: tests for class:com.fasterxml.jackson.core.util.ByteArrayBuilder:
+Methods executed: 7
+com.fasterxml.jackson.core.format.DataFormatMatcher
+Directory of jaguar data: ../jaguar-data/jackson-core/1b
+Directory of subsumption data: ../subsumption-data/JacksonCore
+Analyzing class com.fasterxml.jackson.core.format.DataFormatMatcher 
+../jaguar-data/jackson-core/1b/jaguar/.jaguar/matrix
+com.fasterxml.jackson.core.format.DataFormatMatcher.matrix
+../subsumption-data/JacksonCore/reduce/com.fasterxml.jackson.core.format.DataFormatMatcher.sub.json
+>>>>> com.fasterxml.jackson.core.format.DataFormatMatcher <<<<<
+0:hasMatch:4
+1:getMatchStrength:7
+2:createParserWithMatch:15
+3:getDataStream:13
+Total :4: tests for class:com.fasterxml.jackson.core.format.DataFormatMatcher:
+Methods executed: 4
+com.fasterxml.jackson.core.Base64Variants
+Directory of jaguar data: ../jaguar-data/jackson-core/1b
+Directory of subsumption data: ../subsumption-data/JacksonCore
+Analyzing class com.fasterxml.jackson.core.Base64Variants 
+../jaguar-data/jackson-core/1b/jaguar/.jaguar/matrix
+com.fasterxml.jackson.core.Base64Variants.matrix
+../subsumption-data/JacksonCore/reduce/com.fasterxml.jackson.core.Base64Variants.sub.json
+>>>>> com.fasterxml.jackson.core.Base64Variants <<<<<
+0:valueOf:33
+Total :1: tests for class:com.fasterxml.jackson.core.Base64Variants:
+Methods executed: 1
+com.fasterxml.jackson.core.base.ParserMinimalBase
+Directory of jaguar data: ../jaguar-data/jackson-core/1b
+Directory of subsumption data: ../subsumption-data/JacksonCore
+Analyzing class com.fasterxml.jackson.core.base.ParserMinimalBase 
+../jaguar-data/jackson-core/1b/jaguar/.jaguar/matrix
+com.fasterxml.jackson.core.base.ParserMinimalBase.matrix
+../subsumption-data/JacksonCore/reduce/com.fasterxml.jackson.core.base.ParserMinimalBase.sub.json
+>>>>> com.fasterxml.jackson.core.base.ParserMinimalBase <<<<<
+0:hasCurrentToken:4
+1:nextValue:7
+2:skipChildren:33
+3:clearCurrentToken:7
+4:getValueAsBoolean:36
+5:getValueAsInt:35
+6:getValueAsLong:35
+7:getValueAsDouble:35
+8:getValueAsString:22
+9:_reportInvalidBase64:29
+10:_reportUnexpectedChar:7
+11:_throwUnquotedSpace:9
+12:_handleUnrecognizedCharacterEscape:15
+13:_getCharDesc:9
+Total :24: tests for class:com.fasterxml.jackson.core.base.ParserMinimalBase:
+Methods executed: 10
+com.fasterxml.jackson.core.sym.Name3
+Directory of jaguar data: ../jaguar-data/jackson-core/1b
+Directory of subsumption data: ../subsumption-data/JacksonCore
+Analyzing class com.fasterxml.jackson.core.sym.Name3 
+../jaguar-data/jackson-core/1b/jaguar/.jaguar/matrix
+com.fasterxml.jackson.core.sym.Name3.matrix
+../subsumption-data/JacksonCore/reduce/com.fasterxml.jackson.core.sym.Name3.sub.json
+>>>>> com.fasterxml.jackson.core.sym.Name3 <<<<<
+0:equals:20
+Total :1: tests for class:com.fasterxml.jackson.core.sym.Name3:
+Methods executed: 1
+com.fasterxml.jackson.core.base.GeneratorBase
+Directory of jaguar data: ../jaguar-data/jackson-core/1b
+Directory of subsumption data: ../subsumption-data/JacksonCore
+Analyzing class com.fasterxml.jackson.core.base.GeneratorBase 
+../jaguar-data/jackson-core/1b/jaguar/.jaguar/matrix
+com.fasterxml.jackson.core.base.GeneratorBase.matrix
+../subsumption-data/JacksonCore/reduce/com.fasterxml.jackson.core.base.GeneratorBase.sub.json
+>>>>> com.fasterxml.jackson.core.base.GeneratorBase <<<<<
+0:enable:11
+1:disable:11
+2:isEnabled:6
+3:useDefaultPrettyPrinter:4
+4:writeObject:12
+5:writeTree:10
+6:copyCurrentEvent:71
+7:copyCurrentStructure:34
+8:_writeSimpleObject:63
+Total :66: tests for class:com.fasterxml.jackson.core.base.GeneratorBase:
+Methods executed: 7
+com.fasterxml.jackson.core.json.UTF8StreamJsonParser
+Directory of jaguar data: ../jaguar-data/jackson-core/1b
+Directory of subsumption data: ../subsumption-data/JacksonCore
+Analyzing class com.fasterxml.jackson.core.json.UTF8StreamJsonParser 
+../jaguar-data/jackson-core/1b/jaguar/.jaguar/matrix
+com.fasterxml.jackson.core.json.UTF8StreamJsonParser.matrix
+../subsumption-data/JacksonCore/reduce/com.fasterxml.jackson.core.json.UTF8StreamJsonParser.sub.json
+>>>>> com.fasterxml.jackson.core.json.UTF8StreamJsonParser <<<<<
+0:releaseBuffered:9
+1:loadMore:17
+2:_loadToHaveAtLeast:54
+3:_closeInput:15
+4:_releaseBuffers:12
+5:getText:16
+6:getValueAsString:15
+7:getValueAsString:16
+8:_getText2:13
+9:getTextCharacters:58
+10:getTextLength:28
+11:getTextOffset:24
+12:getBinaryValue:37
+13:readBinaryValue:20
+14:_readBinary:225
+15:nextToken:121
+16:_nextTokenNotInObject:50
+17:_nextAfterName:19
+18:nextFieldName:123
+19:_isNextTokenNameYes:94
+20:_isNextTokenNameMaybe:42
+21:nextTextValue:44
+22:nextIntValue:39
+23:nextLongValue:39
+24:nextBooleanValue:45
+25:parseNumberText:119
+26:_parserNumber2:54
+27:_verifyNoLeadingZeroes:49
+28:_parseFloatText:221
+29:_parseFieldName:96
+30:parseMediumFieldName:78
+31:parseLongFieldName:139
+32:slowParseFieldName:18
+33:parseEscapedFieldName:279
+34:_handleUnusualFieldName:120
+35:_parseApostropheFieldName:301
+36:findName:9
+37:findName:12
+38:findName:22
+39:addName:183
+40:_finishString:59
+41:_finishString2:175
+42:_skipString:66
+43:_handleUnexpectedValue:43
+44:_handleApostropheValue:177
+45:_handleInvalidNumberStart:41
+46:_matchToken:61
+47:_reportInvalidToken:23
+48:_skipWS:32
+49:_skipWSOrEnd:31
+50:_skipColon:109
+51:_skipComment:26
+52:_skipCComment:52
+53:_skipCppComment:35
+54:_decodeEscaped:55
+55:_decodeCharForError:57
+56:_decodeUtf8_2:18
+57:_decodeUtf8_3:37
+58:_decodeUtf8_3fast:18
+59:_decodeUtf8_4:54
+60:_skipUtf8_2:16
+61:_skipUtf8_3:32
+62:_skipUtf8_4:48
+63:_skipCR:21
+64:nextByte:11
+65:_reportInvalidChar:6
+66:growArrayBy:5
+67:_decodeBase64:145
+Total :87: tests for class:com.fasterxml.jackson.core.json.UTF8StreamJsonParser:
+Methods executed: 52
+com.fasterxml.jackson.core.JsonParser
+Directory of jaguar data: ../jaguar-data/jackson-core/1b
+Directory of subsumption data: ../subsumption-data/JacksonCore
+Analyzing class com.fasterxml.jackson.core.JsonParser 
+../jaguar-data/jackson-core/1b/jaguar/.jaguar/matrix
+com.fasterxml.jackson.core.JsonParser.matrix
+../subsumption-data/JacksonCore/reduce/com.fasterxml.jackson.core.JsonParser.sub.json
+>>>>> com.fasterxml.jackson.core.JsonParser <<<<<
+0:configure:7
+1:isEnabled:6
+2:nextFieldName:8
+3:nextTextValue:5
+4:nextIntValue:6
+5:nextLongValue:6
+6:nextBooleanValue:8
+7:isExpectedStartArrayToken:4
+8:getByteValue:6
+9:getShortValue:6
+10:getBooleanValue:10
+11:readValueAs:5
+12:readValueAs:5
+13:readValuesAs:5
+14:readValuesAs:5
+15:readValueAsTree:4
+Total :113: tests for class:com.fasterxml.jackson.core.JsonParser:
+Methods executed: 5
+com.fasterxml.jackson.core.json.JsonReadContext
+Directory of jaguar data: ../jaguar-data/jackson-core/1b
+Directory of subsumption data: ../subsumption-data/JacksonCore
+Analyzing class com.fasterxml.jackson.core.json.JsonReadContext 
+../jaguar-data/jackson-core/1b/jaguar/.jaguar/matrix
+com.fasterxml.jackson.core.json.JsonReadContext.matrix
+../subsumption-data/JacksonCore/reduce/com.fasterxml.jackson.core.json.JsonReadContext.sub.json
+>>>>> com.fasterxml.jackson.core.json.JsonReadContext <<<<<
+0:createChildArrayContext:10
+1:createChildObjectContext:10
+2:expectComma:6
+3:toString:26
+Total :132: tests for class:com.fasterxml.jackson.core.json.JsonReadContext:
+Methods executed: 3
+com.fasterxml.jackson.core.json.ByteSourceJsonBootstrapper
+Directory of jaguar data: ../jaguar-data/jackson-core/1b
+Directory of subsumption data: ../subsumption-data/JacksonCore
+Analyzing class com.fasterxml.jackson.core.json.ByteSourceJsonBootstrapper 
+../jaguar-data/jackson-core/1b/jaguar/.jaguar/matrix
+com.fasterxml.jackson.core.json.ByteSourceJsonBootstrapper.matrix
+../subsumption-data/JacksonCore/reduce/com.fasterxml.jackson.core.json.ByteSourceJsonBootstrapper.sub.json
+>>>>> com.fasterxml.jackson.core.json.ByteSourceJsonBootstrapper <<<<<
+0:detectEncoding:68
+1:constructReader:36
+2:constructParser:25
+3:hasJSONFormat:86
+4:tryMatch:21
+5:skipSpace:3
+6:skipSpace:12
+7:handleBOM:34
+8:checkUTF32:13
+9:checkUTF16:7
+10:ensureLoaded:28
+Total :89: tests for class:com.fasterxml.jackson.core.json.ByteSourceJsonBootstrapper:
+Methods executed: 9
+com.fasterxml.jackson.core.io.IOContext
+Directory of jaguar data: ../jaguar-data/jackson-core/1b
+Directory of subsumption data: ../subsumption-data/JacksonCore
+Analyzing class com.fasterxml.jackson.core.io.IOContext 
+../jaguar-data/jackson-core/1b/jaguar/.jaguar/matrix
+com.fasterxml.jackson.core.io.IOContext.matrix
+../subsumption-data/JacksonCore/reduce/com.fasterxml.jackson.core.io.IOContext.sub.json
+>>>>> com.fasterxml.jackson.core.io.IOContext <<<<<
+0:releaseReadIOBuffer:10
+1:releaseWriteEncodingBuffer:10
+2:releaseBase64Buffer:10
+3:releaseTokenBuffer:10
+4:releaseConcatBuffer:10
+5:releaseNameCopyBuffer:10
+6:_verifyAlloc:2
+7:_verifyRelease:4
+Total :164: tests for class:com.fasterxml.jackson.core.io.IOContext:
+Methods executed: 8
+com.fasterxml.jackson.core.JsonLocation
+Directory of jaguar data: ../jaguar-data/jackson-core/1b
+Directory of subsumption data: ../subsumption-data/JacksonCore
+Analyzing class com.fasterxml.jackson.core.JsonLocation 
+../jaguar-data/jackson-core/1b/jaguar/.jaguar/matrix
+com.fasterxml.jackson.core.JsonLocation.matrix
+../subsumption-data/JacksonCore/reduce/com.fasterxml.jackson.core.JsonLocation.sub.json
+>>>>> com.fasterxml.jackson.core.JsonLocation <<<<<
+0:toString:18
+1:hashCode:14
+2:equals:53
+Total :29: tests for class:com.fasterxml.jackson.core.JsonLocation:
+Methods executed: 1
+com.fasterxml.jackson.core.io.UTF32Reader
+Directory of jaguar data: ../jaguar-data/jackson-core/1b
+Directory of subsumption data: ../subsumption-data/JacksonCore
+Analyzing class com.fasterxml.jackson.core.io.UTF32Reader 
+../jaguar-data/jackson-core/1b/jaguar/.jaguar/matrix
+com.fasterxml.jackson.core.io.UTF32Reader.matrix
+../subsumption-data/JacksonCore/reduce/com.fasterxml.jackson.core.io.UTF32Reader.sub.json
+>>>>> com.fasterxml.jackson.core.io.UTF32Reader <<<<<
+0:<init>:3
+1:read:112
+2:loadMore:80
+Total :3: tests for class:com.fasterxml.jackson.core.io.UTF32Reader:
+Methods executed: 3
+com.fasterxml.jackson.core.JsonFactory
+Directory of jaguar data: ../jaguar-data/jackson-core/1b
+Directory of subsumption data: ../subsumption-data/JacksonCore
+Analyzing class com.fasterxml.jackson.core.JsonFactory 
+../jaguar-data/jackson-core/1b/jaguar/.jaguar/matrix
+com.fasterxml.jackson.core.JsonFactory.matrix
+../subsumption-data/JacksonCore/reduce/com.fasterxml.jackson.core.JsonFactory.sub.json
+>>>>> com.fasterxml.jackson.core.JsonFactory <<<<<
+0:_checkInvalidCopy:5
+1:canUseSchema:6
+2:getFormatName:2
+3:hasFormat:4
+4:configure:4
+5:isEnabled:6
+6:configure:4
+7:isEnabled:6
+8:configure:4
+9:isEnabled:6
+10:setRootValueSeparator:5
+11:getRootValueSeparator:6
+12:createParser:12
+13:createParser:12
+14:createParser:12
+15:createParser:12
+16:createParser:16
+17:createParser:20
+18:createParser:12
+19:createGenerator:32
+20:createGenerator:12
+21:createGenerator:32
+22:_createGenerator:16
+23:_createUTF8Generator:16
+24:_createWriter:8
+25:_getBufferRecycler:8
+26:_optimizedStreamFromURL:12
+Total :169: tests for class:com.fasterxml.jackson.core.JsonFactory:
+Methods executed: 13
+com.fasterxml.jackson.core.util.VersionUtil
+Directory of jaguar data: ../jaguar-data/jackson-core/1b
+Directory of subsumption data: ../subsumption-data/JacksonCore
+Analyzing class com.fasterxml.jackson.core.util.VersionUtil 
+../jaguar-data/jackson-core/1b/jaguar/.jaguar/matrix
+com.fasterxml.jackson.core.util.VersionUtil.matrix
+../subsumption-data/JacksonCore/reduce/com.fasterxml.jackson.core.util.VersionUtil.sub.json
+>>>>> com.fasterxml.jackson.core.util.VersionUtil <<<<<
+0:<init>:5
+1:versionFor:8
+2:packageVersionFor:7
+3:doReadVersion:26
+4:mavenVersionFor:4
+5:parseVersion:21
+6:parseVersionPart:20
+Total :5: tests for class:com.fasterxml.jackson.core.util.VersionUtil:
+Methods executed: 5
+com.fasterxml.jackson.core.json.WriterBasedJsonGenerator
+Directory of jaguar data: ../jaguar-data/jackson-core/1b
+Directory of subsumption data: ../subsumption-data/JacksonCore
+Analyzing class com.fasterxml.jackson.core.json.WriterBasedJsonGenerator 
+../jaguar-data/jackson-core/1b/jaguar/.jaguar/matrix
+com.fasterxml.jackson.core.json.WriterBasedJsonGenerator.matrix
+../subsumption-data/JacksonCore/reduce/com.fasterxml.jackson.core.json.WriterBasedJsonGenerator.sub.json
+>>>>> com.fasterxml.jackson.core.json.WriterBasedJsonGenerator <<<<<
+0:writeFieldName:7
+1:writeFieldName:7
+2:writeStartArray:17
+3:writeEndArray:26
+4:writeStartObject:17
+5:writeEndObject:26
+6:_writeFieldName:44
+7:_writeFieldName:66
+8:_writePPFieldName:36
+9:_writePPFieldName:37
+10:writeString:27
+11:writeString:26
+12:writeString:49
+13:writeRaw:22
+14:writeRaw:27
+15:writeRaw:25
+16:writeRaw:12
+17:writeRawLong:33
+18:writeBinary:27
+19:writeBinary:46
+20:writeNumber:17
+21:_writeQuotedShort:17
+22:writeNumber:17
+23:_writeQuotedInt:17
+24:writeNumber:17
+25:_writeQuotedLong:17
+26:writeNumber:11
+27:writeNumber:17
+28:writeNumber:17
+29:writeNumber:17
+30:writeNumber:8
+31:_writeQuotedRaw:24
+32:writeBoolean:29
+33:_verifyValueWrite:35
+34:_verifyPrettyValueWrite:24
+35:flush:10
+36:close:37
+37:_releaseBuffers:6
+38:_writeString:37
+39:_writeString2:51
+40:_writeLongString:41
+41:_writeSegment:55
+42:_writeString:98
+43:_writeStringASCII:55
+44:_writeSegmentASCII:61
+45:_writeStringASCII:83
+46:_writeStringCustom:72
+47:_writeSegmentCustom:78
+48:_writeStringCustom:100
+49:_writeBinary:74
+50:_writeBinary:115
+51:_writeBinary:97
+52:_readMore:36
+53:_writeNull:12
+54:_prependOrWriteCharacterEscape:133
+55:_prependOrWriteCharacterEscape:132
+56:_appendCharacterEscape:93
+57:_flushBuffer:10
+Total :57: tests for class:com.fasterxml.jackson.core.json.WriterBasedJsonGenerator:
+Methods executed: 33
+com.fasterxml.jackson.core.sym.Name2
+Directory of jaguar data: ../jaguar-data/jackson-core/1b
+Directory of subsumption data: ../subsumption-data/JacksonCore
+Analyzing class com.fasterxml.jackson.core.sym.Name2 
+../jaguar-data/jackson-core/1b/jaguar/.jaguar/matrix
+com.fasterxml.jackson.core.sym.Name2.matrix
+../subsumption-data/JacksonCore/reduce/com.fasterxml.jackson.core.sym.Name2.sub.json
+>>>>> com.fasterxml.jackson.core.sym.Name2 <<<<<
+0:equals:12
+1:equals:14
+Total :8: tests for class:com.fasterxml.jackson.core.sym.Name2:
+Methods executed: 1
+com.fasterxml.jackson.core.sym.CharsToNameCanonicalizer$Bucket
+Directory of jaguar data: ../jaguar-data/jackson-core/1b
+Directory of subsumption data: ../subsumption-data/JacksonCore
+Analyzing class com.fasterxml.jackson.core.sym.CharsToNameCanonicalizer$Bucket 
+../jaguar-data/jackson-core/1b/jaguar/.jaguar/matrix
+com.fasterxml.jackson.core.sym.CharsToNameCanonicalizer$Bucket.matrix
+../subsumption-data/JacksonCore/reduce/com.fasterxml.jackson.core.sym.CharsToNameCanonicalizer$Bucket.sub.json
+>>>>> com.fasterxml.jackson.core.sym.CharsToNameCanonicalizer$Bucket <<<<<
+0:<init>:5
+1:find:40
+Total :8: tests for class:com.fasterxml.jackson.core.sym.CharsToNameCanonicalizer$Bucket:
+Methods executed: 2
+com.fasterxml.jackson.core.base.ParserBase
+Directory of jaguar data: ../jaguar-data/jackson-core/1b
+Directory of subsumption data: ../subsumption-data/JacksonCore
+Analyzing class com.fasterxml.jackson.core.base.ParserBase 
+../jaguar-data/jackson-core/1b/jaguar/.jaguar/matrix
+com.fasterxml.jackson.core.base.ParserBase.matrix
+../subsumption-data/JacksonCore/reduce/com.fasterxml.jackson.core.base.ParserBase.sub.json
+>>>>> com.fasterxml.jackson.core.base.ParserBase <<<<<
+0:getCurrentName:16
+1:overrideCurrentName:16
+2:close:7
+3:hasTextCharacters:14
+4:getTokenColumnNr:3
+5:loadMoreGuaranteed:3
+6:_releaseBuffers:6
+7:_handleEOF:7
+8:_getByteArrayBuilder:10
+9:reset:12
+10:getNumberValue:44
+11:getNumberType:28
+12:getIntValue:16
+13:getLongValue:16
+14:getBigIntegerValue:16
+15:getDoubleValue:16
+16:getDecimalValue:16
+17:_parseNumericValue:83
+18:_parseSlowFloatValue:8
+19:_parseSlowIntValue:16
+20:convertNumberToInt:71
+21:convertNumberToLong:62
+22:convertNumberToBigInteger:27
+23:convertNumberToDouble:27
+24:convertNumberToBigDecimal:27
+25:reportUnexpectedNumberChar:7
+26:_decodeBase64Escape:20
+27:_decodeBase64Escape:20
+28:reportInvalidBase64Char:28
+Total :135: tests for class:com.fasterxml.jackson.core.base.ParserBase:
+Methods executed: 25

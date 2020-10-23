@@ -1,0 +1,18 @@
+{
+"Class" : "weka.gui.beans.ClassifierPerformanceEvaluator$AggregateableClassifierErrorsPlotInstances", 
+"Methods" : [{ "Name" : "finishUp" ,
+"Duas" : 13,
+"0" :  "(464,(466,467), this)",
+"1" :  "(464,(466,470), this)",
+"2" :  "(464,(470,470), this)",
+"3" :  "(464,(470,472), this)",
+"4" :  "(464,472, this)",
+"5" :  "(464,(470,472), this)",
+"6" :  "(464,(470,474), this)",
+"7" :  "(464,(466,467), this.m_SaveForVisualization)",
+"8" :  "(464,(466,470), this.m_SaveForVisualization)",
+"9" :  "(464,(470,470), this.m_Instances)",
+"10" :  "(464,(470,472), this.m_Instances)",
+"11" :  "(464,(470,472), this.m_pointSizeProportionalToMargin)",
+"12" :  "(464,(470,474), this.m_pointSizeProportionalToMargin)"}]
+}

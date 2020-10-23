@@ -1,0 +1,23 @@
+{
+"Class" : "org.apache.commons.compress.parallel.FileBasedScatterGatherBackingStore", 
+"Methods" : [{ "Name" : "closeForWriting" ,
+"Duas" : 7,
+"0" :  "(57,(57,58), this)",
+"1" :  "(57,(57,61), this)",
+"2" :  "(57,58, this)",
+"3" :  "(57,59, this)",
+"4" :  "(57,(57,58), this.closed)",
+"5" :  "(57,(57,61), this.closed)",
+"6" :  "(57,58, this.os)"},{ "Name" : "close" ,
+"Duas" : 10,
+"0" :  "(71,(73,73), this)",
+"1" :  "(71,(73,77), this)",
+"2" :  "(71,(73,74), this)",
+"3" :  "(71,(73,77), this)",
+"4" :  "(71,74, this)",
+"5" :  "(71,(73,73), this.target)",
+"6" :  "(71,(73,77), this.target)",
+"7" :  "(71,(73,74), this.target)",
+"8" :  "(71,(73,77), this.target)",
+"9" :  "(71,74, this.target)"}]
+}

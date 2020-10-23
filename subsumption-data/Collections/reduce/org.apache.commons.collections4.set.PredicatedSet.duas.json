@@ -1,0 +1,13 @@
+{
+"Class" : "org.apache.commons.collections4.set.PredicatedSet", 
+"Methods" : [{ "Name" : "equals" ,
+"Duas" : 8,
+"0" :  "(91,(91,91), this)",
+"1" :  "(91,(91,91), this)",
+"2" :  "(91,(91,91), this)",
+"3" :  "(91,(91,91), this)",
+"4" :  "(91,(91,91), object)",
+"5" :  "(91,(91,91), object)",
+"6" :  "(91,(91,91), object)",
+"7" :  "(91,(91,91), object)"}]
+}

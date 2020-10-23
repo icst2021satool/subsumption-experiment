@@ -1,0 +1,224 @@
+Nr.   Classes Functions      NCSS  Javadocs Package
+  1        21       179      1107       198 org.apache.commons.cli
+    --------- --------- --------- ---------
+           21       179      1107       198 Total
+
+ Packages   Classes Functions      NCSS  Javadocs | per
+-------------------------------------------------------------
+     1.00     21.00    179.00   1107.00    198.00 | Project
+              21.00    179.00   1107.00    198.00 | Package
+                         8.52     52.71      9.43 | Class
+                                   6.18      1.11 | Function
+
+Nr. NCSS Functions Classes Javadocs Class
+  1   18         3       0        4 org.apache.commons.cli.OptionValidator
+  2    3         1       0        2 org.apache.commons.cli.AlreadySelectedException
+  3   99         9       0       10 org.apache.commons.cli.Parser
+  4   14         2       0        3 org.apache.commons.cli.Util
+  5    3         1       0        2 org.apache.commons.cli.BasicParser
+  6   71         9       0       10 org.apache.commons.cli.TypeHandler
+  7    3         1       0        2 org.apache.commons.cli.MissingOptionException
+  8   85        20       0       21 org.apache.commons.cli.OptionBuilder
+  9  139        39       0       38 org.apache.commons.cli.Option
+ 10  212        36       1       39 org.apache.commons.cli.HelpFormatter
+ 11    5         1       0        1 org.apache.commons.cli.HelpFormatter.OptionComparator
+ 12   60        17       0       18 org.apache.commons.cli.CommandLine
+ 13   72         3       0        4 org.apache.commons.cli.PatternOptionBuilder
+ 14    3         1       0        2 org.apache.commons.cli.ParseException
+ 15   40         8       0        9 org.apache.commons.cli.OptionGroup
+ 16   83         7       0        8 org.apache.commons.cli.PosixParser
+ 17    5         4       0        5 org.apache.commons.cli.CommandLineParser
+ 18   64        13       0       14 org.apache.commons.cli.Options
+ 19    3         1       0        2 org.apache.commons.cli.UnrecognizedOptionException
+ 20   66         2       0        3 org.apache.commons.cli.GnuParser
+ 21    3         1       0        2 org.apache.commons.cli.MissingArgumentException
+Average Object NCSS:                 50.05
+Average Object Functions:             8.52
+Average Object Inner Classes:         0.05
+Average Object Javadoc Comments:      9.48
+Program NCSS:                     1,107.00
+
+Nr. NCSS CCN JVDC Function
+  1   13   9    1 org.apache.commons.cli.OptionValidator.validateOption(String)
+  2    2   4    1 org.apache.commons.cli.OptionValidator.isValidOpt(char)
+  3    2   1    1 org.apache.commons.cli.OptionValidator.isValidChar(char)
+  4    2   1    1 org.apache.commons.cli.AlreadySelectedException.AlreadySelectedException(String)
+  5    1   1    1 org.apache.commons.cli.Parser.flatten(Options,String[],boolean)
+  6    2   1    1 org.apache.commons.cli.Parser.parse(Options,String[])
+  7    2   1    1 org.apache.commons.cli.Parser.parse(Options,String[],Properties)
+  8    2   1    1 org.apache.commons.cli.Parser.parse(Options,String[],boolean)
+  9   38  13    1 org.apache.commons.cli.Parser.parse(Options,String[],Properties,boolean)
+ 10   16  12    1 org.apache.commons.cli.Parser.processProperties(Properties)
+ 11    7   4    1 org.apache.commons.cli.Parser.checkRequiredOptions()
+ 12   12   8    1 org.apache.commons.cli.Parser.processArgs(Option,ListIterator)
+ 13   15   7    1 org.apache.commons.cli.Parser.processOption(String,ListIterator)
+ 14    7   5    1 org.apache.commons.cli.Util.stripLeadingHyphens(String)
+ 15    6   3    1 org.apache.commons.cli.Util.stripLeadingAndTrailingQuotes(String)
+ 16    2   1    1 org.apache.commons.cli.BasicParser.flatten(Options,String[],boolean)
+ 17    2   1    1 org.apache.commons.cli.TypeHandler.createValue(String,Object)
+ 18   29  19    1 org.apache.commons.cli.TypeHandler.createValue(String,Class)
+ 19   15   7    1 org.apache.commons.cli.TypeHandler.createObject(String)
+ 20    5   3    1 org.apache.commons.cli.TypeHandler.createNumber(String)
+ 21    5   3    1 org.apache.commons.cli.TypeHandler.createClass(String)
+ 22    5   2    1 org.apache.commons.cli.TypeHandler.createDate(String)
+ 23    5   3    1 org.apache.commons.cli.TypeHandler.createURL(String)
+ 24    2   1    1 org.apache.commons.cli.TypeHandler.createFile(String)
+ 25    2   1    1 org.apache.commons.cli.TypeHandler.createFiles(String)
+ 26    2   1    1 org.apache.commons.cli.MissingOptionException.MissingOptionException(String)
+ 27    1   1    1 org.apache.commons.cli.OptionBuilder.OptionBuilder()
+ 28    9   1    1 org.apache.commons.cli.OptionBuilder.reset()
+ 29    3   1    1 org.apache.commons.cli.OptionBuilder.withLongOpt(String)
+ 30    3   1    1 org.apache.commons.cli.OptionBuilder.hasArg()
+ 31    3   2    1 org.apache.commons.cli.OptionBuilder.hasArg(boolean)
+ 32    3   1    1 org.apache.commons.cli.OptionBuilder.withArgName(String)
+ 33    3   1    1 org.apache.commons.cli.OptionBuilder.isRequired()
+ 34    3   1    1 org.apache.commons.cli.OptionBuilder.withValueSeparator(char)
+ 35    3   1    1 org.apache.commons.cli.OptionBuilder.withValueSeparator()
+ 36    3   1    1 org.apache.commons.cli.OptionBuilder.isRequired(boolean)
+ 37    3   1    1 org.apache.commons.cli.OptionBuilder.hasArgs()
+ 38    3   1    1 org.apache.commons.cli.OptionBuilder.hasArgs(int)
+ 39    4   1    1 org.apache.commons.cli.OptionBuilder.hasOptionalArg()
+ 40    4   1    1 org.apache.commons.cli.OptionBuilder.hasOptionalArgs()
+ 41    4   1    1 org.apache.commons.cli.OptionBuilder.hasOptionalArgs(int)
+ 42    3   1    1 org.apache.commons.cli.OptionBuilder.withType(Object)
+ 43    3   1    1 org.apache.commons.cli.OptionBuilder.withDescription(String)
+ 44    2   1    1 org.apache.commons.cli.OptionBuilder.create(char)
+ 45    4   3    1 org.apache.commons.cli.OptionBuilder.create()
+ 46   11   1    1 org.apache.commons.cli.OptionBuilder.create(String)
+ 47    2   1    1 org.apache.commons.cli.Option.Option(String,String)
+ 48    2   1    1 org.apache.commons.cli.Option.Option(String,boolean,String)
+ 49    8   2    1 org.apache.commons.cli.Option.Option(String,String,boolean,String)
+ 50    2   1    1 org.apache.commons.cli.Option.getId()
+ 51    4   3    1 org.apache.commons.cli.Option.getKey()
+ 52    2   1    1 org.apache.commons.cli.Option.getOpt()
+ 53    2   1    1 org.apache.commons.cli.Option.getType()
+ 54    2   1    1 org.apache.commons.cli.Option.setType(Object)
+ 55    2   1    1 org.apache.commons.cli.Option.getLongOpt()
+ 56    2   1    1 org.apache.commons.cli.Option.setLongOpt(String)
+ 57    2   1    1 org.apache.commons.cli.Option.setOptionalArg(boolean)
+ 58    2   1    1 org.apache.commons.cli.Option.hasOptionalArg()
+ 59    2   1    1 org.apache.commons.cli.Option.hasLongOpt()
+ 60    2   2    1 org.apache.commons.cli.Option.hasArg()
+ 61    2   1    1 org.apache.commons.cli.Option.getDescription()
+ 62    2   1    1 org.apache.commons.cli.Option.setDescription(String)
+ 63    2   1    1 org.apache.commons.cli.Option.isRequired()
+ 64    2   1    1 org.apache.commons.cli.Option.setRequired(boolean)
+ 65    2   1    1 org.apache.commons.cli.Option.setArgName(String)
+ 66    2   1    1 org.apache.commons.cli.Option.getArgName()
+ 67    2   2    1 org.apache.commons.cli.Option.hasArgName()
+ 68    2   2    1 org.apache.commons.cli.Option.hasArgs()
+ 69    2   1    1 org.apache.commons.cli.Option.setArgs(int)
+ 70    2   1    1 org.apache.commons.cli.Option.setValueSeparator(char)
+ 71    2   1    1 org.apache.commons.cli.Option.getValueSeparator()
+ 72    2   1    1 org.apache.commons.cli.Option.hasValueSeparator()
+ 73    2   1    1 org.apache.commons.cli.Option.getArgs()
+ 74    6   3    1 org.apache.commons.cli.Option.addValue(String)
+ 75   11   4    1 org.apache.commons.cli.Option.processValue(String)
+ 76    4   4    1 org.apache.commons.cli.Option.add(String)
+ 77    2   2    1 org.apache.commons.cli.Option.getValue()
+ 78    2   2    1 org.apache.commons.cli.Option.getValue(int)
+ 79    3   2    1 org.apache.commons.cli.Option.getValue(String)
+ 80    2   2    1 org.apache.commons.cli.Option.getValues()
+ 81    2   1    1 org.apache.commons.cli.Option.getValuesList()
+ 82   13   4    1 org.apache.commons.cli.Option.toString()
+ 83    2   1    1 org.apache.commons.cli.Option.hasNoValues()
+ 84   11  12    0 org.apache.commons.cli.Option.equals(Object)
+ 85    5   3    0 org.apache.commons.cli.Option.hashCode()
+ 86    2   1    1 org.apache.commons.cli.HelpFormatter.setWidth(int)
+ 87    2   1    1 org.apache.commons.cli.HelpFormatter.getWidth()
+ 88    2   1    1 org.apache.commons.cli.HelpFormatter.setLeftPadding(int)
+ 89    2   1    1 org.apache.commons.cli.HelpFormatter.getLeftPadding()
+ 90    2   1    1 org.apache.commons.cli.HelpFormatter.setDescPadding(int)
+ 91    2   1    1 org.apache.commons.cli.HelpFormatter.getDescPadding()
+ 92    2   1    1 org.apache.commons.cli.HelpFormatter.setSyntaxPrefix(String)
+ 93    2   1    1 org.apache.commons.cli.HelpFormatter.getSyntaxPrefix()
+ 94    2   1    1 org.apache.commons.cli.HelpFormatter.setNewLine(String)
+ 95    2   1    1 org.apache.commons.cli.HelpFormatter.getNewLine()
+ 96    2   1    1 org.apache.commons.cli.HelpFormatter.setOptPrefix(String)
+ 97    2   1    1 org.apache.commons.cli.HelpFormatter.getOptPrefix()
+ 98    2   1    1 org.apache.commons.cli.HelpFormatter.setLongOptPrefix(String)
+ 99    2   1    1 org.apache.commons.cli.HelpFormatter.getLongOptPrefix()
+100    2   1    1 org.apache.commons.cli.HelpFormatter.setArgName(String)
+101    2   1    1 org.apache.commons.cli.HelpFormatter.getArgName()
+102    2   1    1 org.apache.commons.cli.HelpFormatter.printHelp(String,Options)
+103    2   1    1 org.apache.commons.cli.HelpFormatter.printHelp(String,Options,boolean)
+104    2   1    1 org.apache.commons.cli.HelpFormatter.printHelp(String,String,Options,String)
+105    2   1    1 org.apache.commons.cli.HelpFormatter.printHelp(String,String,Options,String,boolean)
+106    2   1    1 org.apache.commons.cli.HelpFormatter.printHelp(int,String,String,Options,String)
+107    4   1    1 org.apache.commons.cli.HelpFormatter.printHelp(int,String,String,Options,String,boolean)
+108    2   1    1 org.apache.commons.cli.HelpFormatter.printHelp(PrintWriter,int,String,String,Options,int,int,String)
+109   12   9    1 org.apache.commons.cli.HelpFormatter.printHelp(PrintWriter,int,String,String,Options,int,int,String,boolean)
+110   16   5    1 org.apache.commons.cli.HelpFormatter.printUsage(PrintWriter,int,String,Options)
+111    9   5    1 org.apache.commons.cli.HelpFormatter.appendOptionGroup(StringBuffer,OptionGroup)
+112   11   6    1 org.apache.commons.cli.HelpFormatter.appendOption(StringBuffer,Option,boolean)
+113    3   1    1 org.apache.commons.cli.HelpFormatter.printUsage(PrintWriter,int,String)
+114    4   1    1 org.apache.commons.cli.HelpFormatter.printOptions(PrintWriter,int,Options,int,int)
+115    2   1    1 org.apache.commons.cli.HelpFormatter.printWrapped(PrintWriter,int,String)
+116    4   1    1 org.apache.commons.cli.HelpFormatter.printWrapped(PrintWriter,int,int,String)
+117   39  11    1 org.apache.commons.cli.HelpFormatter.renderOptions(StringBuffer,int,Options,int,int)
+118   14   6    1 org.apache.commons.cli.HelpFormatter.renderWrappedText(StringBuffer,int,int,String)
+119   17  19    1 org.apache.commons.cli.HelpFormatter.findWrapPos(String,int,int)
+120    5   2    1 org.apache.commons.cli.HelpFormatter.createPadding(int)
+121    7   6    1 org.apache.commons.cli.HelpFormatter.rtrim(String)
+122    4   1    1 org.apache.commons.cli.HelpFormatter.OptionComparator.compare(Object,Object)
+123    1   1    1 org.apache.commons.cli.CommandLine.CommandLine()
+124    2   1    1 org.apache.commons.cli.CommandLine.hasOption(String)
+125    2   1    1 org.apache.commons.cli.CommandLine.hasOption(char)
+126    6   4    1 org.apache.commons.cli.CommandLine.getOptionObject(String)
+127    2   1    1 org.apache.commons.cli.CommandLine.getOptionObject(char)
+128    3   2    1 org.apache.commons.cli.CommandLine.getOptionValue(String)
+129    2   1    1 org.apache.commons.cli.CommandLine.getOptionValue(char)
+130    8   4    1 org.apache.commons.cli.CommandLine.getOptionValues(String)
+131    2   1    1 org.apache.commons.cli.CommandLine.getOptionValues(char)
+132    3   2    1 org.apache.commons.cli.CommandLine.getOptionValue(String,String)
+133    2   1    1 org.apache.commons.cli.CommandLine.getOptionValue(char,String)
+134    4   1    1 org.apache.commons.cli.CommandLine.getArgs()
+135    2   1    1 org.apache.commons.cli.CommandLine.getArgList()
+136    2   1    1 org.apache.commons.cli.CommandLine.addArg(String)
+137    8   2    1 org.apache.commons.cli.CommandLine.addOption(Option)
+138    2   1    1 org.apache.commons.cli.CommandLine.iterator()
+139    4   1    1 org.apache.commons.cli.CommandLine.getOptions()
+140   28  19    1 org.apache.commons.cli.PatternOptionBuilder.getValueClass(char)
+141    4  12    1 org.apache.commons.cli.PatternOptionBuilder.isValueCode(char)
+142   30   6    1 org.apache.commons.cli.PatternOptionBuilder.parsePattern(String)
+143    2   1    1 org.apache.commons.cli.ParseException.ParseException(String)
+144    3   1    1 org.apache.commons.cli.OptionGroup.addOption(Option)
+145    2   1    1 org.apache.commons.cli.OptionGroup.getNames()
+146    2   1    1 org.apache.commons.cli.OptionGroup.getOptions()
+147    5   4    1 org.apache.commons.cli.OptionGroup.setSelected(Option)
+148    2   1    1 org.apache.commons.cli.OptionGroup.getSelected()
+149    2   1    1 org.apache.commons.cli.OptionGroup.setRequired(boolean)
+150    2   1    1 org.apache.commons.cli.OptionGroup.isRequired()
+151   18   4    1 org.apache.commons.cli.OptionGroup.toString()
+152    4   1    1 org.apache.commons.cli.PosixParser.init()
+153   33   9    1 org.apache.commons.cli.PosixParser.flatten(Options,String[],boolean)
+154    4   3    1 org.apache.commons.cli.PosixParser.gobble(Iterator)
+155   12   5    1 org.apache.commons.cli.PosixParser.process(String)
+156    2   1    1 org.apache.commons.cli.PosixParser.processSingleHyphen(String)
+157    7   3    1 org.apache.commons.cli.PosixParser.processOptionToken(String,boolean)
+158   16   6    1 org.apache.commons.cli.PosixParser.burstToken(String,boolean)
+159    1   1    1 org.apache.commons.cli.CommandLineParser.parse(Options,String[])
+160    1   1    1 org.apache.commons.cli.CommandLineParser.parse(Options,String[],Properties)
+161    1   1    1 org.apache.commons.cli.CommandLineParser.parse(Options,String[],boolean)
+162    1   1    1 org.apache.commons.cli.CommandLineParser.parse(Options,String[],Properties,boolean)
+163    1   1    1 org.apache.commons.cli.Options.Options()
+164   10   3    1 org.apache.commons.cli.Options.addOptionGroup(OptionGroup)
+165    2   1    1 org.apache.commons.cli.Options.getOptionGroups()
+166    3   1    1 org.apache.commons.cli.Options.addOption(String,boolean,String)
+167    3   1    1 org.apache.commons.cli.Options.addOption(String,String,boolean,String)
+168   10   4    1 org.apache.commons.cli.Options.addOption(Option)
+169    2   1    1 org.apache.commons.cli.Options.getOptions()
+170    8   3    1 org.apache.commons.cli.Options.helpOptions()
+171    2   1    1 org.apache.commons.cli.Options.getRequiredOptions()
+172    5   3    1 org.apache.commons.cli.Options.getOption(String)
+173    3   2    1 org.apache.commons.cli.Options.hasOption(String)
+174    2   1    1 org.apache.commons.cli.Options.getOptionGroup(Option)
+175    8   1    1 org.apache.commons.cli.Options.toString()
+176    2   1    1 org.apache.commons.cli.UnrecognizedOptionException.UnrecognizedOptionException(String)
+177    2   1    1 org.apache.commons.cli.GnuParser.init()
+178   62  19    1 org.apache.commons.cli.GnuParser.flatten(Options,String[],boolean)
+179    2   1    1 org.apache.commons.cli.MissingArgumentException.MissingArgumentException(String)
+Average Function NCSS:       5.36
+Average Function CCN:        2.58
+Average Function JVDC:       0.99
+Program NCSS:            1,107.00

@@ -1,0 +1,20 @@
+{
+"Class" : "org.jfree.chart.labels.junit.CustomXYItemLabelGeneratorTests", 
+"Methods" : [{ "Name" : "suite" ,
+"Duas" : 4,
+"0" :  "(71,(71,71), class$org$jfree$chart$labels$junit$CustomXYItemLabelGeneratorTests)",
+"1" :  "(71,(71,71), class$org$jfree$chart$labels$junit$CustomXYItemLabelGeneratorTests)",
+"2" :  "(71,71, class$org$jfree$chart$labels$junit$CustomXYItemLabelGeneratorTests)",
+"3" :  "(71,71, class$org$jfree$chart$labels$junit$CustomXYItemLabelGeneratorTests)"},{ "Name" : "testCloning" ,
+"Duas" : 10,
+"0" :  "(87,(95,95), g1)",
+"1" :  "(87,(95,95), g1)",
+"2" :  "(87,(96,96), g1)",
+"3" :  "(87,(96,96), g1)",
+"4" :  "(87,97, g1)",
+"5" :  "(90,(95,95), g2)",
+"6" :  "(90,(95,95), g2)",
+"7" :  "(90,(96,96), g2)",
+"8" :  "(90,(96,96), g2)",
+"9" :  "(90,97, g2)"}]
+}

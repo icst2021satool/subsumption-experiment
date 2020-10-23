@@ -1,0 +1,299 @@
+{
+"Class" : "org.joda.time.format.ISODateTimeFormat$Constants", 
+"Methods" : [{ "Name" : "dateParser" ,
+"Duas" : "3" ,
+"Subsumers" : 2,
+"0" : [ 0], "S0" : [0 ],
+"1" : [ 2, 1], "S1" : [1, 2 ]
+},{ "Name" : "localDateParser" ,
+"Duas" : "3" ,
+"Subsumers" : 2,
+"0" : [ 0], "S0" : [0 ],
+"1" : [ 2, 1], "S1" : [1, 2 ]
+},{ "Name" : "dateElementParser" ,
+"Duas" : "3" ,
+"Subsumers" : 2,
+"0" : [ 0], "S0" : [0 ],
+"1" : [ 2, 1], "S1" : [1, 2 ]
+},{ "Name" : "timeParser" ,
+"Duas" : "3" ,
+"Subsumers" : 2,
+"0" : [ 0], "S0" : [0 ],
+"1" : [ 2, 1], "S1" : [1, 2 ]
+},{ "Name" : "localTimeParser" ,
+"Duas" : "3" ,
+"Subsumers" : 2,
+"0" : [ 0], "S0" : [0 ],
+"1" : [ 2, 1], "S1" : [1, 2 ]
+},{ "Name" : "timeElementParser" ,
+"Duas" : "3" ,
+"Subsumers" : 2,
+"0" : [ 0], "S0" : [0 ],
+"1" : [ 2, 1], "S1" : [1, 2 ]
+},{ "Name" : "dateTimeParser" ,
+"Duas" : "3" ,
+"Subsumers" : 2,
+"0" : [ 0], "S0" : [0 ],
+"1" : [ 2, 1], "S1" : [1, 2 ]
+},{ "Name" : "dateOptionalTimeParser" ,
+"Duas" : "3" ,
+"Subsumers" : 2,
+"0" : [ 0], "S0" : [0 ],
+"1" : [ 2, 1], "S1" : [1, 2 ]
+},{ "Name" : "localDateOptionalTimeParser" ,
+"Duas" : "3" ,
+"Subsumers" : 2,
+"0" : [ 0], "S0" : [0 ],
+"1" : [ 2, 1], "S1" : [1, 2 ]
+},{ "Name" : "time" ,
+"Duas" : "3" ,
+"Subsumers" : 2,
+"0" : [ 0], "S0" : [0 ],
+"1" : [ 2, 1], "S1" : [1, 2 ]
+},{ "Name" : "timeNoMillis" ,
+"Duas" : "3" ,
+"Subsumers" : 2,
+"0" : [ 0], "S0" : [0 ],
+"1" : [ 2, 1], "S1" : [1, 2 ]
+},{ "Name" : "tTime" ,
+"Duas" : "3" ,
+"Subsumers" : 2,
+"0" : [ 0], "S0" : [0 ],
+"1" : [ 2, 1], "S1" : [1, 2 ]
+},{ "Name" : "tTimeNoMillis" ,
+"Duas" : "3" ,
+"Subsumers" : 2,
+"0" : [ 0], "S0" : [0 ],
+"1" : [ 2, 1], "S1" : [1, 2 ]
+},{ "Name" : "dateTime" ,
+"Duas" : "3" ,
+"Subsumers" : 2,
+"0" : [ 0], "S0" : [0 ],
+"1" : [ 2, 1], "S1" : [1, 2 ]
+},{ "Name" : "dateTimeNoMillis" ,
+"Duas" : "3" ,
+"Subsumers" : 2,
+"0" : [ 0], "S0" : [0 ],
+"1" : [ 2, 1], "S1" : [1, 2 ]
+},{ "Name" : "ordinalDate" ,
+"Duas" : "3" ,
+"Subsumers" : 2,
+"0" : [ 0], "S0" : [0 ],
+"1" : [ 2, 1], "S1" : [1, 2 ]
+},{ "Name" : "ordinalDateTime" ,
+"Duas" : "3" ,
+"Subsumers" : 2,
+"0" : [ 0], "S0" : [0 ],
+"1" : [ 2, 1], "S1" : [1, 2 ]
+},{ "Name" : "ordinalDateTimeNoMillis" ,
+"Duas" : "3" ,
+"Subsumers" : 2,
+"0" : [ 0], "S0" : [0 ],
+"1" : [ 2, 1], "S1" : [1, 2 ]
+},{ "Name" : "weekDateTime" ,
+"Duas" : "3" ,
+"Subsumers" : 2,
+"0" : [ 0], "S0" : [0 ],
+"1" : [ 2, 1], "S1" : [1, 2 ]
+},{ "Name" : "weekDateTimeNoMillis" ,
+"Duas" : "3" ,
+"Subsumers" : 2,
+"0" : [ 0], "S0" : [0 ],
+"1" : [ 2, 1], "S1" : [1, 2 ]
+},{ "Name" : "basicDate" ,
+"Duas" : "3" ,
+"Subsumers" : 2,
+"0" : [ 0], "S0" : [0 ],
+"1" : [ 2, 1], "S1" : [1, 2 ]
+},{ "Name" : "basicTime" ,
+"Duas" : "3" ,
+"Subsumers" : 2,
+"0" : [ 0], "S0" : [0 ],
+"1" : [ 2, 1], "S1" : [1, 2 ]
+},{ "Name" : "basicTimeNoMillis" ,
+"Duas" : "3" ,
+"Subsumers" : 2,
+"0" : [ 0], "S0" : [0 ],
+"1" : [ 2, 1], "S1" : [1, 2 ]
+},{ "Name" : "basicTTime" ,
+"Duas" : "3" ,
+"Subsumers" : 2,
+"0" : [ 0], "S0" : [0 ],
+"1" : [ 2, 1], "S1" : [1, 2 ]
+},{ "Name" : "basicTTimeNoMillis" ,
+"Duas" : "3" ,
+"Subsumers" : 2,
+"0" : [ 0], "S0" : [0 ],
+"1" : [ 2, 1], "S1" : [1, 2 ]
+},{ "Name" : "basicDateTime" ,
+"Duas" : "3" ,
+"Subsumers" : 2,
+"0" : [ 0], "S0" : [0 ],
+"1" : [ 2, 1], "S1" : [1, 2 ]
+},{ "Name" : "basicDateTimeNoMillis" ,
+"Duas" : "3" ,
+"Subsumers" : 2,
+"0" : [ 0], "S0" : [0 ],
+"1" : [ 2, 1], "S1" : [1, 2 ]
+},{ "Name" : "basicOrdinalDate" ,
+"Duas" : "3" ,
+"Subsumers" : 2,
+"0" : [ 0], "S0" : [0 ],
+"1" : [ 2, 1], "S1" : [1, 2 ]
+},{ "Name" : "basicOrdinalDateTime" ,
+"Duas" : "3" ,
+"Subsumers" : 2,
+"0" : [ 0], "S0" : [0 ],
+"1" : [ 2, 1], "S1" : [1, 2 ]
+},{ "Name" : "basicOrdinalDateTimeNoMillis" ,
+"Duas" : "3" ,
+"Subsumers" : 2,
+"0" : [ 0], "S0" : [0 ],
+"1" : [ 2, 1], "S1" : [1, 2 ]
+},{ "Name" : "basicWeekDate" ,
+"Duas" : "3" ,
+"Subsumers" : 2,
+"0" : [ 0], "S0" : [0 ],
+"1" : [ 2, 1], "S1" : [1, 2 ]
+},{ "Name" : "basicWeekDateTime" ,
+"Duas" : "3" ,
+"Subsumers" : 2,
+"0" : [ 0], "S0" : [0 ],
+"1" : [ 2, 1], "S1" : [1, 2 ]
+},{ "Name" : "basicWeekDateTimeNoMillis" ,
+"Duas" : "3" ,
+"Subsumers" : 2,
+"0" : [ 0], "S0" : [0 ],
+"1" : [ 2, 1], "S1" : [1, 2 ]
+},{ "Name" : "yearMonth" ,
+"Duas" : "3" ,
+"Subsumers" : 2,
+"0" : [ 0], "S0" : [0 ],
+"1" : [ 2, 1], "S1" : [1, 2 ]
+},{ "Name" : "yearMonthDay" ,
+"Duas" : "3" ,
+"Subsumers" : 2,
+"0" : [ 0], "S0" : [0 ],
+"1" : [ 2, 1], "S1" : [1, 2 ]
+},{ "Name" : "weekyearWeek" ,
+"Duas" : "3" ,
+"Subsumers" : 2,
+"0" : [ 0], "S0" : [0 ],
+"1" : [ 2, 1], "S1" : [1, 2 ]
+},{ "Name" : "weekyearWeekDay" ,
+"Duas" : "3" ,
+"Subsumers" : 2,
+"0" : [ 0], "S0" : [0 ],
+"1" : [ 2, 1], "S1" : [1, 2 ]
+},{ "Name" : "hourMinute" ,
+"Duas" : "3" ,
+"Subsumers" : 2,
+"0" : [ 0], "S0" : [0 ],
+"1" : [ 2, 1], "S1" : [1, 2 ]
+},{ "Name" : "hourMinuteSecond" ,
+"Duas" : "3" ,
+"Subsumers" : 2,
+"0" : [ 0], "S0" : [0 ],
+"1" : [ 2, 1], "S1" : [1, 2 ]
+},{ "Name" : "hourMinuteSecondMillis" ,
+"Duas" : "3" ,
+"Subsumers" : 2,
+"0" : [ 0], "S0" : [0 ],
+"1" : [ 2, 1], "S1" : [1, 2 ]
+},{ "Name" : "hourMinuteSecondFraction" ,
+"Duas" : "3" ,
+"Subsumers" : 2,
+"0" : [ 0], "S0" : [0 ],
+"1" : [ 2, 1], "S1" : [1, 2 ]
+},{ "Name" : "dateHour" ,
+"Duas" : "3" ,
+"Subsumers" : 2,
+"0" : [ 0], "S0" : [0 ],
+"1" : [ 2, 1], "S1" : [1, 2 ]
+},{ "Name" : "dateHourMinute" ,
+"Duas" : "3" ,
+"Subsumers" : 2,
+"0" : [ 0], "S0" : [0 ],
+"1" : [ 2, 1], "S1" : [1, 2 ]
+},{ "Name" : "dateHourMinuteSecond" ,
+"Duas" : "3" ,
+"Subsumers" : 2,
+"0" : [ 0], "S0" : [0 ],
+"1" : [ 2, 1], "S1" : [1, 2 ]
+},{ "Name" : "dateHourMinuteSecondMillis" ,
+"Duas" : "3" ,
+"Subsumers" : 2,
+"0" : [ 0], "S0" : [0 ],
+"1" : [ 2, 1], "S1" : [1, 2 ]
+},{ "Name" : "dateHourMinuteSecondFraction" ,
+"Duas" : "3" ,
+"Subsumers" : 2,
+"0" : [ 0], "S0" : [0 ],
+"1" : [ 2, 1], "S1" : [1, 2 ]
+},{ "Name" : "yearElement" ,
+"Duas" : "3" ,
+"Subsumers" : 2,
+"0" : [ 0], "S0" : [0 ],
+"1" : [ 2, 1], "S1" : [1, 2 ]
+},{ "Name" : "monthElement" ,
+"Duas" : "3" ,
+"Subsumers" : 2,
+"0" : [ 0], "S0" : [0 ],
+"1" : [ 2, 1], "S1" : [1, 2 ]
+},{ "Name" : "dayOfMonthElement" ,
+"Duas" : "3" ,
+"Subsumers" : 2,
+"0" : [ 0], "S0" : [0 ],
+"1" : [ 2, 1], "S1" : [1, 2 ]
+},{ "Name" : "weekyearElement" ,
+"Duas" : "3" ,
+"Subsumers" : 2,
+"0" : [ 0], "S0" : [0 ],
+"1" : [ 2, 1], "S1" : [1, 2 ]
+},{ "Name" : "weekElement" ,
+"Duas" : "3" ,
+"Subsumers" : 2,
+"0" : [ 0], "S0" : [0 ],
+"1" : [ 2, 1], "S1" : [1, 2 ]
+},{ "Name" : "dayOfWeekElement" ,
+"Duas" : "3" ,
+"Subsumers" : 2,
+"0" : [ 0], "S0" : [0 ],
+"1" : [ 2, 1], "S1" : [1, 2 ]
+},{ "Name" : "dayOfYearElement" ,
+"Duas" : "3" ,
+"Subsumers" : 2,
+"0" : [ 0], "S0" : [0 ],
+"1" : [ 2, 1], "S1" : [1, 2 ]
+},{ "Name" : "literalTElement" ,
+"Duas" : "3" ,
+"Subsumers" : 2,
+"0" : [ 0], "S0" : [0 ],
+"1" : [ 2, 1], "S1" : [1, 2 ]
+},{ "Name" : "hourElement" ,
+"Duas" : "3" ,
+"Subsumers" : 2,
+"0" : [ 0], "S0" : [0 ],
+"1" : [ 2, 1], "S1" : [1, 2 ]
+},{ "Name" : "minuteElement" ,
+"Duas" : "3" ,
+"Subsumers" : 2,
+"0" : [ 0], "S0" : [0 ],
+"1" : [ 2, 1], "S1" : [1, 2 ]
+},{ "Name" : "secondElement" ,
+"Duas" : "3" ,
+"Subsumers" : 2,
+"0" : [ 0], "S0" : [0 ],
+"1" : [ 2, 1], "S1" : [1, 2 ]
+},{ "Name" : "fractionElement" ,
+"Duas" : "3" ,
+"Subsumers" : 2,
+"0" : [ 0], "S0" : [0 ],
+"1" : [ 2, 1], "S1" : [1, 2 ]
+},{ "Name" : "offsetElement" ,
+"Duas" : "3" ,
+"Subsumers" : 2,
+"0" : [ 0], "S0" : [0 ],
+"1" : [ 2, 1], "S1" : [1, 2 ]
+}]
+}

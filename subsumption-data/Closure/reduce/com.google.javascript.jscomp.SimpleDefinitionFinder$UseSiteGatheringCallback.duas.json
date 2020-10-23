@@ -1,0 +1,12 @@
+{
+"Class" : "com.google.javascript.jscomp.SimpleDefinitionFinder$UseSiteGatheringCallback", 
+"Methods" : [{ "Name" : "visit" ,
+"Duas" : 7,
+"0" :  "(275,284, this)",
+"1" :  "(275,284, traversal)",
+"2" :  "(275,284, node)",
+"3" :  "(275,284, this.this$0)",
+"4" :  "(275,(276,277), defs)",
+"5" :  "(275,(276,280), defs)",
+"6" :  "(275,280, defs)"}]
+}

@@ -1,0 +1,22 @@
+{
+"Class" : "weka.core.pmml.jaxbbindings.Header", 
+"Methods" : [{ "Name" : "getExtension" ,
+"Duas" : 8,
+"0" :  "(93,(93,94), this)",
+"1" :  "(93,(93,96), this)",
+"2" :  "(93,96, this)",
+"3" :  "(93,94, this)",
+"4" :  "(93,(93,94), this.extension)",
+"5" :  "(93,(93,96), this.extension)",
+"6" :  "(93,96, this.extension)",
+"7" :  "(94,96, this.extension)"},{ "Name" : "getAnnotation" ,
+"Duas" : 8,
+"0" :  "(146,(146,147), this)",
+"1" :  "(146,(146,149), this)",
+"2" :  "(146,149, this)",
+"3" :  "(146,147, this)",
+"4" :  "(146,(146,147), this.annotation)",
+"5" :  "(146,(146,149), this.annotation)",
+"6" :  "(146,149, this.annotation)",
+"7" :  "(147,149, this.annotation)"}]
+}

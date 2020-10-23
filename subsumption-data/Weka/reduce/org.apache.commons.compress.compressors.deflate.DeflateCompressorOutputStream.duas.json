@@ -1,0 +1,12 @@
+{
+"Class" : "org.apache.commons.compress.compressors.deflate.DeflateCompressorOutputStream", 
+"Methods" : [{ "Name" : "<init>" ,
+"Duas" : 7,
+"0" :  "(52,53, this)",
+"1" :  "(52,54, this)",
+"2" :  "(52,54, this)",
+"3" :  "(52,54, outputStream)",
+"4" :  "(52,(53,53), parameters)",
+"5" :  "(52,(53,53), parameters)",
+"6" :  "(52,53, parameters)"}]
+}

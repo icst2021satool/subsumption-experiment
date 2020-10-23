@@ -1,0 +1,13 @@
+{
+"Class" : "weka.core.pmml.jaxbbindings.TIMESERIESALGORITHM", 
+"Methods" : [{ "Name" : "fromValue" ,
+"Duas" : 8,
+"0" :  "(53,58, v)",
+"1" :  "(53,(54,55), v)",
+"2" :  "(53,(54,53), v)",
+"3" :  "(53,(54,55), c)",
+"4" :  "(53,(54,53), c)",
+"5" :  "(53,55, c)",
+"6" :  "(53,(54,55), c.value)",
+"7" :  "(53,(54,53), c.value)"}]
+}

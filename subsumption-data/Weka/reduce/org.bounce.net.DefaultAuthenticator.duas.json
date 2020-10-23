@@ -1,0 +1,15 @@
+{
+"Class" : "org.bounce.net.DefaultAuthenticator", 
+"Methods" : [{ "Name" : "getDialog" ,
+"Duas" : 10,
+"0" :  "(95,109, FULL_FILL)",
+"1" :  "(95,111, FULL_FILL)",
+"2" :  "(95,113, LEFT)",
+"3" :  "(95,118, LEFT)",
+"4" :  "(95,123, LEFT)",
+"5" :  "(95,127, LEFT)",
+"6" :  "(95,116, RIGHT_FILL)",
+"7" :  "(95,121, RIGHT_FILL)",
+"8" :  "(95,125, RIGHT_FILL)",
+"9" :  "(95,129, RIGHT_FILL)"}]
+}

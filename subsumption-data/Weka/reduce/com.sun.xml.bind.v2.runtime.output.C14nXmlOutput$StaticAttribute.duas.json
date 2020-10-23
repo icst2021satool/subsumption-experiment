@@ -1,0 +1,18 @@
+{
+"Class" : "com.sun.xml.bind.v2.runtime.output.C14nXmlOutput$StaticAttribute", 
+"Methods" : [{ "Name" : "toDynamicAttribute" ,
+"Duas" : 13,
+"0" :  "(79,84, this)",
+"1" :  "(79,85, this)",
+"2" :  "(79,85, this.name)",
+"3" :  "(79,84, this.this$0)",
+"4" :  "(79,85, this.this$0)",
+"5" :  "(79,84, this.nsUriIndex2prefixIndex)",
+"6" :  "(79,85, this.localName)",
+"7" :  "(79,85, this.value)",
+"8" :  "(79,(81,82), nsUriIndex)",
+"9" :  "(79,(81,84), nsUriIndex)",
+"10" :  "(79,84, nsUriIndex)",
+"11" :  "(82,85, prefix)",
+"12" :  "(84,85, prefix)"}]
+}

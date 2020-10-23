@@ -1,0 +1,13 @@
+{
+"Class" : "org.apache.commons.collections4.set.AbstractSetDecorator", 
+"Methods" : [{ "Name" : "equals" ,
+"Duas" : 8,
+"0" :  "(68,(68,68), this)",
+"1" :  "(68,(68,68), this)",
+"2" :  "(68,(68,68), this)",
+"3" :  "(68,(68,68), this)",
+"4" :  "(68,(68,68), object)",
+"5" :  "(68,(68,68), object)",
+"6" :  "(68,(68,68), object)",
+"7" :  "(68,(68,68), object)"}]
+}

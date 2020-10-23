@@ -1,0 +1,14 @@
+{
+"Class" : "weka.gui.explorer.ClustererPanel$5", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Duas" : 9,
+"0" :  "(368,374, this)",
+"1" :  "(368,(369,370), m_Memory)",
+"2" :  "(368,(369,373), m_Memory)",
+"3" :  "(368,370, m_Memory)",
+"4" :  "(368,374, this.this$0)",
+"5" :  "(368,(373,374), proceed)",
+"6" :  "(368,(373,376), proceed)",
+"7" :  "(370,(373,374), proceed)",
+"8" :  "(370,(373,376), proceed)"}]
+}

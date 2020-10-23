@@ -1,0 +1,14 @@
+{
+"Class" : "org.jfree.chart.axis.junit.CategoryLabelWidthTypeTests", 
+"Methods" : [{ "Name" : "suite" ,
+"Duas" : 4,
+"0" :  "(67,(67,67), class$org$jfree$chart$axis$junit$CategoryLabelWidthTypeTests)",
+"1" :  "(67,(67,67), class$org$jfree$chart$axis$junit$CategoryLabelWidthTypeTests)",
+"2" :  "(67,67, class$org$jfree$chart$axis$junit$CategoryLabelWidthTypeTests)",
+"3" :  "(67,67, class$org$jfree$chart$axis$junit$CategoryLabelWidthTypeTests)"},{ "Name" : "testSerialization" ,
+"Duas" : 4,
+"0" :  "(105,(123,123), w1)",
+"1" :  "(105,(123,123), w1)",
+"2" :  "(116,(123,123), w2)",
+"3" :  "(116,(123,123), w2)"}]
+}

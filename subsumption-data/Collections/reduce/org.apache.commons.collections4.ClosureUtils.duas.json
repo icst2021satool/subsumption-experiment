@@ -1,0 +1,21 @@
+{
+"Class" : "org.apache.commons.collections4.ClosureUtils", 
+"Methods" : [{ "Name" : "switchMapClosure" ,
+"Duas" : 16,
+"0" :  "(356,(356,357), objectsAndClosures)",
+"1" :  "(356,(356,359), objectsAndClosures)",
+"2" :  "(356,359, objectsAndClosures)",
+"3" :  "(356,360, objectsAndClosures)",
+"4" :  "(356,364, objectsAndClosures)",
+"5" :  "(359,369, def)",
+"6" :  "(361,369, trs)",
+"7" :  "(361,366, trs)",
+"8" :  "(362,369, preds)",
+"9" :  "(362,365, preds)",
+"10" :  "(363,365, i)",
+"11" :  "(363,366, i)",
+"12" :  "(363,367, i)",
+"13" :  "(367,365, i)",
+"14" :  "(367,366, i)",
+"15" :  "(367,367, i)"}]
+}

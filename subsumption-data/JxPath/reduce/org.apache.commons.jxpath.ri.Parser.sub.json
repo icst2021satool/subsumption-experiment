@@ -1,0 +1,10 @@
+{
+"Class" : "org.apache.commons.jxpath.ri.Parser", 
+"Methods" : [{ "Name" : "describePosition" ,
+"Duas" : "8" ,
+"Subsumers" : 3,
+"0" : [ 5, 0], "S0" : [0, 4, 5 ],
+"1" : [ 7, 6, 2, 1], "S1" : [1, 2, 4, 6, 7 ],
+"2" : [ 3], "S2" : [3 ]
+}]
+}

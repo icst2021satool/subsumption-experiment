@@ -1,0 +1,13 @@
+{
+"Class" : "weka.gui.beans.FilterCustomizer$1", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Duas" : 8,
+"0" :  "(88,(90,91), this)",
+"1" :  "(88,(90,94), this)",
+"2" :  "(88,94, this)",
+"3" :  "(88,91, this)",
+"4" :  "(88,(90,91), this.this$0)",
+"5" :  "(88,(90,94), this.this$0)",
+"6" :  "(88,94, this.this$0)",
+"7" :  "(88,91, this.this$0)"}]
+}

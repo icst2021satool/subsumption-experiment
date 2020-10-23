@@ -1,0 +1,15 @@
+{
+"Class" : "org.apache.commons.compress.parallel.FileBasedScatterGatherBackingStore", 
+"Methods" : [{ "Name" : "closeForWriting" ,
+"Duas" : "7" ,
+"Subsumers" : 2,
+"0" : [ 6, 4, 2, 3, 0], "S0" : [0, 2, 3, 4, 6 ],
+"1" : [ 5, 1], "S1" : [1, 5 ]
+},{ "Name" : "close" ,
+"Duas" : "10" ,
+"Subsumers" : 3,
+"0" : [ 9, 7, 4, 2], "S0" : [0, 2, 4, 5, 7, 9 ],
+"1" : [ 8, 3], "S1" : [0, 3, 5, 8 ],
+"2" : [ 6, 1], "S2" : [1, 6 ]
+}]
+}

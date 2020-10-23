@@ -1,0 +1,14 @@
+{
+"Class" : "weka.gui.PackageManager$17", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Duas" : 9,
+"0" :  "(2189,(2192,2193), this)",
+"1" :  "(2189,(2192,2197), this)",
+"2" :  "(2189,2193, this)",
+"3" :  "(2189,(2192,2193), this.this$0)",
+"4" :  "(2189,(2192,2197), this.this$0)",
+"5" :  "(2189,2193, this.this$0)",
+"6" :  "(2189,(2192,2193), this.m_browserHistory)",
+"7" :  "(2189,(2192,2197), this.m_browserHistory)",
+"8" :  "(2189,2193, this.m_backB)"}]
+}

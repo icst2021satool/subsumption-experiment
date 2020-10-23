@@ -1,0 +1,13 @@
+{
+"Class" : "weka.core.pmml.jaxbbindings.BASELINETESTSTATISTIC", 
+"Methods" : [{ "Name" : "fromValue" ,
+"Duas" : 8,
+"0" :  "(56,61, v)",
+"1" :  "(56,(57,58), v)",
+"2" :  "(56,(57,56), v)",
+"3" :  "(56,(57,58), c)",
+"4" :  "(56,(57,56), c)",
+"5" :  "(56,58, c)",
+"6" :  "(56,(57,58), c.value)",
+"7" :  "(56,(57,56), c.value)"}]
+}

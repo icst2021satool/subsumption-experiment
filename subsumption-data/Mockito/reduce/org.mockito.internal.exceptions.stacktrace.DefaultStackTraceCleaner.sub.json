@@ -1,0 +1,14 @@
+{
+"Class" : "org.mockito.internal.exceptions.stacktrace.DefaultStackTraceCleaner", 
+"Methods" : [{ "Name" : "isOut" ,
+"Duas" : "10" ,
+"Subsumers" : 7,
+"0" : [ 4], "S0" : [0, 2, 4 ],
+"1" : [ 5], "S1" : [0, 2, 5 ],
+"2" : [ 3], "S2" : [0, 3 ],
+"3" : [ 1], "S3" : [1 ],
+"4" : [ 8], "S4" : [6, 8 ],
+"5" : [ 9], "S5" : [6, 9 ],
+"6" : [ 7], "S6" : [7 ]
+}]
+}

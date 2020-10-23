@@ -1,0 +1,12 @@
+{
+"Class" : "weka.core.expressionlanguage.common.MathFunctions", 
+"Methods" : [{ "Name" : "getMacro" ,
+"Duas" : 7,
+"0" :  "(94,(94,95), name)",
+"1" :  "(94,(94,96), name)",
+"2" :  "(94,96, name)",
+"3" :  "(94,95, name)",
+"4" :  "(94,(94,95), macros)",
+"5" :  "(94,(94,96), macros)",
+"6" :  "(94,95, macros)"}]
+}

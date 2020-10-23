@@ -1,0 +1,19 @@
+{
+"Class" : "weka.filters.unsupervised.attribute.PotentialClassIgnorer", 
+"Methods" : [{ "Name" : "getOptions" ,
+"Duas" : "4" ,
+"Subsumers" : 2,
+"0" : [ 3, 0], "S0" : [0, 2, 3 ],
+"1" : [ 1], "S1" : [1, 2 ]
+},{ "Name" : "setInputFormat" ,
+"Duas" : "7" ,
+"Subsumers" : 2,
+"0" : [ 4, 2, 3, 0], "S0" : [0, 2, 3, 4, 6 ],
+"1" : [ 5, 1], "S1" : [1, 5, 6 ]
+},{ "Name" : "getOutputFormat" ,
+"Duas" : "7" ,
+"Subsumers" : 2,
+"0" : [ 6, 4, 3, 0], "S0" : [0, 2, 3, 4, 6 ],
+"1" : [ 5, 1], "S1" : [1, 2, 5 ]
+}]
+}

@@ -1,0 +1,12 @@
+{
+"Class" : "weka.classifiers.RandomizableParallelIteratedSingleClassifierEnhancer", 
+"Methods" : [{ "Name" : "setOptions" ,
+"Duas" : 7,
+"0" :  "(88,92, this)",
+"1" :  "(88,95, this)",
+"2" :  "(88,90, this)",
+"3" :  "(88,95, options)",
+"4" :  "(88,(89,90), seed)",
+"5" :  "(88,(89,92), seed)",
+"6" :  "(88,90, seed)"}]
+}

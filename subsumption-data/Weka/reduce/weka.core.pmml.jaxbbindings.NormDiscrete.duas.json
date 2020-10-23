@@ -1,0 +1,20 @@
+{
+"Class" : "weka.core.pmml.jaxbbindings.NormDiscrete", 
+"Methods" : [{ "Name" : "getExtension" ,
+"Duas" : 8,
+"0" :  "(100,(100,101), this)",
+"1" :  "(100,(100,103), this)",
+"2" :  "(100,103, this)",
+"3" :  "(100,101, this)",
+"4" :  "(100,(100,101), this.extension)",
+"5" :  "(100,(100,103), this.extension)",
+"6" :  "(100,103, this.extension)",
+"7" :  "(101,103, this.extension)"},{ "Name" : "getMethod" ,
+"Duas" : 6,
+"0" :  "(163,(163,164), this)",
+"1" :  "(163,(163,166), this)",
+"2" :  "(163,166, this)",
+"3" :  "(163,(163,164), this.method)",
+"4" :  "(163,(163,166), this.method)",
+"5" :  "(163,166, this.method)"}]
+}

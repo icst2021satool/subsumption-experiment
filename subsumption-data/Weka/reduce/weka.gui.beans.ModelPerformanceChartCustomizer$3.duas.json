@@ -1,0 +1,11 @@
+{
+"Class" : "weka.gui.beans.ModelPerformanceChartCustomizer$3", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Duas" : 6,
+"0" :  "(248,(249,250), this)",
+"1" :  "(248,(249,252), this)",
+"2" :  "(248,250, this)",
+"3" :  "(248,(249,250), this.this$0)",
+"4" :  "(248,(249,252), this.this$0)",
+"5" :  "(248,250, this.this$0)"}]
+}

@@ -1,0 +1,23 @@
+{
+"Class" : "org.apache.commons.collections4.functors.AllPredicate", 
+"Methods" : [{ "Name" : "allPredicate" ,
+"Duas" : 6,
+"0" :  "(56,(57,58), predicates)",
+"1" :  "(56,(57,60), predicates)",
+"2" :  "(56,(60,61), predicates)",
+"3" :  "(56,(60,64), predicates)",
+"4" :  "(56,64, predicates)",
+"5" :  "(56,61, predicates)"},{ "Name" : "allPredicate" ,
+"Duas" : 6,
+"0" :  "(80,(81,82), preds)",
+"1" :  "(80,(81,84), preds)",
+"2" :  "(80,(84,85), preds)",
+"3" :  "(80,(84,87), preds)",
+"4" :  "(80,87, preds)",
+"5" :  "(80,85, preds)"},{ "Name" : "evaluate" ,
+"Duas" : 4,
+"0" :  "(107,(108,109), object)",
+"1" :  "(107,(108,107), object)",
+"2" :  "(107,(108,109), iPredicate)",
+"3" :  "(107,(108,107), iPredicate)"}]
+}

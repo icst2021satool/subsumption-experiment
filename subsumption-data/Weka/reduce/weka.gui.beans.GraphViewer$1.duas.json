@@ -1,0 +1,13 @@
+{
+"Class" : "weka.gui.beans.GraphViewer$1", 
+"Methods" : [{ "Name" : "mouseClicked" ,
+"Duas" : 8,
+"0" :  "(135,137, this)",
+"1" :  "(135,138, this)",
+"2" :  "(135,137, this.this$0)",
+"3" :  "(135,138, this.this$0)",
+"4" :  "(135,137, this.m_history)",
+"5" :  "(135,(136,137), index)",
+"6" :  "(135,(136,140), index)",
+"7" :  "(135,137, index)"}]
+}

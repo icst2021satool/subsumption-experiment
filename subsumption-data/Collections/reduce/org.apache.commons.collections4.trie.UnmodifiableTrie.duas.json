@@ -1,0 +1,14 @@
+{
+"Class" : "org.apache.commons.collections4.trie.UnmodifiableTrie", 
+"Methods" : [{ "Name" : "unmodifiableTrie" ,
+"Duas" : 4,
+"0" :  "(55,(55,57), trie)",
+"1" :  "(55,(55,60), trie)",
+"2" :  "(55,60, trie)",
+"3" :  "(55,57, trie)"},{ "Name" : "<init>" ,
+"Duas" : 4,
+"0" :  "(70,76, this)",
+"1" :  "(70,(71,72), trie)",
+"2" :  "(70,(71,75), trie)",
+"3" :  "(70,75, trie)"}]
+}

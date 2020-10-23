@@ -1,0 +1,13 @@
+{
+"Class" : "org.apache.commons.math3.analysis.function.Gaussian$Parametric", 
+"Methods" : [{ "Name" : "validateParameters" ,
+"Duas" : 8,
+"0" :  "(185,(185,186), param)",
+"1" :  "(185,(185,188), param)",
+"2" :  "(185,(188,189), param)",
+"3" :  "(185,(188,191), param)",
+"4" :  "(185,(191,192), param)",
+"5" :  "(185,(191,194), param)",
+"6" :  "(185,192, param)",
+"7" :  "(185,189, param)"}]
+}

@@ -1,0 +1,9 @@
+{
+"Class" : "org.apache.commons.math3.geometry.euclidean.threed.PolyhedronsSet$TranslationTransform", 
+"Methods" : [{ "Name" : "apply" ,
+"Duas" : "16" ,
+"Subsumers" : 2,
+"0" : [ 15, 12, 11, 9, 10, 7, 3, 4, 5, 0], "S0" : [0, 2, 3, 4, 5, 6, 7, 9, 10, 11, 12, 15 ],
+"1" : [ 14, 13, 8, 1], "S1" : [1, 2, 6, 8, 13, 14 ]
+}]
+}

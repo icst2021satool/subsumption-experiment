@@ -1,0 +1,23 @@
+{
+"Class" : "weka.gui.experiment.AlgorithmListPanel$1$2", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Duas" : 18,
+"0" :  "(281,(281,282), this)",
+"1" :  "(281,(281,286), this)",
+"2" :  "(281,286, this)",
+"3" :  "(281,286, this)",
+"4" :  "(281,282, this)",
+"5" :  "(281,(281,282), this.this$1)",
+"6" :  "(281,(281,286), this.this$1)",
+"7" :  "(281,286, this.this$1)",
+"8" :  "(281,286, this.this$1)",
+"9" :  "(281,282, this.this$1)",
+"10" :  "(281,(281,282), this.this$0)",
+"11" :  "(281,(281,286), this.this$0)",
+"12" :  "(281,286, this.this$0)",
+"13" :  "(281,(281,282), this.m_List)",
+"14" :  "(281,(281,286), this.m_List)",
+"15" :  "(281,286, this.val$self)",
+"16" :  "(281,282, this.val$self)",
+"17" :  "(281,286, this.m_EditBut)"}]
+}

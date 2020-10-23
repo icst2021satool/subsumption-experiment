@@ -1,0 +1,9 @@
+{
+"Class" : "weka.core.packageManagement.VersionPackageConstraint$VersionComparison$4", 
+"Methods" : [{ "Name" : "compatibleWith" ,
+"Duas" : 4,
+"0" :  "(69,(69,70), v)",
+"1" :  "(69,(69,72), v)",
+"2" :  "(69,(69,70), LESSTHAN)",
+"3" :  "(69,(69,72), LESSTHAN)"}]
+}

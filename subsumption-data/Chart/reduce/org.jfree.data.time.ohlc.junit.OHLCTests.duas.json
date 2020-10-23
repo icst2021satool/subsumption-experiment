@@ -1,0 +1,9 @@
+{
+"Class" : "org.jfree.data.time.ohlc.junit.OHLCTests", 
+"Methods" : [{ "Name" : "suite" ,
+"Duas" : 4,
+"0" :  "(67,(67,67), class$org$jfree$data$time$ohlc$junit$OHLCTests)",
+"1" :  "(67,(67,67), class$org$jfree$data$time$ohlc$junit$OHLCTests)",
+"2" :  "(67,67, class$org$jfree$data$time$ohlc$junit$OHLCTests)",
+"3" :  "(67,67, class$org$jfree$data$time$ohlc$junit$OHLCTests)"}]
+}

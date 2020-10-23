@@ -1,0 +1,9 @@
+{
+"Class" : "org.jfree.chart.axis.junit.StandardTickUnitSourceTests", 
+"Methods" : [{ "Name" : "suite" ,
+"Duas" : 4,
+"0" :  "(67,(67,67), class$org$jfree$chart$axis$junit$StandardTickUnitSourceTests)",
+"1" :  "(67,(67,67), class$org$jfree$chart$axis$junit$StandardTickUnitSourceTests)",
+"2" :  "(67,67, class$org$jfree$chart$axis$junit$StandardTickUnitSourceTests)",
+"3" :  "(67,67, class$org$jfree$chart$axis$junit$StandardTickUnitSourceTests)"}]
+}

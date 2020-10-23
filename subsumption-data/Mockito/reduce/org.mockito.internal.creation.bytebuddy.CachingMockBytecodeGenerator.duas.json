@@ -1,0 +1,19 @@
+{
+"Class" : "org.mockito.internal.creation.bytebuddy.CachingMockBytecodeGenerator", 
+"Methods" : [{ "Name" : "mockCachePerClassLoaderOf" ,
+"Duas" : 14,
+"0" :  "(38,(38,39), this)",
+"1" :  "(38,(38,44), this)",
+"2" :  "(38,44, this)",
+"3" :  "(38,40, this)",
+"4" :  "(38,39, this)",
+"5" :  "(38,(38,39), mockedType)",
+"6" :  "(38,(38,44), mockedType)",
+"7" :  "(38,44, mockedType)",
+"8" :  "(38,39, mockedType)",
+"9" :  "(38,(38,39), this.avoidingClassLeakageCache)",
+"10" :  "(38,(38,44), this.avoidingClassLeakageCache)",
+"11" :  "(38,44, this.avoidingClassLeakageCache)",
+"12" :  "(38,39, this.avoidingClassLeakageCache)",
+"13" :  "(38,40, this.mockBytecodeGenerator)"}]
+}

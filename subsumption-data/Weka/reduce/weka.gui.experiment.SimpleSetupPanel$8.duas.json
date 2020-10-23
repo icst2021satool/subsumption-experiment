@@ -1,0 +1,17 @@
+{
+"Class" : "weka.gui.experiment.SimpleSetupPanel$8", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Duas" : 12,
+"0" :  "(353,(353,354), this)",
+"1" :  "(353,(353,357), this)",
+"2" :  "(353,354, this)",
+"3" :  "(353,355, this)",
+"4" :  "(353,(353,354), this.this$0)",
+"5" :  "(353,(353,357), this.this$0)",
+"6" :  "(353,354, this.this$0)",
+"7" :  "(353,355, this.this$0)",
+"8" :  "(353,(353,354), this.m_Exp)",
+"9" :  "(353,(353,357), this.m_Exp)",
+"10" :  "(353,354, this.m_Exp)",
+"11" :  "(353,355, this.m_Support)"}]
+}

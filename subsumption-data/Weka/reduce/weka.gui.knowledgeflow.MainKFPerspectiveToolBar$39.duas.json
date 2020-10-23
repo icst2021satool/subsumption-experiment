@@ -1,0 +1,21 @@
+{
+"Class" : "weka.gui.knowledgeflow.MainKFPerspectiveToolBar$39", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Duas" : 16,
+"0" :  "(726,771, this)",
+"1" :  "(726,772, this)",
+"2" :  "(726,756, this)",
+"3" :  "(726,736, this)",
+"4" :  "(726,771, this.val$templatesB)",
+"5" :  "(726,772, this.val$templatesB)",
+"6" :  "(726,771, popupMenu)",
+"7" :  "(726,772, popupMenu)",
+"8" :  "(726,769, popupMenu)",
+"9" :  "(726,752, popupMenu)",
+"10" :  "(726,749, popupMenu)",
+"11" :  "(729,(751,751), builtinTemplates)",
+"12" :  "(729,(751,754), builtinTemplates)",
+"13" :  "(732,754, pluginTemplates)",
+"14" :  "(732,(751,752), pluginTemplates)",
+"15" :  "(732,(751,754), pluginTemplates)"}]
+}

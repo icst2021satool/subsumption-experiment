@@ -1,0 +1,12 @@
+{
+"Class" : "weka.gui.knowledgeflow.LayoutPanel$20", 
+"Methods" : [{ "Name" : "closing" ,
+"Duas" : 7,
+"0" :  "(1260,(1260,1261), this)",
+"1" :  "(1260,(1260,1263), this)",
+"2" :  "(1260,1261, this)",
+"3" :  "(1260,(1260,1261), this.val$toPopupC)",
+"4" :  "(1260,(1260,1263), this.val$toPopupC)",
+"5" :  "(1260,1261, this.this$0)",
+"6" :  "(1260,1261, this.m_visLayout)"}]
+}

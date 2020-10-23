@@ -1,0 +1,14 @@
+{
+"Class" : "weka.gui.beans.DataSetEvent", 
+"Methods" : [{ "Name" : "<init>" ,
+"Duas" : 9,
+"0" :  "(45,(47,47), this)",
+"1" :  "(45,(47,50), this)",
+"2" :  "(45,(47,48), this)",
+"3" :  "(45,(47,50), this)",
+"4" :  "(45,48, this)",
+"5" :  "(46,(47,47), this.m_dataSet)",
+"6" :  "(46,(47,50), this.m_dataSet)",
+"7" :  "(46,(47,48), this.m_dataSet)",
+"8" :  "(46,(47,50), this.m_dataSet)"}]
+}

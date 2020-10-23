@@ -1,0 +1,10 @@
+{
+"Class" : "java_cup.runtime.SyntaxTreeTransform$ChainRemover", 
+"Methods" : [{ "Name" : "defaultPost" ,
+"Duas" : "18" ,
+"Subsumers" : 3,
+"0" : [ 10, 5, 3, 0], "S0" : [0, 3, 5, 9, 10 ],
+"1" : [ 17, 15, 14, 7, 2], "S1" : [1, 2, 4, 6, 7, 8, 12, 13, 14, 15, 16, 17 ],
+"2" : [ 11], "S2" : [9, 11 ]
+}]
+}

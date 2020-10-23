@@ -1,0 +1,16 @@
+{
+"Class" : "com.sun.xml.bind.v2.runtime.reflect.TransducedAccessor$CompositeContextDependentTransducedAccessorImpl", 
+"Methods" : [{ "Name" : "<init>" ,
+"Duas" : 4,
+"0" :  "(161,(162,162), xducer)",
+"1" :  "(161,(162,163), xducer)",
+"2" :  "(161,(162,162), $assertionsDisabled)",
+"3" :  "(161,(162,163), $assertionsDisabled)"},{ "Name" : "declareNamespace" ,
+"Duas" : 6,
+"0" :  "(172,174, this)",
+"1" :  "(172,174, w)",
+"2" :  "(172,174, this.xducer)",
+"3" :  "(172,(173,174), o)",
+"4" :  "(172,(173,175), o)",
+"5" :  "(172,174, o)"}]
+}

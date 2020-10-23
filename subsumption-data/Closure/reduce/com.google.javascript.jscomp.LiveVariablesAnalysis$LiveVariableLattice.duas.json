@@ -1,0 +1,13 @@
+{
+"Class" : "com.google.javascript.jscomp.LiveVariablesAnalysis$LiveVariableLattice", 
+"Methods" : [{ "Name" : "equals" ,
+"Duas" : 8,
+"0" :  "(92,(93,93), this)",
+"1" :  "(92,(93,93), this)",
+"2" :  "(92,(93,93), other)",
+"3" :  "(92,(93,93), other)",
+"4" :  "(92,(93,93), other)",
+"5" :  "(92,(93,93), other)",
+"6" :  "(92,(93,93), this.liveSet)",
+"7" :  "(92,(93,93), this.liveSet)"}]
+}

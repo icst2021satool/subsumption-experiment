@@ -1,0 +1,20 @@
+{
+"Class" : "weka.core.pmml.jaxbbindings.TextModel", 
+"Methods" : [{ "Name" : "getContent" ,
+"Duas" : 8,
+"0" :  "(144,(144,145), this)",
+"1" :  "(144,(144,147), this)",
+"2" :  "(144,147, this)",
+"3" :  "(144,145, this)",
+"4" :  "(144,(144,145), this.content)",
+"5" :  "(144,(144,147), this.content)",
+"6" :  "(144,147, this.content)",
+"7" :  "(145,147, this.content)"},{ "Name" : "isIsScorable" ,
+"Duas" : 6,
+"0" :  "(207,(207,208), this)",
+"1" :  "(207,(207,210), this)",
+"2" :  "(207,210, this)",
+"3" :  "(207,(207,208), this.isScorable)",
+"4" :  "(207,(207,210), this.isScorable)",
+"5" :  "(207,210, this.isScorable)"}]
+}

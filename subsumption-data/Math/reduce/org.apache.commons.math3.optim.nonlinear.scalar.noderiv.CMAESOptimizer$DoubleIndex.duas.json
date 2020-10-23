@@ -1,0 +1,17 @@
+{
+"Class" : "org.apache.commons.math3.optim.nonlinear.scalar.noderiv.CMAESOptimizer$DoubleIndex", 
+"Methods" : [{ "Name" : "equals" ,
+"Duas" : 12,
+"0" :  "(854,(854,855), this)",
+"1" :  "(854,(854,858), this)",
+"2" :  "(854,(859,859), this)",
+"3" :  "(854,(859,859), this)",
+"4" :  "(854,(854,855), other)",
+"5" :  "(854,(854,858), other)",
+"6" :  "(854,(858,859), other)",
+"7" :  "(854,(858,862), other)",
+"8" :  "(854,(859,859), other)",
+"9" :  "(854,(859,859), other)",
+"10" :  "(854,(859,859), this.value)",
+"11" :  "(854,(859,859), this.value)"}]
+}

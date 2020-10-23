@@ -1,0 +1,29 @@
+{
+"Class" : "org.apache.commons.collections4.iterators.EntrySetMapIterator", 
+"Methods" : [{ "Name" : "remove" ,
+"Duas" : "8" ,
+"Subsumers" : 2,
+"0" : [ 5, 0], "S0" : [0, 5 ],
+"1" : [ 7, 6, 2, 3, 4, 1], "S1" : [1, 2, 3, 4, 6, 7 ]
+},{ "Name" : "getKey" ,
+"Duas" : "6" ,
+"Subsumers" : 2,
+"0" : [ 3, 0], "S0" : [0, 3 ],
+"1" : [ 5, 4, 2, 1], "S1" : [1, 2, 4, 5 ]
+},{ "Name" : "getValue" ,
+"Duas" : "6" ,
+"Subsumers" : 2,
+"0" : [ 3, 0], "S0" : [0, 3 ],
+"1" : [ 5, 4, 2, 1], "S1" : [1, 2, 4, 5 ]
+},{ "Name" : "setValue" ,
+"Duas" : "7" ,
+"Subsumers" : 2,
+"0" : [ 4, 0], "S0" : [0, 4 ],
+"1" : [ 6, 5, 3, 2, 1], "S1" : [1, 2, 3, 5, 6 ]
+},{ "Name" : "toString" ,
+"Duas" : "5" ,
+"Subsumers" : 2,
+"0" : [ 3, 2, 0], "S0" : [0, 2, 3 ],
+"1" : [ 4, 1], "S1" : [1, 4 ]
+}]
+}

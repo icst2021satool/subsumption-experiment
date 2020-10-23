@@ -1,0 +1,20 @@
+{
+"Class" : "weka.core.pmml.jaxbbindings.NumericPredictor", 
+"Methods" : [{ "Name" : "getExtension" ,
+"Duas" : 8,
+"0" :  "(93,(93,94), this)",
+"1" :  "(93,(93,96), this)",
+"2" :  "(93,96, this)",
+"3" :  "(93,94, this)",
+"4" :  "(93,(93,94), this.extension)",
+"5" :  "(93,(93,96), this.extension)",
+"6" :  "(93,96, this.extension)",
+"7" :  "(94,96, this.extension)"},{ "Name" : "getExponent" ,
+"Duas" : 6,
+"0" :  "(124,(124,125), this)",
+"1" :  "(124,(124,127), this)",
+"2" :  "(124,127, this)",
+"3" :  "(124,(124,125), this.exponent)",
+"4" :  "(124,(124,127), this.exponent)",
+"5" :  "(124,127, this.exponent)"}]
+}

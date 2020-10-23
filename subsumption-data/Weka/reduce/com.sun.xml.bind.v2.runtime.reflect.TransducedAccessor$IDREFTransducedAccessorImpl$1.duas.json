@@ -1,0 +1,17 @@
+{
+"Class" : "com.sun.xml.bind.v2.runtime.reflect.TransducedAccessor$IDREFTransducedAccessorImpl$1", 
+"Methods" : [{ "Name" : "run" ,
+"Duas" : 12,
+"0" :  "(298,302, this)",
+"1" :  "(298,300, this)",
+"2" :  "(298,302, this.val$context)",
+"3" :  "(298,300, this.val$context)",
+"4" :  "(298,302, this.val$bean)",
+"5" :  "(298,300, this.val$bean)",
+"6" :  "(298,300, this.val$idref)",
+"7" :  "(298,300, this.val$loc)",
+"8" :  "(298,302, this.this$0)",
+"9" :  "(298,(299,300), t)",
+"10" :  "(298,(299,302), t)",
+"11" :  "(298,302, t)"}]
+}

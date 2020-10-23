@@ -1,0 +1,14 @@
+{
+"Class" : "org.jfree.chart.junit.JFreeChartTests", 
+"Methods" : [{ "Name" : "suite" ,
+"Duas" : 4,
+"0" :  "(100,(100,100), class$org$jfree$chart$junit$JFreeChartTests)",
+"1" :  "(100,(100,100), class$org$jfree$chart$junit$JFreeChartTests)",
+"2" :  "(100,100, class$org$jfree$chart$junit$JFreeChartTests)",
+"3" :  "(100,100, class$org$jfree$chart$junit$JFreeChartTests)"},{ "Name" : "testSerialization1" ,
+"Duas" : 4,
+"0" :  "(298,(306,306), c2)",
+"1" :  "(298,(306,306), c2)",
+"2" :  "(305,(306,306), lt2)",
+"3" :  "(305,(306,306), lt2)"}]
+}

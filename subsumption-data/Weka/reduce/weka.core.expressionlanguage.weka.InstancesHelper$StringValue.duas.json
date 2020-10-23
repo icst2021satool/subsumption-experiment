@@ -1,0 +1,18 @@
+{
+"Class" : "weka.core.expressionlanguage.weka.InstancesHelper$StringValue", 
+"Methods" : [{ "Name" : "<init>" ,
+"Duas" : 6,
+"0" :  "(304,(306,306), index)",
+"1" :  "(304,(306,308), index)",
+"2" :  "(304,(307,306), index)",
+"3" :  "(304,(307,308), index)",
+"4" :  "(304,(306,306), $assertionsDisabled)",
+"5" :  "(304,(306,308), $assertionsDisabled)"},{ "Name" : "evaluate" ,
+"Duas" : 6,
+"0" :  "(312,(312,313), this)",
+"1" :  "(312,(312,316), this)",
+"2" :  "(312,316, this)",
+"3" :  "(312,313, this)",
+"4" :  "(312,316, this.this$0)",
+"5" :  "(312,313, this.this$0)"}]
+}

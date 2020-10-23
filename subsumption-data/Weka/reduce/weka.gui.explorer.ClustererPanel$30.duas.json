@@ -1,0 +1,18 @@
+{
+"Class" : "weka.gui.explorer.ClustererPanel$30", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Duas" : 13,
+"0" :  "(1424,(1424,1425), this)",
+"1" :  "(1424,(1424,1427), this)",
+"2" :  "(1424,1427, this)",
+"3" :  "(1424,1429, this)",
+"4" :  "(1424,1425, this)",
+"5" :  "(1424,(1424,1425), this.val$vp)",
+"6" :  "(1424,(1424,1427), this.val$vp)",
+"7" :  "(1424,1425, this.val$vp)",
+"8" :  "(1424,1427, this.val$selectedNames)",
+"9" :  "(1424,1429, this.this$0)",
+"10" :  "(1424,1429, this.val$grph)",
+"11" :  "(1425,1429, title)",
+"12" :  "(1427,1429, title)"}]
+}

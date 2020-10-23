@@ -1,0 +1,16 @@
+{
+"Class" : "org.apache.commons.math3.geometry.partitioning.RegionFactory$XorMerger", 
+"Methods" : [{ "Name" : "merge" ,
+"Duas" : 11,
+"0" :  "(198,201, this)",
+"1" :  "(198,(199,201), leaf)",
+"2" :  "(198,(199,203), leaf)",
+"3" :  "(198,203, parentTree)",
+"4" :  "(198,203, isPlusChild)",
+"5" :  "(198,201, this.this$0)",
+"6" :  "(198,203, t)",
+"7" :  "(198,204, t)",
+"8" :  "(198,201, t)",
+"9" :  "(201,203, t)",
+"10" :  "(201,204, t)"}]
+}

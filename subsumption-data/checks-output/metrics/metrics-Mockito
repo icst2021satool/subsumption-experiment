@@ -1,0 +1,1999 @@
+Nr.   Classes Functions      NCSS  Javadocs Package
+  1        20       243       634       225 org.mockito
+  2         3        12        33        10 org.mockito.configuration
+  3         4        79       232         1 org.mockito.exceptions
+  4         3        10        47         2 org.mockito.exceptions.base
+  5        11        13        68         0 org.mockito.exceptions.misusing
+  6         1         1         3         2 org.mockito.exceptions.stacktrace
+  7         8        10        54         1 org.mockito.exceptions.verification
+  8         2         6        26         0 org.mockito.exceptions.verification.junit
+  9         3        28       174         2 org.mockito.internal
+ 10        11        32       250        14 org.mockito.internal.configuration
+ 11         9        28       181        13 org.mockito.internal.configuration.injection
+ 12         7         9        62         3 org.mockito.internal.configuration.injection.filter
+ 13         2        10        65         8 org.mockito.internal.configuration.injection.scanner
+ 14         6        12       103         5 org.mockito.internal.configuration.plugins
+ 15         2        35       146         1 org.mockito.internal.creation
+ 16         5        11        61         1 org.mockito.internal.creation.instance
+ 17         1        17        70         1 org.mockito.internal.creation.settings
+ 18         2         7        35         1 org.mockito.internal.creation.util
+ 19         9        36       206         1 org.mockito.internal.debugging
+ 20         3         2        12         0 org.mockito.internal.exceptions
+ 21         4         4        59         3 org.mockito.internal.exceptions.stacktrace
+ 22         1         1        16         0 org.mockito.internal.exceptions.util
+ 23         4        22       150         4 org.mockito.internal.handler
+ 24        15        82       474         6 org.mockito.internal.invocation
+ 25         4         4        28         2 org.mockito.internal.invocation.finder
+ 26         3         6        29         1 org.mockito.internal.invocation.realmethod
+ 27         5         8        42         2 org.mockito.internal.junit
+ 28         4        12        53         3 org.mockito.internal.listeners
+ 29        33       113       561         0 org.mockito.internal.matchers
+ 30         2        31       273        29 org.mockito.internal.matchers.apachecommons
+ 31         8        69       234         2 org.mockito.internal.progress
+ 32         4        17        73         1 org.mockito.internal.reporting
+ 33         6        15        78         1 org.mockito.internal.runners
+ 34         3         5        49         0 org.mockito.internal.runners.util
+ 35         8        59       265         0 org.mockito.internal.stubbing
+ 36        11        47       254         5 org.mockito.internal.stubbing.answers
+ 37        12        31       284         7 org.mockito.internal.stubbing.defaultanswers
+ 38        14        49       260        10 org.mockito.internal.util
+ 39         9        41       153         4 org.mockito.internal.util.collections
+ 40         1         4        32         4 org.mockito.internal.util.io
+ 41         1         2        15         0 org.mockito.internal.util.junit
+ 42        32       123       671        61 org.mockito.internal.util.reflection
+ 43        16        55       351         4 org.mockito.internal.verification
+ 44         5        12        41         0 org.mockito.internal.verification.api
+ 45         1         3        23         1 org.mockito.internal.verification.argumentmatching
+ 46         8        20       205         0 org.mockito.internal.verification.checkers
+ 47         6        20        36        25 org.mockito.invocation
+ 48         3         4        20         6 org.mockito.junit
+ 49         2         6        13         8 org.mockito.listeners
+ 50         3        13        25        15 org.mockito.mock
+ 51         3         5        15         7 org.mockito.plugins
+ 52         6        19       102         4 org.mockito.runners
+ 53         5        23        40        26 org.mockito.stubbing
+ 54         1         1         5         1 org.mockito.stubbing.answers
+ 55         6        33        77        21 org.mockito.verification
+    --------- --------- --------- ---------
+          361      1560      7468       554 Total
+
+ Packages   Classes Functions      NCSS  Javadocs | per
+-------------------------------------------------------------
+    55.00    361.00   1560.00   7468.00    554.00 | Project
+               6.56     28.36    135.78     10.07 | Package
+                         4.32     20.69      1.53 | Class
+                                   4.79      0.36 | Function
+
+Nr. NCSS Functions Classes Javadocs Class
+  1    3         2       0        3 org.mockito.invocation.DescribedInvocation
+  2   11        10       0       11 org.mockito.invocation.Invocation
+  3    2         1       0        2 org.mockito.invocation.MockHandler
+  4    6         5       0        5 org.mockito.invocation.InvocationOnMock
+  5    2         1       0        2 org.mockito.invocation.StubInfo
+  6    2         1       0        2 org.mockito.invocation.Location
+  7    6         5       0        6 org.mockito.configuration.IMockitoConfiguration
+  8    3         2       0        3 org.mockito.configuration.AnnotationEngine
+  9   11         5       0        1 org.mockito.configuration.DefaultMockitoConfiguration
+ 10   12        11       0       12 org.mockito.MockSettings
+ 11    6         2       0        3 org.mockito.ArgumentMatcher
+ 12    7         3       0        0 org.mockito.Answers
+ 13    4         3       0        2 org.mockito.InOrder
+ 14   29         4       0        2 org.mockito.MockitoAnnotations
+ 15    3         1       0        2 org.mockito.junit.MockitoJUnit
+ 16    1         0       0        1 org.mockito.junit.MockitoRule
+ 17    8         3       0        3 org.mockito.junit.MockitoJUnitRule
+ 18    4         3       0        3 org.mockito.plugins.MockMaker
+ 19    2         1       0        2 org.mockito.plugins.StackTraceCleanerProvider
+ 20    2         1       0        2 org.mockito.plugins.PluginSwitch
+ 21   12        11       0       12 org.mockito.mock.MockCreationSettings
+ 22    3         2       0        3 org.mockito.mock.MockName
+ 23    1         0       0        0 org.mockito.mock.SerializableMode
+ 24   17         6       0        6 org.mockito.ArgumentCaptor
+ 25   23         2       0        1 org.mockito.internal.invocation.ArgumentsProcessor
+ 26   85        12       2        2 org.mockito.internal.invocation.InvocationsFinder
+ 27    6         2       0        0 org.mockito.internal.invocation.InvocationsFinder.RemoveNotMatching
+ 28    6         2       0        0 org.mockito.internal.invocation.InvocationsFinder.RemoveUnverifiedInOrder
+ 29   72        15       0        1 org.mockito.internal.invocation.InvocationMatcher
+ 30   11         3       0        0 org.mockito.internal.invocation.InvocationMarker
+ 31   13         2       0        0 org.mockito.internal.invocation.MatchersBinder
+ 32    7         2       0        0 org.mockito.internal.invocation.StubInfoImpl
+ 33    2         1       0        0 org.mockito.internal.invocation.CapturesArgumensFromInvocation
+ 34    7         1       1        1 org.mockito.internal.invocation.finder.VerifiableInvocationsFinder
+ 35    3         1       0        0 org.mockito.internal.invocation.finder.VerifiableInvocationsFinder.RemoveIgnoredForVerification
+ 36   11         1       1        1 org.mockito.internal.invocation.finder.AllInvocationsFinder
+ 37    3         1       0        0 org.mockito.internal.invocation.finder.AllInvocationsFinder.SequenceNumberComparator
+ 38   32         3       0        0 org.mockito.internal.invocation.ArgumentsComparator
+ 39   63        20       0        1 org.mockito.internal.invocation.InvocationImpl
+ 40   12         3       0        1 org.mockito.internal.invocation.realmethod.CleanTraceRealMethod
+ 41    2         1       0        0 org.mockito.internal.invocation.realmethod.RealMethod
+ 42    7         2       0        0 org.mockito.internal.invocation.realmethod.DefaultRealMethod
+ 43    7         6       0        0 org.mockito.internal.invocation.MockitoMethod
+ 44    2         1       0        0 org.mockito.internal.invocation.AbstractAwareMethod
+ 45   68        10       0        0 org.mockito.internal.invocation.SerializableMethod
+ 46   10         1       0        1 org.mockito.internal.invocation.UnusedStubsFinder
+ 47   31         8       0        1 org.mockito.internal.handler.InvocationNotifierHandler
+ 48   19         6       0        1 org.mockito.internal.handler.NullResultGuardian
+ 49    6         1       0        1 org.mockito.internal.handler.MockHandlerFactory
+ 50   50         7       0        1 org.mockito.internal.handler.MockHandlerImpl
+ 51   13         3       0        1 org.mockito.internal.reporting.SmartPrinter
+ 52   28         8       0        0 org.mockito.internal.reporting.PrintSettings
+ 53   14         5       0        0 org.mockito.internal.reporting.Discrepancy
+ 54    3         1       0        0 org.mockito.internal.reporting.Pluralizer
+ 55   31         6       1        1 org.mockito.internal.configuration.DefaultAnnotationEngine
+ 56    2         1       0        0 org.mockito.internal.configuration.DefaultAnnotationEngine.FieldAnnotationProcessor
+ 57   13         1       0        1 org.mockito.internal.configuration.MockAnnotationProcessor
+ 58    7         1       0        1 org.mockito.internal.configuration.CaptorAnnotationProcessor
+ 59   27         9       0        1 org.mockito.internal.configuration.GlobalConfiguration
+ 60    2         1       0        1 org.mockito.internal.configuration.FieldAnnotationProcessor
+ 61    3         1       0        1 org.mockito.internal.configuration.DefaultInjectionEngine
+ 62    6         2       0        3 org.mockito.internal.configuration.plugins.Plugins
+ 63    8         2       0        2 org.mockito.internal.configuration.plugins.PluginRegistry
+ 64    3         1       0        0 org.mockito.internal.configuration.plugins.DefaultPluginSwitch
+ 65   27         3       0        0 org.mockito.internal.configuration.plugins.PluginLoader
+ 66   12         2       0        0 org.mockito.internal.configuration.plugins.PluginFileReader
+ 67   19         2       0        0 org.mockito.internal.configuration.plugins.PluginFinder
+ 68   28         5       0        4 org.mockito.internal.configuration.InjectingAnnotationEngine
+ 69    3         1       0        1 org.mockito.internal.configuration.MockitoAnnotationsMockAnnotationProcessor
+ 70   49         5       0        1 org.mockito.internal.configuration.SpyAnnotationEngine
+ 71   32         2       1        4 org.mockito.internal.configuration.injection.MockInjection
+ 72   27         7       0        0 org.mockito.internal.configuration.injection.MockInjection.OngoingMockInjection
+ 73   28         3       1        2 org.mockito.internal.configuration.injection.ConstructorInjection
+ 74   14         3       0        0 org.mockito.internal.configuration.injection.ConstructorInjection.SimpleArgumentResolver
+ 75    2         1       0        0 org.mockito.internal.configuration.injection.filter.MockCandidateFilter
+ 76   13         2       0        0 org.mockito.internal.configuration.injection.filter.NameBasedCandidateFilter
+ 77   14         1       2        1 org.mockito.internal.configuration.injection.filter.FinalMockCandidateFilter
+ 78    6         1       0        0 org.mockito.internal.configuration.injection.filter.FinalMockCandidateFilter.OngoingInjecter
+ 79    2         1       0        0 org.mockito.internal.configuration.injection.filter.FinalMockCandidateFilter.OngoingInjecter
+ 80    2         1       0        2 org.mockito.internal.configuration.injection.filter.OngoingInjecter
+ 81   10         2       0        0 org.mockito.internal.configuration.injection.filter.TypeBasedCandidateFilter
+ 82   42         5       1        1 org.mockito.internal.configuration.injection.PropertyAndSetterInjection
+ 83    2         1       0        0 org.mockito.internal.configuration.injection.PropertyAndSetterInjection.ListUtil.Filter
+ 84   19         5       1        5 org.mockito.internal.configuration.injection.MockInjectionStrategy
+ 85    2         1       0        0 org.mockito.internal.configuration.injection.MockInjectionStrategy.MockInjectionStrategy
+ 86   29         6       0        4 org.mockito.internal.configuration.injection.scanner.MockScanner
+ 87   18         4       0        4 org.mockito.internal.configuration.injection.scanner.InjectMocksScanner
+ 88   12         1       0        1 org.mockito.internal.configuration.injection.SpyOnInjectedFieldsHandler
+ 89   12         1       0        2 org.mockito.internal.configuration.ClassPathLoader
+ 90    4         1       0        0 org.mockito.internal.progress.SequenceNumber
+ 91   13        12       0        1 org.mockito.internal.progress.MockingProgress
+ 92   53        11       0        0 org.mockito.internal.progress.ArgumentMatcherStorageImpl
+ 93   23        10       0        0 org.mockito.internal.progress.HandyReturnValues
+ 94   57        14       0        0 org.mockito.internal.progress.MockingProgressImpl
+ 95    1         0       0        1 org.mockito.internal.progress.IOngoingStubbing
+ 96   33        14       0        0 org.mockito.internal.progress.ThreadSafeMockingProgress
+ 97    8         7       0        0 org.mockito.internal.progress.ArgumentMatcherStorage
+ 98    3         1       0        1 org.mockito.internal.util.RemoveFirstLine
+ 99   38        10       0        0 org.mockito.internal.util.MockUtil
+100    3         1       0        0 org.mockito.internal.util.ConsoleMockitoLogger
+101   11         2       0        0 org.mockito.internal.util.junit.JUnitFailureHacker
+102   26         4       0        4 org.mockito.internal.util.io.IOUtil
+103   12         4       0        3 org.mockito.internal.util.DefaultMockingDetails
+104   27         6       0        0 org.mockito.internal.util.MockCreationValidator
+105   10         2       0        1 org.mockito.internal.util.Checks
+106   12         5       0        0 org.mockito.internal.util.ObjectMethodsGuru
+107   16         5       0        2 org.mockito.internal.util.Timer
+108    2         1       0        0 org.mockito.internal.util.MockitoLogger
+109   19         2       0        0 org.mockito.internal.util.Decamelizer
+110    6         2       0        0 org.mockito.internal.util.SimpleMockitoLogger
+111   11         4       0        0 org.mockito.internal.util.collections.Sets
+112    9         2       0        0 org.mockito.internal.util.collections.IdentitySet
+113    6         1       0        2 org.mockito.internal.util.collections.Iterables
+114    3         1       0        0 org.mockito.internal.util.collections.ArrayUtils
+115    9         1       1        0 org.mockito.internal.util.collections.ListUtil
+116    2         1       0        0 org.mockito.internal.util.collections.ListUtil.Filter
+117   22         7       0        1 org.mockito.internal.util.collections.HashCodeAndEqualsMockWrapper
+118   68        21       1        1 org.mockito.internal.util.collections.HashCodeAndEqualsSafeSet
+119    7         3       0        0 org.mockito.internal.util.collections.HashCodeAndEqualsSafeSet.Iterator
+120   37         3       0        3 org.mockito.internal.util.Primitives
+121    9         2       0        2 org.mockito.internal.util.reflection.AccessibilityChanger
+122  221        13       8       22 org.mockito.internal.util.reflection.GenericMetadataSupport
+123    3         2       0        0 org.mockito.internal.util.reflection.GenericMetadataSupport.BoundedType
+124   19         4       0        0 org.mockito.internal.util.reflection.GenericMetadataSupport.FromClassGenericMetadataSupport
+125   10         3       0        0 org.mockito.internal.util.reflection.GenericMetadataSupport.FromParameterizedTypeGenericMetadataSupport
+126    6         2       0        0 org.mockito.internal.util.reflection.GenericMetadataSupport.NotGenericReturnTypeSupport
+127   15         4       0        0 org.mockito.internal.util.reflection.GenericMetadataSupport.ParameterizedReturnType
+128   22         7       0        2 org.mockito.internal.util.reflection.GenericMetadataSupport.TypeVarBoundedType
+129   57         8       0        1 org.mockito.internal.util.reflection.GenericMetadataSupport.TypeVariableReturnType
+130   22         7       0        2 org.mockito.internal.util.reflection.GenericMetadataSupport.WildCardBoundedType
+131   22         4       0        0 org.mockito.internal.util.reflection.LenientCopyTool
+132   15         2       0        0 org.mockito.internal.util.reflection.FieldSetter
+133   14         3       0        0 org.mockito.internal.util.reflection.FieldReader
+134   50         5       3        5 org.mockito.internal.util.reflection.Fields
+135    6         1       0        0 org.mockito.internal.util.reflection.Fields.Filter
+136    2         1       0        0 org.mockito.internal.util.reflection.Fields.Filter
+137   22         6       0        0 org.mockito.internal.util.reflection.Fields.InstanceFields
+138   22         1       1        2 org.mockito.internal.util.reflection.SuperTypesLastSorter
+139    2         1       0        0 org.mockito.internal.util.reflection.SuperTypesLastSorter.Comparator
+140    4         1       0        0 org.mockito.internal.util.reflection.FieldCopier
+141   16         5       0        5 org.mockito.internal.util.reflection.FieldInitializationReport
+142  124         9       4        9 org.mockito.internal.util.reflection.FieldInitializer
+143    2         1       0        1 org.mockito.internal.util.reflection.FieldInitializer.ConstructorArgumentResolver
+144    2         1       0        0 org.mockito.internal.util.reflection.FieldInitializer.ConstructorInstantiator
+145   26         2       0        1 org.mockito.internal.util.reflection.FieldInitializer.NoArgConstructorInstantiator
+146   52         4       1        1 org.mockito.internal.util.reflection.FieldInitializer.ParameterizedConstructorInstantiator
+147   13         2       0        0 org.mockito.internal.util.reflection.FieldInitializer.ParameterizedConstructorInstantiator.Comparator
+148    5         1       0        1 org.mockito.internal.util.reflection.Constructors
+149   11         1       0        1 org.mockito.internal.util.reflection.GenericMaster
+150   27         4       0        0 org.mockito.internal.util.reflection.Whitebox
+151   36        11       0        9 org.mockito.internal.util.reflection.InstanceField
+152   34         5       0        5 org.mockito.internal.util.reflection.BeanPropertySetter
+153   21         5       0        0 org.mockito.internal.util.MockNameImpl
+154    9         2       0        0 org.mockito.internal.util.StringJoiner
+155    9         2       0        0 org.mockito.internal.junit.JUnitDetecter
+156    6         2       0        0 org.mockito.internal.junit.JUnitTool
+157    7         1       1        1 org.mockito.internal.junit.JUnitRule
+158    4         1       0        0 org.mockito.internal.junit.JUnitRule.Statement
+159   12         2       0        1 org.mockito.internal.junit.FriendlyExceptionMaker
+160   29         3       0        0 org.mockito.internal.debugging.MockitoDebuggerImpl
+161   16         5       0        0 org.mockito.internal.debugging.WarningsPrinterImpl
+162   23         2       0        0 org.mockito.internal.debugging.WarningsFinder
+163   14         3       0        0 org.mockito.internal.debugging.LocationImpl
+164   10         3       0        0 org.mockito.internal.debugging.Localized
+165   12         2       0        0 org.mockito.internal.debugging.WarningsCollector
+166    4         3       0        0 org.mockito.internal.debugging.FindingsListener
+167   33         9       0        1 org.mockito.internal.debugging.VerboseMockInvocationLogger
+168   17         6       0        0 org.mockito.internal.debugging.LoggingListener
+169    2         1       0        0 org.mockito.internal.exceptions.VerificationAwareInvocation
+170   13         1       0        0 org.mockito.internal.exceptions.util.ScenarioPrinter
+171    2         0       0        0 org.mockito.internal.exceptions.MockitoLimitations
+172   22         1       0        1 org.mockito.internal.exceptions.stacktrace.StackTraceFilter
+173    3         1       0        1 org.mockito.internal.exceptions.stacktrace.DefaultStackTraceCleanerProvider
+174    9         1       0        0 org.mockito.internal.exceptions.stacktrace.ConditionalStackTraceFilter
+175    8         1       0        1 org.mockito.internal.exceptions.stacktrace.DefaultStackTraceCleaner
+176    4         1       0        0 org.mockito.internal.exceptions.ExceptionIncludingMockitoWarnings
+177   93        17       0        1 org.mockito.internal.MockitoCore
+178   17         4       0        0 org.mockito.internal.verification.Calls
+179   17         4       0        0 org.mockito.internal.verification.VerificationDataImpl
+180   25         3       0        0 org.mockito.internal.verification.checkers.MissingInvocationInOrderChecker
+181   11         1       0        0 org.mockito.internal.verification.checkers.AtLeastXNumberOfInvocationsChecker
+182    5         2       0        0 org.mockito.internal.verification.checkers.AtLeastDiscrepancy
+183   14         2       0        0 org.mockito.internal.verification.checkers.AtLeastXNumberOfInvocationsInOrderChecker
+184   24         3       0        0 org.mockito.internal.verification.checkers.NumberOfInvocationsChecker
+185   21         3       0        0 org.mockito.internal.verification.checkers.NonGreedyNumberOfInvocationsInOrderChecker
+186   19         3       0        0 org.mockito.internal.verification.checkers.MissingInvocationChecker
+187   20         3       0        0 org.mockito.internal.verification.checkers.NumberOfInvocationsInOrderChecker
+188    5         4       0        0 org.mockito.internal.verification.RegisteredInvocations
+189   10         2       0        0 org.mockito.internal.verification.NoMoreInteractions
+190   22         4       0        0 org.mockito.internal.verification.AtLeast
+191   21         4       1        0 org.mockito.internal.verification.DefaultRegisteredInvocations
+192    3         1       0        0 org.mockito.internal.verification.DefaultRegisteredInvocations.RemoveToString
+193   41         7       0        4 org.mockito.internal.verification.VerificationOverTimeImpl
+194   16         2       0        0 org.mockito.internal.verification.AtMost
+195   15         7       0        0 org.mockito.internal.verification.VerificationModeFactory
+196   10         3       0        0 org.mockito.internal.verification.MockAwareVerificationMode
+197    6         2       0        0 org.mockito.internal.verification.InOrderContextImpl
+198   17         3       0        1 org.mockito.internal.verification.argumentmatching.ArgumentMatchingTool
+199   10         2       0        0 org.mockito.internal.verification.InOrderWrapper
+200    2         1       0        0 org.mockito.internal.verification.api.VerificationInOrderMode
+201    3         2       0        0 org.mockito.internal.verification.api.VerificationData
+202   14         4       0        0 org.mockito.internal.verification.api.VerificationDataInOrderImpl
+203    4         3       0        0 org.mockito.internal.verification.api.VerificationDataInOrder
+204    3         2       0        0 org.mockito.internal.verification.api.InOrderContext
+205   22         4       0        0 org.mockito.internal.verification.Times
+206   10         4       0        0 org.mockito.internal.verification.SingleRegisteredInvocation
+207   15         1       0        0 org.mockito.internal.verification.Only
+208   29        10       0        1 org.mockito.internal.creation.DelegatingMethod
+209   59        17       0        1 org.mockito.internal.creation.settings.CreationSettings
+210   96        25       0        0 org.mockito.internal.creation.MockSettingsImpl
+211   28         6       0        1 org.mockito.internal.creation.util.SearchingClassLoader
+212    2         1       0        0 org.mockito.internal.creation.util.MockitoMethodProxy
+213    2         1       0        1 org.mockito.internal.creation.instance.Instantiator
+214   33         7       0        0 org.mockito.internal.creation.instance.ConstructorInstantiator
+215    3         1       0        0 org.mockito.internal.creation.instance.InstantiationException
+216    4         1       0        0 org.mockito.internal.creation.instance.ObjenesisInstantiator
+217    7         1       0        0 org.mockito.internal.creation.instance.InstantiatorProvider
+218    3         2       0        1 org.mockito.internal.runners.RunnerImpl
+219   20         2       0        0 org.mockito.internal.runners.util.RunnerProvider
+220    9         2       0        0 org.mockito.internal.runners.util.FrameworkUsageValidator
+221    7         1       0        0 org.mockito.internal.runners.util.TestMethodsFinder
+222   15         4       1        0 org.mockito.internal.runners.JUnit44RunnerImpl
+223    4         1       0        0 org.mockito.internal.runners.JUnit44RunnerImpl.JUnit4ClassRunner
+224   17         3       0        0 org.mockito.internal.runners.RunnerFactory
+225   14         4       1        0 org.mockito.internal.runners.JUnit45AndHigherRunnerImpl
+226    3         1       0        0 org.mockito.internal.runners.JUnit45AndHigherRunnerImpl.BlockJUnit4ClassRunner
+227   66        19       0        0 org.mockito.internal.stubbing.InvocationContainerImpl
+228   14         3       0        0 org.mockito.internal.stubbing.answers.ThrowsException
+229   30        10       0        1 org.mockito.internal.stubbing.answers.MethodInfo
+230   11         2       0        1 org.mockito.internal.stubbing.answers.ReturnsElementsOf
+231    6         1       0        1 org.mockito.internal.stubbing.answers.CallsRealMethods
+232   43        11       0        2 org.mockito.internal.stubbing.answers.ReturnsArgumentAt
+233   12         3       0        0 org.mockito.internal.stubbing.answers.ThrowsExceptionClass
+234   45         7       0        0 org.mockito.internal.stubbing.answers.AnswersValidator
+235    7         2       0        0 org.mockito.internal.stubbing.answers.AnswerReturnValuesAdapter
+236    4         1       0        0 org.mockito.internal.stubbing.answers.DoesNothing
+237   15         6       0        0 org.mockito.internal.stubbing.answers.Returns
+238    9         1       0        0 org.mockito.internal.stubbing.answers.ClonesArguments
+239   17         5       0        0 org.mockito.internal.stubbing.VoidMethodStubbableImpl
+240   20         6       0        0 org.mockito.internal.stubbing.StubbedInvocationMatcher
+241   18         6       0        0 org.mockito.internal.stubbing.OngoingStubbingImpl
+242    3         2       0        0 org.mockito.internal.stubbing.InvocationContainer
+243   14         5       0        0 org.mockito.internal.stubbing.ConsecutiveStubbing
+244   24         4       0        1 org.mockito.internal.stubbing.defaultanswers.ForwardsInvocations
+245    4         1       0        1 org.mockito.internal.stubbing.defaultanswers.GloballyConfiguredAnswer
+246   23         1       1        1 org.mockito.internal.stubbing.defaultanswers.ReturnsSmartNulls
+247   11         2       0        0 org.mockito.internal.stubbing.defaultanswers.ReturnsSmartNulls.ThrowsSmartNullPointer
+248    5         2       0        0 org.mockito.internal.stubbing.defaultanswers.Answers
+249   52        10       3        2 org.mockito.internal.stubbing.defaultanswers.ReturnsDeepStubs
+250    6         2       0        0 org.mockito.internal.stubbing.defaultanswers.ReturnsDeepStubs.DeeplyStubbedAnswer
+251    3         0       0        0 org.mockito.internal.stubbing.defaultanswers.ReturnsDeepStubs.LazyHolder
+252    8         3       0        0 org.mockito.internal.stubbing.defaultanswers.ReturnsDeepStubs.ReturnsDeepStubsSerializationFallback
+253   17         2       0        1 org.mockito.internal.stubbing.defaultanswers.ReturnsMoreEmptyValues
+254   66         2       0        1 org.mockito.internal.stubbing.defaultanswers.ReturnsEmptyValues
+255   13         2       0        0 org.mockito.internal.stubbing.defaultanswers.ReturnsMocks
+256   30         7       0        0 org.mockito.internal.stubbing.StubberImpl
+257   40         9       0        0 org.mockito.internal.stubbing.BaseStubbing
+258   24         7       0        1 org.mockito.internal.InOrderImpl
+259    8         3       0        0 org.mockito.internal.matchers.LessThan
+260    2         1       0        0 org.mockito.internal.matchers.MatcherDecorator
+261    9         3       0        0 org.mockito.internal.matchers.Contains
+262    8         3       0        0 org.mockito.internal.matchers.Any
+263   29         6       0        0 org.mockito.internal.matchers.VarargCapturingMatcher
+264   12         5       0        0 org.mockito.internal.matchers.CompareTo
+265    9         3       0        0 org.mockito.internal.matchers.EndsWith
+266    9         3       0        0 org.mockito.internal.matchers.Matches
+267    1         0       0        0 org.mockito.internal.matchers.VarargMatcher
+268   28        10       0        0 org.mockito.internal.matchers.LocalizedMatcher
+269   55         5       0        0 org.mockito.internal.matchers.ArrayEquals
+270    2         1       0        0 org.mockito.internal.matchers.CapturesArguments
+271   17         5       0        0 org.mockito.internal.matchers.CapturingMatcher
+272    8         3       0        0 org.mockito.internal.matchers.Null
+273   23         5       0        0 org.mockito.internal.matchers.Equality
+274    9         3       0        0 org.mockito.internal.matchers.Find
+275    8         3       0        0 org.mockito.internal.matchers.LessOrEqual
+276    9         3       0        0 org.mockito.internal.matchers.InstanceOf
+277    8         3       0        0 org.mockito.internal.matchers.CompareEqual
+278   17         3       0        0 org.mockito.internal.matchers.And
+279   19         4       0        0 org.mockito.internal.matchers.Same
+280    8         3       0        0 org.mockito.internal.matchers.GreaterOrEqual
+281   11         3       0        0 org.mockito.internal.matchers.apachecommons.ReflectionEquals
+282  251        28       0       29 org.mockito.internal.matchers.apachecommons.EqualsBuilder
+283   34        10       1        0 org.mockito.internal.matchers.Equals
+284    2         1       0        0 org.mockito.internal.matchers.Equals.SelfDescribing
+285   16         3       0        0 org.mockito.internal.matchers.EqualsWithDelta
+286   11         3       0        0 org.mockito.internal.matchers.Not
+287    8         3       0        0 org.mockito.internal.matchers.GreaterThan
+288    9         3       0        0 org.mockito.internal.matchers.StartsWith
+289    8         3       0        0 org.mockito.internal.matchers.NotNull
+290    3         2       0        0 org.mockito.internal.matchers.ContainsExtraTypeInformation
+291   17         3       0        0 org.mockito.internal.matchers.Or
+292    5         1       0        0 org.mockito.internal.matchers.AnyVararg
+293   19         3       0        0 org.mockito.internal.matchers.MatchersPrinter
+294    2         1       0        0 org.mockito.internal.listeners.MockingStartedListener
+295    6         2       0        0 org.mockito.internal.listeners.CollectCreatedMocks
+296   34         9       0        3 org.mockito.internal.listeners.NotifiedMethodInvocationReport
+297    1         0       0        0 org.mockito.internal.listeners.MockingProgressListener
+298    5         4       0        0 org.mockito.internal.InternalMockHandler
+299    3         2       0        0 org.mockito.exceptions.PrintableInvocation
+300    3         1       0        0 org.mockito.exceptions.misusing.CannotStubVoidMethodWithReturnValue
+301    4         1       0        0 org.mockito.exceptions.misusing.UnfinishedStubbingException
+302    4         1       0        0 org.mockito.exceptions.misusing.NullInsteadOfMockException
+303    4         1       0        0 org.mockito.exceptions.misusing.WrongTypeOfReturnValue
+304    3         1       0        0 org.mockito.exceptions.misusing.CannotVerifyStubOnlyMock
+305    4         1       0        0 org.mockito.exceptions.misusing.UnfinishedVerificationException
+306    6         2       0        0 org.mockito.exceptions.misusing.InvalidUseOfMatchersException
+307    4         1       0        0 org.mockito.exceptions.misusing.FriendlyReminderException
+308    4         1       0        0 org.mockito.exceptions.misusing.MissingMethodInvocationException
+309    4         1       0        0 org.mockito.exceptions.misusing.NotAMockException
+310    6         2       0        0 org.mockito.exceptions.misusing.MockitoConfigurationException
+311    3         1       0        0 org.mockito.exceptions.Discrepancy
+312    4         1       0        0 org.mockito.exceptions.verification.TooManyActualInvocations
+313    4         1       0        0 org.mockito.exceptions.verification.TooLittleActualInvocations
+314    6         2       0        0 org.mockito.exceptions.verification.WantedButNotInvoked
+315    5         2       0        0 org.mockito.exceptions.verification.junit.JUnitTool
+316   16         4       0        0 org.mockito.exceptions.verification.junit.ArgumentsAreDifferent
+317    4         1       0        0 org.mockito.exceptions.verification.NeverWantedButInvoked
+318    4         1       0        0 org.mockito.exceptions.verification.SmartNullPointerException
+319    4         1       0        0 org.mockito.exceptions.verification.VerificationInOrderFailure
+320    4         1       0        1 org.mockito.exceptions.verification.NoInteractionsWanted
+321    6         2       0        0 org.mockito.exceptions.verification.ArgumentsAreDifferent
+322    1         0       0        0 org.mockito.exceptions.Pluralizer
+323  187        76       0        1 org.mockito.exceptions.Reporter
+324    2         1       0        2 org.mockito.exceptions.stacktrace.StackTraceCleaner
+325   10         2       0        0 org.mockito.exceptions.base.MockitoAssertionError
+326   15         4       0        1 org.mockito.exceptions.base.MockitoException
+327   15         4       0        1 org.mockito.exceptions.base.MockitoSerializationIssue
+328  108        53       0       53 org.mockito.Matchers
+329   83         8       6       28 org.mockito.BDDMockito
+330    9         8       0        7 org.mockito.BDDMockito.BDDMyOngoingStubbing
+331   20         9       0        0 org.mockito.BDDMockito.BDDOngoingStubbingImpl
+332    8         7       0        6 org.mockito.BDDMockito.BDDStubber
+333   18         8       0        0 org.mockito.BDDMockito.BDDStubberImpl
+334    3         2       0        2 org.mockito.BDDMockito.Then
+335    8         3       0        2 org.mockito.BDDMockito.ThenImpl
+336   19         9       0        0 org.mockito.verification.VerificationWrapper
+337    2         1       0        1 org.mockito.verification.VerificationMode
+338   17         7       0        4 org.mockito.verification.Timeout
+339    7         6       0        7 org.mockito.verification.VerificationWithTimeout
+340    9         4       0        2 org.mockito.verification.After
+341    7         6       0        7 org.mockito.verification.VerificationAfterDelay
+342   16         6       0        7 org.mockito.AdditionalAnswers
+343    2         1       0        0 org.mockito.MockitoDebugger
+344  140        69       0       69 org.mockito.AdditionalMatchers
+345   79        36       0       37 org.mockito.Mockito
+346   21         5       1        1 org.mockito.runners.ConsoleSpammingMockitoJUnitRunner
+347    5         2       0        0 org.mockito.runners.ConsoleSpammingMockitoJUnitRunner.RunListener
+348   20         5       1        1 org.mockito.runners.VerboseMockitoJUnitRunner
+349    6         2       0        0 org.mockito.runners.VerboseMockitoJUnitRunner.RunListener
+350    3         1       0        1 org.mockito.runners.MockitoJUnit44Runner
+351   10         4       0        1 org.mockito.runners.MockitoJUnitRunner
+352    2         1       0        2 org.mockito.stubbing.Answer
+353    3         1       0        1 org.mockito.stubbing.answers.ReturnsElementsOf
+354    9         8       0        8 org.mockito.stubbing.OngoingStubbing
+355    8         7       0        7 org.mockito.stubbing.Stubber
+356    4         3       0        4 org.mockito.stubbing.DeprecatedOngoingStubbing
+357    5         4       0        5 org.mockito.stubbing.VoidMethodStubbable
+358    4         3       0        4 org.mockito.MockingDetails
+359    6         5       0        6 org.mockito.listeners.MethodInvocationReport
+360    2         1       0        2 org.mockito.listeners.InvocationListener
+361    2         1       0        2 org.mockito.ReturnValues
+Average Object NCSS:                 17.46
+Average Object Functions:             4.32
+Average Object Inner Classes:         0.13
+Average Object Javadoc Comments:      1.60
+Program NCSS:                     7,468.00
+
+ Nr. NCSS CCN JVDC Function
+   1    1   1    1 org.mockito.invocation.DescribedInvocation.toString()
+   2    1   1    1 org.mockito.invocation.DescribedInvocation.getLocation()
+   3    1   1    1 org.mockito.invocation.Invocation.isVerified()
+   4    1   1    1 org.mockito.invocation.Invocation.getSequenceNumber()
+   5    1   1    1 org.mockito.invocation.Invocation.getLocation()
+   6    1   1    1 org.mockito.invocation.Invocation.getRawArguments()
+   7    1   1    1 org.mockito.invocation.Invocation.getRawReturnType()
+   8    1   1    1 org.mockito.invocation.Invocation.markVerified()
+   9    1   1    1 org.mockito.invocation.Invocation.stubInfo()
+  10    1   1    1 org.mockito.invocation.Invocation.markStubbed(StubInfo)
+  11    1   1    1 org.mockito.invocation.Invocation.isIgnoredForVerification()
+  12    1   1    1 org.mockito.invocation.Invocation.ignoreForVerification()
+  13    1   1    1 org.mockito.invocation.MockHandler.handle(Invocation)
+  14    1   1    1 org.mockito.invocation.InvocationOnMock.getMock()
+  15    1   1    1 org.mockito.invocation.InvocationOnMock.getMethod()
+  16    1   1    1 org.mockito.invocation.InvocationOnMock.getArguments()
+  17    1   1    0 org.mockito.invocation.InvocationOnMock.getArgumentAt(int,T)
+  18    1   1    1 org.mockito.invocation.InvocationOnMock.callRealMethod()
+  19    1   1    1 org.mockito.invocation.StubInfo.stubbedAt()
+  20    1   1    1 org.mockito.invocation.Location.toString()
+  21    1   1    1 org.mockito.configuration.IMockitoConfiguration.getReturnValues()
+  22    1   1    1 org.mockito.configuration.IMockitoConfiguration.getDefaultAnswer()
+  23    1   1    1 org.mockito.configuration.IMockitoConfiguration.getAnnotationEngine()
+  24    1   1    1 org.mockito.configuration.IMockitoConfiguration.cleansStackTrace()
+  25    1   1    1 org.mockito.configuration.IMockitoConfiguration.enableClassCache()
+  26    1   1    1 org.mockito.configuration.AnnotationEngine.createMockFor(Annotation,Field)
+  27    1   1    1 org.mockito.configuration.AnnotationEngine.process(Class,Object)
+  28    2   2    0 org.mockito.configuration.DefaultMockitoConfiguration.getReturnValues()
+  29    2   1    0 org.mockito.configuration.DefaultMockitoConfiguration.getDefaultAnswer()
+  30    2   1    0 org.mockito.configuration.DefaultMockitoConfiguration.getAnnotationEngine()
+  31    2   1    0 org.mockito.configuration.DefaultMockitoConfiguration.cleansStackTrace()
+  32    2   1    0 org.mockito.configuration.DefaultMockitoConfiguration.enableClassCache()
+  33    1   1    1 org.mockito.MockSettings.extraInterfaces(Class)
+  34    1   1    1 org.mockito.MockSettings.name(String)
+  35    1   1    1 org.mockito.MockSettings.spiedInstance(Object)
+  36    1   1    1 org.mockito.MockSettings.defaultAnswer(Answer)
+  37    1   1    1 org.mockito.MockSettings.serializable()
+  38    1   1    1 org.mockito.MockSettings.serializable(SerializableMode)
+  39    1   1    1 org.mockito.MockSettings.verboseLogging()
+  40    1   1    1 org.mockito.MockSettings.invocationListeners(InvocationListener)
+  41    1   1    1 org.mockito.MockSettings.stubOnly()
+  42    1   1    1 org.mockito.MockSettings.useConstructor()
+  43    1   1    1 org.mockito.MockSettings.outerInstance(Object)
+  44    1   1    1 org.mockito.ArgumentMatcher.matches(Object)
+  45    3   1    1 org.mockito.ArgumentMatcher.describeTo(Description)
+  46    2   1    0 org.mockito.Answers.Answers(Object)
+  47    2   1    0 org.mockito.Answers.get()
+  48    2   1    0 org.mockito.Answers.answer(InvocationOnMock)
+  49    1   1    0 org.mockito.InOrder.verify(T)
+  50    1   1    0 org.mockito.InOrder.verify(T,VerificationMode)
+  51    1   1    1 org.mockito.InOrder.verifyNoMoreInteractions()
+  52   10   5    1 org.mockito.MockitoAnnotations.initMocks(Object)
+  53    4   2    0 org.mockito.MockitoAnnotations.scanDeprecatedWay(AnnotationEngine,Object,Class)
+  54   10   5    0 org.mockito.MockitoAnnotations.processAnnotationDeprecatedWay(AnnotationEngine,Object,Field)
+  55    3   2    0 org.mockito.MockitoAnnotations.throwIfAlreadyAssigned(Field,boolean)
+  56    2   1    1 org.mockito.junit.MockitoJUnit.rule()
+  57    2   1    1 org.mockito.junit.MockitoJUnitRule.MockitoJUnitRule()
+  58    2   1    1 org.mockito.junit.MockitoJUnitRule.MockitoJUnitRule(Object)
+  59    2   1    0 org.mockito.junit.MockitoJUnitRule.apply(Statement,FrameworkMethod,Object)
+  60    1   1    0 org.mockito.plugins.MockMaker.createMock(T,MockHandler)
+  61    1   1    1 org.mockito.plugins.MockMaker.getHandler(Object)
+  62    1   1    1 org.mockito.plugins.MockMaker.resetMock(Object,MockHandler,MockCreationSettings)
+  63    1   1    1 org.mockito.plugins.StackTraceCleanerProvider.getStackTraceCleaner(StackTraceCleaner)
+  64    1   1    1 org.mockito.plugins.PluginSwitch.isEnabled(String)
+  65    1   1    1 org.mockito.mock.MockCreationSettings.getTypeToMock()
+  66    1   1    1 org.mockito.mock.MockCreationSettings.getExtraInterfaces()
+  67    1   1    1 org.mockito.mock.MockCreationSettings.getMockName()
+  68    1   1    1 org.mockito.mock.MockCreationSettings.getDefaultAnswer()
+  69    1   1    1 org.mockito.mock.MockCreationSettings.getSpiedInstance()
+  70    1   1    1 org.mockito.mock.MockCreationSettings.isSerializable()
+  71    1   1    1 org.mockito.mock.MockCreationSettings.getSerializableMode()
+  72    1   1    1 org.mockito.mock.MockCreationSettings.isStubOnly()
+  73    1   1    1 org.mockito.mock.MockCreationSettings.getInvocationListeners()
+  74    1   1    1 org.mockito.mock.MockCreationSettings.isUsingConstructor()
+  75    1   1    1 org.mockito.mock.MockCreationSettings.getOuterClassInstance()
+  76    1   1    1 org.mockito.mock.MockName.toString()
+  77    1   1    1 org.mockito.mock.MockName.isDefault()
+  78    2   1    1 org.mockito.ArgumentCaptor.ArgumentCaptor()
+  79    2   1    0 org.mockito.ArgumentCaptor.ArgumentCaptor(T)
+  80    3   1    1 org.mockito.ArgumentCaptor.capture()
+  81    2   1    1 org.mockito.ArgumentCaptor.getValue()
+  82    2   1    1 org.mockito.ArgumentCaptor.getAllValues()
+  83    2   1    1 org.mockito.ArgumentCaptor.forClass(S)
+  84   14   8    0 org.mockito.internal.invocation.ArgumentsProcessor.expandVarArgs(boolean,Object[])
+  85    8   4    0 org.mockito.internal.invocation.ArgumentsProcessor.argumentsToMatchers(Object[])
+  86    2   1    0 org.mockito.internal.invocation.InvocationsFinder.findInvocations(Invocation,InvocationMatcher)
+  87    3   1    0 org.mockito.internal.invocation.InvocationsFinder.findAllMatchingUnverifiedChunks(Invocation,InvocationMatcher,InOrderContext)
+  88    7   3    1 org.mockito.internal.invocation.InvocationsFinder.findMatchingChunk(Invocation,InvocationMatcher,int,InOrderContext)
+  89    9   4    0 org.mockito.internal.invocation.InvocationsFinder.getFirstMatchingChunk(InvocationMatcher,Invocation)
+  90    5   4    0 org.mockito.internal.invocation.InvocationsFinder.findFirstMatchingUnverifiedInvocation(Invocation,InvocationMatcher,InOrderContext)
+  91   10   6    0 org.mockito.internal.invocation.InvocationsFinder.findSimilarInvocation(Invocation,InvocationMatcher)
+  92    2   1    0 org.mockito.internal.invocation.InvocationsFinder.findFirstUnverified(Invocation)
+  93    6   6    0 org.mockito.internal.invocation.InvocationsFinder.findFirstUnverified(Invocation,Object)
+  94    6   3    0 org.mockito.internal.invocation.InvocationsFinder.getLastLocation(Invocation)
+  95    6   3    0 org.mockito.internal.invocation.InvocationsFinder.findPreviousVerifiedInOrder(Invocation,InOrderContext)
+  96    8   3    0 org.mockito.internal.invocation.InvocationsFinder.removeVerifiedInOrder(Invocation,InOrderContext)
+  97    2   1    0 org.mockito.internal.invocation.InvocationsFinder.RemoveNotMatching.RemoveNotMatching(InvocationMatcher)
+  98    2   1    0 org.mockito.internal.invocation.InvocationsFinder.RemoveNotMatching.isOut(Invocation)
+  99    2   1    0 org.mockito.internal.invocation.InvocationsFinder.RemoveUnverifiedInOrder.RemoveUnverifiedInOrder(InOrderContext)
+ 100    2   1    0 org.mockito.internal.invocation.InvocationsFinder.RemoveUnverifiedInOrder.isOut(Invocation)
+ 101    8   4    1 org.mockito.internal.invocation.InvocationsFinder.findFirstUnverifiedInOrder(InOrderContext,Invocation)
+ 102    6   2    0 org.mockito.internal.invocation.InvocationMatcher.InvocationMatcher(Invocation,Matcher)
+ 103    2   1    0 org.mockito.internal.invocation.InvocationMatcher.InvocationMatcher(Invocation)
+ 104    2   1    0 org.mockito.internal.invocation.InvocationMatcher.getMethod()
+ 105    2   1    0 org.mockito.internal.invocation.InvocationMatcher.getInvocation()
+ 106    2   1    0 org.mockito.internal.invocation.InvocationMatcher.getMatchers()
+ 107    2   1    0 org.mockito.internal.invocation.InvocationMatcher.toString()
+ 108    2   3    0 org.mockito.internal.invocation.InvocationMatcher.matches(Invocation)
+ 109    4   3    0 org.mockito.internal.invocation.InvocationMatcher.safelyArgumentsMatch(Object[])
+ 110   11   6    1 org.mockito.internal.invocation.InvocationMatcher.hasSimilarMethod(Invocation)
+ 111   12   8    0 org.mockito.internal.invocation.InvocationMatcher.hasSameMethod(Invocation)
+ 112    2   1    0 org.mockito.internal.invocation.InvocationMatcher.getLocation()
+ 113    9   5    0 org.mockito.internal.invocation.InvocationMatcher.captureArgumentsFrom(Invocation)
+ 114    5   2    0 org.mockito.internal.invocation.InvocationMatcher.isVarargMatcher(Matcher)
+ 115    2   4    0 org.mockito.internal.invocation.InvocationMatcher.isVariableArgument(Invocation,int)
+ 116    5   2    0 org.mockito.internal.invocation.InvocationMatcher.createFrom(Invocation)
+ 117    3   2    0 org.mockito.internal.invocation.InvocationMarker.markVerified(Invocation,CapturesArgumensFromInvocation)
+ 118    3   1    0 org.mockito.internal.invocation.InvocationMarker.markVerified(Invocation,CapturesArgumensFromInvocation)
+ 119    4   2    0 org.mockito.internal.invocation.InvocationMarker.markVerifiedInOrder(Invocation,CapturesArgumensFromInvocation,InOrderContext)
+ 120    5   1    0 org.mockito.internal.invocation.MatchersBinder.bindMatchers(ArgumentMatcherStorage,Invocation)
+ 121    6   3    0 org.mockito.internal.invocation.MatchersBinder.validateMatchers(Invocation,LocalizedMatcher)
+ 122    2   1    0 org.mockito.internal.invocation.StubInfoImpl.StubInfoImpl(DescribedInvocation)
+ 123    2   1    0 org.mockito.internal.invocation.StubInfoImpl.stubbedAt()
+ 124    1   1    0 org.mockito.internal.invocation.CapturesArgumensFromInvocation.captureArgumentsFrom(Invocation)
+ 125    3   1    0 org.mockito.internal.invocation.finder.VerifiableInvocationsFinder.find(List)
+ 126    2   1    0 org.mockito.internal.invocation.finder.VerifiableInvocationsFinder.RemoveIgnoredForVerification.isOut(Invocation)
+ 127    7   2    1 org.mockito.internal.invocation.finder.AllInvocationsFinder.find(List)
+ 128    2   1    0 org.mockito.internal.invocation.finder.AllInvocationsFinder.SequenceNumberComparator.compare(Invocation,Invocation)
+ 129    3   2    0 org.mockito.internal.invocation.ArgumentsComparator.argumentsMatch(InvocationMatcher,Invocation)
+ 130    7   6    0 org.mockito.internal.invocation.ArgumentsComparator.argumentsMatch(InvocationMatcher,Object[])
+ 131   21  15    0 org.mockito.internal.invocation.ArgumentsComparator.varArgsMatch(InvocationMatcher,Invocation)
+ 132    8   1    0 org.mockito.internal.invocation.InvocationImpl.InvocationImpl(Object,MockitoMethod,Object[],int,RealMethod)
+ 133    2   1    0 org.mockito.internal.invocation.InvocationImpl.getMock()
+ 134    2   1    0 org.mockito.internal.invocation.InvocationImpl.getMethod()
+ 135    2   1    0 org.mockito.internal.invocation.InvocationImpl.getArguments()
+ 136    2   1    0 org.mockito.internal.invocation.InvocationImpl.getArgumentAt(int,T)
+ 137    2   2    0 org.mockito.internal.invocation.InvocationImpl.isVerified()
+ 138    2   1    0 org.mockito.internal.invocation.InvocationImpl.getSequenceNumber()
+ 139    5   6    0 org.mockito.internal.invocation.InvocationImpl.equals(Object)
+ 140    2   1    0 org.mockito.internal.invocation.InvocationImpl.equalArguments(Object[])
+ 141    2   1    0 org.mockito.internal.invocation.InvocationImpl.hashCode()
+ 142    2   1    0 org.mockito.internal.invocation.InvocationImpl.toString()
+ 143    2   1    0 org.mockito.internal.invocation.InvocationImpl.getLocation()
+ 144    2   1    0 org.mockito.internal.invocation.InvocationImpl.getRawArguments()
+ 145    2   1    0 org.mockito.internal.invocation.InvocationImpl.getRawReturnType()
+ 146    4   2    0 org.mockito.internal.invocation.InvocationImpl.callRealMethod()
+ 147    2   1    0 org.mockito.internal.invocation.InvocationImpl.markVerified()
+ 148    2   1    0 org.mockito.internal.invocation.InvocationImpl.stubInfo()
+ 149    2   1    0 org.mockito.internal.invocation.InvocationImpl.markStubbed(StubInfo)
+ 150    2   1    0 org.mockito.internal.invocation.InvocationImpl.isIgnoredForVerification()
+ 151    2   1    0 org.mockito.internal.invocation.InvocationImpl.ignoreForVerification()
+ 152    2   1    0 org.mockito.internal.invocation.realmethod.CleanTraceRealMethod.CleanTraceRealMethod(MockitoMethodProxy)
+ 153    2   1    0 org.mockito.internal.invocation.realmethod.CleanTraceRealMethod.CleanTraceRealMethod(RealMethod)
+ 154    5   4    0 org.mockito.internal.invocation.realmethod.CleanTraceRealMethod.invoke(Object,Object[])
+ 155    1   1    0 org.mockito.internal.invocation.realmethod.RealMethod.invoke(Object,Object[])
+ 156    2   1    0 org.mockito.internal.invocation.realmethod.DefaultRealMethod.DefaultRealMethod(MockitoMethodProxy)
+ 157    2   1    0 org.mockito.internal.invocation.realmethod.DefaultRealMethod.invoke(Object,Object[])
+ 158    1   1    0 org.mockito.internal.invocation.MockitoMethod.getName()
+ 159    1   1    0 org.mockito.internal.invocation.MockitoMethod.getReturnType()
+ 160    1   1    0 org.mockito.internal.invocation.MockitoMethod.getParameterTypes()
+ 161    1   1    0 org.mockito.internal.invocation.MockitoMethod.getExceptionTypes()
+ 162    1   1    0 org.mockito.internal.invocation.MockitoMethod.isVarArgs()
+ 163    1   1    0 org.mockito.internal.invocation.MockitoMethod.getJavaMethod()
+ 164    1   1    0 org.mockito.internal.invocation.AbstractAwareMethod.isAbstract()
+ 165    8   1    0 org.mockito.internal.invocation.SerializableMethod.SerializableMethod(Method)
+ 166    2   1    0 org.mockito.internal.invocation.SerializableMethod.getName()
+ 167    2   1    0 org.mockito.internal.invocation.SerializableMethod.getReturnType()
+ 168    2   1    0 org.mockito.internal.invocation.SerializableMethod.getParameterTypes()
+ 169    2   1    0 org.mockito.internal.invocation.SerializableMethod.getExceptionTypes()
+ 170    2   1    0 org.mockito.internal.invocation.SerializableMethod.isVarArgs()
+ 171    2   1    0 org.mockito.internal.invocation.SerializableMethod.isAbstract()
+ 172    8   6    0 org.mockito.internal.invocation.SerializableMethod.getJavaMethod()
+ 173    2   1    0 org.mockito.internal.invocation.SerializableMethod.hashCode()
+ 174   29  24    0 org.mockito.internal.invocation.SerializableMethod.equals(Object)
+ 175    9   4    1 org.mockito.internal.invocation.UnusedStubsFinder.find(List)
+ 176    3   1    0 org.mockito.internal.handler.InvocationNotifierHandler.InvocationNotifierHandler(T,MockCreationSettings)
+ 177    7   4    0 org.mockito.internal.handler.InvocationNotifierHandler.handle(Invocation)
+ 178    5   3    0 org.mockito.internal.handler.InvocationNotifierHandler.notifyMethodCall(Invocation,Object)
+ 179    5   3    0 org.mockito.internal.handler.InvocationNotifierHandler.notifyMethodCallException(Invocation,Throwable)
+ 180    2   1    0 org.mockito.internal.handler.InvocationNotifierHandler.getMockSettings()
+ 181    2   1    0 org.mockito.internal.handler.InvocationNotifierHandler.voidMethodStubbable(T)
+ 182    2   1    0 org.mockito.internal.handler.InvocationNotifierHandler.setAnswersForStubbing(Answer)
+ 183    2   1    0 org.mockito.internal.handler.InvocationNotifierHandler.getInvocationContainer()
+ 184    2   1    0 org.mockito.internal.handler.NullResultGuardian.NullResultGuardian(InternalMockHandler)
+ 185    7   4    0 org.mockito.internal.handler.NullResultGuardian.handle(Invocation)
+ 186    2   1    0 org.mockito.internal.handler.NullResultGuardian.getMockSettings()
+ 187    2   1    0 org.mockito.internal.handler.NullResultGuardian.voidMethodStubbable(Object)
+ 188    2   1    0 org.mockito.internal.handler.NullResultGuardian.setAnswersForStubbing(List)
+ 189    2   1    0 org.mockito.internal.handler.NullResultGuardian.getInvocationContainer()
+ 190    5   1    0 org.mockito.internal.handler.MockHandlerFactory.create(MockCreationSettings)
+ 191    5   1    0 org.mockito.internal.handler.MockHandlerImpl.MockHandlerImpl(MockCreationSettings)
+ 192   27   8    0 org.mockito.internal.handler.MockHandlerImpl.handle(Invocation)
+ 193    2   1    0 org.mockito.internal.handler.MockHandlerImpl.voidMethodStubbable(T)
+ 194    2   1    0 org.mockito.internal.handler.MockHandlerImpl.getMockSettings()
+ 195    2   1    0 org.mockito.internal.handler.MockHandlerImpl.setAnswersForStubbing(Answer)
+ 196    2   1    0 org.mockito.internal.handler.MockHandlerImpl.getInvocationContainer()
+ 197    4   2    0 org.mockito.internal.handler.MockHandlerImpl.createVerificationData(InvocationContainerImpl,InvocationMatcher)
+ 198    6   2    0 org.mockito.internal.reporting.SmartPrinter.SmartPrinter(InvocationMatcher,Invocation,Integer)
+ 199    2   1    0 org.mockito.internal.reporting.SmartPrinter.getWanted()
+ 200    2   1    0 org.mockito.internal.reporting.SmartPrinter.getActual()
+ 201    2   1    0 org.mockito.internal.reporting.PrintSettings.setMultiline(boolean)
+ 202    2   1    0 org.mockito.internal.reporting.PrintSettings.isMultiline()
+ 203    4   1    0 org.mockito.internal.reporting.PrintSettings.verboseMatchers(Integer)
+ 204    2   1    0 org.mockito.internal.reporting.PrintSettings.extraTypeInfoFor(int)
+ 205    2   1    0 org.mockito.internal.reporting.PrintSettings.setMatchersToBeDescribedWithExtraTypeInfo(Integer[])
+ 206    8   5    0 org.mockito.internal.reporting.PrintSettings.print(Matcher,Invocation)
+ 207    2   1    0 org.mockito.internal.reporting.PrintSettings.print(Invocation)
+ 208    2   1    0 org.mockito.internal.reporting.PrintSettings.print(InvocationMatcher)
+ 209    3   1    0 org.mockito.internal.reporting.Discrepancy.Discrepancy(int,int)
+ 210    2   1    0 org.mockito.internal.reporting.Discrepancy.getWantedCount()
+ 211    2   1    0 org.mockito.internal.reporting.Discrepancy.getPluralizedWantedCount()
+ 212    2   1    0 org.mockito.internal.reporting.Discrepancy.getActualCount()
+ 213    2   1    0 org.mockito.internal.reporting.Discrepancy.getPluralizedActualCount()
+ 214    2   2    0 org.mockito.internal.reporting.Pluralizer.pluralize(int)
+ 215    4   1    0 org.mockito.internal.configuration.DefaultAnnotationEngine.DefaultAnnotationEngine()
+ 216    2   1    0 org.mockito.internal.configuration.DefaultAnnotationEngine.createMockFor(Annotation,Field)
+ 217    2   1    0 org.mockito.internal.configuration.DefaultAnnotationEngine.FieldAnnotationProcessor.process(A,Field)
+ 218    6   3    0 org.mockito.internal.configuration.DefaultAnnotationEngine.forAnnotation(A)
+ 219    2   1    0 org.mockito.internal.configuration.DefaultAnnotationEngine.registerAnnotationProcessor(A,A)
+ 220   12   6    0 org.mockito.internal.configuration.DefaultAnnotationEngine.process(Class,Object)
+ 221    3   2    0 org.mockito.internal.configuration.DefaultAnnotationEngine.throwIfAlreadyAssigned(Field,boolean)
+ 222   12   4    0 org.mockito.internal.configuration.MockAnnotationProcessor.process(Mock,Field)
+ 223    6   3    0 org.mockito.internal.configuration.CaptorAnnotationProcessor.process(Captor,Field)
+ 224    2   1    0 org.mockito.internal.configuration.GlobalConfiguration.getIt()
+ 225    3   2    0 org.mockito.internal.configuration.GlobalConfiguration.GlobalConfiguration()
+ 226    7   3    0 org.mockito.internal.configuration.GlobalConfiguration.createConfig()
+ 227    2   1    0 org.mockito.internal.configuration.GlobalConfiguration.validate()
+ 228    2   1    0 org.mockito.internal.configuration.GlobalConfiguration.getReturnValues()
+ 229    2   1    0 org.mockito.internal.configuration.GlobalConfiguration.getAnnotationEngine()
+ 230    2   1    0 org.mockito.internal.configuration.GlobalConfiguration.cleansStackTrace()
+ 231    2   1    0 org.mockito.internal.configuration.GlobalConfiguration.enableClassCache()
+ 232    2   1    0 org.mockito.internal.configuration.GlobalConfiguration.getDefaultAnswer()
+ 233    1   1    0 org.mockito.internal.configuration.FieldAnnotationProcessor.process(A,Field)
+ 234    2   1    0 org.mockito.internal.configuration.DefaultInjectionEngine.injectMocksOnFields(Field,Object,Object)
+ 235    2   1    1 org.mockito.internal.configuration.plugins.Plugins.getStackTraceCleanerProvider()
+ 236    2   1    1 org.mockito.internal.configuration.plugins.Plugins.getMockMaker()
+ 237    2   1    1 org.mockito.internal.configuration.plugins.PluginRegistry.getStackTraceCleanerProvider()
+ 238    2   1    1 org.mockito.internal.configuration.plugins.PluginRegistry.getMockMaker()
+ 239    2   1    0 org.mockito.internal.configuration.plugins.DefaultPluginSwitch.isEnabled(String)
+ 240    2   1    0 org.mockito.internal.configuration.plugins.PluginLoader.PluginLoader(PluginSwitch)
+ 241    7   6    0 org.mockito.internal.configuration.plugins.PluginLoader.loadPlugin(T,String)
+ 242   16   9    0 org.mockito.internal.configuration.plugins.PluginLoader.loadImpl(T)
+ 243    6   4    0 org.mockito.internal.configuration.plugins.PluginFileReader.readPluginClass(InputStream)
+ 244    5   2    0 org.mockito.internal.configuration.plugins.PluginFileReader.stripCommentAndWhitespace(String)
+ 245    2   1    0 org.mockito.internal.configuration.plugins.PluginFinder.PluginFinder(PluginSwitch)
+ 246   15   7    0 org.mockito.internal.configuration.plugins.PluginFinder.findPluginClass(URL)
+ 247    2   1    1 org.mockito.internal.configuration.InjectingAnnotationEngine.createMockFor(Annotation,Field)
+ 248    3   1    1 org.mockito.internal.configuration.InjectingAnnotationEngine.process(Class,Object)
+ 249    5   2    0 org.mockito.internal.configuration.InjectingAnnotationEngine.processInjectMocks(Class,Object)
+ 250    6   2    0 org.mockito.internal.configuration.InjectingAnnotationEngine.processIndependentAnnotations(Class,Object)
+ 251    9   2    1 org.mockito.internal.configuration.InjectingAnnotationEngine.injectMocks(Object)
+ 252    2   1    0 org.mockito.internal.configuration.MockitoAnnotationsMockAnnotationProcessor.process(Mock,Field)
+ 253    2   1    0 org.mockito.internal.configuration.SpyAnnotationEngine.createMockFor(Annotation,Field)
+ 254   18   8    0 org.mockito.internal.configuration.SpyAnnotationEngine.process(Class,Object)
+ 255    4   4    0 org.mockito.internal.configuration.SpyAnnotationEngine.assertNotInterface(Object,Class)
+ 256   20  12    0 org.mockito.internal.configuration.SpyAnnotationEngine.newSpyInstance(Object,Field)
+ 257    4   3    0 org.mockito.internal.configuration.SpyAnnotationEngine.assertNoIncompatibleAnnotations(Class,Field,Class)
+ 258    2   1    1 org.mockito.internal.configuration.injection.MockInjection.onField(Field,Object)
+ 259    2   1    1 org.mockito.internal.configuration.injection.MockInjection.onFields(Field,Object)
+ 260    2   1    0 org.mockito.internal.configuration.injection.MockInjection.OngoingMockInjection.OngoingMockInjection(Field,Object)
+ 261    3   1    0 org.mockito.internal.configuration.injection.MockInjection.OngoingMockInjection.OngoingMockInjection(Field,Object)
+ 262    3   1    0 org.mockito.internal.configuration.injection.MockInjection.OngoingMockInjection.withMocks(Object)
+ 263    3   1    0 org.mockito.internal.configuration.injection.MockInjection.OngoingMockInjection.tryConstructorInjection()
+ 264    3   1    0 org.mockito.internal.configuration.injection.MockInjection.OngoingMockInjection.tryPropertyOrFieldInjection()
+ 265    3   1    0 org.mockito.internal.configuration.injection.MockInjection.OngoingMockInjection.handleSpyAnnotation()
+ 266    4   2    0 org.mockito.internal.configuration.injection.MockInjection.OngoingMockInjection.apply()
+ 267    1   1    0 org.mockito.internal.configuration.injection.ConstructorInjection.ConstructorInjection()
+ 268    2   1    0 org.mockito.internal.configuration.injection.ConstructorInjection.ConstructorInjection(ConstructorArgumentResolver)
+ 269    9   4    0 org.mockito.internal.configuration.injection.ConstructorInjection.processInjection(Field,Object,Object)
+ 270    2   1    0 org.mockito.internal.configuration.injection.ConstructorInjection.SimpleArgumentResolver.SimpleArgumentResolver(Object)
+ 271    5   2    0 org.mockito.internal.configuration.injection.ConstructorInjection.SimpleArgumentResolver.resolveTypeInstances(Class)
+ 272    5   4    0 org.mockito.internal.configuration.injection.ConstructorInjection.SimpleArgumentResolver.objectThatIsAssignableFrom(Class)
+ 273    1   1    0 org.mockito.internal.configuration.injection.filter.MockCandidateFilter.filterCandidate(Object,Field,Object)
+ 274    2   1    0 org.mockito.internal.configuration.injection.filter.NameBasedCandidateFilter.NameBasedCandidateFilter(MockCandidateFilter)
+ 275    8   5    0 org.mockito.internal.configuration.injection.filter.NameBasedCandidateFilter.filterCandidate(Object,Field,Object)
+ 276    6   3    0 org.mockito.internal.configuration.injection.filter.FinalMockCandidateFilter.OngoingInjecter.thenInject()
+ 277    2   1    0 org.mockito.internal.configuration.injection.filter.FinalMockCandidateFilter.OngoingInjecter.thenInject()
+ 278   13   3    0 org.mockito.internal.configuration.injection.filter.FinalMockCandidateFilter.filterCandidate(Object,Field,Object)
+ 279    1   1    1 org.mockito.internal.configuration.injection.filter.OngoingInjecter.thenInject()
+ 280    2   1    0 org.mockito.internal.configuration.injection.filter.TypeBasedCandidateFilter.TypeBasedCandidateFilter(MockCandidateFilter)
+ 281    6   3    0 org.mockito.internal.configuration.injection.filter.TypeBasedCandidateFilter.filterCandidate(Object,Field,Object)
+ 282    2   2    0 org.mockito.internal.configuration.injection.PropertyAndSetterInjection.ListUtil.Filter.isOut(Field)
+ 283    9   2    0 org.mockito.internal.configuration.injection.PropertyAndSetterInjection.processInjection(Field,Object,Object)
+ 284    9   3    0 org.mockito.internal.configuration.injection.PropertyAndSetterInjection.initializeInjectMocksField(Field,Object)
+ 285    6   1    0 org.mockito.internal.configuration.injection.PropertyAndSetterInjection.injectMockCandidates(Class,Object,Object)
+ 286    9   3    0 org.mockito.internal.configuration.injection.PropertyAndSetterInjection.injectMockCandidatesOnFields(Object,Object,boolean,Field)
+ 287    4   1    0 org.mockito.internal.configuration.injection.PropertyAndSetterInjection.orderedInstanceFieldsFrom(Class)
+ 288    2   1    0 org.mockito.internal.configuration.injection.MockInjectionStrategy.MockInjectionStrategy.processInjection(Field,Object,Object)
+ 289    4   1    1 org.mockito.internal.configuration.injection.MockInjectionStrategy.nop()
+ 290    6   2    1 org.mockito.internal.configuration.injection.MockInjectionStrategy.thenTry(MockInjectionStrategy)
+ 291    4   3    1 org.mockito.internal.configuration.injection.MockInjectionStrategy.process(Field,Object,Object)
+ 292    1   1    1 org.mockito.internal.configuration.injection.MockInjectionStrategy.processInjection(Field,Object,Object)
+ 293    2   2    0 org.mockito.internal.configuration.injection.MockInjectionStrategy.relayProcessToNextStrategy(Field,Object,Object)
+ 294    3   1    1 org.mockito.internal.configuration.injection.scanner.MockScanner.MockScanner(Object,Class)
+ 295    2   1    1 org.mockito.internal.configuration.injection.scanner.MockScanner.addPreparedMocks(Object)
+ 296    8   3    1 org.mockito.internal.configuration.injection.scanner.MockScanner.scan()
+ 297    8   5    0 org.mockito.internal.configuration.injection.scanner.MockScanner.preparedMock(Object,Field)
+ 298    2   3    0 org.mockito.internal.configuration.injection.scanner.MockScanner.isAnnotatedByMockOrSpy(Field)
+ 299    2   2    0 org.mockito.internal.configuration.injection.scanner.MockScanner.isMockOrSpy(Object)
+ 300    2   1    1 org.mockito.internal.configuration.injection.scanner.InjectMocksScanner.InjectMocksScanner(Class)
+ 301    2   1    1 org.mockito.internal.configuration.injection.scanner.InjectMocksScanner.addTo(Field)
+ 302    8   3    1 org.mockito.internal.configuration.injection.scanner.InjectMocksScanner.scan()
+ 303    4   3    0 org.mockito.internal.configuration.injection.scanner.InjectMocksScanner.assertNoAnnotations(Field,Class)
+ 304   11   6    0 org.mockito.internal.configuration.injection.SpyOnInjectedFieldsHandler.processInjection(Field,Object,Object)
+ 305   10   8    1 org.mockito.internal.configuration.ClassPathLoader.loadConfiguration()
+ 306    2   1    0 org.mockito.internal.progress.SequenceNumber.next()
+ 307    1   1    0 org.mockito.internal.progress.MockingProgress.reportOngoingStubbing(IOngoingStubbing)
+ 308    1   1    0 org.mockito.internal.progress.MockingProgress.pullOngoingStubbing()
+ 309    1   1    0 org.mockito.internal.progress.MockingProgress.verificationStarted(VerificationMode)
+ 310    1   1    0 org.mockito.internal.progress.MockingProgress.pullVerificationMode()
+ 311    1   1    0 org.mockito.internal.progress.MockingProgress.stubbingStarted()
+ 312    1   1    0 org.mockito.internal.progress.MockingProgress.stubbingCompleted(Invocation)
+ 313    1   1    0 org.mockito.internal.progress.MockingProgress.validateState()
+ 314    1   1    0 org.mockito.internal.progress.MockingProgress.reset()
+ 315    1   1    1 org.mockito.internal.progress.MockingProgress.resetOngoingStubbing()
+ 316    1   1    0 org.mockito.internal.progress.MockingProgress.getArgumentMatcherStorage()
+ 317    1   1    0 org.mockito.internal.progress.MockingProgress.mockingStarted(Object,Class)
+ 318    1   1    0 org.mockito.internal.progress.MockingProgress.setListener(MockingProgressListener)
+ 319    3   1    0 org.mockito.internal.progress.ArgumentMatcherStorageImpl.reportMatcher(Matcher)
+ 320    6   3    0 org.mockito.internal.progress.ArgumentMatcherStorageImpl.pullLocalizedMatchers()
+ 321    5   1    0 org.mockito.internal.progress.ArgumentMatcherStorageImpl.reportAnd()
+ 322    5   1    0 org.mockito.internal.progress.ArgumentMatcherStorageImpl.reportOr()
+ 323    5   1    0 org.mockito.internal.progress.ArgumentMatcherStorageImpl.reportNot()
+ 324    3   1    0 org.mockito.internal.progress.ArgumentMatcherStorageImpl.assertStateFor(String,int)
+ 325    6   2    0 org.mockito.internal.progress.ArgumentMatcherStorageImpl.popLastArgumentMatchers(int)
+ 326    4   2    0 org.mockito.internal.progress.ArgumentMatcherStorageImpl.assertMatchersFoundFor(String)
+ 327    5   2    0 org.mockito.internal.progress.ArgumentMatcherStorageImpl.assertIncorrectUseOfAdditionalMatchers(String,int)
+ 328    5   2    0 org.mockito.internal.progress.ArgumentMatcherStorageImpl.validateState()
+ 329    2   1    0 org.mockito.internal.progress.ArgumentMatcherStorageImpl.reset()
+ 330    2   1    0 org.mockito.internal.progress.HandyReturnValues.returnZero()
+ 331    2   1    0 org.mockito.internal.progress.HandyReturnValues.returnChar()
+ 332    2   1    0 org.mockito.internal.progress.HandyReturnValues.returnNull()
+ 333    2   1    0 org.mockito.internal.progress.HandyReturnValues.returnFalse()
+ 334    2   1    0 org.mockito.internal.progress.HandyReturnValues.returnString()
+ 335    4   3    0 org.mockito.internal.progress.HandyReturnValues.returnFor(T)
+ 336    2   1    0 org.mockito.internal.progress.HandyReturnValues.returnMap()
+ 337    2   1    0 org.mockito.internal.progress.HandyReturnValues.returnList()
+ 338    2   1    0 org.mockito.internal.progress.HandyReturnValues.returnSet()
+ 339    2   2    0 org.mockito.internal.progress.HandyReturnValues.returnFor(T)
+ 340    2   1    0 org.mockito.internal.progress.MockingProgressImpl.reportOngoingStubbing(IOngoingStubbing)
+ 341    4   1    0 org.mockito.internal.progress.MockingProgressImpl.pullOngoingStubbing()
+ 342    4   1    0 org.mockito.internal.progress.MockingProgressImpl.verificationStarted(VerificationMode)
+ 343    2   1    0 org.mockito.internal.progress.MockingProgressImpl.resetOngoingStubbing()
+ 344    6   3    0 org.mockito.internal.progress.MockingProgressImpl.pullVerificationMode()
+ 345    3   1    0 org.mockito.internal.progress.MockingProgressImpl.stubbingStarted()
+ 346    6   2    0 org.mockito.internal.progress.MockingProgressImpl.validateState()
+ 347    7   2    0 org.mockito.internal.progress.MockingProgressImpl.validateMostStuff()
+ 348    2   1    0 org.mockito.internal.progress.MockingProgressImpl.stubbingCompleted(Invocation)
+ 349    2   1    0 org.mockito.internal.progress.MockingProgressImpl.toString()
+ 350    4   1    0 org.mockito.internal.progress.MockingProgressImpl.reset()
+ 351    2   1    0 org.mockito.internal.progress.MockingProgressImpl.getArgumentMatcherStorage()
+ 352    4   2    0 org.mockito.internal.progress.MockingProgressImpl.mockingStarted(Object,Class)
+ 353    2   1    0 org.mockito.internal.progress.MockingProgressImpl.setListener(MockingProgressListener)
+ 354    4   2    0 org.mockito.internal.progress.ThreadSafeMockingProgress.threadSafely()
+ 355    2   1    0 org.mockito.internal.progress.ThreadSafeMockingProgress.reportOngoingStubbing(IOngoingStubbing)
+ 356    2   1    0 org.mockito.internal.progress.ThreadSafeMockingProgress.pullOngoingStubbing()
+ 357    2   1    0 org.mockito.internal.progress.ThreadSafeMockingProgress.verificationStarted(VerificationMode)
+ 358    2   1    0 org.mockito.internal.progress.ThreadSafeMockingProgress.pullVerificationMode()
+ 359    2   1    0 org.mockito.internal.progress.ThreadSafeMockingProgress.stubbingStarted()
+ 360    2   1    0 org.mockito.internal.progress.ThreadSafeMockingProgress.validateState()
+ 361    2   1    0 org.mockito.internal.progress.ThreadSafeMockingProgress.stubbingCompleted(Invocation)
+ 362    2   1    0 org.mockito.internal.progress.ThreadSafeMockingProgress.toString()
+ 363    2   1    0 org.mockito.internal.progress.ThreadSafeMockingProgress.reset()
+ 364    2   1    0 org.mockito.internal.progress.ThreadSafeMockingProgress.resetOngoingStubbing()
+ 365    2   1    0 org.mockito.internal.progress.ThreadSafeMockingProgress.getArgumentMatcherStorage()
+ 366    2   1    0 org.mockito.internal.progress.ThreadSafeMockingProgress.mockingStarted(Object,Class)
+ 367    2   1    0 org.mockito.internal.progress.ThreadSafeMockingProgress.setListener(MockingProgressListener)
+ 368    1   1    0 org.mockito.internal.progress.ArgumentMatcherStorage.reportMatcher(Matcher)
+ 369    1   1    0 org.mockito.internal.progress.ArgumentMatcherStorage.pullLocalizedMatchers()
+ 370    1   1    0 org.mockito.internal.progress.ArgumentMatcherStorage.reportAnd()
+ 371    1   1    0 org.mockito.internal.progress.ArgumentMatcherStorage.reportNot()
+ 372    1   1    0 org.mockito.internal.progress.ArgumentMatcherStorage.reportOr()
+ 373    1   1    0 org.mockito.internal.progress.ArgumentMatcherStorage.validateState()
+ 374    1   1    0 org.mockito.internal.progress.ArgumentMatcherStorage.reset()
+ 375    2   1    1 org.mockito.internal.util.RemoveFirstLine.of(String)
+ 376    2   2    0 org.mockito.internal.util.MockUtil.isTypeMockable(Class)
+ 377    7   2    0 org.mockito.internal.util.MockUtil.createMock(T)
+ 378    5   1    0 org.mockito.internal.util.MockUtil.resetMock(T)
+ 379    8   6    0 org.mockito.internal.util.MockUtil.getMockHandler(T)
+ 380    2   1    0 org.mockito.internal.util.MockUtil.isMock(Object)
+ 381    2   2    0 org.mockito.internal.util.MockUtil.isSpy(Object)
+ 382    2   1    0 org.mockito.internal.util.MockUtil.isMockitoMock(T)
+ 383    2   1    0 org.mockito.internal.util.MockUtil.getMockName(Object)
+ 384    4   3    0 org.mockito.internal.util.MockUtil.maybeRedefineMockName(Object,String)
+ 385    2   1    0 org.mockito.internal.util.MockUtil.getMockSettings(Object)
+ 386    2   1    0 org.mockito.internal.util.ConsoleMockitoLogger.log(Object)
+ 387    8   3    0 org.mockito.internal.util.junit.JUnitFailureHacker.appendWarnings(Failure,String)
+ 388    2   2    0 org.mockito.internal.util.junit.JUnitFailureHacker.isEmpty(String)
+ 389    8   3    1 org.mockito.internal.util.io.IOUtil.writeText(String,File)
+ 390    9   4    0 org.mockito.internal.util.io.IOUtil.readLines(InputStream)
+ 391    3   2    1 org.mockito.internal.util.io.IOUtil.closeQuietly(Closeable)
+ 392    5   4    1 org.mockito.internal.util.io.IOUtil.close(Closeable)
+ 393    3   1    0 org.mockito.internal.util.DefaultMockingDetails.DefaultMockingDetails(Object,MockUtil)
+ 394    2   1    1 org.mockito.internal.util.DefaultMockingDetails.isMock()
+ 395    2   1    1 org.mockito.internal.util.DefaultMockingDetails.isSpy()
+ 396    2   1    0 org.mockito.internal.util.DefaultMockingDetails.getInvocations()
+ 397    3   2    0 org.mockito.internal.util.MockCreationValidator.validateType(Class)
+ 398    6   5    0 org.mockito.internal.util.MockCreationValidator.validateExtraInterfaces(Class,Class)
+ 399    5   5    0 org.mockito.internal.util.MockCreationValidator.validateMockedType(Class,Object)
+ 400    5   5    0 org.mockito.internal.util.MockCreationValidator.validateDelegatedInstance(Class,Object)
+ 401    3   5    0 org.mockito.internal.util.MockCreationValidator.validateSerializable(Class,boolean)
+ 402    3   3    0 org.mockito.internal.util.MockCreationValidator.validateConstructorUse(boolean,SerializableMode)
+ 403    4   3    0 org.mockito.internal.util.Checks.checkNotNull(T,String)
+ 404    5   2    0 org.mockito.internal.util.Checks.checkItemsNotNull(T,String)
+ 405    2   1    0 org.mockito.internal.util.ObjectMethodsGuru.isToString(Method)
+ 406    2   3    0 org.mockito.internal.util.ObjectMethodsGuru.isToString(MockitoMethod)
+ 407    2   3    0 org.mockito.internal.util.ObjectMethodsGuru.isEqualsMethod(Method)
+ 408    2   2    0 org.mockito.internal.util.ObjectMethodsGuru.isHashCodeMethod(Method)
+ 409    2   4    0 org.mockito.internal.util.ObjectMethodsGuru.isCompareToMethod(Method)
+ 410    3   1    0 org.mockito.internal.util.Timer.Timer(long)
+ 411    3   1    1 org.mockito.internal.util.Timer.isCounting()
+ 412    2   1    1 org.mockito.internal.util.Timer.start()
+ 413    3   2    0 org.mockito.internal.util.Timer.validateInput(long)
+ 414    2   1    0 org.mockito.internal.util.Timer.duration()
+ 415    1   1    0 org.mockito.internal.util.MockitoLogger.log(Object)
+ 416    7   5    0 org.mockito.internal.util.Decamelizer.decamelizeMatcher(String)
+ 417   10   3    0 org.mockito.internal.util.Decamelizer.decamelizeClassName(String)
+ 418    2   1    0 org.mockito.internal.util.SimpleMockitoLogger.log(Object)
+ 419    2   1    0 org.mockito.internal.util.SimpleMockitoLogger.getLoggedInfo()
+ 420    2   1    0 org.mockito.internal.util.collections.Sets.newMockSafeHashSet(Object)
+ 421    2   1    0 org.mockito.internal.util.collections.Sets.newMockSafeHashSet(Object)
+ 422    2   1    0 org.mockito.internal.util.collections.Sets.newIdentitySet()
+ 423    4   3    0 org.mockito.internal.util.collections.Sets.newSet(T)
+ 424    5   4    0 org.mockito.internal.util.collections.IdentitySet.contains(Object)
+ 425    2   1    0 org.mockito.internal.util.collections.IdentitySet.add(Object)
+ 426    5   2    1 org.mockito.internal.util.collections.Iterables.toIterable(T)
+ 427    2   2    0 org.mockito.internal.util.collections.ArrayUtils.isEmpty(T[])
+ 428    6   3    0 org.mockito.internal.util.collections.ListUtil.filter(T,T)
+ 429    1   1    0 org.mockito.internal.util.collections.ListUtil.Filter.isOut(T)
+ 430    2   1    0 org.mockito.internal.util.collections.HashCodeAndEqualsMockWrapper.HashCodeAndEqualsMockWrapper(Object)
+ 431    2   1    0 org.mockito.internal.util.collections.HashCodeAndEqualsMockWrapper.get()
+ 432    7   5    0 org.mockito.internal.util.collections.HashCodeAndEqualsMockWrapper.equals(Object)
+ 433    2   1    0 org.mockito.internal.util.collections.HashCodeAndEqualsMockWrapper.hashCode()
+ 434    2   1    0 org.mockito.internal.util.collections.HashCodeAndEqualsMockWrapper.of(Object)
+ 435    3   2    0 org.mockito.internal.util.collections.HashCodeAndEqualsMockWrapper.toString()
+ 436    2   1    0 org.mockito.internal.util.collections.HashCodeAndEqualsMockWrapper.typeInstanceString()
+ 437    2   1    0 org.mockito.internal.util.collections.HashCodeAndEqualsSafeSet.Iterator.hasNext()
+ 438    2   1    0 org.mockito.internal.util.collections.HashCodeAndEqualsSafeSet.Iterator.next()
+ 439    2   1    0 org.mockito.internal.util.collections.HashCodeAndEqualsSafeSet.Iterator.remove()
+ 440    9   1    0 org.mockito.internal.util.collections.HashCodeAndEqualsSafeSet.iterator()
+ 441    2   1    0 org.mockito.internal.util.collections.HashCodeAndEqualsSafeSet.size()
+ 442    2   1    0 org.mockito.internal.util.collections.HashCodeAndEqualsSafeSet.isEmpty()
+ 443    2   1    0 org.mockito.internal.util.collections.HashCodeAndEqualsSafeSet.contains(Object)
+ 444    2   1    0 org.mockito.internal.util.collections.HashCodeAndEqualsSafeSet.add(Object)
+ 445    2   1    0 org.mockito.internal.util.collections.HashCodeAndEqualsSafeSet.remove(Object)
+ 446    2   1    0 org.mockito.internal.util.collections.HashCodeAndEqualsSafeSet.clear()
+ 447    2   2    0 org.mockito.internal.util.collections.HashCodeAndEqualsSafeSet.clone()
+ 448    5   3    0 org.mockito.internal.util.collections.HashCodeAndEqualsSafeSet.equals(Object)
+ 449    2   1    0 org.mockito.internal.util.collections.HashCodeAndEqualsSafeSet.hashCode()
+ 450    2   1    0 org.mockito.internal.util.collections.HashCodeAndEqualsSafeSet.toArray()
+ 451    6   3    0 org.mockito.internal.util.collections.HashCodeAndEqualsSafeSet.unwrapTo(T[])
+ 452    3   2    0 org.mockito.internal.util.collections.HashCodeAndEqualsSafeSet.toArray(T[])
+ 453    2   1    0 org.mockito.internal.util.collections.HashCodeAndEqualsSafeSet.removeAll(Collection)
+ 454    2   1    0 org.mockito.internal.util.collections.HashCodeAndEqualsSafeSet.containsAll(Collection)
+ 455    2   1    0 org.mockito.internal.util.collections.HashCodeAndEqualsSafeSet.addAll(Collection)
+ 456    2   1    0 org.mockito.internal.util.collections.HashCodeAndEqualsSafeSet.retainAll(Collection)
+ 457    7   2    0 org.mockito.internal.util.collections.HashCodeAndEqualsSafeSet.asWrappedMocks(Collection)
+ 458    2   1    0 org.mockito.internal.util.collections.HashCodeAndEqualsSafeSet.toString()
+ 459    2   1    0 org.mockito.internal.util.collections.HashCodeAndEqualsSafeSet.of(Object)
+ 460    6   3    0 org.mockito.internal.util.collections.HashCodeAndEqualsSafeSet.of(Object)
+ 461    4   3    1 org.mockito.internal.util.Primitives.primitiveTypeOf(T)
+ 462    2   1    1 org.mockito.internal.util.Primitives.isPrimitiveOrWrapper(Class)
+ 463    2   1    1 org.mockito.internal.util.Primitives.defaultValueForPrimitiveOrWrapper(T)
+ 464    4   2    1 org.mockito.internal.util.reflection.AccessibilityChanger.safelyDisableAccess(AccessibleObject)
+ 465    3   1    1 org.mockito.internal.util.reflection.AccessibilityChanger.enableAccess(AccessibleObject)
+ 466   14   6    0 org.mockito.internal.util.reflection.GenericMetadataSupport.registerTypeVariablesOn(Type)
+ 467    3   2    0 org.mockito.internal.util.reflection.GenericMetadataSupport.registerTypeParametersOn(TypeVariable[])
+ 468    3   2    0 org.mockito.internal.util.reflection.GenericMetadataSupport.registerTypeVariableIfNotPresent(TypeVariable)
+ 469    4   3    1 org.mockito.internal.util.reflection.GenericMetadataSupport.boundsOf(TypeVariable)
+ 470    5   3    1 org.mockito.internal.util.reflection.GenericMetadataSupport.boundsOf(WildcardType)
+ 471    1   1    1 org.mockito.internal.util.reflection.GenericMetadataSupport.rawType()
+ 472    2   1    1 org.mockito.internal.util.reflection.GenericMetadataSupport.extraInterfaces()
+ 473    2   1    1 org.mockito.internal.util.reflection.GenericMetadataSupport.rawExtraInterfaces()
+ 474    2   1    1 org.mockito.internal.util.reflection.GenericMetadataSupport.hasRawExtraInterfaces()
+ 475    7   2    1 org.mockito.internal.util.reflection.GenericMetadataSupport.actualTypeArguments()
+ 476    6   3    0 org.mockito.internal.util.reflection.GenericMetadataSupport.getActualTypeArgumentFor(TypeVariable)
+ 477    9   8    1 org.mockito.internal.util.reflection.GenericMetadataSupport.resolveGenericReturnType(Method)
+ 478    7   6    1 org.mockito.internal.util.reflection.GenericMetadataSupport.inferFrom(Type)
+ 479    4   3    0 org.mockito.internal.util.reflection.GenericMetadataSupport.FromClassGenericMetadataSupport.FromClassGenericMetadataSupport(Class)
+ 480    6   3    0 org.mockito.internal.util.reflection.GenericMetadataSupport.FromClassGenericMetadataSupport.superClassOf(Class)
+ 481    5   2    0 org.mockito.internal.util.reflection.GenericMetadataSupport.FromClassGenericMetadataSupport.readActualTypeParametersOnDeclaringClass(Class)
+ 482    2   1    0 org.mockito.internal.util.reflection.GenericMetadataSupport.FromClassGenericMetadataSupport.rawType()
+ 483    3   1    0 org.mockito.internal.util.reflection.GenericMetadataSupport.FromParameterizedTypeGenericMetadataSupport.FromParameterizedTypeGenericMetadataSupport(ParameterizedType)
+ 484    3   1    0 org.mockito.internal.util.reflection.GenericMetadataSupport.FromParameterizedTypeGenericMetadataSupport.readActualTypeParameters()
+ 485    2   1    0 org.mockito.internal.util.reflection.GenericMetadataSupport.FromParameterizedTypeGenericMetadataSupport.rawType()
+ 486    6   1    0 org.mockito.internal.util.reflection.GenericMetadataSupport.ParameterizedReturnType.ParameterizedReturnType(GenericMetadataSupport,TypeVariable[],ParameterizedType)
+ 487    2   1    0 org.mockito.internal.util.reflection.GenericMetadataSupport.ParameterizedReturnType.readTypeParameters()
+ 488    2   1    0 org.mockito.internal.util.reflection.GenericMetadataSupport.ParameterizedReturnType.readTypeVariables()
+ 489    2   1    0 org.mockito.internal.util.reflection.GenericMetadataSupport.ParameterizedReturnType.rawType()
+ 490    6   1    0 org.mockito.internal.util.reflection.GenericMetadataSupport.TypeVariableReturnType.TypeVariableReturnType(GenericMetadataSupport,TypeVariable[],TypeVariable)
+ 491    2   1    0 org.mockito.internal.util.reflection.GenericMetadataSupport.TypeVariableReturnType.readTypeParameters()
+ 492    5   2    0 org.mockito.internal.util.reflection.GenericMetadataSupport.TypeVariableReturnType.readTypeVariables()
+ 493    4   2    0 org.mockito.internal.util.reflection.GenericMetadataSupport.TypeVariableReturnType.rawType()
+ 494   10  10    0 org.mockito.internal.util.reflection.GenericMetadataSupport.TypeVariableReturnType.extractRawTypeOf(Type)
+ 495    9   8    0 org.mockito.internal.util.reflection.GenericMetadataSupport.TypeVariableReturnType.extraInterfaces()
+ 496    8   3    1 org.mockito.internal.util.reflection.GenericMetadataSupport.TypeVariableReturnType.rawExtraInterfaces()
+ 497    9   7    0 org.mockito.internal.util.reflection.GenericMetadataSupport.TypeVariableReturnType.extractActualBoundedTypeOf(Type)
+ 498    2   1    0 org.mockito.internal.util.reflection.GenericMetadataSupport.NotGenericReturnTypeSupport.NotGenericReturnTypeSupport(Type)
+ 499    2   1    0 org.mockito.internal.util.reflection.GenericMetadataSupport.NotGenericReturnTypeSupport.rawType()
+ 500    1   1    0 org.mockito.internal.util.reflection.GenericMetadataSupport.BoundedType.firstBound()
+ 501    1   1    0 org.mockito.internal.util.reflection.GenericMetadataSupport.BoundedType.interfaceBounds()
+ 502    2   1    0 org.mockito.internal.util.reflection.GenericMetadataSupport.TypeVarBoundedType.TypeVarBoundedType(TypeVariable)
+ 503    2   1    1 org.mockito.internal.util.reflection.GenericMetadataSupport.TypeVarBoundedType.firstBound()
+ 504    4   1    1 org.mockito.internal.util.reflection.GenericMetadataSupport.TypeVarBoundedType.interfaceBounds()
+ 505    6   6    0 org.mockito.internal.util.reflection.GenericMetadataSupport.TypeVarBoundedType.equals(Object)
+ 506    2   1    0 org.mockito.internal.util.reflection.GenericMetadataSupport.TypeVarBoundedType.hashCode()
+ 507    2   1    0 org.mockito.internal.util.reflection.GenericMetadataSupport.TypeVarBoundedType.toString()
+ 508    2   1    0 org.mockito.internal.util.reflection.GenericMetadataSupport.TypeVarBoundedType.typeVariable()
+ 509    2   1    0 org.mockito.internal.util.reflection.GenericMetadataSupport.WildCardBoundedType.WildCardBoundedType(WildcardType)
+ 510    4   2    1 org.mockito.internal.util.reflection.GenericMetadataSupport.WildCardBoundedType.firstBound()
+ 511    2   1    1 org.mockito.internal.util.reflection.GenericMetadataSupport.WildCardBoundedType.interfaceBounds()
+ 512    6   6    0 org.mockito.internal.util.reflection.GenericMetadataSupport.WildCardBoundedType.equals(Object)
+ 513    2   1    0 org.mockito.internal.util.reflection.GenericMetadataSupport.WildCardBoundedType.hashCode()
+ 514    2   1    0 org.mockito.internal.util.reflection.GenericMetadataSupport.WildCardBoundedType.toString()
+ 515    2   1    0 org.mockito.internal.util.reflection.GenericMetadataSupport.WildCardBoundedType.wildCard()
+ 516    2   1    0 org.mockito.internal.util.reflection.LenientCopyTool.copyToMock(T,T)
+ 517    2   1    0 org.mockito.internal.util.reflection.LenientCopyTool.copyToRealObject(T,T)
+ 518    4   2    0 org.mockito.internal.util.reflection.LenientCopyTool.copy(T,T,Class,Class)
+ 519   12   4    0 org.mockito.internal.util.reflection.LenientCopyTool.copyValues(T,T,Class)
+ 520    3   1    0 org.mockito.internal.util.reflection.FieldSetter.FieldSetter(Object,Field)
+ 521    9   5    0 org.mockito.internal.util.reflection.FieldSetter.set(Object)
+ 522    4   1    0 org.mockito.internal.util.reflection.FieldReader.FieldReader(Object,Field)
+ 523    2   1    0 org.mockito.internal.util.reflection.FieldReader.isNull()
+ 524    4   4    0 org.mockito.internal.util.reflection.FieldReader.read()
+ 525    5   2    1 org.mockito.internal.util.reflection.Fields.allDeclaredFieldsOf(Object)
+ 526    4   1    1 org.mockito.internal.util.reflection.Fields.declaredFieldsOf(Object)
+ 527    6   2    0 org.mockito.internal.util.reflection.Fields.instanceFieldsIn(Object,Field[])
+ 528    6   4    0 org.mockito.internal.util.reflection.Fields.Filter.isOut(InstanceField)
+ 529    8   1    1 org.mockito.internal.util.reflection.Fields.annotatedBy(Annotation)
+ 530    2   1    0 org.mockito.internal.util.reflection.Fields.Filter.isOut(InstanceField)
+ 531    4   1    1 org.mockito.internal.util.reflection.Fields.nullField()
+ 532    3   1    0 org.mockito.internal.util.reflection.Fields.InstanceFields.InstanceFields(Object,InstanceField)
+ 533    2   1    0 org.mockito.internal.util.reflection.Fields.InstanceFields.filter(InstanceField)
+ 534    2   1    0 org.mockito.internal.util.reflection.Fields.InstanceFields.notNull()
+ 535    2   1    0 org.mockito.internal.util.reflection.Fields.InstanceFields.instanceFields()
+ 536    5   2    0 org.mockito.internal.util.reflection.Fields.InstanceFields.assignedValues()
+ 537    5   2    0 org.mockito.internal.util.reflection.Fields.InstanceFields.names()
+ 538   18   6    1 org.mockito.internal.util.reflection.SuperTypesLastSorter.sort(Field)
+ 539    2   1    0 org.mockito.internal.util.reflection.SuperTypesLastSorter.Comparator.compare(Field,Field)
+ 540    3   1    0 org.mockito.internal.util.reflection.FieldCopier.copyValue(T,T,Field)
+ 541    4   1    0 org.mockito.internal.util.reflection.FieldInitializationReport.FieldInitializationReport(Object,boolean,boolean)
+ 542    2   1    1 org.mockito.internal.util.reflection.FieldInitializationReport.fieldInstance()
+ 543    2   1    1 org.mockito.internal.util.reflection.FieldInitializationReport.fieldWasInitialized()
+ 544    2   1    1 org.mockito.internal.util.reflection.FieldInitializationReport.fieldWasInitializedUsingContructorArgs()
+ 545    2   2    1 org.mockito.internal.util.reflection.FieldInitializationReport.fieldClass()
+ 546    2   1    1 org.mockito.internal.util.reflection.FieldInitializer.FieldInitializer(Object,Field)
+ 547    2   1    1 org.mockito.internal.util.reflection.FieldInitializer.FieldInitializer(Object,Field,ConstructorArgumentResolver)
+ 548    9   2    0 org.mockito.internal.util.reflection.FieldInitializer.FieldInitializer(Object,Field,ConstructorInstantiator)
+ 549    8   4    1 org.mockito.internal.util.reflection.FieldInitializer.initialize()
+ 550    3   3    0 org.mockito.internal.util.reflection.FieldInitializer.checkNotLocal(Field)
+ 551    3   4    0 org.mockito.internal.util.reflection.FieldInitializer.checkNotInner(Field)
+ 552    3   3    0 org.mockito.internal.util.reflection.FieldInitializer.checkNotInterface(Field)
+ 553    3   3    0 org.mockito.internal.util.reflection.FieldInitializer.checkNotAbstract(Field)
+ 554    5   3    0 org.mockito.internal.util.reflection.FieldInitializer.acquireFieldInstance()
+ 555    1   1    1 org.mockito.internal.util.reflection.FieldInitializer.ConstructorArgumentResolver.resolveTypeInstances(Class)
+ 556    1   1    0 org.mockito.internal.util.reflection.FieldInitializer.ConstructorInstantiator.instantiate()
+ 557    3   1    1 org.mockito.internal.util.reflection.FieldInitializer.NoArgConstructorInstantiator.NoArgConstructorInstantiator(Object,Field)
+ 558   20  11    0 org.mockito.internal.util.reflection.FieldInitializer.NoArgConstructorInstantiator.instantiate()
+ 559    7   3    0 org.mockito.internal.util.reflection.FieldInitializer.ParameterizedConstructorInstantiator.Comparator.compare(Constructor,Constructor)
+ 560    6   3    0 org.mockito.internal.util.reflection.FieldInitializer.ParameterizedConstructorInstantiator.Comparator.countMockableParams(Constructor)
+ 561    4   1    1 org.mockito.internal.util.reflection.FieldInitializer.ParameterizedConstructorInstantiator.ParameterizedConstructorInstantiator(Object,Field,ConstructorArgumentResolver)
+ 562   20  11    0 org.mockito.internal.util.reflection.FieldInitializer.ParameterizedConstructorInstantiator.instantiate()
+ 563    3   3    0 org.mockito.internal.util.reflection.FieldInitializer.ParameterizedConstructorInstantiator.checkParameterized(Constructor,Field)
+ 564    6   1    0 org.mockito.internal.util.reflection.FieldInitializer.ParameterizedConstructorInstantiator.biggestConstructor(Class)
+ 565    4   3    1 org.mockito.internal.util.reflection.Constructors.noArgConstructorOf(Class)
+ 566   10   6    1 org.mockito.internal.util.reflection.GenericMaster.getGenericType(Field)
+ 567    7   4    0 org.mockito.internal.util.reflection.Whitebox.getInternalState(Object,String)
+ 568    7   3    0 org.mockito.internal.util.reflection.Whitebox.setInternalState(Object,String,Object)
+ 569    8   5    0 org.mockito.internal.util.reflection.Whitebox.getFieldFromHierarchy(Class,String)
+ 570    4   3    0 org.mockito.internal.util.reflection.Whitebox.getField(Class,String)
+ 571    3   1    1 org.mockito.internal.util.reflection.InstanceField.InstanceField(Field,Object)
+ 572    2   1    1 org.mockito.internal.util.reflection.InstanceField.read()
+ 573    2   1    1 org.mockito.internal.util.reflection.InstanceField.set(Object)
+ 574    2   1    1 org.mockito.internal.util.reflection.InstanceField.isNull()
+ 575    2   1    1 org.mockito.internal.util.reflection.InstanceField.isAnnotatedBy(Annotation)
+ 576    2   1    1 org.mockito.internal.util.reflection.InstanceField.annotation(A)
+ 577    2   1    1 org.mockito.internal.util.reflection.InstanceField.jdkField()
+ 578    4   2    0 org.mockito.internal.util.reflection.InstanceField.reader()
+ 579    2   1    1 org.mockito.internal.util.reflection.InstanceField.name()
+ 580    7   7    0 org.mockito.internal.util.reflection.InstanceField.equals(Object)
+ 581    4   1    0 org.mockito.internal.util.reflection.InstanceField.hashCode()
+ 582    4   1    1 org.mockito.internal.util.reflection.BeanPropertySetter.BeanPropertySetter(Object,Field,boolean)
+ 583    2   1    1 org.mockito.internal.util.reflection.BeanPropertySetter.BeanPropertySetter(Object,Field)
+ 584   18   8    1 org.mockito.internal.util.reflection.BeanPropertySetter.set(Object)
+ 585    2   1    1 org.mockito.internal.util.reflection.BeanPropertySetter.setterName(String)
+ 586    3   3    0 org.mockito.internal.util.reflection.BeanPropertySetter.reportNoSetterFound()
+ 587    6   2    0 org.mockito.internal.util.MockNameImpl.MockNameImpl(String,Class)
+ 588    2   1    0 org.mockito.internal.util.MockNameImpl.MockNameImpl(String)
+ 589    5   2    0 org.mockito.internal.util.MockNameImpl.toInstanceName(Class)
+ 590    2   1    0 org.mockito.internal.util.MockNameImpl.isDefault()
+ 591    2   1    0 org.mockito.internal.util.MockNameImpl.toString()
+ 592    3   1    0 org.mockito.internal.util.StringJoiner.join(Object)
+ 593    5   2    0 org.mockito.internal.util.StringJoiner.join(StringBuilder,Object[])
+ 594    5   2    0 org.mockito.internal.junit.JUnitDetecter.JUnitDetecter()
+ 595    2   1    0 org.mockito.internal.junit.JUnitDetecter.hasJUnit()
+ 596    2   1    0 org.mockito.internal.junit.JUnitTool.hasJUnit()
+ 597    2   1    0 org.mockito.internal.junit.JUnitTool.createArgumentsAreDifferentException(String,String,String)
+ 598    4   1    0 org.mockito.internal.junit.JUnitRule.Statement.evaluate()
+ 599    6   1    0 org.mockito.internal.junit.JUnitRule.apply(Statement,Object)
+ 600    2   1    0 org.mockito.internal.junit.FriendlyExceptionMaker.FriendlyExceptionMaker(JUnitDetecter)
+ 601    8   5    0 org.mockito.internal.junit.FriendlyExceptionMaker.createArgumentsAreDifferentException(String,String,String)
+ 602   21   6    0 org.mockito.internal.debugging.MockitoDebuggerImpl.printInvocations(Object)
+ 603    2   1    0 org.mockito.internal.debugging.MockitoDebuggerImpl.line(String)
+ 604    3   1    0 org.mockito.internal.debugging.MockitoDebuggerImpl.print(String)
+ 605    2   1    0 org.mockito.internal.debugging.WarningsPrinterImpl.WarningsPrinterImpl(Invocation,InvocationMatcher)
+ 606    2   1    0 org.mockito.internal.debugging.WarningsPrinterImpl.WarningsPrinterImpl(Invocation,InvocationMatcher,boolean)
+ 607    3   1    0 org.mockito.internal.debugging.WarningsPrinterImpl.WarningsPrinterImpl(boolean,WarningsFinder)
+ 608    2   1    0 org.mockito.internal.debugging.WarningsPrinterImpl.print(MockitoLogger)
+ 609    4   1    0 org.mockito.internal.debugging.WarningsPrinterImpl.print()
+ 610    3   1    0 org.mockito.internal.debugging.WarningsFinder.WarningsFinder(Invocation,InvocationMatcher)
+ 611   17   6    0 org.mockito.internal.debugging.WarningsFinder.find(FindingsListener)
+ 612    2   1    0 org.mockito.internal.debugging.LocationImpl.LocationImpl()
+ 613    3   1    0 org.mockito.internal.debugging.LocationImpl.LocationImpl(StackTraceFilter)
+ 614    5   3    0 org.mockito.internal.debugging.LocationImpl.toString()
+ 615    3   1    0 org.mockito.internal.debugging.Localized.Localized(T)
+ 616    2   1    0 org.mockito.internal.debugging.Localized.getObject()
+ 617    2   1    0 org.mockito.internal.debugging.Localized.getLocation()
+ 618    4   1    0 org.mockito.internal.debugging.WarningsCollector.WarningsCollector()
+ 619    6   1    0 org.mockito.internal.debugging.WarningsCollector.getWarnings()
+ 620    1   1    0 org.mockito.internal.debugging.FindingsListener.foundStubCalledWithDifferentArgs(Invocation,InvocationMatcher)
+ 621    1   1    0 org.mockito.internal.debugging.FindingsListener.foundUnusedStub(Invocation)
+ 622    1   1    0 org.mockito.internal.debugging.FindingsListener.foundUnstubbed(InvocationMatcher)
+ 623    2   1    0 org.mockito.internal.debugging.VerboseMockInvocationLogger.VerboseMockInvocationLogger()
+ 624    2   1    0 org.mockito.internal.debugging.VerboseMockInvocationLogger.VerboseMockInvocationLogger(PrintStream)
+ 625    6   1    0 org.mockito.internal.debugging.VerboseMockInvocationLogger.reportInvocation(MethodInvocationReport)
+ 626    7   4    0 org.mockito.internal.debugging.VerboseMockInvocationLogger.printReturnedValueOrThrowable(MethodInvocationReport)
+ 627    3   2    0 org.mockito.internal.debugging.VerboseMockInvocationLogger.printStubInfo(MethodInvocationReport)
+ 628    3   1    0 org.mockito.internal.debugging.VerboseMockInvocationLogger.printHeader()
+ 629    3   1    0 org.mockito.internal.debugging.VerboseMockInvocationLogger.printInvocation(DescribedInvocation)
+ 630    2   1    0 org.mockito.internal.debugging.VerboseMockInvocationLogger.printFooter()
+ 631    2   1    0 org.mockito.internal.debugging.VerboseMockInvocationLogger.printlnIndented(String)
+ 632    3   1    0 org.mockito.internal.debugging.LoggingListener.LoggingListener(boolean,MockitoLogger)
+ 633    2   1    0 org.mockito.internal.debugging.LoggingListener.foundStubCalledWithDifferentArgs(Invocation,InvocationMatcher)
+ 634    2   1    0 org.mockito.internal.debugging.LoggingListener.foundUnusedStub(Invocation)
+ 635    3   2    0 org.mockito.internal.debugging.LoggingListener.foundUnstubbed(InvocationMatcher)
+ 636    2   1    0 org.mockito.internal.debugging.LoggingListener.isWarnAboutUnstubbed()
+ 637    2   1    0 org.mockito.internal.debugging.LoggingListener.getLogger()
+ 638    1   1    0 org.mockito.internal.exceptions.VerificationAwareInvocation.isVerified()
+ 639   12   5    0 org.mockito.internal.exceptions.util.ScenarioPrinter.print(VerificationAwareInvocation)
+ 640   19   6    1 org.mockito.internal.exceptions.stacktrace.StackTraceFilter.filter(StackTraceElement[],boolean)
+ 641    2   1    0 org.mockito.internal.exceptions.stacktrace.DefaultStackTraceCleanerProvider.getStackTraceCleaner(StackTraceCleaner)
+ 642    5   3    0 org.mockito.internal.exceptions.stacktrace.ConditionalStackTraceFilter.filter(Throwable)
+ 643    7   5    0 org.mockito.internal.exceptions.stacktrace.DefaultStackTraceCleaner.isOut(StackTraceElement)
+ 644    2   1    0 org.mockito.internal.exceptions.ExceptionIncludingMockitoWarnings.ExceptionIncludingMockitoWarnings(String,Throwable)
+ 645    2   1    0 org.mockito.internal.MockitoCore.isTypeMockable(Class)
+ 646    8   3    0 org.mockito.internal.MockitoCore.mock(T,MockSettings)
+ 647    6   2    0 org.mockito.internal.MockitoCore.stub()
+ 648    3   1    0 org.mockito.internal.MockitoCore.stub(T)
+ 649    3   1    0 org.mockito.internal.MockitoCore.when(T)
+ 650    8   3    0 org.mockito.internal.MockitoCore.verify(T,VerificationMode)
+ 651    6   2    0 org.mockito.internal.MockitoCore.reset(T)
+ 652   11   4    0 org.mockito.internal.MockitoCore.verifyNoMoreInteractions(Object)
+ 653    5   1    0 org.mockito.internal.MockitoCore.verifyNoMoreInteractionsInOrder(Object,InOrderContext)
+ 654    3   3    0 org.mockito.internal.MockitoCore.assertMocksNotEmpty(Object[])
+ 655   10   6    0 org.mockito.internal.MockitoCore.inOrder(Object)
+ 656    4   1    0 org.mockito.internal.MockitoCore.doAnswer(Answer)
+ 657    4   1    0 org.mockito.internal.MockitoCore.stubVoid(T)
+ 658    2   1    0 org.mockito.internal.MockitoCore.validateMockitoUsage()
+ 659    4   1    1 org.mockito.internal.MockitoCore.getLastInvocation()
+ 660    8   4    0 org.mockito.internal.MockitoCore.ignoreStubs(Object)
+ 661    2   1    0 org.mockito.internal.MockitoCore.mockingDetails(Object)
+ 662    4   3    0 org.mockito.internal.verification.Calls.Calls(int)
+ 663    2   2    0 org.mockito.internal.verification.Calls.verify(VerificationData)
+ 664    7   1    0 org.mockito.internal.verification.Calls.verifyInOrder(VerificationDataInOrder)
+ 665    2   1    0 org.mockito.internal.verification.Calls.toString()
+ 666    4   1    0 org.mockito.internal.verification.VerificationDataImpl.VerificationDataImpl(InvocationContainer,InvocationMatcher)
+ 667    2   1    0 org.mockito.internal.verification.VerificationDataImpl.getAllInvocations()
+ 668    2   1    0 org.mockito.internal.verification.VerificationDataImpl.getWanted()
+ 669    6   4    0 org.mockito.internal.verification.VerificationDataImpl.assertWantedIsVerifiable()
+ 670    2   1    0 org.mockito.internal.verification.checkers.MissingInvocationInOrderChecker.MissingInvocationInOrderChecker()
+ 671    3   1    0 org.mockito.internal.verification.checkers.MissingInvocationInOrderChecker.MissingInvocationInOrderChecker(InvocationsFinder,Reporter)
+ 672   17   7    0 org.mockito.internal.verification.checkers.MissingInvocationInOrderChecker.check(Invocation,InvocationMatcher,VerificationMode,InOrderContext)
+ 673    7   2    0 org.mockito.internal.verification.checkers.AtLeastXNumberOfInvocationsChecker.check(Invocation,InvocationMatcher,int)
+ 674    2   1    0 org.mockito.internal.verification.checkers.AtLeastDiscrepancy.AtLeastDiscrepancy(int,int)
+ 675    2   1    0 org.mockito.internal.verification.checkers.AtLeastDiscrepancy.getPluralizedWantedCount()
+ 676    2   1    0 org.mockito.internal.verification.checkers.AtLeastXNumberOfInvocationsInOrderChecker.AtLeastXNumberOfInvocationsInOrderChecker(InOrderContext)
+ 677    7   2    0 org.mockito.internal.verification.checkers.AtLeastXNumberOfInvocationsInOrderChecker.check(Invocation,InvocationMatcher,int)
+ 678    2   1    0 org.mockito.internal.verification.checkers.NumberOfInvocationsChecker.NumberOfInvocationsChecker()
+ 679    3   1    0 org.mockito.internal.verification.checkers.NumberOfInvocationsChecker.NumberOfInvocationsChecker(Reporter,InvocationsFinder)
+ 680   15   5    0 org.mockito.internal.verification.checkers.NumberOfInvocationsChecker.check(Invocation,InvocationMatcher,int)
+ 681    2   1    0 org.mockito.internal.verification.checkers.NonGreedyNumberOfInvocationsInOrderChecker.NonGreedyNumberOfInvocationsInOrderChecker()
+ 682    4   1    0 org.mockito.internal.verification.checkers.NonGreedyNumberOfInvocationsInOrderChecker.NonGreedyNumberOfInvocationsInOrderChecker(InvocationsFinder,Reporter,InvocationMarker)
+ 683   11   3    0 org.mockito.internal.verification.checkers.NonGreedyNumberOfInvocationsInOrderChecker.check(Invocation,InvocationMatcher,int,InOrderContext)
+ 684    2   1    0 org.mockito.internal.verification.checkers.MissingInvocationChecker.MissingInvocationChecker()
+ 685    3   1    0 org.mockito.internal.verification.checkers.MissingInvocationChecker.MissingInvocationChecker(InvocationsFinder,Reporter)
+ 686   11   3    0 org.mockito.internal.verification.checkers.MissingInvocationChecker.check(Invocation,InvocationMatcher)
+ 687    2   1    0 org.mockito.internal.verification.checkers.NumberOfInvocationsInOrderChecker.NumberOfInvocationsInOrderChecker()
+ 688    3   1    0 org.mockito.internal.verification.checkers.NumberOfInvocationsInOrderChecker.NumberOfInvocationsInOrderChecker(InvocationsFinder,Reporter)
+ 689   11   3    0 org.mockito.internal.verification.checkers.NumberOfInvocationsInOrderChecker.check(Invocation,InvocationMatcher,int,InOrderContext)
+ 690    1   1    0 org.mockito.internal.verification.RegisteredInvocations.add(Invocation)
+ 691    1   1    0 org.mockito.internal.verification.RegisteredInvocations.removeLast()
+ 692    1   1    0 org.mockito.internal.verification.RegisteredInvocations.getAll()
+ 693    1   1    0 org.mockito.internal.verification.RegisteredInvocations.isEmpty()
+ 694    4   2    0 org.mockito.internal.verification.NoMoreInteractions.verify(VerificationData)
+ 695    5   2    0 org.mockito.internal.verification.NoMoreInteractions.verifyInOrder(VerificationDataInOrder)
+ 696    4   3    0 org.mockito.internal.verification.AtLeast.AtLeast(int)
+ 697    6   2    0 org.mockito.internal.verification.AtLeast.verify(VerificationData)
+ 698    8   2    0 org.mockito.internal.verification.AtLeast.verifyInOrder(VerificationDataInOrder)
+ 699    2   1    0 org.mockito.internal.verification.AtLeast.toString()
+ 700    3   1    0 org.mockito.internal.verification.DefaultRegisteredInvocations.add(Invocation)
+ 701    4   2    0 org.mockito.internal.verification.DefaultRegisteredInvocations.removeLast()
+ 702    5   1    0 org.mockito.internal.verification.DefaultRegisteredInvocations.getAll()
+ 703    3   1    0 org.mockito.internal.verification.DefaultRegisteredInvocations.isEmpty()
+ 704    2   1    0 org.mockito.internal.verification.DefaultRegisteredInvocations.RemoveToString.isOut(Invocation)
+ 705    2   1    1 org.mockito.internal.verification.VerificationOverTimeImpl.VerificationOverTimeImpl(long,long,VerificationMode,boolean)
+ 706    5   1    1 org.mockito.internal.verification.VerificationOverTimeImpl.VerificationOverTimeImpl(long,VerificationMode,boolean,Timer)
+ 707   15   8    1 org.mockito.internal.verification.VerificationOverTimeImpl.verify(VerificationData)
+ 708    6   4    0 org.mockito.internal.verification.VerificationOverTimeImpl.handleVerifyException(AssertionError)
+ 709    2   2    0 org.mockito.internal.verification.VerificationOverTimeImpl.canRecoverFromFailure(VerificationMode)
+ 710    2   1    0 org.mockito.internal.verification.VerificationOverTimeImpl.copyWithVerificationMode(VerificationMode)
+ 711    4   3    0 org.mockito.internal.verification.VerificationOverTimeImpl.sleep(long)
+ 712    4   3    0 org.mockito.internal.verification.AtMost.AtMost(int)
+ 713    9   2    0 org.mockito.internal.verification.AtMost.verify(VerificationData)
+ 714    2   1    0 org.mockito.internal.verification.VerificationModeFactory.atLeastOnce()
+ 715    2   1    0 org.mockito.internal.verification.VerificationModeFactory.atLeast(int)
+ 716    2   1    0 org.mockito.internal.verification.VerificationModeFactory.only()
+ 717    2   1    0 org.mockito.internal.verification.VerificationModeFactory.times(int)
+ 718    2   1    0 org.mockito.internal.verification.VerificationModeFactory.calls(int)
+ 719    2   1    0 org.mockito.internal.verification.VerificationModeFactory.noMoreInteractions()
+ 720    2   1    0 org.mockito.internal.verification.VerificationModeFactory.atMost(int)
+ 721    3   1    0 org.mockito.internal.verification.MockAwareVerificationMode.MockAwareVerificationMode(Object,VerificationMode)
+ 722    2   1    0 org.mockito.internal.verification.MockAwareVerificationMode.verify(VerificationData)
+ 723    2   1    0 org.mockito.internal.verification.MockAwareVerificationMode.getMock()
+ 724    2   1    0 org.mockito.internal.verification.InOrderContextImpl.isVerified(Invocation)
+ 725    2   1    0 org.mockito.internal.verification.InOrderContextImpl.markVerified(Invocation)
+ 726   10   8    1 org.mockito.internal.verification.argumentmatching.ArgumentMatchingTool.getSuspiciouslyNotMatchingArgsIndexes(Matcher,Object[])
+ 727    4   3    0 org.mockito.internal.verification.argumentmatching.ArgumentMatchingTool.safelyMatches(Matcher,Object)
+ 728    2   2    0 org.mockito.internal.verification.argumentmatching.ArgumentMatchingTool.toStringEquals(Matcher,Object)
+ 729    3   1    0 org.mockito.internal.verification.InOrderWrapper.InOrderWrapper(VerificationInOrderMode,InOrderImpl)
+ 730    4   1    0 org.mockito.internal.verification.InOrderWrapper.verify(VerificationData)
+ 731    1   1    0 org.mockito.internal.verification.api.VerificationInOrderMode.verifyInOrder(VerificationDataInOrder)
+ 732    1   1    0 org.mockito.internal.verification.api.VerificationData.getAllInvocations()
+ 733    1   1    0 org.mockito.internal.verification.api.VerificationData.getWanted()
+ 734    4   1    0 org.mockito.internal.verification.api.VerificationDataInOrderImpl.VerificationDataInOrderImpl(InOrderContext,Invocation,InvocationMatcher)
+ 735    2   1    0 org.mockito.internal.verification.api.VerificationDataInOrderImpl.getAllInvocations()
+ 736    2   1    0 org.mockito.internal.verification.api.VerificationDataInOrderImpl.getOrderingContext()
+ 737    2   1    0 org.mockito.internal.verification.api.VerificationDataInOrderImpl.getWanted()
+ 738    1   1    0 org.mockito.internal.verification.api.VerificationDataInOrder.getAllInvocations()
+ 739    1   1    0 org.mockito.internal.verification.api.VerificationDataInOrder.getWanted()
+ 740    1   1    0 org.mockito.internal.verification.api.VerificationDataInOrder.getOrderingContext()
+ 741    1   1    0 org.mockito.internal.verification.api.InOrderContext.isVerified(Invocation)
+ 742    1   1    0 org.mockito.internal.verification.api.InOrderContext.markVerified(Invocation)
+ 743    4   3    0 org.mockito.internal.verification.Times.Times(int)
+ 744    6   2    0 org.mockito.internal.verification.Times.verify(VerificationData)
+ 745    8   2    0 org.mockito.internal.verification.Times.verifyInOrder(VerificationDataInOrder)
+ 746    2   1    0 org.mockito.internal.verification.Times.toString()
+ 747    2   1    0 org.mockito.internal.verification.SingleRegisteredInvocation.add(Invocation)
+ 748    2   1    0 org.mockito.internal.verification.SingleRegisteredInvocation.removeLast()
+ 749    2   1    0 org.mockito.internal.verification.SingleRegisteredInvocation.getAll()
+ 750    2   1    0 org.mockito.internal.verification.SingleRegisteredInvocation.isEmpty()
+ 751   11   5    0 org.mockito.internal.verification.Only.verify(VerificationData)
+ 752    3   1    0 org.mockito.internal.creation.DelegatingMethod.DelegatingMethod(Method)
+ 753    2   1    0 org.mockito.internal.creation.DelegatingMethod.getExceptionTypes()
+ 754    2   1    0 org.mockito.internal.creation.DelegatingMethod.getJavaMethod()
+ 755    2   1    0 org.mockito.internal.creation.DelegatingMethod.getName()
+ 756    2   1    0 org.mockito.internal.creation.DelegatingMethod.getParameterTypes()
+ 757    2   1    0 org.mockito.internal.creation.DelegatingMethod.getReturnType()
+ 758    2   1    0 org.mockito.internal.creation.DelegatingMethod.isVarArgs()
+ 759    2   1    0 org.mockito.internal.creation.DelegatingMethod.isAbstract()
+ 760    8   5    1 org.mockito.internal.creation.DelegatingMethod.equals(Object)
+ 761    2   1    0 org.mockito.internal.creation.DelegatingMethod.hashCode()
+ 762    1   1    0 org.mockito.internal.creation.settings.CreationSettings.CreationSettings()
+ 763   12   1    0 org.mockito.internal.creation.settings.CreationSettings.CreationSettings(CreationSettings)
+ 764    2   1    0 org.mockito.internal.creation.settings.CreationSettings.getTypeToMock()
+ 765    3   1    0 org.mockito.internal.creation.settings.CreationSettings.setTypeToMock(T)
+ 766    2   1    0 org.mockito.internal.creation.settings.CreationSettings.getExtraInterfaces()
+ 767    3   1    0 org.mockito.internal.creation.settings.CreationSettings.setExtraInterfaces(Class)
+ 768    2   1    0 org.mockito.internal.creation.settings.CreationSettings.getName()
+ 769    2   1    0 org.mockito.internal.creation.settings.CreationSettings.getSpiedInstance()
+ 770    2   1    0 org.mockito.internal.creation.settings.CreationSettings.getDefaultAnswer()
+ 771    2   1    0 org.mockito.internal.creation.settings.CreationSettings.getMockName()
+ 772    3   1    0 org.mockito.internal.creation.settings.CreationSettings.setMockName(MockName)
+ 773    2   1    0 org.mockito.internal.creation.settings.CreationSettings.isSerializable()
+ 774    2   1    0 org.mockito.internal.creation.settings.CreationSettings.getSerializableMode()
+ 775    2   1    0 org.mockito.internal.creation.settings.CreationSettings.getInvocationListeners()
+ 776    2   1    0 org.mockito.internal.creation.settings.CreationSettings.isUsingConstructor()
+ 777    2   1    0 org.mockito.internal.creation.settings.CreationSettings.getOuterClassInstance()
+ 778    2   1    0 org.mockito.internal.creation.settings.CreationSettings.isStubOnly()
+ 779    2   1    0 org.mockito.internal.creation.MockSettingsImpl.serializable()
+ 780    3   1    0 org.mockito.internal.creation.MockSettingsImpl.serializable(SerializableMode)
+ 781   11   6    0 org.mockito.internal.creation.MockSettingsImpl.extraInterfaces(Class)
+ 782    2   1    0 org.mockito.internal.creation.MockSettingsImpl.getMockName()
+ 783    2   1    0 org.mockito.internal.creation.MockSettingsImpl.getExtraInterfaces()
+ 784    2   1    0 org.mockito.internal.creation.MockSettingsImpl.getSpiedInstance()
+ 785    3   1    0 org.mockito.internal.creation.MockSettingsImpl.name(String)
+ 786    3   1    0 org.mockito.internal.creation.MockSettingsImpl.spiedInstance(Object)
+ 787    5   2    0 org.mockito.internal.creation.MockSettingsImpl.defaultAnswer(Answer)
+ 788    2   1    0 org.mockito.internal.creation.MockSettingsImpl.getDefaultAnswer()
+ 789    3   1    0 org.mockito.internal.creation.MockSettingsImpl.stubOnly()
+ 790    3   1    0 org.mockito.internal.creation.MockSettingsImpl.useConstructor()
+ 791    3   1    0 org.mockito.internal.creation.MockSettingsImpl.outerInstance(Object)
+ 792    2   1    0 org.mockito.internal.creation.MockSettingsImpl.isUsingConstructor()
+ 793    2   1    0 org.mockito.internal.creation.MockSettingsImpl.getOuterClassInstance()
+ 794    2   1    0 org.mockito.internal.creation.MockSettingsImpl.isStubOnly()
+ 795    4   2    0 org.mockito.internal.creation.MockSettingsImpl.verboseLogging()
+ 796    8   5    0 org.mockito.internal.creation.MockSettingsImpl.invocationListeners(InvocationListener)
+ 797    5   4    0 org.mockito.internal.creation.MockSettingsImpl.invocationListenersContainsType(Class)
+ 798    2   1    0 org.mockito.internal.creation.MockSettingsImpl.getInvocationListeners()
+ 799    2   1    0 org.mockito.internal.creation.MockSettingsImpl.hasInvocationListeners()
+ 800    2   1    0 org.mockito.internal.creation.MockSettingsImpl.getTypeToMock()
+ 801    2   1    0 org.mockito.internal.creation.MockSettingsImpl.confirm(T)
+ 802   12   1    0 org.mockito.internal.creation.MockSettingsImpl.validatedSettings(T,T)
+ 803    5   2    0 org.mockito.internal.creation.MockSettingsImpl.prepareExtraInterfaces(CreationSettings)
+ 804    3   1    0 org.mockito.internal.creation.util.SearchingClassLoader.SearchingClassLoader(ClassLoader,ClassLoader)
+ 805    2   1    0 org.mockito.internal.creation.util.SearchingClassLoader.combineLoadersOf(Class)
+ 806    8   2    0 org.mockito.internal.creation.util.SearchingClassLoader.combineLoadersOf(Class,Class)
+ 807    5   2    0 org.mockito.internal.creation.util.SearchingClassLoader.combine(ClassLoader)
+ 808    3   3    0 org.mockito.internal.creation.util.SearchingClassLoader.addIfNewElement(ClassLoader,ClassLoader)
+ 809    5   3    0 org.mockito.internal.creation.util.SearchingClassLoader.findClass(String)
+ 810    1   1    0 org.mockito.internal.creation.util.MockitoMethodProxy.invokeSuper(Object,Object[])
+ 811    1   1    0 org.mockito.internal.creation.instance.Instantiator.newInstance(T)
+ 812    2   1    0 org.mockito.internal.creation.instance.ConstructorInstantiator.ConstructorInstantiator(Object)
+ 813    4   3    0 org.mockito.internal.creation.instance.ConstructorInstantiator.newInstance(T)
+ 814    8   7    0 org.mockito.internal.creation.instance.ConstructorInstantiator.withParams(T,Object)
+ 815    4   1    0 org.mockito.internal.creation.instance.ConstructorInstantiator.invokeConstructor(Constructor,Object)
+ 816    2   1    0 org.mockito.internal.creation.instance.ConstructorInstantiator.paramsException(T,Exception)
+ 817    7   6    0 org.mockito.internal.creation.instance.ConstructorInstantiator.paramsMatch(Class[],Object[])
+ 818    4   4    0 org.mockito.internal.creation.instance.ConstructorInstantiator.noArgConstructor(T)
+ 819    2   1    0 org.mockito.internal.creation.instance.InstantiationException.InstantiationException(String,Throwable)
+ 820    2   1    0 org.mockito.internal.creation.instance.ObjenesisInstantiator.newInstance(T)
+ 821    5   3    0 org.mockito.internal.creation.instance.InstantiatorProvider.getInstantiator(MockCreationSettings)
+ 822    1   1    0 org.mockito.internal.runners.RunnerImpl.run(RunNotifier)
+ 823    1   1    0 org.mockito.internal.runners.RunnerImpl.getDescription()
+ 824    2   1    0 org.mockito.internal.runners.util.RunnerProvider.isJUnit45OrHigherAvailable()
+ 825   11   8    0 org.mockito.internal.runners.util.RunnerProvider.newInstance(String,Class)
+ 826    2   1    0 org.mockito.internal.runners.util.FrameworkUsageValidator.FrameworkUsageValidator(RunNotifier)
+ 827    5   2    0 org.mockito.internal.runners.util.FrameworkUsageValidator.testFinished(Description)
+ 828    6   4    0 org.mockito.internal.runners.util.TestMethodsFinder.hasTestMethods(Class)
+ 829    4   1    0 org.mockito.internal.runners.JUnit44RunnerImpl.JUnit4ClassRunner.createTest()
+ 830    6   1    0 org.mockito.internal.runners.JUnit44RunnerImpl.JUnit44RunnerImpl(Class)
+ 831    3   1    0 org.mockito.internal.runners.JUnit44RunnerImpl.run(RunNotifier)
+ 832    2   1    0 org.mockito.internal.runners.JUnit44RunnerImpl.getDescription()
+ 833    2   1    0 org.mockito.internal.runners.JUnit44RunnerImpl.filter(Filter)
+ 834    2   1    0 org.mockito.internal.runners.RunnerFactory.RunnerFactory(RunnerProvider)
+ 835    2   1    0 org.mockito.internal.runners.RunnerFactory.RunnerFactory()
+ 836   11  10    0 org.mockito.internal.runners.RunnerFactory.create(Class)
+ 837    3   1    0 org.mockito.internal.runners.JUnit45AndHigherRunnerImpl.BlockJUnit4ClassRunner.withBefores(FrameworkMethod,Object,Statement)
+ 838    5   1    0 org.mockito.internal.runners.JUnit45AndHigherRunnerImpl.JUnit45AndHigherRunnerImpl(Class)
+ 839    3   1    0 org.mockito.internal.runners.JUnit45AndHigherRunnerImpl.run(RunNotifier)
+ 840    2   1    0 org.mockito.internal.runners.JUnit45AndHigherRunnerImpl.getDescription()
+ 841    2   1    0 org.mockito.internal.runners.JUnit45AndHigherRunnerImpl.filter(Filter)
+ 842    3   1    0 org.mockito.internal.stubbing.InvocationContainerImpl.InvocationContainerImpl(MockingProgress,MockCreationSettings)
+ 843    3   1    0 org.mockito.internal.stubbing.InvocationContainerImpl.setInvocationForPotentialStubbing(InvocationMatcher)
+ 844    2   1    0 org.mockito.internal.stubbing.InvocationContainerImpl.resetInvocationForPotentialStubbing(InvocationMatcher)
+ 845    3   1    0 org.mockito.internal.stubbing.InvocationContainerImpl.addAnswer(Answer)
+ 846    2   1    0 org.mockito.internal.stubbing.InvocationContainerImpl.addConsecutiveAnswer(Answer)
+ 847   10   2    0 org.mockito.internal.stubbing.InvocationContainerImpl.addAnswer(Answer,boolean)
+ 848    2   1    0 org.mockito.internal.stubbing.InvocationContainerImpl.answerTo(Invocation)
+ 849    8   4    0 org.mockito.internal.stubbing.InvocationContainerImpl.findAnswerFor(Invocation)
+ 850    2   1    0 org.mockito.internal.stubbing.InvocationContainerImpl.addAnswerForVoidMethod(Answer)
+ 851    2   1    0 org.mockito.internal.stubbing.InvocationContainerImpl.setAnswersForStubbing(Answer)
+ 852    2   1    0 org.mockito.internal.stubbing.InvocationContainerImpl.hasAnswersForStubbing()
+ 853    2   1    0 org.mockito.internal.stubbing.InvocationContainerImpl.hasInvocationForPotentialStubbing()
+ 854    6   2    0 org.mockito.internal.stubbing.InvocationContainerImpl.setMethodForStubbing(InvocationMatcher)
+ 855    2   1    0 org.mockito.internal.stubbing.InvocationContainerImpl.toString()
+ 856    2   1    0 org.mockito.internal.stubbing.InvocationContainerImpl.getInvocations()
+ 857    2   1    0 org.mockito.internal.stubbing.InvocationContainerImpl.getStubbedInvocations()
+ 858    2   1    0 org.mockito.internal.stubbing.InvocationContainerImpl.invokedMock()
+ 859    2   1    0 org.mockito.internal.stubbing.InvocationContainerImpl.getInvocationForStubbing()
+ 860    2   2    0 org.mockito.internal.stubbing.InvocationContainerImpl.createRegisteredInvocations(MockCreationSettings)
+ 861    2   1    0 org.mockito.internal.stubbing.answers.ThrowsException.ThrowsException(Throwable)
+ 862    6   4    0 org.mockito.internal.stubbing.answers.ThrowsException.answer(InvocationOnMock)
+ 863    2   1    0 org.mockito.internal.stubbing.answers.ThrowsException.getThrowable()
+ 864    2   1    0 org.mockito.internal.stubbing.answers.MethodInfo.MethodInfo(Invocation)
+ 865    7   4    0 org.mockito.internal.stubbing.answers.MethodInfo.isValidException(Throwable)
+ 866    5   4    0 org.mockito.internal.stubbing.answers.MethodInfo.isValidReturnType(Class)
+ 867    2   1    0 org.mockito.internal.stubbing.answers.MethodInfo.isVoid()
+ 868    2   1    0 org.mockito.internal.stubbing.answers.MethodInfo.printMethodReturnType()
+ 869    2   1    0 org.mockito.internal.stubbing.answers.MethodInfo.getMethodName()
+ 870    2   1    0 org.mockito.internal.stubbing.answers.MethodInfo.returnsPrimitive()
+ 871    2   1    0 org.mockito.internal.stubbing.answers.MethodInfo.getMethod()
+ 872    2   1    0 org.mockito.internal.stubbing.answers.MethodInfo.isDeclaredOnInterface()
+ 873    2   1    0 org.mockito.internal.stubbing.answers.MethodInfo.isAbstract()
+ 874    4   3    0 org.mockito.internal.stubbing.answers.ReturnsElementsOf.ReturnsElementsOf(Collection)
+ 875    5   3    0 org.mockito.internal.stubbing.answers.ReturnsElementsOf.answer(InvocationOnMock)
+ 876    4   3    0 org.mockito.internal.stubbing.answers.CallsRealMethods.answer(InvocationOnMock)
+ 877    2   1    1 org.mockito.internal.stubbing.answers.ReturnsArgumentAt.ReturnsArgumentAt(int)
+ 878    3   1    0 org.mockito.internal.stubbing.answers.ReturnsArgumentAt.answer(InvocationOnMock)
+ 879    2   2    0 org.mockito.internal.stubbing.answers.ReturnsArgumentAt.actualArgumentPosition(InvocationOnMock)
+ 880    2   1    0 org.mockito.internal.stubbing.answers.ReturnsArgumentAt.returningLastArg()
+ 881    2   1    0 org.mockito.internal.stubbing.answers.ReturnsArgumentAt.argumentIndexOf(InvocationOnMock)
+ 882    2   1    0 org.mockito.internal.stubbing.answers.ReturnsArgumentAt.lastArgumentIndexOf(InvocationOnMock)
+ 883    4   3    0 org.mockito.internal.stubbing.answers.ReturnsArgumentAt.checkWithinAllowedRange(int)
+ 884    2   1    0 org.mockito.internal.stubbing.answers.ReturnsArgumentAt.wantedArgumentPosition()
+ 885    3   2    0 org.mockito.internal.stubbing.answers.ReturnsArgumentAt.validateIndexWithinInvocationRange(InvocationOnMock)
+ 886    7   5    0 org.mockito.internal.stubbing.answers.ReturnsArgumentAt.argumentPositionInRange(InvocationOnMock)
+ 887   10   5    0 org.mockito.internal.stubbing.answers.ReturnsArgumentAt.returnedTypeOnSignature(InvocationOnMock)
+ 888    2   1    0 org.mockito.internal.stubbing.answers.ThrowsExceptionClass.ThrowsExceptionClass(Throwable)
+ 889    5   2    0 org.mockito.internal.stubbing.answers.ThrowsExceptionClass.answer(InvocationOnMock)
+ 890    2   1    0 org.mockito.internal.stubbing.answers.ThrowsExceptionClass.getThrowableClass()
+ 891   13   6    0 org.mockito.internal.stubbing.answers.AnswersValidator.validate(Answer,Invocation)
+ 892    5   2    0 org.mockito.internal.stubbing.answers.AnswersValidator.validateReturnArgIdentity(ReturnsArgumentAt,Invocation)
+ 893    3   2    0 org.mockito.internal.stubbing.answers.AnswersValidator.validateMockingConcreteClass(CallsRealMethods,MethodInfo)
+ 894    3   2    0 org.mockito.internal.stubbing.answers.AnswersValidator.validateDoNothing(DoesNothing,MethodInfo)
+ 895    7   6    0 org.mockito.internal.stubbing.answers.AnswersValidator.validateReturnValue(Returns,MethodInfo)
+ 896    8   6    0 org.mockito.internal.stubbing.answers.AnswersValidator.validateException(ThrowsException,MethodInfo)
+ 897    4   3    0 org.mockito.internal.stubbing.answers.AnswersValidator.validateDefaultAnswerReturnedValue(Invocation,Object)
+ 898    2   1    0 org.mockito.internal.stubbing.answers.AnswerReturnValuesAdapter.AnswerReturnValuesAdapter(ReturnValues)
+ 899    2   1    0 org.mockito.internal.stubbing.answers.AnswerReturnValuesAdapter.answer(InvocationOnMock)
+ 900    2   1    0 org.mockito.internal.stubbing.answers.DoesNothing.answer(InvocationOnMock)
+ 901    2   1    0 org.mockito.internal.stubbing.answers.Returns.Returns(Object)
+ 902    2   1    0 org.mockito.internal.stubbing.answers.Returns.answer(InvocationOnMock)
+ 903    2   1    0 org.mockito.internal.stubbing.answers.Returns.printReturnType()
+ 904    2   1    0 org.mockito.internal.stubbing.answers.Returns.getReturnType()
+ 905    2   1    0 org.mockito.internal.stubbing.answers.Returns.returnsNull()
+ 906    2   1    0 org.mockito.internal.stubbing.answers.Returns.toString()
+ 907    8   2    0 org.mockito.internal.stubbing.answers.ClonesArguments.answer(InvocationOnMock)
+ 908    3   1    0 org.mockito.internal.stubbing.VoidMethodStubbableImpl.VoidMethodStubbableImpl(T,InvocationContainerImpl)
+ 909    3   1    0 org.mockito.internal.stubbing.VoidMethodStubbableImpl.toThrow(Throwable)
+ 910    3   1    0 org.mockito.internal.stubbing.VoidMethodStubbableImpl.toReturn()
+ 911    3   1    0 org.mockito.internal.stubbing.VoidMethodStubbableImpl.toAnswer(Answer)
+ 912    2   1    0 org.mockito.internal.stubbing.VoidMethodStubbableImpl.on()
+ 913    3   1    0 org.mockito.internal.stubbing.StubbedInvocationMatcher.StubbedInvocationMatcher(InvocationMatcher,Answer)
+ 914    5   2    0 org.mockito.internal.stubbing.StubbedInvocationMatcher.answer(InvocationOnMock)
+ 915    2   1    0 org.mockito.internal.stubbing.StubbedInvocationMatcher.addAnswer(Answer)
+ 916    2   1    0 org.mockito.internal.stubbing.StubbedInvocationMatcher.markStubUsed(DescribedInvocation)
+ 917    2   1    0 org.mockito.internal.stubbing.StubbedInvocationMatcher.wasUsed()
+ 918    2   1    0 org.mockito.internal.stubbing.StubbedInvocationMatcher.toString()
+ 919    2   1    0 org.mockito.internal.stubbing.OngoingStubbingImpl.OngoingStubbingImpl(InvocationContainerImpl)
+ 920    5   2    0 org.mockito.internal.stubbing.OngoingStubbingImpl.thenAnswer(Answer)
+ 921    2   1    0 org.mockito.internal.stubbing.OngoingStubbingImpl.then(Answer)
+ 922    3   1    0 org.mockito.internal.stubbing.OngoingStubbingImpl.toAnswer(Answer)
+ 923    2   1    0 org.mockito.internal.stubbing.OngoingStubbingImpl.getRegisteredInvocations()
+ 924    2   1    0 org.mockito.internal.stubbing.OngoingStubbingImpl.getMock()
+ 925    1   1    0 org.mockito.internal.stubbing.InvocationContainer.getInvocations()
+ 926    1   1    0 org.mockito.internal.stubbing.InvocationContainer.getStubbedInvocations()
+ 927    2   1    0 org.mockito.internal.stubbing.ConsecutiveStubbing.ConsecutiveStubbing(InvocationContainerImpl)
+ 928    3   1    0 org.mockito.internal.stubbing.ConsecutiveStubbing.thenAnswer(Answer)
+ 929    2   1    0 org.mockito.internal.stubbing.ConsecutiveStubbing.then(Answer)
+ 930    3   1    0 org.mockito.internal.stubbing.ConsecutiveStubbing.toAnswer(Answer)
+ 931    2   1    0 org.mockito.internal.stubbing.ConsecutiveStubbing.getMock()
+ 932    2   1    0 org.mockito.internal.stubbing.defaultanswers.ForwardsInvocations.ForwardsInvocations(Object)
+ 933   12   5    0 org.mockito.internal.stubbing.defaultanswers.ForwardsInvocations.answer(InvocationOnMock)
+ 934    5   3    0 org.mockito.internal.stubbing.defaultanswers.ForwardsInvocations.getDelegateMethod(Method)
+ 935    2   2    0 org.mockito.internal.stubbing.defaultanswers.ForwardsInvocations.compatibleReturnTypes(Class,Class)
+ 936    2   1    0 org.mockito.internal.stubbing.defaultanswers.GloballyConfiguredAnswer.answer(InvocationOnMock)
+ 937    9   6    0 org.mockito.internal.stubbing.defaultanswers.ReturnsSmartNulls.answer(InvocationOnMock)
+ 938    3   1    0 org.mockito.internal.stubbing.defaultanswers.ReturnsSmartNulls.ThrowsSmartNullPointer.ThrowsSmartNullPointer(InvocationOnMock,Location)
+ 939    5   3    0 org.mockito.internal.stubbing.defaultanswers.ReturnsSmartNulls.ThrowsSmartNullPointer.answer(InvocationOnMock)
+ 940    2   1    0 org.mockito.internal.stubbing.defaultanswers.Answers.Answers(Object)
+ 941    2   1    0 org.mockito.internal.stubbing.defaultanswers.Answers.get()
+ 942    6   3    0 org.mockito.internal.stubbing.defaultanswers.ReturnsDeepStubs.answer(InvocationOnMock)
+ 943    7   4    0 org.mockito.internal.stubbing.defaultanswers.ReturnsDeepStubs.deepStub(InvocationOnMock,GenericMetadataSupport)
+ 944    3   1    1 org.mockito.internal.stubbing.defaultanswers.ReturnsDeepStubs.newDeepStubMock(GenericMetadataSupport,Object)
+ 945    3   2    0 org.mockito.internal.stubbing.defaultanswers.ReturnsDeepStubs.withSettingsUsing(GenericMetadataSupport,MockCreationSettings)
+ 946    2   1    0 org.mockito.internal.stubbing.defaultanswers.ReturnsDeepStubs.propagateSerializationSettings(MockSettings,MockCreationSettings)
+ 947    2   1    0 org.mockito.internal.stubbing.defaultanswers.ReturnsDeepStubs.returnsDeepStubsAnswerUsing(GenericMetadataSupport)
+ 948    3   1    0 org.mockito.internal.stubbing.defaultanswers.ReturnsDeepStubs.recordDeepStubAnswer(Object,InvocationContainerImpl)
+ 949    3   1    0 org.mockito.internal.stubbing.defaultanswers.ReturnsDeepStubs.actualParameterizedType(Object)
+ 950    2   1    0 org.mockito.internal.stubbing.defaultanswers.ReturnsDeepStubs.ReturnsDeepStubsSerializationFallback.ReturnsDeepStubsSerializationFallback(GenericMetadataSupport)
+ 951    2   1    0 org.mockito.internal.stubbing.defaultanswers.ReturnsDeepStubs.ReturnsDeepStubsSerializationFallback.actualParameterizedType(Object)
+ 952    2   1    0 org.mockito.internal.stubbing.defaultanswers.ReturnsDeepStubs.ReturnsDeepStubsSerializationFallback.writeReplace()
+ 953    2   1    0 org.mockito.internal.stubbing.defaultanswers.ReturnsDeepStubs.DeeplyStubbedAnswer.DeeplyStubbedAnswer(Object)
+ 954    2   1    0 org.mockito.internal.stubbing.defaultanswers.ReturnsDeepStubs.DeeplyStubbedAnswer.answer(InvocationOnMock)
+ 955    2   1    0 org.mockito.internal.stubbing.defaultanswers.ReturnsDeepStubs.mockitoCore()
+ 956    2   1    0 org.mockito.internal.stubbing.defaultanswers.ReturnsDeepStubs.delegate()
+ 957    6   3    0 org.mockito.internal.stubbing.defaultanswers.ReturnsMoreEmptyValues.answer(InvocationOnMock)
+ 958    8   5    0 org.mockito.internal.stubbing.defaultanswers.ReturnsMoreEmptyValues.returnValueFor(Class)
+ 959   13   8    0 org.mockito.internal.stubbing.defaultanswers.ReturnsEmptyValues.answer(InvocationOnMock)
+ 960   49  33    0 org.mockito.internal.stubbing.defaultanswers.ReturnsEmptyValues.returnValueFor(Class)
+ 961    5   3    0 org.mockito.internal.stubbing.defaultanswers.ReturnsMocks.answer(InvocationOnMock)
+ 962    4   3    0 org.mockito.internal.stubbing.defaultanswers.ReturnsMocks.returnValueFor(Class)
+ 963    9   3    0 org.mockito.internal.stubbing.StubberImpl.when(T)
+ 964    3   1    0 org.mockito.internal.stubbing.StubberImpl.doReturn(Object)
+ 965    3   1    0 org.mockito.internal.stubbing.StubberImpl.doThrow(Throwable)
+ 966    3   1    0 org.mockito.internal.stubbing.StubberImpl.doThrow(Throwable)
+ 967    3   1    0 org.mockito.internal.stubbing.StubberImpl.doNothing()
+ 968    3   1    0 org.mockito.internal.stubbing.StubberImpl.doAnswer(Answer)
+ 969    3   1    0 org.mockito.internal.stubbing.StubberImpl.doCallRealMethod()
+ 970    2   1    0 org.mockito.internal.stubbing.BaseStubbing.thenReturn(T)
+ 971    7   4    0 org.mockito.internal.stubbing.BaseStubbing.thenReturn(T,T)
+ 972    2   1    0 org.mockito.internal.stubbing.BaseStubbing.thenThrow(Throwable)
+ 973   10   4    0 org.mockito.internal.stubbing.BaseStubbing.thenThrow(Throwable)
+ 974    2   1    0 org.mockito.internal.stubbing.BaseStubbing.thenThrow(Throwable)
+ 975   10   4    0 org.mockito.internal.stubbing.BaseStubbing.thenThrow(Throwable)
+ 976    2   1    0 org.mockito.internal.stubbing.BaseStubbing.thenCallRealMethod()
+ 977    2   1    0 org.mockito.internal.stubbing.BaseStubbing.toReturn(T)
+ 978    2   1    0 org.mockito.internal.stubbing.BaseStubbing.toThrow(Throwable)
+ 979    2   1    0 org.mockito.internal.InOrderImpl.getMocksToBeVerifiedInOrder()
+ 980    2   1    0 org.mockito.internal.InOrderImpl.InOrderImpl(Object)
+ 981    2   1    0 org.mockito.internal.InOrderImpl.verify(T)
+ 982    7   4    0 org.mockito.internal.InOrderImpl.verify(T,VerificationMode)
+ 983    2   1    0 org.mockito.internal.InOrderImpl.isVerified(Invocation)
+ 984    2   1    0 org.mockito.internal.InOrderImpl.markVerified(Invocation)
+ 985    2   1    0 org.mockito.internal.InOrderImpl.verifyNoMoreInteractions()
+ 986    2   1    0 org.mockito.internal.matchers.LessThan.LessThan(T)
+ 987    2   1    0 org.mockito.internal.matchers.LessThan.getName()
+ 988    2   1    0 org.mockito.internal.matchers.LessThan.matchResult(int)
+ 989    1   1    0 org.mockito.internal.matchers.MatcherDecorator.getActualMatcher()
+ 990    2   1    0 org.mockito.internal.matchers.Contains.Contains(String)
+ 991    2   2    0 org.mockito.internal.matchers.Contains.matches(Object)
+ 992    2   1    0 org.mockito.internal.matchers.Contains.describeTo(Description)
+ 993    1   1    0 org.mockito.internal.matchers.Any.Any()
+ 994    2   1    0 org.mockito.internal.matchers.Any.matches(Object)
+ 995    2   1    0 org.mockito.internal.matchers.Any.describeTo(Description)
+ 996    2   1    0 org.mockito.internal.matchers.VarargCapturingMatcher.matches(Object)
+ 997    2   1    0 org.mockito.internal.matchers.VarargCapturingMatcher.describeTo(Description)
+ 998    6   3    0 org.mockito.internal.matchers.VarargCapturingMatcher.getLastVarargs()
+ 999    2   1    0 org.mockito.internal.matchers.VarargCapturingMatcher.getAllVarargs()
+1000    3   1    0 org.mockito.internal.matchers.VarargCapturingMatcher.captureFrom(Object)
+1001   11   6    0 org.mockito.internal.matchers.VarargCapturingMatcher.unpackAsList(Object)
+1002    2   1    0 org.mockito.internal.matchers.CompareTo.CompareTo(T)
+1003    4   3    0 org.mockito.internal.matchers.CompareTo.matches(Object)
+1004    2   1    0 org.mockito.internal.matchers.CompareTo.describeTo(Description)
+1005    1   1    0 org.mockito.internal.matchers.CompareTo.getName()
+1006    1   1    0 org.mockito.internal.matchers.CompareTo.matchResult(int)
+1007    2   1    0 org.mockito.internal.matchers.EndsWith.EndsWith(String)
+1008    2   2    0 org.mockito.internal.matchers.EndsWith.matches(Object)
+1009    2   1    0 org.mockito.internal.matchers.EndsWith.describeTo(Description)
+1010    2   1    0 org.mockito.internal.matchers.Matches.Matches(String)
+1011    2   2    0 org.mockito.internal.matchers.Matches.matches(Object)
+1012    2   1    0 org.mockito.internal.matchers.Matches.describeTo(Description)
+1013    3   1    0 org.mockito.internal.matchers.LocalizedMatcher.LocalizedMatcher(Matcher)
+1014    1   1    0 org.mockito.internal.matchers.LocalizedMatcher._dont_implement_Matcher___instead_extend_BaseMatcher_()
+1015    2   1    0 org.mockito.internal.matchers.LocalizedMatcher.matches(Object)
+1016    2   1    0 org.mockito.internal.matchers.LocalizedMatcher.describeTo(Description)
+1017    2   1    0 org.mockito.internal.matchers.LocalizedMatcher.getLocation()
+1018    2   1    0 org.mockito.internal.matchers.LocalizedMatcher.toString()
+1019    5   3    0 org.mockito.internal.matchers.LocalizedMatcher.withExtraTypeInfo()
+1020    2   2    0 org.mockito.internal.matchers.LocalizedMatcher.typeMatches(Object)
+1021    3   2    0 org.mockito.internal.matchers.LocalizedMatcher.captureFrom(Object)
+1022    2   1    0 org.mockito.internal.matchers.LocalizedMatcher.getActualMatcher()
+1023    2   1    0 org.mockito.internal.matchers.ArrayEquals.ArrayEquals(Object)
+1024   32  31    0 org.mockito.internal.matchers.ArrayEquals.matches(Object)
+1025    5   3    0 org.mockito.internal.matchers.ArrayEquals.describeTo(Description)
+1026    7   3    0 org.mockito.internal.matchers.ArrayEquals.appendArray(Object[],Description)
+1027    7   4    0 org.mockito.internal.matchers.ArrayEquals.createObjectArray(Object)
+1028    1   1    0 org.mockito.internal.matchers.CapturesArguments.captureFrom(Object)
+1029    2   1    0 org.mockito.internal.matchers.CapturingMatcher.matches(Object)
+1030    2   1    0 org.mockito.internal.matchers.CapturingMatcher.describeTo(Description)
+1031    6   3    0 org.mockito.internal.matchers.CapturingMatcher.getLastValue()
+1032    2   1    0 org.mockito.internal.matchers.CapturingMatcher.getAllValues()
+1033    2   1    0 org.mockito.internal.matchers.CapturingMatcher.captureFrom(Object)
+1034    1   1    0 org.mockito.internal.matchers.Null.Null()
+1035    2   1    0 org.mockito.internal.matchers.Null.matches(Object)
+1036    2   1    0 org.mockito.internal.matchers.Null.describeTo(Description)
+1037   11  10    0 org.mockito.internal.matchers.Equality.areEqual(Object,Object)
+1038    2   2    0 org.mockito.internal.matchers.Equality.areArraysEqual(Object,Object)
+1039    2   1    0 org.mockito.internal.matchers.Equality.areArrayLengthsEqual(Object,Object)
+1040    5   4    0 org.mockito.internal.matchers.Equality.areArrayElementsEqual(Object,Object)
+1041    2   1    0 org.mockito.internal.matchers.Equality.isArray(Object)
+1042    2   1    0 org.mockito.internal.matchers.Find.Find(String)
+1043    2   2    0 org.mockito.internal.matchers.Find.matches(Object)
+1044    2   1    0 org.mockito.internal.matchers.Find.describeTo(Description)
+1045    2   1    0 org.mockito.internal.matchers.LessOrEqual.LessOrEqual(T)
+1046    2   1    0 org.mockito.internal.matchers.LessOrEqual.getName()
+1047    2   1    0 org.mockito.internal.matchers.LessOrEqual.matchResult(int)
+1048    2   1    0 org.mockito.internal.matchers.InstanceOf.InstanceOf(Class)
+1049    2   2    0 org.mockito.internal.matchers.InstanceOf.matches(Object)
+1050    2   1    0 org.mockito.internal.matchers.InstanceOf.describeTo(Description)
+1051    2   1    0 org.mockito.internal.matchers.CompareEqual.CompareEqual(T)
+1052    2   1    0 org.mockito.internal.matchers.CompareEqual.getName()
+1053    2   1    0 org.mockito.internal.matchers.CompareEqual.matchResult(int)
+1054    2   1    0 org.mockito.internal.matchers.And.And(Matcher)
+1055    5   4    0 org.mockito.internal.matchers.And.matches(Object)
+1056    7   3    0 org.mockito.internal.matchers.And.describeTo(Description)
+1057    2   1    0 org.mockito.internal.matchers.Same.Same(Object)
+1058    2   1    0 org.mockito.internal.matchers.Same.matches(Object)
+1059    6   1    0 org.mockito.internal.matchers.Same.describeTo(Description)
+1060    6   3    0 org.mockito.internal.matchers.Same.appendQuoting(Description)
+1061    2   1    0 org.mockito.internal.matchers.GreaterOrEqual.GreaterOrEqual(T)
+1062    2   1    0 org.mockito.internal.matchers.GreaterOrEqual.getName()
+1063    2   1    0 org.mockito.internal.matchers.GreaterOrEqual.matchResult(int)
+1064    3   1    0 org.mockito.internal.matchers.apachecommons.ReflectionEquals.ReflectionEquals(Object,String)
+1065    2   1    0 org.mockito.internal.matchers.apachecommons.ReflectionEquals.matches(Object)
+1066    2   1    0 org.mockito.internal.matchers.apachecommons.ReflectionEquals.describeTo(Description)
+1067    1   1    1 org.mockito.internal.matchers.apachecommons.EqualsBuilder.EqualsBuilder()
+1068    2   1    1 org.mockito.internal.matchers.apachecommons.EqualsBuilder.reflectionEquals(Object,Object)
+1069    2   1    1 org.mockito.internal.matchers.apachecommons.EqualsBuilder.reflectionEquals(Object,Object,String[])
+1070    2   1    1 org.mockito.internal.matchers.apachecommons.EqualsBuilder.reflectionEquals(Object,Object,boolean)
+1071    2   1    1 org.mockito.internal.matchers.apachecommons.EqualsBuilder.reflectionEquals(Object,Object,boolean,Class)
+1072   27  15    1 org.mockito.internal.matchers.apachecommons.EqualsBuilder.reflectionEquals(Object,Object,boolean,Class,String[])
+1073   10  11    1 org.mockito.internal.matchers.apachecommons.EqualsBuilder.reflectionAppend(Object,Object,Class,EqualsBuilder,boolean,String[])
+1074    3   1    1 org.mockito.internal.matchers.apachecommons.EqualsBuilder.appendSuper(boolean)
+1075   44  20    1 org.mockito.internal.matchers.apachecommons.EqualsBuilder.append(Object,Object)
+1076    3   1    1 org.mockito.internal.matchers.apachecommons.EqualsBuilder.append(long,long)
+1077    3   1    1 org.mockito.internal.matchers.apachecommons.EqualsBuilder.append(int,int)
+1078    3   1    1 org.mockito.internal.matchers.apachecommons.EqualsBuilder.append(short,short)
+1079    3   1    1 org.mockito.internal.matchers.apachecommons.EqualsBuilder.append(char,char)
+1080    3   1    1 org.mockito.internal.matchers.apachecommons.EqualsBuilder.append(byte,byte)
+1081    4   3    1 org.mockito.internal.matchers.apachecommons.EqualsBuilder.append(double,double)
+1082    4   3    1 org.mockito.internal.matchers.apachecommons.EqualsBuilder.append(float,float)
+1083    3   1    1 org.mockito.internal.matchers.apachecommons.EqualsBuilder.append(boolean,boolean)
+1084   14  12    1 org.mockito.internal.matchers.apachecommons.EqualsBuilder.append(Object[],Object[])
+1085   14  12    1 org.mockito.internal.matchers.apachecommons.EqualsBuilder.append(EqualsBuilder[],EqualsBuilder[][])
+1086   14  12    1 org.mockito.internal.matchers.apachecommons.EqualsBuilder.append(EqualsBuilder[],EqualsBuilder[][])
+1087   14  12    1 org.mockito.internal.matchers.apachecommons.EqualsBuilder.append(EqualsBuilder[],EqualsBuilder[][])
+1088   14  12    1 org.mockito.internal.matchers.apachecommons.EqualsBuilder.append(EqualsBuilder[],EqualsBuilder[][])
+1089   14  12    1 org.mockito.internal.matchers.apachecommons.EqualsBuilder.append(EqualsBuilder[],EqualsBuilder[][])
+1090   14  12    1 org.mockito.internal.matchers.apachecommons.EqualsBuilder.append(EqualsBuilder[],EqualsBuilder[][])
+1091   14  12    1 org.mockito.internal.matchers.apachecommons.EqualsBuilder.append(EqualsBuilder[],EqualsBuilder[][])
+1092   14  12    1 org.mockito.internal.matchers.apachecommons.EqualsBuilder.append(EqualsBuilder[],EqualsBuilder[][])
+1093    2   1    1 org.mockito.internal.matchers.apachecommons.EqualsBuilder.isEquals()
+1094    2   1    1 org.mockito.internal.matchers.apachecommons.EqualsBuilder.setEquals(boolean)
+1095    2   1    0 org.mockito.internal.matchers.Equals.Equals(Object)
+1096    2   1    0 org.mockito.internal.matchers.Equals.matches(Object)
+1097    2   1    0 org.mockito.internal.matchers.Equals.describeTo(Description)
+1098    2   1    0 org.mockito.internal.matchers.Equals.describe(Object)
+1099    8   5    0 org.mockito.internal.matchers.Equals.quoting()
+1100    2   1    0 org.mockito.internal.matchers.Equals.getWanted()
+1101    5   7    0 org.mockito.internal.matchers.Equals.equals(Object)
+1102    2   1    0 org.mockito.internal.matchers.Equals.hashCode()
+1103    2   1    0 org.mockito.internal.matchers.Equals.SelfDescribing.describeTo(Description)
+1104    4   1    0 org.mockito.internal.matchers.Equals.withExtraTypeInfo()
+1105    2   3    0 org.mockito.internal.matchers.Equals.typeMatches(Object)
+1106    3   1    0 org.mockito.internal.matchers.EqualsWithDelta.EqualsWithDelta(Number,Number)
+1107    7   6    0 org.mockito.internal.matchers.EqualsWithDelta.matches(Object)
+1108    2   1    0 org.mockito.internal.matchers.EqualsWithDelta.describeTo(Description)
+1109    2   1    0 org.mockito.internal.matchers.Not.Not(Matcher)
+1110    2   1    0 org.mockito.internal.matchers.Not.matches(Object)
+1111    4   1    0 org.mockito.internal.matchers.Not.describeTo(Description)
+1112    2   1    0 org.mockito.internal.matchers.GreaterThan.GreaterThan(T)
+1113    2   1    0 org.mockito.internal.matchers.GreaterThan.getName()
+1114    2   1    0 org.mockito.internal.matchers.GreaterThan.matchResult(int)
+1115    2   1    0 org.mockito.internal.matchers.StartsWith.StartsWith(String)
+1116    2   2    0 org.mockito.internal.matchers.StartsWith.matches(Object)
+1117    2   1    0 org.mockito.internal.matchers.StartsWith.describeTo(Description)
+1118    1   1    0 org.mockito.internal.matchers.NotNull.NotNull()
+1119    2   1    0 org.mockito.internal.matchers.NotNull.matches(Object)
+1120    2   1    0 org.mockito.internal.matchers.NotNull.describeTo(Description)
+1121    1   1    0 org.mockito.internal.matchers.ContainsExtraTypeInformation.withExtraTypeInfo()
+1122    1   1    0 org.mockito.internal.matchers.ContainsExtraTypeInformation.typeMatches(Object)
+1123    2   1    0 org.mockito.internal.matchers.Or.Or(Matcher)
+1124    5   4    0 org.mockito.internal.matchers.Or.matches(Object)
+1125    7   3    0 org.mockito.internal.matchers.Or.describeTo(Description)
+1126    2   1    0 org.mockito.internal.matchers.AnyVararg.matches(Object)
+1127    4   1    0 org.mockito.internal.matchers.MatchersPrinter.getArgumentsLine(Matcher,PrintSettings)
+1128    4   1    0 org.mockito.internal.matchers.MatchersPrinter.getArgumentsBlock(Matcher,PrintSettings)
+1129   10   4    0 org.mockito.internal.matchers.MatchersPrinter.applyPrintSettings(Matcher,PrintSettings)
+1130    1   1    0 org.mockito.internal.listeners.MockingStartedListener.mockingStarted(Object,Class)
+1131    2   1    0 org.mockito.internal.listeners.CollectCreatedMocks.CollectCreatedMocks(List)
+1132    2   1    0 org.mockito.internal.listeners.CollectCreatedMocks.mockingStarted(Object,Class)
+1133    4   1    1 org.mockito.internal.listeners.NotifiedMethodInvocationReport.NotifiedMethodInvocationReport(Invocation,Object)
+1134    4   1    1 org.mockito.internal.listeners.NotifiedMethodInvocationReport.NotifiedMethodInvocationReport(Invocation,Throwable)
+1135    2   1    0 org.mockito.internal.listeners.NotifiedMethodInvocationReport.getInvocation()
+1136    2   1    0 org.mockito.internal.listeners.NotifiedMethodInvocationReport.getReturnedValue()
+1137    2   1    0 org.mockito.internal.listeners.NotifiedMethodInvocationReport.getThrowable()
+1138    2   1    0 org.mockito.internal.listeners.NotifiedMethodInvocationReport.threwException()
+1139    2   2    0 org.mockito.internal.listeners.NotifiedMethodInvocationReport.getLocationOfStubbing()
+1140    7   8    0 org.mockito.internal.listeners.NotifiedMethodInvocationReport.equals(Object)
+1141    5   4    0 org.mockito.internal.listeners.NotifiedMethodInvocationReport.hashCode()
+1142    1   1    0 org.mockito.internal.InternalMockHandler.getMockSettings()
+1143    1   1    0 org.mockito.internal.InternalMockHandler.voidMethodStubbable(T)
+1144    1   1    0 org.mockito.internal.InternalMockHandler.setAnswersForStubbing(Answer)
+1145    1   1    0 org.mockito.internal.InternalMockHandler.getInvocationContainer()
+1146    1   1    0 org.mockito.exceptions.PrintableInvocation.toString()
+1147    1   1    0 org.mockito.exceptions.PrintableInvocation.getLocation()
+1148    2   1    0 org.mockito.exceptions.misusing.CannotStubVoidMethodWithReturnValue.CannotStubVoidMethodWithReturnValue(String)
+1149    2   1    0 org.mockito.exceptions.misusing.UnfinishedStubbingException.UnfinishedStubbingException(String)
+1150    2   1    0 org.mockito.exceptions.misusing.NullInsteadOfMockException.NullInsteadOfMockException(String)
+1151    2   1    0 org.mockito.exceptions.misusing.WrongTypeOfReturnValue.WrongTypeOfReturnValue(String)
+1152    2   1    0 org.mockito.exceptions.misusing.CannotVerifyStubOnlyMock.CannotVerifyStubOnlyMock(String)
+1153    2   1    0 org.mockito.exceptions.misusing.UnfinishedVerificationException.UnfinishedVerificationException(String)
+1154    2   1    0 org.mockito.exceptions.misusing.InvalidUseOfMatchersException.InvalidUseOfMatchersException(String)
+1155    2   1    0 org.mockito.exceptions.misusing.InvalidUseOfMatchersException.InvalidUseOfMatchersException()
+1156    2   1    0 org.mockito.exceptions.misusing.FriendlyReminderException.FriendlyReminderException(String)
+1157    2   1    0 org.mockito.exceptions.misusing.MissingMethodInvocationException.MissingMethodInvocationException(String)
+1158    2   1    0 org.mockito.exceptions.misusing.NotAMockException.NotAMockException(String)
+1159    2   1    0 org.mockito.exceptions.misusing.MockitoConfigurationException.MockitoConfigurationException(String)
+1160    2   1    0 org.mockito.exceptions.misusing.MockitoConfigurationException.MockitoConfigurationException(String,Exception)
+1161    2   1    0 org.mockito.exceptions.Discrepancy.Discrepancy(int,int)
+1162    2   1    0 org.mockito.exceptions.verification.TooManyActualInvocations.TooManyActualInvocations(String)
+1163    2   1    0 org.mockito.exceptions.verification.TooLittleActualInvocations.TooLittleActualInvocations(String)
+1164    2   1    0 org.mockito.exceptions.verification.WantedButNotInvoked.WantedButNotInvoked(String)
+1165    2   1    0 org.mockito.exceptions.verification.WantedButNotInvoked.toString()
+1166    2   1    0 org.mockito.exceptions.verification.junit.JUnitTool.hasJUnit()
+1167    2   1    0 org.mockito.exceptions.verification.junit.JUnitTool.createArgumentsAreDifferentException(String,String,String)
+1168    6   1    0 org.mockito.exceptions.verification.junit.ArgumentsAreDifferent.ArgumentsAreDifferent(String,String,String)
+1169    2   1    0 org.mockito.exceptions.verification.junit.ArgumentsAreDifferent.getMessage()
+1170    2   1    0 org.mockito.exceptions.verification.junit.ArgumentsAreDifferent.getUnfilteredStackTrace()
+1171    2   1    0 org.mockito.exceptions.verification.junit.ArgumentsAreDifferent.toString()
+1172    2   1    0 org.mockito.exceptions.verification.NeverWantedButInvoked.NeverWantedButInvoked(String)
+1173    2   1    0 org.mockito.exceptions.verification.SmartNullPointerException.SmartNullPointerException(String)
+1174    2   1    0 org.mockito.exceptions.verification.VerificationInOrderFailure.VerificationInOrderFailure(String)
+1175    2   1    0 org.mockito.exceptions.verification.NoInteractionsWanted.NoInteractionsWanted(String)
+1176    2   1    0 org.mockito.exceptions.verification.ArgumentsAreDifferent.ArgumentsAreDifferent(String)
+1177    2   1    0 org.mockito.exceptions.verification.ArgumentsAreDifferent.toString()
+1178    2   2    0 org.mockito.exceptions.Reporter.checkedExceptionInvalid(Throwable)
+1179    2   2    0 org.mockito.exceptions.Reporter.cannotStubWithNullThrowable()
+1180    2   2    0 org.mockito.exceptions.Reporter.unfinishedStubbing(Location)
+1181    2   2    0 org.mockito.exceptions.Reporter.incorrectUseOfApi()
+1182    2   2    0 org.mockito.exceptions.Reporter.missingMethodInvocation()
+1183    3   2    0 org.mockito.exceptions.Reporter.unfinishedVerificationException(Location)
+1184    2   2    0 org.mockito.exceptions.Reporter.notAMockPassedToVerify(Class)
+1185    2   2    0 org.mockito.exceptions.Reporter.nullPassedToVerify()
+1186    2   2    0 org.mockito.exceptions.Reporter.notAMockPassedToWhenMethod()
+1187    2   2    0 org.mockito.exceptions.Reporter.nullPassedToWhenMethod()
+1188    2   2    0 org.mockito.exceptions.Reporter.mocksHaveToBePassedToVerifyNoMoreInteractions()
+1189    2   2    0 org.mockito.exceptions.Reporter.notAMockPassedToVerifyNoMoreInteractions()
+1190    2   2    0 org.mockito.exceptions.Reporter.nullPassedToVerifyNoMoreInteractions()
+1191    2   2    0 org.mockito.exceptions.Reporter.notAMockPassedWhenCreatingInOrder()
+1192    2   2    0 org.mockito.exceptions.Reporter.nullPassedWhenCreatingInOrder()
+1193    2   2    0 org.mockito.exceptions.Reporter.mocksHaveToBePassedWhenCreatingInOrder()
+1194    2   2    0 org.mockito.exceptions.Reporter.inOrderRequiresFamiliarMock()
+1195    2   2    0 org.mockito.exceptions.Reporter.invalidUseOfMatchers(int,LocalizedMatcher)
+1196    2   2    0 org.mockito.exceptions.Reporter.incorrectUseOfAdditionalMatchers(String,int,LocalizedMatcher)
+1197    2   2    0 org.mockito.exceptions.Reporter.stubPassedToVerify()
+1198    2   2    0 org.mockito.exceptions.Reporter.reportNoSubMatchersFound(String)
+1199    5   2    0 org.mockito.exceptions.Reporter.locationsOf(LocalizedMatcher)
+1200    3   2    0 org.mockito.exceptions.Reporter.argumentsAreDifferent(String,String,Location)
+1201    2   2    0 org.mockito.exceptions.Reporter.wantedButNotInvoked(DescribedInvocation)
+1202   11   4    0 org.mockito.exceptions.Reporter.wantedButNotInvoked(DescribedInvocation,DescribedInvocation)
+1203    2   1    0 org.mockito.exceptions.Reporter.createWantedButNotInvokedMessage(DescribedInvocation)
+1204    2   2    0 org.mockito.exceptions.Reporter.wantedButNotInvokedInOrder(DescribedInvocation,DescribedInvocation)
+1205    3   2    0 org.mockito.exceptions.Reporter.tooManyActualInvocations(int,int,DescribedInvocation,Location)
+1206    2   1    0 org.mockito.exceptions.Reporter.createTooManyInvocationsMessage(int,int,DescribedInvocation,Location)
+1207    2   2    0 org.mockito.exceptions.Reporter.neverWantedButInvoked(DescribedInvocation,Location)
+1208    3   2    0 org.mockito.exceptions.Reporter.tooManyActualInvocationsInOrder(int,int,DescribedInvocation,Location)
+1209    4   2    0 org.mockito.exceptions.Reporter.createTooLittleInvocationsMessage(org.mockito.internal.reporting.Discrepancy,DescribedInvocation,Location)
+1210    3   2    0 org.mockito.exceptions.Reporter.tooLittleActualInvocations(org.mockito.internal.reporting.Discrepancy,DescribedInvocation,Location)
+1211    3   2    0 org.mockito.exceptions.Reporter.tooLittleActualInvocationsInOrder(org.mockito.internal.reporting.Discrepancy,DescribedInvocation,Location)
+1212    4   2    0 org.mockito.exceptions.Reporter.noMoreInteractionsWanted(Invocation,VerificationAwareInvocation)
+1213    2   2    0 org.mockito.exceptions.Reporter.noMoreInteractionsWantedInOrder(Invocation)
+1214    2   2    0 org.mockito.exceptions.Reporter.cannotMockFinalClass(Class)
+1215    2   2    0 org.mockito.exceptions.Reporter.cannotStubVoidMethodWithAReturnValue(String)
+1216    2   2    0 org.mockito.exceptions.Reporter.onlyVoidMethodsCanBeSetToDoNothing()
+1217    2   2    0 org.mockito.exceptions.Reporter.wrongTypeOfReturnValue(String,String,String)
+1218    2   2    0 org.mockito.exceptions.Reporter.wrongTypeReturnedByDefaultAnswer(Object,String,String,String)
+1219    2   2    0 org.mockito.exceptions.Reporter.wantedAtMostX(int,int)
+1220    2   2    0 org.mockito.exceptions.Reporter.misplacedArgumentMatcher(LocalizedMatcher)
+1221    2   2    0 org.mockito.exceptions.Reporter.smartNullPointerException(String,Location)
+1222    2   2    0 org.mockito.exceptions.Reporter.noArgumentValueWasCaptured()
+1223    2   2    0 org.mockito.exceptions.Reporter.extraInterfacesDoesNotAcceptNullParameters()
+1224    2   2    0 org.mockito.exceptions.Reporter.extraInterfacesAcceptsOnlyInterfaces(Class)
+1225    2   2    0 org.mockito.exceptions.Reporter.extraInterfacesCannotContainMockedType(Class)
+1226    2   2    0 org.mockito.exceptions.Reporter.extraInterfacesRequiresAtLeastOneInterface()
+1227    2   2    0 org.mockito.exceptions.Reporter.mockedTypeIsInconsistentWithSpiedInstanceType(Class,Object)
+1228    2   2    0 org.mockito.exceptions.Reporter.cannotCallAbstractRealMethod()
+1229    2   2    0 org.mockito.exceptions.Reporter.cannotVerifyToString()
+1230    2   2    0 org.mockito.exceptions.Reporter.moreThanOneAnnotationNotAllowed(String)
+1231    2   2    0 org.mockito.exceptions.Reporter.unsupportedCombinationOfAnnotations(String,String)
+1232    2   2    0 org.mockito.exceptions.Reporter.cannotInitializeForSpyAnnotation(String,Exception)
+1233    2   2    0 org.mockito.exceptions.Reporter.cannotInitializeForInjectMocksAnnotation(String,Exception)
+1234    2   2    0 org.mockito.exceptions.Reporter.atMostAndNeverShouldNotBeUsedWithTimeout()
+1235    2   2    0 org.mockito.exceptions.Reporter.fieldInitialisationThrewException(Field,Throwable)
+1236    2   2    0 org.mockito.exceptions.Reporter.invocationListenerDoesNotAcceptNullParameters()
+1237    2   2    0 org.mockito.exceptions.Reporter.invocationListenersRequiresAtLeastOneListener()
+1238    2   2    0 org.mockito.exceptions.Reporter.invocationListenerThrewException(InvocationListener,Throwable)
+1239    2   2    0 org.mockito.exceptions.Reporter.cannotInjectDependency(Field,Object,Exception)
+1240    4   3    0 org.mockito.exceptions.Reporter.exceptionCauseMessageIfAvailable(Exception)
+1241    2   2    0 org.mockito.exceptions.Reporter.mockedTypeIsInconsistentWithDelegatedInstanceType(Class,Object)
+1242    2   2    0 org.mockito.exceptions.Reporter.spyAndDelegateAreMutuallyExclusive()
+1243    2   2    0 org.mockito.exceptions.Reporter.invalidArgumentRangeAtIdentityAnswerCreationTime()
+1244    2   3    0 org.mockito.exceptions.Reporter.invalidArgumentPositionRangeAtInvocationTime(InvocationOnMock,boolean,int)
+1245   12   6    0 org.mockito.exceptions.Reporter.possibleArgumentTypesOf(InvocationOnMock)
+1246    2   2    0 org.mockito.exceptions.Reporter.wrongTypeOfArgumentToReturn(InvocationOnMock,String,Class,int)
+1247    2   2    0 org.mockito.exceptions.Reporter.defaultAnswerDoesNotAcceptNullParameter()
+1248    2   2    0 org.mockito.exceptions.Reporter.serializableWontWorkForObjectsThatDontImplementSerializable(Class)
+1249    2   2    0 org.mockito.exceptions.Reporter.delegatedMethodHasWrongReturnType(Method,Method,Object,Object)
+1250    2   2    0 org.mockito.exceptions.Reporter.delegatedMethodDoesNotExistOnDelegate(Method,Object,Object)
+1251    2   2    0 org.mockito.exceptions.Reporter.usingConstructorWithFancySerializable(SerializableMode)
+1252    2   2    0 org.mockito.exceptions.Reporter.cannotCreateTimerWithNegativeDurationTime(long)
+1253    2   1    0 org.mockito.exceptions.Reporter.safelyGetMockName(Object)
+1254    1   1    1 org.mockito.exceptions.stacktrace.StackTraceCleaner.isOut(StackTraceElement)
+1255    5   1    0 org.mockito.exceptions.base.MockitoAssertionError.MockitoAssertionError(String)
+1256    2   1    0 org.mockito.exceptions.base.MockitoAssertionError.getUnfilteredStackTrace()
+1257    3   1    0 org.mockito.exceptions.base.MockitoException.MockitoException(String,Throwable)
+1258    3   1    0 org.mockito.exceptions.base.MockitoException.MockitoException(String)
+1259    4   1    0 org.mockito.exceptions.base.MockitoException.filterStackTrace()
+1260    2   1    0 org.mockito.exceptions.base.MockitoException.getUnfilteredStackTrace()
+1261    4   1    0 org.mockito.exceptions.base.MockitoSerializationIssue.MockitoSerializationIssue(String,Exception)
+1262    3   1    0 org.mockito.exceptions.base.MockitoSerializationIssue.getStackTrace()
+1263    4   1    0 org.mockito.exceptions.base.MockitoSerializationIssue.filterStackTrace()
+1264    2   1    0 org.mockito.exceptions.base.MockitoSerializationIssue.getUnfilteredStackTrace()
+1265    2   1    1 org.mockito.Matchers.anyBoolean()
+1266    2   1    1 org.mockito.Matchers.anyByte()
+1267    2   1    1 org.mockito.Matchers.anyChar()
+1268    2   1    1 org.mockito.Matchers.anyInt()
+1269    2   1    1 org.mockito.Matchers.anyLong()
+1270    2   1    1 org.mockito.Matchers.anyFloat()
+1271    2   1    1 org.mockito.Matchers.anyDouble()
+1272    2   1    1 org.mockito.Matchers.anyShort()
+1273    2   1    1 org.mockito.Matchers.anyObject()
+1274    2   1    1 org.mockito.Matchers.anyVararg()
+1275    2   1    1 org.mockito.Matchers.any(T)
+1276    2   1    1 org.mockito.Matchers.any()
+1277    2   1    1 org.mockito.Matchers.anyString()
+1278    2   1    1 org.mockito.Matchers.anyList()
+1279    2   1    1 org.mockito.Matchers.anyListOf(T)
+1280    2   1    1 org.mockito.Matchers.anySet()
+1281    2   1    1 org.mockito.Matchers.anySetOf(T)
+1282    2   1    1 org.mockito.Matchers.anyMap()
+1283    2   1    1 org.mockito.Matchers.anyMapOf(K,V)
+1284    2   1    1 org.mockito.Matchers.anyCollection()
+1285    2   1    1 org.mockito.Matchers.anyCollectionOf(T)
+1286    2   1    1 org.mockito.Matchers.isA(T)
+1287    2   1    1 org.mockito.Matchers.eq(boolean)
+1288    2   1    1 org.mockito.Matchers.eq(byte)
+1289    2   1    1 org.mockito.Matchers.eq(char)
+1290    2   1    1 org.mockito.Matchers.eq(double)
+1291    2   1    1 org.mockito.Matchers.eq(float)
+1292    2   1    1 org.mockito.Matchers.eq(int)
+1293    2   1    1 org.mockito.Matchers.eq(long)
+1294    2   1    1 org.mockito.Matchers.eq(short)
+1295    2   1    1 org.mockito.Matchers.eq(T)
+1296    2   1    1 org.mockito.Matchers.refEq(T,String)
+1297    2   1    1 org.mockito.Matchers.same(T)
+1298    2   1    1 org.mockito.Matchers.isNull()
+1299    2   1    1 org.mockito.Matchers.isNull(T)
+1300    2   1    1 org.mockito.Matchers.notNull()
+1301    2   1    1 org.mockito.Matchers.notNull(T)
+1302    2   1    1 org.mockito.Matchers.isNotNull()
+1303    2   1    1 org.mockito.Matchers.isNotNull(T)
+1304    2   1    1 org.mockito.Matchers.contains(String)
+1305    2   1    1 org.mockito.Matchers.matches(String)
+1306    2   1    1 org.mockito.Matchers.endsWith(String)
+1307    2   1    1 org.mockito.Matchers.startsWith(String)
+1308    2   1    1 org.mockito.Matchers.argThat(T)
+1309    2   1    1 org.mockito.Matchers.charThat(Character)
+1310    2   1    1 org.mockito.Matchers.booleanThat(Boolean)
+1311    2   1    1 org.mockito.Matchers.byteThat(Byte)
+1312    2   1    1 org.mockito.Matchers.shortThat(Short)
+1313    2   1    1 org.mockito.Matchers.intThat(Integer)
+1314    2   1    1 org.mockito.Matchers.longThat(Long)
+1315    2   1    1 org.mockito.Matchers.floatThat(Float)
+1316    2   1    1 org.mockito.Matchers.doubleThat(Double)
+1317    2   1    0 org.mockito.Matchers.reportMatcher(Matcher)
+1318    1   1    1 org.mockito.BDDMockito.BDDMyOngoingStubbing.willAnswer(Answer)
+1319    1   1    1 org.mockito.BDDMockito.BDDMyOngoingStubbing.will(Answer)
+1320    1   1    1 org.mockito.BDDMockito.BDDMyOngoingStubbing.willReturn(T)
+1321    1   1    1 org.mockito.BDDMockito.BDDMyOngoingStubbing.willReturn(T,T)
+1322    1   1    1 org.mockito.BDDMockito.BDDMyOngoingStubbing.willThrow(Throwable)
+1323    1   1    1 org.mockito.BDDMockito.BDDMyOngoingStubbing.willThrow(Throwable)
+1324    1   1    1 org.mockito.BDDMockito.BDDMyOngoingStubbing.willCallRealMethod()
+1325    1   1    0 org.mockito.BDDMockito.BDDMyOngoingStubbing.getMock()
+1326    2   1    0 org.mockito.BDDMockito.BDDOngoingStubbingImpl.BDDOngoingStubbingImpl(T)
+1327    2   1    0 org.mockito.BDDMockito.BDDOngoingStubbingImpl.willAnswer(Answer)
+1328    2   1    0 org.mockito.BDDMockito.BDDOngoingStubbingImpl.will(Answer)
+1329    2   1    0 org.mockito.BDDMockito.BDDOngoingStubbingImpl.willReturn(T)
+1330    2   1    0 org.mockito.BDDMockito.BDDOngoingStubbingImpl.willReturn(T,T)
+1331    2   1    0 org.mockito.BDDMockito.BDDOngoingStubbingImpl.willThrow(Throwable)
+1332    2   1    0 org.mockito.BDDMockito.BDDOngoingStubbingImpl.willThrow(Throwable)
+1333    2   1    0 org.mockito.BDDMockito.BDDOngoingStubbingImpl.willCallRealMethod()
+1334    2   1    0 org.mockito.BDDMockito.BDDOngoingStubbingImpl.getMock()
+1335    2   1    1 org.mockito.BDDMockito.given(T)
+1336    2   1    1 org.mockito.BDDMockito.then(T)
+1337    1   1    1 org.mockito.BDDMockito.Then.should()
+1338    1   1    1 org.mockito.BDDMockito.Then.should(VerificationMode)
+1339    2   1    0 org.mockito.BDDMockito.ThenImpl.ThenImpl(T)
+1340    2   1    1 org.mockito.BDDMockito.ThenImpl.should()
+1341    2   1    1 org.mockito.BDDMockito.ThenImpl.should(VerificationMode)
+1342    1   1    1 org.mockito.BDDMockito.BDDStubber.willAnswer(Answer)
+1343    1   1    1 org.mockito.BDDMockito.BDDStubber.willNothing()
+1344    1   1    1 org.mockito.BDDMockito.BDDStubber.willReturn(Object)
+1345    1   1    1 org.mockito.BDDMockito.BDDStubber.willThrow(Throwable)
+1346    1   1    1 org.mockito.BDDMockito.BDDStubber.willThrow(Throwable)
+1347    1   1    1 org.mockito.BDDMockito.BDDStubber.willCallRealMethod()
+1348    1   1    0 org.mockito.BDDMockito.BDDStubber.given(T)
+1349    2   1    0 org.mockito.BDDMockito.BDDStubberImpl.BDDStubberImpl(Stubber)
+1350    2   1    0 org.mockito.BDDMockito.BDDStubberImpl.given(T)
+1351    2   1    0 org.mockito.BDDMockito.BDDStubberImpl.willAnswer(Answer)
+1352    2   1    0 org.mockito.BDDMockito.BDDStubberImpl.willNothing()
+1353    2   1    0 org.mockito.BDDMockito.BDDStubberImpl.willReturn(Object)
+1354    2   1    0 org.mockito.BDDMockito.BDDStubberImpl.willThrow(Throwable)
+1355    2   1    0 org.mockito.BDDMockito.BDDStubberImpl.willThrow(Throwable)
+1356    2   1    0 org.mockito.BDDMockito.BDDStubberImpl.willCallRealMethod()
+1357    2   1    1 org.mockito.BDDMockito.willThrow(Throwable)
+1358    2   1    1 org.mockito.BDDMockito.willThrow(Throwable)
+1359    2   1    1 org.mockito.BDDMockito.willAnswer(Answer)
+1360    2   1    1 org.mockito.BDDMockito.willDoNothing()
+1361    2   1    1 org.mockito.BDDMockito.willReturn(Object)
+1362    2   1    1 org.mockito.BDDMockito.willCallRealMethod()
+1363    2   1    0 org.mockito.verification.VerificationWrapper.VerificationWrapper(WrapperType)
+1364    2   1    0 org.mockito.verification.VerificationWrapper.verify(VerificationData)
+1365    1   1    0 org.mockito.verification.VerificationWrapper.copySelfWithNewVerificationMode(VerificationMode)
+1366    2   1    0 org.mockito.verification.VerificationWrapper.times(int)
+1367    2   1    0 org.mockito.verification.VerificationWrapper.never()
+1368    2   1    0 org.mockito.verification.VerificationWrapper.atLeastOnce()
+1369    2   1    0 org.mockito.verification.VerificationWrapper.atLeast(int)
+1370    2   1    0 org.mockito.verification.VerificationWrapper.atMost(int)
+1371    2   1    0 org.mockito.verification.VerificationWrapper.only()
+1372    1   1    0 org.mockito.verification.VerificationMode.verify(VerificationData)
+1373    2   1    1 org.mockito.verification.Timeout.Timeout(long,VerificationMode)
+1374    2   1    1 org.mockito.verification.Timeout.Timeout(long,long,VerificationMode)
+1375    2   1    1 org.mockito.verification.Timeout.Timeout(long,VerificationMode,Timer)
+1376    2   1    0 org.mockito.verification.Timeout.Timeout(VerificationOverTimeImpl)
+1377    2   1    0 org.mockito.verification.Timeout.copySelfWithNewVerificationMode(VerificationMode)
+1378    3   1    0 org.mockito.verification.Timeout.atMost(int)
+1379    3   1    0 org.mockito.verification.Timeout.never()
+1380    1   1    1 org.mockito.verification.VerificationWithTimeout.times(int)
+1381    1   1    1 org.mockito.verification.VerificationWithTimeout.never()
+1382    1   1    1 org.mockito.verification.VerificationWithTimeout.atLeastOnce()
+1383    1   1    1 org.mockito.verification.VerificationWithTimeout.atLeast(int)
+1384    1   1    1 org.mockito.verification.VerificationWithTimeout.atMost(int)
+1385    1   1    1 org.mockito.verification.VerificationWithTimeout.only()
+1386    2   1    1 org.mockito.verification.After.After(long,VerificationMode)
+1387    2   1    0 org.mockito.verification.After.After(long,long,VerificationMode)
+1388    2   1    0 org.mockito.verification.After.After(VerificationOverTimeImpl)
+1389    2   1    0 org.mockito.verification.After.copySelfWithNewVerificationMode(VerificationMode)
+1390    1   1    1 org.mockito.verification.VerificationAfterDelay.times(int)
+1391    1   1    1 org.mockito.verification.VerificationAfterDelay.never()
+1392    1   1    1 org.mockito.verification.VerificationAfterDelay.atLeastOnce()
+1393    1   1    1 org.mockito.verification.VerificationAfterDelay.atLeast(int)
+1394    1   1    1 org.mockito.verification.VerificationAfterDelay.atMost(int)
+1395    1   1    1 org.mockito.verification.VerificationAfterDelay.only()
+1396    2   1    1 org.mockito.AdditionalAnswers.returnsFirstArg()
+1397    2   1    1 org.mockito.AdditionalAnswers.returnsSecondArg()
+1398    2   1    1 org.mockito.AdditionalAnswers.returnsLastArg()
+1399    2   1    1 org.mockito.AdditionalAnswers.returnsArgAt(int)
+1400    2   1    1 org.mockito.AdditionalAnswers.delegatesTo(Object)
+1401    2   1    1 org.mockito.AdditionalAnswers.returnsElementsOf(Collection)
+1402    1   1    0 org.mockito.MockitoDebugger.printInvocations(Object)
+1403    2   1    1 org.mockito.AdditionalMatchers.geq(T)
+1404    2   1    1 org.mockito.AdditionalMatchers.geq(byte)
+1405    2   1    1 org.mockito.AdditionalMatchers.geq(double)
+1406    2   1    1 org.mockito.AdditionalMatchers.geq(float)
+1407    2   1    1 org.mockito.AdditionalMatchers.geq(int)
+1408    2   1    1 org.mockito.AdditionalMatchers.geq(long)
+1409    2   1    1 org.mockito.AdditionalMatchers.geq(short)
+1410    2   1    1 org.mockito.AdditionalMatchers.leq(T)
+1411    2   1    1 org.mockito.AdditionalMatchers.leq(byte)
+1412    2   1    1 org.mockito.AdditionalMatchers.leq(double)
+1413    2   1    1 org.mockito.AdditionalMatchers.leq(float)
+1414    2   1    1 org.mockito.AdditionalMatchers.leq(int)
+1415    2   1    1 org.mockito.AdditionalMatchers.leq(long)
+1416    2   1    1 org.mockito.AdditionalMatchers.leq(short)
+1417    2   1    1 org.mockito.AdditionalMatchers.gt(T)
+1418    2   1    1 org.mockito.AdditionalMatchers.gt(byte)
+1419    2   1    1 org.mockito.AdditionalMatchers.gt(double)
+1420    2   1    1 org.mockito.AdditionalMatchers.gt(float)
+1421    2   1    1 org.mockito.AdditionalMatchers.gt(int)
+1422    2   1    1 org.mockito.AdditionalMatchers.gt(long)
+1423    2   1    1 org.mockito.AdditionalMatchers.gt(short)
+1424    2   1    1 org.mockito.AdditionalMatchers.lt(T)
+1425    2   1    1 org.mockito.AdditionalMatchers.lt(byte)
+1426    2   1    1 org.mockito.AdditionalMatchers.lt(double)
+1427    2   1    1 org.mockito.AdditionalMatchers.lt(float)
+1428    2   1    1 org.mockito.AdditionalMatchers.lt(int)
+1429    2   1    1 org.mockito.AdditionalMatchers.lt(long)
+1430    2   1    1 org.mockito.AdditionalMatchers.lt(short)
+1431    2   1    1 org.mockito.AdditionalMatchers.cmpEq(T)
+1432    2   1    1 org.mockito.AdditionalMatchers.find(String)
+1433    2   1    1 org.mockito.AdditionalMatchers.aryEq(T[])
+1434    2   1    1 org.mockito.AdditionalMatchers.aryEq(value[][])
+1435    2   1    1 org.mockito.AdditionalMatchers.aryEq(value[][])
+1436    2   1    1 org.mockito.AdditionalMatchers.aryEq(value[][])
+1437    2   1    1 org.mockito.AdditionalMatchers.aryEq(value[][])
+1438    2   1    1 org.mockito.AdditionalMatchers.aryEq(value[][])
+1439    2   1    1 org.mockito.AdditionalMatchers.aryEq(value[][])
+1440    2   1    1 org.mockito.AdditionalMatchers.aryEq(value[][])
+1441    2   1    1 org.mockito.AdditionalMatchers.aryEq(value[][])
+1442    2   1    1 org.mockito.AdditionalMatchers.and(boolean,boolean)
+1443    2   1    1 org.mockito.AdditionalMatchers.and(byte,byte)
+1444    2   1    1 org.mockito.AdditionalMatchers.and(char,char)
+1445    2   1    1 org.mockito.AdditionalMatchers.and(double,double)
+1446    2   1    1 org.mockito.AdditionalMatchers.and(float,float)
+1447    2   1    1 org.mockito.AdditionalMatchers.and(int,int)
+1448    2   1    1 org.mockito.AdditionalMatchers.and(long,long)
+1449    2   1    1 org.mockito.AdditionalMatchers.and(short,short)
+1450    2   1    1 org.mockito.AdditionalMatchers.and(T,T)
+1451    2   1    1 org.mockito.AdditionalMatchers.or(boolean,boolean)
+1452    2   1    1 org.mockito.AdditionalMatchers.or(T,T)
+1453    2   1    1 org.mockito.AdditionalMatchers.or(short,short)
+1454    2   1    1 org.mockito.AdditionalMatchers.or(long,long)
+1455    2   1    1 org.mockito.AdditionalMatchers.or(int,int)
+1456    2   1    1 org.mockito.AdditionalMatchers.or(float,float)
+1457    2   1    1 org.mockito.AdditionalMatchers.or(double,double)
+1458    2   1    1 org.mockito.AdditionalMatchers.or(char,char)
+1459    2   1    1 org.mockito.AdditionalMatchers.or(byte,byte)
+1460    2   1    1 org.mockito.AdditionalMatchers.not(T)
+1461    2   1    1 org.mockito.AdditionalMatchers.not(short)
+1462    2   1    1 org.mockito.AdditionalMatchers.not(int)
+1463    2   1    1 org.mockito.AdditionalMatchers.not(long)
+1464    2   1    1 org.mockito.AdditionalMatchers.not(float)
+1465    2   1    1 org.mockito.AdditionalMatchers.not(double)
+1466    2   1    1 org.mockito.AdditionalMatchers.not(char)
+1467    2   1    1 org.mockito.AdditionalMatchers.not(boolean)
+1468    2   1    1 org.mockito.AdditionalMatchers.not(byte)
+1469    2   1    1 org.mockito.AdditionalMatchers.eq(double,double)
+1470    2   1    1 org.mockito.AdditionalMatchers.eq(float,float)
+1471    2   1    0 org.mockito.AdditionalMatchers.reportMatcher(ArgumentMatcher)
+1472    2   1    1 org.mockito.Mockito.mock(T)
+1473    2   1    1 org.mockito.Mockito.mock(T,String)
+1474    2   1    1 org.mockito.Mockito.mockingDetails(Object)
+1475    2   1    1 org.mockito.Mockito.mock(T,ReturnValues)
+1476    2   1    1 org.mockito.Mockito.mock(T,Answer)
+1477    2   1    1 org.mockito.Mockito.mock(T,MockSettings)
+1478    2   1    1 org.mockito.Mockito.spy(T)
+1479    2   1    1 org.mockito.Mockito.spy(T)
+1480    2   1    1 org.mockito.Mockito.stub(T)
+1481    2   1    1 org.mockito.Mockito.when(T)
+1482    2   1    1 org.mockito.Mockito.verify(T)
+1483    2   1    1 org.mockito.Mockito.verify(T,VerificationMode)
+1484    2   1    1 org.mockito.Mockito.reset(T)
+1485    2   1    1 org.mockito.Mockito.verifyNoMoreInteractions(Object)
+1486    2   1    1 org.mockito.Mockito.verifyZeroInteractions(Object)
+1487    2   1    1 org.mockito.Mockito.stubVoid(T)
+1488    2   1    1 org.mockito.Mockito.doThrow(Throwable)
+1489    2   1    1 org.mockito.Mockito.doThrow(Throwable)
+1490    2   1    1 org.mockito.Mockito.doCallRealMethod()
+1491    2   1    1 org.mockito.Mockito.doAnswer(Answer)
+1492    2   1    1 org.mockito.Mockito.doNothing()
+1493    2   1    1 org.mockito.Mockito.doReturn(Object)
+1494    2   1    1 org.mockito.Mockito.inOrder(Object)
+1495    2   1    1 org.mockito.Mockito.ignoreStubs(Object)
+1496    2   1    1 org.mockito.Mockito.times(int)
+1497    2   1    1 org.mockito.Mockito.never()
+1498    2   1    1 org.mockito.Mockito.atLeastOnce()
+1499    2   1    1 org.mockito.Mockito.atLeast(int)
+1500    2   1    1 org.mockito.Mockito.atMost(int)
+1501    2   1    1 org.mockito.Mockito.calls(int)
+1502    2   1    1 org.mockito.Mockito.only()
+1503    2   1    1 org.mockito.Mockito.timeout(long)
+1504    2   1    1 org.mockito.Mockito.after(long)
+1505    2   1    1 org.mockito.Mockito.validateMockitoUsage()
+1506    2   1    1 org.mockito.Mockito.withSettings()
+1507    2   1    1 org.mockito.Mockito.debug()
+1508    2   1    0 org.mockito.runners.ConsoleSpammingMockitoJUnitRunner.ConsoleSpammingMockitoJUnitRunner(Class)
+1509    3   1    0 org.mockito.runners.ConsoleSpammingMockitoJUnitRunner.ConsoleSpammingMockitoJUnitRunner(MockitoLogger,RunnerImpl)
+1510    2   1    0 org.mockito.runners.ConsoleSpammingMockitoJUnitRunner.RunListener.testStarted(Description)
+1511    2   1    0 org.mockito.runners.ConsoleSpammingMockitoJUnitRunner.RunListener.testFailure(Failure)
+1512    9   1    0 org.mockito.runners.ConsoleSpammingMockitoJUnitRunner.run(RunNotifier)
+1513    2   1    0 org.mockito.runners.ConsoleSpammingMockitoJUnitRunner.getDescription()
+1514    2   1    0 org.mockito.runners.ConsoleSpammingMockitoJUnitRunner.filter(Filter)
+1515    2   1    0 org.mockito.runners.VerboseMockitoJUnitRunner.VerboseMockitoJUnitRunner(Class)
+1516    2   1    0 org.mockito.runners.VerboseMockitoJUnitRunner.VerboseMockitoJUnitRunner(RunnerImpl)
+1517    2   1    0 org.mockito.runners.VerboseMockitoJUnitRunner.RunListener.testStarted(Description)
+1518    3   1    0 org.mockito.runners.VerboseMockitoJUnitRunner.RunListener.testFailure(Failure)
+1519   10   1    0 org.mockito.runners.VerboseMockitoJUnitRunner.run(RunNotifier)
+1520    2   1    0 org.mockito.runners.VerboseMockitoJUnitRunner.getDescription()
+1521    2   1    0 org.mockito.runners.VerboseMockitoJUnitRunner.filter(Filter)
+1522    2   1    0 org.mockito.runners.MockitoJUnit44Runner.MockitoJUnit44Runner(Class)
+1523    2   1    0 org.mockito.runners.MockitoJUnitRunner.MockitoJUnitRunner(Class)
+1524    2   1    0 org.mockito.runners.MockitoJUnitRunner.run(RunNotifier)
+1525    2   1    0 org.mockito.runners.MockitoJUnitRunner.getDescription()
+1526    2   1    0 org.mockito.runners.MockitoJUnitRunner.filter(Filter)
+1527    1   1    1 org.mockito.stubbing.Answer.answer(InvocationOnMock)
+1528    2   1    0 org.mockito.stubbing.answers.ReturnsElementsOf.ReturnsElementsOf(Collection)
+1529    1   1    1 org.mockito.stubbing.OngoingStubbing.thenReturn(T)
+1530    1   1    1 org.mockito.stubbing.OngoingStubbing.thenReturn(T,T)
+1531    1   1    1 org.mockito.stubbing.OngoingStubbing.thenThrow(Throwable)
+1532    1   1    1 org.mockito.stubbing.OngoingStubbing.thenThrow(Throwable)
+1533    1   1    1 org.mockito.stubbing.OngoingStubbing.thenCallRealMethod()
+1534    1   1    1 org.mockito.stubbing.OngoingStubbing.thenAnswer(Answer)
+1535    1   1    1 org.mockito.stubbing.OngoingStubbing.then(Answer)
+1536    1   1    0 org.mockito.stubbing.OngoingStubbing.getMock()
+1537    1   1    0 org.mockito.stubbing.Stubber.when(T)
+1538    1   1    1 org.mockito.stubbing.Stubber.doThrow(Throwable)
+1539    1   1    1 org.mockito.stubbing.Stubber.doThrow(Throwable)
+1540    1   1    1 org.mockito.stubbing.Stubber.doAnswer(Answer)
+1541    1   1    1 org.mockito.stubbing.Stubber.doNothing()
+1542    1   1    1 org.mockito.stubbing.Stubber.doReturn(Object)
+1543    1   1    1 org.mockito.stubbing.Stubber.doCallRealMethod()
+1544    1   1    1 org.mockito.stubbing.DeprecatedOngoingStubbing.toReturn(T)
+1545    1   1    1 org.mockito.stubbing.DeprecatedOngoingStubbing.toThrow(Throwable)
+1546    1   1    1 org.mockito.stubbing.DeprecatedOngoingStubbing.toAnswer(Answer)
+1547    1   1    1 org.mockito.stubbing.VoidMethodStubbable.toThrow(Throwable)
+1548    1   1    1 org.mockito.stubbing.VoidMethodStubbable.toReturn()
+1549    1   1    1 org.mockito.stubbing.VoidMethodStubbable.toAnswer(Answer)
+1550    1   1    1 org.mockito.stubbing.VoidMethodStubbable.on()
+1551    1   1    1 org.mockito.MockingDetails.isMock()
+1552    1   1    1 org.mockito.MockingDetails.isSpy()
+1553    1   1    1 org.mockito.MockingDetails.getInvocations()
+1554    1   1    1 org.mockito.listeners.MethodInvocationReport.getInvocation()
+1555    1   1    1 org.mockito.listeners.MethodInvocationReport.getReturnedValue()
+1556    1   1    1 org.mockito.listeners.MethodInvocationReport.getThrowable()
+1557    1   1    1 org.mockito.listeners.MethodInvocationReport.threwException()
+1558    1   1    1 org.mockito.listeners.MethodInvocationReport.getLocationOfStubbing()
+1559    1   1    1 org.mockito.listeners.InvocationListener.reportInvocation(MethodInvocationReport)
+1560    1   1    1 org.mockito.ReturnValues.valueFor(InvocationOnMock)
+Average Function NCSS:       3.26
+Average Function CCN:        1.78
+Average Function JVDC:       0.27
+Program NCSS:            7,468.00

@@ -1,0 +1,16 @@
+{
+"Class" : "weka.core.SerializationHelper$1", 
+"Methods" : [{ "Name" : "resolveClass" ,
+"Duas" : 11,
+"0" :  "(337,346, this)",
+"1" :  "(337,351, desc)",
+"2" :  "(337,346, this.m_thirdPartyLoaders)",
+"3" :  "(338,363, arrayStripped)",
+"4" :  "(341,(343,345), cl)",
+"5" :  "(341,(343,349), cl)",
+"6" :  "(341,351, cl)",
+"7" :  "(341,346, cl)",
+"8" :  "(351,(362,363), result)",
+"9" :  "(351,(362,367), result)",
+"10" :  "(351,367, result)"}]
+}

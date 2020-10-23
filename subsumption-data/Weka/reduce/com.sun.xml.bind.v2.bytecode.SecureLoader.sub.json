@@ -1,0 +1,9 @@
+{
+"Class" : "com.sun.xml.bind.v2.bytecode.SecureLoader", 
+"Methods" : [{ "Name" : "getClassClassLoader" ,
+"Duas" : "2" ,
+"Subsumers" : 2,
+"0" : [ 0], "S0" : [0 ],
+"1" : [ 1], "S1" : [1 ]
+}]
+}

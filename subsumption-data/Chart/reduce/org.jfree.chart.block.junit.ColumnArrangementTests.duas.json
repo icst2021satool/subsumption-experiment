@@ -1,0 +1,9 @@
+{
+"Class" : "org.jfree.chart.block.junit.ColumnArrangementTests", 
+"Methods" : [{ "Name" : "suite" ,
+"Duas" : 4,
+"0" :  "(71,(71,71), class$org$jfree$chart$block$junit$ColumnArrangementTests)",
+"1" :  "(71,(71,71), class$org$jfree$chart$block$junit$ColumnArrangementTests)",
+"2" :  "(71,71, class$org$jfree$chart$block$junit$ColumnArrangementTests)",
+"3" :  "(71,71, class$org$jfree$chart$block$junit$ColumnArrangementTests)"}]
+}

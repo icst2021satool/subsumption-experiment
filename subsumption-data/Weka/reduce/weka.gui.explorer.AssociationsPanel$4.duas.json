@@ -1,0 +1,14 @@
+{
+"Class" : "weka.gui.explorer.AssociationsPanel$4", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Duas" : 9,
+"0" :  "(219,225, this)",
+"1" :  "(219,(220,221), m_Memory)",
+"2" :  "(219,(220,224), m_Memory)",
+"3" :  "(219,221, m_Memory)",
+"4" :  "(219,225, this.this$0)",
+"5" :  "(219,(224,225), proceed)",
+"6" :  "(219,(224,227), proceed)",
+"7" :  "(221,(224,225), proceed)",
+"8" :  "(221,(224,227), proceed)"}]
+}

@@ -1,0 +1,10 @@
+{
+"Class" : "com.sun.xml.bind.v2.runtime.JAXBContextImpl$6", 
+"Methods" : [{ "Name" : "compare" ,
+"Duas" : 5,
+"0" :  "(1002,1005, lhs)",
+"1" :  "(1002,1005, rhs)",
+"2" :  "(1002,(1003,1003), r)",
+"3" :  "(1002,(1003,1005), r)",
+"4" :  "(1002,1003, r)"}]
+}

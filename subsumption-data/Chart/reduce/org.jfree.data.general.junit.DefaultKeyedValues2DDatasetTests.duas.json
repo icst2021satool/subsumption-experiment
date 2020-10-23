@@ -1,0 +1,20 @@
+{
+"Class" : "org.jfree.data.general.junit.DefaultKeyedValues2DDatasetTests", 
+"Methods" : [{ "Name" : "suite" ,
+"Duas" : 4,
+"0" :  "(67,(67,67), class$org$jfree$data$general$junit$DefaultKeyedValues2DDatasetTests)",
+"1" :  "(67,(67,67), class$org$jfree$data$general$junit$DefaultKeyedValues2DDatasetTests)",
+"2" :  "(67,67, class$org$jfree$data$general$junit$DefaultKeyedValues2DDatasetTests)",
+"3" :  "(67,67, class$org$jfree$data$general$junit$DefaultKeyedValues2DDatasetTests)"},{ "Name" : "testCloning" ,
+"Duas" : 10,
+"0" :  "(83,(94,94), d1)",
+"1" :  "(83,(94,94), d1)",
+"2" :  "(83,(95,95), d1)",
+"3" :  "(83,(95,95), d1)",
+"4" :  "(83,96, d1)",
+"5" :  "(89,(94,94), d2)",
+"6" :  "(89,(94,94), d2)",
+"7" :  "(89,(95,95), d2)",
+"8" :  "(89,(95,95), d2)",
+"9" :  "(89,96, d2)"}]
+}

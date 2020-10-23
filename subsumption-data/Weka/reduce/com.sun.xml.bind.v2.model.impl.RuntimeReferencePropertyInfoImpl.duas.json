@@ -1,0 +1,17 @@
+{
+"Class" : "com.sun.xml.bind.v2.model.impl.RuntimeReferencePropertyInfoImpl", 
+"Methods" : [{ "Name" : "<init>" ,
+"Duas" : 9,
+"0" :  "(31,(33,33), this)",
+"1" :  "(31,(33,37), this)",
+"2" :  "(31,37, this)",
+"3" :  "(31,(33,36), this)",
+"4" :  "(31,(33,37), this)",
+"5" :  "(31,36, this)",
+"6" :  "(32,37, rawAcc)",
+"7" :  "(32,36, rawAcc)",
+"8" :  "(36,37, rawAcc)"},{ "Name" : "elementOnlyContent" ,
+"Duas" : 2,
+"0" :  "(53,(53,53), this)",
+"1" :  "(53,(53,53), this)"}]
+}

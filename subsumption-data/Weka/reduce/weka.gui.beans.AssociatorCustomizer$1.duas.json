@@ -1,0 +1,14 @@
+{
+"Class" : "weka.gui.beans.AssociatorCustomizer$1", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Duas" : 9,
+"0" :  "(81,(81,82), this)",
+"1" :  "(81,(81,85), this)",
+"2" :  "(81,85, this)",
+"3" :  "(81,82, this)",
+"4" :  "(81,(81,82), this.this$0)",
+"5" :  "(81,(81,85), this.this$0)",
+"6" :  "(81,85, this.this$0)",
+"7" :  "(81,82, this.this$0)",
+"8" :  "(81,85, this.m_parentWindow)"}]
+}

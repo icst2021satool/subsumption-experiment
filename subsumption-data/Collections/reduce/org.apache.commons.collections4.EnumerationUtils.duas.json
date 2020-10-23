@@ -1,0 +1,21 @@
+{
+"Class" : "org.apache.commons.collections4.EnumerationUtils", 
+"Methods" : [{ "Name" : "get" ,
+"Duas" : 10,
+"0" :  "(55,(57,58), e)",
+"1" :  "(55,(57,65), e)",
+"2" :  "(55,62, e)",
+"3" :  "(55,60, e)",
+"4" :  "(55,65, i)",
+"5" :  "(55,58, i)",
+"6" :  "(58,(59,60), i)",
+"7" :  "(58,(59,62), i)",
+"8" :  "(58,65, i)",
+"9" :  "(58,58, i)"},{ "Name" : "toList" ,
+"Duas" : 5,
+"0" :  "(91,(92,93), stringTokenizer)",
+"1" :  "(91,(92,95), stringTokenizer)",
+"2" :  "(91,93, stringTokenizer)",
+"3" :  "(91,95, result)",
+"4" :  "(91,93, result)"}]
+}

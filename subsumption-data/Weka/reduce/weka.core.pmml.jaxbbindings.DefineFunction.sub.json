@@ -1,0 +1,14 @@
+{
+"Class" : "weka.core.pmml.jaxbbindings.DefineFunction", 
+"Methods" : [{ "Name" : "getExtension" ,
+"Duas" : "8" ,
+"Subsumers" : 2,
+"0" : [ 7, 4, 3, 0], "S0" : [0, 2, 3, 4, 7 ],
+"1" : [ 6, 5, 1], "S1" : [1, 2, 5, 6 ]
+},{ "Name" : "getParameterField" ,
+"Duas" : "8" ,
+"Subsumers" : 2,
+"0" : [ 7, 4, 3, 0], "S0" : [0, 2, 3, 4, 7 ],
+"1" : [ 6, 5, 1], "S1" : [1, 2, 5, 6 ]
+}]
+}

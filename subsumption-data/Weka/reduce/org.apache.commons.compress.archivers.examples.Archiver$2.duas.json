@@ -1,0 +1,16 @@
+{
+"Class" : "org.apache.commons.compress.archivers.examples.Archiver$2", 
+"Methods" : [{ "Name" : "accept" ,
+"Duas" : 11,
+"0" :  "(214,220, this)",
+"1" :  "(214,217, this)",
+"2" :  "(214,216, source)",
+"3" :  "(214,(215,216), e)",
+"4" :  "(214,(215,220), e)",
+"5" :  "(214,220, this.val$target)",
+"6" :  "(214,217, this.val$target)",
+"7" :  "(216,(218,218), in)",
+"8" :  "(216,(218,220), in)",
+"9" :  "(216,218, in)",
+"10" :  "(216,218, in)"}]
+}

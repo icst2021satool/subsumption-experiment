@@ -1,0 +1,21 @@
+{
+"Class" : "weka.classifiers.evaluation.NumericPrediction", 
+"Methods" : [{ "Name" : "error" ,
+"Duas" : 16,
+"0" :  "(132,(132,132), this)",
+"1" :  "(132,(132,134), this)",
+"2" :  "(132,(132,134), this)",
+"3" :  "(132,(132,136), this)",
+"4" :  "(132,136, this)",
+"5" :  "(132,(132,132), this.m_Actual)",
+"6" :  "(132,(132,134), this.m_Actual)",
+"7" :  "(132,136, this.m_Actual)",
+"8" :  "(132,(132,132), MISSING_VALUE)",
+"9" :  "(132,(132,134), MISSING_VALUE)",
+"10" :  "(132,134, MISSING_VALUE)",
+"11" :  "(132,(132,134), MISSING_VALUE)",
+"12" :  "(132,(132,136), MISSING_VALUE)",
+"13" :  "(132,(132,134), this.m_Predicted)",
+"14" :  "(132,(132,136), this.m_Predicted)",
+"15" :  "(132,136, this.m_Predicted)"}]
+}

@@ -1,0 +1,9 @@
+{
+"Class" : "org.jfree.chart.needle.junit.MeterNeedleTests", 
+"Methods" : [{ "Name" : "suite" ,
+"Duas" : 4,
+"0" :  "(65,(65,65), class$org$jfree$chart$needle$junit$MeterNeedleTests)",
+"1" :  "(65,(65,65), class$org$jfree$chart$needle$junit$MeterNeedleTests)",
+"2" :  "(65,65, class$org$jfree$chart$needle$junit$MeterNeedleTests)",
+"3" :  "(65,65, class$org$jfree$chart$needle$junit$MeterNeedleTests)"}]
+}

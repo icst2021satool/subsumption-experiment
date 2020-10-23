@@ -1,0 +1,16 @@
+{
+"Class" : "weka.gui.experiment.ResultsPanel$1", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Duas" : 11,
+"0" :  "(332,(332,333), this)",
+"1" :  "(332,(332,342), this)",
+"2" :  "(332,333, this)",
+"3" :  "(332,333, this)",
+"4" :  "(332,340, this)",
+"5" :  "(332,(332,333), this.this$0)",
+"6" :  "(332,(332,342), this.this$0)",
+"7" :  "(332,333, this.this$0)",
+"8" :  "(332,340, this.this$0)",
+"9" :  "(332,(332,333), this.m_LoadThread)",
+"10" :  "(332,(332,342), this.m_LoadThread)"}]
+}

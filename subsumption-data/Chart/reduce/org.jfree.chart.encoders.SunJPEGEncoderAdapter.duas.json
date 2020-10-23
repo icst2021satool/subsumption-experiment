@@ -1,0 +1,20 @@
+{
+"Class" : "org.jfree.chart.encoders.SunJPEGEncoderAdapter", 
+"Methods" : [{ "Name" : "setQuality" ,
+"Duas" : 6,
+"0" :  "(99,103, this)",
+"1" :  "(99,(99,99), quality)",
+"2" :  "(99,(99,100), quality)",
+"3" :  "(99,(99,100), quality)",
+"4" :  "(99,(99,103), quality)",
+"5" :  "(99,103, quality)"},{ "Name" : "encode" ,
+"Duas" : 8,
+"0" :  "(158,168, this)",
+"1" :  "(158,(158,159), bufferedImage)",
+"2" :  "(158,(158,161), bufferedImage)",
+"3" :  "(158,171, bufferedImage)",
+"4" :  "(158,(161,162), outputStream)",
+"5" :  "(158,(161,164), outputStream)",
+"6" :  "(158,169, outputStream)",
+"7" :  "(158,168, this.quality)"}]
+}

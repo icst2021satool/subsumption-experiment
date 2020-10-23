@@ -1,0 +1,24 @@
+{
+"Class" : "org.apache.commons.compress.archivers.zip.UnrecognizedExtraField", 
+"Methods" : [{ "Name" : "getLocalFileDataLength" ,
+"Duas" : "6" ,
+"Subsumers" : 2,
+"0" : [ 3, 0], "S0" : [0, 2, 3, 5 ],
+"1" : [ 4, 1], "S1" : [1, 2, 4, 5 ]
+},{ "Name" : "getCentralDirectoryLength" ,
+"Duas" : "7" ,
+"Subsumers" : 2,
+"0" : [ 6, 4, 3, 0], "S0" : [0, 3, 4, 6 ],
+"1" : [ 5, 2, 1], "S1" : [1, 2, 5 ]
+},{ "Name" : "getCentralDirectoryData" ,
+"Duas" : "7" ,
+"Subsumers" : 2,
+"0" : [ 6, 4, 3, 0], "S0" : [0, 3, 4, 6 ],
+"1" : [ 5, 2, 1], "S1" : [1, 2, 5 ]
+},{ "Name" : "parseFromCentralDirectoryData" ,
+"Duas" : "6" ,
+"Subsumers" : 2,
+"0" : [ 5, 3, 2, 0], "S0" : [0, 2, 3, 5 ],
+"1" : [ 4, 1], "S1" : [1, 4 ]
+}]
+}

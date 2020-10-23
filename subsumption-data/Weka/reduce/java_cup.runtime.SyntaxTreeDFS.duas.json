@@ -1,0 +1,8 @@
+{
+"Class" : "java_cup.runtime.SyntaxTreeDFS", 
+"Methods" : [{ "Name" : "dfs" ,
+"Duas" : 3,
+"0" :  "(43,47, element)",
+"1" :  "(43,47, visitor)",
+"2" :  "(43,45, visitor)"}]
+}

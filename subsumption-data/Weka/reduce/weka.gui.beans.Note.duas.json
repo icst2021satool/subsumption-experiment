@@ -1,0 +1,12 @@
+{
+"Class" : "weka.gui.beans.Note", 
+"Methods" : [{ "Name" : "setHighlighted" ,
+"Duas" : 7,
+"0" :  "(75,79, this)",
+"1" :  "(75,81, this)",
+"2" :  "(75,76, this)",
+"3" :  "(75,(75,76), highlighted)",
+"4" :  "(75,(75,79), highlighted)",
+"5" :  "(75,76, BLUE)",
+"6" :  "(75,79, GRAY)"}]
+}

@@ -1,0 +1,14 @@
+{
+"Class" : "com.fasterxml.jackson.dataformat.xml.JacksonXmlModule", 
+"Methods" : [{ "Name" : "setupModule" ,
+"Duas" : 9,
+"0" :  "(57,(64,65), this)",
+"1" :  "(57,(64,72), this)",
+"2" :  "(57,72, this)",
+"3" :  "(57,66, this)",
+"4" :  "(57,72, context)",
+"5" :  "(57,65, context)",
+"6" :  "(57,(64,65), this._cfgNameForTextElement)",
+"7" :  "(57,(64,72), this._cfgNameForTextElement)",
+"8" :  "(57,66, this._cfgNameForTextElement)"}]
+}

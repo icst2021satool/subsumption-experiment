@@ -1,0 +1,9 @@
+{
+"Class" : "org.mockito.internal.debugging.LoggingListener", 
+"Methods" : [{ "Name" : "foundUnstubbed" ,
+"Duas" : "8" ,
+"Subsumers" : 2,
+"0" : [ 7, 5, 3, 4, 2, 0], "S0" : [0, 2, 3, 4, 5, 7 ],
+"1" : [ 6, 1], "S1" : [1, 6 ]
+}]
+}

@@ -1,0 +1,15 @@
+{
+"Class" : "com.googlecode.jfilechooserbookmarks.event.RemoveItemsEvent", 
+"Methods" : [{ "Name" : "<init>" ,
+"Duas" : 5,
+"0" :  "(47,52, this)",
+"1" :  "(47,50, this)",
+"2" :  "(47,(49,50), indices)",
+"3" :  "(47,(49,52), indices)",
+"4" :  "(47,50, indices)"},{ "Name" : "hasIndices" ,
+"Duas" : 4,
+"0" :  "(61,(61,61), this)",
+"1" :  "(61,(61,61), this)",
+"2" :  "(61,(61,61), this.m_Indices)",
+"3" :  "(61,(61,61), this.m_Indices)"}]
+}

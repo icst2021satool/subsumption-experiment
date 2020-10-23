@@ -1,0 +1,13 @@
+{
+"Class" : "weka.gui.knowledgeflow.SQLViewerPerspective$1", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Duas" : 8,
+"0" :  "(83,(83,84), this)",
+"1" :  "(83,(83,86), this)",
+"2" :  "(83,84, this)",
+"3" :  "(83,(83,84), this.this$0)",
+"4" :  "(83,(83,86), this.this$0)",
+"5" :  "(83,84, this.this$0)",
+"6" :  "(83,(83,84), this.m_mainKFPerspective)",
+"7" :  "(83,(83,86), this.m_mainKFPerspective)"}]
+}

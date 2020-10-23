@@ -1,0 +1,475 @@
+com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator com.fasterxml.jackson.dataformat.xml.deser.FromXmlParser com.fasterxml.jackson.dataformat.xml.ser.UnwrappingXmlBeanSerializer com.fasterxml.jackson.dataformat.xml.JacksonXmlAnnotationIntrospector com.fasterxml.jackson.dataformat.xml.deser.FromXmlParser$Feature com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator$Feature com.fasterxml.jackson.dataformat.xml.deser.XmlTokenStream com.fasterxml.jackson.dataformat.xml.ser.XmlBeanSerializerModifier com.fasterxml.jackson.dataformat.xml.util.XmlRootNameLookup com.fasterxml.jackson.dataformat.xml.deser.ElementWrapper com.fasterxml.jackson.dataformat.xml.XmlAnnotationIntrospector$Pair com.fasterxml.jackson.dataformat.xml.util.DefaultXmlPrettyPrinter com.fasterxml.jackson.dataformat.xml.deser.XmlBeanDeserializerModifier com.fasterxml.jackson.dataformat.xml.deser.WrapperHandlingDeserializer com.fasterxml.jackson.dataformat.xml.deser.XmlReadContext com.fasterxml.jackson.dataformat.xml.deser.XmlTextDeserializer com.fasterxml.jackson.dataformat.xml.ser.XmlBeanSerializer com.fasterxml.jackson.dataformat.xml.util.DefaultXmlPrettyPrinter$Lf2SpacesIndenter com.fasterxml.jackson.dataformat.xml.util.XmlInfo com.fasterxml.jackson.dataformat.xml.ser.XmlBeanPropertyWriter com.fasterxml.jackson.dataformat.xml.XmlTypeResolverBuilder com.fasterxml.jackson.dataformat.xml.ser.XmlBeanSerializerBase com.fasterxml.jackson.dataformat.xml.ser.XmlSerializerProvider com.fasterxml.jackson.dataformat.xml.XmlMapper com.fasterxml.jackson.dataformat.xml.JacksonXmlModule com.fasterxml.jackson.dataformat.xml.util.AnnotationUtil com.fasterxml.jackson.dataformat.xml.util.StaxUtil com.fasterxml.jackson.dataformat.xml.util.TypeUtil com.fasterxml.jackson.dataformat.xml.XmlFactory
+com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator
+Directory of jaguar data: ../jaguar-data/jackson-dataformat-xml/1b
+Directory of subsumption data: ../subsumption-data/JacksonXml
+Analyzing class com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator 
+../jaguar-data/jackson-dataformat-xml/1b/jaguar/.jaguar/matrix
+com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator.matrix
+../subsumption-data/JacksonXml/reduce/com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator.sub.json
+>>>>> com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator <<<<<
+0:<init>:13
+1:initGenerator:32
+2:useDefaultPrettyPrinter:6
+3:setPrettyPrinter:5
+4:overrideFormatFeatures:7
+5:isEnabled:6
+6:configure:7
+7:setNextNameIfMissing:6
+8:startWrappedValue:15
+9:finishWrappedValue:12
+10:writeRepeatedFieldName:7
+11:writeFieldName:15
+12:writeStartArray:6
+13:writeEndArray:15
+14:writeStartObject:7
+15:writeEndObject:21
+16:_handleStartObject:11
+17:_handleEndObject:24
+18:writeString:50
+19:writeString:62
+20:writeRaw:8
+21:writeRaw:10
+22:writeRaw:10
+23:writeBinary:48
+24:toFullBuffer:15
+25:writeBoolean:35
+26:writeNull:22
+27:writeNumber:35
+28:writeNumber:35
+29:writeNumber:35
+30:writeNumber:35
+31:writeNumber:57
+32:writeNumber:39
+33:_verifyValueWrite:4
+34:flush:6
+35:close:23
+36:checkNextIsUnwrapped:5
+Total :75: tests for class:com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator:
+Methods executed: 24
+com.fasterxml.jackson.dataformat.xml.deser.FromXmlParser
+Directory of jaguar data: ../jaguar-data/jackson-dataformat-xml/1b
+Directory of subsumption data: ../subsumption-data/JacksonXml
+Analyzing class com.fasterxml.jackson.dataformat.xml.deser.FromXmlParser 
+../jaguar-data/jackson-dataformat-xml/1b/jaguar/.jaguar/matrix
+com.fasterxml.jackson.dataformat.xml.deser.FromXmlParser.matrix
+../subsumption-data/JacksonXml/reduce/com.fasterxml.jackson.dataformat.xml.deser.FromXmlParser.sub.json
+>>>>> com.fasterxml.jackson.dataformat.xml.deser.FromXmlParser <<<<<
+0:isEnabled:6
+1:configure:7
+2:addVirtualWrapping:13
+3:getCurrentName:24
+4:overrideCurrentName:16
+5:close:18
+6:isExpectedStartArrayToken:15
+7:nextToken:193
+8:nextTextValue:139
+9:_updateState:20
+10:getText:18
+11:getValueAsString:35
+12:getTextCharacters:3
+13:getTextLength:3
+14:getBinaryValue:27
+15:_handleEOF:7
+16:_getByteArrayBuilder:10
+17:_isEmpty:19
+Total :80: tests for class:com.fasterxml.jackson.dataformat.xml.deser.FromXmlParser:
+Methods executed: 13
+com.fasterxml.jackson.dataformat.xml.ser.UnwrappingXmlBeanSerializer
+Directory of jaguar data: ../jaguar-data/jackson-dataformat-xml/1b
+Directory of subsumption data: ../subsumption-data/JacksonXml
+Analyzing class com.fasterxml.jackson.dataformat.xml.ser.UnwrappingXmlBeanSerializer 
+../jaguar-data/jackson-dataformat-xml/1b/jaguar/.jaguar/matrix
+com.fasterxml.jackson.dataformat.xml.ser.UnwrappingXmlBeanSerializer.matrix
+../subsumption-data/JacksonXml/reduce/com.fasterxml.jackson.dataformat.xml.ser.UnwrappingXmlBeanSerializer.sub.json
+>>>>> com.fasterxml.jackson.dataformat.xml.ser.UnwrappingXmlBeanSerializer <<<<<
+0:serialize:20
+Total :3: tests for class:com.fasterxml.jackson.dataformat.xml.ser.UnwrappingXmlBeanSerializer:
+Methods executed: 1
+com.fasterxml.jackson.dataformat.xml.JacksonXmlAnnotationIntrospector
+Directory of jaguar data: ../jaguar-data/jackson-dataformat-xml/1b
+Directory of subsumption data: ../subsumption-data/JacksonXml
+Analyzing class com.fasterxml.jackson.dataformat.xml.JacksonXmlAnnotationIntrospector 
+../jaguar-data/jackson-dataformat-xml/1b/jaguar/.jaguar/matrix
+com.fasterxml.jackson.dataformat.xml.JacksonXmlAnnotationIntrospector.matrix
+../subsumption-data/JacksonXml/reduce/com.fasterxml.jackson.dataformat.xml.JacksonXmlAnnotationIntrospector.sub.json
+>>>>> com.fasterxml.jackson.dataformat.xml.JacksonXmlAnnotationIntrospector <<<<<
+0:findWrapperName:17
+1:findRootName:13
+2:findNamespace:3
+3:isOutputAsAttribute:6
+4:isOutputAsText:6
+5:isOutputAsCData:6
+6:findNameForSerialization:11
+7:findNameForDeserialization:11
+8:_findXmlName:3
+Total :98: tests for class:com.fasterxml.jackson.dataformat.xml.JacksonXmlAnnotationIntrospector:
+Methods executed: 9
+com.fasterxml.jackson.dataformat.xml.deser.FromXmlParser$Feature
+Directory of jaguar data: ../jaguar-data/jackson-dataformat-xml/1b
+Directory of subsumption data: ../subsumption-data/JacksonXml
+Analyzing class com.fasterxml.jackson.dataformat.xml.deser.FromXmlParser$Feature 
+../jaguar-data/jackson-dataformat-xml/1b/jaguar/.jaguar/matrix
+com.fasterxml.jackson.dataformat.xml.deser.FromXmlParser$Feature.matrix
+../subsumption-data/JacksonXml/reduce/com.fasterxml.jackson.dataformat.xml.deser.FromXmlParser$Feature.sub.json
+>>>>> com.fasterxml.jackson.dataformat.xml.deser.FromXmlParser$Feature <<<<<
+0:collectDefaults:18
+1:enabledIn:4
+Total :1: tests for class:com.fasterxml.jackson.dataformat.xml.deser.FromXmlParser$Feature:
+Methods executed: 1
+com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator$Feature
+Directory of jaguar data: ../jaguar-data/jackson-dataformat-xml/1b
+Directory of subsumption data: ../subsumption-data/JacksonXml
+Analyzing class com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator$Feature 
+../jaguar-data/jackson-dataformat-xml/1b/jaguar/.jaguar/matrix
+com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator$Feature.matrix
+../subsumption-data/JacksonXml/reduce/com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator$Feature.sub.json
+>>>>> com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator$Feature <<<<<
+0:collectDefaults:18
+1:enabledIn:4
+Total :70: tests for class:com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator$Feature:
+Methods executed: 2
+com.fasterxml.jackson.dataformat.xml.deser.XmlTokenStream
+Directory of jaguar data: ../jaguar-data/jackson-dataformat-xml/1b
+Directory of subsumption data: ../subsumption-data/JacksonXml
+Analyzing class com.fasterxml.jackson.dataformat.xml.deser.XmlTokenStream 
+../jaguar-data/jackson-dataformat-xml/1b/jaguar/.jaguar/matrix
+com.fasterxml.jackson.dataformat.xml.deser.XmlTokenStream.matrix
+../subsumption-data/JacksonXml/reduce/com.fasterxml.jackson.dataformat.xml.deser.XmlTokenStream.sub.json
+>>>>> com.fasterxml.jackson.dataformat.xml.deser.XmlTokenStream <<<<<
+0:<init>:9
+1:next:7
+2:skipEndElement:3
+3:hasAttributes:8
+4:repeatStartElement:19
+5:skipAttributes:16
+6:convertToString:32
+7:_next:55
+8:_collectUntilTag:22
+9:_skipUntilTag:11
+10:_initStartElement:31
+11:_handleRepeatElement:31
+12:_handleEndElement:18
+13:_extractLocation:7
+Total :84: tests for class:com.fasterxml.jackson.dataformat.xml.deser.XmlTokenStream:
+Methods executed: 12
+com.fasterxml.jackson.dataformat.xml.ser.XmlBeanSerializerModifier
+Directory of jaguar data: ../jaguar-data/jackson-dataformat-xml/1b
+Directory of subsumption data: ../subsumption-data/JacksonXml
+Analyzing class com.fasterxml.jackson.dataformat.xml.ser.XmlBeanSerializerModifier 
+../jaguar-data/jackson-dataformat-xml/1b/jaguar/.jaguar/matrix
+com.fasterxml.jackson.dataformat.xml.ser.XmlBeanSerializerModifier.matrix
+../subsumption-data/JacksonXml/reduce/com.fasterxml.jackson.dataformat.xml.ser.XmlBeanSerializerModifier.sub.json
+>>>>> com.fasterxml.jackson.dataformat.xml.ser.XmlBeanSerializerModifier <<<<<
+0:changeProperties:41
+1:modifySerializer:4
+Total :73: tests for class:com.fasterxml.jackson.dataformat.xml.ser.XmlBeanSerializerModifier:
+Methods executed: 2
+com.fasterxml.jackson.dataformat.xml.util.XmlRootNameLookup
+Directory of jaguar data: ../jaguar-data/jackson-dataformat-xml/1b
+Directory of subsumption data: ../subsumption-data/JacksonXml
+Analyzing class com.fasterxml.jackson.dataformat.xml.util.XmlRootNameLookup 
+../jaguar-data/jackson-dataformat-xml/1b/jaguar/.jaguar/matrix
+com.fasterxml.jackson.dataformat.xml.util.XmlRootNameLookup.matrix
+../subsumption-data/JacksonXml/reduce/com.fasterxml.jackson.dataformat.xml.util.XmlRootNameLookup.sub.json
+>>>>> com.fasterxml.jackson.dataformat.xml.util.XmlRootNameLookup <<<<<
+0:readResolve:5
+1:findRootName:13
+2:_findRootName:36
+3:findNamespace:10
+Total :70: tests for class:com.fasterxml.jackson.dataformat.xml.util.XmlRootNameLookup:
+Methods executed: 4
+com.fasterxml.jackson.dataformat.xml.deser.ElementWrapper
+Directory of jaguar data: ../jaguar-data/jackson-dataformat-xml/1b
+Directory of subsumption data: ../subsumption-data/JacksonXml
+Analyzing class com.fasterxml.jackson.dataformat.xml.deser.ElementWrapper 
+../jaguar-data/jackson-dataformat-xml/1b/jaguar/.jaguar/matrix
+com.fasterxml.jackson.dataformat.xml.deser.ElementWrapper.matrix
+../subsumption-data/JacksonXml/reduce/com.fasterxml.jackson.dataformat.xml.deser.ElementWrapper.sub.json
+>>>>> com.fasterxml.jackson.dataformat.xml.deser.ElementWrapper <<<<<
+0:<init>:4
+1:isMatching:4
+2:matchesWrapper:20
+3:toString:12
+Total :19: tests for class:com.fasterxml.jackson.dataformat.xml.deser.ElementWrapper:
+Methods executed: 3
+com.fasterxml.jackson.dataformat.xml.XmlAnnotationIntrospector$Pair
+Directory of jaguar data: ../jaguar-data/jackson-dataformat-xml/1b
+Directory of subsumption data: ../subsumption-data/JacksonXml
+Analyzing class com.fasterxml.jackson.dataformat.xml.XmlAnnotationIntrospector$Pair 
+../jaguar-data/jackson-dataformat-xml/1b/jaguar/.jaguar/matrix
+com.fasterxml.jackson.dataformat.xml.XmlAnnotationIntrospector$Pair.matrix
+../subsumption-data/JacksonXml/reduce/com.fasterxml.jackson.dataformat.xml.XmlAnnotationIntrospector$Pair.sub.json
+>>>>> com.fasterxml.jackson.dataformat.xml.XmlAnnotationIntrospector$Pair <<<<<
+0:<init>:18
+1:findNamespace:18
+2:isOutputAsAttribute:18
+3:isOutputAsText:18
+4:isOutputAsCData:18
+5:setDefaultUseWrapper:14
+Total :6: tests for class:com.fasterxml.jackson.dataformat.xml.XmlAnnotationIntrospector$Pair:
+Methods executed: 1
+com.fasterxml.jackson.dataformat.xml.util.DefaultXmlPrettyPrinter
+Directory of jaguar data: ../jaguar-data/jackson-dataformat-xml/1b
+Directory of subsumption data: ../subsumption-data/JacksonXml
+Analyzing class com.fasterxml.jackson.dataformat.xml.util.DefaultXmlPrettyPrinter 
+../jaguar-data/jackson-dataformat-xml/1b/jaguar/.jaguar/matrix
+com.fasterxml.jackson.dataformat.xml.util.DefaultXmlPrettyPrinter.matrix
+../subsumption-data/JacksonXml/reduce/com.fasterxml.jackson.dataformat.xml.util.DefaultXmlPrettyPrinter.sub.json
+>>>>> com.fasterxml.jackson.dataformat.xml.util.DefaultXmlPrettyPrinter <<<<<
+0:indentArraysWith:4
+1:indentObjectsWith:4
+2:writeStartObject:16
+3:writeEndObject:17
+4:writeStartElement:19
+5:writeEndElement:17
+6:writeLeafElement:19
+7:writeLeafElement:23
+8:writeLeafElement:15
+9:writeLeafElement:15
+10:writeLeafElement:15
+11:writeLeafElement:15
+12:writeLeafElement:15
+13:writeLeafElement:15
+14:writeLeafElement:15
+15:writeLeafElement:17
+16:writeLeafNullElement:12
+Total :13: tests for class:com.fasterxml.jackson.dataformat.xml.util.DefaultXmlPrettyPrinter:
+Methods executed: 6
+com.fasterxml.jackson.dataformat.xml.deser.XmlBeanDeserializerModifier
+Directory of jaguar data: ../jaguar-data/jackson-dataformat-xml/1b
+Directory of subsumption data: ../subsumption-data/JacksonXml
+Analyzing class com.fasterxml.jackson.dataformat.xml.deser.XmlBeanDeserializerModifier 
+../jaguar-data/jackson-dataformat-xml/1b/jaguar/.jaguar/matrix
+com.fasterxml.jackson.dataformat.xml.deser.XmlBeanDeserializerModifier.matrix
+../subsumption-data/JacksonXml/reduce/com.fasterxml.jackson.dataformat.xml.deser.XmlBeanDeserializerModifier.sub.json
+>>>>> com.fasterxml.jackson.dataformat.xml.deser.XmlBeanDeserializerModifier <<<<<
+0:updateProperties:64
+1:modifyDeserializer:14
+2:_findSoleTextProp:21
+Total :71: tests for class:com.fasterxml.jackson.dataformat.xml.deser.XmlBeanDeserializerModifier:
+Methods executed: 3
+com.fasterxml.jackson.dataformat.xml.deser.WrapperHandlingDeserializer
+Directory of jaguar data: ../jaguar-data/jackson-dataformat-xml/1b
+Directory of subsumption data: ../subsumption-data/JacksonXml
+Analyzing class com.fasterxml.jackson.dataformat.xml.deser.WrapperHandlingDeserializer 
+../jaguar-data/jackson-dataformat-xml/1b/jaguar/.jaguar/matrix
+com.fasterxml.jackson.dataformat.xml.deser.WrapperHandlingDeserializer.matrix
+../subsumption-data/JacksonXml/reduce/com.fasterxml.jackson.dataformat.xml.deser.WrapperHandlingDeserializer.sub.json
+>>>>> com.fasterxml.jackson.dataformat.xml.deser.WrapperHandlingDeserializer <<<<<
+0:createContextual:27
+1:_configureParser:5
+2:_verifyDeserType:4
+Total :63: tests for class:com.fasterxml.jackson.dataformat.xml.deser.WrapperHandlingDeserializer:
+Methods executed: 3
+com.fasterxml.jackson.dataformat.xml.deser.XmlReadContext
+Directory of jaguar data: ../jaguar-data/jackson-dataformat-xml/1b
+Directory of subsumption data: ../subsumption-data/JacksonXml
+Analyzing class com.fasterxml.jackson.dataformat.xml.deser.XmlReadContext 
+../jaguar-data/jackson-dataformat-xml/1b/jaguar/.jaguar/matrix
+com.fasterxml.jackson.dataformat.xml.deser.XmlReadContext.matrix
+../subsumption-data/JacksonXml/reduce/com.fasterxml.jackson.dataformat.xml.deser.XmlReadContext.sub.json
+>>>>> com.fasterxml.jackson.dataformat.xml.deser.XmlReadContext <<<<<
+0:createChildArrayContext:10
+1:createChildObjectContext:10
+2:toString:26
+Total :80: tests for class:com.fasterxml.jackson.dataformat.xml.deser.XmlReadContext:
+Methods executed: 1
+com.fasterxml.jackson.dataformat.xml.deser.XmlTextDeserializer
+Directory of jaguar data: ../jaguar-data/jackson-dataformat-xml/1b
+Directory of subsumption data: ../subsumption-data/JacksonXml
+Analyzing class com.fasterxml.jackson.dataformat.xml.deser.XmlTextDeserializer 
+../jaguar-data/jackson-dataformat-xml/1b/jaguar/.jaguar/matrix
+com.fasterxml.jackson.dataformat.xml.deser.XmlTextDeserializer.matrix
+../subsumption-data/JacksonXml/reduce/com.fasterxml.jackson.dataformat.xml.deser.XmlTextDeserializer.sub.json
+>>>>> com.fasterxml.jackson.dataformat.xml.deser.XmlTextDeserializer <<<<<
+0:deserialize:15
+1:deserialize:15
+2:_verifyDeserType:4
+Total :8: tests for class:com.fasterxml.jackson.dataformat.xml.deser.XmlTextDeserializer:
+Methods executed: 2
+com.fasterxml.jackson.dataformat.xml.ser.XmlBeanSerializer
+Directory of jaguar data: ../jaguar-data/jackson-dataformat-xml/1b
+Directory of subsumption data: ../subsumption-data/JacksonXml
+Analyzing class com.fasterxml.jackson.dataformat.xml.ser.XmlBeanSerializer 
+../jaguar-data/jackson-dataformat-xml/1b/jaguar/.jaguar/matrix
+com.fasterxml.jackson.dataformat.xml.ser.XmlBeanSerializer.matrix
+../subsumption-data/JacksonXml/reduce/com.fasterxml.jackson.dataformat.xml.ser.XmlBeanSerializer.sub.json
+>>>>> com.fasterxml.jackson.dataformat.xml.ser.XmlBeanSerializer <<<<<
+0:asArraySerializer:14
+1:serialize:22
+Total :64: tests for class:com.fasterxml.jackson.dataformat.xml.ser.XmlBeanSerializer:
+Methods executed: 1
+com.fasterxml.jackson.dataformat.xml.util.DefaultXmlPrettyPrinter$Lf2SpacesIndenter
+Directory of jaguar data: ../jaguar-data/jackson-dataformat-xml/1b
+Directory of subsumption data: ../subsumption-data/JacksonXml
+Analyzing class com.fasterxml.jackson.dataformat.xml.util.DefaultXmlPrettyPrinter$Lf2SpacesIndenter 
+../jaguar-data/jackson-dataformat-xml/1b/jaguar/.jaguar/matrix
+com.fasterxml.jackson.dataformat.xml.util.DefaultXmlPrettyPrinter$Lf2SpacesIndenter.matrix
+../subsumption-data/JacksonXml/reduce/com.fasterxml.jackson.dataformat.xml.util.DefaultXmlPrettyPrinter$Lf2SpacesIndenter.sub.json
+>>>>> com.fasterxml.jackson.dataformat.xml.util.DefaultXmlPrettyPrinter$Lf2SpacesIndenter <<<<<
+0:writeIndentation:13
+1:writeIndentation:13
+Total :11: tests for class:com.fasterxml.jackson.dataformat.xml.util.DefaultXmlPrettyPrinter$Lf2SpacesIndenter:
+Methods executed: 1
+com.fasterxml.jackson.dataformat.xml.util.XmlInfo
+Directory of jaguar data: ../jaguar-data/jackson-dataformat-xml/1b
+Directory of subsumption data: ../subsumption-data/JacksonXml
+Analyzing class com.fasterxml.jackson.dataformat.xml.util.XmlInfo 
+../jaguar-data/jackson-dataformat-xml/1b/jaguar/.jaguar/matrix
+com.fasterxml.jackson.dataformat.xml.util.XmlInfo.matrix
+../subsumption-data/JacksonXml/reduce/com.fasterxml.jackson.dataformat.xml.util.XmlInfo.sub.json
+>>>>> com.fasterxml.jackson.dataformat.xml.util.XmlInfo <<<<<
+0:<init>:16
+Total :66: tests for class:com.fasterxml.jackson.dataformat.xml.util.XmlInfo:
+Methods executed: 1
+com.fasterxml.jackson.dataformat.xml.ser.XmlBeanPropertyWriter
+Directory of jaguar data: ../jaguar-data/jackson-dataformat-xml/1b
+Directory of subsumption data: ../subsumption-data/JacksonXml
+Analyzing class com.fasterxml.jackson.dataformat.xml.ser.XmlBeanPropertyWriter 
+../jaguar-data/jackson-dataformat-xml/1b/jaguar/.jaguar/matrix
+com.fasterxml.jackson.dataformat.xml.ser.XmlBeanPropertyWriter.matrix
+../subsumption-data/JacksonXml/reduce/com.fasterxml.jackson.dataformat.xml.ser.XmlBeanPropertyWriter.sub.json
+>>>>> com.fasterxml.jackson.dataformat.xml.ser.XmlBeanPropertyWriter <<<<<
+0:<init>:4
+1:_qname:5
+2:serializeAsField:95
+Total :16: tests for class:com.fasterxml.jackson.dataformat.xml.ser.XmlBeanPropertyWriter:
+Methods executed: 3
+com.fasterxml.jackson.dataformat.xml.XmlTypeResolverBuilder
+Directory of jaguar data: ../jaguar-data/jackson-dataformat-xml/1b
+Directory of subsumption data: ../subsumption-data/JacksonXml
+Analyzing class com.fasterxml.jackson.dataformat.xml.XmlTypeResolverBuilder 
+../jaguar-data/jackson-dataformat-xml/1b/jaguar/.jaguar/matrix
+com.fasterxml.jackson.dataformat.xml.XmlTypeResolverBuilder.matrix
+../subsumption-data/JacksonXml/reduce/com.fasterxml.jackson.dataformat.xml.XmlTypeResolverBuilder.sub.json
+>>>>> com.fasterxml.jackson.dataformat.xml.XmlTypeResolverBuilder <<<<<
+0:init:7
+1:typeProperty:10
+2:idResolver:25
+3:encodeXmlClassName:14
+4:decodeXmlClassName:14
+Total :5: tests for class:com.fasterxml.jackson.dataformat.xml.XmlTypeResolverBuilder:
+Methods executed: 3
+com.fasterxml.jackson.dataformat.xml.ser.XmlBeanSerializerBase
+Directory of jaguar data: ../jaguar-data/jackson-dataformat-xml/1b
+Directory of subsumption data: ../subsumption-data/JacksonXml
+Analyzing class com.fasterxml.jackson.dataformat.xml.ser.XmlBeanSerializerBase 
+../jaguar-data/jackson-dataformat-xml/1b/jaguar/.jaguar/matrix
+com.fasterxml.jackson.dataformat.xml.ser.XmlBeanSerializerBase.matrix
+../subsumption-data/JacksonXml/reduce/com.fasterxml.jackson.dataformat.xml.ser.XmlBeanSerializerBase.sub.json
+>>>>> com.fasterxml.jackson.dataformat.xml.ser.XmlBeanSerializerBase <<<<<
+0:<init>:89
+1:serializeFields:103
+2:serializeFieldsFiltered:108
+3:serializeWithType:29
+4:_serializeObjectId:22
+5:_isAttribute:4
+6:_isCData:4
+7:_orderAttributesFirst:43
+Total :67: tests for class:com.fasterxml.jackson.dataformat.xml.ser.XmlBeanSerializerBase:
+Methods executed: 8
+com.fasterxml.jackson.dataformat.xml.ser.XmlSerializerProvider
+Directory of jaguar data: ../jaguar-data/jackson-dataformat-xml/1b
+Directory of subsumption data: ../subsumption-data/JacksonXml
+Analyzing class com.fasterxml.jackson.dataformat.xml.ser.XmlSerializerProvider 
+../jaguar-data/jackson-dataformat-xml/1b/jaguar/.jaguar/matrix
+com.fasterxml.jackson.dataformat.xml.ser.XmlSerializerProvider.matrix
+../subsumption-data/JacksonXml/reduce/com.fasterxml.jackson.dataformat.xml.ser.XmlSerializerProvider.sub.json
+>>>>> com.fasterxml.jackson.dataformat.xml.ser.XmlSerializerProvider <<<<<
+0:serializeValue:37
+1:serializeValue:36
+2:serializeValue:40
+3:_serializeXmlNull:7
+4:_initWithRootName:16
+5:_rootNameFromConfig:10
+6:_asXmlGenerator:6
+Total :77: tests for class:com.fasterxml.jackson.dataformat.xml.ser.XmlSerializerProvider:
+Methods executed: 4
+com.fasterxml.jackson.dataformat.xml.XmlMapper
+Directory of jaguar data: ../jaguar-data/jackson-dataformat-xml/1b
+Directory of subsumption data: ../subsumption-data/JacksonXml
+Analyzing class com.fasterxml.jackson.dataformat.xml.XmlMapper 
+../jaguar-data/jackson-dataformat-xml/1b/jaguar/.jaguar/matrix
+com.fasterxml.jackson.dataformat.xml.XmlMapper.matrix
+../subsumption-data/JacksonXml/reduce/com.fasterxml.jackson.dataformat.xml.XmlMapper.sub.json
+>>>>> com.fasterxml.jackson.dataformat.xml.XmlMapper <<<<<
+0:<init>:7
+1:setDefaultUseWrapper:8
+Total :86: tests for class:com.fasterxml.jackson.dataformat.xml.XmlMapper:
+Methods executed: 2
+com.fasterxml.jackson.dataformat.xml.JacksonXmlModule
+Directory of jaguar data: ../jaguar-data/jackson-dataformat-xml/1b
+Directory of subsumption data: ../subsumption-data/JacksonXml
+Analyzing class com.fasterxml.jackson.dataformat.xml.JacksonXmlModule 
+../jaguar-data/jackson-dataformat-xml/1b/jaguar/.jaguar/matrix
+com.fasterxml.jackson.dataformat.xml.JacksonXmlModule.matrix
+../subsumption-data/JacksonXml/reduce/com.fasterxml.jackson.dataformat.xml.JacksonXmlModule.sub.json
+>>>>> com.fasterxml.jackson.dataformat.xml.JacksonXmlModule <<<<<
+0:setupModule:9
+Total :86: tests for class:com.fasterxml.jackson.dataformat.xml.JacksonXmlModule:
+Methods executed: 1
+com.fasterxml.jackson.dataformat.xml.util.AnnotationUtil
+Directory of jaguar data: ../jaguar-data/jackson-dataformat-xml/1b
+Directory of subsumption data: ../subsumption-data/JacksonXml
+Analyzing class com.fasterxml.jackson.dataformat.xml.util.AnnotationUtil 
+../jaguar-data/jackson-dataformat-xml/1b/jaguar/.jaguar/matrix
+com.fasterxml.jackson.dataformat.xml.util.AnnotationUtil.matrix
+../subsumption-data/JacksonXml/reduce/com.fasterxml.jackson.dataformat.xml.util.AnnotationUtil.sub.json
+>>>>> com.fasterxml.jackson.dataformat.xml.util.AnnotationUtil <<<<<
+0:findNamespaceAnnotation:17
+1:findIsAttributeAnnotation:17
+2:findIsTextAnnotation:17
+3:findIsCDataAnnotation:10
+Total :101: tests for class:com.fasterxml.jackson.dataformat.xml.util.AnnotationUtil:
+Methods executed: 4
+com.fasterxml.jackson.dataformat.xml.util.StaxUtil
+Directory of jaguar data: ../jaguar-data/jackson-dataformat-xml/1b
+Directory of subsumption data: ../subsumption-data/JacksonXml
+Analyzing class com.fasterxml.jackson.dataformat.xml.util.StaxUtil 
+../jaguar-data/jackson-dataformat-xml/1b/jaguar/.jaguar/matrix
+com.fasterxml.jackson.dataformat.xml.util.StaxUtil.matrix
+../subsumption-data/JacksonXml/reduce/com.fasterxml.jackson.dataformat.xml.util.StaxUtil.sub.json
+>>>>> com.fasterxml.jackson.dataformat.xml.util.StaxUtil <<<<<
+0:throwXmlAsIOException:20
+1:sanitizeXmlTypeName:71
+Total :55: tests for class:com.fasterxml.jackson.dataformat.xml.util.StaxUtil:
+Methods executed: 0
+com.fasterxml.jackson.dataformat.xml.util.TypeUtil
+Directory of jaguar data: ../jaguar-data/jackson-dataformat-xml/1b
+Directory of subsumption data: ../subsumption-data/JacksonXml
+Analyzing class com.fasterxml.jackson.dataformat.xml.util.TypeUtil 
+../jaguar-data/jackson-dataformat-xml/1b/jaguar/.jaguar/matrix
+com.fasterxml.jackson.dataformat.xml.util.TypeUtil.matrix
+../subsumption-data/JacksonXml/reduce/com.fasterxml.jackson.dataformat.xml.util.TypeUtil.sub.json
+>>>>> com.fasterxml.jackson.dataformat.xml.util.TypeUtil <<<<<
+0:isIndexedType:9
+1:isIndexedType:8
+Total :105: tests for class:com.fasterxml.jackson.dataformat.xml.util.TypeUtil:
+Methods executed: 1
+com.fasterxml.jackson.dataformat.xml.XmlFactory
+Directory of jaguar data: ../jaguar-data/jackson-dataformat-xml/1b
+Directory of subsumption data: ../subsumption-data/JacksonXml
+Analyzing class com.fasterxml.jackson.dataformat.xml.XmlFactory 
+../jaguar-data/jackson-dataformat-xml/1b/jaguar/.jaguar/matrix
+com.fasterxml.jackson.dataformat.xml.XmlFactory.matrix
+../subsumption-data/JacksonXml/reduce/com.fasterxml.jackson.dataformat.xml.XmlFactory.sub.json
+>>>>> com.fasterxml.jackson.dataformat.xml.XmlFactory <<<<<
+0:<init>:15
+1:readResolve:17
+2:configure:7
+3:isEnabled:6
+4:configure:7
+5:isEnabled:6
+6:createParser:12
+7:createParser:18
+8:_createParser:8
+9:_createParser:8
+10:_createParser:8
+11:_createParser:8
+12:_initializeXmlReader:3
+13:hasXMLFormat:88
+14:validXmlNameStartChar:2
+15:tryMatch:21
+16:skipSpace:12
+Total :129: tests for class:com.fasterxml.jackson.dataformat.xml.XmlFactory:
+Methods executed: 8

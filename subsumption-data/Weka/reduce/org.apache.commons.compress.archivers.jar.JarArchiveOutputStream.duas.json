@@ -1,0 +1,13 @@
+{
+"Class" : "org.apache.commons.compress.archivers.jar.JarArchiveOutputStream", 
+"Methods" : [{ "Name" : "putArchiveEntry" ,
+"Duas" : 8,
+"0" :  "(59,(59,60), this)",
+"1" :  "(59,(59,63), this)",
+"2" :  "(59,63, this)",
+"3" :  "(59,61, this)",
+"4" :  "(59,63, ze)",
+"5" :  "(59,60, ze)",
+"6" :  "(59,(59,60), this.jarMarkerAdded)",
+"7" :  "(59,(59,63), this.jarMarkerAdded)"}]
+}

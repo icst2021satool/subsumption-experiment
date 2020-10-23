@@ -1,0 +1,9 @@
+{
+"Class" : "org.jfree.data.statistics.junit.MeanAndStandardDeviationTests", 
+"Methods" : [{ "Name" : "suite" ,
+"Duas" : 4,
+"0" :  "(67,(67,67), class$org$jfree$data$statistics$junit$MeanAndStandardDeviationTests)",
+"1" :  "(67,(67,67), class$org$jfree$data$statistics$junit$MeanAndStandardDeviationTests)",
+"2" :  "(67,67, class$org$jfree$data$statistics$junit$MeanAndStandardDeviationTests)",
+"3" :  "(67,67, class$org$jfree$data$statistics$junit$MeanAndStandardDeviationTests)"}]
+}

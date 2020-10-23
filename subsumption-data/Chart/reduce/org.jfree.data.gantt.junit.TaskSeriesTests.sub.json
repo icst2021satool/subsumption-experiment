@@ -1,0 +1,21 @@
+{
+"Class" : "org.jfree.data.gantt.junit.TaskSeriesTests", 
+"Methods" : [{ "Name" : "suite" ,
+"Duas" : "4" ,
+"Subsumers" : 2,
+"0" : [ 3, 0], "S0" : [0, 3 ],
+"1" : [ 2, 1], "S1" : [1, 2 ]
+},{ "Name" : "testCloning" ,
+"Duas" : "10" ,
+"Subsumers" : 4,
+"0" : [ 5, 0], "S0" : [0, 4, 5, 9 ],
+"1" : [ 6, 1], "S1" : [1, 4, 6, 9 ],
+"2" : [ 7, 2], "S2" : [2, 4, 7, 9 ],
+"3" : [ 8, 3], "S3" : [3, 4, 8, 9 ]
+},{ "Name" : "testGetTask" ,
+"Duas" : "2" ,
+"Subsumers" : 2,
+"0" : [ 0], "S0" : [0 ],
+"1" : [ 1], "S1" : [1 ]
+}]
+}

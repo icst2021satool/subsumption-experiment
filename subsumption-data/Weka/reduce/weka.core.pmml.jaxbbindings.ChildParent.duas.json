@@ -1,0 +1,20 @@
+{
+"Class" : "weka.core.pmml.jaxbbindings.ChildParent", 
+"Methods" : [{ "Name" : "getExtension" ,
+"Duas" : 8,
+"0" :  "(104,(104,105), this)",
+"1" :  "(104,(104,107), this)",
+"2" :  "(104,107, this)",
+"3" :  "(104,105, this)",
+"4" :  "(104,(104,105), this.extension)",
+"5" :  "(104,(104,107), this.extension)",
+"6" :  "(104,107, this.extension)",
+"7" :  "(105,107, this.extension)"},{ "Name" : "getIsRecursive" ,
+"Duas" : 6,
+"0" :  "(191,(191,192), this)",
+"1" :  "(191,(191,194), this)",
+"2" :  "(191,194, this)",
+"3" :  "(191,(191,192), this.isRecursive)",
+"4" :  "(191,(191,194), this.isRecursive)",
+"5" :  "(191,194, this.isRecursive)"}]
+}

@@ -1,0 +1,22 @@
+{
+"Class" : "weka.gui.knowledgeflow.ScatterPlotMatrixPerspective", 
+"Methods" : [{ "Name" : "setActive" ,
+"Duas" : 12,
+"0" :  "(94,(95,95), this)",
+"1" :  "(94,(95,100), this)",
+"2" :  "(94,(95,96), this)",
+"3" :  "(94,(95,100), this)",
+"4" :  "(94,96, this)",
+"5" :  "(94,98, this)",
+"6" :  "(94,(95,95), this.m_isActive)",
+"7" :  "(94,(95,100), this.m_isActive)",
+"8" :  "(94,(95,96), this.m_visualizeDataSet)",
+"9" :  "(94,(95,100), this.m_visualizeDataSet)",
+"10" :  "(94,96, this.m_matrixPanel)",
+"11" :  "(94,98, this.m_matrixPanel)"},{ "Name" : "okToBeActive" ,
+"Duas" : 4,
+"0" :  "(121,(121,121), this)",
+"1" :  "(121,(121,121), this)",
+"2" :  "(121,(121,121), this.m_visualizeDataSet)",
+"3" :  "(121,(121,121), this.m_visualizeDataSet)"}]
+}

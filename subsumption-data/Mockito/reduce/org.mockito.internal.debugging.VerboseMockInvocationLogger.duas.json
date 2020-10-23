@@ -1,0 +1,22 @@
+{
+"Class" : "org.mockito.internal.debugging.VerboseMockInvocationLogger", 
+"Methods" : [{ "Name" : "printReturnedValueOrThrowable" ,
+"Duas" : 12,
+"0" :  "(42,47, this)",
+"1" :  "(42,44, this)",
+"2" :  "(42,(42,43), methodInvocationReport)",
+"3" :  "(42,(42,46), methodInvocationReport)",
+"4" :  "(42,(46,46), methodInvocationReport)",
+"5" :  "(42,(46,46), methodInvocationReport)",
+"6" :  "(42,46, methodInvocationReport)",
+"7" :  "(42,47, methodInvocationReport)",
+"8" :  "(42,(43,43), methodInvocationReport)",
+"9" :  "(42,(43,43), methodInvocationReport)",
+"10" :  "(42,43, methodInvocationReport)",
+"11" :  "(42,44, methodInvocationReport)"},{ "Name" : "printStubInfo" ,
+"Duas" : 4,
+"0" :  "(52,53, this)",
+"1" :  "(52,(52,53), methodInvocationReport)",
+"2" :  "(52,(52,55), methodInvocationReport)",
+"3" :  "(52,53, methodInvocationReport)"}]
+}

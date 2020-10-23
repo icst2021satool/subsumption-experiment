@@ -1,0 +1,14 @@
+{
+"Class" : "com.fasterxml.jackson.databind.introspect.POJOPropertyBuilder$5", 
+"Methods" : [{ "Name" : "withMember" ,
+"Duas" : 9,
+"0" :  "(364,366, this)",
+"1" :  "(364,366, member)",
+"2" :  "(364,366, this.this$0)",
+"3" :  "(364,366, this._annotationIntrospector)",
+"4" :  "(364,(365,366), info)",
+"5" :  "(364,(365,368), info)",
+"6" :  "(364,368, info)",
+"7" :  "(364,366, info)",
+"8" :  "(366,368, info)"}]
+}

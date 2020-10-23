@@ -1,0 +1,11 @@
+{
+"Class" : "org.mockito.internal.handler.NullResultGuardian", 
+"Methods" : [{ "Name" : "handle" ,
+"Duas" : 6,
+"0" :  "(29,(31,31), result)",
+"1" :  "(29,(31,35), result)",
+"2" :  "(29,35, result)",
+"3" :  "(30,(31,33), returnType)",
+"4" :  "(30,(31,35), returnType)",
+"5" :  "(30,33, returnType)"}]
+}

@@ -1,0 +1,12 @@
+{
+"Class" : "org.jfree.chart.ChartFrame", 
+"Methods" : [{ "Name" : "<init>" ,
+"Duas" : 7,
+"0" :  "(76,83, this)",
+"1" :  "(76,80, this)",
+"2" :  "(76,80, this)",
+"3" :  "(76,(79,80), scrollPane)",
+"4" :  "(76,(79,83), scrollPane)",
+"5" :  "(78,83, this.chartPanel)",
+"6" :  "(78,80, this.chartPanel)"}]
+}

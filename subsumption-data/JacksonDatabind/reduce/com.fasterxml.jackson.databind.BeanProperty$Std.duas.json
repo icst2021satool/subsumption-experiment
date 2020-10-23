@@ -1,0 +1,20 @@
+{
+"Class" : "com.fasterxml.jackson.databind.BeanProperty$Std", 
+"Methods" : [{ "Name" : "getAnnotation" ,
+"Duas" : 7,
+"0" :  "(141,(141,141), this)",
+"1" :  "(141,(141,141), this)",
+"2" :  "(141,141, this)",
+"3" :  "(141,141, acls)",
+"4" :  "(141,(141,141), this._member)",
+"5" :  "(141,(141,141), this._member)",
+"6" :  "(141,141, this._member)"},{ "Name" : "getContextAnnotation" ,
+"Duas" : 7,
+"0" :  "(146,(146,146), this)",
+"1" :  "(146,(146,146), this)",
+"2" :  "(146,146, this)",
+"3" :  "(146,146, acls)",
+"4" :  "(146,(146,146), this._contextAnnotations)",
+"5" :  "(146,(146,146), this._contextAnnotations)",
+"6" :  "(146,146, this._contextAnnotations)"}]
+}

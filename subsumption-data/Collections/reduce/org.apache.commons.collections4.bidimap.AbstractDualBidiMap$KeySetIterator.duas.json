@@ -1,0 +1,19 @@
+{
+"Class" : "org.apache.commons.collections4.bidimap.AbstractDualBidiMap$KeySetIterator", 
+"Methods" : [{ "Name" : "remove" ,
+"Duas" : 14,
+"0" :  "(476,(476,477), this)",
+"1" :  "(476,(476,479), this)",
+"2" :  "(476,479, this)",
+"3" :  "(476,480, this)",
+"4" :  "(476,481, this)",
+"5" :  "(476,482, this)",
+"6" :  "(476,483, this)",
+"7" :  "(476,(476,477), this.canRemove)",
+"8" :  "(476,(476,479), this.canRemove)",
+"9" :  "(476,479, this.parent)",
+"10" :  "(476,481, this.parent)",
+"11" :  "(476,479, this.normalMap)",
+"12" :  "(476,479, this.lastKey)",
+"13" :  "(476,481, this.reverseMap)"}]
+}

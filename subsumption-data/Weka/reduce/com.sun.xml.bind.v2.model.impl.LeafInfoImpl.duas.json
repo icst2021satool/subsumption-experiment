@@ -1,0 +1,13 @@
+{
+"Class" : "com.sun.xml.bind.v2.model.impl.LeafInfoImpl", 
+"Methods" : [{ "Name" : "<init>" ,
+"Duas" : 8,
+"0" :  "(29,32, this)",
+"1" :  "(29,33, this)",
+"2" :  "(29,32, type)",
+"3" :  "(29,(30,30), type)",
+"4" :  "(29,(30,32), type)",
+"5" :  "(29,33, typeName)",
+"6" :  "(29,(30,30), $assertionsDisabled)",
+"7" :  "(29,(30,32), $assertionsDisabled)"}]
+}

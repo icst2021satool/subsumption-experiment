@@ -1,0 +1,21 @@
+{
+"Class" : "weka.gui.beans.FlowByExpression$ExpressionClause$ExpressionType$5", 
+"Methods" : [{ "Name" : "evaluate" ,
+"Duas" : 16,
+"0" :  "(479,(479,479), inst)",
+"1" :  "(479,(479,479), inst)",
+"2" :  "(479,(479,479), lhsAttIndex)",
+"3" :  "(479,(479,479), lhsAttIndex)",
+"4" :  "(479,(479,479), rhsOperand)",
+"5" :  "(479,(479,479), rhsOperand)",
+"6" :  "(479,(479,479), numericOperand)",
+"7" :  "(479,(479,479), numericOperand)",
+"8" :  "(479,(479,479), regexPattern)",
+"9" :  "(479,(479,479), regexPattern)",
+"10" :  "(479,(479,479), rhsIsAttribute)",
+"11" :  "(479,(479,479), rhsIsAttribute)",
+"12" :  "(479,(479,479), rhsAttIndex)",
+"13" :  "(479,(479,479), rhsAttIndex)",
+"14" :  "(479,(479,479), LESSTHANEQUAL)",
+"15" :  "(479,(479,479), LESSTHANEQUAL)"}]
+}

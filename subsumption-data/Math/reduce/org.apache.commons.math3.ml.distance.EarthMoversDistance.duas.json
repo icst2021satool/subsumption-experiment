@@ -1,0 +1,23 @@
+{
+"Class" : "org.apache.commons.math3.ml.distance.EarthMoversDistance", 
+"Methods" : [{ "Name" : "compute" ,
+"Duas" : 18,
+"0" :  "(36,(38,39), a)",
+"1" :  "(36,(38,43), a)",
+"2" :  "(36,39, a)",
+"3" :  "(36,39, b)",
+"4" :  "(36,39, lastDistance)",
+"5" :  "(37,43, totalDistance)",
+"6" :  "(37,40, totalDistance)",
+"7" :  "(38,(38,39), i)",
+"8" :  "(38,(38,43), i)",
+"9" :  "(38,39, i)",
+"10" :  "(38,38, i)",
+"11" :  "(40,43, totalDistance)",
+"12" :  "(40,40, totalDistance)",
+"13" :  "(41,39, lastDistance)",
+"14" :  "(38,(38,39), i)",
+"15" :  "(38,(38,43), i)",
+"16" :  "(38,39, i)",
+"17" :  "(38,38, i)"}]
+}

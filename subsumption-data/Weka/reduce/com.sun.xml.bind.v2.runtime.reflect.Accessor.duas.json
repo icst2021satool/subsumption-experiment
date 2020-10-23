@@ -1,0 +1,14 @@
+{
+"Class" : "com.sun.xml.bind.v2.runtime.reflect.Accessor", 
+"Methods" : [{ "Name" : "isValueTypeAbstractable" ,
+"Duas" : 4,
+"0" :  "(162,(162,162), this)",
+"1" :  "(162,(162,162), this)",
+"2" :  "(162,(162,162), nonAbstractableClasses)",
+"3" :  "(162,(162,162), nonAbstractableClasses)"},{ "Name" : "isAbstractable" ,
+"Duas" : 4,
+"0" :  "(171,(171,171), clazz)",
+"1" :  "(171,(171,171), clazz)",
+"2" :  "(171,(171,171), nonAbstractableClasses)",
+"3" :  "(171,(171,171), nonAbstractableClasses)"}]
+}

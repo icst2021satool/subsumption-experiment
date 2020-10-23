@@ -1,0 +1,17 @@
+{
+"Class" : "com.googlecode.jfilechooserbookmarks.Bookmark", 
+"Methods" : [{ "Name" : "<init>" ,
+"Duas" : "10" ,
+"Subsumers" : 4,
+"0" : [ 9, 8, 6, 0, 1], "S0" : [0, 1, 2, 5, 6, 8, 9 ],
+"1" : [ 4], "S1" : [2, 4 ],
+"2" : [ 7], "S2" : [2, 5, 7 ],
+"3" : [ 3], "S3" : [3 ]
+},{ "Name" : "equals" ,
+"Duas" : "6" ,
+"Subsumers" : 3,
+"0" : [ 4, 0], "S0" : [0, 2, 4 ],
+"1" : [ 5, 1], "S1" : [1, 2, 5 ],
+"2" : [ 3], "S2" : [3 ]
+}]
+}

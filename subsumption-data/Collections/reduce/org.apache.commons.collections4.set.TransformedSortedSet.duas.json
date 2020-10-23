@@ -1,0 +1,16 @@
+{
+"Class" : "org.apache.commons.collections4.set.TransformedSortedSet", 
+"Methods" : [{ "Name" : "transformedSortedSet" ,
+"Duas" : 11,
+"0" :  "(79,(80,80), set)",
+"1" :  "(79,(80,88), set)",
+"2" :  "(79,(80,82), set)",
+"3" :  "(79,(80,88), set)",
+"4" :  "(79,82, set)",
+"5" :  "(79,83, set)",
+"6" :  "(79,(80,80), transformer)",
+"7" :  "(79,(80,88), transformer)",
+"8" :  "(79,85, transformer)",
+"9" :  "(79,88, decorated)",
+"10" :  "(79,85, decorated)"}]
+}

@@ -1,0 +1,8 @@
+{
+"Class" : "weka.classifiers.bayes.NaiveBayesUpdateable", 
+"Methods" : [{ "Name" : "setUseSupervisedDiscretization" ,
+"Duas" : 3,
+"0" :  "(114,118, this)",
+"1" :  "(114,(114,115), newblah)",
+"2" :  "(114,(114,118), newblah)"}]
+}

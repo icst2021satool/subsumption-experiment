@@ -1,0 +1,13 @@
+{
+"Class" : "org.apache.commons.collections4.list.AbstractListDecorator", 
+"Methods" : [{ "Name" : "equals" ,
+"Duas" : 8,
+"0" :  "(70,(70,70), this)",
+"1" :  "(70,(70,70), this)",
+"2" :  "(70,(70,70), this)",
+"3" :  "(70,(70,70), this)",
+"4" :  "(70,(70,70), object)",
+"5" :  "(70,(70,70), object)",
+"6" :  "(70,(70,70), object)",
+"7" :  "(70,(70,70), object)"}]
+}

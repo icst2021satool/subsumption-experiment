@@ -1,0 +1,13 @@
+{
+"Class" : "com.fasterxml.jackson.databind.node.NodeCursor$RootValue", 
+"Methods" : [{ "Name" : "nextToken" ,
+"Duas" : 8,
+"0" :  "(116,(116,117), this)",
+"1" :  "(116,(116,120), this)",
+"2" :  "(116,120, this)",
+"3" :  "(116,117, this)",
+"4" :  "(116,118, this)",
+"5" :  "(116,(116,117), this._done)",
+"6" :  "(116,(116,120), this._done)",
+"7" :  "(116,118, this._node)"}]
+}

@@ -1,0 +1,11 @@
+{
+"Class" : "com.googlecode.jfilechooserbookmarks.gui.BaseList$1", 
+"Methods" : [{ "Name" : "keyPressed" ,
+"Duas" : "13" ,
+"Subsumers" : 4,
+"0" : [ 10, 7, 5, 2], "S0" : [0, 2, 3, 5, 7, 8, 10, 11 ],
+"1" : [ 6], "S1" : [0, 3, 6, 8, 11 ],
+"2" : [ 4], "S2" : [0, 4, 8, 11 ],
+"3" : [ 12, 9, 1], "S3" : [1, 9, 12 ]
+}]
+}

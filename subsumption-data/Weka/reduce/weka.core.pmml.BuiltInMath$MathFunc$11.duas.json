@@ -1,0 +1,10 @@
+{
+"Class" : "weka.core.pmml.BuiltInMath$MathFunc$11", 
+"Methods" : [{ "Name" : "eval" ,
+"Duas" : 2,
+"0" :  "(178,(178,179), args)",
+"1" :  "(178,(178,181), args)"},{ "Name" : "legalNumParams" ,
+"Duas" : 2,
+"0" :  "(186,(186,186), num)",
+"1" :  "(186,(186,186), num)"}]
+}

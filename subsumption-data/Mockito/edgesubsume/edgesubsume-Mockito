@@ -1,0 +1,4806 @@
+@@ Local DUA-edge subsumption
+@@ Method, Nodes, Edges, DUAs, SubDUAs, Perc, Time_s, Time_ms
+
+
+#org/mockito/MockitoAnnotations/initMocks:
+## nodes: 7
+## edges: 9
+## DUAs: 15
+## Subsumed DUAs: 11
+## Edge DUA coverage: 73.33333333333333
+@@ org.mockito.MockitoAnnotations.initMocks,7,9,15,11,73.33333333333333,0,9
+
+
+#org/mockito/MockitoAnnotations/initMocks:
+Local DUA-Edge subsumption of method org.mockito.MockitoAnnotations.initMocks  calculated in 0 minutes, 0 seconds, and 9 milliseconds
+
+#org/mockito/MockitoAnnotations/scanDeprecatedWay:
+## nodes: 5
+## edges: 5
+## DUAs: 2
+## Subsumed DUAs: 2
+## Edge DUA coverage: 100.0
+@@ org.mockito.MockitoAnnotations.scanDeprecatedWay,5,5,2,2,100.0,0,1
+
+
+#org/mockito/MockitoAnnotations/scanDeprecatedWay:
+Local DUA-Edge subsumption of method org.mockito.MockitoAnnotations.scanDeprecatedWay  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/mockito/MockitoAnnotations/processAnnotationDeprecatedWay:
+## nodes: 7
+## edges: 8
+## DUAs: 9
+## Subsumed DUAs: 8
+## Edge DUA coverage: 88.88888888888889
+@@ org.mockito.MockitoAnnotations.processAnnotationDeprecatedWay,7,8,9,8,88.88888888888889,0,1
+
+
+#org/mockito/MockitoAnnotations/processAnnotationDeprecatedWay:
+Local DUA-Edge subsumption of method org.mockito.MockitoAnnotations.processAnnotationDeprecatedWay  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/mockito/MockitoAnnotations/throwIfAlreadyAssigned:
+## nodes: 4
+## edges: 4
+## DUAs: 3
+## Subsumed DUAs: 3
+## Edge DUA coverage: 100.0
+@@ org.mockito.MockitoAnnotations.throwIfAlreadyAssigned,4,4,3,3,100.0,0,1
+
+
+#org/mockito/MockitoAnnotations/throwIfAlreadyAssigned:
+Local DUA-Edge subsumption of method org.mockito.MockitoAnnotations.throwIfAlreadyAssigned  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/mockito/internal/MockitoCore/mock:
+## nodes: 4
+## edges: 4
+## DUAs: 8
+## Subsumed DUAs: 8
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.MockitoCore.mock,4,4,8,8,100.0,0,1
+
+
+#org/mockito/internal/MockitoCore/mock:
+Local DUA-Edge subsumption of method org.mockito.internal.MockitoCore.mock  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/mockito/internal/MockitoCore/stub:
+## nodes: 4
+## edges: 4
+## DUAs: 6
+## Subsumed DUAs: 6
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.MockitoCore.stub,4,4,6,6,100.0,0,1
+
+
+#org/mockito/internal/MockitoCore/stub:
+Local DUA-Edge subsumption of method org.mockito.internal.MockitoCore.stub  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/mockito/internal/MockitoCore/verify:
+## nodes: 6
+## edges: 7
+## DUAs: 17
+## Subsumed DUAs: 17
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.MockitoCore.verify,6,7,17,17,100.0,0,2
+
+
+#org/mockito/internal/MockitoCore/verify:
+Local DUA-Edge subsumption of method org.mockito.internal.MockitoCore.verify  calculated in 0 minutes, 0 seconds, and 2 milliseconds
+
+#org/mockito/internal/MockitoCore/reset:
+## nodes: 5
+## edges: 5
+## DUAs: 2
+## Subsumed DUAs: 2
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.MockitoCore.reset,5,5,2,2,100.0,0,1
+
+
+#org/mockito/internal/MockitoCore/reset:
+Local DUA-Edge subsumption of method org.mockito.internal.MockitoCore.reset  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/mockito/internal/MockitoCore/verifyNoMoreInteractions:
+## nodes: 7
+## edges: 8
+## DUAs: 7
+## Subsumed DUAs: 7
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.MockitoCore.verifyNoMoreInteractions,7,8,7,7,100.0,0,1
+
+
+#org/mockito/internal/MockitoCore/verifyNoMoreInteractions:
+Local DUA-Edge subsumption of method org.mockito.internal.MockitoCore.verifyNoMoreInteractions  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/mockito/internal/MockitoCore/assertMocksNotEmpty:
+## nodes: 5
+## edges: 6
+## DUAs: 6
+## Subsumed DUAs: 6
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.MockitoCore.assertMocksNotEmpty,5,6,6,6,100.0,0,1
+
+
+#org/mockito/internal/MockitoCore/assertMocksNotEmpty:
+Local DUA-Edge subsumption of method org.mockito.internal.MockitoCore.assertMocksNotEmpty  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/mockito/internal/MockitoCore/inOrder:
+## nodes: 12
+## edges: 16
+## DUAs: 20
+## Subsumed DUAs: 20
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.MockitoCore.inOrder,12,16,20,20,100.0,0,1
+
+
+#org/mockito/internal/MockitoCore/inOrder:
+Local DUA-Edge subsumption of method org.mockito.internal.MockitoCore.inOrder  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/mockito/internal/MockitoCore/ignoreStubs:
+## nodes: 10
+## edges: 12
+## DUAs: 4
+## Subsumed DUAs: 4
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.MockitoCore.ignoreStubs,10,12,4,4,100.0,0,1
+
+
+#org/mockito/internal/MockitoCore/ignoreStubs:
+Local DUA-Edge subsumption of method org.mockito.internal.MockitoCore.ignoreStubs  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/mockito/internal/InOrderImpl/verify:
+## nodes: 6
+## edges: 7
+## DUAs: 15
+## Subsumed DUAs: 15
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.InOrderImpl.verify,6,7,15,15,100.0,0,0
+
+
+#org/mockito/internal/InOrderImpl/verify:
+Local DUA-Edge subsumption of method org.mockito.internal.InOrderImpl.verify  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/invocation/InvocationsFinder$RemoveUnverifiedInOrder/isOut:
+## nodes: 5
+## edges: 5
+## DUAs: 6
+## Subsumed DUAs: 6
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.invocation.InvocationsFinder$RemoveUnverifiedInOrder.isOut,5,5,6,6,100.0,0,1
+
+
+#org/mockito/internal/invocation/InvocationsFinder$RemoveUnverifiedInOrder/isOut:
+Local DUA-Edge subsumption of method org.mockito.internal.invocation.InvocationsFinder$RemoveUnverifiedInOrder.isOut  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/mockito/internal/invocation/SerializableMethod/<init>:
+## nodes: 5
+## edges: 5
+## DUAs: 3
+## Subsumed DUAs: 3
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.invocation.SerializableMethod.<init>,5,5,3,3,100.0,0,0
+
+
+#org/mockito/internal/invocation/SerializableMethod/<init>:
+Local DUA-Edge subsumption of method org.mockito.internal.invocation.SerializableMethod.<init>  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/invocation/SerializableMethod/equals:
+## nodes: 25
+## edges: 37
+## DUAs: 67
+## Subsumed DUAs: 67
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.invocation.SerializableMethod.equals,25,37,67,67,100.0,0,1
+
+
+#org/mockito/internal/invocation/SerializableMethod/equals:
+Local DUA-Edge subsumption of method org.mockito.internal.invocation.SerializableMethod.equals  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/mockito/internal/invocation/ArgumentsProcessor/expandVarArgs:
+## nodes: 13
+## edges: 18
+## DUAs: 22
+## Subsumed DUAs: 20
+## Edge DUA coverage: 90.9090909090909
+@@ org.mockito.internal.invocation.ArgumentsProcessor.expandVarArgs,13,18,22,20,90.9090909090909,0,1
+
+
+#org/mockito/internal/invocation/ArgumentsProcessor/expandVarArgs:
+Local DUA-Edge subsumption of method org.mockito.internal.invocation.ArgumentsProcessor.expandVarArgs  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/mockito/internal/invocation/ArgumentsProcessor/argumentsToMatchers:
+## nodes: 9
+## edges: 11
+## DUAs: 9
+## Subsumed DUAs: 9
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.invocation.ArgumentsProcessor.argumentsToMatchers,9,11,9,9,100.0,0,0
+
+
+#org/mockito/internal/invocation/ArgumentsProcessor/argumentsToMatchers:
+Local DUA-Edge subsumption of method org.mockito.internal.invocation.ArgumentsProcessor.argumentsToMatchers  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/invocation/InvocationsFinder/findMatchingChunk:
+## nodes: 4
+## edges: 4
+## DUAs: 9
+## Subsumed DUAs: 9
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.invocation.InvocationsFinder.findMatchingChunk,4,4,9,9,100.0,0,0
+
+
+#org/mockito/internal/invocation/InvocationsFinder/findMatchingChunk:
+Local DUA-Edge subsumption of method org.mockito.internal.invocation.InvocationsFinder.findMatchingChunk  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/invocation/InvocationsFinder/getFirstMatchingChunk:
+## nodes: 9
+## edges: 11
+## DUAs: 9
+## Subsumed DUAs: 9
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.invocation.InvocationsFinder.getFirstMatchingChunk,9,11,9,9,100.0,0,0
+
+
+#org/mockito/internal/invocation/InvocationsFinder/getFirstMatchingChunk:
+Local DUA-Edge subsumption of method org.mockito.internal.invocation.InvocationsFinder.getFirstMatchingChunk  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/invocation/InvocationsFinder/findFirstMatchingUnverifiedInvocation:
+## nodes: 7
+## edges: 8
+## DUAs: 5
+## Subsumed DUAs: 5
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.invocation.InvocationsFinder.findFirstMatchingUnverifiedInvocation,7,8,5,5,100.0,0,0
+
+
+#org/mockito/internal/invocation/InvocationsFinder/findFirstMatchingUnverifiedInvocation:
+Local DUA-Edge subsumption of method org.mockito.internal.invocation.InvocationsFinder.findFirstMatchingUnverifiedInvocation  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/invocation/InvocationsFinder/findSimilarInvocation:
+## nodes: 11
+## edges: 14
+## DUAs: 16
+## Subsumed DUAs: 11
+## Edge DUA coverage: 68.75
+@@ org.mockito.internal.invocation.InvocationsFinder.findSimilarInvocation,11,14,16,11,68.75,0,1
+
+
+#org/mockito/internal/invocation/InvocationsFinder/findSimilarInvocation:
+Local DUA-Edge subsumption of method org.mockito.internal.invocation.InvocationsFinder.findSimilarInvocation  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/mockito/internal/invocation/InvocationsFinder/findFirstUnverified:
+## nodes: 12
+## edges: 16
+## DUAs: 11
+## Subsumed DUAs: 11
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.invocation.InvocationsFinder.findFirstUnverified,12,16,11,11,100.0,0,1
+
+
+#org/mockito/internal/invocation/InvocationsFinder/findFirstUnverified:
+Local DUA-Edge subsumption of method org.mockito.internal.invocation.InvocationsFinder.findFirstUnverified  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/mockito/internal/invocation/InvocationsFinder/getLastLocation:
+## nodes: 4
+## edges: 4
+## DUAs: 3
+## Subsumed DUAs: 3
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.invocation.InvocationsFinder.getLastLocation,4,4,3,3,100.0,0,0
+
+
+#org/mockito/internal/invocation/InvocationsFinder/getLastLocation:
+Local DUA-Edge subsumption of method org.mockito.internal.invocation.InvocationsFinder.getLastLocation  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/invocation/InvocationsFinder/findPreviousVerifiedInOrder:
+## nodes: 4
+## edges: 4
+## DUAs: 3
+## Subsumed DUAs: 3
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.invocation.InvocationsFinder.findPreviousVerifiedInOrder,4,4,3,3,100.0,0,1
+
+
+#org/mockito/internal/invocation/InvocationsFinder/findPreviousVerifiedInOrder:
+Local DUA-Edge subsumption of method org.mockito.internal.invocation.InvocationsFinder.findPreviousVerifiedInOrder  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/mockito/internal/invocation/InvocationsFinder/removeVerifiedInOrder:
+## nodes: 8
+## edges: 9
+## DUAs: 8
+## Subsumed DUAs: 8
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.invocation.InvocationsFinder.removeVerifiedInOrder,8,9,8,8,100.0,0,1
+
+
+#org/mockito/internal/invocation/InvocationsFinder/removeVerifiedInOrder:
+Local DUA-Edge subsumption of method org.mockito.internal.invocation.InvocationsFinder.removeVerifiedInOrder  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/mockito/internal/invocation/InvocationsFinder/findFirstUnverifiedInOrder:
+## nodes: 11
+## edges: 13
+## DUAs: 17
+## Subsumed DUAs: 5
+## Edge DUA coverage: 29.411764705882355
+@@ org.mockito.internal.invocation.InvocationsFinder.findFirstUnverifiedInOrder,11,13,17,5,29.411764705882355,0,1
+
+
+#org/mockito/internal/invocation/InvocationsFinder/findFirstUnverifiedInOrder:
+Local DUA-Edge subsumption of method org.mockito.internal.invocation.InvocationsFinder.findFirstUnverifiedInOrder  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/mockito/internal/invocation/ArgumentsComparator/argumentsMatch:
+## nodes: 6
+## edges: 7
+## DUAs: 12
+## Subsumed DUAs: 12
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.invocation.ArgumentsComparator.argumentsMatch,6,7,12,12,100.0,0,0
+
+
+#org/mockito/internal/invocation/ArgumentsComparator/argumentsMatch:
+Local DUA-Edge subsumption of method org.mockito.internal.invocation.ArgumentsComparator.argumentsMatch  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/invocation/ArgumentsComparator/argumentsMatch:
+## nodes: 9
+## edges: 11
+## DUAs: 20
+## Subsumed DUAs: 13
+## Edge DUA coverage: 65.0
+@@ org.mockito.internal.invocation.ArgumentsComparator.argumentsMatch,9,11,20,13,65.0,0,0
+
+
+#org/mockito/internal/invocation/ArgumentsComparator/argumentsMatch:
+Local DUA-Edge subsumption of method org.mockito.internal.invocation.ArgumentsComparator.argumentsMatch  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/invocation/ArgumentsComparator/varArgsMatch:
+## nodes: 21
+## edges: 30
+## DUAs: 63
+## Subsumed DUAs: 30
+## Edge DUA coverage: 47.61904761904761
+@@ org.mockito.internal.invocation.ArgumentsComparator.varArgsMatch,21,30,63,30,47.61904761904761,0,1
+
+
+#org/mockito/internal/invocation/ArgumentsComparator/varArgsMatch:
+Local DUA-Edge subsumption of method org.mockito.internal.invocation.ArgumentsComparator.varArgsMatch  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/mockito/internal/invocation/MatchersBinder/validateMatchers:
+## nodes: 5
+## edges: 6
+## DUAs: 10
+## Subsumed DUAs: 10
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.invocation.MatchersBinder.validateMatchers,5,6,10,10,100.0,0,0
+
+
+#org/mockito/internal/invocation/MatchersBinder/validateMatchers:
+Local DUA-Edge subsumption of method org.mockito.internal.invocation.MatchersBinder.validateMatchers  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/invocation/InvocationImpl/isVerified:
+## nodes: 6
+## edges: 7
+## DUAs: 8
+## Subsumed DUAs: 8
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.invocation.InvocationImpl.isVerified,6,7,8,8,100.0,0,0
+
+
+#org/mockito/internal/invocation/InvocationImpl/isVerified:
+Local DUA-Edge subsumption of method org.mockito.internal.invocation.InvocationImpl.isVerified  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/invocation/InvocationImpl/equals:
+## nodes: 10
+## edges: 14
+## DUAs: 29
+## Subsumed DUAs: 29
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.invocation.InvocationImpl.equals,10,14,29,29,100.0,0,0
+
+
+#org/mockito/internal/invocation/InvocationImpl/equals:
+Local DUA-Edge subsumption of method org.mockito.internal.invocation.InvocationImpl.equals  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/invocation/InvocationImpl/callRealMethod:
+## nodes: 4
+## edges: 4
+## DUAs: 8
+## Subsumed DUAs: 8
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.invocation.InvocationImpl.callRealMethod,4,4,8,8,100.0,0,1
+
+
+#org/mockito/internal/invocation/InvocationImpl/callRealMethod:
+Local DUA-Edge subsumption of method org.mockito.internal.invocation.InvocationImpl.callRealMethod  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/mockito/internal/invocation/InvocationMarker/markVerified:
+## nodes: 5
+## edges: 5
+## DUAs: 2
+## Subsumed DUAs: 2
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.invocation.InvocationMarker.markVerified,5,5,2,2,100.0,0,0
+
+
+#org/mockito/internal/invocation/InvocationMarker/markVerified:
+Local DUA-Edge subsumption of method org.mockito.internal.invocation.InvocationMarker.markVerified  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/invocation/InvocationMarker/markVerifiedInOrder:
+## nodes: 5
+## edges: 5
+## DUAs: 1
+## Subsumed DUAs: 1
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.invocation.InvocationMarker.markVerifiedInOrder,5,5,1,1,100.0,0,1
+
+
+#org/mockito/internal/invocation/InvocationMarker/markVerifiedInOrder:
+Local DUA-Edge subsumption of method org.mockito.internal.invocation.InvocationMarker.markVerifiedInOrder  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/mockito/internal/invocation/InvocationsFinder$RemoveNotMatching/isOut:
+## nodes: 5
+## edges: 5
+## DUAs: 6
+## Subsumed DUAs: 6
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.invocation.InvocationsFinder$RemoveNotMatching.isOut,5,5,6,6,100.0,0,0
+
+
+#org/mockito/internal/invocation/InvocationsFinder$RemoveNotMatching/isOut:
+Local DUA-Edge subsumption of method org.mockito.internal.invocation.InvocationsFinder$RemoveNotMatching.isOut  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/invocation/UnusedStubsFinder/find:
+## nodes: 10
+## edges: 12
+## DUAs: 5
+## Subsumed DUAs: 5
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.invocation.UnusedStubsFinder.find,10,12,5,5,100.0,0,1
+
+
+#org/mockito/internal/invocation/UnusedStubsFinder/find:
+Local DUA-Edge subsumption of method org.mockito.internal.invocation.UnusedStubsFinder.find  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/mockito/internal/invocation/InvocationMatcher/<init>:
+## nodes: 5
+## edges: 5
+## DUAs: 6
+## Subsumed DUAs: 6
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.invocation.InvocationMatcher.<init>,5,5,6,6,100.0,0,0
+
+
+#org/mockito/internal/invocation/InvocationMatcher/<init>:
+Local DUA-Edge subsumption of method org.mockito.internal.invocation.InvocationMatcher.<init>  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/invocation/InvocationMatcher/matches:
+## nodes: 7
+## edges: 9
+## DUAs: 14
+## Subsumed DUAs: 14
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.invocation.InvocationMatcher.matches,7,9,14,14,100.0,0,1
+
+
+#org/mockito/internal/invocation/InvocationMatcher/matches:
+Local DUA-Edge subsumption of method org.mockito.internal.invocation.InvocationMatcher.matches  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/mockito/internal/invocation/InvocationMatcher/hasSimilarMethod:
+## nodes: 19
+## edges: 26
+## DUAs: 22
+## Subsumed DUAs: 22
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.invocation.InvocationMatcher.hasSimilarMethod,19,26,22,22,100.0,0,2
+
+
+#org/mockito/internal/invocation/InvocationMatcher/hasSimilarMethod:
+Local DUA-Edge subsumption of method org.mockito.internal.invocation.InvocationMatcher.hasSimilarMethod  calculated in 0 minutes, 0 seconds, and 2 milliseconds
+
+#org/mockito/internal/invocation/InvocationMatcher/hasSameMethod:
+## nodes: 11
+## edges: 15
+## DUAs: 28
+## Subsumed DUAs: 21
+## Edge DUA coverage: 75.0
+@@ org.mockito.internal.invocation.InvocationMatcher.hasSameMethod,11,15,28,21,75.0,0,1
+
+
+#org/mockito/internal/invocation/InvocationMatcher/hasSameMethod:
+Local DUA-Edge subsumption of method org.mockito.internal.invocation.InvocationMatcher.hasSameMethod  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/mockito/internal/invocation/InvocationMatcher/captureArgumentsFrom:
+## nodes: 9
+## edges: 11
+## DUAs: 23
+## Subsumed DUAs: 16
+## Edge DUA coverage: 69.56521739130434
+@@ org.mockito.internal.invocation.InvocationMatcher.captureArgumentsFrom,9,11,23,16,69.56521739130434,0,1
+
+
+#org/mockito/internal/invocation/InvocationMatcher/captureArgumentsFrom:
+Local DUA-Edge subsumption of method org.mockito.internal.invocation.InvocationMatcher.captureArgumentsFrom  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/mockito/internal/invocation/InvocationMatcher/isVarargMatcher:
+## nodes: 4
+## edges: 4
+## DUAs: 5
+## Subsumed DUAs: 4
+## Edge DUA coverage: 80.0
+@@ org.mockito.internal.invocation.InvocationMatcher.isVarargMatcher,4,4,5,4,80.0,0,0
+
+
+#org/mockito/internal/invocation/InvocationMatcher/isVarargMatcher:
+Local DUA-Edge subsumption of method org.mockito.internal.invocation.InvocationMatcher.isVarargMatcher  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/invocation/InvocationMatcher/isVariableArgument:
+## nodes: 8
+## edges: 11
+## DUAs: 14
+## Subsumed DUAs: 14
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.invocation.InvocationMatcher.isVariableArgument,8,11,14,14,100.0,0,1
+
+
+#org/mockito/internal/invocation/InvocationMatcher/isVariableArgument:
+Local DUA-Edge subsumption of method org.mockito.internal.invocation.InvocationMatcher.isVariableArgument  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/mockito/internal/invocation/InvocationMatcher/createFrom:
+## nodes: 5
+## edges: 5
+## DUAs: 2
+## Subsumed DUAs: 2
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.invocation.InvocationMatcher.createFrom,5,5,2,2,100.0,0,0
+
+
+#org/mockito/internal/invocation/InvocationMatcher/createFrom:
+Local DUA-Edge subsumption of method org.mockito.internal.invocation.InvocationMatcher.createFrom  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/invocation/finder/AllInvocationsFinder/find:
+## nodes: 5
+## edges: 5
+## DUAs: 2
+## Subsumed DUAs: 2
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.invocation.finder.AllInvocationsFinder.find,5,5,2,2,100.0,0,1
+
+
+#org/mockito/internal/invocation/finder/AllInvocationsFinder/find:
+Local DUA-Edge subsumption of method org.mockito.internal.invocation.finder.AllInvocationsFinder.find  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/mockito/internal/handler/InvocationNotifierHandler/notifyMethodCall:
+## nodes: 5
+## edges: 5
+## DUAs: 2
+## Subsumed DUAs: 2
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.handler.InvocationNotifierHandler.notifyMethodCall,5,5,2,2,100.0,0,1
+
+
+#org/mockito/internal/handler/InvocationNotifierHandler/notifyMethodCall:
+Local DUA-Edge subsumption of method org.mockito.internal.handler.InvocationNotifierHandler.notifyMethodCall  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/mockito/internal/handler/InvocationNotifierHandler/notifyMethodCallException:
+## nodes: 5
+## edges: 5
+## DUAs: 2
+## Subsumed DUAs: 2
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.handler.InvocationNotifierHandler.notifyMethodCallException,5,5,2,2,100.0,0,0
+
+
+#org/mockito/internal/handler/InvocationNotifierHandler/notifyMethodCallException:
+Local DUA-Edge subsumption of method org.mockito.internal.handler.InvocationNotifierHandler.notifyMethodCallException  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/handler/NullResultGuardian/handle:
+## nodes: 5
+## edges: 6
+## DUAs: 6
+## Subsumed DUAs: 6
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.handler.NullResultGuardian.handle,5,6,6,6,100.0,0,1
+
+
+#org/mockito/internal/handler/NullResultGuardian/handle:
+Local DUA-Edge subsumption of method org.mockito.internal.handler.NullResultGuardian.handle  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/mockito/internal/handler/MockHandlerImpl/handle:
+## nodes: 10
+## edges: 13
+## DUAs: 40
+## Subsumed DUAs: 40
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.handler.MockHandlerImpl.handle,10,13,40,40,100.0,0,0
+
+
+#org/mockito/internal/handler/MockHandlerImpl/handle:
+Local DUA-Edge subsumption of method org.mockito.internal.handler.MockHandlerImpl.handle  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/handler/MockHandlerImpl/createVerificationData:
+## nodes: 4
+## edges: 4
+## DUAs: 6
+## Subsumed DUAs: 6
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.handler.MockHandlerImpl.createVerificationData,4,4,6,6,100.0,0,0
+
+
+#org/mockito/internal/handler/MockHandlerImpl/createVerificationData:
+Local DUA-Edge subsumption of method org.mockito.internal.handler.MockHandlerImpl.createVerificationData  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/reporting/SmartPrinter/<init>:
+## nodes: 6
+## edges: 7
+## DUAs: 9
+## Subsumed DUAs: 9
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.reporting.SmartPrinter.<init>,6,7,9,9,100.0,0,0
+
+
+#org/mockito/internal/reporting/SmartPrinter/<init>:
+Local DUA-Edge subsumption of method org.mockito.internal.reporting.SmartPrinter.<init>  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/reporting/Pluralizer/pluralize:
+## nodes: 5
+## edges: 5
+## DUAs: 3
+## Subsumed DUAs: 3
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.reporting.Pluralizer.pluralize,5,5,3,3,100.0,0,1
+
+
+#org/mockito/internal/reporting/Pluralizer/pluralize:
+Local DUA-Edge subsumption of method org.mockito.internal.reporting.Pluralizer.pluralize  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/mockito/internal/reporting/PrintSettings/print:
+## nodes: 6
+## edges: 8
+## DUAs: 11
+## Subsumed DUAs: 11
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.reporting.PrintSettings.print,6,8,11,11,100.0,0,0
+
+
+#org/mockito/internal/reporting/PrintSettings/print:
+Local DUA-Edge subsumption of method org.mockito.internal.reporting.PrintSettings.print  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/configuration/MockAnnotationProcessor/process:
+## nodes: 9
+## edges: 11
+## DUAs: 16
+## Subsumed DUAs: 16
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.configuration.MockAnnotationProcessor.process,9,11,16,16,100.0,0,0
+
+
+#org/mockito/internal/configuration/MockAnnotationProcessor/process:
+Local DUA-Edge subsumption of method org.mockito.internal.configuration.MockAnnotationProcessor.process  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/configuration/InjectingAnnotationEngine/processInjectMocks:
+## nodes: 5
+## edges: 5
+## DUAs: 8
+## Subsumed DUAs: 4
+## Edge DUA coverage: 50.0
+@@ org.mockito.internal.configuration.InjectingAnnotationEngine.processInjectMocks,5,5,8,4,50.0,0,0
+
+
+#org/mockito/internal/configuration/InjectingAnnotationEngine/processInjectMocks:
+Local DUA-Edge subsumption of method org.mockito.internal.configuration.InjectingAnnotationEngine.processInjectMocks  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/configuration/InjectingAnnotationEngine/processIndependentAnnotations:
+## nodes: 5
+## edges: 5
+## DUAs: 10
+## Subsumed DUAs: 6
+## Edge DUA coverage: 60.0
+@@ org.mockito.internal.configuration.InjectingAnnotationEngine.processIndependentAnnotations,5,5,10,6,60.0,0,1
+
+
+#org/mockito/internal/configuration/InjectingAnnotationEngine/processIndependentAnnotations:
+Local DUA-Edge subsumption of method org.mockito.internal.configuration.InjectingAnnotationEngine.processIndependentAnnotations  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/mockito/internal/configuration/InjectingAnnotationEngine/injectMocks:
+## nodes: 5
+## edges: 5
+## DUAs: 12
+## Subsumed DUAs: 8
+## Edge DUA coverage: 66.66666666666666
+@@ org.mockito.internal.configuration.InjectingAnnotationEngine.injectMocks,5,5,12,8,66.66666666666666,0,0
+
+
+#org/mockito/internal/configuration/InjectingAnnotationEngine/injectMocks:
+Local DUA-Edge subsumption of method org.mockito.internal.configuration.InjectingAnnotationEngine.injectMocks  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/configuration/DefaultAnnotationEngine/forAnnotation:
+## nodes: 4
+## edges: 4
+## DUAs: 10
+## Subsumed DUAs: 10
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.configuration.DefaultAnnotationEngine.forAnnotation,4,4,10,10,100.0,0,0
+
+
+#org/mockito/internal/configuration/DefaultAnnotationEngine/forAnnotation:
+Local DUA-Edge subsumption of method org.mockito.internal.configuration.DefaultAnnotationEngine.forAnnotation  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/configuration/DefaultAnnotationEngine/process:
+## nodes: 10
+## edges: 12
+## DUAs: 10
+## Subsumed DUAs: 9
+## Edge DUA coverage: 90.0
+@@ org.mockito.internal.configuration.DefaultAnnotationEngine.process,10,12,10,9,90.0,0,1
+
+
+#org/mockito/internal/configuration/DefaultAnnotationEngine/process:
+Local DUA-Edge subsumption of method org.mockito.internal.configuration.DefaultAnnotationEngine.process  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/mockito/internal/configuration/DefaultAnnotationEngine/throwIfAlreadyAssigned:
+## nodes: 4
+## edges: 4
+## DUAs: 3
+## Subsumed DUAs: 3
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.configuration.DefaultAnnotationEngine.throwIfAlreadyAssigned,4,4,3,3,100.0,0,0
+
+
+#org/mockito/internal/configuration/DefaultAnnotationEngine/throwIfAlreadyAssigned:
+Local DUA-Edge subsumption of method org.mockito.internal.configuration.DefaultAnnotationEngine.throwIfAlreadyAssigned  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/configuration/GlobalConfiguration/<init>:
+## nodes: 4
+## edges: 4
+## DUAs: 4
+## Subsumed DUAs: 4
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.configuration.GlobalConfiguration.<init>,4,4,4,4,100.0,0,0
+
+
+#org/mockito/internal/configuration/GlobalConfiguration/<init>:
+Local DUA-Edge subsumption of method org.mockito.internal.configuration.GlobalConfiguration.<init>  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/configuration/GlobalConfiguration/createConfig:
+## nodes: 4
+## edges: 4
+## DUAs: 4
+## Subsumed DUAs: 4
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.configuration.GlobalConfiguration.createConfig,4,4,4,4,100.0,0,0
+
+
+#org/mockito/internal/configuration/GlobalConfiguration/createConfig:
+Local DUA-Edge subsumption of method org.mockito.internal.configuration.GlobalConfiguration.createConfig  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/configuration/CaptorAnnotationProcessor/process:
+## nodes: 4
+## edges: 4
+## DUAs: 4
+## Subsumed DUAs: 4
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.configuration.CaptorAnnotationProcessor.process,4,4,4,4,100.0,0,1
+
+
+#org/mockito/internal/configuration/CaptorAnnotationProcessor/process:
+Local DUA-Edge subsumption of method org.mockito.internal.configuration.CaptorAnnotationProcessor.process  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/mockito/internal/configuration/SpyAnnotationEngine/process:
+## nodes: 13
+## edges: 17
+## DUAs: 18
+## Subsumed DUAs: 18
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.configuration.SpyAnnotationEngine.process,13,17,18,18,100.0,0,1
+
+
+#org/mockito/internal/configuration/SpyAnnotationEngine/process:
+Local DUA-Edge subsumption of method org.mockito.internal.configuration.SpyAnnotationEngine.process  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/mockito/internal/configuration/SpyAnnotationEngine/assertNotInterface:
+## nodes: 7
+## edges: 8
+## DUAs: 7
+## Subsumed DUAs: 7
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.configuration.SpyAnnotationEngine.assertNotInterface,7,8,7,7,100.0,0,1
+
+
+#org/mockito/internal/configuration/SpyAnnotationEngine/assertNotInterface:
+Local DUA-Edge subsumption of method org.mockito.internal.configuration.SpyAnnotationEngine.assertNotInterface  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/mockito/internal/configuration/SpyAnnotationEngine/newSpyInstance:
+## nodes: 11
+## edges: 15
+## DUAs: 26
+## Subsumed DUAs: 26
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.configuration.SpyAnnotationEngine.newSpyInstance,11,15,26,26,100.0,0,1
+
+
+#org/mockito/internal/configuration/SpyAnnotationEngine/newSpyInstance:
+Local DUA-Edge subsumption of method org.mockito.internal.configuration.SpyAnnotationEngine.newSpyInstance  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/mockito/internal/configuration/SpyAnnotationEngine/assertNoIncompatibleAnnotations:
+## nodes: 7
+## edges: 8
+## DUAs: 5
+## Subsumed DUAs: 5
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.configuration.SpyAnnotationEngine.assertNoIncompatibleAnnotations,7,8,5,5,100.0,0,0
+
+
+#org/mockito/internal/configuration/SpyAnnotationEngine/assertNoIncompatibleAnnotations:
+Local DUA-Edge subsumption of method org.mockito.internal.configuration.SpyAnnotationEngine.assertNoIncompatibleAnnotations  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/configuration/plugins/PluginLoader/loadPlugin:
+## nodes: 4
+## edges: 4
+## DUAs: 5
+## Subsumed DUAs: 5
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.configuration.plugins.PluginLoader.loadPlugin,4,4,5,5,100.0,0,1
+
+
+#org/mockito/internal/configuration/plugins/PluginLoader/loadPlugin:
+Local DUA-Edge subsumption of method org.mockito.internal.configuration.plugins.PluginLoader.loadPlugin  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/mockito/internal/configuration/plugins/PluginLoader/loadImpl:
+## nodes: 6
+## edges: 7
+## DUAs: 13
+## Subsumed DUAs: 10
+## Edge DUA coverage: 76.92307692307693
+@@ org.mockito.internal.configuration.plugins.PluginLoader.loadImpl,6,7,13,10,76.92307692307693,0,1
+
+
+#org/mockito/internal/configuration/plugins/PluginLoader/loadImpl:
+Local DUA-Edge subsumption of method org.mockito.internal.configuration.plugins.PluginLoader.loadImpl  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/mockito/internal/configuration/plugins/PluginFinder/findPluginClass:
+## nodes: 9
+## edges: 11
+## DUAs: 12
+## Subsumed DUAs: 12
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.configuration.plugins.PluginFinder.findPluginClass,9,11,12,12,100.0,0,1
+
+
+#org/mockito/internal/configuration/plugins/PluginFinder/findPluginClass:
+Local DUA-Edge subsumption of method org.mockito.internal.configuration.plugins.PluginFinder.findPluginClass  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/mockito/internal/configuration/plugins/PluginFileReader/readPluginClass:
+## nodes: 7
+## edges: 8
+## DUAs: 3
+## Subsumed DUAs: 3
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.configuration.plugins.PluginFileReader.readPluginClass,7,8,3,3,100.0,0,0
+
+
+#org/mockito/internal/configuration/plugins/PluginFileReader/readPluginClass:
+Local DUA-Edge subsumption of method org.mockito.internal.configuration.plugins.PluginFileReader.readPluginClass  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/configuration/plugins/PluginFileReader/stripCommentAndWhitespace:
+## nodes: 4
+## edges: 4
+## DUAs: 6
+## Subsumed DUAs: 5
+## Edge DUA coverage: 83.33333333333334
+@@ org.mockito.internal.configuration.plugins.PluginFileReader.stripCommentAndWhitespace,4,4,6,5,83.33333333333334,0,1
+
+
+#org/mockito/internal/configuration/plugins/PluginFileReader/stripCommentAndWhitespace:
+Local DUA-Edge subsumption of method org.mockito.internal.configuration.plugins.PluginFileReader.stripCommentAndWhitespace  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/mockito/internal/configuration/injection/PropertyAndSetterInjection/processInjection:
+## nodes: 5
+## edges: 5
+## DUAs: 13
+## Subsumed DUAs: 6
+## Edge DUA coverage: 46.15384615384615
+@@ org.mockito.internal.configuration.injection.PropertyAndSetterInjection.processInjection,5,5,13,6,46.15384615384615,0,0
+
+
+#org/mockito/internal/configuration/injection/PropertyAndSetterInjection/processInjection:
+Local DUA-Edge subsumption of method org.mockito.internal.configuration.injection.PropertyAndSetterInjection.processInjection  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/configuration/injection/PropertyAndSetterInjection/injectMockCandidatesOnFields:
+## nodes: 7
+## edges: 8
+## DUAs: 16
+## Subsumed DUAs: 13
+## Edge DUA coverage: 81.25
+@@ org.mockito.internal.configuration.injection.PropertyAndSetterInjection.injectMockCandidatesOnFields,7,8,16,13,81.25,0,1
+
+
+#org/mockito/internal/configuration/injection/PropertyAndSetterInjection/injectMockCandidatesOnFields:
+Local DUA-Edge subsumption of method org.mockito.internal.configuration.injection.PropertyAndSetterInjection.injectMockCandidatesOnFields  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/mockito/internal/configuration/injection/MockInjection$OngoingMockInjection/apply:
+## nodes: 5
+## edges: 5
+## DUAs: 5
+## Subsumed DUAs: 5
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.configuration.injection.MockInjection$OngoingMockInjection.apply,5,5,5,5,100.0,0,1
+
+
+#org/mockito/internal/configuration/injection/MockInjection$OngoingMockInjection/apply:
+Local DUA-Edge subsumption of method org.mockito.internal.configuration.injection.MockInjection$OngoingMockInjection.apply  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/mockito/internal/configuration/injection/SpyOnInjectedFieldsHandler/processInjection:
+## nodes: 8
+## edges: 10
+## DUAs: 12
+## Subsumed DUAs: 12
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.configuration.injection.SpyOnInjectedFieldsHandler.processInjection,8,10,12,12,100.0,0,0
+
+
+#org/mockito/internal/configuration/injection/SpyOnInjectedFieldsHandler/processInjection:
+Local DUA-Edge subsumption of method org.mockito.internal.configuration.injection.SpyOnInjectedFieldsHandler.processInjection  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/configuration/injection/MockInjectionStrategy/thenTry:
+## nodes: 5
+## edges: 5
+## DUAs: 10
+## Subsumed DUAs: 10
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.configuration.injection.MockInjectionStrategy.thenTry,5,5,10,10,100.0,0,1
+
+
+#org/mockito/internal/configuration/injection/MockInjectionStrategy/thenTry:
+Local DUA-Edge subsumption of method org.mockito.internal.configuration.injection.MockInjectionStrategy.thenTry  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/mockito/internal/configuration/injection/MockInjectionStrategy/process:
+## nodes: 4
+## edges: 4
+## DUAs: 12
+## Subsumed DUAs: 12
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.configuration.injection.MockInjectionStrategy.process,4,4,12,12,100.0,0,0
+
+
+#org/mockito/internal/configuration/injection/MockInjectionStrategy/process:
+Local DUA-Edge subsumption of method org.mockito.internal.configuration.injection.MockInjectionStrategy.process  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/configuration/injection/MockInjectionStrategy/relayProcessToNextStrategy:
+## nodes: 6
+## edges: 7
+## DUAs: 14
+## Subsumed DUAs: 14
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.configuration.injection.MockInjectionStrategy.relayProcessToNextStrategy,6,7,14,14,100.0,0,0
+
+
+#org/mockito/internal/configuration/injection/MockInjectionStrategy/relayProcessToNextStrategy:
+Local DUA-Edge subsumption of method org.mockito.internal.configuration.injection.MockInjectionStrategy.relayProcessToNextStrategy  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/configuration/injection/ConstructorInjection$SimpleArgumentResolver/resolveTypeInstances:
+## nodes: 5
+## edges: 5
+## DUAs: 3
+## Subsumed DUAs: 3
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.configuration.injection.ConstructorInjection$SimpleArgumentResolver.resolveTypeInstances,5,5,3,3,100.0,0,0
+
+
+#org/mockito/internal/configuration/injection/ConstructorInjection$SimpleArgumentResolver/resolveTypeInstances:
+Local DUA-Edge subsumption of method org.mockito.internal.configuration.injection.ConstructorInjection$SimpleArgumentResolver.resolveTypeInstances  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/configuration/injection/ConstructorInjection$SimpleArgumentResolver/objectThatIsAssignableFrom:
+## nodes: 7
+## edges: 8
+## DUAs: 5
+## Subsumed DUAs: 5
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.configuration.injection.ConstructorInjection$SimpleArgumentResolver.objectThatIsAssignableFrom,7,8,5,5,100.0,0,0
+
+
+#org/mockito/internal/configuration/injection/ConstructorInjection$SimpleArgumentResolver/objectThatIsAssignableFrom:
+Local DUA-Edge subsumption of method org.mockito.internal.configuration.injection.ConstructorInjection$SimpleArgumentResolver.objectThatIsAssignableFrom  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/configuration/injection/PropertyAndSetterInjection$1/isOut:
+## nodes: 6
+## edges: 7
+## DUAs: 4
+## Subsumed DUAs: 4
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.configuration.injection.PropertyAndSetterInjection$1.isOut,6,7,4,4,100.0,0,0
+
+
+#org/mockito/internal/configuration/injection/PropertyAndSetterInjection$1/isOut:
+Local DUA-Edge subsumption of method org.mockito.internal.configuration.injection.PropertyAndSetterInjection$1.isOut  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/configuration/injection/filter/NameBasedCandidateFilter/filterCandidate:
+## nodes: 9
+## edges: 11
+## DUAs: 23
+## Subsumed DUAs: 23
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.configuration.injection.filter.NameBasedCandidateFilter.filterCandidate,9,11,23,23,100.0,0,0
+
+
+#org/mockito/internal/configuration/injection/filter/NameBasedCandidateFilter/filterCandidate:
+Local DUA-Edge subsumption of method org.mockito.internal.configuration.injection.filter.NameBasedCandidateFilter.filterCandidate  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/configuration/injection/filter/TypeBasedCandidateFilter/filterCandidate:
+## nodes: 7
+## edges: 8
+## DUAs: 11
+## Subsumed DUAs: 11
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.configuration.injection.filter.TypeBasedCandidateFilter.filterCandidate,7,8,11,11,100.0,0,0
+
+
+#org/mockito/internal/configuration/injection/filter/TypeBasedCandidateFilter/filterCandidate:
+Local DUA-Edge subsumption of method org.mockito.internal.configuration.injection.filter.TypeBasedCandidateFilter.filterCandidate  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/configuration/injection/filter/FinalMockCandidateFilter/filterCandidate:
+## nodes: 4
+## edges: 4
+## DUAs: 7
+## Subsumed DUAs: 7
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.configuration.injection.filter.FinalMockCandidateFilter.filterCandidate,4,4,7,7,100.0,0,0
+
+
+#org/mockito/internal/configuration/injection/filter/FinalMockCandidateFilter/filterCandidate:
+Local DUA-Edge subsumption of method org.mockito.internal.configuration.injection.filter.FinalMockCandidateFilter.filterCandidate  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/configuration/injection/filter/FinalMockCandidateFilter$1/thenInject:
+## nodes: 4
+## edges: 4
+## DUAs: 10
+## Subsumed DUAs: 10
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.configuration.injection.filter.FinalMockCandidateFilter$1.thenInject,4,4,10,10,100.0,0,0
+
+
+#org/mockito/internal/configuration/injection/filter/FinalMockCandidateFilter$1/thenInject:
+Local DUA-Edge subsumption of method org.mockito.internal.configuration.injection.filter.FinalMockCandidateFilter$1.thenInject  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/configuration/injection/scanner/MockScanner/scan:
+## nodes: 7
+## edges: 8
+## DUAs: 7
+## Subsumed DUAs: 7
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.configuration.injection.scanner.MockScanner.scan,7,8,7,7,100.0,0,0
+
+
+#org/mockito/internal/configuration/injection/scanner/MockScanner/scan:
+Local DUA-Edge subsumption of method org.mockito.internal.configuration.injection.scanner.MockScanner.scan  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/configuration/injection/scanner/MockScanner/preparedMock:
+## nodes: 6
+## edges: 7
+## DUAs: 13
+## Subsumed DUAs: 13
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.configuration.injection.scanner.MockScanner.preparedMock,6,7,13,13,100.0,0,0
+
+
+#org/mockito/internal/configuration/injection/scanner/MockScanner/preparedMock:
+Local DUA-Edge subsumption of method org.mockito.internal.configuration.injection.scanner.MockScanner.preparedMock  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/configuration/injection/scanner/MockScanner/isAnnotatedByMockOrSpy:
+## nodes: 7
+## edges: 9
+## DUAs: 6
+## Subsumed DUAs: 6
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.configuration.injection.scanner.MockScanner.isAnnotatedByMockOrSpy,7,9,6,6,100.0,0,0
+
+
+#org/mockito/internal/configuration/injection/scanner/MockScanner/isAnnotatedByMockOrSpy:
+Local DUA-Edge subsumption of method org.mockito.internal.configuration.injection.scanner.MockScanner.isAnnotatedByMockOrSpy  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/configuration/injection/scanner/MockScanner/isMockOrSpy:
+## nodes: 6
+## edges: 7
+## DUAs: 12
+## Subsumed DUAs: 12
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.configuration.injection.scanner.MockScanner.isMockOrSpy,6,7,12,12,100.0,0,0
+
+
+#org/mockito/internal/configuration/injection/scanner/MockScanner/isMockOrSpy:
+Local DUA-Edge subsumption of method org.mockito.internal.configuration.injection.scanner.MockScanner.isMockOrSpy  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/configuration/injection/scanner/InjectMocksScanner/scan:
+## nodes: 7
+## edges: 8
+## DUAs: 6
+## Subsumed DUAs: 6
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.configuration.injection.scanner.InjectMocksScanner.scan,7,8,6,6,100.0,0,0
+
+
+#org/mockito/internal/configuration/injection/scanner/InjectMocksScanner/scan:
+Local DUA-Edge subsumption of method org.mockito.internal.configuration.injection.scanner.InjectMocksScanner.scan  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/configuration/injection/scanner/InjectMocksScanner/assertNoAnnotations:
+## nodes: 7
+## edges: 8
+## DUAs: 5
+## Subsumed DUAs: 5
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.configuration.injection.scanner.InjectMocksScanner.assertNoAnnotations,7,8,5,5,100.0,0,1
+
+
+#org/mockito/internal/configuration/injection/scanner/InjectMocksScanner/assertNoAnnotations:
+Local DUA-Edge subsumption of method org.mockito.internal.configuration.injection.scanner.InjectMocksScanner.assertNoAnnotations  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/mockito/internal/progress/ThreadSafeMockingProgress/threadSafely:
+## nodes: 4
+## edges: 4
+## DUAs: 4
+## Subsumed DUAs: 4
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.progress.ThreadSafeMockingProgress.threadSafely,4,4,4,4,100.0,0,0
+
+
+#org/mockito/internal/progress/ThreadSafeMockingProgress/threadSafely:
+Local DUA-Edge subsumption of method org.mockito.internal.progress.ThreadSafeMockingProgress.threadSafely  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/progress/ArgumentMatcherStorageImpl/pullLocalizedMatchers:
+## nodes: 4
+## edges: 4
+## DUAs: 6
+## Subsumed DUAs: 6
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.progress.ArgumentMatcherStorageImpl.pullLocalizedMatchers,4,4,6,6,100.0,0,0
+
+
+#org/mockito/internal/progress/ArgumentMatcherStorageImpl/pullLocalizedMatchers:
+Local DUA-Edge subsumption of method org.mockito.internal.progress.ArgumentMatcherStorageImpl.pullLocalizedMatchers  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/progress/ArgumentMatcherStorageImpl/popLastArgumentMatchers:
+## nodes: 5
+## edges: 5
+## DUAs: 11
+## Subsumed DUAs: 7
+## Edge DUA coverage: 63.63636363636363
+@@ org.mockito.internal.progress.ArgumentMatcherStorageImpl.popLastArgumentMatchers,5,5,11,7,63.63636363636363,0,0
+
+
+#org/mockito/internal/progress/ArgumentMatcherStorageImpl/popLastArgumentMatchers:
+Local DUA-Edge subsumption of method org.mockito.internal.progress.ArgumentMatcherStorageImpl.popLastArgumentMatchers  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/progress/ArgumentMatcherStorageImpl/assertMatchersFoundFor:
+## nodes: 4
+## edges: 4
+## DUAs: 7
+## Subsumed DUAs: 7
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.progress.ArgumentMatcherStorageImpl.assertMatchersFoundFor,4,4,7,7,100.0,0,0
+
+
+#org/mockito/internal/progress/ArgumentMatcherStorageImpl/assertMatchersFoundFor:
+Local DUA-Edge subsumption of method org.mockito.internal.progress.ArgumentMatcherStorageImpl.assertMatchersFoundFor  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/progress/ArgumentMatcherStorageImpl/assertIncorrectUseOfAdditionalMatchers:
+## nodes: 4
+## edges: 4
+## DUAs: 10
+## Subsumed DUAs: 10
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.progress.ArgumentMatcherStorageImpl.assertIncorrectUseOfAdditionalMatchers,4,4,10,10,100.0,0,0
+
+
+#org/mockito/internal/progress/ArgumentMatcherStorageImpl/assertIncorrectUseOfAdditionalMatchers:
+Local DUA-Edge subsumption of method org.mockito.internal.progress.ArgumentMatcherStorageImpl.assertIncorrectUseOfAdditionalMatchers  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/progress/ArgumentMatcherStorageImpl/validateState:
+## nodes: 4
+## edges: 4
+## DUAs: 6
+## Subsumed DUAs: 6
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.progress.ArgumentMatcherStorageImpl.validateState,4,4,6,6,100.0,0,0
+
+
+#org/mockito/internal/progress/ArgumentMatcherStorageImpl/validateState:
+Local DUA-Edge subsumption of method org.mockito.internal.progress.ArgumentMatcherStorageImpl.validateState  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/progress/MockingProgressImpl/pullVerificationMode:
+## nodes: 4
+## edges: 4
+## DUAs: 6
+## Subsumed DUAs: 6
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.progress.MockingProgressImpl.pullVerificationMode,4,4,6,6,100.0,0,0
+
+
+#org/mockito/internal/progress/MockingProgressImpl/pullVerificationMode:
+Local DUA-Edge subsumption of method org.mockito.internal.progress.MockingProgressImpl.pullVerificationMode  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/progress/MockingProgressImpl/validateState:
+## nodes: 4
+## edges: 4
+## DUAs: 7
+## Subsumed DUAs: 7
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.progress.MockingProgressImpl.validateState,4,4,7,7,100.0,0,0
+
+
+#org/mockito/internal/progress/MockingProgressImpl/validateState:
+Local DUA-Edge subsumption of method org.mockito.internal.progress.MockingProgressImpl.validateState  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/progress/MockingProgressImpl/validateMostStuff:
+## nodes: 4
+## edges: 4
+## DUAs: 8
+## Subsumed DUAs: 8
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.progress.MockingProgressImpl.validateMostStuff,4,4,8,8,100.0,0,0
+
+
+#org/mockito/internal/progress/MockingProgressImpl/validateMostStuff:
+Local DUA-Edge subsumption of method org.mockito.internal.progress.MockingProgressImpl.validateMostStuff  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/progress/MockingProgressImpl/mockingStarted:
+## nodes: 4
+## edges: 4
+## DUAs: 9
+## Subsumed DUAs: 9
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.progress.MockingProgressImpl.mockingStarted,4,4,9,9,100.0,0,0
+
+
+#org/mockito/internal/progress/MockingProgressImpl/mockingStarted:
+Local DUA-Edge subsumption of method org.mockito.internal.progress.MockingProgressImpl.mockingStarted  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/progress/HandyReturnValues/returnFor:
+## nodes: 4
+## edges: 4
+## DUAs: 3
+## Subsumed DUAs: 3
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.progress.HandyReturnValues.returnFor,4,4,3,3,100.0,0,0
+
+
+#org/mockito/internal/progress/HandyReturnValues/returnFor:
+Local DUA-Edge subsumption of method org.mockito.internal.progress.HandyReturnValues.returnFor  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/progress/HandyReturnValues/returnFor:
+## nodes: 5
+## edges: 5
+## DUAs: 4
+## Subsumed DUAs: 4
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.progress.HandyReturnValues.returnFor,5,5,4,4,100.0,0,1
+
+
+#org/mockito/internal/progress/HandyReturnValues/returnFor:
+Local DUA-Edge subsumption of method org.mockito.internal.progress.HandyReturnValues.returnFor  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/mockito/internal/util/Decamelizer/decamelizeMatcher:
+## nodes: 6
+## edges: 7
+## DUAs: 7
+## Subsumed DUAs: 7
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.util.Decamelizer.decamelizeMatcher,6,7,7,7,100.0,0,0
+
+
+#org/mockito/internal/util/Decamelizer/decamelizeMatcher:
+Local DUA-Edge subsumption of method org.mockito.internal.util.Decamelizer.decamelizeMatcher  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/util/Decamelizer/decamelizeClassName:
+## nodes: 7
+## edges: 8
+## DUAs: 9
+## Subsumed DUAs: 9
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.util.Decamelizer.decamelizeClassName,7,8,9,9,100.0,0,0
+
+
+#org/mockito/internal/util/Decamelizer/decamelizeClassName:
+Local DUA-Edge subsumption of method org.mockito.internal.util.Decamelizer.decamelizeClassName  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/util/MockUtil/isTypeMockable:
+## nodes: 6
+## edges: 7
+## DUAs: 4
+## Subsumed DUAs: 4
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.util.MockUtil.isTypeMockable,6,7,4,4,100.0,0,1
+
+
+#org/mockito/internal/util/MockUtil/isTypeMockable:
+Local DUA-Edge subsumption of method org.mockito.internal.util.MockUtil.isTypeMockable  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/mockito/internal/util/MockUtil/createMock:
+## nodes: 4
+## edges: 4
+## DUAs: 5
+## Subsumed DUAs: 5
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.util.MockUtil.createMock,4,4,5,5,100.0,0,1
+
+
+#org/mockito/internal/util/MockUtil/createMock:
+Local DUA-Edge subsumption of method org.mockito.internal.util.MockUtil.createMock  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/mockito/internal/util/MockUtil/getMockHandler:
+## nodes: 6
+## edges: 7
+## DUAs: 9
+## Subsumed DUAs: 9
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.util.MockUtil.getMockHandler,6,7,9,9,100.0,0,1
+
+
+#org/mockito/internal/util/MockUtil/getMockHandler:
+Local DUA-Edge subsumption of method org.mockito.internal.util.MockUtil.getMockHandler  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/mockito/internal/util/MockUtil/isSpy:
+## nodes: 6
+## edges: 7
+## DUAs: 10
+## Subsumed DUAs: 10
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.util.MockUtil.isSpy,6,7,10,10,100.0,0,1
+
+
+#org/mockito/internal/util/MockUtil/isSpy:
+Local DUA-Edge subsumption of method org.mockito.internal.util.MockUtil.isSpy  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/mockito/internal/util/MockUtil/isMockitoMock:
+## nodes: 5
+## edges: 5
+## DUAs: 4
+## Subsumed DUAs: 4
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.util.MockUtil.isMockitoMock,5,5,4,4,100.0,0,1
+
+
+#org/mockito/internal/util/MockUtil/isMockitoMock:
+Local DUA-Edge subsumption of method org.mockito.internal.util.MockUtil.isMockitoMock  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/mockito/internal/util/MockUtil/maybeRedefineMockName:
+## nodes: 5
+## edges: 6
+## DUAs: 9
+## Subsumed DUAs: 9
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.util.MockUtil.maybeRedefineMockName,5,6,9,9,100.0,0,0
+
+
+#org/mockito/internal/util/MockUtil/maybeRedefineMockName:
+Local DUA-Edge subsumption of method org.mockito.internal.util.MockUtil.maybeRedefineMockName  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/util/MockCreationValidator/validateType:
+## nodes: 4
+## edges: 4
+## DUAs: 7
+## Subsumed DUAs: 7
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.util.MockCreationValidator.validateType,4,4,7,7,100.0,0,0
+
+
+#org/mockito/internal/util/MockCreationValidator/validateType:
+Local DUA-Edge subsumption of method org.mockito.internal.util.MockCreationValidator.validateType  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/util/MockCreationValidator/validateExtraInterfaces:
+## nodes: 9
+## edges: 11
+## DUAs: 8
+## Subsumed DUAs: 8
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.util.MockCreationValidator.validateExtraInterfaces,9,11,8,8,100.0,0,1
+
+
+#org/mockito/internal/util/MockCreationValidator/validateExtraInterfaces:
+Local DUA-Edge subsumption of method org.mockito.internal.util.MockCreationValidator.validateExtraInterfaces  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/mockito/internal/util/MockCreationValidator/validateMockedType:
+## nodes: 7
+## edges: 9
+## DUAs: 10
+## Subsumed DUAs: 10
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.util.MockCreationValidator.validateMockedType,7,9,10,10,100.0,0,0
+
+
+#org/mockito/internal/util/MockCreationValidator/validateMockedType:
+Local DUA-Edge subsumption of method org.mockito.internal.util.MockCreationValidator.validateMockedType  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/util/MockCreationValidator/validateDelegatedInstance:
+## nodes: 7
+## edges: 9
+## DUAs: 10
+## Subsumed DUAs: 10
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.util.MockCreationValidator.validateDelegatedInstance,7,9,10,10,100.0,0,0
+
+
+#org/mockito/internal/util/MockCreationValidator/validateDelegatedInstance:
+Local DUA-Edge subsumption of method org.mockito.internal.util.MockCreationValidator.validateDelegatedInstance  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/util/MockCreationValidator/validateSerializable:
+## nodes: 7
+## edges: 10
+## DUAs: 9
+## Subsumed DUAs: 9
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.util.MockCreationValidator.validateSerializable,7,10,9,9,100.0,0,0
+
+
+#org/mockito/internal/util/MockCreationValidator/validateSerializable:
+Local DUA-Edge subsumption of method org.mockito.internal.util.MockCreationValidator.validateSerializable  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/util/MockCreationValidator/validateConstructorUse:
+## nodes: 5
+## edges: 6
+## DUAs: 7
+## Subsumed DUAs: 7
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.util.MockCreationValidator.validateConstructorUse,5,6,7,7,100.0,0,0
+
+
+#org/mockito/internal/util/MockCreationValidator/validateConstructorUse:
+Local DUA-Edge subsumption of method org.mockito.internal.util.MockCreationValidator.validateConstructorUse  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/util/Checks/checkNotNull:
+## nodes: 4
+## edges: 4
+## DUAs: 4
+## Subsumed DUAs: 4
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.util.Checks.checkNotNull,4,4,4,4,100.0,0,1
+
+
+#org/mockito/internal/util/Checks/checkNotNull:
+Local DUA-Edge subsumption of method org.mockito.internal.util.Checks.checkNotNull  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/mockito/internal/util/Checks/checkItemsNotNull:
+## nodes: 5
+## edges: 5
+## DUAs: 2
+## Subsumed DUAs: 2
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.util.Checks.checkItemsNotNull,5,5,2,2,100.0,0,0
+
+
+#org/mockito/internal/util/Checks/checkItemsNotNull:
+Local DUA-Edge subsumption of method org.mockito.internal.util.Checks.checkItemsNotNull  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/util/StringJoiner/join:
+## nodes: 5
+## edges: 5
+## DUAs: 2
+## Subsumed DUAs: 2
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.util.StringJoiner.join,5,5,2,2,100.0,0,1
+
+
+#org/mockito/internal/util/StringJoiner/join:
+Local DUA-Edge subsumption of method org.mockito.internal.util.StringJoiner.join  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/mockito/internal/util/Timer/isCounting:
+## nodes: 8
+## edges: 10
+## DUAs: 12
+## Subsumed DUAs: 12
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.util.Timer.isCounting,8,10,12,12,100.0,0,1
+
+
+#org/mockito/internal/util/Timer/isCounting:
+Local DUA-Edge subsumption of method org.mockito.internal.util.Timer.isCounting  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/mockito/internal/util/Timer/validateInput:
+## nodes: 4
+## edges: 4
+## DUAs: 3
+## Subsumed DUAs: 3
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.util.Timer.validateInput,4,4,3,3,100.0,0,0
+
+
+#org/mockito/internal/util/Timer/validateInput:
+Local DUA-Edge subsumption of method org.mockito.internal.util.Timer.validateInput  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/util/Primitives/primitiveTypeOf:
+## nodes: 4
+## edges: 4
+## DUAs: 5
+## Subsumed DUAs: 5
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.util.Primitives.primitiveTypeOf,4,4,5,5,100.0,0,1
+
+
+#org/mockito/internal/util/Primitives/primitiveTypeOf:
+Local DUA-Edge subsumption of method org.mockito.internal.util.Primitives.primitiveTypeOf  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/mockito/internal/util/ObjectMethodsGuru/isToString:
+## nodes: 7
+## edges: 9
+## DUAs: 6
+## Subsumed DUAs: 6
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.util.ObjectMethodsGuru.isToString,7,9,6,6,100.0,0,1
+
+
+#org/mockito/internal/util/ObjectMethodsGuru/isToString:
+Local DUA-Edge subsumption of method org.mockito.internal.util.ObjectMethodsGuru.isToString  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/mockito/internal/util/ObjectMethodsGuru/isEqualsMethod:
+## nodes: 7
+## edges: 9
+## DUAs: 6
+## Subsumed DUAs: 6
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.util.ObjectMethodsGuru.isEqualsMethod,7,9,6,6,100.0,0,0
+
+
+#org/mockito/internal/util/ObjectMethodsGuru/isEqualsMethod:
+Local DUA-Edge subsumption of method org.mockito.internal.util.ObjectMethodsGuru.isEqualsMethod  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/util/ObjectMethodsGuru/isHashCodeMethod:
+## nodes: 6
+## edges: 7
+## DUAs: 4
+## Subsumed DUAs: 4
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.util.ObjectMethodsGuru.isHashCodeMethod,6,7,4,4,100.0,0,0
+
+
+#org/mockito/internal/util/ObjectMethodsGuru/isHashCodeMethod:
+Local DUA-Edge subsumption of method org.mockito.internal.util.ObjectMethodsGuru.isHashCodeMethod  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/util/ObjectMethodsGuru/isCompareToMethod:
+## nodes: 8
+## edges: 11
+## DUAs: 8
+## Subsumed DUAs: 8
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.util.ObjectMethodsGuru.isCompareToMethod,8,11,8,8,100.0,0,0
+
+
+#org/mockito/internal/util/ObjectMethodsGuru/isCompareToMethod:
+Local DUA-Edge subsumption of method org.mockito.internal.util.ObjectMethodsGuru.isCompareToMethod  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/util/MockNameImpl/<init>:
+## nodes: 5
+## edges: 5
+## DUAs: 6
+## Subsumed DUAs: 6
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.util.MockNameImpl.<init>,5,5,6,6,100.0,0,1
+
+
+#org/mockito/internal/util/MockNameImpl/<init>:
+Local DUA-Edge subsumption of method org.mockito.internal.util.MockNameImpl.<init>  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/mockito/internal/util/MockNameImpl/toInstanceName:
+## nodes: 4
+## edges: 4
+## DUAs: 5
+## Subsumed DUAs: 4
+## Edge DUA coverage: 80.0
+@@ org.mockito.internal.util.MockNameImpl.toInstanceName,4,4,5,4,80.0,0,0
+
+
+#org/mockito/internal/util/MockNameImpl/toInstanceName:
+Local DUA-Edge subsumption of method org.mockito.internal.util.MockNameImpl.toInstanceName  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/util/junit/JUnitFailureHacker/appendWarnings:
+## nodes: 4
+## edges: 4
+## DUAs: 6
+## Subsumed DUAs: 6
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.util.junit.JUnitFailureHacker.appendWarnings,4,4,6,6,100.0,0,0
+
+
+#org/mockito/internal/util/junit/JUnitFailureHacker/appendWarnings:
+Local DUA-Edge subsumption of method org.mockito.internal.util.junit.JUnitFailureHacker.appendWarnings  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/util/junit/JUnitFailureHacker/isEmpty:
+## nodes: 6
+## edges: 7
+## DUAs: 4
+## Subsumed DUAs: 4
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.util.junit.JUnitFailureHacker.isEmpty,6,7,4,4,100.0,0,0
+
+
+#org/mockito/internal/util/junit/JUnitFailureHacker/isEmpty:
+Local DUA-Edge subsumption of method org.mockito.internal.util.junit.JUnitFailureHacker.isEmpty  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/util/io/IOUtil/readLines:
+## nodes: 5
+## edges: 5
+## DUAs: 6
+## Subsumed DUAs: 6
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.util.io.IOUtil.readLines,5,5,6,6,100.0,0,0
+
+
+#org/mockito/internal/util/io/IOUtil/readLines:
+Local DUA-Edge subsumption of method org.mockito.internal.util.io.IOUtil.readLines  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/util/io/IOUtil/close:
+## nodes: 4
+## edges: 4
+## DUAs: 3
+## Subsumed DUAs: 3
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.util.io.IOUtil.close,4,4,3,3,100.0,0,0
+
+
+#org/mockito/internal/util/io/IOUtil/close:
+Local DUA-Edge subsumption of method org.mockito.internal.util.io.IOUtil.close  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/util/collections/ArrayUtils/isEmpty:
+## nodes: 6
+## edges: 7
+## DUAs: 4
+## Subsumed DUAs: 4
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.util.collections.ArrayUtils.isEmpty,6,7,4,4,100.0,0,1
+
+
+#org/mockito/internal/util/collections/ArrayUtils/isEmpty:
+Local DUA-Edge subsumption of method org.mockito.internal.util.collections.ArrayUtils.isEmpty  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/mockito/internal/util/collections/IdentitySet/contains:
+## nodes: 7
+## edges: 8
+## DUAs: 4
+## Subsumed DUAs: 4
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.util.collections.IdentitySet.contains,7,8,4,4,100.0,0,0
+
+
+#org/mockito/internal/util/collections/IdentitySet/contains:
+Local DUA-Edge subsumption of method org.mockito.internal.util.collections.IdentitySet.contains  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/util/collections/HashCodeAndEqualsSafeSet/equals:
+## nodes: 4
+## edges: 4
+## DUAs: 5
+## Subsumed DUAs: 5
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.util.collections.HashCodeAndEqualsSafeSet.equals,4,4,5,5,100.0,0,0
+
+
+#org/mockito/internal/util/collections/HashCodeAndEqualsSafeSet/equals:
+Local DUA-Edge subsumption of method org.mockito.internal.util.collections.HashCodeAndEqualsSafeSet.equals  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/util/collections/HashCodeAndEqualsSafeSet/unwrapTo:
+## nodes: 7
+## edges: 8
+## DUAs: 15
+## Subsumed DUAs: 9
+## Edge DUA coverage: 60.0
+@@ org.mockito.internal.util.collections.HashCodeAndEqualsSafeSet.unwrapTo,7,8,15,9,60.0,0,0
+
+
+#org/mockito/internal/util/collections/HashCodeAndEqualsSafeSet/unwrapTo:
+Local DUA-Edge subsumption of method org.mockito.internal.util.collections.HashCodeAndEqualsSafeSet.unwrapTo  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/util/collections/HashCodeAndEqualsSafeSet/toArray:
+## nodes: 5
+## edges: 5
+## DUAs: 6
+## Subsumed DUAs: 6
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.util.collections.HashCodeAndEqualsSafeSet.toArray,5,5,6,6,100.0,0,0
+
+
+#org/mockito/internal/util/collections/HashCodeAndEqualsSafeSet/toArray:
+Local DUA-Edge subsumption of method org.mockito.internal.util.collections.HashCodeAndEqualsSafeSet.toArray  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/util/collections/HashCodeAndEqualsSafeSet/asWrappedMocks:
+## nodes: 8
+## edges: 10
+## DUAs: 7
+## Subsumed DUAs: 7
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.util.collections.HashCodeAndEqualsSafeSet.asWrappedMocks,8,10,7,7,100.0,0,1
+
+
+#org/mockito/internal/util/collections/HashCodeAndEqualsSafeSet/asWrappedMocks:
+Local DUA-Edge subsumption of method org.mockito.internal.util.collections.HashCodeAndEqualsSafeSet.asWrappedMocks  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/mockito/internal/util/collections/HashCodeAndEqualsSafeSet/of:
+## nodes: 6
+## edges: 7
+## DUAs: 5
+## Subsumed DUAs: 5
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.util.collections.HashCodeAndEqualsSafeSet.of,6,7,5,5,100.0,0,0
+
+
+#org/mockito/internal/util/collections/HashCodeAndEqualsSafeSet/of:
+Local DUA-Edge subsumption of method org.mockito.internal.util.collections.HashCodeAndEqualsSafeSet.of  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/util/collections/ListUtil/filter:
+## nodes: 7
+## edges: 8
+## DUAs: 7
+## Subsumed DUAs: 7
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.util.collections.ListUtil.filter,7,8,7,7,100.0,0,0
+
+
+#org/mockito/internal/util/collections/ListUtil/filter:
+Local DUA-Edge subsumption of method org.mockito.internal.util.collections.ListUtil.filter  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/util/collections/Sets/newSet:
+## nodes: 4
+## edges: 4
+## DUAs: 3
+## Subsumed DUAs: 3
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.util.collections.Sets.newSet,4,4,3,3,100.0,0,1
+
+
+#org/mockito/internal/util/collections/Sets/newSet:
+Local DUA-Edge subsumption of method org.mockito.internal.util.collections.Sets.newSet  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/mockito/internal/util/collections/Iterables/toIterable:
+## nodes: 5
+## edges: 5
+## DUAs: 5
+## Subsumed DUAs: 5
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.util.collections.Iterables.toIterable,5,5,5,5,100.0,0,0
+
+
+#org/mockito/internal/util/collections/Iterables/toIterable:
+Local DUA-Edge subsumption of method org.mockito.internal.util.collections.Iterables.toIterable  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/util/collections/HashCodeAndEqualsMockWrapper/equals:
+## nodes: 9
+## edges: 11
+## DUAs: 15
+## Subsumed DUAs: 15
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.util.collections.HashCodeAndEqualsMockWrapper.equals,9,11,15,15,100.0,0,0
+
+
+#org/mockito/internal/util/collections/HashCodeAndEqualsMockWrapper/equals:
+Local DUA-Edge subsumption of method org.mockito.internal.util.collections.HashCodeAndEqualsMockWrapper.equals  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/util/collections/HashCodeAndEqualsMockWrapper/toString:
+## nodes: 5
+## edges: 5
+## DUAs: 7
+## Subsumed DUAs: 7
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.util.collections.HashCodeAndEqualsMockWrapper.toString,5,5,7,7,100.0,0,1
+
+
+#org/mockito/internal/util/collections/HashCodeAndEqualsMockWrapper/toString:
+Local DUA-Edge subsumption of method org.mockito.internal.util.collections.HashCodeAndEqualsMockWrapper.toString  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/mockito/internal/util/reflection/FieldInitializer$NoArgConstructorInstantiator/instantiate:
+## nodes: 4
+## edges: 4
+## DUAs: 4
+## Subsumed DUAs: 4
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.util.reflection.FieldInitializer$NoArgConstructorInstantiator.instantiate,4,4,4,4,100.0,0,1
+
+
+#org/mockito/internal/util/reflection/FieldInitializer$NoArgConstructorInstantiator/instantiate:
+Local DUA-Edge subsumption of method org.mockito.internal.util.reflection.FieldInitializer$NoArgConstructorInstantiator.instantiate  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/mockito/internal/util/reflection/Fields/allDeclaredFieldsOf:
+## nodes: 5
+## edges: 5
+## DUAs: 10
+## Subsumed DUAs: 6
+## Edge DUA coverage: 60.0
+@@ org.mockito.internal.util.reflection.Fields.allDeclaredFieldsOf,5,5,10,6,60.0,0,0
+
+
+#org/mockito/internal/util/reflection/Fields/allDeclaredFieldsOf:
+Local DUA-Edge subsumption of method org.mockito.internal.util.reflection.Fields.allDeclaredFieldsOf  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/util/reflection/Fields/instanceFieldsIn:
+## nodes: 5
+## edges: 5
+## DUAs: 3
+## Subsumed DUAs: 3
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.util.reflection.Fields.instanceFieldsIn,5,5,3,3,100.0,0,0
+
+
+#org/mockito/internal/util/reflection/Fields/instanceFieldsIn:
+Local DUA-Edge subsumption of method org.mockito.internal.util.reflection.Fields.instanceFieldsIn  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/util/reflection/GenericMetadataSupport/registerTypeVariablesOn:
+## nodes: 11
+## edges: 14
+## DUAs: 29
+## Subsumed DUAs: 24
+## Edge DUA coverage: 82.75862068965517
+@@ org.mockito.internal.util.reflection.GenericMetadataSupport.registerTypeVariablesOn,11,14,29,24,82.75862068965517,0,1
+
+
+#org/mockito/internal/util/reflection/GenericMetadataSupport/registerTypeVariablesOn:
+Local DUA-Edge subsumption of method org.mockito.internal.util.reflection.GenericMetadataSupport.registerTypeVariablesOn  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/mockito/internal/util/reflection/GenericMetadataSupport/registerTypeParametersOn:
+## nodes: 5
+## edges: 5
+## DUAs: 1
+## Subsumed DUAs: 1
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.util.reflection.GenericMetadataSupport.registerTypeParametersOn,5,5,1,1,100.0,0,0
+
+
+#org/mockito/internal/util/reflection/GenericMetadataSupport/registerTypeParametersOn:
+Local DUA-Edge subsumption of method org.mockito.internal.util.reflection.GenericMetadataSupport.registerTypeParametersOn  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/util/reflection/GenericMetadataSupport/registerTypeVariableIfNotPresent:
+## nodes: 4
+## edges: 4
+## DUAs: 9
+## Subsumed DUAs: 9
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.util.reflection.GenericMetadataSupport.registerTypeVariableIfNotPresent,4,4,9,9,100.0,0,0
+
+
+#org/mockito/internal/util/reflection/GenericMetadataSupport/registerTypeVariableIfNotPresent:
+Local DUA-Edge subsumption of method org.mockito.internal.util.reflection.GenericMetadataSupport.registerTypeVariableIfNotPresent  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/util/reflection/GenericMetadataSupport/boundsOf:
+## nodes: 4
+## edges: 4
+## DUAs: 5
+## Subsumed DUAs: 5
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.util.reflection.GenericMetadataSupport.boundsOf,4,4,5,5,100.0,0,0
+
+
+#org/mockito/internal/util/reflection/GenericMetadataSupport/boundsOf:
+Local DUA-Edge subsumption of method org.mockito.internal.util.reflection.GenericMetadataSupport.boundsOf  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/util/reflection/GenericMetadataSupport/boundsOf:
+## nodes: 4
+## edges: 4
+## DUAs: 5
+## Subsumed DUAs: 5
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.util.reflection.GenericMetadataSupport.boundsOf,4,4,5,5,100.0,0,1
+
+
+#org/mockito/internal/util/reflection/GenericMetadataSupport/boundsOf:
+Local DUA-Edge subsumption of method org.mockito.internal.util.reflection.GenericMetadataSupport.boundsOf  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/mockito/internal/util/reflection/GenericMetadataSupport/hasRawExtraInterfaces:
+## nodes: 5
+## edges: 5
+## DUAs: 2
+## Subsumed DUAs: 2
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.util.reflection.GenericMetadataSupport.hasRawExtraInterfaces,5,5,2,2,100.0,0,1
+
+
+#org/mockito/internal/util/reflection/GenericMetadataSupport/hasRawExtraInterfaces:
+Local DUA-Edge subsumption of method org.mockito.internal.util.reflection.GenericMetadataSupport.hasRawExtraInterfaces  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/mockito/internal/util/reflection/GenericMetadataSupport/actualTypeArguments:
+## nodes: 5
+## edges: 5
+## DUAs: 3
+## Subsumed DUAs: 3
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.util.reflection.GenericMetadataSupport.actualTypeArguments,5,5,3,3,100.0,0,0
+
+
+#org/mockito/internal/util/reflection/GenericMetadataSupport/actualTypeArguments:
+Local DUA-Edge subsumption of method org.mockito.internal.util.reflection.GenericMetadataSupport.actualTypeArguments  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/util/reflection/GenericMetadataSupport/getActualTypeArgumentFor:
+## nodes: 4
+## edges: 4
+## DUAs: 5
+## Subsumed DUAs: 5
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.util.reflection.GenericMetadataSupport.getActualTypeArgumentFor,4,4,5,5,100.0,0,0
+
+
+#org/mockito/internal/util/reflection/GenericMetadataSupport/getActualTypeArgumentFor:
+Local DUA-Edge subsumption of method org.mockito.internal.util.reflection.GenericMetadataSupport.getActualTypeArgumentFor  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/util/reflection/GenericMetadataSupport/resolveGenericReturnType:
+## nodes: 8
+## edges: 10
+## DUAs: 14
+## Subsumed DUAs: 14
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.util.reflection.GenericMetadataSupport.resolveGenericReturnType,8,10,14,14,100.0,0,0
+
+
+#org/mockito/internal/util/reflection/GenericMetadataSupport/resolveGenericReturnType:
+Local DUA-Edge subsumption of method org.mockito.internal.util.reflection.GenericMetadataSupport.resolveGenericReturnType  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/util/reflection/GenericMetadataSupport/inferFrom:
+## nodes: 6
+## edges: 7
+## DUAs: 7
+## Subsumed DUAs: 7
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.util.reflection.GenericMetadataSupport.inferFrom,6,7,7,7,100.0,0,0
+
+
+#org/mockito/internal/util/reflection/GenericMetadataSupport/inferFrom:
+Local DUA-Edge subsumption of method org.mockito.internal.util.reflection.GenericMetadataSupport.inferFrom  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/util/reflection/Fields$1/isOut:
+## nodes: 7
+## edges: 8
+## DUAs: 4
+## Subsumed DUAs: 4
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.util.reflection.Fields$1.isOut,7,8,4,4,100.0,0,0
+
+
+#org/mockito/internal/util/reflection/Fields$1/isOut:
+Local DUA-Edge subsumption of method org.mockito.internal.util.reflection.Fields$1.isOut  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/util/reflection/FieldInitializationReport/fieldClass:
+## nodes: 5
+## edges: 5
+## DUAs: 6
+## Subsumed DUAs: 6
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.util.reflection.FieldInitializationReport.fieldClass,5,5,6,6,100.0,0,0
+
+
+#org/mockito/internal/util/reflection/FieldInitializationReport/fieldClass:
+Local DUA-Edge subsumption of method org.mockito.internal.util.reflection.FieldInitializationReport.fieldClass  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/util/reflection/InstanceField/reader:
+## nodes: 4
+## edges: 4
+## DUAs: 10
+## Subsumed DUAs: 9
+## Edge DUA coverage: 90.0
+@@ org.mockito.internal.util.reflection.InstanceField.reader,4,4,10,9,90.0,0,0
+
+
+#org/mockito/internal/util/reflection/InstanceField/reader:
+Local DUA-Edge subsumption of method org.mockito.internal.util.reflection.InstanceField.reader  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/util/reflection/InstanceField/equals:
+## nodes: 11
+## edges: 15
+## DUAs: 27
+## Subsumed DUAs: 27
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.util.reflection.InstanceField.equals,11,15,27,27,100.0,0,0
+
+
+#org/mockito/internal/util/reflection/InstanceField/equals:
+Local DUA-Edge subsumption of method org.mockito.internal.util.reflection.InstanceField.equals  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/util/reflection/BeanPropertySetter/set:
+## nodes: 4
+## edges: 4
+## DUAs: 4
+## Subsumed DUAs: 4
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.util.reflection.BeanPropertySetter.set,4,4,4,4,100.0,0,0
+
+
+#org/mockito/internal/util/reflection/BeanPropertySetter/set:
+Local DUA-Edge subsumption of method org.mockito.internal.util.reflection.BeanPropertySetter.set  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/util/reflection/BeanPropertySetter/reportNoSetterFound:
+## nodes: 4
+## edges: 4
+## DUAs: 7
+## Subsumed DUAs: 7
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.util.reflection.BeanPropertySetter.reportNoSetterFound,4,4,7,7,100.0,0,0
+
+
+#org/mockito/internal/util/reflection/BeanPropertySetter/reportNoSetterFound:
+Local DUA-Edge subsumption of method org.mockito.internal.util.reflection.BeanPropertySetter.reportNoSetterFound  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/util/reflection/GenericMetadataSupport$FromClassGenericMetadataSupport/<init>:
+## nodes: 6
+## edges: 7
+## DUAs: 11
+## Subsumed DUAs: 4
+## Edge DUA coverage: 36.36363636363637
+@@ org.mockito.internal.util.reflection.GenericMetadataSupport$FromClassGenericMetadataSupport.<init>,6,7,11,4,36.36363636363637,0,0
+
+
+#org/mockito/internal/util/reflection/GenericMetadataSupport$FromClassGenericMetadataSupport/<init>:
+Local DUA-Edge subsumption of method org.mockito.internal.util.reflection.GenericMetadataSupport$FromClassGenericMetadataSupport.<init>  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/util/reflection/GenericMetadataSupport$FromClassGenericMetadataSupport/superClassOf:
+## nodes: 4
+## edges: 4
+## DUAs: 4
+## Subsumed DUAs: 4
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.util.reflection.GenericMetadataSupport$FromClassGenericMetadataSupport.superClassOf,4,4,4,4,100.0,0,0
+
+
+#org/mockito/internal/util/reflection/GenericMetadataSupport$FromClassGenericMetadataSupport/superClassOf:
+Local DUA-Edge subsumption of method org.mockito.internal.util.reflection.GenericMetadataSupport$FromClassGenericMetadataSupport.superClassOf  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/util/reflection/GenericMetadataSupport$FromClassGenericMetadataSupport/readActualTypeParametersOnDeclaringClass:
+## nodes: 5
+## edges: 5
+## DUAs: 1
+## Subsumed DUAs: 1
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.util.reflection.GenericMetadataSupport$FromClassGenericMetadataSupport.readActualTypeParametersOnDeclaringClass,5,5,1,1,100.0,0,0
+
+
+#org/mockito/internal/util/reflection/GenericMetadataSupport$FromClassGenericMetadataSupport/readActualTypeParametersOnDeclaringClass:
+Local DUA-Edge subsumption of method org.mockito.internal.util.reflection.GenericMetadataSupport$FromClassGenericMetadataSupport.readActualTypeParametersOnDeclaringClass  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/util/reflection/Whitebox/getFieldFromHierarchy:
+## nodes: 8
+## edges: 10
+## DUAs: 20
+## Subsumed DUAs: 5
+## Edge DUA coverage: 25.0
+@@ org.mockito.internal.util.reflection.Whitebox.getFieldFromHierarchy,8,10,20,5,25.0,0,0
+
+
+#org/mockito/internal/util/reflection/Whitebox/getFieldFromHierarchy:
+Local DUA-Edge subsumption of method org.mockito.internal.util.reflection.Whitebox.getFieldFromHierarchy  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/util/reflection/FieldInitializer/<init>:
+## nodes: 4
+## edges: 4
+## DUAs: 6
+## Subsumed DUAs: 6
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.util.reflection.FieldInitializer.<init>,4,4,6,6,100.0,0,1
+
+
+#org/mockito/internal/util/reflection/FieldInitializer/<init>:
+Local DUA-Edge subsumption of method org.mockito.internal.util.reflection.FieldInitializer.<init>  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/mockito/internal/util/reflection/FieldInitializer/checkNotLocal:
+## nodes: 4
+## edges: 4
+## DUAs: 3
+## Subsumed DUAs: 3
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.util.reflection.FieldInitializer.checkNotLocal,4,4,3,3,100.0,0,1
+
+
+#org/mockito/internal/util/reflection/FieldInitializer/checkNotLocal:
+Local DUA-Edge subsumption of method org.mockito.internal.util.reflection.FieldInitializer.checkNotLocal  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/mockito/internal/util/reflection/FieldInitializer/checkNotInner:
+## nodes: 5
+## edges: 6
+## DUAs: 5
+## Subsumed DUAs: 5
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.util.reflection.FieldInitializer.checkNotInner,5,6,5,5,100.0,0,0
+
+
+#org/mockito/internal/util/reflection/FieldInitializer/checkNotInner:
+Local DUA-Edge subsumption of method org.mockito.internal.util.reflection.FieldInitializer.checkNotInner  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/util/reflection/FieldInitializer/checkNotInterface:
+## nodes: 4
+## edges: 4
+## DUAs: 3
+## Subsumed DUAs: 3
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.util.reflection.FieldInitializer.checkNotInterface,4,4,3,3,100.0,0,1
+
+
+#org/mockito/internal/util/reflection/FieldInitializer/checkNotInterface:
+Local DUA-Edge subsumption of method org.mockito.internal.util.reflection.FieldInitializer.checkNotInterface  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/mockito/internal/util/reflection/FieldInitializer/checkNotAbstract:
+## nodes: 4
+## edges: 4
+## DUAs: 3
+## Subsumed DUAs: 3
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.util.reflection.FieldInitializer.checkNotAbstract,4,4,3,3,100.0,0,0
+
+
+#org/mockito/internal/util/reflection/FieldInitializer/checkNotAbstract:
+Local DUA-Edge subsumption of method org.mockito.internal.util.reflection.FieldInitializer.checkNotAbstract  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/util/reflection/FieldInitializer/acquireFieldInstance:
+## nodes: 4
+## edges: 4
+## DUAs: 5
+## Subsumed DUAs: 5
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.util.reflection.FieldInitializer.acquireFieldInstance,4,4,5,5,100.0,0,0
+
+
+#org/mockito/internal/util/reflection/FieldInitializer/acquireFieldInstance:
+Local DUA-Edge subsumption of method org.mockito.internal.util.reflection.FieldInitializer.acquireFieldInstance  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/util/reflection/GenericMetadataSupport$WildCardBoundedType/firstBound:
+## nodes: 5
+## edges: 5
+## DUAs: 4
+## Subsumed DUAs: 4
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.util.reflection.GenericMetadataSupport$WildCardBoundedType.firstBound,5,5,4,4,100.0,0,1
+
+
+#org/mockito/internal/util/reflection/GenericMetadataSupport$WildCardBoundedType/firstBound:
+Local DUA-Edge subsumption of method org.mockito.internal.util.reflection.GenericMetadataSupport$WildCardBoundedType.firstBound  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/mockito/internal/util/reflection/GenericMetadataSupport$WildCardBoundedType/equals:
+## nodes: 7
+## edges: 9
+## DUAs: 13
+## Subsumed DUAs: 13
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.util.reflection.GenericMetadataSupport$WildCardBoundedType.equals,7,9,13,13,100.0,0,1
+
+
+#org/mockito/internal/util/reflection/GenericMetadataSupport$WildCardBoundedType/equals:
+Local DUA-Edge subsumption of method org.mockito.internal.util.reflection.GenericMetadataSupport$WildCardBoundedType.equals  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/mockito/internal/util/reflection/SuperTypesLastSorter/sort:
+## nodes: 14
+## edges: 18
+## DUAs: 47
+## Subsumed DUAs: 24
+## Edge DUA coverage: 51.06382978723404
+@@ org.mockito.internal.util.reflection.SuperTypesLastSorter.sort,14,18,47,24,51.06382978723404,0,0
+
+
+#org/mockito/internal/util/reflection/SuperTypesLastSorter/sort:
+Local DUA-Edge subsumption of method org.mockito.internal.util.reflection.SuperTypesLastSorter.sort  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/util/reflection/FieldInitializer$ParameterizedConstructorInstantiator$1/compare:
+## nodes: 4
+## edges: 4
+## DUAs: 6
+## Subsumed DUAs: 6
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.util.reflection.FieldInitializer$ParameterizedConstructorInstantiator$1.compare,4,4,6,6,100.0,0,0
+
+
+#org/mockito/internal/util/reflection/FieldInitializer$ParameterizedConstructorInstantiator$1/compare:
+Local DUA-Edge subsumption of method org.mockito.internal.util.reflection.FieldInitializer$ParameterizedConstructorInstantiator$1.compare  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/util/reflection/FieldInitializer$ParameterizedConstructorInstantiator$1/countMockableParams:
+## nodes: 7
+## edges: 8
+## DUAs: 10
+## Subsumed DUAs: 7
+## Edge DUA coverage: 70.0
+@@ org.mockito.internal.util.reflection.FieldInitializer$ParameterizedConstructorInstantiator$1.countMockableParams,7,8,10,7,70.0,0,0
+
+
+#org/mockito/internal/util/reflection/FieldInitializer$ParameterizedConstructorInstantiator$1/countMockableParams:
+Local DUA-Edge subsumption of method org.mockito.internal.util.reflection.FieldInitializer$ParameterizedConstructorInstantiator$1.countMockableParams  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/util/reflection/FieldInitializer$ParameterizedConstructorInstantiator/instantiate:
+## nodes: 4
+## edges: 4
+## DUAs: 4
+## Subsumed DUAs: 4
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.util.reflection.FieldInitializer$ParameterizedConstructorInstantiator.instantiate,4,4,4,4,100.0,0,0
+
+
+#org/mockito/internal/util/reflection/FieldInitializer$ParameterizedConstructorInstantiator/instantiate:
+Local DUA-Edge subsumption of method org.mockito.internal.util.reflection.FieldInitializer$ParameterizedConstructorInstantiator.instantiate  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/util/reflection/FieldInitializer$ParameterizedConstructorInstantiator/checkParameterized:
+## nodes: 4
+## edges: 4
+## DUAs: 3
+## Subsumed DUAs: 3
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.util.reflection.FieldInitializer$ParameterizedConstructorInstantiator.checkParameterized,4,4,3,3,100.0,0,0
+
+
+#org/mockito/internal/util/reflection/FieldInitializer$ParameterizedConstructorInstantiator/checkParameterized:
+Local DUA-Edge subsumption of method org.mockito.internal.util.reflection.FieldInitializer$ParameterizedConstructorInstantiator.checkParameterized  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/util/reflection/GenericMaster/getGenericType:
+## nodes: 7
+## edges: 9
+## DUAs: 9
+## Subsumed DUAs: 9
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.util.reflection.GenericMaster.getGenericType,7,9,9,9,100.0,0,1
+
+
+#org/mockito/internal/util/reflection/GenericMaster/getGenericType:
+Local DUA-Edge subsumption of method org.mockito.internal.util.reflection.GenericMaster.getGenericType  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/mockito/internal/util/reflection/GenericMetadataSupport$TypeVariableReturnType/readTypeVariables:
+## nodes: 5
+## edges: 5
+## DUAs: 3
+## Subsumed DUAs: 3
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.util.reflection.GenericMetadataSupport$TypeVariableReturnType.readTypeVariables,5,5,3,3,100.0,0,0
+
+
+#org/mockito/internal/util/reflection/GenericMetadataSupport$TypeVariableReturnType/readTypeVariables:
+Local DUA-Edge subsumption of method org.mockito.internal.util.reflection.GenericMetadataSupport$TypeVariableReturnType.readTypeVariables  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/util/reflection/GenericMetadataSupport$TypeVariableReturnType/rawType:
+## nodes: 4
+## edges: 4
+## DUAs: 9
+## Subsumed DUAs: 8
+## Edge DUA coverage: 88.88888888888889
+@@ org.mockito.internal.util.reflection.GenericMetadataSupport$TypeVariableReturnType.rawType,4,4,9,8,88.88888888888889,0,0
+
+
+#org/mockito/internal/util/reflection/GenericMetadataSupport$TypeVariableReturnType/rawType:
+Local DUA-Edge subsumption of method org.mockito.internal.util.reflection.GenericMetadataSupport$TypeVariableReturnType.rawType  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/util/reflection/GenericMetadataSupport$TypeVariableReturnType/extractRawTypeOf:
+## nodes: 10
+## edges: 13
+## DUAs: 16
+## Subsumed DUAs: 16
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.util.reflection.GenericMetadataSupport$TypeVariableReturnType.extractRawTypeOf,10,13,16,16,100.0,0,0
+
+
+#org/mockito/internal/util/reflection/GenericMetadataSupport$TypeVariableReturnType/extractRawTypeOf:
+Local DUA-Edge subsumption of method org.mockito.internal.util.reflection.GenericMetadataSupport$TypeVariableReturnType.extractRawTypeOf  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/util/reflection/GenericMetadataSupport$TypeVariableReturnType/extraInterfaces:
+## nodes: 8
+## edges: 10
+## DUAs: 11
+## Subsumed DUAs: 11
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.util.reflection.GenericMetadataSupport$TypeVariableReturnType.extraInterfaces,8,10,11,11,100.0,0,0
+
+
+#org/mockito/internal/util/reflection/GenericMetadataSupport$TypeVariableReturnType/extraInterfaces:
+Local DUA-Edge subsumption of method org.mockito.internal.util.reflection.GenericMetadataSupport$TypeVariableReturnType.extraInterfaces  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/util/reflection/GenericMetadataSupport$TypeVariableReturnType/rawExtraInterfaces:
+## nodes: 7
+## edges: 8
+## DUAs: 8
+## Subsumed DUAs: 8
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.util.reflection.GenericMetadataSupport$TypeVariableReturnType.rawExtraInterfaces,7,8,8,8,100.0,0,1
+
+
+#org/mockito/internal/util/reflection/GenericMetadataSupport$TypeVariableReturnType/rawExtraInterfaces:
+Local DUA-Edge subsumption of method org.mockito.internal.util.reflection.GenericMetadataSupport$TypeVariableReturnType.rawExtraInterfaces  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/mockito/internal/util/reflection/GenericMetadataSupport$TypeVariableReturnType/extractActualBoundedTypeOf:
+## nodes: 8
+## edges: 10
+## DUAs: 14
+## Subsumed DUAs: 14
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.util.reflection.GenericMetadataSupport$TypeVariableReturnType.extractActualBoundedTypeOf,8,10,14,14,100.0,0,1
+
+
+#org/mockito/internal/util/reflection/GenericMetadataSupport$TypeVariableReturnType/extractActualBoundedTypeOf:
+Local DUA-Edge subsumption of method org.mockito.internal.util.reflection.GenericMetadataSupport$TypeVariableReturnType.extractActualBoundedTypeOf  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/mockito/internal/util/reflection/FieldReader/isNull:
+## nodes: 5
+## edges: 5
+## DUAs: 2
+## Subsumed DUAs: 2
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.util.reflection.FieldReader.isNull,5,5,2,2,100.0,0,1
+
+
+#org/mockito/internal/util/reflection/FieldReader/isNull:
+Local DUA-Edge subsumption of method org.mockito.internal.util.reflection.FieldReader.isNull  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/mockito/internal/util/reflection/Fields$InstanceFields/assignedValues:
+## nodes: 5
+## edges: 5
+## DUAs: 2
+## Subsumed DUAs: 2
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.util.reflection.Fields$InstanceFields.assignedValues,5,5,2,2,100.0,0,0
+
+
+#org/mockito/internal/util/reflection/Fields$InstanceFields/assignedValues:
+Local DUA-Edge subsumption of method org.mockito.internal.util.reflection.Fields$InstanceFields.assignedValues  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/util/reflection/Fields$InstanceFields/names:
+## nodes: 5
+## edges: 5
+## DUAs: 2
+## Subsumed DUAs: 2
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.util.reflection.Fields$InstanceFields.names,5,5,2,2,100.0,0,0
+
+
+#org/mockito/internal/util/reflection/Fields$InstanceFields/names:
+Local DUA-Edge subsumption of method org.mockito.internal.util.reflection.Fields$InstanceFields.names  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/util/reflection/AccessibilityChanger/safelyDisableAccess:
+## nodes: 5
+## edges: 6
+## DUAs: 9
+## Subsumed DUAs: 9
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.util.reflection.AccessibilityChanger.safelyDisableAccess,5,6,9,9,100.0,0,0
+
+
+#org/mockito/internal/util/reflection/AccessibilityChanger/safelyDisableAccess:
+Local DUA-Edge subsumption of method org.mockito.internal.util.reflection.AccessibilityChanger.safelyDisableAccess  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Warning: Method:org.mockito.internal.util.reflection.LenientCopyTool.copy has incoming edges.
+
+#org/mockito/internal/util/reflection/LenientCopyTool/copyValues:
+## nodes: 8
+## edges: 9
+## DUAs: 18
+## Subsumed DUAs: 13
+## Edge DUA coverage: 72.22222222222221
+@@ org.mockito.internal.util.reflection.LenientCopyTool.copyValues,8,9,18,13,72.22222222222221,0,0
+
+
+#org/mockito/internal/util/reflection/LenientCopyTool/copyValues:
+Local DUA-Edge subsumption of method org.mockito.internal.util.reflection.LenientCopyTool.copyValues  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/util/reflection/GenericMetadataSupport$TypeVarBoundedType/equals:
+## nodes: 7
+## edges: 9
+## DUAs: 13
+## Subsumed DUAs: 13
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.util.reflection.GenericMetadataSupport$TypeVarBoundedType.equals,7,9,13,13,100.0,0,0
+
+
+#org/mockito/internal/util/reflection/GenericMetadataSupport$TypeVarBoundedType/equals:
+Local DUA-Edge subsumption of method org.mockito.internal.util.reflection.GenericMetadataSupport$TypeVarBoundedType.equals  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/junit/FriendlyExceptionMaker/createArgumentsAreDifferentException:
+## nodes: 4
+## edges: 4
+## DUAs: 8
+## Subsumed DUAs: 8
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.junit.FriendlyExceptionMaker.createArgumentsAreDifferentException,4,4,8,8,100.0,0,0
+
+
+#org/mockito/internal/junit/FriendlyExceptionMaker/createArgumentsAreDifferentException:
+Local DUA-Edge subsumption of method org.mockito.internal.junit.FriendlyExceptionMaker.createArgumentsAreDifferentException  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/debugging/MockitoDebuggerImpl/printInvocations:
+## nodes: 12
+## edges: 15
+## DUAs: 29
+## Subsumed DUAs: 18
+## Edge DUA coverage: 62.06896551724138
+@@ org.mockito.internal.debugging.MockitoDebuggerImpl.printInvocations,12,15,29,18,62.06896551724138,0,1
+
+
+#org/mockito/internal/debugging/MockitoDebuggerImpl/printInvocations:
+Local DUA-Edge subsumption of method org.mockito.internal.debugging.MockitoDebuggerImpl.printInvocations  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/mockito/internal/debugging/WarningsFinder/find:
+## nodes: 16
+## edges: 20
+## DUAs: 20
+## Subsumed DUAs: 20
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.debugging.WarningsFinder.find,16,20,20,20,100.0,0,0
+
+
+#org/mockito/internal/debugging/WarningsFinder/find:
+Local DUA-Edge subsumption of method org.mockito.internal.debugging.WarningsFinder.find  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/debugging/LoggingListener/foundUnstubbed:
+## nodes: 4
+## edges: 4
+## DUAs: 7
+## Subsumed DUAs: 7
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.debugging.LoggingListener.foundUnstubbed,4,4,7,7,100.0,0,0
+
+
+#org/mockito/internal/debugging/LoggingListener/foundUnstubbed:
+Local DUA-Edge subsumption of method org.mockito.internal.debugging.LoggingListener.foundUnstubbed  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/debugging/VerboseMockInvocationLogger/printReturnedValueOrThrowable:
+## nodes: 11
+## edges: 13
+## DUAs: 10
+## Subsumed DUAs: 10
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.debugging.VerboseMockInvocationLogger.printReturnedValueOrThrowable,11,13,10,10,100.0,0,1
+
+
+#org/mockito/internal/debugging/VerboseMockInvocationLogger/printReturnedValueOrThrowable:
+Local DUA-Edge subsumption of method org.mockito.internal.debugging.VerboseMockInvocationLogger.printReturnedValueOrThrowable  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/mockito/internal/debugging/VerboseMockInvocationLogger/printStubInfo:
+## nodes: 4
+## edges: 4
+## DUAs: 4
+## Subsumed DUAs: 4
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.debugging.VerboseMockInvocationLogger.printStubInfo,4,4,4,4,100.0,0,1
+
+
+#org/mockito/internal/debugging/VerboseMockInvocationLogger/printStubInfo:
+Local DUA-Edge subsumption of method org.mockito.internal.debugging.VerboseMockInvocationLogger.printStubInfo  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/mockito/internal/debugging/LocationImpl/toString:
+## nodes: 4
+## edges: 4
+## DUAs: 3
+## Subsumed DUAs: 3
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.debugging.LocationImpl.toString,4,4,3,3,100.0,0,1
+
+
+#org/mockito/internal/debugging/LocationImpl/toString:
+Local DUA-Edge subsumption of method org.mockito.internal.debugging.LocationImpl.toString  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/mockito/internal/exceptions/util/ScenarioPrinter/print:
+## nodes: 9
+## edges: 11
+## DUAs: 12
+## Subsumed DUAs: 11
+## Edge DUA coverage: 91.66666666666666
+@@ org.mockito.internal.exceptions.util.ScenarioPrinter.print,9,11,12,11,91.66666666666666,0,0
+
+
+#org/mockito/internal/exceptions/util/ScenarioPrinter/print:
+Local DUA-Edge subsumption of method org.mockito.internal.exceptions.util.ScenarioPrinter.print  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/exceptions/stacktrace/StackTraceFilter/filter:
+## nodes: 13
+## edges: 17
+## DUAs: 38
+## Subsumed DUAs: 13
+## Edge DUA coverage: 34.21052631578947
+@@ org.mockito.internal.exceptions.stacktrace.StackTraceFilter.filter,13,17,38,13,34.21052631578947,0,1
+
+
+#org/mockito/internal/exceptions/stacktrace/StackTraceFilter/filter:
+Local DUA-Edge subsumption of method org.mockito.internal.exceptions.stacktrace.StackTraceFilter.filter  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/mockito/internal/exceptions/stacktrace/ConditionalStackTraceFilter/filter:
+## nodes: 4
+## edges: 4
+## DUAs: 7
+## Subsumed DUAs: 7
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.exceptions.stacktrace.ConditionalStackTraceFilter.filter,4,4,7,7,100.0,0,1
+
+
+#org/mockito/internal/exceptions/stacktrace/ConditionalStackTraceFilter/filter:
+Local DUA-Edge subsumption of method org.mockito.internal.exceptions.stacktrace.ConditionalStackTraceFilter.filter  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/mockito/internal/exceptions/stacktrace/DefaultStackTraceCleaner/isOut:
+## nodes: 9
+## edges: 13
+## DUAs: 10
+## Subsumed DUAs: 10
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.exceptions.stacktrace.DefaultStackTraceCleaner.isOut,9,13,10,10,100.0,0,0
+
+
+#org/mockito/internal/exceptions/stacktrace/DefaultStackTraceCleaner/isOut:
+Local DUA-Edge subsumption of method org.mockito.internal.exceptions.stacktrace.DefaultStackTraceCleaner.isOut  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/verification/AtLeast/<init>:
+## nodes: 4
+## edges: 4
+## DUAs: 4
+## Subsumed DUAs: 4
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.verification.AtLeast.<init>,4,4,4,4,100.0,0,0
+
+
+#org/mockito/internal/verification/AtLeast/<init>:
+Local DUA-Edge subsumption of method org.mockito.internal.verification.AtLeast.<init>  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/verification/AtLeast/verify:
+## nodes: 4
+## edges: 4
+## DUAs: 10
+## Subsumed DUAs: 10
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.verification.AtLeast.verify,4,4,10,10,100.0,0,0
+
+
+#org/mockito/internal/verification/AtLeast/verify:
+Local DUA-Edge subsumption of method org.mockito.internal.verification.AtLeast.verify  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/verification/AtLeast/verifyInOrder:
+## nodes: 4
+## edges: 4
+## DUAs: 14
+## Subsumed DUAs: 14
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.verification.AtLeast.verifyInOrder,4,4,14,14,100.0,0,0
+
+
+#org/mockito/internal/verification/AtLeast/verifyInOrder:
+Local DUA-Edge subsumption of method org.mockito.internal.verification.AtLeast.verifyInOrder  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/verification/Times/<init>:
+## nodes: 4
+## edges: 4
+## DUAs: 4
+## Subsumed DUAs: 4
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.verification.Times.<init>,4,4,4,4,100.0,0,0
+
+
+#org/mockito/internal/verification/Times/<init>:
+Local DUA-Edge subsumption of method org.mockito.internal.verification.Times.<init>  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/verification/Times/verify:
+## nodes: 4
+## edges: 4
+## DUAs: 8
+## Subsumed DUAs: 8
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.verification.Times.verify,4,4,8,8,100.0,0,0
+
+
+#org/mockito/internal/verification/Times/verify:
+Local DUA-Edge subsumption of method org.mockito.internal.verification.Times.verify  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/verification/Times/verifyInOrder:
+## nodes: 4
+## edges: 4
+## DUAs: 13
+## Subsumed DUAs: 13
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.verification.Times.verifyInOrder,4,4,13,13,100.0,0,0
+
+
+#org/mockito/internal/verification/Times/verifyInOrder:
+Local DUA-Edge subsumption of method org.mockito.internal.verification.Times.verifyInOrder  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/verification/VerificationOverTimeImpl/verify:
+## nodes: 9
+## edges: 11
+## DUAs: 17
+## Subsumed DUAs: 11
+## Edge DUA coverage: 64.70588235294117
+@@ org.mockito.internal.verification.VerificationOverTimeImpl.verify,9,11,17,11,64.70588235294117,0,0
+
+
+#org/mockito/internal/verification/VerificationOverTimeImpl/verify:
+Local DUA-Edge subsumption of method org.mockito.internal.verification.VerificationOverTimeImpl.verify  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/verification/VerificationOverTimeImpl/handleVerifyException:
+## nodes: 4
+## edges: 4
+## DUAs: 8
+## Subsumed DUAs: 8
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.verification.VerificationOverTimeImpl.handleVerifyException,4,4,8,8,100.0,0,0
+
+
+#org/mockito/internal/verification/VerificationOverTimeImpl/handleVerifyException:
+Local DUA-Edge subsumption of method org.mockito.internal.verification.VerificationOverTimeImpl.handleVerifyException  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/verification/VerificationOverTimeImpl/canRecoverFromFailure:
+## nodes: 6
+## edges: 7
+## DUAs: 4
+## Subsumed DUAs: 4
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.verification.VerificationOverTimeImpl.canRecoverFromFailure,6,7,4,4,100.0,0,1
+
+
+#org/mockito/internal/verification/VerificationOverTimeImpl/canRecoverFromFailure:
+Local DUA-Edge subsumption of method org.mockito.internal.verification.VerificationOverTimeImpl.canRecoverFromFailure  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/mockito/internal/verification/NoMoreInteractions/verify:
+## nodes: 4
+## edges: 4
+## DUAs: 4
+## Subsumed DUAs: 4
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.verification.NoMoreInteractions.verify,4,4,4,4,100.0,0,0
+
+
+#org/mockito/internal/verification/NoMoreInteractions/verify:
+Local DUA-Edge subsumption of method org.mockito.internal.verification.NoMoreInteractions.verify  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/verification/NoMoreInteractions/verifyInOrder:
+## nodes: 4
+## edges: 4
+## DUAs: 3
+## Subsumed DUAs: 3
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.verification.NoMoreInteractions.verifyInOrder,4,4,3,3,100.0,0,0
+
+
+#org/mockito/internal/verification/NoMoreInteractions/verifyInOrder:
+Local DUA-Edge subsumption of method org.mockito.internal.verification.NoMoreInteractions.verifyInOrder  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/verification/VerificationDataImpl/assertWantedIsVerifiable:
+## nodes: 6
+## edges: 7
+## DUAs: 10
+## Subsumed DUAs: 10
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.verification.VerificationDataImpl.assertWantedIsVerifiable,6,7,10,10,100.0,0,0
+
+
+#org/mockito/internal/verification/VerificationDataImpl/assertWantedIsVerifiable:
+Local DUA-Edge subsumption of method org.mockito.internal.verification.VerificationDataImpl.assertWantedIsVerifiable  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/verification/AtMost/<init>:
+## nodes: 4
+## edges: 4
+## DUAs: 4
+## Subsumed DUAs: 4
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.verification.AtMost.<init>,4,4,4,4,100.0,0,0
+
+
+#org/mockito/internal/verification/AtMost/<init>:
+Local DUA-Edge subsumption of method org.mockito.internal.verification.AtMost.<init>  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/verification/AtMost/verify:
+## nodes: 4
+## edges: 4
+## DUAs: 13
+## Subsumed DUAs: 13
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.verification.AtMost.verify,4,4,13,13,100.0,0,0
+
+
+#org/mockito/internal/verification/AtMost/verify:
+Local DUA-Edge subsumption of method org.mockito.internal.verification.AtMost.verify  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/verification/Calls/<init>:
+## nodes: 4
+## edges: 4
+## DUAs: 4
+## Subsumed DUAs: 4
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.verification.Calls.<init>,4,4,4,4,100.0,0,0
+
+
+#org/mockito/internal/verification/Calls/<init>:
+Local DUA-Edge subsumption of method org.mockito.internal.verification.Calls.<init>  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/verification/Only/verify:
+## nodes: 8
+## edges: 11
+## DUAs: 19
+## Subsumed DUAs: 19
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.verification.Only.verify,8,11,19,19,100.0,0,1
+
+
+#org/mockito/internal/verification/Only/verify:
+Local DUA-Edge subsumption of method org.mockito.internal.verification.Only.verify  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/mockito/internal/verification/SingleRegisteredInvocation/isEmpty:
+## nodes: 5
+## edges: 5
+## DUAs: 4
+## Subsumed DUAs: 4
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.verification.SingleRegisteredInvocation.isEmpty,5,5,4,4,100.0,0,1
+
+
+#org/mockito/internal/verification/SingleRegisteredInvocation/isEmpty:
+Local DUA-Edge subsumption of method org.mockito.internal.verification.SingleRegisteredInvocation.isEmpty  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/mockito/internal/verification/DefaultRegisteredInvocations/removeLast:
+## nodes: 4
+## edges: 4
+## DUAs: 6
+## Subsumed DUAs: 6
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.verification.DefaultRegisteredInvocations.removeLast,4,4,6,6,100.0,0,0
+
+
+#org/mockito/internal/verification/DefaultRegisteredInvocations/removeLast:
+Local DUA-Edge subsumption of method org.mockito.internal.verification.DefaultRegisteredInvocations.removeLast  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/verification/checkers/NumberOfInvocationsChecker/check:
+## nodes: 9
+## edges: 12
+## DUAs: 34
+## Subsumed DUAs: 34
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.verification.checkers.NumberOfInvocationsChecker.check,9,12,34,34,100.0,0,1
+
+
+#org/mockito/internal/verification/checkers/NumberOfInvocationsChecker/check:
+Local DUA-Edge subsumption of method org.mockito.internal.verification.checkers.NumberOfInvocationsChecker.check  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/mockito/internal/verification/checkers/MissingInvocationChecker/check:
+## nodes: 6
+## edges: 7
+## DUAs: 16
+## Subsumed DUAs: 16
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.verification.checkers.MissingInvocationChecker.check,6,7,16,16,100.0,0,0
+
+
+#org/mockito/internal/verification/checkers/MissingInvocationChecker/check:
+Local DUA-Edge subsumption of method org.mockito.internal.verification.checkers.MissingInvocationChecker.check  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/verification/checkers/AtLeastXNumberOfInvocationsChecker/check:
+## nodes: 4
+## edges: 4
+## DUAs: 15
+## Subsumed DUAs: 15
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.verification.checkers.AtLeastXNumberOfInvocationsChecker.check,4,4,15,15,100.0,0,0
+
+
+#org/mockito/internal/verification/checkers/AtLeastXNumberOfInvocationsChecker/check:
+Local DUA-Edge subsumption of method org.mockito.internal.verification.checkers.AtLeastXNumberOfInvocationsChecker.check  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/verification/checkers/AtLeastXNumberOfInvocationsInOrderChecker/check:
+## nodes: 4
+## edges: 4
+## DUAs: 16
+## Subsumed DUAs: 16
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.verification.checkers.AtLeastXNumberOfInvocationsInOrderChecker.check,4,4,16,16,100.0,0,0
+
+
+#org/mockito/internal/verification/checkers/AtLeastXNumberOfInvocationsInOrderChecker/check:
+Local DUA-Edge subsumption of method org.mockito.internal.verification.checkers.AtLeastXNumberOfInvocationsInOrderChecker.check  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/verification/checkers/NumberOfInvocationsInOrderChecker/check:
+## nodes: 6
+## edges: 7
+## DUAs: 26
+## Subsumed DUAs: 26
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.verification.checkers.NumberOfInvocationsInOrderChecker.check,6,7,26,26,100.0,0,0
+
+
+#org/mockito/internal/verification/checkers/NumberOfInvocationsInOrderChecker/check:
+Local DUA-Edge subsumption of method org.mockito.internal.verification.checkers.NumberOfInvocationsInOrderChecker.check  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/verification/checkers/MissingInvocationInOrderChecker/check:
+## nodes: 12
+## edges: 16
+## DUAs: 33
+## Subsumed DUAs: 33
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.verification.checkers.MissingInvocationInOrderChecker.check,12,16,33,33,100.0,0,0
+
+
+#org/mockito/internal/verification/checkers/MissingInvocationInOrderChecker/check:
+Local DUA-Edge subsumption of method org.mockito.internal.verification.checkers.MissingInvocationInOrderChecker.check  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/verification/checkers/NonGreedyNumberOfInvocationsInOrderChecker/check:
+## nodes: 7
+## edges: 8
+## DUAs: 28
+## Subsumed DUAs: 20
+## Edge DUA coverage: 71.42857142857143
+@@ org.mockito.internal.verification.checkers.NonGreedyNumberOfInvocationsInOrderChecker.check,7,8,28,20,71.42857142857143,0,1
+
+
+#org/mockito/internal/verification/checkers/NonGreedyNumberOfInvocationsInOrderChecker/check:
+Local DUA-Edge subsumption of method org.mockito.internal.verification.checkers.NonGreedyNumberOfInvocationsInOrderChecker.check  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/mockito/internal/verification/argumentmatching/ArgumentMatchingTool/getSuspiciouslyNotMatchingArgsIndexes:
+## nodes: 12
+## edges: 17
+## DUAs: 41
+## Subsumed DUAs: 26
+## Edge DUA coverage: 63.41463414634146
+@@ org.mockito.internal.verification.argumentmatching.ArgumentMatchingTool.getSuspiciouslyNotMatchingArgsIndexes,12,17,41,26,63.41463414634146,0,1
+
+
+#org/mockito/internal/verification/argumentmatching/ArgumentMatchingTool/getSuspiciouslyNotMatchingArgsIndexes:
+Local DUA-Edge subsumption of method org.mockito.internal.verification.argumentmatching.ArgumentMatchingTool.getSuspiciouslyNotMatchingArgsIndexes  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/mockito/internal/verification/argumentmatching/ArgumentMatchingTool/toStringEquals:
+## nodes: 5
+## edges: 5
+## DUAs: 4
+## Subsumed DUAs: 4
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.verification.argumentmatching.ArgumentMatchingTool.toStringEquals,5,5,4,4,100.0,0,0
+
+
+#org/mockito/internal/verification/argumentmatching/ArgumentMatchingTool/toStringEquals:
+Local DUA-Edge subsumption of method org.mockito.internal.verification.argumentmatching.ArgumentMatchingTool.toStringEquals  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/creation/DelegatingMethod/<init>:
+## nodes: 5
+## edges: 6
+## DUAs: 6
+## Subsumed DUAs: 6
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.creation.DelegatingMethod.<init>,5,6,6,6,100.0,0,0
+
+
+#org/mockito/internal/creation/DelegatingMethod/<init>:
+Local DUA-Edge subsumption of method org.mockito.internal.creation.DelegatingMethod.<init>  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/creation/DelegatingMethod/isAbstract:
+## nodes: 5
+## edges: 5
+## DUAs: 4
+## Subsumed DUAs: 4
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.creation.DelegatingMethod.isAbstract,5,5,4,4,100.0,0,0
+
+
+#org/mockito/internal/creation/DelegatingMethod/isAbstract:
+Local DUA-Edge subsumption of method org.mockito.internal.creation.DelegatingMethod.isAbstract  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/creation/DelegatingMethod/equals:
+## nodes: 6
+## edges: 7
+## DUAs: 12
+## Subsumed DUAs: 12
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.creation.DelegatingMethod.equals,6,7,12,12,100.0,0,0
+
+
+#org/mockito/internal/creation/DelegatingMethod/equals:
+Local DUA-Edge subsumption of method org.mockito.internal.creation.DelegatingMethod.equals  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/creation/MockSettingsImpl/extraInterfaces:
+## nodes: 12
+## edges: 16
+## DUAs: 12
+## Subsumed DUAs: 12
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.creation.MockSettingsImpl.extraInterfaces,12,16,12,12,100.0,0,1
+
+
+#org/mockito/internal/creation/MockSettingsImpl/extraInterfaces:
+Local DUA-Edge subsumption of method org.mockito.internal.creation.MockSettingsImpl.extraInterfaces  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/mockito/internal/creation/MockSettingsImpl/defaultAnswer:
+## nodes: 4
+## edges: 4
+## DUAs: 3
+## Subsumed DUAs: 3
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.creation.MockSettingsImpl.defaultAnswer,4,4,3,3,100.0,0,1
+
+
+#org/mockito/internal/creation/MockSettingsImpl/defaultAnswer:
+Local DUA-Edge subsumption of method org.mockito.internal.creation.MockSettingsImpl.defaultAnswer  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/mockito/internal/creation/MockSettingsImpl/verboseLogging:
+## nodes: 4
+## edges: 4
+## DUAs: 4
+## Subsumed DUAs: 4
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.creation.MockSettingsImpl.verboseLogging,4,4,4,4,100.0,0,0
+
+
+#org/mockito/internal/creation/MockSettingsImpl/verboseLogging:
+Local DUA-Edge subsumption of method org.mockito.internal.creation.MockSettingsImpl.verboseLogging  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/creation/MockSettingsImpl/invocationListeners:
+## nodes: 10
+## edges: 13
+## DUAs: 11
+## Subsumed DUAs: 11
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.creation.MockSettingsImpl.invocationListeners,10,13,11,11,100.0,0,1
+
+
+#org/mockito/internal/creation/MockSettingsImpl/invocationListeners:
+Local DUA-Edge subsumption of method org.mockito.internal.creation.MockSettingsImpl.invocationListeners  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/mockito/internal/creation/MockSettingsImpl/invocationListenersContainsType:
+## nodes: 7
+## edges: 8
+## DUAs: 4
+## Subsumed DUAs: 4
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.creation.MockSettingsImpl.invocationListenersContainsType,7,8,4,4,100.0,0,0
+
+
+#org/mockito/internal/creation/MockSettingsImpl/invocationListenersContainsType:
+Local DUA-Edge subsumption of method org.mockito.internal.creation.MockSettingsImpl.invocationListenersContainsType  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/creation/MockSettingsImpl/hasInvocationListeners:
+## nodes: 5
+## edges: 5
+## DUAs: 4
+## Subsumed DUAs: 4
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.creation.MockSettingsImpl.hasInvocationListeners,5,5,4,4,100.0,0,0
+
+
+#org/mockito/internal/creation/MockSettingsImpl/hasInvocationListeners:
+Local DUA-Edge subsumption of method org.mockito.internal.creation.MockSettingsImpl.hasInvocationListeners  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/creation/MockSettingsImpl/prepareExtraInterfaces:
+## nodes: 4
+## edges: 4
+## DUAs: 4
+## Subsumed DUAs: 4
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.creation.MockSettingsImpl.prepareExtraInterfaces,4,4,4,4,100.0,0,0
+
+
+#org/mockito/internal/creation/MockSettingsImpl/prepareExtraInterfaces:
+Local DUA-Edge subsumption of method org.mockito.internal.creation.MockSettingsImpl.prepareExtraInterfaces  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/creation/settings/CreationSettings/isSerializable:
+## nodes: 5
+## edges: 5
+## DUAs: 6
+## Subsumed DUAs: 6
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.creation.settings.CreationSettings.isSerializable,5,5,6,6,100.0,0,0
+
+
+#org/mockito/internal/creation/settings/CreationSettings/isSerializable:
+Local DUA-Edge subsumption of method org.mockito.internal.creation.settings.CreationSettings.isSerializable  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/creation/bytebuddy/CachingMockBytecodeGenerator/mockCachePerClassLoaderOf:
+## nodes: 4
+## edges: 4
+## DUAs: 13
+## Subsumed DUAs: 13
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.creation.bytebuddy.CachingMockBytecodeGenerator.mockCachePerClassLoaderOf,4,4,13,13,100.0,0,1
+
+
+#org/mockito/internal/creation/bytebuddy/CachingMockBytecodeGenerator/mockCachePerClassLoaderOf:
+Local DUA-Edge subsumption of method org.mockito.internal.creation.bytebuddy.CachingMockBytecodeGenerator.mockCachePerClassLoaderOf  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/mockito/internal/creation/bytebuddy/ByteBuddyCrossClassLoaderSerializationSupport/writeReplace:
+## nodes: 4
+## edges: 4
+## DUAs: 8
+## Subsumed DUAs: 8
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.creation.bytebuddy.ByteBuddyCrossClassLoaderSerializationSupport.writeReplace,4,4,8,8,100.0,0,1
+
+
+#org/mockito/internal/creation/bytebuddy/ByteBuddyCrossClassLoaderSerializationSupport/writeReplace:
+Local DUA-Edge subsumption of method org.mockito.internal.creation.bytebuddy.ByteBuddyCrossClassLoaderSerializationSupport.writeReplace  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/mockito/internal/creation/bytebuddy/CachingMockBytecodeGenerator$CachedBytecodeGenerator$MockKey/<init>:
+## nodes: 5
+## edges: 5
+## DUAs: 5
+## Subsumed DUAs: 5
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.creation.bytebuddy.CachingMockBytecodeGenerator$CachedBytecodeGenerator$MockKey.<init>,5,5,5,5,100.0,0,0
+
+
+#org/mockito/internal/creation/bytebuddy/CachingMockBytecodeGenerator$CachedBytecodeGenerator$MockKey/<init>:
+Local DUA-Edge subsumption of method org.mockito.internal.creation.bytebuddy.CachingMockBytecodeGenerator$CachedBytecodeGenerator$MockKey.<init>  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/creation/bytebuddy/CachingMockBytecodeGenerator$CachedBytecodeGenerator$MockKey/equals:
+## nodes: 11
+## edges: 15
+## DUAs: 27
+## Subsumed DUAs: 27
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.creation.bytebuddy.CachingMockBytecodeGenerator$CachedBytecodeGenerator$MockKey.equals,11,15,27,27,100.0,0,0
+
+
+#org/mockito/internal/creation/bytebuddy/CachingMockBytecodeGenerator$CachedBytecodeGenerator$MockKey/equals:
+Local DUA-Edge subsumption of method org.mockito.internal.creation.bytebuddy.CachingMockBytecodeGenerator$CachedBytecodeGenerator$MockKey.equals  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/creation/bytebuddy/ByteBuddyCrossClassLoaderSerializationSupport$MockitoMockObjectInputStream/resolveClass:
+## nodes: 4
+## edges: 4
+## DUAs: 8
+## Subsumed DUAs: 8
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.creation.bytebuddy.ByteBuddyCrossClassLoaderSerializationSupport$MockitoMockObjectInputStream.resolveClass,4,4,8,8,100.0,0,1
+
+
+#org/mockito/internal/creation/bytebuddy/ByteBuddyCrossClassLoaderSerializationSupport$MockitoMockObjectInputStream/resolveClass:
+Local DUA-Edge subsumption of method org.mockito.internal.creation.bytebuddy.ByteBuddyCrossClassLoaderSerializationSupport$MockitoMockObjectInputStream.resolveClass  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/mockito/internal/creation/bytebuddy/ByteBuddyCrossClassLoaderSerializationSupport$MockitoMockObjectInputStream/notMarkedAsAMockitoMock:
+## nodes: 5
+## edges: 5
+## DUAs: 2
+## Subsumed DUAs: 2
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.creation.bytebuddy.ByteBuddyCrossClassLoaderSerializationSupport$MockitoMockObjectInputStream.notMarkedAsAMockitoMock,5,5,2,2,100.0,0,0
+
+
+#org/mockito/internal/creation/bytebuddy/ByteBuddyCrossClassLoaderSerializationSupport$MockitoMockObjectInputStream/notMarkedAsAMockitoMock:
+Local DUA-Edge subsumption of method org.mockito.internal.creation.bytebuddy.ByteBuddyCrossClassLoaderSerializationSupport$MockitoMockObjectInputStream.notMarkedAsAMockitoMock  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/creation/bytebuddy/ByteBuddyCrossClassLoaderSerializationSupport$MockitoMockObjectOutputStream/mockitoProxyClassMarker:
+## nodes: 4
+## edges: 4
+## DUAs: 2
+## Subsumed DUAs: 2
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.creation.bytebuddy.ByteBuddyCrossClassLoaderSerializationSupport$MockitoMockObjectOutputStream.mockitoProxyClassMarker,4,4,2,2,100.0,0,0
+
+
+#org/mockito/internal/creation/bytebuddy/ByteBuddyCrossClassLoaderSerializationSupport$MockitoMockObjectOutputStream/mockitoProxyClassMarker:
+Local DUA-Edge subsumption of method org.mockito.internal.creation.bytebuddy.ByteBuddyCrossClassLoaderSerializationSupport$MockitoMockObjectOutputStream.mockitoProxyClassMarker  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/creation/bytebuddy/InterceptedInvocation/isVerified:
+## nodes: 6
+## edges: 7
+## DUAs: 8
+## Subsumed DUAs: 8
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.creation.bytebuddy.InterceptedInvocation.isVerified,6,7,8,8,100.0,0,0
+
+
+#org/mockito/internal/creation/bytebuddy/InterceptedInvocation/isVerified:
+Local DUA-Edge subsumption of method org.mockito.internal.creation.bytebuddy.InterceptedInvocation.isVerified  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/creation/bytebuddy/InterceptedInvocation/callRealMethod:
+## nodes: 4
+## edges: 4
+## DUAs: 6
+## Subsumed DUAs: 6
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.creation.bytebuddy.InterceptedInvocation.callRealMethod,4,4,6,6,100.0,0,0
+
+
+#org/mockito/internal/creation/bytebuddy/InterceptedInvocation/callRealMethod:
+Local DUA-Edge subsumption of method org.mockito.internal.creation.bytebuddy.InterceptedInvocation.callRealMethod  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/creation/bytebuddy/InterceptedInvocation/equals:
+## nodes: 10
+## edges: 14
+## DUAs: 29
+## Subsumed DUAs: 29
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.creation.bytebuddy.InterceptedInvocation.equals,10,14,29,29,100.0,0,0
+
+
+#org/mockito/internal/creation/bytebuddy/InterceptedInvocation/equals:
+Local DUA-Edge subsumption of method org.mockito.internal.creation.bytebuddy.InterceptedInvocation.equals  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/creation/bytebuddy/CachingMockBytecodeGenerator$CachedBytecodeGenerator/getOrGenerateMockClass:
+## nodes: 6
+## edges: 7
+## DUAs: 15
+## Subsumed DUAs: 8
+## Edge DUA coverage: 53.333333333333336
+@@ org.mockito.internal.creation.bytebuddy.CachingMockBytecodeGenerator$CachedBytecodeGenerator.getOrGenerateMockClass,6,7,15,8,53.333333333333336,0,1
+
+
+#org/mockito/internal/creation/bytebuddy/CachingMockBytecodeGenerator$CachedBytecodeGenerator/getOrGenerateMockClass:
+Local DUA-Edge subsumption of method org.mockito.internal.creation.bytebuddy.CachingMockBytecodeGenerator$CachedBytecodeGenerator.getOrGenerateMockClass  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/mockito/internal/creation/bytebuddy/CachingMockBytecodeGenerator$CachedBytecodeGenerator/prettifyFailure:
+## nodes: 4
+## edges: 4
+## DUAs: 10
+## Subsumed DUAs: 10
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.creation.bytebuddy.CachingMockBytecodeGenerator$CachedBytecodeGenerator.prettifyFailure,4,4,10,10,100.0,0,0
+
+
+#org/mockito/internal/creation/bytebuddy/CachingMockBytecodeGenerator$CachedBytecodeGenerator/prettifyFailure:
+Local DUA-Edge subsumption of method org.mockito.internal.creation.bytebuddy.CachingMockBytecodeGenerator$CachedBytecodeGenerator.prettifyFailure  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/creation/bytebuddy/MockMethodInterceptor/createMockitoMethod:
+## nodes: 4
+## edges: 4
+## DUAs: 6
+## Subsumed DUAs: 6
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.creation.bytebuddy.MockMethodInterceptor.createMockitoMethod,4,4,6,6,100.0,0,0
+
+
+#org/mockito/internal/creation/bytebuddy/MockMethodInterceptor/createMockitoMethod:
+Local DUA-Edge subsumption of method org.mockito.internal.creation.bytebuddy.MockMethodInterceptor.createMockitoMethod  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/creation/bytebuddy/MockBytecodeGenerator/generateMockClass:
+## nodes: 7
+## edges: 8
+## DUAs: 15
+## Subsumed DUAs: 12
+## Edge DUA coverage: 80.0
+@@ org.mockito.internal.creation.bytebuddy.MockBytecodeGenerator.generateMockClass,7,8,15,12,80.0,0,0
+
+
+#org/mockito/internal/creation/bytebuddy/MockBytecodeGenerator/generateMockClass:
+Local DUA-Edge subsumption of method org.mockito.internal.creation.bytebuddy.MockBytecodeGenerator.generateMockClass  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/creation/bytebuddy/MockBytecodeGenerator/nameFor:
+## nodes: 6
+## edges: 8
+## DUAs: 17
+## Subsumed DUAs: 16
+## Edge DUA coverage: 94.11764705882352
+@@ org.mockito.internal.creation.bytebuddy.MockBytecodeGenerator.nameFor,6,8,17,16,94.11764705882352,0,0
+
+
+#org/mockito/internal/creation/bytebuddy/MockBytecodeGenerator/nameFor:
+Local DUA-Edge subsumption of method org.mockito.internal.creation.bytebuddy.MockBytecodeGenerator.nameFor  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/creation/bytebuddy/MockBytecodeGenerator/isComingFromJDK:
+## nodes: 8
+## edges: 11
+## DUAs: 8
+## Subsumed DUAs: 8
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.creation.bytebuddy.MockBytecodeGenerator.isComingFromJDK,8,11,8,8,100.0,0,0
+
+
+#org/mockito/internal/creation/bytebuddy/MockBytecodeGenerator/isComingFromJDK:
+Local DUA-Edge subsumption of method org.mockito.internal.creation.bytebuddy.MockBytecodeGenerator.isComingFromJDK  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/creation/bytebuddy/MockBytecodeGenerator/isComingFromSealedPackage:
+## nodes: 6
+## edges: 7
+## DUAs: 4
+## Subsumed DUAs: 4
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.creation.bytebuddy.MockBytecodeGenerator.isComingFromSealedPackage,6,7,4,4,100.0,0,0
+
+
+#org/mockito/internal/creation/bytebuddy/MockBytecodeGenerator/isComingFromSealedPackage:
+Local DUA-Edge subsumption of method org.mockito.internal.creation.bytebuddy.MockBytecodeGenerator.isComingFromSealedPackage  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/creation/bytebuddy/MockBytecodeGenerator/isComingFromSignedJar:
+## nodes: 5
+## edges: 5
+## DUAs: 2
+## Subsumed DUAs: 2
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.creation.bytebuddy.MockBytecodeGenerator.isComingFromSignedJar,5,5,2,2,100.0,0,0
+
+
+#org/mockito/internal/creation/bytebuddy/MockBytecodeGenerator/isComingFromSignedJar:
+Local DUA-Edge subsumption of method org.mockito.internal.creation.bytebuddy.MockBytecodeGenerator.isComingFromSignedJar  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/creation/bytebuddy/MockMethodInterceptor$ForEquals/doIdentityEquals:
+## nodes: 5
+## edges: 5
+## DUAs: 4
+## Subsumed DUAs: 4
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.creation.bytebuddy.MockMethodInterceptor$ForEquals.doIdentityEquals,5,5,4,4,100.0,0,0
+
+
+#org/mockito/internal/creation/bytebuddy/MockMethodInterceptor$ForEquals/doIdentityEquals:
+Local DUA-Edge subsumption of method org.mockito.internal.creation.bytebuddy.MockMethodInterceptor$ForEquals.doIdentityEquals  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/creation/bytebuddy/ByteBuddyMockMaker/mockWithFeaturesFrom:
+## nodes: 5
+## edges: 5
+## DUAs: 5
+## Subsumed DUAs: 5
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.creation.bytebuddy.ByteBuddyMockMaker.mockWithFeaturesFrom,5,5,5,5,100.0,0,0
+
+
+#org/mockito/internal/creation/bytebuddy/ByteBuddyMockMaker/mockWithFeaturesFrom:
+Local DUA-Edge subsumption of method org.mockito.internal.creation.bytebuddy.ByteBuddyMockMaker.mockWithFeaturesFrom  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/creation/bytebuddy/ByteBuddyMockMaker/describeClass:
+## nodes: 5
+## edges: 5
+## DUAs: 3
+## Subsumed DUAs: 3
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.creation.bytebuddy.ByteBuddyMockMaker.describeClass,5,5,3,3,100.0,0,1
+
+
+#org/mockito/internal/creation/bytebuddy/ByteBuddyMockMaker/describeClass:
+Local DUA-Edge subsumption of method org.mockito.internal.creation.bytebuddy.ByteBuddyMockMaker.describeClass  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/mockito/internal/creation/bytebuddy/ByteBuddyMockMaker/describeClass:
+## nodes: 5
+## edges: 5
+## DUAs: 3
+## Subsumed DUAs: 3
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.creation.bytebuddy.ByteBuddyMockMaker.describeClass,5,5,3,3,100.0,0,0
+
+
+#org/mockito/internal/creation/bytebuddy/ByteBuddyMockMaker/describeClass:
+Local DUA-Edge subsumption of method org.mockito.internal.creation.bytebuddy.ByteBuddyMockMaker.describeClass  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/creation/bytebuddy/ByteBuddyMockMaker/getHandler:
+## nodes: 4
+## edges: 4
+## DUAs: 3
+## Subsumed DUAs: 3
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.creation.bytebuddy.ByteBuddyMockMaker.getHandler,4,4,3,3,100.0,0,0
+
+
+#org/mockito/internal/creation/bytebuddy/ByteBuddyMockMaker/getHandler:
+Local DUA-Edge subsumption of method org.mockito.internal.creation.bytebuddy.ByteBuddyMockMaker.getHandler  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/creation/bytebuddy/ByteBuddyMockMaker/asInternalMockHandler:
+## nodes: 4
+## edges: 4
+## DUAs: 3
+## Subsumed DUAs: 3
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.creation.bytebuddy.ByteBuddyMockMaker.asInternalMockHandler,4,4,3,3,100.0,0,0
+
+
+#org/mockito/internal/creation/bytebuddy/ByteBuddyMockMaker/asInternalMockHandler:
+Local DUA-Edge subsumption of method org.mockito.internal.creation.bytebuddy.ByteBuddyMockMaker.asInternalMockHandler  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/creation/util/SearchingClassLoader/combineLoadersOf:
+## nodes: 5
+## edges: 5
+## DUAs: 2
+## Subsumed DUAs: 2
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.creation.util.SearchingClassLoader.combineLoadersOf,5,5,2,2,100.0,0,0
+
+
+#org/mockito/internal/creation/util/SearchingClassLoader/combineLoadersOf:
+Local DUA-Edge subsumption of method org.mockito.internal.creation.util.SearchingClassLoader.combineLoadersOf  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/creation/util/SearchingClassLoader/combine:
+## nodes: 5
+## edges: 5
+## DUAs: 11
+## Subsumed DUAs: 4
+## Edge DUA coverage: 36.36363636363637
+@@ org.mockito.internal.creation.util.SearchingClassLoader.combine,5,5,11,4,36.36363636363637,0,1
+
+
+#org/mockito/internal/creation/util/SearchingClassLoader/combine:
+Local DUA-Edge subsumption of method org.mockito.internal.creation.util.SearchingClassLoader.combine  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/mockito/internal/creation/util/SearchingClassLoader/addIfNewElement:
+## nodes: 5
+## edges: 6
+## DUAs: 8
+## Subsumed DUAs: 8
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.creation.util.SearchingClassLoader.addIfNewElement,5,6,8,8,100.0,0,0
+
+
+#org/mockito/internal/creation/util/SearchingClassLoader/addIfNewElement:
+Local DUA-Edge subsumption of method org.mockito.internal.creation.util.SearchingClassLoader.addIfNewElement  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/creation/util/SearchingClassLoader/findClass:
+## nodes: 4
+## edges: 4
+## DUAs: 9
+## Subsumed DUAs: 9
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.creation.util.SearchingClassLoader.findClass,4,4,9,9,100.0,0,0
+
+
+#org/mockito/internal/creation/util/SearchingClassLoader/findClass:
+Local DUA-Edge subsumption of method org.mockito.internal.creation.util.SearchingClassLoader.findClass  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/creation/instance/ConstructorInstantiator/newInstance:
+## nodes: 4
+## edges: 4
+## DUAs: 8
+## Subsumed DUAs: 8
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.creation.instance.ConstructorInstantiator.newInstance,4,4,8,8,100.0,0,0
+
+
+#org/mockito/internal/creation/instance/ConstructorInstantiator/newInstance:
+Local DUA-Edge subsumption of method org.mockito.internal.creation.instance.ConstructorInstantiator.newInstance  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/creation/instance/ConstructorInstantiator/withParams:
+## nodes: 7
+## edges: 8
+## DUAs: 7
+## Subsumed DUAs: 7
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.creation.instance.ConstructorInstantiator.withParams,7,8,7,7,100.0,0,0
+
+
+#org/mockito/internal/creation/instance/ConstructorInstantiator/withParams:
+Local DUA-Edge subsumption of method org.mockito.internal.creation.instance.ConstructorInstantiator.withParams  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/creation/instance/ConstructorInstantiator/paramsMatch:
+## nodes: 9
+## edges: 11
+## DUAs: 20
+## Subsumed DUAs: 13
+## Edge DUA coverage: 65.0
+@@ org.mockito.internal.creation.instance.ConstructorInstantiator.paramsMatch,9,11,20,13,65.0,0,0
+
+
+#org/mockito/internal/creation/instance/ConstructorInstantiator/paramsMatch:
+Local DUA-Edge subsumption of method org.mockito.internal.creation.instance.ConstructorInstantiator.paramsMatch  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/creation/instance/InstantiatorProvider/getInstantiator:
+## nodes: 4
+## edges: 4
+## DUAs: 4
+## Subsumed DUAs: 4
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.creation.instance.InstantiatorProvider.getInstantiator,4,4,4,4,100.0,0,0
+
+
+#org/mockito/internal/creation/instance/InstantiatorProvider/getInstantiator:
+Local DUA-Edge subsumption of method org.mockito.internal.creation.instance.InstantiatorProvider.getInstantiator  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/runners/RunnerFactory/create:
+## nodes: 4
+## edges: 4
+## DUAs: 10
+## Subsumed DUAs: 10
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.runners.RunnerFactory.create,4,4,10,10,100.0,0,0
+
+
+#org/mockito/internal/runners/RunnerFactory/create:
+Local DUA-Edge subsumption of method org.mockito.internal.runners.RunnerFactory.create  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/runners/util/TestMethodsFinder/hasTestMethods:
+## nodes: 7
+## edges: 8
+## DUAs: 2
+## Subsumed DUAs: 2
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.runners.util.TestMethodsFinder.hasTestMethods,7,8,2,2,100.0,0,1
+
+
+#org/mockito/internal/runners/util/TestMethodsFinder/hasTestMethods:
+Local DUA-Edge subsumption of method org.mockito.internal.runners.util.TestMethodsFinder.hasTestMethods  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/mockito/internal/stubbing/BaseStubbing/thenReturn:
+## nodes: 7
+## edges: 8
+## DUAs: 8
+## Subsumed DUAs: 5
+## Edge DUA coverage: 62.5
+@@ org.mockito.internal.stubbing.BaseStubbing.thenReturn,7,8,8,5,62.5,0,0
+
+
+#org/mockito/internal/stubbing/BaseStubbing/thenReturn:
+Local DUA-Edge subsumption of method org.mockito.internal.stubbing.BaseStubbing.thenReturn  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/stubbing/BaseStubbing/thenThrow:
+## nodes: 10
+## edges: 12
+## DUAs: 19
+## Subsumed DUAs: 7
+## Edge DUA coverage: 36.84210526315789
+@@ org.mockito.internal.stubbing.BaseStubbing.thenThrow,10,12,19,7,36.84210526315789,0,1
+
+
+#org/mockito/internal/stubbing/BaseStubbing/thenThrow:
+Local DUA-Edge subsumption of method org.mockito.internal.stubbing.BaseStubbing.thenThrow  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/mockito/internal/stubbing/BaseStubbing/thenThrow:
+## nodes: 10
+## edges: 12
+## DUAs: 19
+## Subsumed DUAs: 7
+## Edge DUA coverage: 36.84210526315789
+@@ org.mockito.internal.stubbing.BaseStubbing.thenThrow,10,12,19,7,36.84210526315789,0,0
+
+
+#org/mockito/internal/stubbing/BaseStubbing/thenThrow:
+Local DUA-Edge subsumption of method org.mockito.internal.stubbing.BaseStubbing.thenThrow  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/stubbing/StubberImpl/when:
+## nodes: 6
+## edges: 7
+## DUAs: 14
+## Subsumed DUAs: 14
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.stubbing.StubberImpl.when,6,7,14,14,100.0,0,0
+
+
+#org/mockito/internal/stubbing/StubberImpl/when:
+Local DUA-Edge subsumption of method org.mockito.internal.stubbing.StubberImpl.when  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/stubbing/InvocationContainerImpl/addAnswer:
+## nodes: 5
+## edges: 5
+## DUAs: 9
+## Subsumed DUAs: 9
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.stubbing.InvocationContainerImpl.addAnswer,5,5,9,9,100.0,0,0
+
+
+#org/mockito/internal/stubbing/InvocationContainerImpl/addAnswer:
+Local DUA-Edge subsumption of method org.mockito.internal.stubbing.InvocationContainerImpl.addAnswer  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/stubbing/InvocationContainerImpl/findAnswerFor:
+## nodes: 7
+## edges: 8
+## DUAs: 6
+## Subsumed DUAs: 6
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.stubbing.InvocationContainerImpl.findAnswerFor,7,8,6,6,100.0,0,0
+
+
+#org/mockito/internal/stubbing/InvocationContainerImpl/findAnswerFor:
+Local DUA-Edge subsumption of method org.mockito.internal.stubbing.InvocationContainerImpl.findAnswerFor  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/stubbing/InvocationContainerImpl/hasAnswersForStubbing:
+## nodes: 5
+## edges: 5
+## DUAs: 4
+## Subsumed DUAs: 4
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.stubbing.InvocationContainerImpl.hasAnswersForStubbing,5,5,4,4,100.0,0,0
+
+
+#org/mockito/internal/stubbing/InvocationContainerImpl/hasAnswersForStubbing:
+Local DUA-Edge subsumption of method org.mockito.internal.stubbing.InvocationContainerImpl.hasAnswersForStubbing  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/stubbing/InvocationContainerImpl/hasInvocationForPotentialStubbing:
+## nodes: 5
+## edges: 5
+## DUAs: 4
+## Subsumed DUAs: 4
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.stubbing.InvocationContainerImpl.hasInvocationForPotentialStubbing,5,5,4,4,100.0,0,1
+
+
+#org/mockito/internal/stubbing/InvocationContainerImpl/hasInvocationForPotentialStubbing:
+Local DUA-Edge subsumption of method org.mockito.internal.stubbing.InvocationContainerImpl.hasInvocationForPotentialStubbing  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/mockito/internal/stubbing/InvocationContainerImpl/setMethodForStubbing:
+## nodes: 11
+## edges: 14
+## DUAs: 22
+## Subsumed DUAs: 14
+## Edge DUA coverage: 63.63636363636363
+@@ org.mockito.internal.stubbing.InvocationContainerImpl.setMethodForStubbing,11,14,22,14,63.63636363636363,0,0
+
+
+#org/mockito/internal/stubbing/InvocationContainerImpl/setMethodForStubbing:
+Local DUA-Edge subsumption of method org.mockito.internal.stubbing.InvocationContainerImpl.setMethodForStubbing  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/stubbing/InvocationContainerImpl/createRegisteredInvocations:
+## nodes: 5
+## edges: 5
+## DUAs: 2
+## Subsumed DUAs: 2
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.stubbing.InvocationContainerImpl.createRegisteredInvocations,5,5,2,2,100.0,0,0
+
+
+#org/mockito/internal/stubbing/InvocationContainerImpl/createRegisteredInvocations:
+Local DUA-Edge subsumption of method org.mockito.internal.stubbing.InvocationContainerImpl.createRegisteredInvocations  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/stubbing/OngoingStubbingImpl/thenAnswer:
+## nodes: 4
+## edges: 4
+## DUAs: 7
+## Subsumed DUAs: 7
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.stubbing.OngoingStubbingImpl.thenAnswer,4,4,7,7,100.0,0,0
+
+
+#org/mockito/internal/stubbing/OngoingStubbingImpl/thenAnswer:
+Local DUA-Edge subsumption of method org.mockito.internal.stubbing.OngoingStubbingImpl.thenAnswer  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/stubbing/StubbedInvocationMatcher/answer:
+## nodes: 5
+## edges: 5
+## DUAs: 7
+## Subsumed DUAs: 7
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.stubbing.StubbedInvocationMatcher.answer,5,5,7,7,100.0,0,0
+
+
+#org/mockito/internal/stubbing/StubbedInvocationMatcher/answer:
+Local DUA-Edge subsumption of method org.mockito.internal.stubbing.StubbedInvocationMatcher.answer  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/stubbing/StubbedInvocationMatcher/wasUsed:
+## nodes: 5
+## edges: 5
+## DUAs: 4
+## Subsumed DUAs: 4
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.stubbing.StubbedInvocationMatcher.wasUsed,5,5,4,4,100.0,0,1
+
+
+#org/mockito/internal/stubbing/StubbedInvocationMatcher/wasUsed:
+Local DUA-Edge subsumption of method org.mockito.internal.stubbing.StubbedInvocationMatcher.wasUsed  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/mockito/internal/stubbing/answers/ClonesArguments/answer:
+## nodes: 5
+## edges: 5
+## DUAs: 10
+## Subsumed DUAs: 6
+## Edge DUA coverage: 60.0
+@@ org.mockito.internal.stubbing.answers.ClonesArguments.answer,5,5,10,6,60.0,0,0
+
+
+#org/mockito/internal/stubbing/answers/ClonesArguments/answer:
+Local DUA-Edge subsumption of method org.mockito.internal.stubbing.answers.ClonesArguments.answer  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/stubbing/answers/MethodInfo/isValidException:
+## nodes: 7
+## edges: 8
+## DUAs: 4
+## Subsumed DUAs: 4
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.stubbing.answers.MethodInfo.isValidException,7,8,4,4,100.0,0,0
+
+
+#org/mockito/internal/stubbing/answers/MethodInfo/isValidException:
+Local DUA-Edge subsumption of method org.mockito.internal.stubbing.answers.MethodInfo.isValidException  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/stubbing/answers/MethodInfo/isValidReturnType:
+## nodes: 8
+## edges: 10
+## DUAs: 15
+## Subsumed DUAs: 15
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.stubbing.answers.MethodInfo.isValidReturnType,8,10,15,15,100.0,0,0
+
+
+#org/mockito/internal/stubbing/answers/MethodInfo/isValidReturnType:
+Local DUA-Edge subsumption of method org.mockito.internal.stubbing.answers.MethodInfo.isValidReturnType  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/stubbing/answers/MethodInfo/isVoid:
+## nodes: 5
+## edges: 5
+## DUAs: 6
+## Subsumed DUAs: 6
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.stubbing.answers.MethodInfo.isVoid,5,5,6,6,100.0,0,0
+
+
+#org/mockito/internal/stubbing/answers/MethodInfo/isVoid:
+Local DUA-Edge subsumption of method org.mockito.internal.stubbing.answers.MethodInfo.isVoid  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/stubbing/answers/MethodInfo/isAbstract:
+## nodes: 5
+## edges: 5
+## DUAs: 4
+## Subsumed DUAs: 4
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.stubbing.answers.MethodInfo.isAbstract,5,5,4,4,100.0,0,0
+
+
+#org/mockito/internal/stubbing/answers/MethodInfo/isAbstract:
+Local DUA-Edge subsumption of method org.mockito.internal.stubbing.answers.MethodInfo.isAbstract  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/stubbing/answers/ThrowsException/answer:
+## nodes: 4
+## edges: 4
+## DUAs: 9
+## Subsumed DUAs: 9
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.stubbing.answers.ThrowsException.answer,4,4,9,9,100.0,0,0
+
+
+#org/mockito/internal/stubbing/answers/ThrowsException/answer:
+Local DUA-Edge subsumption of method org.mockito.internal.stubbing.answers.ThrowsException.answer  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/stubbing/answers/AnswersValidator/validate:
+## nodes: 12
+## edges: 16
+## DUAs: 25
+## Subsumed DUAs: 25
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.stubbing.answers.AnswersValidator.validate,12,16,25,25,100.0,0,0
+
+
+#org/mockito/internal/stubbing/answers/AnswersValidator/validate:
+Local DUA-Edge subsumption of method org.mockito.internal.stubbing.answers.AnswersValidator.validate  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/stubbing/answers/AnswersValidator/validateReturnArgIdentity:
+## nodes: 4
+## edges: 4
+## DUAs: 9
+## Subsumed DUAs: 9
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.stubbing.answers.AnswersValidator.validateReturnArgIdentity,4,4,9,9,100.0,0,0
+
+
+#org/mockito/internal/stubbing/answers/AnswersValidator/validateReturnArgIdentity:
+Local DUA-Edge subsumption of method org.mockito.internal.stubbing.answers.AnswersValidator.validateReturnArgIdentity  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/stubbing/answers/AnswersValidator/validateMockingConcreteClass:
+## nodes: 4
+## edges: 4
+## DUAs: 4
+## Subsumed DUAs: 4
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.stubbing.answers.AnswersValidator.validateMockingConcreteClass,4,4,4,4,100.0,0,0
+
+
+#org/mockito/internal/stubbing/answers/AnswersValidator/validateMockingConcreteClass:
+Local DUA-Edge subsumption of method org.mockito.internal.stubbing.answers.AnswersValidator.validateMockingConcreteClass  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/stubbing/answers/AnswersValidator/validateDoNothing:
+## nodes: 4
+## edges: 4
+## DUAs: 4
+## Subsumed DUAs: 4
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.stubbing.answers.AnswersValidator.validateDoNothing,4,4,4,4,100.0,0,0
+
+
+#org/mockito/internal/stubbing/answers/AnswersValidator/validateDoNothing:
+Local DUA-Edge subsumption of method org.mockito.internal.stubbing.answers.AnswersValidator.validateDoNothing  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/stubbing/answers/AnswersValidator/validateReturnValue:
+## nodes: 10
+## edges: 14
+## DUAs: 22
+## Subsumed DUAs: 22
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.stubbing.answers.AnswersValidator.validateReturnValue,10,14,22,22,100.0,0,1
+
+
+#org/mockito/internal/stubbing/answers/AnswersValidator/validateReturnValue:
+Local DUA-Edge subsumption of method org.mockito.internal.stubbing.answers.AnswersValidator.validateReturnValue  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/mockito/internal/stubbing/answers/AnswersValidator/validateException:
+## nodes: 9
+## edges: 12
+## DUAs: 15
+## Subsumed DUAs: 15
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.stubbing.answers.AnswersValidator.validateException,9,12,15,15,100.0,0,1
+
+
+#org/mockito/internal/stubbing/answers/AnswersValidator/validateException:
+Local DUA-Edge subsumption of method org.mockito.internal.stubbing.answers.AnswersValidator.validateException  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/mockito/internal/stubbing/answers/AnswersValidator/validateDefaultAnswerReturnedValue:
+## nodes: 5
+## edges: 6
+## DUAs: 11
+## Subsumed DUAs: 11
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.stubbing.answers.AnswersValidator.validateDefaultAnswerReturnedValue,5,6,11,11,100.0,0,0
+
+
+#org/mockito/internal/stubbing/answers/AnswersValidator/validateDefaultAnswerReturnedValue:
+Local DUA-Edge subsumption of method org.mockito.internal.stubbing.answers.AnswersValidator.validateDefaultAnswerReturnedValue  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/stubbing/answers/Returns/returnsNull:
+## nodes: 5
+## edges: 5
+## DUAs: 4
+## Subsumed DUAs: 4
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.stubbing.answers.Returns.returnsNull,5,5,4,4,100.0,0,0
+
+
+#org/mockito/internal/stubbing/answers/Returns/returnsNull:
+Local DUA-Edge subsumption of method org.mockito.internal.stubbing.answers.Returns.returnsNull  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/stubbing/answers/ReturnsElementsOf/<init>:
+## nodes: 4
+## edges: 4
+## DUAs: 4
+## Subsumed DUAs: 4
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.stubbing.answers.ReturnsElementsOf.<init>,4,4,4,4,100.0,0,1
+
+
+#org/mockito/internal/stubbing/answers/ReturnsElementsOf/<init>:
+Local DUA-Edge subsumption of method org.mockito.internal.stubbing.answers.ReturnsElementsOf.<init>  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/mockito/internal/stubbing/answers/ReturnsElementsOf/answer:
+## nodes: 4
+## edges: 4
+## DUAs: 8
+## Subsumed DUAs: 8
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.stubbing.answers.ReturnsElementsOf.answer,4,4,8,8,100.0,0,1
+
+
+#org/mockito/internal/stubbing/answers/ReturnsElementsOf/answer:
+Local DUA-Edge subsumption of method org.mockito.internal.stubbing.answers.ReturnsElementsOf.answer  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/mockito/internal/stubbing/answers/ReturnsArgumentAt/actualArgumentPosition:
+## nodes: 5
+## edges: 5
+## DUAs: 4
+## Subsumed DUAs: 4
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.stubbing.answers.ReturnsArgumentAt.actualArgumentPosition,5,5,4,4,100.0,0,0
+
+
+#org/mockito/internal/stubbing/answers/ReturnsArgumentAt/actualArgumentPosition:
+Local DUA-Edge subsumption of method org.mockito.internal.stubbing.answers.ReturnsArgumentAt.actualArgumentPosition  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/stubbing/answers/ReturnsArgumentAt/returningLastArg:
+## nodes: 5
+## edges: 5
+## DUAs: 4
+## Subsumed DUAs: 4
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.stubbing.answers.ReturnsArgumentAt.returningLastArg,5,5,4,4,100.0,0,1
+
+
+#org/mockito/internal/stubbing/answers/ReturnsArgumentAt/returningLastArg:
+Local DUA-Edge subsumption of method org.mockito.internal.stubbing.answers.ReturnsArgumentAt.returningLastArg  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/mockito/internal/stubbing/answers/ReturnsArgumentAt/checkWithinAllowedRange:
+## nodes: 5
+## edges: 6
+## DUAs: 5
+## Subsumed DUAs: 5
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.stubbing.answers.ReturnsArgumentAt.checkWithinAllowedRange,5,6,5,5,100.0,0,0
+
+
+#org/mockito/internal/stubbing/answers/ReturnsArgumentAt/checkWithinAllowedRange:
+Local DUA-Edge subsumption of method org.mockito.internal.stubbing.answers.ReturnsArgumentAt.checkWithinAllowedRange  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/stubbing/answers/ReturnsArgumentAt/validateIndexWithinInvocationRange:
+## nodes: 4
+## edges: 4
+## DUAs: 7
+## Subsumed DUAs: 7
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.stubbing.answers.ReturnsArgumentAt.validateIndexWithinInvocationRange,4,4,7,7,100.0,0,0
+
+
+#org/mockito/internal/stubbing/answers/ReturnsArgumentAt/validateIndexWithinInvocationRange:
+Local DUA-Edge subsumption of method org.mockito.internal.stubbing.answers.ReturnsArgumentAt.validateIndexWithinInvocationRange  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/stubbing/answers/ReturnsArgumentAt/argumentPositionInRange:
+## nodes: 9
+## edges: 11
+## DUAs: 8
+## Subsumed DUAs: 8
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.stubbing.answers.ReturnsArgumentAt.argumentPositionInRange,9,11,8,8,100.0,0,0
+
+
+#org/mockito/internal/stubbing/answers/ReturnsArgumentAt/argumentPositionInRange:
+Local DUA-Edge subsumption of method org.mockito.internal.stubbing.answers.ReturnsArgumentAt.argumentPositionInRange  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/stubbing/answers/ReturnsArgumentAt/returnedTypeOnSignature:
+## nodes: 6
+## edges: 7
+## DUAs: 13
+## Subsumed DUAs: 13
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.stubbing.answers.ReturnsArgumentAt.returnedTypeOnSignature,6,7,13,13,100.0,0,0
+
+
+#org/mockito/internal/stubbing/answers/ReturnsArgumentAt/returnedTypeOnSignature:
+Local DUA-Edge subsumption of method org.mockito.internal.stubbing.answers.ReturnsArgumentAt.returnedTypeOnSignature  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/stubbing/answers/CallsRealMethods/answer:
+## nodes: 4
+## edges: 4
+## DUAs: 5
+## Subsumed DUAs: 5
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.stubbing.answers.CallsRealMethods.answer,4,4,5,5,100.0,0,0
+
+
+#org/mockito/internal/stubbing/answers/CallsRealMethods/answer:
+Local DUA-Edge subsumption of method org.mockito.internal.stubbing.answers.CallsRealMethods.answer  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/stubbing/defaultanswers/ReturnsSmartNulls/answer:
+## nodes: 7
+## edges: 9
+## DUAs: 10
+## Subsumed DUAs: 10
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.stubbing.defaultanswers.ReturnsSmartNulls.answer,7,9,10,10,100.0,0,0
+
+
+#org/mockito/internal/stubbing/defaultanswers/ReturnsSmartNulls/answer:
+Local DUA-Edge subsumption of method org.mockito.internal.stubbing.defaultanswers.ReturnsSmartNulls.answer  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/stubbing/defaultanswers/ReturnsMocks/answer:
+## nodes: 4
+## edges: 4
+## DUAs: 5
+## Subsumed DUAs: 5
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.stubbing.defaultanswers.ReturnsMocks.answer,4,4,5,5,100.0,0,0
+
+
+#org/mockito/internal/stubbing/defaultanswers/ReturnsMocks/answer:
+Local DUA-Edge subsumption of method org.mockito.internal.stubbing.defaultanswers.ReturnsMocks.answer  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/stubbing/defaultanswers/ReturnsMocks/returnValueFor:
+## nodes: 4
+## edges: 4
+## DUAs: 9
+## Subsumed DUAs: 9
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.stubbing.defaultanswers.ReturnsMocks.returnValueFor,4,4,9,9,100.0,0,0
+
+
+#org/mockito/internal/stubbing/defaultanswers/ReturnsMocks/returnValueFor:
+Local DUA-Edge subsumption of method org.mockito.internal.stubbing.defaultanswers.ReturnsMocks.returnValueFor  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/stubbing/defaultanswers/ReturnsMoreEmptyValues/answer:
+## nodes: 4
+## edges: 4
+## DUAs: 5
+## Subsumed DUAs: 5
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.stubbing.defaultanswers.ReturnsMoreEmptyValues.answer,4,4,5,5,100.0,0,0
+
+
+#org/mockito/internal/stubbing/defaultanswers/ReturnsMoreEmptyValues/answer:
+Local DUA-Edge subsumption of method org.mockito.internal.stubbing.defaultanswers.ReturnsMoreEmptyValues.answer  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/stubbing/defaultanswers/ReturnsMoreEmptyValues/returnValueFor:
+## nodes: 6
+## edges: 7
+## DUAs: 5
+## Subsumed DUAs: 5
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.stubbing.defaultanswers.ReturnsMoreEmptyValues.returnValueFor,6,7,5,5,100.0,0,0
+
+
+#org/mockito/internal/stubbing/defaultanswers/ReturnsMoreEmptyValues/returnValueFor:
+Local DUA-Edge subsumption of method org.mockito.internal.stubbing.defaultanswers.ReturnsMoreEmptyValues.returnValueFor  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/stubbing/defaultanswers/ReturnsSmartNulls$ThrowsSmartNullPointer/answer:
+## nodes: 4
+## edges: 4
+## DUAs: 7
+## Subsumed DUAs: 7
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.stubbing.defaultanswers.ReturnsSmartNulls$ThrowsSmartNullPointer.answer,4,4,7,7,100.0,0,0
+
+
+#org/mockito/internal/stubbing/defaultanswers/ReturnsSmartNulls$ThrowsSmartNullPointer/answer:
+Local DUA-Edge subsumption of method org.mockito.internal.stubbing.defaultanswers.ReturnsSmartNulls$ThrowsSmartNullPointer.answer  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/stubbing/defaultanswers/ForwardsInvocations/answer:
+## nodes: 4
+## edges: 4
+## DUAs: 13
+## Subsumed DUAs: 13
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.stubbing.defaultanswers.ForwardsInvocations.answer,4,4,13,13,100.0,0,0
+
+
+#org/mockito/internal/stubbing/defaultanswers/ForwardsInvocations/answer:
+Local DUA-Edge subsumption of method org.mockito.internal.stubbing.defaultanswers.ForwardsInvocations.answer  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/stubbing/defaultanswers/ForwardsInvocations/getDelegateMethod:
+## nodes: 4
+## edges: 4
+## DUAs: 10
+## Subsumed DUAs: 10
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.stubbing.defaultanswers.ForwardsInvocations.getDelegateMethod,4,4,10,10,100.0,0,0
+
+
+#org/mockito/internal/stubbing/defaultanswers/ForwardsInvocations/getDelegateMethod:
+Local DUA-Edge subsumption of method org.mockito.internal.stubbing.defaultanswers.ForwardsInvocations.getDelegateMethod  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/stubbing/defaultanswers/ForwardsInvocations/compatibleReturnTypes:
+## nodes: 6
+## edges: 7
+## DUAs: 8
+## Subsumed DUAs: 8
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.stubbing.defaultanswers.ForwardsInvocations.compatibleReturnTypes,6,7,8,8,100.0,0,0
+
+
+#org/mockito/internal/stubbing/defaultanswers/ForwardsInvocations/compatibleReturnTypes:
+Local DUA-Edge subsumption of method org.mockito.internal.stubbing.defaultanswers.ForwardsInvocations.compatibleReturnTypes  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/stubbing/defaultanswers/ReturnsDeepStubs/answer:
+## nodes: 4
+## edges: 4
+## DUAs: 6
+## Subsumed DUAs: 6
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.stubbing.defaultanswers.ReturnsDeepStubs.answer,4,4,6,6,100.0,0,0
+
+
+#org/mockito/internal/stubbing/defaultanswers/ReturnsDeepStubs/answer:
+Local DUA-Edge subsumption of method org.mockito.internal.stubbing.defaultanswers.ReturnsDeepStubs.answer  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/stubbing/defaultanswers/ReturnsDeepStubs/deepStub:
+## nodes: 7
+## edges: 8
+## DUAs: 10
+## Subsumed DUAs: 10
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.stubbing.defaultanswers.ReturnsDeepStubs.deepStub,7,8,10,10,100.0,0,0
+
+
+#org/mockito/internal/stubbing/defaultanswers/ReturnsDeepStubs/deepStub:
+Local DUA-Edge subsumption of method org.mockito.internal.stubbing.defaultanswers.ReturnsDeepStubs.deepStub  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/stubbing/defaultanswers/ReturnsDeepStubs/withSettingsUsing:
+## nodes: 5
+## edges: 5
+## DUAs: 5
+## Subsumed DUAs: 5
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.stubbing.defaultanswers.ReturnsDeepStubs.withSettingsUsing,5,5,5,5,100.0,0,0
+
+
+#org/mockito/internal/stubbing/defaultanswers/ReturnsDeepStubs/withSettingsUsing:
+Local DUA-Edge subsumption of method org.mockito.internal.stubbing.defaultanswers.ReturnsDeepStubs.withSettingsUsing  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/stubbing/defaultanswers/ReturnsEmptyValues/answer:
+## nodes: 11
+## edges: 14
+## DUAs: 25
+## Subsumed DUAs: 25
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.stubbing.defaultanswers.ReturnsEmptyValues.answer,11,14,25,25,100.0,0,0
+
+
+#org/mockito/internal/stubbing/defaultanswers/ReturnsEmptyValues/answer:
+Local DUA-Edge subsumption of method org.mockito.internal.stubbing.defaultanswers.ReturnsEmptyValues.answer  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/stubbing/defaultanswers/ReturnsEmptyValues/returnValueFor:
+## nodes: 34
+## edges: 49
+## DUAs: 33
+## Subsumed DUAs: 33
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.stubbing.defaultanswers.ReturnsEmptyValues.returnValueFor,34,49,33,33,100.0,0,0
+
+
+#org/mockito/internal/stubbing/defaultanswers/ReturnsEmptyValues/returnValueFor:
+Local DUA-Edge subsumption of method org.mockito.internal.stubbing.defaultanswers.ReturnsEmptyValues.returnValueFor  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/matchers/Contains/matches:
+## nodes: 6
+## edges: 7
+## DUAs: 8
+## Subsumed DUAs: 8
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.matchers.Contains.matches,6,7,8,8,100.0,0,0
+
+
+#org/mockito/internal/matchers/Contains/matches:
+Local DUA-Edge subsumption of method org.mockito.internal.matchers.Contains.matches  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/matchers/CapturingMatcher/getLastValue:
+## nodes: 4
+## edges: 4
+## DUAs: 6
+## Subsumed DUAs: 6
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.matchers.CapturingMatcher.getLastValue,4,4,6,6,100.0,0,0
+
+
+#org/mockito/internal/matchers/CapturingMatcher/getLastValue:
+Local DUA-Edge subsumption of method org.mockito.internal.matchers.CapturingMatcher.getLastValue  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/matchers/Same/matches:
+## nodes: 5
+## edges: 5
+## DUAs: 6
+## Subsumed DUAs: 6
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.matchers.Same.matches,5,5,6,6,100.0,0,0
+
+
+#org/mockito/internal/matchers/Same/matches:
+Local DUA-Edge subsumption of method org.mockito.internal.matchers.Same.matches  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/matchers/Same/appendQuoting:
+## nodes: 6
+## edges: 7
+## DUAs: 10
+## Subsumed DUAs: 10
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.matchers.Same.appendQuoting,6,7,10,10,100.0,0,0
+
+
+#org/mockito/internal/matchers/Same/appendQuoting:
+Local DUA-Edge subsumption of method org.mockito.internal.matchers.Same.appendQuoting  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/matchers/LocalizedMatcher/withExtraTypeInfo:
+## nodes: 4
+## edges: 4
+## DUAs: 7
+## Subsumed DUAs: 7
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.matchers.LocalizedMatcher.withExtraTypeInfo,4,4,7,7,100.0,0,1
+
+
+#org/mockito/internal/matchers/LocalizedMatcher/withExtraTypeInfo:
+Local DUA-Edge subsumption of method org.mockito.internal.matchers.LocalizedMatcher.withExtraTypeInfo  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/mockito/internal/matchers/LocalizedMatcher/typeMatches:
+## nodes: 6
+## edges: 7
+## DUAs: 10
+## Subsumed DUAs: 10
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.matchers.LocalizedMatcher.typeMatches,6,7,10,10,100.0,0,0
+
+
+#org/mockito/internal/matchers/LocalizedMatcher/typeMatches:
+Local DUA-Edge subsumption of method org.mockito.internal.matchers.LocalizedMatcher.typeMatches  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/matchers/LocalizedMatcher/captureFrom:
+## nodes: 4
+## edges: 4
+## DUAs: 7
+## Subsumed DUAs: 7
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.matchers.LocalizedMatcher.captureFrom,4,4,7,7,100.0,0,0
+
+
+#org/mockito/internal/matchers/LocalizedMatcher/captureFrom:
+Local DUA-Edge subsumption of method org.mockito.internal.matchers.LocalizedMatcher.captureFrom  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/matchers/MatchersPrinter/applyPrintSettings:
+## nodes: 9
+## edges: 11
+## DUAs: 15
+## Subsumed DUAs: 10
+## Edge DUA coverage: 66.66666666666666
+@@ org.mockito.internal.matchers.MatchersPrinter.applyPrintSettings,9,11,15,10,66.66666666666666,0,1
+
+
+#org/mockito/internal/matchers/MatchersPrinter/applyPrintSettings:
+Local DUA-Edge subsumption of method org.mockito.internal.matchers.MatchersPrinter.applyPrintSettings  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/mockito/internal/matchers/And/matches:
+## nodes: 7
+## edges: 8
+## DUAs: 4
+## Subsumed DUAs: 4
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.matchers.And.matches,7,8,4,4,100.0,0,0
+
+
+#org/mockito/internal/matchers/And/matches:
+Local DUA-Edge subsumption of method org.mockito.internal.matchers.And.matches  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/matchers/And/describeTo:
+## nodes: 6
+## edges: 7
+## DUAs: 8
+## Subsumed DUAs: 8
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.matchers.And.describeTo,6,7,8,8,100.0,0,1
+
+
+#org/mockito/internal/matchers/And/describeTo:
+Local DUA-Edge subsumption of method org.mockito.internal.matchers.And.describeTo  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/mockito/internal/matchers/VarargCapturingMatcher/getLastVarargs:
+## nodes: 4
+## edges: 4
+## DUAs: 6
+## Subsumed DUAs: 6
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.matchers.VarargCapturingMatcher.getLastVarargs,4,4,6,6,100.0,0,0
+
+
+#org/mockito/internal/matchers/VarargCapturingMatcher/getLastVarargs:
+Local DUA-Edge subsumption of method org.mockito.internal.matchers.VarargCapturingMatcher.getLastVarargs  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/matchers/VarargCapturingMatcher/unpackAsList:
+## nodes: 9
+## edges: 11
+## DUAs: 18
+## Subsumed DUAs: 14
+## Edge DUA coverage: 77.77777777777779
+@@ org.mockito.internal.matchers.VarargCapturingMatcher.unpackAsList,9,11,18,14,77.77777777777779,0,0
+
+
+#org/mockito/internal/matchers/VarargCapturingMatcher/unpackAsList:
+Local DUA-Edge subsumption of method org.mockito.internal.matchers.VarargCapturingMatcher.unpackAsList  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/matchers/EndsWith/matches:
+## nodes: 6
+## edges: 7
+## DUAs: 8
+## Subsumed DUAs: 8
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.matchers.EndsWith.matches,6,7,8,8,100.0,0,0
+
+
+#org/mockito/internal/matchers/EndsWith/matches:
+Local DUA-Edge subsumption of method org.mockito.internal.matchers.EndsWith.matches  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/matchers/CompareEqual/matchResult:
+## nodes: 5
+## edges: 5
+## DUAs: 2
+## Subsumed DUAs: 2
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.matchers.CompareEqual.matchResult,5,5,2,2,100.0,0,0
+
+
+#org/mockito/internal/matchers/CompareEqual/matchResult:
+Local DUA-Edge subsumption of method org.mockito.internal.matchers.CompareEqual.matchResult  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/matchers/Equality/areEqual:
+## nodes: 17
+## edges: 24
+## DUAs: 22
+## Subsumed DUAs: 22
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.matchers.Equality.areEqual,17,24,22,22,100.0,0,0
+
+
+#org/mockito/internal/matchers/Equality/areEqual:
+Local DUA-Edge subsumption of method org.mockito.internal.matchers.Equality.areEqual  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/matchers/Equality/areArraysEqual:
+## nodes: 6
+## edges: 7
+## DUAs: 8
+## Subsumed DUAs: 8
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.matchers.Equality.areArraysEqual,6,7,8,8,100.0,0,0
+
+
+#org/mockito/internal/matchers/Equality/areArraysEqual:
+Local DUA-Edge subsumption of method org.mockito.internal.matchers.Equality.areArraysEqual  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/matchers/Equality/areArrayLengthsEqual:
+## nodes: 5
+## edges: 5
+## DUAs: 4
+## Subsumed DUAs: 4
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.matchers.Equality.areArrayLengthsEqual,5,5,4,4,100.0,0,0
+
+
+#org/mockito/internal/matchers/Equality/areArrayLengthsEqual:
+Local DUA-Edge subsumption of method org.mockito.internal.matchers.Equality.areArrayLengthsEqual  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/matchers/Equality/areArrayElementsEqual:
+## nodes: 7
+## edges: 8
+## DUAs: 16
+## Subsumed DUAs: 9
+## Edge DUA coverage: 56.25
+@@ org.mockito.internal.matchers.Equality.areArrayElementsEqual,7,8,16,9,56.25,0,0
+
+
+#org/mockito/internal/matchers/Equality/areArrayElementsEqual:
+Local DUA-Edge subsumption of method org.mockito.internal.matchers.Equality.areArrayElementsEqual  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/matchers/GreaterOrEqual/matchResult:
+## nodes: 5
+## edges: 5
+## DUAs: 2
+## Subsumed DUAs: 2
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.matchers.GreaterOrEqual.matchResult,5,5,2,2,100.0,0,0
+
+
+#org/mockito/internal/matchers/GreaterOrEqual/matchResult:
+Local DUA-Edge subsumption of method org.mockito.internal.matchers.GreaterOrEqual.matchResult  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/matchers/InstanceOf/matches:
+## nodes: 6
+## edges: 7
+## DUAs: 8
+## Subsumed DUAs: 8
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.matchers.InstanceOf.matches,6,7,8,8,100.0,0,0
+
+
+#org/mockito/internal/matchers/InstanceOf/matches:
+Local DUA-Edge subsumption of method org.mockito.internal.matchers.InstanceOf.matches  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/matchers/Not/matches:
+## nodes: 5
+## edges: 5
+## DUAs: 6
+## Subsumed DUAs: 6
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.matchers.Not.matches,5,5,6,6,100.0,0,0
+
+
+#org/mockito/internal/matchers/Not/matches:
+Local DUA-Edge subsumption of method org.mockito.internal.matchers.Not.matches  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/matchers/EqualsWithDelta/matches:
+## nodes: 16
+## edges: 21
+## DUAs: 28
+## Subsumed DUAs: 28
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.matchers.EqualsWithDelta.matches,16,21,28,28,100.0,0,0
+
+
+#org/mockito/internal/matchers/EqualsWithDelta/matches:
+Local DUA-Edge subsumption of method org.mockito.internal.matchers.EqualsWithDelta.matches  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/matchers/Null/matches:
+## nodes: 5
+## edges: 5
+## DUAs: 2
+## Subsumed DUAs: 2
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.matchers.Null.matches,5,5,2,2,100.0,0,0
+
+
+#org/mockito/internal/matchers/Null/matches:
+Local DUA-Edge subsumption of method org.mockito.internal.matchers.Null.matches  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/matchers/GreaterThan/matchResult:
+## nodes: 5
+## edges: 5
+## DUAs: 2
+## Subsumed DUAs: 2
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.matchers.GreaterThan.matchResult,5,5,2,2,100.0,0,0
+
+
+#org/mockito/internal/matchers/GreaterThan/matchResult:
+Local DUA-Edge subsumption of method org.mockito.internal.matchers.GreaterThan.matchResult  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/matchers/Equals/quoting:
+## nodes: 6
+## edges: 7
+## DUAs: 8
+## Subsumed DUAs: 8
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.matchers.Equals.quoting,6,7,8,8,100.0,0,1
+
+
+#org/mockito/internal/matchers/Equals/quoting:
+Local DUA-Edge subsumption of method org.mockito.internal.matchers.Equals.quoting  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/mockito/internal/matchers/Equals/equals:
+## nodes: 11
+## edges: 16
+## DUAs: 27
+## Subsumed DUAs: 27
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.matchers.Equals.equals,11,16,27,27,100.0,0,0
+
+
+#org/mockito/internal/matchers/Equals/equals:
+Local DUA-Edge subsumption of method org.mockito.internal.matchers.Equals.equals  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/matchers/Equals/typeMatches:
+## nodes: 7
+## edges: 9
+## DUAs: 12
+## Subsumed DUAs: 12
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.matchers.Equals.typeMatches,7,9,12,12,100.0,0,0
+
+
+#org/mockito/internal/matchers/Equals/typeMatches:
+Local DUA-Edge subsumption of method org.mockito.internal.matchers.Equals.typeMatches  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/matchers/LessOrEqual/matchResult:
+## nodes: 5
+## edges: 5
+## DUAs: 2
+## Subsumed DUAs: 2
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.matchers.LessOrEqual.matchResult,5,5,2,2,100.0,0,0
+
+
+#org/mockito/internal/matchers/LessOrEqual/matchResult:
+Local DUA-Edge subsumption of method org.mockito.internal.matchers.LessOrEqual.matchResult  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/matchers/StartsWith/matches:
+## nodes: 6
+## edges: 7
+## DUAs: 8
+## Subsumed DUAs: 8
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.matchers.StartsWith.matches,6,7,8,8,100.0,0,1
+
+
+#org/mockito/internal/matchers/StartsWith/matches:
+Local DUA-Edge subsumption of method org.mockito.internal.matchers.StartsWith.matches  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/mockito/internal/matchers/ArrayEquals/matches:
+## nodes: 32
+## edges: 51
+## DUAs: 60
+## Subsumed DUAs: 60
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.matchers.ArrayEquals.matches,32,51,60,60,100.0,0,1
+
+
+#org/mockito/internal/matchers/ArrayEquals/matches:
+Local DUA-Edge subsumption of method org.mockito.internal.matchers.ArrayEquals.matches  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/mockito/internal/matchers/ArrayEquals/describeTo:
+## nodes: 6
+## edges: 7
+## DUAs: 8
+## Subsumed DUAs: 8
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.matchers.ArrayEquals.describeTo,6,7,8,8,100.0,0,0
+
+
+#org/mockito/internal/matchers/ArrayEquals/describeTo:
+Local DUA-Edge subsumption of method org.mockito.internal.matchers.ArrayEquals.describeTo  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/matchers/ArrayEquals/appendArray:
+## nodes: 7
+## edges: 8
+## DUAs: 20
+## Subsumed DUAs: 11
+## Edge DUA coverage: 55.00000000000001
+@@ org.mockito.internal.matchers.ArrayEquals.appendArray,7,8,20,11,55.00000000000001,0,1
+
+
+#org/mockito/internal/matchers/ArrayEquals/appendArray:
+Local DUA-Edge subsumption of method org.mockito.internal.matchers.ArrayEquals.appendArray  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/mockito/internal/matchers/ArrayEquals/createObjectArray:
+## nodes: 7
+## edges: 8
+## DUAs: 15
+## Subsumed DUAs: 11
+## Edge DUA coverage: 73.33333333333333
+@@ org.mockito.internal.matchers.ArrayEquals.createObjectArray,7,8,15,11,73.33333333333333,0,0
+
+
+#org/mockito/internal/matchers/ArrayEquals/createObjectArray:
+Local DUA-Edge subsumption of method org.mockito.internal.matchers.ArrayEquals.createObjectArray  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/matchers/CompareTo/matches:
+## nodes: 4
+## edges: 4
+## DUAs: 5
+## Subsumed DUAs: 5
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.matchers.CompareTo.matches,4,4,5,5,100.0,0,0
+
+
+#org/mockito/internal/matchers/CompareTo/matches:
+Local DUA-Edge subsumption of method org.mockito.internal.matchers.CompareTo.matches  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/matchers/Matches/matches:
+## nodes: 6
+## edges: 7
+## DUAs: 8
+## Subsumed DUAs: 8
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.matchers.Matches.matches,6,7,8,8,100.0,0,0
+
+
+#org/mockito/internal/matchers/Matches/matches:
+Local DUA-Edge subsumption of method org.mockito.internal.matchers.Matches.matches  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/matchers/NotNull/matches:
+## nodes: 5
+## edges: 5
+## DUAs: 2
+## Subsumed DUAs: 2
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.matchers.NotNull.matches,5,5,2,2,100.0,0,0
+
+
+#org/mockito/internal/matchers/NotNull/matches:
+Local DUA-Edge subsumption of method org.mockito.internal.matchers.NotNull.matches  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/matchers/Find/matches:
+## nodes: 6
+## edges: 7
+## DUAs: 8
+## Subsumed DUAs: 8
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.matchers.Find.matches,6,7,8,8,100.0,0,0
+
+
+#org/mockito/internal/matchers/Find/matches:
+Local DUA-Edge subsumption of method org.mockito.internal.matchers.Find.matches  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/matchers/LessThan/matchResult:
+## nodes: 5
+## edges: 5
+## DUAs: 2
+## Subsumed DUAs: 2
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.matchers.LessThan.matchResult,5,5,2,2,100.0,0,0
+
+
+#org/mockito/internal/matchers/LessThan/matchResult:
+Local DUA-Edge subsumption of method org.mockito.internal.matchers.LessThan.matchResult  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/matchers/Or/matches:
+## nodes: 7
+## edges: 8
+## DUAs: 4
+## Subsumed DUAs: 4
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.matchers.Or.matches,7,8,4,4,100.0,0,0
+
+
+#org/mockito/internal/matchers/Or/matches:
+Local DUA-Edge subsumption of method org.mockito.internal.matchers.Or.matches  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/matchers/Or/describeTo:
+## nodes: 6
+## edges: 7
+## DUAs: 8
+## Subsumed DUAs: 8
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.matchers.Or.describeTo,6,7,8,8,100.0,0,0
+
+
+#org/mockito/internal/matchers/Or/describeTo:
+Local DUA-Edge subsumption of method org.mockito.internal.matchers.Or.describeTo  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/matchers/apachecommons/EqualsBuilder/reflectionEquals:
+## nodes: 18
+## edges: 26
+## DUAs: 71
+## Subsumed DUAs: 44
+## Edge DUA coverage: 61.97183098591549
+@@ org.mockito.internal.matchers.apachecommons.EqualsBuilder.reflectionEquals,18,26,71,44,61.97183098591549,0,0
+
+
+#org/mockito/internal/matchers/apachecommons/EqualsBuilder/reflectionEquals:
+Local DUA-Edge subsumption of method org.mockito.internal.matchers.apachecommons.EqualsBuilder.reflectionEquals  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/matchers/apachecommons/EqualsBuilder/reflectionAppend:
+## nodes: 15
+## edges: 22
+## DUAs: 36
+## Subsumed DUAs: 31
+## Edge DUA coverage: 86.11111111111111
+@@ org.mockito.internal.matchers.apachecommons.EqualsBuilder.reflectionAppend,15,22,36,31,86.11111111111111,0,1
+
+
+#org/mockito/internal/matchers/apachecommons/EqualsBuilder/reflectionAppend:
+Local DUA-Edge subsumption of method org.mockito.internal.matchers.apachecommons.EqualsBuilder.reflectionAppend  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/mockito/internal/matchers/apachecommons/EqualsBuilder/append:
+## nodes: 36
+## edges: 52
+## DUAs: 79
+## Subsumed DUAs: 79
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.matchers.apachecommons.EqualsBuilder.append,36,52,79,79,100.0,0,1
+
+
+#org/mockito/internal/matchers/apachecommons/EqualsBuilder/append:
+Local DUA-Edge subsumption of method org.mockito.internal.matchers.apachecommons.EqualsBuilder.append  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/mockito/internal/matchers/apachecommons/EqualsBuilder/append:
+## nodes: 5
+## edges: 5
+## DUAs: 6
+## Subsumed DUAs: 6
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.matchers.apachecommons.EqualsBuilder.append,5,5,6,6,100.0,0,0
+
+
+#org/mockito/internal/matchers/apachecommons/EqualsBuilder/append:
+Local DUA-Edge subsumption of method org.mockito.internal.matchers.apachecommons.EqualsBuilder.append  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/matchers/apachecommons/EqualsBuilder/append:
+## nodes: 5
+## edges: 5
+## DUAs: 6
+## Subsumed DUAs: 6
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.matchers.apachecommons.EqualsBuilder.append,5,5,6,6,100.0,0,0
+
+
+#org/mockito/internal/matchers/apachecommons/EqualsBuilder/append:
+Local DUA-Edge subsumption of method org.mockito.internal.matchers.apachecommons.EqualsBuilder.append  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/matchers/apachecommons/EqualsBuilder/append:
+## nodes: 5
+## edges: 5
+## DUAs: 6
+## Subsumed DUAs: 6
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.matchers.apachecommons.EqualsBuilder.append,5,5,6,6,100.0,0,0
+
+
+#org/mockito/internal/matchers/apachecommons/EqualsBuilder/append:
+Local DUA-Edge subsumption of method org.mockito.internal.matchers.apachecommons.EqualsBuilder.append  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/matchers/apachecommons/EqualsBuilder/append:
+## nodes: 5
+## edges: 5
+## DUAs: 6
+## Subsumed DUAs: 6
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.matchers.apachecommons.EqualsBuilder.append,5,5,6,6,100.0,0,0
+
+
+#org/mockito/internal/matchers/apachecommons/EqualsBuilder/append:
+Local DUA-Edge subsumption of method org.mockito.internal.matchers.apachecommons.EqualsBuilder.append  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/matchers/apachecommons/EqualsBuilder/append:
+## nodes: 5
+## edges: 5
+## DUAs: 6
+## Subsumed DUAs: 6
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.matchers.apachecommons.EqualsBuilder.append,5,5,6,6,100.0,0,0
+
+
+#org/mockito/internal/matchers/apachecommons/EqualsBuilder/append:
+Local DUA-Edge subsumption of method org.mockito.internal.matchers.apachecommons.EqualsBuilder.append  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/matchers/apachecommons/EqualsBuilder/append:
+## nodes: 4
+## edges: 4
+## DUAs: 8
+## Subsumed DUAs: 8
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.matchers.apachecommons.EqualsBuilder.append,4,4,8,8,100.0,0,1
+
+
+#org/mockito/internal/matchers/apachecommons/EqualsBuilder/append:
+Local DUA-Edge subsumption of method org.mockito.internal.matchers.apachecommons.EqualsBuilder.append  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/mockito/internal/matchers/apachecommons/EqualsBuilder/append:
+## nodes: 4
+## edges: 4
+## DUAs: 8
+## Subsumed DUAs: 8
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.matchers.apachecommons.EqualsBuilder.append,4,4,8,8,100.0,0,0
+
+
+#org/mockito/internal/matchers/apachecommons/EqualsBuilder/append:
+Local DUA-Edge subsumption of method org.mockito.internal.matchers.apachecommons.EqualsBuilder.append  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/matchers/apachecommons/EqualsBuilder/append:
+## nodes: 5
+## edges: 5
+## DUAs: 6
+## Subsumed DUAs: 6
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.matchers.apachecommons.EqualsBuilder.append,5,5,6,6,100.0,0,0
+
+
+#org/mockito/internal/matchers/apachecommons/EqualsBuilder/append:
+Local DUA-Edge subsumption of method org.mockito.internal.matchers.apachecommons.EqualsBuilder.append  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/matchers/apachecommons/EqualsBuilder/append:
+## nodes: 15
+## edges: 21
+## DUAs: 36
+## Subsumed DUAs: 32
+## Edge DUA coverage: 88.88888888888889
+@@ org.mockito.internal.matchers.apachecommons.EqualsBuilder.append,15,21,36,32,88.88888888888889,0,0
+
+
+#org/mockito/internal/matchers/apachecommons/EqualsBuilder/append:
+Local DUA-Edge subsumption of method org.mockito.internal.matchers.apachecommons.EqualsBuilder.append  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/matchers/apachecommons/EqualsBuilder/append:
+## nodes: 15
+## edges: 21
+## DUAs: 36
+## Subsumed DUAs: 32
+## Edge DUA coverage: 88.88888888888889
+@@ org.mockito.internal.matchers.apachecommons.EqualsBuilder.append,15,21,36,32,88.88888888888889,0,0
+
+
+#org/mockito/internal/matchers/apachecommons/EqualsBuilder/append:
+Local DUA-Edge subsumption of method org.mockito.internal.matchers.apachecommons.EqualsBuilder.append  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/matchers/apachecommons/EqualsBuilder/append:
+## nodes: 15
+## edges: 21
+## DUAs: 36
+## Subsumed DUAs: 32
+## Edge DUA coverage: 88.88888888888889
+@@ org.mockito.internal.matchers.apachecommons.EqualsBuilder.append,15,21,36,32,88.88888888888889,0,1
+
+
+#org/mockito/internal/matchers/apachecommons/EqualsBuilder/append:
+Local DUA-Edge subsumption of method org.mockito.internal.matchers.apachecommons.EqualsBuilder.append  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/mockito/internal/matchers/apachecommons/EqualsBuilder/append:
+## nodes: 15
+## edges: 21
+## DUAs: 36
+## Subsumed DUAs: 32
+## Edge DUA coverage: 88.88888888888889
+@@ org.mockito.internal.matchers.apachecommons.EqualsBuilder.append,15,21,36,32,88.88888888888889,0,0
+
+
+#org/mockito/internal/matchers/apachecommons/EqualsBuilder/append:
+Local DUA-Edge subsumption of method org.mockito.internal.matchers.apachecommons.EqualsBuilder.append  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/matchers/apachecommons/EqualsBuilder/append:
+## nodes: 15
+## edges: 21
+## DUAs: 36
+## Subsumed DUAs: 32
+## Edge DUA coverage: 88.88888888888889
+@@ org.mockito.internal.matchers.apachecommons.EqualsBuilder.append,15,21,36,32,88.88888888888889,0,0
+
+
+#org/mockito/internal/matchers/apachecommons/EqualsBuilder/append:
+Local DUA-Edge subsumption of method org.mockito.internal.matchers.apachecommons.EqualsBuilder.append  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/matchers/apachecommons/EqualsBuilder/append:
+## nodes: 15
+## edges: 21
+## DUAs: 36
+## Subsumed DUAs: 32
+## Edge DUA coverage: 88.88888888888889
+@@ org.mockito.internal.matchers.apachecommons.EqualsBuilder.append,15,21,36,32,88.88888888888889,0,0
+
+
+#org/mockito/internal/matchers/apachecommons/EqualsBuilder/append:
+Local DUA-Edge subsumption of method org.mockito.internal.matchers.apachecommons.EqualsBuilder.append  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/matchers/apachecommons/EqualsBuilder/append:
+## nodes: 15
+## edges: 21
+## DUAs: 36
+## Subsumed DUAs: 32
+## Edge DUA coverage: 88.88888888888889
+@@ org.mockito.internal.matchers.apachecommons.EqualsBuilder.append,15,21,36,32,88.88888888888889,0,1
+
+
+#org/mockito/internal/matchers/apachecommons/EqualsBuilder/append:
+Local DUA-Edge subsumption of method org.mockito.internal.matchers.apachecommons.EqualsBuilder.append  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/mockito/internal/matchers/apachecommons/EqualsBuilder/append:
+## nodes: 15
+## edges: 21
+## DUAs: 36
+## Subsumed DUAs: 32
+## Edge DUA coverage: 88.88888888888889
+@@ org.mockito.internal.matchers.apachecommons.EqualsBuilder.append,15,21,36,32,88.88888888888889,0,1
+
+
+#org/mockito/internal/matchers/apachecommons/EqualsBuilder/append:
+Local DUA-Edge subsumption of method org.mockito.internal.matchers.apachecommons.EqualsBuilder.append  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/mockito/internal/matchers/apachecommons/EqualsBuilder/append:
+## nodes: 15
+## edges: 21
+## DUAs: 36
+## Subsumed DUAs: 32
+## Edge DUA coverage: 88.88888888888889
+@@ org.mockito.internal.matchers.apachecommons.EqualsBuilder.append,15,21,36,32,88.88888888888889,0,0
+
+
+#org/mockito/internal/matchers/apachecommons/EqualsBuilder/append:
+Local DUA-Edge subsumption of method org.mockito.internal.matchers.apachecommons.EqualsBuilder.append  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/listeners/NotifiedMethodInvocationReport/threwException:
+## nodes: 5
+## edges: 5
+## DUAs: 4
+## Subsumed DUAs: 4
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.listeners.NotifiedMethodInvocationReport.threwException,5,5,4,4,100.0,0,0
+
+
+#org/mockito/internal/listeners/NotifiedMethodInvocationReport/threwException:
+Local DUA-Edge subsumption of method org.mockito.internal.listeners.NotifiedMethodInvocationReport.threwException  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/listeners/NotifiedMethodInvocationReport/getLocationOfStubbing:
+## nodes: 5
+## edges: 5
+## DUAs: 6
+## Subsumed DUAs: 6
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.listeners.NotifiedMethodInvocationReport.getLocationOfStubbing,5,5,6,6,100.0,0,0
+
+
+#org/mockito/internal/listeners/NotifiedMethodInvocationReport/getLocationOfStubbing:
+Local DUA-Edge subsumption of method org.mockito.internal.listeners.NotifiedMethodInvocationReport.getLocationOfStubbing  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/listeners/NotifiedMethodInvocationReport/equals:
+## nodes: 12
+## edges: 17
+## DUAs: 35
+## Subsumed DUAs: 35
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.listeners.NotifiedMethodInvocationReport.equals,12,17,35,35,100.0,0,0
+
+
+#org/mockito/internal/listeners/NotifiedMethodInvocationReport/equals:
+Local DUA-Edge subsumption of method org.mockito.internal.listeners.NotifiedMethodInvocationReport.equals  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/internal/listeners/NotifiedMethodInvocationReport/hashCode:
+## nodes: 11
+## edges: 13
+## DUAs: 16
+## Subsumed DUAs: 16
+## Edge DUA coverage: 100.0
+@@ org.mockito.internal.listeners.NotifiedMethodInvocationReport.hashCode,11,13,16,16,100.0,0,0
+
+
+#org/mockito/internal/listeners/NotifiedMethodInvocationReport/hashCode:
+Local DUA-Edge subsumption of method org.mockito.internal.listeners.NotifiedMethodInvocationReport.hashCode  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/exceptions/Reporter/locationsOf:
+## nodes: 5
+## edges: 5
+## DUAs: 2
+## Subsumed DUAs: 2
+## Edge DUA coverage: 100.0
+@@ org.mockito.exceptions.Reporter.locationsOf,5,5,2,2,100.0,0,0
+
+
+#org/mockito/exceptions/Reporter/locationsOf:
+Local DUA-Edge subsumption of method org.mockito.exceptions.Reporter.locationsOf  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/exceptions/Reporter/wantedButNotInvoked:
+## nodes: 8
+## edges: 9
+## DUAs: 9
+## Subsumed DUAs: 7
+## Edge DUA coverage: 77.77777777777779
+@@ org.mockito.exceptions.Reporter.wantedButNotInvoked,8,9,9,7,77.77777777777779,0,0
+
+
+#org/mockito/exceptions/Reporter/wantedButNotInvoked:
+Local DUA-Edge subsumption of method org.mockito.exceptions.Reporter.wantedButNotInvoked  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/exceptions/Reporter/createTooLittleInvocationsMessage:
+## nodes: 5
+## edges: 5
+## DUAs: 5
+## Subsumed DUAs: 5
+## Edge DUA coverage: 100.0
+@@ org.mockito.exceptions.Reporter.createTooLittleInvocationsMessage,5,5,5,5,100.0,0,0
+
+
+#org/mockito/exceptions/Reporter/createTooLittleInvocationsMessage:
+Local DUA-Edge subsumption of method org.mockito.exceptions.Reporter.createTooLittleInvocationsMessage  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/exceptions/Reporter/exceptionCauseMessageIfAvailable:
+## nodes: 4
+## edges: 4
+## DUAs: 4
+## Subsumed DUAs: 4
+## Edge DUA coverage: 100.0
+@@ org.mockito.exceptions.Reporter.exceptionCauseMessageIfAvailable,4,4,4,4,100.0,0,0
+
+
+#org/mockito/exceptions/Reporter/exceptionCauseMessageIfAvailable:
+Local DUA-Edge subsumption of method org.mockito.exceptions.Reporter.exceptionCauseMessageIfAvailable  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/exceptions/Reporter/invalidArgumentPositionRangeAtInvocationTime:
+## nodes: 5
+## edges: 5
+## DUAs: 5
+## Subsumed DUAs: 5
+## Edge DUA coverage: 100.0
+@@ org.mockito.exceptions.Reporter.invalidArgumentPositionRangeAtInvocationTime,5,5,5,5,100.0,0,0
+
+
+#org/mockito/exceptions/Reporter/invalidArgumentPositionRangeAtInvocationTime:
+Local DUA-Edge subsumption of method org.mockito.exceptions.Reporter.invalidArgumentPositionRangeAtInvocationTime  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/mockito/exceptions/Reporter/possibleArgumentTypesOf:
+## nodes: 11
+## edges: 14
+## DUAs: 31
+## Subsumed DUAs: 18
+## Edge DUA coverage: 58.06451612903226
+@@ org.mockito.exceptions.Reporter.possibleArgumentTypesOf,11,14,31,18,58.06451612903226,0,0
+
+
+#org/mockito/exceptions/Reporter/possibleArgumentTypesOf:
+Local DUA-Edge subsumption of method org.mockito.exceptions.Reporter.possibleArgumentTypesOf  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+400 methods had the edge subsumption relationship calculated in 0 minutes and 1 seconds
+Local DUA-Edge subsumption time (ms):1535

@@ -1,0 +1,17 @@
+{
+"Class" : "com.google.javascript.jscomp.SideEffectsAnalysis$LocationAbstraction", 
+"Methods" : [{ "Name" : "calculateLocationSummary" ,
+"Duas" : 12,
+"0" :  "(603,607, this)",
+"1" :  "(603,613, modAccumulator)",
+"2" :  "(603,609, modAccumulator)",
+"3" :  "(604,613, refAccumulator)",
+"4" :  "(604,610, refAccumulator)",
+"5" :  "(606,(606,606), i$)",
+"6" :  "(606,(606,613), i$)",
+"7" :  "(606,606, i$)",
+"8" :  "(609,613, modAccumulator)",
+"9" :  "(609,609, modAccumulator)",
+"10" :  "(610,613, refAccumulator)",
+"11" :  "(610,610, refAccumulator)"}]
+}

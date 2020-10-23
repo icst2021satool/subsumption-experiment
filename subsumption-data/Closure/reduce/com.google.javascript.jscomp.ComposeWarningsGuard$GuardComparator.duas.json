@@ -1,0 +1,12 @@
+{
+"Class" : "com.google.javascript.jscomp.ComposeWarningsGuard$GuardComparator", 
+"Methods" : [{ "Name" : "compare" ,
+"Duas" : 7,
+"0" :  "(63,70, this)",
+"1" :  "(63,70, a)",
+"2" :  "(63,70, b)",
+"3" :  "(63,70, this.orderOfAddition)",
+"4" :  "(63,(64,65), priorityDiff)",
+"5" :  "(63,(64,70), priorityDiff)",
+"6" :  "(63,65, priorityDiff)"}]
+}

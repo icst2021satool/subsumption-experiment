@@ -1,0 +1,89 @@
+{
+"Class" : "com.google.javascript.rhino.jstype.ProxyObjectType", 
+"Methods" : [{ "Name" : "getPropertyMap" ,
+"Duas" : "6" ,
+"Subsumers" : 2,
+"0" : [ 3, 0], "S0" : [0, 2, 3, 5 ],
+"1" : [ 4, 1], "S1" : [1, 2, 4, 5 ]
+},{ "Name" : "setReferencedType" ,
+"Duas" : "5" ,
+"Subsumers" : 2,
+"0" : [ 3, 0], "S0" : [0, 3 ],
+"1" : [ 4, 2, 1], "S1" : [1, 2, 4 ]
+},{ "Name" : "getReferenceName" ,
+"Duas" : "6" ,
+"Subsumers" : 2,
+"0" : [ 3, 0], "S0" : [0, 2, 3, 5 ],
+"1" : [ 4, 1], "S1" : [1, 2, 4, 5 ]
+},{ "Name" : "hasReferenceName" ,
+"Duas" : "6" ,
+"Subsumers" : 2,
+"0" : [ 3, 0], "S0" : [0, 2, 3, 5 ],
+"1" : [ 4, 1], "S1" : [1, 2, 4, 5 ]
+},{ "Name" : "isNativeObjectType" ,
+"Duas" : "6" ,
+"Subsumers" : 2,
+"0" : [ 3, 0], "S0" : [0, 2, 3, 5 ],
+"1" : [ 4, 1], "S1" : [1, 2, 4, 5 ]
+},{ "Name" : "getOwnerFunction" ,
+"Duas" : "6" ,
+"Subsumers" : 2,
+"0" : [ 3, 0], "S0" : [0, 2, 3, 5 ],
+"1" : [ 4, 1], "S1" : [1, 2, 4, 5 ]
+},{ "Name" : "getCtorImplementedInterfaces" ,
+"Duas" : "6" ,
+"Subsumers" : 2,
+"0" : [ 3, 0], "S0" : [0, 2, 3, 5 ],
+"1" : [ 4, 1], "S1" : [1, 2, 4, 5 ]
+},{ "Name" : "getImplicitPrototype" ,
+"Duas" : "6" ,
+"Subsumers" : 2,
+"0" : [ 3, 0], "S0" : [0, 2, 3, 5 ],
+"1" : [ 4, 1], "S1" : [1, 2, 4, 5 ]
+},{ "Name" : "defineProperty" ,
+"Duas" : "10" ,
+"Subsumers" : 2,
+"0" : [ 7, 0], "S0" : [0, 2, 3, 4, 5, 6, 7, 9 ],
+"1" : [ 8, 1], "S1" : [1, 2, 3, 4, 5, 6, 8, 9 ]
+},{ "Name" : "removeProperty" ,
+"Duas" : "7" ,
+"Subsumers" : 2,
+"0" : [ 4, 0], "S0" : [0, 2, 3, 4, 6 ],
+"1" : [ 5, 1], "S1" : [1, 2, 3, 5, 6 ]
+},{ "Name" : "setJSDocInfo" ,
+"Duas" : "7" ,
+"Subsumers" : 2,
+"0" : [ 6, 4, 3, 2, 0], "S0" : [0, 2, 3, 4, 6 ],
+"1" : [ 5, 1], "S1" : [1, 5 ]
+},{ "Name" : "setPropertyJSDocInfo" ,
+"Duas" : "8" ,
+"Subsumers" : 2,
+"0" : [ 7, 5, 4, 3, 2, 0], "S0" : [0, 2, 3, 4, 5, 7 ],
+"1" : [ 6, 1], "S1" : [1, 6 ]
+},{ "Name" : "getConstructor" ,
+"Duas" : "6" ,
+"Subsumers" : 2,
+"0" : [ 3, 0], "S0" : [0, 2, 3, 5 ],
+"1" : [ 4, 1], "S1" : [1, 2, 4, 5 ]
+},{ "Name" : "getParameterType" ,
+"Duas" : "6" ,
+"Subsumers" : 2,
+"0" : [ 3, 0], "S0" : [0, 2, 3, 5 ],
+"1" : [ 4, 1], "S1" : [1, 2, 4, 5 ]
+},{ "Name" : "getIndexType" ,
+"Duas" : "6" ,
+"Subsumers" : 2,
+"0" : [ 3, 0], "S0" : [0, 2, 3, 5 ],
+"1" : [ 4, 1], "S1" : [1, 2, 4, 5 ]
+},{ "Name" : "getTypeOfThis" ,
+"Duas" : "7" ,
+"Subsumers" : 2,
+"0" : [ 6, 4, 3, 0], "S0" : [0, 3, 4, 6 ],
+"1" : [ 5, 2, 1], "S1" : [1, 2, 5 ]
+},{ "Name" : "collapseUnion" ,
+"Duas" : "7" ,
+"Subsumers" : 2,
+"0" : [ 6, 4, 3, 0], "S0" : [0, 3, 4, 6 ],
+"1" : [ 5, 2, 1], "S1" : [1, 2, 5 ]
+}]
+}

@@ -1,0 +1,20 @@
+{
+"Class" : "weka.core.pmml.jaxbbindings.ClusteringModel", 
+"Methods" : [{ "Name" : "getContent" ,
+"Duas" : 8,
+"0" :  "(145,(145,146), this)",
+"1" :  "(145,(145,148), this)",
+"2" :  "(145,148, this)",
+"3" :  "(145,146, this)",
+"4" :  "(145,(145,146), this.content)",
+"5" :  "(145,(145,148), this.content)",
+"6" :  "(145,148, this.content)",
+"7" :  "(146,148, this.content)"},{ "Name" : "isIsScorable" ,
+"Duas" : 6,
+"0" :  "(208,(208,209), this)",
+"1" :  "(208,(208,211), this)",
+"2" :  "(208,211, this)",
+"3" :  "(208,(208,209), this.isScorable)",
+"4" :  "(208,(208,211), this.isScorable)",
+"5" :  "(208,211, this.isScorable)"}]
+}

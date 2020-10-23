@@ -1,0 +1,9 @@
+{
+"Class" : "org.apache.commons.math3.optim.nonlinear.scalar.noderiv.PowellOptimizer$LineSearch$1", 
+"Methods" : [{ "Name" : "value" ,
+"Duas" : "21" ,
+"Subsumers" : 2,
+"0" : [ 19, 20, 17], "S0" : [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 15, 16, 17, 18, 19, 20 ],
+"1" : [ 14], "S1" : [1, 2, 6, 9, 10, 11, 14 ]
+}]
+}

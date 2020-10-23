@@ -1,0 +1,13 @@
+{
+"Class" : "org.apache.commons.lang3.text.StrMatcher$CharSetMatcher", 
+"Methods" : [{ "Name" : "isMatch" ,
+"Duas" : 8,
+"0" :  "(301,(301,301), this)",
+"1" :  "(301,(301,301), this)",
+"2" :  "(301,(301,301), buffer)",
+"3" :  "(301,(301,301), buffer)",
+"4" :  "(301,(301,301), pos)",
+"5" :  "(301,(301,301), pos)",
+"6" :  "(301,(301,301), this.chars)",
+"7" :  "(301,(301,301), this.chars)"}]
+}

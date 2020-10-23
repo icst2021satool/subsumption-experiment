@@ -1,0 +1,9 @@
+{
+"Class" : "com.sun.xml.bind.v2.schemagen.XmlSchemaGenerator$Namespace$7", 
+"Methods" : [{ "Name" : "write" ,
+"Duas" : "16" ,
+"Subsumers" : 2,
+"0" : [ 15, 7, 0], "S0" : [0, 2, 3, 4, 5, 6, 7, 9, 10, 11, 12, 13, 14, 15 ],
+"1" : [ 8, 1], "S1" : [1, 2, 3, 4, 5, 6, 8, 9, 10, 11, 12, 13, 14 ]
+}]
+}

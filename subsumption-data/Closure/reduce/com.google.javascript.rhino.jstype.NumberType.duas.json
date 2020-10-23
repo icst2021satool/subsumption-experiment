@@ -1,0 +1,18 @@
+{
+"Class" : "com.google.javascript.rhino.jstype.NumberType", 
+"Methods" : [{ "Name" : "testForEquality" ,
+"Duas" : 13,
+"0" :  "(63,(67,69), this)",
+"1" :  "(63,(67,71), this)",
+"2" :  "(63,(67,67), that)",
+"3" :  "(63,(67,69), that)",
+"4" :  "(63,(67,69), that)",
+"5" :  "(63,(67,71), that)",
+"6" :  "(63,(67,69), OBJECT_NUMBER_STRING_BOOLEAN)",
+"7" :  "(63,(67,71), OBJECT_NUMBER_STRING_BOOLEAN)",
+"8" :  "(63,69, UNKNOWN)",
+"9" :  "(63,71, FALSE)",
+"10" :  "(63,(64,65), result)",
+"11" :  "(63,(64,67), result)",
+"12" :  "(63,65, result)"}]
+}

@@ -1,0 +1,9 @@
+{
+"Class" : "org.jfree.data.junit.DataUtilitiesTests", 
+"Methods" : [{ "Name" : "suite" ,
+"Duas" : 4,
+"0" :  "(64,(64,64), class$org$jfree$data$junit$DataUtilitiesTests)",
+"1" :  "(64,(64,64), class$org$jfree$data$junit$DataUtilitiesTests)",
+"2" :  "(64,64, class$org$jfree$data$junit$DataUtilitiesTests)",
+"3" :  "(64,64, class$org$jfree$data$junit$DataUtilitiesTests)"}]
+}

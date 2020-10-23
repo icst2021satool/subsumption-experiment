@@ -1,0 +1,21 @@
+{
+"Class" : "weka.gui.CostBenefitAnalysisPanel$4", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Duas" : 16,
+"0" :  "(387,(387,389), this)",
+"1" :  "(387,(387,397), this)",
+"2" :  "(387,389, this)",
+"3" :  "(387,390, this)",
+"4" :  "(387,391, this)",
+"5" :  "(387,395, this)",
+"6" :  "(387,(387,389), this.this$0)",
+"7" :  "(387,(387,397), this.this$0)",
+"8" :  "(387,389, this.this$0)",
+"9" :  "(387,390, this.this$0)",
+"10" :  "(387,391, this.this$0)",
+"11" :  "(387,395, this.this$0)",
+"12" :  "(387,389, this.m_costBenefitPanel)",
+"13" :  "(387,390, this.m_costBenefitPanel)",
+"14" :  "(387,391, this.m_costBenefitPanel)",
+"15" :  "(387,389, this.m_costBenefit)"}]
+}

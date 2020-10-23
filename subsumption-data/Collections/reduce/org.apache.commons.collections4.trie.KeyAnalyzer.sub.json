@@ -1,0 +1,31 @@
+{
+"Class" : "org.apache.commons.collections4.trie.KeyAnalyzer", 
+"Methods" : [{ "Name" : "isOutOfBoundsIndex" ,
+"Duas" : "2" ,
+"Subsumers" : 2,
+"0" : [ 0], "S0" : [0 ],
+"1" : [ 1], "S1" : [1 ]
+},{ "Name" : "isEqualBitKey" ,
+"Duas" : "2" ,
+"Subsumers" : 2,
+"0" : [ 0], "S0" : [0 ],
+"1" : [ 1], "S1" : [1 ]
+},{ "Name" : "isNullBitKey" ,
+"Duas" : "2" ,
+"Subsumers" : 2,
+"0" : [ 0], "S0" : [0 ],
+"1" : [ 1], "S1" : [1 ]
+},{ "Name" : "isValidBitIndex" ,
+"Duas" : "2" ,
+"Subsumers" : 2,
+"0" : [ 0], "S0" : [0 ],
+"1" : [ 1], "S1" : [1 ]
+},{ "Name" : "compare" ,
+"Duas" : "8" ,
+"Subsumers" : 4,
+"0" : [ 6], "S0" : [0, 6 ],
+"1" : [ 7], "S1" : [0, 7 ],
+"2" : [ 5, 4, 2], "S2" : [1, 2, 4, 5 ],
+"3" : [ 3], "S3" : [1, 3 ]
+}]
+}

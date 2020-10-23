@@ -1,0 +1,11 @@
+{
+"Class" : "org.jfree.data.event.DatasetChangeEvent", 
+"Methods" : [{ "Name" : "<init>" ,
+"Duas" : 6,
+"0" :  "(87,91, this)",
+"1" :  "(87,92, this)",
+"2" :  "(87,91, dataset)",
+"3" :  "(87,(88,89), info)",
+"4" :  "(87,(88,91), info)",
+"5" :  "(87,92, info)"}]
+}

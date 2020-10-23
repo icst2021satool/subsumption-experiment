@@ -1,0 +1,21 @@
+{
+"Class" : "org.apache.commons.compress.archivers.examples.Expander$1", 
+"Methods" : [{ "Name" : "getNextReadableEntry" ,
+"Duas" : 16,
+"0" :  "(264,(265,266), this)",
+"1" :  "(264,(265,268), this)",
+"2" :  "(264,266, this)",
+"3" :  "(264,(265,266), this.val$archive)",
+"4" :  "(264,(265,268), this.val$archive)",
+"5" :  "(264,266, this.val$archive)",
+"6" :  "(264,(265,265), next)",
+"7" :  "(264,(265,268), next)",
+"8" :  "(264,268, next)",
+"9" :  "(264,(265,266), next)",
+"10" :  "(264,(265,268), next)",
+"11" :  "(266,(265,265), next)",
+"12" :  "(266,(265,268), next)",
+"13" :  "(266,268, next)",
+"14" :  "(266,(265,266), next)",
+"15" :  "(266,(265,268), next)"}]
+}

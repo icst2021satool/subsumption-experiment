@@ -1,0 +1,8 @@
+{
+"Class" : "weka.gui.experiment.AbstractSetupPanel", 
+"Methods" : [{ "Name" : "getPanels" ,
+"Duas" : "3" ,
+"Subsumers" : 1,
+"0" : [ 2], "S0" : [0, 1, 2 ]
+}]
+}

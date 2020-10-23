@@ -1,0 +1,16 @@
+{
+"Class" : "weka.gui.beans.JoinCustomizer$2", 
+"Methods" : [{ "Name" : "valueChanged" ,
+"Duas" : 11,
+"0" :  "(223,(224,225), this)",
+"1" :  "(223,(224,228), this)",
+"2" :  "(223,225, this)",
+"3" :  "(223,(223,224), e)",
+"4" :  "(223,(223,228), e)",
+"5" :  "(223,(224,225), this.this$0)",
+"6" :  "(223,(224,228), this.this$0)",
+"7" :  "(223,225, this.this$0)",
+"8" :  "(223,(224,225), this.m_deleteTwoBut)",
+"9" :  "(223,(224,228), this.m_deleteTwoBut)",
+"10" :  "(223,225, this.m_deleteTwoBut)"}]
+}

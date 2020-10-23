@@ -1,0 +1,18 @@
+{
+"Class" : "weka.gui.experiment.Experimenter$1", 
+"Methods" : [{ "Name" : "propertyChange" ,
+"Duas" : 13,
+"0" :  "(102,104, this)",
+"1" :  "(102,105, this)",
+"2" :  "(102,107, this)",
+"3" :  "(102,104, this.this$0)",
+"4" :  "(102,105, this.this$0)",
+"5" :  "(102,107, this.this$0)",
+"6" :  "(102,104, this.m_ClassFirst)",
+"7" :  "(102,105, this.m_RunPanel)",
+"8" :  "(102,107, this.m_TabbedPane)",
+"9" :  "(102,(103,104), exp)",
+"10" :  "(102,(103,109), exp)",
+"11" :  "(102,104, exp)",
+"12" :  "(102,105, exp)"}]
+}

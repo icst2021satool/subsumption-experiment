@@ -1,0 +1,13 @@
+{
+"Class" : "weka.core.pmml.jaxbbindings.Node", 
+"Methods" : [{ "Name" : "getContent" ,
+"Duas" : 8,
+"0" :  "(129,(129,130), this)",
+"1" :  "(129,(129,132), this)",
+"2" :  "(129,132, this)",
+"3" :  "(129,130, this)",
+"4" :  "(129,(129,130), this.content)",
+"5" :  "(129,(129,132), this.content)",
+"6" :  "(129,132, this.content)",
+"7" :  "(130,132, this.content)"}]
+}

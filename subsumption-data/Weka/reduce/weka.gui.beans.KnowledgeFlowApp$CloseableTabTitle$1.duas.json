@@ -1,0 +1,10 @@
+{
+"Class" : "weka.gui.beans.KnowledgeFlowApp$CloseableTabTitle$1", 
+"Methods" : [{ "Name" : "getText" ,
+"Duas" : 5,
+"0" :  "(2941,2944, this)",
+"1" :  "(2941,2944, this.this$1)",
+"2" :  "(2942,(2943,2944), index)",
+"3" :  "(2942,(2943,2946), index)",
+"4" :  "(2942,2944, index)"}]
+}

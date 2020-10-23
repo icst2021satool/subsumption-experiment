@@ -1,0 +1,9 @@
+{
+"Class" : "com.google.gson.JsonSerializationContextDefault", 
+"Methods" : [{ "Name" : "serialize" ,
+"Duas" : 4,
+"0" :  "(42,45, this)",
+"1" :  "(42,(42,43), src)",
+"2" :  "(42,(42,45), src)",
+"3" :  "(42,45, src)"}]
+}

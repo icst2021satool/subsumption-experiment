@@ -1,0 +1,17 @@
+{
+"Class" : "weka.gui.scripting.FileScriptingPanel$UndoAction", 
+"Methods" : [{ "Name" : "updateUndoState" ,
+"Duas" : 12,
+"0" :  "(440,(440,441), this)",
+"1" :  "(440,(440,445), this)",
+"2" :  "(440,445, this)",
+"3" :  "(440,446, this)",
+"4" :  "(440,441, this)",
+"5" :  "(440,442, this)",
+"6" :  "(440,(440,441), this.this$0)",
+"7" :  "(440,(440,445), this.this$0)",
+"8" :  "(440,442, this.this$0)",
+"9" :  "(440,(440,441), this.m_Undo)",
+"10" :  "(440,(440,445), this.m_Undo)",
+"11" :  "(440,442, this.m_Undo)"}]
+}

@@ -1,0 +1,9 @@
+{
+"Class" : "org.jfree.chart.junit.PieChartTests", 
+"Methods" : [{ "Name" : "suite" ,
+"Duas" : 4,
+"0" :  "(70,(70,70), class$org$jfree$chart$junit$PieChartTests)",
+"1" :  "(70,(70,70), class$org$jfree$chart$junit$PieChartTests)",
+"2" :  "(70,70, class$org$jfree$chart$junit$PieChartTests)",
+"3" :  "(70,70, class$org$jfree$chart$junit$PieChartTests)"}]
+}

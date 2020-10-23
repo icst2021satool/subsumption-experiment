@@ -1,0 +1,15 @@
+{
+"Class" : "com.sun.xml.bind.v2.runtime.reflect.PrimitiveArrayListerInteger$IntegerArrayPack", 
+"Methods" : [{ "Name" : "add" ,
+"Duas" : "19" ,
+"Subsumers" : 3,
+"0" : [ 18], "S0" : [0, 2, 3, 4, 5, 6, 7, 9, 10, 12, 13, 16, 17, 18 ],
+"1" : [ 15], "S1" : [1, 2, 3, 7, 9, 11, 12, 14, 15 ],
+"2" : [ 8], "S2" : [8 ]
+},{ "Name" : "build" ,
+"Duas" : "13" ,
+"Subsumers" : 2,
+"0" : [ 12, 9, 5, 4, 0], "S0" : [0, 4, 5, 9, 12 ],
+"1" : [ 11, 10, 7, 8, 6, 2, 3, 1], "S1" : [1, 2, 3, 6, 7, 8, 10, 11 ]
+}]
+}

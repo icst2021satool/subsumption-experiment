@@ -1,0 +1,11 @@
+{
+"Class" : "weka.core.expressionlanguage.common.JavaMacro$DoubleJavaMethod", 
+"Methods" : [{ "Name" : "<init>" ,
+"Duas" : 6,
+"0" :  "(332,(333,333), method)",
+"1" :  "(332,(333,334), method)",
+"2" :  "(332,(333,333), $assertionsDisabled)",
+"3" :  "(332,(333,334), $assertionsDisabled)",
+"4" :  "(332,(333,333), TYPE)",
+"5" :  "(332,(333,334), TYPE)"}]
+}

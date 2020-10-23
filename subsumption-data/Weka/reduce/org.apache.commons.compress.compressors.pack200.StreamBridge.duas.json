@@ -1,0 +1,21 @@
+{
+"Class" : "org.apache.commons.compress.compressors.pack200.StreamBridge", 
+"Methods" : [{ "Name" : "getInput" ,
+"Duas" : 8,
+"0" :  "(50,(51,52), this)",
+"1" :  "(50,(51,54), this)",
+"2" :  "(50,55, this)",
+"3" :  "(50,52, this)",
+"4" :  "(50,(51,52), this.input)",
+"5" :  "(50,(51,54), this.input)",
+"6" :  "(50,55, this.input)",
+"7" :  "(52,55, this.input)"},{ "Name" : "stop" ,
+"Duas" : 7,
+"0" :  "(67,(69,70), this)",
+"1" :  "(67,(69,73), this)",
+"2" :  "(67,70, this)",
+"3" :  "(67,71, this)",
+"4" :  "(67,(69,70), this.input)",
+"5" :  "(67,(69,73), this.input)",
+"6" :  "(67,70, this.input)"}]
+}

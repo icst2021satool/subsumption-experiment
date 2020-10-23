@@ -1,0 +1,18 @@
+{
+"Class" : "com.fasterxml.jackson.databind.ext.DOMSerializer", 
+"Methods" : [{ "Name" : "serialize" ,
+"Duas" : 8,
+"0" :  "(39,(39,39), this)",
+"1" :  "(39,(39,40), this)",
+"2" :  "(39,40, this)",
+"3" :  "(39,41, value)",
+"4" :  "(39,41, jgen)",
+"5" :  "(39,(39,39), this._domImpl)",
+"6" :  "(39,(39,40), this._domImpl)",
+"7" :  "(39,40, this._domImpl)"},{ "Name" : "acceptJsonFormatVisitor" ,
+"Duas" : 4,
+"0" :  "(55,(55,55), visitor)",
+"1" :  "(55,(55,56), visitor)",
+"2" :  "(55,55, visitor)",
+"3" :  "(55,55, typeHint)"}]
+}

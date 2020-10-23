@@ -1,0 +1,9 @@
+{
+"Class" : "org.jfree.chart.ui.FontDisplayField", 
+"Methods" : [{ "Name" : "fontToString" ,
+"Duas" : 4,
+"0" :  "(107,(107,108), font)",
+"1" :  "(107,(107,111), font)",
+"2" :  "(107,108, font)",
+"3" :  "(107,111, localizationResources)"}]
+}

@@ -1,0 +1,22 @@
+{
+"Class" : "weka.gui.experiment.ResultsPanel$3", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Duas" : 17,
+"0" :  "(364,366, this)",
+"1" :  "(364,(367,368), this)",
+"2" :  "(364,(367,378), this)",
+"3" :  "(364,368, this)",
+"4" :  "(364,368, this)",
+"5" :  "(364,375, this)",
+"6" :  "(364,366, this.this$0)",
+"7" :  "(364,(367,368), this.this$0)",
+"8" :  "(364,(367,378), this.this$0)",
+"9" :  "(364,368, this.this$0)",
+"10" :  "(364,375, this.this$0)",
+"11" :  "(364,366, this.m_FileChooser)",
+"12" :  "(364,(367,368), this.m_LoadThread)",
+"13" :  "(364,(367,378), this.m_LoadThread)",
+"14" :  "(364,(365,366), returnVal)",
+"15" :  "(364,(365,378), returnVal)",
+"16" :  "(366,368, selected)"}]
+}

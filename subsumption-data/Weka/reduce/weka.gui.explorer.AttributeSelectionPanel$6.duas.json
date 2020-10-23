@@ -1,0 +1,14 @@
+{
+"Class" : "weka.gui.explorer.AttributeSelectionPanel$6", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Duas" : 9,
+"0" :  "(410,416, this)",
+"1" :  "(410,(411,412), m_Memory)",
+"2" :  "(410,(411,415), m_Memory)",
+"3" :  "(410,412, m_Memory)",
+"4" :  "(410,416, this.this$0)",
+"5" :  "(410,(415,416), proceed)",
+"6" :  "(410,(415,418), proceed)",
+"7" :  "(412,(415,416), proceed)",
+"8" :  "(412,(415,418), proceed)"}]
+}

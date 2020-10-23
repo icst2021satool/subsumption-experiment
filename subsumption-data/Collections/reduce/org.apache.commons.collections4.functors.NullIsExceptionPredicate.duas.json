@@ -1,0 +1,14 @@
+{
+"Class" : "org.apache.commons.collections4.functors.NullIsExceptionPredicate", 
+"Methods" : [{ "Name" : "nullIsExceptionPredicate" ,
+"Duas" : 3,
+"0" :  "(47,(47,48), predicate)",
+"1" :  "(47,(47,50), predicate)",
+"2" :  "(47,50, predicate)"},{ "Name" : "evaluate" ,
+"Duas" : 5,
+"0" :  "(73,76, this)",
+"1" :  "(73,(73,74), object)",
+"2" :  "(73,(73,76), object)",
+"3" :  "(73,76, object)",
+"4" :  "(73,76, this.iPredicate)"}]
+}

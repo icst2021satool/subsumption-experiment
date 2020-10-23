@@ -1,0 +1,9 @@
+{
+"Class" : "weka.core.expressionlanguage.common.Operators$Not", 
+"Methods" : [{ "Name" : "evaluate" ,
+"Duas" : 4,
+"0" :  "(466,(466,466), this)",
+"1" :  "(466,(466,466), this)",
+"2" :  "(466,(466,466), this.expr)",
+"3" :  "(466,(466,466), this.expr)"}]
+}

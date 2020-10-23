@@ -1,0 +1,20 @@
+{
+"Class" : "org.jfree.chart.block.junit.LabelBlockTests", 
+"Methods" : [{ "Name" : "suite" ,
+"Duas" : 4,
+"0" :  "(72,(72,72), class$org$jfree$chart$block$junit$LabelBlockTests)",
+"1" :  "(72,(72,72), class$org$jfree$chart$block$junit$LabelBlockTests)",
+"2" :  "(72,72, class$org$jfree$chart$block$junit$LabelBlockTests)",
+"3" :  "(72,72, class$org$jfree$chart$block$junit$LabelBlockTests)"},{ "Name" : "testCloning" ,
+"Duas" : 10,
+"0" :  "(141,(151,151), b1)",
+"1" :  "(141,(151,151), b1)",
+"2" :  "(141,(152,152), b1)",
+"3" :  "(141,(152,152), b1)",
+"4" :  "(141,153, b1)",
+"5" :  "(146,(151,151), b2)",
+"6" :  "(146,(151,151), b2)",
+"7" :  "(146,(152,152), b2)",
+"8" :  "(146,(152,152), b2)",
+"9" :  "(146,153, b2)"}]
+}

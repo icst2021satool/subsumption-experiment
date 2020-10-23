@@ -1,0 +1,23 @@
+{
+"Class" : "org.mockito.internal.util.Decamelizer", 
+"Methods" : [{ "Name" : "decamelizeMatcher" ,
+"Duas" : 7,
+"0" :  "(16,(16,17), className)",
+"1" :  "(16,(16,20), className)",
+"2" :  "(16,20, className)",
+"3" :  "(16,23, className)",
+"4" :  "(20,(22,23), decamelized)",
+"5" :  "(20,(22,26), decamelized)",
+"6" :  "(20,26, decamelized)"},{ "Name" : "decamelizeClassName" ,
+"Duas" : 10,
+"0" :  "(30,(32,33), match)",
+"1" :  "(30,(32,40), match)",
+"2" :  "(30,37, match)",
+"3" :  "(30,34, match)",
+"4" :  "(31,40, deCameled)",
+"5" :  "(31,(33,34), deCameled)",
+"6" :  "(31,(33,36), deCameled)",
+"7" :  "(31,36, deCameled)",
+"8" :  "(31,37, deCameled)",
+"9" :  "(31,34, deCameled)"}]
+}

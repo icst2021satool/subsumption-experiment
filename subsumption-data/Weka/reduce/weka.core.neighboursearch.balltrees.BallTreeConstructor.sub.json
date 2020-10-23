@@ -1,0 +1,24 @@
+{
+"Class" : "weka.core.neighboursearch.balltrees.BallTreeConstructor", 
+"Methods" : [{ "Name" : "setMaxInstancesInLeaf" ,
+"Duas" : "4" ,
+"Subsumers" : 2,
+"0" : [ 3, 2, 0], "S0" : [0, 2, 3 ],
+"1" : [ 1], "S1" : [1 ]
+},{ "Name" : "setMaxRelativeLeafRadius" ,
+"Duas" : "4" ,
+"Subsumers" : 2,
+"0" : [ 3, 2, 0], "S0" : [0, 2, 3 ],
+"1" : [ 1], "S1" : [1 ]
+},{ "Name" : "setOptions" ,
+"Duas" : "7" ,
+"Subsumers" : 2,
+"0" : [ 5, 0], "S0" : [0, 1, 3, 5 ],
+"1" : [ 6, 4, 2], "S1" : [1, 2, 3, 4, 6 ]
+},{ "Name" : "getOptions" ,
+"Duas" : "4" ,
+"Subsumers" : 2,
+"0" : [ 3, 0], "S0" : [0, 2, 3 ],
+"1" : [ 1], "S1" : [1, 2 ]
+}]
+}

@@ -1,0 +1,19 @@
+{
+"Class" : "com.googlecode.jfilechooserbookmarks.AbstractBookmarksPanel$2", 
+"Methods" : [{ "Name" : "mouseClicked" ,
+"Duas" : 14,
+"0" :  "(145,151, this)",
+"1" :  "(145,146, this)",
+"2" :  "(145,148, this)",
+"3" :  "(145,(145,146), e)",
+"4" :  "(145,(145,151), e)",
+"5" :  "(145,151, e)",
+"6" :  "(145,146, e)",
+"7" :  "(145,148, e)",
+"8" :  "(145,146, this.this$0)",
+"9" :  "(145,148, this.this$0)",
+"10" :  "(145,148, this.m_ListBookmarks)",
+"11" :  "(146,(147,148), menu)",
+"12" :  "(146,(147,149), menu)",
+"13" :  "(146,148, menu)"}]
+}

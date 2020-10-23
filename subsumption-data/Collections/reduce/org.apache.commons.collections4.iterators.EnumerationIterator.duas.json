@@ -1,0 +1,16 @@
+{
+"Class" : "org.apache.commons.collections4.iterators.EnumerationIterator", 
+"Methods" : [{ "Name" : "remove" ,
+"Duas" : 11,
+"0" :  "(107,(107,108), this)",
+"1" :  "(107,(107,114), this)",
+"2" :  "(107,(108,109), this)",
+"3" :  "(107,(108,111), this)",
+"4" :  "(107,109, this)",
+"5" :  "(107,(107,108), this.collection)",
+"6" :  "(107,(107,114), this.collection)",
+"7" :  "(107,109, this.collection)",
+"8" :  "(107,(108,109), this.last)",
+"9" :  "(107,(108,111), this.last)",
+"10" :  "(107,109, this.last)"}]
+}

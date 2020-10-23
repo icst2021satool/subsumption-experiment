@@ -1,0 +1,23 @@
+{
+"Class" : "weka.gui.knowledgeflow.steps.JoinStepEditorDialog$6", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Duas" : 18,
+"0" :  "(307,(312,313), this)",
+"1" :  "(307,(312,316), this)",
+"2" :  "(307,313, this)",
+"3" :  "(307,314, this)",
+"4" :  "(307,309, this)",
+"5" :  "(307,(312,313), this.this$0)",
+"6" :  "(307,(312,316), this.this$0)",
+"7" :  "(307,313, this.this$0)",
+"8" :  "(307,314, this.this$0)",
+"9" :  "(307,309, this.this$0)",
+"10" :  "(307,(312,313), this.m_secondListModel)",
+"11" :  "(307,(312,316), this.m_secondListModel)",
+"12" :  "(307,309, this.m_secondListModel)",
+"13" :  "(307,313, this.m_upTwoBut)",
+"14" :  "(307,314, this.m_downTwoBut)",
+"15" :  "(307,(308,309), selected)",
+"16" :  "(307,(308,312), selected)",
+"17" :  "(307,309, selected)"}]
+}

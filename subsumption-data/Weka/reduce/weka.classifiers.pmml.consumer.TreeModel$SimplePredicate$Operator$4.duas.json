@@ -1,0 +1,13 @@
+{
+"Class" : "weka.classifiers.pmml.consumer.TreeModel$SimplePredicate$Operator$4", 
+"Methods" : [{ "Name" : "evaluate" ,
+"Duas" : 8,
+"0" :  "(337,(338,338), input)",
+"1" :  "(337,(338,338), input)",
+"2" :  "(337,337, input)",
+"3" :  "(337,(338,338), value)",
+"4" :  "(337,(338,338), value)",
+"5" :  "(337,(338,338), fieldIndex)",
+"6" :  "(337,(338,338), fieldIndex)",
+"7" :  "(337,337, fieldIndex)"}]
+}

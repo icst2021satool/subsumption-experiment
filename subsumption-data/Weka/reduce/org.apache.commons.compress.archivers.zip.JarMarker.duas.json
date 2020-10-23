@@ -1,0 +1,7 @@
+{
+"Class" : "org.apache.commons.compress.archivers.zip.JarMarker", 
+"Methods" : [{ "Name" : "parseFromLocalFileData" ,
+"Duas" : 2,
+"0" :  "(107,(107,108), length)",
+"1" :  "(107,(107,110), length)"}]
+}

@@ -1,0 +1,23 @@
+{
+"Class" : "com.google.javascript.jscomp.ReorderConstantExpression", 
+"Methods" : [{ "Name" : "optimizeSubtree" ,
+"Duas" : 18,
+"0" :  "(35,53, this)",
+"1" :  "(35,(35,35), subtree)",
+"2" :  "(35,(35,38), subtree)",
+"3" :  "(35,(38,38), subtree)",
+"4" :  "(35,(38,56), subtree)",
+"5" :  "(35,56, subtree)",
+"6" :  "(35,(38,42), subtree)",
+"7" :  "(35,(38,56), subtree)",
+"8" :  "(35,(42,43), subtree)",
+"9" :  "(35,(42,48), subtree)",
+"10" :  "(35,48, subtree)",
+"11" :  "(35,49, subtree)",
+"12" :  "(35,51, subtree)",
+"13" :  "(35,52, subtree)",
+"14" :  "(35,43, subtree)",
+"15" :  "(35,44, subtree)",
+"16" :  "(35,(35,38), subtree)",
+"17" :  "(35,(35,56), subtree)"}]
+}

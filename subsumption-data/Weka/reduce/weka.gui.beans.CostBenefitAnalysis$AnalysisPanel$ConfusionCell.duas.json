@@ -1,0 +1,22 @@
+{
+"Class" : "weka.gui.beans.CostBenefitAnalysis$AnalysisPanel$ConfusionCell", 
+"Methods" : [{ "Name" : "setCellValue" ,
+"Duas" : 17,
+"0" :  "(274,277, this)",
+"1" :  "(274,280, this)",
+"2" :  "(274,281, this)",
+"3" :  "(274,285, this)",
+"4" :  "(274,275, this)",
+"5" :  "(274,(274,275), cellValue)",
+"6" :  "(274,(274,277), cellValue)",
+"7" :  "(274,280, cellValue)",
+"8" :  "(274,275, cellValue)",
+"9" :  "(274,275, max)",
+"10" :  "(274,280, scaleFactor)",
+"11" :  "(274,281, precision)",
+"12" :  "(274,280, this.m_conf_cell)",
+"13" :  "(274,281, this.m_conf_perc)",
+"14" :  "(274,285, this.m_percentageP)",
+"15" :  "(275,281, this.m_percentage)",
+"16" :  "(277,281, this.m_percentage)"}]
+}

@@ -1,0 +1,10 @@
+{
+"Class" : "weka.classifiers.evaluation.NumericPrediction", 
+"Methods" : [{ "Name" : "error" ,
+"Duas" : "16" ,
+"Subsumers" : 3,
+"0" : [ 13, 11, 2], "S0" : [0, 2, 5, 8, 10, 11, 13 ],
+"1" : [ 15, 14, 12, 7, 4, 3], "S1" : [0, 3, 4, 5, 7, 8, 12, 14, 15 ],
+"2" : [ 9, 6, 1], "S2" : [1, 6, 9, 10 ]
+}]
+}

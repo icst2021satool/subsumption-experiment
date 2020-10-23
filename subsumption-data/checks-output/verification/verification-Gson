@@ -1,0 +1,2582 @@
+com.google.gson.CircularReferenceException com.google.gson.SyntheticFieldExclusionStrategy com.google.gson.JsonObject com.google.gson.reflect.TypeToken com.google.gson.GsonBuilder com.google.gson.Primitives com.google.gson.JsonDeserializationVisitor com.google.gson.Streams com.google.gson.stream.JsonWriter com.google.gson.JsonObjectDeserializationVisitor com.google.gson.GenericArrayTypeImpl com.google.gson.DefaultTypeAdapters$LocaleTypeAdapter com.google.gson.ObjectNavigatorFactory com.google.gson.Escaper com.google.gson.JsonPrimitive com.google.gson.ExposeAnnotationSerializationExclusionStrategy com.google.gson.Preconditions com.google.gson.MemoryRefStack com.google.gson.ParameterizedTypeImpl com.google.gson.Pair com.google.gson.JsonSerializationVisitor com.google.gson.DefaultTypeAdapters$FloatSerializer com.google.gson.ObjectNavigator com.google.gson.VersionExclusionStrategy com.google.gson.DefaultTypeAdapters$DoubleSerializer com.google.gson.JsonStreamParser com.google.gson.TypeUtils com.google.gson.ExposeAnnotationDeserializationExclusionStrategy com.google.gson.DefaultTypeAdapters$DefaultJavaSqlDateTypeAdapter com.google.gson.TypeInfoArray com.google.gson.AnonymousAndLocalClassExclusionStrategy com.google.gson.stream.JsonReader com.google.gson.JsonFieldNameValidator com.google.gson.JsonElement com.google.gson.CompositionFieldNamingPolicy com.google.gson.CamelCaseSeparatorNamingPolicy com.google.gson.ModifyFirstLetterNamingPolicy com.google.gson.JsonArray com.google.gson.LruCache com.google.gson.DefaultTypeAdapters$DefaultDateTypeAdapter com.google.gson.FieldAttributes com.google.gson.DefaultTypeAdapters$CollectionTypeAdapter com.google.gson.MappedObjectConstructor com.google.gson.ObjectTypePair com.google.gson.TypeInfoFactory com.google.gson.DefaultTypeAdapters$DefaultTimeTypeAdapter com.google.gson.JsonDeserializationContextDefault com.google.gson.TypeInfoMap com.google.gson.DisjunctionExclusionStrategy com.google.gson.ModifierBasedExclusionStrategy com.google.gson.JsonArrayDeserializationVisitor com.google.gson.DefaultTypeAdapters$MapTypeAdapter com.google.gson.SerializedNameAnnotationInterceptingNamingPolicy com.google.gson.JsonSerializationContextDefault com.google.gson.TypeInfoCollection com.google.gson.Gson com.google.gson.InnerClassExclusionStrategy com.google.gson.ParameterizedTypeHandlerMap
+com.google.gson.CircularReferenceException
+Directory of jaguar data: ../jaguar-data/gson/1b
+Directory of subsumption data: ../subsumption-data/Gson
+Analyzing class com.google.gson.CircularReferenceException 
+../jaguar-data/gson/1b/jaguar/.jaguar/matrix
+com.google.gson.CircularReferenceException.matrix
+../subsumption-data/Gson/reduce/com.google.gson.CircularReferenceException.sub.json
+>>>>> com.google.gson.CircularReferenceException <<<<<
+0:createDetailedException:13
+Total :4: tests for class:com.google.gson.CircularReferenceException:
+Methods executed: 1
+com.google.gson.SyntheticFieldExclusionStrategy
+Directory of jaguar data: ../jaguar-data/gson/1b
+Directory of subsumption data: ../subsumption-data/Gson
+Analyzing class com.google.gson.SyntheticFieldExclusionStrategy 
+../jaguar-data/gson/1b/jaguar/.jaguar/matrix
+com.google.gson.SyntheticFieldExclusionStrategy.matrix
+../subsumption-data/Gson/reduce/com.google.gson.SyntheticFieldExclusionStrategy.sub.json
+>>>>> com.google.gson.SyntheticFieldExclusionStrategy <<<<<
+0:shouldSkipField:6
+Total :185: tests for class:com.google.gson.SyntheticFieldExclusionStrategy:
+Methods executed: 1
+com.google.gson.JsonObject
+Directory of jaguar data: ../jaguar-data/gson/1b
+Directory of subsumption data: ../subsumption-data/Gson
+Analyzing class com.google.gson.JsonObject 
+../jaguar-data/gson/1b/jaguar/.jaguar/matrix
+com.google.gson.JsonObject.matrix
+../subsumption-data/Gson/reduce/com.google.gson.JsonObject.sub.json
+>>>>> com.google.gson.JsonObject <<<<<
+0:add:9
+1:createJsonElement:3
+2:get:12
+3:toString:17
+No unconstrained duas covered in testcase 0 of toString: [1 0 1 1 1 1 1 1 1 0 1 1 1 1 1 0 0]: [0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 1]
+[0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0]
+[1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1]
+[1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0]
+[1 0 1 1 1 1 1 1 1 0 1 1 1 1 1 1 0]
+No unconstrained duas covered in testcase 11 of toString: [1 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0]: [0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 1]
+[0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0]
+[1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1]
+[1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0]
+[1 0 1 1 1 1 1 1 1 0 1 1 1 1 1 1 0]
+No unconstrained duas covered in testcase 20 of toString: [1 0 1 1 1 1 1 1 1 0 1 1 1 1 1 0 0]: [0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 1]
+[0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0]
+[1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1]
+[1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0]
+[1 0 1 1 1 1 1 1 1 0 1 1 1 1 1 1 0]
+Total :237: tests for class:com.google.gson.JsonObject:
+Methods executed: 4
+Unconstrained method :toString:3:3
+com.google.gson.reflect.TypeToken
+Directory of jaguar data: ../jaguar-data/gson/1b
+Directory of subsumption data: ../subsumption-data/Gson
+Analyzing class com.google.gson.reflect.TypeToken 
+../jaguar-data/gson/1b/jaguar/.jaguar/matrix
+com.google.gson.reflect.TypeToken.matrix
+../subsumption-data/Gson/reduce/com.google.gson.reflect.TypeToken.sub.json
+>>>>> com.google.gson.reflect.TypeToken <<<<<
+0:nonNull:4
+1:getSuperclassTypeParameter:3
+2:getRawType:14
+3:isAssignableFrom:40
+4:isAssignableFrom:21
+5:isAssignableFrom:73
+6:typeEquals:24
+7:matches:9
+8:equals:9
+9:toString:6
+10:buildUnexpectedTypeError:15
+Total :94: tests for class:com.google.gson.reflect.TypeToken:
+Methods executed: 2
+com.google.gson.GsonBuilder
+Directory of jaguar data: ../jaguar-data/gson/1b
+Directory of subsumption data: ../subsumption-data/Gson
+Analyzing class com.google.gson.GsonBuilder 
+../jaguar-data/gson/1b/jaguar/.jaguar/matrix
+com.google.gson.GsonBuilder.matrix
+../subsumption-data/Gson/reduce/com.google.gson.GsonBuilder.sub.json
+>>>>> com.google.gson.GsonBuilder <<<<<
+0:setExclusionStrategies:14
+1:registerTypeAdapter:22
+2:registerTypeHierarchyAdapter:22
+3:create:49
+4:addTypeAdaptersForDate:29
+No unconstrained duas covered in testcase 0 of setExclusionStrategies: [1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[1 0 0 0 0 1 0 1 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 53 of setExclusionStrategies: [1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[1 0 0 0 0 1 0 1 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 54 of setExclusionStrategies: [1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[1 0 0 0 0 1 0 1 0 0 0 0 0 0]
+Total :142: tests for class:com.google.gson.GsonBuilder:
+Methods executed: 4
+Unconstrained method :setExclusionStrategies:1:3
+com.google.gson.Primitives
+Directory of jaguar data: ../jaguar-data/gson/1b
+Directory of subsumption data: ../subsumption-data/Gson
+Analyzing class com.google.gson.Primitives 
+../jaguar-data/gson/1b/jaguar/.jaguar/matrix
+com.google.gson.Primitives.matrix
+../subsumption-data/Gson/reduce/com.google.gson.Primitives.sub.json
+>>>>> com.google.gson.Primitives <<<<<
+0:wrap:4
+1:unwrap:4
+Total :174: tests for class:com.google.gson.Primitives:
+Methods executed: 2
+com.google.gson.JsonDeserializationVisitor
+Directory of jaguar data: ../jaguar-data/gson/1b
+Directory of subsumption data: ../subsumption-data/Gson
+Analyzing class com.google.gson.JsonDeserializationVisitor 
+../jaguar-data/gson/1b/jaguar/.jaguar/matrix
+com.google.gson.JsonDeserializationVisitor.matrix
+../subsumption-data/Gson/reduce/com.google.gson.JsonDeserializationVisitor.sub.json
+>>>>> com.google.gson.JsonDeserializationVisitor <<<<<
+0:getTarget:9
+1:visitUsingCustomHandler:7
+2:invokeCustomDeserializer:11
+Total :198: tests for class:com.google.gson.JsonDeserializationVisitor:
+Methods executed: 3
+com.google.gson.Streams
+Directory of jaguar data: ../jaguar-data/gson/1b
+Directory of subsumption data: ../subsumption-data/Gson
+Analyzing class com.google.gson.Streams 
+../jaguar-data/gson/1b/jaguar/.jaguar/matrix
+com.google.gson.Streams.matrix
+../subsumption-data/Gson/reduce/com.google.gson.Streams.sub.json
+>>>>> com.google.gson.Streams <<<<<
+0:parse:32
+1:write:52
+2:writerForAppendable:4
+No unconstrained duas covered in testcase 1 of write: [1 0 0 1 0 1 0 1 1 0 0 1 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0]: [0 1 1 0 0 0 0 0 0 1 1 0 0 0 1 1 0 1 0 1 1 0 0 0 0 0 0 1 1 1 1 1 1 0 1 1 1
+ 1 1 0 0 0 1 1 1 0 0 0 0 0 1 1]
+[0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 1
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[1 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 1 0 1 1
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 1 0 0
+ 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[1 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 1 0 0
+ 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0
+ 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[1 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0
+ 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0]
+[1 0 0 1 0 1 1 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0 0 0 1 1 1 0 0 0 0 0 0 0 0 0
+ 0 0 1 1 1 0 1 1 0 0 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0]
+[1 0 0 1 0 1 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 1 0 0 0 0 0 0 0 0
+ 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0]
+[1 0 0 1 0 1 0 1 1 0 0 1 0 0 0 0 1 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 1 1 1 0 0 1 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1]
+[1 0 0 1 0 1 0 1 1 0 0 1 0 0 0 0 1 0 1 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 1 1 1 1 1 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[1 0 0 1 0 1 0 1 1 0 0 1 0 0 0 0 0 1 1 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 1 1 1 1 1 0 0]
+[0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[1 0 0 1 0 1 0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 2 of write: [1 0 0 1 0 1 0 1 1 0 0 1 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0]: [0 1 1 0 0 0 0 0 0 1 1 0 0 0 1 1 0 1 0 1 1 0 0 0 0 0 0 1 1 1 1 1 1 0 1 1 1
+ 1 1 0 0 0 1 1 1 0 0 0 0 0 1 1]
+[0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 1
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[1 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 1 0 1 1
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 1 0 0
+ 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[1 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 1 0 0
+ 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0
+ 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[1 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0
+ 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0]
+[1 0 0 1 0 1 1 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0 0 0 1 1 1 0 0 0 0 0 0 0 0 0
+ 0 0 1 1 1 0 1 1 0 0 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0]
+[1 0 0 1 0 1 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 1 0 0 0 0 0 0 0 0
+ 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0]
+[1 0 0 1 0 1 0 1 1 0 0 1 0 0 0 0 1 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 1 1 1 0 0 1 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1]
+[1 0 0 1 0 1 0 1 1 0 0 1 0 0 0 0 1 0 1 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 1 1 1 1 1 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[1 0 0 1 0 1 0 1 1 0 0 1 0 0 0 0 0 1 1 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 1 1 1 1 1 0 0]
+[0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[1 0 0 1 0 1 0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 28 of write: [1 0 0 1 0 1 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0]: [0 1 1 0 0 0 0 0 0 1 1 0 0 0 1 1 0 1 0 1 1 0 0 0 0 0 0 1 1 1 1 1 1 0 1 1 1
+ 1 1 0 0 0 1 1 1 0 0 0 0 0 1 1]
+[0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 1
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[1 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 1 0 1 1
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 1 0 0
+ 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[1 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 1 0 0
+ 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0
+ 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[1 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0
+ 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0]
+[1 0 0 1 0 1 1 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0 0 0 1 1 1 0 0 0 0 0 0 0 0 0
+ 0 0 1 1 1 0 1 1 0 0 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0]
+[1 0 0 1 0 1 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 1 0 0 0 0 0 0 0 0
+ 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0]
+[1 0 0 1 0 1 0 1 1 0 0 1 0 0 0 0 1 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 1 1 1 0 0 1 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1]
+[1 0 0 1 0 1 0 1 1 0 0 1 0 0 0 0 1 0 1 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 1 1 1 1 1 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[1 0 0 1 0 1 0 1 1 0 0 1 0 0 0 0 0 1 1 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 1 1 1 1 1 0 0]
+[0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[1 0 0 1 0 1 0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+Wrong subsumption: parse
+t:[0 0 1 0 0 1 0 0 0 0 0 0 1 1 0 0 1 0 0 1 0 0 0 1 0 0 1 0 0 1 0 0]
+u:[0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0]
+s:[0 0 0 0 0 1 0 0 0 0 0 0 1 1 1 1 1 0 0 0 0 0 0 0 0 0 1 0 1 1 0 0]
+No unconstrained duas covered in testcase 30 of parse: [0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 1 0 1 0 0 0]: [1 1 1 1 1 0 0 0 1 0 0 1 0 1 0 0 1 1 1 1 1 1 1 1 1 1 0 0 0 1 0 1]
+[1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0]
+[1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0]
+[0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0]
+[0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0]
+[0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0]
+[0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0]
+[0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0]
+[0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0]
+[0 0 0 0 0 1 0 0 0 0 0 0 1 1 1 1 1 0 0 0 0 0 0 0 0 0 1 0 1 1 0 0]
+[0 0 0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1]
+[0 0 0 0 0 0 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 1]
+No unconstrained duas covered in testcase 106 of parse: [0 0 0 0 0 0 1 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 0]: [1 1 1 1 1 0 0 0 1 0 0 1 0 1 0 0 1 1 1 1 1 1 1 1 1 1 0 0 0 1 0 1]
+[1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0]
+[1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0]
+[0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0]
+[0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0]
+[0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0]
+[0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0]
+[0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0]
+[0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0]
+[0 0 0 0 0 1 0 0 0 0 0 0 1 1 1 1 1 0 0 0 0 0 0 0 0 0 1 0 1 1 0 0]
+[0 0 0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1]
+[0 0 0 0 0 0 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 1]
+No unconstrained duas covered in testcase 115 of write: [1 0 0 1 0 1 0 1 1 0 0 1 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0]: [0 1 1 0 0 0 0 0 0 1 1 0 0 0 1 1 0 1 0 1 1 0 0 0 0 0 0 1 1 1 1 1 1 0 1 1 1
+ 1 1 0 0 0 1 1 1 0 0 0 0 0 1 1]
+[0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 1
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[1 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 1 0 1 1
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 1 0 0
+ 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[1 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 1 0 0
+ 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0
+ 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[1 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0
+ 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0]
+[1 0 0 1 0 1 1 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0 0 0 1 1 1 0 0 0 0 0 0 0 0 0
+ 0 0 1 1 1 0 1 1 0 0 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0]
+[1 0 0 1 0 1 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 1 0 0 0 0 0 0 0 0
+ 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0]
+[1 0 0 1 0 1 0 1 1 0 0 1 0 0 0 0 1 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 1 1 1 0 0 1 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1]
+[1 0 0 1 0 1 0 1 1 0 0 1 0 0 0 0 1 0 1 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 1 1 1 1 1 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[1 0 0 1 0 1 0 1 1 0 0 1 0 0 0 0 0 1 1 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 1 1 1 1 1 0 0]
+[0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[1 0 0 1 0 1 0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 162 of write: [1 0 0 1 0 1 0 1 1 0 0 1 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0]: [0 1 1 0 0 0 0 0 0 1 1 0 0 0 1 1 0 1 0 1 1 0 0 0 0 0 0 1 1 1 1 1 1 0 1 1 1
+ 1 1 0 0 0 1 1 1 0 0 0 0 0 1 1]
+[0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 1
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[1 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 1 0 1 1
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 1 0 0
+ 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[1 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 1 0 0
+ 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0
+ 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[1 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0
+ 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0]
+[1 0 0 1 0 1 1 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0 0 0 1 1 1 0 0 0 0 0 0 0 0 0
+ 0 0 1 1 1 0 1 1 0 0 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0]
+[1 0 0 1 0 1 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 1 0 0 0 0 0 0 0 0
+ 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0]
+[1 0 0 1 0 1 0 1 1 0 0 1 0 0 0 0 1 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 1 1 1 0 0 1 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1]
+[1 0 0 1 0 1 0 1 1 0 0 1 0 0 0 0 1 0 1 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 1 1 1 1 1 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[1 0 0 1 0 1 0 1 1 0 0 1 0 0 0 0 0 1 1 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 1 1 1 1 1 0 0]
+[0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[1 0 0 1 0 1 0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 194 of parse: [0 0 0 0 0 0 1 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 0]: [1 1 1 1 1 0 0 0 1 0 0 1 0 1 0 0 1 1 1 1 1 1 1 1 1 1 0 0 0 1 0 1]
+[1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0]
+[1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0]
+[0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0]
+[0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0]
+[0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0]
+[0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0]
+[0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0]
+[0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0]
+[0 0 0 0 0 1 0 0 0 0 0 0 1 1 1 1 1 0 0 0 0 0 0 0 0 0 1 0 1 1 0 0]
+[0 0 0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1]
+[0 0 0 0 0 0 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 1]
+No unconstrained duas covered in testcase 205 of write: [1 0 0 1 0 1 0 1 1 0 0 1 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0]: [0 1 1 0 0 0 0 0 0 1 1 0 0 0 1 1 0 1 0 1 1 0 0 0 0 0 0 1 1 1 1 1 1 0 1 1 1
+ 1 1 0 0 0 1 1 1 0 0 0 0 0 1 1]
+[0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 1
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[1 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 1 0 1 1
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 1 0 0
+ 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[1 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 1 0 0
+ 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0
+ 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[1 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0
+ 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0]
+[1 0 0 1 0 1 1 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0 0 0 1 1 1 0 0 0 0 0 0 0 0 0
+ 0 0 1 1 1 0 1 1 0 0 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0]
+[1 0 0 1 0 1 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 1 0 0 0 0 0 0 0 0
+ 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0]
+[1 0 0 1 0 1 0 1 1 0 0 1 0 0 0 0 1 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 1 1 1 0 0 1 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1]
+[1 0 0 1 0 1 0 1 1 0 0 1 0 0 0 0 1 0 1 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 1 1 1 1 1 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[1 0 0 1 0 1 0 1 1 0 0 1 0 0 0 0 0 1 1 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 1 1 1 1 1 0 0]
+[0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[1 0 0 1 0 1 0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 267 of write: [1 0 0 1 0 1 0 1 1 0 0 1 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0]: [0 1 1 0 0 0 0 0 0 1 1 0 0 0 1 1 0 1 0 1 1 0 0 0 0 0 0 1 1 1 1 1 1 0 1 1 1
+ 1 1 0 0 0 1 1 1 0 0 0 0 0 1 1]
+[0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 1
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[1 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 1 0 1 1
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 1 0 0
+ 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[1 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 1 0 0
+ 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0
+ 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[1 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0
+ 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0]
+[1 0 0 1 0 1 1 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0 0 0 1 1 1 0 0 0 0 0 0 0 0 0
+ 0 0 1 1 1 0 1 1 0 0 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0]
+[1 0 0 1 0 1 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 1 0 0 0 0 0 0 0 0
+ 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0]
+[1 0 0 1 0 1 0 1 1 0 0 1 0 0 0 0 1 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 1 1 1 0 0 1 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1]
+[1 0 0 1 0 1 0 1 1 0 0 1 0 0 0 0 1 0 1 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 1 1 1 1 1 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[1 0 0 1 0 1 0 1 1 0 0 1 0 0 0 0 0 1 1 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 1 1 1 1 1 0 0]
+[0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[1 0 0 1 0 1 0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 269 of write: [1 0 0 1 0 1 0 1 1 0 0 1 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0]: [0 1 1 0 0 0 0 0 0 1 1 0 0 0 1 1 0 1 0 1 1 0 0 0 0 0 0 1 1 1 1 1 1 0 1 1 1
+ 1 1 0 0 0 1 1 1 0 0 0 0 0 1 1]
+[0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 1
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[1 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 1 0 1 1
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 1 0 0
+ 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[1 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 1 0 0
+ 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0
+ 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[1 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0
+ 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0]
+[1 0 0 1 0 1 1 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0 0 0 1 1 1 0 0 0 0 0 0 0 0 0
+ 0 0 1 1 1 0 1 1 0 0 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0]
+[1 0 0 1 0 1 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 1 0 0 0 0 0 0 0 0
+ 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0]
+[1 0 0 1 0 1 0 1 1 0 0 1 0 0 0 0 1 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 1 1 1 0 0 1 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1]
+[1 0 0 1 0 1 0 1 1 0 0 1 0 0 0 0 1 0 1 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 1 1 1 1 1 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[1 0 0 1 0 1 0 1 1 0 0 1 0 0 0 0 0 1 1 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 1 1 1 1 1 0 0]
+[0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[1 0 0 1 0 1 0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 276 of parse: [0 0 0 0 0 0 1 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 0]: [1 1 1 1 1 0 0 0 1 0 0 1 0 1 0 0 1 1 1 1 1 1 1 1 1 1 0 0 0 1 0 1]
+[1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0]
+[1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0]
+[0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0]
+[0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0]
+[0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0]
+[0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0]
+[0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0]
+[0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0]
+[0 0 0 0 0 1 0 0 0 0 0 0 1 1 1 1 1 0 0 0 0 0 0 0 0 0 1 0 1 1 0 0]
+[0 0 0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1]
+[0 0 0 0 0 0 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 1]
+Total :416: tests for class:com.google.gson.Streams:
+Methods executed: 3
+Unconstrained method :write:3:8
+Unconstrained method :parse:2:4
+com.google.gson.stream.JsonWriter
+Directory of jaguar data: ../jaguar-data/gson/1b
+Directory of subsumption data: ../subsumption-data/Gson
+Analyzing class com.google.gson.stream.JsonWriter 
+../jaguar-data/gson/1b/jaguar/.jaguar/matrix
+com.google.gson.stream.JsonWriter.matrix
+../subsumption-data/Gson/reduce/com.google.gson.stream.JsonWriter.sub.json
+>>>>> com.google.gson.stream.JsonWriter <<<<<
+0:<init>:4
+1:setIndent:7
+2:close:21
+3:name:6
+4:value:7
+5:value:5
+6:value:10
+7:value:20
+8:close:4
+9:string:54
+10:newline:19
+11:beforeName:15
+12:beforeValue:33
+Total :252: tests for class:com.google.gson.stream.JsonWriter:
+Methods executed: 9
+com.google.gson.JsonObjectDeserializationVisitor
+Directory of jaguar data: ../jaguar-data/gson/1b
+Directory of subsumption data: ../subsumption-data/Gson
+Analyzing class com.google.gson.JsonObjectDeserializationVisitor 
+../jaguar-data/gson/1b/jaguar/.jaguar/matrix
+com.google.gson.JsonObjectDeserializationVisitor.matrix
+../subsumption-data/Gson/reduce/com.google.gson.JsonObjectDeserializationVisitor.sub.json
+>>>>> com.google.gson.JsonObjectDeserializationVisitor <<<<<
+0:visitObjectField:19
+1:visitArrayField:19
+2:visitFieldUsingCustomHandler:33
+3:visitPrimitive:9
+Total :85: tests for class:com.google.gson.JsonObjectDeserializationVisitor:
+Methods executed: 4
+com.google.gson.GenericArrayTypeImpl
+Directory of jaguar data: ../jaguar-data/gson/1b
+Directory of subsumption data: ../subsumption-data/Gson
+Analyzing class com.google.gson.GenericArrayTypeImpl 
+../jaguar-data/gson/1b/jaguar/.jaguar/matrix
+com.google.gson.GenericArrayTypeImpl.matrix
+../subsumption-data/Gson/reduce/com.google.gson.GenericArrayTypeImpl.sub.json
+>>>>> com.google.gson.GenericArrayTypeImpl <<<<<
+0:equals:12
+1:hashCode:6
+Total :6: tests for class:com.google.gson.GenericArrayTypeImpl:
+Methods executed: 2
+com.google.gson.DefaultTypeAdapters$LocaleTypeAdapter
+Directory of jaguar data: ../jaguar-data/gson/1b
+Directory of subsumption data: ../subsumption-data/Gson
+Analyzing class com.google.gson.DefaultTypeAdapters$LocaleTypeAdapter 
+../jaguar-data/gson/1b/jaguar/.jaguar/matrix
+com.google.gson.DefaultTypeAdapters$LocaleTypeAdapter.matrix
+../subsumption-data/Gson/reduce/com.google.gson.DefaultTypeAdapters$LocaleTypeAdapter.sub.json
+>>>>> com.google.gson.DefaultTypeAdapters$LocaleTypeAdapter <<<<<
+0:deserialize:33
+Total :3: tests for class:com.google.gson.DefaultTypeAdapters$LocaleTypeAdapter:
+Methods executed: 1
+com.google.gson.ObjectNavigatorFactory
+Directory of jaguar data: ../jaguar-data/gson/1b
+Directory of subsumption data: ../subsumption-data/Gson
+Analyzing class com.google.gson.ObjectNavigatorFactory 
+../jaguar-data/gson/1b/jaguar/.jaguar/matrix
+com.google.gson.ObjectNavigatorFactory.matrix
+../subsumption-data/Gson/reduce/com.google.gson.ObjectNavigatorFactory.sub.json
+>>>>> com.google.gson.ObjectNavigatorFactory <<<<<
+0:<init>:6
+Total :426: tests for class:com.google.gson.ObjectNavigatorFactory:
+Methods executed: 1
+com.google.gson.Escaper
+Directory of jaguar data: ../jaguar-data/gson/1b
+Directory of subsumption data: ../subsumption-data/Gson
+Analyzing class com.google.gson.Escaper 
+../jaguar-data/gson/1b/jaguar/.jaguar/matrix
+com.google.gson.Escaper.matrix
+../subsumption-data/Gson/reduce/com.google.gson.Escaper.sub.json
+>>>>> com.google.gson.Escaper <<<<<
+0:escapeJsonString:51
+1:mustEscapeCharInJsString:15
+2:isControlCharacter:10
+3:appendHexJavaScriptRepresentation:8
+Total :26: tests for class:com.google.gson.Escaper:
+Methods executed: 4
+com.google.gson.JsonPrimitive
+Directory of jaguar data: ../jaguar-data/gson/1b
+Directory of subsumption data: ../subsumption-data/Gson
+Analyzing class com.google.gson.JsonPrimitive 
+../jaguar-data/gson/1b/jaguar/.jaguar/matrix
+com.google.gson.JsonPrimitive.matrix
+../subsumption-data/Gson/reduce/com.google.gson.JsonPrimitive.sub.json
+>>>>> com.google.gson.JsonPrimitive <<<<<
+0:setValue:10
+1:getAsBoolean:3
+2:getAsNumber:6
+3:stringToNumber:6
+4:getAsString:8
+5:getAsDouble:3
+6:getAsBigDecimal:8
+7:getAsBigInteger:8
+8:getAsFloat:3
+9:getAsLong:3
+10:getAsShort:3
+11:getAsInt:3
+12:getAsByte:3
+13:getAsObject:18
+14:toString:11
+15:isPrimitiveOrString:19
+16:hashCode:12
+17:equals:39
+18:isIntegral:16
+19:isFloatingPoint:12
+Total :415: tests for class:com.google.gson.JsonPrimitive:
+Methods executed: 20
+com.google.gson.ExposeAnnotationSerializationExclusionStrategy
+Directory of jaguar data: ../jaguar-data/gson/1b
+Directory of subsumption data: ../subsumption-data/Gson
+Analyzing class com.google.gson.ExposeAnnotationSerializationExclusionStrategy 
+../jaguar-data/gson/1b/jaguar/.jaguar/matrix
+com.google.gson.ExposeAnnotationSerializationExclusionStrategy.matrix
+../subsumption-data/Gson/reduce/com.google.gson.ExposeAnnotationSerializationExclusionStrategy.sub.json
+>>>>> com.google.gson.ExposeAnnotationSerializationExclusionStrategy <<<<<
+0:shouldSkipField:4
+Total :9: tests for class:com.google.gson.ExposeAnnotationSerializationExclusionStrategy:
+Methods executed: 1
+com.google.gson.Preconditions
+Directory of jaguar data: ../jaguar-data/gson/1b
+Directory of subsumption data: ../subsumption-data/Gson
+Analyzing class com.google.gson.Preconditions 
+../jaguar-data/gson/1b/jaguar/.jaguar/matrix
+com.google.gson.Preconditions.matrix
+../subsumption-data/Gson/reduce/com.google.gson.Preconditions.sub.json
+>>>>> com.google.gson.Preconditions <<<<<
+0:checkNotNull:2
+1:checkArgument:3
+2:checkState:3
+Total :567: tests for class:com.google.gson.Preconditions:
+Methods executed: 3
+com.google.gson.MemoryRefStack
+Directory of jaguar data: ../jaguar-data/gson/1b
+Directory of subsumption data: ../subsumption-data/Gson
+Analyzing class com.google.gson.MemoryRefStack 
+../jaguar-data/gson/1b/jaguar/.jaguar/matrix
+com.google.gson.MemoryRefStack.matrix
+../subsumption-data/Gson/reduce/com.google.gson.MemoryRefStack.sub.json
+>>>>> com.google.gson.MemoryRefStack <<<<<
+0:contains:19
+Total :238: tests for class:com.google.gson.MemoryRefStack:
+Methods executed: 1
+com.google.gson.ParameterizedTypeImpl
+Directory of jaguar data: ../jaguar-data/gson/1b
+Directory of subsumption data: ../subsumption-data/Gson
+Analyzing class com.google.gson.ParameterizedTypeImpl 
+../jaguar-data/gson/1b/jaguar/.jaguar/matrix
+com.google.gson.ParameterizedTypeImpl.matrix
+../subsumption-data/Gson/reduce/com.google.gson.ParameterizedTypeImpl.sub.json
+>>>>> com.google.gson.ParameterizedTypeImpl <<<<<
+0:equals:39
+1:hashCode:12
+Total :20: tests for class:com.google.gson.ParameterizedTypeImpl:
+Methods executed: 2
+com.google.gson.Pair
+Directory of jaguar data: ../jaguar-data/gson/1b
+Directory of subsumption data: ../subsumption-data/Gson
+Analyzing class com.google.gson.Pair 
+../jaguar-data/gson/1b/jaguar/.jaguar/matrix
+com.google.gson.Pair.matrix
+../subsumption-data/Gson/reduce/com.google.gson.Pair.sub.json
+>>>>> com.google.gson.Pair <<<<<
+0:hashCode:8
+1:equals:19
+2:equal:10
+Total :191: tests for class:com.google.gson.Pair:
+Methods executed: 3
+com.google.gson.JsonSerializationVisitor
+Directory of jaguar data: ../jaguar-data/gson/1b
+Directory of subsumption data: ../subsumption-data/Gson
+Analyzing class com.google.gson.JsonSerializationVisitor 
+../jaguar-data/gson/1b/jaguar/.jaguar/matrix
+com.google.gson.JsonSerializationVisitor.matrix
+../subsumption-data/Gson/reduce/com.google.gson.JsonSerializationVisitor.sub.json
+>>>>> com.google.gson.JsonSerializationVisitor <<<<<
+0:start:12
+1:end:4
+2:visitArray:13
+3:visitArrayField:18
+4:visitObjectField:18
+5:visitPrimitive:4
+6:addAsArrayElement:8
+7:visitUsingCustomHandler:13
+8:findAndInvokeCustomSerializer:14
+9:visitFieldUsingCustomHandler:16
+10:isFieldNull:6
+No unconstrained duas covered in testcase 4 of findAndInvokeCustomSerializer: [1 1 0 1 0 1 1 1 1 1 0 0 0 0]: [0 0 0 0 1 0 0 0 0 0 0 1 1 0]
+[0 0 0 0 0 0 0 0 0 0 0 1 0 0]
+[1 1 1 1 0 1 1 1 1 1 1 1 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 1 0]
+[1 1 1 1 0 1 1 1 1 1 1 0 1 1]
+[0 0 0 0 1 0 0 0 0 0 0 0 0 0]
+[0 0 0 0 1 0 0 0 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 16 of visitArray: [1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 1 0 0 0 0 0 0]
+[0 0 0 1 0 0 1 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 18 of visitArray: [1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 1 0 0 0 0 0 0]
+[0 0 0 1 0 0 1 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 19 of visitArray: [1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 1 0 0 0 0 0 0]
+[0 0 0 1 0 0 1 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 25 of visitUsingCustomHandler: [1 0 0 0 0 1 0 0 0 1 0 0 0]: [0 1 1 1 1 0 1 1 0 0 1 1 1]
+[0 1 0 0 0 0 0 0 0 0 1 0 1]
+[1 1 0 0 0 1 0 0 0 1 1 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 1 0]
+[1 0 0 0 0 1 0 0 0 1 0 1 0]
+[0 0 1 0 1 0 1 0 0 0 0 0 0]
+[0 0 1 0 1 0 1 0 1 0 0 0 0]
+[0 0 0 1 0 0 0 1 0 0 0 0 0]
+[0 0 0 1 0 0 0 1 1 0 0 0 0]
+No unconstrained duas covered in testcase 25 of findAndInvokeCustomSerializer: [1 1 0 1 0 1 1 1 1 1 0 0 0 0]: [0 0 0 0 1 0 0 0 0 0 0 1 1 0]
+[0 0 0 0 0 0 0 0 0 0 0 1 0 0]
+[1 1 1 1 0 1 1 1 1 1 1 1 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 1 0]
+[1 1 1 1 0 1 1 1 1 1 1 0 1 1]
+[0 0 0 0 1 0 0 0 0 0 0 0 0 0]
+[0 0 0 0 1 0 0 0 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 27 of visitFieldUsingCustomHandler: [1 0 0 0 0 0 0 1 0 0 0 1 1 0 0 0]: [0 1 1 1 1 1 1 0 1 1 0 0 0 1 1 1]
+[0 1 0 0 0 1 0 0 0 0 0 0 0 1 0 1]
+[1 1 0 0 0 1 0 1 0 0 0 1 1 1 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0]
+[1 0 0 0 0 0 0 1 0 0 0 1 1 0 1 0]
+[0 0 1 0 1 0 1 0 1 0 0 0 0 0 0 0]
+[0 0 1 0 1 0 1 0 1 0 1 0 0 0 0 0]
+[0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0]
+[0 0 0 1 0 0 0 0 0 1 1 0 0 0 0 0]
+No unconstrained duas covered in testcase 90 of visitArray: [1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 1 0 0 0 0 0 0]
+[0 0 0 1 0 0 1 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 159 of visitArray: [1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 1 0 0 0 0 0 0]
+[0 0 0 1 0 0 1 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 184 of visitArray: [1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 1 0 0 0 0 0 0]
+[0 0 0 1 0 0 1 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 186 of visitArray: [1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 1 0 0 0 0 0 0]
+[0 0 0 1 0 0 1 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 192 of visitArray: [1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 1 0 0 0 0 0 0]
+[0 0 0 1 0 0 1 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 193 of findAndInvokeCustomSerializer: [1 1 0 1 0 1 1 1 1 1 0 0 0 0]: [0 0 0 0 1 0 0 0 0 0 0 1 1 0]
+[0 0 0 0 0 0 0 0 0 0 0 1 0 0]
+[1 1 1 1 0 1 1 1 1 1 1 1 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 1 0]
+[1 1 1 1 0 1 1 1 1 1 1 0 1 1]
+[0 0 0 0 1 0 0 0 0 0 0 0 0 0]
+[0 0 0 0 1 0 0 0 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 195 of findAndInvokeCustomSerializer: [1 1 0 1 0 1 1 1 1 1 0 0 0 0]: [0 0 0 0 1 0 0 0 0 0 0 1 1 0]
+[0 0 0 0 0 0 0 0 0 0 0 1 0 0]
+[1 1 1 1 0 1 1 1 1 1 1 1 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 1 0]
+[1 1 1 1 0 1 1 1 1 1 1 0 1 1]
+[0 0 0 0 1 0 0 0 0 0 0 0 0 0]
+[0 0 0 0 1 0 0 0 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 199 of visitArray: [1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 1 0 0 0 0 0 0]
+[0 0 0 1 0 0 1 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 200 of visitArray: [1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 1 0 0 0 0 0 0]
+[0 0 0 1 0 0 1 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 204 of visitArray: [1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 1 0 0 0 0 0 0]
+[0 0 0 1 0 0 1 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 207 of findAndInvokeCustomSerializer: [1 1 0 1 0 1 1 1 1 1 0 0 0 0]: [0 0 0 0 1 0 0 0 0 0 0 1 1 0]
+[0 0 0 0 0 0 0 0 0 0 0 1 0 0]
+[1 1 1 1 0 1 1 1 1 1 1 1 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 1 0]
+[1 1 1 1 0 1 1 1 1 1 1 0 1 1]
+[0 0 0 0 1 0 0 0 0 0 0 0 0 0]
+[0 0 0 0 1 0 0 0 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 209 of findAndInvokeCustomSerializer: [1 1 0 1 0 1 1 1 1 1 0 0 0 0]: [0 0 0 0 1 0 0 0 0 0 0 1 1 0]
+[0 0 0 0 0 0 0 0 0 0 0 1 0 0]
+[1 1 1 1 0 1 1 1 1 1 1 1 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 1 0]
+[1 1 1 1 0 1 1 1 1 1 1 0 1 1]
+[0 0 0 0 1 0 0 0 0 0 0 0 0 0]
+[0 0 0 0 1 0 0 0 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 211 of findAndInvokeCustomSerializer: [1 1 0 1 0 1 1 1 1 1 0 0 0 0]: [0 0 0 0 1 0 0 0 0 0 0 1 1 0]
+[0 0 0 0 0 0 0 0 0 0 0 1 0 0]
+[1 1 1 1 0 1 1 1 1 1 1 1 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 1 0]
+[1 1 1 1 0 1 1 1 1 1 1 0 1 1]
+[0 0 0 0 1 0 0 0 0 0 0 0 0 0]
+[0 0 0 0 1 0 0 0 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 213 of findAndInvokeCustomSerializer: [1 1 0 1 0 1 1 1 1 1 0 0 0 0]: [0 0 0 0 1 0 0 0 0 0 0 1 1 0]
+[0 0 0 0 0 0 0 0 0 0 0 1 0 0]
+[1 1 1 1 0 1 1 1 1 1 1 1 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 1 0]
+[1 1 1 1 0 1 1 1 1 1 1 0 1 1]
+[0 0 0 0 1 0 0 0 0 0 0 0 0 0]
+[0 0 0 0 1 0 0 0 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 227 of visitArray: [1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 1 0 0 0 0 0 0]
+[0 0 0 1 0 0 1 0 0 0 0 0 0]
+Total :237: tests for class:com.google.gson.JsonSerializationVisitor:
+Methods executed: 10
+Unconstrained method :findAndInvokeCustomSerializer:1:8
+Unconstrained method :visitArray:1:12
+Unconstrained method :visitUsingCustomHandler:1:1
+Unconstrained method :visitFieldUsingCustomHandler:1:1
+com.google.gson.DefaultTypeAdapters$FloatSerializer
+Directory of jaguar data: ../jaguar-data/gson/1b
+Directory of subsumption data: ../subsumption-data/Gson
+Analyzing class com.google.gson.DefaultTypeAdapters$FloatSerializer 
+../jaguar-data/gson/1b/jaguar/.jaguar/matrix
+com.google.gson.DefaultTypeAdapters$FloatSerializer.matrix
+../subsumption-data/Gson/reduce/com.google.gson.DefaultTypeAdapters$FloatSerializer.sub.json
+>>>>> com.google.gson.DefaultTypeAdapters$FloatSerializer <<<<<
+0:serialize:10
+Total :10: tests for class:com.google.gson.DefaultTypeAdapters$FloatSerializer:
+Methods executed: 1
+com.google.gson.ObjectNavigator
+Directory of jaguar data: ../jaguar-data/gson/1b
+Directory of subsumption data: ../subsumption-data/Gson
+Analyzing class com.google.gson.ObjectNavigator 
+../jaguar-data/gson/1b/jaguar/.jaguar/matrix
+com.google.gson.ObjectNavigator.matrix
+../subsumption-data/Gson/reduce/com.google.gson.ObjectNavigator.sub.json
+>>>>> com.google.gson.ObjectNavigator <<<<<
+0:accept:67
+1:isPrimitiveOrString:6
+2:navigateClassFields:43
+Wrong subsumption: accept
+t:[0 1 1 1 1 1 1 0 1 0 0 0 1 1 1 1 0 1 0 0 0 1 1 1 1 1 0 0 0 0 1 0 1 0 1 0 1
+ 1 0 0 1 1 0 1 1 1 1 0 0 0 0 1 0 1 0 1 0 0 1 0 0 0 0 0 0 0 0]
+u:[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0]
+s:[0 1 1 1 1 1 1 1 1 0 0 0 1 1 1 1 1 1 0 0 0 1 1 1 1 1 1 0 0 0 1 0 1 0 1 0 0
+ 1 0 0 0 1 0 1 1 1 1 0 0 0 0 1 0 1 0 1 0 1 1 0 0 0 0 0 0 0 0]
+Wrong subsumption: accept
+t:[0 1 1 1 1 1 1 0 1 0 0 0 1 1 1 1 0 1 0 0 0 1 1 1 1 1 0 0 0 0 1 0 1 0 1 0 1
+ 1 0 0 1 1 0 1 1 1 1 0 0 0 0 1 0 1 0 1 0 0 1 0 0 0 0 0 0 0 0]
+u:[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+s:[0 1 1 1 1 1 1 1 0 0 0 0 1 1 1 1 1 0 0 0 0 1 1 1 1 1 1 0 0 0 1 0 1 0 1 0 1
+ 1 0 0 0 1 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+Wrong subsumption: accept
+t:[0 1 1 1 1 1 1 0 1 0 0 1 1 1 1 1 0 1 0 0 1 1 1 1 1 1 0 1 1 0 1 0 1 1 1 0 1
+ 1 0 0 1 1 0 1 1 1 1 0 0 0 1 1 0 1 0 1 0 0 1 0 0 0 0 0 0 0 0]
+u:[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0]
+s:[0 1 1 1 1 1 1 1 1 0 0 0 1 1 1 1 1 1 0 0 0 1 1 1 1 1 1 0 0 0 1 0 1 0 1 0 0
+ 1 0 0 0 1 0 1 1 1 1 0 0 0 0 1 0 1 0 1 0 1 1 0 0 0 0 0 0 0 0]
+Wrong subsumption: accept
+t:[0 1 1 1 1 1 1 0 1 0 0 1 1 1 1 1 0 1 0 0 1 1 1 1 1 1 0 1 1 0 1 0 1 1 1 0 1
+ 1 0 0 1 1 0 1 1 1 1 0 0 0 1 1 0 1 0 1 0 0 1 0 0 0 0 0 0 0 0]
+u:[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+s:[0 1 1 1 1 1 1 1 0 0 0 0 1 1 1 1 1 0 0 0 0 1 1 1 1 1 1 0 0 0 1 0 1 0 1 0 1
+ 1 0 0 0 1 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+Wrong subsumption: accept
+t:[0 1 1 1 1 1 1 0 1 0 0 1 1 1 1 1 0 1 0 0 1 1 1 1 1 1 0 1 1 0 1 0 1 1 1 0 1
+ 1 0 0 1 1 0 1 1 1 1 0 0 0 1 1 0 1 0 1 0 0 1 0 0 0 0 0 0 0 0]
+u:[0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 1 0 0 0 0 1 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+s:[0 1 1 1 1 1 0 1 0 0 0 1 1 1 1 0 1 0 0 0 1 1 1 1 1 0 1 1 1 0 1 0 1 1 0 0 0
+ 1 0 0 0 1 0 1 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+Wrong subsumption: accept
+t:[0 1 1 1 1 1 1 0 1 0 0 0 1 1 1 1 0 1 0 0 0 1 1 1 1 1 0 0 0 0 1 0 1 0 1 0 1
+ 1 0 0 1 1 0 1 1 1 1 0 0 0 0 1 0 1 0 1 0 0 1 0 0 0 0 0 0 0 0]
+u:[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0]
+s:[0 1 1 1 1 1 1 1 1 0 0 0 1 1 1 1 1 1 0 0 0 1 1 1 1 1 1 0 0 0 1 0 1 0 1 0 0
+ 1 0 0 0 1 0 1 1 1 1 0 0 0 0 1 0 1 0 1 0 1 1 0 0 0 0 0 0 0 0]
+Wrong subsumption: accept
+t:[0 1 1 1 1 1 1 0 1 0 0 0 1 1 1 1 0 1 0 0 0 1 1 1 1 1 0 0 0 0 1 0 1 0 1 0 1
+ 1 0 0 1 1 0 1 1 1 1 0 0 0 0 1 0 1 0 1 0 0 1 0 0 0 0 0 0 0 0]
+u:[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+s:[0 1 1 1 1 1 1 1 0 0 0 0 1 1 1 1 1 0 0 0 0 1 1 1 1 1 1 0 0 0 1 0 1 0 1 0 1
+ 1 0 0 0 1 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+Wrong subsumption: accept
+t:[0 1 1 1 1 1 1 0 1 0 0 0 1 1 1 1 0 1 0 0 0 1 1 1 1 1 0 0 0 0 1 0 1 0 1 0 1
+ 1 0 1 0 1 0 1 1 1 1 0 0 0 0 1 0 1 0 1 0 0 1 0 0 0 0 0 0 0 0]
+u:[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0]
+s:[0 1 1 1 1 1 1 1 1 0 0 0 1 1 1 1 1 1 0 0 0 1 1 1 1 1 1 0 0 0 1 0 1 0 1 0 0
+ 1 0 0 0 1 0 1 1 1 1 0 0 0 0 1 0 1 0 1 0 1 1 0 0 0 0 0 0 0 0]
+Wrong subsumption: accept
+t:[0 1 1 1 1 1 1 0 1 0 0 0 1 1 1 1 0 1 0 0 0 1 1 1 1 1 0 0 0 0 1 0 1 0 1 0 1
+ 1 0 1 0 1 0 1 1 1 1 0 0 0 0 1 0 1 0 1 0 0 1 0 0 0 0 0 0 0 0]
+u:[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+s:[0 1 1 1 1 1 1 1 0 0 0 0 1 1 1 1 1 0 0 0 0 1 1 1 1 1 1 0 0 0 1 0 1 0 1 0 1
+ 1 0 0 0 1 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+Wrong subsumption: accept
+t:[0 1 1 1 1 1 1 0 0 0 0 0 1 1 1 1 0 0 0 0 0 1 1 1 1 1 0 0 0 0 1 0 1 0 1 0 1
+ 1 0 1 0 1 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+u:[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+s:[0 1 1 1 1 1 1 1 0 0 0 0 1 1 1 1 1 0 0 0 0 1 1 1 1 1 1 0 0 0 1 0 1 0 1 0 1
+ 1 0 0 0 1 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+Wrong subsumption: accept
+t:[0 1 1 1 1 1 1 0 1 0 0 0 1 1 1 1 0 1 0 0 0 1 1 1 1 1 0 0 0 0 1 0 1 0 1 0 1
+ 1 0 1 0 1 0 1 1 1 1 0 0 0 0 1 0 1 0 1 0 0 1 0 0 0 0 0 0 0 0]
+u:[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0]
+s:[0 1 1 1 1 1 1 1 1 0 0 0 1 1 1 1 1 1 0 0 0 1 1 1 1 1 1 0 0 0 1 0 1 0 1 0 0
+ 1 0 0 0 1 0 1 1 1 1 0 0 0 0 1 0 1 0 1 0 1 1 0 0 0 0 0 0 0 0]
+Wrong subsumption: accept
+t:[0 1 1 1 1 1 1 0 1 0 0 0 1 1 1 1 0 1 0 0 0 1 1 1 1 1 0 0 0 0 1 0 1 0 1 0 1
+ 1 0 1 0 1 0 1 1 1 1 0 0 0 0 1 0 1 0 1 0 0 1 0 0 0 0 0 0 0 0]
+u:[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+s:[0 1 1 1 1 1 1 1 0 0 0 0 1 1 1 1 1 0 0 0 0 1 1 1 1 1 1 0 0 0 1 0 1 0 1 0 1
+ 1 0 0 0 1 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+Wrong subsumption: accept
+t:[0 1 1 1 1 1 1 0 1 0 0 0 1 1 1 1 0 1 0 0 0 1 1 1 1 1 0 0 0 0 1 0 1 0 1 0 1
+ 1 0 0 1 1 0 1 1 1 1 0 0 0 0 1 0 1 0 1 0 1 1 1 0 1 0 1 0 0 1]
+u:[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0]
+s:[0 1 1 1 1 1 1 1 1 0 0 0 1 1 1 1 1 1 0 0 0 1 1 1 1 1 1 0 0 0 1 0 1 0 1 0 0
+ 1 0 0 0 1 0 1 1 1 1 0 0 0 0 1 0 1 0 1 0 1 1 0 0 0 0 0 0 0 0]
+Wrong subsumption: accept
+t:[0 1 1 1 1 1 1 0 1 0 0 0 1 1 1 1 0 1 0 0 0 1 1 1 1 1 0 0 0 0 1 0 1 0 1 0 1
+ 1 0 0 1 1 0 1 1 1 1 0 0 0 0 1 0 1 0 1 0 1 1 1 0 1 0 1 0 0 1]
+u:[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1]
+s:[0 1 1 1 1 1 1 1 1 0 0 0 1 1 1 1 1 1 0 0 0 1 1 1 1 1 1 0 0 0 1 0 1 0 1 0 0
+ 1 0 0 0 1 0 1 1 1 1 0 0 0 0 1 0 1 0 0 0 1 0 1 0 1 0 1 0 1 1]
+Wrong subsumption: accept
+t:[0 1 1 1 1 1 1 0 1 0 0 0 1 1 1 1 0 1 0 0 0 1 1 1 1 1 0 0 0 0 1 0 1 0 1 0 1
+ 1 0 0 1 1 0 1 1 1 1 0 0 0 0 1 0 1 0 1 0 1 1 1 0 1 0 1 0 0 1]
+u:[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+s:[0 1 1 1 1 1 1 1 0 0 0 0 1 1 1 1 1 0 0 0 0 1 1 1 1 1 1 0 0 0 1 0 1 0 1 0 1
+ 1 0 0 0 1 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+Wrong subsumption: accept
+t:[0 1 1 1 1 1 1 0 1 0 0 0 1 1 1 1 0 1 0 0 0 1 1 1 1 1 0 0 0 0 1 0 1 0 1 0 1
+ 1 0 0 1 1 0 1 1 1 1 0 0 0 0 1 0 1 0 1 0 0 1 0 0 0 0 0 0 0 0]
+u:[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0]
+s:[0 1 1 1 1 1 1 1 1 0 0 0 1 1 1 1 1 1 0 0 0 1 1 1 1 1 1 0 0 0 1 0 1 0 1 0 0
+ 1 0 0 0 1 0 1 1 1 1 0 0 0 0 1 0 1 0 1 0 1 1 0 0 0 0 0 0 0 0]
+Wrong subsumption: accept
+t:[0 1 1 1 1 1 1 0 1 0 0 0 1 1 1 1 0 1 0 0 0 1 1 1 1 1 0 0 0 0 1 0 1 0 1 0 1
+ 1 0 0 1 1 0 1 1 1 1 0 0 0 0 1 0 1 0 1 0 0 1 0 0 0 0 0 0 0 0]
+u:[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+s:[0 1 1 1 1 1 1 1 0 0 0 0 1 1 1 1 1 0 0 0 0 1 1 1 1 1 1 0 0 0 1 0 1 0 1 0 1
+ 1 0 0 0 1 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+Total :406: tests for class:com.google.gson.ObjectNavigator:
+Methods executed: 3
+com.google.gson.VersionExclusionStrategy
+Directory of jaguar data: ../jaguar-data/gson/1b
+Directory of subsumption data: ../subsumption-data/Gson
+Analyzing class com.google.gson.VersionExclusionStrategy 
+../jaguar-data/gson/1b/jaguar/.jaguar/matrix
+com.google.gson.VersionExclusionStrategy.matrix
+../subsumption-data/Gson/reduce/com.google.gson.VersionExclusionStrategy.sub.json
+>>>>> com.google.gson.VersionExclusionStrategy <<<<<
+0:<init>:4
+1:shouldSkipField:4
+2:shouldSkipClass:4
+3:isValidVersion:8
+4:isValidSince:9
+5:isValidUntil:9
+Total :13: tests for class:com.google.gson.VersionExclusionStrategy:
+Methods executed: 6
+com.google.gson.DefaultTypeAdapters$DoubleSerializer
+Directory of jaguar data: ../jaguar-data/gson/1b
+Directory of subsumption data: ../subsumption-data/Gson
+Analyzing class com.google.gson.DefaultTypeAdapters$DoubleSerializer 
+../jaguar-data/gson/1b/jaguar/.jaguar/matrix
+com.google.gson.DefaultTypeAdapters$DoubleSerializer.matrix
+../subsumption-data/Gson/reduce/com.google.gson.DefaultTypeAdapters$DoubleSerializer.sub.json
+>>>>> com.google.gson.DefaultTypeAdapters$DoubleSerializer <<<<<
+0:serialize:10
+Total :14: tests for class:com.google.gson.DefaultTypeAdapters$DoubleSerializer:
+Methods executed: 1
+com.google.gson.JsonStreamParser
+Directory of jaguar data: ../jaguar-data/gson/1b
+Directory of subsumption data: ../subsumption-data/Gson
+Analyzing class com.google.gson.JsonStreamParser 
+../jaguar-data/gson/1b/jaguar/.jaguar/matrix
+com.google.gson.JsonStreamParser.matrix
+../subsumption-data/Gson/reduce/com.google.gson.JsonStreamParser.sub.json
+>>>>> com.google.gson.JsonStreamParser <<<<<
+0:next:4
+1:hasNext:6
+Total :6: tests for class:com.google.gson.JsonStreamParser:
+Methods executed: 2
+com.google.gson.TypeUtils
+Directory of jaguar data: ../jaguar-data/gson/1b
+Directory of subsumption data: ../subsumption-data/Gson
+Analyzing class com.google.gson.TypeUtils 
+../jaguar-data/gson/1b/jaguar/.jaguar/matrix
+com.google.gson.TypeUtils.matrix
+../subsumption-data/Gson/reduce/com.google.gson.TypeUtils.sub.json
+>>>>> com.google.gson.TypeUtils <<<<<
+0:getActualTypeForFirstTypeVariable:9
+1:isArray:5
+2:toRawClass:13
+Total :474: tests for class:com.google.gson.TypeUtils:
+Methods executed: 3
+com.google.gson.ExposeAnnotationDeserializationExclusionStrategy
+Directory of jaguar data: ../jaguar-data/gson/1b
+Directory of subsumption data: ../subsumption-data/Gson
+Analyzing class com.google.gson.ExposeAnnotationDeserializationExclusionStrategy 
+../jaguar-data/gson/1b/jaguar/.jaguar/matrix
+com.google.gson.ExposeAnnotationDeserializationExclusionStrategy.matrix
+../subsumption-data/Gson/reduce/com.google.gson.ExposeAnnotationDeserializationExclusionStrategy.sub.json
+>>>>> com.google.gson.ExposeAnnotationDeserializationExclusionStrategy <<<<<
+0:shouldSkipField:4
+Total :7: tests for class:com.google.gson.ExposeAnnotationDeserializationExclusionStrategy:
+Methods executed: 1
+com.google.gson.DefaultTypeAdapters$DefaultJavaSqlDateTypeAdapter
+Directory of jaguar data: ../jaguar-data/gson/1b
+Directory of subsumption data: ../subsumption-data/Gson
+Analyzing class com.google.gson.DefaultTypeAdapters$DefaultJavaSqlDateTypeAdapter 
+../jaguar-data/gson/1b/jaguar/.jaguar/matrix
+com.google.gson.DefaultTypeAdapters$DefaultJavaSqlDateTypeAdapter.matrix
+../subsumption-data/Gson/reduce/com.google.gson.DefaultTypeAdapters$DefaultJavaSqlDateTypeAdapter.sub.json
+>>>>> com.google.gson.DefaultTypeAdapters$DefaultJavaSqlDateTypeAdapter <<<<<
+0:deserialize:9
+Total :1: tests for class:com.google.gson.DefaultTypeAdapters$DefaultJavaSqlDateTypeAdapter:
+Methods executed: 1
+com.google.gson.TypeInfoArray
+Directory of jaguar data: ../jaguar-data/gson/1b
+Directory of subsumption data: ../subsumption-data/Gson
+Analyzing class com.google.gson.TypeInfoArray 
+../jaguar-data/gson/1b/jaguar/.jaguar/matrix
+com.google.gson.TypeInfoArray.matrix
+../subsumption-data/Gson/reduce/com.google.gson.TypeInfoArray.sub.json
+>>>>> com.google.gson.TypeInfoArray <<<<<
+0:<init>:12
+1:extractSecondLevelType:4
+No unconstrained duas covered in testcase 0 of <init>: [1 1 1 1 1 0 0 1 0 1 1 0]: [0 0 0 0 0 1 1 0 1 0 0 1]
+[0 0 0 0 0 0 0 0 1 0 0 1]
+[1 1 1 1 1 0 0 1 1 1 1 1]
+[0 0 0 0 0 1 1 0 0 0 0 0]
+[1 1 1 1 0 1 1 0 0 0 0 0]
+No unconstrained duas covered in testcase 1 of <init>: [1 1 1 1 1 0 0 1 0 1 1 0]: [0 0 0 0 0 1 1 0 1 0 0 1]
+[0 0 0 0 0 0 0 0 1 0 0 1]
+[1 1 1 1 1 0 0 1 1 1 1 1]
+[0 0 0 0 0 1 1 0 0 0 0 0]
+[1 1 1 1 0 1 1 0 0 0 0 0]
+No unconstrained duas covered in testcase 2 of <init>: [1 1 1 1 1 0 0 1 0 1 1 0]: [0 0 0 0 0 1 1 0 1 0 0 1]
+[0 0 0 0 0 0 0 0 1 0 0 1]
+[1 1 1 1 1 0 0 1 1 1 1 1]
+[0 0 0 0 0 1 1 0 0 0 0 0]
+[1 1 1 1 0 1 1 0 0 0 0 0]
+No unconstrained duas covered in testcase 3 of <init>: [1 1 1 1 1 0 0 1 0 1 1 0]: [0 0 0 0 0 1 1 0 1 0 0 1]
+[0 0 0 0 0 0 0 0 1 0 0 1]
+[1 1 1 1 1 0 0 1 1 1 1 1]
+[0 0 0 0 0 1 1 0 0 0 0 0]
+[1 1 1 1 0 1 1 0 0 0 0 0]
+No unconstrained duas covered in testcase 4 of <init>: [1 1 1 1 1 0 0 1 0 1 1 0]: [0 0 0 0 0 1 1 0 1 0 0 1]
+[0 0 0 0 0 0 0 0 1 0 0 1]
+[1 1 1 1 1 0 0 1 1 1 1 1]
+[0 0 0 0 0 1 1 0 0 0 0 0]
+[1 1 1 1 0 1 1 0 0 0 0 0]
+No unconstrained duas covered in testcase 5 of <init>: [1 1 1 1 1 0 0 1 0 1 1 0]: [0 0 0 0 0 1 1 0 1 0 0 1]
+[0 0 0 0 0 0 0 0 1 0 0 1]
+[1 1 1 1 1 0 0 1 1 1 1 1]
+[0 0 0 0 0 1 1 0 0 0 0 0]
+[1 1 1 1 0 1 1 0 0 0 0 0]
+No unconstrained duas covered in testcase 7 of <init>: [1 1 1 1 1 0 0 1 0 1 1 0]: [0 0 0 0 0 1 1 0 1 0 0 1]
+[0 0 0 0 0 0 0 0 1 0 0 1]
+[1 1 1 1 1 0 0 1 1 1 1 1]
+[0 0 0 0 0 1 1 0 0 0 0 0]
+[1 1 1 1 0 1 1 0 0 0 0 0]
+No unconstrained duas covered in testcase 8 of <init>: [1 1 1 1 1 0 0 1 0 1 1 0]: [0 0 0 0 0 1 1 0 1 0 0 1]
+[0 0 0 0 0 0 0 0 1 0 0 1]
+[1 1 1 1 1 0 0 1 1 1 1 1]
+[0 0 0 0 0 1 1 0 0 0 0 0]
+[1 1 1 1 0 1 1 0 0 0 0 0]
+No unconstrained duas covered in testcase 10 of <init>: [1 1 1 1 1 0 0 1 0 1 1 0]: [0 0 0 0 0 1 1 0 1 0 0 1]
+[0 0 0 0 0 0 0 0 1 0 0 1]
+[1 1 1 1 1 0 0 1 1 1 1 1]
+[0 0 0 0 0 1 1 0 0 0 0 0]
+[1 1 1 1 0 1 1 0 0 0 0 0]
+No unconstrained duas covered in testcase 11 of <init>: [1 1 1 1 1 0 0 1 0 1 1 0]: [0 0 0 0 0 1 1 0 1 0 0 1]
+[0 0 0 0 0 0 0 0 1 0 0 1]
+[1 1 1 1 1 0 0 1 1 1 1 1]
+[0 0 0 0 0 1 1 0 0 0 0 0]
+[1 1 1 1 0 1 1 0 0 0 0 0]
+No unconstrained duas covered in testcase 12 of <init>: [1 1 1 1 1 0 0 1 0 1 1 0]: [0 0 0 0 0 1 1 0 1 0 0 1]
+[0 0 0 0 0 0 0 0 1 0 0 1]
+[1 1 1 1 1 0 0 1 1 1 1 1]
+[0 0 0 0 0 1 1 0 0 0 0 0]
+[1 1 1 1 0 1 1 0 0 0 0 0]
+No unconstrained duas covered in testcase 13 of <init>: [1 1 1 1 1 0 0 1 0 1 1 0]: [0 0 0 0 0 1 1 0 1 0 0 1]
+[0 0 0 0 0 0 0 0 1 0 0 1]
+[1 1 1 1 1 0 0 1 1 1 1 1]
+[0 0 0 0 0 1 1 0 0 0 0 0]
+[1 1 1 1 0 1 1 0 0 0 0 0]
+No unconstrained duas covered in testcase 14 of <init>: [1 1 1 1 1 0 0 1 0 1 1 0]: [0 0 0 0 0 1 1 0 1 0 0 1]
+[0 0 0 0 0 0 0 0 1 0 0 1]
+[1 1 1 1 1 0 0 1 1 1 1 1]
+[0 0 0 0 0 1 1 0 0 0 0 0]
+[1 1 1 1 0 1 1 0 0 0 0 0]
+No unconstrained duas covered in testcase 15 of <init>: [1 1 1 1 1 0 0 1 0 1 1 0]: [0 0 0 0 0 1 1 0 1 0 0 1]
+[0 0 0 0 0 0 0 0 1 0 0 1]
+[1 1 1 1 1 0 0 1 1 1 1 1]
+[0 0 0 0 0 1 1 0 0 0 0 0]
+[1 1 1 1 0 1 1 0 0 0 0 0]
+No unconstrained duas covered in testcase 16 of <init>: [1 1 1 1 1 0 0 1 0 1 1 0]: [0 0 0 0 0 1 1 0 1 0 0 1]
+[0 0 0 0 0 0 0 0 1 0 0 1]
+[1 1 1 1 1 0 0 1 1 1 1 1]
+[0 0 0 0 0 1 1 0 0 0 0 0]
+[1 1 1 1 0 1 1 0 0 0 0 0]
+No unconstrained duas covered in testcase 17 of <init>: [1 1 1 1 1 0 0 1 0 1 1 0]: [0 0 0 0 0 1 1 0 1 0 0 1]
+[0 0 0 0 0 0 0 0 1 0 0 1]
+[1 1 1 1 1 0 0 1 1 1 1 1]
+[0 0 0 0 0 1 1 0 0 0 0 0]
+[1 1 1 1 0 1 1 0 0 0 0 0]
+No unconstrained duas covered in testcase 18 of <init>: [1 1 1 1 1 0 0 1 0 1 1 0]: [0 0 0 0 0 1 1 0 1 0 0 1]
+[0 0 0 0 0 0 0 0 1 0 0 1]
+[1 1 1 1 1 0 0 1 1 1 1 1]
+[0 0 0 0 0 1 1 0 0 0 0 0]
+[1 1 1 1 0 1 1 0 0 0 0 0]
+No unconstrained duas covered in testcase 19 of <init>: [1 1 1 1 1 0 0 1 0 1 1 0]: [0 0 0 0 0 1 1 0 1 0 0 1]
+[0 0 0 0 0 0 0 0 1 0 0 1]
+[1 1 1 1 1 0 0 1 1 1 1 1]
+[0 0 0 0 0 1 1 0 0 0 0 0]
+[1 1 1 1 0 1 1 0 0 0 0 0]
+No unconstrained duas covered in testcase 20 of <init>: [1 1 1 1 1 0 0 1 0 1 1 0]: [0 0 0 0 0 1 1 0 1 0 0 1]
+[0 0 0 0 0 0 0 0 1 0 0 1]
+[1 1 1 1 1 0 0 1 1 1 1 1]
+[0 0 0 0 0 1 1 0 0 0 0 0]
+[1 1 1 1 0 1 1 0 0 0 0 0]
+No unconstrained duas covered in testcase 21 of <init>: [1 1 1 1 1 0 0 1 0 1 1 0]: [0 0 0 0 0 1 1 0 1 0 0 1]
+[0 0 0 0 0 0 0 0 1 0 0 1]
+[1 1 1 1 1 0 0 1 1 1 1 1]
+[0 0 0 0 0 1 1 0 0 0 0 0]
+[1 1 1 1 0 1 1 0 0 0 0 0]
+No unconstrained duas covered in testcase 22 of <init>: [1 1 1 1 1 0 0 1 0 1 1 0]: [0 0 0 0 0 1 1 0 1 0 0 1]
+[0 0 0 0 0 0 0 0 1 0 0 1]
+[1 1 1 1 1 0 0 1 1 1 1 1]
+[0 0 0 0 0 1 1 0 0 0 0 0]
+[1 1 1 1 0 1 1 0 0 0 0 0]
+No unconstrained duas covered in testcase 23 of <init>: [1 1 1 1 1 0 0 1 0 1 1 0]: [0 0 0 0 0 1 1 0 1 0 0 1]
+[0 0 0 0 0 0 0 0 1 0 0 1]
+[1 1 1 1 1 0 0 1 1 1 1 1]
+[0 0 0 0 0 1 1 0 0 0 0 0]
+[1 1 1 1 0 1 1 0 0 0 0 0]
+No unconstrained duas covered in testcase 24 of <init>: [1 1 1 1 1 0 0 1 0 1 1 0]: [0 0 0 0 0 1 1 0 1 0 0 1]
+[0 0 0 0 0 0 0 0 1 0 0 1]
+[1 1 1 1 1 0 0 1 1 1 1 1]
+[0 0 0 0 0 1 1 0 0 0 0 0]
+[1 1 1 1 0 1 1 0 0 0 0 0]
+No unconstrained duas covered in testcase 25 of <init>: [1 1 1 1 1 0 0 1 0 1 1 0]: [0 0 0 0 0 1 1 0 1 0 0 1]
+[0 0 0 0 0 0 0 0 1 0 0 1]
+[1 1 1 1 1 0 0 1 1 1 1 1]
+[0 0 0 0 0 1 1 0 0 0 0 0]
+[1 1 1 1 0 1 1 0 0 0 0 0]
+No unconstrained duas covered in testcase 26 of <init>: [1 1 1 1 1 0 0 1 0 1 1 0]: [0 0 0 0 0 1 1 0 1 0 0 1]
+[0 0 0 0 0 0 0 0 1 0 0 1]
+[1 1 1 1 1 0 0 1 1 1 1 1]
+[0 0 0 0 0 1 1 0 0 0 0 0]
+[1 1 1 1 0 1 1 0 0 0 0 0]
+No unconstrained duas covered in testcase 27 of <init>: [1 1 1 1 1 0 0 1 0 1 1 0]: [0 0 0 0 0 1 1 0 1 0 0 1]
+[0 0 0 0 0 0 0 0 1 0 0 1]
+[1 1 1 1 1 0 0 1 1 1 1 1]
+[0 0 0 0 0 1 1 0 0 0 0 0]
+[1 1 1 1 0 1 1 0 0 0 0 0]
+No unconstrained duas covered in testcase 28 of <init>: [1 1 1 1 1 0 0 1 0 1 1 0]: [0 0 0 0 0 1 1 0 1 0 0 1]
+[0 0 0 0 0 0 0 0 1 0 0 1]
+[1 1 1 1 1 0 0 1 1 1 1 1]
+[0 0 0 0 0 1 1 0 0 0 0 0]
+[1 1 1 1 0 1 1 0 0 0 0 0]
+No unconstrained duas covered in testcase 29 of <init>: [1 1 1 1 1 0 0 1 0 1 1 0]: [0 0 0 0 0 1 1 0 1 0 0 1]
+[0 0 0 0 0 0 0 0 1 0 0 1]
+[1 1 1 1 1 0 0 1 1 1 1 1]
+[0 0 0 0 0 1 1 0 0 0 0 0]
+[1 1 1 1 0 1 1 0 0 0 0 0]
+No unconstrained duas covered in testcase 30 of <init>: [1 1 1 1 1 0 0 1 0 1 1 0]: [0 0 0 0 0 1 1 0 1 0 0 1]
+[0 0 0 0 0 0 0 0 1 0 0 1]
+[1 1 1 1 1 0 0 1 1 1 1 1]
+[0 0 0 0 0 1 1 0 0 0 0 0]
+[1 1 1 1 0 1 1 0 0 0 0 0]
+No unconstrained duas covered in testcase 31 of <init>: [1 1 1 1 1 0 0 1 0 1 1 0]: [0 0 0 0 0 1 1 0 1 0 0 1]
+[0 0 0 0 0 0 0 0 1 0 0 1]
+[1 1 1 1 1 0 0 1 1 1 1 1]
+[0 0 0 0 0 1 1 0 0 0 0 0]
+[1 1 1 1 0 1 1 0 0 0 0 0]
+No unconstrained duas covered in testcase 32 of <init>: [1 1 1 1 1 0 0 1 0 1 1 0]: [0 0 0 0 0 1 1 0 1 0 0 1]
+[0 0 0 0 0 0 0 0 1 0 0 1]
+[1 1 1 1 1 0 0 1 1 1 1 1]
+[0 0 0 0 0 1 1 0 0 0 0 0]
+[1 1 1 1 0 1 1 0 0 0 0 0]
+No unconstrained duas covered in testcase 33 of <init>: [1 1 1 1 1 0 0 1 0 1 1 0]: [0 0 0 0 0 1 1 0 1 0 0 1]
+[0 0 0 0 0 0 0 0 1 0 0 1]
+[1 1 1 1 1 0 0 1 1 1 1 1]
+[0 0 0 0 0 1 1 0 0 0 0 0]
+[1 1 1 1 0 1 1 0 0 0 0 0]
+No unconstrained duas covered in testcase 34 of <init>: [1 1 1 1 1 0 0 1 0 1 1 0]: [0 0 0 0 0 1 1 0 1 0 0 1]
+[0 0 0 0 0 0 0 0 1 0 0 1]
+[1 1 1 1 1 0 0 1 1 1 1 1]
+[0 0 0 0 0 1 1 0 0 0 0 0]
+[1 1 1 1 0 1 1 0 0 0 0 0]
+No unconstrained duas covered in testcase 35 of <init>: [1 1 1 1 1 0 0 1 0 1 1 0]: [0 0 0 0 0 1 1 0 1 0 0 1]
+[0 0 0 0 0 0 0 0 1 0 0 1]
+[1 1 1 1 1 0 0 1 1 1 1 1]
+[0 0 0 0 0 1 1 0 0 0 0 0]
+[1 1 1 1 0 1 1 0 0 0 0 0]
+No unconstrained duas covered in testcase 36 of <init>: [1 1 1 1 1 0 0 1 0 1 1 0]: [0 0 0 0 0 1 1 0 1 0 0 1]
+[0 0 0 0 0 0 0 0 1 0 0 1]
+[1 1 1 1 1 0 0 1 1 1 1 1]
+[0 0 0 0 0 1 1 0 0 0 0 0]
+[1 1 1 1 0 1 1 0 0 0 0 0]
+No unconstrained duas covered in testcase 37 of <init>: [1 1 1 1 1 0 0 1 0 1 1 0]: [0 0 0 0 0 1 1 0 1 0 0 1]
+[0 0 0 0 0 0 0 0 1 0 0 1]
+[1 1 1 1 1 0 0 1 1 1 1 1]
+[0 0 0 0 0 1 1 0 0 0 0 0]
+[1 1 1 1 0 1 1 0 0 0 0 0]
+No unconstrained duas covered in testcase 38 of <init>: [1 1 1 1 1 0 0 1 0 1 1 0]: [0 0 0 0 0 1 1 0 1 0 0 1]
+[0 0 0 0 0 0 0 0 1 0 0 1]
+[1 1 1 1 1 0 0 1 1 1 1 1]
+[0 0 0 0 0 1 1 0 0 0 0 0]
+[1 1 1 1 0 1 1 0 0 0 0 0]
+No unconstrained duas covered in testcase 39 of <init>: [1 1 1 1 1 0 0 1 0 1 1 0]: [0 0 0 0 0 1 1 0 1 0 0 1]
+[0 0 0 0 0 0 0 0 1 0 0 1]
+[1 1 1 1 1 0 0 1 1 1 1 1]
+[0 0 0 0 0 1 1 0 0 0 0 0]
+[1 1 1 1 0 1 1 0 0 0 0 0]
+No unconstrained duas covered in testcase 40 of <init>: [1 1 1 1 1 0 0 1 0 1 1 0]: [0 0 0 0 0 1 1 0 1 0 0 1]
+[0 0 0 0 0 0 0 0 1 0 0 1]
+[1 1 1 1 1 0 0 1 1 1 1 1]
+[0 0 0 0 0 1 1 0 0 0 0 0]
+[1 1 1 1 0 1 1 0 0 0 0 0]
+No unconstrained duas covered in testcase 43 of <init>: [1 1 1 1 1 0 0 1 0 1 1 0]: [0 0 0 0 0 1 1 0 1 0 0 1]
+[0 0 0 0 0 0 0 0 1 0 0 1]
+[1 1 1 1 1 0 0 1 1 1 1 1]
+[0 0 0 0 0 1 1 0 0 0 0 0]
+[1 1 1 1 0 1 1 0 0 0 0 0]
+No unconstrained duas covered in testcase 44 of <init>: [1 1 1 1 1 0 0 1 0 1 1 0]: [0 0 0 0 0 1 1 0 1 0 0 1]
+[0 0 0 0 0 0 0 0 1 0 0 1]
+[1 1 1 1 1 0 0 1 1 1 1 1]
+[0 0 0 0 0 1 1 0 0 0 0 0]
+[1 1 1 1 0 1 1 0 0 0 0 0]
+No unconstrained duas covered in testcase 45 of <init>: [1 1 1 1 1 0 0 1 0 1 1 0]: [0 0 0 0 0 1 1 0 1 0 0 1]
+[0 0 0 0 0 0 0 0 1 0 0 1]
+[1 1 1 1 1 0 0 1 1 1 1 1]
+[0 0 0 0 0 1 1 0 0 0 0 0]
+[1 1 1 1 0 1 1 0 0 0 0 0]
+No unconstrained duas covered in testcase 46 of <init>: [1 1 1 1 1 0 0 1 0 1 1 0]: [0 0 0 0 0 1 1 0 1 0 0 1]
+[0 0 0 0 0 0 0 0 1 0 0 1]
+[1 1 1 1 1 0 0 1 1 1 1 1]
+[0 0 0 0 0 1 1 0 0 0 0 0]
+[1 1 1 1 0 1 1 0 0 0 0 0]
+No unconstrained duas covered in testcase 47 of <init>: [1 1 1 1 1 0 0 1 0 1 1 0]: [0 0 0 0 0 1 1 0 1 0 0 1]
+[0 0 0 0 0 0 0 0 1 0 0 1]
+[1 1 1 1 1 0 0 1 1 1 1 1]
+[0 0 0 0 0 1 1 0 0 0 0 0]
+[1 1 1 1 0 1 1 0 0 0 0 0]
+No unconstrained duas covered in testcase 48 of <init>: [1 1 1 1 1 0 0 1 0 1 1 0]: [0 0 0 0 0 1 1 0 1 0 0 1]
+[0 0 0 0 0 0 0 0 1 0 0 1]
+[1 1 1 1 1 0 0 1 1 1 1 1]
+[0 0 0 0 0 1 1 0 0 0 0 0]
+[1 1 1 1 0 1 1 0 0 0 0 0]
+No unconstrained duas covered in testcase 49 of <init>: [1 1 1 1 1 0 0 1 0 1 1 0]: [0 0 0 0 0 1 1 0 1 0 0 1]
+[0 0 0 0 0 0 0 0 1 0 0 1]
+[1 1 1 1 1 0 0 1 1 1 1 1]
+[0 0 0 0 0 1 1 0 0 0 0 0]
+[1 1 1 1 0 1 1 0 0 0 0 0]
+No unconstrained duas covered in testcase 50 of <init>: [1 1 1 1 1 0 0 1 0 1 1 0]: [0 0 0 0 0 1 1 0 1 0 0 1]
+[0 0 0 0 0 0 0 0 1 0 0 1]
+[1 1 1 1 1 0 0 1 1 1 1 1]
+[0 0 0 0 0 1 1 0 0 0 0 0]
+[1 1 1 1 0 1 1 0 0 0 0 0]
+No unconstrained duas covered in testcase 51 of <init>: [1 1 1 1 1 0 0 1 0 1 1 0]: [0 0 0 0 0 1 1 0 1 0 0 1]
+[0 0 0 0 0 0 0 0 1 0 0 1]
+[1 1 1 1 1 0 0 1 1 1 1 1]
+[0 0 0 0 0 1 1 0 0 0 0 0]
+[1 1 1 1 0 1 1 0 0 0 0 0]
+No unconstrained duas covered in testcase 52 of <init>: [1 1 1 1 1 0 0 1 0 1 1 0]: [0 0 0 0 0 1 1 0 1 0 0 1]
+[0 0 0 0 0 0 0 0 1 0 0 1]
+[1 1 1 1 1 0 0 1 1 1 1 1]
+[0 0 0 0 0 1 1 0 0 0 0 0]
+[1 1 1 1 0 1 1 0 0 0 0 0]
+No unconstrained duas covered in testcase 53 of <init>: [1 1 1 1 1 0 0 1 0 1 1 0]: [0 0 0 0 0 1 1 0 1 0 0 1]
+[0 0 0 0 0 0 0 0 1 0 0 1]
+[1 1 1 1 1 0 0 1 1 1 1 1]
+[0 0 0 0 0 1 1 0 0 0 0 0]
+[1 1 1 1 0 1 1 0 0 0 0 0]
+No unconstrained duas covered in testcase 54 of <init>: [1 1 1 1 1 0 0 1 0 1 1 0]: [0 0 0 0 0 1 1 0 1 0 0 1]
+[0 0 0 0 0 0 0 0 1 0 0 1]
+[1 1 1 1 1 0 0 1 1 1 1 1]
+[0 0 0 0 0 1 1 0 0 0 0 0]
+[1 1 1 1 0 1 1 0 0 0 0 0]
+No unconstrained duas covered in testcase 55 of <init>: [1 1 1 1 1 0 0 1 0 1 1 0]: [0 0 0 0 0 1 1 0 1 0 0 1]
+[0 0 0 0 0 0 0 0 1 0 0 1]
+[1 1 1 1 1 0 0 1 1 1 1 1]
+[0 0 0 0 0 1 1 0 0 0 0 0]
+[1 1 1 1 0 1 1 0 0 0 0 0]
+No unconstrained duas covered in testcase 56 of <init>: [1 1 1 1 1 0 0 1 0 1 1 0]: [0 0 0 0 0 1 1 0 1 0 0 1]
+[0 0 0 0 0 0 0 0 1 0 0 1]
+[1 1 1 1 1 0 0 1 1 1 1 1]
+[0 0 0 0 0 1 1 0 0 0 0 0]
+[1 1 1 1 0 1 1 0 0 0 0 0]
+No unconstrained duas covered in testcase 59 of <init>: [1 1 1 1 1 0 0 1 0 1 1 0]: [0 0 0 0 0 1 1 0 1 0 0 1]
+[0 0 0 0 0 0 0 0 1 0 0 1]
+[1 1 1 1 1 0 0 1 1 1 1 1]
+[0 0 0 0 0 1 1 0 0 0 0 0]
+[1 1 1 1 0 1 1 0 0 0 0 0]
+No unconstrained duas covered in testcase 60 of <init>: [1 1 1 1 1 0 0 1 0 1 1 0]: [0 0 0 0 0 1 1 0 1 0 0 1]
+[0 0 0 0 0 0 0 0 1 0 0 1]
+[1 1 1 1 1 0 0 1 1 1 1 1]
+[0 0 0 0 0 1 1 0 0 0 0 0]
+[1 1 1 1 0 1 1 0 0 0 0 0]
+No unconstrained duas covered in testcase 61 of <init>: [1 1 1 1 1 0 0 1 0 1 1 0]: [0 0 0 0 0 1 1 0 1 0 0 1]
+[0 0 0 0 0 0 0 0 1 0 0 1]
+[1 1 1 1 1 0 0 1 1 1 1 1]
+[0 0 0 0 0 1 1 0 0 0 0 0]
+[1 1 1 1 0 1 1 0 0 0 0 0]
+No unconstrained duas covered in testcase 62 of <init>: [1 1 1 1 1 0 0 1 0 1 1 0]: [0 0 0 0 0 1 1 0 1 0 0 1]
+[0 0 0 0 0 0 0 0 1 0 0 1]
+[1 1 1 1 1 0 0 1 1 1 1 1]
+[0 0 0 0 0 1 1 0 0 0 0 0]
+[1 1 1 1 0 1 1 0 0 0 0 0]
+No unconstrained duas covered in testcase 63 of <init>: [1 1 1 1 1 0 0 1 0 1 1 0]: [0 0 0 0 0 1 1 0 1 0 0 1]
+[0 0 0 0 0 0 0 0 1 0 0 1]
+[1 1 1 1 1 0 0 1 1 1 1 1]
+[0 0 0 0 0 1 1 0 0 0 0 0]
+[1 1 1 1 0 1 1 0 0 0 0 0]
+No unconstrained duas covered in testcase 64 of <init>: [1 1 1 1 1 0 0 1 0 1 1 0]: [0 0 0 0 0 1 1 0 1 0 0 1]
+[0 0 0 0 0 0 0 0 1 0 0 1]
+[1 1 1 1 1 0 0 1 1 1 1 1]
+[0 0 0 0 0 1 1 0 0 0 0 0]
+[1 1 1 1 0 1 1 0 0 0 0 0]
+No unconstrained duas covered in testcase 65 of <init>: [1 1 1 1 1 0 0 1 0 1 1 0]: [0 0 0 0 0 1 1 0 1 0 0 1]
+[0 0 0 0 0 0 0 0 1 0 0 1]
+[1 1 1 1 1 0 0 1 1 1 1 1]
+[0 0 0 0 0 1 1 0 0 0 0 0]
+[1 1 1 1 0 1 1 0 0 0 0 0]
+No unconstrained duas covered in testcase 66 of <init>: [1 1 1 1 1 0 0 1 0 1 1 0]: [0 0 0 0 0 1 1 0 1 0 0 1]
+[0 0 0 0 0 0 0 0 1 0 0 1]
+[1 1 1 1 1 0 0 1 1 1 1 1]
+[0 0 0 0 0 1 1 0 0 0 0 0]
+[1 1 1 1 0 1 1 0 0 0 0 0]
+Total :67: tests for class:com.google.gson.TypeInfoArray:
+Methods executed: 2
+Unconstrained method :<init>:1:61
+com.google.gson.AnonymousAndLocalClassExclusionStrategy
+Directory of jaguar data: ../jaguar-data/gson/1b
+Directory of subsumption data: ../subsumption-data/Gson
+Analyzing class com.google.gson.AnonymousAndLocalClassExclusionStrategy 
+../jaguar-data/gson/1b/jaguar/.jaguar/matrix
+com.google.gson.AnonymousAndLocalClassExclusionStrategy.matrix
+../subsumption-data/Gson/reduce/com.google.gson.AnonymousAndLocalClassExclusionStrategy.sub.json
+>>>>> com.google.gson.AnonymousAndLocalClassExclusionStrategy <<<<<
+0:isAnonymousOrLocal:6
+Total :420: tests for class:com.google.gson.AnonymousAndLocalClassExclusionStrategy:
+Methods executed: 1
+com.google.gson.stream.JsonReader
+Directory of jaguar data: ../jaguar-data/gson/1b
+Directory of subsumption data: ../subsumption-data/Gson
+Analyzing class com.google.gson.stream.JsonReader 
+../jaguar-data/gson/1b/jaguar/.jaguar/matrix
+com.google.gson.stream.JsonReader.matrix
+../subsumption-data/Gson/reduce/com.google.gson.stream.JsonReader.sub.json
+>>>>> com.google.gson.stream.JsonReader <<<<<
+0:<init>:4
+1:expect:9
+2:hasNext:12
+3:peek:7
+4:quickPeek:58
+5:consumeNonExecutePrefix:35
+6:nextName:10
+7:nextString:20
+8:nextBoolean:24
+9:nextNull:18
+10:nextDouble:27
+11:nextLong:17
+12:nextInt:17
+13:skipValue:30
+14:nextInArray:36
+15:nextInObject:43
+16:objectValue:24
+17:nextValue:27
+18:fillBuffer:43
+19:nextNonWhitespace:46
+20:checkLenient:5
+21:skipToEndOfLine:16
+22:skipTo:34
+23:nextString:86
+24:nextLiteral:57
+25:readEscapeCharacter:35
+26:readLiteral:7
+27:decodeLiteral:20
+Total :269: tests for class:com.google.gson.stream.JsonReader:
+Methods executed: 24
+com.google.gson.JsonFieldNameValidator
+Directory of jaguar data: ../jaguar-data/gson/1b
+Directory of subsumption data: ../subsumption-data/Gson
+Analyzing class com.google.gson.JsonFieldNameValidator 
+../jaguar-data/gson/1b/jaguar/.jaguar/matrix
+com.google.gson.JsonFieldNameValidator.matrix
+../subsumption-data/Gson/reduce/com.google.gson.JsonFieldNameValidator.sub.json
+>>>>> com.google.gson.JsonFieldNameValidator <<<<<
+0:validate:8
+Total :17: tests for class:com.google.gson.JsonFieldNameValidator:
+Methods executed: 1
+com.google.gson.JsonElement
+Directory of jaguar data: ../jaguar-data/gson/1b
+Directory of subsumption data: ../subsumption-data/Gson
+Analyzing class com.google.gson.JsonElement 
+../jaguar-data/gson/1b/jaguar/.jaguar/matrix
+com.google.gson.JsonElement.matrix
+../subsumption-data/Gson/reduce/com.google.gson.JsonElement.sub.json
+>>>>> com.google.gson.JsonElement <<<<<
+0:getAsJsonObject:3
+1:getAsJsonArray:3
+2:getAsJsonPrimitive:3
+3:getAsJsonNull:3
+Total :417: tests for class:com.google.gson.JsonElement:
+Methods executed: 3
+com.google.gson.CompositionFieldNamingPolicy
+Directory of jaguar data: ../jaguar-data/gson/1b
+Directory of subsumption data: ../subsumption-data/Gson
+Analyzing class com.google.gson.CompositionFieldNamingPolicy 
+../jaguar-data/gson/1b/jaguar/.jaguar/matrix
+com.google.gson.CompositionFieldNamingPolicy.matrix
+../subsumption-data/Gson/reduce/com.google.gson.CompositionFieldNamingPolicy.sub.json
+>>>>> com.google.gson.CompositionFieldNamingPolicy <<<<<
+0:<init>:4
+1:translateName:17
+Total :15: tests for class:com.google.gson.CompositionFieldNamingPolicy:
+Methods executed: 2
+com.google.gson.CamelCaseSeparatorNamingPolicy
+Directory of jaguar data: ../jaguar-data/gson/1b
+Directory of subsumption data: ../subsumption-data/Gson
+Analyzing class com.google.gson.CamelCaseSeparatorNamingPolicy 
+../jaguar-data/gson/1b/jaguar/.jaguar/matrix
+com.google.gson.CamelCaseSeparatorNamingPolicy.matrix
+../subsumption-data/Gson/reduce/com.google.gson.CamelCaseSeparatorNamingPolicy.sub.json
+>>>>> com.google.gson.CamelCaseSeparatorNamingPolicy <<<<<
+0:<init>:4
+1:translateName:21
+Total :19: tests for class:com.google.gson.CamelCaseSeparatorNamingPolicy:
+Methods executed: 2
+com.google.gson.ModifyFirstLetterNamingPolicy
+Directory of jaguar data: ../jaguar-data/gson/1b
+Directory of subsumption data: ../subsumption-data/Gson
+Analyzing class com.google.gson.ModifyFirstLetterNamingPolicy 
+../jaguar-data/gson/1b/jaguar/.jaguar/matrix
+com.google.gson.ModifyFirstLetterNamingPolicy.matrix
+../subsumption-data/Gson/reduce/com.google.gson.ModifyFirstLetterNamingPolicy.sub.json
+>>>>> com.google.gson.ModifyFirstLetterNamingPolicy <<<<<
+0:translateName:56
+1:modifyString:5
+Total :16: tests for class:com.google.gson.ModifyFirstLetterNamingPolicy:
+Methods executed: 2
+com.google.gson.JsonArray
+Directory of jaguar data: ../jaguar-data/gson/1b
+Directory of subsumption data: ../subsumption-data/Gson
+Analyzing class com.google.gson.JsonArray 
+../jaguar-data/gson/1b/jaguar/.jaguar/matrix
+com.google.gson.JsonArray.matrix
+../subsumption-data/Gson/reduce/com.google.gson.JsonArray.sub.json
+>>>>> com.google.gson.JsonArray <<<<<
+0:add:6
+1:getAsNumber:6
+2:getAsString:6
+3:getAsDouble:6
+4:getAsBigDecimal:6
+5:getAsBigInteger:6
+6:getAsFloat:6
+7:getAsLong:6
+8:getAsInt:6
+9:getAsByte:6
+10:getAsCharacter:6
+11:getAsShort:6
+12:getAsBoolean:6
+13:getAsObject:6
+14:toString:12
+No unconstrained duas covered in testcase 68 of toString: [1 0 1 1 1 0 1 1 1 1 0 0]: [0 0 0 0 0 1 0 0 0 0 1 1]
+[0 0 0 0 0 1 0 0 0 0 0 0]
+[1 1 1 1 0 1 1 1 1 1 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 1]
+[1 1 1 1 1 0 1 1 1 1 0 1]
+[0 0 0 0 0 0 0 0 0 0 1 0]
+[1 0 1 1 1 0 1 1 1 1 1 0]
+No unconstrained duas covered in testcase 70 of toString: [1 0 1 1 1 0 1 1 1 1 0 0]: [0 0 0 0 0 1 0 0 0 0 1 1]
+[0 0 0 0 0 1 0 0 0 0 0 0]
+[1 1 1 1 0 1 1 1 1 1 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 1]
+[1 1 1 1 1 0 1 1 1 1 0 1]
+[0 0 0 0 0 0 0 0 0 0 1 0]
+[1 0 1 1 1 0 1 1 1 1 1 0]
+Total :111: tests for class:com.google.gson.JsonArray:
+Methods executed: 9
+Unconstrained method :toString:1:2
+com.google.gson.LruCache
+Directory of jaguar data: ../jaguar-data/gson/1b
+Directory of subsumption data: ../subsumption-data/Gson
+Analyzing class com.google.gson.LruCache 
+../jaguar-data/gson/1b/jaguar/.jaguar/matrix
+com.google.gson.LruCache.matrix
+../subsumption-data/Gson/reduce/com.google.gson.LruCache.sub.json
+>>>>> com.google.gson.LruCache <<<<<
+0:removeEldestEntry:4
+Total :76: tests for class:com.google.gson.LruCache:
+Methods executed: 1
+com.google.gson.DefaultTypeAdapters$DefaultDateTypeAdapter
+Directory of jaguar data: ../jaguar-data/gson/1b
+Directory of subsumption data: ../subsumption-data/Gson
+Analyzing class com.google.gson.DefaultTypeAdapters$DefaultDateTypeAdapter 
+../jaguar-data/gson/1b/jaguar/.jaguar/matrix
+com.google.gson.DefaultTypeAdapters$DefaultDateTypeAdapter.matrix
+../subsumption-data/Gson/reduce/com.google.gson.DefaultTypeAdapters$DefaultDateTypeAdapter.sub.json
+>>>>> com.google.gson.DefaultTypeAdapters$DefaultDateTypeAdapter <<<<<
+0:deserialize:9
+Total :5: tests for class:com.google.gson.DefaultTypeAdapters$DefaultDateTypeAdapter:
+Methods executed: 1
+com.google.gson.FieldAttributes
+Directory of jaguar data: ../jaguar-data/gson/1b
+Directory of subsumption data: ../subsumption-data/Gson
+Analyzing class com.google.gson.FieldAttributes 
+../jaguar-data/gson/1b/jaguar/.jaguar/matrix
+com.google.gson.FieldAttributes.matrix
+../subsumption-data/Gson/reduce/com.google.gson.FieldAttributes.sub.json
+>>>>> com.google.gson.FieldAttributes <<<<<
+0:getDeclaredType:9
+1:getAnnotations:22
+2:hasModifier:6
+3:getAnnotationFromArray:8
+Total :198: tests for class:com.google.gson.FieldAttributes:
+Methods executed: 4
+com.google.gson.DefaultTypeAdapters$CollectionTypeAdapter
+Directory of jaguar data: ../jaguar-data/gson/1b
+Directory of subsumption data: ../subsumption-data/Gson
+Analyzing class com.google.gson.DefaultTypeAdapters$CollectionTypeAdapter 
+../jaguar-data/gson/1b/jaguar/.jaguar/matrix
+com.google.gson.DefaultTypeAdapters$CollectionTypeAdapter.matrix
+../subsumption-data/Gson/reduce/com.google.gson.DefaultTypeAdapters$CollectionTypeAdapter.sub.json
+>>>>> com.google.gson.DefaultTypeAdapters$CollectionTypeAdapter <<<<<
+0:serialize:27
+1:deserialize:20
+No unconstrained duas covered in testcase 40 of deserialize: [1 0 1 1 1 1 1 0 1 0 0 0 0 1 0 0 0 0 0 0]: [0 1 0 0 0 0 0 1 0 0 1 1 0 0 0 0 1 1 1 1]
+[0 0 0 0 0 0 0 1 0 0 1 1 0 0 0 0 0 0 1 1]
+[1 0 1 1 1 1 1 1 1 0 1 1 1 1 1 1 0 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0]
+[1 0 1 1 1 1 1 0 1 1 0 0 1 1 1 0 1 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0]
+[1 0 1 1 1 1 1 0 1 1 0 0 1 1 1 1 0 1 0 0]
+[0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 41 of serialize: [0 1 1 1 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0]: [1 0 0 0 0 0 0 0 0 1 0 1 0 1 1 0 1 0 1 1 0 0 0 1 0 0 0]
+[1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0]
+[0 1 1 1 0 1 1 1 1 0 0 0 0 0 0 1 0 1 1 0 1 1 1 0 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0]
+[0 1 1 1 0 1 1 1 1 0 0 0 0 0 0 1 0 1 0 1 1 1 1 0 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0]
+[0 1 1 1 0 1 1 1 1 0 0 0 0 0 0 0 1 1 0 0 1 1 1 0 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 1 0 1 0 1 1 1 0 1 0 1 1 0 0 0 0 0 0 1 1 1 0 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 1 0 1 0 1 1 1 0 1 0 1 0 1 0 0 0 0 0 1 1 1 0 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 1 0 1 0 1 1 1 0 0 1 1 0 0 0 0 0 0 0 1 1 1 0 1 1 1]
+[0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0]
+[0 1 1 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0]
+Total :51: tests for class:com.google.gson.DefaultTypeAdapters$CollectionTypeAdapter:
+Methods executed: 2
+Unconstrained method :deserialize:1:1
+Unconstrained method :serialize:1:1
+com.google.gson.MappedObjectConstructor
+Directory of jaguar data: ../jaguar-data/gson/1b
+Directory of subsumption data: ../subsumption-data/Gson
+Analyzing class com.google.gson.MappedObjectConstructor 
+../jaguar-data/gson/1b/jaguar/.jaguar/matrix
+com.google.gson.MappedObjectConstructor.matrix
+../subsumption-data/Gson/reduce/com.google.gson.MappedObjectConstructor.sub.json
+>>>>> com.google.gson.MappedObjectConstructor <<<<<
+0:construct:6
+1:constructWithNoArgConstructor:4
+2:getNoArgsConstructor:14
+3:register:13
+Total :117: tests for class:com.google.gson.MappedObjectConstructor:
+Methods executed: 3
+com.google.gson.ObjectTypePair
+Directory of jaguar data: ../jaguar-data/gson/1b
+Directory of subsumption data: ../subsumption-data/Gson
+Analyzing class com.google.gson.ObjectTypePair 
+../jaguar-data/gson/1b/jaguar/.jaguar/matrix
+com.google.gson.ObjectTypePair.matrix
+../subsumption-data/Gson/reduce/com.google.gson.ObjectTypePair.sub.json
+>>>>> com.google.gson.ObjectTypePair <<<<<
+0:getMatchingHandler:21
+1:toMoreSpecificType:23
+2:getActualTypeIfMoreSpecific:16
+3:hashCode:6
+4:equals:51
+Total :419: tests for class:com.google.gson.ObjectTypePair:
+Methods executed: 4
+com.google.gson.TypeInfoFactory
+Directory of jaguar data: ../jaguar-data/gson/1b
+Directory of subsumption data: ../subsumption-data/Gson
+Analyzing class com.google.gson.TypeInfoFactory 
+../jaguar-data/gson/1b/jaguar/.jaguar/matrix
+com.google.gson.TypeInfoFactory.matrix
+../subsumption-data/Gson/reduce/com.google.gson.TypeInfoFactory.sub.json
+>>>>> com.google.gson.TypeInfoFactory <<<<<
+0:getActualType:36
+1:extractRealTypes:15
+2:getIndex:18
+No unconstrained duas covered in testcase 8 of extractRealTypes: [1 1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[0 1 0 0 0 1 0 0 1 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 9 of extractRealTypes: [1 1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[0 1 0 0 0 1 0 0 1 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 10 of extractRealTypes: [1 1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[0 1 0 0 0 1 0 0 1 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 11 of extractRealTypes: [1 1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[0 1 0 0 0 1 0 0 1 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 12 of extractRealTypes: [1 1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[0 1 0 0 0 1 0 0 1 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 13 of extractRealTypes: [1 1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[0 1 0 0 0 1 0 0 1 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 14 of extractRealTypes: [1 1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[0 1 0 0 0 1 0 0 1 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 15 of extractRealTypes: [1 1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[0 1 0 0 0 1 0 0 1 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 16 of extractRealTypes: [1 1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[0 1 0 0 0 1 0 0 1 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 19 of extractRealTypes: [1 1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[0 1 0 0 0 1 0 0 1 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 20 of extractRealTypes: [1 1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[0 1 0 0 0 1 0 0 1 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 21 of extractRealTypes: [1 1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[0 1 0 0 0 1 0 0 1 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 26 of extractRealTypes: [1 1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[0 1 0 0 0 1 0 0 1 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 28 of extractRealTypes: [1 1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[0 1 0 0 0 1 0 0 1 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 29 of extractRealTypes: [1 1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[0 1 0 0 0 1 0 0 1 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 30 of extractRealTypes: [1 1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[0 1 0 0 0 1 0 0 1 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 67 of extractRealTypes: [1 1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[0 1 0 0 0 1 0 0 1 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 68 of extractRealTypes: [1 1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[0 1 0 0 0 1 0 0 1 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 87 of extractRealTypes: [1 1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[0 1 0 0 0 1 0 0 1 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 88 of extractRealTypes: [1 1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[0 1 0 0 0 1 0 0 1 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 117 of extractRealTypes: [1 1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[0 1 0 0 0 1 0 0 1 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 118 of extractRealTypes: [1 1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[0 1 0 0 0 1 0 0 1 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 119 of extractRealTypes: [1 1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[0 1 0 0 0 1 0 0 1 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 122 of extractRealTypes: [1 1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[0 1 0 0 0 1 0 0 1 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 134 of extractRealTypes: [1 1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[0 1 0 0 0 1 0 0 1 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 137 of extractRealTypes: [1 1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[0 1 0 0 0 1 0 0 1 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 147 of extractRealTypes: [1 1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[0 1 0 0 0 1 0 0 1 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 158 of extractRealTypes: [1 1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[0 1 0 0 0 1 0 0 1 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 162 of extractRealTypes: [1 1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[0 1 0 0 0 1 0 0 1 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 164 of extractRealTypes: [1 1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[0 1 0 0 0 1 0 0 1 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 167 of extractRealTypes: [1 1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[0 1 0 0 0 1 0 0 1 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 168 of extractRealTypes: [1 1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[0 1 0 0 0 1 0 0 1 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 169 of extractRealTypes: [1 1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[0 1 0 0 0 1 0 0 1 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 170 of extractRealTypes: [1 1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[0 1 0 0 0 1 0 0 1 0 0 0 0 0 0]
+Total :197: tests for class:com.google.gson.TypeInfoFactory:
+Methods executed: 3
+Unconstrained method :extractRealTypes:1:34
+com.google.gson.DefaultTypeAdapters$DefaultTimeTypeAdapter
+Directory of jaguar data: ../jaguar-data/gson/1b
+Directory of subsumption data: ../subsumption-data/Gson
+Analyzing class com.google.gson.DefaultTypeAdapters$DefaultTimeTypeAdapter 
+../jaguar-data/gson/1b/jaguar/.jaguar/matrix
+com.google.gson.DefaultTypeAdapters$DefaultTimeTypeAdapter.matrix
+../subsumption-data/Gson/reduce/com.google.gson.DefaultTypeAdapters$DefaultTimeTypeAdapter.sub.json
+>>>>> com.google.gson.DefaultTypeAdapters$DefaultTimeTypeAdapter <<<<<
+0:deserialize:9
+Total :1: tests for class:com.google.gson.DefaultTypeAdapters$DefaultTimeTypeAdapter:
+Methods executed: 1
+com.google.gson.JsonDeserializationContextDefault
+Directory of jaguar data: ../jaguar-data/gson/1b
+Directory of subsumption data: ../subsumption-data/Gson
+Analyzing class com.google.gson.JsonDeserializationContextDefault 
+../jaguar-data/gson/1b/jaguar/.jaguar/matrix
+com.google.gson.JsonDeserializationContextDefault.matrix
+../subsumption-data/Gson/reduce/com.google.gson.JsonDeserializationContextDefault.sub.json
+>>>>> com.google.gson.JsonDeserializationContextDefault <<<<<
+0:deserialize:20
+Total :195: tests for class:com.google.gson.JsonDeserializationContextDefault:
+Methods executed: 1
+com.google.gson.TypeInfoMap
+Directory of jaguar data: ../jaguar-data/gson/1b
+Directory of subsumption data: ../subsumption-data/Gson
+Analyzing class com.google.gson.TypeInfoMap 
+../jaguar-data/gson/1b/jaguar/.jaguar/matrix
+com.google.gson.TypeInfoMap.matrix
+../subsumption-data/Gson/reduce/com.google.gson.TypeInfoMap.sub.json
+>>>>> com.google.gson.TypeInfoMap <<<<<
+0:<init>:12
+Total :28: tests for class:com.google.gson.TypeInfoMap:
+Methods executed: 1
+com.google.gson.DisjunctionExclusionStrategy
+Directory of jaguar data: ../jaguar-data/gson/1b
+Directory of subsumption data: ../subsumption-data/Gson
+Analyzing class com.google.gson.DisjunctionExclusionStrategy 
+../jaguar-data/gson/1b/jaguar/.jaguar/matrix
+com.google.gson.DisjunctionExclusionStrategy.matrix
+../subsumption-data/Gson/reduce/com.google.gson.DisjunctionExclusionStrategy.sub.json
+>>>>> com.google.gson.DisjunctionExclusionStrategy <<<<<
+0:shouldSkipField:7
+1:shouldSkipClass:7
+Total :423: tests for class:com.google.gson.DisjunctionExclusionStrategy:
+Methods executed: 2
+com.google.gson.ModifierBasedExclusionStrategy
+Directory of jaguar data: ../jaguar-data/gson/1b
+Directory of subsumption data: ../subsumption-data/Gson
+Analyzing class com.google.gson.ModifierBasedExclusionStrategy 
+../jaguar-data/gson/1b/jaguar/.jaguar/matrix
+com.google.gson.ModifierBasedExclusionStrategy.matrix
+../subsumption-data/Gson/reduce/com.google.gson.ModifierBasedExclusionStrategy.sub.json
+>>>>> com.google.gson.ModifierBasedExclusionStrategy <<<<<
+0:<init>:16
+1:shouldSkipField:7
+Total :184: tests for class:com.google.gson.ModifierBasedExclusionStrategy:
+Methods executed: 2
+com.google.gson.JsonArrayDeserializationVisitor
+Directory of jaguar data: ../jaguar-data/gson/1b
+Directory of subsumption data: ../subsumption-data/Gson
+Analyzing class com.google.gson.JsonArrayDeserializationVisitor 
+../jaguar-data/gson/1b/jaguar/.jaguar/matrix
+com.google.gson.JsonArrayDeserializationVisitor.matrix
+../subsumption-data/Gson/reduce/com.google.gson.JsonArrayDeserializationVisitor.sub.json
+>>>>> com.google.gson.JsonArrayDeserializationVisitor <<<<<
+0:constructTarget:18
+1:visitArray:46
+Total :23: tests for class:com.google.gson.JsonArrayDeserializationVisitor:
+Methods executed: 2
+com.google.gson.DefaultTypeAdapters$MapTypeAdapter
+Directory of jaguar data: ../jaguar-data/gson/1b
+Directory of subsumption data: ../subsumption-data/Gson
+Analyzing class com.google.gson.DefaultTypeAdapters$MapTypeAdapter 
+../jaguar-data/gson/1b/jaguar/.jaguar/matrix
+com.google.gson.DefaultTypeAdapters$MapTypeAdapter.matrix
+../subsumption-data/Gson/reduce/com.google.gson.DefaultTypeAdapters$MapTypeAdapter.sub.json
+>>>>> com.google.gson.DefaultTypeAdapters$MapTypeAdapter <<<<<
+0:serialize:23
+1:deserialize:9
+No unconstrained duas covered in testcase 0 of serialize: [1 0 1 0 0 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0]: [0 0 0 0 0 0 0 1 1 0 1 1 0 0 0 0 0 1 0 0 0 1 0]
+[0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0]
+[1 1 0 1 1 1 1 0 0 0 1 0 1 1 1 1 1 0 1 1 1 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0]
+[1 1 0 1 1 1 1 0 0 0 0 1 1 1 1 1 1 0 1 1 1 0 1]
+[0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[1 0 1 0 1 1 1 1 0 1 0 0 0 1 1 1 1 0 1 1 1 0 1]
+[0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[1 0 1 0 1 1 1 0 1 1 0 0 0 1 1 1 1 0 1 1 1 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 1 0]
+[1 0 0 0 0 1 1 0 0 0 0 0 0 1 1 1 1 1 0 0 0 1 0]
+No unconstrained duas covered in testcase 1 of serialize: [1 1 0 1 0 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0]: [0 0 0 0 0 0 0 1 1 0 1 1 0 0 0 0 0 1 0 0 0 1 0]
+[0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0]
+[1 1 0 1 1 1 1 0 0 0 1 0 1 1 1 1 1 0 1 1 1 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0]
+[1 1 0 1 1 1 1 0 0 0 0 1 1 1 1 1 1 0 1 1 1 0 1]
+[0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[1 0 1 0 1 1 1 1 0 1 0 0 0 1 1 1 1 0 1 1 1 0 1]
+[0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[1 0 1 0 1 1 1 0 1 1 0 0 0 1 1 1 1 0 1 1 1 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 1 0]
+[1 0 0 0 0 1 1 0 0 0 0 0 0 1 1 1 1 1 0 0 0 1 0]
+No unconstrained duas covered in testcase 12 of deserialize: [0 0 1 0 0 0 0 1 0]: [1 1 0 1 1 1 1 0 1]
+[1 1 0 1 1 1 1 0 1]
+[1 1 1 1 1 1 1 1 1]
+No unconstrained duas covered in testcase 23 of serialize: [1 1 0 1 0 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0]: [0 0 0 0 0 0 0 1 1 0 1 1 0 0 0 0 0 1 0 0 0 1 0]
+[0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0]
+[1 1 0 1 1 1 1 0 0 0 1 0 1 1 1 1 1 0 1 1 1 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0]
+[1 1 0 1 1 1 1 0 0 0 0 1 1 1 1 1 1 0 1 1 1 0 1]
+[0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[1 0 1 0 1 1 1 1 0 1 0 0 0 1 1 1 1 0 1 1 1 0 1]
+[0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[1 0 1 0 1 1 1 0 1 1 0 0 0 1 1 1 1 0 1 1 1 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 1 0]
+[1 0 0 0 0 1 1 0 0 0 0 0 0 1 1 1 1 1 0 0 0 1 0]
+No unconstrained duas covered in testcase 33 of serialize: [1 1 0 1 0 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0]: [0 0 0 0 0 0 0 1 1 0 1 1 0 0 0 0 0 1 0 0 0 1 0]
+[0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0]
+[1 1 0 1 1 1 1 0 0 0 1 0 1 1 1 1 1 0 1 1 1 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0]
+[1 1 0 1 1 1 1 0 0 0 0 1 1 1 1 1 1 0 1 1 1 0 1]
+[0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[1 0 1 0 1 1 1 1 0 1 0 0 0 1 1 1 1 0 1 1 1 0 1]
+[0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[1 0 1 0 1 1 1 0 1 1 0 0 0 1 1 1 1 0 1 1 1 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 1 0]
+[1 0 0 0 0 1 1 0 0 0 0 0 0 1 1 1 1 1 0 0 0 1 0]
+Total :35: tests for class:com.google.gson.DefaultTypeAdapters$MapTypeAdapter:
+Methods executed: 2
+Unconstrained method :serialize:2:4
+Unconstrained method :deserialize:1:1
+com.google.gson.SerializedNameAnnotationInterceptingNamingPolicy
+Directory of jaguar data: ../jaguar-data/gson/1b
+Directory of subsumption data: ../subsumption-data/Gson
+Analyzing class com.google.gson.SerializedNameAnnotationInterceptingNamingPolicy 
+../jaguar-data/gson/1b/jaguar/.jaguar/matrix
+com.google.gson.SerializedNameAnnotationInterceptingNamingPolicy.matrix
+../subsumption-data/Gson/reduce/com.google.gson.SerializedNameAnnotationInterceptingNamingPolicy.sub.json
+>>>>> com.google.gson.SerializedNameAnnotationInterceptingNamingPolicy <<<<<
+0:translateName:7
+Total :177: tests for class:com.google.gson.SerializedNameAnnotationInterceptingNamingPolicy:
+Methods executed: 1
+com.google.gson.JsonSerializationContextDefault
+Directory of jaguar data: ../jaguar-data/gson/1b
+Directory of subsumption data: ../subsumption-data/Gson
+Analyzing class com.google.gson.JsonSerializationContextDefault 
+../jaguar-data/gson/1b/jaguar/.jaguar/matrix
+com.google.gson.JsonSerializationContextDefault.matrix
+../subsumption-data/Gson/reduce/com.google.gson.JsonSerializationContextDefault.sub.json
+>>>>> com.google.gson.JsonSerializationContextDefault <<<<<
+0:serialize:4
+Total :2: tests for class:com.google.gson.JsonSerializationContextDefault:
+Methods executed: 1
+com.google.gson.TypeInfoCollection
+Directory of jaguar data: ../jaguar-data/gson/1b
+Directory of subsumption data: ../subsumption-data/Gson
+Analyzing class com.google.gson.TypeInfoCollection 
+../jaguar-data/gson/1b/jaguar/.jaguar/matrix
+com.google.gson.TypeInfoCollection.matrix
+../subsumption-data/Gson/reduce/com.google.gson.TypeInfoCollection.sub.json
+>>>>> com.google.gson.TypeInfoCollection <<<<<
+0:<init>:5
+Total :43: tests for class:com.google.gson.TypeInfoCollection:
+Methods executed: 1
+com.google.gson.Gson
+Directory of jaguar data: ../jaguar-data/gson/1b
+Directory of subsumption data: ../subsumption-data/Gson
+Analyzing class com.google.gson.Gson 
+../jaguar-data/gson/1b/jaguar/.jaguar/matrix
+com.google.gson.Gson.matrix
+../subsumption-data/Gson/reduce/com.google.gson.Gson.sub.json
+>>>>> com.google.gson.Gson <<<<<
+0:createExclusionStrategy:5
+1:toJsonTree:4
+2:toJsonTree:8
+3:toJson:8
+4:toJson:11
+5:toJson:14
+6:fromJson:5
+7:fromJson:8
+Total :409: tests for class:com.google.gson.Gson:
+Methods executed: 4
+com.google.gson.InnerClassExclusionStrategy
+Directory of jaguar data: ../jaguar-data/gson/1b
+Directory of subsumption data: ../subsumption-data/Gson
+Analyzing class com.google.gson.InnerClassExclusionStrategy 
+../jaguar-data/gson/1b/jaguar/.jaguar/matrix
+com.google.gson.InnerClassExclusionStrategy.matrix
+../subsumption-data/Gson/reduce/com.google.gson.InnerClassExclusionStrategy.sub.json
+>>>>> com.google.gson.InnerClassExclusionStrategy <<<<<
+0:isInnerClass:6
+1:isStatic:2
+Total :5: tests for class:com.google.gson.InnerClassExclusionStrategy:
+Methods executed: 2
+com.google.gson.ParameterizedTypeHandlerMap
+Directory of jaguar data: ../jaguar-data/gson/1b
+Directory of subsumption data: ../subsumption-data/Gson
+Analyzing class com.google.gson.ParameterizedTypeHandlerMap 
+../jaguar-data/gson/1b/jaguar/.jaguar/matrix
+com.google.gson.ParameterizedTypeHandlerMap.matrix
+../subsumption-data/Gson/reduce/com.google.gson.ParameterizedTypeHandlerMap.sub.json
+>>>>> com.google.gson.ParameterizedTypeHandlerMap <<<<<
+0:registerForTypeHierarchy:29
+1:getIndexOfAnOverriddenHandler:18
+2:register:15
+3:registerIfAbsent:34
+4:registerIfAbsent:13
+5:getHandlerFor:18
+6:getHandlerForTypeHierarchy:11
+7:getIndexOfSpecificHandlerForTypeHierarchy:18
+8:copyOf:11
+9:toString:33
+No unconstrained duas covered in testcase 2 of copyOf: [1 1 1 0 0 0 1 0 0 1 0]: [0 0 0 1 1 1 0 1 1 0 1]
+[0 0 0 1 0 0 0 0 1 0 1]
+[1 1 1 1 0 0 1 0 1 1 1]
+[0 0 0 0 1 1 0 1 0 0 0]
+[1 1 1 0 1 1 1 1 0 1 0]
+No unconstrained duas covered in testcase 3 of copyOf: [1 1 1 0 0 0 1 0 0 1 0]: [0 0 0 1 1 1 0 1 1 0 1]
+[0 0 0 1 0 0 0 0 1 0 1]
+[1 1 1 1 0 0 1 0 1 1 1]
+[0 0 0 0 1 1 0 1 0 0 0]
+[1 1 1 0 1 1 1 1 0 1 0]
+No unconstrained duas covered in testcase 14 of copyOf: [1 1 1 0 0 0 1 0 0 1 0]: [0 0 0 1 1 1 0 1 1 0 1]
+[0 0 0 1 0 0 0 0 1 0 1]
+[1 1 1 1 0 0 1 0 1 1 1]
+[0 0 0 0 1 1 0 1 0 0 0]
+[1 1 1 0 1 1 1 1 0 1 0]
+No unconstrained duas covered in testcase 15 of copyOf: [1 1 1 0 0 0 1 0 0 1 0]: [0 0 0 1 1 1 0 1 1 0 1]
+[0 0 0 1 0 0 0 0 1 0 1]
+[1 1 1 1 0 0 1 0 1 1 1]
+[0 0 0 0 1 1 0 1 0 0 0]
+[1 1 1 0 1 1 1 1 0 1 0]
+No unconstrained duas covered in testcase 39 of copyOf: [1 1 1 0 0 0 1 0 0 1 0]: [0 0 0 1 1 1 0 1 1 0 1]
+[0 0 0 1 0 0 0 0 1 0 1]
+[1 1 1 1 0 0 1 0 1 1 1]
+[0 0 0 0 1 1 0 1 0 0 0]
+[1 1 1 0 1 1 1 1 0 1 0]
+No unconstrained duas covered in testcase 152 of copyOf: [1 1 1 0 0 0 1 0 0 1 0]: [0 0 0 1 1 1 0 1 1 0 1]
+[0 0 0 1 0 0 0 0 1 0 1]
+[1 1 1 1 0 0 1 0 1 1 1]
+[0 0 0 0 1 1 0 1 0 0 0]
+[1 1 1 0 1 1 1 1 0 1 0]
+No unconstrained duas covered in testcase 153 of copyOf: [1 1 1 0 0 0 1 0 0 1 0]: [0 0 0 1 1 1 0 1 1 0 1]
+[0 0 0 1 0 0 0 0 1 0 1]
+[1 1 1 1 0 0 1 0 1 1 1]
+[0 0 0 0 1 1 0 1 0 0 0]
+[1 1 1 0 1 1 1 1 0 1 0]
+No unconstrained duas covered in testcase 154 of copyOf: [1 1 1 0 0 0 1 0 0 1 0]: [0 0 0 1 1 1 0 1 1 0 1]
+[0 0 0 1 0 0 0 0 1 0 1]
+[1 1 1 1 0 0 1 0 1 1 1]
+[0 0 0 0 1 1 0 1 0 0 0]
+[1 1 1 0 1 1 1 1 0 1 0]
+No unconstrained duas covered in testcase 155 of copyOf: [1 1 1 0 0 0 1 0 0 1 0]: [0 0 0 1 1 1 0 1 1 0 1]
+[0 0 0 1 0 0 0 0 1 0 1]
+[1 1 1 1 0 0 1 0 1 1 1]
+[0 0 0 0 1 1 0 1 0 0 0]
+[1 1 1 0 1 1 1 1 0 1 0]
+No unconstrained duas covered in testcase 156 of copyOf: [1 1 1 0 0 0 1 0 0 1 0]: [0 0 0 1 1 1 0 1 1 0 1]
+[0 0 0 1 0 0 0 0 1 0 1]
+[1 1 1 1 0 0 1 0 1 1 1]
+[0 0 0 0 1 1 0 1 0 0 0]
+[1 1 1 0 1 1 1 1 0 1 0]
+No unconstrained duas covered in testcase 157 of copyOf: [1 1 1 0 0 0 1 0 0 1 0]: [0 0 0 1 1 1 0 1 1 0 1]
+[0 0 0 1 0 0 0 0 1 0 1]
+[1 1 1 1 0 0 1 0 1 1 1]
+[0 0 0 0 1 1 0 1 0 0 0]
+[1 1 1 0 1 1 1 1 0 1 0]
+No unconstrained duas covered in testcase 158 of copyOf: [1 1 1 0 0 0 1 0 0 1 0]: [0 0 0 1 1 1 0 1 1 0 1]
+[0 0 0 1 0 0 0 0 1 0 1]
+[1 1 1 1 0 0 1 0 1 1 1]
+[0 0 0 0 1 1 0 1 0 0 0]
+[1 1 1 0 1 1 1 1 0 1 0]
+No unconstrained duas covered in testcase 159 of copyOf: [1 1 1 0 0 0 1 0 0 1 0]: [0 0 0 1 1 1 0 1 1 0 1]
+[0 0 0 1 0 0 0 0 1 0 1]
+[1 1 1 1 0 0 1 0 1 1 1]
+[0 0 0 0 1 1 0 1 0 0 0]
+[1 1 1 0 1 1 1 1 0 1 0]
+No unconstrained duas covered in testcase 172 of copyOf: [1 1 1 0 0 0 1 0 0 1 0]: [0 0 0 1 1 1 0 1 1 0 1]
+[0 0 0 1 0 0 0 0 1 0 1]
+[1 1 1 1 0 0 1 0 1 1 1]
+[0 0 0 0 1 1 0 1 0 0 0]
+[1 1 1 0 1 1 1 1 0 1 0]
+No unconstrained duas covered in testcase 173 of copyOf: [1 1 1 0 0 0 1 0 0 1 0]: [0 0 0 1 1 1 0 1 1 0 1]
+[0 0 0 1 0 0 0 0 1 0 1]
+[1 1 1 1 0 0 1 0 1 1 1]
+[0 0 0 0 1 1 0 1 0 0 0]
+[1 1 1 0 1 1 1 1 0 1 0]
+No unconstrained duas covered in testcase 174 of copyOf: [1 1 1 0 0 0 1 0 0 1 0]: [0 0 0 1 1 1 0 1 1 0 1]
+[0 0 0 1 0 0 0 0 1 0 1]
+[1 1 1 1 0 0 1 0 1 1 1]
+[0 0 0 0 1 1 0 1 0 0 0]
+[1 1 1 0 1 1 1 1 0 1 0]
+No unconstrained duas covered in testcase 183 of copyOf: [1 1 1 0 0 0 1 0 0 1 0]: [0 0 0 1 1 1 0 1 1 0 1]
+[0 0 0 1 0 0 0 0 1 0 1]
+[1 1 1 1 0 0 1 0 1 1 1]
+[0 0 0 0 1 1 0 1 0 0 0]
+[1 1 1 0 1 1 1 1 0 1 0]
+No unconstrained duas covered in testcase 184 of copyOf: [1 1 1 0 0 0 1 0 0 1 0]: [0 0 0 1 1 1 0 1 1 0 1]
+[0 0 0 1 0 0 0 0 1 0 1]
+[1 1 1 1 0 0 1 0 1 1 1]
+[0 0 0 0 1 1 0 1 0 0 0]
+[1 1 1 0 1 1 1 1 0 1 0]
+No unconstrained duas covered in testcase 185 of copyOf: [1 1 1 0 0 0 1 0 0 1 0]: [0 0 0 1 1 1 0 1 1 0 1]
+[0 0 0 1 0 0 0 0 1 0 1]
+[1 1 1 1 0 0 1 0 1 1 1]
+[0 0 0 0 1 1 0 1 0 0 0]
+[1 1 1 0 1 1 1 1 0 1 0]
+No unconstrained duas covered in testcase 216 of copyOf: [1 1 1 0 0 0 1 0 0 1 0]: [0 0 0 1 1 1 0 1 1 0 1]
+[0 0 0 1 0 0 0 0 1 0 1]
+[1 1 1 1 0 0 1 0 1 1 1]
+[0 0 0 0 1 1 0 1 0 0 0]
+[1 1 1 0 1 1 1 1 0 1 0]
+No unconstrained duas covered in testcase 230 of copyOf: [1 1 1 0 0 0 1 0 0 1 0]: [0 0 0 1 1 1 0 1 1 0 1]
+[0 0 0 1 0 0 0 0 1 0 1]
+[1 1 1 1 0 0 1 0 1 1 1]
+[0 0 0 0 1 1 0 1 0 0 0]
+[1 1 1 0 1 1 1 1 0 1 0]
+No unconstrained duas covered in testcase 238 of copyOf: [1 1 1 0 0 0 1 0 0 1 0]: [0 0 0 1 1 1 0 1 1 0 1]
+[0 0 0 1 0 0 0 0 1 0 1]
+[1 1 1 1 0 0 1 0 1 1 1]
+[0 0 0 0 1 1 0 1 0 0 0]
+[1 1 1 0 1 1 1 1 0 1 0]
+No unconstrained duas covered in testcase 241 of copyOf: [1 1 1 0 0 0 1 0 0 1 0]: [0 0 0 1 1 1 0 1 1 0 1]
+[0 0 0 1 0 0 0 0 1 0 1]
+[1 1 1 1 0 0 1 0 1 1 1]
+[0 0 0 0 1 1 0 1 0 0 0]
+[1 1 1 0 1 1 1 1 0 1 0]
+No unconstrained duas covered in testcase 242 of copyOf: [1 1 1 0 0 0 1 0 0 1 0]: [0 0 0 1 1 1 0 1 1 0 1]
+[0 0 0 1 0 0 0 0 1 0 1]
+[1 1 1 1 0 0 1 0 1 1 1]
+[0 0 0 0 1 1 0 1 0 0 0]
+[1 1 1 0 1 1 1 1 0 1 0]
+No unconstrained duas covered in testcase 243 of copyOf: [1 1 1 0 0 0 1 0 0 1 0]: [0 0 0 1 1 1 0 1 1 0 1]
+[0 0 0 1 0 0 0 0 1 0 1]
+[1 1 1 1 0 0 1 0 1 1 1]
+[0 0 0 0 1 1 0 1 0 0 0]
+[1 1 1 0 1 1 1 1 0 1 0]
+No unconstrained duas covered in testcase 244 of copyOf: [1 1 1 0 0 0 1 0 0 1 0]: [0 0 0 1 1 1 0 1 1 0 1]
+[0 0 0 1 0 0 0 0 1 0 1]
+[1 1 1 1 0 0 1 0 1 1 1]
+[0 0 0 0 1 1 0 1 0 0 0]
+[1 1 1 0 1 1 1 1 0 1 0]
+No unconstrained duas covered in testcase 245 of copyOf: [1 1 1 0 0 0 1 0 0 1 0]: [0 0 0 1 1 1 0 1 1 0 1]
+[0 0 0 1 0 0 0 0 1 0 1]
+[1 1 1 1 0 0 1 0 1 1 1]
+[0 0 0 0 1 1 0 1 0 0 0]
+[1 1 1 0 1 1 1 1 0 1 0]
+No unconstrained duas covered in testcase 246 of copyOf: [1 1 1 0 0 0 1 0 0 1 0]: [0 0 0 1 1 1 0 1 1 0 1]
+[0 0 0 1 0 0 0 0 1 0 1]
+[1 1 1 1 0 0 1 0 1 1 1]
+[0 0 0 0 1 1 0 1 0 0 0]
+[1 1 1 0 1 1 1 1 0 1 0]
+No unconstrained duas covered in testcase 247 of copyOf: [1 1 1 0 0 0 1 0 0 1 0]: [0 0 0 1 1 1 0 1 1 0 1]
+[0 0 0 1 0 0 0 0 1 0 1]
+[1 1 1 1 0 0 1 0 1 1 1]
+[0 0 0 0 1 1 0 1 0 0 0]
+[1 1 1 0 1 1 1 1 0 1 0]
+No unconstrained duas covered in testcase 248 of copyOf: [1 1 1 0 0 0 1 0 0 1 0]: [0 0 0 1 1 1 0 1 1 0 1]
+[0 0 0 1 0 0 0 0 1 0 1]
+[1 1 1 1 0 0 1 0 1 1 1]
+[0 0 0 0 1 1 0 1 0 0 0]
+[1 1 1 0 1 1 1 1 0 1 0]
+No unconstrained duas covered in testcase 249 of copyOf: [1 1 1 0 0 0 1 0 0 1 0]: [0 0 0 1 1 1 0 1 1 0 1]
+[0 0 0 1 0 0 0 0 1 0 1]
+[1 1 1 1 0 0 1 0 1 1 1]
+[0 0 0 0 1 1 0 1 0 0 0]
+[1 1 1 0 1 1 1 1 0 1 0]
+No unconstrained duas covered in testcase 250 of copyOf: [1 1 1 0 0 0 1 0 0 1 0]: [0 0 0 1 1 1 0 1 1 0 1]
+[0 0 0 1 0 0 0 0 1 0 1]
+[1 1 1 1 0 0 1 0 1 1 1]
+[0 0 0 0 1 1 0 1 0 0 0]
+[1 1 1 0 1 1 1 1 0 1 0]
+No unconstrained duas covered in testcase 251 of copyOf: [1 1 1 0 0 0 1 0 0 1 0]: [0 0 0 1 1 1 0 1 1 0 1]
+[0 0 0 1 0 0 0 0 1 0 1]
+[1 1 1 1 0 0 1 0 1 1 1]
+[0 0 0 0 1 1 0 1 0 0 0]
+[1 1 1 0 1 1 1 1 0 1 0]
+No unconstrained duas covered in testcase 252 of copyOf: [1 1 1 0 0 0 1 0 0 1 0]: [0 0 0 1 1 1 0 1 1 0 1]
+[0 0 0 1 0 0 0 0 1 0 1]
+[1 1 1 1 0 0 1 0 1 1 1]
+[0 0 0 0 1 1 0 1 0 0 0]
+[1 1 1 0 1 1 1 1 0 1 0]
+No unconstrained duas covered in testcase 253 of copyOf: [1 1 1 0 0 0 1 0 0 1 0]: [0 0 0 1 1 1 0 1 1 0 1]
+[0 0 0 1 0 0 0 0 1 0 1]
+[1 1 1 1 0 0 1 0 1 1 1]
+[0 0 0 0 1 1 0 1 0 0 0]
+[1 1 1 0 1 1 1 1 0 1 0]
+No unconstrained duas covered in testcase 254 of copyOf: [1 1 1 0 0 0 1 0 0 1 0]: [0 0 0 1 1 1 0 1 1 0 1]
+[0 0 0 1 0 0 0 0 1 0 1]
+[1 1 1 1 0 0 1 0 1 1 1]
+[0 0 0 0 1 1 0 1 0 0 0]
+[1 1 1 0 1 1 1 1 0 1 0]
+No unconstrained duas covered in testcase 255 of copyOf: [1 1 1 0 0 0 1 0 0 1 0]: [0 0 0 1 1 1 0 1 1 0 1]
+[0 0 0 1 0 0 0 0 1 0 1]
+[1 1 1 1 0 0 1 0 1 1 1]
+[0 0 0 0 1 1 0 1 0 0 0]
+[1 1 1 0 1 1 1 1 0 1 0]
+No unconstrained duas covered in testcase 256 of copyOf: [1 1 1 0 0 0 1 0 0 1 0]: [0 0 0 1 1 1 0 1 1 0 1]
+[0 0 0 1 0 0 0 0 1 0 1]
+[1 1 1 1 0 0 1 0 1 1 1]
+[0 0 0 0 1 1 0 1 0 0 0]
+[1 1 1 0 1 1 1 1 0 1 0]
+No unconstrained duas covered in testcase 257 of copyOf: [1 1 1 0 0 0 1 0 0 1 0]: [0 0 0 1 1 1 0 1 1 0 1]
+[0 0 0 1 0 0 0 0 1 0 1]
+[1 1 1 1 0 0 1 0 1 1 1]
+[0 0 0 0 1 1 0 1 0 0 0]
+[1 1 1 0 1 1 1 1 0 1 0]
+No unconstrained duas covered in testcase 260 of copyOf: [1 1 1 0 0 0 1 0 0 1 0]: [0 0 0 1 1 1 0 1 1 0 1]
+[0 0 0 1 0 0 0 0 1 0 1]
+[1 1 1 1 0 0 1 0 1 1 1]
+[0 0 0 0 1 1 0 1 0 0 0]
+[1 1 1 0 1 1 1 1 0 1 0]
+No unconstrained duas covered in testcase 261 of copyOf: [1 1 1 0 0 0 1 0 0 1 0]: [0 0 0 1 1 1 0 1 1 0 1]
+[0 0 0 1 0 0 0 0 1 0 1]
+[1 1 1 1 0 0 1 0 1 1 1]
+[0 0 0 0 1 1 0 1 0 0 0]
+[1 1 1 0 1 1 1 1 0 1 0]
+No unconstrained duas covered in testcase 264 of copyOf: [1 1 1 0 0 0 1 0 0 1 0]: [0 0 0 1 1 1 0 1 1 0 1]
+[0 0 0 1 0 0 0 0 1 0 1]
+[1 1 1 1 0 0 1 0 1 1 1]
+[0 0 0 0 1 1 0 1 0 0 0]
+[1 1 1 0 1 1 1 1 0 1 0]
+No unconstrained duas covered in testcase 265 of copyOf: [1 1 1 0 0 0 1 0 0 1 0]: [0 0 0 1 1 1 0 1 1 0 1]
+[0 0 0 1 0 0 0 0 1 0 1]
+[1 1 1 1 0 0 1 0 1 1 1]
+[0 0 0 0 1 1 0 1 0 0 0]
+[1 1 1 0 1 1 1 1 0 1 0]
+No unconstrained duas covered in testcase 266 of copyOf: [1 1 1 0 0 0 1 0 0 1 0]: [0 0 0 1 1 1 0 1 1 0 1]
+[0 0 0 1 0 0 0 0 1 0 1]
+[1 1 1 1 0 0 1 0 1 1 1]
+[0 0 0 0 1 1 0 1 0 0 0]
+[1 1 1 0 1 1 1 1 0 1 0]
+No unconstrained duas covered in testcase 267 of copyOf: [1 1 1 0 0 0 1 0 0 1 0]: [0 0 0 1 1 1 0 1 1 0 1]
+[0 0 0 1 0 0 0 0 1 0 1]
+[1 1 1 1 0 0 1 0 1 1 1]
+[0 0 0 0 1 1 0 1 0 0 0]
+[1 1 1 0 1 1 1 1 0 1 0]
+No unconstrained duas covered in testcase 295 of copyOf: [1 1 1 0 0 0 1 0 0 1 0]: [0 0 0 1 1 1 0 1 1 0 1]
+[0 0 0 1 0 0 0 0 1 0 1]
+[1 1 1 1 0 0 1 0 1 1 1]
+[0 0 0 0 1 1 0 1 0 0 0]
+[1 1 1 0 1 1 1 1 0 1 0]
+No unconstrained duas covered in testcase 326 of copyOf: [1 1 1 0 0 0 1 0 0 1 0]: [0 0 0 1 1 1 0 1 1 0 1]
+[0 0 0 1 0 0 0 0 1 0 1]
+[1 1 1 1 0 0 1 0 1 1 1]
+[0 0 0 0 1 1 0 1 0 0 0]
+[1 1 1 0 1 1 1 1 0 1 0]
+No unconstrained duas covered in testcase 327 of copyOf: [1 1 1 0 0 0 1 0 0 1 0]: [0 0 0 1 1 1 0 1 1 0 1]
+[0 0 0 1 0 0 0 0 1 0 1]
+[1 1 1 1 0 0 1 0 1 1 1]
+[0 0 0 0 1 1 0 1 0 0 0]
+[1 1 1 0 1 1 1 1 0 1 0]
+No unconstrained duas covered in testcase 328 of copyOf: [1 1 1 0 0 0 1 0 0 1 0]: [0 0 0 1 1 1 0 1 1 0 1]
+[0 0 0 1 0 0 0 0 1 0 1]
+[1 1 1 1 0 0 1 0 1 1 1]
+[0 0 0 0 1 1 0 1 0 0 0]
+[1 1 1 0 1 1 1 1 0 1 0]
+No unconstrained duas covered in testcase 329 of copyOf: [1 1 1 0 0 0 1 0 0 1 0]: [0 0 0 1 1 1 0 1 1 0 1]
+[0 0 0 1 0 0 0 0 1 0 1]
+[1 1 1 1 0 0 1 0 1 1 1]
+[0 0 0 0 1 1 0 1 0 0 0]
+[1 1 1 0 1 1 1 1 0 1 0]
+No unconstrained duas covered in testcase 330 of copyOf: [1 1 1 0 0 0 1 0 0 1 0]: [0 0 0 1 1 1 0 1 1 0 1]
+[0 0 0 1 0 0 0 0 1 0 1]
+[1 1 1 1 0 0 1 0 1 1 1]
+[0 0 0 0 1 1 0 1 0 0 0]
+[1 1 1 0 1 1 1 1 0 1 0]
+No unconstrained duas covered in testcase 331 of copyOf: [1 1 1 0 0 0 1 0 0 1 0]: [0 0 0 1 1 1 0 1 1 0 1]
+[0 0 0 1 0 0 0 0 1 0 1]
+[1 1 1 1 0 0 1 0 1 1 1]
+[0 0 0 0 1 1 0 1 0 0 0]
+[1 1 1 0 1 1 1 1 0 1 0]
+No unconstrained duas covered in testcase 332 of copyOf: [1 1 1 0 0 0 1 0 0 1 0]: [0 0 0 1 1 1 0 1 1 0 1]
+[0 0 0 1 0 0 0 0 1 0 1]
+[1 1 1 1 0 0 1 0 1 1 1]
+[0 0 0 0 1 1 0 1 0 0 0]
+[1 1 1 0 1 1 1 1 0 1 0]
+No unconstrained duas covered in testcase 333 of copyOf: [1 1 1 0 0 0 1 0 0 1 0]: [0 0 0 1 1 1 0 1 1 0 1]
+[0 0 0 1 0 0 0 0 1 0 1]
+[1 1 1 1 0 0 1 0 1 1 1]
+[0 0 0 0 1 1 0 1 0 0 0]
+[1 1 1 0 1 1 1 1 0 1 0]
+No unconstrained duas covered in testcase 358 of copyOf: [1 1 1 0 0 0 1 0 0 1 0]: [0 0 0 1 1 1 0 1 1 0 1]
+[0 0 0 1 0 0 0 0 1 0 1]
+[1 1 1 1 0 0 1 0 1 1 1]
+[0 0 0 0 1 1 0 1 0 0 0]
+[1 1 1 0 1 1 1 1 0 1 0]
+No unconstrained duas covered in testcase 361 of copyOf: [1 1 1 0 0 0 1 0 0 1 0]: [0 0 0 1 1 1 0 1 1 0 1]
+[0 0 0 1 0 0 0 0 1 0 1]
+[1 1 1 1 0 0 1 0 1 1 1]
+[0 0 0 0 1 1 0 1 0 0 0]
+[1 1 1 0 1 1 1 1 0 1 0]
+No unconstrained duas covered in testcase 364 of copyOf: [1 1 1 0 0 0 1 0 0 1 0]: [0 0 0 1 1 1 0 1 1 0 1]
+[0 0 0 1 0 0 0 0 1 0 1]
+[1 1 1 1 0 0 1 0 1 1 1]
+[0 0 0 0 1 1 0 1 0 0 0]
+[1 1 1 0 1 1 1 1 0 1 0]
+No unconstrained duas covered in testcase 365 of copyOf: [1 1 1 0 0 0 1 0 0 1 0]: [0 0 0 1 1 1 0 1 1 0 1]
+[0 0 0 1 0 0 0 0 1 0 1]
+[1 1 1 1 0 0 1 0 1 1 1]
+[0 0 0 0 1 1 0 1 0 0 0]
+[1 1 1 0 1 1 1 1 0 1 0]
+No unconstrained duas covered in testcase 366 of copyOf: [1 1 1 0 0 0 1 0 0 1 0]: [0 0 0 1 1 1 0 1 1 0 1]
+[0 0 0 1 0 0 0 0 1 0 1]
+[1 1 1 1 0 0 1 0 1 1 1]
+[0 0 0 0 1 1 0 1 0 0 0]
+[1 1 1 0 1 1 1 1 0 1 0]
+No unconstrained duas covered in testcase 388 of copyOf: [1 1 1 0 0 0 1 0 0 1 0]: [0 0 0 1 1 1 0 1 1 0 1]
+[0 0 0 1 0 0 0 0 1 0 1]
+[1 1 1 1 0 0 1 0 1 1 1]
+[0 0 0 0 1 1 0 1 0 0 0]
+[1 1 1 0 1 1 1 1 0 1 0]
+No unconstrained duas covered in testcase 391 of copyOf: [1 1 1 0 0 0 1 0 0 1 0]: [0 0 0 1 1 1 0 1 1 0 1]
+[0 0 0 1 0 0 0 0 1 0 1]
+[1 1 1 1 0 0 1 0 1 1 1]
+[0 0 0 0 1 1 0 1 0 0 0]
+[1 1 1 0 1 1 1 1 0 1 0]
+No unconstrained duas covered in testcase 395 of copyOf: [1 1 1 0 0 0 1 0 0 1 0]: [0 0 0 1 1 1 0 1 1 0 1]
+[0 0 0 1 0 0 0 0 1 0 1]
+[1 1 1 1 0 0 1 0 1 1 1]
+[0 0 0 0 1 1 0 1 0 0 0]
+[1 1 1 0 1 1 1 1 0 1 0]
+No unconstrained duas covered in testcase 398 of copyOf: [1 1 1 0 0 0 1 0 0 1 0]: [0 0 0 1 1 1 0 1 1 0 1]
+[0 0 0 1 0 0 0 0 1 0 1]
+[1 1 1 1 0 0 1 0 1 1 1]
+[0 0 0 0 1 1 0 1 0 0 0]
+[1 1 1 0 1 1 1 1 0 1 0]
+No unconstrained duas covered in testcase 403 of copyOf: [1 1 1 0 0 0 1 0 0 1 0]: [0 0 0 1 1 1 0 1 1 0 1]
+[0 0 0 1 0 0 0 0 1 0 1]
+[1 1 1 1 0 0 1 0 1 1 1]
+[0 0 0 0 1 1 0 1 0 0 0]
+[1 1 1 0 1 1 1 1 0 1 0]
+No unconstrained duas covered in testcase 405 of copyOf: [1 1 1 0 0 0 1 0 0 1 0]: [0 0 0 1 1 1 0 1 1 0 1]
+[0 0 0 1 0 0 0 0 1 0 1]
+[1 1 1 1 0 0 1 0 1 1 1]
+[0 0 0 0 1 1 0 1 0 0 0]
+[1 1 1 0 1 1 1 1 0 1 0]
+No unconstrained duas covered in testcase 411 of copyOf: [1 1 1 0 0 0 1 0 0 1 0]: [0 0 0 1 1 1 0 1 1 0 1]
+[0 0 0 1 0 0 0 0 1 0 1]
+[1 1 1 1 0 0 1 0 1 1 1]
+[0 0 0 0 1 1 0 1 0 0 0]
+[1 1 1 0 1 1 1 1 0 1 0]
+No unconstrained duas covered in testcase 412 of copyOf: [1 1 1 0 0 0 1 0 0 1 0]: [0 0 0 1 1 1 0 1 1 0 1]
+[0 0 0 1 0 0 0 0 1 0 1]
+[1 1 1 1 0 0 1 0 1 1 1]
+[0 0 0 0 1 1 0 1 0 0 0]
+[1 1 1 0 1 1 1 1 0 1 0]
+No unconstrained duas covered in testcase 413 of copyOf: [1 1 1 0 0 0 1 0 0 1 0]: [0 0 0 1 1 1 0 1 1 0 1]
+[0 0 0 1 0 0 0 0 1 0 1]
+[1 1 1 1 0 0 1 0 1 1 1]
+[0 0 0 0 1 1 0 1 0 0 0]
+[1 1 1 0 1 1 1 1 0 1 0]
+No unconstrained duas covered in testcase 414 of copyOf: [1 1 1 0 0 0 1 0 0 1 0]: [0 0 0 1 1 1 0 1 1 0 1]
+[0 0 0 1 0 0 0 0 1 0 1]
+[1 1 1 1 0 0 1 0 1 1 1]
+[0 0 0 0 1 1 0 1 0 0 0]
+[1 1 1 0 1 1 1 1 0 1 0]
+No unconstrained duas covered in testcase 415 of copyOf: [1 1 1 0 0 0 1 0 0 1 0]: [0 0 0 1 1 1 0 1 1 0 1]
+[0 0 0 1 0 0 0 0 1 0 1]
+[1 1 1 1 0 0 1 0 1 1 1]
+[0 0 0 0 1 1 0 1 0 0 0]
+[1 1 1 0 1 1 1 1 0 1 0]
+No unconstrained duas covered in testcase 416 of copyOf: [1 1 1 0 0 0 1 0 0 1 0]: [0 0 0 1 1 1 0 1 1 0 1]
+[0 0 0 1 0 0 0 0 1 0 1]
+[1 1 1 1 0 0 1 0 1 1 1]
+[0 0 0 0 1 1 0 1 0 0 0]
+[1 1 1 0 1 1 1 1 0 1 0]
+No unconstrained duas covered in testcase 441 of copyOf: [1 1 1 0 0 0 1 0 0 1 0]: [0 0 0 1 1 1 0 1 1 0 1]
+[0 0 0 1 0 0 0 0 1 0 1]
+[1 1 1 1 0 0 1 0 1 1 1]
+[0 0 0 0 1 1 0 1 0 0 0]
+[1 1 1 0 1 1 1 1 0 1 0]
+No unconstrained duas covered in testcase 442 of copyOf: [1 1 1 0 0 0 1 0 0 1 0]: [0 0 0 1 1 1 0 1 1 0 1]
+[0 0 0 1 0 0 0 0 1 0 1]
+[1 1 1 1 0 0 1 0 1 1 1]
+[0 0 0 0 1 1 0 1 0 0 0]
+[1 1 1 0 1 1 1 1 0 1 0]
+No unconstrained duas covered in testcase 443 of copyOf: [1 1 1 0 0 0 1 0 0 1 0]: [0 0 0 1 1 1 0 1 1 0 1]
+[0 0 0 1 0 0 0 0 1 0 1]
+[1 1 1 1 0 0 1 0 1 1 1]
+[0 0 0 0 1 1 0 1 0 0 0]
+[1 1 1 0 1 1 1 1 0 1 0]
+No unconstrained duas covered in testcase 444 of copyOf: [1 1 1 0 0 0 1 0 0 1 0]: [0 0 0 1 1 1 0 1 1 0 1]
+[0 0 0 1 0 0 0 0 1 0 1]
+[1 1 1 1 0 0 1 0 1 1 1]
+[0 0 0 0 1 1 0 1 0 0 0]
+[1 1 1 0 1 1 1 1 0 1 0]
+No unconstrained duas covered in testcase 445 of copyOf: [1 1 1 0 0 0 1 0 0 1 0]: [0 0 0 1 1 1 0 1 1 0 1]
+[0 0 0 1 0 0 0 0 1 0 1]
+[1 1 1 1 0 0 1 0 1 1 1]
+[0 0 0 0 1 1 0 1 0 0 0]
+[1 1 1 0 1 1 1 1 0 1 0]
+No unconstrained duas covered in testcase 446 of copyOf: [1 1 1 0 0 0 1 0 0 1 0]: [0 0 0 1 1 1 0 1 1 0 1]
+[0 0 0 1 0 0 0 0 1 0 1]
+[1 1 1 1 0 0 1 0 1 1 1]
+[0 0 0 0 1 1 0 1 0 0 0]
+[1 1 1 0 1 1 1 1 0 1 0]
+No unconstrained duas covered in testcase 447 of copyOf: [1 1 1 0 0 0 1 0 0 1 0]: [0 0 0 1 1 1 0 1 1 0 1]
+[0 0 0 1 0 0 0 0 1 0 1]
+[1 1 1 1 0 0 1 0 1 1 1]
+[0 0 0 0 1 1 0 1 0 0 0]
+[1 1 1 0 1 1 1 1 0 1 0]
+No unconstrained duas covered in testcase 448 of copyOf: [1 1 1 0 0 0 1 0 0 1 0]: [0 0 0 1 1 1 0 1 1 0 1]
+[0 0 0 1 0 0 0 0 1 0 1]
+[1 1 1 1 0 0 1 0 1 1 1]
+[0 0 0 0 1 1 0 1 0 0 0]
+[1 1 1 0 1 1 1 1 0 1 0]
+No unconstrained duas covered in testcase 449 of copyOf: [1 1 1 0 0 0 1 0 0 1 0]: [0 0 0 1 1 1 0 1 1 0 1]
+[0 0 0 1 0 0 0 0 1 0 1]
+[1 1 1 1 0 0 1 0 1 1 1]
+[0 0 0 0 1 1 0 1 0 0 0]
+[1 1 1 0 1 1 1 1 0 1 0]
+No unconstrained duas covered in testcase 450 of copyOf: [1 1 1 0 0 0 1 0 0 1 0]: [0 0 0 1 1 1 0 1 1 0 1]
+[0 0 0 1 0 0 0 0 1 0 1]
+[1 1 1 1 0 0 1 0 1 1 1]
+[0 0 0 0 1 1 0 1 0 0 0]
+[1 1 1 0 1 1 1 1 0 1 0]
+Total :452: tests for class:com.google.gson.ParameterizedTypeHandlerMap:
+Methods executed: 8
+Unconstrained method :copyOf:1:81

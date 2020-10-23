@@ -1,0 +1,16 @@
+{
+"Class" : "weka.gui.AttributeListPanel$AttributeTableModel", 
+"Methods" : [{ "Name" : "getValueAt" ,
+"Duas" : 7,
+"0" :  "(112,116, this)",
+"1" :  "(112,116, row)",
+"2" :  "(112,114, row)",
+"3" :  "(112,(112,118), column)",
+"4" :  "(112,(112,114), column)",
+"5" :  "(112,(112,116), column)",
+"6" :  "(112,116, this.m_Instances)"},{ "Name" : "getColumnName" ,
+"Duas" : 3,
+"0" :  "(131,(131,137), column)",
+"1" :  "(131,(131,133), column)",
+"2" :  "(131,(131,135), column)"}]
+}

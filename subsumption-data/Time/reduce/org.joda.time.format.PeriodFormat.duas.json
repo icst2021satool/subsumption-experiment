@@ -1,0 +1,12 @@
+{
+"Class" : "org.joda.time.format.PeriodFormat", 
+"Methods" : [{ "Name" : "wordBased" ,
+"Duas" : 7,
+"0" :  "(95,97, locale)",
+"1" :  "(95,126, locale)",
+"2" :  "(95,126, FORMATTERS)",
+"3" :  "(95,(96,97), pf)",
+"4" :  "(95,(96,128), pf)",
+"5" :  "(95,128, pf)",
+"6" :  "(101,128, pf)"}]
+}

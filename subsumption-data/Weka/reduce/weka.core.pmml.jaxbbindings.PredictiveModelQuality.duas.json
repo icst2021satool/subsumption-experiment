@@ -1,0 +1,20 @@
+{
+"Class" : "weka.core.pmml.jaxbbindings.PredictiveModelQuality", 
+"Methods" : [{ "Name" : "getExtension" ,
+"Duas" : 8,
+"0" :  "(152,(152,153), this)",
+"1" :  "(152,(152,155), this)",
+"2" :  "(152,155, this)",
+"3" :  "(152,153, this)",
+"4" :  "(152,(152,153), this.extension)",
+"5" :  "(152,(152,155), this.extension)",
+"6" :  "(152,155, this.extension)",
+"7" :  "(153,155, this.extension)"},{ "Name" : "getDataUsage" ,
+"Duas" : 6,
+"0" :  "(359,(359,360), this)",
+"1" :  "(359,(359,362), this)",
+"2" :  "(359,362, this)",
+"3" :  "(359,(359,360), this.dataUsage)",
+"4" :  "(359,(359,362), this.dataUsage)",
+"5" :  "(359,362, this.dataUsage)"}]
+}

@@ -1,0 +1,36 @@
+{
+"Class" : "org.apache.commons.collections4.list.CursorableLinkedList", 
+"Methods" : [{ "Name" : "removeAllNodes" ,
+"Duas" : "7" ,
+"Subsumers" : 2,
+"0" : [ 5, 6, 3], "S0" : [0, 2, 3, 4, 5, 6 ],
+"1" : [ 1], "S1" : [1 ]
+},{ "Name" : "registerCursor" ,
+"Duas" : "9" ,
+"Subsumers" : 2,
+"0" : [ 7, 6], "S0" : [0, 1, 2, 3, 4, 5, 6, 7 ],
+"1" : [ 8], "S1" : [0, 1, 2, 3, 4, 5, 8 ]
+},{ "Name" : "unregisterCursor" ,
+"Duas" : "12" ,
+"Subsumers" : 4,
+"0" : [ 10, 7, 5, 0], "S0" : [0, 2, 4, 5, 7, 9, 10 ],
+"1" : [ 11, 1], "S1" : [1, 2, 4, 9, 11 ],
+"2" : [ 8, 6], "S2" : [2, 4, 6, 8 ],
+"3" : [ 3], "S3" : [3 ]
+},{ "Name" : "broadcastNodeChanged" ,
+"Duas" : "8" ,
+"Subsumers" : 2,
+"0" : [ 7, 6, 0], "S0" : [0, 1, 2, 3, 6, 7 ],
+"1" : [ 5, 4], "S1" : [1, 2, 3, 4, 5 ]
+},{ "Name" : "broadcastNodeRemoved" ,
+"Duas" : "8" ,
+"Subsumers" : 2,
+"0" : [ 7, 6, 0], "S0" : [0, 1, 2, 3, 6, 7 ],
+"1" : [ 5, 4], "S1" : [1, 2, 3, 4, 5 ]
+},{ "Name" : "broadcastNodeInserted" ,
+"Duas" : "8" ,
+"Subsumers" : 2,
+"0" : [ 7, 6, 0], "S0" : [0, 1, 2, 3, 6, 7 ],
+"1" : [ 5, 4], "S1" : [1, 2, 3, 4, 5 ]
+}]
+}

@@ -1,0 +1,13 @@
+{
+"Class" : "weka.core.pmml.jaxbbindings.DocumentTermMatrix", 
+"Methods" : [{ "Name" : "getExtension" ,
+"Duas" : 8,
+"0" :  "(78,(78,79), this)",
+"1" :  "(78,(78,81), this)",
+"2" :  "(78,81, this)",
+"3" :  "(78,79, this)",
+"4" :  "(78,(78,79), this.extension)",
+"5" :  "(78,(78,81), this.extension)",
+"6" :  "(78,81, this.extension)",
+"7" :  "(79,81, this.extension)"}]
+}

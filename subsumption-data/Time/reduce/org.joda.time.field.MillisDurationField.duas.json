@@ -1,0 +1,20 @@
+{
+"Class" : "org.joda.time.field.MillisDurationField", 
+"Methods" : [{ "Name" : "compareTo" ,
+"Duas" : 8,
+"0" :  "(134,(137,138), otherMillis)",
+"1" :  "(134,(137,140), otherMillis)",
+"2" :  "(134,(140,141), otherMillis)",
+"3" :  "(134,(140,143), otherMillis)",
+"4" :  "(135,(137,138), thisMillis)",
+"5" :  "(135,(137,140), thisMillis)",
+"6" :  "(135,(140,141), thisMillis)",
+"7" :  "(135,(140,143), thisMillis)"},{ "Name" : "equals" ,
+"Duas" : 6,
+"0" :  "(148,(149,149), this)",
+"1" :  "(148,(149,149), this)",
+"2" :  "(148,(148,149), obj)",
+"3" :  "(148,(148,151), obj)",
+"4" :  "(148,(149,149), obj)",
+"5" :  "(148,(149,149), obj)"}]
+}

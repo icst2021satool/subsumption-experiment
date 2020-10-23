@@ -1,0 +1,19 @@
+{
+"Class" : "weka.gui.visualize.MatrixPanel$7", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Duas" : 14,
+"0" :  "(477,(477,478), this)",
+"1" :  "(477,(477,480), this)",
+"2" :  "(477,481, this)",
+"3" :  "(477,483, this)",
+"4" :  "(477,484, this)",
+"5" :  "(477,478, this)",
+"6" :  "(477,(477,478), this.this$0)",
+"7" :  "(477,(477,480), this.this$0)",
+"8" :  "(477,481, this.this$0)",
+"9" :  "(477,483, this.this$0)",
+"10" :  "(477,484, this.this$0)",
+"11" :  "(477,478, this.this$0)",
+"12" :  "(477,(477,478), this.m_fastScroll)",
+"13" :  "(477,(477,480), this.m_fastScroll)"}]
+}

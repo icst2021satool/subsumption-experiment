@@ -1,0 +1,19 @@
+{
+"Class" : "weka.gui.visualize.PrintableComponent$4", 
+"Methods" : [{ "Name" : "itemStateChanged" ,
+"Duas" : 14,
+"0" :  "(365,367, this)",
+"1" :  "(365,368, this)",
+"2" :  "(365,369, this)",
+"3" :  "(365,370, this)",
+"4" :  "(365,367, this.this$0)",
+"5" :  "(365,368, this.this$0)",
+"6" :  "(365,369, this.this$0)",
+"7" :  "(365,370, this.this$0)",
+"8" :  "(365,368, this.m_CustomWidthText)",
+"9" :  "(365,368, this.m_Component)",
+"10" :  "(365,369, this.m_Component)",
+"11" :  "(365,369, this.m_CustomHeightText)",
+"12" :  "(365,(366,367), keep)",
+"13" :  "(365,(366,372), keep)"}]
+}

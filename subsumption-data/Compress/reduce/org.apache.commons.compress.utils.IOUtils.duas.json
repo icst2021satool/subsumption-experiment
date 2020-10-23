@@ -1,0 +1,14 @@
+{
+"Class" : "org.apache.commons.compress.utils.IOUtils", 
+"Methods" : [{ "Name" : "copy" ,
+"Duas" : 9,
+"0" :  "(55,57, input)",
+"1" :  "(55,(57,58), input)",
+"2" :  "(55,(57,60), input)",
+"3" :  "(55,58, output)",
+"4" :  "(55,57, buffer)",
+"5" :  "(55,(57,58), buffer)",
+"6" :  "(55,(57,60), buffer)",
+"7" :  "(55,58, buffer)",
+"8" :  "(57,58, n)"}]
+}

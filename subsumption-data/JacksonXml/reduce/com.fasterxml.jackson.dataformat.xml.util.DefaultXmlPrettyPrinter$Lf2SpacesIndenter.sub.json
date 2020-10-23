@@ -1,0 +1,14 @@
+{
+"Class" : "com.fasterxml.jackson.dataformat.xml.util.DefaultXmlPrettyPrinter$Lf2SpacesIndenter", 
+"Methods" : [{ "Name" : "writeIndentation" ,
+"Duas" : "13" ,
+"Subsumers" : 2,
+"0" : [ 12, 9], "S0" : [0, 1, 2, 3, 4, 5, 8, 9, 10, 11, 12 ],
+"1" : [ 7, 6], "S1" : [0, 2, 6, 7 ]
+},{ "Name" : "writeIndentation" ,
+"Duas" : "13" ,
+"Subsumers" : 2,
+"0" : [ 12, 9], "S0" : [0, 1, 2, 3, 4, 5, 8, 9, 10, 11, 12 ],
+"1" : [ 7, 6], "S1" : [0, 2, 6, 7 ]
+}]
+}

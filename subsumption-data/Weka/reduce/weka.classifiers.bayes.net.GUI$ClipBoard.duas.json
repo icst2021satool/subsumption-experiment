@@ -1,0 +1,16 @@
+{
+"Class" : "weka.classifiers.bayes.net.GUI$ClipBoard", 
+"Methods" : [{ "Name" : "<init>" ,
+"Duas" : 6,
+"0" :  "(389,(390,391), this$0)",
+"1" :  "(389,(390,393), this$0)",
+"2" :  "(389,391, this$0)",
+"3" :  "(389,(390,391), this$0.a_pastenode)",
+"4" :  "(389,(390,393), this$0.a_pastenode)",
+"5" :  "(389,391, this$0.a_pastenode)"},{ "Name" : "hasText" ,
+"Duas" : 4,
+"0" :  "(396,(396,396), this)",
+"1" :  "(396,(396,396), this)",
+"2" :  "(396,(396,396), this.m_sText)",
+"3" :  "(396,(396,396), this.m_sText)"}]
+}

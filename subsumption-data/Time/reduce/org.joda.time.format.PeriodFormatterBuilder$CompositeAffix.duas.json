@@ -1,0 +1,21 @@
+{
+"Class" : "org.joda.time.format.PeriodFormatterBuilder$CompositeAffix", 
+"Methods" : [{ "Name" : "parse" ,
+"Duas" : 8,
+"0" :  "(1012,1014, this)",
+"1" :  "(1012,1014, periodStr)",
+"2" :  "(1012,1014, this.iRight)",
+"3" :  "(1012,(1013,1014), position)",
+"4" :  "(1012,(1013,1016), position)",
+"5" :  "(1012,1016, position)",
+"6" :  "(1012,1014, position)",
+"7" :  "(1014,1016, position)"},{ "Name" : "scan" ,
+"Duas" : 7,
+"0" :  "(1020,1022, this)",
+"1" :  "(1020,1022, periodStr)",
+"2" :  "(1020,1024, position)",
+"3" :  "(1020,1022, this.iRight)",
+"4" :  "(1020,(1021,1022), pos)",
+"5" :  "(1020,(1021,1024), pos)",
+"6" :  "(1020,1022, pos)"}]
+}

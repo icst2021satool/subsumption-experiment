@@ -1,0 +1,20 @@
+{
+"Class" : "com.fasterxml.jackson.databind.ser.std.DateSerializer", 
+"Methods" : [{ "Name" : "withFormat" ,
+"Duas" : "3" ,
+"Subsumers" : 2,
+"0" : [ 0], "S0" : [0 ],
+"1" : [ 2, 1], "S1" : [1, 2 ]
+},{ "Name" : "_timestamp" ,
+"Duas" : "3" ,
+"Subsumers" : 2,
+"0" : [ 0], "S0" : [0, 2 ],
+"1" : [ 1], "S1" : [1, 2 ]
+},{ "Name" : "serialize" ,
+"Duas" : "22" ,
+"Subsumers" : 3,
+"0" : [ 15, 13, 10, 7, 0], "S0" : [0, 7, 10, 13, 15 ],
+"1" : [ 19, 20, 21, 17, 12, 9, 4, 5, 6, 2], "S1" : [1, 2, 4, 5, 6, 9, 12, 16, 17, 19, 20, 21 ],
+"2" : [ 18, 14, 11, 8, 3], "S2" : [1, 3, 8, 11, 14, 16, 18 ]
+}]
+}

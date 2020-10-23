@@ -1,0 +1,8 @@
+{
+"Class" : "com.sun.xml.bind.v2.runtime.unmarshaller.InterningXmlVisitor", 
+"Methods" : [{ "Name" : "intern" ,
+"Duas" : 3,
+"0" :  "(136,(136,136), s)",
+"1" :  "(136,(136,137), s)",
+"2" :  "(136,137, s)"}]
+}

@@ -1,0 +1,27 @@
+{
+"Class" : "com.google.javascript.jscomp.CheckSuspiciousCode", 
+"Methods" : [{ "Name" : "checkMissingSemicolon" ,
+"Duas" : "14" ,
+"Subsumers" : 4,
+"0" : [ 9, 8, 3, 0], "S0" : [0, 3, 8, 9 ],
+"1" : [ 13, 11, 5, 2], "S1" : [1, 2, 4, 5, 7, 10, 11, 13 ],
+"2" : [ 12], "S2" : [1, 4, 7, 10, 12 ],
+"3" : [ 6], "S3" : [6 ]
+},{ "Name" : "reportIfWasEmpty" ,
+"Duas" : "7" ,
+"Subsumers" : 3,
+"0" : [ 6, 5, 3, 0], "S0" : [0, 1, 3, 5, 6 ],
+"1" : [ 4], "S1" : [1, 4 ],
+"2" : [ 2], "S2" : [2 ]
+},{ "Name" : "checkNaN" ,
+"Duas" : "8" ,
+"Subsumers" : 2,
+"0" : [ 6, 7, 5, 2, 3, 0, 1], "S0" : [0, 1, 2, 3, 5, 6, 7 ],
+"1" : [ 4], "S1" : [4 ]
+},{ "Name" : "reportIfNaN" ,
+"Duas" : "5" ,
+"Subsumers" : 2,
+"0" : [ 4, 3, 1, 0], "S0" : [0, 1, 3, 4 ],
+"1" : [ 2], "S1" : [2 ]
+}]
+}

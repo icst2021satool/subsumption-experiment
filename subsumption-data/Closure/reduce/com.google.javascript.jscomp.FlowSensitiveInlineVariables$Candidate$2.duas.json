@@ -1,0 +1,7 @@
+{
+"Class" : "com.google.javascript.jscomp.FlowSensitiveInlineVariables$Candidate$2", 
+"Methods" : [{ "Name" : "apply" ,
+"Duas" : 2,
+"0" :  "(389,(389,389), input)",
+"1" :  "(389,(389,389), input)"}]
+}

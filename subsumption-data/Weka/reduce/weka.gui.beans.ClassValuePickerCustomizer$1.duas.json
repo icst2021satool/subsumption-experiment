@@ -1,0 +1,13 @@
+{
+"Class" : "weka.gui.beans.ClassValuePickerCustomizer$1", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Duas" : 8,
+"0" :  "(99,(99,100), this)",
+"1" :  "(99,(99,104), this)",
+"2" :  "(99,101, this)",
+"3" :  "(99,102, this)",
+"4" :  "(99,(99,100), this.this$0)",
+"5" :  "(99,(99,104), this.this$0)",
+"6" :  "(99,101, this.this$0)",
+"7" :  "(99,102, this.this$0)"}]
+}

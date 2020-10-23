@@ -1,0 +1,20 @@
+{
+"Class" : "weka.core.pmml.jaxbbindings.AssociationModel", 
+"Methods" : [{ "Name" : "getContent" ,
+"Duas" : 8,
+"0" :  "(154,(154,155), this)",
+"1" :  "(154,(154,157), this)",
+"2" :  "(154,157, this)",
+"3" :  "(154,155, this)",
+"4" :  "(154,(154,155), this.content)",
+"5" :  "(154,(154,157), this.content)",
+"6" :  "(154,157, this.content)",
+"7" :  "(155,157, this.content)"},{ "Name" : "isIsScorable" ,
+"Duas" : 6,
+"0" :  "(241,(241,242), this)",
+"1" :  "(241,(241,244), this)",
+"2" :  "(241,244, this)",
+"3" :  "(241,(241,242), this.isScorable)",
+"4" :  "(241,(241,244), this.isScorable)",
+"5" :  "(241,244, this.isScorable)"}]
+}

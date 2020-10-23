@@ -1,0 +1,18 @@
+{
+"Class" : "org.apache.commons.collections4.list.PredicatedList", 
+"Methods" : [{ "Name" : "equals" ,
+"Duas" : 8,
+"0" :  "(99,(99,99), this)",
+"1" :  "(99,(99,99), this)",
+"2" :  "(99,(99,99), this)",
+"3" :  "(99,(99,99), this)",
+"4" :  "(99,(99,99), object)",
+"5" :  "(99,(99,99), object)",
+"6" :  "(99,(99,99), object)",
+"7" :  "(99,(99,99), object)"},{ "Name" : "addAll" ,
+"Duas" : 4,
+"0" :  "(133,136, this)",
+"1" :  "(133,134, this)",
+"2" :  "(133,136, index)",
+"3" :  "(133,136, coll)"}]
+}

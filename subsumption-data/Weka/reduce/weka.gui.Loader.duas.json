@@ -1,0 +1,17 @@
+{
+"Class" : "weka.gui.Loader", 
+"Methods" : [{ "Name" : "processFilename" ,
+"Duas" : 8,
+"0" :  "(60,(60,61), this)",
+"1" :  "(60,(60,63), this)",
+"2" :  "(60,61, this)",
+"3" :  "(60,(60,61), filename)",
+"4" :  "(60,(60,63), filename)",
+"5" :  "(60,63, filename)",
+"6" :  "(60,61, filename)",
+"7" :  "(61,63, filename)"},{ "Name" : "getReader" ,
+"Duas" : 3,
+"0" :  "(119,(121,122), in)",
+"1" :  "(119,(121,124), in)",
+"2" :  "(119,124, in)"}]
+}

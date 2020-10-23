@@ -1,0 +1,22 @@
+{
+"Class" : "com.sun.xml.bind.v2.runtime.unmarshaller.DefaultIDResolver", 
+"Methods" : [{ "Name" : "startDocument" ,
+"Duas" : 6,
+"0" :  "(33,(33,34), this)",
+"1" :  "(33,(33,35), this)",
+"2" :  "(33,34, this)",
+"3" :  "(33,(33,34), this.idmap)",
+"4" :  "(33,(33,35), this.idmap)",
+"5" :  "(33,34, this.idmap)"},{ "Name" : "bind" ,
+"Duas" : 10,
+"0" :  "(39,(39,39), this)",
+"1" :  "(39,(39,40), this)",
+"2" :  "(39,40, this)",
+"3" :  "(39,39, this)",
+"4" :  "(39,40, id)",
+"5" :  "(39,40, obj)",
+"6" :  "(39,(39,39), this.idmap)",
+"7" :  "(39,(39,40), this.idmap)",
+"8" :  "(39,40, this.idmap)",
+"9" :  "(39,40, this.idmap)"}]
+}

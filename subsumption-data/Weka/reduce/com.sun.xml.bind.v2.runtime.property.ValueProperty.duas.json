@@ -1,0 +1,16 @@
+{
+"Class" : "com.sun.xml.bind.v2.runtime.property.ValueProperty", 
+"Methods" : [{ "Name" : "serializeBody" ,
+"Duas" : 11,
+"0" :  "(56,(56,57), this)",
+"1" :  "(56,(56,58), this)",
+"2" :  "(56,57, this)",
+"3" :  "(56,(56,57), o)",
+"4" :  "(56,(56,58), o)",
+"5" :  "(56,57, o)",
+"6" :  "(56,57, w)",
+"7" :  "(56,(56,57), this.xacc)",
+"8" :  "(56,(56,58), this.xacc)",
+"9" :  "(56,57, this.xacc)",
+"10" :  "(56,57, this.fieldName)"}]
+}

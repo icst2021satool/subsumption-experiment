@@ -1,0 +1,13 @@
+{
+"Class" : "weka.classifiers.pmml.consumer.GeneralRegression$LinkFunction$9", 
+"Methods" : [{ "Name" : "eval" ,
+"Duas" : 8,
+"0" :  "(215,215, value)",
+"1" :  "(215,215, offset)",
+"2" :  "(215,215, trials)",
+"3" :  "(215,(215,215), linkParam)",
+"4" :  "(215,(215,216), linkParam)",
+"5" :  "(215,215, linkParam)",
+"6" :  "(215,(215,216), linkParam)",
+"7" :  "(215,(215,217), linkParam)"}]
+}

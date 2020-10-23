@@ -1,0 +1,15 @@
+{
+"Class" : "com.sun.xml.bind.v2.runtime.reflect.TransducedAccessor$CompositeContextDependentTransducedAccessorImpl", 
+"Methods" : [{ "Name" : "<init>" ,
+"Duas" : "4" ,
+"Subsumers" : 3,
+"0" : [ 0], "S0" : [0, 2 ],
+"1" : [ 1], "S1" : [1, 2 ],
+"2" : [ 3], "S2" : [3 ]
+},{ "Name" : "declareNamespace" ,
+"Duas" : "6" ,
+"Subsumers" : 2,
+"0" : [ 5, 3, 2, 1, 0], "S0" : [0, 1, 2, 3, 5 ],
+"1" : [ 4], "S1" : [4 ]
+}]
+}

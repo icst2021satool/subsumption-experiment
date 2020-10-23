@@ -1,0 +1,8 @@
+{
+"Class" : "weka.gui.beans.PluginManager", 
+"Methods" : [{ "Name" : "removePlugins" ,
+"Duas" : "2" ,
+"Subsumers" : 1,
+"0" : [ 1, 0], "S0" : [0, 1 ]
+}]
+}

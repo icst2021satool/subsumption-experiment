@@ -1,0 +1,13 @@
+{
+"Class" : "weka.core.pmml.jaxbbindings.PPCell", 
+"Methods" : [{ "Name" : "getExtension" ,
+"Duas" : 8,
+"0" :  "(87,(87,88), this)",
+"1" :  "(87,(87,90), this)",
+"2" :  "(87,90, this)",
+"3" :  "(87,88, this)",
+"4" :  "(87,(87,88), this.extension)",
+"5" :  "(87,(87,90), this.extension)",
+"6" :  "(87,90, this.extension)",
+"7" :  "(88,90, this.extension)"}]
+}

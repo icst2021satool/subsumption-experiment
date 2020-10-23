@@ -1,0 +1,13 @@
+{
+"Class" : "weka.gui.knowledgeflow.steps.DataGridStepEditorDialog$4", 
+"Methods" : [{ "Name" : "stateChanged" ,
+"Duas" : 8,
+"0" :  "(238,(238,239), this)",
+"1" :  "(238,(238,241), this)",
+"2" :  "(238,239, this)",
+"3" :  "(238,(238,239), this.this$0)",
+"4" :  "(238,(238,241), this.this$0)",
+"5" :  "(238,239, this.this$0)",
+"6" :  "(238,(238,239), this.m_tabbedPane)",
+"7" :  "(238,(238,241), this.m_tabbedPane)"}]
+}

@@ -1,0 +1,16 @@
+{
+"Class" : "com.google.javascript.jscomp.AbstractCommandLineRunner$CommandLineConfig", 
+"Methods" : [{ "Name" : "setOutputManifest" ,
+"Duas" : 11,
+"0" :  "(1955,1961, this)",
+"1" :  "(1955,1962, this)",
+"2" :  "(1955,1958, this)",
+"3" :  "(1955,1961, this.outputManifests)",
+"4" :  "(1955,1958, this.outputManifests)",
+"5" :  "(1956,(1956,1956), i$)",
+"6" :  "(1956,(1956,1961), i$)",
+"7" :  "(1956,1956, i$)",
+"8" :  "(1956,(1957,1958), manifestName)",
+"9" :  "(1956,(1957,1960), manifestName)",
+"10" :  "(1956,1958, manifestName)"}]
+}

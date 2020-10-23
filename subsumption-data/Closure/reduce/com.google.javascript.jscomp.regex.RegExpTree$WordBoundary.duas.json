@@ -1,0 +1,13 @@
+{
+"Class" : "com.google.javascript.jscomp.regex.RegExpTree$WordBoundary", 
+"Methods" : [{ "Name" : "equals" ,
+"Duas" : 8,
+"0" :  "(691,(691,691), this)",
+"1" :  "(691,(691,691), this)",
+"2" :  "(691,(691,691), o)",
+"3" :  "(691,(691,691), o)",
+"4" :  "(691,(691,691), o)",
+"5" :  "(691,(691,691), o)",
+"6" :  "(691,(691,691), this.type)",
+"7" :  "(691,(691,691), this.type)"}]
+}

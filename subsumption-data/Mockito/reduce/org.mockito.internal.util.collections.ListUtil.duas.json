@@ -1,0 +1,12 @@
+{
+"Class" : "org.mockito.internal.util.collections.ListUtil", 
+"Methods" : [{ "Name" : "filter" ,
+"Duas" : 7,
+"0" :  "(14,(16,17), filter)",
+"1" :  "(14,(16,19), filter)",
+"2" :  "(14,20, filtered)",
+"3" :  "(14,17, filtered)",
+"4" :  "(15,(16,17), t)",
+"5" :  "(15,(16,19), t)",
+"6" :  "(15,17, t)"}]
+}

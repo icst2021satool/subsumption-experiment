@@ -1,0 +1,12 @@
+{
+"Class" : "weka.gui.knowledgeflow.MainKFPerspective$2", 
+"Methods" : [{ "Name" : "tabClosing" ,
+"Duas" : 7,
+"0" :  "(318,(318,319), this)",
+"1" :  "(318,(318,321), this)",
+"2" :  "(318,319, this)",
+"3" :  "(318,319, tabIndex)",
+"4" :  "(318,(318,319), this.this$0)",
+"5" :  "(318,(318,321), this.this$0)",
+"6" :  "(318,319, this.this$0)"}]
+}

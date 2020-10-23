@@ -1,0 +1,19 @@
+{
+"Class" : "com.google.javascript.jscomp.DefaultPassConfig$GlobalTypeResolver", 
+"Methods" : [{ "Name" : "process" ,
+"Duas" : 14,
+"0" :  "(1256,(1256,1257), this)",
+"1" :  "(1256,(1256,1259), this)",
+"2" :  "(1256,1259, this)",
+"3" :  "(1256,1257, this)",
+"4" :  "(1256,1257, root)",
+"5" :  "(1256,(1256,1257), this.this$0)",
+"6" :  "(1256,(1256,1259), this.this$0)",
+"7" :  "(1256,1259, this.this$0)",
+"8" :  "(1256,1257, this.this$0)",
+"9" :  "(1256,(1256,1257), this.topScope)",
+"10" :  "(1256,(1256,1259), this.topScope)",
+"11" :  "(1256,1259, this.topScope)",
+"12" :  "(1256,1259, this.compiler)",
+"13" :  "(1256,1257, this.compiler)"}]
+}

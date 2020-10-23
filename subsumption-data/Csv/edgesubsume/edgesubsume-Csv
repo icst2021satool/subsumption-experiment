@@ -1,0 +1,486 @@
+@@ Local DUA-edge subsumption
+@@ Method, Nodes, Edges, DUAs, SubDUAs, Perc, Time_s, Time_ms
+
+
+#org/apache/commons/csv/CSVParser/getRecords:
+## nodes: 5
+## edges: 5
+## DUAs: 6
+## Subsumed DUAs: 6
+## Edge DUA coverage: 100.0
+@@ org.apache.commons.csv.CSVParser.getRecords,5,5,6,6,100.0,0,5
+
+
+#org/apache/commons/csv/CSVParser/getRecords:
+Local DUA-Edge subsumption of method org.apache.commons.csv.CSVParser.getRecords  calculated in 0 minutes, 0 seconds, and 5 milliseconds
+
+#org/apache/commons/csv/CSVParser/getRecord:
+## nodes: 13
+## edges: 19
+## DUAs: 60
+## Subsumed DUAs: 57
+## Edge DUA coverage: 95.0
+@@ org.apache.commons.csv.CSVParser.getRecord,13,19,60,57,95.0,0,2
+
+
+#org/apache/commons/csv/CSVParser/getRecord:
+Local DUA-Edge subsumption of method org.apache.commons.csv.CSVParser.getRecord  calculated in 0 minutes, 0 seconds, and 2 milliseconds
+
+#org/apache/commons/csv/CSVParser/initializeHeader:
+## nodes: 12
+## edges: 16
+## DUAs: 33
+## Subsumed DUAs: 14
+## Edge DUA coverage: 42.42424242424242
+@@ org.apache.commons.csv.CSVParser.initializeHeader,12,16,33,14,42.42424242424242,0,3
+
+
+#org/apache/commons/csv/CSVParser/initializeHeader:
+Local DUA-Edge subsumption of method org.apache.commons.csv.CSVParser.initializeHeader  calculated in 0 minutes, 0 seconds, and 3 milliseconds
+
+#org/apache/commons/csv/Lexer/readEscape:
+## nodes: 8
+## edges: 12
+## DUAs: 7
+## Subsumed DUAs: 7
+## Edge DUA coverage: 100.0
+@@ org.apache.commons.csv.Lexer.readEscape,8,12,7,7,100.0,0,1
+
+
+#org/apache/commons/csv/Lexer/readEscape:
+Local DUA-Edge subsumption of method org.apache.commons.csv.Lexer.readEscape  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/apache/commons/csv/Lexer/trimTrailingSpaces:
+## nodes: 8
+## edges: 10
+## DUAs: 21
+## Subsumed DUAs: 8
+## Edge DUA coverage: 38.095238095238095
+@@ org.apache.commons.csv.Lexer.trimTrailingSpaces,8,10,21,8,38.095238095238095,0,1
+
+
+#org/apache/commons/csv/Lexer/trimTrailingSpaces:
+Local DUA-Edge subsumption of method org.apache.commons.csv.Lexer.trimTrailingSpaces  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/apache/commons/csv/Lexer/isWhitespace:
+## nodes: 6
+## edges: 7
+## DUAs: 8
+## Subsumed DUAs: 8
+## Edge DUA coverage: 100.0
+@@ org.apache.commons.csv.Lexer.isWhitespace,6,7,8,8,100.0,0,0
+
+
+#org/apache/commons/csv/Lexer/isWhitespace:
+Local DUA-Edge subsumption of method org.apache.commons.csv.Lexer.isWhitespace  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/apache/commons/csv/Lexer/isEndOfLine:
+## nodes: 9
+## edges: 12
+## DUAs: 16
+## Subsumed DUAs: 8
+## Edge DUA coverage: 50.0
+@@ org.apache.commons.csv.Lexer.isEndOfLine,9,12,16,8,50.0,0,1
+
+
+#org/apache/commons/csv/Lexer/isEndOfLine:
+Local DUA-Edge subsumption of method org.apache.commons.csv.Lexer.isEndOfLine  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/apache/commons/csv/Lexer/isEndOfFile:
+## nodes: 5
+## edges: 5
+## DUAs: 2
+## Subsumed DUAs: 2
+## Edge DUA coverage: 100.0
+@@ org.apache.commons.csv.Lexer.isEndOfFile,5,5,2,2,100.0,0,0
+
+
+#org/apache/commons/csv/Lexer/isEndOfFile:
+Local DUA-Edge subsumption of method org.apache.commons.csv.Lexer.isEndOfFile  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/apache/commons/csv/Lexer/isDelimiter:
+## nodes: 5
+## edges: 5
+## DUAs: 6
+## Subsumed DUAs: 6
+## Edge DUA coverage: 100.0
+@@ org.apache.commons.csv.Lexer.isDelimiter,5,5,6,6,100.0,0,1
+
+
+#org/apache/commons/csv/Lexer/isDelimiter:
+Local DUA-Edge subsumption of method org.apache.commons.csv.Lexer.isDelimiter  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/apache/commons/csv/Lexer/isEscape:
+## nodes: 6
+## edges: 7
+## DUAs: 10
+## Subsumed DUAs: 10
+## Edge DUA coverage: 100.0
+@@ org.apache.commons.csv.Lexer.isEscape,6,7,10,10,100.0,0,0
+
+
+#org/apache/commons/csv/Lexer/isEscape:
+Local DUA-Edge subsumption of method org.apache.commons.csv.Lexer.isEscape  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/apache/commons/csv/Lexer/isEncapsulator:
+## nodes: 6
+## edges: 7
+## DUAs: 10
+## Subsumed DUAs: 10
+## Edge DUA coverage: 100.0
+@@ org.apache.commons.csv.Lexer.isEncapsulator,6,7,10,10,100.0,0,1
+
+
+#org/apache/commons/csv/Lexer/isEncapsulator:
+Local DUA-Edge subsumption of method org.apache.commons.csv.Lexer.isEncapsulator  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/apache/commons/csv/Lexer/isCommentStart:
+## nodes: 6
+## edges: 7
+## DUAs: 10
+## Subsumed DUAs: 10
+## Edge DUA coverage: 100.0
+@@ org.apache.commons.csv.Lexer.isCommentStart,6,7,10,10,100.0,0,1
+
+
+#org/apache/commons/csv/Lexer/isCommentStart:
+Local DUA-Edge subsumption of method org.apache.commons.csv.Lexer.isCommentStart  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/apache/commons/csv/CSVRecord/<init>:
+## nodes: 5
+## edges: 5
+## DUAs: 6
+## Subsumed DUAs: 6
+## Edge DUA coverage: 100.0
+@@ org.apache.commons.csv.CSVRecord.<init>,5,5,6,6,100.0,0,0
+
+
+#org/apache/commons/csv/CSVRecord/<init>:
+Local DUA-Edge subsumption of method org.apache.commons.csv.CSVRecord.<init>  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/apache/commons/csv/CSVRecord/get:
+## nodes: 7
+## edges: 8
+## DUAs: 12
+## Subsumed DUAs: 12
+## Edge DUA coverage: 100.0
+@@ org.apache.commons.csv.CSVRecord.get,7,8,12,12,100.0,0,1
+
+
+#org/apache/commons/csv/CSVRecord/get:
+Local DUA-Edge subsumption of method org.apache.commons.csv.CSVRecord.get  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/apache/commons/csv/CSVParser$1/hasNext:
+## nodes: 7
+## edges: 8
+## DUAs: 11
+## Subsumed DUAs: 7
+## Edge DUA coverage: 63.63636363636363
+@@ org.apache.commons.csv.CSVParser$1.hasNext,7,8,11,7,63.63636363636363,0,0
+
+
+#org/apache/commons/csv/CSVParser$1/hasNext:
+Local DUA-Edge subsumption of method org.apache.commons.csv.CSVParser$1.hasNext  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/apache/commons/csv/CSVParser$1/next:
+## nodes: 5
+## edges: 6
+## DUAs: 7
+## Subsumed DUAs: 7
+## Edge DUA coverage: 100.0
+@@ org.apache.commons.csv.CSVParser$1.next,5,6,7,7,100.0,0,1
+
+
+#org/apache/commons/csv/CSVParser$1/next:
+Local DUA-Edge subsumption of method org.apache.commons.csv.CSVParser$1.next  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/apache/commons/csv/CSVLexer/nextToken:
+## nodes: 30
+## edges: 48
+## DUAs: 157
+## Subsumed DUAs: 53
+## Edge DUA coverage: 33.75796178343949
+@@ org.apache.commons.csv.CSVLexer.nextToken,30,48,157,53,33.75796178343949,0,3
+
+
+#org/apache/commons/csv/CSVLexer/nextToken:
+Local DUA-Edge subsumption of method org.apache.commons.csv.CSVLexer.nextToken  calculated in 0 minutes, 0 seconds, and 3 milliseconds
+Warning: Method:org.apache.commons.csv.CSVLexer.simpleTokenLexer has incoming edges.
+
+#org/apache/commons/csv/CSVLexer/encapsulatedTokenLexer:
+## nodes: 18
+## edges: 25
+## DUAs: 55
+## Subsumed DUAs: 55
+## Edge DUA coverage: 100.0
+@@ org.apache.commons.csv.CSVLexer.encapsulatedTokenLexer,18,25,55,55,100.0,0,1
+
+
+#org/apache/commons/csv/CSVLexer/encapsulatedTokenLexer:
+Local DUA-Edge subsumption of method org.apache.commons.csv.CSVLexer.encapsulatedTokenLexer  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/apache/commons/csv/ExtendedBufferedReader/read:
+## nodes: 4
+## edges: 4
+## DUAs: 6
+## Subsumed DUAs: 6
+## Edge DUA coverage: 100.0
+@@ org.apache.commons.csv.ExtendedBufferedReader.read,4,4,6,6,100.0,0,1
+
+
+#org/apache/commons/csv/ExtendedBufferedReader/read:
+Local DUA-Edge subsumption of method org.apache.commons.csv.ExtendedBufferedReader.read  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/apache/commons/csv/ExtendedBufferedReader/read:
+## nodes: 19
+## edges: 26
+## DUAs: 56
+## Subsumed DUAs: 37
+## Edge DUA coverage: 66.07142857142857
+@@ org.apache.commons.csv.ExtendedBufferedReader.read,19,26,56,37,66.07142857142857,0,1
+
+
+#org/apache/commons/csv/ExtendedBufferedReader/read:
+Local DUA-Edge subsumption of method org.apache.commons.csv.ExtendedBufferedReader.read  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/apache/commons/csv/ExtendedBufferedReader/readLine:
+## nodes: 7
+## edges: 8
+## DUAs: 10
+## Subsumed DUAs: 10
+## Edge DUA coverage: 100.0
+@@ org.apache.commons.csv.ExtendedBufferedReader.readLine,7,8,10,10,100.0,0,1
+
+
+#org/apache/commons/csv/ExtendedBufferedReader/readLine:
+Local DUA-Edge subsumption of method org.apache.commons.csv.ExtendedBufferedReader.readLine  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/apache/commons/csv/CSVFormat/isLineBreak:
+## nodes: 6
+## edges: 7
+## DUAs: 4
+## Subsumed DUAs: 4
+## Edge DUA coverage: 100.0
+@@ org.apache.commons.csv.CSVFormat.isLineBreak,6,7,4,4,100.0,0,0
+
+
+#org/apache/commons/csv/CSVFormat/isLineBreak:
+Local DUA-Edge subsumption of method org.apache.commons.csv.CSVFormat.isLineBreak  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/apache/commons/csv/CSVFormat/validate:
+## nodes: 14
+## edges: 20
+## DUAs: 48
+## Subsumed DUAs: 48
+## Edge DUA coverage: 100.0
+@@ org.apache.commons.csv.CSVFormat.validate,14,20,48,48,100.0,0,2
+
+
+#org/apache/commons/csv/CSVFormat/validate:
+Local DUA-Edge subsumption of method org.apache.commons.csv.CSVFormat.validate  calculated in 0 minutes, 0 seconds, and 2 milliseconds
+
+#org/apache/commons/csv/CSVFormat/withDelimiter:
+## nodes: 4
+## edges: 4
+## DUAs: 11
+## Subsumed DUAs: 11
+## Edge DUA coverage: 100.0
+@@ org.apache.commons.csv.CSVFormat.withDelimiter,4,4,11,11,100.0,0,0
+
+
+#org/apache/commons/csv/CSVFormat/withDelimiter:
+Local DUA-Edge subsumption of method org.apache.commons.csv.CSVFormat.withDelimiter  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/apache/commons/csv/CSVFormat/withEncapsulator:
+## nodes: 4
+## edges: 4
+## DUAs: 11
+## Subsumed DUAs: 11
+## Edge DUA coverage: 100.0
+@@ org.apache.commons.csv.CSVFormat.withEncapsulator,4,4,11,11,100.0,0,0
+
+
+#org/apache/commons/csv/CSVFormat/withEncapsulator:
+Local DUA-Edge subsumption of method org.apache.commons.csv.CSVFormat.withEncapsulator  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/apache/commons/csv/CSVFormat/isEncapsulating:
+## nodes: 5
+## edges: 5
+## DUAs: 4
+## Subsumed DUAs: 4
+## Edge DUA coverage: 100.0
+@@ org.apache.commons.csv.CSVFormat.isEncapsulating,5,5,4,4,100.0,0,1
+
+
+#org/apache/commons/csv/CSVFormat/isEncapsulating:
+Local DUA-Edge subsumption of method org.apache.commons.csv.CSVFormat.isEncapsulating  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/apache/commons/csv/CSVFormat/withCommentStart:
+## nodes: 4
+## edges: 4
+## DUAs: 11
+## Subsumed DUAs: 11
+## Edge DUA coverage: 100.0
+@@ org.apache.commons.csv.CSVFormat.withCommentStart,4,4,11,11,100.0,0,0
+
+
+#org/apache/commons/csv/CSVFormat/withCommentStart:
+Local DUA-Edge subsumption of method org.apache.commons.csv.CSVFormat.withCommentStart  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/apache/commons/csv/CSVFormat/isCommentingEnabled:
+## nodes: 5
+## edges: 5
+## DUAs: 4
+## Subsumed DUAs: 4
+## Edge DUA coverage: 100.0
+@@ org.apache.commons.csv.CSVFormat.isCommentingEnabled,5,5,4,4,100.0,0,0
+
+
+#org/apache/commons/csv/CSVFormat/isCommentingEnabled:
+Local DUA-Edge subsumption of method org.apache.commons.csv.CSVFormat.isCommentingEnabled  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/apache/commons/csv/CSVFormat/withEscape:
+## nodes: 4
+## edges: 4
+## DUAs: 11
+## Subsumed DUAs: 11
+## Edge DUA coverage: 100.0
+@@ org.apache.commons.csv.CSVFormat.withEscape,4,4,11,11,100.0,0,1
+
+
+#org/apache/commons/csv/CSVFormat/withEscape:
+Local DUA-Edge subsumption of method org.apache.commons.csv.CSVFormat.withEscape  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/apache/commons/csv/CSVFormat/isEscaping:
+## nodes: 5
+## edges: 5
+## DUAs: 4
+## Subsumed DUAs: 4
+## Edge DUA coverage: 100.0
+@@ org.apache.commons.csv.CSVFormat.isEscaping,5,5,4,4,100.0,0,0
+
+
+#org/apache/commons/csv/CSVFormat/isEscaping:
+Local DUA-Edge subsumption of method org.apache.commons.csv.CSVFormat.isEscaping  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/apache/commons/csv/CSVFormat/toString:
+## nodes: 12
+## edges: 16
+## DUAs: 22
+## Subsumed DUAs: 22
+## Edge DUA coverage: 100.0
+@@ org.apache.commons.csv.CSVFormat.toString,12,16,22,22,100.0,0,1
+
+
+#org/apache/commons/csv/CSVFormat/toString:
+Local DUA-Edge subsumption of method org.apache.commons.csv.CSVFormat.toString  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/apache/commons/csv/CSVPrinter/<init>:
+## nodes: 5
+## edges: 5
+## DUAs: 5
+## Subsumed DUAs: 5
+## Edge DUA coverage: 100.0
+@@ org.apache.commons.csv.CSVPrinter.<init>,5,5,5,5,100.0,0,1
+
+
+#org/apache/commons/csv/CSVPrinter/<init>:
+Local DUA-Edge subsumption of method org.apache.commons.csv.CSVPrinter.<init>  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/apache/commons/csv/CSVPrinter/flush:
+## nodes: 4
+## edges: 4
+## DUAs: 6
+## Subsumed DUAs: 6
+## Edge DUA coverage: 100.0
+@@ org.apache.commons.csv.CSVPrinter.flush,4,4,6,6,100.0,0,0
+
+
+#org/apache/commons/csv/CSVPrinter/flush:
+Local DUA-Edge subsumption of method org.apache.commons.csv.CSVPrinter.flush  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/apache/commons/csv/CSVPrinter/println:
+## nodes: 5
+## edges: 5
+## DUAs: 11
+## Subsumed DUAs: 7
+## Edge DUA coverage: 63.63636363636363
+@@ org.apache.commons.csv.CSVPrinter.println,5,5,11,7,63.63636363636363,0,1
+
+
+#org/apache/commons/csv/CSVPrinter/println:
+Local DUA-Edge subsumption of method org.apache.commons.csv.CSVPrinter.println  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/apache/commons/csv/CSVPrinter/printComment:
+## nodes: 15
+## edges: 21
+## DUAs: 48
+## Subsumed DUAs: 31
+## Edge DUA coverage: 64.58333333333334
+@@ org.apache.commons.csv.CSVPrinter.printComment,15,21,48,31,64.58333333333334,0,1
+
+
+#org/apache/commons/csv/CSVPrinter/printComment:
+Local DUA-Edge subsumption of method org.apache.commons.csv.CSVPrinter.printComment  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/apache/commons/csv/CSVPrinter/print:
+## nodes: 7
+## edges: 8
+## DUAs: 21
+## Subsumed DUAs: 21
+## Edge DUA coverage: 100.0
+@@ org.apache.commons.csv.CSVPrinter.print,7,8,21,21,100.0,0,0
+
+
+#org/apache/commons/csv/CSVPrinter/print:
+Local DUA-Edge subsumption of method org.apache.commons.csv.CSVPrinter.print  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/apache/commons/csv/CSVPrinter/printSep:
+## nodes: 5
+## edges: 5
+## DUAs: 8
+## Subsumed DUAs: 8
+## Edge DUA coverage: 100.0
+@@ org.apache.commons.csv.CSVPrinter.printSep,5,5,8,8,100.0,0,1
+
+
+#org/apache/commons/csv/CSVPrinter/printSep:
+Local DUA-Edge subsumption of method org.apache.commons.csv.CSVPrinter.printSep  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/apache/commons/csv/CSVPrinter/printAndEscape:
+## nodes: 18
+## edges: 26
+## DUAs: 65
+## Subsumed DUAs: 32
+## Edge DUA coverage: 49.23076923076923
+@@ org.apache.commons.csv.CSVPrinter.printAndEscape,18,26,65,32,49.23076923076923,0,1
+
+
+#org/apache/commons/csv/CSVPrinter/printAndEscape:
+Local DUA-Edge subsumption of method org.apache.commons.csv.CSVPrinter.printAndEscape  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/apache/commons/csv/CSVPrinter/printAndEncapsulate:
+## nodes: 32
+## edges: 51
+## DUAs: 115
+## Subsumed DUAs: 67
+## Edge DUA coverage: 58.26086956521739
+@@ org.apache.commons.csv.CSVPrinter.printAndEncapsulate,32,51,115,67,58.26086956521739,0,2
+
+
+#org/apache/commons/csv/CSVPrinter/printAndEncapsulate:
+Local DUA-Edge subsumption of method org.apache.commons.csv.CSVPrinter.printAndEncapsulate  calculated in 0 minutes, 0 seconds, and 2 milliseconds
+
+#org/apache/commons/csv/CSVPrinter/print:
+## nodes: 7
+## edges: 8
+## DUAs: 11
+## Subsumed DUAs: 7
+## Edge DUA coverage: 63.63636363636363
+@@ org.apache.commons.csv.CSVPrinter.print,7,8,11,7,63.63636363636363,0,0
+
+
+#org/apache/commons/csv/CSVPrinter/print:
+Local DUA-Edge subsumption of method org.apache.commons.csv.CSVPrinter.print  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+40 methods had the edge subsumption relationship calculated in 0 minutes and 0 seconds
+Local DUA-Edge subsumption time (ms):369

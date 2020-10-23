@@ -1,0 +1,12 @@
+{
+"Class" : "org.apache.commons.collections4.functors.TransformerPredicate", 
+"Methods" : [{ "Name" : "transformerPredicate" ,
+"Duas" : 3,
+"0" :  "(48,(48,49), transformer)",
+"1" :  "(48,(48,51), transformer)",
+"2" :  "(48,51, transformer)"},{ "Name" : "evaluate" ,
+"Duas" : 3,
+"0" :  "(73,(74,75), result)",
+"1" :  "(73,(74,78), result)",
+"2" :  "(73,78, result)"}]
+}

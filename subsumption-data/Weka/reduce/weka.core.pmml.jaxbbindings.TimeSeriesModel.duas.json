@@ -1,0 +1,20 @@
+{
+"Class" : "weka.core.pmml.jaxbbindings.TimeSeriesModel", 
+"Methods" : [{ "Name" : "getContent" ,
+"Duas" : 8,
+"0" :  "(138,(138,139), this)",
+"1" :  "(138,(138,141), this)",
+"2" :  "(138,141, this)",
+"3" :  "(138,139, this)",
+"4" :  "(138,(138,139), this.content)",
+"5" :  "(138,(138,141), this.content)",
+"6" :  "(138,141, this.content)",
+"7" :  "(139,141, this.content)"},{ "Name" : "isIsScorable" ,
+"Duas" : 6,
+"0" :  "(225,(225,226), this)",
+"1" :  "(225,(225,228), this)",
+"2" :  "(225,228, this)",
+"3" :  "(225,(225,226), this.isScorable)",
+"4" :  "(225,(225,228), this.isScorable)",
+"5" :  "(225,228, this.isScorable)"}]
+}

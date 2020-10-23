@@ -1,0 +1,14 @@
+{
+"Class" : "weka.gui.explorer.ClassifierPanel$8", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Duas" : 9,
+"0" :  "(566,571, this)",
+"1" :  "(566,(567,568), m_Memory)",
+"2" :  "(566,(567,570), m_Memory)",
+"3" :  "(566,568, m_Memory)",
+"4" :  "(566,571, this.this$0)",
+"5" :  "(566,(570,571), proceed)",
+"6" :  "(566,(570,573), proceed)",
+"7" :  "(568,(570,571), proceed)",
+"8" :  "(568,(570,573), proceed)"}]
+}

@@ -1,0 +1,11 @@
+{
+"Class" : "weka.gui.GUIChooserApp$4", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Duas" : 6,
+"0" :  "(400,406, this)",
+"1" :  "(400,407, this)",
+"2" :  "(400,406, this.this$0)",
+"3" :  "(400,407, this.this$0)",
+"4" :  "(400,(405,406), result)",
+"5" :  "(400,(405,409), result)"}]
+}

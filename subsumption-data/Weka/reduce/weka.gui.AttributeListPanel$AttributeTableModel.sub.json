@@ -1,0 +1,16 @@
+{
+"Class" : "weka.gui.AttributeListPanel$AttributeTableModel", 
+"Methods" : [{ "Name" : "getValueAt" ,
+"Duas" : "7" ,
+"Subsumers" : 3,
+"0" : [ 6, 5, 1, 0], "S0" : [0, 1, 5, 6 ],
+"1" : [ 4, 2], "S1" : [2, 4 ],
+"2" : [ 3], "S2" : [3 ]
+},{ "Name" : "getColumnName" ,
+"Duas" : "3" ,
+"Subsumers" : 3,
+"0" : [ 0], "S0" : [0 ],
+"1" : [ 1], "S1" : [1 ],
+"2" : [ 2], "S2" : [2 ]
+}]
+}

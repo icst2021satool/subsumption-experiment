@@ -1,0 +1,16 @@
+{
+"Class" : "weka.gui.knowledgeflow.StepTree$StepIconRenderer", 
+"Methods" : [{ "Name" : "getTreeCellRendererComponent" ,
+"Duas" : 11,
+"0" :  "(463,475, this)",
+"1" :  "(463,471, this)",
+"2" :  "(463,467, value)",
+"3" :  "(463,(466,467), leaf)",
+"4" :  "(463,(466,475), leaf)",
+"5" :  "(467,(468,469), userO)",
+"6" :  "(467,(468,475), userO)",
+"7" :  "(467,469, userO)",
+"8" :  "(469,(470,471), i)",
+"9" :  "(469,(470,475), i)",
+"10" :  "(469,471, i)"}]
+}

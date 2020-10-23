@@ -1,0 +1,23 @@
+{
+"Class" : "weka.classifiers.pmml.consumer.SupportVectorMachineModel$Kernel", 
+"Methods" : [{ "Name" : "getKernel" ,
+"Duas" : 18,
+"0" :  "(106,111, svmMachineModelElement)",
+"1" :  "(106,116, svmMachineModelElement)",
+"2" :  "(106,121, svmMachineModelElement)",
+"3" :  "(106,123, log)",
+"4" :  "(106,118, log)",
+"5" :  "(106,113, log)",
+"6" :  "(106,108, log)",
+"7" :  "(106,(107,108), kList)",
+"8" :  "(106,(107,111), kList)",
+"9" :  "(111,(112,113), kList)",
+"10" :  "(111,(112,116), kList)",
+"11" :  "(111,113, kList)",
+"12" :  "(116,(117,118), kList)",
+"13" :  "(116,(117,121), kList)",
+"14" :  "(116,118, kList)",
+"15" :  "(121,(122,123), kList)",
+"16" :  "(121,(122,126), kList)",
+"17" :  "(121,123, kList)"}]
+}

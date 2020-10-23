@@ -1,0 +1,13 @@
+{
+"Class" : "org.apache.commons.collections4.functors.PrototypeFactory$PrototypeCloneFactory", 
+"Methods" : [{ "Name" : "create" ,
+"Duas" : 8,
+"0" :  "(132,(132,133), this)",
+"1" :  "(132,(132,137), this)",
+"2" :  "(132,137, this)",
+"3" :  "(132,133, this)",
+"4" :  "(132,(132,133), this.iCloneMethod)",
+"5" :  "(132,(132,137), this.iCloneMethod)",
+"6" :  "(132,137, this.iCloneMethod)",
+"7" :  "(132,137, this.iPrototype)"}]
+}

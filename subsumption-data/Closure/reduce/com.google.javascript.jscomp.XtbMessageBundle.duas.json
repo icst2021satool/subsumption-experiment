@@ -1,0 +1,13 @@
+{
+"Class" : "com.google.javascript.jscomp.XtbMessageBundle", 
+"Methods" : [{ "Name" : "<init>" ,
+"Duas" : 8,
+"0" :  "(64,66, this)",
+"1" :  "(64,67, this)",
+"2" :  "(64,71, this)",
+"3" :  "(64,73, this)",
+"4" :  "(64,75, xtb)",
+"5" :  "(64,(65,65), projectId)",
+"6" :  "(64,(65,65), projectId)",
+"7" :  "(64,67, projectId)"}]
+}

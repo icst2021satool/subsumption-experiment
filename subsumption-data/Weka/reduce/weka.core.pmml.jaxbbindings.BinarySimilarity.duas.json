@@ -1,0 +1,13 @@
+{
+"Class" : "weka.core.pmml.jaxbbindings.BinarySimilarity", 
+"Methods" : [{ "Name" : "getExtension" ,
+"Duas" : 8,
+"0" :  "(99,(99,100), this)",
+"1" :  "(99,(99,102), this)",
+"2" :  "(99,102, this)",
+"3" :  "(99,100, this)",
+"4" :  "(99,(99,100), this.extension)",
+"5" :  "(99,(99,102), this.extension)",
+"6" :  "(99,102, this.extension)",
+"7" :  "(100,102, this.extension)"}]
+}

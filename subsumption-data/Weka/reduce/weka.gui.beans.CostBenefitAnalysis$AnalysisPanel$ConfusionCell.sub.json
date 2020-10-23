@@ -1,0 +1,9 @@
+{
+"Class" : "weka.gui.beans.CostBenefitAnalysis$AnalysisPanel$ConfusionCell", 
+"Methods" : [{ "Name" : "setCellValue" ,
+"Duas" : "17" ,
+"Subsumers" : 2,
+"0" : [ 16, 6, 0], "S0" : [0, 1, 2, 3, 6, 7, 10, 11, 12, 13, 14, 16 ],
+"1" : [ 15, 9, 8, 5, 4], "S1" : [1, 2, 3, 4, 5, 7, 8, 9, 10, 11, 12, 13, 14, 15 ]
+}]
+}

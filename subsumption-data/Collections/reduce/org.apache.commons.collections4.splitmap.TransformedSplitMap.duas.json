@@ -1,0 +1,22 @@
+{
+"Class" : "org.apache.commons.collections4.splitmap.TransformedSplitMap", 
+"Methods" : [{ "Name" : "<init>" ,
+"Duas" : 8,
+"0" :  "(112,116, this)",
+"1" :  "(112,120, this)",
+"2" :  "(112,(113,114), keyTransformer)",
+"3" :  "(112,(113,116), keyTransformer)",
+"4" :  "(112,116, keyTransformer)",
+"5" :  "(112,(117,118), valueTransformer)",
+"6" :  "(112,(117,120), valueTransformer)",
+"7" :  "(112,120, valueTransformer)"},{ "Name" : "transformMap" ,
+"Duas" : 8,
+"0" :  "(184,190, this)",
+"1" :  "(184,(184,185), map)",
+"2" :  "(184,(184,187), map)",
+"3" :  "(184,187, map)",
+"4" :  "(184,189, map)",
+"5" :  "(184,185, map)",
+"6" :  "(187,192, result)",
+"7" :  "(187,190, result)"}]
+}

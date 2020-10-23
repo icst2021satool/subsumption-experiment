@@ -1,0 +1,14 @@
+{
+"Class" : "org.jfree.chart.editor.DefaultChartEditor", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Duas" : 3,
+"0" :  "(234,236, this)",
+"1" :  "(234,(235,236), command)",
+"2" :  "(234,(235,238), command)"},{ "Name" : "attemptModifyBackgroundPaint" ,
+"Duas" : 5,
+"0" :  "(247,250, this)",
+"1" :  "(247,250, this.background)",
+"2" :  "(247,(249,250), c)",
+"3" :  "(247,(249,252), c)",
+"4" :  "(247,250, c)"}]
+}

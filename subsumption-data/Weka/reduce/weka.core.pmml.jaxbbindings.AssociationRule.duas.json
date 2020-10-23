@@ -1,0 +1,13 @@
+{
+"Class" : "weka.core.pmml.jaxbbindings.AssociationRule", 
+"Methods" : [{ "Name" : "getExtension" ,
+"Duas" : 8,
+"0" :  "(100,(100,101), this)",
+"1" :  "(100,(100,103), this)",
+"2" :  "(100,103, this)",
+"3" :  "(100,101, this)",
+"4" :  "(100,(100,101), this.extension)",
+"5" :  "(100,(100,103), this.extension)",
+"6" :  "(100,103, this.extension)",
+"7" :  "(101,103, this.extension)"}]
+}

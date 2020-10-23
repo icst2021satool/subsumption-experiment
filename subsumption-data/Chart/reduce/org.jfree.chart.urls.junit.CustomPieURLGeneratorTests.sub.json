@@ -1,0 +1,16 @@
+{
+"Class" : "org.jfree.chart.urls.junit.CustomPieURLGeneratorTests", 
+"Methods" : [{ "Name" : "suite" ,
+"Duas" : "4" ,
+"Subsumers" : 2,
+"0" : [ 3, 0], "S0" : [0, 3 ],
+"1" : [ 2, 1], "S1" : [1, 2 ]
+},{ "Name" : "testCloning" ,
+"Duas" : "13" ,
+"Subsumers" : 4,
+"0" : [ 7, 0], "S0" : [0, 4, 5, 6, 7, 11, 12 ],
+"1" : [ 8, 1], "S1" : [1, 4, 5, 6, 8, 11, 12 ],
+"2" : [ 9, 2], "S2" : [2, 4, 5, 6, 9, 11, 12 ],
+"3" : [ 10, 3], "S3" : [3, 4, 5, 6, 10, 11, 12 ]
+}]
+}

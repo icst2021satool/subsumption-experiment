@@ -1,0 +1,14 @@
+{
+"Class" : "weka.gui.sql.event.QueryExecuteEvent", 
+"Methods" : [{ "Name" : "failed" ,
+"Duas" : 4,
+"0" :  "(107,(107,107), this)",
+"1" :  "(107,(107,107), this)",
+"2" :  "(107,(107,107), this.m_Exception)",
+"3" :  "(107,(107,107), this.m_Exception)"},{ "Name" : "hasResult" ,
+"Duas" : 4,
+"0" :  "(115,(115,115), this)",
+"1" :  "(115,(115,115), this)",
+"2" :  "(115,(115,115), this.m_ResultSet)",
+"3" :  "(115,(115,115), this.m_ResultSet)"}]
+}

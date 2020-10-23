@@ -1,0 +1,16 @@
+{
+"Class" : "weka.gui.knowledgeflow.steps.BlockStepEditorDialog", 
+"Methods" : [{ "Name" : "layoutEditor" ,
+"Duas" : 11,
+"0" :  "(53,64, this)",
+"1" :  "(53,66, this)",
+"2" :  "(53,68, this)",
+"3" :  "(53,70, this)",
+"4" :  "(53,59, this)",
+"5" :  "(53,64, this.m_stepToBlockBox)",
+"6" :  "(53,70, this.m_stepToBlockBox)",
+"7" :  "(53,59, this.m_stepToBlockBox)",
+"8" :  "(68,(69,70), userSelected)",
+"9" :  "(68,(69,72), userSelected)",
+"10" :  "(68,70, userSelected)"}]
+}

@@ -1,0 +1,13 @@
+{
+"Class" : "weka.gui.beans.KnowledgeFlowApp$15", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Duas" : 8,
+"0" :  "(4661,4665, this)",
+"1" :  "(4661,4666, this)",
+"2" :  "(4661,4665, this.val$bc)",
+"3" :  "(4661,4666, this.this$0)",
+"4" :  "(4661,4666, this.m_mainKFPerspective)",
+"5" :  "(4662,(4664,4665), name)",
+"6" :  "(4662,(4664,4668), name)",
+"7" :  "(4662,4665, name)"}]
+}

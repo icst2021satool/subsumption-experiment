@@ -1,0 +1,22 @@
+{
+"Class" : "com.sun.xml.bind.v2.runtime.output.DOMOutput", 
+"Methods" : [{ "Name" : "<init>" ,
+"Duas" : 4,
+"0" :  "(31,(33,33), assoc)",
+"1" :  "(31,(33,34), assoc)",
+"2" :  "(31,(33,33), $assertionsDisabled)",
+"3" :  "(31,(33,34), $assertionsDisabled)"},{ "Name" : "endStartTag" ,
+"Duas" : 12,
+"0" :  "(42,48, this)",
+"1" :  "(42,50, this)",
+"2" :  "(42,46, this)",
+"3" :  "(42,48, this.nsContext)",
+"4" :  "(42,50, this.assoc)",
+"5" :  "(42,46, this.assoc)",
+"6" :  "(44,(45,46), op)",
+"7" :  "(44,(45,48), op)",
+"8" :  "(44,46, op)",
+"9" :  "(48,(49,50), ip)",
+"10" :  "(48,(49,51), ip)",
+"11" :  "(48,50, ip)"}]
+}

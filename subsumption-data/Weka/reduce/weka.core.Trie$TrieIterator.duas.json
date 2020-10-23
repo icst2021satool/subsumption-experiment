@@ -1,0 +1,20 @@
+{
+"Class" : "weka.core.Trie$TrieIterator", 
+"Methods" : [{ "Name" : "hasNext" ,
+"Duas" : 4,
+"0" :  "(474,(474,474), this)",
+"1" :  "(474,(474,474), this)",
+"2" :  "(474,(474,474), this.m_CurrentLeaf)",
+"3" :  "(474,(474,474), this.m_CurrentLeaf)"},{ "Name" : "next" ,
+"Duas" : 10,
+"0" :  "(486,(488,489), this)",
+"1" :  "(486,(488,491), this)",
+"2" :  "(486,491, this)",
+"3" :  "(486,489, this)",
+"4" :  "(486,(488,489), this.m_CurrentLeaf)",
+"5" :  "(486,(488,491), this.m_CurrentLeaf)",
+"6" :  "(486,489, this.m_CurrentLeaf)",
+"7" :  "(486,(488,489), this.m_LastLeaf)",
+"8" :  "(486,(488,491), this.m_LastLeaf)",
+"9" :  "(487,494, result)"}]
+}

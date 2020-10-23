@@ -1,0 +1,13 @@
+{
+"Class" : "weka.core.pmml.jaxbbindings.LiftData", 
+"Methods" : [{ "Name" : "getExtension" ,
+"Duas" : 8,
+"0" :  "(96,(96,97), this)",
+"1" :  "(96,(96,99), this)",
+"2" :  "(96,99, this)",
+"3" :  "(96,97, this)",
+"4" :  "(96,(96,97), this.extension)",
+"5" :  "(96,(96,99), this.extension)",
+"6" :  "(96,99, this.extension)",
+"7" :  "(97,99, this.extension)"}]
+}

@@ -1,0 +1,19 @@
+{
+"Class" : "weka.gui.boundaryvisualizer.BoundaryPanelDistributed$2", 
+"Methods" : [{ "Name" : "remoteExperimentStatus" ,
+"Duas" : 14,
+"0" :  "(579,580, this)",
+"1" :  "(579,582, this)",
+"2" :  "(579,(579,580), e)",
+"3" :  "(579,(579,585), e)",
+"4" :  "(579,585, e)",
+"5" :  "(579,(579,580), e.m_experimentFinished)",
+"6" :  "(579,(579,585), e.m_experimentFinished)",
+"7" :  "(579,580, this.val$classifierName)",
+"8" :  "(579,582, this.val$bv)",
+"9" :  "(579,582, this.val$i)",
+"10" :  "(579,582, this.val$xatt)",
+"11" :  "(579,582, this.val$yatt)",
+"12" :  "(579,585, err)",
+"13" :  "(579,585, e.m_messageString)"}]
+}

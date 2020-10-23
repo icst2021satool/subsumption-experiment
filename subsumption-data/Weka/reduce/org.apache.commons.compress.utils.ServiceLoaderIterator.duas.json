@@ -1,0 +1,23 @@
+{
+"Class" : "org.apache.commons.compress.utils.ServiceLoaderIterator", 
+"Methods" : [{ "Name" : "getNextServiceLoader" ,
+"Duas" : 10,
+"0" :  "(53,(53,55), this)",
+"1" :  "(53,(53,68), this)",
+"2" :  "(53,(55,56), this)",
+"3" :  "(53,(55,58), this)",
+"4" :  "(53,58, this)",
+"5" :  "(53,(53,55), this.nextServiceLoader)",
+"6" :  "(53,(53,68), this.nextServiceLoader)",
+"7" :  "(53,(55,56), this.serviceLoaderIterator)",
+"8" :  "(53,(55,58), this.serviceLoaderIterator)",
+"9" :  "(53,58, this.serviceLoaderIterator)"},{ "Name" : "next" ,
+"Duas" : 7,
+"0" :  "(78,(78,79), this)",
+"1" :  "(78,(78,81), this)",
+"2" :  "(78,81, this)",
+"3" :  "(78,82, this)",
+"4" :  "(78,79, this)",
+"5" :  "(78,79, this.service)",
+"6" :  "(78,81, this.nextServiceLoader)"}]
+}

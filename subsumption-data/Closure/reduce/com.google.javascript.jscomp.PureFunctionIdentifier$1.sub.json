@@ -1,0 +1,13 @@
+{
+"Class" : "com.google.javascript.jscomp.PureFunctionIdentifier$1", 
+"Methods" : [{ "Name" : "apply" ,
+"Duas" : "6" ,
+"Subsumers" : 6,
+"0" : [ 0], "S0" : [0 ],
+"1" : [ 1], "S1" : [1 ],
+"2" : [ 2], "S2" : [2 ],
+"3" : [ 3], "S3" : [3 ],
+"4" : [ 4], "S4" : [4 ],
+"5" : [ 5], "S5" : [5 ]
+}]
+}

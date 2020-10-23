@@ -1,0 +1,21 @@
+{
+"Class" : "weka.core.pmml.jaxbbindings.ComparisonMeasure", 
+"Methods" : [{ "Name" : "getExtension" ,
+"Duas" : 8,
+"0" :  "(132,(132,133), this)",
+"1" :  "(132,(132,135), this)",
+"2" :  "(132,135, this)",
+"3" :  "(132,133, this)",
+"4" :  "(132,(132,133), this.extension)",
+"5" :  "(132,(132,135), this.extension)",
+"6" :  "(132,135, this.extension)",
+"7" :  "(133,135, this.extension)"},{ "Name" : "getCompareFunction" ,
+"Duas" : 7,
+"0" :  "(363,(363,364), this)",
+"1" :  "(363,(363,366), this)",
+"2" :  "(363,366, this)",
+"3" :  "(363,(363,364), this.compareFunction)",
+"4" :  "(363,(363,366), this.compareFunction)",
+"5" :  "(363,366, this.compareFunction)",
+"6" :  "(363,364, ABS_DIFF)"}]
+}

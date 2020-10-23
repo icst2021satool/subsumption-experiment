@@ -1,0 +1,14 @@
+{
+"Class" : "weka.classifiers.functions.MultilayerPerceptron$ControlPanel$5", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Duas" : 9,
+"0" :  "(890,892, this)",
+"1" :  "(890,893, this)",
+"2" :  "(890,892, this.this$1)",
+"3" :  "(890,893, this.this$1)",
+"4" :  "(890,892, this.this$0)",
+"5" :  "(890,893, this.this$0)",
+"6" :  "(890,(891,892), n)",
+"7" :  "(890,(891,895), n)",
+"8" :  "(890,892, n)"}]
+}

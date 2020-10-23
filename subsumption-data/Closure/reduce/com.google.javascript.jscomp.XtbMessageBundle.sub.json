@@ -1,0 +1,9 @@
+{
+"Class" : "com.google.javascript.jscomp.XtbMessageBundle", 
+"Methods" : [{ "Name" : "<init>" ,
+"Duas" : "8" ,
+"Subsumers" : 2,
+"0" : [ 5], "S0" : [0, 1, 2, 3, 4, 5, 7 ],
+"1" : [ 6], "S1" : [0, 1, 2, 3, 4, 6, 7 ]
+}]
+}

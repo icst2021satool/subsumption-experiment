@@ -1,0 +1,34 @@
+{
+"Class" : "weka.gui.beans.ScatterPlotMatrix", 
+"Methods" : [{ "Name" : "<init>" ,
+"Duas" : "1" ,
+"Subsumers" : 1,
+"0" : [ 0], "S0" : [0 ]
+},{ "Name" : "setUpFinal" ,
+"Duas" : "8" ,
+"Subsumers" : 2,
+"0" : [ 7, 4, 3, 0], "S0" : [0, 2, 3, 4, 7 ],
+"1" : [ 6, 5, 1], "S1" : [1, 2, 5, 6 ]
+},{ "Name" : "setInstances" ,
+"Duas" : "8" ,
+"Subsumers" : 2,
+"0" : [ 5, 0], "S0" : [0, 5 ],
+"1" : [ 7, 6, 4, 2, 3, 1], "S1" : [1, 2, 3, 4, 6, 7 ]
+},{ "Name" : "getPerspectiveIcon" ,
+"Duas" : "5" ,
+"Subsumers" : 2,
+"0" : [ 1, 0], "S0" : [0, 1 ],
+"1" : [ 4, 3, 2], "S1" : [2, 3, 4 ]
+},{ "Name" : "performRequest" ,
+"Duas" : "14" ,
+"Subsumers" : 3,
+"0" : [ 12, 10, 3, 4, 5, 6, 0], "S0" : [0, 3, 4, 5, 6, 7, 10, 12 ],
+"1" : [ 13, 11, 2, 1], "S1" : [1, 2, 7, 11, 13 ],
+"2" : [ 9, 8], "S2" : [8, 9 ]
+},{ "Name" : "main" ,
+"Duas" : "4" ,
+"Subsumers" : 2,
+"0" : [ 3, 0], "S0" : [0, 2, 3 ],
+"1" : [ 1], "S1" : [1, 2 ]
+}]
+}

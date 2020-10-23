@@ -1,0 +1,17 @@
+{
+"Class" : "com.google.gson.TypeInfoMap", 
+"Methods" : [{ "Name" : "<init>" ,
+"Duas" : 12,
+"0" :  "(34,42, this)",
+"1" :  "(34,43, this)",
+"2" :  "(34,36, this)",
+"3" :  "(34,37, this)",
+"4" :  "(34,(35,35), mapType)",
+"5" :  "(34,(35,38), mapType)",
+"6" :  "(34,(38,39), mapType)",
+"7" :  "(34,(38,45), mapType)",
+"8" :  "(34,39, mapType)",
+"9" :  "(34,41, mapType)",
+"10" :  "(34,(35,36), mapType)",
+"11" :  "(34,(35,38), mapType)"}]
+}

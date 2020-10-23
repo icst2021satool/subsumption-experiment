@@ -1,0 +1,23 @@
+{
+"Class" : "weka.classifiers.trees.ht.NBNode", 
+"Methods" : [{ "Name" : "getDistribution" ,
+"Duas" : 18,
+"0" :  "(91,(91,91), this)",
+"1" :  "(91,(91,91), this)",
+"2" :  "(91,(91,91), this)",
+"3" :  "(91,(91,91), this)",
+"4" :  "(91,98, this)",
+"5" :  "(91,95, this)",
+"6" :  "(91,98, inst)",
+"7" :  "(91,95, inst)",
+"8" :  "(91,98, classAtt)",
+"9" :  "(91,(91,91), this.m_nbWeightThreshold)",
+"10" :  "(91,(91,91), this.m_nbWeightThreshold)",
+"11" :  "(91,(91,91), this.m_nbWeightThreshold)",
+"12" :  "(91,(91,91), this.m_nbWeightThreshold)",
+"13" :  "(91,(91,91), this.m_weightSeenAtLastSplitEval)",
+"14" :  "(91,(91,91), this.m_weightSeenAtLastSplitEval)",
+"15" :  "(91,95, this.m_bayes)",
+"16" :  "(91,(94,95), doNB)",
+"17" :  "(91,(94,98), doNB)"}]
+}

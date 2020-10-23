@@ -1,0 +1,13 @@
+{
+"Class" : "weka.core.expressionlanguage.common.IfElseMacro$BooleanIfElse", 
+"Methods" : [{ "Name" : "evaluate" ,
+"Duas" : 8,
+"0" :  "(168,(168,169), this)",
+"1" :  "(168,(168,170), this)",
+"2" :  "(168,170, this)",
+"3" :  "(168,169, this)",
+"4" :  "(168,(168,169), this.condition)",
+"5" :  "(168,(168,170), this.condition)",
+"6" :  "(168,169, this.ifPart)",
+"7" :  "(168,170, this.elsePart)"}]
+}

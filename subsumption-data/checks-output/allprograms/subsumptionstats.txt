@@ -1,0 +1,1098 @@
+[1] "Chart"
+  X...Method            Nodes             Edges          DUAs       
+ Length:3219        Min.   :  4.000   Min.   :  4   Min.   :  2.00  
+ Class :character   1st Qu.:  4.000   1st Qu.:  4   1st Qu.:  6.00  
+ Mode  :character   Median :  6.000   Median :  7   Median : 12.00  
+                    Mean   :  9.367   Mean   : 12   Mean   : 25.43  
+                    3rd Qu.: 10.000   3rd Qu.: 13   3rd Qu.: 26.00  
+                    Max.   :120.000   Max.   :174   Max.   :738.00  
+    SubDUAs            Perc            Time_s     Time_ms       
+ Min.   :  1.00   Min.   : 16.67   Min.   :0   Min.   : 0.0000  
+ 1st Qu.:  5.00   1st Qu.: 65.38   1st Qu.:0   1st Qu.: 0.0000  
+ Median :  9.00   Median : 81.01   Median :0   Median : 0.0000  
+ Mean   : 18.51   Mean   : 79.86   Mean   :0   Mean   : 0.1979  
+ 3rd Qu.: 19.00   3rd Qu.:100.00   3rd Qu.:0   3rd Qu.: 0.0000  
+ Max.   :436.00   Max.   :100.00   Max.   :0   Max.   :15.0000  
+[1] "#Duas: 81847"
+[1] "#Methods:  3219"
+[1] "Local DUA-node subsumption perc.: 72.8"
+[1] "Cli"
+  X...Method            Nodes            Edges           DUAs       
+ Length:60          Min.   : 4.000   Min.   : 4.0   Min.   :  2.00  
+ Class :character   1st Qu.: 5.000   1st Qu.: 5.0   1st Qu.:  7.75  
+ Mode  :character   Median : 6.500   Median : 7.5   Median : 12.50  
+                    Mean   : 9.617   Mean   :12.4   Mean   : 21.52  
+                    3rd Qu.:12.000   3rd Qu.:16.0   3rd Qu.: 25.25  
+                    Max.   :40.000   Max.   :57.0   Max.   :154.00  
+    SubDUAs           Perc            Time_s     Time_ms      
+ Min.   : 2.00   Min.   : 16.67   Min.   :0   Min.   :0.0000  
+ 1st Qu.: 4.00   1st Qu.: 61.27   1st Qu.:0   1st Qu.:0.0000  
+ Median :10.50   Median : 81.43   Median :0   Median :1.0000  
+ Mean   :14.97   Mean   : 78.08   Mean   :0   Mean   :0.8833  
+ 3rd Qu.:18.25   3rd Qu.:100.00   3rd Qu.:0   3rd Qu.:1.0000  
+ Max.   :84.00   Max.   :100.00   Max.   :0   Max.   :8.0000  
+[1] "#Duas: 1291"
+[1] "#Methods:  60"
+[1] "Local DUA-node subsumption perc.: 69.6"
+[1] "Closure"
+  X...Method            Nodes             Edges             DUAs        
+ Length:3696        Min.   :  4.000   Min.   :  4.00   Min.   :   1.00  
+ Class :character   1st Qu.:  5.000   1st Qu.:  5.00   1st Qu.:   6.00  
+ Mode  :character   Median :  7.000   Median :  8.00   Median :  12.00  
+                    Mean   :  9.788   Mean   : 12.93   Mean   :  21.12  
+                    3rd Qu.: 11.000   3rd Qu.: 14.00   3rd Qu.:  23.00  
+                    Max.   :322.000   Max.   :486.00   Max.   :1933.00  
+    SubDUAs            Perc            Time_s     Time_ms      
+ Min.   :  1.00   Min.   : 10.71   Min.   :0   Min.   :0.0000  
+ 1st Qu.:  5.00   1st Qu.: 61.54   1st Qu.:0   1st Qu.:0.0000  
+ Median :  9.00   Median : 79.17   Median :0   Median :0.0000  
+ Mean   : 14.34   Mean   : 77.46   Mean   :0   Mean   :0.1913  
+ 3rd Qu.: 17.00   3rd Qu.:100.00   3rd Qu.:0   3rd Qu.:0.0000  
+ Max.   :663.00   Max.   :100.00   Max.   :0   Max.   :6.0000  
+[1] "#Duas: 78068"
+[1] "#Methods:  3696"
+[1] "Local DUA-node subsumption perc.: 67.9"
+[1] "Codec"
+  X...Method            Nodes           Edges            DUAs        
+ Length:109         Min.   :  4.0   Min.   :  4.0   Min.   :   2.00  
+ Class :character   1st Qu.:  4.0   1st Qu.:  4.0   1st Qu.:   5.00  
+ Mode  :character   Median :  7.0   Median :  8.0   Median :  12.00  
+                    Mean   : 10.7   Mean   : 14.4   Mean   :  40.79  
+                    3rd Qu.: 12.0   3rd Qu.: 17.0   3rd Qu.:  29.00  
+                    Max.   :116.0   Max.   :193.0   Max.   :1724.00  
+    SubDUAs           Perc             Time_s     Time_ms      
+ Min.   :  2.0   Min.   :  7.135   Min.   :0   Min.   :0.0000  
+ 1st Qu.:  4.0   1st Qu.: 55.556   1st Qu.:0   1st Qu.:0.0000  
+ Median :  9.0   Median : 70.968   Median :0   Median :1.0000  
+ Mean   : 15.5   Mean   : 75.460   Mean   :0   Mean   :0.7431  
+ 3rd Qu.: 16.0   3rd Qu.:100.000   3rd Qu.:0   3rd Qu.:1.0000  
+ Max.   :193.0   Max.   :100.000   Max.   :0   Max.   :6.0000  
+[1] "#Duas: 4446"
+[1] "#Methods:  109"
+[1] "Local DUA-node subsumption perc.: 38"
+[1] "Collections"
+  X...Method            Nodes            Edges             DUAs       
+ Length:1311        Min.   : 4.000   Min.   : 4.000   Min.   :  1.00  
+ Class :character   1st Qu.: 4.000   1st Qu.: 4.000   1st Qu.:  4.00  
+ Mode  :character   Median : 5.000   Median : 5.000   Median :  8.00  
+                    Mean   : 6.749   Mean   : 8.037   Mean   : 12.92  
+                    3rd Qu.: 8.000   3rd Qu.: 9.000   3rd Qu.: 13.00  
+                    Max.   :47.000   Max.   :72.000   Max.   :279.00  
+    SubDUAs             Perc            Time_s     Time_ms      
+ Min.   :  1.000   Min.   : 11.01   Min.   :0   Min.   :0.0000  
+ 1st Qu.:  4.000   1st Qu.: 66.67   1st Qu.:0   1st Qu.:0.0000  
+ Median :  6.000   Median :100.00   Median :0   Median :0.0000  
+ Mean   :  8.887   Mean   : 83.09   Mean   :0   Mean   :0.2204  
+ 3rd Qu.:  9.000   3rd Qu.:100.00   3rd Qu.:0   3rd Qu.:0.0000  
+ Max.   :128.000   Max.   :100.00   Max.   :0   Max.   :6.0000  
+[1] "#Duas: 16937"
+[1] "#Methods:  1311"
+[1] "Local DUA-node subsumption perc.: 68.8"
+[1] "Compress"
+  X...Method            Nodes            Edges             DUAs       
+ Length:217         Min.   :  4.00   Min.   :  4.00   Min.   :  2.00  
+ Class :character   1st Qu.:  5.00   1st Qu.:  5.00   1st Qu.:  7.00  
+ Mode  :character   Median :  7.00   Median :  8.00   Median : 12.00  
+                    Mean   : 10.25   Mean   : 13.09   Mean   : 28.97  
+                    3rd Qu.: 11.00   3rd Qu.: 14.00   3rd Qu.: 32.00  
+                    Max.   :158.00   Max.   :220.00   Max.   :797.00  
+    SubDUAs         Perc            Time_s     Time_ms      
+ Min.   :  1   Min.   : 10.00   Min.   :0   Min.   :0.0000  
+ 1st Qu.:  5   1st Qu.: 61.36   1st Qu.:0   1st Qu.:0.0000  
+ Median :  9   Median : 77.50   Median :0   Median :0.0000  
+ Mean   : 17   Mean   : 76.13   Mean   :0   Mean   :0.4424  
+ 3rd Qu.: 18   3rd Qu.:100.00   3rd Qu.:0   3rd Qu.:1.0000  
+ Max.   :228   Max.   :100.00   Max.   :0   Max.   :7.0000  
+[1] "#Duas: 6286"
+[1] "#Methods:  217"
+[1] "Local DUA-node subsumption perc.: 58.7"
+[1] "Csv"
+  X...Method            Nodes           Edges            DUAs       
+ Length:40          Min.   : 4.00   Min.   : 4.00   Min.   :  2.00  
+ Class :character   1st Qu.: 5.00   1st Qu.: 5.00   1st Qu.:  6.00  
+ Mode  :character   Median : 6.00   Median : 7.00   Median : 11.00  
+                    Mean   : 8.80   Mean   :11.43   Mean   : 23.23  
+                    3rd Qu.: 9.75   3rd Qu.:13.00   3rd Qu.: 21.25  
+                    Max.   :32.00   Max.   :51.00   Max.   :157.00  
+    SubDUAs           Perc            Time_s     Time_ms     
+ Min.   : 2.00   Min.   : 26.11   Min.   :0   Min.   :0.000  
+ 1st Qu.: 5.00   1st Qu.: 50.00   1st Qu.:0   1st Qu.:0.000  
+ Median : 6.50   Median : 78.75   Median :0   Median :1.000  
+ Mean   :13.30   Mean   : 73.23   Mean   :0   Mean   :1.025  
+ 3rd Qu.:13.25   3rd Qu.:100.00   3rd Qu.:0   3rd Qu.:1.000  
+ Max.   :53.00   Max.   :100.00   Max.   :0   Max.   :7.000  
+[1] "#Duas: 929"
+[1] "#Methods:  40"
+[1] "Local DUA-node subsumption perc.: 57.3"
+[1] "Gson"
+  X...Method            Nodes            Edges             DUAs      
+ Length:226         Min.   : 4.000   Min.   : 4.000   Min.   : 2.00  
+ Class :character   1st Qu.: 5.000   1st Qu.: 5.000   1st Qu.: 6.00  
+ Mode  :character   Median : 6.000   Median : 7.000   Median : 9.00  
+                    Mean   : 7.482   Mean   : 9.212   Mean   :14.52  
+                    3rd Qu.: 8.000   3rd Qu.:10.000   3rd Qu.:18.00  
+                    Max.   :29.000   Max.   :41.000   Max.   :76.00  
+    SubDUAs           Perc            Time_s     Time_ms      
+ Min.   : 2.00   Min.   : 18.18   Min.   :0   Min.   :0.0000  
+ 1st Qu.: 5.00   1st Qu.: 70.98   1st Qu.:0   1st Qu.:0.0000  
+ Median : 8.00   Median :100.00   Median :0   Median :0.0000  
+ Mean   :11.12   Mean   : 83.82   Mean   :0   Mean   :0.3496  
+ 3rd Qu.:14.00   3rd Qu.:100.00   3rd Qu.:0   3rd Qu.:1.0000  
+ Max.   :49.00   Max.   :100.00   Max.   :0   Max.   :7.0000  
+[1] "#Duas: 3281"
+[1] "#Methods:  226"
+[1] "Local DUA-node subsumption perc.: 76.6"
+[1] "JacksonCore"
+  X...Method            Nodes           Edges            DUAs       
+ Length:563         Min.   : 4.00   Min.   : 4.00   Min.   :  2.00  
+ Class :character   1st Qu.: 5.00   1st Qu.: 5.00   1st Qu.:  8.00  
+ Mode  :character   Median : 7.00   Median : 8.00   Median : 17.00  
+                    Mean   :10.06   Mean   :13.19   Mean   : 31.36  
+                    3rd Qu.:12.00   3rd Qu.:16.50   3rd Qu.: 36.00  
+                    Max.   :60.00   Max.   :90.00   Max.   :398.00  
+    SubDUAs           Perc             Time_s     Time_ms      
+ Min.   : 2.00   Min.   :  7.194   Min.   :0   Min.   :0.0000  
+ 1st Qu.: 6.00   1st Qu.: 60.000   1st Qu.:0   1st Qu.:0.0000  
+ Median :12.00   Median : 75.000   Median :0   Median :0.0000  
+ Mean   :18.65   Mean   : 74.243   Mean   :0   Mean   :0.3588  
+ 3rd Qu.:25.00   3rd Qu.: 94.444   3rd Qu.:0   3rd Qu.:1.0000  
+ Max.   :91.00   Max.   :100.000   Max.   :0   Max.   :9.0000  
+[1] "#Duas: 17653"
+[1] "#Methods:  563"
+[1] "Local DUA-node subsumption perc.: 59.5"
+[1] "JacksonDatabind"
+  X...Method            Nodes            Edges             DUAs       
+ Length:1737        Min.   : 4.000   Min.   : 4.000   Min.   :  2.00  
+ Class :character   1st Qu.: 4.000   1st Qu.: 4.000   1st Qu.:  6.00  
+ Mode  :character   Median : 5.000   Median : 6.000   Median : 10.00  
+                    Mean   : 7.944   Mean   : 9.888   Mean   : 18.31  
+                    3rd Qu.: 9.000   3rd Qu.:11.000   3rd Qu.: 23.00  
+                    Max.   :58.000   Max.   :86.000   Max.   :186.00  
+    SubDUAs          Perc            Time_s     Time_ms       
+ Min.   : 2.0   Min.   : 12.96   Min.   :0   Min.   : 0.0000  
+ 1st Qu.: 5.0   1st Qu.: 63.64   1st Qu.:0   1st Qu.: 0.0000  
+ Median : 9.0   Median : 83.33   Median :0   Median : 0.0000  
+ Mean   :13.5   Mean   : 80.64   Mean   :0   Mean   : 0.2107  
+ 3rd Qu.:17.0   3rd Qu.:100.00   3rd Qu.:0   3rd Qu.: 0.0000  
+ Max.   :90.0   Max.   :100.00   Max.   :0   Max.   :16.0000  
+[1] "#Duas: 31797"
+[1] "#Methods:  1737"
+[1] "Local DUA-node subsumption perc.: 73.8"
+[1] "JacksonXml"
+  X...Method            Nodes            Edges            DUAs       
+ Length:179         Min.   : 4.000   Min.   : 4.00   Min.   :  2.00  
+ Class :character   1st Qu.: 4.000   1st Qu.: 4.00   1st Qu.:  7.00  
+ Mode  :character   Median : 6.000   Median : 8.00   Median : 13.00  
+                    Mean   : 8.145   Mean   :10.22   Mean   : 19.01  
+                    3rd Qu.: 9.000   3rd Qu.:11.50   3rd Qu.: 21.00  
+                    Max.   :49.000   Max.   :75.00   Max.   :158.00  
+    SubDUAs            Perc            Time_s     Time_ms      
+ Min.   :  2.00   Min.   : 10.00   Min.   :0   Min.   :0.0000  
+ 1st Qu.:  6.00   1st Qu.: 71.43   1st Qu.:0   1st Qu.:0.0000  
+ Median : 10.00   Median : 84.62   Median :0   Median :0.0000  
+ Mean   : 14.39   Mean   : 80.70   Mean   :0   Mean   :0.4581  
+ 3rd Qu.: 16.00   3rd Qu.:100.00   3rd Qu.:0   3rd Qu.:1.0000  
+ Max.   :110.00   Max.   :100.00   Max.   :0   Max.   :7.0000  
+[1] "#Duas: 3402"
+[1] "#Methods:  179"
+[1] "Local DUA-node subsumption perc.: 75.7"
+[1] "Jsoup"
+  X...Method            Nodes            Edges             DUAs      
+ Length:136         Min.   : 4.000   Min.   : 4.000   Min.   : 2.00  
+ Class :character   1st Qu.: 5.000   1st Qu.: 5.000   1st Qu.: 6.00  
+ Mode  :character   Median : 5.500   Median : 6.000   Median : 8.00  
+                    Mean   : 7.544   Mean   : 9.074   Mean   :13.72  
+                    3rd Qu.: 9.000   3rd Qu.:11.000   3rd Qu.:17.00  
+                    Max.   :31.000   Max.   :51.000   Max.   :82.00  
+    SubDUAs           Perc            Time_s     Time_ms      
+ Min.   : 2.00   Min.   : 30.00   Min.   :0   Min.   :0.0000  
+ 1st Qu.: 5.00   1st Qu.: 73.66   1st Qu.:0   1st Qu.:0.0000  
+ Median : 7.00   Median :100.00   Median :0   Median :1.0000  
+ Mean   :10.97   Mean   : 86.44   Mean   :0   Mean   :0.6103  
+ 3rd Qu.:13.25   3rd Qu.:100.00   3rd Qu.:0   3rd Qu.:1.0000  
+ Max.   :56.00   Max.   :100.00   Max.   :0   Max.   :8.0000  
+[1] "#Duas: 1866"
+[1] "#Methods:  136"
+[1] "Local DUA-node subsumption perc.: 80"
+[1] "JxPath"
+  X...Method            Nodes            Edges            DUAs       
+ Length:800         Min.   :  4.00   Min.   :  4.0   Min.   :  2.00  
+ Class :character   1st Qu.:  6.00   1st Qu.:  7.0   1st Qu.: 10.00  
+ Mode  :character   Median :  7.00   Median :  9.0   Median : 14.00  
+                    Mean   : 10.54   Mean   : 14.4   Mean   : 25.22  
+                    3rd Qu.: 12.00   3rd Qu.: 16.0   3rd Qu.: 27.00  
+                    Max.   :194.00   Max.   :310.0   Max.   :595.00  
+    SubDUAs            Perc             Time_s     Time_ms      
+ Min.   :  1.00   Min.   :  9.302   Min.   :0   Min.   :0.0000  
+ 1st Qu.:  7.00   1st Qu.: 58.333   1st Qu.:0   1st Qu.:0.0000  
+ Median :  9.00   Median : 65.385   Median :0   Median :0.0000  
+ Mean   : 16.89   Mean   : 71.536   Mean   :0   Mean   :0.3375  
+ 3rd Qu.: 17.00   3rd Qu.: 95.121   3rd Qu.:0   3rd Qu.:1.0000  
+ Max.   :313.00   Max.   :100.000   Max.   :0   Max.   :7.0000  
+[1] "#Duas: 20178"
+[1] "#Methods:  800"
+[1] "Local DUA-node subsumption perc.: 66.9"
+[1] "Lang"
+  X...Method            Nodes            Edges             DUAs       
+ Length:1153        Min.   : 4.000   Min.   :  4.00   Min.   :  2.00  
+ Class :character   1st Qu.: 5.000   1st Qu.:  5.00   1st Qu.:  5.00  
+ Mode  :character   Median : 7.000   Median :  8.00   Median : 12.00  
+                    Mean   : 9.002   Mean   : 11.54   Mean   : 19.33  
+                    3rd Qu.:11.000   3rd Qu.: 14.00   3rd Qu.: 23.00  
+                    Max.   :81.000   Max.   :128.00   Max.   :286.00  
+    SubDUAs            Perc            Time_s     Time_ms       
+ Min.   :  2.00   Min.   : 11.81   Min.   :0   Min.   : 0.0000  
+ 1st Qu.:  4.00   1st Qu.: 58.70   1st Qu.:0   1st Qu.: 0.0000  
+ Median :  8.00   Median : 76.47   Median :0   Median : 0.0000  
+ Mean   : 12.15   Mean   : 76.34   Mean   :0   Mean   : 0.2368  
+ 3rd Qu.: 15.00   3rd Qu.:100.00   3rd Qu.:0   3rd Qu.: 0.0000  
+ Max.   :152.00   Max.   :100.00   Max.   :0   Max.   :10.0000  
+[1] "#Duas: 22290"
+[1] "#Methods:  1153"
+[1] "Local DUA-node subsumption perc.: 62.8"
+[1] "Math"
+  X...Method            Nodes            Edges             DUAs        
+ Length:2415        Min.   :  4.00   Min.   :  4.00   Min.   :   2.00  
+ Class :character   1st Qu.:  5.00   1st Qu.:  5.00   1st Qu.:  10.00  
+ Mode  :character   Median :  7.00   Median :  9.00   Median :  18.00  
+                    Mean   : 10.91   Mean   : 13.87   Mean   :  36.27  
+                    3rd Qu.: 11.00   3rd Qu.: 14.00   3rd Qu.:  35.00  
+                    Max.   :327.00   Max.   :463.00   Max.   :2197.00  
+    SubDUAs            Perc            Time_s     Time_ms       
+ Min.   :  2.00   Min.   :  3.03   Min.   :0   Min.   : 0.0000  
+ 1st Qu.:  7.00   1st Qu.: 57.14   1st Qu.:0   1st Qu.: 0.0000  
+ Median : 12.00   Median : 70.27   Median :0   Median : 0.0000  
+ Mean   : 21.01   Mean   : 72.68   Mean   :0   Mean   : 0.2319  
+ 3rd Qu.: 22.00   3rd Qu.:100.00   3rd Qu.:0   3rd Qu.: 0.0000  
+ Max.   :741.00   Max.   :100.00   Max.   :0   Max.   :11.0000  
+[1] "#Duas: 87603"
+[1] "#Methods:  2415"
+[1] "Local DUA-node subsumption perc.: 57.9"
+[1] "Mockito"
+  X...Method            Nodes            Edges             DUAs      
+ Length:400         Min.   : 4.000   Min.   : 4.000   Min.   : 1.00  
+ Class :character   1st Qu.: 4.000   1st Qu.: 4.000   1st Qu.: 4.00  
+ Mode  :character   Median : 5.000   Median : 5.000   Median : 7.00  
+                    Mean   : 6.612   Mean   : 7.805   Mean   :10.59  
+                    3rd Qu.: 7.000   3rd Qu.: 9.000   3rd Qu.:12.00  
+                    Max.   :36.000   Max.   :52.000   Max.   :79.00  
+    SubDUAs            Perc            Time_s     Time_ms      
+ Min.   : 1.000   Min.   : 25.00   Min.   :0   Min.   : 0.000  
+ 1st Qu.: 4.000   1st Qu.: 66.67   1st Qu.:0   1st Qu.: 0.000  
+ Median : 6.000   Median : 86.19   Median :0   Median : 0.000  
+ Mean   : 7.897   Mean   : 81.47   Mean   :0   Mean   : 0.345  
+ 3rd Qu.: 9.000   3rd Qu.:100.00   3rd Qu.:0   3rd Qu.: 1.000  
+ Max.   :75.000   Max.   :100.00   Max.   :0   Max.   :10.000  
+[1] "#Duas: 4236"
+[1] "#Methods:  400"
+[1] "Local DUA-node subsumption perc.: 74.6"
+[1] "Time"
+  X...Method            Nodes             Edges              DUAs       
+ Length:1182        Min.   :  4.000   Min.   :  4.000   Min.   :  2.00  
+ Class :character   1st Qu.:  4.000   1st Qu.:  4.000   1st Qu.:  5.00  
+ Mode  :character   Median :  5.000   Median :  5.000   Median :  8.00  
+                    Mean   :  7.259   Mean   :  8.968   Mean   : 15.36  
+                    3rd Qu.:  8.000   3rd Qu.: 10.000   3rd Qu.: 16.00  
+                    Max.   :126.000   Max.   :170.000   Max.   :343.00  
+    SubDUAs            Perc             Time_s     Time_ms      
+ Min.   :  1.00   Min.   :  4.854   Min.   :0   Min.   :0.0000  
+ 1st Qu.:  4.00   1st Qu.: 66.667   1st Qu.:0   1st Qu.:0.0000  
+ Median :  6.00   Median :100.000   Median :0   Median :0.0000  
+ Mean   : 10.63   Mean   : 82.274   Mean   :0   Mean   :0.2098  
+ 3rd Qu.: 12.00   3rd Qu.:100.000   3rd Qu.:0   3rd Qu.:0.0000  
+ Max.   :318.00   Max.   :100.000   Max.   :0   Max.   :7.0000  
+[1] "#Duas: 18160"
+[1] "#Methods:  1182"
+[1] "Local DUA-node subsumption perc.: 69.2"
+[1] "Weka"
+  X...Method            Nodes            Edges             DUAs        
+ Length:11315       Min.   :  3.00   Min.   :  2.00   Min.   :   1.00  
+ Class :character   1st Qu.:  5.00   1st Qu.:  5.00   1st Qu.:   7.00  
+ Mode  :character   Median :  7.00   Median :  8.00   Median :  13.00  
+                    Mean   : 10.45   Mean   : 13.48   Mean   :  29.79  
+                    3rd Qu.: 11.00   3rd Qu.: 15.00   3rd Qu.:  31.00  
+                    Max.   :391.00   Max.   :617.00   Max.   :2847.00  
+    SubDUAs            Perc            Time_s     Time_ms      
+ Min.   :  0.00   Min.   :  0.00   Min.   :0   Min.   :0.0000  
+ 1st Qu.:  6.00   1st Qu.: 57.61   1st Qu.:0   1st Qu.:0.0000  
+ Median : 10.00   Median : 71.43   Median :0   Median :0.0000  
+ Mean   : 17.86   Mean   : 72.90   Mean   :0   Mean   :0.1374  
+ 3rd Qu.: 20.00   3rd Qu.: 94.12   3rd Qu.:0   3rd Qu.:0.0000  
+ Max.   :495.00   Max.   :100.00   Max.   :0   Max.   :6.0000  
+[1] "#Duas: 337063"
+[1] "#Methods:  11315"
+[1] "Local DUA-node subsumption perc.: 59.9"
+  X...Method            Nodes             Edges          DUAs       
+ Length:3219        Min.   :  4.000   Min.   :  4   Min.   :  2.00  
+ Class :character   1st Qu.:  4.000   1st Qu.:  4   1st Qu.:  6.00  
+ Mode  :character   Median :  6.000   Median :  7   Median : 12.00  
+                    Mean   :  9.367   Mean   : 12   Mean   : 25.43  
+                    3rd Qu.: 10.000   3rd Qu.: 13   3rd Qu.: 26.00  
+                    Max.   :120.000   Max.   :174   Max.   :738.00  
+    SubDUAs            Perc            Time_s     Time_ms       
+ Min.   :  2.00   Min.   : 21.14   Min.   :0   Min.   : 0.0000  
+ 1st Qu.:  5.00   1st Qu.: 83.33   1st Qu.:0   1st Qu.: 0.0000  
+ Median : 10.00   Median :100.00   Median :0   Median : 0.0000  
+ Mean   : 20.91   Mean   : 90.62   Mean   :0   Mean   : 0.2364  
+ 3rd Qu.: 22.00   3rd Qu.:100.00   3rd Qu.:0   3rd Qu.: 0.0000  
+ Max.   :436.00   Max.   :100.00   Max.   :0   Max.   :19.0000  
+[1] "Chart"
+[1] "#Duas: 81847"
+[1] "#Methods:  3219"
+[1] "Local DUA-edge subsumption perc.: 82.2"
+  X...Method            Nodes            Edges           DUAs       
+ Length:60          Min.   : 4.000   Min.   : 4.0   Min.   :  2.00  
+ Class :character   1st Qu.: 5.000   1st Qu.: 5.0   1st Qu.:  7.75  
+ Mode  :character   Median : 6.500   Median : 7.5   Median : 12.50  
+                    Mean   : 9.617   Mean   :12.4   Mean   : 21.52  
+                    3rd Qu.:12.000   3rd Qu.:16.0   3rd Qu.: 25.25  
+                    Max.   :40.000   Max.   :57.0   Max.   :154.00  
+    SubDUAs           Perc            Time_s     Time_ms     
+ Min.   : 2.00   Min.   : 25.00   Min.   :0   Min.   : 0.00  
+ 1st Qu.: 6.00   1st Qu.:100.00   1st Qu.:0   1st Qu.: 0.00  
+ Median :12.00   Median :100.00   Median :0   Median : 1.00  
+ Mean   :17.87   Mean   : 91.91   Mean   :0   Mean   : 1.15  
+ 3rd Qu.:23.25   3rd Qu.:100.00   3rd Qu.:0   3rd Qu.: 1.00  
+ Max.   :89.00   Max.   :100.00   Max.   :0   Max.   :11.00  
+[1] "Cli"
+[1] "#Duas: 1291"
+[1] "#Methods:  60"
+[1] "Local DUA-edge subsumption perc.: 83"
+  X...Method            Nodes             Edges             DUAs        
+ Length:3696        Min.   :  4.000   Min.   :  4.00   Min.   :   1.00  
+ Class :character   1st Qu.:  5.000   1st Qu.:  5.00   1st Qu.:   6.00  
+ Mode  :character   Median :  7.000   Median :  8.00   Median :  12.00  
+                    Mean   :  9.788   Mean   : 12.93   Mean   :  21.12  
+                    3rd Qu.: 11.000   3rd Qu.: 14.00   3rd Qu.:  23.00  
+                    Max.   :322.000   Max.   :486.00   Max.   :1933.00  
+    SubDUAs            Perc            Time_s     Time_ms       
+ Min.   :  1.00   Min.   : 10.71   Min.   :0   Min.   : 0.0000  
+ 1st Qu.:  6.00   1st Qu.: 94.72   1st Qu.:0   1st Qu.: 0.0000  
+ Median : 11.00   Median :100.00   Median :0   Median : 0.0000  
+ Mean   : 17.67   Mean   : 92.37   Mean   :0   Mean   : 0.2476  
+ 3rd Qu.: 20.00   3rd Qu.:100.00   3rd Qu.:0   3rd Qu.: 0.0000  
+ Max.   :828.00   Max.   :100.00   Max.   :0   Max.   :19.0000  
+[1] "Closure"
+[1] "#Duas: 78068"
+[1] "#Methods:  3696"
+[1] "Local DUA-edge subsumption perc.: 83.7"
+  X...Method            Nodes           Edges            DUAs        
+ Length:109         Min.   :  4.0   Min.   :  4.0   Min.   :   2.00  
+ Class :character   1st Qu.:  4.0   1st Qu.:  4.0   1st Qu.:   5.00  
+ Mode  :character   Median :  7.0   Median :  8.0   Median :  12.00  
+                    Mean   : 10.7   Mean   : 14.4   Mean   :  40.79  
+                    3rd Qu.: 12.0   3rd Qu.: 17.0   3rd Qu.:  29.00  
+                    Max.   :116.0   Max.   :193.0   Max.   :1724.00  
+    SubDUAs            Perc             Time_s     Time_ms     
+ Min.   :  2.00   Min.   :  7.251   Min.   :0   Min.   :0.000  
+ 1st Qu.:  5.00   1st Qu.: 87.500   1st Qu.:0   1st Qu.:0.000  
+ Median : 11.00   Median :100.000   Median :0   Median :1.000  
+ Mean   : 19.76   Mean   : 87.985   Mean   :0   Mean   :1.028  
+ 3rd Qu.: 21.00   3rd Qu.:100.000   3rd Qu.:0   3rd Qu.:1.000  
+ Max.   :265.00   Max.   :100.000   Max.   :0   Max.   :9.000  
+[1] "Codec"
+[1] "#Duas: 4446"
+[1] "#Methods:  109"
+[1] "Local DUA-edge subsumption perc.: 48.4"
+  X...Method            Nodes            Edges             DUAs       
+ Length:1311        Min.   : 4.000   Min.   : 4.000   Min.   :  1.00  
+ Class :character   1st Qu.: 4.000   1st Qu.: 4.000   1st Qu.:  4.00  
+ Mode  :character   Median : 5.000   Median : 5.000   Median :  8.00  
+                    Mean   : 6.749   Mean   : 8.037   Mean   : 12.92  
+                    3rd Qu.: 8.000   3rd Qu.: 9.000   3rd Qu.: 13.00  
+                    Max.   :47.000   Max.   :72.000   Max.   :279.00  
+    SubDUAs            Perc            Time_s     Time_ms      
+ Min.   :  1.00   Min.   : 12.20   Min.   :0   Min.   :0.0000  
+ 1st Qu.:  4.00   1st Qu.:100.00   1st Qu.:0   1st Qu.:0.0000  
+ Median :  7.00   Median :100.00   Median :0   Median :0.0000  
+ Mean   : 10.58   Mean   : 92.44   Mean   :0   Mean   :0.2456  
+ 3rd Qu.: 11.00   3rd Qu.:100.00   3rd Qu.:0   3rd Qu.:0.0000  
+ Max.   :172.00   Max.   :100.00   Max.   :0   Max.   :8.0000  
+[1] "Collections"
+[1] "#Duas: 16937"
+[1] "#Methods:  1311"
+[1] "Local DUA-edge subsumption perc.: 81.9"
+  X...Method            Nodes            Edges             DUAs       
+ Length:217         Min.   :  4.00   Min.   :  4.00   Min.   :  2.00  
+ Class :character   1st Qu.:  5.00   1st Qu.:  5.00   1st Qu.:  7.00  
+ Mode  :character   Median :  7.00   Median :  8.00   Median : 12.00  
+                    Mean   : 10.25   Mean   : 13.09   Mean   : 28.97  
+                    3rd Qu.: 11.00   3rd Qu.: 14.00   3rd Qu.: 32.00  
+                    Max.   :158.00   Max.   :220.00   Max.   :797.00  
+    SubDUAs           Perc            Time_s     Time_ms      
+ Min.   :  2.0   Min.   : 20.00   Min.   :0   Min.   :0.0000  
+ 1st Qu.:  6.0   1st Qu.: 75.00   1st Qu.:0   1st Qu.:0.0000  
+ Median : 11.0   Median :100.00   Median :0   Median :0.0000  
+ Mean   : 19.4   Mean   : 86.46   Mean   :0   Mean   :0.7327  
+ 3rd Qu.: 22.0   3rd Qu.:100.00   3rd Qu.:0   3rd Qu.:1.0000  
+ Max.   :244.0   Max.   :100.00   Max.   :0   Max.   :9.0000  
+[1] "Compress"
+[1] "#Duas: 6286"
+[1] "#Methods:  217"
+[1] "Local DUA-edge subsumption perc.: 67"
+  X...Method            Nodes           Edges            DUAs       
+ Length:40          Min.   : 4.00   Min.   : 4.00   Min.   :  2.00  
+ Class :character   1st Qu.: 5.00   1st Qu.: 5.00   1st Qu.:  6.00  
+ Mode  :character   Median : 6.00   Median : 7.00   Median : 11.00  
+                    Mean   : 8.80   Mean   :11.43   Mean   : 23.23  
+                    3rd Qu.: 9.75   3rd Qu.:13.00   3rd Qu.: 21.25  
+                    Max.   :32.00   Max.   :51.00   Max.   :157.00  
+    SubDUAs           Perc            Time_s     Time_ms   
+ Min.   : 2.00   Min.   : 33.76   Min.   :0   Min.   :0.0  
+ 1st Qu.: 6.00   1st Qu.: 65.70   1st Qu.:0   1st Qu.:0.0  
+ Median : 9.00   Median :100.00   Median :0   Median :1.0  
+ Mean   :16.32   Mean   : 87.21   Mean   :0   Mean   :1.4  
+ 3rd Qu.:15.75   3rd Qu.:100.00   3rd Qu.:0   3rd Qu.:1.0  
+ Max.   :67.00   Max.   :100.00   Max.   :0   Max.   :8.0  
+[1] "Csv"
+[1] "#Duas: 929"
+[1] "#Methods:  40"
+[1] "Local DUA-edge subsumption perc.: 70.3"
+  X...Method            Nodes            Edges             DUAs      
+ Length:226         Min.   : 4.000   Min.   : 4.000   Min.   : 2.00  
+ Class :character   1st Qu.: 5.000   1st Qu.: 5.000   1st Qu.: 6.00  
+ Mode  :character   Median : 6.000   Median : 7.000   Median : 9.00  
+                    Mean   : 7.482   Mean   : 9.212   Mean   :14.52  
+                    3rd Qu.: 8.000   3rd Qu.:10.000   3rd Qu.:18.00  
+                    Max.   :29.000   Max.   :41.000   Max.   :76.00  
+    SubDUAs           Perc            Time_s     Time_ms       
+ Min.   : 2.00   Min.   : 27.27   Min.   :0   Min.   : 0.0000  
+ 1st Qu.: 5.25   1st Qu.:100.00   1st Qu.:0   1st Qu.: 0.0000  
+ Median : 9.00   Median :100.00   Median :0   Median : 1.0000  
+ Mean   :12.84   Mean   : 93.99   Mean   :0   Mean   : 0.6858  
+ 3rd Qu.:17.00   3rd Qu.:100.00   3rd Qu.:0   3rd Qu.: 1.0000  
+ Max.   :57.00   Max.   :100.00   Max.   :0   Max.   :16.0000  
+[1] "Gson"
+[1] "#Duas: 3281"
+[1] "#Methods:  226"
+[1] "Local DUA-edge subsumption perc.: 88.4"
+  X...Method            Nodes           Edges            DUAs       
+ Length:563         Min.   : 4.00   Min.   : 4.00   Min.   :  2.00  
+ Class :character   1st Qu.: 5.00   1st Qu.: 5.00   1st Qu.:  8.00  
+ Mode  :character   Median : 7.00   Median : 8.00   Median : 17.00  
+                    Mean   :10.06   Mean   :13.19   Mean   : 31.36  
+                    3rd Qu.:12.00   3rd Qu.:16.50   3rd Qu.: 36.00  
+                    Max.   :60.00   Max.   :90.00   Max.   :398.00  
+    SubDUAs            Perc            Time_s     Time_ms      
+ Min.   :  2.00   Min.   : 10.43   Min.   :0   Min.   :0.0000  
+ 1st Qu.:  8.00   1st Qu.: 83.87   1st Qu.:0   1st Qu.:0.0000  
+ Median : 16.00   Median :100.00   Median :0   Median :0.0000  
+ Mean   : 22.79   Mean   : 89.37   Mean   :0   Mean   :0.4085  
+ 3rd Qu.: 32.50   3rd Qu.:100.00   3rd Qu.:0   3rd Qu.:1.0000  
+ Max.   :121.00   Max.   :100.00   Max.   :0   Max.   :7.0000  
+[1] "JacksonCore"
+[1] "#Duas: 17653"
+[1] "#Methods:  563"
+[1] "Local DUA-edge subsumption perc.: 72.7"
+  X...Method            Nodes            Edges             DUAs       
+ Length:1737        Min.   : 4.000   Min.   : 4.000   Min.   :  2.00  
+ Class :character   1st Qu.: 4.000   1st Qu.: 4.000   1st Qu.:  6.00  
+ Mode  :character   Median : 5.000   Median : 6.000   Median : 10.00  
+                    Mean   : 7.944   Mean   : 9.888   Mean   : 18.31  
+                    3rd Qu.: 9.000   3rd Qu.:11.000   3rd Qu.: 23.00  
+                    Max.   :58.000   Max.   :86.000   Max.   :186.00  
+    SubDUAs            Perc            Time_s     Time_ms      
+ Min.   :  2.00   Min.   : 18.52   Min.   :0   Min.   :0.0000  
+ 1st Qu.:  6.00   1st Qu.: 88.89   1st Qu.:0   1st Qu.:0.0000  
+ Median : 10.00   Median :100.00   Median :0   Median :0.0000  
+ Mean   : 15.66   Mean   : 92.59   Mean   :0   Mean   :0.2683  
+ 3rd Qu.: 19.00   3rd Qu.:100.00   3rd Qu.:0   3rd Qu.:0.0000  
+ Max.   :116.00   Max.   :100.00   Max.   :0   Max.   :9.0000  
+[1] "JacksonDatabind"
+[1] "#Duas: 31797"
+[1] "#Methods:  1737"
+[1] "Local DUA-edge subsumption perc.: 85.6"
+  X...Method            Nodes            Edges            DUAs       
+ Length:179         Min.   : 4.000   Min.   : 4.00   Min.   :  2.00  
+ Class :character   1st Qu.: 4.000   1st Qu.: 4.00   1st Qu.:  7.00  
+ Mode  :character   Median : 6.000   Median : 8.00   Median : 13.00  
+                    Mean   : 8.145   Mean   :10.22   Mean   : 19.01  
+                    3rd Qu.: 9.000   3rd Qu.:11.50   3rd Qu.: 21.00  
+                    Max.   :49.000   Max.   :75.00   Max.   :158.00  
+    SubDUAs            Perc            Time_s     Time_ms       
+ Min.   :  2.00   Min.   : 10.00   Min.   :0   Min.   : 0.0000  
+ 1st Qu.:  7.00   1st Qu.:100.00   1st Qu.:0   1st Qu.: 0.0000  
+ Median : 13.00   Median :100.00   Median :0   Median : 0.0000  
+ Mean   : 16.72   Mean   : 93.75   Mean   :0   Mean   : 0.7039  
+ 3rd Qu.: 19.00   3rd Qu.:100.00   3rd Qu.:0   3rd Qu.: 1.0000  
+ Max.   :128.00   Max.   :100.00   Max.   :0   Max.   :10.0000  
+[1] "JacksonXml"
+[1] "#Duas: 3402"
+[1] "#Methods:  179"
+[1] "Local DUA-edge subsumption perc.: 87.9"
+  X...Method            Nodes            Edges             DUAs      
+ Length:136         Min.   : 4.000   Min.   : 4.000   Min.   : 2.00  
+ Class :character   1st Qu.: 5.000   1st Qu.: 5.000   1st Qu.: 6.00  
+ Mode  :character   Median : 5.500   Median : 6.000   Median : 8.00  
+                    Mean   : 7.544   Mean   : 9.074   Mean   :13.72  
+                    3rd Qu.: 9.000   3rd Qu.:11.000   3rd Qu.:17.00  
+                    Max.   :31.000   Max.   :51.000   Max.   :82.00  
+    SubDUAs           Perc            Time_s     Time_ms      
+ Min.   : 2.00   Min.   : 40.00   Min.   :0   Min.   :0.0000  
+ 1st Qu.: 5.00   1st Qu.:100.00   1st Qu.:0   1st Qu.:0.0000  
+ Median : 8.00   Median :100.00   Median :0   Median :0.0000  
+ Mean   :12.75   Mean   : 95.24   Mean   :0   Mean   :0.5882  
+ 3rd Qu.:16.00   3rd Qu.:100.00   3rd Qu.:0   3rd Qu.:1.0000  
+ Max.   :82.00   Max.   :100.00   Max.   :0   Max.   :7.0000  
+[1] "Jsoup"
+[1] "#Duas: 1866"
+[1] "#Methods:  136"
+[1] "Local DUA-edge subsumption perc.: 92.9"
+  X...Method            Nodes            Edges            DUAs       
+ Length:800         Min.   :  4.00   Min.   :  4.0   Min.   :  2.00  
+ Class :character   1st Qu.:  6.00   1st Qu.:  7.0   1st Qu.: 10.00  
+ Mode  :character   Median :  7.00   Median :  9.0   Median : 14.00  
+                    Mean   : 10.54   Mean   : 14.4   Mean   : 25.22  
+                    3rd Qu.: 12.00   3rd Qu.: 16.0   3rd Qu.: 27.00  
+                    Max.   :194.00   Max.   :310.0   Max.   :595.00  
+    SubDUAs           Perc            Time_s     Time_ms       
+ Min.   :  2.0   Min.   : 12.90   Min.   :0   Min.   : 0.0000  
+ 1st Qu.:  9.0   1st Qu.: 88.13   1st Qu.:0   1st Qu.: 0.0000  
+ Median : 12.0   Median :100.00   Median :0   Median : 0.0000  
+ Mean   : 21.3   Mean   : 90.82   Mean   :0   Mean   : 0.3725  
+ 3rd Qu.: 24.0   3rd Qu.:100.00   3rd Qu.:0   3rd Qu.: 1.0000  
+ Max.   :488.0   Max.   :100.00   Max.   :0   Max.   :14.0000  
+[1] "JxPath"
+[1] "#Duas: 20178"
+[1] "#Methods:  800"
+[1] "Local DUA-edge subsumption perc.: 84.4"
+  X...Method            Nodes            Edges             DUAs       
+ Length:1153        Min.   : 4.000   Min.   :  4.00   Min.   :  2.00  
+ Class :character   1st Qu.: 5.000   1st Qu.:  5.00   1st Qu.:  5.00  
+ Mode  :character   Median : 7.000   Median :  8.00   Median : 12.00  
+                    Mean   : 9.002   Mean   : 11.54   Mean   : 19.33  
+                    3rd Qu.:11.000   3rd Qu.: 14.00   3rd Qu.: 23.00  
+                    Max.   :81.000   Max.   :128.00   Max.   :286.00  
+    SubDUAs            Perc            Time_s     Time_ms       
+ Min.   :  2.00   Min.   : 13.39   Min.   :0   Min.   : 0.0000  
+ 1st Qu.:  5.00   1st Qu.: 76.19   1st Qu.:0   1st Qu.: 0.0000  
+ Median : 10.00   Median :100.00   Median :0   Median : 0.0000  
+ Mean   : 14.28   Mean   : 87.16   Mean   :0   Mean   : 0.4336  
+ 3rd Qu.: 18.00   3rd Qu.:100.00   3rd Qu.:0   3rd Qu.: 1.0000  
+ Max.   :156.00   Max.   :100.00   Max.   :0   Max.   :42.0000  
+[1] "Lang"
+[1] "#Duas: 22290"
+[1] "#Methods:  1153"
+[1] "Local DUA-edge subsumption perc.: 73.9"
+  X...Method            Nodes            Edges             DUAs        
+ Length:2415        Min.   :  4.00   Min.   :  4.00   Min.   :   2.00  
+ Class :character   1st Qu.:  5.00   1st Qu.:  5.00   1st Qu.:  10.00  
+ Mode  :character   Median :  7.00   Median :  9.00   Median :  18.00  
+                    Mean   : 10.91   Mean   : 13.87   Mean   :  36.27  
+                    3rd Qu.: 11.00   3rd Qu.: 14.00   3rd Qu.:  35.00  
+                    Max.   :327.00   Max.   :463.00   Max.   :2197.00  
+    SubDUAs            Perc             Time_s     Time_ms       
+ Min.   :  2.00   Min.   :  4.545   Min.   :0   Min.   : 0.0000  
+ 1st Qu.:  8.00   1st Qu.: 63.636   1st Qu.:0   1st Qu.: 0.0000  
+ Median : 14.00   Median : 81.250   Median :0   Median : 0.0000  
+ Mean   : 23.27   Mean   : 79.795   Mean   :0   Mean   : 0.3143  
+ 3rd Qu.: 25.00   3rd Qu.:100.000   3rd Qu.:0   3rd Qu.: 0.0000  
+ Max.   :792.00   Max.   :100.000   Max.   :0   Max.   :21.0000  
+[1] "Math"
+[1] "#Duas: 87603"
+[1] "#Methods:  2415"
+[1] "Local DUA-edge subsumption perc.: 64.2"
+  X...Method            Nodes            Edges             DUAs      
+ Length:400         Min.   : 4.000   Min.   : 4.000   Min.   : 1.00  
+ Class :character   1st Qu.: 4.000   1st Qu.: 4.000   1st Qu.: 4.00  
+ Mode  :character   Median : 5.000   Median : 5.000   Median : 7.00  
+                    Mean   : 6.612   Mean   : 7.805   Mean   :10.59  
+                    3rd Qu.: 7.000   3rd Qu.: 9.000   3rd Qu.:12.00  
+                    Max.   :36.000   Max.   :52.000   Max.   :79.00  
+    SubDUAs            Perc            Time_s     Time_ms       
+ Min.   : 1.000   Min.   : 25.00   Min.   :0   Min.   : 0.0000  
+ 1st Qu.: 4.000   1st Qu.:100.00   1st Qu.:0   1st Qu.: 0.0000  
+ Median : 7.000   Median :100.00   Median :0   Median : 0.0000  
+ Mean   : 9.533   Mean   : 95.03   Mean   :0   Mean   : 0.3775  
+ 3rd Qu.:11.000   3rd Qu.:100.00   3rd Qu.:0   3rd Qu.: 1.0000  
+ Max.   :79.000   Max.   :100.00   Max.   :0   Max.   :10.0000  
+[1] "Mockito"
+[1] "#Duas: 4236"
+[1] "#Methods:  400"
+[1] "Local DUA-edge subsumption perc.: 90"
+  X...Method            Nodes             Edges              DUAs       
+ Length:1182        Min.   :  4.000   Min.   :  4.000   Min.   :  2.00  
+ Class :character   1st Qu.:  4.000   1st Qu.:  4.000   1st Qu.:  5.00  
+ Mode  :character   Median :  5.000   Median :  5.000   Median :  8.00  
+                    Mean   :  7.259   Mean   :  8.968   Mean   : 15.36  
+                    3rd Qu.:  8.000   3rd Qu.: 10.000   3rd Qu.: 16.00  
+                    Max.   :126.000   Max.   :170.000   Max.   :343.00  
+    SubDUAs            Perc             Time_s     Time_ms       
+ Min.   :  2.00   Min.   :  4.854   Min.   :0   Min.   : 0.0000  
+ 1st Qu.:  5.00   1st Qu.: 90.909   1st Qu.:0   1st Qu.: 0.0000  
+ Median :  7.00   Median :100.000   Median :0   Median : 0.0000  
+ Mean   : 12.43   Mean   : 91.711   Mean   :0   Mean   : 0.3875  
+ 3rd Qu.: 13.75   3rd Qu.:100.000   3rd Qu.:0   3rd Qu.: 1.0000  
+ Max.   :341.00   Max.   :100.000   Max.   :0   Max.   :20.0000  
+[1] "Time"
+[1] "#Duas: 18160"
+[1] "#Methods:  1182"
+[1] "Local DUA-edge subsumption perc.: 80.9"
+  X...Method            Nodes            Edges             DUAs        
+ Length:11315       Min.   :  3.00   Min.   :  2.00   Min.   :   1.00  
+ Class :character   1st Qu.:  5.00   1st Qu.:  5.00   1st Qu.:   7.00  
+ Mode  :character   Median :  7.00   Median :  8.00   Median :  13.00  
+                    Mean   : 10.45   Mean   : 13.48   Mean   :  29.79  
+                    3rd Qu.: 11.00   3rd Qu.: 15.00   3rd Qu.:  31.00  
+                    Max.   :391.00   Max.   :617.00   Max.   :2847.00  
+    SubDUAs            Perc              Time_s     Time_ms       
+ Min.   :  1.00   Min.   :  0.7727   Min.   :0   Min.   : 0.0000  
+ 1st Qu.:  7.00   1st Qu.: 72.7273   1st Qu.:0   1st Qu.: 0.0000  
+ Median : 12.00   Median :100.0000   Median :0   Median : 0.0000  
+ Mean   : 21.12   Mean   : 86.0387   Mean   :0   Mean   : 0.1883  
+ 3rd Qu.: 24.00   3rd Qu.:100.0000   3rd Qu.:0   3rd Qu.: 0.0000  
+ Max.   :604.00   Max.   :100.0000   Max.   :0   Max.   :22.0000  
+[1] "Weka"
+[1] "#Duas: 337063"
+[1] "#Methods:  11315"
+[1] "Local DUA-edge subsumption perc.: 70.9"
+  X...Method            Nodes             Edges          DUAs       
+ Length:3219        Min.   :  4.000   Min.   :  4   Min.   :  2.00  
+ Class :character   1st Qu.:  4.000   1st Qu.:  4   1st Qu.:  6.00  
+ Mode  :character   Median :  6.000   Median :  7   Median : 12.00  
+                    Mean   :  9.367   Mean   : 12   Mean   : 25.43  
+                    3rd Qu.: 10.000   3rd Qu.: 13   3rd Qu.: 26.00  
+                    Max.   :120.000   Max.   :174   Max.   :738.00  
+     UDUAs             RDUAs             UPerc            RPerc       
+ Min.   :  1.000   Min.   :  2.000   Min.   :  6.25   Min.   :  8.00  
+ 1st Qu.:  2.000   1st Qu.:  2.000   1st Qu.: 21.05   1st Qu.: 31.58  
+ Median :  3.000   Median :  4.000   Median : 28.57   Median : 40.00  
+ Mean   :  6.235   Mean   :  9.781   Mean   : 31.75   Mean   : 41.46  
+ 3rd Qu.:  6.000   3rd Qu.: 10.000   3rd Qu.: 40.00   3rd Qu.: 50.00  
+ Max.   :342.000   Max.   :511.000   Max.   :100.00   Max.   :100.00  
+     Time_s             Time_ms        
+ Min.   :0.0000000   Min.   :   0.000  
+ 1st Qu.:0.0000000   1st Qu.:   0.000  
+ Median :0.0000000   Median :   0.000  
+ Mean   :0.0003107   Mean   :   4.092  
+ 3rd Qu.:0.0000000   3rd Qu.:   1.000  
+ Max.   :1.0000000   Max.   :1476.000  
+[1] "Chart"
+[1] "#Duas: 81847"
+[1] "#Methods:  3219"
+[1] "Local DUA-DUA subsumption perc.: 24.5"
+  X...Method            Nodes            Edges           DUAs       
+ Length:60          Min.   : 4.000   Min.   : 4.0   Min.   :  2.00  
+ Class :character   1st Qu.: 5.000   1st Qu.: 5.0   1st Qu.:  7.75  
+ Mode  :character   Median : 6.500   Median : 7.5   Median : 12.50  
+                    Mean   : 9.617   Mean   :12.4   Mean   : 21.52  
+                    3rd Qu.:12.000   3rd Qu.:16.0   3rd Qu.: 25.25  
+                    Max.   :40.000   Max.   :57.0   Max.   :154.00  
+     UDUAs            RDUAs           UPerc             RPerc       
+ Min.   : 2.000   Min.   : 2.00   Min.   :  7.143   Min.   : 10.71  
+ 1st Qu.: 2.000   1st Qu.: 3.00   1st Qu.: 22.825   1st Qu.: 35.48  
+ Median : 3.000   Median : 4.50   Median : 30.639   Median : 49.42  
+ Mean   : 6.317   Mean   :10.55   Mean   : 34.060   Mean   : 50.65  
+ 3rd Qu.: 8.000   3rd Qu.:11.75   3rd Qu.: 42.857   3rd Qu.: 60.15  
+ Max.   :49.000   Max.   :90.00   Max.   :100.000   Max.   :100.00  
+     Time_s     Time_ms      
+ Min.   :0   Min.   :  0.00  
+ 1st Qu.:0   1st Qu.:  0.00  
+ Median :0   Median :  2.00  
+ Mean   :0   Mean   :  9.10  
+ 3rd Qu.:0   3rd Qu.:  4.25  
+ Max.   :0   Max.   :189.00  
+[1] "Cli"
+[1] "#Duas: 1291"
+[1] "#Methods:  60"
+[1] "Local DUA-DUA subsumption perc.: 29.4"
+  X...Method            Nodes             Edges             DUAs        
+ Length:3696        Min.   :  4.000   Min.   :  4.00   Min.   :   1.00  
+ Class :character   1st Qu.:  5.000   1st Qu.:  5.00   1st Qu.:   6.00  
+ Mode  :character   Median :  7.000   Median :  8.00   Median :  12.00  
+                    Mean   :  9.788   Mean   : 12.93   Mean   :  21.12  
+                    3rd Qu.: 11.000   3rd Qu.: 14.00   3rd Qu.:  23.00  
+                    Max.   :322.000   Max.   :486.00   Max.   :1933.00  
+     UDUAs             RDUAs             UPerc             RPerc       
+ Min.   :   1.00   Min.   :   1.00   Min.   :  9.091   Min.   : 11.43  
+ 1st Qu.:   2.00   1st Qu.:   3.00   1st Qu.: 23.529   1st Qu.: 33.33  
+ Median :   3.00   Median :   5.00   Median : 32.666   Median : 46.15  
+ Mean   :   6.71   Mean   :  10.47   Mean   : 36.096   Mean   : 50.54  
+ 3rd Qu.:   7.00   3rd Qu.:  11.00   3rd Qu.: 41.667   3rd Qu.: 62.50  
+ Max.   :1080.00   Max.   :1361.00   Max.   :100.000   Max.   :100.00  
+     Time_s             Time_ms         
+ Min.   : 0.000000   Min.   :    0.000  
+ 1st Qu.: 0.000000   1st Qu.:    0.000  
+ Median : 0.000000   Median :    1.000  
+ Mean   : 0.004329   Mean   :    9.989  
+ 3rd Qu.: 0.000000   3rd Qu.:    2.000  
+ Max.   :16.000000   Max.   :16231.000  
+[1] "Closure"
+[1] "#Duas: 78068"
+[1] "#Methods:  3696"
+[1] "Local DUA-DUA subsumption perc.: 31.8"
+  X...Method            Nodes           Edges            DUAs        
+ Length:109         Min.   :  4.0   Min.   :  4.0   Min.   :   2.00  
+ Class :character   1st Qu.:  4.0   1st Qu.:  4.0   1st Qu.:   5.00  
+ Mode  :character   Median :  7.0   Median :  8.0   Median :  12.00  
+                    Mean   : 10.7   Mean   : 14.4   Mean   :  40.79  
+                    3rd Qu.: 12.0   3rd Qu.: 17.0   3rd Qu.:  29.00  
+                    Max.   :116.0   Max.   :193.0   Max.   :1724.00  
+     UDUAs            RDUAs             UPerc            RPerc       
+ Min.   :  2.00   Min.   :   2.00   Min.   : 14.29   Min.   : 18.18  
+ 1st Qu.:  2.00   1st Qu.:   2.00   1st Qu.: 26.32   1st Qu.: 42.19  
+ Median :  4.00   Median :   6.00   Median : 36.36   Median : 50.00  
+ Mean   : 15.46   Mean   :  22.98   Mean   : 37.67   Mean   : 51.21  
+ 3rd Qu.:  8.00   3rd Qu.:  15.00   3rd Qu.: 50.00   3rd Qu.: 57.14  
+ Max.   :806.00   Max.   :1047.00   Max.   :100.00   Max.   :100.00  
+     Time_s           Time_ms       
+ Min.   :0.00000   Min.   :   0.00  
+ 1st Qu.:0.00000   1st Qu.:   0.00  
+ Median :0.00000   Median :   1.00  
+ Mean   :0.04587   Mean   :  57.73  
+ 3rd Qu.:0.00000   3rd Qu.:   4.00  
+ Max.   :3.00000   Max.   :3863.00  
+[1] "Codec"
+[1] "#Duas: 4446"
+[1] "#Methods:  109"
+[1] "Local DUA-DUA subsumption perc.: 37.9"
+  X...Method            Nodes            Edges             DUAs       
+ Length:1311        Min.   : 4.000   Min.   : 4.000   Min.   :  1.00  
+ Class :character   1st Qu.: 4.000   1st Qu.: 4.000   1st Qu.:  4.00  
+ Mode  :character   Median : 5.000   Median : 5.000   Median :  8.00  
+                    Mean   : 6.749   Mean   : 8.037   Mean   : 12.92  
+                    3rd Qu.: 8.000   3rd Qu.: 9.000   3rd Qu.: 13.00  
+                    Max.   :47.000   Max.   :72.000   Max.   :279.00  
+     UDUAs            RDUAs             UPerc             RPerc       
+ Min.   : 1.000   Min.   :  1.000   Min.   :  9.677   Min.   : 15.38  
+ 1st Qu.: 2.000   1st Qu.:  2.000   1st Qu.: 25.000   1st Qu.: 33.33  
+ Median : 2.000   Median :  3.000   Median : 33.333   Median : 50.00  
+ Mean   : 3.879   Mean   :  5.864   Mean   : 38.761   Mean   : 49.90  
+ 3rd Qu.: 4.000   3rd Qu.:  6.000   3rd Qu.: 50.000   3rd Qu.: 62.50  
+ Max.   :81.000   Max.   :153.000   Max.   :100.000   Max.   :100.00  
+     Time_s     Time_ms       
+ Min.   :0   Min.   :  0.000  
+ 1st Qu.:0   1st Qu.:  0.000  
+ Median :0   Median :  1.000  
+ Mean   :0   Mean   :  2.062  
+ 3rd Qu.:0   3rd Qu.:  1.000  
+ Max.   :0   Max.   :291.000  
+[1] "Collections"
+[1] "#Duas: 16937"
+[1] "#Methods:  1311"
+[1] "Local DUA-DUA subsumption perc.: 30"
+  X...Method            Nodes            Edges             DUAs       
+ Length:217         Min.   :  4.00   Min.   :  4.00   Min.   :  2.00  
+ Class :character   1st Qu.:  5.00   1st Qu.:  5.00   1st Qu.:  7.00  
+ Mode  :character   Median :  7.00   Median :  8.00   Median : 12.00  
+                    Mean   : 10.25   Mean   : 13.09   Mean   : 28.97  
+                    3rd Qu.: 11.00   3rd Qu.: 14.00   3rd Qu.: 32.00  
+                    Max.   :158.00   Max.   :220.00   Max.   :797.00  
+     UDUAs             RDUAs            UPerc            RPerc       
+ Min.   :  1.000   Min.   :  2.00   Min.   : 11.11   Min.   : 13.33  
+ 1st Qu.:  2.000   1st Qu.:  2.00   1st Qu.: 22.22   1st Qu.: 33.33  
+ Median :  4.000   Median :  5.00   Median : 29.41   Median : 42.86  
+ Mean   :  8.184   Mean   : 13.42   Mean   : 32.46   Mean   : 45.89  
+ 3rd Qu.:  7.000   3rd Qu.: 12.00   3rd Qu.: 40.00   3rd Qu.: 53.49  
+ Max.   :268.000   Max.   :426.00   Max.   :100.00   Max.   :100.00  
+     Time_s            Time_ms       
+ Min.   :0.000000   Min.   :   0.00  
+ 1st Qu.:0.000000   1st Qu.:   1.00  
+ Median :0.000000   Median :   1.00  
+ Mean   :0.009217   Mean   :  20.42  
+ 3rd Qu.:0.000000   3rd Qu.:   4.00  
+ Max.   :2.000000   Max.   :2092.00  
+[1] "Compress"
+[1] "#Duas: 6286"
+[1] "#Methods:  217"
+[1] "Local DUA-DUA subsumption perc.: 28.3"
+  X...Method            Nodes           Edges            DUAs       
+ Length:40          Min.   : 4.00   Min.   : 4.00   Min.   :  2.00  
+ Class :character   1st Qu.: 5.00   1st Qu.: 5.00   1st Qu.:  6.00  
+ Mode  :character   Median : 6.00   Median : 7.00   Median : 11.00  
+                    Mean   : 8.80   Mean   :11.43   Mean   : 23.23  
+                    3rd Qu.: 9.75   3rd Qu.:13.00   3rd Qu.: 21.25  
+                    Max.   :32.00   Max.   :51.00   Max.   :157.00  
+     UDUAs            RDUAs            UPerc            RPerc       
+ Min.   : 1.000   Min.   :  2.00   Min.   : 14.29   Min.   : 18.18  
+ 1st Qu.: 2.000   1st Qu.:  2.00   1st Qu.: 23.15   1st Qu.: 33.33  
+ Median : 3.000   Median :  4.00   Median : 31.85   Median : 50.00  
+ Mean   : 7.325   Mean   : 12.03   Mean   : 35.17   Mean   : 48.46  
+ 3rd Qu.: 9.000   3rd Qu.: 12.50   3rd Qu.: 42.86   3rd Qu.: 57.86  
+ Max.   :70.000   Max.   :123.00   Max.   :100.00   Max.   :100.00  
+     Time_s     Time_ms      
+ Min.   :0   Min.   :  0.00  
+ 1st Qu.:0   1st Qu.:  0.00  
+ Median :0   Median :  1.00  
+ Mean   :0   Mean   :  9.15  
+ 3rd Qu.:0   3rd Qu.:  6.75  
+ Max.   :0   Max.   :136.00  
+[1] "Csv"
+[1] "#Duas: 929"
+[1] "#Methods:  40"
+[1] "Local DUA-DUA subsumption perc.: 31.5"
+  X...Method            Nodes            Edges             DUAs      
+ Length:226         Min.   : 4.000   Min.   : 4.000   Min.   : 2.00  
+ Class :character   1st Qu.: 5.000   1st Qu.: 5.000   1st Qu.: 6.00  
+ Mode  :character   Median : 6.000   Median : 7.000   Median : 9.00  
+                    Mean   : 7.482   Mean   : 9.212   Mean   :14.52  
+                    3rd Qu.: 8.000   3rd Qu.:10.000   3rd Qu.:18.00  
+                    Max.   :29.000   Max.   :41.000   Max.   :76.00  
+     UDUAs            RDUAs           UPerc            RPerc            Time_s 
+ Min.   : 1.000   Min.   : 2.00   Min.   : 13.33   Min.   : 17.95   Min.   :0  
+ 1st Qu.: 2.000   1st Qu.: 2.00   1st Qu.: 25.00   1st Qu.: 33.75   1st Qu.:0  
+ Median : 3.000   Median : 4.00   Median : 33.33   Median : 46.29   Median :0  
+ Mean   : 4.305   Mean   : 6.58   Mean   : 36.12   Mean   : 49.46   Mean   :0  
+ 3rd Qu.: 5.000   3rd Qu.: 8.00   3rd Qu.: 45.45   3rd Qu.: 59.06   3rd Qu.:0  
+ Max.   :28.000   Max.   :44.00   Max.   :100.00   Max.   :100.00   Max.   :0  
+    Time_ms      
+ Min.   : 0.000  
+ 1st Qu.: 0.000  
+ Median : 1.000  
+ Mean   : 2.252  
+ 3rd Qu.: 2.750  
+ Max.   :30.000  
+[1] "Gson"
+[1] "#Duas: 3281"
+[1] "#Methods:  226"
+[1] "Local DUA-DUA subsumption perc.: 29.7"
+  X...Method            Nodes           Edges            DUAs       
+ Length:563         Min.   : 4.00   Min.   : 4.00   Min.   :  2.00  
+ Class :character   1st Qu.: 5.00   1st Qu.: 5.00   1st Qu.:  8.00  
+ Mode  :character   Median : 7.00   Median : 8.00   Median : 17.00  
+                    Mean   :10.06   Mean   :13.19   Mean   : 31.36  
+                    3rd Qu.:12.00   3rd Qu.:16.50   3rd Qu.: 36.00  
+                    Max.   :60.00   Max.   :90.00   Max.   :398.00  
+     UDUAs             RDUAs            UPerc             RPerc       
+ Min.   :  2.000   Min.   :  2.00   Min.   :  8.696   Min.   : 14.29  
+ 1st Qu.:  2.000   1st Qu.:  3.00   1st Qu.: 20.000   1st Qu.: 28.96  
+ Median :  4.000   Median :  6.00   Median : 26.667   Median : 40.00  
+ Mean   :  8.808   Mean   : 14.35   Mean   : 28.887   Mean   : 41.62  
+ 3rd Qu.:  8.000   3rd Qu.: 13.00   3rd Qu.: 34.091   3rd Qu.: 50.00  
+ Max.   :167.000   Max.   :281.00   Max.   :100.000   Max.   :100.00  
+     Time_s     Time_ms       
+ Min.   :0   Min.   :  0.000  
+ 1st Qu.:0   1st Qu.:  0.000  
+ Median :0   Median :  1.000  
+ Mean   :0   Mean   :  9.327  
+ 3rd Qu.:0   3rd Qu.:  3.000  
+ Max.   :0   Max.   :516.000  
+[1] "JacksonCore"
+[1] "#Duas: 17653"
+[1] "#Methods:  563"
+[1] "Local DUA-DUA subsumption perc.: 28.1"
+  X...Method            Nodes            Edges             DUAs       
+ Length:1737        Min.   : 4.000   Min.   : 4.000   Min.   :  2.00  
+ Class :character   1st Qu.: 4.000   1st Qu.: 4.000   1st Qu.:  6.00  
+ Mode  :character   Median : 5.000   Median : 6.000   Median : 10.00  
+                    Mean   : 7.944   Mean   : 9.888   Mean   : 18.31  
+                    3rd Qu.: 9.000   3rd Qu.:11.000   3rd Qu.: 23.00  
+                    Max.   :58.000   Max.   :86.000   Max.   :186.00  
+     UDUAs            RDUAs             UPerc            RPerc       
+ Min.   : 1.000   Min.   :  2.000   Min.   : 10.00   Min.   : 10.53  
+ 1st Qu.: 2.000   1st Qu.:  2.000   1st Qu.: 21.74   1st Qu.: 30.00  
+ Median : 3.000   Median :  4.000   Median : 28.57   Median : 40.00  
+ Mean   : 4.842   Mean   :  7.691   Mean   : 32.05   Mean   : 44.01  
+ 3rd Qu.: 5.000   3rd Qu.:  8.000   3rd Qu.: 37.50   3rd Qu.: 50.00  
+ Max.   :76.000   Max.   :122.000   Max.   :100.00   Max.   :100.00  
+     Time_s     Time_ms       
+ Min.   :0   Min.   :  0.000  
+ 1st Qu.:0   1st Qu.:  0.000  
+ Median :0   Median :  1.000  
+ Mean   :0   Mean   :  2.883  
+ 3rd Qu.:0   3rd Qu.:  2.000  
+ Max.   :0   Max.   :441.000  
+[1] "JacksonDatabind"
+[1] "#Duas: 31797"
+[1] "#Methods:  1737"
+[1] "Local DUA-DUA subsumption perc.: 26.4"
+  X...Method            Nodes            Edges            DUAs       
+ Length:179         Min.   : 4.000   Min.   : 4.00   Min.   :  2.00  
+ Class :character   1st Qu.: 4.000   1st Qu.: 4.00   1st Qu.:  7.00  
+ Mode  :character   Median : 6.000   Median : 8.00   Median : 13.00  
+                    Mean   : 8.145   Mean   :10.22   Mean   : 19.01  
+                    3rd Qu.: 9.000   3rd Qu.:11.50   3rd Qu.: 21.00  
+                    Max.   :49.000   Max.   :75.00   Max.   :158.00  
+     UDUAs            RDUAs            UPerc            RPerc       
+ Min.   : 2.000   Min.   : 2.000   Min.   : 12.90   Min.   : 14.29  
+ 1st Qu.: 2.000   1st Qu.: 3.000   1st Qu.: 20.53   1st Qu.: 30.00  
+ Median : 3.000   Median : 5.000   Median : 27.78   Median : 40.00  
+ Mean   : 5.028   Mean   : 8.034   Mean   : 30.82   Mean   : 43.74  
+ 3rd Qu.: 6.000   3rd Qu.: 8.000   3rd Qu.: 36.36   3rd Qu.: 53.54  
+ Max.   :38.000   Max.   :70.000   Max.   :100.00   Max.   :100.00  
+     Time_s     Time_ms      
+ Min.   :0   Min.   : 0.000  
+ 1st Qu.:0   1st Qu.: 1.000  
+ Median :0   Median : 1.000  
+ Mean   :0   Mean   : 3.542  
+ 3rd Qu.:0   3rd Qu.: 3.000  
+ Max.   :0   Max.   :54.000  
+[1] "JacksonXml"
+[1] "#Duas: 3402"
+[1] "#Methods:  179"
+[1] "Local DUA-DUA subsumption perc.: 26.5"
+  X...Method            Nodes            Edges             DUAs      
+ Length:136         Min.   : 4.000   Min.   : 4.000   Min.   : 2.00  
+ Class :character   1st Qu.: 5.000   1st Qu.: 5.000   1st Qu.: 6.00  
+ Mode  :character   Median : 5.500   Median : 6.000   Median : 8.00  
+                    Mean   : 7.544   Mean   : 9.074   Mean   :13.72  
+                    3rd Qu.: 9.000   3rd Qu.:11.000   3rd Qu.:17.00  
+                    Max.   :31.000   Max.   :51.000   Max.   :82.00  
+     UDUAs            RDUAs           UPerc            RPerc            Time_s 
+ Min.   : 1.000   Min.   : 2.00   Min.   : 11.76   Min.   : 17.65   Min.   :0  
+ 1st Qu.: 2.000   1st Qu.: 2.00   1st Qu.: 21.43   1st Qu.: 34.15   1st Qu.:0  
+ Median : 2.000   Median : 4.00   Median : 28.57   Median : 43.17   Median :0  
+ Mean   : 3.676   Mean   : 5.86   Mean   : 32.17   Mean   : 46.70   Mean   :0  
+ 3rd Qu.: 4.000   3rd Qu.: 7.25   3rd Qu.: 36.36   3rd Qu.: 50.00   3rd Qu.:0  
+ Max.   :26.000   Max.   :42.00   Max.   :100.00   Max.   :100.00   Max.   :0  
+    Time_ms      
+ Min.   : 0.000  
+ 1st Qu.: 0.000  
+ Median : 1.000  
+ Mean   : 2.654  
+ 3rd Qu.: 3.000  
+ Max.   :25.000  
+[1] "Jsoup"
+[1] "#Duas: 1866"
+[1] "#Methods:  136"
+[1] "Local DUA-DUA subsumption perc.: 26.8"
+  X...Method            Nodes            Edges            DUAs       
+ Length:800         Min.   :  4.00   Min.   :  4.0   Min.   :  2.00  
+ Class :character   1st Qu.:  6.00   1st Qu.:  7.0   1st Qu.: 10.00  
+ Mode  :character   Median :  7.00   Median :  9.0   Median : 14.00  
+                    Mean   : 10.54   Mean   : 14.4   Mean   : 25.22  
+                    3rd Qu.: 12.00   3rd Qu.: 16.0   3rd Qu.: 27.00  
+                    Max.   :194.00   Max.   :310.0   Max.   :595.00  
+     UDUAs             RDUAs            UPerc             RPerc       
+ Min.   :  1.000   Min.   :  2.00   Min.   :  7.692   Min.   : 11.76  
+ 1st Qu.:  3.000   1st Qu.:  4.00   1st Qu.: 25.000   1st Qu.: 37.50  
+ Median :  4.000   Median :  6.00   Median : 33.333   Median : 50.00  
+ Mean   :  7.481   Mean   : 11.95   Mean   : 32.329   Mean   : 47.58  
+ 3rd Qu.:  8.000   3rd Qu.: 12.00   3rd Qu.: 33.333   3rd Qu.: 50.00  
+ Max.   :357.000   Max.   :439.00   Max.   :100.000   Max.   :100.00  
+     Time_s           Time_ms        
+ Min.   :0.00000   Min.   :   0.000  
+ 1st Qu.:0.00000   1st Qu.:   0.000  
+ Median :0.00000   Median :   1.000  
+ Mean   :0.00125   Mean   :   5.899  
+ 3rd Qu.:0.00000   3rd Qu.:   2.000  
+ Max.   :1.00000   Max.   :1990.000  
+[1] "JxPath"
+[1] "#Duas: 20178"
+[1] "#Methods:  800"
+[1] "Local DUA-DUA subsumption perc.: 29.7"
+  X...Method            Nodes            Edges             DUAs       
+ Length:1153        Min.   : 4.000   Min.   :  4.00   Min.   :  2.00  
+ Class :character   1st Qu.: 5.000   1st Qu.:  5.00   1st Qu.:  5.00  
+ Mode  :character   Median : 7.000   Median :  8.00   Median : 12.00  
+                    Mean   : 9.002   Mean   : 11.54   Mean   : 19.33  
+                    3rd Qu.:11.000   3rd Qu.: 14.00   3rd Qu.: 23.00  
+                    Max.   :81.000   Max.   :128.00   Max.   :286.00  
+     UDUAs             RDUAs            UPerc            RPerc       
+ Min.   :  1.000   Min.   :  2.00   Min.   : 11.11   Min.   : 15.38  
+ 1st Qu.:  2.000   1st Qu.:  3.00   1st Qu.: 25.00   1st Qu.: 40.00  
+ Median :  3.000   Median :  5.00   Median : 33.33   Median : 50.00  
+ Mean   :  6.189   Mean   : 10.47   Mean   : 37.06   Mean   : 53.56  
+ 3rd Qu.:  6.000   3rd Qu.: 12.00   3rd Qu.: 50.00   3rd Qu.: 64.37  
+ Max.   :163.000   Max.   :274.00   Max.   :100.00   Max.   :100.00  
+     Time_s     Time_ms       
+ Min.   :0   Min.   :  0.000  
+ 1st Qu.:0   1st Qu.:  0.000  
+ Median :0   Median :  1.000  
+ Mean   :0   Mean   :  3.997  
+ 3rd Qu.:0   3rd Qu.:  2.000  
+ Max.   :0   Max.   :269.000  
+[1] "Lang"
+[1] "#Duas: 22290"
+[1] "#Methods:  1153"
+[1] "Local DUA-DUA subsumption perc.: 32"
+  X...Method            Nodes            Edges             DUAs        
+ Length:2415        Min.   :  4.00   Min.   :  4.00   Min.   :   2.00  
+ Class :character   1st Qu.:  5.00   1st Qu.:  5.00   1st Qu.:  10.00  
+ Mode  :character   Median :  7.00   Median :  9.00   Median :  18.00  
+                    Mean   : 10.91   Mean   : 13.87   Mean   :  36.27  
+                    3rd Qu.: 11.00   3rd Qu.: 14.00   3rd Qu.:  35.00  
+                    Max.   :327.00   Max.   :463.00   Max.   :2197.00  
+     UDUAs             RDUAs             UPerc             RPerc       
+ Min.   :  1.000   Min.   :   2.00   Min.   :  6.667   Min.   : 11.11  
+ 1st Qu.:  2.000   1st Qu.:   4.00   1st Qu.: 16.667   1st Qu.: 28.57  
+ Median :  4.000   Median :   6.00   Median : 22.500   Median : 36.36  
+ Mean   :  9.163   Mean   :  15.24   Mean   : 25.253   Mean   : 39.29  
+ 3rd Qu.:  7.000   3rd Qu.:  12.00   3rd Qu.: 30.049   3rd Qu.: 48.56  
+ Max.   :872.000   Max.   :1198.00   Max.   :100.000   Max.   :100.00  
+     Time_s            Time_ms        
+ Min.   : 0.00000   Min.   :    0.00  
+ 1st Qu.: 0.00000   1st Qu.:    0.00  
+ Median : 0.00000   Median :    1.00  
+ Mean   : 0.03147   Mean   :   40.14  
+ 3rd Qu.: 0.00000   3rd Qu.:    2.00  
+ Max.   :32.00000   Max.   :32296.00  
+[1] "Math"
+[1] "#Duas: 87603"
+[1] "#Methods:  2415"
+[1] "Local DUA-DUA subsumption perc.: 25.3"
+  X...Method            Nodes            Edges             DUAs      
+ Length:400         Min.   : 4.000   Min.   : 4.000   Min.   : 1.00  
+ Class :character   1st Qu.: 4.000   1st Qu.: 4.000   1st Qu.: 4.00  
+ Mode  :character   Median : 5.000   Median : 5.000   Median : 7.00  
+                    Mean   : 6.612   Mean   : 7.805   Mean   :10.59  
+                    3rd Qu.: 7.000   3rd Qu.: 9.000   3rd Qu.:12.00  
+                    Max.   :36.000   Max.   :52.000   Max.   :79.00  
+     UDUAs            RDUAs          UPerc            RPerc            Time_s 
+ Min.   : 1.000   Min.   : 1.0   Min.   : 11.54   Min.   : 16.67   Min.   :0  
+ 1st Qu.: 2.000   1st Qu.: 2.0   1st Qu.: 25.00   1st Qu.: 35.54   1st Qu.:0  
+ Median : 2.000   Median : 3.0   Median : 33.33   Median : 50.00   Median :0  
+ Mean   : 3.395   Mean   : 5.1   Mean   : 39.91   Mean   : 52.51   Mean   :0  
+ 3rd Qu.: 4.000   3rd Qu.: 6.0   3rd Qu.: 50.00   3rd Qu.: 65.20   3rd Qu.:0  
+ Max.   :29.000   Max.   :51.0   Max.   :100.00   Max.   :100.00   Max.   :0  
+    Time_ms       
+ Min.   :  0.000  
+ 1st Qu.:  0.000  
+ Median :  1.000  
+ Mean   :  3.185  
+ 3rd Qu.:  3.000  
+ Max.   :134.000  
+[1] "Mockito"
+[1] "#Duas: 4236"
+[1] "#Methods:  400"
+[1] "Local DUA-DUA subsumption perc.: 32.1"
+  X...Method            Nodes             Edges              DUAs       
+ Length:1182        Min.   :  4.000   Min.   :  4.000   Min.   :  2.00  
+ Class :character   1st Qu.:  4.000   1st Qu.:  4.000   1st Qu.:  5.00  
+ Mode  :character   Median :  5.000   Median :  5.000   Median :  8.00  
+                    Mean   :  7.259   Mean   :  8.968   Mean   : 15.36  
+                    3rd Qu.:  8.000   3rd Qu.: 10.000   3rd Qu.: 16.00  
+                    Max.   :126.000   Max.   :170.000   Max.   :343.00  
+     UDUAs             RDUAs             UPerc             RPerc        
+ Min.   :  1.000   Min.   :  2.000   Min.   :  8.511   Min.   :  9.524  
+ 1st Qu.:  2.000   1st Qu.:  2.000   1st Qu.: 25.806   1st Qu.: 37.500  
+ Median :  2.000   Median :  3.000   Median : 37.500   Median : 47.368  
+ Mean   :  4.774   Mean   :  7.266   Mean   : 37.906   Mean   : 47.888  
+ 3rd Qu.:  4.000   3rd Qu.:  7.000   3rd Qu.: 50.000   3rd Qu.: 60.000  
+ Max.   :144.000   Max.   :239.000   Max.   :100.000   Max.   :100.000  
+     Time_s     Time_ms       
+ Min.   :0   Min.   :  0.000  
+ 1st Qu.:0   1st Qu.:  0.000  
+ Median :0   Median :  1.000  
+ Mean   :0   Mean   :  3.467  
+ 3rd Qu.:0   3rd Qu.:  1.000  
+ Max.   :0   Max.   :602.000  
+[1] "Time"
+[1] "#Duas: 18160"
+[1] "#Methods:  1182"
+[1] "Local DUA-DUA subsumption perc.: 31.1"
+  X...Method            Nodes            Edges             DUAs        
+ Length:11315       Min.   :  3.00   Min.   :  2.00   Min.   :   1.00  
+ Class :character   1st Qu.:  5.00   1st Qu.:  5.00   1st Qu.:   7.00  
+ Mode  :character   Median :  7.00   Median :  8.00   Median :  13.00  
+                    Mean   : 10.45   Mean   : 13.48   Mean   :  29.79  
+                    3rd Qu.: 11.00   3rd Qu.: 15.00   3rd Qu.:  31.00  
+                    Max.   :391.00   Max.   :617.00   Max.   :2847.00  
+     UDUAs              RDUAs             UPerc             RPerc        
+ Min.   :   1.000   Min.   :   1.00   Min.   :  3.125   Min.   :  4.688  
+ 1st Qu.:   2.000   1st Qu.:   3.00   1st Qu.: 21.429   1st Qu.: 33.333  
+ Median :   3.000   Median :   5.00   Median : 27.778   Median : 40.000  
+ Mean   :   8.156   Mean   :  13.39   Mean   : 30.865   Mean   : 43.774  
+ 3rd Qu.:   7.000   3rd Qu.:  12.00   3rd Qu.: 36.364   3rd Qu.: 50.000  
+ Max.   :1028.000   Max.   :2230.00   Max.   :100.000   Max.   :100.000  
+     Time_s            Time_ms        
+ Min.   :0.000000   Min.   :   0.000  
+ 1st Qu.:0.000000   1st Qu.:   0.000  
+ Median :0.000000   Median :   1.000  
+ Mean   :0.002121   Mean   :   7.593  
+ 3rd Qu.:0.000000   3rd Qu.:   2.000  
+ Max.   :4.000000   Max.   :4039.000  
+[1] "Weka"
+[1] "#Duas: 337063"
+[1] "#Methods:  11315"
+[1] "Local DUA-DUA subsumption perc.: 27.4"

@@ -1,0 +1,10 @@
+{
+"Class" : "org.jfree.chart.JFreeChartInfo", 
+"Methods" : [{ "Name" : "getLogo" ,
+"Duas" : "9" ,
+"Subsumers" : 3,
+"0" : [ 8, 7, 5, 1], "S0" : [0, 1, 2, 5, 7, 8 ],
+"1" : [ 6], "S1" : [0, 2, 4, 6 ],
+"2" : [ 3], "S2" : [3, 4 ]
+}]
+}

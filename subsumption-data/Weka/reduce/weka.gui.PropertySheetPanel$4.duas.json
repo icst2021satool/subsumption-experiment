@@ -1,0 +1,13 @@
+{
+"Class" : "weka.gui.PropertySheetPanel$4", 
+"Methods" : [{ "Name" : "windowClosing" ,
+"Duas" : 8,
+"0" :  "(959,(960,961), this)",
+"1" :  "(959,(960,963), this)",
+"2" :  "(959,961, this)",
+"3" :  "(959,(960,961), this.val$jd)",
+"4" :  "(959,(960,963), this.val$jd)",
+"5" :  "(959,(960,961), this.this$0)",
+"6" :  "(959,(960,963), this.this$0)",
+"7" :  "(959,961, this.this$0)"}]
+}

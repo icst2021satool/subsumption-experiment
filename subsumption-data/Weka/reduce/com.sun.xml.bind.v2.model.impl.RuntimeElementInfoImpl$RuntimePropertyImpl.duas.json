@@ -1,0 +1,13 @@
+{
+"Class" : "com.sun.xml.bind.v2.model.impl.RuntimeElementInfoImpl$RuntimePropertyImpl", 
+"Methods" : [{ "Name" : "getAccessor" ,
+"Duas" : 8,
+"0" :  "(58,(58,59), this)",
+"1" :  "(58,(58,61), this)",
+"2" :  "(58,61, this)",
+"3" :  "(58,(58,59), this.this$0)",
+"4" :  "(58,(58,61), this.this$0)",
+"5" :  "(58,61, this.this$0)",
+"6" :  "(58,61, JAXB_ELEMENT_VALUE)",
+"7" :  "(58,59, JAXB_ELEMENT_VALUE)"}]
+}

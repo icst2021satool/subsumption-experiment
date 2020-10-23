@@ -1,0 +1,20 @@
+{
+"Class" : "org.mockito.internal.matchers.MatchersPrinter", 
+"Methods" : [{ "Name" : "applyPrintSettings" ,
+"Duas" : 15,
+"0" :  "(32,(35,36), printSettings)",
+"1" :  "(32,(35,38), printSettings)",
+"2" :  "(32,42, withPrintSettings)",
+"3" :  "(32,38, withPrintSettings)",
+"4" :  "(32,36, withPrintSettings)",
+"5" :  "(33,40, i)",
+"6" :  "(33,(35,36), i)",
+"7" :  "(33,(35,38), i)",
+"8" :  "(34,(35,35), matcher)",
+"9" :  "(34,(35,38), matcher)",
+"10" :  "(34,38, matcher)",
+"11" :  "(34,36, matcher)",
+"12" :  "(40,40, i)",
+"13" :  "(40,(35,36), i)",
+"14" :  "(40,(35,38), i)"}]
+}

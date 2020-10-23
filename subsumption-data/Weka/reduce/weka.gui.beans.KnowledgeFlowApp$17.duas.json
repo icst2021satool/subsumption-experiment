@@ -1,0 +1,19 @@
+{
+"Class" : "weka.gui.beans.KnowledgeFlowApp$17", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Duas" : 14,
+"0" :  "(4843,(4845,4845), this)",
+"1" :  "(4843,(4845,4846), this)",
+"2" :  "(4843,4843, this)",
+"3" :  "(4843,4847, this)",
+"4" :  "(4843,(4845,4845), this.val$bc)",
+"5" :  "(4843,(4845,4846), this.val$bc)",
+"6" :  "(4843,4843, this.this$0)",
+"7" :  "(4843,4847, this.this$0)",
+"8" :  "(4843,4843, this.val$esd)",
+"9" :  "(4843,4843, this.val$bi)",
+"10" :  "(4843,4843, this.val$finalOutputs)",
+"11" :  "(4843,4843, this.val$fj)",
+"12" :  "(4843,4843, this.val$xx)",
+"13" :  "(4843,4843, this.val$yy)"}]
+}

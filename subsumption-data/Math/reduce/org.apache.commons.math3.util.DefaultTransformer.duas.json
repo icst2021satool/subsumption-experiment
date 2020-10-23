@@ -1,0 +1,18 @@
+{
+"Class" : "org.apache.commons.math3.util.DefaultTransformer", 
+"Methods" : [{ "Name" : "transform" ,
+"Duas" : 7,
+"0" :  "(50,(50,51), o)",
+"1" :  "(50,(50,54), o)",
+"2" :  "(50,(54,55), o)",
+"3" :  "(50,(54,59), o)",
+"4" :  "(50,59, o)",
+"5" :  "(50,55, o)",
+"6" :  "(50,51, OBJECT_TRANSFORMATION)"},{ "Name" : "equals" ,
+"Duas" : 5,
+"0" :  "(69,(69,70), this)",
+"1" :  "(69,(69,72), this)",
+"2" :  "(69,(69,70), other)",
+"3" :  "(69,(69,72), other)",
+"4" :  "(69,72, other)"}]
+}

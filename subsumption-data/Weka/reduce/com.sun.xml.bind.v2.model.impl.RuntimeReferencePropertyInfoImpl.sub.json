@@ -1,0 +1,15 @@
+{
+"Class" : "com.sun.xml.bind.v2.model.impl.RuntimeReferencePropertyInfoImpl", 
+"Methods" : [{ "Name" : "<init>" ,
+"Duas" : "9" ,
+"Subsumers" : 3,
+"0" : [ 8, 7, 5, 3], "S0" : [0, 2, 3, 5, 7, 8 ],
+"1" : [ 4], "S1" : [0, 2, 4, 6 ],
+"2" : [ 1], "S2" : [1, 2, 6 ]
+},{ "Name" : "elementOnlyContent" ,
+"Duas" : "2" ,
+"Subsumers" : 2,
+"0" : [ 0], "S0" : [0 ],
+"1" : [ 1], "S1" : [1 ]
+}]
+}

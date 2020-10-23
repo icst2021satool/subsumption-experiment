@@ -1,0 +1,20 @@
+{
+"Class" : "org.jfree.data.junit.ComparableObjectSeriesTests", 
+"Methods" : [{ "Name" : "suite" ,
+"Duas" : 4,
+"0" :  "(98,(98,98), class$org$jfree$data$junit$ComparableObjectSeriesTests)",
+"1" :  "(98,(98,98), class$org$jfree$data$junit$ComparableObjectSeriesTests)",
+"2" :  "(98,98, class$org$jfree$data$junit$ComparableObjectSeriesTests)",
+"3" :  "(98,98, class$org$jfree$data$junit$ComparableObjectSeriesTests)"},{ "Name" : "testCloning" ,
+"Duas" : 10,
+"0" :  "(183,(192,192), s1)",
+"1" :  "(183,(192,192), s1)",
+"2" :  "(183,(193,193), s1)",
+"3" :  "(183,(193,193), s1)",
+"4" :  "(183,194, s1)",
+"5" :  "(187,(192,192), s2)",
+"6" :  "(187,(192,192), s2)",
+"7" :  "(187,(193,193), s2)",
+"8" :  "(187,(193,193), s2)",
+"9" :  "(187,194, s2)"}]
+}

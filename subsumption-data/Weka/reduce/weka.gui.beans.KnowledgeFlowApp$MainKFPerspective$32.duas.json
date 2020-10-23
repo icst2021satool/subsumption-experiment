@@ -1,0 +1,17 @@
+{
+"Class" : "weka.gui.beans.KnowledgeFlowApp$MainKFPerspective$32", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Duas" : 12,
+"0" :  "(1958,1998, this)",
+"1" :  "(1958,1979, this)",
+"2" :  "(1958,1998, this.this$1)",
+"3" :  "(1958,1979, this.this$1)",
+"4" :  "(1958,1998, this.this$0)",
+"5" :  "(1958,1979, this.this$0)",
+"6" :  "(1964,(1982,1984), dontShow)",
+"7" :  "(1964,(1982,1992), dontShow)",
+"8" :  "(1992,(1997,1998), proceed)",
+"9" :  "(1992,(1997,2000), proceed)",
+"10" :  "(1994,(1997,1998), proceed)",
+"11" :  "(1994,(1997,2000), proceed)"}]
+}

@@ -1,0 +1,11 @@
+{
+"Class" : "com.sun.xml.bind.v2.util.QNameMap$EntrySet", 
+"Methods" : [{ "Name" : "contains" ,
+"Duas" : "11" ,
+"Subsumers" : 4,
+"0" : [ 9, 5], "S0" : [0, 2, 3, 4, 5, 7, 9 ],
+"1" : [ 10, 6], "S1" : [0, 2, 3, 4, 6, 7, 10 ],
+"2" : [ 8], "S2" : [0, 2, 3, 4, 8 ],
+"3" : [ 1], "S3" : [1 ]
+}]
+}

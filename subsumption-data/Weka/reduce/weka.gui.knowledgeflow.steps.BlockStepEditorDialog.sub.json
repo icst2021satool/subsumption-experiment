@@ -1,0 +1,10 @@
+{
+"Class" : "weka.gui.knowledgeflow.steps.BlockStepEditorDialog", 
+"Methods" : [{ "Name" : "layoutEditor" ,
+"Duas" : "11" ,
+"Subsumers" : 3,
+"0" : [ 10, 8, 6, 3], "S0" : [0, 1, 2, 3, 5, 6, 8, 10 ],
+"1" : [ 7, 4], "S1" : [0, 1, 2, 4, 5, 7 ],
+"2" : [ 9], "S2" : [0, 1, 2, 5, 9 ]
+}]
+}

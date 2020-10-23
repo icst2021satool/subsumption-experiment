@@ -1,0 +1,13 @@
+{
+"Class" : "weka.gui.MemoryUsagePanel$MemoryMonitor", 
+"Methods" : [{ "Name" : "run" ,
+"Duas" : "11" ,
+"Subsumers" : 2,
+"0" : [ 9, 5, 3], "S0" : [0, 1, 2, 3, 5, 6, 7, 8, 9 ],
+"1" : [ 10, 4], "S1" : [0, 1, 2, 4, 6, 7, 8, 10 ]
+},{ "Name" : "update" ,
+"Duas" : "13" ,
+"Subsumers" : 1,
+"0" : [ 11, 10, 8, 7, 4, 3, 0], "S0" : [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 ]
+}]
+}

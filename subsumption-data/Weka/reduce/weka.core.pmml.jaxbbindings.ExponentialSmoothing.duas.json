@@ -1,0 +1,20 @@
+{
+"Class" : "weka.core.pmml.jaxbbindings.ExponentialSmoothing", 
+"Methods" : [{ "Name" : "getTimeValue" ,
+"Duas" : 8,
+"0" :  "(176,(176,177), this)",
+"1" :  "(176,(176,179), this)",
+"2" :  "(176,179, this)",
+"3" :  "(176,177, this)",
+"4" :  "(176,(176,177), this.timeValue)",
+"5" :  "(176,(176,179), this.timeValue)",
+"6" :  "(176,179, this.timeValue)",
+"7" :  "(177,179, this.timeValue)"},{ "Name" : "getTransformation" ,
+"Duas" : 6,
+"0" :  "(215,(215,216), this)",
+"1" :  "(215,(215,218), this)",
+"2" :  "(215,218, this)",
+"3" :  "(215,(215,216), this.transformation)",
+"4" :  "(215,(215,218), this.transformation)",
+"5" :  "(215,218, this.transformation)"}]
+}

@@ -1,0 +1,25 @@
+@@ Method, Nodes, Nduas, Uduas, Rduas, UduaPerc, RduaPerc, Time_s, Time_ms
+@@ org.apache.commons.math3.primes.PollardRho.primeFactors6,9,3,4,33.33333333333333,44.44444444444444,0,51
+@@ org.apache.commons.math3.primes.PollardRho.rhoBrent17,75,18,48,24.0,64.0,0,200
+@@ org.apache.commons.math3.primes.PollardRho.gcdPositive9,23,4,7,17.391304347826086,30.434782608695656,0,9
+@@ org.apache.commons.math3.primes.SmallPrimes.smallTrialDivision8,23,4,8,17.391304347826086,34.78260869565217,0,5
+@@ org.apache.commons.math3.primes.SmallPrimes.boundedTrialDivision11,39,11,19,28.205128205128204,48.717948717948715,0,9
+@@ org.apache.commons.math3.primes.SmallPrimes.trialDivision4,5,2,2,40.0,40.0,0,1
+@@ org.apache.commons.math3.primes.SmallPrimes.millerRabinPrimeTest21,58,23,44,39.6551724137931,75.86206896551724,0,25
+@@ org.apache.commons.math3.primes.Primes.isPrime12,23,6,12,26.08695652173913,52.17391304347826,0,3
+@@ org.apache.commons.math3.primes.Primes.nextPrime18,39,13,22,33.33333333333333,56.41025641025641,0,6
+@@ org.apache.commons.math3.primes.Primes.primeFactors4,5,2,2,40.0,40.0,0,1
+@@ org.apache.commons.math3.fitting.AbstractCurveFitter$TheoreticalValuesFunction.<init>5,7,1,3,14.285714285714285,42.857142857142854,0,0
+@@ org.apache.commons.math3.fitting.AbstractCurveFitter$TheoreticalValuesFunction$1.value5,13,2,4,15.384615384615385,30.76923076923077,0,1
+@@ org.apache.commons.math3.fitting.GaussianFitter$ParameterGuesser.<init>6,8,3,4,37.5,50.0,0,0
+@@ org.apache.commons.math3.fitting.GaussianFitter$ParameterGuesser.findMaxY7,22,5,13,22.727272727272727,59.09090909090909,0,3
+@@ org.apache.commons.math3.fitting.GaussianFitter$ParameterGuesser.interpolateXAtY8,20,4,6,20.0,30.0,0,2
+@@ org.apache.commons.math3.fitting.GaussianFitter$ParameterGuesser.getInterpolationPointsForY14,41,12,24,29.268292682926827,58.536585365853654,0,7
+@@ org.apache.commons.math3.fitting.GaussianFitter$ParameterGuesser.isBetween8,16,6,8,37.5,50.0,0,0
+@@ org.apache.commons.math3.fitting.GaussianCurveFitter$ParameterGuesser.<init>6,8,3,4,37.5,50.0,0,0
+@@ org.apache.commons.math3.fitting.GaussianCurveFitter$ParameterGuesser.findMaxY7,22,5,13,22.727272727272727,59.09090909090909,0,3
+@@ org.apache.commons.math3.fitting.GaussianCurveFitter$ParameterGuesser.interpolateXAtY8,20,4,6,20.0,30.0,0,1
+@@ org.apache.commons.math3.fitting.GaussianCurveFitter$ParameterGuesser.getInterpolationPointsForY14,41,12,24,29.268292682926827,58.536585365853654,0,6
+@@ org.apache.commons.math3.fitting.GaussianCurveFitter$ParameterGuesser.isBetween8,16,6,8,37.5,50.0,0,1
+@@ org.apache.commons.math3.fitting.AbstractCurveFitter$TheoreticalValuesFunction$2.value5,13,2,4,15.384615384615385,30.76923076923077,0,1
+@@ org.apache.commons.math3.fitting.GaussianCurveFitter$ParameterGuesser$1.compare21,32,12,20,37.5,62.5,0,4

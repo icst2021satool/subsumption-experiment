@@ -1,0 +1,18 @@
+{
+"Class" : "java_cup.runtime.SyntaxTreeDFS$AbstractVisitor", 
+"Methods" : [{ "Name" : "preVisit" ,
+"Duas" : 6,
+"0" :  "(17,19, this)",
+"1" :  "(17,21, element)",
+"2" :  "(17,19, element)",
+"3" :  "(17,(18,19), handler)",
+"4" :  "(17,(18,21), handler)",
+"5" :  "(17,21, handler)"},{ "Name" : "postVisit" ,
+"Duas" : 6,
+"0" :  "(25,27, this)",
+"1" :  "(25,29, element)",
+"2" :  "(25,27, element)",
+"3" :  "(25,(26,27), handler)",
+"4" :  "(25,(26,29), handler)",
+"5" :  "(25,29, handler)"}]
+}

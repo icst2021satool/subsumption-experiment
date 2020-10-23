@@ -1,0 +1,1313 @@
+@@ Local DUA-node subsumption
+@@ Method, Nodes, Edges, DUAs, SubDUAs, Perc, Time_s, Time_ms
+
+
+#org/apache/commons/codec/net/RFC1522Codec/encodeText:
+## nodes: 4
+## edges: 4
+## DUAs: 5
+## Subsumed DUAs: 5
+## Node DUA coverage: 100.0
+@@ org.apache.commons.codec.net.RFC1522Codec.encodeText,4,4,5,5,100.0,0,6
+
+
+#org/apache/commons/codec/net/RFC1522Codec/encodeText:
+Local DUA-Node subsumption of method org.apache.commons.codec.net.RFC1522Codec.encodeText calculated in 0 minutes, 0 seconds, and 6 milliseconds
+
+#org/apache/commons/codec/net/RFC1522Codec/decodeText:
+## nodes: 17
+## edges: 25
+## DUAs: 38
+## Subsumed DUAs: 30
+## Node DUA coverage: 78.94736842105263
+@@ org.apache.commons.codec.net.RFC1522Codec.decodeText,17,25,38,30,78.94736842105263,0,3
+
+
+#org/apache/commons/codec/net/RFC1522Codec/decodeText:
+Local DUA-Node subsumption of method org.apache.commons.codec.net.RFC1522Codec.decodeText calculated in 0 minutes, 0 seconds, and 3 milliseconds
+
+#org/apache/commons/codec/net/QuotedPrintableCodec/encodeQuotedPrintable:
+## nodes: 14
+## edges: 18
+## DUAs: 34
+## Subsumed DUAs: 15
+## Node DUA coverage: 44.11764705882353
+@@ org.apache.commons.codec.net.QuotedPrintableCodec.encodeQuotedPrintable,14,18,34,15,44.11764705882353,0,1
+
+
+#org/apache/commons/codec/net/QuotedPrintableCodec/encodeQuotedPrintable:
+Local DUA-Node subsumption of method org.apache.commons.codec.net.QuotedPrintableCodec.encodeQuotedPrintable calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/apache/commons/codec/net/QuotedPrintableCodec/decodeQuotedPrintable:
+## nodes: 13
+## edges: 17
+## DUAs: 29
+## Subsumed DUAs: 18
+## Node DUA coverage: 62.06896551724138
+@@ org.apache.commons.codec.net.QuotedPrintableCodec.decodeQuotedPrintable,13,17,29,18,62.06896551724138,0,2
+
+
+#org/apache/commons/codec/net/QuotedPrintableCodec/decodeQuotedPrintable:
+Local DUA-Node subsumption of method org.apache.commons.codec.net.QuotedPrintableCodec.decodeQuotedPrintable calculated in 0 minutes, 0 seconds, and 2 milliseconds
+
+#org/apache/commons/codec/net/QuotedPrintableCodec/encode:
+## nodes: 4
+## edges: 4
+## DUAs: 4
+## Subsumed DUAs: 4
+## Node DUA coverage: 100.0
+@@ org.apache.commons.codec.net.QuotedPrintableCodec.encode,4,4,4,4,100.0,0,0
+
+
+#org/apache/commons/codec/net/QuotedPrintableCodec/encode:
+Local DUA-Node subsumption of method org.apache.commons.codec.net.QuotedPrintableCodec.encode calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/apache/commons/codec/net/QuotedPrintableCodec/decode:
+## nodes: 4
+## edges: 4
+## DUAs: 5
+## Subsumed DUAs: 5
+## Node DUA coverage: 100.0
+@@ org.apache.commons.codec.net.QuotedPrintableCodec.decode,4,4,5,5,100.0,0,1
+
+
+#org/apache/commons/codec/net/QuotedPrintableCodec/decode:
+Local DUA-Node subsumption of method org.apache.commons.codec.net.QuotedPrintableCodec.decode calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/apache/commons/codec/net/QuotedPrintableCodec/decode:
+## nodes: 4
+## edges: 4
+## DUAs: 4
+## Subsumed DUAs: 4
+## Node DUA coverage: 100.0
+@@ org.apache.commons.codec.net.QuotedPrintableCodec.decode,4,4,4,4,100.0,0,0
+
+
+#org/apache/commons/codec/net/QuotedPrintableCodec/decode:
+Local DUA-Node subsumption of method org.apache.commons.codec.net.QuotedPrintableCodec.decode calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/apache/commons/codec/net/QuotedPrintableCodec/encode:
+## nodes: 8
+## edges: 10
+## DUAs: 11
+## Subsumed DUAs: 11
+## Node DUA coverage: 100.0
+@@ org.apache.commons.codec.net.QuotedPrintableCodec.encode,8,10,11,11,100.0,0,1
+
+
+#org/apache/commons/codec/net/QuotedPrintableCodec/encode:
+Local DUA-Node subsumption of method org.apache.commons.codec.net.QuotedPrintableCodec.encode calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/apache/commons/codec/net/QuotedPrintableCodec/decode:
+## nodes: 8
+## edges: 10
+## DUAs: 11
+## Subsumed DUAs: 11
+## Node DUA coverage: 100.0
+@@ org.apache.commons.codec.net.QuotedPrintableCodec.decode,8,10,11,11,100.0,0,0
+
+
+#org/apache/commons/codec/net/QuotedPrintableCodec/decode:
+Local DUA-Node subsumption of method org.apache.commons.codec.net.QuotedPrintableCodec.decode calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/apache/commons/codec/net/QuotedPrintableCodec/encode:
+## nodes: 4
+## edges: 4
+## DUAs: 5
+## Subsumed DUAs: 5
+## Node DUA coverage: 100.0
+@@ org.apache.commons.codec.net.QuotedPrintableCodec.encode,4,4,5,5,100.0,0,0
+
+
+#org/apache/commons/codec/net/QuotedPrintableCodec/encode:
+Local DUA-Node subsumption of method org.apache.commons.codec.net.QuotedPrintableCodec.encode calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/apache/commons/codec/net/QCodec/doEncoding:
+## nodes: 10
+## edges: 13
+## DUAs: 26
+## Subsumed DUAs: 12
+## Node DUA coverage: 46.15384615384615
+@@ org.apache.commons.codec.net.QCodec.doEncoding,10,13,26,12,46.15384615384615,0,1
+
+
+#org/apache/commons/codec/net/QCodec/doEncoding:
+Local DUA-Node subsumption of method org.apache.commons.codec.net.QCodec.doEncoding calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/apache/commons/codec/net/QCodec/doDecoding:
+## nodes: 17
+## edges: 22
+## DUAs: 43
+## Subsumed DUAs: 22
+## Node DUA coverage: 51.162790697674424
+@@ org.apache.commons.codec.net.QCodec.doDecoding,17,22,43,22,51.162790697674424,0,2
+
+
+#org/apache/commons/codec/net/QCodec/doDecoding:
+Local DUA-Node subsumption of method org.apache.commons.codec.net.QCodec.doDecoding calculated in 0 minutes, 0 seconds, and 2 milliseconds
+
+#org/apache/commons/codec/net/QCodec/encode:
+## nodes: 4
+## edges: 4
+## DUAs: 5
+## Subsumed DUAs: 5
+## Node DUA coverage: 100.0
+@@ org.apache.commons.codec.net.QCodec.encode,4,4,5,5,100.0,0,0
+
+
+#org/apache/commons/codec/net/QCodec/encode:
+Local DUA-Node subsumption of method org.apache.commons.codec.net.QCodec.encode calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/apache/commons/codec/net/QCodec/encode:
+## nodes: 4
+## edges: 4
+## DUAs: 4
+## Subsumed DUAs: 4
+## Node DUA coverage: 100.0
+@@ org.apache.commons.codec.net.QCodec.encode,4,4,4,4,100.0,0,0
+
+
+#org/apache/commons/codec/net/QCodec/encode:
+Local DUA-Node subsumption of method org.apache.commons.codec.net.QCodec.encode calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/apache/commons/codec/net/QCodec/decode:
+## nodes: 4
+## edges: 4
+## DUAs: 4
+## Subsumed DUAs: 4
+## Node DUA coverage: 100.0
+@@ org.apache.commons.codec.net.QCodec.decode,4,4,4,4,100.0,0,0
+
+
+#org/apache/commons/codec/net/QCodec/decode:
+Local DUA-Node subsumption of method org.apache.commons.codec.net.QCodec.decode calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/apache/commons/codec/net/QCodec/encode:
+## nodes: 6
+## edges: 7
+## DUAs: 7
+## Subsumed DUAs: 7
+## Node DUA coverage: 100.0
+@@ org.apache.commons.codec.net.QCodec.encode,6,7,7,7,100.0,0,0
+
+
+#org/apache/commons/codec/net/QCodec/encode:
+Local DUA-Node subsumption of method org.apache.commons.codec.net.QCodec.encode calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/apache/commons/codec/net/QCodec/decode:
+## nodes: 6
+## edges: 7
+## DUAs: 7
+## Subsumed DUAs: 7
+## Node DUA coverage: 100.0
+@@ org.apache.commons.codec.net.QCodec.decode,6,7,7,7,100.0,0,0
+
+
+#org/apache/commons/codec/net/QCodec/decode:
+Local DUA-Node subsumption of method org.apache.commons.codec.net.QCodec.decode calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/apache/commons/codec/net/BCodec/doEncoding:
+## nodes: 4
+## edges: 4
+## DUAs: 3
+## Subsumed DUAs: 3
+## Node DUA coverage: 100.0
+@@ org.apache.commons.codec.net.BCodec.doEncoding,4,4,3,3,100.0,0,1
+
+
+#org/apache/commons/codec/net/BCodec/doEncoding:
+Local DUA-Node subsumption of method org.apache.commons.codec.net.BCodec.doEncoding calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/apache/commons/codec/net/BCodec/doDecoding:
+## nodes: 4
+## edges: 4
+## DUAs: 3
+## Subsumed DUAs: 3
+## Node DUA coverage: 100.0
+@@ org.apache.commons.codec.net.BCodec.doDecoding,4,4,3,3,100.0,0,1
+
+
+#org/apache/commons/codec/net/BCodec/doDecoding:
+Local DUA-Node subsumption of method org.apache.commons.codec.net.BCodec.doDecoding calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/apache/commons/codec/net/BCodec/encode:
+## nodes: 4
+## edges: 4
+## DUAs: 5
+## Subsumed DUAs: 5
+## Node DUA coverage: 100.0
+@@ org.apache.commons.codec.net.BCodec.encode,4,4,5,5,100.0,0,0
+
+
+#org/apache/commons/codec/net/BCodec/encode:
+Local DUA-Node subsumption of method org.apache.commons.codec.net.BCodec.encode calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/apache/commons/codec/net/BCodec/encode:
+## nodes: 4
+## edges: 4
+## DUAs: 4
+## Subsumed DUAs: 4
+## Node DUA coverage: 100.0
+@@ org.apache.commons.codec.net.BCodec.encode,4,4,4,4,100.0,0,1
+
+
+#org/apache/commons/codec/net/BCodec/encode:
+Local DUA-Node subsumption of method org.apache.commons.codec.net.BCodec.encode calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/apache/commons/codec/net/BCodec/decode:
+## nodes: 4
+## edges: 4
+## DUAs: 4
+## Subsumed DUAs: 4
+## Node DUA coverage: 100.0
+@@ org.apache.commons.codec.net.BCodec.decode,4,4,4,4,100.0,0,1
+
+
+#org/apache/commons/codec/net/BCodec/decode:
+Local DUA-Node subsumption of method org.apache.commons.codec.net.BCodec.decode calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/apache/commons/codec/net/BCodec/encode:
+## nodes: 6
+## edges: 7
+## DUAs: 7
+## Subsumed DUAs: 7
+## Node DUA coverage: 100.0
+@@ org.apache.commons.codec.net.BCodec.encode,6,7,7,7,100.0,0,1
+
+
+#org/apache/commons/codec/net/BCodec/encode:
+Local DUA-Node subsumption of method org.apache.commons.codec.net.BCodec.encode calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/apache/commons/codec/net/BCodec/decode:
+## nodes: 6
+## edges: 7
+## DUAs: 7
+## Subsumed DUAs: 7
+## Node DUA coverage: 100.0
+@@ org.apache.commons.codec.net.BCodec.decode,6,7,7,7,100.0,0,1
+
+
+#org/apache/commons/codec/net/BCodec/decode:
+Local DUA-Node subsumption of method org.apache.commons.codec.net.BCodec.decode calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/apache/commons/codec/net/URLCodec/encodeUrl:
+## nodes: 16
+## edges: 21
+## DUAs: 39
+## Subsumed DUAs: 15
+## Node DUA coverage: 38.46153846153847
+@@ org.apache.commons.codec.net.URLCodec.encodeUrl,16,21,39,15,38.46153846153847,0,1
+
+
+#org/apache/commons/codec/net/URLCodec/encodeUrl:
+Local DUA-Node subsumption of method org.apache.commons.codec.net.URLCodec.encodeUrl calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/apache/commons/codec/net/URLCodec/decodeUrl:
+## nodes: 15
+## edges: 20
+## DUAs: 32
+## Subsumed DUAs: 21
+## Node DUA coverage: 65.625
+@@ org.apache.commons.codec.net.URLCodec.decodeUrl,15,20,32,21,65.625,0,1
+
+
+#org/apache/commons/codec/net/URLCodec/decodeUrl:
+Local DUA-Node subsumption of method org.apache.commons.codec.net.URLCodec.decodeUrl calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/apache/commons/codec/net/URLCodec/encode:
+## nodes: 4
+## edges: 4
+## DUAs: 5
+## Subsumed DUAs: 5
+## Node DUA coverage: 100.0
+@@ org.apache.commons.codec.net.URLCodec.encode,4,4,5,5,100.0,0,0
+
+
+#org/apache/commons/codec/net/URLCodec/encode:
+Local DUA-Node subsumption of method org.apache.commons.codec.net.URLCodec.encode calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/apache/commons/codec/net/URLCodec/encode:
+## nodes: 4
+## edges: 4
+## DUAs: 4
+## Subsumed DUAs: 4
+## Node DUA coverage: 100.0
+@@ org.apache.commons.codec.net.URLCodec.encode,4,4,4,4,100.0,0,0
+
+
+#org/apache/commons/codec/net/URLCodec/encode:
+Local DUA-Node subsumption of method org.apache.commons.codec.net.URLCodec.encode calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/apache/commons/codec/net/URLCodec/decode:
+## nodes: 4
+## edges: 4
+## DUAs: 5
+## Subsumed DUAs: 5
+## Node DUA coverage: 100.0
+@@ org.apache.commons.codec.net.URLCodec.decode,4,4,5,5,100.0,0,0
+
+
+#org/apache/commons/codec/net/URLCodec/decode:
+Local DUA-Node subsumption of method org.apache.commons.codec.net.URLCodec.decode calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/apache/commons/codec/net/URLCodec/decode:
+## nodes: 4
+## edges: 4
+## DUAs: 4
+## Subsumed DUAs: 4
+## Node DUA coverage: 100.0
+@@ org.apache.commons.codec.net.URLCodec.decode,4,4,4,4,100.0,0,0
+
+
+#org/apache/commons/codec/net/URLCodec/decode:
+Local DUA-Node subsumption of method org.apache.commons.codec.net.URLCodec.decode calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/apache/commons/codec/net/URLCodec/encode:
+## nodes: 8
+## edges: 10
+## DUAs: 11
+## Subsumed DUAs: 11
+## Node DUA coverage: 100.0
+@@ org.apache.commons.codec.net.URLCodec.encode,8,10,11,11,100.0,0,1
+
+
+#org/apache/commons/codec/net/URLCodec/encode:
+Local DUA-Node subsumption of method org.apache.commons.codec.net.URLCodec.encode calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/apache/commons/codec/net/URLCodec/decode:
+## nodes: 8
+## edges: 10
+## DUAs: 11
+## Subsumed DUAs: 11
+## Node DUA coverage: 100.0
+@@ org.apache.commons.codec.net.URLCodec.decode,8,10,11,11,100.0,0,1
+
+
+#org/apache/commons/codec/net/URLCodec/decode:
+Local DUA-Node subsumption of method org.apache.commons.codec.net.URLCodec.decode calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/apache/commons/codec/digest/DigestUtils/digest:
+## nodes: 5
+## edges: 5
+## DUAs: 10
+## Subsumed DUAs: 6
+## Node DUA coverage: 60.0
+@@ org.apache.commons.codec.digest.DigestUtils.digest,5,5,10,6,60.0,0,0
+
+
+#org/apache/commons/codec/digest/DigestUtils/digest:
+Local DUA-Node subsumption of method org.apache.commons.codec.digest.DigestUtils.digest calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/apache/commons/codec/language/SoundexUtils/clean:
+## nodes: 12
+## edges: 16
+## DUAs: 37
+## Subsumed DUAs: 17
+## Node DUA coverage: 45.94594594594595
+@@ org.apache.commons.codec.language.SoundexUtils.clean,12,16,37,17,45.94594594594595,0,0
+
+
+#org/apache/commons/codec/language/SoundexUtils/clean:
+Local DUA-Node subsumption of method org.apache.commons.codec.language.SoundexUtils.clean calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/apache/commons/codec/language/SoundexUtils/differenceEncoded:
+## nodes: 10
+## edges: 13
+## DUAs: 26
+## Subsumed DUAs: 11
+## Node DUA coverage: 42.30769230769231
+@@ org.apache.commons.codec.language.SoundexUtils.differenceEncoded,10,13,26,11,42.30769230769231,0,1
+
+
+#org/apache/commons/codec/language/SoundexUtils/differenceEncoded:
+Local DUA-Node subsumption of method org.apache.commons.codec.language.SoundexUtils.differenceEncoded calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/apache/commons/codec/language/Caverphone/caverphone:
+## nodes: 5
+## edges: 6
+## DUAs: 5
+## Subsumed DUAs: 3
+## Node DUA coverage: 60.0
+@@ org.apache.commons.codec.language.Caverphone.caverphone,5,6,5,3,60.0,0,0
+
+
+#org/apache/commons/codec/language/Caverphone/caverphone:
+Local DUA-Node subsumption of method org.apache.commons.codec.language.Caverphone.caverphone calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/apache/commons/codec/language/Caverphone/encode:
+## nodes: 4
+## edges: 4
+## DUAs: 4
+## Subsumed DUAs: 4
+## Node DUA coverage: 100.0
+@@ org.apache.commons.codec.language.Caverphone.encode,4,4,4,4,100.0,0,1
+
+
+#org/apache/commons/codec/language/Caverphone/encode:
+Local DUA-Node subsumption of method org.apache.commons.codec.language.Caverphone.encode calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/apache/commons/codec/language/Metaphone/metaphone:
+## nodes: 116
+## edges: 193
+## DUAs: 550
+## Subsumed DUAs: 193
+## Node DUA coverage: 35.090909090909086
+@@ org.apache.commons.codec.language.Metaphone.metaphone,116,193,550,193,35.090909090909086,0,7
+
+
+#org/apache/commons/codec/language/Metaphone/metaphone:
+Local DUA-Node subsumption of method org.apache.commons.codec.language.Metaphone.metaphone calculated in 0 minutes, 0 seconds, and 7 milliseconds
+
+#org/apache/commons/codec/language/Metaphone/isVowel:
+## nodes: 5
+## edges: 5
+## DUAs: 4
+## Subsumed DUAs: 4
+## Node DUA coverage: 100.0
+@@ org.apache.commons.codec.language.Metaphone.isVowel,5,5,4,4,100.0,0,1
+
+
+#org/apache/commons/codec/language/Metaphone/isVowel:
+Local DUA-Node subsumption of method org.apache.commons.codec.language.Metaphone.isVowel calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/apache/commons/codec/language/Metaphone/isPreviousChar:
+## nodes: 8
+## edges: 10
+## DUAs: 14
+## Subsumed DUAs: 9
+## Node DUA coverage: 64.28571428571429
+@@ org.apache.commons.codec.language.Metaphone.isPreviousChar,8,10,14,9,64.28571428571429,0,0
+
+
+#org/apache/commons/codec/language/Metaphone/isPreviousChar:
+Local DUA-Node subsumption of method org.apache.commons.codec.language.Metaphone.isPreviousChar calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/apache/commons/codec/language/Metaphone/isNextChar:
+## nodes: 8
+## edges: 10
+## DUAs: 14
+## Subsumed DUAs: 9
+## Node DUA coverage: 64.28571428571429
+@@ org.apache.commons.codec.language.Metaphone.isNextChar,8,10,14,9,64.28571428571429,0,1
+
+
+#org/apache/commons/codec/language/Metaphone/isNextChar:
+Local DUA-Node subsumption of method org.apache.commons.codec.language.Metaphone.isNextChar calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/apache/commons/codec/language/Metaphone/regionMatch:
+## nodes: 5
+## edges: 6
+## DUAs: 13
+## Subsumed DUAs: 7
+## Node DUA coverage: 53.84615384615385
+@@ org.apache.commons.codec.language.Metaphone.regionMatch,5,6,13,7,53.84615384615385,0,0
+
+
+#org/apache/commons/codec/language/Metaphone/regionMatch:
+Local DUA-Node subsumption of method org.apache.commons.codec.language.Metaphone.regionMatch calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/apache/commons/codec/language/Metaphone/isLastChar:
+## nodes: 5
+## edges: 5
+## DUAs: 4
+## Subsumed DUAs: 4
+## Node DUA coverage: 100.0
+@@ org.apache.commons.codec.language.Metaphone.isLastChar,5,5,4,4,100.0,0,1
+
+
+#org/apache/commons/codec/language/Metaphone/isLastChar:
+Local DUA-Node subsumption of method org.apache.commons.codec.language.Metaphone.isLastChar calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/apache/commons/codec/language/Metaphone/encode:
+## nodes: 4
+## edges: 4
+## DUAs: 4
+## Subsumed DUAs: 4
+## Node DUA coverage: 100.0
+@@ org.apache.commons.codec.language.Metaphone.encode,4,4,4,4,100.0,0,1
+
+
+#org/apache/commons/codec/language/Metaphone/encode:
+Local DUA-Node subsumption of method org.apache.commons.codec.language.Metaphone.encode calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/apache/commons/codec/language/DoubleMetaphone/doubleMetaphone:
+## nodes: 59
+## edges: 93
+## DUAs: 1724
+## Subsumed DUAs: 123
+## Node DUA coverage: 7.134570765661252
+@@ org.apache.commons.codec.language.DoubleMetaphone.doubleMetaphone,59,93,1724,123,7.134570765661252,0,6
+
+
+#org/apache/commons/codec/language/DoubleMetaphone/doubleMetaphone:
+Local DUA-Node subsumption of method org.apache.commons.codec.language.DoubleMetaphone.doubleMetaphone calculated in 0 minutes, 0 seconds, and 6 milliseconds
+
+#org/apache/commons/codec/language/DoubleMetaphone/encode:
+## nodes: 4
+## edges: 4
+## DUAs: 4
+## Subsumed DUAs: 4
+## Node DUA coverage: 100.0
+@@ org.apache.commons.codec.language.DoubleMetaphone.encode,4,4,4,4,100.0,0,1
+
+
+#org/apache/commons/codec/language/DoubleMetaphone/encode:
+Local DUA-Node subsumption of method org.apache.commons.codec.language.DoubleMetaphone.encode calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/apache/commons/codec/language/DoubleMetaphone/handleAEIOUY:
+## nodes: 4
+## edges: 4
+## DUAs: 4
+## Subsumed DUAs: 3
+## Node DUA coverage: 75.0
+@@ org.apache.commons.codec.language.DoubleMetaphone.handleAEIOUY,4,4,4,3,75.0,0,0
+
+
+#org/apache/commons/codec/language/DoubleMetaphone/handleAEIOUY:
+Local DUA-Node subsumption of method org.apache.commons.codec.language.DoubleMetaphone.handleAEIOUY calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/apache/commons/codec/language/DoubleMetaphone/handleC:
+## nodes: 31
+## edges: 46
+## DUAs: 97
+## Subsumed DUAs: 69
+## Node DUA coverage: 71.1340206185567
+@@ org.apache.commons.codec.language.DoubleMetaphone.handleC,31,46,97,69,71.1340206185567,0,1
+
+
+#org/apache/commons/codec/language/DoubleMetaphone/handleC:
+Local DUA-Node subsumption of method org.apache.commons.codec.language.DoubleMetaphone.handleC calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/apache/commons/codec/language/DoubleMetaphone/handleCC:
+## nodes: 11
+## edges: 15
+## DUAs: 27
+## Subsumed DUAs: 12
+## Node DUA coverage: 44.44444444444444
+@@ org.apache.commons.codec.language.DoubleMetaphone.handleCC,11,15,27,12,44.44444444444444,0,1
+
+
+#org/apache/commons/codec/language/DoubleMetaphone/handleCC:
+Local DUA-Node subsumption of method org.apache.commons.codec.language.DoubleMetaphone.handleCC calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/apache/commons/codec/language/DoubleMetaphone/handleCH:
+## nodes: 14
+## edges: 19
+## DUAs: 32
+## Subsumed DUAs: 29
+## Node DUA coverage: 90.625
+@@ org.apache.commons.codec.language.DoubleMetaphone.handleCH,14,19,32,29,90.625,0,0
+
+
+#org/apache/commons/codec/language/DoubleMetaphone/handleCH:
+Local DUA-Node subsumption of method org.apache.commons.codec.language.DoubleMetaphone.handleCH calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/apache/commons/codec/language/DoubleMetaphone/handleD:
+## nodes: 9
+## edges: 11
+## DUAs: 24
+## Subsumed DUAs: 20
+## Node DUA coverage: 83.33333333333334
+@@ org.apache.commons.codec.language.DoubleMetaphone.handleD,9,11,24,20,83.33333333333334,0,1
+
+
+#org/apache/commons/codec/language/DoubleMetaphone/handleD:
+Local DUA-Node subsumption of method org.apache.commons.codec.language.DoubleMetaphone.handleD calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/apache/commons/codec/language/DoubleMetaphone/handleG:
+## nodes: 41
+## edges: 65
+## DUAs: 128
+## Subsumed DUAs: 76
+## Node DUA coverage: 59.375
+@@ org.apache.commons.codec.language.DoubleMetaphone.handleG,41,65,128,76,59.375,0,2
+
+
+#org/apache/commons/codec/language/DoubleMetaphone/handleG:
+Local DUA-Node subsumption of method org.apache.commons.codec.language.DoubleMetaphone.handleG calculated in 0 minutes, 0 seconds, and 2 milliseconds
+
+#org/apache/commons/codec/language/DoubleMetaphone/handleGH:
+## nodes: 25
+## edges: 39
+## DUAs: 67
+## Subsumed DUAs: 34
+## Node DUA coverage: 50.74626865671642
+@@ org.apache.commons.codec.language.DoubleMetaphone.handleGH,25,39,67,34,50.74626865671642,0,2
+
+
+#org/apache/commons/codec/language/DoubleMetaphone/handleGH:
+Local DUA-Node subsumption of method org.apache.commons.codec.language.DoubleMetaphone.handleGH calculated in 0 minutes, 0 seconds, and 2 milliseconds
+
+#org/apache/commons/codec/language/DoubleMetaphone/handleH:
+## nodes: 7
+## edges: 9
+## DUAs: 19
+## Subsumed DUAs: 7
+## Node DUA coverage: 36.84210526315789
+@@ org.apache.commons.codec.language.DoubleMetaphone.handleH,7,9,19,7,36.84210526315789,0,0
+
+
+#org/apache/commons/codec/language/DoubleMetaphone/handleH:
+Local DUA-Node subsumption of method org.apache.commons.codec.language.DoubleMetaphone.handleH calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/apache/commons/codec/language/DoubleMetaphone/handleJ:
+## nodes: 27
+## edges: 42
+## DUAs: 76
+## Subsumed DUAs: 40
+## Node DUA coverage: 52.63157894736842
+@@ org.apache.commons.codec.language.DoubleMetaphone.handleJ,27,42,76,40,52.63157894736842,0,3
+
+
+#org/apache/commons/codec/language/DoubleMetaphone/handleJ:
+Local DUA-Node subsumption of method org.apache.commons.codec.language.DoubleMetaphone.handleJ calculated in 0 minutes, 0 seconds, and 3 milliseconds
+
+#org/apache/commons/codec/language/DoubleMetaphone/handleL:
+## nodes: 7
+## edges: 8
+## DUAs: 17
+## Subsumed DUAs: 12
+## Node DUA coverage: 70.58823529411765
+@@ org.apache.commons.codec.language.DoubleMetaphone.handleL,7,8,17,12,70.58823529411765,0,0
+
+
+#org/apache/commons/codec/language/DoubleMetaphone/handleL:
+Local DUA-Node subsumption of method org.apache.commons.codec.language.DoubleMetaphone.handleL calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/apache/commons/codec/language/DoubleMetaphone/handleP:
+## nodes: 8
+## edges: 9
+## DUAs: 16
+## Subsumed DUAs: 14
+## Node DUA coverage: 87.5
+@@ org.apache.commons.codec.language.DoubleMetaphone.handleP,8,9,16,14,87.5,0,0
+
+
+#org/apache/commons/codec/language/DoubleMetaphone/handleP:
+Local DUA-Node subsumption of method org.apache.commons.codec.language.DoubleMetaphone.handleP calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/apache/commons/codec/language/DoubleMetaphone/handleR:
+## nodes: 11
+## edges: 15
+## DUAs: 23
+## Subsumed DUAs: 16
+## Node DUA coverage: 69.56521739130434
+@@ org.apache.commons.codec.language.DoubleMetaphone.handleR,11,15,23,16,69.56521739130434,0,0
+
+
+#org/apache/commons/codec/language/DoubleMetaphone/handleR:
+Local DUA-Node subsumption of method org.apache.commons.codec.language.DoubleMetaphone.handleR calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/apache/commons/codec/language/DoubleMetaphone/handleS:
+## nodes: 35
+## edges: 50
+## DUAs: 83
+## Subsumed DUAs: 58
+## Node DUA coverage: 69.87951807228916
+@@ org.apache.commons.codec.language.DoubleMetaphone.handleS,35,50,83,58,69.87951807228916,0,2
+
+
+#org/apache/commons/codec/language/DoubleMetaphone/handleS:
+Local DUA-Node subsumption of method org.apache.commons.codec.language.DoubleMetaphone.handleS calculated in 0 minutes, 0 seconds, and 2 milliseconds
+
+#org/apache/commons/codec/language/DoubleMetaphone/handleSC:
+## nodes: 15
+## edges: 21
+## DUAs: 35
+## Subsumed DUAs: 30
+## Node DUA coverage: 85.71428571428571
+@@ org.apache.commons.codec.language.DoubleMetaphone.handleSC,15,21,35,30,85.71428571428571,0,1
+
+
+#org/apache/commons/codec/language/DoubleMetaphone/handleSC:
+Local DUA-Node subsumption of method org.apache.commons.codec.language.DoubleMetaphone.handleSC calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/apache/commons/codec/language/DoubleMetaphone/handleT:
+## nodes: 18
+## edges: 25
+## DUAs: 41
+## Subsumed DUAs: 29
+## Node DUA coverage: 70.73170731707317
+@@ org.apache.commons.codec.language.DoubleMetaphone.handleT,18,25,41,29,70.73170731707317,0,0
+
+
+#org/apache/commons/codec/language/DoubleMetaphone/handleT:
+Local DUA-Node subsumption of method org.apache.commons.codec.language.DoubleMetaphone.handleT calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/apache/commons/codec/language/DoubleMetaphone/handleW:
+## nodes: 19
+## edges: 28
+## DUAs: 57
+## Subsumed DUAs: 33
+## Node DUA coverage: 57.89473684210527
+@@ org.apache.commons.codec.language.DoubleMetaphone.handleW,19,28,57,33,57.89473684210527,0,1
+
+
+#org/apache/commons/codec/language/DoubleMetaphone/handleW:
+Local DUA-Node subsumption of method org.apache.commons.codec.language.DoubleMetaphone.handleW calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/apache/commons/codec/language/DoubleMetaphone/handleX:
+## nodes: 12
+## edges: 16
+## DUAs: 24
+## Subsumed DUAs: 14
+## Node DUA coverage: 58.333333333333336
+@@ org.apache.commons.codec.language.DoubleMetaphone.handleX,12,16,24,14,58.333333333333336,0,0
+
+
+#org/apache/commons/codec/language/DoubleMetaphone/handleX:
+Local DUA-Node subsumption of method org.apache.commons.codec.language.DoubleMetaphone.handleX calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/apache/commons/codec/language/DoubleMetaphone/handleZ:
+## nodes: 14
+## edges: 19
+## DUAs: 33
+## Subsumed DUAs: 21
+## Node DUA coverage: 63.63636363636363
+@@ org.apache.commons.codec.language.DoubleMetaphone.handleZ,14,19,33,21,63.63636363636363,0,0
+
+
+#org/apache/commons/codec/language/DoubleMetaphone/handleZ:
+Local DUA-Node subsumption of method org.apache.commons.codec.language.DoubleMetaphone.handleZ calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/apache/commons/codec/language/DoubleMetaphone/conditionC0:
+## nodes: 15
+## edges: 21
+## DUAs: 27
+## Subsumed DUAs: 22
+## Node DUA coverage: 81.48148148148148
+@@ org.apache.commons.codec.language.DoubleMetaphone.conditionC0,15,21,27,22,81.48148148148148,0,1
+
+
+#org/apache/commons/codec/language/DoubleMetaphone/conditionC0:
+Local DUA-Node subsumption of method org.apache.commons.codec.language.DoubleMetaphone.conditionC0 calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/apache/commons/codec/language/DoubleMetaphone/conditionCH0:
+## nodes: 9
+## edges: 12
+## DUAs: 12
+## Subsumed DUAs: 8
+## Node DUA coverage: 66.66666666666666
+@@ org.apache.commons.codec.language.DoubleMetaphone.conditionCH0,9,12,12,8,66.66666666666666,0,0
+
+
+#org/apache/commons/codec/language/DoubleMetaphone/conditionCH0:
+Local DUA-Node subsumption of method org.apache.commons.codec.language.DoubleMetaphone.conditionCH0 calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/apache/commons/codec/language/DoubleMetaphone/conditionCH1:
+## nodes: 12
+## edges: 19
+## DUAs: 28
+## Subsumed DUAs: 11
+## Node DUA coverage: 39.285714285714285
+@@ org.apache.commons.codec.language.DoubleMetaphone.conditionCH1,12,19,28,11,39.285714285714285,0,0
+
+
+#org/apache/commons/codec/language/DoubleMetaphone/conditionCH1:
+Local DUA-Node subsumption of method org.apache.commons.codec.language.DoubleMetaphone.conditionCH1 calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/apache/commons/codec/language/DoubleMetaphone/conditionL0:
+## nodes: 9
+## edges: 13
+## DUAs: 18
+## Subsumed DUAs: 8
+## Node DUA coverage: 44.44444444444444
+@@ org.apache.commons.codec.language.DoubleMetaphone.conditionL0,9,13,18,8,44.44444444444444,0,0
+
+
+#org/apache/commons/codec/language/DoubleMetaphone/conditionL0:
+Local DUA-Node subsumption of method org.apache.commons.codec.language.DoubleMetaphone.conditionL0 calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/apache/commons/codec/language/DoubleMetaphone/conditionM0:
+## nodes: 9
+## edges: 12
+## DUAs: 18
+## Subsumed DUAs: 10
+## Node DUA coverage: 55.55555555555556
+@@ org.apache.commons.codec.language.DoubleMetaphone.conditionM0,9,12,18,10,55.55555555555556,0,0
+
+
+#org/apache/commons/codec/language/DoubleMetaphone/conditionM0:
+Local DUA-Node subsumption of method org.apache.commons.codec.language.DoubleMetaphone.conditionM0 calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/apache/commons/codec/language/DoubleMetaphone/isSlavoGermanic:
+## nodes: 8
+## edges: 11
+## DUAs: 8
+## Subsumed DUAs: 4
+## Node DUA coverage: 50.0
+@@ org.apache.commons.codec.language.DoubleMetaphone.isSlavoGermanic,8,11,8,4,50.0,0,1
+
+
+#org/apache/commons/codec/language/DoubleMetaphone/isSlavoGermanic:
+Local DUA-Node subsumption of method org.apache.commons.codec.language.DoubleMetaphone.isSlavoGermanic calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/apache/commons/codec/language/DoubleMetaphone/isVowel:
+## nodes: 5
+## edges: 5
+## DUAs: 2
+## Subsumed DUAs: 2
+## Node DUA coverage: 100.0
+@@ org.apache.commons.codec.language.DoubleMetaphone.isVowel,5,5,2,2,100.0,0,1
+
+
+#org/apache/commons/codec/language/DoubleMetaphone/isVowel:
+Local DUA-Node subsumption of method org.apache.commons.codec.language.DoubleMetaphone.isVowel calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/apache/commons/codec/language/DoubleMetaphone/isSilentStart:
+## nodes: 7
+## edges: 8
+## DUAs: 18
+## Subsumed DUAs: 8
+## Node DUA coverage: 44.44444444444444
+@@ org.apache.commons.codec.language.DoubleMetaphone.isSilentStart,7,8,18,8,44.44444444444444,0,0
+
+
+#org/apache/commons/codec/language/DoubleMetaphone/isSilentStart:
+Local DUA-Node subsumption of method org.apache.commons.codec.language.DoubleMetaphone.isSilentStart calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/apache/commons/codec/language/DoubleMetaphone/cleanInput:
+## nodes: 6
+## edges: 7
+## DUAs: 7
+## Subsumed DUAs: 7
+## Node DUA coverage: 100.0
+@@ org.apache.commons.codec.language.DoubleMetaphone.cleanInput,6,7,7,7,100.0,0,0
+
+
+#org/apache/commons/codec/language/DoubleMetaphone/cleanInput:
+Local DUA-Node subsumption of method org.apache.commons.codec.language.DoubleMetaphone.cleanInput calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/apache/commons/codec/language/DoubleMetaphone/charAt:
+## nodes: 5
+## edges: 6
+## DUAs: 8
+## Subsumed DUAs: 5
+## Node DUA coverage: 62.5
+@@ org.apache.commons.codec.language.DoubleMetaphone.charAt,5,6,8,5,62.5,0,0
+
+
+#org/apache/commons/codec/language/DoubleMetaphone/charAt:
+Local DUA-Node subsumption of method org.apache.commons.codec.language.DoubleMetaphone.charAt calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/apache/commons/codec/language/DoubleMetaphone/contains:
+## nodes: 9
+## edges: 12
+## DUAs: 29
+## Subsumed DUAs: 15
+## Node DUA coverage: 51.724137931034484
+@@ org.apache.commons.codec.language.DoubleMetaphone.contains,9,12,29,15,51.724137931034484,0,0
+
+
+#org/apache/commons/codec/language/DoubleMetaphone/contains:
+Local DUA-Node subsumption of method org.apache.commons.codec.language.DoubleMetaphone.contains calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/apache/commons/codec/language/DoubleMetaphone$DoubleMetaphoneResult/appendPrimary:
+## nodes: 4
+## edges: 4
+## DUAs: 9
+## Subsumed DUAs: 6
+## Node DUA coverage: 66.66666666666666
+@@ org.apache.commons.codec.language.DoubleMetaphone$DoubleMetaphoneResult.appendPrimary,4,4,9,6,66.66666666666666,0,0
+
+
+#org/apache/commons/codec/language/DoubleMetaphone$DoubleMetaphoneResult/appendPrimary:
+Local DUA-Node subsumption of method org.apache.commons.codec.language.DoubleMetaphone$DoubleMetaphoneResult.appendPrimary calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/apache/commons/codec/language/DoubleMetaphone$DoubleMetaphoneResult/appendAlternate:
+## nodes: 4
+## edges: 4
+## DUAs: 9
+## Subsumed DUAs: 6
+## Node DUA coverage: 66.66666666666666
+@@ org.apache.commons.codec.language.DoubleMetaphone$DoubleMetaphoneResult.appendAlternate,4,4,9,6,66.66666666666666,0,1
+
+
+#org/apache/commons/codec/language/DoubleMetaphone$DoubleMetaphoneResult/appendAlternate:
+Local DUA-Node subsumption of method org.apache.commons.codec.language.DoubleMetaphone$DoubleMetaphoneResult.appendAlternate calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/apache/commons/codec/language/DoubleMetaphone$DoubleMetaphoneResult/appendPrimary:
+## nodes: 5
+## edges: 5
+## DUAs: 11
+## Subsumed DUAs: 11
+## Node DUA coverage: 100.0
+@@ org.apache.commons.codec.language.DoubleMetaphone$DoubleMetaphoneResult.appendPrimary,5,5,11,11,100.0,0,1
+
+
+#org/apache/commons/codec/language/DoubleMetaphone$DoubleMetaphoneResult/appendPrimary:
+Local DUA-Node subsumption of method org.apache.commons.codec.language.DoubleMetaphone$DoubleMetaphoneResult.appendPrimary calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/apache/commons/codec/language/DoubleMetaphone$DoubleMetaphoneResult/appendAlternate:
+## nodes: 5
+## edges: 5
+## DUAs: 11
+## Subsumed DUAs: 11
+## Node DUA coverage: 100.0
+@@ org.apache.commons.codec.language.DoubleMetaphone$DoubleMetaphoneResult.appendAlternate,5,5,11,11,100.0,0,0
+
+
+#org/apache/commons/codec/language/DoubleMetaphone$DoubleMetaphoneResult/appendAlternate:
+Local DUA-Node subsumption of method org.apache.commons.codec.language.DoubleMetaphone$DoubleMetaphoneResult.appendAlternate calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/apache/commons/codec/language/DoubleMetaphone$DoubleMetaphoneResult/isComplete:
+## nodes: 6
+## edges: 7
+## DUAs: 12
+## Subsumed DUAs: 6
+## Node DUA coverage: 50.0
+@@ org.apache.commons.codec.language.DoubleMetaphone$DoubleMetaphoneResult.isComplete,6,7,12,6,50.0,0,0
+
+
+#org/apache/commons/codec/language/DoubleMetaphone$DoubleMetaphoneResult/isComplete:
+Local DUA-Node subsumption of method org.apache.commons.codec.language.DoubleMetaphone$DoubleMetaphoneResult.isComplete calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/apache/commons/codec/language/RefinedSoundex/encode:
+## nodes: 4
+## edges: 4
+## DUAs: 4
+## Subsumed DUAs: 4
+## Node DUA coverage: 100.0
+@@ org.apache.commons.codec.language.RefinedSoundex.encode,4,4,4,4,100.0,0,0
+
+
+#org/apache/commons/codec/language/RefinedSoundex/encode:
+Local DUA-Node subsumption of method org.apache.commons.codec.language.RefinedSoundex.encode calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/apache/commons/codec/language/RefinedSoundex/getMappingCode:
+## nodes: 4
+## edges: 4
+## DUAs: 5
+## Subsumed DUAs: 5
+## Node DUA coverage: 100.0
+@@ org.apache.commons.codec.language.RefinedSoundex.getMappingCode,4,4,5,5,100.0,0,1
+
+
+#org/apache/commons/codec/language/RefinedSoundex/getMappingCode:
+Local DUA-Node subsumption of method org.apache.commons.codec.language.RefinedSoundex.getMappingCode calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/apache/commons/codec/language/RefinedSoundex/soundex:
+## nodes: 14
+## edges: 18
+## DUAs: 31
+## Subsumed DUAs: 22
+## Node DUA coverage: 70.96774193548387
+@@ org.apache.commons.codec.language.RefinedSoundex.soundex,14,18,31,22,70.96774193548387,0,1
+
+
+#org/apache/commons/codec/language/RefinedSoundex/soundex:
+Local DUA-Node subsumption of method org.apache.commons.codec.language.RefinedSoundex.soundex calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/apache/commons/codec/language/Soundex/encode:
+## nodes: 4
+## edges: 4
+## DUAs: 4
+## Subsumed DUAs: 4
+## Node DUA coverage: 100.0
+@@ org.apache.commons.codec.language.Soundex.encode,4,4,4,4,100.0,0,0
+
+
+#org/apache/commons/codec/language/Soundex/encode:
+Local DUA-Node subsumption of method org.apache.commons.codec.language.Soundex.encode calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/apache/commons/codec/language/Soundex/getMappingCode:
+## nodes: 10
+## edges: 16
+## DUAs: 22
+## Subsumed DUAs: 12
+## Node DUA coverage: 54.54545454545454
+@@ org.apache.commons.codec.language.Soundex.getMappingCode,10,16,22,12,54.54545454545454,0,1
+
+
+#org/apache/commons/codec/language/Soundex/getMappingCode:
+Local DUA-Node subsumption of method org.apache.commons.codec.language.Soundex.getMappingCode calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/apache/commons/codec/language/Soundex/map:
+## nodes: 5
+## edges: 6
+## DUAs: 9
+## Subsumed DUAs: 6
+## Node DUA coverage: 66.66666666666666
+@@ org.apache.commons.codec.language.Soundex.map,5,6,9,6,66.66666666666666,0,0
+
+
+#org/apache/commons/codec/language/Soundex/map:
+Local DUA-Node subsumption of method org.apache.commons.codec.language.Soundex.map calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/apache/commons/codec/language/Soundex/soundex:
+## nodes: 14
+## edges: 20
+## DUAs: 40
+## Subsumed DUAs: 23
+## Node DUA coverage: 57.49999999999999
+@@ org.apache.commons.codec.language.Soundex.soundex,14,20,40,23,57.49999999999999,0,0
+
+
+#org/apache/commons/codec/language/Soundex/soundex:
+Local DUA-Node subsumption of method org.apache.commons.codec.language.Soundex.soundex calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/apache/commons/codec/binary/BinaryCodec/encode:
+## nodes: 4
+## edges: 4
+## DUAs: 3
+## Subsumed DUAs: 3
+## Node DUA coverage: 100.0
+@@ org.apache.commons.codec.binary.BinaryCodec.encode,4,4,3,3,100.0,0,0
+
+
+#org/apache/commons/codec/binary/BinaryCodec/encode:
+Local DUA-Node subsumption of method org.apache.commons.codec.binary.BinaryCodec.encode calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/apache/commons/codec/binary/BinaryCodec/decode:
+## nodes: 10
+## edges: 13
+## DUAs: 12
+## Subsumed DUAs: 12
+## Node DUA coverage: 100.0
+@@ org.apache.commons.codec.binary.BinaryCodec.decode,10,13,12,12,100.0,0,0
+
+
+#org/apache/commons/codec/binary/BinaryCodec/decode:
+Local DUA-Node subsumption of method org.apache.commons.codec.binary.BinaryCodec.decode calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/apache/commons/codec/binary/BinaryCodec/toByteArray:
+## nodes: 4
+## edges: 4
+## DUAs: 4
+## Subsumed DUAs: 4
+## Node DUA coverage: 100.0
+@@ org.apache.commons.codec.binary.BinaryCodec.toByteArray,4,4,4,4,100.0,0,0
+
+
+#org/apache/commons/codec/binary/BinaryCodec/toByteArray:
+Local DUA-Node subsumption of method org.apache.commons.codec.binary.BinaryCodec.toByteArray calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/apache/commons/codec/binary/BinaryCodec/fromAscii:
+## nodes: 13
+## edges: 17
+## DUAs: 41
+## Subsumed DUAs: 17
+## Node DUA coverage: 41.46341463414634
+@@ org.apache.commons.codec.binary.BinaryCodec.fromAscii,13,17,41,17,41.46341463414634,0,1
+
+
+#org/apache/commons/codec/binary/BinaryCodec/fromAscii:
+Local DUA-Node subsumption of method org.apache.commons.codec.binary.BinaryCodec.fromAscii calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/apache/commons/codec/binary/BinaryCodec/fromAscii:
+## nodes: 13
+## edges: 17
+## DUAs: 41
+## Subsumed DUAs: 17
+## Node DUA coverage: 41.46341463414634
+@@ org.apache.commons.codec.binary.BinaryCodec.fromAscii,13,17,41,17,41.46341463414634,0,0
+
+
+#org/apache/commons/codec/binary/BinaryCodec/fromAscii:
+Local DUA-Node subsumption of method org.apache.commons.codec.binary.BinaryCodec.fromAscii calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/apache/commons/codec/binary/BinaryCodec/toAsciiBytes:
+## nodes: 14
+## edges: 18
+## DUAs: 47
+## Subsumed DUAs: 20
+## Node DUA coverage: 42.5531914893617
+@@ org.apache.commons.codec.binary.BinaryCodec.toAsciiBytes,14,18,47,20,42.5531914893617,0,1
+
+
+#org/apache/commons/codec/binary/BinaryCodec/toAsciiBytes:
+Local DUA-Node subsumption of method org.apache.commons.codec.binary.BinaryCodec.toAsciiBytes calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/apache/commons/codec/binary/BinaryCodec/toAsciiChars:
+## nodes: 14
+## edges: 18
+## DUAs: 47
+## Subsumed DUAs: 20
+## Node DUA coverage: 42.5531914893617
+@@ org.apache.commons.codec.binary.BinaryCodec.toAsciiChars,14,18,47,20,42.5531914893617,0,1
+
+
+#org/apache/commons/codec/binary/BinaryCodec/toAsciiChars:
+Local DUA-Node subsumption of method org.apache.commons.codec.binary.BinaryCodec.toAsciiChars calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/apache/commons/codec/binary/Hex/decodeHex:
+## nodes: 7
+## edges: 8
+## DUAs: 16
+## Subsumed DUAs: 11
+## Node DUA coverage: 68.75
+@@ org.apache.commons.codec.binary.Hex.decodeHex,7,8,16,11,68.75,0,0
+
+
+#org/apache/commons/codec/binary/Hex/decodeHex:
+Local DUA-Node subsumption of method org.apache.commons.codec.binary.Hex.decodeHex calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/apache/commons/codec/binary/Hex/toDigit:
+## nodes: 4
+## edges: 4
+## DUAs: 5
+## Subsumed DUAs: 5
+## Node DUA coverage: 100.0
+@@ org.apache.commons.codec.binary.Hex.toDigit,4,4,5,5,100.0,0,0
+
+
+#org/apache/commons/codec/binary/Hex/toDigit:
+Local DUA-Node subsumption of method org.apache.commons.codec.binary.Hex.toDigit calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/apache/commons/codec/binary/Hex/encodeHex:
+## nodes: 5
+## edges: 5
+## DUAs: 14
+## Subsumed DUAs: 9
+## Node DUA coverage: 64.28571428571429
+@@ org.apache.commons.codec.binary.Hex.encodeHex,5,5,14,9,64.28571428571429,0,2
+
+
+#org/apache/commons/codec/binary/Hex/encodeHex:
+Local DUA-Node subsumption of method org.apache.commons.codec.binary.Hex.encodeHex calculated in 0 minutes, 0 seconds, and 2 milliseconds
+
+#org/apache/commons/codec/binary/Hex/decode:
+## nodes: 5
+## edges: 5
+## DUAs: 3
+## Subsumed DUAs: 3
+## Node DUA coverage: 100.0
+@@ org.apache.commons.codec.binary.Hex.decode,5,5,3,3,100.0,0,0
+
+
+#org/apache/commons/codec/binary/Hex/decode:
+Local DUA-Node subsumption of method org.apache.commons.codec.binary.Hex.decode calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/apache/commons/codec/binary/Hex/encode:
+## nodes: 5
+## edges: 5
+## DUAs: 3
+## Subsumed DUAs: 3
+## Node DUA coverage: 100.0
+@@ org.apache.commons.codec.binary.Hex.encode,5,5,3,3,100.0,0,1
+
+
+#org/apache/commons/codec/binary/Hex/encode:
+Local DUA-Node subsumption of method org.apache.commons.codec.binary.Hex.encode calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/apache/commons/codec/binary/Base64/isBase64:
+## nodes: 7
+## edges: 9
+## DUAs: 8
+## Subsumed DUAs: 5
+## Node DUA coverage: 62.5
+@@ org.apache.commons.codec.binary.Base64.isBase64,7,9,8,5,62.5,0,0
+
+
+#org/apache/commons/codec/binary/Base64/isBase64:
+Local DUA-Node subsumption of method org.apache.commons.codec.binary.Base64.isBase64 calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/apache/commons/codec/binary/Base64/isArrayByteBase64:
+## nodes: 9
+## edges: 11
+## DUAs: 16
+## Subsumed DUAs: 9
+## Node DUA coverage: 56.25
+@@ org.apache.commons.codec.binary.Base64.isArrayByteBase64,9,11,16,9,56.25,0,1
+
+
+#org/apache/commons/codec/binary/Base64/isArrayByteBase64:
+Local DUA-Node subsumption of method org.apache.commons.codec.binary.Base64.isArrayByteBase64 calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/apache/commons/codec/binary/Base64/decode:
+## nodes: 4
+## edges: 4
+## DUAs: 4
+## Subsumed DUAs: 4
+## Node DUA coverage: 100.0
+@@ org.apache.commons.codec.binary.Base64.decode,4,4,4,4,100.0,0,0
+
+
+#org/apache/commons/codec/binary/Base64/decode:
+Local DUA-Node subsumption of method org.apache.commons.codec.binary.Base64.decode calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/apache/commons/codec/binary/Base64/encodeBase64:
+## nodes: 43
+## edges: 59
+## DUAs: 109
+## Subsumed DUAs: 66
+## Node DUA coverage: 60.550458715596335
+@@ org.apache.commons.codec.binary.Base64.encodeBase64,43,59,109,66,60.550458715596335,0,2
+
+
+#org/apache/commons/codec/binary/Base64/encodeBase64:
+Local DUA-Node subsumption of method org.apache.commons.codec.binary.Base64.encodeBase64 calculated in 0 minutes, 0 seconds, and 2 milliseconds
+
+#org/apache/commons/codec/binary/Base64/decodeBase64:
+## nodes: 18
+## edges: 25
+## DUAs: 59
+## Subsumed DUAs: 37
+## Node DUA coverage: 62.71186440677966
+@@ org.apache.commons.codec.binary.Base64.decodeBase64,18,25,59,37,62.71186440677966,0,2
+
+
+#org/apache/commons/codec/binary/Base64/decodeBase64:
+Local DUA-Node subsumption of method org.apache.commons.codec.binary.Base64.decodeBase64 calculated in 0 minutes, 0 seconds, and 2 milliseconds
+
+#org/apache/commons/codec/binary/Base64/discardWhitespace:
+## nodes: 8
+## edges: 9
+## DUAs: 23
+## Subsumed DUAs: 10
+## Node DUA coverage: 43.47826086956522
+@@ org.apache.commons.codec.binary.Base64.discardWhitespace,8,9,23,10,43.47826086956522,0,1
+
+
+#org/apache/commons/codec/binary/Base64/discardWhitespace:
+Local DUA-Node subsumption of method org.apache.commons.codec.binary.Base64.discardWhitespace calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/apache/commons/codec/binary/Base64/discardNonBase64:
+## nodes: 7
+## edges: 8
+## DUAs: 23
+## Subsumed DUAs: 9
+## Node DUA coverage: 39.130434782608695
+@@ org.apache.commons.codec.binary.Base64.discardNonBase64,7,8,23,9,39.130434782608695,0,1
+
+
+#org/apache/commons/codec/binary/Base64/discardNonBase64:
+Local DUA-Node subsumption of method org.apache.commons.codec.binary.Base64.discardNonBase64 calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#org/apache/commons/codec/binary/Base64/encode:
+## nodes: 4
+## edges: 4
+## DUAs: 4
+## Subsumed DUAs: 4
+## Node DUA coverage: 100.0
+@@ org.apache.commons.codec.binary.Base64.encode,4,4,4,4,100.0,0,0
+
+
+#org/apache/commons/codec/binary/Base64/encode:
+Local DUA-Node subsumption of method org.apache.commons.codec.binary.Base64.encode calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/apache/commons/codec/binary/Base64/encodeInteger:
+## nodes: 4
+## edges: 4
+## DUAs: 3
+## Subsumed DUAs: 3
+## Node DUA coverage: 100.0
+@@ org.apache.commons.codec.binary.Base64.encodeInteger,4,4,3,3,100.0,0,0
+
+
+#org/apache/commons/codec/binary/Base64/encodeInteger:
+Local DUA-Node subsumption of method org.apache.commons.codec.binary.Base64.encodeInteger calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#org/apache/commons/codec/binary/Base64/toIntegerBytes:
+## nodes: 7
+## edges: 9
+## DUAs: 17
+## Subsumed DUAs: 9
+## Node DUA coverage: 52.94117647058824
+@@ org.apache.commons.codec.binary.Base64.toIntegerBytes,7,9,17,9,52.94117647058824,0,1
+
+
+#org/apache/commons/codec/binary/Base64/toIntegerBytes:
+Local DUA-Node subsumption of method org.apache.commons.codec.binary.Base64.toIntegerBytes calculated in 0 minutes, 0 seconds, and 1 milliseconds
+109 methods had the node subsumption relationship calculated in 0 minutes and 0 seconds
+Local DUA-Node subsumption time (ms):714

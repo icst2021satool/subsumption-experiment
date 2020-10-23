@@ -1,0 +1,9 @@
+{
+"Class" : "weka.gui.beans.TextViewer$4", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Duas" : 4,
+"0" :  "(227,230, m_SaveOut)",
+"1" :  "(228,(229,230), sb)",
+"2" :  "(228,(229,232), sb)",
+"3" :  "(228,230, sb)"}]
+}

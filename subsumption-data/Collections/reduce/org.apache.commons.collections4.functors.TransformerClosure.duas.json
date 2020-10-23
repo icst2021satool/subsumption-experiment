@@ -1,0 +1,8 @@
+{
+"Class" : "org.apache.commons.collections4.functors.TransformerClosure", 
+"Methods" : [{ "Name" : "transformerClosure" ,
+"Duas" : 3,
+"0" :  "(49,(49,50), transformer)",
+"1" :  "(49,(49,52), transformer)",
+"2" :  "(49,52, transformer)"}]
+}

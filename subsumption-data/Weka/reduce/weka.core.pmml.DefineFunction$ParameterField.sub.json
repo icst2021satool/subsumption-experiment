@@ -1,0 +1,9 @@
+{
+"Class" : "weka.core.pmml.DefineFunction$ParameterField", 
+"Methods" : [{ "Name" : "getFieldAsAttribute" ,
+"Duas" : "10" ,
+"Subsumers" : 2,
+"0" : [ 9, 6, 4, 3, 0], "S0" : [0, 3, 4, 6, 9 ],
+"1" : [ 8, 7, 5, 2, 1], "S1" : [1, 2, 5, 7, 8 ]
+}]
+}

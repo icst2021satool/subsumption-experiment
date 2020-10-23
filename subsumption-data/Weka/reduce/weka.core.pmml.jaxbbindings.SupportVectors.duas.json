@@ -1,0 +1,22 @@
+{
+"Class" : "weka.core.pmml.jaxbbindings.SupportVectors", 
+"Methods" : [{ "Name" : "getExtension" ,
+"Duas" : 8,
+"0" :  "(86,(86,87), this)",
+"1" :  "(86,(86,89), this)",
+"2" :  "(86,89, this)",
+"3" :  "(86,87, this)",
+"4" :  "(86,(86,87), this.extension)",
+"5" :  "(86,(86,89), this.extension)",
+"6" :  "(86,89, this.extension)",
+"7" :  "(87,89, this.extension)"},{ "Name" : "getSupportVector" ,
+"Duas" : 8,
+"0" :  "(115,(115,116), this)",
+"1" :  "(115,(115,118), this)",
+"2" :  "(115,118, this)",
+"3" :  "(115,116, this)",
+"4" :  "(115,(115,116), this.supportVector)",
+"5" :  "(115,(115,118), this.supportVector)",
+"6" :  "(115,118, this.supportVector)",
+"7" :  "(116,118, this.supportVector)"}]
+}

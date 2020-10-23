@@ -1,0 +1,10 @@
+{
+"Class" : "weka.knowledgeflow.steps.Sorter$SortComparator", 
+"Methods" : [{ "Name" : "compare" ,
+"Duas" : 5,
+"0" :  "(705,707, o1)",
+"1" :  "(705,707, o2)",
+"2" :  "(707,(708,709), cmp)",
+"3" :  "(707,(708,711), cmp)",
+"4" :  "(707,709, cmp)"}]
+}

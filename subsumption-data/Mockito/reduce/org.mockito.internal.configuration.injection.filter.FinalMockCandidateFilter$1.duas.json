@@ -1,0 +1,16 @@
+{
+"Class" : "org.mockito.internal.configuration.injection.filter.FinalMockCandidateFilter$1", 
+"Methods" : [{ "Name" : "thenInject" ,
+"Duas" : 11,
+"0" :  "(30,(30,31), this)",
+"1" :  "(30,(30,35), this)",
+"2" :  "(30,36, this)",
+"3" :  "(30,31, this)",
+"4" :  "(30,31, this)",
+"5" :  "(30,31, this.val$fieldInstance)",
+"6" :  "(30,31, this.val$field)",
+"7" :  "(30,(30,31), this.val$matchingMock)",
+"8" :  "(30,(30,35), this.val$matchingMock)",
+"9" :  "(30,36, this.val$matchingMock)",
+"10" :  "(30,31, this.val$matchingMock)"}]
+}

@@ -1,0 +1,14 @@
+{
+"Class" : "weka.gui.knowledgeflow.steps.DataGridStepEditorDialog$3", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Duas" : 9,
+"0" :  "(226,228, this)",
+"1" :  "(226,230, this)",
+"2" :  "(226,228, this.this$0)",
+"3" :  "(226,230, this.this$0)",
+"4" :  "(226,230, this.m_list)",
+"5" :  "(226,228, this.m_attTypeField)",
+"6" :  "(226,(227,228), a)",
+"7" :  "(226,(227,232), a)",
+"8" :  "(226,229, a)"}]
+}

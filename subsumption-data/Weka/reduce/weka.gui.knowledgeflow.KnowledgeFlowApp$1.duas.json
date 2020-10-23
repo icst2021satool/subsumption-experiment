@@ -1,0 +1,12 @@
+{
+"Class" : "weka.gui.knowledgeflow.KnowledgeFlowApp$1", 
+"Methods" : [{ "Name" : "run" ,
+"Duas" : 7,
+"0" :  "(316,318, this)",
+"1" :  "(316,(316,318), m_Memory)",
+"2" :  "(316,(316,316), m_Memory)",
+"3" :  "(316,324, m_Memory)",
+"4" :  "(316,318, this.val$jf)",
+"5" :  "(316,323, err)",
+"6" :  "(316,325, err)"}]
+}

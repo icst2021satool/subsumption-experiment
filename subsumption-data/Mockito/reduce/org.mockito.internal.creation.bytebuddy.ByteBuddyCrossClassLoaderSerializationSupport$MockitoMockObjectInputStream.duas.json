@@ -1,0 +1,17 @@
+{
+"Class" : "org.mockito.internal.creation.bytebuddy.ByteBuddyCrossClassLoaderSerializationSupport$MockitoMockObjectInputStream", 
+"Methods" : [{ "Name" : "resolveClass" ,
+"Duas" : 9,
+"0" :  "(272,(272,273), this)",
+"1" :  "(272,(272,280), this)",
+"2" :  "(272,281, this)",
+"3" :  "(272,283, this)",
+"4" :  "(272,273, this)",
+"5" :  "(272,283, desc)",
+"6" :  "(272,273, desc)",
+"7" :  "(272,281, this.typeToMock)",
+"8" :  "(272,281, this.extraInterfaces)"},{ "Name" : "notMarkedAsAMockitoMock" ,
+"Duas" : 2,
+"0" :  "(328,(328,328), marker)",
+"1" :  "(328,(328,328), marker)"}]
+}

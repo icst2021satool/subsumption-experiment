@@ -1,0 +1,19 @@
+{
+"Class" : "com.google.javascript.jscomp.InlineVariables", 
+"Methods" : [{ "Name" : "getFilterForMode" ,
+"Duas" : 14,
+"0" :  "(90,(90,98), this)",
+"1" :  "(90,(90,92), this)",
+"2" :  "(90,(90,94), this)",
+"3" :  "(90,(90,96), this)",
+"4" :  "(90,96, this)",
+"5" :  "(90,94, this)",
+"6" :  "(90,(90,98), $SwitchMap$com$google$javascript$jscomp$InlineVariables$Mode)",
+"7" :  "(90,(90,92), $SwitchMap$com$google$javascript$jscomp$InlineVariables$Mode)",
+"8" :  "(90,(90,94), $SwitchMap$com$google$javascript$jscomp$InlineVariables$Mode)",
+"9" :  "(90,(90,96), $SwitchMap$com$google$javascript$jscomp$InlineVariables$Mode)",
+"10" :  "(90,(90,98), this.mode)",
+"11" :  "(90,(90,92), this.mode)",
+"12" :  "(90,(90,94), this.mode)",
+"13" :  "(90,(90,96), this.mode)"}]
+}

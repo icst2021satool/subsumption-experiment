@@ -1,0 +1,23 @@
+{
+"Class" : "weka.gui.knowledgeflow.steps.ImageViewerInteractiveView$2", 
+"Methods" : [{ "Name" : "mouseClicked" ,
+"Duas" : 18,
+"0" :  "(115,117, this)",
+"1" :  "(115,119, this)",
+"2" :  "(115,121, this)",
+"3" :  "(115,122, this)",
+"4" :  "(115,117, this.this$0)",
+"5" :  "(115,119, this.this$0)",
+"6" :  "(115,121, this.this$0)",
+"7" :  "(115,122, this.this$0)",
+"8" :  "(115,117, this.m_history)",
+"9" :  "(115,119, this.m_history)",
+"10" :  "(115,121, this.m_plotter)",
+"11" :  "(115,122, this.m_plotter)",
+"12" :  "(115,(116,117), index)",
+"13" :  "(115,(116,125), index)",
+"14" :  "(115,117, index)",
+"15" :  "(119,(120,121), pic)",
+"16" :  "(119,(120,125), pic)",
+"17" :  "(119,121, pic)"}]
+}

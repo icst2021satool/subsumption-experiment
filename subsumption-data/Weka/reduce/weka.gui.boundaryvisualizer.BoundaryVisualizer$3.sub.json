@@ -1,0 +1,11 @@
+{
+"Class" : "weka.gui.boundaryvisualizer.BoundaryVisualizer$3", 
+"Methods" : [{ "Name" : "propertyChange" ,
+"Duas" : "17" ,
+"Subsumers" : 4,
+"0" : [ 15, 14, 13, 11, 6, 4], "S0" : [0, 2, 4, 6, 7, 9, 11, 13, 14, 15 ],
+"1" : [ 16, 12, 5], "S1" : [0, 2, 5, 7, 9, 12, 16 ],
+"2" : [ 10, 3], "S2" : [0, 3, 7, 10 ],
+"3" : [ 8, 1], "S3" : [1, 8 ]
+}]
+}

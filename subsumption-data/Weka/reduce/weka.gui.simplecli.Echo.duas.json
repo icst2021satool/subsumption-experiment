@@ -1,0 +1,9 @@
+{
+"Class" : "weka.gui.simplecli.Echo", 
+"Methods" : [{ "Name" : "doExecute" ,
+"Duas" : 4,
+"0" :  "(68,(68,69), params)",
+"1" :  "(68,(68,70), params)",
+"2" :  "(68,69, params)",
+"3" :  "(68,69, out)"}]
+}

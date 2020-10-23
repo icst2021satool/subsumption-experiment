@@ -1,0 +1,21 @@
+{
+"Class" : "weka.gui.beans.CostBenefitAnalysis$AnalysisPanel$3", 
+"Methods" : [{ "Name" : "focusLost" ,
+"Duas" : 16,
+"0" :  "(432,(432,434), this)",
+"1" :  "(432,(432,442), this)",
+"2" :  "(432,434, this)",
+"3" :  "(432,435, this)",
+"4" :  "(432,436, this)",
+"5" :  "(432,440, this)",
+"6" :  "(432,(432,434), this.this$0)",
+"7" :  "(432,(432,442), this.this$0)",
+"8" :  "(432,434, this.this$0)",
+"9" :  "(432,435, this.this$0)",
+"10" :  "(432,436, this.this$0)",
+"11" :  "(432,440, this.this$0)",
+"12" :  "(432,434, this.m_costBenefitPanel)",
+"13" :  "(432,435, this.m_costBenefitPanel)",
+"14" :  "(432,436, this.m_costBenefitPanel)",
+"15" :  "(432,434, this.m_costBenefit)"}]
+}

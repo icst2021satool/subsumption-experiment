@@ -1,0 +1,10 @@
+{
+"Class" : "weka.datagenerators.ClassificationGenerator", 
+"Methods" : [{ "Name" : "setOptions" ,
+"Duas" : 5,
+"0" :  "(82,88, this)",
+"1" :  "(82,86, this)",
+"2" :  "(84,(85,86), tmpStr)",
+"3" :  "(84,(85,88), tmpStr)",
+"4" :  "(84,86, tmpStr)"}]
+}

@@ -1,0 +1,13 @@
+{
+"Class" : "com.google.javascript.jscomp.NodeTraversal$AbstractNodeTypePruningCallback", 
+"Methods" : [{ "Name" : "shouldTraverse" ,
+"Duas" : 8,
+"0" :  "(214,(214,214), this)",
+"1" :  "(214,(214,214), this)",
+"2" :  "(214,(214,214), n)",
+"3" :  "(214,(214,214), n)",
+"4" :  "(214,(214,214), this.nodeTypes)",
+"5" :  "(214,(214,214), this.nodeTypes)",
+"6" :  "(214,(214,214), this.include)",
+"7" :  "(214,(214,214), this.include)"}]
+}

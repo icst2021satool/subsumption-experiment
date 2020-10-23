@@ -1,0 +1,19 @@
+{
+"Class" : "weka.gui.knowledgeflow.LayoutPanel$12", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Duas" : 14,
+"0" :  "(864,869, this)",
+"1" :  "(864,870, this)",
+"2" :  "(864,871, this)",
+"3" :  "(864,872, this)",
+"4" :  "(864,869, this.this$0)",
+"5" :  "(864,870, this.this$0)",
+"6" :  "(864,871, this.this$0)",
+"7" :  "(864,872, this.this$0)",
+"8" :  "(864,869, this.m_visLayout)",
+"9" :  "(864,870, this.m_visLayout)",
+"10" :  "(864,869, oldName)",
+"11" :  "(866,(868,869), name)",
+"12" :  "(866,(868,874), name)",
+"13" :  "(866,869, name)"}]
+}

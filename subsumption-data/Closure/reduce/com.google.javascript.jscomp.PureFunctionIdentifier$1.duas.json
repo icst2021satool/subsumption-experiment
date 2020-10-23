@@ -1,0 +1,11 @@
+{
+"Class" : "com.google.javascript.jscomp.PureFunctionIdentifier$1", 
+"Methods" : [{ "Name" : "apply" ,
+"Duas" : 6,
+"0" :  "(751,(751,771), value)",
+"1" :  "(751,(751,765), value)",
+"2" :  "(751,(751,769), value)",
+"3" :  "(751,(751,761), value)",
+"4" :  "(751,(751,757), value)",
+"5" :  "(751,(751,754), value)"}]
+}

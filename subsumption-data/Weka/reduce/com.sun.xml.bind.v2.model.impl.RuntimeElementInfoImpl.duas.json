@@ -1,0 +1,11 @@
+{
+"Class" : "com.sun.xml.bind.v2.model.impl.RuntimeElementInfoImpl", 
+"Methods" : [{ "Name" : "<init>" ,
+"Duas" : 6,
+"0" :  "(41,48, this)",
+"1" :  "(41,46, this)",
+"2" :  "(43,(45,46), a)",
+"3" :  "(43,(45,48), a)",
+"4" :  "(43,46, a)",
+"5" :  "(43,46, a.adapterType)"}]
+}

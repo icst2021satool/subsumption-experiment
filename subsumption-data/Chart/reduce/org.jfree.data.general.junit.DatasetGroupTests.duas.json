@@ -1,0 +1,9 @@
+{
+"Class" : "org.jfree.data.general.junit.DatasetGroupTests", 
+"Methods" : [{ "Name" : "suite" ,
+"Duas" : 4,
+"0" :  "(67,(67,67), class$org$jfree$data$general$junit$DatasetGroupTests)",
+"1" :  "(67,(67,67), class$org$jfree$data$general$junit$DatasetGroupTests)",
+"2" :  "(67,67, class$org$jfree$data$general$junit$DatasetGroupTests)",
+"3" :  "(67,67, class$org$jfree$data$general$junit$DatasetGroupTests)"}]
+}

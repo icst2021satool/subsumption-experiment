@@ -1,0 +1,14 @@
+{
+"Class" : "weka.gui.knowledgeflow.steps.DataGridStepEditorDialog$2", 
+"Methods" : [{ "Name" : "propertyChange" ,
+"Duas" : 9,
+"0" :  "(215,217, this)",
+"1" :  "(215,218, this)",
+"2" :  "(215,217, this.this$0)",
+"3" :  "(215,218, this.this$0)",
+"4" :  "(215,218, this.m_list)",
+"5" :  "(215,217, this.m_nominalOrDateFormatField)",
+"6" :  "(215,(216,217), a)",
+"7" :  "(215,(216,220), a)",
+"8" :  "(215,217, a)"}]
+}

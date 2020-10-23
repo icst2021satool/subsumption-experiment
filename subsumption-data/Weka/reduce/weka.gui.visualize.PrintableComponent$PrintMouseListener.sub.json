@@ -1,0 +1,11 @@
+{
+"Class" : "weka.gui.visualize.PrintableComponent$PrintMouseListener", 
+"Methods" : [{ "Name" : "mouseClicked" ,
+"Duas" : "9" ,
+"Subsumers" : 4,
+"0" : [ 7, 2, 1, 0], "S0" : [0, 1, 2, 3, 5, 7 ],
+"1" : [ 8], "S1" : [3, 5, 8 ],
+"2" : [ 6], "S2" : [3, 6 ],
+"3" : [ 4], "S3" : [4 ]
+}]
+}

@@ -1,0 +1,13 @@
+{
+"Class" : "weka.gui.knowledgeflow.SQLViewerPerspective$2", 
+"Methods" : [{ "Name" : "connectionChange" ,
+"Duas" : 8,
+"0" :  "(94,97, this)",
+"1" :  "(94,95, this)",
+"2" :  "(94,(94,95), evt)",
+"3" :  "(94,(94,97), evt)",
+"4" :  "(94,97, this.this$0)",
+"5" :  "(94,95, this.this$0)",
+"6" :  "(94,97, this.m_newFlowBut)",
+"7" :  "(94,95, this.m_newFlowBut)"}]
+}

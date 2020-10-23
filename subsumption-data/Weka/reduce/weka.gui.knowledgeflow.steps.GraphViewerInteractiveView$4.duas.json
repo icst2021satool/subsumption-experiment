@@ -1,0 +1,23 @@
+{
+"Class" : "weka.gui.knowledgeflow.steps.GraphViewerInteractiveView$4", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Duas" : 18,
+"0" :  "(239,(241,241), this)",
+"1" :  "(239,(241,242), this)",
+"2" :  "(239,242, this)",
+"3" :  "(239,244, this)",
+"4" :  "(239,(241,242), this)",
+"5" :  "(239,(241,246), this)",
+"6" :  "(239,(241,241), this.this$0)",
+"7" :  "(239,(241,242), this.this$0)",
+"8" :  "(239,242, this.this$0)",
+"9" :  "(239,244, this.this$0)",
+"10" :  "(239,(241,242), this.this$0)",
+"11" :  "(239,(241,246), this.this$0)",
+"12" :  "(239,(241,241), this.m_treeVisualizer)",
+"13" :  "(239,(241,242), this.m_treeVisualizer)",
+"14" :  "(239,(241,242), this.m_graphVisualizer)",
+"15" :  "(239,(241,246), this.m_graphVisualizer)",
+"16" :  "(239,242, this.m_splitPane)",
+"17" :  "(239,242, this.m_holderPanel)"}]
+}

@@ -1,0 +1,11 @@
+{
+"Class" : "com.google.javascript.jscomp.TypeInference$TemplateTypeReplacer", 
+"Methods" : [{ "Name" : "caseTemplateType" ,
+"Duas" : 6,
+"0" :  "(1166,1168, this)",
+"1" :  "(1166,1168, this.registry)",
+"2" :  "(1166,1168, UNKNOWN_TYPE)",
+"3" :  "(1167,(1168,1168), replacement)",
+"4" :  "(1167,(1168,1168), replacement)",
+"5" :  "(1167,1168, replacement)"}]
+}

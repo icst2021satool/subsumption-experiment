@@ -1,0 +1,21 @@
+{
+"Class" : "com.google.javascript.jscomp.ClosureCodingConvention$AssertInstanceofSpec", 
+"Methods" : [{ "Name" : "getAssertedType" ,
+"Duas" : 16,
+"0" :  "(453,465, this)",
+"1" :  "(453,(453,454), call)",
+"2" :  "(453,(453,465), call)",
+"3" :  "(453,465, call)",
+"4" :  "(453,454, call)",
+"5" :  "(453,465, registry)",
+"6" :  "(454,(455,456), constructor)",
+"7" :  "(454,(455,465), constructor)",
+"8" :  "(454,456, constructor)",
+"9" :  "(456,(457,457), ownerType)",
+"10" :  "(456,(457,465), ownerType)",
+"11" :  "(456,(457,457), ownerType)",
+"12" :  "(456,(457,465), ownerType)",
+"13" :  "(456,(457,460), ownerType)",
+"14" :  "(456,(457,465), ownerType)",
+"15" :  "(456,460, ownerType)"}]
+}

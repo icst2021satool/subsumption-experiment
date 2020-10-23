@@ -1,0 +1,13 @@
+{
+"Class" : "weka.gui.beans.EnvironmentField$WideComboBox", 
+"Methods" : [{ "Name" : "getSize" ,
+"Duas" : 8,
+"0" :  "(130,(131,132), this)",
+"1" :  "(130,(131,134), this)",
+"2" :  "(130,132, this)",
+"3" :  "(130,(131,132), this.m_layingOut)",
+"4" :  "(130,(131,134), this.m_layingOut)",
+"5" :  "(130,134, dim)",
+"6" :  "(130,132, dim)",
+"7" :  "(130,132, dim.width)"}]
+}

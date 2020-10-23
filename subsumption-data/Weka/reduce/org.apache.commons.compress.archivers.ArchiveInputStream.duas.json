@@ -1,0 +1,15 @@
+{
+"Class" : "org.apache.commons.compress.archivers.ArchiveInputStream", 
+"Methods" : [{ "Name" : "read" ,
+"Duas" : 4,
+"0" :  "(81,82, this)",
+"1" :  "(81,82, this.single)",
+"2" :  "(81,(82,82), num)",
+"3" :  "(81,(82,82), num)"},{ "Name" : "count" ,
+"Duas" : 5,
+"0" :  "(103,104, this)",
+"1" :  "(103,(103,104), read)",
+"2" :  "(103,(103,106), read)",
+"3" :  "(103,104, read)",
+"4" :  "(103,104, this.bytesRead)"}]
+}

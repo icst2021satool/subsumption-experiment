@@ -1,0 +1,9 @@
+{
+"Class" : "org.apache.commons.collections4.bidimap.DualTreeBidiMap$ViewMap", 
+"Methods" : [{ "Name" : "clear" ,
+"Duas" : 4,
+"0" :  "(248,(248,249), it)",
+"1" :  "(248,(248,252), it)",
+"2" :  "(248,249, it)",
+"3" :  "(248,250, it)"}]
+}

@@ -1,0 +1,9 @@
+{
+"Class" : "com.sun.xml.bind.v2.runtime.ArrayBeanInfoImpl$ArrayLoader", 
+"Methods" : [{ "Name" : "childElement" ,
+"Duas" : "10" ,
+"Subsumers" : 2,
+"0" : [ 8, 7, 3, 0], "S0" : [0, 3, 7, 8 ],
+"1" : [ 9, 6, 4, 5, 1, 2], "S1" : [1, 2, 4, 5, 6, 9 ]
+}]
+}

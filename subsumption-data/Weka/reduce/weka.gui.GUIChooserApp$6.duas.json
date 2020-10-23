@@ -1,0 +1,20 @@
+{
+"Class" : "weka.gui.GUIChooserApp$6", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Duas" : 15,
+"0" :  "(501,507, this)",
+"1" :  "(501,534, this)",
+"2" :  "(501,537, this)",
+"3" :  "(501,547, this)",
+"4" :  "(501,549, this)",
+"5" :  "(501,507, this.this$0)",
+"6" :  "(501,534, this.this$0)",
+"7" :  "(501,547, this.this$0)",
+"8" :  "(501,549, this.this$0)",
+"9" :  "(501,507, this.m_FileChooserROC)",
+"10" :  "(501,534, this.m_Self)",
+"11" :  "(501,547, this.m_Self)",
+"12" :  "(501,549, this.m_Frames)",
+"13" :  "(501,(502,503), retVal)",
+"14" :  "(501,(502,507), retVal)"}]
+}

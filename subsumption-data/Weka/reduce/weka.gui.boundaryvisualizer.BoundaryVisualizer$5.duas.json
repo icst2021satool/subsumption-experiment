@@ -1,0 +1,21 @@
+{
+"Class" : "weka.gui.boundaryvisualizer.BoundaryVisualizer$5", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Duas" : 16,
+"0" :  "(662,(664,665), this)",
+"1" :  "(662,(664,667), this)",
+"2" :  "(662,(667,668), this)",
+"3" :  "(662,(667,670), this)",
+"4" :  "(662,668, this)",
+"5" :  "(662,665, this)",
+"6" :  "(662,(664,665), this.this$0)",
+"7" :  "(662,(664,667), this.this$0)",
+"8" :  "(662,(667,668), this.this$0)",
+"9" :  "(662,(667,670), this.this$0)",
+"10" :  "(662,668, this.this$0)",
+"11" :  "(662,665, this.this$0)",
+"12" :  "(662,670, newTrainingData)",
+"13" :  "(663,670, newClassifier)",
+"14" :  "(665,670, newTrainingData)",
+"15" :  "(668,670, newClassifier)"}]
+}

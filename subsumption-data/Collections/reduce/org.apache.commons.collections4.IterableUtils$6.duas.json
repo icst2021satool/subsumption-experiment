@@ -1,0 +1,11 @@
+{
+"Class" : "org.apache.commons.collections4.IterableUtils$6", 
+"Methods" : [{ "Name" : "iterator" ,
+"Duas" : 6,
+"0" :  "(297,(297,297), this)",
+"1" :  "(297,(297,297), this)",
+"2" :  "(297,299, this)",
+"3" :  "(297,(297,297), this.val$iterable)",
+"4" :  "(297,(297,297), this.val$iterable)",
+"5" :  "(297,299, this.val$iterable)"}]
+}

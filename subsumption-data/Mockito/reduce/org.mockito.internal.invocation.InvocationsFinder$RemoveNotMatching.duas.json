@@ -1,0 +1,11 @@
+{
+"Class" : "org.mockito.internal.invocation.InvocationsFinder$RemoveNotMatching", 
+"Methods" : [{ "Name" : "isOut" ,
+"Duas" : 6,
+"0" :  "(145,(145,145), this)",
+"1" :  "(145,(145,145), this)",
+"2" :  "(145,(145,145), invocation)",
+"3" :  "(145,(145,145), invocation)",
+"4" :  "(145,(145,145), this.wanted)",
+"5" :  "(145,(145,145), this.wanted)"}]
+}

@@ -1,0 +1,10 @@
+{
+"Class" : "org.jfree.chart.demo.TimeSeriesChartDemo1", 
+"Methods" : [{ "Name" : "createChart" ,
+"Duas" : 5,
+"0" :  "(94,119, chart)",
+"1" :  "(100,116, plot)",
+"2" :  "(108,(109,110), r)",
+"3" :  "(108,(109,116), r)",
+"4" :  "(108,110, r)"}]
+}

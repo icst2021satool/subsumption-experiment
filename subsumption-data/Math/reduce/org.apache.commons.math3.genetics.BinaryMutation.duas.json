@@ -1,0 +1,17 @@
+{
+"Class" : "org.apache.commons.math3.genetics.BinaryMutation", 
+"Methods" : [{ "Name" : "mutate" ,
+"Duas" : 12,
+"0" :  "(41,(41,42), original)",
+"1" :  "(41,(41,45), original)",
+"2" :  "(41,45, original)",
+"3" :  "(41,42, INVALID_BINARY_CHROMOSOME)",
+"4" :  "(45,(51,51), origChrom)",
+"5" :  "(45,(51,51), origChrom)",
+"6" :  "(45,53, origChrom)",
+"7" :  "(46,51, newRepr)",
+"8" :  "(46,53, newRepr)",
+"9" :  "(49,(51,51), geneIndex)",
+"10" :  "(49,(51,51), geneIndex)",
+"11" :  "(49,51, geneIndex)"}]
+}

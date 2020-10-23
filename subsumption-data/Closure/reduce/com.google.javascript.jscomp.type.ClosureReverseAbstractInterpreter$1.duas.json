@@ -1,0 +1,10 @@
+{
+"Class" : "com.google.javascript.jscomp.type.ClosureReverseAbstractInterpreter$1", 
+"Methods" : [{ "Name" : "caseObjectType" ,
+"Duas" : 5,
+"0" :  "(61,(62,62), type)",
+"1" :  "(61,(62,62), type)",
+"2" :  "(61,(62,62), arrayType)",
+"3" :  "(61,(62,62), arrayType)",
+"4" :  "(61,62, arrayType)"}]
+}

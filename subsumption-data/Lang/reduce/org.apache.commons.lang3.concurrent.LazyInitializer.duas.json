@@ -1,0 +1,18 @@
+{
+"Class" : "org.apache.commons.lang3.concurrent.LazyInitializer", 
+"Methods" : [{ "Name" : "get" ,
+"Duas" : 13,
+"0" :  "(95,98, this)",
+"1" :  "(95,98, this)",
+"2" :  "(95,99, this)",
+"3" :  "(95,101, this)",
+"4" :  "(95,101, this)",
+"5" :  "(95,99, this.object)",
+"6" :  "(95,(97,98), result)",
+"7" :  "(95,(97,106), result)",
+"8" :  "(95,106, result)",
+"9" :  "(99,(100,101), result)",
+"10" :  "(99,(100,103), result)",
+"11" :  "(99,106, result)",
+"12" :  "(101,106, result)"}]
+}

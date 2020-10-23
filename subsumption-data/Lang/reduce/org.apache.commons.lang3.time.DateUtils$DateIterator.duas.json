@@ -1,0 +1,15 @@
+{
+"Class" : "org.apache.commons.lang3.time.DateUtils$DateIterator", 
+"Methods" : [{ "Name" : "next" ,
+"Duas" : 10,
+"0" :  "(1869,(1869,1870), this)",
+"1" :  "(1869,(1869,1872), this)",
+"2" :  "(1869,1872, this)",
+"3" :  "(1869,1873, this)",
+"4" :  "(1869,(1869,1870), this.spot)",
+"5" :  "(1869,(1869,1872), this.spot)",
+"6" :  "(1869,1872, this.spot)",
+"7" :  "(1869,1873, this.spot)",
+"8" :  "(1869,(1869,1870), this.endFinal)",
+"9" :  "(1869,(1869,1872), this.endFinal)"}]
+}

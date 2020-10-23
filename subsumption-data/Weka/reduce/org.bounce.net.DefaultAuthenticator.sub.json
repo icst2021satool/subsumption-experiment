@@ -1,0 +1,8 @@
+{
+"Class" : "org.bounce.net.DefaultAuthenticator", 
+"Methods" : [{ "Name" : "getDialog" ,
+"Duas" : "10" ,
+"Subsumers" : 1,
+"0" : [ 6, 7, 8, 9, 2, 3, 4, 5, 0, 1], "S0" : [0, 1, 2, 3, 4, 5, 6, 7, 8, 9 ]
+}]
+}

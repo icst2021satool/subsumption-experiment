@@ -1,0 +1,12 @@
+{
+"Class" : "weka.knowledgeflow.DefaultCallbackNotifierDelegate", 
+"Methods" : [{ "Name" : "notifyCallback" ,
+"Duas" : 7,
+"0" :  "(47,50, callback)",
+"1" :  "(47,48, callback)",
+"2" :  "(47,50, taskExecuted)",
+"3" :  "(47,(47,48), result)",
+"4" :  "(47,(47,50), result)",
+"5" :  "(47,50, result)",
+"6" :  "(47,48, result)"}]
+}

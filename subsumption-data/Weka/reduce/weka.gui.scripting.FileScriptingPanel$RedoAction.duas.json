@@ -1,0 +1,17 @@
+{
+"Class" : "weka.gui.scripting.FileScriptingPanel$RedoAction", 
+"Methods" : [{ "Name" : "updateRedoState" ,
+"Duas" : 12,
+"0" :  "(492,(492,493), this)",
+"1" :  "(492,(492,497), this)",
+"2" :  "(492,497, this)",
+"3" :  "(492,498, this)",
+"4" :  "(492,493, this)",
+"5" :  "(492,494, this)",
+"6" :  "(492,(492,493), this.this$0)",
+"7" :  "(492,(492,497), this.this$0)",
+"8" :  "(492,494, this.this$0)",
+"9" :  "(492,(492,493), this.m_Undo)",
+"10" :  "(492,(492,497), this.m_Undo)",
+"11" :  "(492,494, this.m_Undo)"}]
+}

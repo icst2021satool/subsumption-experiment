@@ -1,0 +1,9 @@
+{
+"Class" : "com.fasterxml.jackson.databind.ser.std.NumberSerializers$ShortSerializer", 
+"Methods" : [{ "Name" : "acceptJsonFormatVisitor" ,
+"Duas" : 4,
+"0" :  "(73,75, INT)",
+"1" :  "(73,(74,75), v2)",
+"2" :  "(73,(74,77), v2)",
+"3" :  "(73,75, v2)"}]
+}

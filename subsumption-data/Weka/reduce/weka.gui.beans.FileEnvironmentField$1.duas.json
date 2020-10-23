@@ -1,0 +1,10 @@
+{
+"Class" : "weka.gui.beans.FileEnvironmentField$1", 
+"Methods" : [{ "Name" : "propertyChange" ,
+"Duas" : 5,
+"0" :  "(134,136, this)",
+"1" :  "(134,136, this.this$0)",
+"2" :  "(134,(135,136), selected)",
+"3" :  "(134,(135,138), selected)",
+"4" :  "(134,136, selected)"}]
+}

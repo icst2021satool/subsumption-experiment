@@ -1,0 +1,12 @@
+{
+"Class" : "weka.experiment.RemoteEngine$1", 
+"Methods" : [{ "Name" : "run" ,
+"Duas" : 7,
+"0" :  "(91,(95,96), this)",
+"1" :  "(91,(95,98), this)",
+"2" :  "(91,96, this)",
+"3" :  "(91,(95,96), this.this$0)",
+"4" :  "(91,(95,98), this.this$0)",
+"5" :  "(91,96, this.this$0)",
+"6" :  "(91,98, err)"}]
+}

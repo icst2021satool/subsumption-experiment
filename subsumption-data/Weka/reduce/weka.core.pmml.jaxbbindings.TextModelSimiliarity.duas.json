@@ -1,0 +1,13 @@
+{
+"Class" : "weka.core.pmml.jaxbbindings.TextModelSimiliarity", 
+"Methods" : [{ "Name" : "getExtension" ,
+"Duas" : 8,
+"0" :  "(85,(85,86), this)",
+"1" :  "(85,(85,88), this)",
+"2" :  "(85,88, this)",
+"3" :  "(85,86, this)",
+"4" :  "(85,(85,86), this.extension)",
+"5" :  "(85,(85,88), this.extension)",
+"6" :  "(85,88, this.extension)",
+"7" :  "(86,88, this.extension)"}]
+}

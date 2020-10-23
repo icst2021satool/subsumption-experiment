@@ -1,0 +1,18 @@
+{
+"Class" : "weka.classifiers.pmml.consumer.TreeModel$SimpleSetPredicate$BooleanOperator$2", 
+"Methods" : [{ "Name" : "evaluate" ,
+"Duas" : 13,
+"0" :  "(722,(724,725), FALSE)",
+"1" :  "(722,(724,726), FALSE)",
+"2" :  "(722,727, FALSE)",
+"3" :  "(722,(726,727), TRUE)",
+"4" :  "(722,(726,730), TRUE)",
+"5" :  "(722,725, TRUE)",
+"6" :  "(722,(724,725), result)",
+"7" :  "(722,(724,726), result)",
+"8" :  "(722,(726,727), result)",
+"9" :  "(722,(726,730), result)",
+"10" :  "(722,730, result)",
+"11" :  "(725,730, result)",
+"12" :  "(727,730, result)"}]
+}

@@ -1,0 +1,9 @@
+{
+"Class" : "weka.gui.knowledgeflow.steps.TextViewerInteractiveView$6", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Duas" : 4,
+"0" :  "(261,264, saveOut)",
+"1" :  "(262,(263,264), sb)",
+"2" :  "(262,(263,266), sb)",
+"3" :  "(262,264, sb)"}]
+}

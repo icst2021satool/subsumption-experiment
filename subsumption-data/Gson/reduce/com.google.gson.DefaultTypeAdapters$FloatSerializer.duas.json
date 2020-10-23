@@ -1,0 +1,15 @@
+{
+"Class" : "com.google.gson.DefaultTypeAdapters$FloatSerializer", 
+"Methods" : [{ "Name" : "serialize" ,
+"Duas" : 10,
+"0" :  "(768,(768,769), this)",
+"1" :  "(768,(768,775), this)",
+"2" :  "(768,775, src)",
+"3" :  "(768,(769,769), src)",
+"4" :  "(768,(769,770), src)",
+"5" :  "(768,770, src)",
+"6" :  "(768,(769,770), src)",
+"7" :  "(768,(769,775), src)",
+"8" :  "(768,(768,769), this.serializeSpecialFloatingPointValues)",
+"9" :  "(768,(768,775), this.serializeSpecialFloatingPointValues)"}]
+}

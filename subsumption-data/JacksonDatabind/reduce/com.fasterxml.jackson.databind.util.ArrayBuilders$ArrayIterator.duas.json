@@ -1,0 +1,22 @@
+{
+"Class" : "com.fasterxml.jackson.databind.util.ArrayBuilders$ArrayIterator", 
+"Methods" : [{ "Name" : "hasNext" ,
+"Duas" : 6,
+"0" :  "(336,(336,336), this)",
+"1" :  "(336,(336,336), this)",
+"2" :  "(336,(336,336), this._array)",
+"3" :  "(336,(336,336), this._array)",
+"4" :  "(336,(336,336), this._index)",
+"5" :  "(336,(336,336), this._index)"},{ "Name" : "next" ,
+"Duas" : 10,
+"0" :  "(342,(342,343), this)",
+"1" :  "(342,(342,345), this)",
+"2" :  "(342,345, this)",
+"3" :  "(342,345, this)",
+"4" :  "(342,(342,343), this._array)",
+"5" :  "(342,(342,345), this._array)",
+"6" :  "(342,345, this._array)",
+"7" :  "(342,(342,343), this._index)",
+"8" :  "(342,(342,345), this._index)",
+"9" :  "(342,345, this._index)"}]
+}

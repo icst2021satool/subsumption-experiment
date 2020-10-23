@@ -1,0 +1,10 @@
+{
+"Class" : "weka.core.stopwords.WordsFromFile", 
+"Methods" : [{ "Name" : "initialize" ,
+"Duas" : 5,
+"0" :  "(88,95, this)",
+"1" :  "(90,95, this.m_Words)",
+"2" :  "(92,(94,95), word)",
+"3" :  "(92,(94,96), word)",
+"4" :  "(92,95, word)"}]
+}

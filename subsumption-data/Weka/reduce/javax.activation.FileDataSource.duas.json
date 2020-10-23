@@ -1,0 +1,14 @@
+{
+"Class" : "javax.activation.FileDataSource", 
+"Methods" : [{ "Name" : "getContentType" ,
+"Duas" : 9,
+"0" :  "(108,(108,109), this)",
+"1" :  "(108,(108,111), this)",
+"2" :  "(108,111, this)",
+"3" :  "(108,109, this)",
+"4" :  "(108,(108,109), this.typeMap)",
+"5" :  "(108,(108,111), this.typeMap)",
+"6" :  "(108,111, this.typeMap)",
+"7" :  "(108,111, this._file)",
+"8" :  "(108,109, this._file)"}]
+}

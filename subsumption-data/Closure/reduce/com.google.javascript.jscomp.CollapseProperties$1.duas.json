@@ -1,0 +1,14 @@
+{
+"Class" : "com.google.javascript.jscomp.CollapseProperties$1", 
+"Methods" : [{ "Name" : "visit" ,
+"Duas" : 9,
+"0" :  "(741,742, this)",
+"1" :  "(741,742, this)",
+"2" :  "(741,(741,742), n)",
+"3" :  "(741,(741,746), n)",
+"4" :  "(741,742, n)",
+"5" :  "(741,742, this.val$name)",
+"6" :  "(741,742, this.val$name)",
+"7" :  "(741,742, this.this$0)",
+"8" :  "(741,742, UNSAFE_THIS)"}]
+}

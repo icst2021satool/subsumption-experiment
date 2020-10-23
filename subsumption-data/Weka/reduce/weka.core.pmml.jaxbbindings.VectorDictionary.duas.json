@@ -1,0 +1,22 @@
+{
+"Class" : "weka.core.pmml.jaxbbindings.VectorDictionary", 
+"Methods" : [{ "Name" : "getExtension" ,
+"Duas" : 8,
+"0" :  "(87,(87,88), this)",
+"1" :  "(87,(87,90), this)",
+"2" :  "(87,90, this)",
+"3" :  "(87,88, this)",
+"4" :  "(87,(87,88), this.extension)",
+"5" :  "(87,(87,90), this.extension)",
+"6" :  "(87,90, this.extension)",
+"7" :  "(88,90, this.extension)"},{ "Name" : "getVectorInstance" ,
+"Duas" : 8,
+"0" :  "(140,(140,141), this)",
+"1" :  "(140,(140,143), this)",
+"2" :  "(140,143, this)",
+"3" :  "(140,141, this)",
+"4" :  "(140,(140,141), this.vectorInstance)",
+"5" :  "(140,(140,143), this.vectorInstance)",
+"6" :  "(140,143, this.vectorInstance)",
+"7" :  "(141,143, this.vectorInstance)"}]
+}

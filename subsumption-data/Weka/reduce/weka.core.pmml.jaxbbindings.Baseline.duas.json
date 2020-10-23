@@ -1,0 +1,22 @@
+{
+"Class" : "weka.core.pmml.jaxbbindings.Baseline", 
+"Methods" : [{ "Name" : "getExtension" ,
+"Duas" : 8,
+"0" :  "(192,(192,193), this)",
+"1" :  "(192,(192,195), this)",
+"2" :  "(192,195, this)",
+"3" :  "(192,193, this)",
+"4" :  "(192,(192,193), this.extension)",
+"5" :  "(192,(192,195), this.extension)",
+"6" :  "(192,195, this.extension)",
+"7" :  "(193,195, this.extension)"},{ "Name" : "getFieldRef" ,
+"Duas" : 8,
+"0" :  "(269,(269,270), this)",
+"1" :  "(269,(269,272), this)",
+"2" :  "(269,272, this)",
+"3" :  "(269,270, this)",
+"4" :  "(269,(269,270), this.fieldRef)",
+"5" :  "(269,(269,272), this.fieldRef)",
+"6" :  "(269,272, this.fieldRef)",
+"7" :  "(270,272, this.fieldRef)"}]
+}

@@ -1,0 +1,9 @@
+{
+"Class" : "com.fasterxml.jackson.core.sym.Name", 
+"Methods" : [{ "Name" : "equals" ,
+"Duas" : 4,
+"0" :  "(48,(48,48), this)",
+"1" :  "(48,(48,48), this)",
+"2" :  "(48,(48,48), o)",
+"3" :  "(48,(48,48), o)"}]
+}

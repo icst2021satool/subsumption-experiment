@@ -1,0 +1,15 @@
+{
+"Class" : "org.apache.commons.math3.fitting.CurveFitter$TheoreticalValuesFunction$2", 
+"Methods" : [{ "Name" : "value" ,
+"Duas" : 10,
+"0" :  "(223,226, this)",
+"1" :  "(223,226, point)",
+"2" :  "(223,226, this.this$1)",
+"3" :  "(223,228, jacobian)",
+"4" :  "(223,226, jacobian)",
+"5" :  "(224,226, i)",
+"6" :  "(225,(225,225), i$)",
+"7" :  "(225,(225,228), i$)",
+"8" :  "(225,225, i$)",
+"9" :  "(226,226, i)"}]
+}

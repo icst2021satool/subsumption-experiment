@@ -1,0 +1,11 @@
+{
+"Class" : "com.google.debugging.sourcemap.SourceMapConsumerV3$StringCharIterator", 
+"Methods" : [{ "Name" : "hasNext" ,
+"Duas" : 6,
+"0" :  "(569,(569,569), this)",
+"1" :  "(569,(569,569), this)",
+"2" :  "(569,(569,569), this.length)",
+"3" :  "(569,(569,569), this.length)",
+"4" :  "(569,(569,569), this.current)",
+"5" :  "(569,(569,569), this.current)"}]
+}

@@ -1,0 +1,7 @@
+{
+"Class" : "org.mockito.internal.creation.bytebuddy.ByteBuddyCrossClassLoaderSerializationSupport$MockitoMockObjectOutputStream", 
+"Methods" : [{ "Name" : "mockitoProxyClassMarker" ,
+"Duas" : 2,
+"0" :  "(370,(370,371), cl)",
+"1" :  "(370,(370,373), cl)"}]
+}

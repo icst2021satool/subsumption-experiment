@@ -1,0 +1,9 @@
+{
+"Class" : "com.sun.istack.localization.NullLocalizable", 
+"Methods" : [{ "Name" : "<init>" ,
+"Duas" : 4,
+"0" :  "(24,27, this)",
+"1" :  "(24,(25,26), msg)",
+"2" :  "(24,(25,27), msg)",
+"3" :  "(24,27, msg)"}]
+}

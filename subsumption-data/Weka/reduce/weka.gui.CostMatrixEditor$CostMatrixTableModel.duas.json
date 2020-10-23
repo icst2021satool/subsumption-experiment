@@ -1,0 +1,20 @@
+{
+"Class" : "weka.gui.CostMatrixEditor$CostMatrixTableModel", 
+"Methods" : [{ "Name" : "setValueAt" ,
+"Duas" : 15,
+"0" :  "(148,155, this)",
+"1" :  "(148,157, this)",
+"2" :  "(148,153, this)",
+"3" :  "(148,153, aValue)",
+"4" :  "(148,155, rowIndex)",
+"5" :  "(148,157, rowIndex)",
+"6" :  "(148,153, rowIndex)",
+"7" :  "(148,155, columnIndex)",
+"8" :  "(148,157, columnIndex)",
+"9" :  "(148,153, columnIndex)",
+"10" :  "(148,155, this.this$0)",
+"11" :  "(148,153, this.this$0)",
+"12" :  "(148,(152,153), val)",
+"13" :  "(148,(152,155), val)",
+"14" :  "(148,155, val)"}]
+}

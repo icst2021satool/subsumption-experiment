@@ -1,0 +1,23 @@
+{
+"Class" : "weka.gui.CloseableTabTitle", 
+"Methods" : [{ "Name" : "<init>" ,
+"Duas" : 18,
+"0" :  "(90,95, this)",
+"1" :  "(90,96, this)",
+"2" :  "(90,97, this)",
+"3" :  "(90,100, this)",
+"4" :  "(90,100, this)",
+"5" :  "(90,114, this)",
+"6" :  "(90,115, this)",
+"7" :  "(90,116, this)",
+"8" :  "(90,116, this)",
+"9" :  "(90,117, this)",
+"10" :  "(90,118, this)",
+"11" :  "(90,119, this)",
+"12" :  "(90,93, this)",
+"13" :  "(90,95, pane)",
+"14" :  "(90,(92,93), closeAccelleratorText)",
+"15" :  "(90,(92,95), closeAccelleratorText)",
+"16" :  "(90,93, closeAccelleratorText)",
+"17" :  "(90,118, callback)"}]
+}

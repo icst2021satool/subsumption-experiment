@@ -1,0 +1,11 @@
+{
+"Class" : "com.google.javascript.jscomp.TightenTypes$PropertyAssignAction", 
+"Methods" : [{ "Name" : "getAssignments" ,
+"Duas" : 6,
+"0" :  "(381,386, exprType)",
+"1" :  "(383,388, assigns)",
+"2" :  "(383,386, assigns)",
+"3" :  "(385,(385,385), i$)",
+"4" :  "(385,(385,388), i$)",
+"5" :  "(385,385, i$)"}]
+}

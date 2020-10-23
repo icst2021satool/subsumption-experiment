@@ -1,0 +1,19 @@
+{
+"Class" : "weka.classifiers.trees.j48.InfoGainSplitCrit", 
+"Methods" : [{ "Name" : "splitCritValue" ,
+"Duas" : 4,
+"0" :  "(47,56, bags)",
+"1" :  "(47,(50,51), numerator)",
+"2" :  "(47,(50,56), numerator)",
+"3" :  "(47,56, numerator)"},{ "Name" : "splitCritValue" ,
+"Duas" : 4,
+"0" :  "(71,81, bags)",
+"1" :  "(74,(77,78), numerator)",
+"2" :  "(74,(77,81), numerator)",
+"3" :  "(74,81, numerator)"},{ "Name" : "splitCritValue" ,
+"Duas" : 4,
+"0" :  "(97,107, bags)",
+"1" :  "(100,(103,104), numerator)",
+"2" :  "(100,(103,107), numerator)",
+"3" :  "(100,107, numerator)"}]
+}

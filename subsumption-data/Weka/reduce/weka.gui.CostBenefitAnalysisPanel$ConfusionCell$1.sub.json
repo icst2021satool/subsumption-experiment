@@ -1,0 +1,9 @@
+{
+"Class" : "weka.gui.CostBenefitAnalysisPanel$ConfusionCell$1", 
+"Methods" : [{ "Name" : "paintComponent" ,
+"Duas" : "14" ,
+"Subsumers" : 2,
+"0" : [ 13, 12, 10, 9, 7, 5, 6, 2, 3, 4, 0], "S0" : [0, 2, 3, 4, 5, 6, 7, 9, 10, 12, 13 ],
+"1" : [ 11, 8, 1], "S1" : [1, 8, 11 ]
+}]
+}

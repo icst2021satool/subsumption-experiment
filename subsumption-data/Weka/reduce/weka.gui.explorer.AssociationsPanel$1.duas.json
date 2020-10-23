@@ -1,0 +1,10 @@
+{
+"Class" : "weka.gui.explorer.AssociationsPanel$1", 
+"Methods" : [{ "Name" : "mouseClicked" ,
+"Duas" : 5,
+"0" :  "(160,161, this)",
+"1" :  "(160,(160,161), e)",
+"2" :  "(160,(160,163), e)",
+"3" :  "(160,161, this.this$0)",
+"4" :  "(160,161, this.m_OutText)"}]
+}

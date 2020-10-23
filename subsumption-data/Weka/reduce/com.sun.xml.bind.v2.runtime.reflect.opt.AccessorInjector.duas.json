@@ -1,0 +1,19 @@
+{
+"Class" : "com.sun.xml.bind.v2.runtime.reflect.opt.AccessorInjector", 
+"Methods" : [{ "Name" : "tailor" ,
+"Duas" : 14,
+"0" :  "(49,52, templateClassName)",
+"1" :  "(49,56, templateClassName)",
+"2" :  "(49,50, templateClassName)",
+"3" :  "(49,56, newClassName)",
+"4" :  "(49,56, replacements)",
+"5" :  "(49,(49,50), CLASS_LOADER)",
+"6" :  "(49,(49,52), CLASS_LOADER)",
+"7" :  "(49,50, CLASS_LOADER)",
+"8" :  "(50,(53,54), resource)",
+"9" :  "(50,(53,56), resource)",
+"10" :  "(50,56, resource)",
+"11" :  "(52,(53,54), resource)",
+"12" :  "(52,(53,56), resource)",
+"13" :  "(52,56, resource)"}]
+}

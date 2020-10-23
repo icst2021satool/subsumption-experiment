@@ -1,0 +1,15 @@
+{
+"Class" : "com.sun.xml.bind.v2.model.impl.ArrayInfoImpl", 
+"Methods" : [{ "Name" : "<init>" ,
+"Duas" : 10,
+"0" :  "(44,55, this)",
+"1" :  "(44,52, this)",
+"2" :  "(44,51, this)",
+"3" :  "(44,51, builder)",
+"4" :  "(44,51, ANONYMOUS_ARRAY_ITEM)",
+"5" :  "(46,52, componentType)",
+"6" :  "(49,(50,51), n)",
+"7" :  "(49,(50,55), n)",
+"8" :  "(49,55, n)",
+"9" :  "(53,55, n)"}]
+}

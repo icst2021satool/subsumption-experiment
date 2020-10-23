@@ -1,0 +1,21 @@
+{
+"Class" : "javax.activation.FileTypeMap", 
+"Methods" : [{ "Name" : "setDefaultFileTypeMap" ,
+"Duas" : 5,
+"0" :  "(73,90, fileTypeMap)",
+"1" :  "(73,89, map)",
+"2" :  "(73,(74,77), security)",
+"3" :  "(73,(74,89), security)",
+"4" :  "(73,77, security)"},{ "Name" : "getDefaultFileTypeMap" ,
+"Duas" : 10,
+"0" :  "(103,(103,104), defaultMap)",
+"1" :  "(103,(103,107), defaultMap)",
+"2" :  "(103,104, defaultMap)",
+"3" :  "(103,108, map)",
+"4" :  "(103,111, map)",
+"5" :  "(107,111, tccl)",
+"6" :  "(108,(109,110), def)",
+"7" :  "(108,(109,113), def)",
+"8" :  "(108,113, def)",
+"9" :  "(110,113, def)"}]
+}

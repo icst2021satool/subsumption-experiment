@@ -1,0 +1,15 @@
+{
+"Class" : "org.apache.commons.math3.stat.regression.GLSMultipleLinearRegression", 
+"Methods" : [{ "Name" : "getOmegaInverse" ,
+"Duas" : 10,
+"0" :  "(80,(80,81), this)",
+"1" :  "(80,(80,83), this)",
+"2" :  "(80,83, this)",
+"3" :  "(80,81, this)",
+"4" :  "(80,81, this)",
+"5" :  "(80,(80,81), this.OmegaInverse)",
+"6" :  "(80,(80,83), this.OmegaInverse)",
+"7" :  "(80,83, this.OmegaInverse)",
+"8" :  "(80,81, this.Omega)",
+"9" :  "(81,83, this.OmegaInverse)"}]
+}

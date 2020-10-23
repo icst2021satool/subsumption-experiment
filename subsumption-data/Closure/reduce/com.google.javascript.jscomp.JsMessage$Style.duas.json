@@ -1,0 +1,12 @@
+{
+"Class" : "com.google.javascript.jscomp.JsMessage$Style", 
+"Methods" : [{ "Name" : "getFromParams" ,
+"Duas" : 7,
+"0" :  "(67,(67,68), useClosure)",
+"1" :  "(67,(67,70), useClosure)",
+"2" :  "(67,(68,68), allowLegacyMessages)",
+"3" :  "(67,(68,68), allowLegacyMessages)",
+"4" :  "(67,68, CLOSURE)",
+"5" :  "(67,68, RELAX)",
+"6" :  "(67,70, LEGACY)"}]
+}

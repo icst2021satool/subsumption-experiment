@@ -1,0 +1,15 @@
+{
+"Class" : "weka.classifiers.bayes.net.GUI$3", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Duas" : 10,
+"0" :  "(2136,2141, this)",
+"1" :  "(2136,(2138,2139), this)",
+"2" :  "(2136,(2138,2141), this)",
+"3" :  "(2136,2139, this)",
+"4" :  "(2136,2141, this.this$0)",
+"5" :  "(2136,2139, this.this$0)",
+"6" :  "(2136,(2138,2139), this.val$viewCliques)",
+"7" :  "(2136,(2138,2141), this.val$viewCliques)",
+"8" :  "(2136,(2138,2138), bPrev)",
+"9" :  "(2136,(2138,2141), bPrev)"}]
+}

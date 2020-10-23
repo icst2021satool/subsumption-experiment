@@ -1,0 +1,22 @@
+{
+"Class" : "org.mockito.internal.configuration.MockAnnotationProcessor", 
+"Methods" : [{ "Name" : "process" ,
+"Duas" : 17,
+"0" :  "(18,(19,20), annotation)",
+"1" :  "(18,(19,22), annotation)",
+"2" :  "(18,(22,23), annotation)",
+"3" :  "(18,(22,25), annotation)",
+"4" :  "(18,25, annotation)",
+"5" :  "(18,(27,28), annotation)",
+"6" :  "(18,(27,32), annotation)",
+"7" :  "(18,32, annotation)",
+"8" :  "(18,20, annotation)",
+"9" :  "(18,33, field)",
+"10" :  "(18,23, field)",
+"11" :  "(18,25, mockSettings)",
+"12" :  "(18,32, mockSettings)",
+"13" :  "(18,33, mockSettings)",
+"14" :  "(18,28, mockSettings)",
+"15" :  "(18,23, mockSettings)",
+"16" :  "(18,20, mockSettings)"}]
+}

@@ -1,0 +1,12 @@
+{
+"Class" : "weka.gui.beans.StripChart$StripPlotter", 
+"Methods" : [{ "Name" : "paintComponent" ,
+"Duas" : 7,
+"0" :  "(82,(83,84), this)",
+"1" :  "(82,(83,86), this)",
+"2" :  "(82,84, this)",
+"3" :  "(82,84, g)",
+"4" :  "(82,(83,84), this.this$0)",
+"5" :  "(82,(83,86), this.this$0)",
+"6" :  "(82,84, this.this$0)"}]
+}

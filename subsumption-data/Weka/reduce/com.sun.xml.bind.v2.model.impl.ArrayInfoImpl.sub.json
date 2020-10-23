@@ -1,0 +1,9 @@
+{
+"Class" : "com.sun.xml.bind.v2.model.impl.ArrayInfoImpl", 
+"Methods" : [{ "Name" : "<init>" ,
+"Duas" : "10" ,
+"Subsumers" : 2,
+"0" : [ 9, 6, 5, 4, 3, 1, 2], "S0" : [0, 1, 2, 3, 4, 5, 6, 9 ],
+"1" : [ 8, 7], "S1" : [0, 7, 8 ]
+}]
+}

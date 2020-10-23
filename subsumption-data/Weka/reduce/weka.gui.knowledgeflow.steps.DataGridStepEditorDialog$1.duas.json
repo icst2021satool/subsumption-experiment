@@ -1,0 +1,14 @@
+{
+"Class" : "weka.gui.knowledgeflow.steps.DataGridStepEditorDialog$1", 
+"Methods" : [{ "Name" : "propertyChange" ,
+"Duas" : 9,
+"0" :  "(203,205, this)",
+"1" :  "(203,206, this)",
+"2" :  "(203,205, this.this$0)",
+"3" :  "(203,206, this.this$0)",
+"4" :  "(203,206, this.m_list)",
+"5" :  "(203,205, this.m_attNameField)",
+"6" :  "(203,(204,205), a)",
+"7" :  "(203,(204,208), a)",
+"8" :  "(203,205, a)"}]
+}

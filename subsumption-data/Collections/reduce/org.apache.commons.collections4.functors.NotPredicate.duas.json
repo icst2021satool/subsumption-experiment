@@ -1,0 +1,15 @@
+{
+"Class" : "org.apache.commons.collections4.functors.NotPredicate", 
+"Methods" : [{ "Name" : "notPredicate" ,
+"Duas" : 3,
+"0" :  "(46,(46,47), predicate)",
+"1" :  "(46,(46,49), predicate)",
+"2" :  "(46,49, predicate)"},{ "Name" : "evaluate" ,
+"Duas" : 6,
+"0" :  "(70,(70,70), this)",
+"1" :  "(70,(70,70), this)",
+"2" :  "(70,(70,70), object)",
+"3" :  "(70,(70,70), object)",
+"4" :  "(70,(70,70), this.iPredicate)",
+"5" :  "(70,(70,70), this.iPredicate)"}]
+}

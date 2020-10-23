@@ -1,0 +1,10 @@
+{
+"Class" : "com.google.javascript.jscomp.type.ClosureReverseAbstractInterpreter$12", 
+"Methods" : [{ "Name" : "apply" ,
+"Duas" : "11" ,
+"Subsumers" : 3,
+"0" : [ 8, 4, 3, 0], "S0" : [0, 3, 4, 8 ],
+"1" : [ 5], "S1" : [1, 2, 5, 7, 9, 10 ],
+"2" : [ 6], "S2" : [1, 2, 6, 7, 9, 10 ]
+}]
+}

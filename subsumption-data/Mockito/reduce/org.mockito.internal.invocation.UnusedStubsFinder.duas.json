@@ -1,0 +1,10 @@
+{
+"Class" : "org.mockito.internal.invocation.UnusedStubsFinder", 
+"Methods" : [{ "Name" : "find" ,
+"Duas" : 5,
+"0" :  "(23,33, unused)",
+"1" :  "(23,29, unused)",
+"2" :  "(27,(28,29), s)",
+"3" :  "(27,(28,31), s)",
+"4" :  "(27,29, s)"}]
+}

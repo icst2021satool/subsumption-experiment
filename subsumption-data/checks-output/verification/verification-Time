@@ -1,0 +1,3798 @@
+org.joda.time.format.ISODateTimeFormat org.joda.time.DateMidnight org.joda.time.tz.ZoneInfoCompiler$RuleSet org.joda.time.field.BaseDateTimeField org.joda.time.convert.ReadableIntervalConverter org.joda.time.IllegalInstantException org.joda.time.LocalTime$Property org.joda.time.base.BaseDuration org.joda.time.field.ImpreciseDateTimeField org.joda.time.LocalTime org.joda.time.format.DateTimeFormatterBuilder$Fraction org.joda.time.format.PeriodFormatterBuilder$FieldFormatter org.joda.time.chrono.IslamicChronology org.joda.time.chrono.BasicYearDateTimeField org.joda.time.format.DateTimeFormatterBuilder org.joda.time.format.ISODateTimeFormat$Constants org.joda.time.tz.DateTimeZoneBuilder$Recurrence org.joda.time.format.DateTimeFormat org.joda.time.Instant org.joda.time.IllegalFieldValueException org.joda.time.convert.ConverterManager org.joda.time.field.StrictDateTimeField org.joda.time.format.PeriodFormatterBuilder$Literal org.joda.time.Duration org.joda.time.field.DelegatedDateTimeField org.joda.time.field.LenientDateTimeField org.joda.time.chrono.JulianChronology org.joda.time.tz.ZoneInfoCompiler org.joda.time.tz.ZoneInfoProvider org.joda.time.tz.CachedDateTimeZone$Info org.joda.time.chrono.LimitChronology org.joda.time.format.DateTimeFormatterBuilder$CharacterLiteral org.joda.time.field.MillisDurationField org.joda.time.base.AbstractPeriod org.joda.time.convert.ReadableDurationConverter org.joda.time.format.DateTimeFormat$1 org.joda.time.MutablePeriod org.joda.time.format.FormatUtils org.joda.time.DurationField org.joda.time.DateTimeUtils org.joda.time.Months org.joda.time.base.BaseSingleFieldPeriod org.joda.time.field.SkipUndoDateTimeField org.joda.time.format.PeriodFormatterBuilder$Composite org.joda.time.field.AbstractReadableInstantFieldProperty org.joda.time.LocalDate org.joda.time.field.UnsupportedDateTimeField org.joda.time.base.AbstractDuration org.joda.time.field.PreciseDurationField org.joda.time.tz.UTCProvider org.joda.time.chrono.IslamicChronology$LeapYearPatternType org.joda.time.format.ISOPeriodFormat org.joda.time.chrono.AssembledChronology org.joda.time.tz.DateTimeZoneBuilder$RuleSet org.joda.time.Partial org.joda.time.LocalDateTime org.joda.time.chrono.ZonedChronology$ZonedDurationField org.joda.time.format.DateTimeFormatterBuilder$TextField org.joda.time.chrono.EthiopicChronology org.joda.time.format.DateTimeParserBucket org.joda.time.format.DateTimeFormatterBuilder$MatchingParser org.joda.time.chrono.BasicDayOfMonthDateTimeField org.joda.time.tz.DateTimeZoneBuilder$DSTZone org.joda.time.Period org.joda.time.tz.ZoneInfoCompiler$Zone org.joda.time.tz.ZoneInfoCompiler$Rule org.joda.time.Hours org.joda.time.chrono.BasicChronology org.joda.time.chrono.ZonedChronology org.joda.time.tz.CachedDateTimeZone org.joda.time.chrono.BasicDayOfYearDateTimeField org.joda.time.field.DecoratedDurationField org.joda.time.tz.DateTimeZoneBuilder org.joda.time.tz.DefaultNameProvider org.joda.time.chrono.AssembledChronology$Fields org.joda.time.tz.DateTimeZoneBuilder$PrecalculatedZone org.joda.time.Days org.joda.time.chrono.BasicWeekOfWeekyearDateTimeField org.joda.time.base.AbstractInstant org.joda.time.field.DecoratedDateTimeField org.joda.time.format.PeriodFormatterBuilder$PluralAffix org.joda.time.convert.ReadableInstantConverter org.joda.time.format.DateTimeFormatterBuilder$Composite org.joda.time.format.PeriodFormatterBuilder org.joda.time.chrono.BaseChronology org.joda.time.base.BasePartial org.joda.time.tz.DateTimeZoneBuilder$Rule org.joda.time.format.DateTimeParserBucket$SavedField org.joda.time.format.DateTimeFormatter org.joda.time.Interval org.joda.time.chrono.GJEraDateTimeField org.joda.time.Seconds org.joda.time.YearMonth org.joda.time.format.DateTimeFormatterBuilder$TwoDigitYear org.joda.time.field.OffsetDateTimeField org.joda.time.field.ZeroIsMaxDateTimeField org.joda.time.convert.CalendarConverter org.joda.time.format.DateTimeFormatterBuilder$NumberFormatter org.joda.time.chrono.ISOChronology org.joda.time.chrono.BasicGJChronology org.joda.time.chrono.GJChronology$ImpreciseCutoverField org.joda.time.format.DateTimeFormatterBuilder$UnpaddedNumber org.joda.time.field.DividedDateTimeField org.joda.time.field.RemainderDateTimeField org.joda.time.YearMonthDay org.joda.time.Weeks org.joda.time.base.BaseInterval org.joda.time.chrono.ZonedChronology$ZonedDateTimeField org.joda.time.chrono.BasicFixedMonthChronology org.joda.time.convert.StringConverter org.joda.time.field.PreciseDateTimeField org.joda.time.convert.ReadablePartialConverter org.joda.time.format.DateTimeFormatterBuilder$FixedNumber org.joda.time.field.UnsupportedDurationField org.joda.time.DateTime org.joda.time.DateTimeZone org.joda.time.chrono.GJYearOfEraDateTimeField org.joda.time.chrono.GregorianChronology org.joda.time.Years org.joda.time.Minutes org.joda.time.format.DateTimeParserBucket$SavedState org.joda.time.format.DateTimeFormat$StyleFormatter org.joda.time.chrono.StrictChronology org.joda.time.field.SkipDateTimeField org.joda.time.format.PeriodFormatterBuilder$SimpleAffix org.joda.time.tz.DateTimeZoneBuilder$Transition org.joda.time.chrono.BasicWeekyearDateTimeField org.joda.time.field.ScaledDurationField org.joda.time.chrono.GJChronology$CutoverField org.joda.time.chrono.LenientChronology org.joda.time.tz.DateTimeZoneBuilder$OfYear org.joda.time.MutableDateTime org.joda.time.format.PeriodFormatterBuilder$Separator org.joda.time.chrono.ISOYearOfEraDateTimeField org.joda.time.format.PeriodFormat org.joda.time.chrono.CopticChronology org.joda.time.MonthDay org.joda.time.base.AbstractDateTime org.joda.time.tz.FixedDateTimeZone org.joda.time.chrono.BasicMonthOfYearDateTimeField org.joda.time.base.BasePeriod org.joda.time.field.PreciseDurationDateTimeField org.joda.time.DateTimeComparator org.joda.time.base.AbstractInterval org.joda.time.tz.ZoneInfoCompiler$DateTimeOfYear org.joda.time.format.DateTimeFormatterBuilder$TimeZoneOffset org.joda.time.convert.ConverterSet org.joda.time.field.FieldUtils org.joda.time.TimeOfDay org.joda.time.DurationFieldType$StandardDurationFieldType org.joda.time.chrono.GJLocaleSymbols org.joda.time.chrono.BuddhistChronology org.joda.time.DateTimeFieldType$StandardDateTimeFieldType org.joda.time.MutableInterval org.joda.time.PeriodType org.joda.time.field.BaseDurationField org.joda.time.convert.AbstractConverter org.joda.time.format.DateTimeFormatterBuilder$PaddedNumber org.joda.time.base.AbstractPartial org.joda.time.format.DateTimeFormatterBuilder$StringLiteral org.joda.time.format.PeriodFormatter org.joda.time.format.DateTimeFormatterBuilder$TimeZoneId org.joda.time.chrono.GJChronology org.joda.time.field.AbstractPartialFieldProperty
+org.joda.time.format.ISODateTimeFormat
+Directory of jaguar data: ../jaguar-data/joda-time/1b
+Directory of subsumption data: ../subsumption-data/Time
+Analyzing class org.joda.time.format.ISODateTimeFormat 
+../jaguar-data/joda-time/1b/jaguar/.jaguar/matrix
+org.joda.time.format.ISODateTimeFormat.matrix
+../subsumption-data/Time/reduce/org.joda.time.format.ISODateTimeFormat.sub.json
+>>>>> org.joda.time.format.ISODateTimeFormat <<<<<
+0:forFields:63
+1:dateByMonth:42
+2:dateByOrdinal:14
+3:dateByWeek:43
+4:time:98
+5:checkNotStrictISO:3
+6:appendSeparator:3
+Total :89: tests for class:org.joda.time.format.ISODateTimeFormat:
+Methods executed: 7
+org.joda.time.DateMidnight
+Directory of jaguar data: ../jaguar-data/joda-time/1b
+Directory of subsumption data: ../subsumption-data/Time
+Analyzing class org.joda.time.DateMidnight 
+../jaguar-data/joda-time/1b/jaguar/.jaguar/matrix
+org.joda.time.DateMidnight.matrix
+../subsumption-data/Time/reduce/org.joda.time.DateMidnight.sub.json
+>>>>> org.joda.time.DateMidnight <<<<<
+0:now:3
+1:now:3
+2:withMillis:7
+3:withChronology:7
+4:withZoneRetainFields:10
+5:withFields:5
+6:withField:6
+7:withFieldAdded:9
+8:withDurationAdded:9
+9:withDurationAdded:8
+10:withPeriodAdded:9
+11:plusYears:6
+12:plusMonths:6
+13:plusWeeks:6
+14:plusDays:6
+15:minusYears:6
+16:minusMonths:6
+17:minusWeeks:6
+18:minusDays:6
+19:property:9
+Total :49: tests for class:org.joda.time.DateMidnight:
+Methods executed: 18
+org.joda.time.tz.ZoneInfoCompiler$RuleSet
+Directory of jaguar data: ../jaguar-data/joda-time/1b
+Directory of subsumption data: ../subsumption-data/Time
+Analyzing class org.joda.time.tz.ZoneInfoCompiler$RuleSet 
+../jaguar-data/joda-time/1b/jaguar/.jaguar/matrix
+org.joda.time.tz.ZoneInfoCompiler$RuleSet.matrix
+../subsumption-data/Time/reduce/org.joda.time.tz.ZoneInfoCompiler$RuleSet.sub.json
+>>>>> org.joda.time.tz.ZoneInfoCompiler$RuleSet <<<<<
+0:addRule:11
+1:addRecurring:16
+Total :1: tests for class:org.joda.time.tz.ZoneInfoCompiler$RuleSet:
+Methods executed: 2
+org.joda.time.field.BaseDateTimeField
+Directory of jaguar data: ../jaguar-data/joda-time/1b
+Directory of subsumption data: ../subsumption-data/Time
+Analyzing class org.joda.time.field.BaseDateTimeField 
+../jaguar-data/joda-time/1b/jaguar/.jaguar/matrix
+org.joda.time.field.BaseDateTimeField.matrix
+../subsumption-data/Time/reduce/org.joda.time.field.BaseDateTimeField.sub.json
+>>>>> org.joda.time.field.BaseDateTimeField <<<<<
+0:<init>:4
+1:add:117
+2:addWrapPartial:157
+3:set:42
+4:getMaximumTextLength:9
+5:roundCeiling:8
+6:roundHalfFloor:6
+7:roundHalfCeiling:6
+8:roundHalfEven:16
+Total :556: tests for class:org.joda.time.field.BaseDateTimeField:
+Methods executed: 9
+org.joda.time.convert.ReadableIntervalConverter
+Directory of jaguar data: ../jaguar-data/joda-time/1b
+Directory of subsumption data: ../subsumption-data/Time
+Analyzing class org.joda.time.convert.ReadableIntervalConverter 
+../jaguar-data/joda-time/1b/jaguar/.jaguar/matrix
+org.joda.time.convert.ReadableIntervalConverter.matrix
+../subsumption-data/Time/reduce/org.joda.time.convert.ReadableIntervalConverter.sub.json
+>>>>> org.joda.time.convert.ReadableIntervalConverter <<<<<
+0:setInto:19
+1:setInto:6
+Total :6: tests for class:org.joda.time.convert.ReadableIntervalConverter:
+Methods executed: 1
+org.joda.time.IllegalInstantException
+Directory of jaguar data: ../jaguar-data/joda-time/1b
+Directory of subsumption data: ../subsumption-data/Time
+Analyzing class org.joda.time.IllegalInstantException 
+../jaguar-data/joda-time/1b/jaguar/.jaguar/matrix
+org.joda.time.IllegalInstantException.matrix
+../subsumption-data/Time/reduce/org.joda.time.IllegalInstantException.sub.json
+>>>>> org.joda.time.IllegalInstantException <<<<<
+0:createMessage:4
+1:isIllegalInstant:7
+Total :19: tests for class:org.joda.time.IllegalInstantException:
+Methods executed: 2
+org.joda.time.LocalTime$Property
+Directory of jaguar data: ../jaguar-data/joda-time/1b
+Directory of subsumption data: ../subsumption-data/Time
+Analyzing class org.joda.time.LocalTime$Property 
+../jaguar-data/joda-time/1b/jaguar/.jaguar/matrix
+org.joda.time.LocalTime$Property.matrix
+../subsumption-data/Time/reduce/org.joda.time.LocalTime$Property.sub.json
+>>>>> org.joda.time.LocalTime$Property <<<<<
+0:addNoWrapToCopy:7
+Total :4: tests for class:org.joda.time.LocalTime$Property:
+Methods executed: 1
+org.joda.time.base.BaseDuration
+Directory of jaguar data: ../jaguar-data/joda-time/1b
+Directory of subsumption data: ../subsumption-data/Time
+Analyzing class org.joda.time.base.BaseDuration 
+../jaguar-data/joda-time/1b/jaguar/.jaguar/matrix
+org.joda.time.base.BaseDuration.matrix
+../subsumption-data/Time/reduce/org.joda.time.base.BaseDuration.sub.json
+>>>>> org.joda.time.base.BaseDuration <<<<<
+0:<init>:8
+Total :5: tests for class:org.joda.time.base.BaseDuration:
+Methods executed: 1
+org.joda.time.field.ImpreciseDateTimeField
+Directory of jaguar data: ../jaguar-data/joda-time/1b
+Directory of subsumption data: ../subsumption-data/Time
+Analyzing class org.joda.time.field.ImpreciseDateTimeField 
+../jaguar-data/joda-time/1b/jaguar/.jaguar/matrix
+org.joda.time.field.ImpreciseDateTimeField.matrix
+../subsumption-data/Time/reduce/org.joda.time.field.ImpreciseDateTimeField.sub.json
+>>>>> org.joda.time.field.ImpreciseDateTimeField <<<<<
+0:getDifferenceAsLong:51
+Total :0: tests for class:org.joda.time.field.ImpreciseDateTimeField:
+Methods executed: 0
+org.joda.time.LocalTime
+Directory of jaguar data: ../jaguar-data/joda-time/1b
+Directory of subsumption data: ../subsumption-data/Time
+Analyzing class org.joda.time.LocalTime 
+../jaguar-data/joda-time/1b/jaguar/.jaguar/matrix
+org.joda.time.LocalTime.matrix
+../subsumption-data/Time/reduce/org.joda.time.LocalTime.sub.json
+>>>>> org.joda.time.LocalTime <<<<<
+0:now:3
+1:now:3
+2:fromCalendarFields:3
+3:fromDateFields:3
+4:readResolve:16
+5:getField:10
+6:getValue:10
+7:get:9
+8:isSupported:13
+9:isSupported:13
+10:equals:25
+11:compareTo:33
+12:withLocalMillis:7
+13:withFields:5
+14:withField:11
+15:withFieldAdded:14
+16:withPeriodAdded:9
+17:plusHours:6
+18:plusMinutes:6
+19:plusSeconds:6
+20:plusMillis:6
+21:minusHours:6
+22:minusMinutes:6
+23:minusSeconds:6
+24:minusMillis:6
+25:property:9
+26:toString:5
+27:toString:6
+Total :126: tests for class:org.joda.time.LocalTime:
+Methods executed: 24
+org.joda.time.format.DateTimeFormatterBuilder$Fraction
+Directory of jaguar data: ../jaguar-data/joda-time/1b
+Directory of subsumption data: ../subsumption-data/Time
+Analyzing class org.joda.time.format.DateTimeFormatterBuilder$Fraction 
+../jaguar-data/joda-time/1b/jaguar/.jaguar/matrix
+org.joda.time.format.DateTimeFormatterBuilder$Fraction.matrix
+../subsumption-data/Time/reduce/org.joda.time.format.DateTimeFormatterBuilder$Fraction.sub.json
+>>>>> org.joda.time.format.DateTimeFormatterBuilder$Fraction <<<<<
+0:<init>:7
+1:printTo:121
+2:getFractionData:103
+3:parseInto:38
+Total :426: tests for class:org.joda.time.format.DateTimeFormatterBuilder$Fraction:
+Methods executed: 4
+org.joda.time.format.PeriodFormatterBuilder$FieldFormatter
+Directory of jaguar data: ../jaguar-data/joda-time/1b
+Directory of subsumption data: ../subsumption-data/Time
+Analyzing class org.joda.time.format.PeriodFormatterBuilder$FieldFormatter 
+../jaguar-data/joda-time/1b/jaguar/.jaguar/matrix
+org.joda.time.format.PeriodFormatterBuilder$FieldFormatter.matrix
+../subsumption-data/Time/reduce/org.joda.time.format.PeriodFormatterBuilder$FieldFormatter.sub.json
+>>>>> org.joda.time.format.PeriodFormatterBuilder$FieldFormatter <<<<<
+0:<init>:10
+1:countFieldsToPrint:10
+2:calculatePrintedLength:48
+3:printTo:58
+4:printTo:51
+5:parseInto:329
+6:parseInt:36
+7:getFieldValue:158
+8:isZero:14
+9:isSupported:22
+10:setFieldValue:25
+Total :166: tests for class:org.joda.time.format.PeriodFormatterBuilder$FieldFormatter:
+Methods executed: 10
+org.joda.time.chrono.IslamicChronology
+Directory of jaguar data: ../jaguar-data/joda-time/1b
+Directory of subsumption data: ../subsumption-data/Time
+Analyzing class org.joda.time.chrono.IslamicChronology 
+../jaguar-data/joda-time/1b/jaguar/.jaguar/matrix
+org.joda.time.chrono.IslamicChronology.matrix
+../subsumption-data/Time/reduce/org.joda.time.chrono.IslamicChronology.sub.json
+>>>>> org.joda.time.chrono.IslamicChronology <<<<<
+0:getInstance:40
+1:readResolve:3
+2:withZone:11
+3:equals:15
+4:getYear:24
+5:setYear:12
+6:getYearDifference:7
+7:getTotalMillisByYearMonth:4
+8:getDayOfMonth:3
+9:getDaysInYear:4
+10:getDaysInYearMonth:9
+11:getDaysInMonthMax:5
+12:getMonthOfYear:3
+13:calculateFirstDayOfYearMillis:25
+14:assemble:9
+Total :18: tests for class:org.joda.time.chrono.IslamicChronology:
+Methods executed: 11
+org.joda.time.chrono.BasicYearDateTimeField
+Directory of jaguar data: ../jaguar-data/joda-time/1b
+Directory of subsumption data: ../subsumption-data/Time
+Analyzing class org.joda.time.chrono.BasicYearDateTimeField 
+../jaguar-data/joda-time/1b/jaguar/.jaguar/matrix
+org.joda.time.chrono.BasicYearDateTimeField.matrix
+../subsumption-data/Time/reduce/org.joda.time.chrono.BasicYearDateTimeField.sub.json
+>>>>> org.joda.time.chrono.BasicYearDateTimeField <<<<<
+0:add:8
+1:addWrapField:11
+2:getDifferenceAsLong:12
+3:getLeapAmount:6
+4:roundCeiling:9
+Total :662: tests for class:org.joda.time.chrono.BasicYearDateTimeField:
+Methods executed: 5
+org.joda.time.format.DateTimeFormatterBuilder
+Directory of jaguar data: ../jaguar-data/joda-time/1b
+Directory of subsumption data: ../subsumption-data/Time
+Analyzing class org.joda.time.format.DateTimeFormatterBuilder 
+../jaguar-data/joda-time/1b/jaguar/.jaguar/matrix
+org.joda.time.format.DateTimeFormatterBuilder.matrix
+../subsumption-data/Time/reduce/org.joda.time.format.DateTimeFormatterBuilder.sub.json
+>>>>> org.joda.time.format.DateTimeFormatterBuilder <<<<<
+0:toFormatter:22
+1:toPrinter:5
+2:toParser:5
+3:append:4
+4:append:40
+5:checkParser:2
+6:checkPrinter:2
+7:appendLiteral:10
+8:appendDecimal:24
+9:appendFixedDecimal:8
+10:appendSignedDecimal:24
+11:appendFixedSignedDecimal:8
+12:appendText:4
+13:appendShortText:4
+14:appendFraction:18
+15:getFormatter:37
+16:isPrinter:5
+17:isParser:5
+18:isFormatter:8
+19:appendUnknownString:5
+20:printUnknownString:5
+Total :273: tests for class:org.joda.time.format.DateTimeFormatterBuilder:
+Methods executed: 19
+org.joda.time.format.ISODateTimeFormat$Constants
+Directory of jaguar data: ../jaguar-data/joda-time/1b
+Directory of subsumption data: ../subsumption-data/Time
+Analyzing class org.joda.time.format.ISODateTimeFormat$Constants 
+../jaguar-data/joda-time/1b/jaguar/.jaguar/matrix
+org.joda.time.format.ISODateTimeFormat$Constants.matrix
+../subsumption-data/Time/reduce/org.joda.time.format.ISODateTimeFormat$Constants.sub.json
+>>>>> org.joda.time.format.ISODateTimeFormat$Constants <<<<<
+0:dateParser:3
+1:localDateParser:3
+2:dateElementParser:3
+3:timeParser:3
+4:localTimeParser:3
+5:timeElementParser:3
+6:dateTimeParser:3
+7:dateOptionalTimeParser:3
+8:localDateOptionalTimeParser:3
+9:time:3
+10:timeNoMillis:3
+11:tTime:3
+12:tTimeNoMillis:3
+13:dateTime:3
+14:dateTimeNoMillis:3
+15:ordinalDate:3
+16:ordinalDateTime:3
+17:ordinalDateTimeNoMillis:3
+18:weekDateTime:3
+19:weekDateTimeNoMillis:3
+20:basicDate:3
+21:basicTime:3
+22:basicTimeNoMillis:3
+23:basicTTime:3
+24:basicTTimeNoMillis:3
+25:basicDateTime:3
+26:basicDateTimeNoMillis:3
+27:basicOrdinalDate:3
+28:basicOrdinalDateTime:3
+29:basicOrdinalDateTimeNoMillis:3
+30:basicWeekDate:3
+31:basicWeekDateTime:3
+32:basicWeekDateTimeNoMillis:3
+33:yearMonth:3
+34:yearMonthDay:3
+35:weekyearWeek:3
+36:weekyearWeekDay:3
+37:hourMinute:3
+38:hourMinuteSecond:3
+39:hourMinuteSecondMillis:3
+40:hourMinuteSecondFraction:3
+41:dateHour:3
+42:dateHourMinute:3
+43:dateHourMinuteSecond:3
+44:dateHourMinuteSecondMillis:3
+45:dateHourMinuteSecondFraction:3
+46:yearElement:3
+47:monthElement:3
+48:dayOfMonthElement:3
+49:weekyearElement:3
+50:weekElement:3
+51:dayOfWeekElement:3
+52:dayOfYearElement:3
+53:literalTElement:3
+54:hourElement:3
+55:minuteElement:3
+56:secondElement:3
+57:fractionElement:3
+58:offsetElement:3
+Total :1: tests for class:org.joda.time.format.ISODateTimeFormat$Constants:
+Methods executed: 59
+org.joda.time.tz.DateTimeZoneBuilder$Recurrence
+Directory of jaguar data: ../jaguar-data/joda-time/1b
+Directory of subsumption data: ../subsumption-data/Time
+Analyzing class org.joda.time.tz.DateTimeZoneBuilder$Recurrence 
+../jaguar-data/joda-time/1b/jaguar/.jaguar/matrix
+org.joda.time.tz.DateTimeZoneBuilder$Recurrence.matrix
+../subsumption-data/Time/reduce/org.joda.time.tz.DateTimeZoneBuilder$Recurrence.sub.json
+>>>>> org.joda.time.tz.DateTimeZoneBuilder$Recurrence <<<<<
+0:equals:31
+Total :72: tests for class:org.joda.time.tz.DateTimeZoneBuilder$Recurrence:
+Methods executed: 1
+org.joda.time.format.DateTimeFormat
+Directory of jaguar data: ../jaguar-data/joda-time/1b
+Directory of subsumption data: ../subsumption-data/Time
+Analyzing class org.joda.time.format.DateTimeFormat 
+../jaguar-data/joda-time/1b/jaguar/.jaguar/matrix
+org.joda.time.format.DateTimeFormat.matrix
+../subsumption-data/Time/reduce/org.joda.time.format.DateTimeFormat.sub.json
+>>>>> org.joda.time.format.DateTimeFormat <<<<<
+0:patternForStyle:5
+1:parsePatternTo:141
+2:parseToken:84
+3:isNumericToken:8
+4:createFormatterForPattern:15
+5:createFormatterForStyle:13
+6:createFormatterForStyleIndex:18
+7:createDateTimeFormatter:9
+8:selectStyle:7
+Wrong subsumption: createFormatterForPattern
+t:[1 1 1 1 1 1 1 1 1 1 1 1 0 0 0]
+u:[0 0 0 0 0 1 1 0 0 0 1 1 0 0 1]
+s:[1 0 0 1 1 1 1 1 1 1 1 1 0 0 1]
+Total :177: tests for class:org.joda.time.format.DateTimeFormat:
+Methods executed: 8
+org.joda.time.Instant
+Directory of jaguar data: ../jaguar-data/joda-time/1b
+Directory of subsumption data: ../subsumption-data/Time
+Analyzing class org.joda.time.Instant 
+../jaguar-data/joda-time/1b/jaguar/.jaguar/matrix
+org.joda.time.Instant.matrix
+../subsumption-data/Time/reduce/org.joda.time.Instant.sub.json
+>>>>> org.joda.time.Instant <<<<<
+0:withMillis:8
+1:withDurationAdded:9
+2:withDurationAdded:8
+Total :7: tests for class:org.joda.time.Instant:
+Methods executed: 2
+org.joda.time.IllegalFieldValueException
+Directory of jaguar data: ../jaguar-data/joda-time/1b
+Directory of subsumption data: ../subsumption-data/Time
+Analyzing class org.joda.time.IllegalFieldValueException 
+../jaguar-data/joda-time/1b/jaguar/.jaguar/matrix
+org.joda.time.IllegalFieldValueException.matrix
+../subsumption-data/Time/reduce/org.joda.time.IllegalFieldValueException.sub.json
+>>>>> org.joda.time.IllegalFieldValueException <<<<<
+0:createMessage:19
+1:createMessage:10
+2:getIllegalValueAsString:6
+3:prependMessage:11
+Total :130: tests for class:org.joda.time.IllegalFieldValueException:
+Methods executed: 2
+org.joda.time.convert.ConverterManager
+Directory of jaguar data: ../jaguar-data/joda-time/1b
+Directory of subsumption data: ../subsumption-data/Time
+Analyzing class org.joda.time.convert.ConverterManager 
+../jaguar-data/joda-time/1b/jaguar/.jaguar/matrix
+org.joda.time.convert.ConverterManager.matrix
+../subsumption-data/Time/reduce/org.joda.time.convert.ConverterManager.sub.json
+>>>>> org.joda.time.convert.ConverterManager <<<<<
+0:getInstance:4
+1:getInstantConverter:11
+2:addInstantConverter:5
+3:removeInstantConverter:5
+4:checkAlterInstantConverters:3
+5:getPartialConverter:11
+6:addPartialConverter:5
+7:removePartialConverter:5
+8:checkAlterPartialConverters:3
+9:getDurationConverter:11
+10:addDurationConverter:5
+11:removeDurationConverter:5
+12:checkAlterDurationConverters:3
+13:getPeriodConverter:11
+14:addPeriodConverter:5
+15:removePeriodConverter:5
+16:checkAlterPeriodConverters:3
+17:getIntervalConverter:11
+18:addIntervalConverter:5
+19:removeIntervalConverter:5
+20:checkAlterIntervalConverters:3
+Total :443: tests for class:org.joda.time.convert.ConverterManager:
+Methods executed: 21
+org.joda.time.field.StrictDateTimeField
+Directory of jaguar data: ../jaguar-data/joda-time/1b
+Directory of subsumption data: ../subsumption-data/Time
+Analyzing class org.joda.time.field.StrictDateTimeField 
+../jaguar-data/joda-time/1b/jaguar/.jaguar/matrix
+org.joda.time.field.StrictDateTimeField.matrix
+../subsumption-data/Time/reduce/org.joda.time.field.StrictDateTimeField.sub.json
+>>>>> org.joda.time.field.StrictDateTimeField <<<<<
+0:getInstance:13
+Total :10: tests for class:org.joda.time.field.StrictDateTimeField:
+Methods executed: 1
+org.joda.time.format.PeriodFormatterBuilder$Literal
+Directory of jaguar data: ../jaguar-data/joda-time/1b
+Directory of subsumption data: ../subsumption-data/Time
+Analyzing class org.joda.time.format.PeriodFormatterBuilder$Literal 
+../jaguar-data/joda-time/1b/jaguar/.jaguar/matrix
+org.joda.time.format.PeriodFormatterBuilder$Literal.matrix
+../subsumption-data/Time/reduce/org.joda.time.format.PeriodFormatterBuilder$Literal.sub.json
+>>>>> org.joda.time.format.PeriodFormatterBuilder$Literal <<<<<
+0:parseInto:12
+Total :60: tests for class:org.joda.time.format.PeriodFormatterBuilder$Literal:
+Methods executed: 1
+org.joda.time.Duration
+Directory of jaguar data: ../jaguar-data/joda-time/1b
+Directory of subsumption data: ../subsumption-data/Time
+Analyzing class org.joda.time.Duration 
+../jaguar-data/joda-time/1b/jaguar/.jaguar/matrix
+org.joda.time.Duration.matrix
+../subsumption-data/Time/reduce/org.joda.time.Duration.sub.json
+>>>>> org.joda.time.Duration <<<<<
+0:standardDays:4
+1:standardHours:4
+2:standardMinutes:4
+3:standardSeconds:4
+4:millis:4
+5:withMillis:6
+6:withDurationAdded:8
+7:withDurationAdded:8
+8:plus:5
+9:minus:5
+10:multipliedBy:5
+11:dividedBy:5
+12:negated:3
+Total :36: tests for class:org.joda.time.Duration:
+Methods executed: 12
+org.joda.time.field.DelegatedDateTimeField
+Directory of jaguar data: ../jaguar-data/joda-time/1b
+Directory of subsumption data: ../subsumption-data/Time
+Analyzing class org.joda.time.field.DelegatedDateTimeField 
+../jaguar-data/joda-time/1b/jaguar/.jaguar/matrix
+org.joda.time.field.DelegatedDateTimeField.matrix
+../subsumption-data/Time/reduce/org.joda.time.field.DelegatedDateTimeField.sub.json
+>>>>> org.joda.time.field.DelegatedDateTimeField <<<<<
+0:<init>:11
+1:getRangeDurationField:8
+Total :46: tests for class:org.joda.time.field.DelegatedDateTimeField:
+Methods executed: 2
+org.joda.time.field.LenientDateTimeField
+Directory of jaguar data: ../jaguar-data/joda-time/1b
+Directory of subsumption data: ../subsumption-data/Time
+Analyzing class org.joda.time.field.LenientDateTimeField 
+../jaguar-data/joda-time/1b/jaguar/.jaguar/matrix
+org.joda.time.field.LenientDateTimeField.matrix
+../subsumption-data/Time/reduce/org.joda.time.field.LenientDateTimeField.sub.json
+>>>>> org.joda.time.field.LenientDateTimeField <<<<<
+0:getInstance:14
+Total :19: tests for class:org.joda.time.field.LenientDateTimeField:
+Methods executed: 1
+org.joda.time.chrono.JulianChronology
+Directory of jaguar data: ../jaguar-data/joda-time/1b
+Directory of subsumption data: ../subsumption-data/Time
+Analyzing class org.joda.time.chrono.JulianChronology 
+../jaguar-data/joda-time/1b/jaguar/.jaguar/matrix
+org.joda.time.chrono.JulianChronology.matrix
+../subsumption-data/Time/reduce/org.joda.time.chrono.JulianChronology.sub.json
+>>>>> org.joda.time.chrono.JulianChronology <<<<<
+0:adjustYearForSet:8
+1:getInstance:37
+2:readResolve:8
+3:withZone:11
+4:isLeapYear:2
+5:calculateFirstDayOfYearMillis:13
+6:assemble:12
+Total :257: tests for class:org.joda.time.chrono.JulianChronology:
+Methods executed: 6
+org.joda.time.tz.ZoneInfoCompiler
+Directory of jaguar data: ../jaguar-data/joda-time/1b
+Directory of subsumption data: ../subsumption-data/Time
+Analyzing class org.joda.time.tz.ZoneInfoCompiler 
+../jaguar-data/joda-time/1b/jaguar/.jaguar/matrix
+org.joda.time.tz.ZoneInfoCompiler.matrix
+../subsumption-data/Time/reduce/org.joda.time.tz.ZoneInfoCompiler.sub.json
+>>>>> org.joda.time.tz.ZoneInfoCompiler <<<<<
+0:main:87
+1:getStartOfYear:4
+2:getLenientISOChronology:4
+3:writeZoneInfoMap:53
+4:parseYear:12
+5:parseOptional:3
+6:parseTime:22
+7:parseZoneChar:3
+8:test:80
+9:compile:114
+10:parseDataFile:84
+Total :3: tests for class:org.joda.time.tz.ZoneInfoCompiler:
+Methods executed: 11
+org.joda.time.tz.ZoneInfoProvider
+Directory of jaguar data: ../jaguar-data/joda-time/1b
+Directory of subsumption data: ../subsumption-data/Time
+Analyzing class org.joda.time.tz.ZoneInfoProvider 
+../jaguar-data/joda-time/1b/jaguar/.jaguar/matrix
+org.joda.time.tz.ZoneInfoProvider.matrix
+../subsumption-data/Time/reduce/org.joda.time.tz.ZoneInfoProvider.sub.json
+>>>>> org.joda.time.tz.ZoneInfoProvider <<<<<
+0:<init>:13
+1:<init>:18
+2:getZone:23
+3:openResource:30
+4:loadZoneData:3
+5:readZoneInfoMap:24
+No unconstrained duas covered in testcase 168 of readZoneInfoMap: [1 1 1 1 1 1 1 1 1 0 1 1 0 1 0 0 1 1 1 0 1 0 1 0]: [0 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1 0 0 0 1 0 1 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1]
+[1 1 0 1 0 1 1 0 0 0 0 0 0 0 0 0 1 1 1 0 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1 0 0 0 0 0 0 0 0]
+[1 0 1 0 1 1 0 1 1 0 1 1 1 1 1 1 0 1 0 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[1 0 0 0 0 1 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0]
+[1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 1 0 1 0 0 0 0]
+Total :169: tests for class:org.joda.time.tz.ZoneInfoProvider:
+Methods executed: 5
+Unconstrained method :readZoneInfoMap:1:1
+org.joda.time.tz.CachedDateTimeZone$Info
+Directory of jaguar data: ../jaguar-data/joda-time/1b
+Directory of subsumption data: ../subsumption-data/Time
+Analyzing class org.joda.time.tz.CachedDateTimeZone$Info 
+../jaguar-data/joda-time/1b/jaguar/.jaguar/matrix
+org.joda.time.tz.CachedDateTimeZone$Info.matrix
+../subsumption-data/Time/reduce/org.joda.time.tz.CachedDateTimeZone$Info.sub.json
+>>>>> org.joda.time.tz.CachedDateTimeZone$Info <<<<<
+0:getNameKey:25
+1:getOffset:25
+2:getStandardOffset:25
+Total :1256: tests for class:org.joda.time.tz.CachedDateTimeZone$Info:
+Methods executed: 3
+org.joda.time.chrono.LimitChronology
+Directory of jaguar data: ../jaguar-data/joda-time/1b
+Directory of subsumption data: ../subsumption-data/Time
+Analyzing class org.joda.time.chrono.LimitChronology 
+../jaguar-data/joda-time/1b/jaguar/.jaguar/matrix
+org.joda.time.chrono.LimitChronology.matrix
+../subsumption-data/Time/reduce/org.joda.time.chrono.LimitChronology.sub.json
+>>>>> org.joda.time.chrono.LimitChronology <<<<<
+0:getInstance:19
+1:withZone:51
+2:convertField:15
+3:convertField:16
+4:checkLimits:22
+5:equals:19
+6:hashCode:7
+7:toString:5
+Total :273: tests for class:org.joda.time.chrono.LimitChronology:
+Methods executed: 6
+org.joda.time.format.DateTimeFormatterBuilder$CharacterLiteral
+Directory of jaguar data: ../jaguar-data/joda-time/1b
+Directory of subsumption data: ../subsumption-data/Time
+Analyzing class org.joda.time.format.DateTimeFormatterBuilder$CharacterLiteral 
+../jaguar-data/joda-time/1b/jaguar/.jaguar/matrix
+org.joda.time.format.DateTimeFormatterBuilder$CharacterLiteral.matrix
+../subsumption-data/Time/reduce/org.joda.time.format.DateTimeFormatterBuilder$CharacterLiteral.sub.json
+>>>>> org.joda.time.format.DateTimeFormatterBuilder$CharacterLiteral <<<<<
+0:parseInto:27
+Total :315: tests for class:org.joda.time.format.DateTimeFormatterBuilder$CharacterLiteral:
+Methods executed: 1
+org.joda.time.field.MillisDurationField
+Directory of jaguar data: ../jaguar-data/joda-time/1b
+Directory of subsumption data: ../subsumption-data/Time
+Analyzing class org.joda.time.field.MillisDurationField 
+../jaguar-data/joda-time/1b/jaguar/.jaguar/matrix
+org.joda.time.field.MillisDurationField.matrix
+../subsumption-data/Time/reduce/org.joda.time.field.MillisDurationField.sub.json
+>>>>> org.joda.time.field.MillisDurationField <<<<<
+0:compareTo:8
+1:equals:6
+Total :6: tests for class:org.joda.time.field.MillisDurationField:
+Methods executed: 2
+org.joda.time.base.AbstractPeriod
+Directory of jaguar data: ../jaguar-data/joda-time/1b
+Directory of subsumption data: ../subsumption-data/Time
+Analyzing class org.joda.time.base.AbstractPeriod 
+../jaguar-data/joda-time/1b/jaguar/.jaguar/matrix
+org.joda.time.base.AbstractPeriod.matrix
+../subsumption-data/Time/reduce/org.joda.time.base.AbstractPeriod.sub.json
+>>>>> org.joda.time.base.AbstractPeriod <<<<<
+0:getFieldTypes:13
+1:getValues:13
+2:get:4
+3:equals:36
+4:hashCode:18
+5:toString:5
+No unconstrained duas covered in testcase 5 of getValues: [1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 1 0 0 0 0 0 0]
+[0 0 1 1 0 0 1 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 13 of getValues: [1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 1 0 0 0 0 0 0]
+[0 0 1 1 0 0 1 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 20 of getValues: [1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 1 0 0 0 0 0 0]
+[0 0 1 1 0 0 1 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 21 of getValues: [1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 1 0 0 0 0 0 0]
+[0 0 1 1 0 0 1 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 46 of getValues: [1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 1 0 0 0 0 0 0]
+[0 0 1 1 0 0 1 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 47 of getValues: [1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 1 0 0 0 0 0 0]
+[0 0 1 1 0 0 1 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 57 of getValues: [1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 1 0 0 0 0 0 0]
+[0 0 1 1 0 0 1 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 58 of getValues: [1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 1 0 0 0 0 0 0]
+[0 0 1 1 0 0 1 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 59 of getValues: [1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 1 0 0 0 0 0 0]
+[0 0 1 1 0 0 1 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 60 of getValues: [1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 1 0 0 0 0 0 0]
+[0 0 1 1 0 0 1 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 92 of getValues: [1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 1 0 0 0 0 0 0]
+[0 0 1 1 0 0 1 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 127 of getValues: [1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 1 0 0 0 0 0 0]
+[0 0 1 1 0 0 1 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 129 of getValues: [1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 1 0 0 0 0 0 0]
+[0 0 1 1 0 0 1 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 130 of getValues: [1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 1 0 0 0 0 0 0]
+[0 0 1 1 0 0 1 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 131 of getValues: [1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 1 0 0 0 0 0 0]
+[0 0 1 1 0 0 1 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 132 of getValues: [1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 1 0 0 0 0 0 0]
+[0 0 1 1 0 0 1 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 133 of getValues: [1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 1 0 0 0 0 0 0]
+[0 0 1 1 0 0 1 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 134 of getValues: [1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 1 0 0 0 0 0 0]
+[0 0 1 1 0 0 1 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 136 of getValues: [1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 1 0 0 0 0 0 0]
+[0 0 1 1 0 0 1 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 138 of getValues: [1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 1 0 0 0 0 0 0]
+[0 0 1 1 0 0 1 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 139 of getValues: [1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 1 0 0 0 0 0 0]
+[0 0 1 1 0 0 1 0 0 0 0 0 0]
+Total :255: tests for class:org.joda.time.base.AbstractPeriod:
+Methods executed: 6
+Unconstrained method :getValues:1:21
+org.joda.time.convert.ReadableDurationConverter
+Directory of jaguar data: ../jaguar-data/joda-time/1b
+Directory of subsumption data: ../subsumption-data/Time
+Analyzing class org.joda.time.convert.ReadableDurationConverter 
+../jaguar-data/joda-time/1b/jaguar/.jaguar/matrix
+org.joda.time.convert.ReadableDurationConverter.matrix
+../subsumption-data/Time/reduce/org.joda.time.convert.ReadableDurationConverter.sub.json
+>>>>> org.joda.time.convert.ReadableDurationConverter <<<<<
+0:setInto:12
+Total :6: tests for class:org.joda.time.convert.ReadableDurationConverter:
+Methods executed: 1
+org.joda.time.format.DateTimeFormat$1
+Directory of jaguar data: ../jaguar-data/joda-time/1b
+Directory of subsumption data: ../subsumption-data/Time
+Analyzing class org.joda.time.format.DateTimeFormat$1 
+../jaguar-data/joda-time/1b/jaguar/.jaguar/matrix
+org.joda.time.format.DateTimeFormat$1.matrix
+../subsumption-data/Time/reduce/org.joda.time.format.DateTimeFormat$1.sub.json
+>>>>> org.joda.time.format.DateTimeFormat$1 <<<<<
+0:removeEldestEntry:2
+Total :66: tests for class:org.joda.time.format.DateTimeFormat$1:
+Methods executed: 1
+org.joda.time.MutablePeriod
+Directory of jaguar data: ../jaguar-data/joda-time/1b
+Directory of subsumption data: ../subsumption-data/Time
+Analyzing class org.joda.time.MutablePeriod 
+../jaguar-data/joda-time/1b/jaguar/.jaguar/matrix
+org.joda.time.MutablePeriod.matrix
+../subsumption-data/Time/reduce/org.joda.time.MutablePeriod.sub.json
+>>>>> org.joda.time.MutablePeriod <<<<<
+0:setPeriod:6
+1:setPeriod:10
+2:add:4
+3:add:5
+Total :13: tests for class:org.joda.time.MutablePeriod:
+Methods executed: 2
+org.joda.time.format.FormatUtils
+Directory of jaguar data: ../jaguar-data/joda-time/1b
+Directory of subsumption data: ../subsumption-data/Time
+Analyzing class org.joda.time.format.FormatUtils 
+../jaguar-data/joda-time/1b/jaguar/.jaguar/matrix
+org.joda.time.format.FormatUtils.matrix
+../subsumption-data/Time/reduce/org.joda.time.format.FormatUtils.sub.json
+>>>>> org.joda.time.format.FormatUtils <<<<<
+0:appendPaddedInteger:72
+1:appendPaddedInteger:40
+2:writePaddedInteger:72
+3:writePaddedInteger:40
+4:appendUnpaddedInteger:27
+5:appendUnpaddedInteger:8
+6:writeUnpaddedInteger:27
+7:writeUnpaddedInteger:8
+8:calculateDigitCount:15
+9:createErrorMessage:20
+Total :771: tests for class:org.joda.time.format.FormatUtils:
+Methods executed: 6
+org.joda.time.DurationField
+Directory of jaguar data: ../jaguar-data/joda-time/1b
+Directory of subsumption data: ../subsumption-data/Time
+Analyzing class org.joda.time.DurationField 
+../jaguar-data/joda-time/1b/jaguar/.jaguar/matrix
+org.joda.time.DurationField.matrix
+../subsumption-data/Time/reduce/org.joda.time.DurationField.sub.json
+>>>>> org.joda.time.DurationField <<<<<
+0:subtract:8
+1:subtract:5
+Total :38: tests for class:org.joda.time.DurationField:
+Methods executed: 1
+org.joda.time.DateTimeUtils
+Directory of jaguar data: ../jaguar-data/joda-time/1b
+Directory of subsumption data: ../subsumption-data/Time
+Analyzing class org.joda.time.DateTimeUtils 
+../jaguar-data/joda-time/1b/jaguar/.jaguar/matrix
+org.joda.time.DateTimeUtils.matrix
+../subsumption-data/Time/reduce/org.joda.time.DateTimeUtils.sub.json
+>>>>> org.joda.time.DateTimeUtils <<<<<
+0:setCurrentMillisOffset:4
+1:setCurrentMillisProvider:3
+2:checkPermission:3
+3:getInstantMillis:3
+4:getInstantChronology:6
+5:getIntervalChronology:16
+6:getIntervalChronology:6
+7:getReadableInterval:4
+8:getChronology:3
+9:getZone:3
+10:getPeriodType:3
+11:getDurationMillis:3
+12:isContiguous:26
+Total :3464: tests for class:org.joda.time.DateTimeUtils:
+Methods executed: 12
+org.joda.time.Months
+Directory of jaguar data: ../jaguar-data/joda-time/1b
+Directory of subsumption data: ../subsumption-data/Time
+Analyzing class org.joda.time.Months 
+../jaguar-data/joda-time/1b/jaguar/.jaguar/matrix
+org.joda.time.Months.matrix
+../subsumption-data/Time/reduce/org.joda.time.Months.sub.json
+>>>>> org.joda.time.Months <<<<<
+0:months:32
+1:monthsBetween:10
+2:monthsIn:4
+3:parseMonths:5
+4:plus:5
+5:plus:5
+6:minus:5
+7:dividedBy:5
+8:isGreaterThan:8
+9:isLessThan:8
+Total :23: tests for class:org.joda.time.Months:
+Methods executed: 9
+org.joda.time.base.BaseSingleFieldPeriod
+Directory of jaguar data: ../jaguar-data/joda-time/1b
+Directory of subsumption data: ../subsumption-data/Time
+Analyzing class org.joda.time.base.BaseSingleFieldPeriod 
+../jaguar-data/joda-time/1b/jaguar/.jaguar/matrix
+org.joda.time.base.BaseSingleFieldPeriod.matrix
+../subsumption-data/Time/reduce/org.joda.time.base.BaseSingleFieldPeriod.sub.json
+>>>>> org.joda.time.base.BaseSingleFieldPeriod <<<<<
+0:between:8
+1:between:31
+2:standardPeriodIn:30
+3:getFieldType:4
+4:getValue:4
+5:get:5
+6:isSupported:4
+7:equals:15
+8:compareTo:16
+Total :81: tests for class:org.joda.time.base.BaseSingleFieldPeriod:
+Methods executed: 8
+org.joda.time.field.SkipUndoDateTimeField
+Directory of jaguar data: ../jaguar-data/joda-time/1b
+Directory of subsumption data: ../subsumption-data/Time
+Analyzing class org.joda.time.field.SkipUndoDateTimeField 
+../jaguar-data/joda-time/1b/jaguar/.jaguar/matrix
+org.joda.time.field.SkipUndoDateTimeField.matrix
+../subsumption-data/Time/reduce/org.joda.time.field.SkipUndoDateTimeField.sub.json
+>>>>> org.joda.time.field.SkipUndoDateTimeField <<<<<
+0:<init>:16
+1:get:9
+2:set:11
+Total :86: tests for class:org.joda.time.field.SkipUndoDateTimeField:
+Methods executed: 3
+org.joda.time.format.PeriodFormatterBuilder$Composite
+Directory of jaguar data: ../jaguar-data/joda-time/1b
+Directory of subsumption data: ../subsumption-data/Time
+Analyzing class org.joda.time.format.PeriodFormatterBuilder$Composite 
+../jaguar-data/joda-time/1b/jaguar/.jaguar/matrix
+org.joda.time.format.PeriodFormatterBuilder$Composite.matrix
+../subsumption-data/Time/reduce/org.joda.time.format.PeriodFormatterBuilder$Composite.sub.json
+>>>>> org.joda.time.format.PeriodFormatterBuilder$Composite <<<<<
+0:<init>:10
+1:countFieldsToPrint:18
+2:calculatePrintedLength:12
+3:printTo:14
+4:printTo:14
+5:parseInto:25
+6:decompose:32
+7:addArrayToList:14
+No unconstrained duas covered in testcase 19 of calculatePrintedLength: [1 1 0 1 1 1 1 1 1 1 1 0]: [0 0 1 0 0 0 0 0 0 0 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 1]
+[1 1 0 1 1 1 1 1 1 1 1 1]
+[0 0 1 0 0 0 0 0 0 0 0 0]
+[0 0 1 0 0 1 0 1 0 0 0 0]
+No unconstrained duas covered in testcase 19 of printTo: [1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[0 0 0 0 0 1 0 1 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 71 of calculatePrintedLength: [1 1 0 1 1 1 1 1 1 1 1 0]: [0 0 1 0 0 0 0 0 0 0 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 1]
+[1 1 0 1 1 1 1 1 1 1 1 1]
+[0 0 1 0 0 0 0 0 0 0 0 0]
+[0 0 1 0 0 1 0 1 0 0 0 0]
+No unconstrained duas covered in testcase 71 of printTo: [1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[0 0 0 0 0 1 0 1 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 72 of calculatePrintedLength: [1 1 0 1 1 1 1 1 1 1 1 0]: [0 0 1 0 0 0 0 0 0 0 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 1]
+[1 1 0 1 1 1 1 1 1 1 1 1]
+[0 0 1 0 0 0 0 0 0 0 0 0]
+[0 0 1 0 0 1 0 1 0 0 0 0]
+No unconstrained duas covered in testcase 72 of printTo: [1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[0 0 0 0 0 1 0 1 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 76 of calculatePrintedLength: [1 1 0 1 1 1 1 1 1 1 1 0]: [0 0 1 0 0 0 0 0 0 0 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 1]
+[1 1 0 1 1 1 1 1 1 1 1 1]
+[0 0 1 0 0 0 0 0 0 0 0 0]
+[0 0 1 0 0 1 0 1 0 0 0 0]
+No unconstrained duas covered in testcase 76 of printTo: [1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[0 0 0 0 0 1 0 1 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 77 of calculatePrintedLength: [1 1 0 1 1 1 1 1 1 1 1 0]: [0 0 1 0 0 0 0 0 0 0 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 1]
+[1 1 0 1 1 1 1 1 1 1 1 1]
+[0 0 1 0 0 0 0 0 0 0 0 0]
+[0 0 1 0 0 1 0 1 0 0 0 0]
+No unconstrained duas covered in testcase 77 of printTo: [1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[0 0 0 0 0 1 0 1 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 78 of calculatePrintedLength: [1 1 0 1 1 1 1 1 1 1 1 0]: [0 0 1 0 0 0 0 0 0 0 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 1]
+[1 1 0 1 1 1 1 1 1 1 1 1]
+[0 0 1 0 0 0 0 0 0 0 0 0]
+[0 0 1 0 0 1 0 1 0 0 0 0]
+No unconstrained duas covered in testcase 78 of printTo: [1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[0 0 0 0 0 1 0 1 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 81 of calculatePrintedLength: [1 1 0 1 1 1 1 1 1 1 1 0]: [0 0 1 0 0 0 0 0 0 0 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 1]
+[1 1 0 1 1 1 1 1 1 1 1 1]
+[0 0 1 0 0 0 0 0 0 0 0 0]
+[0 0 1 0 0 1 0 1 0 0 0 0]
+No unconstrained duas covered in testcase 81 of printTo: [1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[0 0 0 0 0 1 0 1 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 82 of calculatePrintedLength: [1 1 0 1 1 1 1 1 1 1 1 0]: [0 0 1 0 0 0 0 0 0 0 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 1]
+[1 1 0 1 1 1 1 1 1 1 1 1]
+[0 0 1 0 0 0 0 0 0 0 0 0]
+[0 0 1 0 0 1 0 1 0 0 0 0]
+No unconstrained duas covered in testcase 82 of printTo: [1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[0 0 0 0 0 1 0 1 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 83 of calculatePrintedLength: [1 1 0 1 1 1 1 1 1 1 1 0]: [0 0 1 0 0 0 0 0 0 0 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 1]
+[1 1 0 1 1 1 1 1 1 1 1 1]
+[0 0 1 0 0 0 0 0 0 0 0 0]
+[0 0 1 0 0 1 0 1 0 0 0 0]
+No unconstrained duas covered in testcase 83 of printTo: [1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[0 0 0 0 0 1 0 1 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 86 of calculatePrintedLength: [1 1 0 1 1 1 1 1 1 1 1 0]: [0 0 1 0 0 0 0 0 0 0 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 1]
+[1 1 0 1 1 1 1 1 1 1 1 1]
+[0 0 1 0 0 0 0 0 0 0 0 0]
+[0 0 1 0 0 1 0 1 0 0 0 0]
+No unconstrained duas covered in testcase 86 of printTo: [1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[0 0 0 0 0 1 0 1 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 87 of calculatePrintedLength: [1 1 0 1 1 1 1 1 1 1 1 0]: [0 0 1 0 0 0 0 0 0 0 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 1]
+[1 1 0 1 1 1 1 1 1 1 1 1]
+[0 0 1 0 0 0 0 0 0 0 0 0]
+[0 0 1 0 0 1 0 1 0 0 0 0]
+No unconstrained duas covered in testcase 87 of printTo: [1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[0 0 0 0 0 1 0 1 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 88 of calculatePrintedLength: [1 1 0 1 1 1 1 1 1 1 1 0]: [0 0 1 0 0 0 0 0 0 0 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 1]
+[1 1 0 1 1 1 1 1 1 1 1 1]
+[0 0 1 0 0 0 0 0 0 0 0 0]
+[0 0 1 0 0 1 0 1 0 0 0 0]
+No unconstrained duas covered in testcase 88 of printTo: [1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[0 0 0 0 0 1 0 1 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 89 of calculatePrintedLength: [1 1 0 1 1 1 1 1 1 1 1 0]: [0 0 1 0 0 0 0 0 0 0 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 1]
+[1 1 0 1 1 1 1 1 1 1 1 1]
+[0 0 1 0 0 0 0 0 0 0 0 0]
+[0 0 1 0 0 1 0 1 0 0 0 0]
+No unconstrained duas covered in testcase 89 of printTo: [1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[0 0 0 0 0 1 0 1 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 91 of calculatePrintedLength: [1 1 0 1 1 1 1 1 1 1 1 0]: [0 0 1 0 0 0 0 0 0 0 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 1]
+[1 1 0 1 1 1 1 1 1 1 1 1]
+[0 0 1 0 0 0 0 0 0 0 0 0]
+[0 0 1 0 0 1 0 1 0 0 0 0]
+No unconstrained duas covered in testcase 91 of printTo: [1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[0 0 0 0 0 1 0 1 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 92 of calculatePrintedLength: [1 1 0 1 1 1 1 1 1 1 1 0]: [0 0 1 0 0 0 0 0 0 0 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 1]
+[1 1 0 1 1 1 1 1 1 1 1 1]
+[0 0 1 0 0 0 0 0 0 0 0 0]
+[0 0 1 0 0 1 0 1 0 0 0 0]
+No unconstrained duas covered in testcase 92 of printTo: [1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[0 0 0 0 0 1 0 1 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 93 of calculatePrintedLength: [1 1 0 1 1 1 1 1 1 1 1 0]: [0 0 1 0 0 0 0 0 0 0 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 1]
+[1 1 0 1 1 1 1 1 1 1 1 1]
+[0 0 1 0 0 0 0 0 0 0 0 0]
+[0 0 1 0 0 1 0 1 0 0 0 0]
+No unconstrained duas covered in testcase 93 of printTo: [1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[0 0 0 0 0 1 0 1 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 96 of calculatePrintedLength: [1 1 0 1 1 1 1 1 1 1 1 0]: [0 0 1 0 0 0 0 0 0 0 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 1]
+[1 1 0 1 1 1 1 1 1 1 1 1]
+[0 0 1 0 0 0 0 0 0 0 0 0]
+[0 0 1 0 0 1 0 1 0 0 0 0]
+No unconstrained duas covered in testcase 96 of printTo: [1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[0 0 0 0 0 1 0 1 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 97 of calculatePrintedLength: [1 1 0 1 1 1 1 1 1 1 1 0]: [0 0 1 0 0 0 0 0 0 0 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 1]
+[1 1 0 1 1 1 1 1 1 1 1 1]
+[0 0 1 0 0 0 0 0 0 0 0 0]
+[0 0 1 0 0 1 0 1 0 0 0 0]
+No unconstrained duas covered in testcase 97 of printTo: [1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[0 0 0 0 0 1 0 1 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 100 of calculatePrintedLength: [1 1 0 1 1 1 1 1 1 1 1 0]: [0 0 1 0 0 0 0 0 0 0 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 1]
+[1 1 0 1 1 1 1 1 1 1 1 1]
+[0 0 1 0 0 0 0 0 0 0 0 0]
+[0 0 1 0 0 1 0 1 0 0 0 0]
+No unconstrained duas covered in testcase 100 of printTo: [1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[0 0 0 0 0 1 0 1 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 101 of calculatePrintedLength: [1 1 0 1 1 1 1 1 1 1 1 0]: [0 0 1 0 0 0 0 0 0 0 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 1]
+[1 1 0 1 1 1 1 1 1 1 1 1]
+[0 0 1 0 0 0 0 0 0 0 0 0]
+[0 0 1 0 0 1 0 1 0 0 0 0]
+No unconstrained duas covered in testcase 101 of printTo: [1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[0 0 0 0 0 1 0 1 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 102 of calculatePrintedLength: [1 1 0 1 1 1 1 1 1 1 1 0]: [0 0 1 0 0 0 0 0 0 0 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 1]
+[1 1 0 1 1 1 1 1 1 1 1 1]
+[0 0 1 0 0 0 0 0 0 0 0 0]
+[0 0 1 0 0 1 0 1 0 0 0 0]
+No unconstrained duas covered in testcase 102 of printTo: [1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[0 0 0 0 0 1 0 1 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 105 of calculatePrintedLength: [1 1 0 1 1 1 1 1 1 1 1 0]: [0 0 1 0 0 0 0 0 0 0 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 1]
+[1 1 0 1 1 1 1 1 1 1 1 1]
+[0 0 1 0 0 0 0 0 0 0 0 0]
+[0 0 1 0 0 1 0 1 0 0 0 0]
+No unconstrained duas covered in testcase 105 of printTo: [1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[0 0 0 0 0 1 0 1 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 106 of calculatePrintedLength: [1 1 0 1 1 1 1 1 1 1 1 0]: [0 0 1 0 0 0 0 0 0 0 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 1]
+[1 1 0 1 1 1 1 1 1 1 1 1]
+[0 0 1 0 0 0 0 0 0 0 0 0]
+[0 0 1 0 0 1 0 1 0 0 0 0]
+No unconstrained duas covered in testcase 106 of printTo: [1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[0 0 0 0 0 1 0 1 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 107 of calculatePrintedLength: [1 1 0 1 1 1 1 1 1 1 1 0]: [0 0 1 0 0 0 0 0 0 0 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 1]
+[1 1 0 1 1 1 1 1 1 1 1 1]
+[0 0 1 0 0 0 0 0 0 0 0 0]
+[0 0 1 0 0 1 0 1 0 0 0 0]
+No unconstrained duas covered in testcase 107 of printTo: [1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[0 0 0 0 0 1 0 1 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 110 of calculatePrintedLength: [1 1 0 1 1 1 1 1 1 1 1 0]: [0 0 1 0 0 0 0 0 0 0 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 1]
+[1 1 0 1 1 1 1 1 1 1 1 1]
+[0 0 1 0 0 0 0 0 0 0 0 0]
+[0 0 1 0 0 1 0 1 0 0 0 0]
+No unconstrained duas covered in testcase 110 of printTo: [1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[0 0 0 0 0 1 0 1 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 111 of calculatePrintedLength: [1 1 0 1 1 1 1 1 1 1 1 0]: [0 0 1 0 0 0 0 0 0 0 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 1]
+[1 1 0 1 1 1 1 1 1 1 1 1]
+[0 0 1 0 0 0 0 0 0 0 0 0]
+[0 0 1 0 0 1 0 1 0 0 0 0]
+No unconstrained duas covered in testcase 111 of printTo: [1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[0 0 0 0 0 1 0 1 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 112 of calculatePrintedLength: [1 1 0 1 1 1 1 1 1 1 1 0]: [0 0 1 0 0 0 0 0 0 0 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 1]
+[1 1 0 1 1 1 1 1 1 1 1 1]
+[0 0 1 0 0 0 0 0 0 0 0 0]
+[0 0 1 0 0 1 0 1 0 0 0 0]
+No unconstrained duas covered in testcase 112 of printTo: [1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[0 0 0 0 0 1 0 1 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 113 of calculatePrintedLength: [1 1 0 1 1 1 1 1 1 1 1 0]: [0 0 1 0 0 0 0 0 0 0 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 1]
+[1 1 0 1 1 1 1 1 1 1 1 1]
+[0 0 1 0 0 0 0 0 0 0 0 0]
+[0 0 1 0 0 1 0 1 0 0 0 0]
+No unconstrained duas covered in testcase 113 of printTo: [1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[0 0 0 0 0 1 0 1 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 123 of calculatePrintedLength: [1 1 0 1 1 1 1 1 1 1 1 0]: [0 0 1 0 0 0 0 0 0 0 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 1]
+[1 1 0 1 1 1 1 1 1 1 1 1]
+[0 0 1 0 0 0 0 0 0 0 0 0]
+[0 0 1 0 0 1 0 1 0 0 0 0]
+No unconstrained duas covered in testcase 123 of printTo: [1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[0 0 0 0 0 1 0 1 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 124 of calculatePrintedLength: [1 1 0 1 1 1 1 1 1 1 1 0]: [0 0 1 0 0 0 0 0 0 0 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 1]
+[1 1 0 1 1 1 1 1 1 1 1 1]
+[0 0 1 0 0 0 0 0 0 0 0 0]
+[0 0 1 0 0 1 0 1 0 0 0 0]
+No unconstrained duas covered in testcase 124 of printTo: [1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[0 0 0 0 0 1 0 1 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 125 of calculatePrintedLength: [1 1 0 1 1 1 1 1 1 1 1 0]: [0 0 1 0 0 0 0 0 0 0 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 1]
+[1 1 0 1 1 1 1 1 1 1 1 1]
+[0 0 1 0 0 0 0 0 0 0 0 0]
+[0 0 1 0 0 1 0 1 0 0 0 0]
+No unconstrained duas covered in testcase 125 of printTo: [1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[0 0 0 0 0 1 0 1 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 127 of calculatePrintedLength: [1 1 0 1 1 1 1 1 1 1 1 0]: [0 0 1 0 0 0 0 0 0 0 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 1]
+[1 1 0 1 1 1 1 1 1 1 1 1]
+[0 0 1 0 0 0 0 0 0 0 0 0]
+[0 0 1 0 0 1 0 1 0 0 0 0]
+No unconstrained duas covered in testcase 127 of printTo: [1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[0 0 0 0 0 1 0 1 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 128 of calculatePrintedLength: [1 1 0 1 1 1 1 1 1 1 1 0]: [0 0 1 0 0 0 0 0 0 0 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 1]
+[1 1 0 1 1 1 1 1 1 1 1 1]
+[0 0 1 0 0 0 0 0 0 0 0 0]
+[0 0 1 0 0 1 0 1 0 0 0 0]
+No unconstrained duas covered in testcase 128 of printTo: [1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[0 0 0 0 0 1 0 1 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 129 of calculatePrintedLength: [1 1 0 1 1 1 1 1 1 1 1 0]: [0 0 1 0 0 0 0 0 0 0 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 1]
+[1 1 0 1 1 1 1 1 1 1 1 1]
+[0 0 1 0 0 0 0 0 0 0 0 0]
+[0 0 1 0 0 1 0 1 0 0 0 0]
+No unconstrained duas covered in testcase 129 of printTo: [1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[0 0 0 0 0 1 0 1 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 130 of calculatePrintedLength: [1 1 0 1 1 1 1 1 1 1 1 0]: [0 0 1 0 0 0 0 0 0 0 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 1]
+[1 1 0 1 1 1 1 1 1 1 1 1]
+[0 0 1 0 0 0 0 0 0 0 0 0]
+[0 0 1 0 0 1 0 1 0 0 0 0]
+No unconstrained duas covered in testcase 130 of printTo: [1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[0 0 0 0 0 1 0 1 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 131 of calculatePrintedLength: [1 1 0 1 1 1 1 1 1 1 1 0]: [0 0 1 0 0 0 0 0 0 0 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 1]
+[1 1 0 1 1 1 1 1 1 1 1 1]
+[0 0 1 0 0 0 0 0 0 0 0 0]
+[0 0 1 0 0 1 0 1 0 0 0 0]
+No unconstrained duas covered in testcase 131 of printTo: [1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[0 0 0 0 0 1 0 1 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 132 of calculatePrintedLength: [1 1 0 1 1 1 1 1 1 1 1 0]: [0 0 1 0 0 0 0 0 0 0 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 1]
+[1 1 0 1 1 1 1 1 1 1 1 1]
+[0 0 1 0 0 0 0 0 0 0 0 0]
+[0 0 1 0 0 1 0 1 0 0 0 0]
+No unconstrained duas covered in testcase 132 of printTo: [1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[0 0 0 0 0 1 0 1 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 134 of calculatePrintedLength: [1 1 0 1 1 1 1 1 1 1 1 0]: [0 0 1 0 0 0 0 0 0 0 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 1]
+[1 1 0 1 1 1 1 1 1 1 1 1]
+[0 0 1 0 0 0 0 0 0 0 0 0]
+[0 0 1 0 0 1 0 1 0 0 0 0]
+No unconstrained duas covered in testcase 134 of printTo: [1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[0 0 0 0 0 1 0 1 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 135 of calculatePrintedLength: [1 1 0 1 1 1 1 1 1 1 1 0]: [0 0 1 0 0 0 0 0 0 0 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 1]
+[1 1 0 1 1 1 1 1 1 1 1 1]
+[0 0 1 0 0 0 0 0 0 0 0 0]
+[0 0 1 0 0 1 0 1 0 0 0 0]
+No unconstrained duas covered in testcase 135 of printTo: [1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[0 0 0 0 0 1 0 1 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 136 of calculatePrintedLength: [1 1 0 1 1 1 1 1 1 1 1 0]: [0 0 1 0 0 0 0 0 0 0 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 1]
+[1 1 0 1 1 1 1 1 1 1 1 1]
+[0 0 1 0 0 0 0 0 0 0 0 0]
+[0 0 1 0 0 1 0 1 0 0 0 0]
+No unconstrained duas covered in testcase 136 of printTo: [1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[0 0 0 0 0 1 0 1 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 138 of calculatePrintedLength: [1 1 0 1 1 1 1 1 1 1 1 0]: [0 0 1 0 0 0 0 0 0 0 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 1]
+[1 1 0 1 1 1 1 1 1 1 1 1]
+[0 0 1 0 0 0 0 0 0 0 0 0]
+[0 0 1 0 0 1 0 1 0 0 0 0]
+No unconstrained duas covered in testcase 138 of printTo: [1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[0 0 0 0 0 1 0 1 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 139 of calculatePrintedLength: [1 1 0 1 1 1 1 1 1 1 1 0]: [0 0 1 0 0 0 0 0 0 0 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 1]
+[1 1 0 1 1 1 1 1 1 1 1 1]
+[0 0 1 0 0 0 0 0 0 0 0 0]
+[0 0 1 0 0 1 0 1 0 0 0 0]
+No unconstrained duas covered in testcase 139 of printTo: [1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[0 0 0 0 0 1 0 1 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 140 of calculatePrintedLength: [1 1 0 1 1 1 1 1 1 1 1 0]: [0 0 1 0 0 0 0 0 0 0 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 1]
+[1 1 0 1 1 1 1 1 1 1 1 1]
+[0 0 1 0 0 0 0 0 0 0 0 0]
+[0 0 1 0 0 1 0 1 0 0 0 0]
+No unconstrained duas covered in testcase 140 of printTo: [1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[0 0 0 0 0 1 0 1 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 141 of calculatePrintedLength: [1 1 0 1 1 1 1 1 1 1 1 0]: [0 0 1 0 0 0 0 0 0 0 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 1]
+[1 1 0 1 1 1 1 1 1 1 1 1]
+[0 0 1 0 0 0 0 0 0 0 0 0]
+[0 0 1 0 0 1 0 1 0 0 0 0]
+No unconstrained duas covered in testcase 141 of printTo: [1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[0 0 0 0 0 1 0 1 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 142 of calculatePrintedLength: [1 1 0 1 1 1 1 1 1 1 1 0]: [0 0 1 0 0 0 0 0 0 0 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 1]
+[1 1 0 1 1 1 1 1 1 1 1 1]
+[0 0 1 0 0 0 0 0 0 0 0 0]
+[0 0 1 0 0 1 0 1 0 0 0 0]
+No unconstrained duas covered in testcase 142 of printTo: [1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[0 0 0 0 0 1 0 1 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 143 of calculatePrintedLength: [1 1 0 1 1 1 1 1 1 1 1 0]: [0 0 1 0 0 0 0 0 0 0 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 1]
+[1 1 0 1 1 1 1 1 1 1 1 1]
+[0 0 1 0 0 0 0 0 0 0 0 0]
+[0 0 1 0 0 1 0 1 0 0 0 0]
+No unconstrained duas covered in testcase 143 of printTo: [1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[0 0 0 0 0 1 0 1 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 144 of calculatePrintedLength: [1 1 0 1 1 1 1 1 1 1 1 0]: [0 0 1 0 0 0 0 0 0 0 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 1]
+[1 1 0 1 1 1 1 1 1 1 1 1]
+[0 0 1 0 0 0 0 0 0 0 0 0]
+[0 0 1 0 0 1 0 1 0 0 0 0]
+No unconstrained duas covered in testcase 144 of printTo: [1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[0 0 0 0 0 1 0 1 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 145 of calculatePrintedLength: [1 1 0 1 1 1 1 1 1 1 1 0]: [0 0 1 0 0 0 0 0 0 0 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 1]
+[1 1 0 1 1 1 1 1 1 1 1 1]
+[0 0 1 0 0 0 0 0 0 0 0 0]
+[0 0 1 0 0 1 0 1 0 0 0 0]
+No unconstrained duas covered in testcase 145 of printTo: [1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[0 0 0 0 0 1 0 1 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 146 of calculatePrintedLength: [1 1 0 1 1 1 1 1 1 1 1 0]: [0 0 1 0 0 0 0 0 0 0 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 1]
+[1 1 0 1 1 1 1 1 1 1 1 1]
+[0 0 1 0 0 0 0 0 0 0 0 0]
+[0 0 1 0 0 1 0 1 0 0 0 0]
+No unconstrained duas covered in testcase 146 of printTo: [1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[0 0 0 0 0 1 0 1 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 147 of calculatePrintedLength: [1 1 0 1 1 1 1 1 1 1 1 0]: [0 0 1 0 0 0 0 0 0 0 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 1]
+[1 1 0 1 1 1 1 1 1 1 1 1]
+[0 0 1 0 0 0 0 0 0 0 0 0]
+[0 0 1 0 0 1 0 1 0 0 0 0]
+No unconstrained duas covered in testcase 147 of printTo: [1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[0 0 0 0 0 1 0 1 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 148 of calculatePrintedLength: [1 1 0 1 1 1 1 1 1 1 1 0]: [0 0 1 0 0 0 0 0 0 0 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 1]
+[1 1 0 1 1 1 1 1 1 1 1 1]
+[0 0 1 0 0 0 0 0 0 0 0 0]
+[0 0 1 0 0 1 0 1 0 0 0 0]
+No unconstrained duas covered in testcase 148 of printTo: [1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[0 0 0 0 0 1 0 1 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 156 of calculatePrintedLength: [1 1 0 1 1 1 1 1 1 1 1 0]: [0 0 1 0 0 0 0 0 0 0 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 1]
+[1 1 0 1 1 1 1 1 1 1 1 1]
+[0 0 1 0 0 0 0 0 0 0 0 0]
+[0 0 1 0 0 1 0 1 0 0 0 0]
+No unconstrained duas covered in testcase 156 of printTo: [1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[0 0 0 0 0 1 0 1 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 157 of calculatePrintedLength: [1 1 0 1 1 1 1 1 1 1 1 0]: [0 0 1 0 0 0 0 0 0 0 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 1]
+[1 1 0 1 1 1 1 1 1 1 1 1]
+[0 0 1 0 0 0 0 0 0 0 0 0]
+[0 0 1 0 0 1 0 1 0 0 0 0]
+No unconstrained duas covered in testcase 157 of printTo: [1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[0 0 0 0 0 1 0 1 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 158 of calculatePrintedLength: [1 1 0 1 1 1 1 1 1 1 1 0]: [0 0 1 0 0 0 0 0 0 0 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 1]
+[1 1 0 1 1 1 1 1 1 1 1 1]
+[0 0 1 0 0 0 0 0 0 0 0 0]
+[0 0 1 0 0 1 0 1 0 0 0 0]
+No unconstrained duas covered in testcase 158 of printTo: [1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[0 0 0 0 0 1 0 1 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 159 of calculatePrintedLength: [1 1 0 1 1 1 1 1 1 1 1 0]: [0 0 1 0 0 0 0 0 0 0 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 1]
+[1 1 0 1 1 1 1 1 1 1 1 1]
+[0 0 1 0 0 0 0 0 0 0 0 0]
+[0 0 1 0 0 1 0 1 0 0 0 0]
+No unconstrained duas covered in testcase 159 of printTo: [1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[0 0 0 0 0 1 0 1 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 160 of calculatePrintedLength: [1 1 0 1 1 1 1 1 1 1 1 0]: [0 0 1 0 0 0 0 0 0 0 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 1]
+[1 1 0 1 1 1 1 1 1 1 1 1]
+[0 0 1 0 0 0 0 0 0 0 0 0]
+[0 0 1 0 0 1 0 1 0 0 0 0]
+No unconstrained duas covered in testcase 160 of printTo: [1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[0 0 0 0 0 1 0 1 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 162 of calculatePrintedLength: [1 1 0 1 1 1 1 1 1 1 1 0]: [0 0 1 0 0 0 0 0 0 0 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 1]
+[1 1 0 1 1 1 1 1 1 1 1 1]
+[0 0 1 0 0 0 0 0 0 0 0 0]
+[0 0 1 0 0 1 0 1 0 0 0 0]
+No unconstrained duas covered in testcase 162 of printTo: [1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[0 0 0 0 0 1 0 1 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 166 of calculatePrintedLength: [1 1 0 1 1 1 1 1 1 1 1 0]: [0 0 1 0 0 0 0 0 0 0 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 1]
+[1 1 0 1 1 1 1 1 1 1 1 1]
+[0 0 1 0 0 0 0 0 0 0 0 0]
+[0 0 1 0 0 1 0 1 0 0 0 0]
+No unconstrained duas covered in testcase 166 of printTo: [1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[0 0 0 0 0 1 0 1 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 167 of calculatePrintedLength: [1 1 0 1 1 1 1 1 1 1 1 0]: [0 0 1 0 0 0 0 0 0 0 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 1]
+[1 1 0 1 1 1 1 1 1 1 1 1]
+[0 0 1 0 0 0 0 0 0 0 0 0]
+[0 0 1 0 0 1 0 1 0 0 0 0]
+No unconstrained duas covered in testcase 167 of printTo: [1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[0 0 0 0 0 1 0 1 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 168 of calculatePrintedLength: [1 1 0 1 1 1 1 1 1 1 1 0]: [0 0 1 0 0 0 0 0 0 0 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 1]
+[1 1 0 1 1 1 1 1 1 1 1 1]
+[0 0 1 0 0 0 0 0 0 0 0 0]
+[0 0 1 0 0 1 0 1 0 0 0 0]
+No unconstrained duas covered in testcase 168 of printTo: [1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[0 0 0 0 0 1 0 1 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 169 of calculatePrintedLength: [1 1 0 1 1 1 1 1 1 1 1 0]: [0 0 1 0 0 0 0 0 0 0 0 1]
+[0 0 0 0 0 0 0 0 0 0 0 1]
+[1 1 0 1 1 1 1 1 1 1 1 1]
+[0 0 1 0 0 0 0 0 0 0 0 0]
+[0 0 1 0 0 1 0 1 0 0 0 0]
+No unconstrained duas covered in testcase 169 of printTo: [1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[0 0 0 0 0 1 0 1 0 0 0 0 0 0]
+Total :170: tests for class:org.joda.time.format.PeriodFormatterBuilder$Composite:
+Methods executed: 7
+Unconstrained method :calculatePrintedLength:1:61
+Unconstrained method :printTo:1:61
+org.joda.time.field.AbstractReadableInstantFieldProperty
+Directory of jaguar data: ../jaguar-data/joda-time/1b
+Directory of subsumption data: ../subsumption-data/Time
+Analyzing class org.joda.time.field.AbstractReadableInstantFieldProperty 
+../jaguar-data/joda-time/1b/jaguar/.jaguar/matrix
+org.joda.time.field.AbstractReadableInstantFieldProperty.matrix
+../subsumption-data/Time/reduce/org.joda.time.field.AbstractReadableInstantFieldProperty.sub.json
+>>>>> org.joda.time.field.AbstractReadableInstantFieldProperty <<<<<
+0:getDifference:5
+1:getDifferenceAsLong:5
+2:compareTo:13
+3:compareTo:13
+4:equals:19
+Total :38: tests for class:org.joda.time.field.AbstractReadableInstantFieldProperty:
+Methods executed: 4
+org.joda.time.LocalDate
+Directory of jaguar data: ../jaguar-data/joda-time/1b
+Directory of subsumption data: ../subsumption-data/Time
+Analyzing class org.joda.time.LocalDate 
+../jaguar-data/joda-time/1b/jaguar/.jaguar/matrix
+org.joda.time.LocalDate.matrix
+../subsumption-data/Time/reduce/org.joda.time.LocalDate.sub.json
+>>>>> org.joda.time.LocalDate <<<<<
+0:now:3
+1:now:3
+2:fromCalendarFields:8
+3:fromDateFields:6
+4:readResolve:16
+5:getField:8
+6:getValue:8
+7:get:9
+8:isSupported:13
+9:isSupported:13
+10:equals:25
+11:hashCode:6
+12:compareTo:33
+13:toLocalDateTime:9
+14:toDateTime:17
+15:toDate:30
+16:withLocalMillis:7
+17:withFields:5
+18:withField:11
+19:withFieldAdded:14
+20:withPeriodAdded:34
+21:plusYears:6
+22:plusMonths:6
+23:plusWeeks:6
+24:plusDays:6
+25:minusYears:6
+26:minusMonths:6
+27:minusWeeks:6
+28:minusDays:6
+29:property:9
+30:toString:5
+31:toString:6
+No unconstrained duas covered in testcase 6 of withPeriodAdded: [0 1 1 1 1 0 1 0 1 1 1 1 0 1 1 0 1 1 1 0 1 1 1 1 1 0 1 1 0 0 1 0 0 0]: [0 0 0 0 0 1 0 1 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 1 0 0 0 0 0]
+[0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[1 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0]
+[0 1 1 1 1 0 1 0 1 1 1 1 0 1 1 0 1 1 1 0 1 1 1 1 1 0 1 1 1 1 1 1 1 1]
+[0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0]
+[0 1 1 1 0 1 1 0 1 1 1 1 0 1 1 0 0 0 1 0 1 1 1 0 0 1 0 0 0 0 1 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 1 1 0 0 1 0 0 1 0 0 0 1 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 127 of withPeriodAdded: [0 1 1 1 1 0 1 0 1 1 1 1 0 1 1 0 1 1 1 0 1 1 1 1 1 0 1 1 0 0 1 0 0 0]: [0 0 0 0 0 1 0 1 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 1 0 0 0 0 0]
+[0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[1 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0]
+[0 1 1 1 1 0 1 0 1 1 1 1 0 1 1 0 1 1 1 0 1 1 1 1 1 0 1 1 1 1 1 1 1 1]
+[0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0]
+[0 1 1 1 0 1 1 0 1 1 1 1 0 1 1 0 0 0 1 0 1 1 1 0 0 1 0 0 0 0 1 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 1 1 0 0 1 0 0 1 0 0 0 1 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 131 of withPeriodAdded: [0 1 1 1 1 0 1 0 1 1 1 1 0 1 1 0 1 1 1 0 1 1 1 1 1 0 1 1 0 0 1 0 0 0]: [0 0 0 0 0 1 0 1 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 1 0 0 0 0 0]
+[0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[1 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0]
+[0 1 1 1 1 0 1 0 1 1 1 1 0 1 1 0 1 1 1 0 1 1 1 1 1 0 1 1 1 1 1 1 1 1]
+[0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0]
+[0 1 1 1 0 1 1 0 1 1 1 1 0 1 1 0 0 0 1 0 1 1 1 0 0 1 0 0 0 0 1 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 1 1 0 0 1 0 0 1 0 0 0 1 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 135 of withPeriodAdded: [0 1 1 1 1 0 1 0 1 1 1 1 0 1 1 0 1 1 1 0 1 1 1 1 1 0 1 1 0 0 1 0 0 0]: [0 0 0 0 0 1 0 1 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 1 0 0 0 0 0]
+[0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[1 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0]
+[0 1 1 1 1 0 1 0 1 1 1 1 0 1 1 0 1 1 1 0 1 1 1 1 1 0 1 1 1 1 1 1 1 1]
+[0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0]
+[0 1 1 1 0 1 1 0 1 1 1 1 0 1 1 0 0 0 1 0 1 1 1 0 0 1 0 0 0 0 1 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 1 1 0 0 1 0 0 1 0 0 0 1 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+Total :167: tests for class:org.joda.time.LocalDate:
+Methods executed: 28
+Unconstrained method :withPeriodAdded:1:4
+org.joda.time.field.UnsupportedDateTimeField
+Directory of jaguar data: ../jaguar-data/joda-time/1b
+Directory of subsumption data: ../subsumption-data/Time
+Analyzing class org.joda.time.field.UnsupportedDateTimeField 
+../jaguar-data/joda-time/1b/jaguar/.jaguar/matrix
+org.joda.time.field.UnsupportedDateTimeField.matrix
+../subsumption-data/Time/reduce/org.joda.time.field.UnsupportedDateTimeField.sub.json
+>>>>> org.joda.time.field.UnsupportedDateTimeField <<<<<
+0:getInstance:25
+1:<init>:8
+Total :13: tests for class:org.joda.time.field.UnsupportedDateTimeField:
+Methods executed: 2
+org.joda.time.base.AbstractDuration
+Directory of jaguar data: ../jaguar-data/joda-time/1b
+Directory of subsumption data: ../subsumption-data/Time
+Analyzing class org.joda.time.base.AbstractDuration 
+../jaguar-data/joda-time/1b/jaguar/.jaguar/matrix
+org.joda.time.base.AbstractDuration.matrix
+../subsumption-data/Time/reduce/org.joda.time.base.AbstractDuration.sub.json
+>>>>> org.joda.time.base.AbstractDuration <<<<<
+0:compareTo:8
+1:isEqual:9
+2:isLongerThan:9
+3:isShorterThan:9
+4:equals:11
+5:toString:17
+Total :18: tests for class:org.joda.time.base.AbstractDuration:
+Methods executed: 6
+org.joda.time.field.PreciseDurationField
+Directory of jaguar data: ../jaguar-data/joda-time/1b
+Directory of subsumption data: ../subsumption-data/Time
+Analyzing class org.joda.time.field.PreciseDurationField 
+../jaguar-data/joda-time/1b/jaguar/.jaguar/matrix
+org.joda.time.field.PreciseDurationField.matrix
+../subsumption-data/Time/reduce/org.joda.time.field.PreciseDurationField.sub.json
+>>>>> org.joda.time.field.PreciseDurationField <<<<<
+0:equals:19
+Total :20: tests for class:org.joda.time.field.PreciseDurationField:
+Methods executed: 1
+org.joda.time.tz.UTCProvider
+Directory of jaguar data: ../jaguar-data/joda-time/1b
+Directory of subsumption data: ../subsumption-data/Time
+Analyzing class org.joda.time.tz.UTCProvider 
+../jaguar-data/joda-time/1b/jaguar/.jaguar/matrix
+org.joda.time.tz.UTCProvider.matrix
+../subsumption-data/Time/reduce/org.joda.time.tz.UTCProvider.sub.json
+>>>>> org.joda.time.tz.UTCProvider <<<<<
+0:getZone:3
+Total :2: tests for class:org.joda.time.tz.UTCProvider:
+Methods executed: 1
+org.joda.time.chrono.IslamicChronology$LeapYearPatternType
+Directory of jaguar data: ../jaguar-data/joda-time/1b
+Directory of subsumption data: ../subsumption-data/Time
+Analyzing class org.joda.time.chrono.IslamicChronology$LeapYearPatternType 
+../jaguar-data/joda-time/1b/jaguar/.jaguar/matrix
+org.joda.time.chrono.IslamicChronology$LeapYearPatternType.matrix
+../subsumption-data/Time/reduce/org.joda.time.chrono.IslamicChronology$LeapYearPatternType.sub.json
+>>>>> org.joda.time.chrono.IslamicChronology$LeapYearPatternType <<<<<
+0:isLeapYear:6
+1:readResolve:15
+2:equals:8
+Total :10: tests for class:org.joda.time.chrono.IslamicChronology$LeapYearPatternType:
+Methods executed: 1
+org.joda.time.format.ISOPeriodFormat
+Directory of jaguar data: ../jaguar-data/joda-time/1b
+Directory of subsumption data: ../subsumption-data/Time
+Analyzing class org.joda.time.format.ISOPeriodFormat 
+../jaguar-data/joda-time/1b/jaguar/.jaguar/matrix
+org.joda.time.format.ISOPeriodFormat.matrix
+../subsumption-data/Time/reduce/org.joda.time.format.ISOPeriodFormat.sub.json
+>>>>> org.joda.time.format.ISOPeriodFormat <<<<<
+0:standard:4
+1:alternate:4
+2:alternateExtended:4
+3:alternateWithWeeks:4
+4:alternateExtendedWithWeeks:4
+Total :80: tests for class:org.joda.time.format.ISOPeriodFormat:
+Methods executed: 5
+org.joda.time.chrono.AssembledChronology
+Directory of jaguar data: ../jaguar-data/joda-time/1b
+Directory of subsumption data: ../subsumption-data/Time
+Analyzing class org.joda.time.chrono.AssembledChronology 
+../jaguar-data/joda-time/1b/jaguar/.jaguar/matrix
+org.joda.time.chrono.AssembledChronology.matrix
+../subsumption-data/Time/reduce/org.joda.time.chrono.AssembledChronology.sub.json
+>>>>> org.joda.time.chrono.AssembledChronology <<<<<
+0:getZone:5
+1:getDateTimeMillis:18
+2:getDateTimeMillis:24
+3:getDateTimeMillis:20
+4:setFields:344
+Total :2718: tests for class:org.joda.time.chrono.AssembledChronology:
+Methods executed: 3
+org.joda.time.tz.DateTimeZoneBuilder$RuleSet
+Directory of jaguar data: ../jaguar-data/joda-time/1b
+Directory of subsumption data: ../subsumption-data/Time
+Analyzing class org.joda.time.tz.DateTimeZoneBuilder$RuleSet 
+../jaguar-data/joda-time/1b/jaguar/.jaguar/matrix
+org.joda.time.tz.DateTimeZoneBuilder$RuleSet.matrix
+../subsumption-data/Time/reduce/org.joda.time.tz.DateTimeZoneBuilder$RuleSet.sub.json
+>>>>> org.joda.time.tz.DateTimeZoneBuilder$RuleSet <<<<<
+0:addRule:9
+1:firstTransition:71
+2:nextTransition:53
+3:getUpperLimit:9
+4:buildTailZone:19
+Total :8: tests for class:org.joda.time.tz.DateTimeZoneBuilder$RuleSet:
+Methods executed: 5
+org.joda.time.Partial
+Directory of jaguar data: ../jaguar-data/joda-time/1b
+Directory of subsumption data: ../subsumption-data/Time
+Analyzing class org.joda.time.Partial 
+../jaguar-data/joda-time/1b/jaguar/.jaguar/matrix
+org.joda.time.Partial.matrix
+../subsumption-data/Time/reduce/org.joda.time.Partial.sub.json
+>>>>> org.joda.time.Partial <<<<<
+0:<init>:8
+1:<init>:108
+2:<init>:26
+3:withChronologyRetainFields:12
+4:with:96
+5:without:21
+6:withField:12
+7:withFieldAdded:8
+8:withFieldAddWrapped:8
+9:withPeriodAdded:31
+10:isMatch:26
+11:isMatch:27
+12:getFormatter:13
+13:toString:15
+14:toStringList:26
+15:toString:5
+16:toString:6
+No unconstrained duas covered in testcase 77 of getFormatter: [0 1 1 0 1 1 0 0 0 1 0 0 0]: [1 0 0 0 0 0 1 1 0 0 1 1 1]
+[1 0 0 0 0 0 0 0 0 0 0 0 0]
+[1 0 0 0 0 1 0 0 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 1 1 0]
+[0 1 1 1 1 1 0 0 1 1 1 1 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 1]
+[0 1 1 1 1 1 0 0 1 1 0 0 1]
+[0 0 0 0 0 0 1 1 0 0 0 0 0]
+[0 0 0 0 0 0 1 1 0 0 0 0 0]
+Total :165: tests for class:org.joda.time.Partial:
+Methods executed: 12
+Unconstrained method :getFormatter:1:1
+org.joda.time.LocalDateTime
+Directory of jaguar data: ../jaguar-data/joda-time/1b
+Directory of subsumption data: ../subsumption-data/Time
+Analyzing class org.joda.time.LocalDateTime 
+../jaguar-data/joda-time/1b/jaguar/.jaguar/matrix
+org.joda.time.LocalDateTime.matrix
+../subsumption-data/Time/reduce/org.joda.time.LocalDateTime.sub.json
+>>>>> org.joda.time.LocalDateTime <<<<<
+0:now:3
+1:now:3
+2:fromCalendarFields:8
+3:fromDateFields:6
+4:readResolve:16
+5:getField:10
+6:getValue:10
+7:get:4
+8:isSupported:4
+9:isSupported:4
+10:equals:25
+11:compareTo:33
+12:correctDstTransition:37
+13:withLocalMillis:7
+14:withFields:5
+15:withField:6
+16:withFieldAdded:9
+17:withDurationAdded:9
+18:withPeriodAdded:9
+19:plusYears:6
+20:plusMonths:6
+21:plusWeeks:6
+22:plusDays:6
+23:plusHours:6
+24:plusMinutes:6
+25:plusSeconds:6
+26:plusMillis:6
+27:minusYears:6
+28:minusMonths:6
+29:minusWeeks:6
+30:minusDays:6
+31:minusHours:6
+32:minusMinutes:6
+33:minusSeconds:6
+34:minusMillis:6
+35:property:9
+36:toString:5
+37:toString:6
+Total :155: tests for class:org.joda.time.LocalDateTime:
+Methods executed: 33
+org.joda.time.chrono.ZonedChronology$ZonedDurationField
+Directory of jaguar data: ../jaguar-data/joda-time/1b
+Directory of subsumption data: ../subsumption-data/Time
+Analyzing class org.joda.time.chrono.ZonedChronology$ZonedDurationField 
+../jaguar-data/joda-time/1b/jaguar/.jaguar/matrix
+org.joda.time.chrono.ZonedChronology$ZonedDurationField.matrix
+../subsumption-data/Time/reduce/org.joda.time.chrono.ZonedChronology$ZonedDurationField.sub.json
+>>>>> org.joda.time.chrono.ZonedChronology$ZonedDurationField <<<<<
+0:<init>:8
+1:isPrecise:14
+2:add:6
+3:add:6
+4:getDifference:9
+5:getDifferenceAsLong:9
+6:getOffsetToAdd:9
+7:getOffsetFromLocalToSubtract:9
+8:equals:23
+Total :388: tests for class:org.joda.time.chrono.ZonedChronology$ZonedDurationField:
+Methods executed: 8
+org.joda.time.format.DateTimeFormatterBuilder$TextField
+Directory of jaguar data: ../jaguar-data/joda-time/1b
+Directory of subsumption data: ../subsumption-data/Time
+Analyzing class org.joda.time.format.DateTimeFormatterBuilder$TextField 
+../jaguar-data/joda-time/1b/jaguar/.jaguar/matrix
+org.joda.time.format.DateTimeFormatterBuilder$TextField.matrix
+../subsumption-data/Time/reduce/org.joda.time.format.DateTimeFormatterBuilder$TextField.sub.json
+>>>>> org.joda.time.format.DateTimeFormatterBuilder$TextField <<<<<
+0:estimatePrintedLength:4
+1:print:10
+2:print:19
+3:parseInto:100
+Total :124: tests for class:org.joda.time.format.DateTimeFormatterBuilder$TextField:
+Methods executed: 3
+org.joda.time.chrono.EthiopicChronology
+Directory of jaguar data: ../jaguar-data/joda-time/1b
+Directory of subsumption data: ../subsumption-data/Time
+Analyzing class org.joda.time.chrono.EthiopicChronology 
+../jaguar-data/joda-time/1b/jaguar/.jaguar/matrix
+org.joda.time.chrono.EthiopicChronology.matrix
+../subsumption-data/Time/reduce/org.joda.time.chrono.EthiopicChronology.sub.json
+>>>>> org.joda.time.chrono.EthiopicChronology <<<<<
+0:getInstance:38
+1:readResolve:5
+2:withZone:11
+3:calculateFirstDayOfYearMillis:13
+4:assemble:17
+Total :13: tests for class:org.joda.time.chrono.EthiopicChronology:
+Methods executed: 4
+org.joda.time.format.DateTimeParserBucket
+Directory of jaguar data: ../jaguar-data/joda-time/1b
+Directory of subsumption data: ../subsumption-data/Time
+Analyzing class org.joda.time.format.DateTimeParserBucket 
+../jaguar-data/joda-time/1b/jaguar/.jaguar/matrix
+org.joda.time.format.DateTimeParserBucket.matrix
+../subsumption-data/Time/reduce/org.joda.time.format.DateTimeParserBucket.sub.json
+>>>>> org.joda.time.format.DateTimeParserBucket <<<<<
+0:<init>:8
+1:getOffset:6
+2:saveField:24
+3:saveState:9
+4:restoreState:8
+5:computeMillis:115
+6:sort:35
+7:compareReverse:14
+Total :351: tests for class:org.joda.time.format.DateTimeParserBucket:
+Methods executed: 7
+org.joda.time.format.DateTimeFormatterBuilder$MatchingParser
+Directory of jaguar data: ../jaguar-data/joda-time/1b
+Directory of subsumption data: ../subsumption-data/Time
+Analyzing class org.joda.time.format.DateTimeFormatterBuilder$MatchingParser 
+../jaguar-data/joda-time/1b/jaguar/.jaguar/matrix
+org.joda.time.format.DateTimeFormatterBuilder$MatchingParser.matrix
+../subsumption-data/Time/reduce/org.joda.time.format.DateTimeFormatterBuilder$MatchingParser.sub.json
+>>>>> org.joda.time.format.DateTimeFormatterBuilder$MatchingParser <<<<<
+0:<init>:19
+1:parseInto:92
+Total :196: tests for class:org.joda.time.format.DateTimeFormatterBuilder$MatchingParser:
+Methods executed: 2
+org.joda.time.chrono.BasicDayOfMonthDateTimeField
+Directory of jaguar data: ../jaguar-data/joda-time/1b
+Directory of subsumption data: ../subsumption-data/Time
+Analyzing class org.joda.time.chrono.BasicDayOfMonthDateTimeField 
+../jaguar-data/joda-time/1b/jaguar/.jaguar/matrix
+org.joda.time.chrono.BasicDayOfMonthDateTimeField.matrix
+../subsumption-data/Time/reduce/org.joda.time.chrono.BasicDayOfMonthDateTimeField.sub.json
+>>>>> org.joda.time.chrono.BasicDayOfMonthDateTimeField <<<<<
+0:getMaximumValue:13
+1:getMaximumValue:41
+Total :164: tests for class:org.joda.time.chrono.BasicDayOfMonthDateTimeField:
+Methods executed: 1
+org.joda.time.tz.DateTimeZoneBuilder$DSTZone
+Directory of jaguar data: ../jaguar-data/joda-time/1b
+Directory of subsumption data: ../subsumption-data/Time
+Analyzing class org.joda.time.tz.DateTimeZoneBuilder$DSTZone 
+../jaguar-data/joda-time/1b/jaguar/.jaguar/matrix
+org.joda.time.tz.DateTimeZoneBuilder$DSTZone.matrix
+../subsumption-data/Time/reduce/org.joda.time.tz.DateTimeZoneBuilder$DSTZone.sub.json
+>>>>> org.joda.time.tz.DateTimeZoneBuilder$DSTZone <<<<<
+0:nextTransition:26
+1:previousTransition:24
+2:equals:35
+3:findMatchingRecurrence:6
+Wrong subsumption: nextTransition
+t:[0 0 0 1 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0]
+u:[0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+s:[0 0 1 0 0 0 0 1 1 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0]
+Total :643: tests for class:org.joda.time.tz.DateTimeZoneBuilder$DSTZone:
+Methods executed: 4
+org.joda.time.Period
+Directory of jaguar data: ../jaguar-data/joda-time/1b
+Directory of subsumption data: ../subsumption-data/Time
+Analyzing class org.joda.time.Period 
+../jaguar-data/joda-time/1b/jaguar/.jaguar/matrix
+org.joda.time.Period.matrix
+../subsumption-data/Time/reduce/org.joda.time.Period.sub.json
+>>>>> org.joda.time.Period <<<<<
+0:fieldDifference:48
+1:withPeriodType:7
+2:withFields:7
+3:withField:7
+4:withFieldAdded:10
+5:plus:37
+6:plusYears:8
+7:plusMonths:8
+8:plusWeeks:8
+9:plusDays:8
+10:plusHours:8
+11:plusMinutes:8
+12:plusSeconds:8
+13:plusMillis:8
+14:minus:37
+15:multipliedBy:22
+16:checkYearsAndMonths:6
+17:normalizedStandard:33
+Total :60: tests for class:org.joda.time.Period:
+Methods executed: 18
+org.joda.time.tz.ZoneInfoCompiler$Zone
+Directory of jaguar data: ../jaguar-data/joda-time/1b
+Directory of subsumption data: ../subsumption-data/Time
+Analyzing class org.joda.time.tz.ZoneInfoCompiler$Zone 
+../jaguar-data/joda-time/1b/jaguar/.jaguar/matrix
+org.joda.time.tz.ZoneInfoCompiler$Zone.matrix
+../subsumption-data/Time/reduce/org.joda.time.tz.ZoneInfoCompiler$Zone.sub.json
+>>>>> org.joda.time.tz.ZoneInfoCompiler$Zone <<<<<
+0:<init>:12
+1:chain:11
+2:addToBuilder:27
+3:toString:8
+Total :1: tests for class:org.joda.time.tz.ZoneInfoCompiler$Zone:
+Methods executed: 2
+org.joda.time.tz.ZoneInfoCompiler$Rule
+Directory of jaguar data: ../jaguar-data/joda-time/1b
+Directory of subsumption data: ../subsumption-data/Time
+Analyzing class org.joda.time.tz.ZoneInfoCompiler$Rule 
+../jaguar-data/joda-time/1b/jaguar/.jaguar/matrix
+org.joda.time.tz.ZoneInfoCompiler$Rule.matrix
+../subsumption-data/Time/reduce/org.joda.time.tz.ZoneInfoCompiler$Rule.sub.json
+>>>>> org.joda.time.tz.ZoneInfoCompiler$Rule <<<<<
+0:<init>:14
+1:formatName:30
+Total :1: tests for class:org.joda.time.tz.ZoneInfoCompiler$Rule:
+Methods executed: 2
+org.joda.time.Hours
+Directory of jaguar data: ../jaguar-data/joda-time/1b
+Directory of subsumption data: ../subsumption-data/Time
+Analyzing class org.joda.time.Hours 
+../jaguar-data/joda-time/1b/jaguar/.jaguar/matrix
+org.joda.time.Hours.matrix
+../subsumption-data/Time/reduce/org.joda.time.Hours.sub.json
+>>>>> org.joda.time.Hours <<<<<
+0:hours:24
+1:hoursBetween:10
+2:hoursIn:4
+3:parseHours:5
+4:plus:5
+5:plus:5
+6:minus:5
+7:dividedBy:5
+8:isGreaterThan:8
+9:isLessThan:8
+Total :36: tests for class:org.joda.time.Hours:
+Methods executed: 9
+org.joda.time.chrono.BasicChronology
+Directory of jaguar data: ../jaguar-data/joda-time/1b
+Directory of subsumption data: ../subsumption-data/Time
+Analyzing class org.joda.time.chrono.BasicChronology 
+../jaguar-data/joda-time/1b/jaguar/.jaguar/matrix
+org.joda.time.chrono.BasicChronology.matrix
+../subsumption-data/Time/reduce/org.joda.time.chrono.BasicChronology.sub.json
+>>>>> org.joda.time.chrono.BasicChronology <<<<<
+0:<init>:7
+1:getZone:4
+2:getDateTimeMillis:13
+3:getDateTimeMillis:22
+4:equals:19
+5:toString:20
+6:getDaysInYear:4
+7:getFirstWeekOfYearMillis:10
+8:getYear:29
+9:getWeekyear:9
+10:getWeekOfWeekyear:14
+11:getDayOfWeek:9
+12:getMillisOfDay:4
+13:getYearInfo:15
+Total :1919: tests for class:org.joda.time.chrono.BasicChronology:
+Methods executed: 13
+org.joda.time.chrono.ZonedChronology
+Directory of jaguar data: ../jaguar-data/joda-time/1b
+Directory of subsumption data: ../subsumption-data/Time
+Analyzing class org.joda.time.chrono.ZonedChronology 
+../jaguar-data/joda-time/1b/jaguar/.jaguar/matrix
+org.joda.time.chrono.ZonedChronology.matrix
+../subsumption-data/Time/reduce/org.joda.time.chrono.ZonedChronology.sub.json
+>>>>> org.joda.time.chrono.ZonedChronology <<<<<
+0:getInstance:9
+1:useTimeArithmetic:4
+2:withZone:19
+3:localToUTC:9
+4:convertField:15
+5:convertField:16
+6:equals:15
+Total :742: tests for class:org.joda.time.chrono.ZonedChronology:
+Methods executed: 5
+org.joda.time.tz.CachedDateTimeZone
+Directory of jaguar data: ../jaguar-data/joda-time/1b
+Directory of subsumption data: ../subsumption-data/Time
+Analyzing class org.joda.time.tz.CachedDateTimeZone 
+../jaguar-data/joda-time/1b/jaguar/.jaguar/matrix
+org.joda.time.tz.CachedDateTimeZone.matrix
+../subsumption-data/Time/reduce/org.joda.time.tz.CachedDateTimeZone.sub.json
+>>>>> org.joda.time.tz.CachedDateTimeZone <<<<<
+0:forZone:4
+1:equals:9
+2:getInfo:14
+3:createInfo:20
+Total :1305: tests for class:org.joda.time.tz.CachedDateTimeZone:
+Methods executed: 4
+org.joda.time.chrono.BasicDayOfYearDateTimeField
+Directory of jaguar data: ../jaguar-data/joda-time/1b
+Directory of subsumption data: ../subsumption-data/Time
+Analyzing class org.joda.time.chrono.BasicDayOfYearDateTimeField 
+../jaguar-data/joda-time/1b/jaguar/.jaguar/matrix
+org.joda.time.chrono.BasicDayOfYearDateTimeField.matrix
+../subsumption-data/Time/reduce/org.joda.time.chrono.BasicDayOfYearDateTimeField.sub.json
+>>>>> org.joda.time.chrono.BasicDayOfYearDateTimeField <<<<<
+0:getMaximumValue:7
+1:getMaximumValue:21
+2:getMaximumValueForSet:9
+Total :45: tests for class:org.joda.time.chrono.BasicDayOfYearDateTimeField:
+Methods executed: 2
+org.joda.time.field.DecoratedDurationField
+Directory of jaguar data: ../jaguar-data/joda-time/1b
+Directory of subsumption data: ../subsumption-data/Time
+Analyzing class org.joda.time.field.DecoratedDurationField 
+../jaguar-data/joda-time/1b/jaguar/.jaguar/matrix
+org.joda.time.field.DecoratedDurationField.matrix
+../subsumption-data/Time/reduce/org.joda.time.field.DecoratedDurationField.sub.json
+>>>>> org.joda.time.field.DecoratedDurationField <<<<<
+0:<init>:6
+Total :45: tests for class:org.joda.time.field.DecoratedDurationField:
+Methods executed: 1
+org.joda.time.tz.DateTimeZoneBuilder
+Directory of jaguar data: ../jaguar-data/joda-time/1b
+Directory of subsumption data: ../subsumption-data/Time
+Analyzing class org.joda.time.tz.DateTimeZoneBuilder 
+../jaguar-data/joda-time/1b/jaguar/.jaguar/matrix
+org.joda.time.tz.DateTimeZoneBuilder.matrix
+../subsumption-data/Time/reduce/org.joda.time.tz.DateTimeZoneBuilder.sub.json
+>>>>> org.joda.time.tz.DateTimeZoneBuilder <<<<<
+0:readFrom:6
+1:readFrom:17
+2:writeMillis:28
+3:readMillis:15
+4:buildFixedZone:15
+5:addCutover:16
+6:addRecurringSavings:16
+7:getLastRuleSet:7
+8:toDateTimeZone:94
+9:addTransition:30
+10:writeTo:8
+11:writeTo:17
+Total :25: tests for class:org.joda.time.tz.DateTimeZoneBuilder:
+Methods executed: 10
+org.joda.time.tz.DefaultNameProvider
+Directory of jaguar data: ../jaguar-data/joda-time/1b
+Directory of subsumption data: ../subsumption-data/Time
+Analyzing class org.joda.time.tz.DefaultNameProvider 
+../jaguar-data/joda-time/1b/jaguar/.jaguar/matrix
+org.joda.time.tz.DefaultNameProvider.matrix
+../subsumption-data/Time/reduce/org.joda.time.tz.DefaultNameProvider.sub.json
+>>>>> org.joda.time.tz.DefaultNameProvider <<<<<
+0:getShortName:3
+1:getName:3
+2:getNameSet:103
+Total :6: tests for class:org.joda.time.tz.DefaultNameProvider:
+Methods executed: 3
+org.joda.time.chrono.AssembledChronology$Fields
+Directory of jaguar data: ../jaguar-data/joda-time/1b
+Directory of subsumption data: ../subsumption-data/Time
+Analyzing class org.joda.time.chrono.AssembledChronology$Fields 
+../jaguar-data/joda-time/1b/jaguar/.jaguar/matrix
+org.joda.time.chrono.AssembledChronology$Fields.matrix
+../subsumption-data/Time/reduce/org.joda.time.chrono.AssembledChronology$Fields.sub.json
+>>>>> org.joda.time.chrono.AssembledChronology$Fields <<<<<
+0:copyFieldsFrom:174
+1:isSupported:3
+2:isSupported:3
+Total :93: tests for class:org.joda.time.chrono.AssembledChronology$Fields:
+Methods executed: 2
+org.joda.time.tz.DateTimeZoneBuilder$PrecalculatedZone
+Directory of jaguar data: ../jaguar-data/joda-time/1b
+Directory of subsumption data: ../subsumption-data/Time
+Analyzing class org.joda.time.tz.DateTimeZoneBuilder$PrecalculatedZone 
+../jaguar-data/joda-time/1b/jaguar/.jaguar/matrix
+org.joda.time.tz.DateTimeZoneBuilder$PrecalculatedZone.matrix
+../subsumption-data/Time/reduce/org.joda.time.tz.DateTimeZoneBuilder$PrecalculatedZone.sub.json
+>>>>> org.joda.time.tz.DateTimeZoneBuilder$PrecalculatedZone <<<<<
+0:readFrom:54
+1:create:185
+2:getNameKey:25
+3:getOffset:25
+4:getStandardOffset:25
+5:nextTransition:24
+6:previousTransition:37
+7:equals:59
+8:writeTo:105
+9:isCachable:36
+Total :758: tests for class:org.joda.time.tz.DateTimeZoneBuilder$PrecalculatedZone:
+Methods executed: 10
+org.joda.time.Days
+Directory of jaguar data: ../jaguar-data/joda-time/1b
+Directory of subsumption data: ../subsumption-data/Time
+Analyzing class org.joda.time.Days 
+../jaguar-data/joda-time/1b/jaguar/.jaguar/matrix
+org.joda.time.Days.matrix
+../subsumption-data/Time/reduce/org.joda.time.Days.sub.json
+>>>>> org.joda.time.Days <<<<<
+0:days:22
+1:daysBetween:10
+2:daysIn:4
+3:parseDays:5
+4:plus:5
+5:plus:5
+6:minus:5
+7:dividedBy:5
+8:isGreaterThan:8
+9:isLessThan:8
+Total :38: tests for class:org.joda.time.Days:
+Methods executed: 9
+org.joda.time.chrono.BasicWeekOfWeekyearDateTimeField
+Directory of jaguar data: ../jaguar-data/joda-time/1b
+Directory of subsumption data: ../subsumption-data/Time
+Analyzing class org.joda.time.chrono.BasicWeekOfWeekyearDateTimeField 
+../jaguar-data/joda-time/1b/jaguar/.jaguar/matrix
+org.joda.time.chrono.BasicWeekOfWeekyearDateTimeField.matrix
+../subsumption-data/Time/reduce/org.joda.time.chrono.BasicWeekOfWeekyearDateTimeField.sub.json
+>>>>> org.joda.time.chrono.BasicWeekOfWeekyearDateTimeField <<<<<
+0:getMaximumValue:5
+1:getMaximumValue:19
+2:getMaximumValueForSet:4
+Total :43: tests for class:org.joda.time.chrono.BasicWeekOfWeekyearDateTimeField:
+Methods executed: 2
+org.joda.time.base.AbstractInstant
+Directory of jaguar data: ../jaguar-data/joda-time/1b
+Directory of subsumption data: ../subsumption-data/Time
+Analyzing class org.joda.time.base.AbstractInstant 
+../jaguar-data/joda-time/1b/jaguar/.jaguar/matrix
+org.joda.time.base.AbstractInstant.matrix
+../subsumption-data/Time/reduce/org.joda.time.base.AbstractInstant.sub.json
+>>>>> org.joda.time.base.AbstractInstant <<<<<
+0:get:4
+1:isSupported:4
+2:get:4
+3:equals:15
+4:compareTo:14
+5:isAfter:4
+6:isBefore:4
+7:isEqual:4
+8:toString:5
+Total :392: tests for class:org.joda.time.base.AbstractInstant:
+Methods executed: 8
+org.joda.time.field.DecoratedDateTimeField
+Directory of jaguar data: ../jaguar-data/joda-time/1b
+Directory of subsumption data: ../subsumption-data/Time
+Analyzing class org.joda.time.field.DecoratedDateTimeField 
+../jaguar-data/joda-time/1b/jaguar/.jaguar/matrix
+org.joda.time.field.DecoratedDateTimeField.matrix
+../subsumption-data/Time/reduce/org.joda.time.field.DecoratedDateTimeField.sub.json
+>>>>> org.joda.time.field.DecoratedDateTimeField <<<<<
+0:<init>:6
+Total :69: tests for class:org.joda.time.field.DecoratedDateTimeField:
+Methods executed: 1
+org.joda.time.format.PeriodFormatterBuilder$PluralAffix
+Directory of jaguar data: ../jaguar-data/joda-time/1b
+Directory of subsumption data: ../subsumption-data/Time
+Analyzing class org.joda.time.format.PeriodFormatterBuilder$PluralAffix 
+../jaguar-data/joda-time/1b/jaguar/.jaguar/matrix
+org.joda.time.format.PeriodFormatterBuilder$PluralAffix.matrix
+../subsumption-data/Time/reduce/org.joda.time.format.PeriodFormatterBuilder$PluralAffix.sub.json
+>>>>> org.joda.time.format.PeriodFormatterBuilder$PluralAffix <<<<<
+0:calculatePrintedLength:4
+1:printTo:5
+2:printTo:6
+3:parse:29
+4:scan:49
+Total :48: tests for class:org.joda.time.format.PeriodFormatterBuilder$PluralAffix:
+Methods executed: 4
+org.joda.time.convert.ReadableInstantConverter
+Directory of jaguar data: ../jaguar-data/joda-time/1b
+Directory of subsumption data: ../subsumption-data/Time
+Analyzing class org.joda.time.convert.ReadableInstantConverter 
+../jaguar-data/joda-time/1b/jaguar/.jaguar/matrix
+org.joda.time.convert.ReadableInstantConverter.matrix
+../subsumption-data/Time/reduce/org.joda.time.convert.ReadableInstantConverter.sub.json
+>>>>> org.joda.time.convert.ReadableInstantConverter <<<<<
+0:getChronology:15
+1:getChronology:5
+Total :30: tests for class:org.joda.time.convert.ReadableInstantConverter:
+Methods executed: 1
+org.joda.time.format.DateTimeFormatterBuilder$Composite
+Directory of jaguar data: ../jaguar-data/joda-time/1b
+Directory of subsumption data: ../subsumption-data/Time
+Analyzing class org.joda.time.format.DateTimeFormatterBuilder$Composite 
+../jaguar-data/joda-time/1b/jaguar/.jaguar/matrix
+org.joda.time.format.DateTimeFormatterBuilder$Composite.matrix
+../subsumption-data/Time/reduce/org.joda.time.format.DateTimeFormatterBuilder$Composite.sub.json
+>>>>> org.joda.time.format.DateTimeFormatterBuilder$Composite <<<<<
+0:<init>:56
+1:printTo:23
+2:printTo:23
+3:printTo:20
+4:printTo:20
+5:parseInto:24
+6:isPrinter:4
+7:isParser:4
+8:decompose:28
+9:addArrayToList:14
+Total :836: tests for class:org.joda.time.format.DateTimeFormatterBuilder$Composite:
+Methods executed: 7
+org.joda.time.format.PeriodFormatterBuilder
+Directory of jaguar data: ../jaguar-data/joda-time/1b
+Directory of subsumption data: ../subsumption-data/Time
+Analyzing class org.joda.time.format.PeriodFormatterBuilder 
+../jaguar-data/joda-time/1b/jaguar/.jaguar/matrix
+org.joda.time.format.PeriodFormatterBuilder.matrix
+../subsumption-data/Time/reduce/org.joda.time.format.PeriodFormatterBuilder.sub.json
+>>>>> org.joda.time.format.PeriodFormatterBuilder <<<<<
+0:toPrinter:5
+1:toParser:5
+2:clear:10
+3:append:6
+4:append:9
+5:appendLiteral:6
+6:appendPrefix:4
+7:appendPrefix:7
+8:appendPrefix:13
+9:appendSuffix:4
+10:appendSuffix:7
+11:appendSuffix:39
+12:appendSeparator:57
+13:clearPrefix:5
+14:append0:9
+15:toFormatter:27
+16:createComposite:8
+Total :68: tests for class:org.joda.time.format.PeriodFormatterBuilder:
+Methods executed: 12
+org.joda.time.chrono.BaseChronology
+Directory of jaguar data: ../jaguar-data/joda-time/1b
+Directory of subsumption data: ../subsumption-data/Time
+Analyzing class org.joda.time.chrono.BaseChronology 
+../jaguar-data/joda-time/1b/jaguar/.jaguar/matrix
+org.joda.time.chrono.BaseChronology.matrix
+../subsumption-data/Time/reduce/org.joda.time.chrono.BaseChronology.sub.json
+>>>>> org.joda.time.chrono.BaseChronology <<<<<
+0:validate:64
+1:get:15
+2:set:16
+3:get:25
+4:get:27
+5:add:28
+6:add:8
+No unconstrained duas covered in testcase 33 of get: [1 1 1 0 1 1 1 0 1 1 1 1 1 1 0 1 1 1 0 0 0 1 0 0 0]: [0 0 0 1 0 0 0 1 0 0 0 0 0 0 1 0 0 0 1 1 1 0 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 0 1 1 1]
+[1 1 1 0 1 1 1 0 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0]
+[0 0 1 0 0 0 1 0 0 0 1 1 0 0 1 0 0 0 0 0 0 0 0 0 0]
+[0 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 0 0 1 0 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 34 of get: [1 1 1 0 1 1 1 0 1 1 1 1 1 1 0 1 1 1 0 0 0 1 0 0 0]: [0 0 0 1 0 0 0 1 0 0 0 0 0 0 1 0 0 0 1 1 1 0 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 0 1 1 1]
+[1 1 1 0 1 1 1 0 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0]
+[0 0 1 0 0 0 1 0 0 0 1 1 0 0 1 0 0 0 0 0 0 0 0 0 0]
+[0 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 0 0 1 0 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 48 of get: [1 1 1 0 1 1 1 0 1 1 1 1 1 1 0 1 1 1 0 0 0 1 0 0 0]: [0 0 0 1 0 0 0 1 0 0 0 0 0 0 1 0 0 0 1 1 1 0 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 0 1 1 1]
+[1 1 1 0 1 1 1 0 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0]
+[0 0 1 0 0 0 1 0 0 0 1 1 0 0 1 0 0 0 0 0 0 0 0 0 0]
+[0 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 0 0 1 0 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 184 of get: [1 1 1 0 1 1 1 0 1 1 1 1 1 1 0 1 1 1 0 0 0 1 0 0 0]: [0 0 0 1 0 0 0 1 0 0 0 0 0 0 1 0 0 0 1 1 1 0 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 0 1 1 1]
+[1 1 1 0 1 1 1 0 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0]
+[0 0 1 0 0 0 1 0 0 0 1 1 0 0 1 0 0 0 0 0 0 0 0 0 0]
+[0 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 0 0 1 0 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 291 of get: [1 1 1 0 1 1 1 0 1 1 1 1 1 1 0 1 1 1 0 0 0 1 0 0 0]: [0 0 0 1 0 0 0 1 0 0 0 0 0 0 1 0 0 0 1 1 1 0 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 0 1 1 1]
+[1 1 1 0 1 1 1 0 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0]
+[0 0 1 0 0 0 1 0 0 0 1 1 0 0 1 0 0 0 0 0 0 0 0 0 0]
+[0 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 0 0 1 0 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 292 of get: [1 1 1 0 1 1 1 0 1 1 1 1 1 1 0 1 1 1 0 0 0 1 0 0 0]: [0 0 0 1 0 0 0 1 0 0 0 0 0 0 1 0 0 0 1 1 1 0 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 0 1 1 1]
+[1 1 1 0 1 1 1 0 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0]
+[0 0 1 0 0 0 1 0 0 0 1 1 0 0 1 0 0 0 0 0 0 0 0 0 0]
+[0 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 0 0 1 0 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 293 of get: [1 1 1 0 1 1 1 0 1 1 1 1 1 1 0 1 1 1 0 0 0 1 0 0 0]: [0 0 0 1 0 0 0 1 0 0 0 0 0 0 1 0 0 0 1 1 1 0 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 0 1 1 1]
+[1 1 1 0 1 1 1 0 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0]
+[0 0 1 0 0 0 1 0 0 0 1 1 0 0 1 0 0 0 0 0 0 0 0 0 0]
+[0 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 0 0 1 0 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 626 of get: [1 1 1 0 1 1 1 0 1 1 1 1 1 1 0 1 1 1 0 0 0 1 0 0 0]: [0 0 0 1 0 0 0 1 0 0 0 0 0 0 1 0 0 0 1 1 1 0 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 0 1 1 1]
+[1 1 1 0 1 1 1 0 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0]
+[0 0 1 0 0 0 1 0 0 0 1 1 0 0 1 0 0 0 0 0 0 0 0 0 0]
+[0 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 0 0 1 0 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 770 of get: [1 1 1 0 1 1 1 0 1 1 1 1 1 1 0 1 1 1 0 0 0 1 0 0 0]: [0 0 0 1 0 0 0 1 0 0 0 0 0 0 1 0 0 0 1 1 1 0 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 0 1 1 1]
+[1 1 1 0 1 1 1 0 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0]
+[0 0 1 0 0 0 1 0 0 0 1 1 0 0 1 0 0 0 0 0 0 0 0 0 0]
+[0 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 0 0 1 0 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 977 of get: [1 1 1 0 1 1 1 0 1 1 1 1 1 1 0 1 1 1 0 0 0 1 0 0 0]: [0 0 0 1 0 0 0 1 0 0 0 0 0 0 1 0 0 0 1 1 1 0 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 0 1 1 1]
+[1 1 1 0 1 1 1 0 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0]
+[0 0 1 0 0 0 1 0 0 0 1 1 0 0 1 0 0 0 0 0 0 0 0 0 0]
+[0 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 0 0 1 0 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 1001 of get: [1 1 1 0 1 1 1 0 1 1 1 1 1 1 0 1 1 1 0 0 0 1 0 0 0]: [0 0 0 1 0 0 0 1 0 0 0 0 0 0 1 0 0 0 1 1 1 0 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 0 1 1 1]
+[1 1 1 0 1 1 1 0 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0]
+[0 0 1 0 0 0 1 0 0 0 1 1 0 0 1 0 0 0 0 0 0 0 0 0 0]
+[0 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 0 0 1 0 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 1002 of get: [1 1 1 0 1 1 1 0 1 1 1 1 1 1 0 1 1 1 0 0 0 1 0 0 0]: [0 0 0 1 0 0 0 1 0 0 0 0 0 0 1 0 0 0 1 1 1 0 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 0 1 1 1]
+[1 1 1 0 1 1 1 0 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0]
+[0 0 1 0 0 0 1 0 0 0 1 1 0 0 1 0 0 0 0 0 0 0 0 0 0]
+[0 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 0 0 1 0 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0]
+Total :1163: tests for class:org.joda.time.chrono.BaseChronology:
+Methods executed: 4
+Unconstrained method :get:1:12
+org.joda.time.base.BasePartial
+Directory of jaguar data: ../jaguar-data/joda-time/1b
+Directory of subsumption data: ../subsumption-data/Time
+Analyzing class org.joda.time.base.BasePartial 
+../jaguar-data/joda-time/1b/jaguar/.jaguar/matrix
+org.joda.time.base.BasePartial.matrix
+../subsumption-data/Time/reduce/org.joda.time.base.BasePartial.sub.json
+>>>>> org.joda.time.base.BasePartial <<<<<
+0:toString:5
+1:toString:6
+Total :4: tests for class:org.joda.time.base.BasePartial:
+Methods executed: 1
+org.joda.time.tz.DateTimeZoneBuilder$Rule
+Directory of jaguar data: ../jaguar-data/joda-time/1b
+Directory of subsumption data: ../subsumption-data/Time
+Analyzing class org.joda.time.tz.DateTimeZoneBuilder$Rule 
+../jaguar-data/joda-time/1b/jaguar/.jaguar/matrix
+org.joda.time.tz.DateTimeZoneBuilder$Rule.matrix
+../subsumption-data/Time/reduce/org.joda.time.tz.DateTimeZoneBuilder$Rule.sub.json
+>>>>> org.joda.time.tz.DateTimeZoneBuilder$Rule <<<<<
+0:next:39
+Total :7: tests for class:org.joda.time.tz.DateTimeZoneBuilder$Rule:
+Methods executed: 1
+org.joda.time.format.DateTimeParserBucket$SavedField
+Directory of jaguar data: ../jaguar-data/joda-time/1b
+Directory of subsumption data: ../subsumption-data/Time
+Analyzing class org.joda.time.format.DateTimeParserBucket$SavedField 
+../jaguar-data/joda-time/1b/jaguar/.jaguar/matrix
+org.joda.time.format.DateTimeParserBucket$SavedField.matrix
+../subsumption-data/Time/reduce/org.joda.time.format.DateTimeParserBucket$SavedField.sub.json
+>>>>> org.joda.time.format.DateTimeParserBucket$SavedField <<<<<
+0:set:22
+1:compareTo:6
+Total :295: tests for class:org.joda.time.format.DateTimeParserBucket$SavedField:
+Methods executed: 2
+org.joda.time.format.DateTimeFormatter
+Directory of jaguar data: ../jaguar-data/joda-time/1b
+Directory of subsumption data: ../subsumption-data/Time
+Analyzing class org.joda.time.format.DateTimeFormatter 
+../jaguar-data/joda-time/1b/jaguar/.jaguar/matrix
+org.joda.time.format.DateTimeFormatter.matrix
+../subsumption-data/Time/reduce/org.joda.time.format.DateTimeFormatter.sub.json
+>>>>> org.joda.time.format.DateTimeFormatter <<<<<
+0:isPrinter:4
+1:isParser:4
+2:withLocale:20
+3:withOffsetParsed:12
+4:withChronology:16
+5:withZone:15
+6:withPivotYear:26
+7:printTo:7
+8:printTo:7
+9:printTo:21
+10:printTo:21
+11:requirePrinter:3
+12:parseInto:37
+13:parseMillis:12
+14:parseLocalDateTime:24
+15:parseDateTime:37
+16:parseMutableDateTime:36
+17:requireParser:3
+18:selectChronology:17
+Total :852: tests for class:org.joda.time.format.DateTimeFormatter:
+Methods executed: 16
+org.joda.time.Interval
+Directory of jaguar data: ../jaguar-data/joda-time/1b
+Directory of subsumption data: ../subsumption-data/Time
+Analyzing class org.joda.time.Interval 
+../jaguar-data/joda-time/1b/jaguar/.jaguar/matrix
+org.joda.time.Interval.matrix
+../subsumption-data/Time/reduce/org.joda.time.Interval.sub.json
+>>>>> org.joda.time.Interval <<<<<
+0:overlap:9
+1:gap:14
+2:abuts:18
+3:withChronology:7
+4:withStartMillis:7
+5:withEndMillis:7
+6:withDurationAfterStart:8
+7:withDurationBeforeEnd:8
+8:withPeriodAfterStart:6
+9:withPeriodBeforeEnd:6
+Total :34: tests for class:org.joda.time.Interval:
+Methods executed: 10
+org.joda.time.chrono.GJEraDateTimeField
+Directory of jaguar data: ../jaguar-data/joda-time/1b
+Directory of subsumption data: ../subsumption-data/Time
+Analyzing class org.joda.time.chrono.GJEraDateTimeField 
+../jaguar-data/joda-time/1b/jaguar/.jaguar/matrix
+org.joda.time.chrono.GJEraDateTimeField.matrix
+../subsumption-data/Time/reduce/org.joda.time.chrono.GJEraDateTimeField.sub.json
+>>>>> org.joda.time.chrono.GJEraDateTimeField <<<<<
+0:get:6
+1:set:11
+2:roundFloor:6
+3:roundCeiling:6
+Total :29: tests for class:org.joda.time.chrono.GJEraDateTimeField:
+Methods executed: 3
+org.joda.time.Seconds
+Directory of jaguar data: ../jaguar-data/joda-time/1b
+Directory of subsumption data: ../subsumption-data/Time
+Analyzing class org.joda.time.Seconds 
+../jaguar-data/joda-time/1b/jaguar/.jaguar/matrix
+org.joda.time.Seconds.matrix
+../subsumption-data/Time/reduce/org.joda.time.Seconds.sub.json
+>>>>> org.joda.time.Seconds <<<<<
+0:seconds:14
+1:secondsBetween:10
+2:secondsIn:4
+3:parseSeconds:5
+4:plus:5
+5:plus:5
+6:minus:5
+7:dividedBy:5
+8:isGreaterThan:8
+9:isLessThan:8
+Total :35: tests for class:org.joda.time.Seconds:
+Methods executed: 9
+org.joda.time.YearMonth
+Directory of jaguar data: ../jaguar-data/joda-time/1b
+Directory of subsumption data: ../subsumption-data/Time
+Analyzing class org.joda.time.YearMonth 
+../jaguar-data/joda-time/1b/jaguar/.jaguar/matrix
+org.joda.time.YearMonth.matrix
+../subsumption-data/Time/reduce/org.joda.time.YearMonth.sub.json
+>>>>> org.joda.time.YearMonth <<<<<
+0:now:3
+1:now:3
+2:fromCalendarFields:3
+3:fromDateFields:3
+4:readResolve:6
+5:getField:6
+6:withChronologyRetainFields:9
+7:withField:12
+8:withFieldAdded:8
+9:withPeriodAdded:31
+10:toString:5
+11:toString:6
+Total :69: tests for class:org.joda.time.YearMonth:
+Methods executed: 10
+org.joda.time.format.DateTimeFormatterBuilder$TwoDigitYear
+Directory of jaguar data: ../jaguar-data/joda-time/1b
+Directory of subsumption data: ../subsumption-data/Time
+Analyzing class org.joda.time.format.DateTimeFormatterBuilder$TwoDigitYear 
+../jaguar-data/joda-time/1b/jaguar/.jaguar/matrix
+org.joda.time.format.DateTimeFormatterBuilder$TwoDigitYear.matrix
+../subsumption-data/Time/reduce/org.joda.time.format.DateTimeFormatterBuilder$TwoDigitYear.sub.json
+>>>>> org.joda.time.format.DateTimeFormatterBuilder$TwoDigitYear <<<<<
+0:estimateParsedLength:4
+1:parseInto:173
+2:printTo:6
+3:printTo:6
+4:getTwoDigitYear:5
+5:printTo:6
+6:printTo:6
+7:getTwoDigitYear:14
+Total :9: tests for class:org.joda.time.format.DateTimeFormatterBuilder$TwoDigitYear:
+Methods executed: 4
+org.joda.time.field.OffsetDateTimeField
+Directory of jaguar data: ../jaguar-data/joda-time/1b
+Directory of subsumption data: ../subsumption-data/Time
+Analyzing class org.joda.time.field.OffsetDateTimeField 
+../jaguar-data/joda-time/1b/jaguar/.jaguar/matrix
+org.joda.time.field.OffsetDateTimeField.matrix
+../subsumption-data/Time/reduce/org.joda.time.field.OffsetDateTimeField.sub.json
+>>>>> org.joda.time.field.OffsetDateTimeField <<<<<
+0:<init>:5
+1:<init>:26
+Total :67: tests for class:org.joda.time.field.OffsetDateTimeField:
+Methods executed: 1
+org.joda.time.field.ZeroIsMaxDateTimeField
+Directory of jaguar data: ../jaguar-data/joda-time/1b
+Directory of subsumption data: ../subsumption-data/Time
+Analyzing class org.joda.time.field.ZeroIsMaxDateTimeField 
+../jaguar-data/joda-time/1b/jaguar/.jaguar/matrix
+org.joda.time.field.ZeroIsMaxDateTimeField.matrix
+../subsumption-data/Time/reduce/org.joda.time.field.ZeroIsMaxDateTimeField.sub.json
+>>>>> org.joda.time.field.ZeroIsMaxDateTimeField <<<<<
+0:<init>:2
+1:get:5
+2:set:8
+Total :21: tests for class:org.joda.time.field.ZeroIsMaxDateTimeField:
+Methods executed: 3
+org.joda.time.convert.CalendarConverter
+Directory of jaguar data: ../jaguar-data/joda-time/1b
+Directory of subsumption data: ../subsumption-data/Time
+Analyzing class org.joda.time.convert.CalendarConverter 
+../jaguar-data/joda-time/1b/jaguar/.jaguar/matrix
+org.joda.time.convert.CalendarConverter.matrix
+../subsumption-data/Time/reduce/org.joda.time.convert.CalendarConverter.sub.json
+>>>>> org.joda.time.convert.CalendarConverter <<<<<
+0:getChronology:5
+1:getChronology:15
+Total :6: tests for class:org.joda.time.convert.CalendarConverter:
+Methods executed: 1
+org.joda.time.format.DateTimeFormatterBuilder$NumberFormatter
+Directory of jaguar data: ../jaguar-data/joda-time/1b
+Directory of subsumption data: ../subsumption-data/Time
+Analyzing class org.joda.time.format.DateTimeFormatterBuilder$NumberFormatter 
+../jaguar-data/joda-time/1b/jaguar/.jaguar/matrix
+org.joda.time.format.DateTimeFormatterBuilder$NumberFormatter.matrix
+../subsumption-data/Time/reduce/org.joda.time.format.DateTimeFormatterBuilder$NumberFormatter.sub.json
+>>>>> org.joda.time.format.DateTimeFormatterBuilder$NumberFormatter <<<<<
+0:parseInto:145
+Total :331: tests for class:org.joda.time.format.DateTimeFormatterBuilder$NumberFormatter:
+Methods executed: 1
+org.joda.time.chrono.ISOChronology
+Directory of jaguar data: ../jaguar-data/joda-time/1b
+Directory of subsumption data: ../subsumption-data/Time
+Analyzing class org.joda.time.chrono.ISOChronology 
+../jaguar-data/joda-time/1b/jaguar/.jaguar/matrix
+org.joda.time.chrono.ISOChronology.matrix
+../subsumption-data/Time/reduce/org.joda.time.chrono.ISOChronology.sub.json
+>>>>> org.joda.time.chrono.ISOChronology <<<<<
+0:getInstance:33
+1:withZone:11
+2:toString:6
+3:assemble:12
+4:equals:8
+Total :2335: tests for class:org.joda.time.chrono.ISOChronology:
+Methods executed: 5
+org.joda.time.chrono.BasicGJChronology
+Directory of jaguar data: ../jaguar-data/joda-time/1b
+Directory of subsumption data: ../subsumption-data/Time
+Analyzing class org.joda.time.chrono.BasicGJChronology 
+../jaguar-data/joda-time/1b/jaguar/.jaguar/matrix
+org.joda.time.chrono.BasicGJChronology.matrix
+../subsumption-data/Time/reduce/org.joda.time.chrono.BasicGJChronology.sub.json
+>>>>> org.joda.time.chrono.BasicGJChronology <<<<<
+0:getMonthOfYear:48
+1:getDaysInYearMonth:8
+2:getDaysInMonthMaxForSet:6
+3:getTotalMillisByYearMonth:8
+4:getYearDifference:31
+5:setYear:22
+Total :1584: tests for class:org.joda.time.chrono.BasicGJChronology:
+Methods executed: 6
+org.joda.time.chrono.GJChronology$ImpreciseCutoverField
+Directory of jaguar data: ../jaguar-data/joda-time/1b
+Directory of subsumption data: ../subsumption-data/Time
+Analyzing class org.joda.time.chrono.GJChronology$ImpreciseCutoverField 
+../jaguar-data/joda-time/1b/jaguar/.jaguar/matrix
+org.joda.time.chrono.GJChronology$ImpreciseCutoverField.matrix
+../subsumption-data/Time/reduce/org.joda.time.chrono.GJChronology$ImpreciseCutoverField.sub.json
+>>>>> org.joda.time.chrono.GJChronology$ImpreciseCutoverField <<<<<
+0:<init>:7
+1:add:72
+2:add:72
+3:getDifference:36
+4:getDifferenceAsLong:36
+5:getMinimumValue:12
+6:getMaximumValue:12
+Total :50: tests for class:org.joda.time.chrono.GJChronology$ImpreciseCutoverField:
+Methods executed: 4
+org.joda.time.format.DateTimeFormatterBuilder$UnpaddedNumber
+Directory of jaguar data: ../jaguar-data/joda-time/1b
+Directory of subsumption data: ../subsumption-data/Time
+Analyzing class org.joda.time.format.DateTimeFormatterBuilder$UnpaddedNumber 
+../jaguar-data/joda-time/1b/jaguar/.jaguar/matrix
+org.joda.time.format.DateTimeFormatterBuilder$UnpaddedNumber.matrix
+../subsumption-data/Time/reduce/org.joda.time.format.DateTimeFormatterBuilder$UnpaddedNumber.sub.json
+>>>>> org.joda.time.format.DateTimeFormatterBuilder$UnpaddedNumber <<<<<
+0:printTo:11
+1:printTo:11
+Total :14: tests for class:org.joda.time.format.DateTimeFormatterBuilder$UnpaddedNumber:
+Methods executed: 1
+org.joda.time.field.DividedDateTimeField
+Directory of jaguar data: ../jaguar-data/joda-time/1b
+Directory of subsumption data: ../subsumption-data/Time
+Analyzing class org.joda.time.field.DividedDateTimeField 
+../jaguar-data/joda-time/1b/jaguar/.jaguar/matrix
+org.joda.time.field.DividedDateTimeField.matrix
+../subsumption-data/Time/reduce/org.joda.time.field.DividedDateTimeField.sub.json
+>>>>> org.joda.time.field.DividedDateTimeField <<<<<
+0:<init>:27
+1:<init>:12
+2:getRangeDurationField:7
+3:get:8
+4:getRemainder:8
+Total :86: tests for class:org.joda.time.field.DividedDateTimeField:
+Methods executed: 4
+org.joda.time.field.RemainderDateTimeField
+Directory of jaguar data: ../jaguar-data/joda-time/1b
+Directory of subsumption data: ../subsumption-data/Time
+Analyzing class org.joda.time.field.RemainderDateTimeField 
+../jaguar-data/joda-time/1b/jaguar/.jaguar/matrix
+org.joda.time.field.RemainderDateTimeField.matrix
+../subsumption-data/Time/reduce/org.joda.time.field.RemainderDateTimeField.sub.json
+>>>>> org.joda.time.field.RemainderDateTimeField <<<<<
+0:<init>:14
+1:<init>:8
+2:get:8
+3:getDivided:8
+Total :42: tests for class:org.joda.time.field.RemainderDateTimeField:
+Methods executed: 3
+org.joda.time.YearMonthDay
+Directory of jaguar data: ../jaguar-data/joda-time/1b
+Directory of subsumption data: ../subsumption-data/Time
+Analyzing class org.joda.time.YearMonthDay 
+../jaguar-data/joda-time/1b/jaguar/.jaguar/matrix
+org.joda.time.YearMonthDay.matrix
+../subsumption-data/Time/reduce/org.joda.time.YearMonthDay.sub.json
+>>>>> org.joda.time.YearMonthDay <<<<<
+0:fromCalendarFields:3
+1:fromDateFields:3
+2:getField:8
+3:withChronologyRetainFields:9
+4:withField:12
+5:withFieldAdded:8
+6:withPeriodAdded:31
+7:toDateTime:8
+Total :128: tests for class:org.joda.time.YearMonthDay:
+Methods executed: 8
+org.joda.time.Weeks
+Directory of jaguar data: ../jaguar-data/joda-time/1b
+Directory of subsumption data: ../subsumption-data/Time
+Analyzing class org.joda.time.Weeks 
+../jaguar-data/joda-time/1b/jaguar/.jaguar/matrix
+org.joda.time.Weeks.matrix
+../subsumption-data/Time/reduce/org.joda.time.Weeks.sub.json
+>>>>> org.joda.time.Weeks <<<<<
+0:weeks:14
+1:weeksBetween:10
+2:weeksIn:4
+3:parseWeeks:5
+4:plus:5
+5:plus:5
+6:minus:5
+7:dividedBy:5
+8:isGreaterThan:8
+9:isLessThan:8
+Total :34: tests for class:org.joda.time.Weeks:
+Methods executed: 9
+org.joda.time.base.BaseInterval
+Directory of jaguar data: ../jaguar-data/joda-time/1b
+Directory of subsumption data: ../subsumption-data/Time
+Analyzing class org.joda.time.base.BaseInterval 
+../jaguar-data/joda-time/1b/jaguar/.jaguar/matrix
+org.joda.time.base.BaseInterval.matrix
+../subsumption-data/Time/reduce/org.joda.time.base.BaseInterval.sub.json
+>>>>> org.joda.time.base.BaseInterval <<<<<
+0:<init>:14
+1:<init>:12
+2:<init>:12
+3:<init>:35
+Total :109: tests for class:org.joda.time.base.BaseInterval:
+Methods executed: 1
+org.joda.time.chrono.ZonedChronology$ZonedDateTimeField
+Directory of jaguar data: ../jaguar-data/joda-time/1b
+Directory of subsumption data: ../subsumption-data/Time
+Analyzing class org.joda.time.chrono.ZonedChronology$ZonedDateTimeField 
+../jaguar-data/joda-time/1b/jaguar/.jaguar/matrix
+org.joda.time.chrono.ZonedChronology$ZonedDateTimeField.matrix
+../subsumption-data/Time/reduce/org.joda.time.chrono.ZonedChronology$ZonedDateTimeField.sub.json
+>>>>> org.joda.time.chrono.ZonedChronology$ZonedDateTimeField <<<<<
+0:<init>:14
+1:add:19
+2:add:19
+3:addWrapField:19
+4:set:13
+5:getDifference:9
+6:getDifferenceAsLong:9
+7:roundFloor:17
+8:roundCeiling:17
+9:getOffsetToAdd:9
+10:equals:39
+Total :464: tests for class:org.joda.time.chrono.ZonedChronology$ZonedDateTimeField:
+Methods executed: 10
+org.joda.time.chrono.BasicFixedMonthChronology
+Directory of jaguar data: ../jaguar-data/joda-time/1b
+Directory of subsumption data: ../subsumption-data/Time
+Analyzing class org.joda.time.chrono.BasicFixedMonthChronology 
+../jaguar-data/joda-time/1b/jaguar/.jaguar/matrix
+org.joda.time.chrono.BasicFixedMonthChronology.matrix
+../subsumption-data/Time/reduce/org.joda.time.chrono.BasicFixedMonthChronology.sub.json
+>>>>> org.joda.time.chrono.BasicFixedMonthChronology <<<<<
+0:setYear:12
+1:getYearDifference:7
+2:isLeapYear:2
+3:getDaysInYearMonth:6
+4:getDaysInMonthMax:2
+Total :103: tests for class:org.joda.time.chrono.BasicFixedMonthChronology:
+Methods executed: 4
+org.joda.time.convert.StringConverter
+Directory of jaguar data: ../jaguar-data/joda-time/1b
+Directory of subsumption data: ../subsumption-data/Time
+Analyzing class org.joda.time.convert.StringConverter 
+../jaguar-data/joda-time/1b/jaguar/.jaguar/matrix
+org.joda.time.convert.StringConverter.matrix
+../subsumption-data/Time/reduce/org.joda.time.convert.StringConverter.sub.json
+>>>>> org.joda.time.convert.StringConverter <<<<<
+0:getPartialValues:11
+1:getDurationMillis:109
+2:setInto:10
+3:setInto:75
+Total :79: tests for class:org.joda.time.convert.StringConverter:
+Methods executed: 3
+org.joda.time.field.PreciseDateTimeField
+Directory of jaguar data: ../jaguar-data/joda-time/1b
+Directory of subsumption data: ../subsumption-data/Time
+Analyzing class org.joda.time.field.PreciseDateTimeField 
+../jaguar-data/joda-time/1b/jaguar/.jaguar/matrix
+org.joda.time.field.PreciseDateTimeField.matrix
+../subsumption-data/Time/reduce/org.joda.time.field.PreciseDateTimeField.sub.json
+>>>>> org.joda.time.field.PreciseDateTimeField <<<<<
+0:<init>:10
+1:get:8
+Total :1481: tests for class:org.joda.time.field.PreciseDateTimeField:
+Methods executed: 2
+org.joda.time.convert.ReadablePartialConverter
+Directory of jaguar data: ../jaguar-data/joda-time/1b
+Directory of subsumption data: ../subsumption-data/Time
+Analyzing class org.joda.time.convert.ReadablePartialConverter 
+../jaguar-data/joda-time/1b/jaguar/.jaguar/matrix
+org.joda.time.convert.ReadablePartialConverter.matrix
+../subsumption-data/Time/reduce/org.joda.time.convert.ReadablePartialConverter.sub.json
+>>>>> org.joda.time.convert.ReadablePartialConverter <<<<<
+0:getChronology:5
+1:getPartialValues:17
+Total :17: tests for class:org.joda.time.convert.ReadablePartialConverter:
+Methods executed: 2
+org.joda.time.format.DateTimeFormatterBuilder$FixedNumber
+Directory of jaguar data: ../jaguar-data/joda-time/1b
+Directory of subsumption data: ../subsumption-data/Time
+Analyzing class org.joda.time.format.DateTimeFormatterBuilder$FixedNumber 
+../jaguar-data/joda-time/1b/jaguar/.jaguar/matrix
+org.joda.time.format.DateTimeFormatterBuilder$FixedNumber.matrix
+../subsumption-data/Time/reduce/org.joda.time.format.DateTimeFormatterBuilder$FixedNumber.sub.json
+>>>>> org.joda.time.format.DateTimeFormatterBuilder$FixedNumber <<<<<
+0:parseInto:37
+Total :15: tests for class:org.joda.time.format.DateTimeFormatterBuilder$FixedNumber:
+Methods executed: 1
+org.joda.time.field.UnsupportedDurationField
+Directory of jaguar data: ../jaguar-data/joda-time/1b
+Directory of subsumption data: ../subsumption-data/Time
+Analyzing class org.joda.time.field.UnsupportedDurationField 
+../jaguar-data/joda-time/1b/jaguar/.jaguar/matrix
+org.joda.time.field.UnsupportedDurationField.matrix
+../subsumption-data/Time/reduce/org.joda.time.field.UnsupportedDurationField.sub.json
+>>>>> org.joda.time.field.UnsupportedDurationField <<<<<
+0:getInstance:15
+1:compareTo:2
+2:equals:13
+Total :133: tests for class:org.joda.time.field.UnsupportedDurationField:
+Methods executed: 3
+org.joda.time.DateTime
+Directory of jaguar data: ../jaguar-data/joda-time/1b
+Directory of subsumption data: ../subsumption-data/Time
+Analyzing class org.joda.time.DateTime 
+../jaguar-data/joda-time/1b/jaguar/.jaguar/matrix
+org.joda.time.DateTime.matrix
+../subsumption-data/Time/reduce/org.joda.time.DateTime.sub.json
+>>>>> org.joda.time.DateTime <<<<<
+0:now:3
+1:now:3
+2:toDateTimeISO:4
+3:toDateTime:7
+4:toDateTime:7
+5:withMillis:7
+6:withChronology:7
+7:withZoneRetainFields:10
+8:withFields:5
+9:withField:6
+10:withFieldAdded:9
+11:withDurationAdded:9
+12:withDurationAdded:8
+13:withPeriodAdded:9
+14:plusYears:6
+15:plusMonths:6
+16:plusWeeks:6
+17:plusDays:6
+18:plusHours:6
+19:plusMinutes:6
+20:plusSeconds:6
+21:plusMillis:6
+22:minusYears:6
+23:minusMonths:6
+24:minusWeeks:6
+25:minusDays:6
+26:minusHours:6
+27:minusMinutes:6
+28:minusSeconds:6
+29:minusMillis:6
+30:property:9
+Total :338: tests for class:org.joda.time.DateTime:
+Methods executed: 28
+org.joda.time.DateTimeZone
+Directory of jaguar data: ../jaguar-data/joda-time/1b
+Directory of subsumption data: ../subsumption-data/Time
+Analyzing class org.joda.time.DateTimeZone 
+../jaguar-data/joda-time/1b/jaguar/.jaguar/matrix
+org.joda.time.DateTimeZone.matrix
+../subsumption-data/Time/reduce/org.joda.time.DateTimeZone.sub.json
+>>>>> org.joda.time.DateTimeZone <<<<<
+0:getDefault:30
+1:setDefault:6
+2:forID:21
+3:forOffsetHoursMinutes:29
+4:forOffsetMillis:7
+5:forTimeZone:40
+6:fixedOffsetZone:19
+7:setProvider:4
+8:setProvider0:19
+9:getDefaultProvider:17
+10:setNameProvider:4
+11:setNameProvider0:4
+12:getDefaultNameProvider:10
+13:getConvertedId:5
+14:printOffset:26
+15:offsetFormatter:4
+16:<init>:4
+17:getShortName:19
+18:getName:19
+19:getOffset:5
+20:isStandardOffset:4
+21:getOffsetFromLocal:37
+22:convertUTCToLocal:9
+23:convertLocalToUTC:8
+24:convertLocalToUTC:53
+25:getMillisKeepLocal:14
+26:isLocalDateTimeGap:4
+27:adjustOffset:32
+Total :3482: tests for class:org.joda.time.DateTimeZone:
+Methods executed: 27
+org.joda.time.chrono.GJYearOfEraDateTimeField
+Directory of jaguar data: ../jaguar-data/joda-time/1b
+Directory of subsumption data: ../subsumption-data/Time
+Analyzing class org.joda.time.chrono.GJYearOfEraDateTimeField 
+../jaguar-data/joda-time/1b/jaguar/.jaguar/matrix
+org.joda.time.chrono.GJYearOfEraDateTimeField.matrix
+../subsumption-data/Time/reduce/org.joda.time.chrono.GJYearOfEraDateTimeField.sub.json
+>>>>> org.joda.time.chrono.GJYearOfEraDateTimeField <<<<<
+0:get:5
+1:set:11
+Total :34: tests for class:org.joda.time.chrono.GJYearOfEraDateTimeField:
+Methods executed: 2
+org.joda.time.chrono.GregorianChronology
+Directory of jaguar data: ../jaguar-data/joda-time/1b
+Directory of subsumption data: ../subsumption-data/Time
+Analyzing class org.joda.time.chrono.GregorianChronology 
+../jaguar-data/joda-time/1b/jaguar/.jaguar/matrix
+org.joda.time.chrono.GregorianChronology.matrix
+../subsumption-data/Time/reduce/org.joda.time.chrono.GregorianChronology.sub.json
+>>>>> org.joda.time.chrono.GregorianChronology <<<<<
+0:getInstance:37
+1:readResolve:8
+2:withZone:11
+3:assemble:4
+4:isLeapYear:6
+5:calculateFirstDayOfYearMillis:15
+Total :1662: tests for class:org.joda.time.chrono.GregorianChronology:
+Methods executed: 5
+org.joda.time.Years
+Directory of jaguar data: ../jaguar-data/joda-time/1b
+Directory of subsumption data: ../subsumption-data/Time
+Analyzing class org.joda.time.Years 
+../jaguar-data/joda-time/1b/jaguar/.jaguar/matrix
+org.joda.time.Years.matrix
+../subsumption-data/Time/reduce/org.joda.time.Years.sub.json
+>>>>> org.joda.time.Years <<<<<
+0:years:14
+1:yearsBetween:10
+2:yearsIn:4
+3:parseYears:5
+4:plus:5
+5:plus:5
+6:minus:5
+7:dividedBy:5
+8:isGreaterThan:8
+9:isLessThan:8
+Total :23: tests for class:org.joda.time.Years:
+Methods executed: 9
+org.joda.time.Minutes
+Directory of jaguar data: ../jaguar-data/joda-time/1b
+Directory of subsumption data: ../subsumption-data/Time
+Analyzing class org.joda.time.Minutes 
+../jaguar-data/joda-time/1b/jaguar/.jaguar/matrix
+org.joda.time.Minutes.matrix
+../subsumption-data/Time/reduce/org.joda.time.Minutes.sub.json
+>>>>> org.joda.time.Minutes <<<<<
+0:minutes:14
+1:minutesBetween:10
+2:minutesIn:4
+3:parseMinutes:5
+4:plus:5
+5:plus:5
+6:minus:5
+7:dividedBy:5
+8:isGreaterThan:8
+9:isLessThan:8
+Total :35: tests for class:org.joda.time.Minutes:
+Methods executed: 9
+org.joda.time.format.DateTimeParserBucket$SavedState
+Directory of jaguar data: ../jaguar-data/joda-time/1b
+Directory of subsumption data: ../subsumption-data/Time
+Analyzing class org.joda.time.format.DateTimeParserBucket$SavedState 
+../jaguar-data/joda-time/1b/jaguar/.jaguar/matrix
+org.joda.time.format.DateTimeParserBucket$SavedState.matrix
+../subsumption-data/Time/reduce/org.joda.time.format.DateTimeParserBucket$SavedState.sub.json
+>>>>> org.joda.time.format.DateTimeParserBucket$SavedState <<<<<
+0:restoreState:25
+Total :191: tests for class:org.joda.time.format.DateTimeParserBucket$SavedState:
+Methods executed: 1
+org.joda.time.format.DateTimeFormat$StyleFormatter
+Directory of jaguar data: ../jaguar-data/joda-time/1b
+Directory of subsumption data: ../subsumption-data/Time
+Analyzing class org.joda.time.format.DateTimeFormat$StyleFormatter 
+../jaguar-data/joda-time/1b/jaguar/.jaguar/matrix
+org.joda.time.format.DateTimeFormat$StyleFormatter.matrix
+../subsumption-data/Time/reduce/org.joda.time.format.DateTimeFormat$StyleFormatter.sub.json
+>>>>> org.joda.time.format.DateTimeFormat$StyleFormatter <<<<<
+0:getFormatter:18
+1:getPattern:31
+Total :10: tests for class:org.joda.time.format.DateTimeFormat$StyleFormatter:
+Methods executed: 2
+org.joda.time.chrono.StrictChronology
+Directory of jaguar data: ../jaguar-data/joda-time/1b
+Directory of subsumption data: ../subsumption-data/Time
+Analyzing class org.joda.time.chrono.StrictChronology 
+../jaguar-data/joda-time/1b/jaguar/.jaguar/matrix
+org.joda.time.chrono.StrictChronology.matrix
+../subsumption-data/Time/reduce/org.joda.time.chrono.StrictChronology.sub.json
+>>>>> org.joda.time.chrono.StrictChronology <<<<<
+0:getInstance:3
+1:withUTC:14
+2:withZone:19
+3:equals:8
+Total :10: tests for class:org.joda.time.chrono.StrictChronology:
+Methods executed: 3
+org.joda.time.field.SkipDateTimeField
+Directory of jaguar data: ../jaguar-data/joda-time/1b
+Directory of subsumption data: ../subsumption-data/Time
+Analyzing class org.joda.time.field.SkipDateTimeField 
+../jaguar-data/joda-time/1b/jaguar/.jaguar/matrix
+org.joda.time.field.SkipDateTimeField.matrix
+../subsumption-data/Time/reduce/org.joda.time.field.SkipDateTimeField.sub.json
+>>>>> org.joda.time.field.SkipDateTimeField <<<<<
+0:<init>:16
+1:get:9
+2:set:18
+Total :192: tests for class:org.joda.time.field.SkipDateTimeField:
+Methods executed: 3
+org.joda.time.format.PeriodFormatterBuilder$SimpleAffix
+Directory of jaguar data: ../jaguar-data/joda-time/1b
+Directory of subsumption data: ../subsumption-data/Time
+Analyzing class org.joda.time.format.PeriodFormatterBuilder$SimpleAffix 
+../jaguar-data/joda-time/1b/jaguar/.jaguar/matrix
+org.joda.time.format.PeriodFormatterBuilder$SimpleAffix.matrix
+../subsumption-data/Time/reduce/org.joda.time.format.PeriodFormatterBuilder$SimpleAffix.sub.json
+>>>>> org.joda.time.format.PeriodFormatterBuilder$SimpleAffix <<<<<
+0:parse:11
+1:scan:27
+Total :59: tests for class:org.joda.time.format.PeriodFormatterBuilder$SimpleAffix:
+Methods executed: 2
+org.joda.time.tz.DateTimeZoneBuilder$Transition
+Directory of jaguar data: ../jaguar-data/joda-time/1b
+Directory of subsumption data: ../subsumption-data/Time
+Analyzing class org.joda.time.tz.DateTimeZoneBuilder$Transition 
+../jaguar-data/joda-time/1b/jaguar/.jaguar/matrix
+org.joda.time.tz.DateTimeZoneBuilder$Transition.matrix
+../subsumption-data/Time/reduce/org.joda.time.tz.DateTimeZoneBuilder$Transition.sub.json
+>>>>> org.joda.time.tz.DateTimeZoneBuilder$Transition <<<<<
+0:isTransitionFrom:26
+Total :7: tests for class:org.joda.time.tz.DateTimeZoneBuilder$Transition:
+Methods executed: 1
+org.joda.time.chrono.BasicWeekyearDateTimeField
+Directory of jaguar data: ../jaguar-data/joda-time/1b
+Directory of subsumption data: ../subsumption-data/Time
+Analyzing class org.joda.time.chrono.BasicWeekyearDateTimeField 
+../jaguar-data/joda-time/1b/jaguar/.jaguar/matrix
+org.joda.time.chrono.BasicWeekyearDateTimeField.matrix
+../subsumption-data/Time/reduce/org.joda.time.chrono.BasicWeekyearDateTimeField.sub.json
+>>>>> org.joda.time.chrono.BasicWeekyearDateTimeField <<<<<
+0:add:6
+1:getDifferenceAsLong:35
+2:set:56
+3:isLeap:6
+4:roundFloor:6
+Total :41: tests for class:org.joda.time.chrono.BasicWeekyearDateTimeField:
+Methods executed: 4
+org.joda.time.field.ScaledDurationField
+Directory of jaguar data: ../jaguar-data/joda-time/1b
+Directory of subsumption data: ../subsumption-data/Time
+Analyzing class org.joda.time.field.ScaledDurationField 
+../jaguar-data/joda-time/1b/jaguar/.jaguar/matrix
+org.joda.time.field.ScaledDurationField.matrix
+../subsumption-data/Time/reduce/org.joda.time.field.ScaledDurationField.sub.json
+>>>>> org.joda.time.field.ScaledDurationField <<<<<
+0:<init>:6
+1:equals:23
+Total :40: tests for class:org.joda.time.field.ScaledDurationField:
+Methods executed: 2
+org.joda.time.chrono.GJChronology$CutoverField
+Directory of jaguar data: ../jaguar-data/joda-time/1b
+Directory of subsumption data: ../subsumption-data/Time
+Analyzing class org.joda.time.chrono.GJChronology$CutoverField 
+../jaguar-data/joda-time/1b/jaguar/.jaguar/matrix
+org.joda.time.chrono.GJChronology$CutoverField.matrix
+../subsumption-data/Time/reduce/org.joda.time.chrono.GJChronology$CutoverField.sub.json
+>>>>> org.joda.time.chrono.GJChronology$CutoverField <<<<<
+0:<init>:10
+1:get:12
+2:getAsText:14
+3:getAsShortText:14
+4:add:34
+5:set:72
+6:set:52
+7:isLeap:12
+8:getLeapAmount:12
+9:getMinimumValue:26
+10:getMaximumValue:26
+11:getMaximumValue:33
+12:roundFloor:31
+13:roundCeiling:31
+14:julianToGregorian:10
+15:gregorianToJulian:10
+Total :168: tests for class:org.joda.time.chrono.GJChronology$CutoverField:
+Methods executed: 8
+org.joda.time.chrono.LenientChronology
+Directory of jaguar data: ../jaguar-data/joda-time/1b
+Directory of subsumption data: ../subsumption-data/Time
+Analyzing class org.joda.time.chrono.LenientChronology 
+../jaguar-data/joda-time/1b/jaguar/.jaguar/matrix
+org.joda.time.chrono.LenientChronology.matrix
+../subsumption-data/Time/reduce/org.joda.time.chrono.LenientChronology.sub.json
+>>>>> org.joda.time.chrono.LenientChronology <<<<<
+0:getInstance:3
+1:withUTC:14
+2:withZone:19
+3:equals:8
+Total :19: tests for class:org.joda.time.chrono.LenientChronology:
+Methods executed: 4
+org.joda.time.tz.DateTimeZoneBuilder$OfYear
+Directory of jaguar data: ../jaguar-data/joda-time/1b
+Directory of subsumption data: ../subsumption-data/Time
+Analyzing class org.joda.time.tz.DateTimeZoneBuilder$OfYear 
+../jaguar-data/joda-time/1b/jaguar/.jaguar/matrix
+org.joda.time.tz.DateTimeZoneBuilder$OfYear.matrix
+../subsumption-data/Time/reduce/org.joda.time.tz.DateTimeZoneBuilder$OfYear.sub.json
+>>>>> org.joda.time.tz.DateTimeZoneBuilder$OfYear <<<<<
+0:<init>:19
+1:setInstant:29
+2:next:55
+3:previous:55
+4:equals:55
+5:setDayOfMonth:16
+6:setDayOfWeek:19
+Total :654: tests for class:org.joda.time.tz.DateTimeZoneBuilder$OfYear:
+Methods executed: 7
+org.joda.time.MutableDateTime
+Directory of jaguar data: ../jaguar-data/joda-time/1b
+Directory of subsumption data: ../subsumption-data/Time
+Analyzing class org.joda.time.MutableDateTime 
+../jaguar-data/joda-time/1b/jaguar/.jaguar/matrix
+org.joda.time.MutableDateTime.matrix
+../subsumption-data/Time/reduce/org.joda.time.MutableDateTime.sub.json
+>>>>> org.joda.time.MutableDateTime <<<<<
+0:now:3
+1:now:3
+2:setRounding:16
+3:setMillis:36
+4:add:5
+5:add:5
+6:setZone:7
+7:setZoneRetainFields:10
+8:set:5
+9:add:7
+10:addYears:4
+11:addWeekyears:4
+12:addMonths:4
+13:addWeeks:4
+14:addDays:4
+15:addHours:4
+16:addMinutes:4
+17:addSeconds:4
+18:addMillis:4
+19:setDate:11
+20:setTime:8
+21:property:9
+Total :170: tests for class:org.joda.time.MutableDateTime:
+Methods executed: 19
+org.joda.time.format.PeriodFormatterBuilder$Separator
+Directory of jaguar data: ../jaguar-data/joda-time/1b
+Directory of subsumption data: ../subsumption-data/Time
+Analyzing class org.joda.time.format.PeriodFormatterBuilder$Separator 
+../jaguar-data/joda-time/1b/jaguar/.jaguar/matrix
+org.joda.time.format.PeriodFormatterBuilder$Separator.matrix
+../subsumption-data/Time/reduce/org.joda.time.format.PeriodFormatterBuilder$Separator.sub.json
+>>>>> org.joda.time.format.PeriodFormatterBuilder$Separator <<<<<
+0:<init>:35
+1:countFieldsToPrint:12
+2:calculatePrintedLength:44
+3:printTo:44
+4:printTo:45
+5:parseInto:73
+Total :127: tests for class:org.joda.time.format.PeriodFormatterBuilder$Separator:
+Methods executed: 5
+org.joda.time.chrono.ISOYearOfEraDateTimeField
+Directory of jaguar data: ../jaguar-data/joda-time/1b
+Directory of subsumption data: ../subsumption-data/Time
+Analyzing class org.joda.time.chrono.ISOYearOfEraDateTimeField 
+../jaguar-data/joda-time/1b/jaguar/.jaguar/matrix
+org.joda.time.chrono.ISOYearOfEraDateTimeField.matrix
+../subsumption-data/Time/reduce/org.joda.time.chrono.ISOYearOfEraDateTimeField.sub.json
+>>>>> org.joda.time.chrono.ISOYearOfEraDateTimeField <<<<<
+0:get:3
+1:set:9
+Total :18: tests for class:org.joda.time.chrono.ISOYearOfEraDateTimeField:
+Methods executed: 1
+org.joda.time.format.PeriodFormat
+Directory of jaguar data: ../jaguar-data/joda-time/1b
+Directory of subsumption data: ../subsumption-data/Time
+Analyzing class org.joda.time.format.PeriodFormat 
+../jaguar-data/joda-time/1b/jaguar/.jaguar/matrix
+org.joda.time.format.PeriodFormat.matrix
+../subsumption-data/Time/reduce/org.joda.time.format.PeriodFormat.sub.json
+>>>>> org.joda.time.format.PeriodFormat <<<<<
+0:wordBased:7
+Total :52: tests for class:org.joda.time.format.PeriodFormat:
+Methods executed: 1
+org.joda.time.chrono.CopticChronology
+Directory of jaguar data: ../jaguar-data/joda-time/1b
+Directory of subsumption data: ../subsumption-data/Time
+Analyzing class org.joda.time.chrono.CopticChronology 
+../jaguar-data/joda-time/1b/jaguar/.jaguar/matrix
+org.joda.time.chrono.CopticChronology.matrix
+../subsumption-data/Time/reduce/org.joda.time.chrono.CopticChronology.sub.json
+>>>>> org.joda.time.chrono.CopticChronology <<<<<
+0:getInstance:38
+1:readResolve:8
+2:withZone:11
+3:calculateFirstDayOfYearMillis:13
+4:assemble:17
+Total :95: tests for class:org.joda.time.chrono.CopticChronology:
+Methods executed: 5
+org.joda.time.MonthDay
+Directory of jaguar data: ../jaguar-data/joda-time/1b
+Directory of subsumption data: ../subsumption-data/Time
+Analyzing class org.joda.time.MonthDay 
+../jaguar-data/joda-time/1b/jaguar/.jaguar/matrix
+org.joda.time.MonthDay.matrix
+../subsumption-data/Time/reduce/org.joda.time.MonthDay.sub.json
+>>>>> org.joda.time.MonthDay <<<<<
+0:now:3
+1:now:3
+2:fromCalendarFields:3
+3:fromDateFields:3
+4:readResolve:6
+5:getField:6
+6:withChronologyRetainFields:9
+7:withField:12
+8:withFieldAdded:8
+9:withPeriodAdded:31
+10:toString:5
+11:toString:6
+Total :86: tests for class:org.joda.time.MonthDay:
+Methods executed: 10
+org.joda.time.base.AbstractDateTime
+Directory of jaguar data: ../jaguar-data/joda-time/1b
+Directory of subsumption data: ../subsumption-data/Time
+Analyzing class org.joda.time.base.AbstractDateTime 
+../jaguar-data/joda-time/1b/jaguar/.jaguar/matrix
+org.joda.time.base.AbstractDateTime.matrix
+../subsumption-data/Time/reduce/org.joda.time.base.AbstractDateTime.sub.json
+>>>>> org.joda.time.base.AbstractDateTime <<<<<
+0:get:4
+1:toCalendar:6
+2:toString:5
+3:toString:6
+Total :45: tests for class:org.joda.time.base.AbstractDateTime:
+Methods executed: 3
+org.joda.time.tz.FixedDateTimeZone
+Directory of jaguar data: ../jaguar-data/joda-time/1b
+Directory of subsumption data: ../subsumption-data/Time
+Analyzing class org.joda.time.tz.FixedDateTimeZone 
+../jaguar-data/joda-time/1b/jaguar/.jaguar/matrix
+org.joda.time.tz.FixedDateTimeZone.matrix
+../subsumption-data/Time/reduce/org.joda.time.tz.FixedDateTimeZone.sub.json
+>>>>> org.joda.time.tz.FixedDateTimeZone <<<<<
+0:toTimeZone:9
+1:equals:27
+Total :257: tests for class:org.joda.time.tz.FixedDateTimeZone:
+Methods executed: 2
+org.joda.time.chrono.BasicMonthOfYearDateTimeField
+Directory of jaguar data: ../jaguar-data/joda-time/1b
+Directory of subsumption data: ../subsumption-data/Time
+Analyzing class org.joda.time.chrono.BasicMonthOfYearDateTimeField 
+../jaguar-data/joda-time/1b/jaguar/.jaguar/matrix
+org.joda.time.chrono.BasicMonthOfYearDateTimeField.matrix
+../subsumption-data/Time/reduce/org.joda.time.chrono.BasicMonthOfYearDateTimeField.sub.json
+>>>>> org.joda.time.chrono.BasicMonthOfYearDateTimeField <<<<<
+0:add:67
+1:add:89
+2:add:45
+3:getDifferenceAsLong:65
+4:set:12
+5:isLeap:16
+6:getLeapAmount:4
+Total :956: tests for class:org.joda.time.chrono.BasicMonthOfYearDateTimeField:
+Methods executed: 5
+org.joda.time.base.BasePeriod
+Directory of jaguar data: ../jaguar-data/joda-time/1b
+Directory of subsumption data: ../subsumption-data/Time
+Analyzing class org.joda.time.base.BasePeriod 
+../jaguar-data/joda-time/1b/jaguar/.jaguar/matrix
+org.joda.time.base.BasePeriod.matrix
+../subsumption-data/Time/reduce/org.joda.time.base.BasePeriod.sub.json
+>>>>> org.joda.time.base.BasePeriod <<<<<
+0:<init>:14
+1:<init>:48
+2:<init>:18
+3:checkAndUpdate:8
+4:setPeriod:5
+5:setPeriodInternal:18
+6:setFieldInto:10
+7:addFieldInto:10
+8:mergePeriod:4
+9:mergePeriodInto:17
+10:addPeriod:4
+11:addPeriodInto:26
+No unconstrained duas covered in testcase 1 of mergePeriodInto: [1 1 1 1 1 1 0 1 1 1 1 1 0 1 0 0 0]: [0 0 0 0 0 0 1 0 0 0 0 0 1 0 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1 1]
+[1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1]
+[0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 0]
+No unconstrained duas covered in testcase 13 of setPeriodInternal: [1 1 1 1 1 1 1 0 1 1 1 1 1 0 1 0 0 0]: [0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1 1]
+[1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0]
+[1 0 0 0 1 0 0 1 0 0 0 0 1 0 0 0 0 0]
+No unconstrained duas covered in testcase 17 of setPeriodInternal: [1 1 1 1 1 1 1 0 1 1 1 1 1 0 1 0 0 0]: [0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1 1]
+[1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0]
+[1 0 0 0 1 0 0 1 0 0 0 0 1 0 0 0 0 0]
+No unconstrained duas covered in testcase 44 of setPeriodInternal: [1 1 1 1 1 1 1 0 1 1 1 1 1 0 1 0 0 0]: [0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1 1]
+[1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0]
+[1 0 0 0 1 0 0 1 0 0 0 0 1 0 0 0 0 0]
+No unconstrained duas covered in testcase 47 of setPeriodInternal: [1 1 1 1 1 1 1 0 1 1 1 1 1 0 1 0 0 0]: [0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1 1]
+[1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0]
+[1 0 0 0 1 0 0 1 0 0 0 0 1 0 0 0 0 0]
+No unconstrained duas covered in testcase 209 of mergePeriodInto: [1 1 1 1 1 1 0 1 1 1 1 1 0 1 0 0 0]: [0 0 0 0 0 0 1 0 0 0 0 0 1 0 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1 1]
+[1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1]
+[0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 0]
+No unconstrained duas covered in testcase 279 of setPeriodInternal: [1 1 1 1 1 1 1 0 1 1 1 1 1 0 1 0 0 0]: [0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1 1]
+[1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0]
+[1 0 0 0 1 0 0 1 0 0 0 0 1 0 0 0 0 0]
+No unconstrained duas covered in testcase 281 of setPeriodInternal: [1 1 1 1 1 1 1 0 1 1 1 1 1 0 1 0 0 0]: [0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1 1]
+[1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0]
+[1 0 0 0 1 0 0 1 0 0 0 0 1 0 0 0 0 0]
+No unconstrained duas covered in testcase 282 of setPeriodInternal: [1 1 1 1 1 1 1 0 1 1 1 1 1 0 1 0 0 0]: [0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1 1]
+[1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0]
+[1 0 0 0 1 0 0 1 0 0 0 0 1 0 0 0 0 0]
+No unconstrained duas covered in testcase 283 of setPeriodInternal: [1 1 1 1 1 1 1 0 1 1 1 1 1 0 1 0 0 0]: [0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1 1]
+[1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0]
+[1 0 0 0 1 0 0 1 0 0 0 0 1 0 0 0 0 0]
+No unconstrained duas covered in testcase 284 of setPeriodInternal: [1 1 1 1 1 1 1 0 1 1 1 1 1 0 1 0 0 0]: [0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1 1]
+[1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0]
+[1 0 0 0 1 0 0 1 0 0 0 0 1 0 0 0 0 0]
+No unconstrained duas covered in testcase 285 of setPeriodInternal: [1 1 1 1 1 1 1 0 1 1 1 1 1 0 1 0 0 0]: [0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1 1]
+[1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0]
+[1 0 0 0 1 0 0 1 0 0 0 0 1 0 0 0 0 0]
+No unconstrained duas covered in testcase 286 of setPeriodInternal: [1 1 1 1 1 1 1 0 1 1 1 1 1 0 1 0 0 0]: [0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1 1]
+[1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0]
+[1 0 0 0 1 0 0 1 0 0 0 0 1 0 0 0 0 0]
+No unconstrained duas covered in testcase 288 of setPeriodInternal: [1 1 1 1 1 1 1 0 1 1 1 1 1 0 1 0 0 0]: [0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1 1]
+[1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0]
+[1 0 0 0 1 0 0 1 0 0 0 0 1 0 0 0 0 0]
+No unconstrained duas covered in testcase 292 of setPeriodInternal: [1 1 1 1 1 1 1 0 1 1 1 1 1 0 1 0 0 0]: [0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1 1]
+[1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0]
+[1 0 0 0 1 0 0 1 0 0 0 0 1 0 0 0 0 0]
+No unconstrained duas covered in testcase 297 of setPeriodInternal: [1 1 1 1 1 1 1 0 1 1 1 1 1 0 1 0 0 0]: [0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1 1]
+[1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0]
+[1 0 0 0 1 0 0 1 0 0 0 0 1 0 0 0 0 0]
+Total :395: tests for class:org.joda.time.base.BasePeriod:
+Methods executed: 10
+Unconstrained method :mergePeriodInto:1:2
+Unconstrained method :setPeriodInternal:1:14
+org.joda.time.field.PreciseDurationDateTimeField
+Directory of jaguar data: ../jaguar-data/joda-time/1b
+Directory of subsumption data: ../subsumption-data/Time
+Analyzing class org.joda.time.field.PreciseDurationDateTimeField 
+../jaguar-data/joda-time/1b/jaguar/.jaguar/matrix
+org.joda.time.field.PreciseDurationDateTimeField.matrix
+../subsumption-data/Time/reduce/org.joda.time.field.PreciseDurationDateTimeField.sub.json
+>>>>> org.joda.time.field.PreciseDurationDateTimeField <<<<<
+0:<init>:10
+1:roundFloor:8
+2:roundCeiling:8
+3:remainder:8
+Total :1007: tests for class:org.joda.time.field.PreciseDurationDateTimeField:
+Methods executed: 4
+org.joda.time.DateTimeComparator
+Directory of jaguar data: ../jaguar-data/joda-time/1b
+Directory of subsumption data: ../subsumption-data/Time
+Analyzing class org.joda.time.DateTimeComparator 
+../jaguar-data/joda-time/1b/jaguar/.jaguar/matrix
+org.joda.time.DateTimeComparator.matrix
+../subsumption-data/Time/reduce/org.joda.time.DateTimeComparator.sub.json
+>>>>> org.joda.time.DateTimeComparator <<<<<
+0:getInstance:17
+1:compare:50
+2:equals:35
+3:hashCode:11
+4:toString:23
+Total :41: tests for class:org.joda.time.DateTimeComparator:
+Methods executed: 5
+org.joda.time.base.AbstractInterval
+Directory of jaguar data: ../jaguar-data/joda-time/1b
+Directory of subsumption data: ../subsumption-data/Time
+Analyzing class org.joda.time.base.AbstractInterval 
+../jaguar-data/joda-time/1b/jaguar/.jaguar/matrix
+org.joda.time.base.AbstractInterval.matrix
+../subsumption-data/Time/reduce/org.joda.time.base.AbstractInterval.sub.json
+>>>>> org.joda.time.base.AbstractInterval <<<<<
+0:checkInterval:4
+1:contains:8
+2:contains:5
+3:contains:19
+4:overlaps:20
+5:isEqual:8
+6:isBefore:4
+7:isBefore:5
+8:isBefore:5
+9:isAfter:4
+10:isAfter:5
+11:isAfter:9
+12:toDuration:4
+13:equals:19
+Total :329: tests for class:org.joda.time.base.AbstractInterval:
+Methods executed: 8
+org.joda.time.tz.ZoneInfoCompiler$DateTimeOfYear
+Directory of jaguar data: ../jaguar-data/joda-time/1b
+Directory of subsumption data: ../subsumption-data/Time
+Analyzing class org.joda.time.tz.ZoneInfoCompiler$DateTimeOfYear 
+../jaguar-data/joda-time/1b/jaguar/.jaguar/matrix
+org.joda.time.tz.ZoneInfoCompiler$DateTimeOfYear.matrix
+../subsumption-data/Time/reduce/org.joda.time.tz.ZoneInfoCompiler$DateTimeOfYear.sub.json
+>>>>> org.joda.time.tz.ZoneInfoCompiler$DateTimeOfYear <<<<<
+0:<init>:57
+Total :3: tests for class:org.joda.time.tz.ZoneInfoCompiler$DateTimeOfYear:
+Methods executed: 1
+org.joda.time.format.DateTimeFormatterBuilder$TimeZoneOffset
+Directory of jaguar data: ../jaguar-data/joda-time/1b
+Directory of subsumption data: ../subsumption-data/Time
+Analyzing class org.joda.time.format.DateTimeFormatterBuilder$TimeZoneOffset 
+../jaguar-data/joda-time/1b/jaguar/.jaguar/matrix
+org.joda.time.format.DateTimeFormatterBuilder$TimeZoneOffset.matrix
+../subsumption-data/Time/reduce/org.joda.time.format.DateTimeFormatterBuilder$TimeZoneOffset.sub.json
+>>>>> org.joda.time.format.DateTimeFormatterBuilder$TimeZoneOffset <<<<<
+0:<init>:14
+1:estimatePrintedLength:24
+2:printTo:79
+3:printTo:79
+4:parseInto:199
+5:digitCount:18
+Total :546: tests for class:org.joda.time.format.DateTimeFormatterBuilder$TimeZoneOffset:
+Methods executed: 5
+org.joda.time.convert.ConverterSet
+Directory of jaguar data: ../jaguar-data/joda-time/1b
+Directory of subsumption data: ../subsumption-data/Time
+Analyzing class org.joda.time.convert.ConverterSet 
+../jaguar-data/joda-time/1b/jaguar/.jaguar/matrix
+org.joda.time.convert.ConverterSet.matrix
+../subsumption-data/Time/reduce/org.joda.time.convert.ConverterSet.sub.json
+>>>>> org.joda.time.convert.ConverterSet <<<<<
+0:select:94
+1:add:62
+2:remove:24
+3:remove:31
+4:selectSlow:108
+Total :434: tests for class:org.joda.time.convert.ConverterSet:
+Methods executed: 4
+org.joda.time.field.FieldUtils
+Directory of jaguar data: ../jaguar-data/joda-time/1b
+Directory of subsumption data: ../subsumption-data/Time
+Analyzing class org.joda.time.field.FieldUtils 
+../jaguar-data/joda-time/1b/jaguar/.jaguar/matrix
+org.joda.time.field.FieldUtils.matrix
+../subsumption-data/Time/reduce/org.joda.time.field.FieldUtils.sub.json
+>>>>> org.joda.time.field.FieldUtils <<<<<
+0:safeNegate:3
+1:safeAdd:11
+2:safeAdd:11
+3:safeSubtract:11
+4:safeMultiply:7
+5:safeMultiply:21
+6:safeMultiply:29
+7:safeDivide:8
+8:safeToInt:6
+9:verifyValueBounds:12
+10:verifyValueBounds:12
+11:verifyValueBounds:12
+12:getWrappedValue:21
+13:equals:10
+Total :2127: tests for class:org.joda.time.field.FieldUtils:
+Methods executed: 9
+org.joda.time.TimeOfDay
+Directory of jaguar data: ../jaguar-data/joda-time/1b
+Directory of subsumption data: ../subsumption-data/Time
+Analyzing class org.joda.time.TimeOfDay 
+../jaguar-data/joda-time/1b/jaguar/.jaguar/matrix
+org.joda.time.TimeOfDay.matrix
+../subsumption-data/Time/reduce/org.joda.time.TimeOfDay.sub.json
+>>>>> org.joda.time.TimeOfDay <<<<<
+0:fromCalendarFields:3
+1:fromDateFields:3
+2:getField:10
+3:withChronologyRetainFields:9
+4:withField:12
+5:withFieldAdded:8
+6:withPeriodAdded:31
+Total :146: tests for class:org.joda.time.TimeOfDay:
+Methods executed: 7
+org.joda.time.DurationFieldType$StandardDurationFieldType
+Directory of jaguar data: ../jaguar-data/joda-time/1b
+Directory of subsumption data: ../subsumption-data/Time
+Analyzing class org.joda.time.DurationFieldType$StandardDurationFieldType 
+../jaguar-data/joda-time/1b/jaguar/.jaguar/matrix
+org.joda.time.DurationFieldType$StandardDurationFieldType.matrix
+../subsumption-data/Time/reduce/org.joda.time.DurationFieldType$StandardDurationFieldType.sub.json
+>>>>> org.joda.time.DurationFieldType$StandardDurationFieldType <<<<<
+0:equals:12
+1:getField:38
+2:readResolve:39
+Total :858: tests for class:org.joda.time.DurationFieldType$StandardDurationFieldType:
+Methods executed: 3
+org.joda.time.chrono.GJLocaleSymbols
+Directory of jaguar data: ../jaguar-data/joda-time/1b
+Directory of subsumption data: ../subsumption-data/Time
+Analyzing class org.joda.time.chrono.GJLocaleSymbols 
+../jaguar-data/joda-time/1b/jaguar/.jaguar/matrix
+org.joda.time.chrono.GJLocaleSymbols.matrix
+../subsumption-data/Time/reduce/org.joda.time.chrono.GJLocaleSymbols.sub.json
+>>>>> org.joda.time.chrono.GJLocaleSymbols <<<<<
+0:forLocale:34
+1:realignMonths:11
+2:realignDaysOfWeek:15
+3:addSymbols:12
+4:addNumerals:12
+5:maxLength:18
+6:<init>:54
+7:eraTextToValue:4
+8:monthOfYearTextToValue:4
+9:dayOfWeekTextToValue:4
+10:halfdayTextToValue:12
+Total :88: tests for class:org.joda.time.chrono.GJLocaleSymbols:
+Methods executed: 11
+org.joda.time.chrono.BuddhistChronology
+Directory of jaguar data: ../jaguar-data/joda-time/1b
+Directory of subsumption data: ../subsumption-data/Time
+Analyzing class org.joda.time.chrono.BuddhistChronology 
+../jaguar-data/joda-time/1b/jaguar/.jaguar/matrix
+org.joda.time.chrono.BuddhistChronology.matrix
+../subsumption-data/Time/reduce/org.joda.time.chrono.BuddhistChronology.sub.json
+>>>>> org.joda.time.chrono.BuddhistChronology <<<<<
+0:getInstance:16
+1:readResolve:3
+2:withZone:11
+3:equals:8
+4:toString:6
+5:assemble:25
+Total :129: tests for class:org.joda.time.chrono.BuddhistChronology:
+Methods executed: 5
+org.joda.time.DateTimeFieldType$StandardDateTimeFieldType
+Directory of jaguar data: ../jaguar-data/joda-time/1b
+Directory of subsumption data: ../subsumption-data/Time
+Analyzing class org.joda.time.DateTimeFieldType$StandardDateTimeFieldType 
+../jaguar-data/joda-time/1b/jaguar/.jaguar/matrix
+org.joda.time.DateTimeFieldType$StandardDateTimeFieldType.matrix
+../subsumption-data/Time/reduce/org.joda.time.DateTimeFieldType$StandardDateTimeFieldType.sub.json
+>>>>> org.joda.time.DateTimeFieldType$StandardDateTimeFieldType <<<<<
+0:equals:12
+1:getField:71
+2:readResolve:49
+Total :1264: tests for class:org.joda.time.DateTimeFieldType$StandardDateTimeFieldType:
+Methods executed: 3
+org.joda.time.MutableInterval
+Directory of jaguar data: ../jaguar-data/joda-time/1b
+Directory of subsumption data: ../subsumption-data/Time
+Analyzing class org.joda.time.MutableInterval 
+../jaguar-data/joda-time/1b/jaguar/.jaguar/matrix
+org.joda.time.MutableInterval.matrix
+../subsumption-data/Time/reduce/org.joda.time.MutableInterval.sub.json
+>>>>> org.joda.time.MutableInterval <<<<<
+0:setInterval:6
+1:setInterval:9
+2:setPeriodAfterStart:5
+3:setPeriodBeforeEnd:5
+Total :14: tests for class:org.joda.time.MutableInterval:
+Methods executed: 3
+org.joda.time.PeriodType
+Directory of jaguar data: ../jaguar-data/joda-time/1b
+Directory of subsumption data: ../subsumption-data/Time
+Analyzing class org.joda.time.PeriodType 
+../jaguar-data/joda-time/1b/jaguar/.jaguar/matrix
+org.joda.time.PeriodType.matrix
+../subsumption-data/Time/reduce/org.joda.time.PeriodType.sub.json
+>>>>> org.joda.time.PeriodType <<<<<
+0:standard:4
+1:yearMonthDayTime:4
+2:yearMonthDay:4
+3:yearWeekDayTime:4
+4:yearWeekDay:4
+5:yearDayTime:4
+6:yearDay:4
+7:dayTime:4
+8:time:4
+9:years:4
+10:months:4
+11:weeks:4
+12:days:4
+13:hours:4
+14:minutes:4
+15:seconds:4
+16:millis:4
+17:forFields:150
+18:isSupported:4
+19:indexOf:20
+20:getIndexedField:4
+21:setIndexedField:5
+22:addIndexedField:10
+23:withFieldRemoved:81
+24:equals:9
+25:hashCode:18
+No unconstrained duas covered in testcase 280 of hashCode: [1 1 1 1 1 1 0 1 1 0 1 1 1 0 0 1 0 0]: [0 0 0 0 0 0 1 0 0 1 0 0 0 1 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 1 1]
+[1 1 1 1 1 1 0 1 1 0 1 1 1 1 1 1 1 1]
+[0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0]
+[0 1 0 0 1 0 1 0 0 1 0 0 0 0 0 0 0 0]
+Total :638: tests for class:org.joda.time.PeriodType:
+Methods executed: 26
+Unconstrained method :hashCode:1:1
+org.joda.time.field.BaseDurationField
+Directory of jaguar data: ../jaguar-data/joda-time/1b
+Directory of subsumption data: ../subsumption-data/Time
+Analyzing class org.joda.time.field.BaseDurationField 
+../jaguar-data/joda-time/1b/jaguar/.jaguar/matrix
+org.joda.time.field.BaseDurationField.matrix
+../subsumption-data/Time/reduce/org.joda.time.field.BaseDurationField.sub.json
+>>>>> org.joda.time.field.BaseDurationField <<<<<
+0:<init>:4
+1:compareTo:8
+Total :635: tests for class:org.joda.time.field.BaseDurationField:
+Methods executed: 2
+org.joda.time.convert.AbstractConverter
+Directory of jaguar data: ../jaguar-data/joda-time/1b
+Directory of subsumption data: ../subsumption-data/Time
+Analyzing class org.joda.time.convert.AbstractConverter 
+../jaguar-data/joda-time/1b/jaguar/.jaguar/matrix
+org.joda.time.convert.AbstractConverter.matrix
+../subsumption-data/Time/reduce/org.joda.time.convert.AbstractConverter.sub.json
+>>>>> org.joda.time.convert.AbstractConverter <<<<<
+0:toString:3
+Total :10: tests for class:org.joda.time.convert.AbstractConverter:
+Methods executed: 1
+org.joda.time.format.DateTimeFormatterBuilder$PaddedNumber
+Directory of jaguar data: ../jaguar-data/joda-time/1b
+Directory of subsumption data: ../subsumption-data/Time
+Analyzing class org.joda.time.format.DateTimeFormatterBuilder$PaddedNumber 
+../jaguar-data/joda-time/1b/jaguar/.jaguar/matrix
+org.joda.time.format.DateTimeFormatterBuilder$PaddedNumber.matrix
+../subsumption-data/Time/reduce/org.joda.time.format.DateTimeFormatterBuilder$PaddedNumber.sub.json
+>>>>> org.joda.time.format.DateTimeFormatterBuilder$PaddedNumber <<<<<
+0:printTo:14
+1:printTo:14
+Total :120: tests for class:org.joda.time.format.DateTimeFormatterBuilder$PaddedNumber:
+Methods executed: 1
+org.joda.time.base.AbstractPartial
+Directory of jaguar data: ../jaguar-data/joda-time/1b
+Directory of subsumption data: ../subsumption-data/Time
+Analyzing class org.joda.time.base.AbstractPartial 
+../jaguar-data/joda-time/1b/jaguar/.jaguar/matrix
+org.joda.time.base.AbstractPartial.matrix
+../subsumption-data/Time/reduce/org.joda.time.base.AbstractPartial.sub.json
+>>>>> org.joda.time.base.AbstractPartial <<<<<
+0:getFieldTypes:13
+1:getFields:13
+2:getValues:13
+3:isSupported:4
+4:indexOf:18
+5:indexOfSupported:4
+6:indexOf:18
+7:indexOfSupported:4
+8:equals:38
+9:hashCode:19
+10:compareTo:50
+11:isAfter:6
+12:isBefore:6
+13:isEqual:6
+14:toString:5
+Total :398: tests for class:org.joda.time.base.AbstractPartial:
+Methods executed: 13
+org.joda.time.format.DateTimeFormatterBuilder$StringLiteral
+Directory of jaguar data: ../jaguar-data/joda-time/1b
+Directory of subsumption data: ../subsumption-data/Time
+Analyzing class org.joda.time.format.DateTimeFormatterBuilder$StringLiteral 
+../jaguar-data/joda-time/1b/jaguar/.jaguar/matrix
+org.joda.time.format.DateTimeFormatterBuilder$StringLiteral.matrix
+../subsumption-data/Time/reduce/org.joda.time.format.DateTimeFormatterBuilder$StringLiteral.sub.json
+>>>>> org.joda.time.format.DateTimeFormatterBuilder$StringLiteral <<<<<
+0:parseInto:12
+Total :130: tests for class:org.joda.time.format.DateTimeFormatterBuilder$StringLiteral:
+Methods executed: 1
+org.joda.time.format.PeriodFormatter
+Directory of jaguar data: ../jaguar-data/joda-time/1b
+Directory of subsumption data: ../subsumption-data/Time
+Analyzing class org.joda.time.format.PeriodFormatter 
+../jaguar-data/joda-time/1b/jaguar/.jaguar/matrix
+org.joda.time.format.PeriodFormatter.matrix
+../subsumption-data/Time/reduce/org.joda.time.format.PeriodFormatter.sub.json
+>>>>> org.joda.time.format.PeriodFormatter <<<<<
+0:isPrinter:4
+1:isParser:4
+2:withLocale:16
+3:withParseType:12
+4:checkPrinter:4
+5:checkPeriod:2
+6:parseMutablePeriod:11
+7:checkParser:4
+Total :175: tests for class:org.joda.time.format.PeriodFormatter:
+Methods executed: 8
+org.joda.time.format.DateTimeFormatterBuilder$TimeZoneId
+Directory of jaguar data: ../jaguar-data/joda-time/1b
+Directory of subsumption data: ../subsumption-data/Time
+Analyzing class org.joda.time.format.DateTimeFormatterBuilder$TimeZoneId 
+../jaguar-data/joda-time/1b/jaguar/.jaguar/matrix
+org.joda.time.format.DateTimeFormatterBuilder$TimeZoneId.matrix
+../subsumption-data/Time/reduce/org.joda.time.format.DateTimeFormatterBuilder$TimeZoneId.sub.json
+>>>>> org.joda.time.format.DateTimeFormatterBuilder$TimeZoneId <<<<<
+0:printTo:3
+1:printTo:4
+2:parseInto:29
+Total :11: tests for class:org.joda.time.format.DateTimeFormatterBuilder$TimeZoneId:
+Methods executed: 2
+org.joda.time.chrono.GJChronology
+Directory of jaguar data: ../jaguar-data/joda-time/1b
+Directory of subsumption data: ../subsumption-data/Time
+Analyzing class org.joda.time.chrono.GJChronology 
+../jaguar-data/joda-time/1b/jaguar/.jaguar/matrix
+org.joda.time.chrono.GJChronology.matrix
+../subsumption-data/Time/reduce/org.joda.time.chrono.GJChronology.sub.json
+>>>>> org.joda.time.chrono.GJChronology <<<<<
+0:getInstance:52
+1:getInstance:9
+2:getZone:4
+3:withZone:13
+4:getDateTimeMillis:33
+5:getDateTimeMillis:42
+6:equals:23
+7:toString:23
+8:assemble:157
+No unconstrained duas covered in testcase 75 of getDateTimeMillis: [0 1 1 0 0 0 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 0 0 0 0 0
+ 0 0 0 0 0]: [1 0 0 0 1 0 1 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 1 1 0 1 0
+ 1 1 1 1 1]
+[1 0 0 0 0 0 0 0 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 0 0 0 0 1 0
+ 0 0 0 0 0]
+[1 0 0 0 0 0 0 0 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 0 0 0 0 1 0
+ 0 0 0 0 0]
+[0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0
+ 0 0 1 0 0]
+[0 1 1 1 0 1 1 0 1 1 0 1 1 0 1 1 0 1 1 0 1 1 0 1 1 0 1 1 0 1 1 0 1 0 1 0 1
+ 0 0 1 0 0]
+[0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0
+ 0 0 0 1 1]
+[0 1 1 1 0 1 0 1 1 1 0 1 1 0 1 1 0 1 1 0 1 1 0 1 1 0 1 1 0 1 1 0 0 1 1 0 1
+ 0 0 0 1 1]
+[0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0
+ 1 1 0 0 0]
+[0 1 1 0 1 0 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 1 0 0 0 0 0
+ 1 1 0 0 0]
+Total :147: tests for class:org.joda.time.chrono.GJChronology:
+Methods executed: 7
+Unconstrained method :getDateTimeMillis:1:1
+org.joda.time.field.AbstractPartialFieldProperty
+Directory of jaguar data: ../jaguar-data/joda-time/1b
+Directory of subsumption data: ../subsumption-data/Time
+Analyzing class org.joda.time.field.AbstractPartialFieldProperty 
+../jaguar-data/joda-time/1b/jaguar/.jaguar/matrix
+org.joda.time.field.AbstractPartialFieldProperty.matrix
+../subsumption-data/Time/reduce/org.joda.time.field.AbstractPartialFieldProperty.sub.json
+>>>>> org.joda.time.field.AbstractPartialFieldProperty <<<<<
+0:compareTo:13
+1:compareTo:13
+2:equals:19
+Total :27: tests for class:org.joda.time.field.AbstractPartialFieldProperty:
+Methods executed: 2

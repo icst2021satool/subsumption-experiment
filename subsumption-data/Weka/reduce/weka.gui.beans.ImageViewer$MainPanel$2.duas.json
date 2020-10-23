@@ -1,0 +1,13 @@
+{
+"Class" : "weka.gui.beans.ImageViewer$MainPanel$2", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Duas" : 8,
+"0" :  "(332,338, this)",
+"1" :  "(332,339, this)",
+"2" :  "(332,338, this.val$id)",
+"3" :  "(332,339, this.val$id)",
+"4" :  "(333,(334,335), z)",
+"5" :  "(333,(334,338), z)",
+"6" :  "(333,338, z)",
+"7" :  "(335,338, z)"}]
+}

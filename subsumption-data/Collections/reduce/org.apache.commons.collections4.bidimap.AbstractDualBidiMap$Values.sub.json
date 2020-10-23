@@ -1,0 +1,9 @@
+{
+"Class" : "org.apache.commons.collections4.bidimap.AbstractDualBidiMap$Values", 
+"Methods" : [{ "Name" : "remove" ,
+"Duas" : "15" ,
+"Subsumers" : 2,
+"0" : [ 14, 13, 11, 9, 10, 7, 6, 4, 2, 3, 0], "S0" : [0, 2, 3, 4, 6, 7, 9, 10, 11, 13, 14 ],
+"1" : [ 12, 8, 5, 1], "S1" : [1, 5, 8, 12 ]
+}]
+}

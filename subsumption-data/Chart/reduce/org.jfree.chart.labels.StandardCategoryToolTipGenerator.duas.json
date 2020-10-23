@@ -1,0 +1,13 @@
+{
+"Class" : "org.jfree.chart.labels.StandardCategoryToolTipGenerator", 
+"Methods" : [{ "Name" : "equals" ,
+"Duas" : 8,
+"0" :  "(121,(121,122), this)",
+"1" :  "(121,(121,124), this)",
+"2" :  "(121,127, this)",
+"3" :  "(121,(121,122), obj)",
+"4" :  "(121,(121,124), obj)",
+"5" :  "(121,(124,125), obj)",
+"6" :  "(121,(124,127), obj)",
+"7" :  "(121,127, obj)"}]
+}

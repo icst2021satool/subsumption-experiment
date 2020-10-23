@@ -1,0 +1,8 @@
+{
+"Class" : "org.apache.commons.collections4.functors.MapTransformer", 
+"Methods" : [{ "Name" : "mapTransformer" ,
+"Duas" : 3,
+"0" :  "(50,(50,51), map)",
+"1" :  "(50,(50,53), map)",
+"2" :  "(50,53, map)"}]
+}

@@ -1,0 +1,16 @@
+{
+"Class" : "com.googlecode.jfilechooserbookmarks.AbstractBookmarksPanel$1", 
+"Methods" : [{ "Name" : "propertyChange" ,
+"Duas" : 11,
+"0" :  "(120,(121,122), this)",
+"1" :  "(120,(121,124), this)",
+"2" :  "(120,122, this)",
+"3" :  "(120,(120,121), evt)",
+"4" :  "(120,(120,124), evt)",
+"5" :  "(120,(121,122), this.this$0)",
+"6" :  "(120,(121,124), this.this$0)",
+"7" :  "(120,122, this.this$0)",
+"8" :  "(120,(121,122), this.m_SkipDirectoryChanges)",
+"9" :  "(120,(121,124), this.m_SkipDirectoryChanges)",
+"10" :  "(120,122, this.m_ListBookmarks)"}]
+}

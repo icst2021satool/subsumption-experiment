@@ -1,0 +1,21 @@
+{
+"Class" : "com.fasterxml.jackson.databind.ser.impl.PropertySerializerMap$Double", 
+"Methods" : [{ "Name" : "serializerFor" ,
+"Duas" : 16,
+"0" :  "(166,(166,167), this)",
+"1" :  "(166,(166,169), this)",
+"2" :  "(166,(169,170), this)",
+"3" :  "(166,(169,172), this)",
+"4" :  "(166,170, this)",
+"5" :  "(166,167, this)",
+"6" :  "(166,(166,167), type)",
+"7" :  "(166,(166,169), type)",
+"8" :  "(166,(169,170), type)",
+"9" :  "(166,(169,172), type)",
+"10" :  "(166,(166,167), this._type1)",
+"11" :  "(166,(166,169), this._type1)",
+"12" :  "(166,167, this._serializer1)",
+"13" :  "(166,(169,170), this._type2)",
+"14" :  "(166,(169,172), this._type2)",
+"15" :  "(166,170, this._serializer2)"}]
+}

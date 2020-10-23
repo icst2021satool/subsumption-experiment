@@ -1,0 +1,13 @@
+{
+"Class" : "com.sun.xml.bind.util.Which", 
+"Methods" : [{ "Name" : "which" ,
+"Duas" : 8,
+"0" :  "(36,(38,39), loader)",
+"1" :  "(36,(38,42), loader)",
+"2" :  "(36,42, loader)",
+"3" :  "(36,42, classnameAsResource)",
+"4" :  "(39,42, loader)",
+"5" :  "(42,(43,44), it)",
+"6" :  "(42,(43,46), it)",
+"7" :  "(42,44, it)"}]
+}

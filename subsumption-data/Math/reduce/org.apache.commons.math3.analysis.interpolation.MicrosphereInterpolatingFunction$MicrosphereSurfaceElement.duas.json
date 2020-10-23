@@ -1,0 +1,15 @@
+{
+"Class" : "org.apache.commons.math3.analysis.interpolation.MicrosphereInterpolatingFunction$MicrosphereSurfaceElement", 
+"Methods" : [{ "Name" : "store" ,
+"Duas" : 10,
+"0" :  "(104,(104,105), this)",
+"1" :  "(104,(104,108), this)",
+"2" :  "(104,105, this)",
+"3" :  "(104,106, this)",
+"4" :  "(104,(104,105), illuminationFromSample)",
+"5" :  "(104,(104,108), illuminationFromSample)",
+"6" :  "(104,105, illuminationFromSample)",
+"7" :  "(104,106, sample)",
+"8" :  "(104,(104,105), this.brightestIllumination)",
+"9" :  "(104,(104,108), this.brightestIllumination)"}]
+}

@@ -1,0 +1,22 @@
+{
+"Class" : "weka.core.pmml.jaxbbindings.MultivariateStats", 
+"Methods" : [{ "Name" : "getExtension" ,
+"Duas" : 8,
+"0" :  "(82,(82,83), this)",
+"1" :  "(82,(82,85), this)",
+"2" :  "(82,85, this)",
+"3" :  "(82,83, this)",
+"4" :  "(82,(82,83), this.extension)",
+"5" :  "(82,(82,85), this.extension)",
+"6" :  "(82,85, this.extension)",
+"7" :  "(83,85, this.extension)"},{ "Name" : "getMultivariateStat" ,
+"Duas" : 8,
+"0" :  "(111,(111,112), this)",
+"1" :  "(111,(111,114), this)",
+"2" :  "(111,114, this)",
+"3" :  "(111,112, this)",
+"4" :  "(111,(111,112), this.multivariateStat)",
+"5" :  "(111,(111,114), this.multivariateStat)",
+"6" :  "(111,114, this.multivariateStat)",
+"7" :  "(112,114, this.multivariateStat)"}]
+}

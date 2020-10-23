@@ -1,0 +1,14 @@
+{
+"Class" : "weka.classifiers.bayes.net.GUI$ActionViewStatusbar", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Duas" : 9,
+"0" :  "(1510,(1510,1510), this)",
+"1" :  "(1510,(1510,1510), this)",
+"2" :  "(1510,1510, this)",
+"3" :  "(1510,(1510,1510), this.this$0)",
+"4" :  "(1510,(1510,1510), this.this$0)",
+"5" :  "(1510,1510, this.this$0)",
+"6" :  "(1510,(1510,1510), this.m_jStatusBar)",
+"7" :  "(1510,(1510,1510), this.m_jStatusBar)",
+"8" :  "(1510,1510, this.m_jStatusBar)"}]
+}

@@ -1,0 +1,10 @@
+{
+"Class" : "weka.gui.SettingsEditor$PickList", 
+"Methods" : [{ "Name" : "<init>" ,
+"Duas" : 5,
+"0" :  "(634,639, this)",
+"1" :  "(634,640, this)",
+"2" :  "(634,636, this)",
+"3" :  "(632,640, this.m_list)",
+"4" :  "(632,636, this.m_list)"}]
+}

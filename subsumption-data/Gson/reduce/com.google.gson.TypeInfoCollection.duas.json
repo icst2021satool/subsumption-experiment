@@ -1,0 +1,10 @@
+{
+"Class" : "com.google.gson.TypeInfoCollection", 
+"Methods" : [{ "Name" : "<init>" ,
+"Duas" : 5,
+"0" :  "(32,40, this)",
+"1" :  "(32,(33,34), collectionType)",
+"2" :  "(32,(33,38), collectionType)",
+"3" :  "(32,38, collectionType)",
+"4" :  "(32,40, collectionType)"}]
+}

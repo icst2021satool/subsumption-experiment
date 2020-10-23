@@ -1,0 +1,11 @@
+{
+"Class" : "weka.gui.Main$ChildFrameMDI$1", 
+"Methods" : [{ "Name" : "internalFrameActivated" ,
+"Duas" : 6,
+"0" :  "(274,(274,275), this)",
+"1" :  "(274,(274,277), this)",
+"2" :  "(274,275, this)",
+"3" :  "(274,(274,275), this.this$0)",
+"4" :  "(274,(274,277), this.this$0)",
+"5" :  "(274,275, this.this$0)"}]
+}

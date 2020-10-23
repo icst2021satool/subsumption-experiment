@@ -1,0 +1,16 @@
+{
+"Class" : "weka.gui.beans.KnowledgeFlowApp$BeanIconRenderer", 
+"Methods" : [{ "Name" : "getTreeCellRendererComponent" ,
+"Duas" : 11,
+"0" :  "(391,403, this)",
+"1" :  "(391,399, this)",
+"2" :  "(391,395, value)",
+"3" :  "(391,(394,395), leaf)",
+"4" :  "(391,(394,403), leaf)",
+"5" :  "(395,(396,397), userO)",
+"6" :  "(395,(396,403), userO)",
+"7" :  "(395,397, userO)",
+"8" :  "(397,(398,399), i)",
+"9" :  "(397,(398,403), i)",
+"10" :  "(397,399, i)"}]
+}

@@ -1,0 +1,23 @@
+{
+"Class" : "com.google.javascript.jscomp.RemoveUnusedNames", 
+"Methods" : [{ "Name" : "removeUnusedProperties" ,
+"Duas" : 18,
+"0" :  "(64,(68,68), this)",
+"1" :  "(64,(68,69), this)",
+"2" :  "(64,70, this)",
+"3" :  "(64,(68,68), this.canModifyExterns)",
+"4" :  "(64,(68,69), this.canModifyExterns)",
+"5" :  "(64,70, this.compiler)",
+"6" :  "(64,71, logger)",
+"7" :  "(64,(64,64), i$)",
+"8" :  "(64,(64,75), i$)",
+"9" :  "(64,64, i$)",
+"10" :  "(65,69, name)",
+"11" :  "(65,71, name)",
+"12" :  "(65,(68,69), name)",
+"13" :  "(65,(68,74), name)",
+"14" :  "(66,(67,67), nameInfo)",
+"15" :  "(66,(67,68), nameInfo)",
+"16" :  "(66,(67,68), nameInfo)",
+"17" :  "(66,(67,74), nameInfo)"}]
+}

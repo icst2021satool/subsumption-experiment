@@ -1,0 +1,9 @@
+{
+"Class" : "org.apache.commons.lang3.concurrent.MultiBackgroundInitializer$MultiBackgroundInitializerResults", 
+"Methods" : [{ "Name" : "checkName" ,
+"Duas" : "4" ,
+"Subsumers" : 2,
+"0" : [ 1, 0], "S0" : [0, 1 ],
+"1" : [ 3, 2], "S1" : [2, 3 ]
+}]
+}

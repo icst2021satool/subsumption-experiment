@@ -1,0 +1,14 @@
+{
+"Class" : "weka.gui.knowledgeflow.steps.SubstringReplacerStepEditorDialog$10", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Duas" : 9,
+"0" :  "(327,330, this)",
+"1" :  "(327,331, this)",
+"2" :  "(327,330, this.this$0)",
+"3" :  "(327,331, this.this$0)",
+"4" :  "(327,331, this.m_list)",
+"5" :  "(327,330, this.m_ignoreCaseCheck)",
+"6" :  "(327,(328,329), mr)",
+"7" :  "(327,(328,333), mr)",
+"8" :  "(327,330, mr)"}]
+}

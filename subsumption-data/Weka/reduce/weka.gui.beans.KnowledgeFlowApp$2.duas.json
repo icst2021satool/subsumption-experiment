@@ -1,0 +1,11 @@
+{
+"Class" : "weka.gui.beans.KnowledgeFlowApp$2", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Duas" : 6,
+"0" :  "(3463,3492, this)",
+"1" :  "(3463,3479, this)",
+"2" :  "(3463,3492, this.this$0)",
+"3" :  "(3463,3479, this.this$0)",
+"4" :  "(3465,(3482,3484), dontShow)",
+"5" :  "(3465,(3482,3492), dontShow)"}]
+}

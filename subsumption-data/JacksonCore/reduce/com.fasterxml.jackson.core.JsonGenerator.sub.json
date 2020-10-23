@@ -1,0 +1,9 @@
+{
+"Class" : "com.fasterxml.jackson.core.JsonGenerator", 
+"Methods" : [{ "Name" : "configure" ,
+"Duas" : "7" ,
+"Subsumers" : 2,
+"0" : [ 6, 3, 0], "S0" : [0, 1, 3, 6 ],
+"1" : [ 5, 4, 2], "S1" : [1, 2, 4, 5 ]
+}]
+}

@@ -1,0 +1,13 @@
+{
+"Class" : "com.google.javascript.jscomp.ObjectPropertyStringPreprocess", 
+"Methods" : [{ "Name" : "addExternDeclaration" ,
+"Duas" : 8,
+"0" :  "(77,80, externs)",
+"1" :  "(77,82, declarationStmt)",
+"2" :  "(77,(78,78), script)",
+"3" :  "(77,(78,79), script)",
+"4" :  "(77,(78,79), script)",
+"5" :  "(77,(78,82), script)",
+"6" :  "(77,82, script)",
+"7" :  "(79,82, script)"}]
+}

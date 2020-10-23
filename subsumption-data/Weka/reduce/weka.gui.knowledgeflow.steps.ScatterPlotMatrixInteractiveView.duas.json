@@ -1,0 +1,22 @@
+{
+"Class" : "weka.gui.knowledgeflow.steps.ScatterPlotMatrixInteractiveView", 
+"Methods" : [{ "Name" : "init" ,
+"Duas" : 17,
+"0" :  "(91,187, this)",
+"1" :  "(91,187, this)",
+"2" :  "(91,195, this)",
+"3" :  "(91,177, this)",
+"4" :  "(91,179, this)",
+"5" :  "(91,181, this)",
+"6" :  "(91,182, this)",
+"7" :  "(91,187, this.m_clearButton)",
+"8" :  "(91,181, this.m_matrixPanel)",
+"9" :  "(91,182, this.m_matrixPanel)",
+"10" :  "(93,177, this.m_history)",
+"11" :  "(93,179, this.m_history)",
+"12" :  "(173,(180,181), first)",
+"13" :  "(173,(180,185), first)",
+"14" :  "(178,181, instances)",
+"15" :  "(183,(180,181), first)",
+"16" :  "(183,(180,185), first)"}]
+}

@@ -1,0 +1,11 @@
+{
+"Class" : "weka.gui.SettingsEditor$1", 
+"Methods" : [{ "Name" : "hierarchyChanged" ,
+"Duas" : 6,
+"0" :  "(240,(241,242), window)",
+"1" :  "(240,(241,247), window)",
+"2" :  "(240,242, window)",
+"3" :  "(242,(243,244), dialog)",
+"4" :  "(242,(243,247), dialog)",
+"5" :  "(242,244, dialog)"}]
+}

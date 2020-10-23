@@ -1,0 +1,16 @@
+{
+"Class" : "weka.core.expressionlanguage.weka.InstancesHelper$DoubleValue", 
+"Methods" : [{ "Name" : "<init>" ,
+"Duas" : 4,
+"0" :  "(285,(287,287), this)",
+"1" :  "(285,(287,288), this)",
+"2" :  "(285,(287,287), $assertionsDisabled)",
+"3" :  "(285,(287,288), $assertionsDisabled)"},{ "Name" : "evaluate" ,
+"Duas" : 6,
+"0" :  "(292,(292,293), this)",
+"1" :  "(292,(292,296), this)",
+"2" :  "(292,296, this)",
+"3" :  "(292,293, this)",
+"4" :  "(292,296, this.this$0)",
+"5" :  "(292,293, this.this$0)"}]
+}

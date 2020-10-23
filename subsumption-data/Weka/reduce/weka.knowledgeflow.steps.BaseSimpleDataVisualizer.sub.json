@@ -1,0 +1,14 @@
+{
+"Class" : "weka.knowledgeflow.steps.BaseSimpleDataVisualizer", 
+"Methods" : [{ "Name" : "processIncoming" ,
+"Duas" : "3" ,
+"Subsumers" : 2,
+"0" : [ 1, 0], "S0" : [0, 1 ],
+"1" : [ 2], "S1" : [2 ]
+},{ "Name" : "restoreData" ,
+"Duas" : "4" ,
+"Subsumers" : 2,
+"0" : [ 3, 2, 0], "S0" : [0, 2, 3 ],
+"1" : [ 1], "S1" : [1 ]
+}]
+}

@@ -1,0 +1,10 @@
+{
+"Class" : "weka.gui.beans.ImageViewer$MainPanel", 
+"Methods" : [{ "Name" : "loadImage" ,
+"Duas" : 5,
+"0" :  "(279,288, pic)",
+"1" :  "(281,(284,284), imageURL)",
+"2" :  "(281,(284,286), imageURL)",
+"3" :  "(281,286, imageURL)",
+"4" :  "(286,288, pic)"}]
+}

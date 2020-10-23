@@ -1,0 +1,12 @@
+{
+"Class" : "weka.gui.GenericObjectEditor$3", 
+"Methods" : [{ "Name" : "valueChanged" ,
+"Duas" : 7,
+"0" :  "(1750,1757, this)",
+"1" :  "(1750,1757, this.val$tree)",
+"2" :  "(1750,1757, this.this$0)",
+"3" :  "(1750,(1752,1753), node)",
+"4" :  "(1750,(1752,1756), node)",
+"5" :  "(1750,(1756,1757), node)",
+"6" :  "(1750,(1756,1759), node)"}]
+}

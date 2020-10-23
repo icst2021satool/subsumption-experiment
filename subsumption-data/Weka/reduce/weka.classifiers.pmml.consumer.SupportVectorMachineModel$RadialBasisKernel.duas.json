@@ -1,0 +1,11 @@
+{
+"Class" : "weka.classifiers.pmml.consumer.SupportVectorMachineModel$RadialBasisKernel", 
+"Methods" : [{ "Name" : "<init>" ,
+"Duas" : 6,
+"0" :  "(301,306, this)",
+"1" :  "(303,(304,304), gammaString)",
+"2" :  "(303,(304,317), gammaString)",
+"3" :  "(303,(304,306), gammaString)",
+"4" :  "(303,(304,317), gammaString)",
+"5" :  "(303,306, gammaString)"}]
+}

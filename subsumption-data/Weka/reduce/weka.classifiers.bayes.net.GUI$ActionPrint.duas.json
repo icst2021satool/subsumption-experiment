@@ -1,0 +1,13 @@
+{
+"Class" : "weka.classifiers.bayes.net.GUI$ActionPrint", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Duas" : 8,
+"0" :  "(1618,1630, this)",
+"1" :  "(1618,1622, this)",
+"2" :  "(1618,1624, this)",
+"3" :  "(1618,1630, this.this$0)",
+"4" :  "(1618,1630, this.m_jStatusBar)",
+"5" :  "(1618,(1620,1622), printJob)",
+"6" :  "(1618,(1620,1630), printJob)",
+"7" :  "(1618,1623, printJob)"}]
+}

@@ -1,0 +1,14 @@
+{
+"Class" : "com.google.gson.InnerClassExclusionStrategy", 
+"Methods" : [{ "Name" : "isInnerClass" ,
+"Duas" : 6,
+"0" :  "(37,(37,37), this)",
+"1" :  "(37,(37,37), this)",
+"2" :  "(37,(37,37), clazz)",
+"3" :  "(37,(37,37), clazz)",
+"4" :  "(37,(37,37), clazz)",
+"5" :  "(37,(37,37), clazz)"},{ "Name" : "isStatic" ,
+"Duas" : 2,
+"0" :  "(41,(41,41), clazz)",
+"1" :  "(41,(41,41), clazz)"}]
+}

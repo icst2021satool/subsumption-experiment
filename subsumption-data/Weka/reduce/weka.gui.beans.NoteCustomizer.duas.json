@@ -1,0 +1,18 @@
+{
+"Class" : "weka.gui.beans.NoteCustomizer", 
+"Methods" : [{ "Name" : "customizerClosing" ,
+"Duas" : 13,
+"0" :  "(103,(103,104), this)",
+"1" :  "(103,(103,110), this)",
+"2" :  "(103,104, this)",
+"3" :  "(103,(106,107), this)",
+"4" :  "(103,(106,110), this)",
+"5" :  "(103,107, this)",
+"6" :  "(103,(103,104), this.m_note)",
+"7" :  "(103,(103,110), this.m_note)",
+"8" :  "(103,104, this.m_note)",
+"9" :  "(103,104, this.m_textArea)",
+"10" :  "(103,(106,107), this.m_modifyListener)",
+"11" :  "(103,(106,110), this.m_modifyListener)",
+"12" :  "(103,107, this.m_modifyListener)"}]
+}

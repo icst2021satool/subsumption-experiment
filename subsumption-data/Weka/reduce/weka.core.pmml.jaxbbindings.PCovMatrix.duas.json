@@ -1,0 +1,22 @@
+{
+"Class" : "weka.core.pmml.jaxbbindings.PCovMatrix", 
+"Methods" : [{ "Name" : "getExtension" ,
+"Duas" : 8,
+"0" :  "(89,(89,90), this)",
+"1" :  "(89,(89,92), this)",
+"2" :  "(89,92, this)",
+"3" :  "(89,90, this)",
+"4" :  "(89,(89,90), this.extension)",
+"5" :  "(89,(89,92), this.extension)",
+"6" :  "(89,92, this.extension)",
+"7" :  "(90,92, this.extension)"},{ "Name" : "getPCovCell" ,
+"Duas" : 8,
+"0" :  "(118,(118,119), this)",
+"1" :  "(118,(118,121), this)",
+"2" :  "(118,121, this)",
+"3" :  "(118,119, this)",
+"4" :  "(118,(118,119), this.pCovCell)",
+"5" :  "(118,(118,121), this.pCovCell)",
+"6" :  "(118,121, this.pCovCell)",
+"7" :  "(119,121, this.pCovCell)"}]
+}

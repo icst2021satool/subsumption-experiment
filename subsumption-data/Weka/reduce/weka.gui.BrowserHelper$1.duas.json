@@ -1,0 +1,11 @@
+{
+"Class" : "weka.gui.BrowserHelper$1", 
+"Methods" : [{ "Name" : "mouseClicked" ,
+"Duas" : 6,
+"0" :  "(147,150, this)",
+"1" :  "(147,148, this)",
+"2" :  "(147,(147,148), e)",
+"3" :  "(147,(147,150), e)",
+"4" :  "(147,150, e)",
+"5" :  "(147,148, this.val$urlF)"}]
+}

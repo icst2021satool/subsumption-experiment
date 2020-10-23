@@ -1,0 +1,14 @@
+{
+"Class" : "com.sun.xml.bind.v2.schemagen.XmlSchemaGenerator$Namespace$5", 
+"Methods" : [{ "Name" : "write" ,
+"Duas" : 9,
+"0" :  "(1306,1310, this)",
+"1" :  "(1306,1310, isOptional)",
+"2" :  "(1306,1310, repeated)",
+"3" :  "(1306,1309, any)",
+"4" :  "(1306,1310, any)",
+"5" :  "(1306,1308, any)",
+"6" :  "(1307,(1308,1308), pcmode)",
+"7" :  "(1307,(1308,1309), pcmode)",
+"8" :  "(1307,1308, pcmode)"}]
+}

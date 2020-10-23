@@ -1,0 +1,17 @@
+{
+"Class" : "org.apache.commons.compress.changes.ChangeSetResults", 
+"Methods" : [{ "Name" : "hasBeenAdded" ,
+"Duas" : 12,
+"0" :  "(88,(88,88), this)",
+"1" :  "(88,(88,88), this)",
+"2" :  "(88,(88,88), this)",
+"3" :  "(88,(88,88), this)",
+"4" :  "(88,(88,88), fileName)",
+"5" :  "(88,(88,88), fileName)",
+"6" :  "(88,(88,88), fileName)",
+"7" :  "(88,(88,88), fileName)",
+"8" :  "(88,(88,88), this.addedFromChangeSet)",
+"9" :  "(88,(88,88), this.addedFromChangeSet)",
+"10" :  "(88,(88,88), this.addedFromStream)",
+"11" :  "(88,(88,88), this.addedFromStream)"}]
+}

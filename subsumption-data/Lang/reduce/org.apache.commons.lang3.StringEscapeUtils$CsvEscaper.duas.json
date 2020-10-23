@@ -1,0 +1,19 @@
+{
+"Class" : "org.apache.commons.lang3.StringEscapeUtils$CsvEscaper", 
+"Methods" : [{ "Name" : "translate" ,
+"Duas" : 14,
+"0" :  "(177,(181,182), input)",
+"1" :  "(177,(181,184), input)",
+"2" :  "(177,185, input)",
+"3" :  "(177,188, input)",
+"4" :  "(177,182, input)",
+"5" :  "(177,(177,178), index)",
+"6" :  "(177,(177,181), index)",
+"7" :  "(177,184, out)",
+"8" :  "(177,185, out)",
+"9" :  "(177,186, out)",
+"10" :  "(177,182, out)",
+"11" :  "(177,(181,182), CSV_SEARCH_CHARS)",
+"12" :  "(177,(181,184), CSV_SEARCH_CHARS)",
+"13" :  "(177,185, CSV_QUOTE_STR)"}]
+}

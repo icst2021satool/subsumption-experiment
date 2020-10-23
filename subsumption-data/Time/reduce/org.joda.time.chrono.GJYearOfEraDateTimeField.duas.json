@@ -1,0 +1,22 @@
+{
+"Class" : "org.joda.time.chrono.GJYearOfEraDateTimeField", 
+"Methods" : [{ "Name" : "get" ,
+"Duas" : 5,
+"0" :  "(52,(53,54), year)",
+"1" :  "(52,(53,56), year)",
+"2" :  "(52,56, year)",
+"3" :  "(52,54, year)",
+"4" :  "(54,56, year)"},{ "Name" : "set" ,
+"Duas" : 11,
+"0" :  "(92,(93,94), this)",
+"1" :  "(92,(93,96), this)",
+"2" :  "(92,96, this)",
+"3" :  "(92,(93,94), instant)",
+"4" :  "(92,(93,96), instant)",
+"5" :  "(92,96, instant)",
+"6" :  "(92,96, year)",
+"7" :  "(92,94, year)",
+"8" :  "(92,(93,94), this.iChronology)",
+"9" :  "(92,(93,96), this.iChronology)",
+"10" :  "(94,96, year)"}]
+}

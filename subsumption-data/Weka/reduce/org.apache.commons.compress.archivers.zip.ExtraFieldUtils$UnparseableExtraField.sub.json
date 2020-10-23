@@ -1,0 +1,12 @@
+{
+"Class" : "org.apache.commons.compress.archivers.zip.ExtraFieldUtils$UnparseableExtraField", 
+"Methods" : [{ "Name" : "onUnparseableExtraField" ,
+"Duas" : "24" ,
+"Subsumers" : 5,
+"0" : [ 20, 16, 4, 0], "S0" : [0, 4, 16, 20 ],
+"1" : [ 17, 15, 12, 9, 1], "S1" : [1, 9, 12, 15, 17 ],
+"2" : [ 18, 2], "S2" : [2, 18 ],
+"3" : [ 21, 14, 10, 7, 5], "S3" : [3, 5, 7, 10, 14, 19, 21, 22 ],
+"4" : [ 23, 13, 11, 8, 6], "S4" : [3, 6, 8, 11, 13, 19, 22, 23 ]
+}]
+}

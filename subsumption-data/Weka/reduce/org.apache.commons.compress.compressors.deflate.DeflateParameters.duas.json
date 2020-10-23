@@ -1,0 +1,12 @@
+{
+"Class" : "org.apache.commons.compress.compressors.deflate.DeflateParameters", 
+"Methods" : [{ "Name" : "setCompressionLevel" ,
+"Duas" : 7,
+"0" :  "(73,76, this)",
+"1" :  "(73,(73,73), compressionLevel)",
+"2" :  "(73,(73,74), compressionLevel)",
+"3" :  "(73,74, compressionLevel)",
+"4" :  "(73,(73,74), compressionLevel)",
+"5" :  "(73,(73,76), compressionLevel)",
+"6" :  "(73,76, compressionLevel)"}]
+}

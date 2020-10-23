@@ -1,0 +1,16 @@
+{
+"Class" : "com.google.javascript.jscomp.parsing.Config", 
+"Methods" : [{ "Name" : "buildAnnotationNames" ,
+"Duas" : 11,
+"0" :  "(90,(94,96), recognizedAnnotations)",
+"1" :  "(90,(94,99), recognizedAnnotations)",
+"2" :  "(90,96, NOT_IMPLEMENTED)",
+"3" :  "(90,100, annotationBuilder)",
+"4" :  "(90,96, annotationBuilder)",
+"5" :  "(93,(93,93), i$)",
+"6" :  "(93,(93,100), i$)",
+"7" :  "(93,93, i$)",
+"8" :  "(93,(94,96), unrecognizedAnnotation)",
+"9" :  "(93,(94,99), unrecognizedAnnotation)",
+"10" :  "(93,96, unrecognizedAnnotation)"}]
+}

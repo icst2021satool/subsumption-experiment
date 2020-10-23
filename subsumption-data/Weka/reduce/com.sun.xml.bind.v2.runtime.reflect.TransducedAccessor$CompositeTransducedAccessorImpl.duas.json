@@ -1,0 +1,17 @@
+{
+"Class" : "com.sun.xml.bind.v2.runtime.reflect.TransducedAccessor$CompositeTransducedAccessorImpl", 
+"Methods" : [{ "Name" : "print" ,
+"Duas" : 5,
+"0" :  "(203,205, this)",
+"1" :  "(203,205, this.xducer)",
+"2" :  "(203,(204,204), o)",
+"3" :  "(203,(204,205), o)",
+"4" :  "(203,205, o)"},{ "Name" : "hasValue" ,
+"Duas" : 6,
+"0" :  "(213,(213,213), this)",
+"1" :  "(213,(213,213), this)",
+"2" :  "(213,(213,213), bean)",
+"3" :  "(213,(213,213), bean)",
+"4" :  "(213,(213,213), this.acc)",
+"5" :  "(213,(213,213), this.acc)"}]
+}

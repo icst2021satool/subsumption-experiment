@@ -1,0 +1,10 @@
+{
+"Class" : "com.github.fracpete.jclipboardhelper.examples.BufferedImageExample", 
+"Methods" : [{ "Name" : "main" ,
+"Duas" : "10" ,
+"Subsumers" : 3,
+"0" : [ 9, 8, 6, 0, 1], "S0" : [0, 1, 6, 8, 9 ],
+"1" : [ 4, 2, 3], "S1" : [2, 3, 4 ],
+"2" : [ 7, 5], "S2" : [5, 7 ]
+}]
+}

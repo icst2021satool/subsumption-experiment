@@ -1,0 +1,16 @@
+{
+"Class" : "weka.gui.experiment.SetupPanel$13", 
+"Methods" : [{ "Name" : "windowClosing" ,
+"Duas" : 11,
+"0" :  "(700,(702,704), this)",
+"1" :  "(700,(702,715), this)",
+"2" :  "(700,715, this)",
+"3" :  "(700,704, this)",
+"4" :  "(700,707, this)",
+"5" :  "(700,707, this.val$sp)",
+"6" :  "(700,707, this.m_Exp)",
+"7" :  "(700,(702,704), this.val$writeExp)",
+"8" :  "(700,(702,715), this.val$writeExp)",
+"9" :  "(700,704, this.val$expFile)",
+"10" :  "(700,715, this.val$jf)"}]
+}

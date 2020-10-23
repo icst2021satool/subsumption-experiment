@@ -1,0 +1,13 @@
+{
+"Class" : "weka.gui.boundaryvisualizer.BoundaryVisualizer$11", 
+"Methods" : [{ "Name" : "itemStateChanged" ,
+"Duas" : 8,
+"0" :  "(966,973, this)",
+"1" :  "(966,974, this)",
+"2" :  "(966,976, this)",
+"3" :  "(966,(966,973), e)",
+"4" :  "(966,(966,981), e)",
+"5" :  "(966,973, this.this$0)",
+"6" :  "(966,974, this.this$0)",
+"7" :  "(966,976, this.this$0)"}]
+}

@@ -1,0 +1,14 @@
+{
+"Class" : "com.sun.xml.bind.v2.runtime.IllegalAnnotationsException", 
+"Methods" : [{ "Name" : "<init>" ,
+"Duas" : 6,
+"0" :  "(38,40, this)",
+"1" :  "(38,40, errors)",
+"2" :  "(38,(39,39), errors)",
+"3" :  "(38,(39,40), errors)",
+"4" :  "(38,(39,39), $assertionsDisabled)",
+"5" :  "(38,(39,40), $assertionsDisabled)"},{ "Name" : "toString" ,
+"Duas" : 2,
+"0" :  "(44,50, sb)",
+"1" :  "(44,48, sb)"}]
+}

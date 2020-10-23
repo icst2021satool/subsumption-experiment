@@ -1,0 +1,10 @@
+{
+"Class" : "org.joda.time.chrono.BasicSingleEraDateTimeField", 
+"Methods" : [{ "Name" : "set" ,
+"Duas" : "10" ,
+"Subsumers" : 3,
+"0" : [ 7, 5], "S0" : [0, 3, 5, 7, 8 ],
+"1" : [ 6], "S1" : [0, 2, 3, 6, 8 ],
+"2" : [ 9, 4, 1], "S2" : [1, 2, 4, 9 ]
+}]
+}

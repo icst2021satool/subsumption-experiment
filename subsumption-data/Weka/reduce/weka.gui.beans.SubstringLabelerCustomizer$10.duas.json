@@ -1,0 +1,14 @@
+{
+"Class" : "weka.gui.beans.SubstringLabelerCustomizer$10", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Duas" : 9,
+"0" :  "(313,316, this)",
+"1" :  "(313,317, this)",
+"2" :  "(313,316, this.this$0)",
+"3" :  "(313,317, this.this$0)",
+"4" :  "(313,317, this.m_list)",
+"5" :  "(313,316, this.m_ignoreCaseCheck)",
+"6" :  "(313,(314,315), m)",
+"7" :  "(313,(314,319), m)",
+"8" :  "(313,316, m)"}]
+}

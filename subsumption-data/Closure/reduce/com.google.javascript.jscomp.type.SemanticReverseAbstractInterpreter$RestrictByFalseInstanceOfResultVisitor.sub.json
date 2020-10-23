@@ -1,0 +1,17 @@
+{
+"Class" : "com.google.javascript.jscomp.type.SemanticReverseAbstractInterpreter$RestrictByFalseInstanceOfResultVisitor", 
+"Methods" : [{ "Name" : "caseObjectType" ,
+"Duas" : "14" ,
+"Subsumers" : 4,
+"0" : [ 7, 6, 0], "S0" : [0, 6, 7 ],
+"1" : [ 12, 3], "S1" : [1, 2, 3, 8, 9, 10, 12 ],
+"2" : [ 13, 5, 4], "S2" : [1, 2, 4, 5, 8, 9, 10, 13 ],
+"3" : [ 11], "S3" : [1, 2, 8, 9, 11 ]
+},{ "Name" : "caseUnionType" ,
+"Duas" : "11" ,
+"Subsumers" : 3,
+"0" : [ 5, 4, 0], "S0" : [0, 4, 5 ],
+"1" : [ 10, 8, 3], "S1" : [1, 2, 3, 6, 7, 8, 10 ],
+"2" : [ 9], "S2" : [1, 2, 6, 7, 9 ]
+}]
+}

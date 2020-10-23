@@ -1,0 +1,9 @@
+{
+"Class" : "com.fasterxml.jackson.databind.util.LRUMap", 
+"Methods" : [{ "Name" : "removeEldestEntry" ,
+"Duas" : 4,
+"0" :  "(30,(30,30), this)",
+"1" :  "(30,(30,30), this)",
+"2" :  "(30,(30,30), this._maxEntries)",
+"3" :  "(30,(30,30), this._maxEntries)"}]
+}

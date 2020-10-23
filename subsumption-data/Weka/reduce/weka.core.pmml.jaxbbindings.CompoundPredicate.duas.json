@@ -1,0 +1,22 @@
+{
+"Class" : "weka.core.pmml.jaxbbindings.CompoundPredicate", 
+"Methods" : [{ "Name" : "getExtension" ,
+"Duas" : 8,
+"0" :  "(100,(100,101), this)",
+"1" :  "(100,(100,103), this)",
+"2" :  "(100,103, this)",
+"3" :  "(100,101, this)",
+"4" :  "(100,(100,101), this.extension)",
+"5" :  "(100,(100,103), this.extension)",
+"6" :  "(100,103, this.extension)",
+"7" :  "(101,103, this.extension)"},{ "Name" : "getSimplePredicateOrCompoundPredicateOrSimpleSetPredicate" ,
+"Duas" : 8,
+"0" :  "(133,(133,134), this)",
+"1" :  "(133,(133,136), this)",
+"2" :  "(133,136, this)",
+"3" :  "(133,134, this)",
+"4" :  "(133,(133,134), this.simplePredicateOrCompoundPredicateOrSimpleSetPredicate)",
+"5" :  "(133,(133,136), this.simplePredicateOrCompoundPredicateOrSimpleSetPredicate)",
+"6" :  "(133,136, this.simplePredicateOrCompoundPredicateOrSimpleSetPredicate)",
+"7" :  "(134,136, this.simplePredicateOrCompoundPredicateOrSimpleSetPredicate)"}]
+}

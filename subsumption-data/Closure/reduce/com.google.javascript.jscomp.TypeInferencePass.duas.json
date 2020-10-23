@@ -1,0 +1,21 @@
+{
+"Class" : "com.google.javascript.jscomp.TypeInferencePass", 
+"Methods" : [{ "Name" : "<init>" ,
+"Duas" : 5,
+"0" :  "(46,55, this)",
+"1" :  "(52,55, this.assertionFunctionsMap)",
+"2" :  "(54,(54,54), i$)",
+"3" :  "(54,(54,58), i$)",
+"4" :  "(54,54, i$)"},{ "Name" : "process" ,
+"Duas" : 10,
+"0" :  "(68,73, this)",
+"1" :  "(68,(70,70), externsRoot)",
+"2" :  "(68,(70,70), externsRoot)",
+"3" :  "(68,(70,70), externsRoot)",
+"4" :  "(68,(70,70), externsRoot)",
+"5" :  "(68,(69,69), externsAndJs)",
+"6" :  "(68,(69,69), externsAndJs)",
+"7" :  "(68,73, externsAndJs)",
+"8" :  "(68,(70,70), externsAndJs)",
+"9" :  "(68,(70,70), externsAndJs)"}]
+}

@@ -1,0 +1,9 @@
+{
+"Class" : "com.sun.xml.bind.v2.model.impl.EnumLeafInfoImpl$1", 
+"Methods" : [{ "Name" : "hasNext" ,
+"Duas" : 4,
+"0" :  "(231,(231,231), this)",
+"1" :  "(231,(231,231), this)",
+"2" :  "(231,(231,231), this.next)",
+"3" :  "(231,(231,231), this.next)"}]
+}

@@ -1,0 +1,19 @@
+{
+"Class" : "weka.associations.FPGrowth$FrequentItemSets$1", 
+"Methods" : [{ "Name" : "compare" ,
+"Duas" : 14,
+"0" :  "(360,(366,367), compOne)",
+"1" :  "(360,(366,368), compOne)",
+"2" :  "(360,(368,369), compOne)",
+"3" :  "(360,(368,372), compOne)",
+"4" :  "(360,373, compOne)",
+"5" :  "(361,(366,367), compTwo)",
+"6" :  "(361,(366,368), compTwo)",
+"7" :  "(361,(368,369), compTwo)",
+"8" :  "(361,(368,372), compTwo)",
+"9" :  "(361,372, compTwo)",
+"10" :  "(372,374, twoIterator)",
+"11" :  "(375,(376,377), result)",
+"12" :  "(375,(376,379), result)",
+"13" :  "(375,377, result)"}]
+}

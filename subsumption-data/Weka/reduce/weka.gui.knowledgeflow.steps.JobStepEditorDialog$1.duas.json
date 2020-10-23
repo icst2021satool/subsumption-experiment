@@ -1,0 +1,17 @@
+{
+"Class" : "weka.gui.knowledgeflow.steps.JobStepEditorDialog$1", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Duas" : 12,
+"0" :  "(65,(69,70), this)",
+"1" :  "(65,(69,73), this)",
+"2" :  "(65,(73,74), this)",
+"3" :  "(65,(73,78), this)",
+"4" :  "(65,74, this)",
+"5" :  "(65,70, this)",
+"6" :  "(65,(69,70), this.this$0)",
+"7" :  "(65,(69,73), this.this$0)",
+"8" :  "(65,(73,74), this.this$0)",
+"9" :  "(65,(73,78), this.this$0)",
+"10" :  "(65,74, this.this$0)",
+"11" :  "(65,70, this.this$0)"}]
+}

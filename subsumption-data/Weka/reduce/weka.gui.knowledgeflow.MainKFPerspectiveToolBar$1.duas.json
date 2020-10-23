@@ -1,0 +1,14 @@
+{
+"Class" : "weka.gui.knowledgeflow.MainKFPerspectiveToolBar$1", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Duas" : 9,
+"0" :  "(105,(105,106), this)",
+"1" :  "(105,(105,108), this)",
+"2" :  "(105,106, this)",
+"3" :  "(105,(105,106), this.this$0)",
+"4" :  "(105,(105,108), this.this$0)",
+"5" :  "(105,106, this.this$0)",
+"6" :  "(105,(105,106), this.m_mainPerspective)",
+"7" :  "(105,(105,108), this.m_mainPerspective)",
+"8" :  "(105,106, this.m_mainPerspective)"}]
+}

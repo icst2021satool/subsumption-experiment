@@ -1,0 +1,11 @@
+{
+"Class" : "weka.gui.beans.DataVisualizerCustomizer$3", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Duas" : 6,
+"0" :  "(247,(248,249), this)",
+"1" :  "(247,(248,251), this)",
+"2" :  "(247,249, this)",
+"3" :  "(247,(248,249), this.this$0)",
+"4" :  "(247,(248,251), this.this$0)",
+"5" :  "(247,249, this.this$0)"}]
+}

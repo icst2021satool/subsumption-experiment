@@ -1,0 +1,1561 @@
+org.jsoup.nodes.Evaluator$IndexEquals org.jsoup.safety.Cleaner org.jsoup.DataUtil org.jsoup.parser.Parser org.jsoup.nodes.Element org.jsoup.nodes.Node org.jsoup.select.Collector org.jsoup.nodes.Document org.jsoup.safety.Whitelist$TypedValue org.jsoup.nodes.Attribute org.jsoup.nodes.Evaluator$AttributeWithValueNot org.jsoup.select.Selector org.jsoup.nodes.TextNode org.jsoup.parser.Tag org.jsoup.nodes.Attributes org.jsoup.select.Elements org.jsoup.safety.Whitelist org.jsoup.nodes.Evaluator$IndexLessThan org.jsoup.parser.TokenQueue org.jsoup.nodes.Evaluator$IndexGreaterThan
+org.jsoup.nodes.Evaluator$IndexEquals
+Directory of jaguar data: ../jaguar-data/jsoup/1b
+Directory of subsumption data: ../subsumption-data/Jsoup
+Analyzing class org.jsoup.nodes.Evaluator$IndexEquals 
+../jaguar-data/jsoup/1b/jaguar/.jaguar/matrix
+org.jsoup.nodes.Evaluator$IndexEquals.matrix
+../subsumption-data/Jsoup/reduce/org.jsoup.nodes.Evaluator$IndexEquals.sub.json
+>>>>> org.jsoup.nodes.Evaluator$IndexEquals <<<<<
+0:matches:6
+Total :1: tests for class:org.jsoup.nodes.Evaluator$IndexEquals:
+Methods executed: 1
+org.jsoup.safety.Cleaner
+Directory of jaguar data: ../jaguar-data/jsoup/1b
+Directory of subsumption data: ../subsumption-data/Jsoup
+Analyzing class org.jsoup.safety.Cleaner 
+../jaguar-data/jsoup/1b/jaguar/.jaguar/matrix
+org.jsoup.safety.Cleaner.matrix
+../subsumption-data/Jsoup/reduce/org.jsoup.safety.Cleaner.sub.json
+>>>>> org.jsoup.safety.Cleaner <<<<<
+0:isValid:2
+1:copySafeNodes:34
+2:createSafeElement:24
+No unconstrained duas covered in testcase 2 of createSafeElement: [1 0 1 0 1 1 0 1 1 0 1 1 0 1 0 1 1 1 1 0 1 0 1 0]: [0 1 0 1 0 0 1 0 0 1 0 0 1 0 1 0 0 0 0 1 0 1 0 1]
+[0 1 0 1 0 0 1 0 0 1 0 0 1 0 0 0 0 0 0 1 0 1 0 0]
+[1 1 0 1 0 1 1 0 1 1 0 1 1 1 0 0 1 1 1 1 0 1 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1]
+[1 0 1 0 1 1 0 1 1 0 1 1 0 1 0 1 1 1 1 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0]
+[1 0 0 0 0 1 0 0 1 0 0 1 0 1 1 0 0 1 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 3 of createSafeElement: [1 0 1 0 1 1 0 1 1 0 1 1 0 1 0 1 1 1 1 0 1 0 1 0]: [0 1 0 1 0 0 1 0 0 1 0 0 1 0 1 0 0 0 0 1 0 1 0 1]
+[0 1 0 1 0 0 1 0 0 1 0 0 1 0 0 0 0 0 0 1 0 1 0 0]
+[1 1 0 1 0 1 1 0 1 1 0 1 1 1 0 0 1 1 1 1 0 1 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1]
+[1 0 1 0 1 1 0 1 1 0 1 1 0 1 0 1 1 1 1 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0]
+[1 0 0 0 0 1 0 0 1 0 0 1 0 1 1 0 0 1 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 7 of createSafeElement: [1 0 1 0 1 1 0 1 1 0 1 1 0 1 0 1 1 1 1 0 1 0 1 0]: [0 1 0 1 0 0 1 0 0 1 0 0 1 0 1 0 0 0 0 1 0 1 0 1]
+[0 1 0 1 0 0 1 0 0 1 0 0 1 0 0 0 0 0 0 1 0 1 0 0]
+[1 1 0 1 0 1 1 0 1 1 0 1 1 1 0 0 1 1 1 1 0 1 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1]
+[1 0 1 0 1 1 0 1 1 0 1 1 0 1 0 1 1 1 1 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0]
+[1 0 0 0 0 1 0 0 1 0 0 1 0 1 1 0 0 1 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 11 of createSafeElement: [1 0 1 0 1 1 0 1 1 0 1 1 0 1 0 1 1 1 1 0 1 0 1 0]: [0 1 0 1 0 0 1 0 0 1 0 0 1 0 1 0 0 0 0 1 0 1 0 1]
+[0 1 0 1 0 0 1 0 0 1 0 0 1 0 0 0 0 0 0 1 0 1 0 0]
+[1 1 0 1 0 1 1 0 1 1 0 1 1 1 0 0 1 1 1 1 0 1 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1]
+[1 0 1 0 1 1 0 1 1 0 1 1 0 1 0 1 1 1 1 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0]
+[1 0 0 0 0 1 0 0 1 0 0 1 0 1 1 0 0 1 0 0 0 0 0 0]
+Total :15: tests for class:org.jsoup.safety.Cleaner:
+Methods executed: 3
+Unconstrained method :createSafeElement:1:4
+org.jsoup.DataUtil
+Directory of jaguar data: ../jaguar-data/jsoup/1b
+Directory of subsumption data: ../subsumption-data/Jsoup
+Analyzing class org.jsoup.DataUtil 
+../jaguar-data/jsoup/1b/jaguar/.jaguar/matrix
+org.jsoup.DataUtil.matrix
+../subsumption-data/Jsoup/reduce/org.jsoup.DataUtil.sub.json
+>>>>> org.jsoup.DataUtil <<<<<
+0:load:19
+1:readInputStream:10
+Total :5: tests for class:org.jsoup.DataUtil:
+Methods executed: 1
+org.jsoup.parser.Parser
+Directory of jaguar data: ../jaguar-data/jsoup/1b
+Directory of subsumption data: ../subsumption-data/Jsoup
+Analyzing class org.jsoup.parser.Parser 
+../jaguar-data/jsoup/1b/jaguar/.jaguar/matrix
+org.jsoup.parser.Parser.matrix
+../subsumption-data/Jsoup/reduce/org.jsoup.parser.Parser.sub.json
+>>>>> org.jsoup.parser.Parser <<<<<
+0:<init>:10
+1:parse:36
+2:parseComment:8
+3:parseEndTag:4
+4:parseStartTag:66
+5:parseAttribute:45
+6:addChildToParent:31
+7:stackHasValidParent:24
+8:popStackToSuitableContainer:11
+9:popStackToClose:43
+Total :125: tests for class:org.jsoup.parser.Parser:
+Methods executed: 8
+org.jsoup.nodes.Element
+Directory of jaguar data: ../jaguar-data/jsoup/1b
+Directory of subsumption data: ../subsumption-data/Jsoup
+Analyzing class org.jsoup.nodes.Element 
+../jaguar-data/jsoup/1b/jaguar/.jaguar/matrix
+org.jsoup.nodes.Element.matrix
+../subsumption-data/Jsoup/reduce/org.jsoup.nodes.Element.sub.json
+>>>>> org.jsoup.nodes.Element <<<<<
+0:id:3
+1:children:8
+2:append:5
+3:prepend:11
+4:wrap:23
+5:getDeepChild:5
+6:nextElementSibling:6
+7:previousElementSibling:4
+8:firstElementSibling:3
+9:elementSiblingIndex:3
+10:lastElementSibling:3
+11:getElementById:3
+12:text:28
+13:preserveWhitespace:8
+14:hasText:13
+15:data:12
+16:className:6
+17:classNames:9
+18:toggleClass:11
+19:val:4
+20:val:7
+21:outerHtml:33
+22:html:4
+23:equals:27
+24:hashCode:5
+No unconstrained duas covered in testcase 31 of wrap: [1 1 1 1 1 1 0 1 1 1 0 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 0 0 0 1 0 0 0 1 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 1 1 1 0 1 1 1 0 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[1 1 1 1 1 1 0 0 1 0 0 1 1 1 0 0 1 0 0 0 0 0 0]
+[0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[1 1 1 1 1 0 1 0 0 0 0 1 1 1 0 0 0 0 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 79 of html: [0 0 1 0]: [1 1 0 1]
+[1 1 0 1]
+[1 1 1 1]
+No unconstrained duas covered in testcase 89 of prepend: [1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 1 0 0 0 0 0 0]
+[1 0 0 0 1 0 0 0 0 0 0]
+Total :125: tests for class:org.jsoup.nodes.Element:
+Methods executed: 24
+Unconstrained method :wrap:1:1
+Unconstrained method :html:1:1
+Unconstrained method :prepend:1:1
+org.jsoup.nodes.Node
+Directory of jaguar data: ../jaguar-data/jsoup/1b
+Directory of subsumption data: ../subsumption-data/Jsoup
+Analyzing class org.jsoup.nodes.Node 
+../jaguar-data/jsoup/1b/jaguar/.jaguar/matrix
+org.jsoup.nodes.Node.matrix
+../subsumption-data/Jsoup/reduce/org.jsoup.nodes.Node.sub.json
+>>>>> org.jsoup.nodes.Node <<<<<
+0:attr:11
+1:absUrl:7
+2:setParentNode:6
+3:replaceChild:22
+4:removeChild:12
+5:addChild:11
+6:nodeDepth:6
+7:nextSibling:6
+8:previousSibling:4
+9:indexInList:17
+10:equals:4
+11:hashCode:11
+Total :126: tests for class:org.jsoup.nodes.Node:
+Methods executed: 10
+org.jsoup.select.Collector
+Directory of jaguar data: ../jaguar-data/jsoup/1b
+Directory of subsumption data: ../subsumption-data/Jsoup
+Analyzing class org.jsoup.select.Collector 
+../jaguar-data/jsoup/1b/jaguar/.jaguar/matrix
+org.jsoup.select.Collector.matrix
+../subsumption-data/Jsoup/reduce/org.jsoup.select.Collector.sub.json
+>>>>> org.jsoup.select.Collector <<<<<
+0:accumulateMatches:12
+Total :125: tests for class:org.jsoup.select.Collector:
+Methods executed: 1
+org.jsoup.nodes.Document
+Directory of jaguar data: ../jaguar-data/jsoup/1b
+Directory of subsumption data: ../subsumption-data/Jsoup
+Analyzing class org.jsoup.nodes.Document 
+../jaguar-data/jsoup/1b/jaguar/.jaguar/matrix
+org.jsoup.nodes.Document.matrix
+../subsumption-data/Jsoup/reduce/org.jsoup.nodes.Document.sub.json
+>>>>> org.jsoup.nodes.Document <<<<<
+0:title:3
+1:title:6
+2:normalise:13
+3:normalise:17
+Total :125: tests for class:org.jsoup.nodes.Document:
+Methods executed: 2
+org.jsoup.safety.Whitelist$TypedValue
+Directory of jaguar data: ../jaguar-data/jsoup/1b
+Directory of subsumption data: ../subsumption-data/Jsoup
+Analyzing class org.jsoup.safety.Whitelist$TypedValue 
+../jaguar-data/jsoup/1b/jaguar/.jaguar/matrix
+org.jsoup.safety.Whitelist$TypedValue.matrix
+../subsumption-data/Jsoup/reduce/org.jsoup.safety.Whitelist$TypedValue.sub.json
+>>>>> org.jsoup.safety.Whitelist$TypedValue <<<<<
+0:hashCode:7
+1:equals:27
+Total :15: tests for class:org.jsoup.safety.Whitelist$TypedValue:
+Methods executed: 2
+org.jsoup.nodes.Attribute
+Directory of jaguar data: ../jaguar-data/jsoup/1b
+Directory of subsumption data: ../subsumption-data/Jsoup
+Analyzing class org.jsoup.nodes.Attribute 
+../jaguar-data/jsoup/1b/jaguar/.jaguar/matrix
+org.jsoup.nodes.Attribute.matrix
+../subsumption-data/Jsoup/reduce/org.jsoup.nodes.Attribute.sub.json
+>>>>> org.jsoup.nodes.Attribute <<<<<
+0:equals:39
+1:hashCode:11
+Total :40: tests for class:org.jsoup.nodes.Attribute:
+Methods executed: 1
+org.jsoup.nodes.Evaluator$AttributeWithValueNot
+Directory of jaguar data: ../jaguar-data/jsoup/1b
+Directory of subsumption data: ../subsumption-data/Jsoup
+Analyzing class org.jsoup.nodes.Evaluator$AttributeWithValueNot 
+../jaguar-data/jsoup/1b/jaguar/.jaguar/matrix
+org.jsoup.nodes.Evaluator$AttributeWithValueNot.matrix
+../subsumption-data/Jsoup/reduce/org.jsoup.nodes.Evaluator$AttributeWithValueNot.sub.json
+>>>>> org.jsoup.nodes.Evaluator$AttributeWithValueNot <<<<<
+0:matches:8
+Total :1: tests for class:org.jsoup.nodes.Evaluator$AttributeWithValueNot:
+Methods executed: 1
+org.jsoup.select.Selector
+Directory of jaguar data: ../jaguar-data/jsoup/1b
+Directory of subsumption data: ../subsumption-data/Jsoup
+Analyzing class org.jsoup.select.Selector 
+../jaguar-data/jsoup/1b/jaguar/.jaguar/matrix
+org.jsoup.select.Selector.matrix
+../subsumption-data/Jsoup/reduce/org.jsoup.select.Selector.sub.json
+>>>>> org.jsoup.select.Selector <<<<<
+0:select:6
+1:select:47
+2:combinator:31
+3:findElements:42
+4:byId:5
+5:byAttribute:49
+6:filterForChildren:16
+7:filterForDescendants:16
+8:filterForAdjacentSiblings:21
+9:filterForGeneralSiblings:20
+10:filterForSelf:14
+Total :125: tests for class:org.jsoup.select.Selector:
+Methods executed: 10
+org.jsoup.nodes.TextNode
+Directory of jaguar data: ../jaguar-data/jsoup/1b
+Directory of subsumption data: ../subsumption-data/Jsoup
+Analyzing class org.jsoup.nodes.TextNode 
+../jaguar-data/jsoup/1b/jaguar/.jaguar/matrix
+org.jsoup.nodes.TextNode.matrix
+../subsumption-data/Jsoup/reduce/org.jsoup.nodes.TextNode.sub.json
+>>>>> org.jsoup.nodes.TextNode <<<<<
+0:outerHtml:22
+1:lastCharIsWhitespace:6
+Total :71: tests for class:org.jsoup.nodes.TextNode:
+Methods executed: 2
+org.jsoup.parser.Tag
+Directory of jaguar data: ../jaguar-data/jsoup/1b
+Directory of subsumption data: ../subsumption-data/Jsoup
+Analyzing class org.jsoup.parser.Tag 
+../jaguar-data/jsoup/1b/jaguar/.jaguar/matrix
+org.jsoup.parser.Tag.matrix
+../subsumption-data/Jsoup/reduce/org.jsoup.parser.Tag.sub.json
+>>>>> org.jsoup.parser.Tag <<<<<
+0:valueOf:7
+1:canContain:82
+2:isInline:4
+3:isData:6
+4:getImplicitParent:6
+5:isValidParent:13
+6:equals:67
+7:hashCode:31
+8:setAncestor:20
+No unconstrained duas covered in testcase 1 of setAncestor: [1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[1 1 0 0 0 1 1 1 0 0 0 1 0 1 0 0 0 0 0 0]
+[0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 2 of setAncestor: [1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[1 1 0 0 0 1 1 1 0 0 0 1 0 1 0 0 0 0 0 0]
+[0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 3 of setAncestor: [1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[1 1 0 0 0 1 1 1 0 0 0 1 0 1 0 0 0 0 0 0]
+[0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 4 of setAncestor: [1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[1 1 0 0 0 1 1 1 0 0 0 1 0 1 0 0 0 0 0 0]
+[0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 5 of setAncestor: [1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[1 1 0 0 0 1 1 1 0 0 0 1 0 1 0 0 0 0 0 0]
+[0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 6 of setAncestor: [1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[1 1 0 0 0 1 1 1 0 0 0 1 0 1 0 0 0 0 0 0]
+[0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 7 of setAncestor: [1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[1 1 0 0 0 1 1 1 0 0 0 1 0 1 0 0 0 0 0 0]
+[0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 8 of setAncestor: [1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[1 1 0 0 0 1 1 1 0 0 0 1 0 1 0 0 0 0 0 0]
+[0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 9 of setAncestor: [1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[1 1 0 0 0 1 1 1 0 0 0 1 0 1 0 0 0 0 0 0]
+[0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 10 of setAncestor: [1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[1 1 0 0 0 1 1 1 0 0 0 1 0 1 0 0 0 0 0 0]
+[0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 11 of setAncestor: [1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[1 1 0 0 0 1 1 1 0 0 0 1 0 1 0 0 0 0 0 0]
+[0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 12 of setAncestor: [1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[1 1 0 0 0 1 1 1 0 0 0 1 0 1 0 0 0 0 0 0]
+[0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 13 of setAncestor: [1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[1 1 0 0 0 1 1 1 0 0 0 1 0 1 0 0 0 0 0 0]
+[0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 14 of setAncestor: [1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[1 1 0 0 0 1 1 1 0 0 0 1 0 1 0 0 0 0 0 0]
+[0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 15 of setAncestor: [1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[1 1 0 0 0 1 1 1 0 0 0 1 0 1 0 0 0 0 0 0]
+[0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 16 of setAncestor: [1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[1 1 0 0 0 1 1 1 0 0 0 1 0 1 0 0 0 0 0 0]
+[0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 17 of setAncestor: [1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[1 1 0 0 0 1 1 1 0 0 0 1 0 1 0 0 0 0 0 0]
+[0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 18 of setAncestor: [1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[1 1 0 0 0 1 1 1 0 0 0 1 0 1 0 0 0 0 0 0]
+[0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 19 of setAncestor: [1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[1 1 0 0 0 1 1 1 0 0 0 1 0 1 0 0 0 0 0 0]
+[0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 20 of setAncestor: [1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[1 1 0 0 0 1 1 1 0 0 0 1 0 1 0 0 0 0 0 0]
+[0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 21 of setAncestor: [1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[1 1 0 0 0 1 1 1 0 0 0 1 0 1 0 0 0 0 0 0]
+[0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 22 of setAncestor: [1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[1 1 0 0 0 1 1 1 0 0 0 1 0 1 0 0 0 0 0 0]
+[0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 23 of setAncestor: [1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[1 1 0 0 0 1 1 1 0 0 0 1 0 1 0 0 0 0 0 0]
+[0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 24 of setAncestor: [1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[1 1 0 0 0 1 1 1 0 0 0 1 0 1 0 0 0 0 0 0]
+[0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 25 of setAncestor: [1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[1 1 0 0 0 1 1 1 0 0 0 1 0 1 0 0 0 0 0 0]
+[0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 26 of setAncestor: [1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[1 1 0 0 0 1 1 1 0 0 0 1 0 1 0 0 0 0 0 0]
+[0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 27 of setAncestor: [1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[1 1 0 0 0 1 1 1 0 0 0 1 0 1 0 0 0 0 0 0]
+[0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 28 of setAncestor: [1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[1 1 0 0 0 1 1 1 0 0 0 1 0 1 0 0 0 0 0 0]
+[0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 29 of setAncestor: [1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[1 1 0 0 0 1 1 1 0 0 0 1 0 1 0 0 0 0 0 0]
+[0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 30 of setAncestor: [1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[1 1 0 0 0 1 1 1 0 0 0 1 0 1 0 0 0 0 0 0]
+[0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 31 of setAncestor: [1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[1 1 0 0 0 1 1 1 0 0 0 1 0 1 0 0 0 0 0 0]
+[0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 32 of setAncestor: [1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[1 1 0 0 0 1 1 1 0 0 0 1 0 1 0 0 0 0 0 0]
+[0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 33 of setAncestor: [1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[1 1 0 0 0 1 1 1 0 0 0 1 0 1 0 0 0 0 0 0]
+[0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 34 of setAncestor: [1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[1 1 0 0 0 1 1 1 0 0 0 1 0 1 0 0 0 0 0 0]
+[0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 35 of setAncestor: [1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[1 1 0 0 0 1 1 1 0 0 0 1 0 1 0 0 0 0 0 0]
+[0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 37 of setAncestor: [1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[1 1 0 0 0 1 1 1 0 0 0 1 0 1 0 0 0 0 0 0]
+[0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 38 of setAncestor: [1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[1 1 0 0 0 1 1 1 0 0 0 1 0 1 0 0 0 0 0 0]
+[0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 39 of setAncestor: [1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[1 1 0 0 0 1 1 1 0 0 0 1 0 1 0 0 0 0 0 0]
+[0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 40 of setAncestor: [1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[1 1 0 0 0 1 1 1 0 0 0 1 0 1 0 0 0 0 0 0]
+[0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 41 of setAncestor: [1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[1 1 0 0 0 1 1 1 0 0 0 1 0 1 0 0 0 0 0 0]
+[0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 42 of setAncestor: [1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[1 1 0 0 0 1 1 1 0 0 0 1 0 1 0 0 0 0 0 0]
+[0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 43 of setAncestor: [1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[1 1 0 0 0 1 1 1 0 0 0 1 0 1 0 0 0 0 0 0]
+[0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 44 of setAncestor: [1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[1 1 0 0 0 1 1 1 0 0 0 1 0 1 0 0 0 0 0 0]
+[0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 45 of setAncestor: [1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[1 1 0 0 0 1 1 1 0 0 0 1 0 1 0 0 0 0 0 0]
+[0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 46 of setAncestor: [1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[1 1 0 0 0 1 1 1 0 0 0 1 0 1 0 0 0 0 0 0]
+[0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 47 of setAncestor: [1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[1 1 0 0 0 1 1 1 0 0 0 1 0 1 0 0 0 0 0 0]
+[0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 48 of setAncestor: [1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[1 1 0 0 0 1 1 1 0 0 0 1 0 1 0 0 0 0 0 0]
+[0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 49 of setAncestor: [1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[1 1 0 0 0 1 1 1 0 0 0 1 0 1 0 0 0 0 0 0]
+[0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 50 of setAncestor: [1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[1 1 0 0 0 1 1 1 0 0 0 1 0 1 0 0 0 0 0 0]
+[0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 51 of setAncestor: [1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[1 1 0 0 0 1 1 1 0 0 0 1 0 1 0 0 0 0 0 0]
+[0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 52 of setAncestor: [1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[1 1 0 0 0 1 1 1 0 0 0 1 0 1 0 0 0 0 0 0]
+[0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 53 of setAncestor: [1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[1 1 0 0 0 1 1 1 0 0 0 1 0 1 0 0 0 0 0 0]
+[0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 54 of setAncestor: [1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[1 1 0 0 0 1 1 1 0 0 0 1 0 1 0 0 0 0 0 0]
+[0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 55 of setAncestor: [1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[1 1 0 0 0 1 1 1 0 0 0 1 0 1 0 0 0 0 0 0]
+[0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 56 of setAncestor: [1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[1 1 0 0 0 1 1 1 0 0 0 1 0 1 0 0 0 0 0 0]
+[0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 57 of setAncestor: [1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[1 1 0 0 0 1 1 1 0 0 0 1 0 1 0 0 0 0 0 0]
+[0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 58 of setAncestor: [1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[1 1 0 0 0 1 1 1 0 0 0 1 0 1 0 0 0 0 0 0]
+[0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 59 of setAncestor: [1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[1 1 0 0 0 1 1 1 0 0 0 1 0 1 0 0 0 0 0 0]
+[0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 60 of setAncestor: [1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[1 1 0 0 0 1 1 1 0 0 0 1 0 1 0 0 0 0 0 0]
+[0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 61 of setAncestor: [1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[1 1 0 0 0 1 1 1 0 0 0 1 0 1 0 0 0 0 0 0]
+[0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 62 of setAncestor: [1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[1 1 0 0 0 1 1 1 0 0 0 1 0 1 0 0 0 0 0 0]
+[0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 63 of setAncestor: [1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[1 1 0 0 0 1 1 1 0 0 0 1 0 1 0 0 0 0 0 0]
+[0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 64 of setAncestor: [1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[1 1 0 0 0 1 1 1 0 0 0 1 0 1 0 0 0 0 0 0]
+[0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 65 of setAncestor: [1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[1 1 0 0 0 1 1 1 0 0 0 1 0 1 0 0 0 0 0 0]
+[0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 66 of setAncestor: [1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[1 1 0 0 0 1 1 1 0 0 0 1 0 1 0 0 0 0 0 0]
+[0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 67 of setAncestor: [1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[1 1 0 0 0 1 1 1 0 0 0 1 0 1 0 0 0 0 0 0]
+[0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 70 of setAncestor: [1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[1 1 0 0 0 1 1 1 0 0 0 1 0 1 0 0 0 0 0 0]
+[0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 76 of setAncestor: [1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[1 1 0 0 0 1 1 1 0 0 0 1 0 1 0 0 0 0 0 0]
+[0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 77 of setAncestor: [1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[1 1 0 0 0 1 1 1 0 0 0 1 0 1 0 0 0 0 0 0]
+[0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 78 of setAncestor: [1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[1 1 0 0 0 1 1 1 0 0 0 1 0 1 0 0 0 0 0 0]
+[0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 79 of setAncestor: [1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[1 1 0 0 0 1 1 1 0 0 0 1 0 1 0 0 0 0 0 0]
+[0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 80 of setAncestor: [1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[1 1 0 0 0 1 1 1 0 0 0 1 0 1 0 0 0 0 0 0]
+[0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 81 of setAncestor: [1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[1 1 0 0 0 1 1 1 0 0 0 1 0 1 0 0 0 0 0 0]
+[0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 82 of setAncestor: [1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[1 1 0 0 0 1 1 1 0 0 0 1 0 1 0 0 0 0 0 0]
+[0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 83 of setAncestor: [1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[1 1 0 0 0 1 1 1 0 0 0 1 0 1 0 0 0 0 0 0]
+[0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 84 of setAncestor: [1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[1 1 0 0 0 1 1 1 0 0 0 1 0 1 0 0 0 0 0 0]
+[0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 85 of setAncestor: [1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[1 1 0 0 0 1 1 1 0 0 0 1 0 1 0 0 0 0 0 0]
+[0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 86 of setAncestor: [1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[1 1 0 0 0 1 1 1 0 0 0 1 0 1 0 0 0 0 0 0]
+[0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 87 of setAncestor: [1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[1 1 0 0 0 1 1 1 0 0 0 1 0 1 0 0 0 0 0 0]
+[0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 88 of setAncestor: [1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[1 1 0 0 0 1 1 1 0 0 0 1 0 1 0 0 0 0 0 0]
+[0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 89 of setAncestor: [1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[1 1 0 0 0 1 1 1 0 0 0 1 0 1 0 0 0 0 0 0]
+[0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 90 of setAncestor: [1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[1 1 0 0 0 1 1 1 0 0 0 1 0 1 0 0 0 0 0 0]
+[0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 91 of setAncestor: [1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[1 1 0 0 0 1 1 1 0 0 0 1 0 1 0 0 0 0 0 0]
+[0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 92 of setAncestor: [1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[1 1 0 0 0 1 1 1 0 0 0 1 0 1 0 0 0 0 0 0]
+[0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 93 of setAncestor: [1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[1 1 0 0 0 1 1 1 0 0 0 1 0 1 0 0 0 0 0 0]
+[0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 94 of setAncestor: [1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[1 1 0 0 0 1 1 1 0 0 0 1 0 1 0 0 0 0 0 0]
+[0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 95 of setAncestor: [1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[1 1 0 0 0 1 1 1 0 0 0 1 0 1 0 0 0 0 0 0]
+[0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 96 of setAncestor: [1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[1 1 0 0 0 1 1 1 0 0 0 1 0 1 0 0 0 0 0 0]
+[0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 97 of setAncestor: [1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[1 1 0 0 0 1 1 1 0 0 0 1 0 1 0 0 0 0 0 0]
+[0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 98 of setAncestor: [1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[1 1 0 0 0 1 1 1 0 0 0 1 0 1 0 0 0 0 0 0]
+[0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 99 of setAncestor: [1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[1 1 0 0 0 1 1 1 0 0 0 1 0 1 0 0 0 0 0 0]
+[0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 100 of setAncestor: [1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[1 1 0 0 0 1 1 1 0 0 0 1 0 1 0 0 0 0 0 0]
+[0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 101 of setAncestor: [1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[1 1 0 0 0 1 1 1 0 0 0 1 0 1 0 0 0 0 0 0]
+[0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 102 of setAncestor: [1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[1 1 0 0 0 1 1 1 0 0 0 1 0 1 0 0 0 0 0 0]
+[0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 103 of setAncestor: [1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[1 1 0 0 0 1 1 1 0 0 0 1 0 1 0 0 0 0 0 0]
+[0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 104 of setAncestor: [1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[1 1 0 0 0 1 1 1 0 0 0 1 0 1 0 0 0 0 0 0]
+[0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 105 of setAncestor: [1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[1 1 0 0 0 1 1 1 0 0 0 1 0 1 0 0 0 0 0 0]
+[0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 106 of setAncestor: [1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[1 1 0 0 0 1 1 1 0 0 0 1 0 1 0 0 0 0 0 0]
+[0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 107 of setAncestor: [1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[1 1 0 0 0 1 1 1 0 0 0 1 0 1 0 0 0 0 0 0]
+[0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 108 of setAncestor: [1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[1 1 0 0 0 1 1 1 0 0 0 1 0 1 0 0 0 0 0 0]
+[0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 109 of setAncestor: [1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[1 1 0 0 0 1 1 1 0 0 0 1 0 1 0 0 0 0 0 0]
+[0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 110 of setAncestor: [1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[1 1 0 0 0 1 1 1 0 0 0 1 0 1 0 0 0 0 0 0]
+[0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 111 of setAncestor: [1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[1 1 0 0 0 1 1 1 0 0 0 1 0 1 0 0 0 0 0 0]
+[0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 112 of setAncestor: [1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[1 1 0 0 0 1 1 1 0 0 0 1 0 1 0 0 0 0 0 0]
+[0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 113 of setAncestor: [1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[1 1 0 0 0 1 1 1 0 0 0 1 0 1 0 0 0 0 0 0]
+[0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 114 of setAncestor: [1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[1 1 0 0 0 1 1 1 0 0 0 1 0 1 0 0 0 0 0 0]
+[0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 115 of setAncestor: [1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[1 1 0 0 0 1 1 1 0 0 0 1 0 1 0 0 0 0 0 0]
+[0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 116 of setAncestor: [1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[1 1 0 0 0 1 1 1 0 0 0 1 0 1 0 0 0 0 0 0]
+[0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 117 of setAncestor: [1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[1 1 0 0 0 1 1 1 0 0 0 1 0 1 0 0 0 0 0 0]
+[0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 118 of setAncestor: [1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[1 1 0 0 0 1 1 1 0 0 0 1 0 1 0 0 0 0 0 0]
+[0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 119 of setAncestor: [1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[1 1 0 0 0 1 1 1 0 0 0 1 0 1 0 0 0 0 0 0]
+[0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 120 of setAncestor: [1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[1 1 0 0 0 1 1 1 0 0 0 1 0 1 0 0 0 0 0 0]
+[0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 121 of setAncestor: [1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[1 1 0 0 0 1 1 1 0 0 0 1 0 1 0 0 0 0 0 0]
+[0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 122 of setAncestor: [1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[1 1 0 0 0 1 1 1 0 0 0 1 0 1 0 0 0 0 0 0]
+[0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 123 of setAncestor: [1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[1 1 0 0 0 1 1 1 0 0 0 1 0 1 0 0 0 0 0 0]
+[0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 124 of setAncestor: [1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[1 1 0 0 0 1 1 1 0 0 0 1 0 1 0 0 0 0 0 0]
+[0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 125 of setAncestor: [1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[1 1 0 0 0 1 1 1 0 0 0 1 0 1 0 0 0 0 0 0]
+[0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 126 of setAncestor: [1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[1 1 0 0 0 1 1 1 0 0 0 1 0 1 0 0 0 0 0 0]
+[0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 127 of setAncestor: [1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[1 1 0 0 0 1 1 1 0 0 0 1 0 1 0 0 0 0 0 0]
+[0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 128 of setAncestor: [1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[1 1 0 0 0 1 1 1 0 0 0 1 0 1 0 0 0 0 0 0]
+[0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 129 of setAncestor: [1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[1 1 0 0 0 1 1 1 0 0 0 1 0 1 0 0 0 0 0 0]
+[0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 130 of setAncestor: [1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[1 1 0 0 0 1 1 1 0 0 0 1 0 1 0 0 0 0 0 0]
+[0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 131 of setAncestor: [1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[1 1 0 0 0 1 1 1 0 0 0 1 0 1 0 0 0 0 0 0]
+[0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 132 of setAncestor: [1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[1 1 0 0 0 1 1 1 0 0 0 1 0 1 0 0 0 0 0 0]
+[0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+No unconstrained duas covered in testcase 133 of setAncestor: [1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 0 1 0 0]: [0 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+[1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0]
+[1 1 0 0 0 1 1 1 0 0 0 1 0 1 0 0 0 0 0 0]
+[0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+Total :134: tests for class:org.jsoup.parser.Tag:
+Methods executed: 8
+Unconstrained method :setAncestor:1:125
+org.jsoup.nodes.Attributes
+Directory of jaguar data: ../jaguar-data/jsoup/1b
+Directory of subsumption data: ../subsumption-data/Jsoup
+Analyzing class org.jsoup.nodes.Attributes 
+../jaguar-data/jsoup/1b/jaguar/.jaguar/matrix
+org.jsoup.nodes.Attributes.matrix
+../subsumption-data/Jsoup/reduce/org.jsoup.nodes.Attributes.sub.json
+>>>>> org.jsoup.nodes.Attributes <<<<<
+0:get:3
+1:asList:5
+2:html:6
+3:equals:23
+4:hashCode:6
+No unconstrained duas covered in testcase 7 of asList: [1 0 0 1 0]: [0 1 1 0 1]
+[0 1 1 0 1]
+[1 1 1 1 1]
+No unconstrained duas covered in testcase 7 of html: [1 0 0 0 1 0]: [0 1 1 1 0 1]
+[0 1 1 1 0 1]
+[1 1 1 1 1 1]
+No unconstrained duas covered in testcase 14 of asList: [1 0 0 1 0]: [0 1 1 0 1]
+[0 1 1 0 1]
+[1 1 1 1 1]
+No unconstrained duas covered in testcase 14 of html: [1 0 0 0 1 0]: [0 1 1 1 0 1]
+[0 1 1 1 0 1]
+[1 1 1 1 1 1]
+No unconstrained duas covered in testcase 15 of asList: [1 0 0 1 0]: [0 1 1 0 1]
+[0 1 1 0 1]
+[1 1 1 1 1]
+No unconstrained duas covered in testcase 15 of html: [1 0 0 0 1 0]: [0 1 1 1 0 1]
+[0 1 1 1 0 1]
+[1 1 1 1 1 1]
+No unconstrained duas covered in testcase 19 of asList: [1 0 0 1 0]: [0 1 1 0 1]
+[0 1 1 0 1]
+[1 1 1 1 1]
+No unconstrained duas covered in testcase 19 of html: [1 0 0 0 1 0]: [0 1 1 1 0 1]
+[0 1 1 1 0 1]
+[1 1 1 1 1 1]
+No unconstrained duas covered in testcase 20 of asList: [1 0 0 1 0]: [0 1 1 0 1]
+[0 1 1 0 1]
+[1 1 1 1 1]
+No unconstrained duas covered in testcase 20 of html: [1 0 0 0 1 0]: [0 1 1 1 0 1]
+[0 1 1 1 0 1]
+[1 1 1 1 1 1]
+No unconstrained duas covered in testcase 21 of asList: [1 0 0 1 0]: [0 1 1 0 1]
+[0 1 1 0 1]
+[1 1 1 1 1]
+No unconstrained duas covered in testcase 21 of html: [1 0 0 0 1 0]: [0 1 1 1 0 1]
+[0 1 1 1 0 1]
+[1 1 1 1 1 1]
+No unconstrained duas covered in testcase 22 of asList: [1 0 0 1 0]: [0 1 1 0 1]
+[0 1 1 0 1]
+[1 1 1 1 1]
+No unconstrained duas covered in testcase 22 of html: [1 0 0 0 1 0]: [0 1 1 1 0 1]
+[0 1 1 1 0 1]
+[1 1 1 1 1 1]
+No unconstrained duas covered in testcase 23 of asList: [1 0 0 1 0]: [0 1 1 0 1]
+[0 1 1 0 1]
+[1 1 1 1 1]
+No unconstrained duas covered in testcase 23 of html: [1 0 0 0 1 0]: [0 1 1 1 0 1]
+[0 1 1 1 0 1]
+[1 1 1 1 1 1]
+No unconstrained duas covered in testcase 34 of asList: [1 0 0 1 0]: [0 1 1 0 1]
+[0 1 1 0 1]
+[1 1 1 1 1]
+No unconstrained duas covered in testcase 34 of html: [1 0 0 0 1 0]: [0 1 1 1 0 1]
+[0 1 1 1 0 1]
+[1 1 1 1 1 1]
+No unconstrained duas covered in testcase 35 of asList: [1 0 0 1 0]: [0 1 1 0 1]
+[0 1 1 0 1]
+[1 1 1 1 1]
+No unconstrained duas covered in testcase 35 of html: [1 0 0 0 1 0]: [0 1 1 1 0 1]
+[0 1 1 1 0 1]
+[1 1 1 1 1 1]
+No unconstrained duas covered in testcase 38 of asList: [1 0 0 1 0]: [0 1 1 0 1]
+[0 1 1 0 1]
+[1 1 1 1 1]
+No unconstrained duas covered in testcase 38 of html: [1 0 0 0 1 0]: [0 1 1 1 0 1]
+[0 1 1 1 0 1]
+[1 1 1 1 1 1]
+No unconstrained duas covered in testcase 49 of asList: [1 0 0 1 0]: [0 1 1 0 1]
+[0 1 1 0 1]
+[1 1 1 1 1]
+No unconstrained duas covered in testcase 49 of html: [1 0 0 0 1 0]: [0 1 1 1 0 1]
+[0 1 1 1 0 1]
+[1 1 1 1 1 1]
+No unconstrained duas covered in testcase 53 of asList: [1 0 0 1 0]: [0 1 1 0 1]
+[0 1 1 0 1]
+[1 1 1 1 1]
+No unconstrained duas covered in testcase 53 of html: [1 0 0 0 1 0]: [0 1 1 1 0 1]
+[0 1 1 1 0 1]
+[1 1 1 1 1 1]
+No unconstrained duas covered in testcase 60 of asList: [1 0 0 1 0]: [0 1 1 0 1]
+[0 1 1 0 1]
+[1 1 1 1 1]
+No unconstrained duas covered in testcase 60 of html: [1 0 0 0 1 0]: [0 1 1 1 0 1]
+[0 1 1 1 0 1]
+[1 1 1 1 1 1]
+No unconstrained duas covered in testcase 71 of html: [1 0 0 0 1 0]: [0 1 1 1 0 1]
+[0 1 1 1 0 1]
+[1 1 1 1 1 1]
+No unconstrained duas covered in testcase 72 of html: [1 0 0 0 1 0]: [0 1 1 1 0 1]
+[0 1 1 1 0 1]
+[1 1 1 1 1 1]
+No unconstrained duas covered in testcase 73 of asList: [1 0 0 1 0]: [0 1 1 0 1]
+[0 1 1 0 1]
+[1 1 1 1 1]
+No unconstrained duas covered in testcase 73 of html: [1 0 0 0 1 0]: [0 1 1 1 0 1]
+[0 1 1 1 0 1]
+[1 1 1 1 1 1]
+No unconstrained duas covered in testcase 77 of asList: [1 0 0 1 0]: [0 1 1 0 1]
+[0 1 1 0 1]
+[1 1 1 1 1]
+No unconstrained duas covered in testcase 77 of html: [1 0 0 0 1 0]: [0 1 1 1 0 1]
+[0 1 1 1 0 1]
+[1 1 1 1 1 1]
+No unconstrained duas covered in testcase 78 of asList: [1 0 0 1 0]: [0 1 1 0 1]
+[0 1 1 0 1]
+[1 1 1 1 1]
+No unconstrained duas covered in testcase 78 of html: [1 0 0 0 1 0]: [0 1 1 1 0 1]
+[0 1 1 1 0 1]
+[1 1 1 1 1 1]
+No unconstrained duas covered in testcase 79 of asList: [1 0 0 1 0]: [0 1 1 0 1]
+[0 1 1 0 1]
+[1 1 1 1 1]
+No unconstrained duas covered in testcase 79 of html: [1 0 0 0 1 0]: [0 1 1 1 0 1]
+[0 1 1 1 0 1]
+[1 1 1 1 1 1]
+No unconstrained duas covered in testcase 80 of html: [1 0 0 0 1 0]: [0 1 1 1 0 1]
+[0 1 1 1 0 1]
+[1 1 1 1 1 1]
+No unconstrained duas covered in testcase 82 of asList: [1 0 0 1 0]: [0 1 1 0 1]
+[0 1 1 0 1]
+[1 1 1 1 1]
+No unconstrained duas covered in testcase 82 of html: [1 0 0 0 1 0]: [0 1 1 1 0 1]
+[0 1 1 1 0 1]
+[1 1 1 1 1 1]
+No unconstrained duas covered in testcase 86 of asList: [1 0 0 1 0]: [0 1 1 0 1]
+[0 1 1 0 1]
+[1 1 1 1 1]
+No unconstrained duas covered in testcase 86 of html: [1 0 0 0 1 0]: [0 1 1 1 0 1]
+[0 1 1 1 0 1]
+[1 1 1 1 1 1]
+No unconstrained duas covered in testcase 87 of asList: [1 0 0 1 0]: [0 1 1 0 1]
+[0 1 1 0 1]
+[1 1 1 1 1]
+No unconstrained duas covered in testcase 87 of html: [1 0 0 0 1 0]: [0 1 1 1 0 1]
+[0 1 1 1 0 1]
+[1 1 1 1 1 1]
+No unconstrained duas covered in testcase 91 of asList: [1 0 0 1 0]: [0 1 1 0 1]
+[0 1 1 0 1]
+[1 1 1 1 1]
+No unconstrained duas covered in testcase 91 of html: [1 0 0 0 1 0]: [0 1 1 1 0 1]
+[0 1 1 1 0 1]
+[1 1 1 1 1 1]
+No unconstrained duas covered in testcase 93 of asList: [1 0 0 1 0]: [0 1 1 0 1]
+[0 1 1 0 1]
+[1 1 1 1 1]
+No unconstrained duas covered in testcase 93 of html: [1 0 0 0 1 0]: [0 1 1 1 0 1]
+[0 1 1 1 0 1]
+[1 1 1 1 1 1]
+No unconstrained duas covered in testcase 97 of asList: [1 0 0 1 0]: [0 1 1 0 1]
+[0 1 1 0 1]
+[1 1 1 1 1]
+No unconstrained duas covered in testcase 97 of html: [1 0 0 0 1 0]: [0 1 1 1 0 1]
+[0 1 1 1 0 1]
+[1 1 1 1 1 1]
+Total :127: tests for class:org.jsoup.nodes.Attributes:
+Methods executed: 4
+Unconstrained method :asList:1:24
+Unconstrained method :html:1:27
+org.jsoup.select.Elements
+Directory of jaguar data: ../jaguar-data/jsoup/1b
+Directory of subsumption data: ../subsumption-data/Jsoup
+Analyzing class org.jsoup.select.Elements 
+../jaguar-data/jsoup/1b/jaguar/.jaguar/matrix
+org.jsoup.select.Elements.matrix
+../subsumption-data/Jsoup/reduce/org.jsoup.select.Elements.sub.json
+>>>>> org.jsoup.select.Elements <<<<<
+0:attr:9
+1:hasAttr:7
+2:attr:6
+3:removeAttr:5
+4:addClass:5
+5:removeClass:5
+6:toggleClass:5
+7:hasClass:7
+8:val:3
+9:val:5
+10:text:9
+11:hasText:5
+12:html:9
+13:outerHtml:9
+14:html:5
+15:prepend:5
+16:append:5
+17:wrap:5
+18:eq:8
+19:is:2
+20:first:6
+21:last:6
+Total :125: tests for class:org.jsoup.select.Elements:
+Methods executed: 19
+org.jsoup.safety.Whitelist
+Directory of jaguar data: ../jaguar-data/jsoup/1b
+Directory of subsumption data: ../subsumption-data/Jsoup
+Analyzing class org.jsoup.safety.Whitelist 
+../jaguar-data/jsoup/1b/jaguar/.jaguar/matrix
+org.jsoup.safety.Whitelist.matrix
+../subsumption-data/Jsoup/reduce/org.jsoup.safety.Whitelist.sub.json
+>>>>> org.jsoup.safety.Whitelist <<<<<
+0:addTags:14
+1:addAttributes:27
+2:addEnforcedAttribute:17
+3:addProtocols:39
+4:isSafeAttribute:45
+5:testValidProtocol:7
+6:getEnforcedAttributes:14
+Total :15: tests for class:org.jsoup.safety.Whitelist:
+Methods executed: 7
+org.jsoup.nodes.Evaluator$IndexLessThan
+Directory of jaguar data: ../jaguar-data/jsoup/1b
+Directory of subsumption data: ../subsumption-data/Jsoup
+Analyzing class org.jsoup.nodes.Evaluator$IndexLessThan 
+../jaguar-data/jsoup/1b/jaguar/.jaguar/matrix
+org.jsoup.nodes.Evaluator$IndexLessThan.matrix
+../subsumption-data/Jsoup/reduce/org.jsoup.nodes.Evaluator$IndexLessThan.sub.json
+>>>>> org.jsoup.nodes.Evaluator$IndexLessThan <<<<<
+0:matches:6
+Total :2: tests for class:org.jsoup.nodes.Evaluator$IndexLessThan:
+Methods executed: 1
+org.jsoup.parser.TokenQueue
+Directory of jaguar data: ../jaguar-data/jsoup/1b
+Directory of subsumption data: ../subsumption-data/Jsoup
+Analyzing class org.jsoup.parser.TokenQueue 
+../jaguar-data/jsoup/1b/jaguar/.jaguar/matrix
+org.jsoup.parser.TokenQueue.matrix
+../subsumption-data/Jsoup/reduce/org.jsoup.parser.TokenQueue.sub.json
+>>>>> org.jsoup.parser.TokenQueue <<<<<
+0:<init>:13
+1:addFirst:10
+2:matches:28
+3:matchesAny:15
+4:matchChomp:6
+5:matchesWhitespace:8
+6:matchesWord:8
+7:consume:20
+8:consumeToAny:11
+9:consumeWhitespace:11
+10:consumeWord:12
+11:consumeCssIdentifier:22
+12:consumeAttributeKey:14
+13:remainder:7
+No unconstrained duas covered in testcase 38 of consume: [0 1 0 1 1 0 1 1 0 1 0 1 1 1 1 0 1 0 1 0]: [1 0 1 0 0 1 0 0 1 0 1 0 0 0 0 1 0 1 0 1]
+[1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 0 1 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0]
+[0 1 1 0 0 0 1 1 1 0 1 0 0 0 0 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1]
+[0 1 0 1 1 0 1 1 0 1 0 1 1 1 1 0 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0]
+[0 1 0 1 0 0 1 1 0 1 0 1 0 1 0 1 0 0 0 0]
+No unconstrained duas covered in testcase 39 of consume: [0 1 0 1 1 0 1 1 0 1 0 1 1 1 1 0 1 0 1 0]: [1 0 1 0 0 1 0 0 1 0 1 0 0 0 0 1 0 1 0 1]
+[1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 0 1 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0]
+[0 1 1 0 0 0 1 1 1 0 1 0 0 0 0 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1]
+[0 1 0 1 1 0 1 1 0 1 0 1 1 1 1 0 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0]
+[0 1 0 1 0 0 1 1 0 1 0 1 0 1 0 1 0 0 0 0]
+No unconstrained duas covered in testcase 41 of consume: [0 1 0 1 1 0 1 1 0 1 0 1 1 1 1 0 1 0 1 0]: [1 0 1 0 0 1 0 0 1 0 1 0 0 0 0 1 0 1 0 1]
+[1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 0 1 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0]
+[0 1 1 0 0 0 1 1 1 0 1 0 0 0 0 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1]
+[0 1 0 1 1 0 1 1 0 1 0 1 1 1 1 0 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0]
+[0 1 0 1 0 0 1 1 0 1 0 1 0 1 0 1 0 0 0 0]
+No unconstrained duas covered in testcase 46 of consume: [0 1 0 1 1 0 1 1 0 1 0 1 1 1 1 0 1 0 1 0]: [1 0 1 0 0 1 0 0 1 0 1 0 0 0 0 1 0 1 0 1]
+[1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 0 1 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0]
+[0 1 1 0 0 0 1 1 1 0 1 0 0 0 0 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1]
+[0 1 0 1 1 0 1 1 0 1 0 1 1 1 1 0 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0]
+[0 1 0 1 0 0 1 1 0 1 0 1 0 1 0 1 0 0 0 0]
+No unconstrained duas covered in testcase 47 of consume: [0 1 0 1 1 0 1 1 0 1 0 1 1 1 1 0 1 0 1 0]: [1 0 1 0 0 1 0 0 1 0 1 0 0 0 0 1 0 1 0 1]
+[1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 0 1 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0]
+[0 1 1 0 0 0 1 1 1 0 1 0 0 0 0 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1]
+[0 1 0 1 1 0 1 1 0 1 0 1 1 1 1 0 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0]
+[0 1 0 1 0 0 1 1 0 1 0 1 0 1 0 1 0 0 0 0]
+No unconstrained duas covered in testcase 54 of consume: [0 1 0 1 1 0 1 1 0 1 0 1 1 1 1 0 1 0 1 0]: [1 0 1 0 0 1 0 0 1 0 1 0 0 0 0 1 0 1 0 1]
+[1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 0 1 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0]
+[0 1 1 0 0 0 1 1 1 0 1 0 0 0 0 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1]
+[0 1 0 1 1 0 1 1 0 1 0 1 1 1 1 0 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0]
+[0 1 0 1 0 0 1 1 0 1 0 1 0 1 0 1 0 0 0 0]
+No unconstrained duas covered in testcase 66 of consume: [0 1 0 1 1 0 1 1 0 1 0 1 1 1 1 0 1 0 1 0]: [1 0 1 0 0 1 0 0 1 0 1 0 0 0 0 1 0 1 0 1]
+[1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 0 1 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0]
+[0 1 1 0 0 0 1 1 1 0 1 0 0 0 0 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1]
+[0 1 0 1 1 0 1 1 0 1 0 1 1 1 1 0 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0]
+[0 1 0 1 0 0 1 1 0 1 0 1 0 1 0 1 0 0 0 0]
+No unconstrained duas covered in testcase 69 of consume: [0 1 0 1 1 0 1 1 0 1 0 1 1 1 1 0 1 0 1 0]: [1 0 1 0 0 1 0 0 1 0 1 0 0 0 0 1 0 1 0 1]
+[1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 0 1 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0]
+[0 1 1 0 0 0 1 1 1 0 1 0 0 0 0 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1]
+[0 1 0 1 1 0 1 1 0 1 0 1 1 1 1 0 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0]
+[0 1 0 1 0 0 1 1 0 1 0 1 0 1 0 1 0 0 0 0]
+No unconstrained duas covered in testcase 72 of consume: [0 1 0 1 1 0 1 1 0 1 0 1 1 1 1 0 1 0 1 0]: [1 0 1 0 0 1 0 0 1 0 1 0 0 0 0 1 0 1 0 1]
+[1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 0 1 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0]
+[0 1 1 0 0 0 1 1 1 0 1 0 0 0 0 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1]
+[0 1 0 1 1 0 1 1 0 1 0 1 1 1 1 0 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0]
+[0 1 0 1 0 0 1 1 0 1 0 1 0 1 0 1 0 0 0 0]
+No unconstrained duas covered in testcase 82 of consume: [0 1 0 1 1 0 1 1 0 1 0 1 1 1 1 0 1 0 1 0]: [1 0 1 0 0 1 0 0 1 0 1 0 0 0 0 1 0 1 0 1]
+[1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 0 1 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0]
+[0 1 1 0 0 0 1 1 1 0 1 0 0 0 0 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1]
+[0 1 0 1 1 0 1 1 0 1 0 1 1 1 1 0 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0]
+[0 1 0 1 0 0 1 1 0 1 0 1 0 1 0 1 0 0 0 0]
+No unconstrained duas covered in testcase 83 of consume: [0 1 0 1 1 0 1 1 0 1 0 1 1 1 1 0 1 0 1 0]: [1 0 1 0 0 1 0 0 1 0 1 0 0 0 0 1 0 1 0 1]
+[1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 0 1 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0]
+[0 1 1 0 0 0 1 1 1 0 1 0 0 0 0 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1]
+[0 1 0 1 1 0 1 1 0 1 0 1 1 1 1 0 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0]
+[0 1 0 1 0 0 1 1 0 1 0 1 0 1 0 1 0 0 0 0]
+No unconstrained duas covered in testcase 88 of consume: [0 1 0 1 1 0 1 1 0 1 0 1 1 1 1 0 1 0 1 0]: [1 0 1 0 0 1 0 0 1 0 1 0 0 0 0 1 0 1 0 1]
+[1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 0 1 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0]
+[0 1 1 0 0 0 1 1 1 0 1 0 0 0 0 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1]
+[0 1 0 1 1 0 1 1 0 1 0 1 1 1 1 0 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0]
+[0 1 0 1 0 0 1 1 0 1 0 1 0 1 0 1 0 0 0 0]
+No unconstrained duas covered in testcase 92 of consume: [0 1 0 1 1 0 1 1 0 1 0 1 1 1 1 0 1 0 1 0]: [1 0 1 0 0 1 0 0 1 0 1 0 0 0 0 1 0 1 0 1]
+[1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 0 1 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0]
+[0 1 1 0 0 0 1 1 1 0 1 0 0 0 0 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1]
+[0 1 0 1 1 0 1 1 0 1 0 1 1 1 1 0 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0]
+[0 1 0 1 0 0 1 1 0 1 0 1 0 1 0 1 0 0 0 0]
+No unconstrained duas covered in testcase 93 of consume: [0 1 0 1 1 0 1 1 0 1 0 1 1 1 1 0 1 0 1 0]: [1 0 1 0 0 1 0 0 1 0 1 0 0 0 0 1 0 1 0 1]
+[1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 0 1 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0]
+[0 1 1 0 0 0 1 1 1 0 1 0 0 0 0 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1]
+[0 1 0 1 1 0 1 1 0 1 0 1 1 1 1 0 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0]
+[0 1 0 1 0 0 1 1 0 1 0 1 0 1 0 1 0 0 0 0]
+No unconstrained duas covered in testcase 96 of consume: [0 1 0 1 1 0 1 1 0 1 0 1 1 1 1 0 1 0 1 0]: [1 0 1 0 0 1 0 0 1 0 1 0 0 0 0 1 0 1 0 1]
+[1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 0 1 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0]
+[0 1 1 0 0 0 1 1 1 0 1 0 0 0 0 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1]
+[0 1 0 1 1 0 1 1 0 1 0 1 1 1 1 0 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0]
+[0 1 0 1 0 0 1 1 0 1 0 1 0 1 0 1 0 0 0 0]
+No unconstrained duas covered in testcase 101 of consume: [0 1 0 1 1 0 1 1 0 1 0 1 1 1 1 0 1 0 1 0]: [1 0 1 0 0 1 0 0 1 0 1 0 0 0 0 1 0 1 0 1]
+[1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[0 0 1 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0]
+[0 1 1 0 0 0 1 1 1 0 1 0 0 0 0 0 0 0 0 0]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1]
+[0 1 0 1 1 0 1 1 0 1 0 1 1 1 1 0 1 1 1 1]
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0]
+[0 1 0 1 0 0 1 1 0 1 0 1 0 1 0 1 0 0 0 0]
+Total :125: tests for class:org.jsoup.parser.TokenQueue:
+Methods executed: 13
+Unconstrained method :consume:1:16
+org.jsoup.nodes.Evaluator$IndexGreaterThan
+Directory of jaguar data: ../jaguar-data/jsoup/1b
+Directory of subsumption data: ../subsumption-data/Jsoup
+Analyzing class org.jsoup.nodes.Evaluator$IndexGreaterThan 
+../jaguar-data/jsoup/1b/jaguar/.jaguar/matrix
+org.jsoup.nodes.Evaluator$IndexGreaterThan.matrix
+../subsumption-data/Jsoup/reduce/org.jsoup.nodes.Evaluator$IndexGreaterThan.sub.json
+>>>>> org.jsoup.nodes.Evaluator$IndexGreaterThan <<<<<
+0:matches:6
+Total :3: tests for class:org.jsoup.nodes.Evaluator$IndexGreaterThan:
+Methods executed: 1

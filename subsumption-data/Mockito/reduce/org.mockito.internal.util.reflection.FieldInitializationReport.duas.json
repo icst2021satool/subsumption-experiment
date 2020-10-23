@@ -1,0 +1,11 @@
+{
+"Class" : "org.mockito.internal.util.reflection.FieldInitializationReport", 
+"Methods" : [{ "Name" : "fieldClass" ,
+"Duas" : 6,
+"0" :  "(55,(55,55), this)",
+"1" :  "(55,(55,55), this)",
+"2" :  "(55,55, this)",
+"3" :  "(55,(55,55), this.fieldInstance)",
+"4" :  "(55,(55,55), this.fieldInstance)",
+"5" :  "(55,55, this.fieldInstance)"}]
+}

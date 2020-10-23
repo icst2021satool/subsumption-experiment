@@ -1,0 +1,22 @@
+{
+"Class" : "weka.knowledgeflow.steps.ClassifierPerformanceEvaluator$EvaluationCallback", 
+"Methods" : [{ "Name" : "taskFinished" ,
+"Duas" : 17,
+"0" :  "(872,(872,873), this)",
+"1" :  "(872,(872,885), this)",
+"2" :  "(872,885, this)",
+"3" :  "(872,887, this)",
+"4" :  "(872,882, this)",
+"5" :  "(872,873, result)",
+"6" :  "(872,875, result)",
+"7" :  "(872,876, result)",
+"8" :  "(872,878, result)",
+"9" :  "(872,879, result)",
+"10" :  "(872,880, result)",
+"11" :  "(872,(872,873), this.this$0)",
+"12" :  "(872,(872,885), this.this$0)",
+"13" :  "(872,885, this.this$0)",
+"14" :  "(872,887, this.this$0)",
+"15" :  "(872,882, this.this$0)",
+"16" :  "(872,887, this.m_taskCount)"}]
+}

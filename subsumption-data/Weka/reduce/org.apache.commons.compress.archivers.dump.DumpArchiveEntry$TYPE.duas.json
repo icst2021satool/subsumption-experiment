@@ -1,0 +1,14 @@
+{
+"Class" : "org.apache.commons.compress.archivers.dump.DumpArchiveEntry$TYPE", 
+"Methods" : [{ "Name" : "find" ,
+"Duas" : 9,
+"0" :  "(797,(800,801), code)",
+"1" :  "(797,(800,799), code)",
+"2" :  "(797,805, type)",
+"3" :  "(799,(800,801), t)",
+"4" :  "(799,(800,799), t)",
+"5" :  "(799,801, t)",
+"6" :  "(799,(800,801), t.code)",
+"7" :  "(799,(800,799), t.code)",
+"8" :  "(801,805, type)"}]
+}

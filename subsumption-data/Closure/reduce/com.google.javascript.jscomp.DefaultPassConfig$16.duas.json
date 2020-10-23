@@ -1,0 +1,15 @@
+{
+"Class" : "com.google.javascript.jscomp.DefaultPassConfig$16", 
+"Methods" : [{ "Name" : "create" ,
+"Duas" : 10,
+"0" :  "(1000,1003, this)",
+"1" :  "(1000,1003, compiler)",
+"2" :  "(1000,1003, this.this$0)",
+"3" :  "(1000,1003, this.options)",
+"4" :  "(1000,1003, this.checkMissingGetCssNameLevel)",
+"5" :  "(1000,(1001,1001), blacklist)",
+"6" :  "(1000,(1001,1001), blacklist)",
+"7" :  "(1000,1003, blacklist)",
+"8" :  "(1000,(1001,1001), blacklist)",
+"9" :  "(1000,(1001,1001), blacklist)"}]
+}

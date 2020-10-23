@@ -1,0 +1,19 @@
+{
+"Class" : "weka.classifiers.functions.MultilayerPerceptron$ControlPanel$2", 
+"Methods" : [{ "Name" : "paintComponent" ,
+"Duas" : 14,
+"0" :  "(774,(776,777), this)",
+"1" :  "(774,(776,780), this)",
+"2" :  "(774,780, this)",
+"3" :  "(774,777, this)",
+"4" :  "(774,780, g)",
+"5" :  "(774,777, g)",
+"6" :  "(774,(776,777), this.this$1)",
+"7" :  "(774,(776,780), this.this$1)",
+"8" :  "(774,780, this.this$1)",
+"9" :  "(774,777, this.this$1)",
+"10" :  "(774,(776,777), this.this$0)",
+"11" :  "(774,(776,780), this.this$0)",
+"12" :  "(774,780, this.this$0)",
+"13" :  "(774,777, this.this$0)"}]
+}

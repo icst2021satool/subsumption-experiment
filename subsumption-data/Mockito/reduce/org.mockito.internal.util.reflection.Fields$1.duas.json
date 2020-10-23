@@ -1,0 +1,9 @@
+{
+"Class" : "org.mockito.internal.util.reflection.Fields$1", 
+"Methods" : [{ "Name" : "isOut" ,
+"Duas" : 4,
+"0" :  "(67,(70,71), instanceField)",
+"1" :  "(67,(70,69), instanceField)",
+"2" :  "(69,(70,71), annotation)",
+"3" :  "(69,(70,69), annotation)"}]
+}

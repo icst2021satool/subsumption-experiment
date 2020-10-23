@@ -1,0 +1,19 @@
+{
+"Class" : "org.apache.commons.math3.genetics.FixedGenerationCount", 
+"Methods" : [{ "Name" : "<init>" ,
+"Duas" : 5,
+"0" :  "(42,46, this)",
+"1" :  "(42,(43,44), maxGenerations)",
+"2" :  "(42,(43,46), maxGenerations)",
+"3" :  "(42,46, maxGenerations)",
+"4" :  "(42,44, maxGenerations)"},{ "Name" : "isSatisfied" ,
+"Duas" : 8,
+"0" :  "(57,(57,58), this)",
+"1" :  "(57,(57,61), this)",
+"2" :  "(57,58, this)",
+"3" :  "(57,(57,58), this.maxGenerations)",
+"4" :  "(57,(57,61), this.maxGenerations)",
+"5" :  "(57,(57,58), this.numGenerations)",
+"6" :  "(57,(57,61), this.numGenerations)",
+"7" :  "(57,58, this.numGenerations)"}]
+}

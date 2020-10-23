@@ -1,0 +1,12 @@
+{
+"Class" : "org.apache.commons.compress.archivers.dump.DumpArchiveConstants$SEGMENT_TYPE", 
+"Methods" : [{ "Name" : "find" ,
+"Duas" : 7,
+"0" :  "(57,(58,59), code)",
+"1" :  "(57,(58,57), code)",
+"2" :  "(57,(58,59), t)",
+"3" :  "(57,(58,57), t)",
+"4" :  "(57,59, t)",
+"5" :  "(57,(58,59), t.code)",
+"6" :  "(57,(58,57), t.code)"}]
+}

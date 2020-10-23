@@ -1,0 +1,9 @@
+{
+"Class" : "weka.gui.visualize.MatrixPanel$1", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Duas" : "10" ,
+"Subsumers" : 2,
+"0" : [ 9, 8, 3], "S0" : [0, 1, 2, 3, 4, 5, 8, 9 ],
+"1" : [ 7, 6], "S1" : [0, 1, 2, 4, 5, 6, 7 ]
+}]
+}

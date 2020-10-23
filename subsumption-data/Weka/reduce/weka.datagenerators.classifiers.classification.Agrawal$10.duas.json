@@ -1,0 +1,16 @@
+{
+"Class" : "weka.datagenerators.classifiers.classification.Agrawal$10", 
+"Methods" : [{ "Name" : "determineClass" ,
+"Duas" : 11,
+"0" :  "(370,374, salary)",
+"1" :  "(370,374, commission)",
+"2" :  "(370,374, elevel)",
+"3" :  "(370,372, hvalue)",
+"4" :  "(370,(371,372), hyears)",
+"5" :  "(370,(371,374), hyears)",
+"6" :  "(370,372, hyears)",
+"7" :  "(370,374, equity)",
+"8" :  "(372,374, equity)",
+"9" :  "(374,(376,376), disposable)",
+"10" :  "(374,(376,376), disposable)"}]
+}

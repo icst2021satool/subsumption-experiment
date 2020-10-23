@@ -1,0 +1,11 @@
+{
+"Class" : "weka.core.expressionlanguage.common.Operators$LessEqual", 
+"Methods" : [{ "Name" : "evaluate" ,
+"Duas" : 6,
+"0" :  "(369,(369,369), this)",
+"1" :  "(369,(369,369), this)",
+"2" :  "(369,(369,369), this.left)",
+"3" :  "(369,(369,369), this.left)",
+"4" :  "(369,(369,369), this.right)",
+"5" :  "(369,(369,369), this.right)"}]
+}

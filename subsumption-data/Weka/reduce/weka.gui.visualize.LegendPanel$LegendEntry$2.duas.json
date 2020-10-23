@@ -1,0 +1,17 @@
+{
+"Class" : "weka.gui.visualize.LegendPanel$LegendEntry$2", 
+"Methods" : [{ "Name" : "paintComponent" ,
+"Duas" : 12,
+"0" :  "(143,(144,145), this)",
+"1" :  "(143,(144,147), this)",
+"2" :  "(143,147, this)",
+"3" :  "(143,149, this)",
+"4" :  "(143,147, gx)",
+"5" :  "(143,149, gx)",
+"6" :  "(143,145, gx)",
+"7" :  "(143,(144,145), this.this$1)",
+"8" :  "(143,(144,147), this.this$1)",
+"9" :  "(143,147, this.this$1)",
+"10" :  "(143,149, this.this$1)",
+"11" :  "(143,145, black)"}]
+}

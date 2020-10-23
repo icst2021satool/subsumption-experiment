@@ -1,0 +1,16 @@
+{
+"Class" : "com.sun.xml.bind.v2.schemagen.XmlSchemaGenerator$Namespace$6", 
+"Methods" : [{ "Name" : "write" ,
+"Duas" : 11,
+"0" :  "(1323,(1325,1326), this)",
+"1" :  "(1323,(1325,1327), this)",
+"2" :  "(1323,1327, this)",
+"3" :  "(1323,1330, this)",
+"4" :  "(1323,1327, repeated)",
+"5" :  "(1323,(1325,1326), this.val$rp)",
+"6" :  "(1323,(1325,1327), this.val$rp)",
+"7" :  "(1323,1330, this.val$choice)",
+"8" :  "(1323,1327, e)",
+"9" :  "(1323,1329, e)",
+"10" :  "(1323,1326, e)"}]
+}

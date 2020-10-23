@@ -1,0 +1,10 @@
+{
+"Class" : "com.google.javascript.jscomp.ChainCalls", 
+"Methods" : [{ "Name" : "process" ,
+"Duas" : 5,
+"0" :  "(49,59, this)",
+"1" :  "(49,59, this.compiler)",
+"2" :  "(54,(54,54), i$)",
+"3" :  "(54,(54,61), i$)",
+"4" :  "(54,54, i$)"}]
+}

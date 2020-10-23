@@ -1,0 +1,13 @@
+{
+"Class" : "weka.core.expressionlanguage.common.Operators$Or", 
+"Methods" : [{ "Name" : "evaluate" ,
+"Duas" : 8,
+"0" :  "(449,(449,449), this)",
+"1" :  "(449,(449,449), this)",
+"2" :  "(449,(449,449), this)",
+"3" :  "(449,(449,449), this)",
+"4" :  "(449,(449,449), this.left)",
+"5" :  "(449,(449,449), this.left)",
+"6" :  "(449,(449,449), this.right)",
+"7" :  "(449,(449,449), this.right)"}]
+}

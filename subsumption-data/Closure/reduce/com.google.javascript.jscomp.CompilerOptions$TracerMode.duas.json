@@ -1,0 +1,9 @@
+{
+"Class" : "com.google.javascript.jscomp.CompilerOptions$TracerMode", 
+"Methods" : [{ "Name" : "isOn" ,
+"Duas" : 4,
+"0" :  "(2082,(2082,2082), this)",
+"1" :  "(2082,(2082,2082), this)",
+"2" :  "(2082,(2082,2082), OFF)",
+"3" :  "(2082,(2082,2082), OFF)"}]
+}

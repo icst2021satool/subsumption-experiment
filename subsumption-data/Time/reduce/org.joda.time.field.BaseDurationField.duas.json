@@ -1,0 +1,18 @@
+{
+"Class" : "org.joda.time.field.BaseDurationField", 
+"Methods" : [{ "Name" : "<init>" ,
+"Duas" : 4,
+"0" :  "(47,51, this)",
+"1" :  "(47,(48,49), type)",
+"2" :  "(47,(48,51), type)",
+"3" :  "(47,51, type)"},{ "Name" : "compareTo" ,
+"Duas" : 8,
+"0" :  "(146,(149,150), otherMillis)",
+"1" :  "(146,(149,152), otherMillis)",
+"2" :  "(146,(152,153), otherMillis)",
+"3" :  "(146,(152,155), otherMillis)",
+"4" :  "(147,(149,150), thisMillis)",
+"5" :  "(147,(149,152), thisMillis)",
+"6" :  "(147,(152,153), thisMillis)",
+"7" :  "(147,(152,155), thisMillis)"}]
+}

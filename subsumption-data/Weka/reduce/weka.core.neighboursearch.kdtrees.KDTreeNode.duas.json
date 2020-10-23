@@ -1,0 +1,9 @@
+{
+"Class" : "weka.core.neighboursearch.kdtrees.KDTreeNode", 
+"Methods" : [{ "Name" : "isALeaf" ,
+"Duas" : 4,
+"0" :  "(159,(159,159), this)",
+"1" :  "(159,(159,159), this)",
+"2" :  "(159,(159,159), this.m_Left)",
+"3" :  "(159,(159,159), this.m_Left)"}]
+}

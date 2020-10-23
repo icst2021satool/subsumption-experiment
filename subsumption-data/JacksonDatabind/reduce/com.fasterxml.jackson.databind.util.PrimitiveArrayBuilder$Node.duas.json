@@ -1,0 +1,11 @@
+{
+"Class" : "com.fasterxml.jackson.databind.util.PrimitiveArrayBuilder$Node", 
+"Methods" : [{ "Name" : "linkNext" ,
+"Duas" : 6,
+"0" :  "(174,(174,175), this)",
+"1" :  "(174,(174,177), this)",
+"2" :  "(174,177, this)",
+"3" :  "(174,177, next)",
+"4" :  "(174,(174,175), this._next)",
+"5" :  "(174,(174,177), this._next)"}]
+}

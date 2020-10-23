@@ -1,0 +1,30 @@
+{
+"Class" : "weka.clusterers.SingleClustererEnhancer", 
+"Methods" : [{ "Name" : "listOptions" ,
+"Duas" : "11" ,
+"Subsumers" : 2,
+"0" : [ 9, 10, 6, 7, 4, 2, 3, 0], "S0" : [0, 2, 3, 4, 6, 7, 8, 9, 10 ],
+"1" : [ 5, 1], "S1" : [1, 5, 8 ]
+},{ "Name" : "setOptions" ,
+"Duas" : "12" ,
+"Subsumers" : 2,
+"0" : [ 9, 5, 0, 1], "S0" : [0, 1, 2, 5, 6, 9 ],
+"1" : [ 10, 11, 8, 7, 3, 4], "S1" : [2, 3, 4, 6, 7, 8, 10, 11 ]
+},{ "Name" : "getOptions" ,
+"Duas" : "9" ,
+"Subsumers" : 3,
+"0" : [ 6, 5], "S0" : [0, 2, 3, 4, 5, 6, 8 ],
+"1" : [ 7], "S1" : [0, 2, 3, 4, 7, 8 ],
+"2" : [ 1], "S2" : [1, 3 ]
+},{ "Name" : "getClustererSpec" ,
+"Duas" : "6" ,
+"Subsumers" : 2,
+"0" : [ 5, 4, 2, 0], "S0" : [0, 2, 4, 5 ],
+"1" : [ 3, 1], "S1" : [1, 3 ]
+},{ "Name" : "getCapabilities" ,
+"Duas" : "8" ,
+"Subsumers" : 2,
+"0" : [ 5], "S0" : [0, 3, 4, 5 ],
+"1" : [ 7], "S1" : [1, 2, 6, 7 ]
+}]
+}

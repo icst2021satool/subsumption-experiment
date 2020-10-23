@@ -1,0 +1,17 @@
+{
+"Class" : "weka.gui.experiment.SimpleSetupPanel$4", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Duas" : 12,
+"0" :  "(322,(322,323), this)",
+"1" :  "(322,(322,325), this)",
+"2" :  "(322,325, this)",
+"3" :  "(322,323, this)",
+"4" :  "(322,(322,323), DEST_DATABASE_TEXT)",
+"5" :  "(322,(322,325), DEST_DATABASE_TEXT)",
+"6" :  "(322,(322,323), this.this$0)",
+"7" :  "(322,(322,325), this.this$0)",
+"8" :  "(322,325, this.this$0)",
+"9" :  "(322,323, this.this$0)",
+"10" :  "(322,(322,323), this.m_ResultsDestinationCBox)",
+"11" :  "(322,(322,325), this.m_ResultsDestinationCBox)"}]
+}

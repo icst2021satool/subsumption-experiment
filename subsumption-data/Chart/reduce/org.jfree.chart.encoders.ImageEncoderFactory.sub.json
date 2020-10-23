@@ -1,0 +1,9 @@
+{
+"Class" : "org.jfree.chart.encoders.ImageEncoderFactory", 
+"Methods" : [{ "Name" : "newInstance" ,
+"Duas" : "4" ,
+"Subsumers" : 2,
+"0" : [ 1, 0], "S0" : [0, 1 ],
+"1" : [ 3, 2], "S1" : [2, 3 ]
+}]
+}

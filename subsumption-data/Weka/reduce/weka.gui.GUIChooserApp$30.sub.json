@@ -1,0 +1,9 @@
+{
+"Class" : "weka.gui.GUIChooserApp$30", 
+"Methods" : [{ "Name" : "windowClosing" ,
+"Duas" : "11" ,
+"Subsumers" : 2,
+"0" : [ 10, 9, 8, 6, 4, 2, 3, 0], "S0" : [0, 2, 3, 4, 6, 8, 9, 10 ],
+"1" : [ 7, 5, 1], "S1" : [1, 5, 7 ]
+}]
+}

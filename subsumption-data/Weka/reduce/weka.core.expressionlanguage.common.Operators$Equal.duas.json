@@ -1,0 +1,11 @@
+{
+"Class" : "weka.core.expressionlanguage.common.Operators$Equal", 
+"Methods" : [{ "Name" : "evaluate" ,
+"Duas" : 6,
+"0" :  "(417,(417,417), this)",
+"1" :  "(417,(417,417), this)",
+"2" :  "(417,(417,417), this.left)",
+"3" :  "(417,(417,417), this.left)",
+"4" :  "(417,(417,417), this.right)",
+"5" :  "(417,(417,417), this.right)"}]
+}

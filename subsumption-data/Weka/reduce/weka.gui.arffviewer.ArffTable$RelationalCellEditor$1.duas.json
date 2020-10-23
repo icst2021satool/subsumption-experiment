@@ -1,0 +1,14 @@
+{
+"Class" : "weka.gui.arffviewer.ArffTable$RelationalCellEditor$1", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Duas" : 9,
+"0" :  "(104,113, this)",
+"1" :  "(104,110, this)",
+"2" :  "(104,111, this)",
+"3" :  "(104,113, this.this$1)",
+"4" :  "(104,110, this.this$1)",
+"5" :  "(104,111, this.this$1)",
+"6" :  "(104,110, dialog)",
+"7" :  "(108,(109,110), result)",
+"8" :  "(108,(109,113), result)"}]
+}

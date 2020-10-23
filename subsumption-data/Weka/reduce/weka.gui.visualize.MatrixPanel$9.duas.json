@@ -1,0 +1,12 @@
+{
+"Class" : "weka.gui.visualize.MatrixPanel$9", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Duas" : 7,
+"0" :  "(804,818, this)",
+"1" :  "(804,813, out)",
+"2" :  "(804,818, this.val$mp)",
+"3" :  "(805,813, chooser)",
+"4" :  "(805,817, chooser)",
+"5" :  "(809,(811,813), returnVal)",
+"6" :  "(809,(811,823), returnVal)"}]
+}

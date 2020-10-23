@@ -1,0 +1,14 @@
+{
+"Class" : "weka.gui.beans.SubstringLabelerCustomizer$3", 
+"Methods" : [{ "Name" : "propertyChange" ,
+"Duas" : 9,
+"0" :  "(211,214, this)",
+"1" :  "(211,215, this)",
+"2" :  "(211,214, this.this$0)",
+"3" :  "(211,215, this.this$0)",
+"4" :  "(211,215, this.m_list)",
+"5" :  "(211,214, this.m_labelField)",
+"6" :  "(211,(212,213), m)",
+"7" :  "(211,(212,217), m)",
+"8" :  "(211,214, m)"}]
+}

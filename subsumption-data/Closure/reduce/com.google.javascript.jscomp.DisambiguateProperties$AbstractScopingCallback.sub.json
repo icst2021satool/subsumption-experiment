@@ -1,0 +1,9 @@
+{
+"Class" : "com.google.javascript.jscomp.DisambiguateProperties$AbstractScopingCallback", 
+"Methods" : [{ "Name" : "enterScope" ,
+"Duas" : "9" ,
+"Subsumers" : 2,
+"0" : [ 7, 5, 4, 3, 0], "S0" : [0, 3, 4, 5, 7 ],
+"1" : [ 8, 6, 2, 1], "S1" : [1, 2, 6, 8 ]
+}]
+}

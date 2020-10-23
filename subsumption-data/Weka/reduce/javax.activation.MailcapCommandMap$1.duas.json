@@ -1,0 +1,11 @@
+{
+"Class" : "javax.activation.MailcapCommandMap$1", 
+"Methods" : [{ "Name" : "run" ,
+"Duas" : 6,
+"0" :  "(125,131, separator)",
+"1" :  "(125,129, separator)",
+"2" :  "(125,131, home)",
+"3" :  "(126,129, newdir)",
+"4" :  "(127,(128,129), conf)",
+"5" :  "(127,(128,131), conf)"}]
+}

@@ -1,0 +1,13 @@
+{
+"Class" : "weka.core.pmml.jaxbbindings.ROC", 
+"Methods" : [{ "Name" : "getExtension" ,
+"Duas" : 8,
+"0" :  "(91,(91,92), this)",
+"1" :  "(91,(91,94), this)",
+"2" :  "(91,94, this)",
+"3" :  "(91,92, this)",
+"4" :  "(91,(91,92), this.extension)",
+"5" :  "(91,(91,94), this.extension)",
+"6" :  "(91,94, this.extension)",
+"7" :  "(92,94, this.extension)"}]
+}

@@ -1,0 +1,15 @@
+{
+"Class" : "com.sun.xml.bind.v2.schemagen.Tree$Group", 
+"Methods" : [{ "Name" : "isNullable" ,
+"Duas" : "14" ,
+"Subsumers" : 4,
+"0" : [ 10], "S0" : [0, 3, 4, 6, 9, 10 ],
+"1" : [ 11], "S1" : [0, 3, 4, 6, 9, 11 ],
+"2" : [ 12], "S2" : [1, 2, 5, 7, 8, 12 ],
+"3" : [ 13], "S3" : [1, 2, 5, 7, 8, 13 ]
+},{ "Name" : "write" ,
+"Duas" : "1" ,
+"Subsumers" : 1,
+"0" : [ 0], "S0" : [0 ]
+}]
+}

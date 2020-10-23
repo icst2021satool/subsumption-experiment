@@ -1,0 +1,16 @@
+{
+"Class" : "org.mockito.internal.stubbing.defaultanswers.ReturnsMoreEmptyValues", 
+"Methods" : [{ "Name" : "answer" ,
+"Duas" : 5,
+"0" :  "(57,63, this)",
+"1" :  "(57,62, invocation)",
+"2" :  "(57,(58,59), ret)",
+"3" :  "(57,(58,62), ret)",
+"4" :  "(57,59, ret)"},{ "Name" : "returnValueFor" ,
+"Duas" : 5,
+"0" :  "(67,(67,68), type)",
+"1" :  "(67,(67,69), type)",
+"2" :  "(67,(69,70), type)",
+"3" :  "(67,(69,73), type)",
+"4" :  "(67,70, type)"}]
+}

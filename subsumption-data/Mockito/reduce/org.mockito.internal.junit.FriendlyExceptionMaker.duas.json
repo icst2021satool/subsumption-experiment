@@ -1,0 +1,13 @@
+{
+"Class" : "org.mockito.internal.junit.FriendlyExceptionMaker", 
+"Methods" : [{ "Name" : "createArgumentsAreDifferentException" ,
+"Duas" : 8,
+"0" :  "(19,(19,20), this)",
+"1" :  "(19,(19,24), this)",
+"2" :  "(19,25, message)",
+"3" :  "(19,20, message)",
+"4" :  "(19,25, wanted)",
+"5" :  "(19,25, actual)",
+"6" :  "(19,(19,20), this.detecter)",
+"7" :  "(19,(19,24), this.detecter)"}]
+}

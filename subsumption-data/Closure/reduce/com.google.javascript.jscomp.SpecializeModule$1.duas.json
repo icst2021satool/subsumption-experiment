@@ -1,0 +1,16 @@
+{
+"Class" : "com.google.javascript.jscomp.SpecializeModule$1", 
+"Methods" : [{ "Name" : "reportMatch" ,
+"Duas" : 8,
+"0" :  "(241,242, this)",
+"1" :  "(241,245, this)",
+"2" :  "(241,(241,242), original)",
+"3" :  "(241,(241,248), original)",
+"4" :  "(241,242, original)",
+"5" :  "(241,245, specialized)",
+"6" :  "(241,242, this.this$0)",
+"7" :  "(241,245, this.this$0)"},{ "Name" : "shouldTraverse" ,
+"Duas" : 2,
+"0" :  "(252,(252,252), n1)",
+"1" :  "(252,(252,252), n1)"}]
+}

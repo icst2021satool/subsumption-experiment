@@ -1,0 +1,13 @@
+{
+"Class" : "com.google.javascript.jscomp.NodeTraversal$AbstractShallowCallback", 
+"Methods" : [{ "Name" : "shouldTraverse" ,
+"Duas" : 8,
+"0" :  "(165,(165,165), n)",
+"1" :  "(165,(165,165), n)",
+"2" :  "(165,(165,165), parent)",
+"3" :  "(165,(165,165), parent)",
+"4" :  "(165,(165,165), parent)",
+"5" :  "(165,(165,165), parent)",
+"6" :  "(165,(165,165), parent)",
+"7" :  "(165,(165,165), parent)"}]
+}

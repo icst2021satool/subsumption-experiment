@@ -1,0 +1,24 @@
+{
+"Class" : "weka.core.pmml.jaxbbindings.MiningField", 
+"Methods" : [{ "Name" : "getExtension" ,
+"Duas" : "8" ,
+"Subsumers" : 2,
+"0" : [ 7, 4, 3, 0], "S0" : [0, 2, 3, 4, 7 ],
+"1" : [ 6, 5, 1], "S1" : [1, 2, 5, 6 ]
+},{ "Name" : "getInvalidValueTreatment" ,
+"Duas" : "7" ,
+"Subsumers" : 2,
+"0" : [ 6, 3, 0], "S0" : [0, 3, 6 ],
+"1" : [ 5, 4, 2, 1], "S1" : [1, 2, 4, 5 ]
+},{ "Name" : "getOutliers" ,
+"Duas" : "7" ,
+"Subsumers" : 2,
+"0" : [ 6, 3, 0], "S0" : [0, 3, 6 ],
+"1" : [ 5, 4, 2, 1], "S1" : [1, 2, 4, 5 ]
+},{ "Name" : "getUsageType" ,
+"Duas" : "7" ,
+"Subsumers" : 2,
+"0" : [ 6, 3, 0], "S0" : [0, 3, 6 ],
+"1" : [ 5, 4, 2, 1], "S1" : [1, 2, 4, 5 ]
+}]
+}

@@ -1,0 +1,20 @@
+{
+"Class" : "weka.gui.explorer.ClassifierPanel$10", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Duas" : 15,
+"0" :  "(585,591, this)",
+"1" :  "(585,587, this)",
+"2" :  "(585,588, this)",
+"3" :  "(585,589, this)",
+"4" :  "(585,591, this.this$0)",
+"5" :  "(585,587, this.this$0)",
+"6" :  "(585,588, this.this$0)",
+"7" :  "(585,589, this.this$0)",
+"8" :  "(585,587, this.m_Instances)",
+"9" :  "(585,588, this.m_OutputPerClassBut)",
+"10" :  "(585,589, this.m_OutputConfusionBut)",
+"11" :  "(585,591, this.m_ClassifierEditor)",
+"12" :  "(585,(586,587), selected)",
+"13" :  "(585,(586,591), selected)",
+"14" :  "(585,587, selected)"}]
+}

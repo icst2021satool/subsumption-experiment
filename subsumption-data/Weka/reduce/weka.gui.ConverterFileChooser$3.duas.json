@@ -1,0 +1,9 @@
+{
+"Class" : "weka.gui.ConverterFileChooser$3", 
+"Methods" : [{ "Name" : "propertyChange" ,
+"Duas" : 4,
+"0" :  "(388,389, this)",
+"1" :  "(388,(388,389), evt)",
+"2" :  "(388,(388,391), evt)",
+"3" :  "(388,389, this.this$0)"}]
+}

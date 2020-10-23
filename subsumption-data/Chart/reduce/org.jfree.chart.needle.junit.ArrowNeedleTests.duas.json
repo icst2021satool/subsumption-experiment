@@ -1,0 +1,20 @@
+{
+"Class" : "org.jfree.chart.needle.junit.ArrowNeedleTests", 
+"Methods" : [{ "Name" : "suite" ,
+"Duas" : 4,
+"0" :  "(66,(66,66), class$org$jfree$chart$needle$junit$ArrowNeedleTests)",
+"1" :  "(66,(66,66), class$org$jfree$chart$needle$junit$ArrowNeedleTests)",
+"2" :  "(66,66, class$org$jfree$chart$needle$junit$ArrowNeedleTests)",
+"3" :  "(66,66, class$org$jfree$chart$needle$junit$ArrowNeedleTests)"},{ "Name" : "testCloning" ,
+"Duas" : 10,
+"0" :  "(97,(106,106), n1)",
+"1" :  "(97,(106,106), n1)",
+"2" :  "(97,(107,107), n1)",
+"3" :  "(97,(107,107), n1)",
+"4" :  "(97,108, n1)",
+"5" :  "(100,(106,106), n2)",
+"6" :  "(100,(106,106), n2)",
+"7" :  "(100,(107,107), n2)",
+"8" :  "(100,(107,107), n2)",
+"9" :  "(100,108, n2)"}]
+}

@@ -1,0 +1,22 @@
+{
+"Class" : "weka.gui.knowledgeflow.steps.CostBenefitAnalysisInteractiveView", 
+"Methods" : [{ "Name" : "init" ,
+"Duas" : 17,
+"0" :  "(87,192, this)",
+"1" :  "(87,192, this)",
+"2" :  "(87,179, this)",
+"3" :  "(87,180, this)",
+"4" :  "(87,183, this)",
+"5" :  "(87,184, this)",
+"6" :  "(87,192, this.m_clearButton)",
+"7" :  "(87,183, this.m_cbPanel)",
+"8" :  "(87,184, this.m_cbPanel)",
+"9" :  "(89,179, this.m_history)",
+"10" :  "(89,180, this.m_history)",
+"11" :  "(173,(181,183), first)",
+"12" :  "(173,(181,190), first)",
+"13" :  "(175,183, threshData)",
+"14" :  "(177,183, classAtt)",
+"15" :  "(185,(181,183), first)",
+"16" :  "(185,(181,190), first)"}]
+}

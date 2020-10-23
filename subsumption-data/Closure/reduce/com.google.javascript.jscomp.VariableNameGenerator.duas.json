@@ -1,0 +1,14 @@
+{
+"Class" : "com.google.javascript.jscomp.VariableNameGenerator", 
+"Methods" : [{ "Name" : "getNextNewName" ,
+"Duas" : 9,
+"0" :  "(39,40, this)",
+"1" :  "(39,(40,40), this)",
+"2" :  "(39,(40,41), this)",
+"3" :  "(39,40, this.names)",
+"4" :  "(39,(40,40), this.names)",
+"5" :  "(39,(40,41), this.names)",
+"6" :  "(39,(40,40), this.scope)",
+"7" :  "(39,(40,41), this.scope)",
+"8" :  "(40,41, name)"}]
+}

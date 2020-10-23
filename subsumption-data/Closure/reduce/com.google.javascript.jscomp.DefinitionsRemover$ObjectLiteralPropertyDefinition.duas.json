@@ -1,0 +1,11 @@
+{
+"Class" : "com.google.javascript.jscomp.DefinitionsRemover$ObjectLiteralPropertyDefinition", 
+"Methods" : [{ "Name" : "getLValue" ,
+"Duas" : 6,
+"0" :  "(348,(348,357), this)",
+"1" :  "(348,(348,353), this)",
+"2" :  "(348,353, this)",
+"3" :  "(348,(348,357), this.name)",
+"4" :  "(348,(348,353), this.name)",
+"5" :  "(348,353, this.name)"}]
+}

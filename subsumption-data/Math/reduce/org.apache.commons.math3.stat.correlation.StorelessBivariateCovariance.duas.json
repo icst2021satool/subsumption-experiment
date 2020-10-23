@@ -1,0 +1,22 @@
+{
+"Class" : "org.apache.commons.math3.stat.correlation.StorelessBivariateCovariance", 
+"Methods" : [{ "Name" : "getResult" ,
+"Duas" : 17,
+"0" :  "(128,(128,129), this)",
+"1" :  "(128,(128,132), this)",
+"2" :  "(128,(132,133), this)",
+"3" :  "(128,(132,135), this)",
+"4" :  "(128,135, this)",
+"5" :  "(128,133, this)",
+"6" :  "(128,129, this)",
+"7" :  "(128,(128,129), this.n)",
+"8" :  "(128,(128,132), this.n)",
+"9" :  "(128,135, this.n)",
+"10" :  "(128,133, this.n)",
+"11" :  "(128,129, this.n)",
+"12" :  "(128,129, INSUFFICIENT_DIMENSION)",
+"13" :  "(128,(132,133), this.biasCorrected)",
+"14" :  "(128,(132,135), this.biasCorrected)",
+"15" :  "(128,135, this.covarianceNumerator)",
+"16" :  "(128,133, this.covarianceNumerator)"}]
+}

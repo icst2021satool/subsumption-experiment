@@ -1,0 +1,10 @@
+{
+"Class" : "weka.datagenerators.RegressionGenerator", 
+"Methods" : [{ "Name" : "setOptions" ,
+"Duas" : 5,
+"0" :  "(94,100, this)",
+"1" :  "(94,98, this)",
+"2" :  "(96,(97,98), tmpStr)",
+"3" :  "(96,(97,100), tmpStr)",
+"4" :  "(96,98, tmpStr)"}]
+}

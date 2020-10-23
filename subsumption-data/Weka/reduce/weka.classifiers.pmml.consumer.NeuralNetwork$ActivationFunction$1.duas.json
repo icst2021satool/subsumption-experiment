@@ -1,0 +1,9 @@
+{
+"Class" : "weka.classifiers.pmml.consumer.NeuralNetwork$ActivationFunction$1", 
+"Methods" : [{ "Name" : "eval" ,
+"Duas" : 4,
+"0" :  "(602,(602,603), z)",
+"1" :  "(602,(602,605), z)",
+"2" :  "(602,(602,603), threshold)",
+"3" :  "(602,(602,605), threshold)"}]
+}

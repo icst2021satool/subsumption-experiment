@@ -1,0 +1,20 @@
+{
+"Class" : "org.jfree.chart.renderer.xy.junit.CandlestickRendererTests", 
+"Methods" : [{ "Name" : "suite" ,
+"Duas" : 4,
+"0" :  "(81,(81,81), class$org$jfree$chart$renderer$xy$junit$CandlestickRendererTests)",
+"1" :  "(81,(81,81), class$org$jfree$chart$renderer$xy$junit$CandlestickRendererTests)",
+"2" :  "(81,81, class$org$jfree$chart$renderer$xy$junit$CandlestickRendererTests)",
+"3" :  "(81,81, class$org$jfree$chart$renderer$xy$junit$CandlestickRendererTests)"},{ "Name" : "testCloning" ,
+"Duas" : 10,
+"0" :  "(197,(205,205), r1)",
+"1" :  "(197,(205,205), r1)",
+"2" :  "(197,(206,206), r1)",
+"3" :  "(197,(206,206), r1)",
+"4" :  "(197,207, r1)",
+"5" :  "(200,(205,205), r2)",
+"6" :  "(200,(205,205), r2)",
+"7" :  "(200,(206,206), r2)",
+"8" :  "(200,(206,206), r2)",
+"9" :  "(200,207, r2)"}]
+}

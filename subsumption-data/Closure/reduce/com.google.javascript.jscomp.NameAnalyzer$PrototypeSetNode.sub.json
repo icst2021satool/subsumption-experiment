@@ -1,0 +1,9 @@
+{
+"Class" : "com.google.javascript.jscomp.NameAnalyzer$PrototypeSetNode", 
+"Methods" : [{ "Name" : "remove" ,
+"Duas" : "9" ,
+"Subsumers" : 2,
+"0" : [ 7, 6, 3, 2, 0], "S0" : [0, 2, 3, 6, 7 ],
+"1" : [ 8, 5, 4, 1], "S1" : [1, 4, 5, 8 ]
+}]
+}

@@ -1,0 +1,11 @@
+{
+"Class" : "weka.knowledgeflow.DelayedCallbackNotifierDelegate", 
+"Methods" : [{ "Name" : "notifyNow" ,
+"Duas" : "19" ,
+"Subsumers" : 4,
+"0" : [ 17, 14, 11, 7, 4], "S0" : [0, 2, 4, 7, 8, 11, 12, 14, 17 ],
+"1" : [ 18, 16, 15, 10, 6, 5], "S1" : [0, 2, 5, 6, 8, 10, 12, 15, 16, 18 ],
+"2" : [ 13, 3], "S2" : [0, 3, 8, 13 ],
+"3" : [ 9, 1], "S3" : [1, 9 ]
+}]
+}

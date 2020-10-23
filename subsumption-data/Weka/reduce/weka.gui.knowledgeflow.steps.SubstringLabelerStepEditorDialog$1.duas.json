@@ -1,0 +1,14 @@
+{
+"Class" : "weka.gui.knowledgeflow.steps.SubstringLabelerStepEditorDialog$1", 
+"Methods" : [{ "Name" : "propertyChange" ,
+"Duas" : 9,
+"0" :  "(234,237, this)",
+"1" :  "(234,238, this)",
+"2" :  "(234,237, this.this$0)",
+"3" :  "(234,238, this.this$0)",
+"4" :  "(234,238, this.m_list)",
+"5" :  "(234,237, this.m_attListField)",
+"6" :  "(234,(235,236), m)",
+"7" :  "(234,(235,240), m)",
+"8" :  "(234,237, m)"}]
+}

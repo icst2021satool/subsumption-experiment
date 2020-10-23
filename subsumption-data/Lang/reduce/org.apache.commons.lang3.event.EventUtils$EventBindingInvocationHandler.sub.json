@@ -1,0 +1,17 @@
+{
+"Class" : "org.apache.commons.lang3.event.EventUtils$EventBindingInvocationHandler", 
+"Methods" : [{ "Name" : "invoke" ,
+"Duas" : "21" ,
+"Subsumers" : 5,
+"0" : [ 15, 10, 6], "S0" : [0, 6, 10, 13, 15 ],
+"1" : [ 16, 11, 7], "S1" : [0, 7, 11, 13, 16 ],
+"2" : [ 14, 1], "S2" : [1, 14 ],
+"3" : [ 20, 18, 12, 8, 5, 2], "S3" : [2, 5, 8, 12, 18, 20 ],
+"4" : [ 19, 17, 9, 4, 3], "S4" : [3, 4, 9, 17, 19 ]
+},{ "Name" : "hasMatchingParametersMethod" ,
+"Duas" : "8" ,
+"Subsumers" : 2,
+"0" : [ 6, 4, 2, 0], "S0" : [0, 2, 4, 6 ],
+"1" : [ 7, 5, 3, 1], "S1" : [1, 3, 5, 7 ]
+}]
+}

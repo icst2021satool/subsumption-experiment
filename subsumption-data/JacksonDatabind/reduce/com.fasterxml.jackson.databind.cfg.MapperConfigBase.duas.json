@@ -1,0 +1,19 @@
+{
+"Class" : "com.fasterxml.jackson.databind.cfg.MapperConfigBase", 
+"Methods" : [{ "Name" : "findMixInClassFor" ,
+"Duas" : 7,
+"0" :  "(331,(331,331), this)",
+"1" :  "(331,(331,331), this)",
+"2" :  "(331,331, this)",
+"3" :  "(331,331, cls)",
+"4" :  "(331,(331,331), this._mixInAnnotations)",
+"5" :  "(331,(331,331), this._mixInAnnotations)",
+"6" :  "(331,331, this._mixInAnnotations)"},{ "Name" : "mixInCount" ,
+"Duas" : 6,
+"0" :  "(335,(335,335), this)",
+"1" :  "(335,(335,335), this)",
+"2" :  "(335,335, this)",
+"3" :  "(335,(335,335), this._mixInAnnotations)",
+"4" :  "(335,(335,335), this._mixInAnnotations)",
+"5" :  "(335,335, this._mixInAnnotations)"}]
+}

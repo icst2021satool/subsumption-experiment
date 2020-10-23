@@ -1,0 +1,9 @@
+{
+"Class" : "com.sun.xml.bind.v2.model.impl.RuntimeElementInfoImpl$RuntimePropertyImpl", 
+"Methods" : [{ "Name" : "getAccessor" ,
+"Duas" : "8" ,
+"Subsumers" : 2,
+"0" : [ 7, 3, 0], "S0" : [0, 3, 7 ],
+"1" : [ 6, 5, 4, 2, 1], "S1" : [1, 2, 4, 5, 6 ]
+}]
+}

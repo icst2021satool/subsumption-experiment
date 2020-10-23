@@ -1,0 +1,20 @@
+{
+"Class" : "org.jfree.data.statistics.junit.HistogramBinTests", 
+"Methods" : [{ "Name" : "suite" ,
+"Duas" : 4,
+"0" :  "(67,(67,67), class$org$jfree$data$statistics$junit$HistogramBinTests)",
+"1" :  "(67,(67,67), class$org$jfree$data$statistics$junit$HistogramBinTests)",
+"2" :  "(67,67, class$org$jfree$data$statistics$junit$HistogramBinTests)",
+"3" :  "(67,67, class$org$jfree$data$statistics$junit$HistogramBinTests)"},{ "Name" : "testCloning" ,
+"Duas" : 10,
+"0" :  "(100,(108,108), b1)",
+"1" :  "(100,(108,108), b1)",
+"2" :  "(100,(109,109), b1)",
+"3" :  "(100,(109,109), b1)",
+"4" :  "(100,110, b1)",
+"5" :  "(103,(108,108), b2)",
+"6" :  "(103,(108,108), b2)",
+"7" :  "(103,(109,109), b2)",
+"8" :  "(103,(109,109), b2)",
+"9" :  "(103,110, b2)"}]
+}

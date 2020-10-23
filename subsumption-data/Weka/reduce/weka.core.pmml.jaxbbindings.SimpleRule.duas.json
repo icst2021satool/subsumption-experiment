@@ -1,0 +1,22 @@
+{
+"Class" : "weka.core.pmml.jaxbbindings.SimpleRule", 
+"Methods" : [{ "Name" : "getExtension" ,
+"Duas" : 8,
+"0" :  "(113,(113,114), this)",
+"1" :  "(113,(113,116), this)",
+"2" :  "(113,116, this)",
+"3" :  "(113,114, this)",
+"4" :  "(113,(113,114), this.extension)",
+"5" :  "(113,(113,116), this.extension)",
+"6" :  "(113,116, this.extension)",
+"7" :  "(114,116, this.extension)"},{ "Name" : "getScoreDistribution" ,
+"Duas" : 8,
+"0" :  "(262,(262,263), this)",
+"1" :  "(262,(262,265), this)",
+"2" :  "(262,265, this)",
+"3" :  "(262,263, this)",
+"4" :  "(262,(262,263), this.scoreDistribution)",
+"5" :  "(262,(262,265), this.scoreDistribution)",
+"6" :  "(262,265, this.scoreDistribution)",
+"7" :  "(263,265, this.scoreDistribution)"}]
+}

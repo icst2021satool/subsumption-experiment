@@ -1,0 +1,20 @@
+{
+"Class" : "com.fasterxml.jackson.databind.deser.impl.SetterlessProperty", 
+"Methods" : [{ "Name" : "deserializeAndSet" ,
+"Duas" : 15,
+"0" :  "(92,103, this)",
+"1" :  "(92,116, this)",
+"2" :  "(92,114, this)",
+"3" :  "(92,116, jp)",
+"4" :  "(92,116, ctxt)",
+"5" :  "(92,103, instance)",
+"6" :  "(92,(93,97), VALUE_NULL)",
+"7" :  "(92,(93,103), VALUE_NULL)",
+"8" :  "(92,103, this._getter)",
+"9" :  "(92,116, this._valueDeserializer)",
+"10" :  "(92,(93,97), t)",
+"11" :  "(92,(93,103), t)",
+"12" :  "(103,(113,114), toModify)",
+"13" :  "(103,(113,116), toModify)",
+"14" :  "(103,116, toModify)"}]
+}

@@ -1,0 +1,11 @@
+{
+"Class" : "weka.gui.beans.ImageSaverCustomizer$2", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Duas" : 6,
+"0" :  "(148,(149,150), this)",
+"1" :  "(148,(149,152), this)",
+"2" :  "(148,150, this)",
+"3" :  "(148,(149,150), this.this$0)",
+"4" :  "(148,(149,152), this.this$0)",
+"5" :  "(148,150, this.this$0)"}]
+}

@@ -1,0 +1,8 @@
+{
+"Class" : "weka.knowledgeflow.BaseExecutionEnvironment$5", 
+"Methods" : [{ "Name" : "run" ,
+"Duas" : "2" ,
+"Subsumers" : 1,
+"0" : [ 1, 0], "S0" : [0, 1 ]
+}]
+}

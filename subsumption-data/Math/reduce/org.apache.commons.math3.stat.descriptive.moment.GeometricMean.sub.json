@@ -1,0 +1,14 @@
+{
+"Class" : "org.apache.commons.math3.stat.descriptive.moment.GeometricMean", 
+"Methods" : [{ "Name" : "getResult" ,
+"Duas" : "6" ,
+"Subsumers" : 2,
+"0" : [ 5, 3, 2, 0], "S0" : [0, 2, 3, 5 ],
+"1" : [ 4, 1], "S1" : [1, 4 ]
+},{ "Name" : "checkEmpty" ,
+"Duas" : "4" ,
+"Subsumers" : 2,
+"0" : [ 3, 2, 0], "S0" : [0, 2, 3 ],
+"1" : [ 1], "S1" : [1 ]
+}]
+}

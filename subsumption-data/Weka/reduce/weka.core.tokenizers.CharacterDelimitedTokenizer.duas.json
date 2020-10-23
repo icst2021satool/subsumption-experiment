@@ -1,0 +1,10 @@
+{
+"Class" : "weka.core.tokenizers.CharacterDelimitedTokenizer", 
+"Methods" : [{ "Name" : "setOptions" ,
+"Duas" : 5,
+"0" :  "(85,89, this)",
+"1" :  "(85,87, this)",
+"2" :  "(85,(86,87), tmpStr)",
+"3" :  "(85,(86,89), tmpStr)",
+"4" :  "(85,87, tmpStr)"}]
+}

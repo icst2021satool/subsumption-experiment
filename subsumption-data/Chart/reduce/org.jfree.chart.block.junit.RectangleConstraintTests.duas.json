@@ -1,0 +1,9 @@
+{
+"Class" : "org.jfree.chart.block.junit.RectangleConstraintTests", 
+"Methods" : [{ "Name" : "suite" ,
+"Duas" : 4,
+"0" :  "(66,(66,66), class$org$jfree$chart$block$junit$RectangleConstraintTests)",
+"1" :  "(66,(66,66), class$org$jfree$chart$block$junit$RectangleConstraintTests)",
+"2" :  "(66,66, class$org$jfree$chart$block$junit$RectangleConstraintTests)",
+"3" :  "(66,66, class$org$jfree$chart$block$junit$RectangleConstraintTests)"}]
+}

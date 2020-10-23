@@ -1,0 +1,23 @@
+{
+"Class" : "com.sun.xml.bind.v2.runtime.property.SingleMapNodeProperty$Stack", 
+"Methods" : [{ "Name" : "push" ,
+"Duas" : 7,
+"0" :  "(289,293, holder)",
+"1" :  "(289,291, holder)",
+"2" :  "(289,293, value)",
+"3" :  "(289,291, value)",
+"4" :  "(289,(290,291), parent)",
+"5" :  "(289,(290,293), parent)",
+"6" :  "(289,293, parent)"},{ "Name" : "pop" ,
+"Duas" : 10,
+"0" :  "(297,301, holder)",
+"1" :  "(297,299, holder)",
+"2" :  "(297,(298,299), current)",
+"3" :  "(297,(298,301), current)",
+"4" :  "(297,301, current)",
+"5" :  "(297,302, current)",
+"6" :  "(297,(298,299), current.parent)",
+"7" :  "(297,(298,301), current.parent)",
+"8" :  "(297,301, current.parent)",
+"9" :  "(297,302, current.value)"}]
+}

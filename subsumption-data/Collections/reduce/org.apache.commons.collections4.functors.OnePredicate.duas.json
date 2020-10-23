@@ -1,0 +1,22 @@
+{
+"Class" : "org.apache.commons.collections4.functors.OnePredicate", 
+"Methods" : [{ "Name" : "onePredicate" ,
+"Duas" : 6,
+"0" :  "(53,(54,55), predicates)",
+"1" :  "(53,(54,57), predicates)",
+"2" :  "(53,(57,58), predicates)",
+"3" :  "(53,(57,60), predicates)",
+"4" :  "(53,60, predicates)",
+"5" :  "(53,58, predicates)"},{ "Name" : "evaluate" ,
+"Duas" : 10,
+"0" :  "(95,(97,98), object)",
+"1" :  "(95,(97,96), object)",
+"2" :  "(95,104, match)",
+"3" :  "(95,(98,99), match)",
+"4" :  "(95,(98,101), match)",
+"5" :  "(96,(97,98), iPredicate)",
+"6" :  "(96,(97,96), iPredicate)",
+"7" :  "(101,104, match)",
+"8" :  "(101,(98,99), match)",
+"9" :  "(101,(98,101), match)"}]
+}

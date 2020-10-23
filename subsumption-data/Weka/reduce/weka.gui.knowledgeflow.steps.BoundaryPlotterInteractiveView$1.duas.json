@@ -1,0 +1,23 @@
+{
+"Class" : "weka.gui.knowledgeflow.steps.BoundaryPlotterInteractiveView$1", 
+"Methods" : [{ "Name" : "mouseClicked" ,
+"Duas" : 18,
+"0" :  "(90,92, this)",
+"1" :  "(90,94, this)",
+"2" :  "(90,96, this)",
+"3" :  "(90,97, this)",
+"4" :  "(90,92, this.this$0)",
+"5" :  "(90,94, this.this$0)",
+"6" :  "(90,96, this.this$0)",
+"7" :  "(90,97, this.this$0)",
+"8" :  "(90,92, this.m_history)",
+"9" :  "(90,94, this.m_history)",
+"10" :  "(90,96, this.m_plotter)",
+"11" :  "(90,97, this.m_plotter)",
+"12" :  "(90,(91,92), index)",
+"13" :  "(90,(91,100), index)",
+"14" :  "(90,92, index)",
+"15" :  "(94,(95,96), pic)",
+"16" :  "(94,(95,100), pic)",
+"17" :  "(94,96, pic)"}]
+}

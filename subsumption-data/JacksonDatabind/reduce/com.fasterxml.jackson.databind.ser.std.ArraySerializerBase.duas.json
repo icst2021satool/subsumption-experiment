@@ -1,0 +1,23 @@
+{
+"Class" : "com.fasterxml.jackson.databind.ser.std.ArraySerializerBase", 
+"Methods" : [{ "Name" : "serialize" ,
+"Duas" : 18,
+"0" :  "(51,57, this)",
+"1" :  "(51,(51,53), this)",
+"2" :  "(51,(51,56), this)",
+"3" :  "(51,53, this)",
+"4" :  "(51,57, value)",
+"5" :  "(51,(51,53), value)",
+"6" :  "(51,(51,56), value)",
+"7" :  "(51,53, value)",
+"8" :  "(51,56, jgen)",
+"9" :  "(51,57, jgen)",
+"10" :  "(51,58, jgen)",
+"11" :  "(51,53, jgen)",
+"12" :  "(51,(51,51), provider)",
+"13" :  "(51,(51,56), provider)",
+"14" :  "(51,57, provider)",
+"15" :  "(51,53, provider)",
+"16" :  "(51,(51,51), WRITE_SINGLE_ELEM_ARRAYS_UNWRAPPED)",
+"17" :  "(51,(51,56), WRITE_SINGLE_ELEM_ARRAYS_UNWRAPPED)"}]
+}

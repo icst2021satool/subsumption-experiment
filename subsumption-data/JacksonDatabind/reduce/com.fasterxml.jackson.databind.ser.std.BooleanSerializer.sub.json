@@ -1,0 +1,14 @@
+{
+"Class" : "com.fasterxml.jackson.databind.ser.std.BooleanSerializer", 
+"Methods" : [{ "Name" : "getSchema" ,
+"Duas" : "5" ,
+"Subsumers" : 2,
+"0" : [ 3, 0], "S0" : [0, 2, 3 ],
+"1" : [ 4, 1], "S1" : [1, 2, 4 ]
+},{ "Name" : "acceptJsonFormatVisitor" ,
+"Duas" : "4" ,
+"Subsumers" : 2,
+"0" : [ 3, 2, 0], "S0" : [0, 2, 3 ],
+"1" : [ 1], "S1" : [1 ]
+}]
+}

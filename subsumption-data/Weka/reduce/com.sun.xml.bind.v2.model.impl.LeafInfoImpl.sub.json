@@ -1,0 +1,10 @@
+{
+"Class" : "com.sun.xml.bind.v2.model.impl.LeafInfoImpl", 
+"Methods" : [{ "Name" : "<init>" ,
+"Duas" : "8" ,
+"Subsumers" : 3,
+"0" : [ 4], "S0" : [0, 1, 2, 4, 5, 6 ],
+"1" : [ 7], "S1" : [0, 1, 2, 5, 7 ],
+"2" : [ 3], "S2" : [3, 6 ]
+}]
+}

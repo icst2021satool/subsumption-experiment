@@ -1,0 +1,22 @@
+{
+"Class" : "weka.core.pmml.jaxbbindings.NumericInfo", 
+"Methods" : [{ "Name" : "getExtension" ,
+"Duas" : 8,
+"0" :  "(97,(97,98), this)",
+"1" :  "(97,(97,100), this)",
+"2" :  "(97,100, this)",
+"3" :  "(97,98, this)",
+"4" :  "(97,(97,98), this.extension)",
+"5" :  "(97,(97,100), this.extension)",
+"6" :  "(97,100, this.extension)",
+"7" :  "(98,100, this.extension)"},{ "Name" : "getQuantile" ,
+"Duas" : 8,
+"0" :  "(126,(126,127), this)",
+"1" :  "(126,(126,129), this)",
+"2" :  "(126,129, this)",
+"3" :  "(126,127, this)",
+"4" :  "(126,(126,127), this.quantile)",
+"5" :  "(126,(126,129), this.quantile)",
+"6" :  "(126,129, this.quantile)",
+"7" :  "(127,129, this.quantile)"}]
+}

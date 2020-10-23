@@ -1,0 +1,26 @@
+{
+"Class" : "com.google.javascript.rhino.JSTypeExpression", 
+"Methods" : [{ "Name" : "makeOptionalArg" ,
+"Duas" : "9" ,
+"Subsumers" : 3,
+"0" : [ 3], "S0" : [0, 2, 3 ],
+"1" : [ 8, 7, 5, 6, 4], "S1" : [0, 4, 5, 6, 7, 8 ],
+"2" : [ 1], "S2" : [1, 2 ]
+},{ "Name" : "isOptionalArg" ,
+"Duas" : "4" ,
+"Subsumers" : 2,
+"0" : [ 2, 0], "S0" : [0, 2 ],
+"1" : [ 3, 1], "S1" : [1, 3 ]
+},{ "Name" : "isVarArgs" ,
+"Duas" : "4" ,
+"Subsumers" : 2,
+"0" : [ 2, 0], "S0" : [0, 2 ],
+"1" : [ 3, 1], "S1" : [1, 3 ]
+},{ "Name" : "equals" ,
+"Duas" : "8" ,
+"Subsumers" : 3,
+"0" : [ 6, 4, 0], "S0" : [0, 2, 4, 6 ],
+"1" : [ 7, 5, 1], "S1" : [1, 2, 5, 7 ],
+"2" : [ 3], "S2" : [3 ]
+}]
+}

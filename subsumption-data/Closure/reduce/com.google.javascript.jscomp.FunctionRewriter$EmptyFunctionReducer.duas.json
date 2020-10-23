@@ -1,0 +1,10 @@
+{
+"Class" : "com.google.javascript.jscomp.FunctionRewriter$EmptyFunctionReducer", 
+"Methods" : [{ "Name" : "reduce" ,
+"Duas" : 5,
+"0" :  "(249,250, this)",
+"1" :  "(249,(249,250), node)",
+"2" :  "(249,(249,252), node)",
+"3" :  "(249,252, node)",
+"4" :  "(249,250, node)"}]
+}

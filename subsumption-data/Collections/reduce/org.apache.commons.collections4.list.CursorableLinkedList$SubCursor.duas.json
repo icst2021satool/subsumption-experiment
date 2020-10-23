@@ -1,0 +1,14 @@
+{
+"Class" : "org.apache.commons.collections4.list.CursorableLinkedList$SubCursor", 
+"Methods" : [{ "Name" : "hasNext" ,
+"Duas" : 6,
+"0" :  "(592,(592,592), this)",
+"1" :  "(592,(592,592), this)",
+"2" :  "(592,(592,592), this.sub)",
+"3" :  "(592,(592,592), this.sub)",
+"4" :  "(592,(592,592), this.size)",
+"5" :  "(592,(592,592), this.size)"},{ "Name" : "hasPrevious" ,
+"Duas" : 2,
+"0" :  "(597,(597,597), this)",
+"1" :  "(597,(597,597), this)"}]
+}

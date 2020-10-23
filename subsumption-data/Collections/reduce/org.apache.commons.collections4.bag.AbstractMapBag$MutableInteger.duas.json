@@ -1,0 +1,13 @@
+{
+"Class" : "org.apache.commons.collections4.bag.AbstractMapBag$MutableInteger", 
+"Methods" : [{ "Name" : "equals" ,
+"Duas" : 8,
+"0" :  "(414,(417,417), this)",
+"1" :  "(414,(417,417), this)",
+"2" :  "(414,(414,415), obj)",
+"3" :  "(414,(414,417), obj)",
+"4" :  "(414,(417,417), obj)",
+"5" :  "(414,(417,417), obj)",
+"6" :  "(414,(417,417), this.value)",
+"7" :  "(414,(417,417), this.value)"}]
+}

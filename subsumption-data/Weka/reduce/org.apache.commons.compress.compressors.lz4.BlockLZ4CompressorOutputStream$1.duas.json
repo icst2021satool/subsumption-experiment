@@ -1,0 +1,21 @@
+{
+"Class" : "org.apache.commons.compress.compressors.lz4.BlockLZ4CompressorOutputStream$1", 
+"Methods" : [{ "Name" : "accept" ,
+"Duas" : 16,
+"0" :  "(119,127, this)",
+"1" :  "(119,124, this)",
+"2" :  "(119,121, this)",
+"3" :  "(119,(119,130), block)",
+"4" :  "(119,(119,121), block)",
+"5" :  "(119,(119,124), block)",
+"6" :  "(119,(119,127), block)",
+"7" :  "(119,124, block)",
+"8" :  "(119,121, block)",
+"9" :  "(119,(119,130), $SwitchMap$org$apache$commons$compress$compressors$lz77support$LZ77Compressor$Block$BlockType)",
+"10" :  "(119,(119,121), $SwitchMap$org$apache$commons$compress$compressors$lz77support$LZ77Compressor$Block$BlockType)",
+"11" :  "(119,(119,124), $SwitchMap$org$apache$commons$compress$compressors$lz77support$LZ77Compressor$Block$BlockType)",
+"12" :  "(119,(119,127), $SwitchMap$org$apache$commons$compress$compressors$lz77support$LZ77Compressor$Block$BlockType)",
+"13" :  "(119,127, this.this$0)",
+"14" :  "(119,124, this.this$0)",
+"15" :  "(119,121, this.this$0)"}]
+}

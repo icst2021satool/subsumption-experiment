@@ -1,0 +1,10 @@
+{
+"Class" : "weka.gui.explorer.AttributeSelectionPanel$2", 
+"Methods" : [{ "Name" : "mouseClicked" ,
+"Duas" : 5,
+"0" :  "(224,225, this)",
+"1" :  "(224,(224,225), e)",
+"2" :  "(224,(224,227), e)",
+"3" :  "(224,225, this.this$0)",
+"4" :  "(224,225, this.m_OutText)"}]
+}

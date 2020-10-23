@@ -1,0 +1,13 @@
+{
+"Class" : "org.jsoup.nodes.Evaluator$AttributeWithValueNot", 
+"Methods" : [{ "Name" : "matches" ,
+"Duas" : 8,
+"0" :  "(80,(80,80), this)",
+"1" :  "(80,(80,80), this)",
+"2" :  "(80,(80,80), element)",
+"3" :  "(80,(80,80), element)",
+"4" :  "(80,(80,80), this.value)",
+"5" :  "(80,(80,80), this.value)",
+"6" :  "(80,(80,80), this.key)",
+"7" :  "(80,(80,80), this.key)"}]
+}

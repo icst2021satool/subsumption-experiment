@@ -1,0 +1,17 @@
+{
+"Class" : "com.sun.xml.bind.v2.runtime.output.XmlOutputAbstractImpl", 
+"Methods" : [{ "Name" : "attribute" ,
+"Duas" : 12,
+"0" :  "(78,82, this)",
+"1" :  "(78,80, this)",
+"2" :  "(78,82, name)",
+"3" :  "(78,80, name)",
+"4" :  "(78,82, value)",
+"5" :  "(78,80, value)",
+"6" :  "(78,82, name.localName)",
+"7" :  "(78,80, name.localName)",
+"8" :  "(78,82, this.nsUriIndex2prefixIndex)",
+"9" :  "(78,(79,80), idx)",
+"10" :  "(78,(79,82), idx)",
+"11" :  "(78,82, idx)"}]
+}

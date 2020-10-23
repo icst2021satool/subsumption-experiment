@@ -1,0 +1,16 @@
+{
+"Class" : "com.google.javascript.jscomp.WarningLevel", 
+"Methods" : [{ "Name" : "setOptionsForWarningLevel" ,
+"Duas" : 11,
+"0" :  "(34,(34,45), this)",
+"1" :  "(34,(34,36), this)",
+"2" :  "(34,(34,39), this)",
+"3" :  "(34,(34,42), this)",
+"4" :  "(34,42, options)",
+"5" :  "(34,39, options)",
+"6" :  "(34,36, options)",
+"7" :  "(34,(34,45), $SwitchMap$com$google$javascript$jscomp$WarningLevel)",
+"8" :  "(34,(34,36), $SwitchMap$com$google$javascript$jscomp$WarningLevel)",
+"9" :  "(34,(34,39), $SwitchMap$com$google$javascript$jscomp$WarningLevel)",
+"10" :  "(34,(34,42), $SwitchMap$com$google$javascript$jscomp$WarningLevel)"}]
+}

@@ -1,0 +1,15 @@
+{
+"Class" : "weka.gui.AttributeSelectionPanel$4", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Duas" : 10,
+"0" :  "(369,374, this)",
+"1" :  "(369,375, this)",
+"2" :  "(369,374, this.this$0)",
+"3" :  "(369,375, this.this$0)",
+"4" :  "(369,375, this.m_Model)",
+"5" :  "(369,(371,373), pattern)",
+"6" :  "(369,(371,382), pattern)",
+"7" :  "(369,373, pattern)",
+"8" :  "(369,374, pattern)",
+"9" :  "(369,375, pattern)"}]
+}

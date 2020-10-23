@@ -1,0 +1,13 @@
+{
+"Class" : "weka.core.pmml.jaxbbindings.ROCGraph", 
+"Methods" : [{ "Name" : "getExtension" ,
+"Duas" : 8,
+"0" :  "(86,(86,87), this)",
+"1" :  "(86,(86,89), this)",
+"2" :  "(86,89, this)",
+"3" :  "(86,87, this)",
+"4" :  "(86,(86,87), this.extension)",
+"5" :  "(86,(86,89), this.extension)",
+"6" :  "(86,89, this.extension)",
+"7" :  "(87,89, this.extension)"}]
+}

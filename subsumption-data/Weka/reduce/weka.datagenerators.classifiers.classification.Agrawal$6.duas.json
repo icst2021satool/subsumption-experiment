@@ -1,0 +1,21 @@
+{
+"Class" : "weka.datagenerators.classifiers.classification.Agrawal$6", 
+"Methods" : [{ "Name" : "determineClass" ,
+"Duas" : 16,
+"0" :  "(315,(316,317), age)",
+"1" :  "(315,(316,322), age)",
+"2" :  "(315,(322,323), age)",
+"3" :  "(315,(322,329), age)",
+"4" :  "(315,(329,329), totalSalary)",
+"5" :  "(315,(329,332), totalSalary)",
+"6" :  "(315,(329,330), totalSalary)",
+"7" :  "(315,(329,332), totalSalary)",
+"8" :  "(315,(323,323), totalSalary)",
+"9" :  "(315,(323,326), totalSalary)",
+"10" :  "(315,(323,324), totalSalary)",
+"11" :  "(315,(323,326), totalSalary)",
+"12" :  "(315,(317,317), totalSalary)",
+"13" :  "(315,(317,320), totalSalary)",
+"14" :  "(315,(317,318), totalSalary)",
+"15" :  "(315,(317,320), totalSalary)"}]
+}

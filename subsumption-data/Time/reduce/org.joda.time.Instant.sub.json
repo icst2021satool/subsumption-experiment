@@ -1,0 +1,21 @@
+{
+"Class" : "org.joda.time.Instant", 
+"Methods" : [{ "Name" : "withMillis" ,
+"Duas" : "8" ,
+"Subsumers" : 2,
+"0" : [ 6, 3, 0], "S0" : [0, 2, 3, 6 ],
+"1" : [ 7, 5, 4, 1], "S1" : [1, 2, 4, 5, 7 ]
+},{ "Name" : "withDurationAdded" ,
+"Duas" : "9" ,
+"Subsumers" : 3,
+"0" : [ 4], "S0" : [0, 4 ],
+"1" : [ 6], "S1" : [0, 3, 6 ],
+"2" : [ 8, 7, 5, 1, 2], "S2" : [1, 2, 3, 5, 7, 8 ]
+},{ "Name" : "withDurationAdded" ,
+"Duas" : "8" ,
+"Subsumers" : 3,
+"0" : [ 3], "S0" : [0, 3 ],
+"1" : [ 5], "S1" : [0, 2, 5 ],
+"2" : [ 7, 6, 4, 1], "S2" : [1, 2, 4, 6, 7 ]
+}]
+}

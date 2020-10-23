@@ -1,0 +1,22 @@
+{
+"Class" : "weka.core.pmml.jaxbbindings.CompoundRule", 
+"Methods" : [{ "Name" : "getExtension" ,
+"Duas" : 8,
+"0" :  "(98,(98,99), this)",
+"1" :  "(98,(98,101), this)",
+"2" :  "(98,101, this)",
+"3" :  "(98,99, this)",
+"4" :  "(98,(98,99), this.extension)",
+"5" :  "(98,(98,101), this.extension)",
+"6" :  "(98,101, this.extension)",
+"7" :  "(99,101, this.extension)"},{ "Name" : "getRule" ,
+"Duas" : 8,
+"0" :  "(248,(248,249), this)",
+"1" :  "(248,(248,251), this)",
+"2" :  "(248,251, this)",
+"3" :  "(248,249, this)",
+"4" :  "(248,(248,249), this.rule)",
+"5" :  "(248,(248,251), this.rule)",
+"6" :  "(248,251, this.rule)",
+"7" :  "(249,251, this.rule)"}]
+}

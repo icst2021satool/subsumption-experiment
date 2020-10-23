@@ -1,0 +1,20 @@
+{
+"Class" : "weka.core.pmml.jaxbbindings.TrainingInstances", 
+"Methods" : [{ "Name" : "getExtension" ,
+"Duas" : 8,
+"0" :  "(99,(99,100), this)",
+"1" :  "(99,(99,102), this)",
+"2" :  "(99,102, this)",
+"3" :  "(99,100, this)",
+"4" :  "(99,(99,100), this.extension)",
+"5" :  "(99,(99,102), this.extension)",
+"6" :  "(99,102, this.extension)",
+"7" :  "(100,102, this.extension)"},{ "Name" : "isIsTransformed" ,
+"Duas" : 6,
+"0" :  "(210,(210,211), this)",
+"1" :  "(210,(210,213), this)",
+"2" :  "(210,213, this)",
+"3" :  "(210,(210,211), this.isTransformed)",
+"4" :  "(210,(210,213), this.isTransformed)",
+"5" :  "(210,213, this.isTransformed)"}]
+}

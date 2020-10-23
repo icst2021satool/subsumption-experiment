@@ -1,0 +1,20 @@
+{
+"Class" : "weka.core.pmml.jaxbbindings.UnivariateStats", 
+"Methods" : [{ "Name" : "getExtension" ,
+"Duas" : 8,
+"0" :  "(108,(108,109), this)",
+"1" :  "(108,(108,111), this)",
+"2" :  "(108,111, this)",
+"3" :  "(108,109, this)",
+"4" :  "(108,(108,109), this.extension)",
+"5" :  "(108,(108,111), this.extension)",
+"6" :  "(108,111, this.extension)",
+"7" :  "(109,111, this.extension)"},{ "Name" : "getWeighted" ,
+"Duas" : 6,
+"0" :  "(267,(267,268), this)",
+"1" :  "(267,(267,270), this)",
+"2" :  "(267,270, this)",
+"3" :  "(267,(267,268), this.weighted)",
+"4" :  "(267,(267,270), this.weighted)",
+"5" :  "(267,270, this.weighted)"}]
+}

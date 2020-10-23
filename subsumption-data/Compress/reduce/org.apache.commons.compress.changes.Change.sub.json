@@ -1,0 +1,15 @@
+{
+"Class" : "org.apache.commons.compress.changes.Change", 
+"Methods" : [{ "Name" : "<init>" ,
+"Duas" : "7" ,
+"Subsumers" : 2,
+"0" : [ 6, 5, 0, 1, 2, 3], "S0" : [0, 1, 2, 3, 5, 6 ],
+"1" : [ 4], "S1" : [4 ]
+},{ "Name" : "<init>" ,
+"Duas" : "10" ,
+"Subsumers" : 3,
+"0" : [ 9, 8, 6, 0, 1, 2, 3], "S0" : [0, 1, 2, 3, 4, 6, 8, 9 ],
+"1" : [ 7], "S1" : [4, 7 ],
+"2" : [ 5], "S2" : [5 ]
+}]
+}

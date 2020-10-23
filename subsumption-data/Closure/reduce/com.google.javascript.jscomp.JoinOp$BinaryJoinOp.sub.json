@@ -1,0 +1,17 @@
+{
+"Class" : "com.google.javascript.jscomp.JoinOp$BinaryJoinOp", 
+"Methods" : [{ "Name" : "apply" ,
+"Duas" : "14" ,
+"Subsumers" : 5,
+"0" : [ 12, 13, 11, 5, 0], "S0" : [0, 4, 5, 9, 11, 12, 13 ],
+"1" : [ 10, 6, 1], "S1" : [1, 4, 6, 9, 10 ],
+"2" : [ 2], "S2" : [2, 4 ],
+"3" : [ 3], "S3" : [3, 4 ],
+"4" : [ 8, 7], "S4" : [4, 7, 8 ]
+},{ "Name" : "computeMidPoint" ,
+"Duas" : "5" ,
+"Subsumers" : 2,
+"0" : [ 4, 3, 0], "S0" : [0, 3, 4 ],
+"1" : [ 2, 1], "S1" : [1, 2 ]
+}]
+}

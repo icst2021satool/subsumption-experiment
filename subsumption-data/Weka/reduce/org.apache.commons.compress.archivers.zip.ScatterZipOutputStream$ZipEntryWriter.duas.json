@@ -1,0 +1,16 @@
+{
+"Class" : "org.apache.commons.compress.archivers.zip.ScatterZipOutputStream$ZipEntryWriter", 
+"Methods" : [{ "Name" : "close" ,
+"Duas" : 6,
+"0" :  "(137,(137,138), this)",
+"1" :  "(137,(137,140), this)",
+"2" :  "(137,138, this)",
+"3" :  "(137,(137,138), this.itemsIteratorData)",
+"4" :  "(137,(137,140), this.itemsIteratorData)",
+"5" :  "(137,138, this.itemsIteratorData)"},{ "Name" : "writeNextZipEntry" ,
+"Duas" : 4,
+"0" :  "(144,(146,146), rawStream)",
+"1" :  "(144,(146,147), rawStream)",
+"2" :  "(144,146, rawStream)",
+"3" :  "(144,146, rawStream)"}]
+}

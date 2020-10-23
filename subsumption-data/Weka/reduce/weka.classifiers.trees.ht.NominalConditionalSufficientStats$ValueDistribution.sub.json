@@ -1,0 +1,19 @@
+{
+"Class" : "weka.classifiers.trees.ht.NominalConditionalSufficientStats$ValueDistribution", 
+"Methods" : [{ "Name" : "add" ,
+"Duas" : "16" ,
+"Subsumers" : 2,
+"0" : [ 15, 14, 13, 9, 8, 6, 3, 1, 2], "S0" : [0, 1, 2, 3, 4, 5, 6, 8, 9, 13, 14, 15 ],
+"1" : [ 12, 11, 10, 7], "S1" : [0, 4, 5, 7, 10, 11, 12 ]
+},{ "Name" : "delete" ,
+"Duas" : "8" ,
+"Subsumers" : 2,
+"0" : [ 7, 6, 4, 3, 1, 2, 0], "S0" : [0, 1, 2, 3, 4, 6, 7 ],
+"1" : [ 5], "S1" : [5 ]
+},{ "Name" : "getWeight" ,
+"Duas" : "4" ,
+"Subsumers" : 2,
+"0" : [ 3, 2, 0], "S0" : [0, 2, 3 ],
+"1" : [ 1], "S1" : [1 ]
+}]
+}

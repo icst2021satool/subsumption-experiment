@@ -1,0 +1,10 @@
+{
+"Class" : "weka.gui.explorer.ClassifierPanel$2", 
+"Methods" : [{ "Name" : "mouseClicked" ,
+"Duas" : 5,
+"0" :  "(367,368, this)",
+"1" :  "(367,(367,368), e)",
+"2" :  "(367,(367,370), e)",
+"3" :  "(367,368, this.this$0)",
+"4" :  "(367,368, this.m_OutText)"}]
+}

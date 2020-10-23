@@ -1,0 +1,16 @@
+{
+"Class" : "weka.gui.knowledgeflow.steps.JoinStepEditorDialog$1", 
+"Methods" : [{ "Name" : "valueChanged" ,
+"Duas" : 11,
+"0" :  "(237,(238,239), this)",
+"1" :  "(237,(238,242), this)",
+"2" :  "(237,239, this)",
+"3" :  "(237,(237,238), e)",
+"4" :  "(237,(237,242), e)",
+"5" :  "(237,(238,239), this.this$0)",
+"6" :  "(237,(238,242), this.this$0)",
+"7" :  "(237,239, this.this$0)",
+"8" :  "(237,(238,239), this.m_deleteOneBut)",
+"9" :  "(237,(238,242), this.m_deleteOneBut)",
+"10" :  "(237,239, this.m_deleteOneBut)"}]
+}

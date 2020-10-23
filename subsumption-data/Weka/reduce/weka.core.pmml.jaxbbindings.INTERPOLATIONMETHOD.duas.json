@@ -1,0 +1,13 @@
+{
+"Class" : "weka.core.pmml.jaxbbindings.INTERPOLATIONMETHOD", 
+"Methods" : [{ "Name" : "fromValue" ,
+"Duas" : 8,
+"0" :  "(54,59, v)",
+"1" :  "(54,(55,56), v)",
+"2" :  "(54,(55,54), v)",
+"3" :  "(54,(55,56), c)",
+"4" :  "(54,(55,54), c)",
+"5" :  "(54,56, c)",
+"6" :  "(54,(55,56), c.value)",
+"7" :  "(54,(55,54), c.value)"}]
+}

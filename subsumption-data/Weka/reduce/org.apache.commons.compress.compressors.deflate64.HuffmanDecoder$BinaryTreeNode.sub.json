@@ -1,0 +1,16 @@
+{
+"Class" : "org.apache.commons.compress.compressors.deflate64.HuffmanDecoder$BinaryTreeNode", 
+"Methods" : [{ "Name" : "left" ,
+"Duas" : "14" ,
+"Subsumers" : 3,
+"0" : [ 13, 12, 10, 5, 6, 3], "S0" : [0, 2, 3, 5, 6, 7, 10, 12, 13 ],
+"1" : [ 11, 4], "S1" : [0, 2, 4, 7, 9, 11 ],
+"2" : [ 8, 1], "S2" : [1, 2, 8, 9 ]
+},{ "Name" : "right" ,
+"Duas" : "14" ,
+"Subsumers" : 3,
+"0" : [ 13, 12, 10, 5, 6, 3], "S0" : [0, 2, 3, 5, 6, 7, 10, 12, 13 ],
+"1" : [ 11, 4], "S1" : [0, 2, 4, 7, 9, 11 ],
+"2" : [ 8, 1], "S2" : [1, 2, 8, 9 ]
+}]
+}

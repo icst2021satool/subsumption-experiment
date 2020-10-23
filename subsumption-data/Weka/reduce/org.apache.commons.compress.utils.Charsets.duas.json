@@ -1,0 +1,12 @@
+{
+"Class" : "org.apache.commons.compress.utils.Charsets", 
+"Methods" : [{ "Name" : "toCharset" ,
+"Duas" : 3,
+"0" :  "(73,(73,73), charset)",
+"1" :  "(73,(73,73), charset)",
+"2" :  "(73,73, charset)"},{ "Name" : "toCharset" ,
+"Duas" : 3,
+"0" :  "(88,(88,88), charset)",
+"1" :  "(88,(88,88), charset)",
+"2" :  "(88,88, charset)"}]
+}

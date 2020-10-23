@@ -1,0 +1,13 @@
+{
+"Class" : "weka.knowledgeflow.steps.BaseSimpleDataVisualizer", 
+"Methods" : [{ "Name" : "processIncoming" ,
+"Duas" : 3,
+"0" :  "(75,89, this)",
+"1" :  "(75,(88,89), notifyFinished)",
+"2" :  "(75,(88,91), notifyFinished)"},{ "Name" : "restoreData" ,
+"Duas" : 4,
+"0" :  "(134,138, this)",
+"1" :  "(134,(134,135), data)",
+"2" :  "(134,(134,138), data)",
+"3" :  "(134,138, data)"}]
+}

@@ -1,0 +1,10 @@
+{
+"Class" : "org.jfree.chart.util.ApplicationFrame", 
+"Methods" : [{ "Name" : "windowClosing" ,
+"Duas" : 5,
+"0" :  "(73,(73,74), this)",
+"1" :  "(73,(73,77), this)",
+"2" :  "(73,74, this)",
+"3" :  "(73,(73,74), event)",
+"4" :  "(73,(73,77), event)"}]
+}

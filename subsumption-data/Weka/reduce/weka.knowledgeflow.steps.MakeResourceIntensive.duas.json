@@ -1,0 +1,11 @@
+{
+"Class" : "weka.knowledgeflow.steps.MakeResourceIntensive", 
+"Methods" : [{ "Name" : "processIncoming" ,
+"Duas" : 6,
+"0" :  "(148,159, this)",
+"1" :  "(148,153, this)",
+"2" :  "(148,157, this)",
+"3" :  "(148,159, data)",
+"4" :  "(148,153, this.m_setAsResourceIntensive)",
+"5" :  "(148,157, this.m_setAsResourceIntensive)"}]
+}

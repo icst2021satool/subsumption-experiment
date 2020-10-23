@@ -1,0 +1,14 @@
+{
+"Class" : "com.fasterxml.jackson.databind.ser.impl.UnknownSerializer", 
+"Methods" : [{ "Name" : "serialize" ,
+"Duas" : "8" ,
+"Subsumers" : 2,
+"0" : [ 6, 4, 1, 0], "S0" : [0, 1, 2, 3, 4, 6 ],
+"1" : [ 7, 5], "S1" : [2, 3, 5, 7 ]
+},{ "Name" : "serializeWithType" ,
+"Duas" : "12" ,
+"Subsumers" : 2,
+"0" : [ 10, 6, 3, 0], "S0" : [0, 1, 2, 3, 4, 5, 6, 8, 9, 10 ],
+"1" : [ 11, 7], "S1" : [1, 2, 4, 5, 7, 8, 9, 11 ]
+}]
+}

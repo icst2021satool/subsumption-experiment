@@ -1,0 +1,8 @@
+{
+"Class" : "com.fasterxml.jackson.databind.deser.std.DateDeserializers$SqlDateDeserializer", 
+"Methods" : [{ "Name" : "deserialize" ,
+"Duas" : 3,
+"0" :  "(306,(307,307), d)",
+"1" :  "(306,(307,307), d)",
+"2" :  "(306,307, d)"}]
+}

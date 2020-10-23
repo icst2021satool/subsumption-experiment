@@ -1,0 +1,19 @@
+{
+"Class" : "weka.classifiers.pmml.consumer.TreeModel$CompoundPredicate$BooleanOperator$2", 
+"Methods" : [{ "Name" : "evaluate" ,
+"Duas" : 14,
+"0" :  "(536,538, input)",
+"1" :  "(536,(539,540), FALSE)",
+"2" :  "(536,(539,542), FALSE)",
+"3" :  "(536,(542,543), UNKNOWN)",
+"4" :  "(536,(542,545), UNKNOWN)",
+"5" :  "(536,546, currentStatus)",
+"6" :  "(538,(539,540), temp)",
+"7" :  "(538,(539,542), temp)",
+"8" :  "(538,(542,543), temp)",
+"9" :  "(538,(542,545), temp)",
+"10" :  "(538,543, temp)",
+"11" :  "(538,540, temp)",
+"12" :  "(540,546, currentStatus)",
+"13" :  "(543,546, currentStatus)"}]
+}

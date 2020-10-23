@@ -1,0 +1,15 @@
+{
+"Class" : "weka.gui.explorer.PreprocessPanel$25", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Duas" : 10,
+"0" :  "(1231,1237, this)",
+"1" :  "(1231,1240, this)",
+"2" :  "(1231,1248, this)",
+"3" :  "(1231,1240, this.val$dialog)",
+"4" :  "(1231,1248, this.val$dialog)",
+"5" :  "(1231,1237, this.val$textData)",
+"6" :  "(1231,1236, filechooser)",
+"7" :  "(1231,1240, filechooser)",
+"8" :  "(1232,(1233,1235), result)",
+"9" :  "(1232,(1233,1250), result)"}]
+}

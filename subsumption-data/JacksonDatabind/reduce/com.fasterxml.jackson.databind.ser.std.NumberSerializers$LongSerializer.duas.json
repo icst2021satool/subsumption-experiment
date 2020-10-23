@@ -1,0 +1,9 @@
+{
+"Class" : "com.fasterxml.jackson.databind.ser.std.NumberSerializers$LongSerializer", 
+"Methods" : [{ "Name" : "acceptJsonFormatVisitor" ,
+"Duas" : 4,
+"0" :  "(179,181, LONG)",
+"1" :  "(179,(180,181), v2)",
+"2" :  "(179,(180,183), v2)",
+"3" :  "(179,181, v2)"}]
+}

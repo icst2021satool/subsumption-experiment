@@ -1,0 +1,17 @@
+{
+"Class" : "org.apache.commons.collections4.map.Flat3Map$Values", 
+"Methods" : [{ "Name" : "iterator" ,
+"Duas" : 12,
+"0" :  "(1057,(1057,1058), this)",
+"1" :  "(1057,(1057,1060), this)",
+"2" :  "(1057,(1060,1061), this)",
+"3" :  "(1057,(1060,1063), this)",
+"4" :  "(1057,1063, this)",
+"5" :  "(1057,1058, this)",
+"6" :  "(1057,(1057,1058), this.parent)",
+"7" :  "(1057,(1057,1060), this.parent)",
+"8" :  "(1057,(1060,1061), this.parent)",
+"9" :  "(1057,(1060,1063), this.parent)",
+"10" :  "(1057,1063, this.parent)",
+"11" :  "(1057,1058, this.parent)"}]
+}

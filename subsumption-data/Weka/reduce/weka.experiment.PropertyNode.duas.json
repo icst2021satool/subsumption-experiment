@@ -1,0 +1,11 @@
+{
+"Class" : "weka.experiment.PropertyNode", 
+"Methods" : [{ "Name" : "toString" ,
+"Duas" : 6,
+"0" :  "(85,(85,86), this)",
+"1" :  "(85,(85,88), this)",
+"2" :  "(85,88, this)",
+"3" :  "(85,(85,86), this.property)",
+"4" :  "(85,(85,88), this.property)",
+"5" :  "(85,88, this.property)"}]
+}

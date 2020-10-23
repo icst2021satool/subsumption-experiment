@@ -1,0 +1,9 @@
+{
+"Class" : "weka.gui.EvaluationMetricSelectionDialog$1", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Duas" : "17" ,
+"Subsumers" : 2,
+"0" : [ 15, 16, 13], "S0" : [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 11, 12, 13, 14, 15, 16 ],
+"1" : [ 10], "S1" : [0, 2, 7, 10 ]
+}]
+}

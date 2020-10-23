@@ -1,0 +1,21 @@
+{
+"Class" : "com.google.javascript.jscomp.FunctionRewriter$ReductionGatherer", 
+"Methods" : [{ "Name" : "shouldTraverse" ,
+"Duas" : 16,
+"0" :  "(177,180, this)",
+"1" :  "(177,180, this)",
+"2" :  "(177,178, node)",
+"3" :  "(177,(179,180), node)",
+"4" :  "(177,(179,183), node)",
+"5" :  "(177,180, node)",
+"6" :  "(177,180, parent)",
+"7" :  "(177,180, this.this$0)",
+"8" :  "(177,180, this.reductions)",
+"9" :  "(177,(177,177), i$)",
+"10" :  "(177,(177,184), i$)",
+"11" :  "(177,177, i$)",
+"12" :  "(177,180, reducer)",
+"13" :  "(178,(179,180), replacement)",
+"14" :  "(178,(179,183), replacement)",
+"15" :  "(178,180, replacement)"}]
+}

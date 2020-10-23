@@ -1,0 +1,9 @@
+{
+"Class" : "weka.gui.boundaryvisualizer.BoundaryVisualizer$13", 
+"Methods" : [{ "Name" : "windowClosing" ,
+"Duas" : 4,
+"0" :  "(1235,(1238,1239), m_ExitIfNoWindowsOpen)",
+"1" :  "(1235,(1238,1241), m_ExitIfNoWindowsOpen)",
+"2" :  "(1235,(1238,1238), m_WindowCount)",
+"3" :  "(1235,(1238,1241), m_WindowCount)"}]
+}

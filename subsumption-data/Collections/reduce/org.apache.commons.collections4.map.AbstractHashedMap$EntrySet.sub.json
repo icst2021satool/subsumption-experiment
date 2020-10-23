@@ -1,0 +1,17 @@
+{
+"Class" : "org.apache.commons.collections4.map.AbstractHashedMap$EntrySet", 
+"Methods" : [{ "Name" : "contains" ,
+"Duas" : "11" ,
+"Subsumers" : 4,
+"0" : [ 9, 5], "S0" : [0, 1, 3, 4, 5, 7, 9 ],
+"1" : [ 10, 6], "S1" : [0, 1, 3, 4, 6, 7, 10 ],
+"2" : [ 8], "S2" : [0, 1, 3, 4, 8 ],
+"3" : [ 2], "S3" : [2 ]
+},{ "Name" : "remove" ,
+"Duas" : "9" ,
+"Subsumers" : 3,
+"0" : [ 5, 0], "S0" : [0, 4, 5 ],
+"1" : [ 8, 7, 6, 2, 1], "S1" : [1, 2, 4, 6, 7, 8 ],
+"2" : [ 3], "S2" : [3 ]
+}]
+}

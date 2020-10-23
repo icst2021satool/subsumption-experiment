@@ -1,0 +1,14 @@
+{
+"Class" : "weka.associations.FPGrowth$FPTreeRoot", 
+"Methods" : [{ "Name" : "isEmpty" ,
+"Duas" : 4,
+"0" :  "(761,(762,763), recursionLevel)",
+"1" :  "(761,(762,765), recursionLevel)",
+"2" :  "(761,(762,763), c)",
+"3" :  "(761,(762,765), c)"},{ "Name" : "toString" ,
+"Duas" : 4,
+"0" :  "(779,784, pad)",
+"1" :  "(779,784, recursionLevel)",
+"2" :  "(779,786, result)",
+"3" :  "(779,784, result)"}]
+}

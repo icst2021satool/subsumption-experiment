@@ -1,0 +1,13 @@
+{
+"Class" : "weka.clusterers.RandomizableDensityBasedClusterer", 
+"Methods" : [{ "Name" : "setOptions" ,
+"Duas" : 8,
+"0" :  "(80,84, this)",
+"1" :  "(80,87, this)",
+"2" :  "(80,82, this)",
+"3" :  "(80,87, options)",
+"4" :  "(80,84, this.m_SeedDefault)",
+"5" :  "(80,(81,82), tmpStr)",
+"6" :  "(80,(81,84), tmpStr)",
+"7" :  "(80,82, tmpStr)"}]
+}

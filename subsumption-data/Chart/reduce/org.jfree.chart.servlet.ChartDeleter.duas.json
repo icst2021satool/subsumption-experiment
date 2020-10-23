@@ -1,0 +1,11 @@
+{
+"Class" : "org.jfree.chart.servlet.ChartDeleter", 
+"Methods" : [{ "Name" : "valueUnbound" ,
+"Duas" : 6,
+"0" :  "(110,(111,112), iter)",
+"1" :  "(110,(111,120), iter)",
+"2" :  "(110,112, iter)",
+"3" :  "(113,(116,117), file)",
+"4" :  "(113,(116,119), file)",
+"5" :  "(113,117, file)"}]
+}

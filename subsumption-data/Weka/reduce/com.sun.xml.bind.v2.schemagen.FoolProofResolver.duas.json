@@ -1,0 +1,22 @@
+{
+"Class" : "com.sun.xml.bind.v2.schemagen.FoolProofResolver", 
+"Methods" : [{ "Name" : "<init>" ,
+"Duas" : 6,
+"0" :  "(33,35, this)",
+"1" :  "(33,35, resolver)",
+"2" :  "(33,(34,34), resolver)",
+"3" :  "(33,(34,35), resolver)",
+"4" :  "(33,(34,34), $assertionsDisabled)",
+"5" :  "(33,(34,35), $assertionsDisabled)"},{ "Name" : "createOutput" ,
+"Duas" : 10,
+"0" :  "(39,55, this)",
+"1" :  "(39,55, logger)",
+"2" :  "(39,43, logger)",
+"3" :  "(40,(41,42), r)",
+"4" :  "(40,(41,55), r)",
+"5" :  "(40,55, r)",
+"6" :  "(40,56, r)",
+"7" :  "(40,42, r)",
+"8" :  "(42,(44,44), sysId)",
+"9" :  "(42,(44,53), sysId)"}]
+}

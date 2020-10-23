@@ -1,0 +1,21 @@
+{
+"Class" : "org.apache.commons.math3.geometry.euclidean.threed.PolyhedronsSet$TranslationTransform", 
+"Methods" : [{ "Name" : "apply" ,
+"Duas" : 16,
+"0" :  "(424,(424,427), this)",
+"1" :  "(424,(424,439), this)",
+"2" :  "(424,439, this)",
+"3" :  "(424,429, this)",
+"4" :  "(424,433, this)",
+"5" :  "(424,434, this)",
+"6" :  "(424,439, sub)",
+"7" :  "(424,(424,427), original)",
+"8" :  "(424,(424,439), original)",
+"9" :  "(424,427, original)",
+"10" :  "(424,433, original)",
+"11" :  "(424,428, transformed)",
+"12" :  "(424,(424,427), this.cachedOriginal)",
+"13" :  "(424,(424,439), this.cachedOriginal)",
+"14" :  "(424,439, this.cachedTransform)",
+"15" :  "(434,439, this.cachedTransform)"}]
+}

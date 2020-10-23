@@ -1,0 +1,9 @@
+{
+"Class" : "weka.gui.ResultHistoryPanel$4", 
+"Methods" : [{ "Name" : "stateChanged" ,
+"Duas" : "11" ,
+"Subsumers" : 2,
+"0" : [ 9, 10, 7, 5, 6, 3, 2, 0], "S0" : [0, 2, 3, 5, 6, 7, 9, 10 ],
+"1" : [ 8, 4, 1], "S1" : [1, 4, 8 ]
+}]
+}

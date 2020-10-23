@@ -1,0 +1,8 @@
+{
+"Class" : "org.apache.commons.compress.archivers.examples.Expander$6", 
+"Methods" : [{ "Name" : "writeEntryDataTo" ,
+"Duas" : "12" ,
+"Subsumers" : 1,
+"0" : [ 11, 10, 8, 5, 3, 1], "S0" : [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11 ]
+}]
+}

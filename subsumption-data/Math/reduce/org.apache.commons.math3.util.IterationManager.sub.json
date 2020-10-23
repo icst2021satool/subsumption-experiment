@@ -1,0 +1,20 @@
+{
+"Class" : "org.apache.commons.math3.util.IterationManager", 
+"Methods" : [{ "Name" : "fireInitializationEvent" ,
+"Duas" : "4" ,
+"Subsumers" : 1,
+"0" : [ 3, 1, 0], "S0" : [0, 1, 2, 3 ]
+},{ "Name" : "fireIterationPerformedEvent" ,
+"Duas" : "4" ,
+"Subsumers" : 1,
+"0" : [ 3, 1, 0], "S0" : [0, 1, 2, 3 ]
+},{ "Name" : "fireIterationStartedEvent" ,
+"Duas" : "4" ,
+"Subsumers" : 1,
+"0" : [ 3, 1, 0], "S0" : [0, 1, 2, 3 ]
+},{ "Name" : "fireTerminationEvent" ,
+"Duas" : "4" ,
+"Subsumers" : 1,
+"0" : [ 3, 1, 0], "S0" : [0, 1, 2, 3 ]
+}]
+}

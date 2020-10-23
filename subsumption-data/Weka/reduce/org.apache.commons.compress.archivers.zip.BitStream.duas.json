@@ -1,0 +1,12 @@
+{
+"Class" : "org.apache.commons.compress.archivers.zip.BitStream", 
+"Methods" : [{ "Name" : "nextBits" ,
+"Duas" : 7,
+"0" :  "(55,58, this)",
+"1" :  "(55,(55,55), n)",
+"2" :  "(55,(55,56), n)",
+"3" :  "(55,56, n)",
+"4" :  "(55,(55,56), n)",
+"5" :  "(55,(55,58), n)",
+"6" :  "(55,58, n)"}]
+}

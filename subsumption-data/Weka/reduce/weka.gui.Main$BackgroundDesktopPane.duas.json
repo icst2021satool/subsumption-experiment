@@ -1,0 +1,22 @@
+{
+"Class" : "weka.gui.Main$BackgroundDesktopPane", 
+"Methods" : [{ "Name" : "paintComponent" ,
+"Duas" : 17,
+"0" :  "(165,(167,168), this)",
+"1" :  "(165,(167,177), this)",
+"2" :  "(165,169, this)",
+"3" :  "(165,171, this)",
+"4" :  "(165,172, this)",
+"5" :  "(165,173, this)",
+"6" :  "(165,174, this)",
+"7" :  "(165,175, this)",
+"8" :  "(165,168, g)",
+"9" :  "(165,169, g)",
+"10" :  "(165,175, g)",
+"11" :  "(165,(167,168), this.m_Background)",
+"12" :  "(165,(167,177), this.m_Background)",
+"13" :  "(165,171, this.m_Background)",
+"14" :  "(165,172, this.m_Background)",
+"15" :  "(165,175, this.m_Background)",
+"16" :  "(165,168, WHITE)"}]
+}

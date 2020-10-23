@@ -1,0 +1,23 @@
+{
+"Class" : "weka.gui.GUIChooserApp$11$1", 
+"Methods" : [{ "Name" : "run" ,
+"Duas" : 18,
+"0" :  "(787,789, this)",
+"1" :  "(787,792, this)",
+"2" :  "(787,807, this)",
+"3" :  "(787,810, this)",
+"4" :  "(787,(788,789), m_noPackageMetaDataAvailable)",
+"5" :  "(787,(788,812), m_noPackageMetaDataAvailable)",
+"6" :  "(787,789, this.this$1)",
+"7" :  "(787,807, this.this$1)",
+"8" :  "(787,810, this.this$1)",
+"9" :  "(787,789, this.val$offline)",
+"10" :  "(787,789, this.this$0)",
+"11" :  "(787,807, this.this$0)",
+"12" :  "(787,810, this.this$0)",
+"13" :  "(787,789, this.m_Self)",
+"14" :  "(787,807, this.m_Self)",
+"15" :  "(787,810, this.m_Frames)",
+"16" :  "(787,791, pm)",
+"17" :  "(787,809, pm)"}]
+}

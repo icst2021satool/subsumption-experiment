@@ -1,0 +1,17 @@
+{
+"Class" : "org.apache.commons.collections4.map.AbstractLinkedMap$LinkMapIterator", 
+"Methods" : [{ "Name" : "getKey" ,
+"Duas" : 3,
+"0" :  "(365,(366,367), current)",
+"1" :  "(365,(366,369), current)",
+"2" :  "(365,369, current)"},{ "Name" : "getValue" ,
+"Duas" : 3,
+"0" :  "(373,(374,375), current)",
+"1" :  "(373,(374,377), current)",
+"2" :  "(373,377, current)"},{ "Name" : "setValue" ,
+"Duas" : 4,
+"0" :  "(381,385, value)",
+"1" :  "(381,(382,383), current)",
+"2" :  "(381,(382,385), current)",
+"3" :  "(381,385, current)"}]
+}

@@ -1,0 +1,11 @@
+{
+"Class" : "weka.gui.GUIChooserApp$ChildFrameSDI$1", 
+"Methods" : [{ "Name" : "windowActivated" ,
+"Duas" : 6,
+"0" :  "(1524,(1524,1525), this)",
+"1" :  "(1524,(1524,1527), this)",
+"2" :  "(1524,1525, this)",
+"3" :  "(1524,(1524,1525), this.this$0)",
+"4" :  "(1524,(1524,1527), this.this$0)",
+"5" :  "(1524,1525, this.this$0)"}]
+}

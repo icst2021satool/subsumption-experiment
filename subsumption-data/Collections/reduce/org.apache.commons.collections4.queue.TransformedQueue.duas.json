@@ -1,0 +1,12 @@
+{
+"Class" : "org.apache.commons.collections4.queue.TransformedQueue", 
+"Methods" : [{ "Name" : "transformedQueue" ,
+"Duas" : 7,
+"0" :  "(76,(77,79), queue)",
+"1" :  "(76,(77,85), queue)",
+"2" :  "(76,79, queue)",
+"3" :  "(76,80, queue)",
+"4" :  "(76,82, transformer)",
+"5" :  "(76,85, decorated)",
+"6" :  "(76,82, decorated)"}]
+}

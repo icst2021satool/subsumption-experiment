@@ -1,0 +1,13 @@
+{
+"Class" : "org.mockito.internal.configuration.injection.MockInjection$OngoingMockInjection", 
+"Methods" : [{ "Name" : "apply" ,
+"Duas" : 8,
+"0" :  "(91,92, this)",
+"1" :  "(91,93, this)",
+"2" :  "(91,92, this.injectionStrategies)",
+"3" :  "(91,92, this.fieldOwner)",
+"4" :  "(91,93, this.fieldOwner)",
+"5" :  "(91,92, this.mocks)",
+"6" :  "(91,93, this.mocks)",
+"7" :  "(91,93, this.postInjectionStrategies)"}]
+}

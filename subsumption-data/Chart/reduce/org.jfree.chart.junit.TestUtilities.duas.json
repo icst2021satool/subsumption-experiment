@@ -1,0 +1,14 @@
+{
+"Class" : "org.jfree.chart.junit.TestUtilities", 
+"Methods" : [{ "Name" : "containsInstanceOf" ,
+"Duas" : 9,
+"0" :  "(61,(64,65), c)",
+"1" :  "(61,(64,67), c)",
+"2" :  "(61,(62,63), iterator)",
+"3" :  "(61,(62,68), iterator)",
+"4" :  "(61,63, iterator)",
+"5" :  "(63,(64,64), obj)",
+"6" :  "(63,(64,67), obj)",
+"7" :  "(63,(64,65), obj)",
+"8" :  "(63,(64,67), obj)"}]
+}

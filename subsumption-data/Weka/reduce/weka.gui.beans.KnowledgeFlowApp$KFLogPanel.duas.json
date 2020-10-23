@@ -1,0 +1,12 @@
+{
+"Class" : "weka.gui.beans.KnowledgeFlowApp$KFLogPanel", 
+"Methods" : [{ "Name" : "setMessageOnAll" ,
+"Duas" : 7,
+"0" :  "(3156,3162, this)",
+"1" :  "(3156,(3157,3157), mainKFLine)",
+"2" :  "(3156,(3157,3161), mainKFLine)",
+"3" :  "(3156,3161, message)",
+"4" :  "(3156,3161, key)",
+"5" :  "(3156,(3157,3158), key)",
+"6" :  "(3156,(3157,3161), key)"}]
+}

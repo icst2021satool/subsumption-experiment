@@ -1,0 +1,7 @@
+{
+"Class" : "org.mockito.internal.matchers.Null", 
+"Methods" : [{ "Name" : "matches" ,
+"Duas" : 2,
+"0" :  "(23,(23,23), actual)",
+"1" :  "(23,(23,23), actual)"}]
+}

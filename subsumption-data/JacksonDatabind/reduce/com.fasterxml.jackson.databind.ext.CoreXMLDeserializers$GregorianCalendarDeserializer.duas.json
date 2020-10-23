@@ -1,0 +1,15 @@
+{
+"Class" : "com.fasterxml.jackson.databind.ext.CoreXMLDeserializers$GregorianCalendarDeserializer", 
+"Methods" : [{ "Name" : "deserialize" ,
+"Duas" : 10,
+"0" :  "(90,96, ctxt)",
+"1" :  "(90,100, _dataTypeFactory)",
+"2" :  "(90,(91,92), d)",
+"3" :  "(90,(91,94), d)",
+"4" :  "(90,95, d)",
+"5" :  "(94,100, calendar)",
+"6" :  "(94,98, calendar)",
+"7" :  "(96,(97,98), tz)",
+"8" :  "(96,(97,100), tz)",
+"9" :  "(96,98, tz)"}]
+}

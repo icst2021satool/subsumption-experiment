@@ -1,0 +1,11 @@
+{
+"Class" : "weka.gui.beans.TextSaverCustomizer$2", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Duas" : 6,
+"0" :  "(160,(161,162), this)",
+"1" :  "(160,(161,164), this)",
+"2" :  "(160,162, this)",
+"3" :  "(160,(161,162), this.this$0)",
+"4" :  "(160,(161,164), this.this$0)",
+"5" :  "(160,162, this.this$0)"}]
+}

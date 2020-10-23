@@ -1,0 +1,14 @@
+{
+"Class" : "weka.gui.beans.TestSetEvent", 
+"Methods" : [{ "Name" : "<init>" ,
+"Duas" : 9,
+"0" :  "(74,(76,76), this)",
+"1" :  "(74,(76,79), this)",
+"2" :  "(74,(76,77), this)",
+"3" :  "(74,(76,79), this)",
+"4" :  "(74,77, this)",
+"5" :  "(75,(76,76), this.m_testSet)",
+"6" :  "(75,(76,79), this.m_testSet)",
+"7" :  "(75,(76,77), this.m_testSet)",
+"8" :  "(75,(76,79), this.m_testSet)"}]
+}

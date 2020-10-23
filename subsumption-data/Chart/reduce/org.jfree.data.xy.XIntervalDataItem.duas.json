@@ -1,0 +1,16 @@
+{
+"Class" : "org.jfree.data.xy.XIntervalDataItem", 
+"Methods" : [{ "Name" : "getYValue" ,
+"Duas" : 3,
+"0" :  "(79,(80,81), interval)",
+"1" :  "(79,(80,84), interval)",
+"2" :  "(79,81, interval)"},{ "Name" : "getXLowValue" ,
+"Duas" : 3,
+"0" :  "(94,(95,96), interval)",
+"1" :  "(94,(95,99), interval)",
+"2" :  "(94,96, interval)"},{ "Name" : "getXHighValue" ,
+"Duas" : 3,
+"0" :  "(109,(110,111), interval)",
+"1" :  "(109,(110,114), interval)",
+"2" :  "(109,111, interval)"}]
+}

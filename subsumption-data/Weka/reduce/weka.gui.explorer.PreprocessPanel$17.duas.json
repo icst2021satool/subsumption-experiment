@@ -1,0 +1,10 @@
+{
+"Class" : "weka.gui.explorer.PreprocessPanel$17", 
+"Methods" : [{ "Name" : "itemStateChanged" ,
+"Duas" : 5,
+"0" :  "(510,511, this)",
+"1" :  "(510,(510,511), ie)",
+"2" :  "(510,(510,513), ie)",
+"3" :  "(510,511, this.this$0)",
+"4" :  "(510,511, this.m_FilterEditor)"}]
+}

@@ -1,0 +1,11 @@
+{
+"Class" : "weka.gui.beans.IncrementalClassifierEvaluatorCustomizer$1", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Duas" : 6,
+"0" :  "(88,(90,91), this)",
+"1" :  "(88,(90,93), this)",
+"2" :  "(88,91, this)",
+"3" :  "(88,(90,91), this.this$0)",
+"4" :  "(88,(90,93), this.this$0)",
+"5" :  "(88,91, this.this$0)"}]
+}

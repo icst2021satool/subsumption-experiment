@@ -1,0 +1,15 @@
+{
+"Class" : "org.apache.commons.collections4.comparators.ComparableComparator", 
+"Methods" : [{ "Name" : "equals" ,
+"Duas" : 10,
+"0" :  "(124,(124,124), this)",
+"1" :  "(124,(124,125), this)",
+"2" :  "(124,(125,125), this)",
+"3" :  "(124,(125,125), this)",
+"4" :  "(124,(124,124), object)",
+"5" :  "(124,(124,125), object)",
+"6" :  "(124,(124,124), object)",
+"7" :  "(124,(124,125), object)",
+"8" :  "(124,(125,125), object)",
+"9" :  "(124,(125,125), object)"}]
+}

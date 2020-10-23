@@ -1,0 +1,11 @@
+{
+"Class" : "org.jsoup.nodes.Evaluator$IndexLessThan", 
+"Methods" : [{ "Name" : "matches" ,
+"Duas" : 6,
+"0" :  "(139,(139,139), this)",
+"1" :  "(139,(139,139), this)",
+"2" :  "(139,(139,139), element)",
+"3" :  "(139,(139,139), element)",
+"4" :  "(139,(139,139), this.index)",
+"5" :  "(139,(139,139), this.index)"}]
+}

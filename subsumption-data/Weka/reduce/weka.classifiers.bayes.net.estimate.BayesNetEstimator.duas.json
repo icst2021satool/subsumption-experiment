@@ -1,0 +1,11 @@
+{
+"Class" : "weka.classifiers.bayes.net.estimate.BayesNetEstimator", 
+"Methods" : [{ "Name" : "setOptions" ,
+"Duas" : 6,
+"0" :  "(151,156, this)",
+"1" :  "(151,154, this)",
+"2" :  "(151,159, options)",
+"3" :  "(151,(153,154), sAlpha)",
+"4" :  "(151,(153,156), sAlpha)",
+"5" :  "(151,154, sAlpha)"}]
+}

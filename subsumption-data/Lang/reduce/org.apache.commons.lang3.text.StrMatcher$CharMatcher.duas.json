@@ -1,0 +1,13 @@
+{
+"Class" : "org.apache.commons.lang3.text.StrMatcher$CharMatcher", 
+"Methods" : [{ "Name" : "isMatch" ,
+"Duas" : 8,
+"0" :  "(334,(334,334), this)",
+"1" :  "(334,(334,334), this)",
+"2" :  "(334,(334,334), buffer)",
+"3" :  "(334,(334,334), buffer)",
+"4" :  "(334,(334,334), pos)",
+"5" :  "(334,(334,334), pos)",
+"6" :  "(334,(334,334), this.ch)",
+"7" :  "(334,(334,334), this.ch)"}]
+}

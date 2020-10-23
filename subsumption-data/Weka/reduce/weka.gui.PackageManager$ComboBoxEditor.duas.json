@@ -1,0 +1,13 @@
+{
+"Class" : "weka.gui.PackageManager$ComboBoxEditor", 
+"Methods" : [{ "Name" : "getTableCellEditorComponent" ,
+"Duas" : 8,
+"0" :  "(1530,1540, value)",
+"1" :  "(1530,1542, err)",
+"2" :  "(1536,1539, versions)",
+"3" :  "(1537,(1538,1539), combo)",
+"4" :  "(1537,(1538,1542), combo)",
+"5" :  "(1537,1544, combo)",
+"6" :  "(1537,1539, combo)",
+"7" :  "(1537,1540, combo)"}]
+}

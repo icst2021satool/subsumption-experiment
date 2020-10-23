@@ -1,0 +1,9 @@
+{
+"Class" : "org.apache.commons.collections4.IterableUtils$1$1", 
+"Methods" : [{ "Name" : "nextIterator" ,
+"Duas" : "12" ,
+"Subsumers" : 2,
+"0" : [ 9, 6, 3, 0], "S0" : [0, 3, 6, 9 ],
+"1" : [ 11, 10, 8, 7, 5, 4, 2, 1], "S1" : [1, 2, 4, 5, 7, 8, 10, 11 ]
+}]
+}

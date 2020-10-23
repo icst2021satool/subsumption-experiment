@@ -1,0 +1,8 @@
+{
+"Class" : "weka.gui.experiment.AbstractSetupPanel", 
+"Methods" : [{ "Name" : "getPanels" ,
+"Duas" : 3,
+"0" :  "(124,138, result)",
+"1" :  "(124,140, result)",
+"2" :  "(124,130, result)"}]
+}

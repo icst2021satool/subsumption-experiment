@@ -1,0 +1,17 @@
+{
+"Class" : "weka.gui.knowledgeflow.BaseInteractiveViewer", 
+"Methods" : [{ "Name" : "<init>" ,
+"Duas" : 4,
+"0" :  "(78,(93,94), this)",
+"1" :  "(78,(93,114), this)",
+"2" :  "(78,95, this)",
+"3" :  "(78,112, this)"},{ "Name" : "close" ,
+"Duas" : 7,
+"0" :  "(217,(217,218), this)",
+"1" :  "(217,(217,220), this)",
+"2" :  "(217,220, this)",
+"3" :  "(217,218, this)",
+"4" :  "(217,(217,218), this.m_parent)",
+"5" :  "(217,(217,220), this.m_parent)",
+"6" :  "(217,218, this.m_parent)"}]
+}

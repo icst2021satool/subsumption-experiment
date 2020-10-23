@@ -1,0 +1,12 @@
+{
+"Class" : "org.apache.commons.compress.archivers.sevenz.Archive", 
+"Methods" : [{ "Name" : "lengthOf" ,
+"Duas" : 3,
+"0" :  "(49,(49,49), a)",
+"1" :  "(49,(49,49), a)",
+"2" :  "(49,49, a)"},{ "Name" : "lengthOf" ,
+"Duas" : 3,
+"0" :  "(53,(53,53), a)",
+"1" :  "(53,(53,53), a)",
+"2" :  "(53,53, a)"}]
+}

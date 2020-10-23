@@ -1,0 +1,11 @@
+{
+"Class" : "org.mockito.internal.verification.DefaultRegisteredInvocations", 
+"Methods" : [{ "Name" : "removeLast" ,
+"Duas" : 6,
+"0" :  "(31,(32,33), this)",
+"1" :  "(31,(32,35), this)",
+"2" :  "(31,33, this)",
+"3" :  "(31,(32,33), this.invocations)",
+"4" :  "(31,(32,35), this.invocations)",
+"5" :  "(31,33, this.invocations)"}]
+}

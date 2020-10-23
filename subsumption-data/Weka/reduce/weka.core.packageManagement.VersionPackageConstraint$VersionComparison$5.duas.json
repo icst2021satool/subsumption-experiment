@@ -1,0 +1,13 @@
+{
+"Class" : "weka.core.packageManagement.VersionPackageConstraint$VersionComparison$5", 
+"Methods" : [{ "Name" : "compatibleWith" ,
+"Duas" : 8,
+"0" :  "(78,(78,78), v)",
+"1" :  "(78,(78,80), v)",
+"2" :  "(78,(78,80), v)",
+"3" :  "(78,(78,82), v)",
+"4" :  "(78,(78,78), GREATERTHAN)",
+"5" :  "(78,(78,80), GREATERTHAN)",
+"6" :  "(78,(78,80), GREATERTHANOREQUAL)",
+"7" :  "(78,(78,82), GREATERTHANOREQUAL)"}]
+}

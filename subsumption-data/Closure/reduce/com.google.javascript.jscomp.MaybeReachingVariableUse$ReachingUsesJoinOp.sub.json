@@ -1,0 +1,8 @@
+{
+"Class" : "com.google.javascript.jscomp.MaybeReachingVariableUse$ReachingUsesJoinOp", 
+"Methods" : [{ "Name" : "apply" ,
+"Duas" : "6" ,
+"Subsumers" : 1,
+"0" : [ 5, 3, 2, 1], "S0" : [0, 1, 2, 3, 4, 5 ]
+}]
+}

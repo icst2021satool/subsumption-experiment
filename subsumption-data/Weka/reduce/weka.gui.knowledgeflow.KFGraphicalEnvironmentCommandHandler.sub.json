@@ -1,0 +1,13 @@
+{
+"Class" : "weka.gui.knowledgeflow.KFGraphicalEnvironmentCommandHandler", 
+"Methods" : [{ "Name" : "<init>" ,
+"Duas" : "2" ,
+"Subsumers" : 1,
+"0" : [ 1, 0], "S0" : [0, 1 ]
+},{ "Name" : "performCommand" ,
+"Duas" : "8" ,
+"Subsumers" : 2,
+"0" : [ 6, 7, 4, 3, 2, 0], "S0" : [0, 2, 3, 4, 6, 7 ],
+"1" : [ 5, 1], "S1" : [1, 5 ]
+}]
+}

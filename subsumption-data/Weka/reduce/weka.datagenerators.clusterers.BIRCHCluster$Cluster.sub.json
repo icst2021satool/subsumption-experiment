@@ -1,0 +1,14 @@
+{
+"Class" : "weka.datagenerators.clusterers.BIRCHCluster$Cluster", 
+"Methods" : [{ "Name" : "<init>" ,
+"Duas" : "11" ,
+"Subsumers" : 2,
+"0" : [ 9, 10, 7], "S0" : [0, 1, 2, 3, 5, 6, 7, 8, 9, 10 ],
+"1" : [ 4], "S1" : [4 ]
+},{ "Name" : "<init>" ,
+"Duas" : "12" ,
+"Subsumers" : 2,
+"0" : [ 10, 11, 8], "S0" : [0, 1, 2, 3, 4, 6, 7, 8, 9, 10, 11 ],
+"1" : [ 5], "S1" : [5 ]
+}]
+}

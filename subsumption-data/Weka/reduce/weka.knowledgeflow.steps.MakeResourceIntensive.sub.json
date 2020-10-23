@@ -1,0 +1,8 @@
+{
+"Class" : "weka.knowledgeflow.steps.MakeResourceIntensive", 
+"Methods" : [{ "Name" : "processIncoming" ,
+"Duas" : "6" ,
+"Subsumers" : 1,
+"0" : [ 4, 5, 1, 2], "S0" : [0, 1, 2, 3, 4, 5 ]
+}]
+}

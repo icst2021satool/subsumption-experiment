@@ -1,0 +1,15 @@
+{
+"Class" : "org.apache.commons.collections4.map.Flat3Map$EntrySet", 
+"Methods" : [{ "Name" : "remove" ,
+"Duas" : "7" ,
+"Subsumers" : 2,
+"0" : [ 5, 6, 4, 3, 0, 1], "S0" : [0, 1, 3, 4, 5, 6 ],
+"1" : [ 2], "S1" : [2 ]
+},{ "Name" : "iterator" ,
+"Duas" : "12" ,
+"Subsumers" : 3,
+"0" : [ 11, 6, 5, 0], "S0" : [0, 5, 6, 11 ],
+"1" : [ 8, 2], "S1" : [1, 2, 7, 8 ],
+"2" : [ 10, 9, 4, 3], "S2" : [1, 3, 4, 7, 9, 10 ]
+}]
+}
