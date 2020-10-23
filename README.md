@@ -12,6 +12,10 @@ This repository contains the data utilized to check the data flow subsumptions a
 +-- subsumption-data: data from the execution of satool.
 |
 +-- programs: source & object programs used in the checks.
+|
++-- satool: jar files with two versions of satool to collect effectiveness and time data
+|
++-- tools/javancss-32.53: javancss tool to collect metrics
 ```
 ##  ```scripts``` directory. 
 
@@ -190,23 +194,29 @@ All programs, excepting Collections and Weka, are the version 1b obtained from D
 
 ## ```jaguar-data``` directory. 
 
-We utilized a modified version of Jaguar (https://github.com/saeg/jaguar) to collect data flow coverage data for every Junit method of the test suites of the subject programs. Each of these methods are considered a separated test. There are one directory for each ``<program>`` where ``<program>`` can be
-closure-compiler,
-commons-cli,
-commons-codec,
-commons-collections,
-commons-compress,
-commons-csv,
-commons-jxpath,
-commons-math,
-gson,
-jackson-core,
-jackson-databind,
-jackson-dataformat-xml,
-jfreechart,
-joda-time,
-jsoup, and
-Weka.
+We utilized a modified version of Jaguar (https://github.com/saeg/jaguar) to collect data flow coverage data for every Junit method of the test suites of the subject programs. Each of these methods are considered a separated test. 
+
+The data in this directory are zipped tar files. They should be expanded before being used.
+
+After that, there are one directory for each ``<program>`` where ``<program>`` can be
+closure-compiler (Closure),
+commons-cli (Cli),
+commons-codec (Codec),
+commons-collections (Collections),
+commons-compress (Compress),
+commons-csv (Csv),
+commons-jxpath (JxPath),
+commons-math (Math),
+gson (Gson),
+jackson-core (JacksonCore),
+jackson-databind (JacksonDatabind),
+jackson-dataformat-xml (JacksonXml),
+jfreechart (Chart),
+joda-time (Time),
+jsoup (Jsoup), and
+Weka (Weka).
+
+Note that Lang and Mockito are not in this directory because we could not collect data for them using the modified jaguar.
 
 In all directories, excepting commons-collections and Weka, there are the following subdirectories:
 
@@ -235,6 +245,27 @@ Its contents are as described above.
 ## Experiment directory setup
 
 1. Clone the repository ``subsumption-experiment`` in the target computer.
+
+## Expand zipped tar files in the jaguar-data directory
+
+1. ``gunzip <program>.tar.gz`` where closure-compiler (Closure),
+commons-cli (Cli),
+commons-codec (Codec),
+commons-collections (Collections),
+commons-compress (Compress),
+commons-csv (Csv),
+commons-jxpath (JxPath),
+commons-math (Math),
+gson (Gson),
+jackson-core (JacksonCore),
+jackson-databind (JacksonDatabind),
+jackson-dataformat-xml (JacksonXml),
+jfreechart (Chart),
+joda-time (Time),
+jsoup (Jsoup), and
+Weka (Weka).
+
+2. ``tar xcf  <program>.tar``
 
 The scripts and programs should be run from the ``scripts`` directory.
 
