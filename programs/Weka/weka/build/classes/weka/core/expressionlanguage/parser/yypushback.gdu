@@ -1,0 +1,18 @@
+digraph yypushback {
+0 [label="0\n522-522"]
+3 [label="3"]
+2 [label="2\n523-523"]
+1 [label="1\n525-526"]
+{
+node [shape=plaintext, fontsize=14];
+setsNode_0 [label="def(0)={this,number,this.zzMarkedPos}"];
+setsNode_2 [label="use(2)={this}"];
+setsNode_1 [label="use(1)={this,number,this.zzMarkedPos}"];
+}
+{rank = same; 0 ;  setsNode_0}
+{rank = same; 2 ;  setsNode_2}
+{rank = same; 1 ;  setsNode_1}
+0 -> 2[label="use(0,2)={this,number}",fontsize=14];0 -> 1[label="use(0,1)={this,number}",fontsize=14];
+2 -> 1;
+1 -> 3;
+}

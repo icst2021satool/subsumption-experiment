@@ -1,0 +1,36 @@
+Number of Variables;3;
+Variables:;
+0;L@0;this;
+1;L@1;number;
+2;L@0.weka.core.expressionlanguage.parser.Scanner.zzMarkedPos;this.zzMarkedPos;
+
+Number of Block duas;8;
+Line Duas for method; yypushback;
+Number;Def Line; Origin Line; Use Line; Var Id; Var Name;
+1;522;522;523;0;this;
+2;522;522;525;0;this;
+3;522;;525;0;this;
+4;522;;523;0;this;
+5;522;522;523;1;number;
+6;522;522;525;1;number;
+7;522;;525;1;number;
+8;522;;525;2;this.zzMarkedPos;
+
+Block Duas for method; yypushback;
+Number;Def Block; Origin Block; Use Block; Var Id; Var Name;
+1;0;0;2;0;this;
+;522;522;523;0;this;
+2;0;0;1;0;this;
+;522;522;525;0;this;
+3;0;;1;0;this;
+;522;;525;0;this;
+4;0;;2;0;this;
+;522;;523;0;this;
+5;0;0;2;1;number;
+;522;522;523;1;number;
+6;0;0;1;1;number;
+;522;522;525;1;number;
+7;0;;1;1;number;
+;522;;525;1;number;
+8;0;;1;2;this.zzMarkedPos;
+;522;;525;2;this.zzMarkedPos;

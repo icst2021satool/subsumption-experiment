@@ -1,0 +1,46 @@
+digraph LUDecomposition {
+2 [label="2"]
+7 [label="7"]
+12 [label="12"]
+9 [label="9"]
+10 [label="10"]
+8 [label="8"]
+11 [label="11"]
+5 [label="5"]
+1 [label="1"]
+6 [label="6"]
+0 [label="0"]
+3 [label="3"]
+4 [label="4"]
+{
+node [shape=plaintext, fontsize=14];
+setsNode_9 [label="def(9)={j}\nuse(9)={j}"];
+setsNode_10 [label="use(10)={this,l,i,j}"];
+setsNode_8 [label="use(8)={this,u,i,j}"];
+setsNode_1 [label="def(1)={u,l,nr,nc,i}\nuse(1)={this,lu}"];
+setsNode_6 [label="def(6)={i}\nuse(6)={i}"];
+setsNode_0 [label="def(0)={this,lu}"];
+setsNode_3 [label="use(3)={lu}"];
+setsNode_4 [label="def(4)={j}"];
+}
+{rank = same; 9 ;  setsNode_9}
+{rank = same; 10 ;  setsNode_10}
+{rank = same; 8 ;  setsNode_8}
+{rank = same; 1 ;  setsNode_1}
+{rank = same; 6 ;  setsNode_6}
+{rank = same; 0 ;  setsNode_0}
+{rank = same; 3 ;  setsNode_3}
+{rank = same; 4 ;  setsNode_4}
+2 -> 4[label="use(2,4)={nr,i}",fontsize=14];2 -> 3[label="use(2,3)={nr,i}",fontsize=14];
+7 -> 10[label="use(7,10)={i,j}",fontsize=14];7 -> 8[label="use(7,8)={i,j}",fontsize=14];
+9 -> 5;
+10 -> 9;
+8 -> 9;
+11 -> 12;
+5 -> 7[label="use(5,7)={nc,j}",fontsize=14];5 -> 6[label="use(5,6)={nc,j}",fontsize=14];
+1 -> 2;
+6 -> 2;
+0 -> 11[label="use(0,11)={lu}",fontsize=14];0 -> 1[label="use(0,1)={lu}",fontsize=14];
+3 -> 12;
+4 -> 5;
+}

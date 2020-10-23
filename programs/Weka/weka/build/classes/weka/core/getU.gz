@@ -1,0 +1,30 @@
+digraph getU {
+3 [label="3"]
+6 [label="6"]
+7 [label="7"]
+5 [label="5"]
+4 [label="4"]
+2 [label="2"]
+0 [label="0"]
+1 [label="1"]
+{
+node [shape=plaintext, fontsize=14];
+setsNode_3 [label="def(3)={j}\nuse(3)={i}"];
+setsNode_6 [label="def(6)={j}\nuse(6)={this,ud,i,j}"];
+setsNode_5 [label="def(5)={i}\nuse(5)={i}"];
+setsNode_2 [label="use(2)={ud}"];
+setsNode_0 [label="def(0)={this,nr,nc,ud,i}"];
+}
+{rank = same; 3 ;  setsNode_3}
+{rank = same; 6 ;  setsNode_6}
+{rank = same; 5 ;  setsNode_5}
+{rank = same; 2 ;  setsNode_2}
+{rank = same; 0 ;  setsNode_0}
+3 -> 4;
+6 -> 4;
+5 -> 1;
+4 -> 6[label="use(4,6)={nc,j}",fontsize=14];4 -> 5[label="use(4,5)={nc,j}",fontsize=14];
+2 -> 7;
+0 -> 1;
+1 -> 3[label="use(1,3)={nr,i}",fontsize=14];1 -> 2[label="use(1,2)={nr,i}",fontsize=14];
+}

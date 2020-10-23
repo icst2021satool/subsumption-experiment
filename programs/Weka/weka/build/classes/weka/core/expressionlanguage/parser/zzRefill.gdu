@@ -1,0 +1,42 @@
+digraph zzRefill {
+0 [label="0\n345-345"]
+3 [label="3\n377-377"]
+7 [label="7\n383-383"]
+10 [label="10\n362-366"]
+11 [label="11\n346-356"]
+8 [label="8\n384-385"]
+12 [label="12"]
+4 [label="4\n393-393"]
+9 [label="9\n375-375"]
+1 [label="1\n360-360"]
+2 [label="2\n370-374"]
+6 [label="6\n389-389"]
+5 [label="5\n378-382"]
+{
+node [shape=plaintext, fontsize=14];
+setsNode_0 [label="def(0)={this,this.zzStartRead,this.zzEndRead,this.zzFinalHighSurrogate,this.zzBuffer,this.zzCurrentPos,this.zzMarkedPos,this.zzReader}"];
+setsNode_10 [label="def(10)={this.zzEndRead,this.zzBuffer}\nuse(10)={this,this.zzEndRead,this.zzFinalHighSurrogate,this.zzBuffer}"];
+setsNode_11 [label="def(11)={this.zzEndRead,this.zzFinalHighSurrogate,this.zzCurrentPos}\nuse(11)={this,this.zzStartRead,this.zzEndRead,this.zzFinalHighSurrogate,this.zzBuffer,this.zzCurrentPos,this.zzMarkedPos}"];
+setsNode_8 [label="use(8)={this,this.zzEndRead}"];
+setsNode_2 [label="def(2)={requested,numRead}\nuse(2)={this,this.zzEndRead,this.zzBuffer,this.zzReader}"];
+setsNode_5 [label="def(5)={this.zzEndRead}\nuse(5)={this,this.zzEndRead,numRead}"];
+}
+{rank = same; 0 ;  setsNode_0}
+{rank = same; 10 ;  setsNode_10}
+{rank = same; 11 ;  setsNode_11}
+{rank = same; 8 ;  setsNode_8}
+{rank = same; 2 ;  setsNode_2}
+{rank = same; 5 ;  setsNode_5}
+0 -> 11[label="use(0,11)={this,this.zzStartRead}",fontsize=14];0 -> 1[label="use(0,1)={this,this.zzStartRead}",fontsize=14];
+3 -> 5[label="use(3,5)={numRead}",fontsize=14];3 -> 4[label="use(3,4)={numRead}",fontsize=14];
+7 -> 8[label="use(7,8)={this,this.zzEndRead,this.zzBuffer}",fontsize=14];7 -> 6[label="use(7,6)={this,this.zzEndRead,this.zzBuffer}",fontsize=14];
+10 -> 2;
+11 -> 1;
+8 -> 6;
+4 -> 12;
+9 -> 12;
+1 -> 10[label="use(1,10)={this,this.zzFinalHighSurrogate,this.zzBuffer,this.zzCurrentPos}",fontsize=14];1 -> 2[label="use(1,2)={this,this.zzFinalHighSurrogate,this.zzBuffer,this.zzCurrentPos}",fontsize=14];
+2 -> 9[label="use(2,9)={numRead}",fontsize=14];2 -> 3[label="use(2,3)={numRead}",fontsize=14];
+6 -> 12;
+5 -> 7[label="use(5,7)={requested,numRead}",fontsize=14];5 -> 6[label="use(5,6)={requested,numRead}",fontsize=14];
+}

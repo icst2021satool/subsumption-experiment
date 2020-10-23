@@ -1,0 +1,44 @@
+digraph eigenvalueDecomposition {
+0 [label="0"]
+11 [label="11"]
+6 [label="6"]
+12 [label="12"]
+2 [label="2"]
+8 [label="8"]
+4 [label="4"]
+3 [label="3"]
+1 [label="1"]
+7 [label="7"]
+9 [label="9"]
+10 [label="10"]
+5 [label="5"]
+{
+node [shape=plaintext, fontsize=14];
+setsNode_0 [label="def(0)={this,V,d,this.m_Matrix}"];
+setsNode_6 [label="def(6)={i}\nuse(6)={d,d2,i}"];
+setsNode_3 [label="def(3)={i}"];
+setsNode_1 [label="def(1)={v,d2,nr,nc,i}\nuse(1)={this,this.m_Matrix}"];
+setsNode_7 [label="def(7)={j}"];
+setsNode_9 [label="def(9)={i}\nuse(9)={i}"];
+setsNode_10 [label="def(10)={j}\nuse(10)={V,v,i,j}"];
+}
+{rank = same; 0 ;  setsNode_0}
+{rank = same; 6 ;  setsNode_6}
+{rank = same; 3 ;  setsNode_3}
+{rank = same; 1 ;  setsNode_1}
+{rank = same; 7 ;  setsNode_7}
+{rank = same; 9 ;  setsNode_9}
+{rank = same; 10 ;  setsNode_10}
+0 -> 11[label="use(0,11)={this}",fontsize=14];0 -> 1[label="use(0,1)={this}",fontsize=14];
+11 -> 12;
+6 -> 4;
+2 -> 7[label="use(2,7)={nr,i}",fontsize=14];2 -> 3[label="use(2,3)={nr,i}",fontsize=14];
+8 -> 10[label="use(8,10)={nc,j}",fontsize=14];8 -> 9[label="use(8,9)={nc,j}",fontsize=14];
+4 -> 6[label="use(4,6)={d2,i}",fontsize=14];4 -> 5[label="use(4,5)={d2,i}",fontsize=14];
+3 -> 4;
+1 -> 2;
+7 -> 8;
+9 -> 2;
+10 -> 8;
+5 -> 12;
+}

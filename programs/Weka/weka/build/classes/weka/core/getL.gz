@@ -1,0 +1,38 @@
+digraph getL {
+1 [label="1"]
+4 [label="4"]
+6 [label="6"]
+9 [label="9"]
+5 [label="5"]
+8 [label="8"]
+2 [label="2"]
+7 [label="7"]
+10 [label="10"]
+3 [label="3"]
+0 [label="0"]
+{
+node [shape=plaintext, fontsize=14];
+setsNode_6 [label="def(6)={i}\nuse(6)={i}"];
+setsNode_9 [label="def(9)={j}\nuse(9)={this,ld,i,j}"];
+setsNode_2 [label="use(2)={ld}"];
+setsNode_7 [label="use(7)={ld,i}"];
+setsNode_3 [label="def(3)={j}"];
+setsNode_0 [label="def(0)={this,nr,nc,ld,i}"];
+}
+{rank = same; 6 ;  setsNode_6}
+{rank = same; 9 ;  setsNode_9}
+{rank = same; 2 ;  setsNode_2}
+{rank = same; 7 ;  setsNode_7}
+{rank = same; 3 ;  setsNode_3}
+{rank = same; 0 ;  setsNode_0}
+1 -> 3[label="use(1,3)={nr,i}",fontsize=14];1 -> 2[label="use(1,2)={nr,i}",fontsize=14];
+4 -> 8[label="use(4,8)={i,j}",fontsize=14];4 -> 5[label="use(4,5)={i,j}",fontsize=14];
+6 -> 1;
+9 -> 4;
+5 -> 7[label="use(5,7)={nc,i}",fontsize=14];5 -> 6[label="use(5,6)={nc,i}",fontsize=14];
+8 -> 9[label="use(8,9)={nc,j}",fontsize=14];8 -> 5[label="use(8,5)={nc,j}",fontsize=14];
+2 -> 10;
+7 -> 6;
+3 -> 4;
+0 -> 1;
+}

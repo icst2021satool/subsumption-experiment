@@ -1,0 +1,32 @@
+Number of Variables;5;
+Variables:;
+0;L@0;this;
+1;L@0.weka.core.expressionlanguage.parser.Scanner.zzAtEOF;null;
+2;L@0.weka.core.expressionlanguage.parser.Scanner.zzEndRead;null;
+3;L@0.weka.core.expressionlanguage.parser.Scanner.zzStartRead;null;
+4;L@0.weka.core.expressionlanguage.parser.Scanner.zzReader;this.zzReader;
+
+Number of Block duas;6;
+Line Duas for method; yyclose;
+Number;Def Line; Origin Line; Use Line; Var Id; Var Name;
+1;401;404;405;0;this;
+2;401;404;406;0;this;
+3;401;;405;0;this;
+4;401;404;405;4;this.zzReader;
+5;401;404;406;4;this.zzReader;
+6;401;;405;4;this.zzReader;
+
+Block Duas for method; yyclose;
+Number;Def Block; Origin Block; Use Block; Var Id; Var Name;
+1;0;0;2;0;this;
+;401;404;405;0;this;
+2;0;0;1;0;this;
+;401;404;406;0;this;
+3;0;;2;0;this;
+;401;;405;0;this;
+4;0;0;2;4;this.zzReader;
+;401;404;405;4;this.zzReader;
+5;0;0;1;4;this.zzReader;
+;401;404;406;4;this.zzReader;
+6;0;;2;4;this.zzReader;
+;401;;405;4;this.zzReader;
