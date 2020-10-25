@@ -293,9 +293,9 @@ Example:
 
 ``Running ant (run.dev.tests)................................................ OK``
 
-``Failing tests: 1
+``Failing tests: 1``
 
-  - org.apache.commons.compress.archivers.CpioTestCase::testCpioUnarchive``
+  ``- org.apache.commons.compress.archivers.CpioTestCase::testCpioUnarchive``
   
 6. For Collections, the first buggy version is 25b. So the same steps above should be repeated but with version 25b.
 
