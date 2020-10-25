@@ -189,7 +189,7 @@ Mockito,
 Time, and
 Weka.
 
-All programs, excepting Collections and Weka, are the version 1b obtained from Defects4J repository. Collections is version 25b (first buggy version of this program) from Defects4J and Weka is version 3.8 from its own repository. All programs were compiled and their test suite was run. These directory constitutes the input for satool.
+All programs, excepting Collections and Weka, are the version 1b obtained from Defects4J repository. Collections is version 25b (first buggy version of this program) from Defects4J and Weka is version 3.8 from its own repository. To save space, we just post in this repository the file for Weka because we used a specifict version (3.8) of it. The other programs can be obtained from the defect4j directory (https://github.com/rjust/defects4j). The instructions on how extract the programs from defect4j repository is given below.  These directory constitutes the input for satool and before running any script All defects4j programs should be compiled and their test suite run.
 
 
 ## ```jaguar-data``` directory. 
@@ -267,7 +267,32 @@ Weka (Weka).
 
 2. ``tar xcf  <program>.tar``
 
-The scripts and programs should be run from the ``scripts`` directory.
+## Extract defects4j programs
+
+1. Install Defects4J repository (follows intructions from defect4j github repository: https://github.com/rjust/defects4j).
+
+2. Generate the buggy version on programs directory with its defects4j identifier (e.g., Compress) and the number of the version used in the check (e.g., 1b). 
+Example: 
+``defects4j checkout -p Compress -v 1b -w ../programs/Compress/1b/`` (suposing you are at ``scrpts`` directory)
+
+3. Goto to the program's version diretory:  ../programs/Compress/1b/
+``cd ../programs/Compress/1b/``
+
+4. ``defects4j compile`` (compile the program)
+``Running ant (compile)...................................................... OK``
+``Running ant (compile.tests)................................................ OK``
+
+5. ``defects4j test`` (run test suite)
+``Running ant (compile.tests)................................................ OK``
+``Running ant (run.dev.tests)................................................ OK``
+``Failing tests: 1
+  - org.apache.commons.compress.archivers.CpioTestCase::testCpioUnarchive``
+  
+6. For Collections, the first buggy version is 25b. So the same steps above should be repeated but with version 25b.
+
+7. Weka file are already presented in github and in the cloned directory.
+
+The following scripts and programs should be run from the ``scripts`` directory.
 
 ## Comparison of modified Jaguar and SAtool DUAs
 
