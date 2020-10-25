@@ -299,7 +299,7 @@ Example:
   
 6. For Collections, the first buggy version is 25b. So the same steps above should be repeated but with version 25b.
 
-7. Weka file are already presented in github and in the cloned directory.
+7. Weka files are already presented in github repository and in the cloned directory.
 
 The following scripts and programs should be run from the ``scripts`` directory.
 
