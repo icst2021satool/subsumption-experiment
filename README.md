@@ -271,7 +271,7 @@ Weka (Weka).
 
 1. Install Defects4J repository (follows intructions from defect4j github repository: https://github.com/rjust/defects4j).
 
-2. Generate the buggy version on programs directory with its defects4j identifier (e.g., Compress) and the number of the version used in the check (e.g., 1b). 
+2. Generate the buggy version on ``programs`` directory with its defects4j identifier (e.g., Compress) and the number of the version used in the check (e.g., 1b). 
 Example: 
 ``defects4j checkout -p Compress -v 1b -w ../programs/Compress/1b/`` (suposing you are at ``scrpts`` directory)
 
@@ -279,13 +279,19 @@ Example:
 ``cd ../programs/Compress/1b/``
 
 4. ``defects4j compile`` (compile the program)
+
 ``Running ant (compile)...................................................... OK``
+
 ``Running ant (compile.tests)................................................ OK``
 
 5. ``defects4j test`` (run test suite)
+
 ``Running ant (compile.tests)................................................ OK``
+
 ``Running ant (run.dev.tests)................................................ OK``
+
 ``Failing tests: 1
+
   - org.apache.commons.compress.archivers.CpioTestCase::testCpioUnarchive``
   
 6. For Collections, the first buggy version is 25b. So the same steps above should be repeated but with version 25b.
