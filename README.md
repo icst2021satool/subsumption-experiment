@@ -325,7 +325,7 @@ Do not forget setting up **python** and **numpy** package before running the scr
 
 ## Reflexive, Completeness and Mutual exclusiveness properties check
 
-Do not forget setting up python and numpy package before running the scripts below.
+Do not forget setting up **python** and **numpy** package before running the scripts below.
 
 1. ``./verificationbatch.sh``
 2. ``./checkproperties.sh``
