@@ -301,7 +301,8 @@ Example:
 
 7. Weka files are already presented in github repository and in the cloned directory.
 
-The following scripts and programs should be run from the ``scripts`` directory.
+The following scripts and programs should be run from the ``scripts`` directory. Do not forget setting up **python** and **numpy** package before running the scripts below.
+
 
 ## Comparison of modified Jaguar and SAtool DUAs
 
@@ -317,7 +318,7 @@ Do not forget setting up python.
 ## Completeness and Mutual exclusiveness properties check
 
 This step aims at checking the completeness and Mutual exclusiveness properties. 
-Do not forget setting up python and numpy package before running the scripts below.
+Do not forget setting up **python** and **numpy** package before running the scripts below.
 
 1. ``./completeexclusivenessbatch.sh``
 2. ``./checkcompleteexclusiveness.sh``
