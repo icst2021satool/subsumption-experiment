@@ -119,7 +119,7 @@ cat $subsumptiondir/$program/nodesubsume/nodesubsume-${program} | grep @@ | grep
 
 # ===> Stopped here.
 
-program=JacksonDataBind
+program=JacksonDatabind
 version=1b
 
 srcdir=$programsdir/$program/$version/target/classes
