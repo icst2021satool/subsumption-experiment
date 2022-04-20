@@ -1,7 +1,6 @@
 #!/usr/bin/env bash
 set -x
-Identifiers="Chart Cli Closure Codec Collections Compress Csv Gson JacksonCore JacksonDatabind JacksonXml Jsoup JxPath Math Time"
-Identifiers="Weka" 
+Identifiers="Chart Cli Closure Codec Collections Compress Csv Gson JacksonCore JacksonDatabind JacksonXml Jsoup JxPath Math Time Weka"
 
 for project in $Identifiers
 do

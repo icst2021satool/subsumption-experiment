@@ -41,7 +41,7 @@ function main() {
 	    exit 1
 	fi
 
-	local project_dir=$(cat projects.d4j | grep $PROJECT_NAME | awk '{print $1}' | xargs)
+	local project_dir=$(cat projects.d4j | grep $PROJECT_NAME | awk '{print $2}' | xargs)
 
 	if [ -z "$project_dir" ]
 	then
