@@ -1,5 +1,5 @@
 #!/bin/bash
-#set -x
+set -x
 
 
 timesubdir=../subsumption-data/checks-output/timedata
@@ -105,7 +105,7 @@ version=1b
                                     br.usp.each.saeg.subsumption.cli.Main $subsumption  -src $srcdir -dest $destdir  >& $timesubdir/$subsumption-$i-${program}
 
 
-    program=JacksonDataBind
+    program=JacksonDatabind
     version=1b
 
     srcdir=$programsdir/$program/$version/target/classes
@@ -114,7 +114,7 @@ version=1b
     time java -cp $satooldir/$satool:$satooldir/dependency/* \
                                     br.usp.each.saeg.subsumption.cli.Main $subsumption  -src $srcdir -dest $destdir  >& $timesubdir/$subsumption-$i-${program}
 
-    program=JacksonDataBind
+    program=JacksonDatabind
     version=1b
 
     srcdir=$programsdir/$program/$version/target/classes

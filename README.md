@@ -12,6 +12,10 @@ This repository contains the data utilized to check the data flow subsumptions a
 +-- subsumption-data: data from the execution of satool.
 |
 +-- programs: source & object programs used in the checks.
+|
++-- satool: jar files with two versions of satool to collect effectiveness and time data
+|
++-- tools/javancss-32.53: javancss tool to collect metrics
 ```
 ##  ```scripts``` directory. 
 
@@ -185,28 +189,34 @@ Mockito,
 Time, and
 Weka.
 
-All programs, excepting Collections and Weka, are the version 1b obtained from Defects4J repository. Collections is version 25b (first buggy version of this program) from Defects4J and Weka is version 3.8 from its own repository. All programs were compiled and their test suite was run. These directory constitutes the input for satool.
+All programs, excepting Collections and Weka, are the version 1b obtained from Defects4J repository. Collections is version 25b (first buggy version of this program) from Defects4J and Weka is version 3.8 from its own repository. To save space, we just post in this repository the file for Weka because we used a specifict version (3.8) of it. The other programs can be obtained from the defect4j directory (https://github.com/rjust/defects4j). The instructions on how extract the programs from defect4j repository is given below.  These directory constitutes the input for satool and before running any script or program all defects4j programs should be extacted and compiled and their test suite run.
 
 
 ## ```jaguar-data``` directory. 
 
-We utilized a modified version of Jaguar (https://github.com/saeg/jaguar) to collect data flow coverage data for every Junit method of the test suites of the subject programs. Each of these methods are considered a separated test. There are one directory for each ``<program>`` where ``<program>`` can be
-closure-compiler,
-commons-cli,
-commons-codec,
-commons-collections,
-commons-compress,
-commons-csv,
-commons-jxpath,
-commons-math,
-gson,
-jackson-core,
-jackson-databind,
-jackson-dataformat-xml,
-jfreechart,
-joda-time,
-jsoup, and
-Weka.
+We utilized a modified version of Jaguar (https://github.com/saeg/jaguar) to collect data flow coverage data for every Junit method of the test suites of the subject programs. Each of these methods are considered a separated test. 
+
+The data in this directory are zipped tar files. They should be expanded before being used.
+
+After that, there are one directory for each ``<program>`` where ``<program>`` can be
+closure-compiler (Closure),
+commons-cli (Cli),
+commons-codec (Codec),
+commons-collections (Collections),
+commons-compress (Compress),
+commons-csv (Csv),
+commons-jxpath (JxPath),
+commons-math (Math),
+gson (Gson),
+jackson-core (JacksonCore),
+jackson-databind (JacksonDatabind),
+jackson-dataformat-xml (JacksonXml),
+jfreechart (Chart),
+joda-time (Time),
+jsoup (Jsoup), and
+Weka (Weka).
+
+Note that Lang and Mockito are not in this directory because we could not collect data for them using the modified jaguar.
 
 In all directories, excepting commons-collections and Weka, there are the following subdirectories:
 
@@ -236,7 +246,63 @@ Its contents are as described above.
 
 1. Clone the repository ``subsumption-experiment`` in the target computer.
 
-The scripts and programs should be run from the ``scripts`` directory.
+## Expand zipped tar files in the jaguar-data directory
+
+1. ``gunzip <program>.tar.gz`` where closure-compiler (Closure),
+commons-cli (Cli),
+commons-codec (Codec),
+commons-collections (Collections),
+commons-compress (Compress),
+commons-csv (Csv),
+commons-jxpath (JxPath),
+commons-math (Math),
+gson (Gson),
+jackson-core (JacksonCore),
+jackson-databind (JacksonDatabind),
+jackson-dataformat-xml (JacksonXml),
+jfreechart (Chart),
+joda-time (Time),
+jsoup (Jsoup), and
+Weka (Weka).
+
+2. ``tar xcf  <program>.tar``
+
+## Extract defects4j programs
+
+1. Install Defects4J repository (follows intructions from defect4j github repository: https://github.com/rjust/defects4j).
+
+2. Generate the buggy version on ``programs`` directory with its defects4j identifier (e.g., Compress) and the number of the version used in the check (e.g., 1b). 
+
+Example: 
+
+``defects4j checkout -p Compress -v 1b -w ../programs/Compress/1b/`` (suposing you are at ``scrpts`` directory)
+
+3. Goto to the program's version diretory:  ../programs/Compress/1b/
+
+``cd ../programs/Compress/1b/``
+
+4. ``defects4j compile`` (compile the program)
+
+``Running ant (compile)...................................................... OK``
+
+``Running ant (compile.tests)................................................ OK``
+
+5. ``defects4j test`` (run test suite)
+
+``Running ant (compile.tests)................................................ OK``
+
+``Running ant (run.dev.tests)................................................ OK``
+
+``Failing tests: 1``
+
+  ``- org.apache.commons.compress.archivers.CpioTestCase::testCpioUnarchive``
+  
+6. For Collections, the first buggy version is 25b. So the same steps above should be repeated but with version 25b.
+
+7. Weka files are already presented in github repository and in the cloned directory.
+
+The following scripts and programs should be run from the ``scripts`` directory. Do not forget setting up **python** and **numpy** package before running the scripts below.
+
 
 ## Comparison of modified Jaguar and SAtool DUAs
 
@@ -252,14 +318,14 @@ Do not forget setting up python.
 ## Completeness and Mutual exclusiveness properties check
 
 This step aims at checking the completeness and Mutual exclusiveness properties. 
-Do not forget setting up python and numpy package before running the scripts below.
+Do not forget setting up **python** and **numpy** package before running the scripts below.
 
 1. ``./completeexclusivenessbatch.sh``
 2. ``./checkcompleteexclusiveness.sh``
 
 ## Reflexive, Completeness and Mutual exclusiveness properties check
 
-Do not forget setting up python and numpy package before running the scripts below.
+Do not forget setting up **python** and **numpy** package before running the scripts below.
 
 1. ``./verificationbatch.sh``
 2. ``./checkproperties.sh``
