@@ -33,6 +33,8 @@ The scripts described below are supposed to be run on the ``scripts`` folder.
 
 * **countmethodsjaguarexec.sh**. Counts the number of methods executed by the tests of Defects4J programs versions 1b (all defects4j programs, excepting Collections) and 25b (Collections) and Weka 3.8 for the experiment. Lang and Mockito have no testing data.
 
+* **assertbatch.sh** Calculates DUA coverage for all Defects4J's 1b (or 25b, in the case of Collections) versions, excepting Lang and Mockito. It also calculates the DUA coverage for Weka 3.8.
+
 ### Subsumption Algorithm (SA) correctness scripts
 
 We list below the scripts wrtitten to check SA's correcteness.
