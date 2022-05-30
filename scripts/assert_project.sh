@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-set -x
+#set -x
 readonly NOCOLOR="\033[0m"
 readonly GREEN="\033[0;32m"
 readonly RED="\033[0;31m"
@@ -10,14 +10,14 @@ readonly VERSION=$2
 
 function assert_project() {
 	local project_dir=$1
-	local cov_projects="../jaguar-programs-extended"
-	local project_path="$cov_projects/$PROJECT_NAME/${VERSION}/jaguar"
+	local cov_projects="../jaguar-data"
+	local project_path="$cov_projects/$project_dir/${VERSION}/jaguar"
 	local root=$(pwd)
 
 
 	# run assert_jaguar.py
-	echo -e "${YELLOW}[${PROJECT_NAME} ${VERSION}] Jaguar DUA coverage ${NOCOLOR}"
-	./assert_jaguar.py ${project_path}
+	echo -e "[${PROJECT_NAME} ${VERSION}] Jaguar DUA coverage"
+	./assert_jaguar.py ${PROJECT_NAME} ${VERSION} ${project_path}
 
 	# back to root folder
 	cd $root
