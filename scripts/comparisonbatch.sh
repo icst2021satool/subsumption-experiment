@@ -28,15 +28,13 @@ subsumptiondir=.. # Assumiing you're running in the scripts directory
 
 ./comparison.py $subsumptiondir/jaguar-data/commons-jxpath/1b  $subsumptiondir/subsumption-data/JxPath/ | grep NOK
 
-# We could not generate dynamic data for Lang. So this check will be enabled in the future
-# ./comparison.py $subsumptiondir/jaguar-data/commons-lang/1b  $subsumptiondir/subsumption-data/Lang/ | grep NOK
+./comparison.py $subsumptiondir/jaguar-data/commons-lang/1b  $subsumptiondir/subsumption-data/Lang/ | grep NOK
 
 ./comparison.py $subsumptiondir/jaguar-data/commons-math/1b  $subsumptiondir/subsumption-data/Math/ | grep NOK
 
-# We could not generate dynamic data for Mockito. So this check will be enabled in the future
-# ./comparison.py $subsumptiondir/jaguar-data/mockito/1b  $subsumptiondir/subsumption-data/Mockito/
+./comparison.py $subsumptiondir/jaguar-data/mockito/1b  $subsumptiondir/subsumption-data/Mockito/ | grep NOK 
 
-./comparison.py $subsumptiondir/jaguar-data/joda-time/1b  $subsumptiondir/subsumption-data/Time/ | grep NOK
+./comparison.py $subsumptiondir/jaguar-data/joda-time/1b  $subsumptiondir/subsumption-data/Time/ | grep NOK 
 
 # For Weka 66 class will fail the comparison test
 ./comparison.py $subsumptiondir/jaguar-data/Weka/output/weka/  $subsumptiondir/subsumption-data/Weka/ | grep NOK

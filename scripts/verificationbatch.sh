@@ -1,14 +1,13 @@
 #!/bin/bash
 
-# Mockito & Lang have no jaguar data, so they were excluded.
 # Weka has another format
 
-#set -x
+set -x
 subsumptiondir="../subsumption-data/"
 jaguardir="../jaguar-data/"
 verificationfile="../subsumption-data/checks-output/verification/verification-"
 
-Identifiers="Chart Cli Closure Codec Collections Compress Csv Gson JacksonCore JacksonDatabind JacksonXml Jsoup JxPath Math Time Weka"
+Identifiers="Chart Cli Closure Codec Collections Compress Csv Gson JacksonCore JacksonDatabind JacksonXml Jsoup JxPath Lang Math Mockito Time Weka"
 
 for project in $Identifiers
 do
@@ -66,9 +65,17 @@ do
   then
      program="commons-jxpath/1b"
   fi
+  if test $project == "Lang"
+  then
+     program="commons-lang/1b"
+  fi
   if test $project == "Math"
   then
      program="commons-math/1b"
+  fi
+  if test $project == "Mockito"
+  then
+     program="mockito/1b"
   fi
   if test $project == "Time"
   then
