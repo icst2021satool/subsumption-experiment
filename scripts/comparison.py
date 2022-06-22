@@ -11,11 +11,14 @@ import os
 import sys
 import xml.etree.ElementTree as ET
 import json
+import re
 
 def createSpectraDic(folder):
 	spectradir = {}
 	listspectra =  os.listdir(spectra_folder)
 	for f in listspectra:
+		binmatch=re.match('._',f) # check whether '._' occurs at the beginning of the string
+		if binmatch != None: continue # skip binary spectras 
 		if ".spectra" in f:
 			dirf=spectra_folder + os.sep + f
 			if ".gz" in f:
