@@ -7,7 +7,7 @@
 verificationfile="../subsumption-data/checks-output/verification/verification-"
 
 # Mockit and Lang have no testing data
-PROJECTS="Chart Cli Closure Codec Collections Compress Csv Gson JacksonCore JacksonDatabind JacksonXml Jsoup JxPath Math Time Weka"
+PROJECTS="Chart Cli Closure Codec Collections Compress Csv Gson JacksonCore JacksonDatabind JacksonXml Jsoup JxPath Lang Math Mockito Time Weka"
 
 rm -f count.txt
 touch count.txt
