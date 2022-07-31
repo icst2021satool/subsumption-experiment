@@ -1,145 +1,63 @@
-
-# Two executions of timebatch.sh. The first one was used for ICST2021 paper
-Csv:nodesubsume:average time:343.8
-Csv:edgesubsume:average time:334.7
-Csv:reduce:average time:670
-
-Csv:nodesubsume:average time:338.1
-Csv:edgesubsume:average time:336
-Csv:reduce:average time:665.2
-
-Cli:nodesubsume:average time:454.6
-Cli:edgesubsume:average time:443.2
-Cli:reduce:average time:923.2
-
-Cli:nodesubsume:average time:440.8
-Cli:edgesubsume:average time:432.2
-Cli:reduce:average time:892.1
-
-Jsoup:nodesubsume:average time:584.9
-Jsoup:edgesubsume:average time:595.3
-Jsoup:reduce:average time:877.3
-
-Jsoup:nodesubsume:average time:592.4
-Jsoup:edgesubsume:average time:588.3
-Jsoup:reduce:average time:857.7
-
-Gson:nodesubsume:average time:849.6
-Gson:edgesubsume:average time:817.5
-Gson:reduce:average time:1295.8
-
-Gson:nodesubsume:average time:829.7
-Gson:edgesubsume:average time:815.1
-Gson:reduce:average time:1240.7
-
-JacksonXml:nodesubsume:average time:715.3
-JacksonXml:edgesubsume:average time:730.5
-JacksonXml:reduce:average time:1237.9
-
-JacksonXml:nodesubsume:average time:700.6
-JacksonXml:edgesubsume:average time:702.9
-JacksonXml:reduce:average time:1200.3
-
-Mockito:nodesubsume:average time:1327.1
-Mockito:edgesubsume:average time:1339.2
-Mockito:reduce:average time:1931.1
-
-Mockito:nodesubsume:average time:1426.8
-Mockito:edgesubsume:average time:1278.5
-Mockito:reduce:average time:1829.3
-
-Codec:nodesubsume:average time:678.9
-Codec:edgesubsume:average time:656.4
-Codec:reduce:average time:6778.4
-
-Codec:nodesubsume:average time:647.2
-Codec:edgesubsume:average time:647
-Codec:reduce:average time:6502.7
-
-Compress:nodesubsume:average time:1126.1
-Compress:edgesubsume:average time:1169.5
-Compress:reduce:average time:5797.4
-
-Compress:nodesubsume:average time:1085.8
-Compress:edgesubsume:average time:1107.9
-Compress:reduce:average time:5580.7
-
-Collections:nodesubsume:average time:2331.4
-Collections:edgesubsume:average time:2322
-Collections:reduce:average time:4556.9
-
-Collections:nodesubsume:average time:2330
-Collections:edgesubsume:average time:2528.8
-Collections:reduce:average time:4415.7
-
-JacksonCore:nodesubsume:average time:1500.2
-JacksonCore:edgesubsume:average time:1538.2
-JacksonCore:reduce:average time:6394.3
-
-JacksonCore:nodesubsume:average time:1478.3
-JacksonCore:edgesubsume:average time:1528.7
-JacksonCore:reduce:average time:6183.3
-
-Time:nodesubsume:average time:2264.7
-Time:edgesubsume:average time:2338.9
-Time:reduce:average time:5915.2
-
-Time:nodesubsume:average time:2224.5
-Time:edgesubsume:average time:2252.3
-Time:reduce:average time:5459.5
-
-JxPath:nodesubsume:average time:1763.4
-JxPath:edgesubsume:average time:1783
-JxPath:reduce:average time:6494.9
-
-JxPath:nodesubsume:average time:1744.9
-JxPath:edgesubsume:average time:1733.1
-JxPath:reduce:average time:6414.1
-
-Lang:nodesubsume:average time:2178.5
-Lang:edgesubsume:average time:2085
-Lang:reduce:average time:6087.2
-
-Lang:nodesubsume:average time:2013.2
-Lang:edgesubsume:average time:2010.6
-Lang:reduce:average time:6089.1
-
-JacksonDatabind:nodesubsume:average time:2834.3
-JacksonDatabind:edgesubsume:average time:2881.4
-JacksonDatabind:reduce:average time:6982.3
-
-JacksonDatabind:nodesubsume:average time:2827.9
-JacksonDatabind:edgesubsume:average time:2858.5
-JacksonDatabind:reduce:average time:6840.6
-
-Closure:nodesubsume:average time:6551.1
-Closure:edgesubsume:average time:6358.1
-Closure:reduce:average time:32076.6
-
-Closure:nodesubsume:average time:6325.8
-Closure:edgesubsume:average time:6319.3
-Closure:reduce:average time:31326.4
-
-Chart:nodesubsume:average time:6390.8
-Chart:edgesubsume:average time:6301
-Chart:reduce:average time:18420.9
-
-Chart:nodesubsume:average time:6271.9
-Chart:edgesubsume:average time:6194.6
-Chart:reduce:average time:18293.6
-
-Math:nodesubsume:average time:12141.9
-Math:edgesubsume:average time:11815.7
-Math:reduce:average time:104246
-
-Math:nodesubsume:average time:11514.8
-Math:edgesubsume:average time:11728.9
-Math:reduce:average time:103052
-
-Weka:nodesubsume:average time:22361.8
-Weka:edgesubsume:average time:22317.7
-Weka:reduce:average time:98377.5
-
-Weka:nodesubsume:average time:21950.1
-Weka:edgesubsume:average time:21501
-Weka:reduce:average time:93179.9
+Csv:nodesubsume:average time:331.3
+Csv:edgesubsume:average time:323.6
+Csv:reduce:average time:664
+Cli:nodesubsume:average time:426.4
+Cli:edgesubsume:average time:426.6
+Cli:reduce:average time:877
+Codec:nodesubsume:average time:640.1
+Codec:edgesubsume:average time:634.8
+Codec:reduce:average time:6268
+Jsoup:nodesubsume:average time:582.7
+Jsoup:edgesubsume:average time:567.3
+Jsoup:reduce:average time:828.1
+JacksonXml:nodesubsume:average time:686.2
+JacksonXml:edgesubsume:average time:665.8
+JacksonXml:reduce:average time:1187.5
+Compress:nodesubsume:average time:1109.5
+Compress:edgesubsume:average time:1082.2
+Compress:reduce:average time:5801.6
+Gson:nodesubsume:average time:767.1
+Gson:edgesubsume:average time:741.9
+Gson:reduce:average time:1140.3
+Mockito:nodesubsume:average time:1104.2
+Mockito:edgesubsume:average time:1047.9
+Mockito:reduce:average time:1482
+JacksonCore:nodesubsume:average time:1484
+JacksonCore:edgesubsume:average time:1469.2
+JacksonCore:reduce:average time:6199.1
+JxPath:nodesubsume:average time:1685
+JxPath:edgesubsume:average time:1661.8
+JxPath:reduce:average time:6201.6
+Lang:nodesubsume:average time:1996.5
+Lang:edgesubsume:average time:1937.8
+Lang:reduce:average time:5717
+Time:nodesubsume:average time:2101.5
+Time:edgesubsume:average time:2046.9
+Time:reduce:average time:5143
+Collections:nodesubsume:average time:2107.3
+Collections:edgesubsume:average time:2028.8
+Collections:reduce:average time:4319.1
+JacksonDatabind:nodesubsume:average time:2845.2
+JacksonDatabind:edgesubsume:average time:2774.8
+JacksonDatabind:reduce:average time:6963.8
+Math:nodesubsume:average time:11625.4
+Math:edgesubsume:average time:11220.4
+Math:reduce:average time:100184
+Chart:nodesubsume:average time:6131.7
+Chart:edgesubsume:average time:5776.9
+Chart:reduce:average time:17165.8
+Closure:nodesubsume:average time:6106.6
+Closure:edgesubsume:average time:5817.2
+Closure:reduce:average time:31206.8
+elki-6465675:nodesubsume:average time:12544
+elki-6465675:edgesubsume:average time:12367.6
+elki-6465675:reduce:average time:39454.3
+systemds-3.0.0-rc2:nodesubsume:average time:14012.5
+systemds-3.0.0-rc2:edgesubsume:average time:13943.9
+systemds-3.0.0-rc2:reduce:average time:42679.6
+Weka:nodesubsume:average time:19647.2
+Weka:edgesubsume:average time:19164.1
+Weka:reduce:average time:84613.3
+stanford-corenlp-4.4.0:nodesubsume:average time:32163.9
+stanford-corenlp-4.4.0:edgesubsume:average time:30831.3
+stanford-corenlp-4.4.0:reduce:average time:1.11492e+06
