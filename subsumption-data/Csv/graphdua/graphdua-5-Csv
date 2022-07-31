@@ -1,0 +1,211 @@
+@@ Method, Nodes, Nduas, Time_s, Time_ms
+
+
+#org/apache/commons/csv/CSVParser/getRecords:
+Method org.apache.commons.csv.CSVParser.getRecords graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.csv.CSVParser.getRecords,5,6,0,6
+
+
+#org/apache/commons/csv/CSVParser/getRecord:
+Method org.apache.commons.csv.CSVParser.getRecord graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.csv.CSVParser.getRecord,13,60,0,33
+
+
+#org/apache/commons/csv/CSVParser/initializeHeader:
+Method org.apache.commons.csv.CSVParser.initializeHeader graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.csv.CSVParser.initializeHeader,12,33,0,7
+
+
+#org/apache/commons/csv/Lexer/readEscape:
+Method org.apache.commons.csv.Lexer.readEscape graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.csv.Lexer.readEscape,8,7,0,1
+
+
+#org/apache/commons/csv/Lexer/trimTrailingSpaces:
+Method org.apache.commons.csv.Lexer.trimTrailingSpaces graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.csv.Lexer.trimTrailingSpaces,8,21,0,3
+
+
+#org/apache/commons/csv/Lexer/isWhitespace:
+Method org.apache.commons.csv.Lexer.isWhitespace graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.csv.Lexer.isWhitespace,6,8,0,1
+
+
+#org/apache/commons/csv/Lexer/isEndOfLine:
+Method org.apache.commons.csv.Lexer.isEndOfLine graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.csv.Lexer.isEndOfLine,9,16,0,2
+
+
+#org/apache/commons/csv/Lexer/isEndOfFile:
+Method org.apache.commons.csv.Lexer.isEndOfFile graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.csv.Lexer.isEndOfFile,5,2,0,0
+
+
+#org/apache/commons/csv/Lexer/isDelimiter:
+Method org.apache.commons.csv.Lexer.isDelimiter graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.csv.Lexer.isDelimiter,5,6,0,1
+
+
+#org/apache/commons/csv/Lexer/isEscape:
+Method org.apache.commons.csv.Lexer.isEscape graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.csv.Lexer.isEscape,6,10,0,1
+
+
+#org/apache/commons/csv/Lexer/isEncapsulator:
+Method org.apache.commons.csv.Lexer.isEncapsulator graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.csv.Lexer.isEncapsulator,6,10,0,1
+
+
+#org/apache/commons/csv/Lexer/isCommentStart:
+Method org.apache.commons.csv.Lexer.isCommentStart graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.csv.Lexer.isCommentStart,6,10,0,1
+
+
+#org/apache/commons/csv/CSVRecord/<init>:
+Method org.apache.commons.csv.CSVRecord.<init> graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.csv.CSVRecord.<init>,5,6,0,0
+
+
+#org/apache/commons/csv/CSVRecord/get:
+Method org.apache.commons.csv.CSVRecord.get graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.csv.CSVRecord.get,7,12,0,1
+
+
+#org/apache/commons/csv/CSVParser$1/hasNext:
+Method org.apache.commons.csv.CSVParser$1.hasNext graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.csv.CSVParser$1.hasNext,7,11,0,0
+
+
+#org/apache/commons/csv/CSVParser$1/next:
+Method org.apache.commons.csv.CSVParser$1.next graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.csv.CSVParser$1.next,5,7,0,0
+
+
+#org/apache/commons/csv/CSVLexer/nextToken:
+Method org.apache.commons.csv.CSVLexer.nextToken graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.csv.CSVLexer.nextToken,30,157,0,51
+
+
+#org/apache/commons/csv/CSVLexer/simpleTokenLexer:
+Method org.apache.commons.csv.CSVLexer.simpleTokenLexer graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.csv.CSVLexer.simpleTokenLexer,14,39,0,6
+
+
+#org/apache/commons/csv/CSVLexer/encapsulatedTokenLexer:
+Method org.apache.commons.csv.CSVLexer.encapsulatedTokenLexer graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.csv.CSVLexer.encapsulatedTokenLexer,18,55,0,11
+
+
+#org/apache/commons/csv/ExtendedBufferedReader/read:
+Method org.apache.commons.csv.ExtendedBufferedReader.read graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.csv.ExtendedBufferedReader.read,4,6,0,1
+
+
+#org/apache/commons/csv/ExtendedBufferedReader/read:
+Method org.apache.commons.csv.ExtendedBufferedReader.read graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.csv.ExtendedBufferedReader.read,19,56,0,7
+
+
+#org/apache/commons/csv/ExtendedBufferedReader/readLine:
+Method org.apache.commons.csv.ExtendedBufferedReader.readLine graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.csv.ExtendedBufferedReader.readLine,7,10,0,1
+
+
+#org/apache/commons/csv/CSVFormat/isLineBreak:
+Method org.apache.commons.csv.CSVFormat.isLineBreak graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.csv.CSVFormat.isLineBreak,6,4,0,0
+
+
+#org/apache/commons/csv/CSVFormat/validate:
+Method org.apache.commons.csv.CSVFormat.validate graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.csv.CSVFormat.validate,14,48,0,2
+
+
+#org/apache/commons/csv/CSVFormat/withDelimiter:
+Method org.apache.commons.csv.CSVFormat.withDelimiter graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.csv.CSVFormat.withDelimiter,4,11,0,1
+
+
+#org/apache/commons/csv/CSVFormat/withEncapsulator:
+Method org.apache.commons.csv.CSVFormat.withEncapsulator graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.csv.CSVFormat.withEncapsulator,4,11,0,1
+
+
+#org/apache/commons/csv/CSVFormat/isEncapsulating:
+Method org.apache.commons.csv.CSVFormat.isEncapsulating graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.csv.CSVFormat.isEncapsulating,5,4,0,0
+
+
+#org/apache/commons/csv/CSVFormat/withCommentStart:
+Method org.apache.commons.csv.CSVFormat.withCommentStart graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.csv.CSVFormat.withCommentStart,4,11,0,0
+
+
+#org/apache/commons/csv/CSVFormat/isCommentingEnabled:
+Method org.apache.commons.csv.CSVFormat.isCommentingEnabled graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.csv.CSVFormat.isCommentingEnabled,5,4,0,0
+
+
+#org/apache/commons/csv/CSVFormat/withEscape:
+Method org.apache.commons.csv.CSVFormat.withEscape graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.csv.CSVFormat.withEscape,4,11,0,0
+
+
+#org/apache/commons/csv/CSVFormat/isEscaping:
+Method org.apache.commons.csv.CSVFormat.isEscaping graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.csv.CSVFormat.isEscaping,5,4,0,0
+
+
+#org/apache/commons/csv/CSVFormat/toString:
+Method org.apache.commons.csv.CSVFormat.toString graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.csv.CSVFormat.toString,12,22,0,1
+
+
+#org/apache/commons/csv/CSVPrinter/<init>:
+Method org.apache.commons.csv.CSVPrinter.<init> graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.csv.CSVPrinter.<init>,5,5,0,0
+
+
+#org/apache/commons/csv/CSVPrinter/flush:
+Method org.apache.commons.csv.CSVPrinter.flush graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.csv.CSVPrinter.flush,4,6,0,1
+
+
+#org/apache/commons/csv/CSVPrinter/println:
+Method org.apache.commons.csv.CSVPrinter.println graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.csv.CSVPrinter.println,5,11,0,1
+
+
+#org/apache/commons/csv/CSVPrinter/printComment:
+Method org.apache.commons.csv.CSVPrinter.printComment graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.csv.CSVPrinter.printComment,15,48,0,4
+
+
+#org/apache/commons/csv/CSVPrinter/print:
+Method org.apache.commons.csv.CSVPrinter.print graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.csv.CSVPrinter.print,7,21,0,1
+
+
+#org/apache/commons/csv/CSVPrinter/printSep:
+Method org.apache.commons.csv.CSVPrinter.printSep graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.csv.CSVPrinter.printSep,5,8,0,0
+
+
+#org/apache/commons/csv/CSVPrinter/printAndEscape:
+Method org.apache.commons.csv.CSVPrinter.printAndEscape graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.csv.CSVPrinter.printAndEscape,18,65,0,9
+
+
+#org/apache/commons/csv/CSVPrinter/printAndEncapsulate:
+Method org.apache.commons.csv.CSVPrinter.printAndEncapsulate graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.csv.CSVPrinter.printAndEncapsulate,32,115,0,16
+
+
+#org/apache/commons/csv/CSVPrinter/print:
+Method org.apache.commons.csv.CSVPrinter.print graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.csv.CSVPrinter.print,7,11,0,0
+
+Failed to analyze: /Users/marcoschaim/experimentos/subsumption-experiment/scripts/../subsumption-data/Csv/graphdua
+Failed to analyze: /Users/marcoschaim/experimentos/subsumption-experiment/scripts/../subsumption-data/Csv/graphdua
+41 methods have their graphdua generated in 0 minutes and 0 seconds
+Graphduas time (ms):415

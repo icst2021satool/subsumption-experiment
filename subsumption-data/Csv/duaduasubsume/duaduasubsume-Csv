@@ -3,39 +3,39 @@ DUA-DUA subsumption
 
 
 #org/apache/commons/csv/CSVParser/getRecords:
-Method getRecords reduced in 0 minutes and 0 seconds. Total em milliseconds 13
+Method getRecords reduced in 0 minutes and 0 seconds. Total em milliseconds 14
 ## nodes: 5
 ## edges: 5
 ## duas: 6
 ## Unconstrained duas: 1
 ## Reduction nodes: 2
-@@ org.apache.commons.csv.CSVParser.getRecords,5,5,6,1,2,16.666666666666664,33.33333333333333,0,13
+@@ org.apache.commons.csv.CSVParser.getRecords,5,5,6,1,2,16.666666666666664,33.33333333333333,0,14
 
-org.apache.commons.csv.CSVParser.getRecords;6;1;2;13;
+org.apache.commons.csv.CSVParser.getRecords;6;1;2;14;
 
 
 #org/apache/commons/csv/CSVParser/getRecord:
-Method getRecord reduced in 0 minutes and 0 seconds. Total em milliseconds 81
+Method getRecord reduced in 0 minutes and 0 seconds. Total em milliseconds 72
 ## nodes: 13
 ## edges: 19
 ## duas: 60
 ## Unconstrained duas: 9
 ## Reduction nodes: 14
-@@ org.apache.commons.csv.CSVParser.getRecord,13,19,60,9,14,15.0,23.333333333333332,0,81
+@@ org.apache.commons.csv.CSVParser.getRecord,13,19,60,9,14,15.0,23.333333333333332,0,72
 
-org.apache.commons.csv.CSVParser.getRecord;60;9;14;81;
+org.apache.commons.csv.CSVParser.getRecord;60;9;14;72;
 
 
 #org/apache/commons/csv/CSVParser/initializeHeader:
-Method initializeHeader reduced in 0 minutes and 0 seconds. Total em milliseconds 19
+Method initializeHeader reduced in 0 minutes and 0 seconds. Total em milliseconds 15
 ## nodes: 12
 ## edges: 16
 ## duas: 33
 ## Unconstrained duas: 9
 ## Reduction nodes: 18
-@@ org.apache.commons.csv.CSVParser.initializeHeader,12,16,33,9,18,27.27272727272727,54.54545454545454,0,19
+@@ org.apache.commons.csv.CSVParser.initializeHeader,12,16,33,9,18,27.27272727272727,54.54545454545454,0,15
 
-org.apache.commons.csv.CSVParser.initializeHeader;33;9;18;19;
+org.apache.commons.csv.CSVParser.initializeHeader;33;9;18;15;
 
 
 #org/apache/commons/csv/Lexer/readEscape:
@@ -51,15 +51,15 @@ org.apache.commons.csv.Lexer.readEscape;7;6;6;1;
 
 
 #org/apache/commons/csv/Lexer/trimTrailingSpaces:
-Method trimTrailingSpaces reduced in 0 minutes and 0 seconds. Total em milliseconds 10
+Method trimTrailingSpaces reduced in 0 minutes and 0 seconds. Total em milliseconds 9
 ## nodes: 8
 ## edges: 10
 ## duas: 21
 ## Unconstrained duas: 9
 ## Reduction nodes: 15
-@@ org.apache.commons.csv.Lexer.trimTrailingSpaces,8,10,21,9,15,42.857142857142854,71.42857142857143,0,10
+@@ org.apache.commons.csv.Lexer.trimTrailingSpaces,8,10,21,9,15,42.857142857142854,71.42857142857143,0,9
 
-org.apache.commons.csv.Lexer.trimTrailingSpaces;21;9;15;10;
+org.apache.commons.csv.Lexer.trimTrailingSpaces;21;9;15;9;
 
 
 #org/apache/commons/csv/Lexer/isWhitespace:
@@ -75,27 +75,27 @@ org.apache.commons.csv.Lexer.isWhitespace;8;3;4;3;
 
 
 #org/apache/commons/csv/Lexer/isEndOfLine:
-Method isEndOfLine reduced in 0 minutes and 0 seconds. Total em milliseconds 4
+Method isEndOfLine reduced in 0 minutes and 0 seconds. Total em milliseconds 3
 ## nodes: 9
 ## edges: 12
 ## duas: 16
 ## Unconstrained duas: 8
 ## Reduction nodes: 12
-@@ org.apache.commons.csv.Lexer.isEndOfLine,9,12,16,8,12,50.0,75.0,0,4
+@@ org.apache.commons.csv.Lexer.isEndOfLine,9,12,16,8,12,50.0,75.0,0,3
 
-org.apache.commons.csv.Lexer.isEndOfLine;16;8;12;4;
+org.apache.commons.csv.Lexer.isEndOfLine;16;8;12;3;
 
 
 #org/apache/commons/csv/Lexer/isEndOfFile:
-Method isEndOfFile reduced in 0 minutes and 0 seconds. Total em milliseconds 0
+Method isEndOfFile reduced in 0 minutes and 0 seconds. Total em milliseconds 1
 ## nodes: 5
 ## edges: 5
 ## duas: 2
 ## Unconstrained duas: 2
 ## Reduction nodes: 2
-@@ org.apache.commons.csv.Lexer.isEndOfFile,5,5,2,2,2,100.0,100.0,0,0
+@@ org.apache.commons.csv.Lexer.isEndOfFile,5,5,2,2,2,100.0,100.0,0,1
 
-org.apache.commons.csv.Lexer.isEndOfFile;2;2;2;0;
+org.apache.commons.csv.Lexer.isEndOfFile;2;2;2;1;
 
 
 #org/apache/commons/csv/Lexer/isDelimiter:
@@ -147,15 +147,15 @@ org.apache.commons.csv.Lexer.isCommentStart;10;3;4;1;
 
 
 #org/apache/commons/csv/CSVRecord/<init>:
-Method <init> reduced in 0 minutes and 0 seconds. Total em milliseconds 1
+Method <init> reduced in 0 minutes and 0 seconds. Total em milliseconds 0
 ## nodes: 5
 ## edges: 5
 ## duas: 6
 ## Unconstrained duas: 2
 ## Reduction nodes: 3
-@@ org.apache.commons.csv.CSVRecord.<init>,5,5,6,2,3,33.33333333333333,50.0,0,1
+@@ org.apache.commons.csv.CSVRecord.<init>,5,5,6,2,3,33.33333333333333,50.0,0,0
 
-org.apache.commons.csv.CSVRecord.<init>;6;2;3;1;
+org.apache.commons.csv.CSVRecord.<init>;6;2;3;0;
 
 
 #org/apache/commons/csv/CSVRecord/get:
@@ -171,15 +171,15 @@ org.apache.commons.csv.CSVRecord.get;12;3;4;2;
 
 
 #org/apache/commons/csv/CSVParser$1/hasNext:
-Method hasNext reduced in 0 minutes and 0 seconds. Total em milliseconds 2
+Method hasNext reduced in 0 minutes and 0 seconds. Total em milliseconds 1
 ## nodes: 7
 ## edges: 8
 ## duas: 11
 ## Unconstrained duas: 4
 ## Reduction nodes: 8
-@@ org.apache.commons.csv.CSVParser$1.hasNext,7,8,11,4,8,36.36363636363637,72.72727272727273,0,2
+@@ org.apache.commons.csv.CSVParser$1.hasNext,7,8,11,4,8,36.36363636363637,72.72727272727273,0,1
 
-org.apache.commons.csv.CSVParser$1.hasNext;11;4;8;2;
+org.apache.commons.csv.CSVParser$1.hasNext;11;4;8;1;
 
 
 #org/apache/commons/csv/CSVParser$1/next:
@@ -195,28 +195,28 @@ org.apache.commons.csv.CSVParser$1.next;7;3;4;1;
 
 
 #org/apache/commons/csv/CSVLexer/nextToken:
-Method nextToken reduced in 0 minutes and 0 seconds. Total em milliseconds 162
+Method nextToken reduced in 0 minutes and 0 seconds. Total em milliseconds 147
 ## nodes: 30
 ## edges: 48
 ## duas: 157
 ## Unconstrained duas: 70
 ## Reduction nodes: 123
-@@ org.apache.commons.csv.CSVLexer.nextToken,30,48,157,70,123,44.5859872611465,78.343949044586,0,162
+@@ org.apache.commons.csv.CSVLexer.nextToken,30,48,157,70,123,44.5859872611465,78.343949044586,0,147
 
-org.apache.commons.csv.CSVLexer.nextToken;157;70;123;162;
+org.apache.commons.csv.CSVLexer.nextToken;157;70;123;147;
 
 Warning: Method:org.apache.commons.csv.CSVLexer.simpleTokenLexer has incoming edges.
 
 #org/apache/commons/csv/CSVLexer/encapsulatedTokenLexer:
-Method encapsulatedTokenLexer reduced in 0 minutes and 0 seconds. Total em milliseconds 17
+Method encapsulatedTokenLexer reduced in 0 minutes and 0 seconds. Total em milliseconds 15
 ## nodes: 18
 ## edges: 25
 ## duas: 55
 ## Unconstrained duas: 9
 ## Reduction nodes: 16
-@@ org.apache.commons.csv.CSVLexer.encapsulatedTokenLexer,18,25,55,9,16,16.363636363636363,29.09090909090909,0,17
+@@ org.apache.commons.csv.CSVLexer.encapsulatedTokenLexer,18,25,55,9,16,16.363636363636363,29.09090909090909,0,15
 
-org.apache.commons.csv.CSVLexer.encapsulatedTokenLexer;55;9;16;17;
+org.apache.commons.csv.CSVLexer.encapsulatedTokenLexer;55;9;16;15;
 
 
 #org/apache/commons/csv/ExtendedBufferedReader/read:
@@ -232,15 +232,15 @@ org.apache.commons.csv.ExtendedBufferedReader.read;6;2;3;1;
 
 
 #org/apache/commons/csv/ExtendedBufferedReader/read:
-Method read reduced in 0 minutes and 0 seconds. Total em milliseconds 19
+Method read reduced in 0 minutes and 0 seconds. Total em milliseconds 15
 ## nodes: 19
 ## edges: 26
 ## duas: 56
 ## Unconstrained duas: 17
 ## Reduction nodes: 29
-@@ org.apache.commons.csv.ExtendedBufferedReader.read,19,26,56,17,29,30.357142857142854,51.78571428571429,0,19
+@@ org.apache.commons.csv.ExtendedBufferedReader.read,19,26,56,17,29,30.357142857142854,51.78571428571429,0,15
 
-org.apache.commons.csv.ExtendedBufferedReader.read;56;17;29;19;
+org.apache.commons.csv.ExtendedBufferedReader.read;56;17;29;15;
 
 
 #org/apache/commons/csv/ExtendedBufferedReader/readLine:
@@ -268,15 +268,15 @@ org.apache.commons.csv.CSVFormat.isLineBreak;4;3;4;0;
 
 
 #org/apache/commons/csv/CSVFormat/validate:
-Method validate reduced in 0 minutes and 0 seconds. Total em milliseconds 3
+Method validate reduced in 0 minutes and 0 seconds. Total em milliseconds 4
 ## nodes: 14
 ## edges: 20
 ## duas: 48
 ## Unconstrained duas: 9
 ## Reduction nodes: 14
-@@ org.apache.commons.csv.CSVFormat.validate,14,20,48,9,14,18.75,29.166666666666668,0,3
+@@ org.apache.commons.csv.CSVFormat.validate,14,20,48,9,14,18.75,29.166666666666668,0,4
 
-org.apache.commons.csv.CSVFormat.validate;48;9;14;3;
+org.apache.commons.csv.CSVFormat.validate;48;9;14;4;
 
 
 #org/apache/commons/csv/CSVFormat/withDelimiter:
@@ -292,15 +292,15 @@ org.apache.commons.csv.CSVFormat.withDelimiter;11;2;2;0;
 
 
 #org/apache/commons/csv/CSVFormat/withEncapsulator:
-Method withEncapsulator reduced in 0 minutes and 0 seconds. Total em milliseconds 1
+Method withEncapsulator reduced in 0 minutes and 0 seconds. Total em milliseconds 0
 ## nodes: 4
 ## edges: 4
 ## duas: 11
 ## Unconstrained duas: 2
 ## Reduction nodes: 2
-@@ org.apache.commons.csv.CSVFormat.withEncapsulator,4,4,11,2,2,18.181818181818183,18.181818181818183,0,1
+@@ org.apache.commons.csv.CSVFormat.withEncapsulator,4,4,11,2,2,18.181818181818183,18.181818181818183,0,0
 
-org.apache.commons.csv.CSVFormat.withEncapsulator;11;2;2;1;
+org.apache.commons.csv.CSVFormat.withEncapsulator;11;2;2;0;
 
 
 #org/apache/commons/csv/CSVFormat/isEncapsulating:
@@ -316,15 +316,15 @@ org.apache.commons.csv.CSVFormat.isEncapsulating;4;2;2;0;
 
 
 #org/apache/commons/csv/CSVFormat/withCommentStart:
-Method withCommentStart reduced in 0 minutes and 0 seconds. Total em milliseconds 1
+Method withCommentStart reduced in 0 minutes and 0 seconds. Total em milliseconds 0
 ## nodes: 4
 ## edges: 4
 ## duas: 11
 ## Unconstrained duas: 2
 ## Reduction nodes: 2
-@@ org.apache.commons.csv.CSVFormat.withCommentStart,4,4,11,2,2,18.181818181818183,18.181818181818183,0,1
+@@ org.apache.commons.csv.CSVFormat.withCommentStart,4,4,11,2,2,18.181818181818183,18.181818181818183,0,0
 
-org.apache.commons.csv.CSVFormat.withCommentStart;11;2;2;1;
+org.apache.commons.csv.CSVFormat.withCommentStart;11;2;2;0;
 
 
 #org/apache/commons/csv/CSVFormat/isCommentingEnabled:
@@ -340,15 +340,15 @@ org.apache.commons.csv.CSVFormat.isCommentingEnabled;4;2;2;0;
 
 
 #org/apache/commons/csv/CSVFormat/withEscape:
-Method withEscape reduced in 0 minutes and 0 seconds. Total em milliseconds 1
+Method withEscape reduced in 0 minutes and 0 seconds. Total em milliseconds 4
 ## nodes: 4
 ## edges: 4
 ## duas: 11
 ## Unconstrained duas: 2
 ## Reduction nodes: 2
-@@ org.apache.commons.csv.CSVFormat.withEscape,4,4,11,2,2,18.181818181818183,18.181818181818183,0,1
+@@ org.apache.commons.csv.CSVFormat.withEscape,4,4,11,2,2,18.181818181818183,18.181818181818183,0,4
 
-org.apache.commons.csv.CSVFormat.withEscape;11;2;2;1;
+org.apache.commons.csv.CSVFormat.withEscape;11;2;2;4;
 
 
 #org/apache/commons/csv/CSVFormat/isEscaping:
@@ -376,15 +376,15 @@ org.apache.commons.csv.CSVFormat.toString;22;10;11;5;
 
 
 #org/apache/commons/csv/CSVPrinter/<init>:
-Method <init> reduced in 0 minutes and 0 seconds. Total em milliseconds 1
+Method <init> reduced in 0 minutes and 0 seconds. Total em milliseconds 0
 ## nodes: 5
 ## edges: 5
 ## duas: 5
 ## Unconstrained duas: 2
 ## Reduction nodes: 3
-@@ org.apache.commons.csv.CSVPrinter.<init>,5,5,5,2,3,40.0,60.0,0,1
+@@ org.apache.commons.csv.CSVPrinter.<init>,5,5,5,2,3,40.0,60.0,0,0
 
-org.apache.commons.csv.CSVPrinter.<init>;5;2;3;1;
+org.apache.commons.csv.CSVPrinter.<init>;5;2;3;0;
 
 
 #org/apache/commons/csv/CSVPrinter/flush:
@@ -412,15 +412,15 @@ org.apache.commons.csv.CSVPrinter.println;11;2;4;1;
 
 
 #org/apache/commons/csv/CSVPrinter/printComment:
-Method printComment reduced in 0 minutes and 0 seconds. Total em milliseconds 16
+Method printComment reduced in 0 minutes and 0 seconds. Total em milliseconds 13
 ## nodes: 15
 ## edges: 21
 ## duas: 48
 ## Unconstrained duas: 12
 ## Reduction nodes: 25
-@@ org.apache.commons.csv.CSVPrinter.printComment,15,21,48,12,25,25.0,52.083333333333336,0,16
+@@ org.apache.commons.csv.CSVPrinter.printComment,15,21,48,12,25,25.0,52.083333333333336,0,13
 
-org.apache.commons.csv.CSVPrinter.printComment;48;12;25;16;
+org.apache.commons.csv.CSVPrinter.printComment;48;12;25;13;
 
 
 #org/apache/commons/csv/CSVPrinter/print:
@@ -448,27 +448,27 @@ org.apache.commons.csv.CSVPrinter.printSep;8;2;2;1;
 
 
 #org/apache/commons/csv/CSVPrinter/printAndEscape:
-Method printAndEscape reduced in 0 minutes and 0 seconds. Total em milliseconds 20
+Method printAndEscape reduced in 0 minutes and 0 seconds. Total em milliseconds 24
 ## nodes: 18
 ## edges: 26
 ## duas: 65
 ## Unconstrained duas: 16
 ## Reduction nodes: 37
-@@ org.apache.commons.csv.CSVPrinter.printAndEscape,18,26,65,16,37,24.615384615384617,56.92307692307692,0,20
+@@ org.apache.commons.csv.CSVPrinter.printAndEscape,18,26,65,16,37,24.615384615384617,56.92307692307692,0,24
 
-org.apache.commons.csv.CSVPrinter.printAndEscape;65;16;37;20;
+org.apache.commons.csv.CSVPrinter.printAndEscape;65;16;37;24;
 
 
 #org/apache/commons/csv/CSVPrinter/printAndEncapsulate:
-Method printAndEncapsulate reduced in 0 minutes and 0 seconds. Total em milliseconds 38
+Method printAndEncapsulate reduced in 0 minutes and 0 seconds. Total em milliseconds 41
 ## nodes: 32
 ## edges: 51
 ## duas: 115
 ## Unconstrained duas: 43
 ## Reduction nodes: 71
-@@ org.apache.commons.csv.CSVPrinter.printAndEncapsulate,32,51,115,43,71,37.391304347826086,61.73913043478261,0,38
+@@ org.apache.commons.csv.CSVPrinter.printAndEncapsulate,32,51,115,43,71,37.391304347826086,61.73913043478261,0,41
 
-org.apache.commons.csv.CSVPrinter.printAndEncapsulate;115;43;71;38;
+org.apache.commons.csv.CSVPrinter.printAndEncapsulate;115;43;71;41;
 
 
 #org/apache/commons/csv/CSVPrinter/print:
@@ -483,4 +483,4 @@ Method print reduced in 0 minutes and 0 seconds. Total em milliseconds 1
 org.apache.commons.csv.CSVPrinter.print;11;4;8;1;
 
 40 methods analyzed in 0 minutes and 0 seconds
-Unconstrained DUAs time (ms):747
+Unconstrained DUAs time (ms):706

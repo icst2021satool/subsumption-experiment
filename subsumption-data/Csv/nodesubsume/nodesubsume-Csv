@@ -32,11 +32,11 @@ Local DUA-Node subsumption of method org.apache.commons.csv.CSVParser.getRecord 
 ## DUAs: 33
 ## Subsumed DUAs: 10
 ## Node DUA coverage: 30.303030303030305
-@@ org.apache.commons.csv.CSVParser.initializeHeader,12,16,33,10,30.303030303030305,0,2
+@@ org.apache.commons.csv.CSVParser.initializeHeader,12,16,33,10,30.303030303030305,0,1
 
 
 #org/apache/commons/csv/CSVParser/initializeHeader:
-Local DUA-Node subsumption of method org.apache.commons.csv.CSVParser.initializeHeader calculated in 0 minutes, 0 seconds, and 2 milliseconds
+Local DUA-Node subsumption of method org.apache.commons.csv.CSVParser.initializeHeader calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #org/apache/commons/csv/Lexer/readEscape:
 ## nodes: 8
@@ -68,11 +68,11 @@ Local DUA-Node subsumption of method org.apache.commons.csv.Lexer.trimTrailingSp
 ## DUAs: 8
 ## Subsumed DUAs: 4
 ## Node DUA coverage: 50.0
-@@ org.apache.commons.csv.Lexer.isWhitespace,6,7,8,4,50.0,0,1
+@@ org.apache.commons.csv.Lexer.isWhitespace,6,7,8,4,50.0,0,0
 
 
 #org/apache/commons/csv/Lexer/isWhitespace:
-Local DUA-Node subsumption of method org.apache.commons.csv.Lexer.isWhitespace calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Node subsumption of method org.apache.commons.csv.Lexer.isWhitespace calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #org/apache/commons/csv/Lexer/isEndOfLine:
 ## nodes: 9
@@ -80,11 +80,11 @@ Local DUA-Node subsumption of method org.apache.commons.csv.Lexer.isWhitespace c
 ## DUAs: 16
 ## Subsumed DUAs: 5
 ## Node DUA coverage: 31.25
-@@ org.apache.commons.csv.Lexer.isEndOfLine,9,12,16,5,31.25,0,2
+@@ org.apache.commons.csv.Lexer.isEndOfLine,9,12,16,5,31.25,0,1
 
 
 #org/apache/commons/csv/Lexer/isEndOfLine:
-Local DUA-Node subsumption of method org.apache.commons.csv.Lexer.isEndOfLine calculated in 0 minutes, 0 seconds, and 2 milliseconds
+Local DUA-Node subsumption of method org.apache.commons.csv.Lexer.isEndOfLine calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #org/apache/commons/csv/Lexer/isEndOfFile:
 ## nodes: 5
@@ -92,11 +92,11 @@ Local DUA-Node subsumption of method org.apache.commons.csv.Lexer.isEndOfLine ca
 ## DUAs: 2
 ## Subsumed DUAs: 2
 ## Node DUA coverage: 100.0
-@@ org.apache.commons.csv.Lexer.isEndOfFile,5,5,2,2,100.0,0,0
+@@ org.apache.commons.csv.Lexer.isEndOfFile,5,5,2,2,100.0,0,1
 
 
 #org/apache/commons/csv/Lexer/isEndOfFile:
-Local DUA-Node subsumption of method org.apache.commons.csv.Lexer.isEndOfFile calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Node subsumption of method org.apache.commons.csv.Lexer.isEndOfFile calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #org/apache/commons/csv/Lexer/isDelimiter:
 ## nodes: 5
@@ -140,11 +140,11 @@ Local DUA-Node subsumption of method org.apache.commons.csv.Lexer.isEncapsulator
 ## DUAs: 10
 ## Subsumed DUAs: 5
 ## Node DUA coverage: 50.0
-@@ org.apache.commons.csv.Lexer.isCommentStart,6,7,10,5,50.0,0,1
+@@ org.apache.commons.csv.Lexer.isCommentStart,6,7,10,5,50.0,0,0
 
 
 #org/apache/commons/csv/Lexer/isCommentStart:
-Local DUA-Node subsumption of method org.apache.commons.csv.Lexer.isCommentStart calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Node subsumption of method org.apache.commons.csv.Lexer.isCommentStart calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #org/apache/commons/csv/CSVRecord/<init>:
 ## nodes: 5
@@ -164,11 +164,11 @@ Local DUA-Node subsumption of method org.apache.commons.csv.CSVRecord.<init> cal
 ## DUAs: 12
 ## Subsumed DUAs: 12
 ## Node DUA coverage: 100.0
-@@ org.apache.commons.csv.CSVRecord.get,7,8,12,12,100.0,0,1
+@@ org.apache.commons.csv.CSVRecord.get,7,8,12,12,100.0,0,0
 
 
 #org/apache/commons/csv/CSVRecord/get:
-Local DUA-Node subsumption of method org.apache.commons.csv.CSVRecord.get calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Node subsumption of method org.apache.commons.csv.CSVRecord.get calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #org/apache/commons/csv/CSVParser$1/hasNext:
 ## nodes: 7
@@ -200,11 +200,11 @@ Local DUA-Node subsumption of method org.apache.commons.csv.CSVParser$1.next cal
 ## DUAs: 157
 ## Subsumed DUAs: 41
 ## Node DUA coverage: 26.11464968152866
-@@ org.apache.commons.csv.CSVLexer.nextToken,30,48,157,41,26.11464968152866,0,3
+@@ org.apache.commons.csv.CSVLexer.nextToken,30,48,157,41,26.11464968152866,0,2
 
 
 #org/apache/commons/csv/CSVLexer/nextToken:
-Local DUA-Node subsumption of method org.apache.commons.csv.CSVLexer.nextToken calculated in 0 minutes, 0 seconds, and 3 milliseconds
+Local DUA-Node subsumption of method org.apache.commons.csv.CSVLexer.nextToken calculated in 0 minutes, 0 seconds, and 2 milliseconds
 Warning: Method:org.apache.commons.csv.CSVLexer.simpleTokenLexer has incoming edges.
 
 #org/apache/commons/csv/CSVLexer/encapsulatedTokenLexer:
@@ -225,11 +225,11 @@ Local DUA-Node subsumption of method org.apache.commons.csv.CSVLexer.encapsulate
 ## DUAs: 6
 ## Subsumed DUAs: 5
 ## Node DUA coverage: 83.33333333333334
-@@ org.apache.commons.csv.ExtendedBufferedReader.read,4,4,6,5,83.33333333333334,0,1
+@@ org.apache.commons.csv.ExtendedBufferedReader.read,4,4,6,5,83.33333333333334,0,0
 
 
 #org/apache/commons/csv/ExtendedBufferedReader/read:
-Local DUA-Node subsumption of method org.apache.commons.csv.ExtendedBufferedReader.read calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Node subsumption of method org.apache.commons.csv.ExtendedBufferedReader.read calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #org/apache/commons/csv/ExtendedBufferedReader/read:
 ## nodes: 19
@@ -309,11 +309,11 @@ Local DUA-Node subsumption of method org.apache.commons.csv.CSVFormat.withEncaps
 ## DUAs: 4
 ## Subsumed DUAs: 4
 ## Node DUA coverage: 100.0
-@@ org.apache.commons.csv.CSVFormat.isEncapsulating,5,5,4,4,100.0,0,1
+@@ org.apache.commons.csv.CSVFormat.isEncapsulating,5,5,4,4,100.0,0,0
 
 
 #org/apache/commons/csv/CSVFormat/isEncapsulating:
-Local DUA-Node subsumption of method org.apache.commons.csv.CSVFormat.isEncapsulating calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Node subsumption of method org.apache.commons.csv.CSVFormat.isEncapsulating calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #org/apache/commons/csv/CSVFormat/withCommentStart:
 ## nodes: 4
@@ -345,11 +345,11 @@ Local DUA-Node subsumption of method org.apache.commons.csv.CSVFormat.isCommenti
 ## DUAs: 11
 ## Subsumed DUAs: 11
 ## Node DUA coverage: 100.0
-@@ org.apache.commons.csv.CSVFormat.withEscape,4,4,11,11,100.0,0,0
+@@ org.apache.commons.csv.CSVFormat.withEscape,4,4,11,11,100.0,0,1
 
 
 #org/apache/commons/csv/CSVFormat/withEscape:
-Local DUA-Node subsumption of method org.apache.commons.csv.CSVFormat.withEscape calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Node subsumption of method org.apache.commons.csv.CSVFormat.withEscape calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #org/apache/commons/csv/CSVFormat/isEscaping:
 ## nodes: 5
@@ -369,11 +369,11 @@ Local DUA-Node subsumption of method org.apache.commons.csv.CSVFormat.isEscaping
 ## DUAs: 22
 ## Subsumed DUAs: 17
 ## Node DUA coverage: 77.27272727272727
-@@ org.apache.commons.csv.CSVFormat.toString,12,16,22,17,77.27272727272727,0,0
+@@ org.apache.commons.csv.CSVFormat.toString,12,16,22,17,77.27272727272727,0,1
 
 
 #org/apache/commons/csv/CSVFormat/toString:
-Local DUA-Node subsumption of method org.apache.commons.csv.CSVFormat.toString calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Node subsumption of method org.apache.commons.csv.CSVFormat.toString calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #org/apache/commons/csv/CSVPrinter/<init>:
 ## nodes: 5
@@ -381,11 +381,11 @@ Local DUA-Node subsumption of method org.apache.commons.csv.CSVFormat.toString c
 ## DUAs: 5
 ## Subsumed DUAs: 5
 ## Node DUA coverage: 100.0
-@@ org.apache.commons.csv.CSVPrinter.<init>,5,5,5,5,100.0,0,1
+@@ org.apache.commons.csv.CSVPrinter.<init>,5,5,5,5,100.0,0,0
 
 
 #org/apache/commons/csv/CSVPrinter/<init>:
-Local DUA-Node subsumption of method org.apache.commons.csv.CSVPrinter.<init> calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Node subsumption of method org.apache.commons.csv.CSVPrinter.<init> calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #org/apache/commons/csv/CSVPrinter/flush:
 ## nodes: 4
@@ -429,11 +429,11 @@ Local DUA-Node subsumption of method org.apache.commons.csv.CSVPrinter.printComm
 ## DUAs: 21
 ## Subsumed DUAs: 21
 ## Node DUA coverage: 100.0
-@@ org.apache.commons.csv.CSVPrinter.print,7,8,21,21,100.0,0,0
+@@ org.apache.commons.csv.CSVPrinter.print,7,8,21,21,100.0,0,1
 
 
 #org/apache/commons/csv/CSVPrinter/print:
-Local DUA-Node subsumption of method org.apache.commons.csv.CSVPrinter.print calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Node subsumption of method org.apache.commons.csv.CSVPrinter.print calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #org/apache/commons/csv/CSVPrinter/printSep:
 ## nodes: 5
@@ -441,11 +441,11 @@ Local DUA-Node subsumption of method org.apache.commons.csv.CSVPrinter.print cal
 ## DUAs: 8
 ## Subsumed DUAs: 8
 ## Node DUA coverage: 100.0
-@@ org.apache.commons.csv.CSVPrinter.printSep,5,5,8,8,100.0,0,0
+@@ org.apache.commons.csv.CSVPrinter.printSep,5,5,8,8,100.0,0,1
 
 
 #org/apache/commons/csv/CSVPrinter/printSep:
-Local DUA-Node subsumption of method org.apache.commons.csv.CSVPrinter.printSep calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Node subsumption of method org.apache.commons.csv.CSVPrinter.printSep calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #org/apache/commons/csv/CSVPrinter/printAndEscape:
 ## nodes: 18
@@ -453,11 +453,11 @@ Local DUA-Node subsumption of method org.apache.commons.csv.CSVPrinter.printSep 
 ## DUAs: 65
 ## Subsumed DUAs: 22
 ## Node DUA coverage: 33.84615384615385
-@@ org.apache.commons.csv.CSVPrinter.printAndEscape,18,26,65,22,33.84615384615385,0,2
+@@ org.apache.commons.csv.CSVPrinter.printAndEscape,18,26,65,22,33.84615384615385,0,1
 
 
 #org/apache/commons/csv/CSVPrinter/printAndEscape:
-Local DUA-Node subsumption of method org.apache.commons.csv.CSVPrinter.printAndEscape calculated in 0 minutes, 0 seconds, and 2 milliseconds
+Local DUA-Node subsumption of method org.apache.commons.csv.CSVPrinter.printAndEscape calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #org/apache/commons/csv/CSVPrinter/printAndEncapsulate:
 ## nodes: 32
@@ -465,11 +465,11 @@ Local DUA-Node subsumption of method org.apache.commons.csv.CSVPrinter.printAndE
 ## DUAs: 115
 ## Subsumed DUAs: 46
 ## Node DUA coverage: 40.0
-@@ org.apache.commons.csv.CSVPrinter.printAndEncapsulate,32,51,115,46,40.0,0,2
+@@ org.apache.commons.csv.CSVPrinter.printAndEncapsulate,32,51,115,46,40.0,0,5
 
 
 #org/apache/commons/csv/CSVPrinter/printAndEncapsulate:
-Local DUA-Node subsumption of method org.apache.commons.csv.CSVPrinter.printAndEncapsulate calculated in 0 minutes, 0 seconds, and 2 milliseconds
+Local DUA-Node subsumption of method org.apache.commons.csv.CSVPrinter.printAndEncapsulate calculated in 0 minutes, 0 seconds, and 5 milliseconds
 
 #org/apache/commons/csv/CSVPrinter/print:
 ## nodes: 7
@@ -483,4 +483,4 @@ Local DUA-Node subsumption of method org.apache.commons.csv.CSVPrinter.printAndE
 #org/apache/commons/csv/CSVPrinter/print:
 Local DUA-Node subsumption of method org.apache.commons.csv.CSVPrinter.print calculated in 0 minutes, 0 seconds, and 1 milliseconds
 40 methods had the node subsumption relationship calculated in 0 minutes and 0 seconds
-Local DUA-Node subsumption time (ms):354
+Local DUA-Node subsumption time (ms):396
