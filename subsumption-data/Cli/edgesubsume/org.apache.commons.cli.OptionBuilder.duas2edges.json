@@ -1,0 +1,12 @@
+{
+"Class" : "org.apache.commons.cli.OptionBuilder", 
+"Methods" : [{ "Name" : "hasArg" ,
+"Edges" : 5,
+"Duas" : 3,
+"0" : 1, 
+ "1" : 2},{ "Name" : "create" ,
+"Edges" : 4,
+"Duas" : 2,
+"0" : 1, 
+ "1" : 2}]
+}

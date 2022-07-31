@@ -1,0 +1,309 @@
+@@ Method, Nodes, Nduas, Time_s, Time_ms
+
+
+#org/apache/commons/cli/TypeHandler/createValue:
+Method org.apache.commons.cli.TypeHandler.createValue graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.cli.TypeHandler.createValue,20,45,0,19
+
+
+#org/apache/commons/cli/TypeHandler/createDate:
+Method org.apache.commons.cli.TypeHandler.createDate graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.cli.TypeHandler.createDate,4,5,0,0
+
+
+#org/apache/commons/cli/Options/addOptionGroup:
+Method org.apache.commons.cli.Options.addOptionGroup graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.cli.Options.addOptionGroup,6,12,0,1
+
+
+#org/apache/commons/cli/Options/addOption:
+Method org.apache.commons.cli.Options.addOption graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.cli.Options.addOption,8,23,0,3
+
+
+#org/apache/commons/cli/Options/helpOptions:
+Method org.apache.commons.cli.Options.helpOptions graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.cli.Options.helpOptions,7,10,0,3
+
+
+#org/apache/commons/cli/Options/getOption:
+Method org.apache.commons.cli.Options.getOption graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.cli.Options.getOption,4,12,0,1
+
+
+#org/apache/commons/cli/Options/hasOption:
+Method org.apache.commons.cli.Options.hasOption graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.cli.Options.hasOption,6,12,0,1
+
+
+#org/apache/commons/cli/HelpFormatter/printHelp:
+Method org.apache.commons.cli.HelpFormatter.printHelp graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.cli.HelpFormatter.printHelp,14,37,0,7
+
+
+#org/apache/commons/cli/HelpFormatter/printUsage:
+Method org.apache.commons.cli.HelpFormatter.printUsage graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.cli.HelpFormatter.printUsage,11,22,0,6
+
+
+#org/apache/commons/cli/HelpFormatter/appendOptionGroup:
+Method org.apache.commons.cli.HelpFormatter.appendOptionGroup graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.cli.HelpFormatter.appendOptionGroup,10,14,0,2
+
+
+#org/apache/commons/cli/HelpFormatter/appendOption:
+Method org.apache.commons.cli.HelpFormatter.appendOption graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.cli.HelpFormatter.appendOption,12,18,0,2
+
+
+#org/apache/commons/cli/HelpFormatter/renderOptions:
+Method org.apache.commons.cli.HelpFormatter.renderOptions graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.cli.HelpFormatter.renderOptions,25,76,0,28
+
+
+#org/apache/commons/cli/HelpFormatter/renderWrappedText:
+Method org.apache.commons.cli.HelpFormatter.renderWrappedText graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.cli.HelpFormatter.renderWrappedText,7,28,0,2
+
+
+#org/apache/commons/cli/HelpFormatter/findWrapPos:
+Method org.apache.commons.cli.HelpFormatter.findWrapPos graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.cli.HelpFormatter.findWrapPos,26,88,0,16
+
+
+#org/apache/commons/cli/HelpFormatter/createPadding:
+Method org.apache.commons.cli.HelpFormatter.createPadding graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.cli.HelpFormatter.createPadding,5,10,0,0
+
+
+#org/apache/commons/cli/HelpFormatter/rtrim:
+Method org.apache.commons.cli.HelpFormatter.rtrim graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.cli.HelpFormatter.rtrim,9,21,0,2
+
+
+#org/apache/commons/cli/CommandLine/getOptionObject:
+Method org.apache.commons.cli.CommandLine.getOptionObject graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.cli.CommandLine.getOptionObject,7,13,0,0
+
+
+#org/apache/commons/cli/CommandLine/getOptionValue:
+Method org.apache.commons.cli.CommandLine.getOptionValue graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.cli.CommandLine.getOptionValue,5,3,0,0
+
+
+#org/apache/commons/cli/CommandLine/getOptionValues:
+Method org.apache.commons.cli.CommandLine.getOptionValues graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.cli.CommandLine.getOptionValues,6,21,0,2
+
+
+#org/apache/commons/cli/CommandLine/getOptionValue:
+Method org.apache.commons.cli.CommandLine.getOptionValue graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.cli.CommandLine.getOptionValue,5,4,0,0
+
+
+#org/apache/commons/cli/CommandLine/addOption:
+Method org.apache.commons.cli.CommandLine.addOption graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.cli.CommandLine.addOption,5,12,0,1
+
+
+#org/apache/commons/cli/PosixParser/flatten:
+Method org.apache.commons.cli.PosixParser.flatten graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.cli.PosixParser.flatten,21,46,0,15
+
+
+#org/apache/commons/cli/PosixParser/gobble:
+Method org.apache.commons.cli.PosixParser.gobble graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.cli.PosixParser.gobble,5,9,0,0
+
+
+#org/apache/commons/cli/PosixParser/process:
+Method org.apache.commons.cli.PosixParser.process graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.cli.PosixParser.process,9,25,0,1
+
+
+#org/apache/commons/cli/PosixParser/processOptionToken:
+Method org.apache.commons.cli.PosixParser.processOptionToken graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.cli.PosixParser.processOptionToken,6,13,0,0
+
+
+#org/apache/commons/cli/PosixParser/burstToken:
+Method org.apache.commons.cli.PosixParser.burstToken graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.cli.PosixParser.burstToken,12,43,0,4
+
+
+#org/apache/commons/cli/Option/<init>:
+Method org.apache.commons.cli.Option.<init> graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.cli.Option.<init>,4,6,0,0
+
+
+#org/apache/commons/cli/Option/getKey:
+Method org.apache.commons.cli.Option.getKey graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.cli.Option.getKey,4,8,0,0
+
+
+#org/apache/commons/cli/Option/hasLongOpt:
+Method org.apache.commons.cli.Option.hasLongOpt graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.cli.Option.hasLongOpt,5,4,0,0
+
+
+#org/apache/commons/cli/Option/hasArg:
+Method org.apache.commons.cli.Option.hasArg graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.cli.Option.hasArg,6,8,0,1
+
+
+#org/apache/commons/cli/Option/hasArgName:
+Method org.apache.commons.cli.Option.hasArgName graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.cli.Option.hasArgName,6,8,0,0
+
+
+#org/apache/commons/cli/Option/hasArgs:
+Method org.apache.commons.cli.Option.hasArgs graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.cli.Option.hasArgs,6,8,0,1
+
+
+#org/apache/commons/cli/Option/hasValueSeparator:
+Method org.apache.commons.cli.Option.hasValueSeparator graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.cli.Option.hasValueSeparator,5,4,0,0
+
+
+#org/apache/commons/cli/Option/addValue:
+Method org.apache.commons.cli.Option.addValue graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.cli.Option.addValue,4,6,0,0
+
+
+#org/apache/commons/cli/Option/processValue:
+Method org.apache.commons.cli.Option.processValue graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.cli.Option.processValue,8,23,0,1
+
+
+#org/apache/commons/cli/Option/add:
+Method org.apache.commons.cli.Option.add graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.cli.Option.add,5,13,0,1
+
+
+#org/apache/commons/cli/Option/getValue:
+Method org.apache.commons.cli.Option.getValue graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.cli.Option.getValue,5,4,0,0
+
+
+#org/apache/commons/cli/Option/getValue:
+Method org.apache.commons.cli.Option.getValue graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.cli.Option.getValue,5,5,0,0
+
+
+#org/apache/commons/cli/Option/getValue:
+Method org.apache.commons.cli.Option.getValue graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.cli.Option.getValue,5,4,0,0
+
+
+#org/apache/commons/cli/Option/getValues:
+Method org.apache.commons.cli.Option.getValues graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.cli.Option.getValues,5,4,0,1
+
+
+#org/apache/commons/cli/Option/toString:
+Method org.apache.commons.cli.Option.toString graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.cli.Option.toString,8,24,0,1
+
+
+#org/apache/commons/cli/Option/hasNoValues:
+Method org.apache.commons.cli.Option.hasNoValues graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.cli.Option.hasNoValues,5,4,0,0
+
+
+#org/apache/commons/cli/Option/equals:
+Method org.apache.commons.cli.Option.equals graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.cli.Option.equals,17,43,0,2
+
+
+#org/apache/commons/cli/Option/hashCode:
+Method org.apache.commons.cli.Option.hashCode graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.cli.Option.hashCode,8,11,0,1
+
+
+#org/apache/commons/cli/Util/stripLeadingHyphens:
+Method org.apache.commons.cli.Util.stripLeadingHyphens graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.cli.Util.stripLeadingHyphens,6,7,0,0
+
+
+#org/apache/commons/cli/Util/stripLeadingAndTrailingQuotes:
+Method org.apache.commons.cli.Util.stripLeadingAndTrailingQuotes graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.cli.Util.stripLeadingAndTrailingQuotes,6,12,0,0
+
+
+#org/apache/commons/cli/GnuParser/flatten:
+Method org.apache.commons.cli.GnuParser.flatten graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.cli.GnuParser.flatten,40,154,0,50
+
+
+#org/apache/commons/cli/OptionGroup/setSelected:
+Method org.apache.commons.cli.OptionGroup.setSelected graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.cli.OptionGroup.setSelected,5,14,0,0
+
+
+#org/apache/commons/cli/OptionGroup/toString:
+Method org.apache.commons.cli.OptionGroup.toString graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.cli.OptionGroup.toString,10,15,0,1
+
+
+#org/apache/commons/cli/PatternOptionBuilder/getValueClass:
+Method org.apache.commons.cli.PatternOptionBuilder.getValueClass graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.cli.PatternOptionBuilder.getValueClass,20,27,0,1
+
+
+#org/apache/commons/cli/PatternOptionBuilder/isValueCode:
+Method org.apache.commons.cli.PatternOptionBuilder.isValueCode graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.cli.PatternOptionBuilder.isValueCode,13,20,0,1
+
+
+#org/apache/commons/cli/PatternOptionBuilder/parsePattern:
+Method org.apache.commons.cli.PatternOptionBuilder.parsePattern graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.cli.PatternOptionBuilder.parsePattern,20,56,0,5
+
+
+#org/apache/commons/cli/Parser/parse:
+Method org.apache.commons.cli.Parser.parse graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.cli.Parser.parse,25,59,0,11
+
+
+#org/apache/commons/cli/Parser/processProperties:
+Method org.apache.commons.cli.Parser.processProperties graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.cli.Parser.processProperties,17,33,0,7
+
+
+#org/apache/commons/cli/Parser/checkRequiredOptions:
+Method org.apache.commons.cli.Parser.checkRequiredOptions graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.cli.Parser.checkRequiredOptions,7,11,0,1
+
+
+#org/apache/commons/cli/Parser/processArgs:
+Method org.apache.commons.cli.Parser.processArgs graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.cli.Parser.processArgs,10,19,0,1
+
+
+#org/apache/commons/cli/Parser/processOption:
+Method org.apache.commons.cli.Parser.processOption graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.cli.Parser.processOption,12,35,0,2
+
+
+#org/apache/commons/cli/OptionBuilder/hasArg:
+Method org.apache.commons.cli.OptionBuilder.hasArg graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.cli.OptionBuilder.hasArg,5,3,0,0
+
+
+#org/apache/commons/cli/OptionBuilder/create:
+Method org.apache.commons.cli.OptionBuilder.create graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.cli.OptionBuilder.create,4,2,0,0
+
+
+#org/apache/commons/cli/OptionValidator/validateOption:
+Method org.apache.commons.cli.OptionValidator.validateOption graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.cli.OptionValidator.validateOption,13,26,0,2
+
+
+#org/apache/commons/cli/OptionValidator/isValidOpt:
+Method org.apache.commons.cli.OptionValidator.isValidOpt graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.cli.OptionValidator.isValidOpt,8,8,0,0
+
+61 methods have their graphdua generated in 0 minutes and 0 seconds
+Graphduas time (ms):532

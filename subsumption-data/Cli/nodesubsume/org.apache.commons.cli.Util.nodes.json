@@ -1,0 +1,20 @@
+{
+"Class" : "org.apache.commons.cli.Util", 
+"Methods" : [{ "Name" : "stripLeadingHyphens" ,
+"Nodes" : 6,
+"0" : [ 35 ]
+"1" : [ 39 ]
+"2" : [ 44 ]
+"3" : [ 41 ]
+"4" : [ 37 ]
+"5" : [  ]
+},{ "Name" : "stripLeadingAndTrailingQuotes" ,
+"Nodes" : 6,
+"0" : [ 58 ]
+"1" : [ 61 ]
+"2" : [ 64 ]
+"3" : [ 62 ]
+"4" : [ 59 ]
+"5" : [  ]
+}]
+}

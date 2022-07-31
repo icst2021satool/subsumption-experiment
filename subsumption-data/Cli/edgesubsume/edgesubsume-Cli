@@ -8,11 +8,11 @@
 ## DUAs: 45
 ## Subsumed DUAs: 45
 ## Edge DUA coverage: 100.0
-@@ org.apache.commons.cli.TypeHandler.createValue,20,28,45,45,100.0,0,9
+@@ org.apache.commons.cli.TypeHandler.createValue,20,28,45,45,100.0,0,14
 
 
 #org/apache/commons/cli/TypeHandler/createValue:
-Local DUA-Edge subsumption of method org.apache.commons.cli.TypeHandler.createValue  calculated in 0 minutes, 0 seconds, and 9 milliseconds
+Local DUA-Edge subsumption of method org.apache.commons.cli.TypeHandler.createValue  calculated in 0 minutes, 0 seconds, and 14 milliseconds
 
 #org/apache/commons/cli/TypeHandler/createDate:
 ## nodes: 4
@@ -20,11 +20,11 @@ Local DUA-Edge subsumption of method org.apache.commons.cli.TypeHandler.createVa
 ## DUAs: 5
 ## Subsumed DUAs: 5
 ## Edge DUA coverage: 100.0
-@@ org.apache.commons.cli.TypeHandler.createDate,4,4,5,5,100.0,0,0
+@@ org.apache.commons.cli.TypeHandler.createDate,4,4,5,5,100.0,0,1
 
 
 #org/apache/commons/cli/TypeHandler/createDate:
-Local DUA-Edge subsumption of method org.apache.commons.cli.TypeHandler.createDate  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method org.apache.commons.cli.TypeHandler.createDate  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #org/apache/commons/cli/Options/addOptionGroup:
 ## nodes: 6
@@ -44,11 +44,11 @@ Local DUA-Edge subsumption of method org.apache.commons.cli.Options.addOptionGro
 ## DUAs: 23
 ## Subsumed DUAs: 23
 ## Edge DUA coverage: 100.0
-@@ org.apache.commons.cli.Options.addOption,8,10,23,23,100.0,0,1
+@@ org.apache.commons.cli.Options.addOption,8,10,23,23,100.0,0,4
 
 
 #org/apache/commons/cli/Options/addOption:
-Local DUA-Edge subsumption of method org.apache.commons.cli.Options.addOption  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method org.apache.commons.cli.Options.addOption  calculated in 0 minutes, 0 seconds, and 4 milliseconds
 
 #org/apache/commons/cli/Options/helpOptions:
 ## nodes: 7
@@ -80,11 +80,11 @@ Local DUA-Edge subsumption of method org.apache.commons.cli.Options.getOption  c
 ## DUAs: 12
 ## Subsumed DUAs: 12
 ## Edge DUA coverage: 100.0
-@@ org.apache.commons.cli.Options.hasOption,6,7,12,12,100.0,0,0
+@@ org.apache.commons.cli.Options.hasOption,6,7,12,12,100.0,0,1
 
 
 #org/apache/commons/cli/Options/hasOption:
-Local DUA-Edge subsumption of method org.apache.commons.cli.Options.hasOption  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method org.apache.commons.cli.Options.hasOption  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #org/apache/commons/cli/HelpFormatter/printHelp:
 ## nodes: 14
@@ -92,11 +92,11 @@ Local DUA-Edge subsumption of method org.apache.commons.cli.Options.hasOption  c
 ## DUAs: 37
 ## Subsumed DUAs: 37
 ## Edge DUA coverage: 100.0
-@@ org.apache.commons.cli.HelpFormatter.printHelp,14,20,37,37,100.0,0,1
+@@ org.apache.commons.cli.HelpFormatter.printHelp,14,20,37,37,100.0,0,2
 
 
 #org/apache/commons/cli/HelpFormatter/printHelp:
-Local DUA-Edge subsumption of method org.apache.commons.cli.HelpFormatter.printHelp  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method org.apache.commons.cli.HelpFormatter.printHelp  calculated in 0 minutes, 0 seconds, and 2 milliseconds
 
 #org/apache/commons/cli/HelpFormatter/printUsage:
 ## nodes: 11
@@ -140,11 +140,11 @@ Local DUA-Edge subsumption of method org.apache.commons.cli.HelpFormatter.append
 ## DUAs: 76
 ## Subsumed DUAs: 62
 ## Edge DUA coverage: 81.57894736842105
-@@ org.apache.commons.cli.HelpFormatter.renderOptions,25,34,76,62,81.57894736842105,0,3
+@@ org.apache.commons.cli.HelpFormatter.renderOptions,25,34,76,62,81.57894736842105,0,2
 
 
 #org/apache/commons/cli/HelpFormatter/renderOptions:
-Local DUA-Edge subsumption of method org.apache.commons.cli.HelpFormatter.renderOptions  calculated in 0 minutes, 0 seconds, and 3 milliseconds
+Local DUA-Edge subsumption of method org.apache.commons.cli.HelpFormatter.renderOptions  calculated in 0 minutes, 0 seconds, and 2 milliseconds
 
 #org/apache/commons/cli/HelpFormatter/renderWrappedText:
 ## nodes: 7
@@ -164,11 +164,11 @@ Local DUA-Edge subsumption of method org.apache.commons.cli.HelpFormatter.render
 ## DUAs: 88
 ## Subsumed DUAs: 60
 ## Edge DUA coverage: 68.18181818181817
-@@ org.apache.commons.cli.HelpFormatter.findWrapPos,26,40,88,60,68.18181818181817,0,2
+@@ org.apache.commons.cli.HelpFormatter.findWrapPos,26,40,88,60,68.18181818181817,0,10
 
 
 #org/apache/commons/cli/HelpFormatter/findWrapPos:
-Local DUA-Edge subsumption of method org.apache.commons.cli.HelpFormatter.findWrapPos  calculated in 0 minutes, 0 seconds, and 2 milliseconds
+Local DUA-Edge subsumption of method org.apache.commons.cli.HelpFormatter.findWrapPos  calculated in 0 minutes, 0 seconds, and 10 milliseconds
 
 #org/apache/commons/cli/HelpFormatter/createPadding:
 ## nodes: 5
@@ -176,11 +176,11 @@ Local DUA-Edge subsumption of method org.apache.commons.cli.HelpFormatter.findWr
 ## DUAs: 10
 ## Subsumed DUAs: 6
 ## Edge DUA coverage: 60.0
-@@ org.apache.commons.cli.HelpFormatter.createPadding,5,5,10,6,60.0,0,1
+@@ org.apache.commons.cli.HelpFormatter.createPadding,5,5,10,6,60.0,0,4
 
 
 #org/apache/commons/cli/HelpFormatter/createPadding:
-Local DUA-Edge subsumption of method org.apache.commons.cli.HelpFormatter.createPadding  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method org.apache.commons.cli.HelpFormatter.createPadding  calculated in 0 minutes, 0 seconds, and 4 milliseconds
 
 #org/apache/commons/cli/HelpFormatter/rtrim:
 ## nodes: 9
@@ -200,11 +200,11 @@ Local DUA-Edge subsumption of method org.apache.commons.cli.HelpFormatter.rtrim 
 ## DUAs: 13
 ## Subsumed DUAs: 13
 ## Edge DUA coverage: 100.0
-@@ org.apache.commons.cli.CommandLine.getOptionObject,7,8,13,13,100.0,0,1
+@@ org.apache.commons.cli.CommandLine.getOptionObject,7,8,13,13,100.0,0,0
 
 
 #org/apache/commons/cli/CommandLine/getOptionObject:
-Local DUA-Edge subsumption of method org.apache.commons.cli.CommandLine.getOptionObject  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method org.apache.commons.cli.CommandLine.getOptionObject  calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #org/apache/commons/cli/CommandLine/getOptionValue:
 ## nodes: 5
@@ -224,11 +224,11 @@ Local DUA-Edge subsumption of method org.apache.commons.cli.CommandLine.getOptio
 ## DUAs: 21
 ## Subsumed DUAs: 15
 ## Edge DUA coverage: 71.42857142857143
-@@ org.apache.commons.cli.CommandLine.getOptionValues,6,7,21,15,71.42857142857143,0,0
+@@ org.apache.commons.cli.CommandLine.getOptionValues,6,7,21,15,71.42857142857143,0,1
 
 
 #org/apache/commons/cli/CommandLine/getOptionValues:
-Local DUA-Edge subsumption of method org.apache.commons.cli.CommandLine.getOptionValues  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method org.apache.commons.cli.CommandLine.getOptionValues  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #org/apache/commons/cli/CommandLine/getOptionValue:
 ## nodes: 5
@@ -236,11 +236,11 @@ Local DUA-Edge subsumption of method org.apache.commons.cli.CommandLine.getOptio
 ## DUAs: 4
 ## Subsumed DUAs: 4
 ## Edge DUA coverage: 100.0
-@@ org.apache.commons.cli.CommandLine.getOptionValue,5,5,4,4,100.0,0,0
+@@ org.apache.commons.cli.CommandLine.getOptionValue,5,5,4,4,100.0,0,1
 
 
 #org/apache/commons/cli/CommandLine/getOptionValue:
-Local DUA-Edge subsumption of method org.apache.commons.cli.CommandLine.getOptionValue  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method org.apache.commons.cli.CommandLine.getOptionValue  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #org/apache/commons/cli/CommandLine/addOption:
 ## nodes: 5
@@ -272,11 +272,11 @@ Local DUA-Edge subsumption of method org.apache.commons.cli.PosixParser.flatten 
 ## DUAs: 9
 ## Subsumed DUAs: 9
 ## Edge DUA coverage: 100.0
-@@ org.apache.commons.cli.PosixParser.gobble,5,6,9,9,100.0,0,1
+@@ org.apache.commons.cli.PosixParser.gobble,5,6,9,9,100.0,0,0
 
 
 #org/apache/commons/cli/PosixParser/gobble:
-Local DUA-Edge subsumption of method org.apache.commons.cli.PosixParser.gobble  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method org.apache.commons.cli.PosixParser.gobble  calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #org/apache/commons/cli/PosixParser/process:
 ## nodes: 9
@@ -320,11 +320,11 @@ Local DUA-Edge subsumption of method org.apache.commons.cli.PosixParser.burstTok
 ## DUAs: 6
 ## Subsumed DUAs: 6
 ## Edge DUA coverage: 100.0
-@@ org.apache.commons.cli.Option.<init>,4,4,6,6,100.0,0,0
+@@ org.apache.commons.cli.Option.<init>,4,4,6,6,100.0,0,1
 
 
 #org/apache/commons/cli/Option/<init>:
-Local DUA-Edge subsumption of method org.apache.commons.cli.Option.<init>  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method org.apache.commons.cli.Option.<init>  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #org/apache/commons/cli/Option/getKey:
 ## nodes: 4
@@ -332,11 +332,11 @@ Local DUA-Edge subsumption of method org.apache.commons.cli.Option.<init>  calcu
 ## DUAs: 8
 ## Subsumed DUAs: 8
 ## Edge DUA coverage: 100.0
-@@ org.apache.commons.cli.Option.getKey,4,4,8,8,100.0,0,1
+@@ org.apache.commons.cli.Option.getKey,4,4,8,8,100.0,0,0
 
 
 #org/apache/commons/cli/Option/getKey:
-Local DUA-Edge subsumption of method org.apache.commons.cli.Option.getKey  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method org.apache.commons.cli.Option.getKey  calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #org/apache/commons/cli/Option/hasLongOpt:
 ## nodes: 5
@@ -356,11 +356,11 @@ Local DUA-Edge subsumption of method org.apache.commons.cli.Option.hasLongOpt  c
 ## DUAs: 8
 ## Subsumed DUAs: 8
 ## Edge DUA coverage: 100.0
-@@ org.apache.commons.cli.Option.hasArg,6,7,8,8,100.0,0,0
+@@ org.apache.commons.cli.Option.hasArg,6,7,8,8,100.0,0,1
 
 
 #org/apache/commons/cli/Option/hasArg:
-Local DUA-Edge subsumption of method org.apache.commons.cli.Option.hasArg  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method org.apache.commons.cli.Option.hasArg  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #org/apache/commons/cli/Option/hasArgName:
 ## nodes: 6
@@ -380,11 +380,11 @@ Local DUA-Edge subsumption of method org.apache.commons.cli.Option.hasArgName  c
 ## DUAs: 8
 ## Subsumed DUAs: 8
 ## Edge DUA coverage: 100.0
-@@ org.apache.commons.cli.Option.hasArgs,6,7,8,8,100.0,0,0
+@@ org.apache.commons.cli.Option.hasArgs,6,7,8,8,100.0,0,1
 
 
 #org/apache/commons/cli/Option/hasArgs:
-Local DUA-Edge subsumption of method org.apache.commons.cli.Option.hasArgs  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method org.apache.commons.cli.Option.hasArgs  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #org/apache/commons/cli/Option/hasValueSeparator:
 ## nodes: 5
@@ -416,11 +416,11 @@ Local DUA-Edge subsumption of method org.apache.commons.cli.Option.addValue  cal
 ## DUAs: 23
 ## Subsumed DUAs: 17
 ## Edge DUA coverage: 73.91304347826086
-@@ org.apache.commons.cli.Option.processValue,8,10,23,17,73.91304347826086,0,2
+@@ org.apache.commons.cli.Option.processValue,8,10,23,17,73.91304347826086,0,1
 
 
 #org/apache/commons/cli/Option/processValue:
-Local DUA-Edge subsumption of method org.apache.commons.cli.Option.processValue  calculated in 0 minutes, 0 seconds, and 2 milliseconds
+Local DUA-Edge subsumption of method org.apache.commons.cli.Option.processValue  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #org/apache/commons/cli/Option/add:
 ## nodes: 5
@@ -428,11 +428,11 @@ Local DUA-Edge subsumption of method org.apache.commons.cli.Option.processValue 
 ## DUAs: 13
 ## Subsumed DUAs: 13
 ## Edge DUA coverage: 100.0
-@@ org.apache.commons.cli.Option.add,5,6,13,13,100.0,0,1
+@@ org.apache.commons.cli.Option.add,5,6,13,13,100.0,0,0
 
 
 #org/apache/commons/cli/Option/add:
-Local DUA-Edge subsumption of method org.apache.commons.cli.Option.add  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method org.apache.commons.cli.Option.add  calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #org/apache/commons/cli/Option/getValue:
 ## nodes: 5
@@ -452,11 +452,11 @@ Local DUA-Edge subsumption of method org.apache.commons.cli.Option.getValue  cal
 ## DUAs: 5
 ## Subsumed DUAs: 5
 ## Edge DUA coverage: 100.0
-@@ org.apache.commons.cli.Option.getValue,5,5,5,5,100.0,0,0
+@@ org.apache.commons.cli.Option.getValue,5,5,5,5,100.0,0,1
 
 
 #org/apache/commons/cli/Option/getValue:
-Local DUA-Edge subsumption of method org.apache.commons.cli.Option.getValue  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method org.apache.commons.cli.Option.getValue  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #org/apache/commons/cli/Option/getValue:
 ## nodes: 5
@@ -524,11 +524,11 @@ Local DUA-Edge subsumption of method org.apache.commons.cli.Option.equals  calcu
 ## DUAs: 11
 ## Subsumed DUAs: 11
 ## Edge DUA coverage: 100.0
-@@ org.apache.commons.cli.Option.hashCode,8,9,11,11,100.0,0,0
+@@ org.apache.commons.cli.Option.hashCode,8,9,11,11,100.0,0,1
 
 
 #org/apache/commons/cli/Option/hashCode:
-Local DUA-Edge subsumption of method org.apache.commons.cli.Option.hashCode  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method org.apache.commons.cli.Option.hashCode  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #org/apache/commons/cli/Util/stripLeadingHyphens:
 ## nodes: 6
@@ -572,11 +572,11 @@ Local DUA-Edge subsumption of method org.apache.commons.cli.GnuParser.flatten  c
 ## DUAs: 14
 ## Subsumed DUAs: 14
 ## Edge DUA coverage: 100.0
-@@ org.apache.commons.cli.OptionGroup.setSelected,5,6,14,14,100.0,0,0
+@@ org.apache.commons.cli.OptionGroup.setSelected,5,6,14,14,100.0,0,2
 
 
 #org/apache/commons/cli/OptionGroup/setSelected:
-Local DUA-Edge subsumption of method org.apache.commons.cli.OptionGroup.setSelected  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method org.apache.commons.cli.OptionGroup.setSelected  calculated in 0 minutes, 0 seconds, and 2 milliseconds
 
 #org/apache/commons/cli/OptionGroup/toString:
 ## nodes: 10
@@ -644,11 +644,11 @@ Local DUA-Edge subsumption of method org.apache.commons.cli.Parser.parse  calcul
 ## DUAs: 33
 ## Subsumed DUAs: 33
 ## Edge DUA coverage: 100.0
-@@ org.apache.commons.cli.Parser.processProperties,17,25,33,33,100.0,0,1
+@@ org.apache.commons.cli.Parser.processProperties,17,25,33,33,100.0,0,0
 
 
 #org/apache/commons/cli/Parser/processProperties:
-Local DUA-Edge subsumption of method org.apache.commons.cli.Parser.processProperties  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method org.apache.commons.cli.Parser.processProperties  calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #org/apache/commons/cli/Parser/checkRequiredOptions:
 ## nodes: 7
@@ -681,11 +681,11 @@ Local DUA-Edge subsumption of method org.apache.commons.cli.Parser.processOption
 ## DUAs: 3
 ## Subsumed DUAs: 3
 ## Edge DUA coverage: 100.0
-@@ org.apache.commons.cli.OptionBuilder.hasArg,5,5,3,3,100.0,0,0
+@@ org.apache.commons.cli.OptionBuilder.hasArg,5,5,3,3,100.0,0,1
 
 
 #org/apache/commons/cli/OptionBuilder/hasArg:
-Local DUA-Edge subsumption of method org.apache.commons.cli.OptionBuilder.hasArg  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method org.apache.commons.cli.OptionBuilder.hasArg  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #org/apache/commons/cli/OptionBuilder/create:
 ## nodes: 4
@@ -693,11 +693,11 @@ Local DUA-Edge subsumption of method org.apache.commons.cli.OptionBuilder.hasArg
 ## DUAs: 2
 ## Subsumed DUAs: 2
 ## Edge DUA coverage: 100.0
-@@ org.apache.commons.cli.OptionBuilder.create,4,4,2,2,100.0,0,1
+@@ org.apache.commons.cli.OptionBuilder.create,4,4,2,2,100.0,0,0
 
 
 #org/apache/commons/cli/OptionBuilder/create:
-Local DUA-Edge subsumption of method org.apache.commons.cli.OptionBuilder.create  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method org.apache.commons.cli.OptionBuilder.create  calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #org/apache/commons/cli/OptionValidator/validateOption:
 ## nodes: 13
@@ -705,11 +705,11 @@ Local DUA-Edge subsumption of method org.apache.commons.cli.OptionBuilder.create
 ## DUAs: 26
 ## Subsumed DUAs: 17
 ## Edge DUA coverage: 65.38461538461539
-@@ org.apache.commons.cli.OptionValidator.validateOption,13,17,26,17,65.38461538461539,0,0
+@@ org.apache.commons.cli.OptionValidator.validateOption,13,17,26,17,65.38461538461539,0,2
 
 
 #org/apache/commons/cli/OptionValidator/validateOption:
-Local DUA-Edge subsumption of method org.apache.commons.cli.OptionValidator.validateOption  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method org.apache.commons.cli.OptionValidator.validateOption  calculated in 0 minutes, 0 seconds, and 2 milliseconds
 
 #org/apache/commons/cli/OptionValidator/isValidOpt:
 ## nodes: 8
@@ -717,10 +717,10 @@ Local DUA-Edge subsumption of method org.apache.commons.cli.OptionValidator.vali
 ## DUAs: 8
 ## Subsumed DUAs: 8
 ## Edge DUA coverage: 100.0
-@@ org.apache.commons.cli.OptionValidator.isValidOpt,8,11,8,8,100.0,0,0
+@@ org.apache.commons.cli.OptionValidator.isValidOpt,8,11,8,8,100.0,0,1
 
 
 #org/apache/commons/cli/OptionValidator/isValidOpt:
-Local DUA-Edge subsumption of method org.apache.commons.cli.OptionValidator.isValidOpt  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method org.apache.commons.cli.OptionValidator.isValidOpt  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 60 methods had the edge subsumption relationship calculated in 0 minutes and 0 seconds
-Local DUA-Edge subsumption time (ms):471
+Local DUA-Edge subsumption time (ms):789
