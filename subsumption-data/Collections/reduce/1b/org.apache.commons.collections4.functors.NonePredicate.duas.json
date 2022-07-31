@@ -1,0 +1,17 @@
+{
+"Class" : "org.apache.commons.collections4.functors.NonePredicate", 
+"Methods" : [{ "Name" : "nonePredicate" ,
+"Duas" : 3,
+"0" :  "(51,(52,53), predicates)",
+"1" :  "(51,(52,55), predicates)",
+"2" :  "(51,55, predicates)"},{ "Name" : "nonePredicate" ,
+"Duas" : 3,
+"0" :  "(70,(71,72), preds)",
+"1" :  "(70,(71,74), preds)",
+"2" :  "(70,74, preds)"},{ "Name" : "evaluate" ,
+"Duas" : 4,
+"0" :  "(94,(95,96), object)",
+"1" :  "(94,(95,94), object)",
+"2" :  "(94,(95,96), iPredicate)",
+"3" :  "(94,(95,94), iPredicate)"}]
+}

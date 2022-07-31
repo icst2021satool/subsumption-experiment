@@ -1,0 +1,10 @@
+{
+"Class" : "org.apache.commons.collections4.functors.ClosureTransformer", 
+"Methods" : [{ "Name" : "closureTransformer" ,
+"Nodes" : 4,
+"0" : [ 48 ]
+"1" : [ 51 ]
+"2" : [ 49 ]
+"3" : [  ]
+}]
+}

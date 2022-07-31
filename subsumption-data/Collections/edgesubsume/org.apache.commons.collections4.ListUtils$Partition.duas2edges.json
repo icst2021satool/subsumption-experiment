@@ -1,0 +1,14 @@
+{
+"Class" : "org.apache.commons.collections4.ListUtils$Partition", 
+"Methods" : [{ "Name" : "get" ,
+"Edges" : 10,
+"Duas" : 20,
+"3" : 8, 
+ "4" : 9, 
+ "5" : 1, 
+ "6" : 2, 
+ "14" : 5, 
+ "15" : 6, 
+ "16" : 1, 
+ "17" : 2}]
+}

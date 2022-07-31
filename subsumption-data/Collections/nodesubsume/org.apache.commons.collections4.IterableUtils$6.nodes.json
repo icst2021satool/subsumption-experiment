@@ -1,0 +1,11 @@
+{
+"Class" : "org.apache.commons.collections4.IterableUtils$6", 
+"Methods" : [{ "Name" : "iterator" ,
+"Nodes" : 5,
+"0" : [ 297 ]
+"1" : [ 297,299 ]
+"2" : [ 299,301 ]
+"3" : [ 297 ]
+"4" : [  ]
+}]
+}

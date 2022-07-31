@@ -1,0 +1,11 @@
+{
+"Class" : "org.apache.commons.collections4.sequence.EditScript", 
+"Methods" : [{ "Name" : "visit" ,
+"Nodes" : 5,
+"0" : [ 106 ]
+"1" : [ 106 ]
+"2" : [ 109 ]
+"3" : [ 106,107,108 ]
+"4" : [  ]
+}]
+}

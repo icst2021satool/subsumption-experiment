@@ -1,0 +1,41 @@
+{
+"Class" : "org.apache.commons.collections4.bidimap.DualTreeBidiMap$BidiOrderedMapIterator", 
+"Methods" : [{ "Name" : "getKey" ,
+"Edges" : 4,
+"2" : [ 0, 3],
+"3" : [ 1, 2, 4, 5],
+"0" : [ 1, 2, 4, 5],
+"1" : [ 0, 3],
+"CoveredDUAsByEdges" : 6,
+"Duas" : 6
+},{ "Name" : "getValue" ,
+"Edges" : 4,
+"2" : [ 0, 3],
+"3" : [ 1, 2, 4, 5],
+"1" : [ 1, 2, 4, 5],
+"0" : [ 0, 3],
+"CoveredDUAsByEdges" : 6,
+"Duas" : 6
+},{ "Name" : "setValue" ,
+"Edges" : 9,
+"7" : [ 0, 14],
+"8" : [ 1, 15],
+"4" : [ 1, 2, 20, 8, 25, 15],
+"5" : [ 1, 3, 4, 5, 9, 10, 11, 15, 16, 17, 21, 22, 26],
+"1" : [ 1, 2, 6, 8, 12, 15, 18, 20, 23, 25, 27],
+"2" : [ 1, 4, 5, 7, 10, 11, 13, 15, 16, 17, 19, 22, 24, 28],
+"0" : [ 1, 4, 5, 10, 11, 15, 16, 17, 22],
+"3" : [ 1, 2, 6, 8, 12, 15, 18, 20, 23, 25, 27],
+"6" : [ 0, 14],
+"CoveredDUAsByEdges" : 29,
+"Duas" : 29
+},{ "Name" : "toString" ,
+"Edges" : 4,
+"2" : [ 0, 2, 3],
+"3" : [ 1, 4],
+"1" : [ 1, 4],
+"0" : [ 0, 2, 3],
+"CoveredDUAsByEdges" : 5,
+"Duas" : 5
+}]
+}

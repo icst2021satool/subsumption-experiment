@@ -1,0 +1,28 @@
+{
+"Class" : "org.apache.commons.collections4.functors.EqualPredicate", 
+"Methods" : [{ "Name" : "equalPredicate" ,
+"Nodes" : 4,
+"0" : [ ],
+"1" : [ 1, 2],
+"2" : [ 0],
+"3" : [ ],
+"CoveredDUAsByNodes" : 3,
+"Duas" : 3
+},{ "Name" : "equalPredicate" ,
+"Nodes" : 4,
+"0" : [ ],
+"1" : [ 1, 2, 3],
+"2" : [ 0],
+"3" : [ ],
+"CoveredDUAsByNodes" : 4,
+"Duas" : 4
+},{ "Name" : "evaluate" ,
+"Nodes" : 4,
+"0" : [ ],
+"1" : [ 1, 2, 4, 7, 9],
+"2" : [ 0, 3, 5, 6, 8, 10],
+"3" : [ ],
+"CoveredDUAsByNodes" : 11,
+"Duas" : 11
+}]
+}

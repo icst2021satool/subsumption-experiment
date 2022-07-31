@@ -1,0 +1,10 @@
+{
+"Class" : "org.apache.commons.collections4.bag.UnmodifiableBag", 
+"Methods" : [{ "Name" : "unmodifiableBag" ,
+"Nodes" : 4,
+"0" : [ 59 ]
+"1" : [ 64 ]
+"2" : [ 61,62 ]
+"3" : [  ]
+}]
+}

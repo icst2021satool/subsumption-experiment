@@ -1,0 +1,12 @@
+{
+"Class" : "org.apache.commons.collections4.list.SetUniqueList$SetListListIterator", 
+"Methods" : [{ "Name" : "add" ,
+"Edges" : 4,
+"Duas" : 11,
+"0" : 1, 
+ "1" : 2, 
+ "4" : 1, 
+ "5" : 2, 
+ "8" : 1, 
+ "9" : 2}]
+}

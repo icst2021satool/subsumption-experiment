@@ -1,0 +1,23 @@
+{
+"Class" : "org.apache.commons.collections4.trie.AbstractPatriciaTrie$PrefixRangeEntrySet$SingletonIterator", 
+"Methods" : [{ "Name" : "hasNext" ,
+"Nodes" : 5,
+"0" : [ 2288 ]
+"1" : [ 2288 ]
+"2" : [ 2288 ]
+"3" : [ 2288 ]
+"4" : [  ]
+},{ "Name" : "next" ,
+"Nodes" : 4,
+"0" : [ 2292 ]
+"1" : [ 2296,2297 ]
+"2" : [ 2293 ]
+"3" : [  ]
+},{ "Name" : "remove" ,
+"Nodes" : 4,
+"0" : [ 2301 ]
+"1" : [ 2305,2306,2307 ]
+"2" : [ 2302 ]
+"3" : [  ]
+}]
+}

@@ -1,0 +1,27 @@
+{
+"Class" : "org.apache.commons.collections4.collection.UnmodifiableBoundedCollection", 
+"Methods" : [{ "Name" : "unmodifiableBoundedCollection" ,
+"Nodes" : 4,
+"0" : [ 59 ]
+"1" : [ 64 ]
+"2" : [ 61,62 ]
+"3" : [  ]
+},{ "Name" : "unmodifiableBoundedCollection" ,
+"Nodes" : 15,
+"0" : [ 81 ]
+"1" : [ 86 ]
+"2" : [ 86 ]
+"3" : [ 97 ]
+"4" : [ 100 ]
+"5" : [ 98 ]
+"6" : [ 87 ]
+"7" : [ 90 ]
+"8" : [ 92 ]
+"9" : [ 86 ]
+"10" : [ 93 ]
+"11" : [ 91 ]
+"12" : [ 88 ]
+"13" : [ 82 ]
+"14" : [  ]
+}]
+}

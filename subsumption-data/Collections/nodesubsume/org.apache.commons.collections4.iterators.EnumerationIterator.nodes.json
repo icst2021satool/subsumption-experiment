@@ -1,0 +1,12 @@
+{
+"Class" : "org.apache.commons.collections4.iterators.EnumerationIterator", 
+"Methods" : [{ "Name" : "remove" ,
+"Nodes" : 6,
+"0" : [ 107 ]
+"1" : [ 114 ]
+"2" : [ 108 ]
+"3" : [ 111 ]
+"4" : [ 116,109 ]
+"5" : [  ]
+}]
+}

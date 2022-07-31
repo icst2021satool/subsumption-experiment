@@ -1,0 +1,23 @@
+{
+"Class" : "org.apache.commons.collections4.list.PredicatedList", 
+"Methods" : [{ "Name" : "equals" ,
+"Nodes" : 6,
+"0" : [ ],
+"3" : [ 0, 4],
+"4" : [ 0, 3, 4, 7],
+"1" : [ ],
+"2" : [ ],
+"5" : [ ],
+"CoveredDUAsByNodes" : 4,
+"Duas" : 8
+},{ "Name" : "addAll" ,
+"Nodes" : 5,
+"0" : [ ],
+"1" : [ ],
+"2" : [ 0, 2, 3],
+"4" : [ 0, 2, 3],
+"3" : [ 1],
+"CoveredDUAsByNodes" : 4,
+"Duas" : 4
+}]
+}

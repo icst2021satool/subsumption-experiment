@@ -1,0 +1,14 @@
+{
+"Class" : "org.apache.commons.collections4.queue.TransformedQueue", 
+"Methods" : [{ "Name" : "transformedQueue" ,
+"Nodes" : 6,
+"0" : [ ],
+"2" : [ 0, 2, 3],
+"3" : [ 0, 2, 3],
+"1" : [ 5],
+"5" : [ 5],
+"4" : [ 0, 2, 3, 4, 6],
+"CoveredDUAsByNodes" : 6,
+"Duas" : 7
+}]
+}

@@ -1,0 +1,12 @@
+{
+"Class" : "org.apache.commons.collections4.map.EntrySetToMapIteratorAdapter", 
+"Methods" : [{ "Name" : "current" ,
+"Nodes" : 4,
+"0" : [ ],
+"1" : [ 1, 2, 4, 5],
+"2" : [ 0, 3],
+"3" : [ ],
+"CoveredDUAsByNodes" : 6,
+"Duas" : 6
+}]
+}

@@ -1,0 +1,10 @@
+{
+"Class" : "org.apache.commons.collections4.collection.AbstractCollectionDecorator", 
+"Methods" : [{ "Name" : "<init>" ,
+"Nodes" : 4,
+"0" : [ 78,79 ]
+"1" : [ 82,83 ]
+"2" : [ 80 ]
+"3" : [  ]
+}]
+}

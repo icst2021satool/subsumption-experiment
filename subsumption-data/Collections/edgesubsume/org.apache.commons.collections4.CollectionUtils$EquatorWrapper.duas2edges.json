@@ -1,0 +1,8 @@
+{
+"Class" : "org.apache.commons.collections4.CollectionUtils$EquatorWrapper", 
+"Methods" : [{ "Name" : "equals" ,
+"Edges" : 4,
+"Duas" : 6,
+"1" : 0, 
+ "2" : 1}]
+}

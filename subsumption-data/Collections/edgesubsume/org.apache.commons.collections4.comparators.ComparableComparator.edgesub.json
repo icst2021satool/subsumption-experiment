@@ -1,0 +1,17 @@
+{
+"Class" : "org.apache.commons.collections4.comparators.ComparableComparator", 
+"Methods" : [{ "Name" : "equals" ,
+"Edges" : 9,
+"7" : [ 0, 4],
+"8" : [ 1, 5],
+"0" : [ 0, 4, 6],
+"1" : [ 0, 4, 7],
+"5" : [ 2, 8],
+"6" : [ 0, 3, 4, 9],
+"4" : [ 0, 4],
+"3" : [ ],
+"2" : [ ],
+"CoveredDUAsByEdges" : 10,
+"Duas" : 10
+}]
+}

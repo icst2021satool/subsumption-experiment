@@ -1,0 +1,14 @@
+{
+"Class" : "org.apache.commons.collections4.bidimap.AbstractDualBidiMap$MapEntry", 
+"Methods" : [{ "Name" : "setValue" ,
+"Edges" : 6,
+"4" : [ 0, 17, 6, 12],
+"5" : [ 1, 2, 18, 3, 21, 7, 8, 9, 13, 14],
+"0" : [ 0, 17, 19, 4, 6, 22, 10, 12, 15],
+"1" : [ 16, 2, 3, 20, 5, 21, 23, 8, 9, 11, 14],
+"2" : [ 2, 3, 21, 8, 9, 14],
+"3" : [ 0, 17, 19, 4, 6, 22, 10, 12, 15],
+"CoveredDUAsByEdges" : 24,
+"Duas" : 24
+}]
+}

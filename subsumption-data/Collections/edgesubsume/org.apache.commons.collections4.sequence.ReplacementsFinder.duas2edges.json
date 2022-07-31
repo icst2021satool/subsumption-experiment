@@ -1,0 +1,14 @@
+{
+"Class" : "org.apache.commons.collections4.sequence.ReplacementsFinder", 
+"Methods" : [{ "Name" : "visitKeepCommand" ,
+"Edges" : 7,
+"Duas" : 20,
+"0" : 1, 
+ "1" : 2, 
+ "6" : 5, 
+ "7" : 6, 
+ "9" : 1, 
+ "10" : 2, 
+ "15" : 5, 
+ "16" : 6}]
+}

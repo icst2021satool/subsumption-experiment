@@ -1,0 +1,22 @@
+{
+"Class" : "org.apache.commons.collections4.map.AbstractLinkedMap$LinkMapIterator", 
+"Methods" : [{ "Name" : "getKey" ,
+"Nodes" : 4,
+"0" : [ 365,366 ]
+"1" : [ 369 ]
+"2" : [ 367 ]
+"3" : [  ]
+},{ "Name" : "getValue" ,
+"Nodes" : 4,
+"0" : [ 373,374 ]
+"1" : [ 377 ]
+"2" : [ 375 ]
+"3" : [  ]
+},{ "Name" : "setValue" ,
+"Nodes" : 4,
+"0" : [ 381,382 ]
+"1" : [ 385 ]
+"2" : [ 383 ]
+"3" : [  ]
+}]
+}

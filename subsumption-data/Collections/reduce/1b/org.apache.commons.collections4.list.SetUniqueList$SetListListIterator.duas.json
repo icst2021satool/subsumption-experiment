@@ -1,0 +1,16 @@
+{
+"Class" : "org.apache.commons.collections4.list.SetUniqueList$SetListListIterator", 
+"Methods" : [{ "Name" : "add" ,
+"Duas" : 11,
+"0" :  "(412,(412,413), this)",
+"1" :  "(412,(412,416), this)",
+"2" :  "(412,413, this)",
+"3" :  "(412,414, this)",
+"4" :  "(412,(412,413), object)",
+"5" :  "(412,(412,416), object)",
+"6" :  "(412,413, object)",
+"7" :  "(412,414, object)",
+"8" :  "(412,(412,413), this.set)",
+"9" :  "(412,(412,416), this.set)",
+"10" :  "(412,414, this.set)"}]
+}

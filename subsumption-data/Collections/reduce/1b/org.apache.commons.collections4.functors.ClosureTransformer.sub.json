@@ -1,0 +1,9 @@
+{
+"Class" : "org.apache.commons.collections4.functors.ClosureTransformer", 
+"Methods" : [{ "Name" : "closureTransformer" ,
+"Duas" : "3" ,
+"Subsumers" : 2,
+"0" : [ 0], "S0" : [0 ],
+"1" : [ 2, 1], "S1" : [1, 2 ]
+}]
+}

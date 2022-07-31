@@ -1,0 +1,26 @@
+{
+"Class" : "org.apache.commons.collections4.trie.AbstractPatriciaTrie$EntrySet", 
+"Methods" : [{ "Name" : "contains" ,
+"Nodes" : 8,
+"0" : [ ],
+"1" : [ 0, 2, 3, 6],
+"4" : [ 0, 2, 3, 6, 7],
+"2" : [ 0, 2, 3, 6],
+"5" : [ 0, 2, 3, 4, 6, 7, 9],
+"3" : [ 0, 2, 3, 6],
+"6" : [ 1],
+"7" : [ ],
+"CoveredDUAsByNodes" : 8,
+"Duas" : 11
+},{ "Name" : "remove" ,
+"Nodes" : 6,
+"0" : [ ],
+"1" : [ 4],
+"2" : [ 1, 2, 4, 6, 7, 8],
+"3" : [ 0, 4, 5],
+"4" : [ 3],
+"5" : [ ],
+"CoveredDUAsByNodes" : 9,
+"Duas" : 9
+}]
+}

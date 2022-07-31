@@ -1,0 +1,10 @@
+{
+"Class" : "org.apache.commons.collections4.bidimap.AbstractDualBidiMap$EntrySetIterator", 
+"Methods" : [{ "Name" : "remove" ,
+"Edges" : 4,
+"Duas" : 12,
+"0" : 0, 
+ "1" : 1, 
+ "7" : 0, 
+ "8" : 1}]
+}

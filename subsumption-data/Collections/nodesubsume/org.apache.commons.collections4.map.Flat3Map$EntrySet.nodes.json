@@ -1,0 +1,18 @@
+{
+"Class" : "org.apache.commons.collections4.map.Flat3Map$EntrySet", 
+"Methods" : [{ "Name" : "remove" ,
+"Nodes" : 4,
+"0" : [ 759 ]
+"1" : [ 762,763,764,765,766 ]
+"2" : [ 760 ]
+"3" : [  ]
+},{ "Name" : "iterator" ,
+"Nodes" : 6,
+"0" : [ 771 ]
+"1" : [ 774 ]
+"2" : [ 777 ]
+"3" : [ 775 ]
+"4" : [ 772 ]
+"5" : [  ]
+}]
+}

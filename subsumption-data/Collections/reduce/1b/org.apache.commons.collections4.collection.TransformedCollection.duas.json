@@ -1,0 +1,21 @@
+{
+"Class" : "org.apache.commons.collections4.collection.TransformedCollection", 
+"Methods" : [{ "Name" : "transformedCollection" ,
+"Duas" : 7,
+"0" :  "(84,(86,88), collection)",
+"1" :  "(84,(86,94), collection)",
+"2" :  "(84,88, collection)",
+"3" :  "(84,89, collection)",
+"4" :  "(84,91, transformer)",
+"5" :  "(84,94, decorated)",
+"6" :  "(84,91, decorated)"},{ "Name" : "<init>" ,
+"Duas" : 4,
+"0" :  "(109,113, this)",
+"1" :  "(109,(110,111), transformer)",
+"2" :  "(109,(110,113), transformer)",
+"3" :  "(109,113, transformer)"},{ "Name" : "transform" ,
+"Duas" : 3,
+"0" :  "(137,139, this)",
+"1" :  "(137,141, list)",
+"2" :  "(137,139, list)"}]
+}

@@ -1,0 +1,13 @@
+{
+"Class" : "org.apache.commons.collections4.map.CaseInsensitiveMap", 
+"Methods" : [{ "Name" : "convertKey" ,
+"Nodes" : 7,
+"0" : [ 124 ]
+"1" : [ 131 ]
+"2" : [ 125,126 ]
+"3" : [ 126 ]
+"4" : [ 129 ]
+"5" : [ 126,127 ]
+"6" : [  ]
+}]
+}

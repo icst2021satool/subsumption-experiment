@@ -1,0 +1,8 @@
+{
+"Class" : "org.apache.commons.collections4.list.UnmodifiableList", 
+"Methods" : [{ "Name" : "unmodifiableList" ,
+"Edges" : 4,
+"Duas" : 4,
+"0" : 0, 
+ "1" : 1}]
+}

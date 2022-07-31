@@ -1,0 +1,48 @@
+{
+"Class" : "org.apache.commons.collections4.bidimap.TreeBidiMap$Inverse", 
+"Methods" : [{ "Name" : "firstKey" ,
+"Duas" : "7" ,
+"Subsumers" : 2,
+"0" : [ 3, 0], "S0" : [0, 3 ],
+"1" : [ 6, 5, 4, 2, 1], "S1" : [1, 2, 4, 5, 6 ]
+},{ "Name" : "lastKey" ,
+"Duas" : "7" ,
+"Subsumers" : 2,
+"0" : [ 3, 0], "S0" : [0, 3 ],
+"1" : [ 6, 5, 4, 2, 1], "S1" : [1, 2, 4, 5, 6 ]
+},{ "Name" : "nextKey" ,
+"Duas" : "3" ,
+"Subsumers" : 2,
+"0" : [ 0], "S0" : [0, 2 ],
+"1" : [ 1], "S1" : [1, 2 ]
+},{ "Name" : "previousKey" ,
+"Duas" : "3" ,
+"Subsumers" : 2,
+"0" : [ 0], "S0" : [0, 2 ],
+"1" : [ 1], "S1" : [1, 2 ]
+},{ "Name" : "putAll" ,
+"Duas" : "1" ,
+"Subsumers" : 1,
+"0" : [ 0], "S0" : [0 ]
+},{ "Name" : "keySet" ,
+"Duas" : "11" ,
+"Subsumers" : 2,
+"0" : [ 10, 9, 8, 5, 3, 4, 0], "S0" : [0, 2, 3, 4, 5, 8, 9, 10 ],
+"1" : [ 7, 6, 1], "S1" : [1, 2, 6, 7 ]
+},{ "Name" : "values" ,
+"Duas" : "11" ,
+"Subsumers" : 2,
+"0" : [ 10, 9, 8, 5, 3, 4, 0], "S0" : [0, 2, 3, 4, 5, 8, 9, 10 ],
+"1" : [ 7, 6, 1], "S1" : [1, 2, 6, 7 ]
+},{ "Name" : "entrySet" ,
+"Duas" : "10" ,
+"Subsumers" : 2,
+"0" : [ 9, 8, 5, 3, 4, 0], "S0" : [0, 2, 3, 4, 5, 8, 9 ],
+"1" : [ 7, 6, 1], "S1" : [1, 2, 6, 7 ]
+},{ "Name" : "mapIterator" ,
+"Duas" : "5" ,
+"Subsumers" : 2,
+"0" : [ 0], "S0" : [0 ],
+"1" : [ 4, 3, 2, 1], "S1" : [1, 2, 3, 4 ]
+}]
+}

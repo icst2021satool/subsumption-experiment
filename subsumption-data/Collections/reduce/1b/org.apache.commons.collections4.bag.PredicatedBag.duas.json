@@ -1,0 +1,13 @@
+{
+"Class" : "org.apache.commons.collections4.bag.PredicatedBag", 
+"Methods" : [{ "Name" : "equals" ,
+"Duas" : 8,
+"0" :  "(92,(92,92), this)",
+"1" :  "(92,(92,92), this)",
+"2" :  "(92,(92,92), this)",
+"3" :  "(92,(92,92), this)",
+"4" :  "(92,(92,92), object)",
+"5" :  "(92,(92,92), object)",
+"6" :  "(92,(92,92), object)",
+"7" :  "(92,(92,92), object)"}]
+}

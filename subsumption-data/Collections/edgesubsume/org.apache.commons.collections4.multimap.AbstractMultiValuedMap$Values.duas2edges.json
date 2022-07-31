@@ -1,0 +1,7 @@
+{
+"Class" : "org.apache.commons.collections4.multimap.AbstractMultiValuedMap$Values", 
+"Methods" : [{ "Name" : "iterator" ,
+"Edges" : 5,
+"Duas" : 4,
+}]
+}

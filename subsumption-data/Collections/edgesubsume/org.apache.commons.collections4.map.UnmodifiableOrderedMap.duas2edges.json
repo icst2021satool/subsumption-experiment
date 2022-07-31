@@ -1,0 +1,8 @@
+{
+"Class" : "org.apache.commons.collections4.map.UnmodifiableOrderedMap", 
+"Methods" : [{ "Name" : "unmodifiableOrderedMap" ,
+"Edges" : 4,
+"Duas" : 4,
+"0" : 2, 
+ "1" : 3}]
+}

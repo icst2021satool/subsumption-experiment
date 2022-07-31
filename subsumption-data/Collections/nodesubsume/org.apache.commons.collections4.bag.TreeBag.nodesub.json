@@ -1,0 +1,15 @@
+{
+"Class" : "org.apache.commons.collections4.bag.TreeBag", 
+"Methods" : [{ "Name" : "add" ,
+"Nodes" : 7,
+"0" : [ ],
+"2" : [ 0],
+"1" : [ 2, 3],
+"3" : [ 0, 4],
+"4" : [ 0, 4, 7, 8],
+"5" : [ 0, 4, 6],
+"6" : [ ],
+"CoveredDUAsByNodes" : 7,
+"Duas" : 9
+}]
+}

@@ -1,0 +1,10 @@
+{
+"Class" : "org.apache.commons.collections4.bidimap.AbstractDualBidiMap$ValuesIterator", 
+"Methods" : [{ "Name" : "remove" ,
+"Nodes" : 4,
+"0" : [ 561 ]
+"1" : [ 564,565,566,567,568 ]
+"2" : [ 562 ]
+"3" : [  ]
+}]
+}

@@ -1,0 +1,26 @@
+{
+"Class" : "org.apache.commons.collections4.trie.AbstractPatriciaTrie$RangeEntrySet$EntryIterator", 
+"Methods" : [{ "Name" : "<init>" ,
+"Nodes" : 5,
+"0" : [ 2042,2043,2044 ]
+"1" : [ 2044 ]
+"2" : [ 2044,2045 ]
+"3" : [ 2044 ]
+"4" : [  ]
+},{ "Name" : "hasNext" ,
+"Nodes" : 6,
+"0" : [ 2049 ]
+"1" : [ 2049 ]
+"2" : [ 2049 ]
+"3" : [ 2049 ]
+"4" : [ 2049 ]
+"5" : [  ]
+},{ "Name" : "next" ,
+"Nodes" : 5,
+"0" : [ 2053 ]
+"1" : [ 2054 ]
+"2" : [ 2053 ]
+"3" : [ 2056 ]
+"4" : [  ]
+}]
+}

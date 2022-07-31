@@ -1,0 +1,10 @@
+{
+"Class" : "org.apache.commons.collections4.functors.MapTransformer", 
+"Methods" : [{ "Name" : "mapTransformer" ,
+"Nodes" : 4,
+"0" : [ 50 ]
+"1" : [ 53 ]
+"2" : [ 51 ]
+"3" : [  ]
+}]
+}

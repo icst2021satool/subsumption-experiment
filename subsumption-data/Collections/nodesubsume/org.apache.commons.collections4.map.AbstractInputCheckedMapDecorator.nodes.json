@@ -1,0 +1,10 @@
+{
+"Class" : "org.apache.commons.collections4.map.AbstractInputCheckedMapDecorator", 
+"Methods" : [{ "Name" : "entrySet" ,
+"Nodes" : 4,
+"0" : [ 99 ]
+"1" : [ 102 ]
+"2" : [ 100 ]
+"3" : [  ]
+}]
+}

@@ -1,0 +1,22 @@
+{
+"Class" : "org.apache.commons.collections4.bidimap.AbstractDualBidiMap$EntrySet", 
+"Methods" : [{ "Name" : "remove" ,
+"Edges" : 14,
+"Duas" : 29,
+"0" : 1, 
+ "1" : 2, 
+ "5" : 3, 
+ "6" : 4, 
+ "8" : 1, 
+ "9" : 2, 
+ "16" : 11, 
+ "17" : 12, 
+ "18" : 5, 
+ "19" : 6, 
+ "20" : 1, 
+ "21" : 2, 
+ "24" : 9, 
+ "25" : 10, 
+ "26" : 11, 
+ "27" : 12}]
+}

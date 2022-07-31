@@ -1,0 +1,16 @@
+{
+"Class" : "org.apache.commons.collections4.map.PassiveExpiringMap$ConstantTimeToLiveExpirationPolicy", 
+"Methods" : [{ "Name" : "expirationTime" ,
+"Edges" : 7,
+"Duas" : 13,
+"0" : 1, 
+ "1" : 2, 
+ "2" : 4, 
+ "3" : 5, 
+ "5" : 1, 
+ "6" : 2, 
+ "7" : 4, 
+ "8" : 5, 
+ "10" : 4, 
+ "11" : 5}]
+}

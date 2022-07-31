@@ -1,0 +1,12 @@
+{
+"Class" : "org.apache.commons.collections4.set.AbstractSetDecorator", 
+"Methods" : [{ "Name" : "equals" ,
+"Nodes" : 6,
+"0" : [ 68 ]
+"1" : [ 68 ]
+"2" : [ 68 ]
+"3" : [ 68 ]
+"4" : [ 68 ]
+"5" : [  ]
+}]
+}

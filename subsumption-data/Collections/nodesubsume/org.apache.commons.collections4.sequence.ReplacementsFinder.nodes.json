@@ -1,0 +1,12 @@
+{
+"Class" : "org.apache.commons.collections4.sequence.ReplacementsFinder", 
+"Methods" : [{ "Name" : "visitKeepCommand" ,
+"Nodes" : 6,
+"0" : [ 90 ]
+"1" : [ 96,93,94,95 ]
+"2" : [ 98 ]
+"3" : [ 90 ]
+"4" : [ 91 ]
+"5" : [  ]
+}]
+}

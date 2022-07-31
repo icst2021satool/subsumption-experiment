@@ -1,0 +1,23 @@
+{
+"Class" : "org.apache.commons.collections4.functors.OrPredicate", 
+"Methods" : [{ "Name" : "orPredicate" ,
+"Nodes" : 5,
+"0" : [ ],
+"2" : [ 0],
+"3" : [ 0, 2, 4, 5],
+"1" : [ ],
+"4" : [ ],
+"CoveredDUAsByNodes" : 4,
+"Duas" : 6
+},{ "Name" : "evaluate" ,
+"Nodes" : 6,
+"0" : [ ],
+"3" : [ 0, 4, 8],
+"4" : [ 0, 3, 4, 7, 8, 11],
+"1" : [ ],
+"2" : [ ],
+"5" : [ ],
+"CoveredDUAsByNodes" : 6,
+"Duas" : 12
+}]
+}

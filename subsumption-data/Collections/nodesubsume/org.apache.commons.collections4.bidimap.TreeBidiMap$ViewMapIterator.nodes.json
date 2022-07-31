@@ -1,0 +1,16 @@
+{
+"Class" : "org.apache.commons.collections4.bidimap.TreeBidiMap$ViewMapIterator", 
+"Methods" : [{ "Name" : "getKey" ,
+"Nodes" : 4,
+"0" : [ 1705 ]
+"1" : [ 1709 ]
+"2" : [ 1706 ]
+"3" : [  ]
+},{ "Name" : "getValue" ,
+"Nodes" : 4,
+"0" : [ 1713 ]
+"1" : [ 1717 ]
+"2" : [ 1714 ]
+"3" : [  ]
+}]
+}

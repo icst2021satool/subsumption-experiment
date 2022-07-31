@@ -1,0 +1,24 @@
+{
+"Class" : "org.apache.commons.collections4.EnumerationUtils", 
+"Methods" : [{ "Name" : "get" ,
+"Nodes" : 7,
+"0" : [ ],
+"1" : [ ],
+"2" : [ 1],
+"3" : [ 0, 5],
+"4" : [ 0, 2, 5, 7],
+"5" : [ 0, 3, 5, 6],
+"6" : [ ],
+"CoveredDUAsByNodes" : 7,
+"Duas" : 10
+},{ "Name" : "toList" ,
+"Nodes" : 5,
+"0" : [ ],
+"1" : [ ],
+"2" : [ 1, 3],
+"4" : [ 1, 3],
+"3" : [ 0, 2, 4],
+"CoveredDUAsByNodes" : 5,
+"Duas" : 5
+}]
+}

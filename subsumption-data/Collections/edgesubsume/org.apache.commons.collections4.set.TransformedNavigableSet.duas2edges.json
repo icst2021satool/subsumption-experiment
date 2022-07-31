@@ -1,0 +1,12 @@
+{
+"Class" : "org.apache.commons.collections4.set.TransformedNavigableSet", 
+"Methods" : [{ "Name" : "transformedNavigableSet" ,
+"Edges" : 11,
+"Duas" : 11,
+"0" : 0, 
+ "1" : 1, 
+ "2" : 2, 
+ "3" : 3, 
+ "6" : 8, 
+ "7" : 9}]
+}

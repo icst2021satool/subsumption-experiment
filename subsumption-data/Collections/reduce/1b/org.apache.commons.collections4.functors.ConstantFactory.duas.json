@@ -1,0 +1,9 @@
+{
+"Class" : "org.apache.commons.collections4.functors.ConstantFactory", 
+"Methods" : [{ "Name" : "constantFactory" ,
+"Duas" : 4,
+"0" :  "(54,(54,55), constantToReturn)",
+"1" :  "(54,(54,57), constantToReturn)",
+"2" :  "(54,57, constantToReturn)",
+"3" :  "(54,55, NULL_INSTANCE)"}]
+}

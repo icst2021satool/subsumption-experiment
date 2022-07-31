@@ -1,0 +1,20 @@
+{
+"Class" : "org.apache.commons.collections4.bidimap.UnmodifiableBidiMap", 
+"Methods" : [{ "Name" : "unmodifiableBidiMap" ,
+"Nodes" : 4,
+"0" : [ ],
+"1" : [ 1, 2],
+"2" : [ 0, 3],
+"3" : [ ],
+"CoveredDUAsByNodes" : 4,
+"Duas" : 4
+},{ "Name" : "inverseBidiMap" ,
+"Nodes" : 4,
+"0" : [ ],
+"2" : [ 0, 3, 4, 5, 6],
+"1" : [ 2],
+"3" : [ 2],
+"CoveredDUAsByNodes" : 6,
+"Duas" : 10
+}]
+}

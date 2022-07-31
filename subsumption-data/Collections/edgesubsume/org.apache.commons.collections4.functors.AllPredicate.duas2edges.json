@@ -1,0 +1,22 @@
+{
+"Class" : "org.apache.commons.collections4.functors.AllPredicate", 
+"Methods" : [{ "Name" : "allPredicate" ,
+"Edges" : 7,
+"Duas" : 6,
+"0" : 0, 
+ "1" : 1, 
+ "2" : 3, 
+ "3" : 4},{ "Name" : "allPredicate" ,
+"Edges" : 7,
+"Duas" : 6,
+"0" : 0, 
+ "1" : 1, 
+ "2" : 4, 
+ "3" : 5},{ "Name" : "evaluate" ,
+"Edges" : 8,
+"Duas" : 4,
+"0" : 0, 
+ "1" : 1, 
+ "2" : 0, 
+ "3" : 1}]
+}

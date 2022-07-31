@@ -1,0 +1,8 @@
+{
+"Class" : "org.apache.commons.collections4.queue.UnmodifiableQueue", 
+"Methods" : [{ "Name" : "unmodifiableQueue" ,
+"Edges" : 4,
+"Duas" : 4,
+"0" : 2, 
+ "1" : 3}]
+}

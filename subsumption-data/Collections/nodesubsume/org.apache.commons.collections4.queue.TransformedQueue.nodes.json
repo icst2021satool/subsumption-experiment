@@ -1,0 +1,12 @@
+{
+"Class" : "org.apache.commons.collections4.queue.TransformedQueue", 
+"Methods" : [{ "Name" : "transformedQueue" ,
+"Nodes" : 6,
+"0" : [ 76,77 ]
+"1" : [ 85 ]
+"2" : [ 80,81,79 ]
+"3" : [ 81 ]
+"4" : [ 81,82 ]
+"5" : [  ]
+}]
+}

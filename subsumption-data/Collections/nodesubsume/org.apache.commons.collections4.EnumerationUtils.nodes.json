@@ -1,0 +1,20 @@
+{
+"Class" : "org.apache.commons.collections4.EnumerationUtils", 
+"Methods" : [{ "Name" : "get" ,
+"Nodes" : 7,
+"0" : [ 55,56 ]
+"1" : [ 57 ]
+"2" : [ 65 ]
+"3" : [ 58,59 ]
+"4" : [ 62 ]
+"5" : [ 60 ]
+"6" : [  ]
+},{ "Name" : "toList" ,
+"Nodes" : 5,
+"0" : [ 91 ]
+"1" : [ 92 ]
+"2" : [ 95 ]
+"3" : [ 93 ]
+"4" : [  ]
+}]
+}

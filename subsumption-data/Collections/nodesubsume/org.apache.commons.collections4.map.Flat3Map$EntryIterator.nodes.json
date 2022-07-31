@@ -1,0 +1,23 @@
+{
+"Class" : "org.apache.commons.collections4.map.Flat3Map$EntryIterator", 
+"Methods" : [{ "Name" : "hasNext" ,
+"Nodes" : 5,
+"0" : [ 905 ]
+"1" : [ 905 ]
+"2" : [ 905 ]
+"3" : [ 905 ]
+"4" : [  ]
+},{ "Name" : "nextEntry" ,
+"Nodes" : 4,
+"0" : [ 909 ]
+"1" : [ 912,913 ]
+"2" : [ 910 ]
+"3" : [  ]
+},{ "Name" : "remove" ,
+"Nodes" : 4,
+"0" : [ 917 ]
+"1" : [ 920,921,922,923,924 ]
+"2" : [ 918 ]
+"3" : [  ]
+}]
+}

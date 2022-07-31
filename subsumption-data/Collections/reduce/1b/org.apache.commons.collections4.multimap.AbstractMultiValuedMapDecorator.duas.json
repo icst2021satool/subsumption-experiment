@@ -1,0 +1,16 @@
+{
+"Class" : "org.apache.commons.collections4.multimap.AbstractMultiValuedMapDecorator", 
+"Methods" : [{ "Name" : "<init>" ,
+"Duas" : 4,
+"0" :  "(57,61, this)",
+"1" :  "(57,(58,59), map)",
+"2" :  "(57,(58,61), map)",
+"3" :  "(57,61, map)"},{ "Name" : "equals" ,
+"Duas" : 6,
+"0" :  "(146,(146,147), this)",
+"1" :  "(146,(146,149), this)",
+"2" :  "(146,149, this)",
+"3" :  "(146,(146,147), object)",
+"4" :  "(146,(146,149), object)",
+"5" :  "(146,149, object)"}]
+}

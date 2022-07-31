@@ -1,0 +1,13 @@
+{
+"Class" : "org.apache.commons.collections4.CollectionUtils$SetOperationCardinalityHelper", 
+"Methods" : [{ "Name" : "setCardinality" ,
+"Nodes" : 5,
+"0" : [ ],
+"1" : [ ],
+"2" : [ 3],
+"4" : [ 3],
+"3" : [ 0, 1, 2, 4, 5, 7],
+"CoveredDUAsByNodes" : 7,
+"Duas" : 11
+}]
+}

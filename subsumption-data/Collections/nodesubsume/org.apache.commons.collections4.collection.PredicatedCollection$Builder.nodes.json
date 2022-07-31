@@ -1,0 +1,49 @@
+{
+"Class" : "org.apache.commons.collections4.collection.PredicatedCollection$Builder", 
+"Methods" : [{ "Name" : "<init>" ,
+"Nodes" : 4,
+"0" : [ 209,212,221,222 ]
+"1" : [ 225,226 ]
+"2" : [ 223 ]
+"3" : [  ]
+},{ "Name" : "add" ,
+"Nodes" : 5,
+"0" : [ 238 ]
+"1" : [ 241 ]
+"2" : [ 243 ]
+"3" : [ 239 ]
+"4" : [  ]
+},{ "Name" : "addAll" ,
+"Nodes" : 6,
+"0" : [ 256 ]
+"1" : [ 261 ]
+"2" : [ 257 ]
+"3" : [ 257 ]
+"4" : [ 257,258,259 ]
+"5" : [  ]
+},{ "Name" : "createPredicatedList" ,
+"Nodes" : 4,
+"0" : [ 288 ]
+"1" : [ 291,292,293 ]
+"2" : [ 289 ]
+"3" : [  ]
+},{ "Name" : "createPredicatedSet" ,
+"Nodes" : 4,
+"0" : [ 320 ]
+"1" : [ 323,324,325 ]
+"2" : [ 321 ]
+"3" : [  ]
+},{ "Name" : "createPredicatedBag" ,
+"Nodes" : 4,
+"0" : [ 352 ]
+"1" : [ 355,356,357 ]
+"2" : [ 353 ]
+"3" : [  ]
+},{ "Name" : "createPredicatedQueue" ,
+"Nodes" : 4,
+"0" : [ 384 ]
+"1" : [ 387,388,389 ]
+"2" : [ 385 ]
+"3" : [  ]
+}]
+}

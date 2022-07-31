@@ -1,0 +1,12 @@
+{
+"Class" : "org.apache.commons.collections4.map.AbstractReferenceMap$ReferenceStrength", 
+"Methods" : [{ "Name" : "resolve" ,
+"Nodes" : 6,
+"0" : [ 100 ]
+"1" : [ 106 ]
+"2" : [ 104 ]
+"3" : [ 102 ]
+"4" : [ 108 ]
+"5" : [  ]
+}]
+}

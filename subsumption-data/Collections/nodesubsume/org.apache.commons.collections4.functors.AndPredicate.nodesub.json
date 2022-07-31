@@ -1,0 +1,23 @@
+{
+"Class" : "org.apache.commons.collections4.functors.AndPredicate", 
+"Methods" : [{ "Name" : "andPredicate" ,
+"Nodes" : 5,
+"0" : [ ],
+"2" : [ 0],
+"3" : [ 0, 2, 4, 5],
+"1" : [ ],
+"4" : [ ],
+"CoveredDUAsByNodes" : 4,
+"Duas" : 6
+},{ "Name" : "evaluate" ,
+"Nodes" : 6,
+"0" : [ ],
+"3" : [ 0, 4, 8],
+"1" : [ ],
+"4" : [ 0, 2, 4, 6, 8, 10],
+"2" : [ ],
+"5" : [ ],
+"CoveredDUAsByNodes" : 6,
+"Duas" : 12
+}]
+}

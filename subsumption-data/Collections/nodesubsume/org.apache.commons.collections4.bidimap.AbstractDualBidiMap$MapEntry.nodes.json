@@ -1,0 +1,11 @@
+{
+"Class" : "org.apache.commons.collections4.bidimap.AbstractDualBidiMap$MapEntry", 
+"Methods" : [{ "Name" : "setValue" ,
+"Nodes" : 5,
+"0" : [ 678,679 ]
+"1" : [ 684,685 ]
+"2" : [ 679,680 ]
+"3" : [ 681 ]
+"4" : [  ]
+}]
+}

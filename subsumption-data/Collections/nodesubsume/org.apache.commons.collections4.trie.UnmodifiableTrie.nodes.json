@@ -1,0 +1,16 @@
+{
+"Class" : "org.apache.commons.collections4.trie.UnmodifiableTrie", 
+"Methods" : [{ "Name" : "unmodifiableTrie" ,
+"Nodes" : 4,
+"0" : [ 55 ]
+"1" : [ 60 ]
+"2" : [ 57,58 ]
+"3" : [  ]
+},{ "Name" : "<init>" ,
+"Nodes" : 4,
+"0" : [ 70,71 ]
+"1" : [ 75,76,77 ]
+"2" : [ 72 ]
+"3" : [  ]
+}]
+}

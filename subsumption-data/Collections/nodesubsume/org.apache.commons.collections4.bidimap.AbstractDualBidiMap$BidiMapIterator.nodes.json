@@ -1,0 +1,37 @@
+{
+"Class" : "org.apache.commons.collections4.bidimap.AbstractDualBidiMap$BidiMapIterator", 
+"Methods" : [{ "Name" : "remove" ,
+"Nodes" : 4,
+"0" : [ 727 ]
+"1" : [ 736,731,732,733,734,735 ]
+"2" : [ 728 ]
+"3" : [  ]
+},{ "Name" : "getKey" ,
+"Nodes" : 4,
+"0" : [ 739 ]
+"1" : [ 743 ]
+"2" : [ 740 ]
+"3" : [  ]
+},{ "Name" : "getValue" ,
+"Nodes" : 4,
+"0" : [ 747 ]
+"1" : [ 751 ]
+"2" : [ 748 ]
+"3" : [  ]
+},{ "Name" : "setValue" ,
+"Nodes" : 7,
+"0" : [ 755 ]
+"1" : [ 759 ]
+"2" : [ 764 ]
+"3" : [ 759,760 ]
+"4" : [ 761 ]
+"5" : [ 756 ]
+"6" : [  ]
+},{ "Name" : "toString" ,
+"Nodes" : 4,
+"0" : [ 775 ]
+"1" : [ 778 ]
+"2" : [ 776 ]
+"3" : [  ]
+}]
+}

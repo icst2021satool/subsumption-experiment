@@ -1,0 +1,21 @@
+{
+"Class" : "org.apache.commons.collections4.functors.ChainedTransformer", 
+"Methods" : [{ "Name" : "chainedTransformer" ,
+"Edges" : 4,
+"Duas" : 3,
+"0" : 0, 
+ "1" : 1},{ "Name" : "chainedTransformer" ,
+"Edges" : 7,
+"Duas" : 5,
+"0" : 0, 
+ "1" : 1, 
+ "2" : 2, 
+ "3" : 3},{ "Name" : "<init>" ,
+"Edges" : 5,
+"Duas" : 4,
+"1" : 0, 
+ "2" : 1},{ "Name" : "transform" ,
+"Edges" : 5,
+"Duas" : 4,
+}]
+}

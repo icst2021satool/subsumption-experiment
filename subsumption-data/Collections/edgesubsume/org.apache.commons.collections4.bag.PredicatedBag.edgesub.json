@@ -1,0 +1,15 @@
+{
+"Class" : "org.apache.commons.collections4.bag.PredicatedBag", 
+"Methods" : [{ "Name" : "equals" ,
+"Edges" : 7,
+"1" : [ 0, 4],
+"2" : [ 1, 5],
+"3" : [ 2, 6],
+"4" : [ 0, 3, 4, 7],
+"0" : [ 0, 3, 4, 7],
+"6" : [ ],
+"5" : [ ],
+"CoveredDUAsByEdges" : 8,
+"Duas" : 8
+}]
+}

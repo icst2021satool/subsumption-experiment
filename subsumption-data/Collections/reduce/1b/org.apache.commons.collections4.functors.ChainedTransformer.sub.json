@@ -1,0 +1,25 @@
+{
+"Class" : "org.apache.commons.collections4.functors.ChainedTransformer", 
+"Methods" : [{ "Name" : "chainedTransformer" ,
+"Duas" : "3" ,
+"Subsumers" : 2,
+"0" : [ 0], "S0" : [0 ],
+"1" : [ 2, 1], "S1" : [1, 2 ]
+},{ "Name" : "chainedTransformer" ,
+"Duas" : "5" ,
+"Subsumers" : 3,
+"0" : [ 0], "S0" : [0 ],
+"1" : [ 2], "S1" : [1, 2 ],
+"2" : [ 4, 3], "S2" : [1, 3, 4 ]
+},{ "Name" : "<init>" ,
+"Duas" : "4" ,
+"Subsumers" : 2,
+"0" : [ 1], "S0" : [0, 1, 3 ],
+"1" : [ 2], "S1" : [0, 2, 3 ]
+},{ "Name" : "transform" ,
+"Duas" : "4" ,
+"Subsumers" : 2,
+"0" : [ 0], "S0" : [0 ],
+"1" : [ 3], "S1" : [1, 2, 3 ]
+}]
+}

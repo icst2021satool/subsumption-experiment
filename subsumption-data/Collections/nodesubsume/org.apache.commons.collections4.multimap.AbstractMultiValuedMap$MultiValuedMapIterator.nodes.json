@@ -1,0 +1,22 @@
+{
+"Class" : "org.apache.commons.collections4.multimap.AbstractMultiValuedMap$MultiValuedMapIterator", 
+"Methods" : [{ "Name" : "getKey" ,
+"Nodes" : 4,
+"0" : [ 846 ]
+"1" : [ 849 ]
+"2" : [ 847 ]
+"3" : [  ]
+},{ "Name" : "getValue" ,
+"Nodes" : 4,
+"0" : [ 853 ]
+"1" : [ 856 ]
+"2" : [ 854 ]
+"3" : [  ]
+},{ "Name" : "setValue" ,
+"Nodes" : 4,
+"0" : [ 864 ]
+"1" : [ 867 ]
+"2" : [ 865 ]
+"3" : [  ]
+}]
+}

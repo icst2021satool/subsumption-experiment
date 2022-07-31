@@ -1,0 +1,16 @@
+{
+"Class" : "org.apache.commons.collections4.trie.AbstractPatriciaTrie$PrefixRangeEntrySet", 
+"Methods" : [{ "Name" : "iterator" ,
+"Edges" : 10,
+"0" : [ 3,7 ],
+"1" : [ 6,1 ],
+"2" : [ 1,5 ],
+"3" : [ 1,2 ],
+"4" : [ 4,7 ],
+"5" : [ 0,6 ],
+"6" : [ 0,1 ],
+"7" : [ 2,4 ],
+"8" : [ 2,3 ],
+"9" : [ 5,7 ]
+}]
+}

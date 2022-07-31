@@ -1,0 +1,18 @@
+{
+"Class" : "org.apache.commons.collections4.map.UnmodifiableMap", 
+"Methods" : [{ "Name" : "unmodifiableMap" ,
+"Duas" : 4,
+"0" :  "(63,(63,65), map)",
+"1" :  "(63,(63,68), map)",
+"2" :  "(63,68, map)",
+"3" :  "(63,65, map)"},{ "Name" : "mapIterator" ,
+"Duas" : 8,
+"0" :  "(133,(133,134), this)",
+"1" :  "(133,(133,137), this)",
+"2" :  "(133,137, this)",
+"3" :  "(133,134, this)",
+"4" :  "(133,(133,134), this.map)",
+"5" :  "(133,(133,137), this.map)",
+"6" :  "(133,137, this.map)",
+"7" :  "(133,134, this.map)"}]
+}

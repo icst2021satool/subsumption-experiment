@@ -1,0 +1,11 @@
+{
+"Class" : "org.apache.commons.collections4.functors.NullPredicate", 
+"Methods" : [{ "Name" : "evaluate" ,
+"Edges" : 5,
+"0" : [ 3,2 ],
+"1" : [ 0,3 ],
+"2" : [ 0,1 ],
+"3" : [ 2,4 ],
+"4" : [ 1,2 ]
+}]
+}

@@ -1,0 +1,12 @@
+{
+"Class" : "org.apache.commons.collections4.bag.TreeBag", 
+"Methods" : [{ "Name" : "add" ,
+"Edges" : 9,
+"Duas" : 9,
+"0" : 0, 
+ "1" : 1, 
+ "4" : 6, 
+ "5" : 7, 
+ "6" : 2, 
+ "7" : 3}]
+}

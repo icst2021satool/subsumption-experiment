@@ -1,0 +1,16 @@
+{
+"Class" : "org.apache.commons.collections4.functors.NullIsExceptionPredicate", 
+"Methods" : [{ "Name" : "nullIsExceptionPredicate" ,
+"Nodes" : 4,
+"0" : [ 47 ]
+"1" : [ 50 ]
+"2" : [ 48 ]
+"3" : [  ]
+},{ "Name" : "evaluate" ,
+"Nodes" : 4,
+"0" : [ 73 ]
+"1" : [ 76 ]
+"2" : [ 74 ]
+"3" : [  ]
+}]
+}

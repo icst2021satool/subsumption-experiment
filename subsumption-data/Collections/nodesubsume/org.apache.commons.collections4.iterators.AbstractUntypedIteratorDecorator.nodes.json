@@ -1,0 +1,10 @@
+{
+"Class" : "org.apache.commons.collections4.iterators.AbstractUntypedIteratorDecorator", 
+"Methods" : [{ "Name" : "<init>" ,
+"Nodes" : 4,
+"0" : [ 41,42 ]
+"1" : [ 45,46 ]
+"2" : [ 43 ]
+"3" : [  ]
+}]
+}

@@ -1,0 +1,13 @@
+{
+"Class" : "org.apache.commons.collections4.queue.TransformedQueue", 
+"Methods" : [{ "Name" : "transformedQueue" ,
+"Edges" : 7,
+"0" : [ 0,2 ],
+"1" : [ 0,1 ],
+"2" : [ 3,4 ],
+"3" : [ 3,1 ],
+"4" : [ 2,3 ],
+"5" : [ 1,5 ],
+"6" : [ 4,3 ]
+}]
+}

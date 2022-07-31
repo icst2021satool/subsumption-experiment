@@ -1,0 +1,22 @@
+{
+"Class" : "org.apache.commons.collections4.list.GrowthList", 
+"Methods" : [{ "Name" : "add" ,
+"Edges" : 4,
+"Duas" : 10,
+"2" : 0, 
+ "3" : 1, 
+ "7" : 0, 
+ "8" : 1},{ "Name" : "addAll" ,
+"Edges" : 4,
+"Duas" : 12,
+"2" : 2, 
+ "3" : 3, 
+ "7" : 2, 
+ "8" : 3},{ "Name" : "set" ,
+"Edges" : 4,
+"Duas" : 10,
+"2" : 0, 
+ "3" : 1, 
+ "7" : 0, 
+ "8" : 1}]
+}

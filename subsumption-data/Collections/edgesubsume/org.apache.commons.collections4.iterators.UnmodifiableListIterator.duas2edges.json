@@ -1,0 +1,10 @@
+{
+"Class" : "org.apache.commons.collections4.iterators.UnmodifiableListIterator", 
+"Methods" : [{ "Name" : "umodifiableListIterator" ,
+"Edges" : 7,
+"Duas" : 6,
+"0" : 1, 
+ "1" : 2, 
+ "2" : 4, 
+ "3" : 5}]
+}

@@ -1,0 +1,17 @@
+{
+"Class" : "org.apache.commons.collections4.map.AbstractHashedMap$HashMapIterator", 
+"Methods" : [{ "Name" : "getKey" ,
+"Duas" : 3,
+"0" :  "(776,(777,778), current)",
+"1" :  "(776,(777,780), current)",
+"2" :  "(776,780, current)"},{ "Name" : "getValue" ,
+"Duas" : 3,
+"0" :  "(784,(785,786), current)",
+"1" :  "(784,(785,788), current)",
+"2" :  "(784,788, current)"},{ "Name" : "setValue" ,
+"Duas" : 4,
+"0" :  "(792,796, value)",
+"1" :  "(792,(793,794), current)",
+"2" :  "(792,(793,796), current)",
+"3" :  "(792,796, current)"}]
+}

@@ -1,0 +1,13 @@
+{
+"Class" : "org.apache.commons.collections4.bag.AbstractMapBag$MutableInteger", 
+"Methods" : [{ "Name" : "equals" ,
+"Nodes" : 7,
+"0" : [ 414 ]
+"1" : [ 417 ]
+"2" : [ 417 ]
+"3" : [ 417 ]
+"4" : [ 417 ]
+"5" : [ 415 ]
+"6" : [  ]
+}]
+}

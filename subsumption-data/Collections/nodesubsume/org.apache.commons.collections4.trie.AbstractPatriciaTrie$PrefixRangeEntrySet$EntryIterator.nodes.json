@@ -1,0 +1,21 @@
+{
+"Class" : "org.apache.commons.collections4.trie.AbstractPatriciaTrie$PrefixRangeEntrySet$EntryIterator", 
+"Methods" : [{ "Name" : "next" ,
+"Nodes" : 4,
+"0" : [ 2337,2338 ]
+"1" : [ 2341 ]
+"2" : [ 2339 ]
+"3" : [  ]
+},{ "Name" : "remove" ,
+"Nodes" : 9,
+"0" : [ 2353,2354,2355 ]
+"1" : [ 2359,2363 ]
+"2" : [ 2364 ]
+"3" : [ 2370 ]
+"4" : [ 2373 ]
+"5" : [ 2371 ]
+"6" : [ 2363 ]
+"7" : [ 2356 ]
+"8" : [  ]
+}]
+}

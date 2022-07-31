@@ -1,0 +1,17 @@
+{
+"Class" : "org.apache.commons.collections4.set.TransformedSortedSet", 
+"Methods" : [{ "Name" : "transformedSortedSet" ,
+"Edges" : 11,
+"0" : [ 2,3 ],
+"1" : [ 2,1 ],
+"2" : [ 1,7 ],
+"3" : [ 3,4 ],
+"4" : [ 3,1 ],
+"5" : [ 5,6 ],
+"6" : [ 5,1 ],
+"7" : [ 6,5 ],
+"8" : [ 4,5 ],
+"9" : [ 0,2 ],
+"10" : [ 0,1 ]
+}]
+}

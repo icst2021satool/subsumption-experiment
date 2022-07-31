@@ -1,0 +1,16 @@
+{
+"Class" : "org.apache.commons.collections4.map.AbstractMapDecorator", 
+"Methods" : [{ "Name" : "<init>" ,
+"Nodes" : 4,
+"0" : [ 60,61 ]
+"1" : [ 64,65 ]
+"2" : [ 62 ]
+"3" : [  ]
+},{ "Name" : "equals" ,
+"Nodes" : 4,
+"0" : [ 127 ]
+"1" : [ 130 ]
+"2" : [ 128 ]
+"3" : [  ]
+}]
+}

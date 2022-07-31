@@ -1,0 +1,10 @@
+{
+"Class" : "org.apache.commons.collections4.functors.MapTransformer", 
+"Methods" : [{ "Name" : "mapTransformer" ,
+"Edges" : 4,
+"0" : [ 2,3 ],
+"1" : [ 1,3 ],
+"2" : [ 0,2 ],
+"3" : [ 0,1 ]
+}]
+}

@@ -1,0 +1,20 @@
+{
+"Class" : "org.apache.commons.collections4.functors.IfClosure", 
+"Methods" : [{ "Name" : "ifClosure" ,
+"Nodes" : 7,
+"0" : [ 73 ]
+"1" : [ 76 ]
+"2" : [ 77 ]
+"3" : [ 76 ]
+"4" : [ 79 ]
+"5" : [ 74 ]
+"6" : [  ]
+},{ "Name" : "execute" ,
+"Nodes" : 5,
+"0" : [ 119 ]
+"1" : [ 122 ]
+"2" : [ 124 ]
+"3" : [ 120 ]
+"4" : [  ]
+}]
+}

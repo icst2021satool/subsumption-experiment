@@ -1,0 +1,18 @@
+{
+"Class" : "org.apache.commons.collections4.list.AbstractLinkedList$LinkedSubListIterator", 
+"Methods" : [{ "Name" : "hasNext" ,
+"Nodes" : 5,
+"0" : [ 906 ]
+"1" : [ 906 ]
+"2" : [ 906 ]
+"3" : [ 906 ]
+"4" : [  ]
+},{ "Name" : "hasPrevious" ,
+"Nodes" : 5,
+"0" : [ 911 ]
+"1" : [ 911 ]
+"2" : [ 911 ]
+"3" : [ 911 ]
+"4" : [  ]
+}]
+}

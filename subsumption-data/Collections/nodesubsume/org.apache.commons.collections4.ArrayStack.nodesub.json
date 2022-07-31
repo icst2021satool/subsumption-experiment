@@ -1,0 +1,42 @@
+{
+"Class" : "org.apache.commons.collections4.ArrayStack", 
+"Methods" : [{ "Name" : "peek" ,
+"Nodes" : 4,
+"0" : [ ],
+"1" : [ 0, 2, 3],
+"2" : [ 1],
+"3" : [ ],
+"CoveredDUAsByNodes" : 4,
+"Duas" : 4
+},{ "Name" : "peek" ,
+"Nodes" : 4,
+"0" : [ ],
+"1" : [ 0, 2, 3],
+"2" : [ 1],
+"3" : [ ],
+"CoveredDUAsByNodes" : 4,
+"Duas" : 4
+},{ "Name" : "pop" ,
+"Nodes" : 4,
+"0" : [ ],
+"1" : [ 0, 2, 3],
+"2" : [ 1],
+"3" : [ ],
+"CoveredDUAsByNodes" : 4,
+"Duas" : 4
+},{ "Name" : "search" ,
+"Nodes" : 10,
+"0" : [ ],
+"1" : [ ],
+"2" : [ ],
+"3" : [ 0, 7, 9],
+"8" : [ 0, 1, 7, 9],
+"4" : [ 0, 7, 9],
+"6" : [ 0, 3, 7, 9],
+"5" : [ 0, 7, 9, 10, 11],
+"7" : [ 0, 7, 9],
+"9" : [ ],
+"CoveredDUAsByNodes" : 7,
+"Duas" : 23
+}]
+}

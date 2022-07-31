@@ -1,0 +1,44 @@
+{
+"Class" : "org.apache.commons.collections4.map.ListOrderedMap$ListOrderedMapIterator", 
+"Methods" : [{ "Name" : "remove" ,
+"Nodes" : 4,
+"0" : [ ],
+"1" : [ 1, 2, 3, 4, 6, 7, 8, 9, 10],
+"2" : [ 0, 5],
+"3" : [ ],
+"CoveredDUAsByNodes" : 11,
+"Duas" : 11
+},{ "Name" : "getKey" ,
+"Nodes" : 4,
+"0" : [ ],
+"1" : [ 1, 2, 4, 5],
+"2" : [ 0, 3],
+"3" : [ ],
+"CoveredDUAsByNodes" : 6,
+"Duas" : 6
+},{ "Name" : "getValue" ,
+"Nodes" : 4,
+"0" : [ ],
+"1" : [ 1, 2, 4, 5, 6],
+"2" : [ 0, 3],
+"3" : [ ],
+"CoveredDUAsByNodes" : 7,
+"Duas" : 7
+},{ "Name" : "setValue" ,
+"Nodes" : 4,
+"0" : [ ],
+"1" : [ 1, 2, 3, 5, 6, 7, 8],
+"2" : [ 0, 4],
+"3" : [ ],
+"CoveredDUAsByNodes" : 9,
+"Duas" : 9
+},{ "Name" : "toString" ,
+"Nodes" : 4,
+"0" : [ ],
+"1" : [ 1, 4],
+"2" : [ 0, 2, 3],
+"3" : [ ],
+"CoveredDUAsByNodes" : 5,
+"Duas" : 5
+}]
+}

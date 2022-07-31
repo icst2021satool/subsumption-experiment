@@ -1,0 +1,26 @@
+{
+"Class" : "org.apache.commons.collections4.collection.SynchronizedCollection", 
+"Methods" : [{ "Name" : "<init>" ,
+"Nodes" : 4,
+"0" : [ 71,72 ]
+"1" : [ 75,76,77 ]
+"2" : [ 73 ]
+"3" : [  ]
+},{ "Name" : "<init>" ,
+"Nodes" : 4,
+"0" : [ 86,87 ]
+"1" : [ 90,91,92 ]
+"2" : [ 88 ]
+"3" : [  ]
+},{ "Name" : "equals" ,
+"Nodes" : 8,
+"0" : [ 194,195 ]
+"1" : [ 198 ]
+"2" : [ 198 ]
+"3" : [ 198 ]
+"4" : [ 198 ]
+"5" : [ 198 ]
+"6" : [ 196 ]
+"7" : [  ]
+}]
+}

@@ -1,0 +1,16 @@
+{
+"Class" : "org.apache.commons.collections4.functors.ForClosure", 
+"Methods" : [{ "Name" : "forClosure" ,
+"Duas" : "9" ,
+"Subsumers" : 4,
+"0" : [ 8, 2], "S0" : [0, 2, 6, 8 ],
+"1" : [ 7, 4, 3], "S1" : [0, 3, 4, 6, 7 ],
+"2" : [ 5], "S2" : [0, 5 ],
+"3" : [ 1], "S3" : [1 ]
+},{ "Name" : "execute" ,
+"Duas" : "13" ,
+"Subsumers" : 2,
+"0" : [ 12, 10], "S0" : [0, 1, 2, 3, 4, 5, 6, 7, 9, 10, 11, 12 ],
+"1" : [ 8], "S1" : [1, 5, 8 ]
+}]
+}

@@ -1,0 +1,10 @@
+{
+"Class" : "org.apache.commons.collections4.trie.AbstractPatriciaTrie$KeySet", 
+"Methods" : [{ "Name" : "remove" ,
+"Edges" : 5,
+"Duas" : 4,
+"0" : 3, 
+ "1" : 4, 
+ "2" : 3, 
+ "3" : 4}]
+}

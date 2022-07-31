@@ -1,0 +1,8 @@
+{
+"Class" : "org.apache.commons.collections4.functors.ConstantFactory", 
+"Methods" : [{ "Name" : "constantFactory" ,
+"Edges" : 4,
+"Duas" : 4,
+"0" : 0, 
+ "1" : 1}]
+}

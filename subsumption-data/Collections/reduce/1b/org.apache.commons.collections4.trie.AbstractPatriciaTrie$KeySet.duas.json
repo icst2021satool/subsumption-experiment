@@ -1,0 +1,9 @@
+{
+"Class" : "org.apache.commons.collections4.trie.AbstractPatriciaTrie$KeySet", 
+"Methods" : [{ "Name" : "remove" ,
+"Duas" : 4,
+"0" :  "(1453,(1455,1455), this)",
+"1" :  "(1453,(1455,1455), this)",
+"2" :  "(1453,(1455,1455), size)",
+"3" :  "(1453,(1455,1455), size)"}]
+}

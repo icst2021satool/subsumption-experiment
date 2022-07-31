@@ -1,0 +1,8 @@
+{
+"Class" : "org.apache.commons.collections4.functors.InstanceofPredicate", 
+"Methods" : [{ "Name" : "instanceOfPredicate" ,
+"Edges" : 4,
+"Duas" : 3,
+"0" : 1, 
+ "1" : 2}]
+}

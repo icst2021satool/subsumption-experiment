@@ -1,0 +1,18 @@
+{
+"Class" : "org.apache.commons.collections4.bidimap.TreeBidiMap$InverseViewMapIterator", 
+"Methods" : [{ "Name" : "getKey" ,
+"Duas" : 6,
+"0" :  "(1746,(1746,1747), this)",
+"1" :  "(1746,(1746,1750), this)",
+"2" :  "(1746,1750, this)",
+"3" :  "(1746,(1746,1747), this.lastReturnedNode)",
+"4" :  "(1746,(1746,1750), this.lastReturnedNode)",
+"5" :  "(1746,1750, this.lastReturnedNode)"},{ "Name" : "getValue" ,
+"Duas" : 6,
+"0" :  "(1754,(1754,1755), this)",
+"1" :  "(1754,(1754,1758), this)",
+"2" :  "(1754,1758, this)",
+"3" :  "(1754,(1754,1755), this.lastReturnedNode)",
+"4" :  "(1754,(1754,1758), this.lastReturnedNode)",
+"5" :  "(1754,1758, this.lastReturnedNode)"}]
+}

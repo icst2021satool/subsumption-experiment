@@ -1,0 +1,8 @@
+{
+"Class" : "org.apache.commons.collections4.map.AbstractReferenceMap$ReferenceEntrySet", 
+"Methods" : [{ "Name" : "toArray" ,
+"Duas" : "3" ,
+"Subsumers" : 1,
+"0" : [ 2], "S0" : [0, 1, 2 ]
+}]
+}

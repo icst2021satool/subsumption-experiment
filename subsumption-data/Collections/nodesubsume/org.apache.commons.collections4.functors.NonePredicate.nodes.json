@@ -1,0 +1,25 @@
+{
+"Class" : "org.apache.commons.collections4.functors.NonePredicate", 
+"Methods" : [{ "Name" : "nonePredicate" ,
+"Nodes" : 4,
+"0" : [ 51,52 ]
+"1" : [ 55 ]
+"2" : [ 53 ]
+"3" : [  ]
+},{ "Name" : "nonePredicate" ,
+"Nodes" : 4,
+"0" : [ 70,71 ]
+"1" : [ 74 ]
+"2" : [ 72 ]
+"3" : [  ]
+},{ "Name" : "evaluate" ,
+"Nodes" : 7,
+"0" : [ 94 ]
+"1" : [ 94 ]
+"2" : [ 99 ]
+"3" : [ 94,95 ]
+"4" : [ 94 ]
+"5" : [ 96 ]
+"6" : [  ]
+}]
+}

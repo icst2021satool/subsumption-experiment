@@ -1,0 +1,49 @@
+{
+"Class" : "org.apache.commons.collections4.list.AbstractLinkedList$LinkedListIterator", 
+"Methods" : [{ "Name" : "checkModCount" ,
+"Edges" : 4,
+"0" : [ 0,2 ],
+"1" : [ 0,1 ],
+"2" : [ 2,3 ],
+"3" : [ 1,3 ]
+},{ "Name" : "getLastNodeReturned" ,
+"Edges" : 4,
+"0" : [ 2,3 ],
+"1" : [ 0,2 ],
+"2" : [ 0,1 ],
+"3" : [ 1,3 ]
+},{ "Name" : "hasNext" ,
+"Edges" : 5,
+"0" : [ 2,4 ],
+"1" : [ 0,3 ],
+"2" : [ 0,1 ],
+"3" : [ 3,2 ],
+"4" : [ 1,2 ]
+},{ "Name" : "next" ,
+"Edges" : 4,
+"0" : [ 0,2 ],
+"1" : [ 0,1 ],
+"2" : [ 1,3 ],
+"3" : [ 2,3 ]
+},{ "Name" : "hasPrevious" ,
+"Edges" : 5,
+"0" : [ 2,4 ],
+"1" : [ 0,3 ],
+"2" : [ 0,1 ],
+"3" : [ 1,2 ],
+"4" : [ 3,2 ]
+},{ "Name" : "previous" ,
+"Edges" : 4,
+"0" : [ 2,3 ],
+"1" : [ 0,2 ],
+"2" : [ 0,1 ],
+"3" : [ 1,3 ]
+},{ "Name" : "remove" ,
+"Edges" : 5,
+"0" : [ 2,4 ],
+"1" : [ 3,2 ],
+"2" : [ 1,2 ],
+"3" : [ 0,3 ],
+"4" : [ 0,1 ]
+}]
+}

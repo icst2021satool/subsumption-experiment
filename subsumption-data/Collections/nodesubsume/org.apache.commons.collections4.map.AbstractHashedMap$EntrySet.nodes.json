@@ -1,0 +1,22 @@
+{
+"Class" : "org.apache.commons.collections4.map.AbstractHashedMap$EntrySet", 
+"Methods" : [{ "Name" : "contains" ,
+"Nodes" : 8,
+"0" : [ 853 ]
+"1" : [ 858 ]
+"2" : [ 854,855,856 ]
+"3" : [ 856 ]
+"4" : [ 856 ]
+"5" : [ 856 ]
+"6" : [ 856 ]
+"7" : [  ]
+},{ "Name" : "remove" ,
+"Nodes" : 6,
+"0" : [ 863 ]
+"1" : [ 866 ]
+"2" : [ 869,870,871 ]
+"3" : [ 867 ]
+"4" : [ 864 ]
+"5" : [  ]
+}]
+}

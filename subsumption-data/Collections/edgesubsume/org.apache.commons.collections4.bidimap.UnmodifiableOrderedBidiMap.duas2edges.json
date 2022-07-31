@@ -1,0 +1,14 @@
+{
+"Class" : "org.apache.commons.collections4.bidimap.UnmodifiableOrderedBidiMap", 
+"Methods" : [{ "Name" : "unmodifiableOrderedBidiMap" ,
+"Edges" : 4,
+"Duas" : 4,
+"0" : 0, 
+ "1" : 1},{ "Name" : "inverseOrderedBidiMap" ,
+"Edges" : 4,
+"Duas" : 10,
+"0" : 0, 
+ "1" : 1, 
+ "6" : 0, 
+ "7" : 1}]
+}

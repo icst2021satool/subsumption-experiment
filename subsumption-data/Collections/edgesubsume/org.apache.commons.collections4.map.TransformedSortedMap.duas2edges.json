@@ -1,0 +1,8 @@
+{
+"Class" : "org.apache.commons.collections4.map.TransformedSortedMap", 
+"Methods" : [{ "Name" : "transformedSortedMap" ,
+"Edges" : 4,
+"Duas" : 7,
+"0" : 1, 
+ "1" : 2}]
+}

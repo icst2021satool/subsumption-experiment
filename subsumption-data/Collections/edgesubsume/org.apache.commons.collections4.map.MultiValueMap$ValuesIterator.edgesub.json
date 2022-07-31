@@ -1,0 +1,12 @@
+{
+"Class" : "org.apache.commons.collections4.map.MultiValueMap$ValuesIterator", 
+"Methods" : [{ "Name" : "remove" ,
+"Edges" : 4,
+"2" : [ 0, 2, 3, 5, 6],
+"3" : [ 1, 4],
+"0" : [ 0, 2, 3, 5, 6],
+"1" : [ ],
+"CoveredDUAsByEdges" : 7,
+"Duas" : 7
+}]
+}

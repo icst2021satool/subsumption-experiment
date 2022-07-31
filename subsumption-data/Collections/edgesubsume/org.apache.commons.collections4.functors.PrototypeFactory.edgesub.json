@@ -1,0 +1,12 @@
+{
+"Class" : "org.apache.commons.collections4.functors.PrototypeFactory", 
+"Methods" : [{ "Name" : "prototypeFactory" ,
+"Edges" : 4,
+"0" : [ 0],
+"1" : [ 1, 2, 3],
+"3" : [ 1, 2, 3],
+"2" : [ 0],
+"CoveredDUAsByEdges" : 4,
+"Duas" : 4
+}]
+}

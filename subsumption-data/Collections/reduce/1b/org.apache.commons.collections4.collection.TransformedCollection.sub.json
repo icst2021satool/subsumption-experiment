@@ -1,0 +1,18 @@
+{
+"Class" : "org.apache.commons.collections4.collection.TransformedCollection", 
+"Methods" : [{ "Name" : "transformedCollection" ,
+"Duas" : "7" ,
+"Subsumers" : 2,
+"0" : [ 6, 4], "S0" : [0, 2, 3, 4, 5, 6 ],
+"1" : [ 1], "S1" : [1, 5 ]
+},{ "Name" : "<init>" ,
+"Duas" : "4" ,
+"Subsumers" : 2,
+"0" : [ 3, 2, 0], "S0" : [0, 2, 3 ],
+"1" : [ 1], "S1" : [1 ]
+},{ "Name" : "transform" ,
+"Duas" : "3" ,
+"Subsumers" : 1,
+"0" : [ 2, 0], "S0" : [0, 1, 2 ]
+}]
+}

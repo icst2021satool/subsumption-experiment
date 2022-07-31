@@ -1,0 +1,12 @@
+{
+"Class" : "org.apache.commons.collections4.functors.PrototypeFactory$PrototypeCloneFactory", 
+"Methods" : [{ "Name" : "create" ,
+"Edges" : 4,
+"2" : [ 0, 3, 4],
+"3" : [ 1, 2, 5, 6, 7],
+"1" : [ 0, 2, 3, 4, 6, 7],
+"0" : [ 2, 6, 7],
+"CoveredDUAsByEdges" : 8,
+"Duas" : 8
+}]
+}

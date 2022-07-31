@@ -1,0 +1,16 @@
+{
+"Class" : "org.apache.commons.collections4.TransformerUtils", 
+"Methods" : [{ "Name" : "switchMapTransformer" ,
+"Edges" : 8,
+"3" : [ 0],
+"4" : [ 1, 2, 3, 4],
+"5" : [ 1, 2, 3, 4],
+"0" : [ 1, 2, 3, 4, 7, 9, 10, 11],
+"1" : [ 1, 2, 3, 4, 5, 6, 8],
+"2" : [ 1, 2, 3, 4, 5, 6, 8],
+"7" : [ 1, 2, 3, 4, 7, 9, 10, 11],
+"6" : [ 0],
+"CoveredDUAsByEdges" : 12,
+"Duas" : 14
+}]
+}

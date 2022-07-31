@@ -1,0 +1,10 @@
+{
+"Class" : "org.apache.commons.collections4.multimap.AbstractMultiValuedMap$EntryValues$1", 
+"Methods" : [{ "Name" : "nextIterator" ,
+"Nodes" : 4,
+"0" : [ 784 ]
+"1" : [ 787,788,795 ]
+"2" : [ 785 ]
+"3" : [  ]
+}]
+}

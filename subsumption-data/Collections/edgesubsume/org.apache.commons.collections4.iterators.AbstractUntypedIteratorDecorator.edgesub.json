@@ -1,0 +1,12 @@
+{
+"Class" : "org.apache.commons.collections4.iterators.AbstractUntypedIteratorDecorator", 
+"Methods" : [{ "Name" : "<init>" ,
+"Edges" : 4,
+"0" : [ 1],
+"1" : [ 0, 2, 3],
+"3" : [ 0, 2, 3],
+"2" : [ 1],
+"CoveredDUAsByEdges" : 4,
+"Duas" : 4
+}]
+}

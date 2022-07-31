@@ -1,0 +1,22 @@
+{
+"Class" : "org.apache.commons.collections4.set.TransformedSet", 
+"Methods" : [{ "Name" : "transformedSet" ,
+"Edges" : 11,
+"Duas" : 11,
+"0" : 5, 
+ "1" : 6, 
+ "2" : 3, 
+ "3" : 4, 
+ "6" : 0, 
+ "7" : 1},{ "Name" : "equals" ,
+"Edges" : 7,
+"Duas" : 8,
+"0" : 0, 
+ "1" : 1, 
+ "2" : 3, 
+ "3" : 4, 
+ "4" : 0, 
+ "5" : 1, 
+ "6" : 3, 
+ "7" : 4}]
+}

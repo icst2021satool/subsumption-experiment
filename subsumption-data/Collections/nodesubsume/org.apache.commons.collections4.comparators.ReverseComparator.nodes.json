@@ -1,0 +1,21 @@
+{
+"Class" : "org.apache.commons.collections4.comparators.ReverseComparator", 
+"Methods" : [{ "Name" : "<init>" ,
+"Nodes" : 5,
+"0" : [ 64,63 ]
+"1" : [ 64 ]
+"2" : [ 64,65 ]
+"3" : [ 64 ]
+"4" : [  ]
+},{ "Name" : "equals" ,
+"Nodes" : 8,
+"0" : [ 110 ]
+"1" : [ 113 ]
+"2" : [ 116 ]
+"3" : [ 120 ]
+"4" : [ 117,118 ]
+"5" : [ 114 ]
+"6" : [ 111 ]
+"7" : [  ]
+}]
+}

@@ -1,0 +1,21 @@
+{
+"Class" : "org.apache.commons.collections4.functors.ChainedClosure", 
+"Methods" : [{ "Name" : "chainedClosure" ,
+"Edges" : 4,
+"Duas" : 3,
+"0" : 0, 
+ "1" : 1},{ "Name" : "chainedClosure" ,
+"Edges" : 11,
+"Duas" : 11,
+"0" : 2, 
+ "1" : 3, 
+ "2" : 7, 
+ "3" : 8},{ "Name" : "<init>" ,
+"Edges" : 5,
+"Duas" : 4,
+"1" : 0, 
+ "2" : 1},{ "Name" : "execute" ,
+"Edges" : 5,
+"Duas" : 1,
+}]
+}

@@ -1,0 +1,19 @@
+{
+"Class" : "org.apache.commons.collections4.collection.PredicatedCollection", 
+"Methods" : [{ "Name" : "<init>" ,
+"Edges" : 8,
+"Duas" : 6,
+"3" : 0, 
+ "4" : 1},{ "Name" : "validate" ,
+"Edges" : 4,
+"Duas" : 9,
+"0" : 0, 
+ "1" : 1, 
+ "3" : 0, 
+ "4" : 1, 
+ "6" : 0, 
+ "7" : 1},{ "Name" : "addAll" ,
+"Edges" : 5,
+"Duas" : 3,
+}]
+}

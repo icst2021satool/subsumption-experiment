@@ -1,0 +1,20 @@
+{
+"Class" : "org.apache.commons.collections4.map.UnmodifiableMap", 
+"Methods" : [{ "Name" : "unmodifiableMap" ,
+"Edges" : 4,
+"2" : [ 0, 3],
+"3" : [ 1, 2],
+"0" : [ 1, 2],
+"1" : [ 0, 3],
+"CoveredDUAsByEdges" : 4,
+"Duas" : 4
+},{ "Name" : "mapIterator" ,
+"Edges" : 4,
+"0" : [ 0, 3, 4, 7],
+"1" : [ 1, 2, 5, 6],
+"3" : [ 1, 2, 5, 6],
+"2" : [ 0, 3, 4, 7],
+"CoveredDUAsByEdges" : 8,
+"Duas" : 8
+}]
+}

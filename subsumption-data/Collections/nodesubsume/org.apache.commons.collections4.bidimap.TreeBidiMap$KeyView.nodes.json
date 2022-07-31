@@ -1,0 +1,18 @@
+{
+"Class" : "org.apache.commons.collections4.bidimap.TreeBidiMap$KeyView", 
+"Methods" : [{ "Name" : "contains" ,
+"Nodes" : 5,
+"0" : [ 1485,1486 ]
+"1" : [ 1486 ]
+"2" : [ 1486 ]
+"3" : [ 1486 ]
+"4" : [  ]
+},{ "Name" : "remove" ,
+"Nodes" : 5,
+"0" : [ 1491 ]
+"1" : [ 1491 ]
+"2" : [ 1491 ]
+"3" : [ 1491 ]
+"4" : [  ]
+}]
+}

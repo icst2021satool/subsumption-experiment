@@ -1,0 +1,22 @@
+{
+"Class" : "org.apache.commons.collections4.iterators.ReverseListIterator", 
+"Methods" : [{ "Name" : "remove" ,
+"Nodes" : 4,
+"0" : [ 128 ]
+"1" : [ 131,132 ]
+"2" : [ 129 ]
+"3" : [  ]
+},{ "Name" : "set" ,
+"Nodes" : 4,
+"0" : [ 142 ]
+"1" : [ 145,146 ]
+"2" : [ 143 ]
+"3" : [  ]
+},{ "Name" : "add" ,
+"Nodes" : 4,
+"0" : [ 158 ]
+"1" : [ 161,162,163,164 ]
+"2" : [ 159 ]
+"3" : [  ]
+}]
+}

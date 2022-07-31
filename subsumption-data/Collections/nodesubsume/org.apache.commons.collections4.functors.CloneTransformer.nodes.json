@@ -1,0 +1,10 @@
+{
+"Class" : "org.apache.commons.collections4.functors.CloneTransformer", 
+"Methods" : [{ "Name" : "transform" ,
+"Nodes" : 4,
+"0" : [ 66 ]
+"1" : [ 69 ]
+"2" : [ 67 ]
+"3" : [  ]
+}]
+}

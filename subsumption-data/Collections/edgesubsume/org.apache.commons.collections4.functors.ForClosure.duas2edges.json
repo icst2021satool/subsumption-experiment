@@ -1,0 +1,22 @@
+{
+"Class" : "org.apache.commons.collections4.functors.ForClosure", 
+"Methods" : [{ "Name" : "forClosure" ,
+"Edges" : 9,
+"Duas" : 9,
+"0" : 7, 
+ "1" : 8, 
+ "2" : 2, 
+ "3" : 3, 
+ "5" : 4, 
+ "6" : 5},{ "Name" : "execute" ,
+"Edges" : 5,
+"Duas" : 13,
+"0" : 3, 
+ "1" : 4, 
+ "4" : 3, 
+ "5" : 4, 
+ "7" : 3, 
+ "8" : 4, 
+ "10" : 3, 
+ "11" : 4}]
+}

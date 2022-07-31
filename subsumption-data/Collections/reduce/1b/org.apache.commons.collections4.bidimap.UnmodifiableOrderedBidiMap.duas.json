@@ -1,0 +1,20 @@
+{
+"Class" : "org.apache.commons.collections4.bidimap.UnmodifiableOrderedBidiMap", 
+"Methods" : [{ "Name" : "unmodifiableOrderedBidiMap" ,
+"Duas" : 4,
+"0" :  "(57,(57,59), map)",
+"1" :  "(57,(57,62), map)",
+"2" :  "(57,62, map)",
+"3" :  "(57,59, map)"},{ "Name" : "inverseOrderedBidiMap" ,
+"Duas" : 10,
+"0" :  "(140,(140,141), this)",
+"1" :  "(140,(140,144), this)",
+"2" :  "(140,144, this)",
+"3" :  "(140,141, this)",
+"4" :  "(140,141, this)",
+"5" :  "(140,142, this)",
+"6" :  "(140,(140,141), this.inverse)",
+"7" :  "(140,(140,144), this.inverse)",
+"8" :  "(140,144, this.inverse)",
+"9" :  "(141,144, this.inverse)"}]
+}

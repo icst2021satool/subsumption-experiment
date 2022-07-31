@@ -1,0 +1,8 @@
+{
+"Class" : "org.apache.commons.collections4.iterators.AbstractMapIteratorDecorator", 
+"Methods" : [{ "Name" : "<init>" ,
+"Edges" : 4,
+"Duas" : 4,
+"1" : 2, 
+ "2" : 3}]
+}

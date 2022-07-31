@@ -1,0 +1,14 @@
+{
+"Class" : "org.apache.commons.collections4.map.AbstractReferenceMap$ReferenceStrength", 
+"Methods" : [{ "Name" : "resolve" ,
+"Edges" : 8,
+"0" : [ 0,4 ],
+"1" : [ 0,3 ],
+"2" : [ 0,2 ],
+"3" : [ 0,1 ],
+"4" : [ 3,5 ],
+"5" : [ 4,5 ],
+"6" : [ 2,5 ],
+"7" : [ 1,5 ]
+}]
+}

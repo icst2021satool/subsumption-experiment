@@ -1,0 +1,10 @@
+{
+"Class" : "org.apache.commons.collections4.functors.PrototypeFactory", 
+"Methods" : [{ "Name" : "prototypeFactory" ,
+"Nodes" : 4,
+"0" : [ 59 ]
+"1" : [ 64,63 ]
+"2" : [ 60 ]
+"3" : [  ]
+}]
+}

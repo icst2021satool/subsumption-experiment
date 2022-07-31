@@ -1,0 +1,44 @@
+{
+"Class" : "org.apache.commons.collections4.iterators.EntrySetMapIterator", 
+"Methods" : [{ "Name" : "remove" ,
+"Edges" : 4,
+"2" : [ 0, 5],
+"3" : [ 1, 2, 3, 4, 6, 7],
+"0" : [ 1, 2, 3, 4, 6, 7],
+"1" : [ 0, 5],
+"CoveredDUAsByEdges" : 8,
+"Duas" : 8
+},{ "Name" : "getKey" ,
+"Edges" : 4,
+"0" : [ 0, 3],
+"1" : [ 1, 2, 4, 5],
+"3" : [ 1, 2, 4, 5],
+"2" : [ 0, 3],
+"CoveredDUAsByEdges" : 6,
+"Duas" : 6
+},{ "Name" : "getValue" ,
+"Edges" : 4,
+"1" : [ 0, 3],
+"2" : [ 1, 2, 4, 5],
+"3" : [ 1, 2, 4, 5],
+"0" : [ 0, 3],
+"CoveredDUAsByEdges" : 6,
+"Duas" : 6
+},{ "Name" : "setValue" ,
+"Edges" : 4,
+"0" : [ 0, 4],
+"1" : [ 1, 2, 3, 5, 6],
+"3" : [ 1, 2, 3, 5, 6],
+"2" : [ 0, 4],
+"CoveredDUAsByEdges" : 7,
+"Duas" : 7
+},{ "Name" : "toString" ,
+"Edges" : 4,
+"0" : [ 0, 2, 3],
+"1" : [ 1, 4],
+"3" : [ 1, 4],
+"2" : [ 0, 2, 3],
+"CoveredDUAsByEdges" : 5,
+"Duas" : 5
+}]
+}

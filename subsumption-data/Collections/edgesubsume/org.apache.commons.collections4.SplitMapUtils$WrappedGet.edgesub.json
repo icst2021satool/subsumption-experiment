@@ -1,0 +1,27 @@
+{
+"Class" : "org.apache.commons.collections4.SplitMapUtils$WrappedGet", 
+"Methods" : [{ "Name" : "equals" ,
+"Edges" : 10,
+"4" : [ 0, 4],
+"5" : [ 1, 5],
+"7" : [ 1, 5, 6],
+"8" : [ 1, 5, 7],
+"2" : [ 1, 2, 5, 6, 8, 10],
+"3" : [ 1, 3, 5, 9, 11],
+"9" : [ 1, 5],
+"6" : [ 1, 2, 5, 6, 8, 10],
+"1" : [ 1, 5],
+"0" : [ 0, 4],
+"CoveredDUAsByEdges" : 12,
+"Duas" : 12
+},{ "Name" : "mapIterator" ,
+"Edges" : 5,
+"2" : [ 0, 3, 4, 7],
+"3" : [ 1, 2, 5, 6],
+"1" : [ 1, 2, 5, 6],
+"4" : [ 0, 3, 4, 7],
+"0" : [ ],
+"CoveredDUAsByEdges" : 8,
+"Duas" : 10
+}]
+}

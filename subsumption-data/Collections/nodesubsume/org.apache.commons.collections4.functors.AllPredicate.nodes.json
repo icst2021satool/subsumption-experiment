@@ -1,0 +1,29 @@
+{
+"Class" : "org.apache.commons.collections4.functors.AllPredicate", 
+"Methods" : [{ "Name" : "allPredicate" ,
+"Nodes" : 6,
+"0" : [ 56,57 ]
+"1" : [ 60 ]
+"2" : [ 64 ]
+"3" : [ 61 ]
+"4" : [ 58 ]
+"5" : [  ]
+},{ "Name" : "allPredicate" ,
+"Nodes" : 6,
+"0" : [ 80,81 ]
+"1" : [ 84 ]
+"2" : [ 87 ]
+"3" : [ 85 ]
+"4" : [ 82 ]
+"5" : [  ]
+},{ "Name" : "evaluate" ,
+"Nodes" : 7,
+"0" : [ 107 ]
+"1" : [ 107 ]
+"2" : [ 112 ]
+"3" : [ 107,108 ]
+"4" : [ 107 ]
+"5" : [ 109 ]
+"6" : [  ]
+}]
+}

@@ -1,0 +1,8 @@
+{
+"Class" : "org.apache.commons.collections4.TransformerUtils", 
+"Methods" : [{ "Name" : "switchMapTransformer" ,
+"Edges" : 8,
+"Duas" : 14,
+"0" : 3, 
+ "1" : 4}]
+}

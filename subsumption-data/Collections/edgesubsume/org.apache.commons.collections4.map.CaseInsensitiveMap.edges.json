@@ -1,0 +1,14 @@
+{
+"Class" : "org.apache.commons.collections4.map.CaseInsensitiveMap", 
+"Methods" : [{ "Name" : "convertKey" ,
+"Edges" : 8,
+"0" : [ 2,3 ],
+"1" : [ 1,6 ],
+"2" : [ 4,6 ],
+"3" : [ 3,5 ],
+"4" : [ 3,4 ],
+"5" : [ 5,3 ],
+"6" : [ 0,2 ],
+"7" : [ 0,1 ]
+}]
+}

@@ -1,0 +1,11 @@
+{
+"Class" : "org.apache.commons.collections4.functors.TransformedPredicate", 
+"Methods" : [{ "Name" : "transformedPredicate" ,
+"Duas" : 6,
+"0" :  "(53,(53,54), transformer)",
+"1" :  "(53,(53,56), transformer)",
+"2" :  "(53,59, transformer)",
+"3" :  "(53,(56,57), predicate)",
+"4" :  "(53,(56,59), predicate)",
+"5" :  "(53,59, predicate)"}]
+}

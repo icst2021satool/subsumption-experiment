@@ -1,0 +1,10 @@
+{
+"Class" : "org.apache.commons.collections4.functors.PredicateTransformer", 
+"Methods" : [{ "Name" : "predicateTransformer" ,
+"Nodes" : 4,
+"0" : [ 48 ]
+"1" : [ 51 ]
+"2" : [ 49 ]
+"3" : [  ]
+}]
+}

@@ -1,0 +1,27 @@
+{
+"Class" : "org.apache.commons.collections4.functors.IfTransformer", 
+"Methods" : [{ "Name" : "ifTransformer" ,
+"Nodes" : 7,
+"0" : [ 59 ]
+"1" : [ 62 ]
+"2" : [ 63 ]
+"3" : [ 62 ]
+"4" : [ 66 ]
+"5" : [ 60 ]
+"6" : [  ]
+},{ "Name" : "ifTransformer" ,
+"Nodes" : 6,
+"0" : [ 84 ]
+"1" : [ 87 ]
+"2" : [ 91 ]
+"3" : [ 88 ]
+"4" : [ 85 ]
+"5" : [  ]
+},{ "Name" : "transform" ,
+"Nodes" : 4,
+"0" : [ 119 ]
+"1" : [ 122 ]
+"2" : [ 120 ]
+"3" : [  ]
+}]
+}

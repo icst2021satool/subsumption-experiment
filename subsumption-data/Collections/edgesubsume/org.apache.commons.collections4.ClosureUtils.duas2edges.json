@@ -1,0 +1,8 @@
+{
+"Class" : "org.apache.commons.collections4.ClosureUtils", 
+"Methods" : [{ "Name" : "switchMapClosure" ,
+"Edges" : 8,
+"Duas" : 16,
+"0" : 6, 
+ "1" : 7}]
+}

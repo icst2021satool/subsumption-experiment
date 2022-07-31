@@ -1,0 +1,14 @@
+{
+"Class" : "org.apache.commons.collections4.functors.TransformerPredicate", 
+"Methods" : [{ "Name" : "transformerPredicate" ,
+"Nodes" : 4,
+"Duas" : 3,
+"0" :  [ 0,2 ],
+"1" :  [ 0,1 ],
+"2" :  [ 0,1 ]},{ "Name" : "evaluate" ,
+"Nodes" : 4,
+"Duas" : 3,
+"0" :  [ 0,2 ],
+"1" :  [ 0,1 ],
+"2" :  [ 0,1 ]}]
+}

@@ -1,0 +1,12 @@
+{
+"Class" : "org.apache.commons.collections4.map.MultiValueMap$ValuesIterator", 
+"Methods" : [{ "Name" : "remove" ,
+"Duas" : 7,
+"0" :  "(523,(524,525), this)",
+"1" :  "(523,(524,527), this)",
+"2" :  "(523,525, this)",
+"3" :  "(523,(524,525), this.values)",
+"4" :  "(523,(524,527), this.values)",
+"5" :  "(523,525, this.this$0)",
+"6" :  "(523,525, this.key)"}]
+}

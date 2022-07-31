@@ -1,0 +1,7 @@
+{
+"Class" : "org.apache.commons.collections4.sequence.EditScript", 
+"Methods" : [{ "Name" : "visit" ,
+"Edges" : 5,
+"Duas" : 1,
+}]
+}

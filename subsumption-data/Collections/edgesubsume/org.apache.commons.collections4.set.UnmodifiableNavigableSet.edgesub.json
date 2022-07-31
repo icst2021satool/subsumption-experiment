@@ -1,0 +1,12 @@
+{
+"Class" : "org.apache.commons.collections4.set.UnmodifiableNavigableSet", 
+"Methods" : [{ "Name" : "unmodifiableNavigableSet" ,
+"Edges" : 4,
+"2" : [ 0, 3],
+"3" : [ 1, 2],
+"1" : [ 1, 2],
+"0" : [ 0, 3],
+"CoveredDUAsByEdges" : 4,
+"Duas" : 4
+}]
+}

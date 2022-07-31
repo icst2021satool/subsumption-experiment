@@ -1,0 +1,31 @@
+{
+"Class" : "org.apache.commons.collections4.functors.InstantiateFactory", 
+"Methods" : [{ "Name" : "instantiateFactory" ,
+"Nodes" : 15,
+"0" : [ ],
+"1" : [ 1],
+"12" : [ 1, 4],
+"2" : [ 1],
+"11" : [ 1, 6],
+"3" : [ 1],
+"8" : [ 1, 8],
+"9" : [ 1, 18, 8],
+"4" : [ 1],
+"6" : [ 1, 10],
+"7" : [ 1, 17, 3, 10, 13, 14],
+"5" : [ 1, 2],
+"10" : [ 1],
+"13" : [ 0],
+"14" : [ ],
+"CoveredDUAsByNodes" : 12,
+"Duas" : 26
+},{ "Name" : "create" ,
+"Nodes" : 4,
+"0" : [ ],
+"2" : [ 0, 3, 4],
+"1" : [ 2, 6, 7],
+"3" : [ 2, 6, 7],
+"CoveredDUAsByNodes" : 6,
+"Duas" : 8
+}]
+}

@@ -1,0 +1,25 @@
+{
+"Class" : "org.apache.commons.collections4.iterators.LoopingIterator", 
+"Methods" : [{ "Name" : "<init>" ,
+"Nodes" : 4,
+"0" : [ 54,55 ]
+"1" : [ 58,59,60 ]
+"2" : [ 56 ]
+"3" : [  ]
+},{ "Name" : "hasNext" ,
+"Nodes" : 5,
+"0" : [ 71 ]
+"1" : [ 71 ]
+"2" : [ 71 ]
+"3" : [ 71 ]
+"4" : [  ]
+},{ "Name" : "next" ,
+"Nodes" : 6,
+"0" : [ 84 ]
+"1" : [ 87 ]
+"2" : [ 90 ]
+"3" : [ 88 ]
+"4" : [ 85 ]
+"5" : [  ]
+}]
+}

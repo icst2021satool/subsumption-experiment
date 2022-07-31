@@ -1,0 +1,17 @@
+{
+"Class" : "org.apache.commons.collections4.functors.NotPredicate", 
+"Methods" : [{ "Name" : "notPredicate" ,
+"Nodes" : 4,
+"0" : [ 46 ]
+"1" : [ 49 ]
+"2" : [ 47 ]
+"3" : [  ]
+},{ "Name" : "evaluate" ,
+"Nodes" : 5,
+"0" : [ 70 ]
+"1" : [ 70 ]
+"2" : [ 70 ]
+"3" : [ 70 ]
+"4" : [  ]
+}]
+}

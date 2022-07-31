@@ -1,0 +1,13 @@
+{
+"Class" : "org.apache.commons.collections4.IterableUtils$6", 
+"Methods" : [{ "Name" : "iterator" ,
+"Edges" : 5,
+"1" : [ 0, 3],
+"2" : [ 1, 4],
+"3" : [ 1, 2, 4, 5],
+"0" : [ 0, 2, 3, 5],
+"4" : [ 2, 5],
+"CoveredDUAsByEdges" : 6,
+"Duas" : 6
+}]
+}

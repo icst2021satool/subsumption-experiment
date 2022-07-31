@@ -1,0 +1,8 @@
+{
+"Class" : "org.apache.commons.collections4.multimap.UnmodifiableMultiValuedMap", 
+"Methods" : [{ "Name" : "unmodifiableMultiValuedMap" ,
+"Edges" : 4,
+"Duas" : 4,
+"0" : 1, 
+ "1" : 2}]
+}

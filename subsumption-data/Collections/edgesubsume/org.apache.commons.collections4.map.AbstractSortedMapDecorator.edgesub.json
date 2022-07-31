@@ -1,0 +1,22 @@
+{
+"Class" : "org.apache.commons.collections4.map.AbstractSortedMapDecorator", 
+"Methods" : [{ "Name" : "previousKey" ,
+"Edges" : 5,
+"2" : [ 0],
+"3" : [ 1],
+"0" : [ 1, 2],
+"4" : [ 0, 2],
+"1" : [ 2],
+"CoveredDUAsByEdges" : 3,
+"Duas" : 3
+},{ "Name" : "nextKey" ,
+"Edges" : 5,
+"3" : [ 0],
+"4" : [ 1],
+"0" : [ 1, 2],
+"1" : [ 0, 2],
+"2" : [ 2],
+"CoveredDUAsByEdges" : 3,
+"Duas" : 3
+}]
+}

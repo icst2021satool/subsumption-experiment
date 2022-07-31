@@ -1,0 +1,8 @@
+{
+"Class" : "org.apache.commons.collections4.set.UnmodifiableSet", 
+"Methods" : [{ "Name" : "unmodifiableSet" ,
+"Edges" : 4,
+"Duas" : 4,
+"0" : 0, 
+ "1" : 1}]
+}

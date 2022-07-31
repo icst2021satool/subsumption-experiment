@@ -1,0 +1,12 @@
+{
+"Class" : "org.apache.commons.collections4.functors.TransformedPredicate", 
+"Methods" : [{ "Name" : "transformedPredicate" ,
+"Nodes" : 6,
+"0" : [ 53 ]
+"1" : [ 56 ]
+"2" : [ 59 ]
+"3" : [ 57 ]
+"4" : [ 54 ]
+"5" : [  ]
+}]
+}

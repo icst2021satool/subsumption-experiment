@@ -1,0 +1,10 @@
+{
+"Class" : "org.apache.commons.collections4.multimap.AbstractMultiValuedMap$ValuesIterator", 
+"Methods" : [{ "Name" : "remove" ,
+"Edges" : 4,
+"Duas" : 7,
+"0" : 0, 
+ "1" : 1, 
+ "3" : 0, 
+ "4" : 1}]
+}

@@ -1,0 +1,10 @@
+{
+"Class" : "org.apache.commons.collections4.list.AbstractListDecorator", 
+"Methods" : [{ "Name" : "equals" ,
+"Duas" : "8" ,
+"Subsumers" : 3,
+"0" : [ 6, 2], "S0" : [0, 2, 4, 6 ],
+"1" : [ 7, 3], "S1" : [0, 3, 4, 7 ],
+"2" : [ 5, 1], "S2" : [1, 5 ]
+}]
+}

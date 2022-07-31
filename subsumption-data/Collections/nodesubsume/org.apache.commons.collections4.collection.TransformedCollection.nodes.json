@@ -1,0 +1,25 @@
+{
+"Class" : "org.apache.commons.collections4.collection.TransformedCollection", 
+"Methods" : [{ "Name" : "transformedCollection" ,
+"Nodes" : 6,
+"0" : [ 84,86 ]
+"1" : [ 94 ]
+"2" : [ 88,89,90 ]
+"3" : [ 90 ]
+"4" : [ 90,91 ]
+"5" : [  ]
+},{ "Name" : "<init>" ,
+"Nodes" : 4,
+"0" : [ 109,110 ]
+"1" : [ 113,114 ]
+"2" : [ 111 ]
+"3" : [  ]
+},{ "Name" : "transform" ,
+"Nodes" : 5,
+"0" : [ 137,138 ]
+"1" : [ 138 ]
+"2" : [ 141 ]
+"3" : [ 138,139,140 ]
+"4" : [  ]
+}]
+}

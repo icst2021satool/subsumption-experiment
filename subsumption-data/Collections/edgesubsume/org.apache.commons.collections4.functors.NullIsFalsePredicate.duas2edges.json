@@ -1,0 +1,12 @@
+{
+"Class" : "org.apache.commons.collections4.functors.NullIsFalsePredicate", 
+"Methods" : [{ "Name" : "nullIsFalsePredicate" ,
+"Edges" : 4,
+"Duas" : 3,
+"0" : 0, 
+ "1" : 1},{ "Name" : "evaluate" ,
+"Edges" : 4,
+"Duas" : 5,
+"1" : 0, 
+ "2" : 1}]
+}

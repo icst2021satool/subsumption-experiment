@@ -1,0 +1,16 @@
+{
+"Class" : "org.apache.commons.collections4.bidimap.TreeBidiMap$InverseViewMapIterator", 
+"Methods" : [{ "Name" : "getKey" ,
+"Nodes" : 4,
+"0" : [ 1746 ]
+"1" : [ 1750 ]
+"2" : [ 1747 ]
+"3" : [  ]
+},{ "Name" : "getValue" ,
+"Nodes" : 4,
+"0" : [ 1754 ]
+"1" : [ 1758 ]
+"2" : [ 1755 ]
+"3" : [  ]
+}]
+}

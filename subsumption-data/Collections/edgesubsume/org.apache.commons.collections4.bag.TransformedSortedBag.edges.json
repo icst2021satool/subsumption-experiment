@@ -1,0 +1,17 @@
+{
+"Class" : "org.apache.commons.collections4.bag.TransformedSortedBag", 
+"Methods" : [{ "Name" : "transformedSortedBag" ,
+"Edges" : 11,
+"0" : [ 2,3 ],
+"1" : [ 2,1 ],
+"2" : [ 4,5 ],
+"3" : [ 5,6 ],
+"4" : [ 5,1 ],
+"5" : [ 1,7 ],
+"6" : [ 3,4 ],
+"7" : [ 3,1 ],
+"8" : [ 6,5 ],
+"9" : [ 0,2 ],
+"10" : [ 0,1 ]
+}]
+}

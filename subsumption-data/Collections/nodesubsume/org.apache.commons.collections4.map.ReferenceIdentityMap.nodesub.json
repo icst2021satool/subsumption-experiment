@@ -1,0 +1,25 @@
+{
+"Class" : "org.apache.commons.collections4.map.ReferenceIdentityMap", 
+"Methods" : [{ "Name" : "isEqualKey" ,
+"Nodes" : 8,
+"0" : [ ],
+"1" : [ 1, 6],
+"6" : [ 0, 5],
+"2" : [ 4],
+"3" : [ 3, 4, 8],
+"5" : [ 2, 4, 7],
+"4" : [ 4],
+"7" : [ 4],
+"CoveredDUAsByNodes" : 9,
+"Duas" : 9
+},{ "Name" : "isEqualValue" ,
+"Nodes" : 5,
+"0" : [ ],
+"1" : [ 1, 3],
+"3" : [ 0, 2],
+"2" : [ ],
+"4" : [ ],
+"CoveredDUAsByNodes" : 4,
+"Duas" : 4
+}]
+}

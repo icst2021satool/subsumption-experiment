@@ -1,0 +1,12 @@
+{
+"Class" : "org.apache.commons.collections4.set.PredicatedSet", 
+"Methods" : [{ "Name" : "equals" ,
+"Nodes" : 6,
+"0" : [ 91 ]
+"1" : [ 91 ]
+"2" : [ 91 ]
+"3" : [ 91 ]
+"4" : [ 91 ]
+"5" : [  ]
+}]
+}

@@ -1,0 +1,8 @@
+{
+"Class" : "org.apache.commons.collections4.functors.CloneTransformer", 
+"Methods" : [{ "Name" : "transform" ,
+"Duas" : 3,
+"0" :  "(66,(66,67), input)",
+"1" :  "(66,(66,69), input)",
+"2" :  "(66,69, input)"}]
+}

@@ -1,0 +1,14 @@
+{
+"Class" : "org.apache.commons.collections4.EnumerationUtils", 
+"Methods" : [{ "Name" : "get" ,
+"Edges" : 8,
+"Duas" : 10,
+"0" : 5, 
+ "1" : 6, 
+ "6" : 1, 
+ "7" : 2},{ "Name" : "toList" ,
+"Edges" : 5,
+"Duas" : 5,
+"0" : 3, 
+ "1" : 4}]
+}

@@ -1,0 +1,30 @@
+{
+"Class" : "org.apache.commons.collections4.list.TransformedList", 
+"Methods" : [{ "Name" : "transformedList" ,
+"Edges" : 11,
+"1" : [ 6],
+"2" : [ 7, 9],
+"3" : [ 0, 6],
+"4" : [ 1, 9],
+"6" : [ 0, 2, 4, 5, 6],
+"7" : [ 3, 9],
+"5" : [ 0, 2, 4, 5, 6],
+"8" : [ 0, 2, 4, 5, 6, 8, 10],
+"9" : [ 9],
+"10" : [ 9],
+"0" : [ 0, 2, 4, 5, 6, 8, 10],
+"CoveredDUAsByEdges" : 11,
+"Duas" : 11
+},{ "Name" : "equals" ,
+"Edges" : 7,
+"2" : [ 0, 4],
+"3" : [ 1, 5],
+"5" : [ 2, 6],
+"6" : [ 0, 3, 4, 7],
+"4" : [ 0, 3, 4, 7],
+"0" : [ ],
+"1" : [ ],
+"CoveredDUAsByEdges" : 8,
+"Duas" : 8
+}]
+}

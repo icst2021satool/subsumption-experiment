@@ -1,0 +1,29 @@
+{
+"Class" : "org.apache.commons.collections4.iterators.ArrayListIterator", 
+"Methods" : [{ "Name" : "hasPrevious" ,
+"Nodes" : 5,
+"0" : [ 105 ]
+"1" : [ 105 ]
+"2" : [ 105 ]
+"3" : [ 105 ]
+"4" : [  ]
+},{ "Name" : "previous" ,
+"Nodes" : 4,
+"0" : [ 116 ]
+"1" : [ 119,120 ]
+"2" : [ 117 ]
+"3" : [  ]
+},{ "Name" : "next" ,
+"Nodes" : 4,
+"0" : [ 132 ]
+"1" : [ 135,136 ]
+"2" : [ 133 ]
+"3" : [  ]
+},{ "Name" : "set" ,
+"Nodes" : 4,
+"0" : [ 188 ]
+"1" : [ 192,193 ]
+"2" : [ 189 ]
+"3" : [  ]
+}]
+}

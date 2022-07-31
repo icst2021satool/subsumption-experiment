@@ -1,0 +1,22 @@
+{
+"Class" : "org.apache.commons.collections4.map.AbstractReferenceMap$ReferenceMapIterator", 
+"Methods" : [{ "Name" : "getKey" ,
+"Nodes" : 4,
+"0" : [ 909,910 ]
+"1" : [ 913 ]
+"2" : [ 911 ]
+"3" : [  ]
+},{ "Name" : "getValue" ,
+"Nodes" : 4,
+"0" : [ 917,918 ]
+"1" : [ 921 ]
+"2" : [ 919 ]
+"3" : [  ]
+},{ "Name" : "setValue" ,
+"Nodes" : 4,
+"0" : [ 925,926 ]
+"1" : [ 929 ]
+"2" : [ 927 ]
+"3" : [  ]
+}]
+}

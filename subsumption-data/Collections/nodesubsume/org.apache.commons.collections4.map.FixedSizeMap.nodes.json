@@ -1,0 +1,19 @@
+{
+"Class" : "org.apache.commons.collections4.map.FixedSizeMap", 
+"Methods" : [{ "Name" : "put" ,
+"Nodes" : 4,
+"0" : [ 117 ]
+"1" : [ 120 ]
+"2" : [ 118 ]
+"3" : [  ]
+},{ "Name" : "putAll" ,
+"Nodes" : 7,
+"0" : [ 125 ]
+"1" : [ 125 ]
+"2" : [ 130,131 ]
+"3" : [ 125,126 ]
+"4" : [ 129 ]
+"5" : [ 127 ]
+"6" : [  ]
+}]
+}

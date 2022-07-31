@@ -1,0 +1,16 @@
+{
+"Class" : "org.apache.commons.collections4.map.AbstractLinkedMap$LinkMapIterator", 
+"Methods" : [{ "Name" : "getKey" ,
+"Edges" : 4,
+"Duas" : 3,
+"0" : 0, 
+ "1" : 1},{ "Name" : "getValue" ,
+"Edges" : 4,
+"Duas" : 3,
+"0" : 1, 
+ "1" : 2},{ "Name" : "setValue" ,
+"Edges" : 4,
+"Duas" : 4,
+"1" : 1, 
+ "2" : 2}]
+}

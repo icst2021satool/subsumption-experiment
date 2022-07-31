@@ -1,0 +1,22 @@
+{
+"Class" : "org.apache.commons.collections4.map.AbstractHashedMap$HashMapIterator", 
+"Methods" : [{ "Name" : "getKey" ,
+"Nodes" : 4,
+"0" : [ 776,777 ]
+"1" : [ 780 ]
+"2" : [ 778 ]
+"3" : [  ]
+},{ "Name" : "getValue" ,
+"Nodes" : 4,
+"0" : [ 784,785 ]
+"1" : [ 788 ]
+"2" : [ 786 ]
+"3" : [  ]
+},{ "Name" : "setValue" ,
+"Nodes" : 4,
+"0" : [ 792,793 ]
+"1" : [ 796 ]
+"2" : [ 794 ]
+"3" : [  ]
+}]
+}

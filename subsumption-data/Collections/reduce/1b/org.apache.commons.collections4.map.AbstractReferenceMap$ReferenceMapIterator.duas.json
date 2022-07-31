@@ -1,0 +1,17 @@
+{
+"Class" : "org.apache.commons.collections4.map.AbstractReferenceMap$ReferenceMapIterator", 
+"Methods" : [{ "Name" : "getKey" ,
+"Duas" : 3,
+"0" :  "(909,(910,911), current)",
+"1" :  "(909,(910,913), current)",
+"2" :  "(909,913, current)"},{ "Name" : "getValue" ,
+"Duas" : 3,
+"0" :  "(917,(918,919), current)",
+"1" :  "(917,(918,921), current)",
+"2" :  "(917,921, current)"},{ "Name" : "setValue" ,
+"Duas" : 4,
+"0" :  "(925,929, value)",
+"1" :  "(925,(926,927), current)",
+"2" :  "(925,(926,929), current)",
+"3" :  "(925,929, current)"}]
+}

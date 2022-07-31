@@ -1,0 +1,23 @@
+{
+"Class" : "org.apache.commons.collections4.functors.OnePredicate", 
+"Methods" : [{ "Name" : "onePredicate" ,
+"Nodes" : 6,
+"0" : [ 53,54 ]
+"1" : [ 57 ]
+"2" : [ 60 ]
+"3" : [ 58 ]
+"4" : [ 55 ]
+"5" : [  ]
+},{ "Name" : "evaluate" ,
+"Nodes" : 9,
+"0" : [ 96,95 ]
+"1" : [ 96 ]
+"2" : [ 104 ]
+"3" : [ 96,97 ]
+"4" : [ 96 ]
+"5" : [ 98 ]
+"6" : [ 101 ]
+"7" : [ 99 ]
+"8" : [  ]
+}]
+}

@@ -1,0 +1,28 @@
+{
+"Class" : "org.apache.commons.collections4.map.DefaultedMap", 
+"Methods" : [{ "Name" : "defaultedMap" ,
+"Nodes" : 4,
+"0" : [ 105 ]
+"1" : [ 108 ]
+"2" : [ 106 ]
+"3" : [  ]
+},{ "Name" : "defaultedMap" ,
+"Nodes" : 4,
+"0" : [ 128 ]
+"1" : [ 131 ]
+"2" : [ 129 ]
+"3" : [  ]
+},{ "Name" : "<init>" ,
+"Nodes" : 4,
+"0" : [ 165,166 ]
+"1" : [ 169,170 ]
+"2" : [ 167 ]
+"3" : [  ]
+},{ "Name" : "get" ,
+"Nodes" : 4,
+"0" : [ 202 ]
+"1" : [ 205 ]
+"2" : [ 203 ]
+"3" : [  ]
+}]
+}

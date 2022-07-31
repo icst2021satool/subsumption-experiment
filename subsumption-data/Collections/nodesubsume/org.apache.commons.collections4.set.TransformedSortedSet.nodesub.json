@@ -1,0 +1,16 @@
+{
+"Class" : "org.apache.commons.collections4.set.TransformedSortedSet", 
+"Methods" : [{ "Name" : "transformedSortedSet" ,
+"Nodes" : 8,
+"0" : [ ],
+"2" : [ 6],
+"3" : [ 0, 6],
+"4" : [ 0, 2, 4, 5, 6],
+"5" : [ 0, 2, 4, 5, 6],
+"1" : [ 9],
+"7" : [ 9],
+"6" : [ 0, 2, 4, 5, 6, 8, 10],
+"CoveredDUAsByNodes" : 8,
+"Duas" : 11
+}]
+}

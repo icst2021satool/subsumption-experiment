@@ -1,0 +1,14 @@
+{
+"Class" : "org.apache.commons.collections4.FluentIterable", 
+"Methods" : [{ "Name" : "of" ,
+"Edges" : 7,
+"Duas" : 6,
+"0" : 0, 
+ "1" : 1, 
+ "2" : 3, 
+ "3" : 4},{ "Name" : "copyInto" ,
+"Edges" : 8,
+"Duas" : 5,
+"1" : 0, 
+ "2" : 1}]
+}

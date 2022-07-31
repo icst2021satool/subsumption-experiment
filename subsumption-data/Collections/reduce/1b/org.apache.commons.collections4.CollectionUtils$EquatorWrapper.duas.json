@@ -1,0 +1,11 @@
+{
+"Class" : "org.apache.commons.collections4.CollectionUtils$EquatorWrapper", 
+"Methods" : [{ "Name" : "equals" ,
+"Duas" : 6,
+"0" :  "(597,602, this)",
+"1" :  "(597,(597,598), obj)",
+"2" :  "(597,(597,601), obj)",
+"3" :  "(597,601, obj)",
+"4" :  "(597,602, this.equator)",
+"5" :  "(597,602, this.object)"}]
+}

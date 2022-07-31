@@ -1,0 +1,13 @@
+{
+"Class" : "org.apache.commons.collections4.set.PredicatedSet", 
+"Methods" : [{ "Name" : "equals" ,
+"Edges" : 7,
+"0" : [ 4,2 ],
+"1" : [ 0,3 ],
+"2" : [ 0,1 ],
+"3" : [ 3,1 ],
+"4" : [ 3,4 ],
+"5" : [ 1,2 ],
+"6" : [ 2,5 ]
+}]
+}

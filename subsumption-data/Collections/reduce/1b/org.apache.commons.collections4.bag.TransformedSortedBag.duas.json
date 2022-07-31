@@ -1,0 +1,16 @@
+{
+"Class" : "org.apache.commons.collections4.bag.TransformedSortedBag", 
+"Methods" : [{ "Name" : "transformedSortedBag" ,
+"Duas" : 11,
+"0" :  "(78,(79,79), bag)",
+"1" :  "(78,(79,87), bag)",
+"2" :  "(78,(79,81), bag)",
+"3" :  "(78,(79,87), bag)",
+"4" :  "(78,81, bag)",
+"5" :  "(78,82, bag)",
+"6" :  "(78,(79,79), transformer)",
+"7" :  "(78,(79,87), transformer)",
+"8" :  "(78,84, transformer)",
+"9" :  "(78,87, decorated)",
+"10" :  "(78,84, decorated)"}]
+}

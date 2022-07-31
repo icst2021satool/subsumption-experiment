@@ -1,0 +1,9 @@
+{
+"Class" : "org.apache.commons.collections4.functors.PrototypeFactory$PrototypeSerializationFactory", 
+"Methods" : [{ "Name" : "create" ,
+"Duas" : 4,
+"0" :  "(174,197, baos)",
+"1" :  "(180,(190,191), bais)",
+"2" :  "(180,(190,195), bais)",
+"3" :  "(180,191, bais)"}]
+}

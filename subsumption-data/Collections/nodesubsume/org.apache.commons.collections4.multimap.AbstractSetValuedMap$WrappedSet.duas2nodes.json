@@ -1,0 +1,23 @@
+{
+"Class" : "org.apache.commons.collections4.multimap.AbstractSetValuedMap$WrappedSet", 
+"Methods" : [{ "Name" : "equals" ,
+"Nodes" : 10,
+"Duas" : 12,
+"0" :  [ 0,1,7 ],
+"1" :  [ 0,1,2 ],
+"2" :  [ 0,2,6 ],
+"3" :  [ 0,2,3 ],
+"4" :  [ 0,3 ],
+"5" :  [ 0,8 ],
+"6" :  [ 0,8 ],
+"7" :  [ 0,1 ],
+"8" :  [ 0,3,5 ],
+"9" :  [ 0,3,4 ],
+"10" :  [ 3,5 ],
+"11" :  [ 3,4 ]},{ "Name" : "hashCode" ,
+"Nodes" : 4,
+"Duas" : 3,
+"0" :  [ 0,2 ],
+"1" :  [ 0,1 ],
+"2" :  [ 0,1 ]}]
+}

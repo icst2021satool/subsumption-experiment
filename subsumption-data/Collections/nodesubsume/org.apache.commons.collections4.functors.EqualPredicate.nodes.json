@@ -1,0 +1,22 @@
+{
+"Class" : "org.apache.commons.collections4.functors.EqualPredicate", 
+"Methods" : [{ "Name" : "equalPredicate" ,
+"Nodes" : 4,
+"0" : [ 50 ]
+"1" : [ 53 ]
+"2" : [ 51 ]
+"3" : [  ]
+},{ "Name" : "equalPredicate" ,
+"Nodes" : 4,
+"0" : [ 66 ]
+"1" : [ 69 ]
+"2" : [ 67 ]
+"3" : [  ]
+},{ "Name" : "evaluate" ,
+"Nodes" : 4,
+"0" : [ 105 ]
+"1" : [ 108 ]
+"2" : [ 106 ]
+"3" : [  ]
+}]
+}

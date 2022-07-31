@@ -1,0 +1,42 @@
+{
+"Class" : "org.apache.commons.collections4.list.NodeCachingLinkedList", 
+"Methods" : [{ "Name" : "shrinkCacheToMaximumSize" ,
+"Edges" : 4,
+"0" : [ 2,0 ],
+"1" : [ 1,3 ],
+"2" : [ 0,2 ],
+"3" : [ 0,1 ]
+},{ "Name" : "getNodeFromCache" ,
+"Edges" : 4,
+"0" : [ 1,3 ],
+"1" : [ 0,2 ],
+"2" : [ 0,1 ],
+"3" : [ 2,3 ]
+},{ "Name" : "isCacheFull" ,
+"Edges" : 5,
+"0" : [ 0,3 ],
+"1" : [ 0,1 ],
+"2" : [ 2,4 ],
+"3" : [ 3,2 ],
+"4" : [ 1,2 ]
+},{ "Name" : "addNodeToCache" ,
+"Edges" : 4,
+"0" : [ 0,2 ],
+"1" : [ 0,1 ],
+"2" : [ 1,3 ],
+"3" : [ 2,3 ]
+},{ "Name" : "createNode" ,
+"Edges" : 4,
+"0" : [ 0,2 ],
+"1" : [ 0,1 ],
+"2" : [ 1,3 ],
+"3" : [ 2,3 ]
+},{ "Name" : "removeAllNodes" ,
+"Edges" : 5,
+"0" : [ 2,4 ],
+"1" : [ 0,1 ],
+"2" : [ 1,3 ],
+"3" : [ 1,2 ],
+"4" : [ 3,1 ]
+}]
+}

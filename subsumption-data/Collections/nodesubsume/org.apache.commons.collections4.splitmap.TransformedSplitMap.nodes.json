@@ -1,0 +1,21 @@
+{
+"Class" : "org.apache.commons.collections4.splitmap.TransformedSplitMap", 
+"Methods" : [{ "Name" : "<init>" ,
+"Nodes" : 6,
+"0" : [ 112,113 ]
+"1" : [ 116,117 ]
+"2" : [ 120,121 ]
+"3" : [ 118 ]
+"4" : [ 114 ]
+"5" : [  ]
+},{ "Name" : "transformMap" ,
+"Nodes" : 7,
+"0" : [ 184 ]
+"1" : [ 187,189 ]
+"2" : [ 189 ]
+"3" : [ 192 ]
+"4" : [ 189,190,191 ]
+"5" : [ 185 ]
+"6" : [  ]
+}]
+}

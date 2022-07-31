@@ -1,0 +1,18 @@
+{
+"Class" : "org.apache.commons.collections4.map.PassiveExpiringMap$ConstantTimeToLiveExpirationPolicy", 
+"Methods" : [{ "Name" : "expirationTime" ,
+"Duas" : 13,
+"0" :  "(138,(138,140), this)",
+"1" :  "(138,(138,152), this)",
+"2" :  "(138,(141,144), this)",
+"3" :  "(138,(141,148), this)",
+"4" :  "(138,148, this)",
+"5" :  "(138,(138,140), this.timeToLiveMillis)",
+"6" :  "(138,(138,152), this.timeToLiveMillis)",
+"7" :  "(138,(141,144), this.timeToLiveMillis)",
+"8" :  "(138,(141,148), this.timeToLiveMillis)",
+"9" :  "(138,148, this.timeToLiveMillis)",
+"10" :  "(140,(141,144), now)",
+"11" :  "(140,(141,148), now)",
+"12" :  "(140,148, now)"}]
+}

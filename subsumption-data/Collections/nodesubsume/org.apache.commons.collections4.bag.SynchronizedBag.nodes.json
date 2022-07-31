@@ -1,0 +1,10 @@
+{
+"Class" : "org.apache.commons.collections4.bag.SynchronizedBag", 
+"Methods" : [{ "Name" : "equals" ,
+"Nodes" : 4,
+"0" : [ 87 ]
+"1" : [ 90,91 ]
+"2" : [ 88 ]
+"3" : [  ]
+}]
+}

@@ -1,0 +1,16 @@
+{
+"Class" : "org.apache.commons.collections4.map.AbstractHashedMap$HashMapIterator", 
+"Methods" : [{ "Name" : "getKey" ,
+"Edges" : 4,
+"Duas" : 3,
+"0" : 1, 
+ "1" : 2},{ "Name" : "getValue" ,
+"Edges" : 4,
+"Duas" : 3,
+"0" : 2, 
+ "1" : 3},{ "Name" : "setValue" ,
+"Edges" : 4,
+"Duas" : 4,
+"1" : 1, 
+ "2" : 2}]
+}

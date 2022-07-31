@@ -1,0 +1,24 @@
+{
+"Class" : "org.apache.commons.collections4.iterators.LazyIteratorChain", 
+"Methods" : [{ "Name" : "updateCurrentIterator" ,
+"Nodes" : 12,
+"0" : [ 83 ]
+"1" : [ 94 ]
+"2" : [ 102 ]
+"3" : [ 94 ]
+"4" : [ 96,95 ]
+"5" : [ 99 ]
+"6" : [ 101 ]
+"7" : [ 97 ]
+"8" : [ 84,85 ]
+"9" : [ 91 ]
+"10" : [ 86,87 ]
+"11" : [  ]
+},{ "Name" : "remove" ,
+"Nodes" : 4,
+"0" : [ 144 ]
+"1" : [ 147,148 ]
+"2" : [ 145 ]
+"3" : [  ]
+}]
+}

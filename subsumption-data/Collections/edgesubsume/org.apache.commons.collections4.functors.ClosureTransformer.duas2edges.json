@@ -1,0 +1,8 @@
+{
+"Class" : "org.apache.commons.collections4.functors.ClosureTransformer", 
+"Methods" : [{ "Name" : "closureTransformer" ,
+"Edges" : 4,
+"Duas" : 3,
+"0" : 1, 
+ "1" : 2}]
+}

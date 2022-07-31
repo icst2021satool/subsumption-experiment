@@ -1,0 +1,43 @@
+{
+"Class" : "org.apache.commons.collections4.iterators.ZippingIterator", 
+"Methods" : [{ "Name" : "<init>" ,
+"Nodes" : 7,
+"0" : [ ],
+"1" : [ ],
+"2" : [ 0, 1],
+"3" : [ ],
+"4" : [ 2, 4, 5],
+"5" : [ 3],
+"6" : [ ],
+"CoveredDUAsByNodes" : 6,
+"Duas" : 6
+},{ "Name" : "hasNext" ,
+"Nodes" : 8,
+"0" : [ ],
+"1" : [ 1, 8],
+"2" : [ 1, 3, 8, 10],
+"3" : [ 1, 2, 4, 8, 9, 11],
+"4" : [ 1, 2, 4, 5, 8, 9, 11, 12, 14],
+"5" : [ 1, 2, 4, 6, 8, 9, 11, 13, 15],
+"6" : [ 0, 7],
+"7" : [ ],
+"CoveredDUAsByNodes" : 16,
+"Duas" : 16
+},{ "Name" : "next" ,
+"Nodes" : 4,
+"0" : [ ],
+"1" : [ 1, 2, 3, 4, 5, 6],
+"2" : [ 0],
+"3" : [ ],
+"CoveredDUAsByNodes" : 7,
+"Duas" : 7
+},{ "Name" : "remove" ,
+"Nodes" : 4,
+"0" : [ ],
+"1" : [ 1, 2, 3, 5, 6],
+"2" : [ 0, 4],
+"3" : [ ],
+"CoveredDUAsByNodes" : 7,
+"Duas" : 7
+}]
+}

@@ -1,0 +1,9 @@
+{
+"Class" : "org.apache.commons.collections4.collection.AbstractCollectionDecorator", 
+"Methods" : [{ "Name" : "<init>" ,
+"Duas" : 4,
+"0" :  "(78,82, this)",
+"1" :  "(78,(79,80), coll)",
+"2" :  "(78,(79,82), coll)",
+"3" :  "(78,82, coll)"}]
+}

@@ -1,0 +1,11 @@
+{
+"Class" : "org.apache.commons.collections4.bidimap.DualTreeBidiMap$ViewMap", 
+"Methods" : [{ "Name" : "clear" ,
+"Nodes" : 5,
+"0" : [ 248 ]
+"1" : [ 248 ]
+"2" : [ 252 ]
+"3" : [ 249,250 ]
+"4" : [  ]
+}]
+}

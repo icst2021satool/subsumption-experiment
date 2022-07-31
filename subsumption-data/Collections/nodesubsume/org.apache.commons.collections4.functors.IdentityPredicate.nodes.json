@@ -1,0 +1,17 @@
+{
+"Class" : "org.apache.commons.collections4.functors.IdentityPredicate", 
+"Methods" : [{ "Name" : "identityPredicate" ,
+"Nodes" : 4,
+"0" : [ 47 ]
+"1" : [ 50 ]
+"2" : [ 48 ]
+"3" : [  ]
+},{ "Name" : "evaluate" ,
+"Nodes" : 5,
+"0" : [ 72 ]
+"1" : [ 72 ]
+"2" : [ 72 ]
+"3" : [ 72 ]
+"4" : [  ]
+}]
+}

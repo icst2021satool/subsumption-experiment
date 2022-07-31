@@ -1,0 +1,9 @@
+{
+"Class" : "org.apache.commons.collections4.collection.UnmodifiableCollection", 
+"Methods" : [{ "Name" : "unmodifiableCollection" ,
+"Duas" : 4,
+"0" :  "(55,(55,57), coll)",
+"1" :  "(55,(55,60), coll)",
+"2" :  "(55,60, coll)",
+"3" :  "(55,57, coll)"}]
+}

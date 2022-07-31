@@ -1,0 +1,25 @@
+{
+"Class" : "org.apache.commons.collections4.functors.AndPredicate", 
+"Methods" : [{ "Name" : "andPredicate" ,
+"Edges" : 6,
+"4" : [ 0],
+"5" : [ 1],
+"0" : [ 3],
+"1" : [ 0, 2, 4, 5],
+"2" : [ 0, 2, 4, 5],
+"3" : [ ],
+"CoveredDUAsByEdges" : 6,
+"Duas" : 6
+},{ "Name" : "evaluate" ,
+"Edges" : 7,
+"0" : [ 0, 4, 8],
+"1" : [ 1, 5, 9],
+"3" : [ 0, 2, 4, 6, 8, 10],
+"4" : [ 3, 7, 11],
+"2" : [ ],
+"6" : [ 0, 2, 4, 6, 8, 10],
+"5" : [ ],
+"CoveredDUAsByEdges" : 12,
+"Duas" : 12
+}]
+}

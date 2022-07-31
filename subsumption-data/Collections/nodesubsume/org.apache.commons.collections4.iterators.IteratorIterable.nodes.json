@@ -1,0 +1,18 @@
+{
+"Class" : "org.apache.commons.collections4.iterators.IteratorIterable", 
+"Methods" : [{ "Name" : "<init>" ,
+"Nodes" : 6,
+"0" : [ 110,111 ]
+"1" : [ 114 ]
+"2" : [ 116,117 ]
+"3" : [ 111 ]
+"4" : [ 112 ]
+"5" : [  ]
+},{ "Name" : "iterator" ,
+"Nodes" : 4,
+"0" : [ 125 ]
+"1" : [ 128 ]
+"2" : [ 126 ]
+"3" : [  ]
+}]
+}

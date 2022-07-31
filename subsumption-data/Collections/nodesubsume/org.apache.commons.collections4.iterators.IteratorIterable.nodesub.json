@@ -1,0 +1,22 @@
+{
+"Class" : "org.apache.commons.collections4.iterators.IteratorIterable", 
+"Methods" : [{ "Name" : "<init>" ,
+"Nodes" : 6,
+"0" : [ ],
+"3" : [ 7],
+"1" : [ 0, 3],
+"4" : [ 2, 4, 6, 7],
+"2" : [ 1],
+"5" : [ 1],
+"CoveredDUAsByNodes" : 7,
+"Duas" : 11
+},{ "Name" : "iterator" ,
+"Nodes" : 4,
+"0" : [ ],
+"2" : [ 0, 3, 4, 6],
+"1" : [ 2, 7],
+"3" : [ 2, 7],
+"CoveredDUAsByNodes" : 6,
+"Duas" : 8
+}]
+}

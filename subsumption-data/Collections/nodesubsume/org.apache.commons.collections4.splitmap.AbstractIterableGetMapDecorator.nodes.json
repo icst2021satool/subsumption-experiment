@@ -1,0 +1,10 @@
+{
+"Class" : "org.apache.commons.collections4.splitmap.AbstractIterableGetMapDecorator", 
+"Methods" : [{ "Name" : "equals" ,
+"Nodes" : 4,
+"0" : [ 109 ]
+"1" : [ 112 ]
+"2" : [ 110 ]
+"3" : [  ]
+}]
+}

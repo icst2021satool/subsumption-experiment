@@ -1,0 +1,10 @@
+{
+"Class" : "org.apache.commons.collections4.functors.InstanceofPredicate", 
+"Methods" : [{ "Name" : "instanceOfPredicate" ,
+"Nodes" : 4,
+"0" : [ 46 ]
+"1" : [ 49 ]
+"2" : [ 47 ]
+"3" : [  ]
+}]
+}

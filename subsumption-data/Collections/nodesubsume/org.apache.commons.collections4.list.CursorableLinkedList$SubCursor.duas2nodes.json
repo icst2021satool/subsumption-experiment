@@ -1,0 +1,16 @@
+{
+"Class" : "org.apache.commons.collections4.list.CursorableLinkedList$SubCursor", 
+"Methods" : [{ "Name" : "hasNext" ,
+"Nodes" : 5,
+"Duas" : 6,
+"0" :  [ 0,3 ],
+"1" :  [ 0,1 ],
+"2" :  [ 0,3 ],
+"3" :  [ 0,1 ],
+"4" :  [ 0,3 ],
+"5" :  [ 0,1 ]},{ "Name" : "hasPrevious" ,
+"Nodes" : 5,
+"Duas" : 2,
+"0" :  [ 0,3 ],
+"1" :  [ 0,1 ]}]
+}

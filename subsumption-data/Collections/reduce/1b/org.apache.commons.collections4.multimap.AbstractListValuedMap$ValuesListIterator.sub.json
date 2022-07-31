@@ -1,0 +1,14 @@
+{
+"Class" : "org.apache.commons.collections4.multimap.AbstractListValuedMap$ValuesListIterator", 
+"Methods" : [{ "Name" : "add" ,
+"Duas" : "17" ,
+"Subsumers" : 2,
+"0" : [ 16, 14, 12, 10, 11, 8, 3, 4, 5, 6, 0], "S0" : [0, 2, 3, 4, 5, 6, 7, 8, 10, 11, 12, 14, 16 ],
+"1" : [ 15, 13, 9, 1], "S1" : [1, 2, 7, 9, 13, 15 ]
+},{ "Name" : "remove" ,
+"Duas" : "7" ,
+"Subsumers" : 2,
+"0" : [ 6, 5, 3, 2, 0], "S0" : [0, 2, 3, 5, 6 ],
+"1" : [ 4, 1], "S1" : [1, 4 ]
+}]
+}

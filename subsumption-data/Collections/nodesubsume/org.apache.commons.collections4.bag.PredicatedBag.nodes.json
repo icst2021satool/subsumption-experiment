@@ -1,0 +1,12 @@
+{
+"Class" : "org.apache.commons.collections4.bag.PredicatedBag", 
+"Methods" : [{ "Name" : "equals" ,
+"Nodes" : 6,
+"0" : [ 92 ]
+"1" : [ 92 ]
+"2" : [ 92 ]
+"3" : [ 92 ]
+"4" : [ 92 ]
+"5" : [  ]
+}]
+}

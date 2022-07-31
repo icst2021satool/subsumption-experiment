@@ -1,0 +1,22 @@
+{
+"Class" : "org.apache.commons.collections4.bag.TransformedBag", 
+"Methods" : [{ "Name" : "transformedBag" ,
+"Nodes" : 8,
+"0" : [ 77,78 ]
+"1" : [ 86 ]
+"2" : [ 78 ]
+"3" : [ 78 ]
+"4" : [ 80,81,82 ]
+"5" : [ 82 ]
+"6" : [ 82,83 ]
+"7" : [  ]
+},{ "Name" : "equals" ,
+"Nodes" : 6,
+"0" : [ 115 ]
+"1" : [ 115 ]
+"2" : [ 115 ]
+"3" : [ 115 ]
+"4" : [ 115 ]
+"5" : [  ]
+}]
+}

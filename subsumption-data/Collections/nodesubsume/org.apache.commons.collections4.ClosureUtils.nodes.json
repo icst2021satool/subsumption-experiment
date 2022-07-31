@@ -1,0 +1,13 @@
+{
+"Class" : "org.apache.commons.collections4.ClosureUtils", 
+"Methods" : [{ "Name" : "switchMapClosure" ,
+"Nodes" : 7,
+"0" : [ 356 ]
+"1" : [ 359,360,361,362,363,364 ]
+"2" : [ 364 ]
+"3" : [ 369 ]
+"4" : [ 368,364,365,366,367 ]
+"5" : [ 357 ]
+"6" : [  ]
+}]
+}

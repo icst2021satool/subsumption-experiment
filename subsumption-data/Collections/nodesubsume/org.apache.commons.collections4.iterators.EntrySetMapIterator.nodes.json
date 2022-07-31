@@ -1,0 +1,34 @@
+{
+"Class" : "org.apache.commons.collections4.iterators.EntrySetMapIterator", 
+"Methods" : [{ "Name" : "remove" ,
+"Nodes" : 4,
+"0" : [ 92 ]
+"1" : [ 96,97,98,95 ]
+"2" : [ 93 ]
+"3" : [  ]
+},{ "Name" : "getKey" ,
+"Nodes" : 4,
+"0" : [ 109 ]
+"1" : [ 112 ]
+"2" : [ 110 ]
+"3" : [  ]
+},{ "Name" : "getValue" ,
+"Nodes" : 4,
+"0" : [ 123 ]
+"1" : [ 126 ]
+"2" : [ 124 ]
+"3" : [  ]
+},{ "Name" : "setValue" ,
+"Nodes" : 4,
+"0" : [ 140 ]
+"1" : [ 143 ]
+"2" : [ 141 ]
+"3" : [  ]
+},{ "Name" : "toString" ,
+"Nodes" : 4,
+"0" : [ 163 ]
+"1" : [ 166 ]
+"2" : [ 164 ]
+"3" : [  ]
+}]
+}

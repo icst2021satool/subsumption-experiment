@@ -1,0 +1,12 @@
+{
+"Class" : "org.apache.commons.collections4.bag.SynchronizedBag", 
+"Methods" : [{ "Name" : "equals" ,
+"Edges" : 4,
+"1" : [ 0, 5],
+"2" : [ 1, 2, 3, 4, 6, 7, 8, 9],
+"3" : [ 1, 2, 3, 4, 6, 7, 8, 9],
+"0" : [ 0, 5],
+"CoveredDUAsByEdges" : 10,
+"Duas" : 10
+}]
+}

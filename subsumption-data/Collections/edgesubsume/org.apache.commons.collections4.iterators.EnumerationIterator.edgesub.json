@@ -1,0 +1,15 @@
+{
+"Class" : "org.apache.commons.collections4.iterators.EnumerationIterator", 
+"Methods" : [{ "Name" : "remove" ,
+"Edges" : 7,
+"4" : [ 0, 5],
+"5" : [ 1, 6],
+"0" : [ 1, 6],
+"1" : [ 0, 2, 4, 5, 7, 8, 10],
+"2" : [ 0, 3, 5, 9],
+"6" : [ 0, 3, 5, 9],
+"3" : [ 0, 2, 4, 5, 7, 8, 10],
+"CoveredDUAsByEdges" : 11,
+"Duas" : 11
+}]
+}

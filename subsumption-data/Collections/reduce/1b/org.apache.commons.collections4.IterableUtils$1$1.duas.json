@@ -1,0 +1,17 @@
+{
+"Class" : "org.apache.commons.collections4.IterableUtils$1$1", 
+"Methods" : [{ "Name" : "nextIterator" ,
+"Duas" : 12,
+"0" :  "(136,(136,137), this)",
+"1" :  "(136,(136,139), this)",
+"2" :  "(136,139, this)",
+"3" :  "(136,(136,137), count)",
+"4" :  "(136,(136,139), count)",
+"5" :  "(136,139, count)",
+"6" :  "(136,(136,137), this.this$0)",
+"7" :  "(136,(136,139), this.this$0)",
+"8" :  "(136,139, this.this$0)",
+"9" :  "(136,(136,137), this.val$iterables)",
+"10" :  "(136,(136,139), this.val$iterables)",
+"11" :  "(136,139, this.val$iterables)"}]
+}

@@ -1,0 +1,13 @@
+{
+"Class" : "org.apache.commons.collections4.trie.AbstractPatriciaTrie$Values", 
+"Methods" : [{ "Name" : "remove" ,
+"Nodes" : 7,
+"0" : [ 1500 ]
+"1" : [ 1500 ]
+"2" : [ 1507 ]
+"3" : [ 1501,1502 ]
+"4" : [ 1506 ]
+"5" : [ 1504,1503 ]
+"6" : [  ]
+}]
+}

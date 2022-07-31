@@ -1,0 +1,12 @@
+{
+"Class" : "org.apache.commons.collections4.iterators.UnmodifiableMapIterator", 
+"Methods" : [{ "Name" : "unmodifiableMapIterator" ,
+"Nodes" : 6,
+"0" : [ 47 ]
+"1" : [ 50 ]
+"2" : [ 55 ]
+"3" : [ 52,53 ]
+"4" : [ 48 ]
+"5" : [  ]
+}]
+}

@@ -1,0 +1,14 @@
+{
+"Class" : "org.apache.commons.collections4.multimap.AbstractMultiValuedMapDecorator", 
+"Methods" : [{ "Name" : "<init>" ,
+"Edges" : 4,
+"Duas" : 4,
+"1" : 0, 
+ "2" : 1},{ "Name" : "equals" ,
+"Edges" : 4,
+"Duas" : 6,
+"0" : 1, 
+ "1" : 2, 
+ "3" : 1, 
+ "4" : 2}]
+}

@@ -1,0 +1,19 @@
+{
+"Class" : "org.apache.commons.collections4.list.PredicatedList", 
+"Methods" : [{ "Name" : "equals" ,
+"Nodes" : 6,
+"0" : [ 99 ]
+"1" : [ 99 ]
+"2" : [ 99 ]
+"3" : [ 99 ]
+"4" : [ 99 ]
+"5" : [  ]
+},{ "Name" : "addAll" ,
+"Nodes" : 5,
+"0" : [ 133 ]
+"1" : [ 133 ]
+"2" : [ 136 ]
+"3" : [ 133,134,135 ]
+"4" : [  ]
+}]
+}

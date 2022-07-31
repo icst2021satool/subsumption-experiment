@@ -1,0 +1,37 @@
+{
+"Class" : "org.apache.commons.collections4.trie.AbstractPatriciaTrie$TrieMapIterator", 
+"Methods" : [{ "Name" : "getKey" ,
+"Nodes" : 4,
+"0" : [ 1603 ]
+"1" : [ 1606 ]
+"2" : [ 1604 ]
+"3" : [  ]
+},{ "Name" : "getValue" ,
+"Nodes" : 4,
+"0" : [ 1610 ]
+"1" : [ 1613 ]
+"2" : [ 1611 ]
+"3" : [  ]
+},{ "Name" : "setValue" ,
+"Nodes" : 4,
+"0" : [ 1617 ]
+"1" : [ 1620 ]
+"2" : [ 1618 ]
+"3" : [  ]
+},{ "Name" : "hasPrevious" ,
+"Nodes" : 5,
+"0" : [ 1624 ]
+"1" : [ 1624 ]
+"2" : [ 1624 ]
+"3" : [ 1624 ]
+"4" : [  ]
+},{ "Name" : "previousEntry" ,
+"Nodes" : 6,
+"0" : [ 1639 ]
+"1" : [ 1643,1644 ]
+"2" : [ 1648,1649,1650,1651 ]
+"3" : [ 1645 ]
+"4" : [ 1640 ]
+"5" : [  ]
+}]
+}

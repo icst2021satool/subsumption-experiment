@@ -1,0 +1,22 @@
+{
+"Class" : "org.apache.commons.collections4.list.TransformedList", 
+"Methods" : [{ "Name" : "transformedList" ,
+"Edges" : 11,
+"Duas" : 11,
+"0" : 3, 
+ "1" : 4, 
+ "2" : 6, 
+ "3" : 7, 
+ "6" : 1, 
+ "7" : 2},{ "Name" : "equals" ,
+"Edges" : 7,
+"Duas" : 8,
+"0" : 2, 
+ "1" : 3, 
+ "2" : 5, 
+ "3" : 6, 
+ "4" : 2, 
+ "5" : 3, 
+ "6" : 5, 
+ "7" : 6}]
+}

@@ -1,0 +1,10 @@
+{
+"Class" : "org.apache.commons.collections4.CollectionUtils$CardinalityHelper", 
+"Methods" : [{ "Name" : "getFreq" ,
+"Nodes" : 4,
+"0" : [ 117,118 ]
+"1" : [ 121 ]
+"2" : [ 119 ]
+"3" : [  ]
+}]
+}

@@ -1,0 +1,28 @@
+{
+"Class" : "org.apache.commons.collections4.list.GrowthList", 
+"Methods" : [{ "Name" : "add" ,
+"Nodes" : 4,
+"0" : [ ],
+"2" : [ 1, 2, 5, 7, 9],
+"1" : [ 0, 4, 6],
+"3" : [ 0, 4, 6],
+"CoveredDUAsByNodes" : 8,
+"Duas" : 10
+},{ "Name" : "addAll" ,
+"Nodes" : 4,
+"0" : [ ],
+"2" : [ 1, 2, 5, 7, 9],
+"1" : [ 0, 4, 6],
+"3" : [ 0, 4, 6],
+"CoveredDUAsByNodes" : 8,
+"Duas" : 12
+},{ "Name" : "set" ,
+"Nodes" : 4,
+"0" : [ ],
+"2" : [ 1, 2, 5, 7, 9],
+"1" : [ 0, 4, 6],
+"3" : [ 0, 4, 6],
+"CoveredDUAsByNodes" : 8,
+"Duas" : 10
+}]
+}

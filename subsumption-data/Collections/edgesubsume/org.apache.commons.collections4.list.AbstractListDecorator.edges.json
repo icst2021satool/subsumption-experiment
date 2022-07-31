@@ -1,0 +1,13 @@
+{
+"Class" : "org.apache.commons.collections4.list.AbstractListDecorator", 
+"Methods" : [{ "Name" : "equals" ,
+"Edges" : 7,
+"0" : [ 0,3 ],
+"1" : [ 0,1 ],
+"2" : [ 3,1 ],
+"3" : [ 3,4 ],
+"4" : [ 2,5 ],
+"5" : [ 1,2 ],
+"6" : [ 4,2 ]
+}]
+}

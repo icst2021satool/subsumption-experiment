@@ -1,0 +1,24 @@
+{
+"Class" : "org.apache.commons.collections4.map.ListOrderedMap$EntrySetView", 
+"Methods" : [{ "Name" : "getEntrySet" ,
+"Nodes" : 4,
+"0" : [ 598 ]
+"1" : [ 601 ]
+"2" : [ 599 ]
+"3" : [  ]
+},{ "Name" : "remove" ,
+"Nodes" : 6,
+"0" : [ 626 ]
+"1" : [ 629 ]
+"2" : [ 634 ]
+"3" : [ 630,631,632 ]
+"4" : [ 627 ]
+"5" : [  ]
+},{ "Name" : "equals" ,
+"Nodes" : 4,
+"0" : [ 644 ]
+"1" : [ 647 ]
+"2" : [ 645 ]
+"3" : [  ]
+}]
+}

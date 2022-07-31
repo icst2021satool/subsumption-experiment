@@ -1,0 +1,32 @@
+{
+"Class" : "org.apache.commons.collections4.collection.PredicatedCollection", 
+"Methods" : [{ "Name" : "<init>" ,
+"Nodes" : 7,
+"0" : [ ],
+"1" : [ 0, 2, 4, 5],
+"2" : [ 0, 2, 4, 5],
+"3" : [ 0, 2, 4, 5],
+"4" : [ 0, 1, 2, 4, 5],
+"5" : [ 3],
+"6" : [ ],
+"CoveredDUAsByNodes" : 6,
+"Duas" : 6
+},{ "Name" : "validate" ,
+"Nodes" : 4,
+"0" : [ ],
+"1" : [ 1, 4, 7],
+"2" : [ 0, 2, 3, 5, 6, 8],
+"3" : [ ],
+"CoveredDUAsByNodes" : 9,
+"Duas" : 9
+},{ "Name" : "addAll" ,
+"Nodes" : 5,
+"0" : [ ],
+"1" : [ ],
+"2" : [ 0, 2],
+"4" : [ 0, 2],
+"3" : [ 1],
+"CoveredDUAsByNodes" : 3,
+"Duas" : 3
+}]
+}

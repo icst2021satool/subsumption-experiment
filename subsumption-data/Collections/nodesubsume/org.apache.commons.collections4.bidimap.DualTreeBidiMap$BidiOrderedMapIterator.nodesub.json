@@ -1,0 +1,39 @@
+{
+"Class" : "org.apache.commons.collections4.bidimap.DualTreeBidiMap$BidiOrderedMapIterator", 
+"Methods" : [{ "Name" : "getKey" ,
+"Nodes" : 4,
+"0" : [ ],
+"1" : [ 1, 2, 4, 5],
+"2" : [ 0, 3],
+"3" : [ ],
+"CoveredDUAsByNodes" : 6,
+"Duas" : 6
+},{ "Name" : "getValue" ,
+"Nodes" : 4,
+"0" : [ ],
+"1" : [ 1, 2, 4, 5],
+"2" : [ 0, 3],
+"3" : [ ],
+"CoveredDUAsByNodes" : 6,
+"Duas" : 6
+},{ "Name" : "setValue" ,
+"Nodes" : 7,
+"0" : [ ],
+"1" : [ 1, 15],
+"3" : [ 1, 2, 20, 8, 25, 15],
+"2" : [ 16, 1, 17, 4, 5, 22, 10, 11, 15],
+"4" : [ 1, 2, 18, 20, 6, 23, 8, 25, 27, 12, 15],
+"5" : [ 0, 14],
+"6" : [ ],
+"CoveredDUAsByNodes" : 20,
+"Duas" : 29
+},{ "Name" : "toString" ,
+"Nodes" : 4,
+"0" : [ ],
+"1" : [ 1, 4],
+"2" : [ 0, 2, 3],
+"3" : [ ],
+"CoveredDUAsByNodes" : 5,
+"Duas" : 5
+}]
+}
