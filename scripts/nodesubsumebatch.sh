@@ -1,5 +1,5 @@
 #!/bin/bash
-#set -x
+set -x
 
 programsdir=../programs
 subsumptiondir=../subsumption-data
@@ -9,10 +9,11 @@ satool=satool.jar
 rm -f $subsumptiondir/checks-output/allprograms/nodesubsume.csv
 program=Chart
 version=1b
+rm -f $subsumptiondir/$program/nodesubsume/nodesubsume-${program}
 
 srcdir=$programsdir/$program/$version/build
-
 echo $program; destdir=$subsumptiondir/$program/nodesubsume
+
 time java -cp $satooldir/$satool:$satooldir/dependency/* \
     br.usp.each.saeg.subsumption.cli.Main nodesubsume  -src $srcdir   -dest $destdir >& $subsumptiondir/$program/nodesubsume/nodesubsume-${program}
 
@@ -22,6 +23,7 @@ cat $subsumptiondir/$program/nodesubsume/nodesubsume-${program} | grep @@ | grep
 
 program=Cli
 version=1b
+rm -f $subsumptiondir/$program/nodesubsume/nodesubsume-${program}
 
 srcdir=$programsdir/$program/$version/target/classes
 
@@ -35,6 +37,7 @@ cat $subsumptiondir/$program/nodesubsume/nodesubsume-${program} | grep @@ | grep
 
 program=Closure
 version=1b
+rm -f $subsumptiondir/$program/nodesubsume/nodesubsume-${program}
 
 srcdir=$programsdir/$program/$version/build/classes
 
@@ -47,6 +50,7 @@ cat $subsumptiondir/$program/nodesubsume/nodesubsume-${program} | grep @@ | grep
 
 program=Codec
 version=1b
+rm -f $subsumptiondir/$program/nodesubsume/nodesubsume-${program}
 
 srcdir=$programsdir/$program/$version/target/classes
 
@@ -59,6 +63,7 @@ cat $subsumptiondir/$program/nodesubsume/nodesubsume-${program} | grep @@ | grep
 
 program=Collections
 version=25b
+rm -f $subsumptiondir/$program/nodesubsume/nodesubsume-${program}
 
 srcdir=$programsdir/$program/$version/target/classes
 
@@ -71,6 +76,7 @@ cat $subsumptiondir/$program/nodesubsume/nodesubsume-${program} | grep @@ | grep
 
 program=Compress
 version=1b
+rm -f $subsumptiondir/$program/nodesubsume/nodesubsume-${program}
 
 srcdir=$programsdir/$program/$version/target/classes
 
@@ -83,6 +89,7 @@ cat $subsumptiondir/$program/nodesubsume/nodesubsume-${program} | grep @@ | grep
 
 program=Csv
 version=1b
+rm -f $subsumptiondir/$program/nodesubsume/nodesubsume-${program}
 
 srcdir=$programsdir/$program/$version/target/classes
 
@@ -95,6 +102,7 @@ cat $subsumptiondir/$program/nodesubsume/nodesubsume-${program} | grep @@ | grep
 
 program=Gson
 version=1b
+rm -f $subsumptiondir/$program/nodesubsume/nodesubsume-${program}
 
 srcdir=$programsdir/$program/$version/target/classes
 
@@ -117,10 +125,9 @@ time java -cp $satooldir/$satool:$satooldir/dependency/* \
 cat $subsumptiondir/$program/nodesubsume/nodesubsume-${program} | grep @@ | grep -v "Local DUA-node subsumption"  > $subsumptiondir/$program/nodesubsume/nodesubsume-${program}.csv
 cat $subsumptiondir/$program/nodesubsume/nodesubsume-${program} | grep @@ | grep -v "Local DUA-node subsumption" | grep -v "@@ Method, Nodes, Edges, DUAs, SubDUAs, Perc, Time_s, Time_ms" >> $subsumptiondir/checks-output/allprograms/nodesubsume.csv
 
-# ===> Stopped here.
-
 program=JacksonDatabind
 version=1b
+rm -f $subsumptiondir/$program/nodesubsume/nodesubsume-${program}
 
 srcdir=$programsdir/$program/$version/target/classes
 
@@ -133,6 +140,7 @@ cat $subsumptiondir/$program/nodesubsume/nodesubsume-${program} | grep @@ | grep
 
 program=JacksonXml
 version=1b
+rm -f $subsumptiondir/$program/nodesubsume/nodesubsume-${program}
 
 srcdir=$programsdir/$program/$version/target/classes
 
@@ -145,6 +153,7 @@ cat $subsumptiondir/$program/nodesubsume/nodesubsume-${program} | grep @@ | grep
 
 program=Jsoup
 version=1b
+rm -f $subsumptiondir/$program/nodesubsume/nodesubsume-${program}
 
 srcdir=$programsdir/$program/$version/target/classes
 
@@ -157,6 +166,7 @@ cat $subsumptiondir/$program/nodesubsume/nodesubsume-${program} | grep @@ | grep
 
 program=JxPath
 version=1b
+rm -f $subsumptiondir/$program/nodesubsume/nodesubsume-${program}
 
 srcdir=$programsdir/$program/$version/target/classes
 
@@ -169,6 +179,7 @@ cat $subsumptiondir/$program/nodesubsume/nodesubsume-${program} | grep @@ | grep
 
 program=Lang
 version=1b
+rm -f $subsumptiondir/$program/nodesubsume/nodesubsume-${program}
 
 srcdir=$programsdir/$program/$version/target/classes
 
@@ -181,6 +192,7 @@ cat $subsumptiondir/$program/nodesubsume/nodesubsume-${program} | grep @@ | grep
 
 program=Math
 version=1b
+rm -f $subsumptiondir/$program/nodesubsume/nodesubsume-${program}
 
 srcdir=$programsdir/$program/$version/target/classes
 
@@ -193,6 +205,7 @@ cat $subsumptiondir/$program/nodesubsume/nodesubsume-${program} | grep @@ | grep
 
 program=Mockito
 version=1b
+rm -f $subsumptiondir/$program/nodesubsume/nodesubsume-${program}
 
 srcdir=$programsdir/$program/$version/build/classes/main
 
@@ -205,6 +218,7 @@ cat $subsumptiondir/$program/nodesubsume/nodesubsume-${program} | grep @@ | grep
 
 program=Time
 version=1b
+rm -f $subsumptiondir/$program/nodesubsume/nodesubsume-${program}
 
 srcdir=$programsdir/$program/$version/target/classes
 
@@ -217,8 +231,44 @@ cat $subsumptiondir/$program/nodesubsume/nodesubsume-${program} | grep @@ | grep
 
 program=Weka
 version=weka
+rm -f $subsumptiondir/$program/nodesubsume/nodesubsume-${program}
 
 srcdir=$programsdir/$program/$version/build/classes
+
+echo $program; destdir=$subsumptiondir/$program/nodesubsume
+time java -cp $satooldir/$satool:$satooldir/dependency/* \
+    br.usp.each.saeg.subsumption.cli.Main nodesubsume  -src $srcdir   -dest $destdir >& $subsumptiondir/$program/nodesubsume/nodesubsume-${program}
+
+cat $subsumptiondir/$program/nodesubsume/nodesubsume-${program} | grep @@ | grep -v "Local DUA-node subsumption"  > $subsumptiondir/$program/nodesubsume/nodesubsume-${program}.csv
+cat $subsumptiondir/$program/nodesubsume/nodesubsume-${program} | grep @@ | grep -v "Local DUA-node subsumption" | grep -v "@@ Method, Nodes, Edges, DUAs, SubDUAs, Perc, Time_s, Time_ms" >> $subsumptiondir/checks-output/allprograms/nodesubsume.csv
+
+
+program=elki-6465675
+srcdir=$programsdir/$program
+rm -f $subsumptiondir/$program/nodesubsume/nodesubsume-${program}
+
+echo $program; destdir=$subsumptiondir/$program/nodesubsume
+time java -cp $satooldir/$satool:$satooldir/dependency/* \
+    br.usp.each.saeg.subsumption.cli.Main nodesubsume  -src $srcdir   -dest $destdir >& $subsumptiondir/$program/nodesubsume/nodesubsume-${program}
+
+cat $subsumptiondir/$program/nodesubsume/nodesubsume-${program} | grep @@ | grep -v "Local DUA-node subsumption"  > $subsumptiondir/$program/nodesubsume/nodesubsume-${program}.csv
+cat $subsumptiondir/$program/nodesubsume/nodesubsume-${program} | grep @@ | grep -v "Local DUA-node subsumption" | grep -v "@@ Method, Nodes, Edges, DUAs, SubDUAs, Perc, Time_s, Time_ms" >> $subsumptiondir/checks-output/allprograms/nodesubsume.csv
+
+program=systemds-3.0.0-rc2
+srcdir=$programsdir/$program/target/classes
+rm -f $subsumptiondir/$program/nodesubsume/nodesubsume-${program}
+
+echo $program; destdir=$subsumptiondir/$program/nodesubsume
+time java -cp $satooldir/$satool:$satooldir/dependency/* \
+    br.usp.each.saeg.subsumption.cli.Main nodesubsume  -src $srcdir   -dest $destdir >& $subsumptiondir/$program/nodesubsume/nodesubsume-${program}
+
+cat $subsumptiondir/$program/nodesubsume/nodesubsume-${program} | grep @@ | grep -v "Local DUA-node subsumption"  > $subsumptiondir/$program/nodesubsume/nodesubsume-${program}.csv
+cat $subsumptiondir/$program/nodesubsume/nodesubsume-${program} | grep @@ | grep -v "Local DUA-node subsumption" | grep -v "@@ Method, Nodes, Edges, DUAs, SubDUAs, Perc, Time_s, Time_ms" >> $subsumptiondir/checks-output/allprograms/nodesubsume.csv
+
+
+program=stanford-corenlp-4.4.0
+srcdir=$programsdir/$program/target/classes
+rm -f $subsumptiondir/$program/nodesubsume/nodesubsume-${program}
 
 echo $program; destdir=$subsumptiondir/$program/nodesubsume
 time java -cp $satooldir/$satool:$satooldir/dependency/* \

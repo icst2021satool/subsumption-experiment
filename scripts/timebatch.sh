@@ -195,5 +195,26 @@ version=1b
     time java -cp $satooldir/$satool:$satooldir/dependency/* \
                                     br.usp.each.saeg.subsumption.cli.Main $subsumption  -src $srcdir -dest $destdir  >& $timesubdir/$subsumption-$i-${program}
 
+    program=elki-6465675
+    srcdir=$programsdir/$program
+    destdir=$subsumptiondir/$program/reduce
+    echo $program
+    time java -cp $satooldir/$satool:$satooldir/dependency/* \
+    br.usp.each.saeg.subsumption.cli.Main $subsumption  -src $srcdir -dest $destdir  >& $timesubdir/$subsumption-$i-${program}
+
+    program=systemds-3.0.0-rc2
+    srcdir=$programsdir/$program/target/classes
+    destdir=$subsumptiondir/$program/reduce
+    echo $program
+    time java -cp $satooldir/$satool:$satooldir/dependency/* \
+    br.usp.each.saeg.subsumption.cli.Main $subsumption  -src $srcdir -dest $destdir  >& $timesubdir/$subsumption-$i-${program}
+
+    program=stanford-corenlp-4.4.0
+    srcdir=$programsdir/$program/target/classes
+    destdir=$subsumptiondir/$program/reduce
+    echo $program
+    time java -cp $satooldir/$satool:$satooldir/dependency/* \
+    br.usp.each.saeg.subsumption.cli.Main $subsumption  -src $srcdir -dest $destdir  >& $timesubdir/$subsumption-$i-${program}
+
 done
 done

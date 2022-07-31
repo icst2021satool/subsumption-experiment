@@ -1,5 +1,5 @@
 #!/bin/bash
-#set -x
+set -x
 
 programsdir=../programs
 subsumptiondir=../subsumption-data
@@ -218,6 +218,46 @@ program=Weka
 version=weka
 
 srcdir=$programsdir/$program/$version/build/classes
+
+echo $program; destdir=$subsumptiondir/$program/duaduasubsume
+time java -cp $satooldir/$satool:$satooldir/dependency/* \
+    br.usp.each.saeg.subsumption.cli.Main reduce  -src $srcdir   -dest $destdir >& $subsumptiondir/$program/duaduasubsume/duaduasubsume-${program}
+
+cat $subsumptiondir/$program/duaduasubsume/duaduasubsume-${program} | grep @@ | grep -v "DUA-DUA subsumption"  > $subsumptiondir/$program/duaduasubsume/duaduasubsume-${program}.csv
+cat $subsumptiondir/$program/duaduasubsume/duaduasubsume-${program} | grep @@ | grep -v "DUA-DUA subsumption" | grep -v "@@ Method, Nodes, Edges, DUAs, UDUAs, RDUAs, UPerc, RPerc, Time_s, Time_ms" >> $subsumptiondir/checks-output/allprograms/duaduasubsume.csv
+
+
+program=elki-6465675
+
+srcdir=$programsdir/$program
+
+echo $program; destdir=$subsumptiondir/$program/duaduasubsume
+time java -cp $satooldir/$satool:$satooldir/dependency/* \
+    br.usp.each.saeg.subsumption.cli.Main reduce  -src $srcdir   -dest $destdir >& $subsumptiondir/$program/duaduasubsume/duaduasubsume-${program}
+
+# sizefile=$(wc $subsumptiondir/checks-output/allprograms/duaduasubsume.csv)
+# echo "File size duaduasubsume.csv before $program: $sizefile"
+
+cat $subsumptiondir/$program/duaduasubsume/duaduasubsume-${program} | grep @@ | grep -v "DUA-DUA subsumption"  > $subsumptiondir/$program/duaduasubsume/duaduasubsume-${program}.csv
+cat $subsumptiondir/$program/duaduasubsume/duaduasubsume-${program} | grep @@ | grep -v "DUA-DUA subsumption" | grep -v "@@ Method, Nodes, Edges, DUAs, UDUAs, RDUAs, UPerc, RPerc, Time_s, Time_ms" >> $subsumptiondir/checks-output/allprograms/duaduasubsume.csv
+
+# sizeprg=$(wc $subsumptiondir/$program/duaduasubsume/duaduasubsume-${program}.csv)
+# sizefile=$(wc $subsumptiondir/checks-output/allprograms/duaduasubsume.csv)
+# echo "File size duaduasubsume-${program}.csv : $sizeprg"
+# echo "File size duaduasubsume.csv after $program: $sizefile"
+
+program=systemds-3.0.0-rc2
+srcdir=$programsdir/$program/target/classes
+
+echo $program; destdir=$subsumptiondir/$program/duaduasubsume
+time java -cp $satooldir/$satool:$satooldir/dependency/* \
+    br.usp.each.saeg.subsumption.cli.Main reduce  -src $srcdir   -dest $destdir >& $subsumptiondir/$program/duaduasubsume/duaduasubsume-${program}
+
+cat $subsumptiondir/$program/duaduasubsume/duaduasubsume-${program} | grep @@ | grep -v "DUA-DUA subsumption"  > $subsumptiondir/$program/duaduasubsume/duaduasubsume-${program}.csv
+cat $subsumptiondir/$program/duaduasubsume/duaduasubsume-${program} | grep @@ | grep -v "DUA-DUA subsumption" | grep -v "@@ Method, Nodes, Edges, DUAs, UDUAs, RDUAs, UPerc, RPerc, Time_s, Time_ms" >> $subsumptiondir/checks-output/allprograms/duaduasubsume.csv
+
+program=stanford-corenlp-4.4.0
+srcdir=$programsdir/$program/target/classes
 
 echo $program; destdir=$subsumptiondir/$program/duaduasubsume
 time java -cp $satooldir/$satool:$satooldir/dependency/* \

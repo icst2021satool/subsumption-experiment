@@ -226,3 +226,34 @@ time java -cp $satooldir/$satool:$satooldir/dependency/* \
 
 cat $subsumptiondir/$program/edgesubsume/edgesubsume-${program} | grep @@ | grep -v "Local DUA-edge subsumption"  > $subsumptiondir/$program/edgesubsume/edgesubsume-${program}.csv
 cat $subsumptiondir/$program/edgesubsume/edgesubsume-${program} | grep @@ | grep -v "Local DUA-edge subsumption" | grep -v "@@ Method, Nodes, Edges, DUAs, SubDUAs, Perc, Time_s, Time_ms" >> $subsumptiondir/checks-output/allprograms/edgesubsume.csv
+
+
+program=elki-6465675
+srcdir=$programsdir/$program
+
+echo $program; destdir=$subsumptiondir/$program/edgesubsume
+time java -cp $satooldir/$satool:$satooldir/dependency/* \
+    br.usp.each.saeg.subsumption.cli.Main edgesubsume  -src $srcdir   -dest $destdir >& $subsumptiondir/$program/edgesubsume/edgesubsume-${program}
+
+cat $subsumptiondir/$program/edgesubsume/edgesubsume-${program} | grep @@ | grep -v "Local DUA-edge subsumption"  > $subsumptiondir/$program/edgesubsume/edgesubsume-${program}.csv
+cat $subsumptiondir/$program/edgesubsume/edgesubsume-${program} | grep @@ | grep -v "Local DUA-edge subsumption" | grep -v "@@ Method, Nodes, Edges, DUAs, SubDUAs, Perc, Time_s, Time_ms" >> $subsumptiondir/checks-output/allprograms/edgesubsume.csv
+
+program=systemds-3.0.0-rc2
+srcdir=$programsdir/$program/target/classes
+
+echo $program; destdir=$subsumptiondir/$program/edgesubsume
+time java -cp $satooldir/$satool:$satooldir/dependency/* \
+    br.usp.each.saeg.subsumption.cli.Main edgesubsume  -src $srcdir   -dest $destdir >& $subsumptiondir/$program/edgesubsume/edgesubsume-${program}
+
+cat $subsumptiondir/$program/edgesubsume/edgesubsume-${program} | grep @@ | grep -v "Local DUA-edge subsumption"  > $subsumptiondir/$program/edgesubsume/edgesubsume-${program}.csv
+cat $subsumptiondir/$program/edgesubsume/edgesubsume-${program} | grep @@ | grep -v "Local DUA-edge subsumption" | grep -v "@@ Method, Nodes, Edges, DUAs, SubDUAs, Perc, Time_s, Time_ms" >> $subsumptiondir/checks-output/allprograms/edgesubsume.csv
+
+program=stanford-corenlp-4.4.0
+srcdir=$programsdir/$program/target/classes
+
+echo $program; destdir=$subsumptiondir/$program/edgesubsume
+time java -cp $satooldir/$satool:$satooldir/dependency/* \
+    br.usp.each.saeg.subsumption.cli.Main edgesubsume  -src $srcdir   -dest $destdir >& $subsumptiondir/$program/edgesubsume/edgesubsume-${program}
+
+cat $subsumptiondir/$program/edgesubsume/edgesubsume-${program} | grep @@ | grep -v "Local DUA-edge subsumption"  > $subsumptiondir/$program/edgesubsume/edgesubsume-${program}.csv
+cat $subsumptiondir/$program/edgesubsume/edgesubsume-${program} | grep @@ | grep -v "Local DUA-edge subsumption" | grep -v "@@ Method, Nodes, Edges, DUAs, SubDUAs, Perc, Time_s, Time_ms" >> $subsumptiondir/checks-output/allprograms/edgesubsume.csv

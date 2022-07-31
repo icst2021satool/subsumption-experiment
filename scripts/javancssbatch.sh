@@ -155,3 +155,27 @@ srcdir=$programsdir/$program/$version/src/main
 
 echo $program
 time $javancssdir/javancss-32.53/bin/javancss -all $srcdir   >& $metricsdir/metrics-${program}
+
+program=elki-6465675
+version=elki-src
+
+srcdir=$programsdir/$program/$version
+
+echo $program
+time $javancssdir/javancss-32.53/bin/javancss -all $srcdir   >& $metricsdir/metrics-${program}
+
+program=systemds-3.0.0-rc2
+version=systemds-src
+
+srcdir=$programsdir/$program/$version/src/main
+
+echo $program
+time $javancssdir/javancss-32.53/bin/javancss -all $srcdir   >& $metricsdir/metrics-${program}
+
+program=stanford-corenlp-4.4.0
+version=CoreNLP-src
+
+srcdir=$programsdir/$program/$version/src
+
+echo $program
+time $javancssdir/javancss-32.53/bin/javancss -all $srcdir   >& $metricsdir/metrics-${program}
