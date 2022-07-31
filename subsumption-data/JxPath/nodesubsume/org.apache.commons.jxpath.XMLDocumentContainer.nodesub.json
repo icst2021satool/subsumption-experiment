@@ -1,0 +1,23 @@
+{
+"Class" : "org.apache.commons.jxpath.XMLDocumentContainer", 
+"Methods" : [{ "Name" : "<init>" ,
+"Nodes" : 4,
+"0" : [ ],
+"1" : [ 1],
+"2" : [ 0],
+"3" : [ ],
+"CoveredDUAsByNodes" : 2,
+"Duas" : 2
+},{ "Name" : "getValue" ,
+"Nodes" : 7,
+"0" : [ ],
+"2" : [ 0, 8],
+"3" : [ 0, 4, 5, 8, 12, 14],
+"5" : [ 0, 3, 6, 7, 8, 11, 13],
+"4" : [ 0, 8],
+"1" : [ 2],
+"6" : [ 2],
+"CoveredDUAsByNodes" : 12,
+"Duas" : 17
+}]
+}

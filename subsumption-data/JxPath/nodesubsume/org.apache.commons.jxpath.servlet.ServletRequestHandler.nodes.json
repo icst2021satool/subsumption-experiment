@@ -1,0 +1,26 @@
+{
+"Class" : "org.apache.commons.jxpath.servlet.ServletRequestHandler", 
+"Methods" : [{ "Name" : "collectPropertyNames" ,
+"Nodes" : 8,
+"0" : [ 34,35,36,37 ]
+"1" : [ 38 ]
+"2" : [ 41 ]
+"3" : [ 42 ]
+"4" : [ 45 ]
+"5" : [ 43 ]
+"6" : [ 39 ]
+"7" : [  ]
+},{ "Name" : "getProperty" ,
+"Nodes" : 10,
+"0" : [ 48,49,50,51 ]
+"1" : [ 61,62 ]
+"2" : [ 66 ]
+"3" : [ 63 ]
+"4" : [ 52 ]
+"5" : [ 55 ]
+"6" : [ 58 ]
+"7" : [ 56 ]
+"8" : [ 53 ]
+"9" : [  ]
+}]
+}

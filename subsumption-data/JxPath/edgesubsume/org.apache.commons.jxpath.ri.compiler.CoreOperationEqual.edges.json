@@ -1,0 +1,11 @@
+{
+"Class" : "org.apache.commons.jxpath.ri.compiler.CoreOperationEqual", 
+"Methods" : [{ "Name" : "computeValue" ,
+"Edges" : 5,
+"0" : [ 3,2 ],
+"1" : [ 1,2 ],
+"2" : [ 2,4 ],
+"3" : [ 0,3 ],
+"4" : [ 0,1 ]
+}]
+}

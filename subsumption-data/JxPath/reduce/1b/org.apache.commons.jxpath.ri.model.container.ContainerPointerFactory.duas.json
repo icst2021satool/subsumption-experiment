@@ -1,0 +1,14 @@
+{
+"Class" : "org.apache.commons.jxpath.ri.model.container.ContainerPointerFactory", 
+"Methods" : [{ "Name" : "createNodePointer" ,
+"Duas" : 4,
+"0" :  "(45,(45,46), bean)",
+"1" :  "(45,(45,48), bean)",
+"2" :  "(45,46, bean)",
+"3" :  "(45,46, locale)"},{ "Name" : "createNodePointer" ,
+"Duas" : 4,
+"0" :  "(56,57, parent)",
+"1" :  "(56,(56,57), bean)",
+"2" :  "(56,(56,59), bean)",
+"3" :  "(56,57, bean)"}]
+}

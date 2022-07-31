@@ -1,0 +1,15 @@
+{
+"Class" : "org.apache.commons.jxpath.ri.compiler.NodeTypeTest", 
+"Methods" : [{ "Name" : "nodeTypeToString" ,
+"Nodes" : 7,
+"0" : [ ],
+"1" : [ 4],
+"2" : [ 3],
+"3" : [ 2],
+"4" : [ 1],
+"5" : [ 0],
+"6" : [ ],
+"CoveredDUAsByNodes" : 5,
+"Duas" : 5
+}]
+}

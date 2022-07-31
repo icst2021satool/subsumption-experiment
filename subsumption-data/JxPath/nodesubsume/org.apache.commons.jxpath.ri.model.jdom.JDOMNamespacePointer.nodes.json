@@ -1,0 +1,26 @@
+{
+"Class" : "org.apache.commons.jxpath.ri.model.jdom.JDOMNamespacePointer", 
+"Methods" : [{ "Name" : "getNamespaceURI" ,
+"Nodes" : 4,
+"0" : [ 68 ]
+"1" : [ 71 ]
+"2" : [ 69 ]
+"3" : [  ]
+},{ "Name" : "asPath" ,
+"Nodes" : 6,
+"0" : [ 86,87 ]
+"1" : [ 96,94,95 ]
+"2" : [ 88,89 ]
+"3" : [ 91 ]
+"4" : [ 89 ]
+"5" : [  ]
+},{ "Name" : "equals" ,
+"Nodes" : 6,
+"0" : [ 104 ]
+"1" : [ 108 ]
+"2" : [ 112,113 ]
+"3" : [ 109 ]
+"4" : [ 105 ]
+"5" : [  ]
+}]
+}

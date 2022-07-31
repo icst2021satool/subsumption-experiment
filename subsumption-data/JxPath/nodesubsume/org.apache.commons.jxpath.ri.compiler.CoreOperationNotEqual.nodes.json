@@ -1,0 +1,11 @@
+{
+"Class" : "org.apache.commons.jxpath.ri.compiler.CoreOperationNotEqual", 
+"Methods" : [{ "Name" : "computeValue" ,
+"Nodes" : 5,
+"0" : [ 34 ]
+"1" : [ 34 ]
+"2" : [ 34 ]
+"3" : [ 34 ]
+"4" : [  ]
+}]
+}

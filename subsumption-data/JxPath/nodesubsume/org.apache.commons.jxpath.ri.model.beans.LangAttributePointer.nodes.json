@@ -1,0 +1,20 @@
+{
+"Class" : "org.apache.commons.jxpath.ri.model.beans.LangAttributePointer", 
+"Methods" : [{ "Name" : "asPath" ,
+"Nodes" : 6,
+"0" : [ 74,75 ]
+"1" : [ 82,83 ]
+"2" : [ 76,77 ]
+"3" : [ 79 ]
+"4" : [ 77 ]
+"5" : [  ]
+},{ "Name" : "equals" ,
+"Nodes" : 6,
+"0" : [ 91 ]
+"1" : [ 95 ]
+"2" : [ 99 ]
+"3" : [ 96 ]
+"4" : [ 92 ]
+"5" : [  ]
+}]
+}

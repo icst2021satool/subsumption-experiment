@@ -1,0 +1,8 @@
+{
+"Class" : "org.apache.commons.jxpath.ri.compiler.Expression$ValueIterator", 
+"Methods" : [{ "Name" : "next" ,
+"Edges" : 4,
+"Duas" : 4,
+"0" : 0, 
+ "1" : 1}]
+}

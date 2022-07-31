@@ -1,0 +1,14 @@
+{
+"Class" : "org.apache.commons.jxpath.ri.compiler.Constant", 
+"Methods" : [{ "Name" : "toString" ,
+"Edges" : 7,
+"Duas" : 16,
+"0" : 4, 
+ "1" : 5, 
+ "5" : 4, 
+ "6" : 5, 
+ "10" : 2, 
+ "11" : 3, 
+ "13" : 2, 
+ "14" : 3}]
+}

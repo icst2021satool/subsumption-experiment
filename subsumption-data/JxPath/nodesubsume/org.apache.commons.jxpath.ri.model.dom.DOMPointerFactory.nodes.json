@@ -1,0 +1,16 @@
+{
+"Class" : "org.apache.commons.jxpath.ri.model.dom.DOMPointerFactory", 
+"Methods" : [{ "Name" : "createNodePointer" ,
+"Nodes" : 4,
+"0" : [ 45 ]
+"1" : [ 48 ]
+"2" : [ 46 ]
+"3" : [  ]
+},{ "Name" : "createNodePointer" ,
+"Nodes" : 4,
+"0" : [ 56 ]
+"1" : [ 59 ]
+"2" : [ 57 ]
+"3" : [  ]
+}]
+}

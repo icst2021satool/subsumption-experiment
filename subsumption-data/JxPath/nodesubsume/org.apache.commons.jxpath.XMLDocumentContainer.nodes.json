@@ -1,0 +1,19 @@
+{
+"Class" : "org.apache.commons.jxpath.XMLDocumentContainer", 
+"Methods" : [{ "Name" : "<init>" ,
+"Nodes" : 4,
+"0" : [ 60,61,62 ]
+"1" : [ 65 ]
+"2" : [ 63 ]
+"3" : [  ]
+},{ "Name" : "getValue" ,
+"Nodes" : 7,
+"0" : [ 71 ]
+"1" : [ 95 ]
+"2" : [ 73 ]
+"3" : [ 81 ]
+"4" : [ 93 ]
+"5" : [ 74,75,77,78,79 ]
+"6" : [  ]
+}]
+}

@@ -1,0 +1,14 @@
+{
+"Class" : "org.apache.commons.jxpath.util.BasicTypeConverter$ValueNodeSet", 
+"Methods" : [{ "Name" : "getPointers" ,
+"Edges" : 8,
+"0" : [ 0,2 ],
+"1" : [ 0,1 ],
+"2" : [ 5,3 ],
+"3" : [ 1,6 ],
+"4" : [ 2,3 ],
+"5" : [ 4,1 ],
+"6" : [ 3,5 ],
+"7" : [ 3,4 ]
+}]
+}

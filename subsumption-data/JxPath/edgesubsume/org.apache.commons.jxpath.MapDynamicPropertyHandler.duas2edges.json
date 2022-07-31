@@ -1,0 +1,12 @@
+{
+"Class" : "org.apache.commons.jxpath.MapDynamicPropertyHandler", 
+"Methods" : [{ "Name" : "getPropertyNames" ,
+"Edges" : 5,
+"Duas" : 13,
+"0" : 2, 
+ "1" : 3, 
+ "5" : 2, 
+ "6" : 3, 
+ "9" : 2, 
+ "10" : 3}]
+}

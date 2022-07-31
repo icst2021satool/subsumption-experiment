@@ -1,0 +1,43 @@
+{
+"Class" : "org.apache.commons.jxpath.ri.compiler.LocationPath", 
+"Methods" : [{ "Name" : "computeContextDependent" ,
+"Nodes" : 4,
+"0" : [ ],
+"1" : [ 1, 2, 4],
+"2" : [ 0, 3],
+"3" : [ ],
+"CoveredDUAsByNodes" : 5,
+"Duas" : 5
+},{ "Name" : "toString" ,
+"Nodes" : 9,
+"0" : [ ],
+"2" : [ 7],
+"3" : [ 7],
+"1" : [ 4],
+"8" : [ 4],
+"4" : [ 7, 9, 12],
+"7" : [ 7, 9, 12],
+"5" : [ 5, 7, 9, 12],
+"6" : [ 16, 17, 6, 7, 9, 11, 12],
+"CoveredDUAsByNodes" : 9,
+"Duas" : 24
+},{ "Name" : "compute" ,
+"Nodes" : 5,
+"0" : [ ],
+"1" : [ 1, 3],
+"3" : [ 0, 4],
+"2" : [ 2],
+"4" : [ 2],
+"CoveredDUAsByNodes" : 5,
+"Duas" : 7
+},{ "Name" : "computeValue" ,
+"Nodes" : 5,
+"0" : [ ],
+"1" : [ 1, 3],
+"3" : [ 0, 4],
+"2" : [ 2],
+"4" : [ 2],
+"CoveredDUAsByNodes" : 5,
+"Duas" : 7
+}]
+}

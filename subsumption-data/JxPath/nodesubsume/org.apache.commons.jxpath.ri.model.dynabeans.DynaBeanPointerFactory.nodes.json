@@ -1,0 +1,16 @@
+{
+"Class" : "org.apache.commons.jxpath.ri.model.dynabeans.DynaBeanPointerFactory", 
+"Methods" : [{ "Name" : "createNodePointer" ,
+"Nodes" : 4,
+"0" : [ 46 ]
+"1" : [ 49 ]
+"2" : [ 47 ]
+"3" : [  ]
+},{ "Name" : "createNodePointer" ,
+"Nodes" : 4,
+"0" : [ 55 ]
+"1" : [ 58 ]
+"2" : [ 56 ]
+"3" : [  ]
+}]
+}

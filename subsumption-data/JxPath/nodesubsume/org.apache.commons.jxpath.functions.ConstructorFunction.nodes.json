@@ -1,0 +1,18 @@
+{
+"Class" : "org.apache.commons.jxpath.functions.ConstructorFunction", 
+"Methods" : [{ "Name" : "invoke" ,
+"Nodes" : 12,
+"0" : [ 48 ]
+"1" : [ 51,52,53 ]
+"2" : [ 57,58 ]
+"3" : [ 61 ]
+"4" : [ 61 ]
+"5" : [ 64 ]
+"6" : [ 61,62 ]
+"7" : [ 59 ]
+"8" : [ 53 ]
+"9" : [ 55 ]
+"10" : [ 49 ]
+"11" : [  ]
+}]
+}

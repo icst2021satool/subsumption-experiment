@@ -1,0 +1,10 @@
+{
+"Class" : "org.apache.commons.jxpath.ri.compiler.NodeTypeTest", 
+"Methods" : [{ "Name" : "nodeTypeToString" ,
+"Duas" : 5,
+"0" :  "(41,(41,51), code)",
+"1" :  "(41,(41,43), code)",
+"2" :  "(41,(41,45), code)",
+"3" :  "(41,(41,47), code)",
+"4" :  "(41,(41,49), code)"}]
+}

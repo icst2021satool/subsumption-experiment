@@ -1,0 +1,17 @@
+{
+"Class" : "org.apache.commons.jxpath.servlet.ServletRequestHandler", 
+"Methods" : [{ "Name" : "collectPropertyNames" ,
+"Duas" : "9" ,
+"Subsumers" : 2,
+"0" : [ 8, 6, 0], "S0" : [0, 2, 4, 6, 7, 8 ],
+"1" : [ 5, 3, 1], "S1" : [1, 2, 3, 4, 5, 7 ]
+},{ "Name" : "getProperty" ,
+"Duas" : "16" ,
+"Subsumers" : 5,
+"0" : [ 14, 3, 1, 0], "S0" : [0, 1, 2, 3, 4, 6, 14 ],
+"1" : [ 15, 13], "S1" : [2, 4, 6, 13, 15 ],
+"2" : [ 7], "S2" : [5, 7 ],
+"3" : [ 12, 9], "S3" : [5, 8, 9, 12 ],
+"4" : [ 11, 10], "S4" : [5, 8, 10, 11 ]
+}]
+}

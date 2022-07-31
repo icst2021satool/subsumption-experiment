@@ -1,0 +1,36 @@
+{
+"Class" : "org.apache.commons.jxpath.ri.compiler.ExtensionFunction", 
+"Methods" : [{ "Name" : "toString" ,
+"Nodes" : 8,
+"0" : [ ],
+"2" : [ 4],
+"3" : [ 4],
+"1" : [ 0, 1],
+"7" : [ 0, 1],
+"4" : [ 4, 6, 9],
+"6" : [ 3, 4, 6, 9],
+"5" : [ 2, 4, 6, 8, 9, 13, 14],
+"CoveredDUAsByNodes" : 10,
+"Duas" : 21
+},{ "Name" : "computeValue" ,
+"Nodes" : 8,
+"0" : [ ],
+"4" : [ 0, 4, 11, 13],
+"5" : [ 0, 4, 11, 13],
+"1" : [ 17, 2, 8],
+"2" : [ 17, 2, 35, 36, 8, 9],
+"3" : [ 17, 2, 18, 34, 3, 8],
+"7" : [ 17, 2, 8],
+"6" : [ 0, 4, 5, 7, 10, 11, 13, 14, 16, 25, 26, 28, 29],
+"CoveredDUAsByNodes" : 22,
+"Duas" : 37
+},{ "Name" : "convert" ,
+"Nodes" : 4,
+"0" : [ ],
+"1" : [ 1, 2],
+"2" : [ 0, 3],
+"3" : [ ],
+"CoveredDUAsByNodes" : 4,
+"Duas" : 4
+}]
+}

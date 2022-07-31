@@ -1,0 +1,10 @@
+{
+"Class" : "org.apache.commons.jxpath.ri.model.beans.BeanPointerFactory", 
+"Methods" : [{ "Name" : "createNodePointer" ,
+"Nodes" : 4,
+"0" : [ 55 ]
+"1" : [ 59,60 ]
+"2" : [ 56 ]
+"3" : [  ]
+}]
+}

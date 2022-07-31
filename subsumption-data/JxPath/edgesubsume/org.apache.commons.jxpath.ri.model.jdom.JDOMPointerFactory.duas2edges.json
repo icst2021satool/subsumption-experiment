@@ -1,0 +1,16 @@
+{
+"Class" : "org.apache.commons.jxpath.ri.model.jdom.JDOMPointerFactory", 
+"Methods" : [{ "Name" : "createNodePointer" ,
+"Edges" : 7,
+"Duas" : 8,
+"0" : 1, 
+ "1" : 2, 
+ "2" : 5, 
+ "3" : 6},{ "Name" : "createNodePointer" ,
+"Edges" : 7,
+"Duas" : 8,
+"2" : 3, 
+ "3" : 4, 
+ "4" : 1, 
+ "5" : 2}]
+}

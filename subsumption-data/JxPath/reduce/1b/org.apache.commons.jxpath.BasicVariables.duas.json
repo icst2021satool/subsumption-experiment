@@ -1,0 +1,15 @@
+{
+"Class" : "org.apache.commons.jxpath.BasicVariables", 
+"Methods" : [{ "Name" : "getVariable" ,
+"Duas" : 10,
+"0" :  "(57,(57,58), this)",
+"1" :  "(57,(57,61), this)",
+"2" :  "(57,58, this)",
+"3" :  "(57,(57,58), varName)",
+"4" :  "(57,(57,61), varName)",
+"5" :  "(57,61, varName)",
+"6" :  "(57,58, varName)",
+"7" :  "(57,(57,58), this.vars)",
+"8" :  "(57,(57,61), this.vars)",
+"9" :  "(57,58, this.vars)"}]
+}

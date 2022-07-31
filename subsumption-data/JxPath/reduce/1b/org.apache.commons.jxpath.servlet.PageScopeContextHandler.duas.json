@@ -1,0 +1,11 @@
+{
+"Class" : "org.apache.commons.jxpath.servlet.PageScopeContextHandler", 
+"Methods" : [{ "Name" : "getPropertyNames" ,
+"Duas" : 6,
+"0" :  "(36,41, STRING_ARRAY)",
+"1" :  "(36,(38,39), e)",
+"2" :  "(36,(38,41), e)",
+"3" :  "(36,39, e)",
+"4" :  "(37,41, list)",
+"5" :  "(37,39, list)"}]
+}

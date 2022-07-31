@@ -1,0 +1,20 @@
+{
+"Class" : "org.apache.commons.jxpath.servlet.ServletRequestHandler", 
+"Methods" : [{ "Name" : "collectPropertyNames" ,
+"Edges" : 9,
+"Duas" : 9,
+"3" : 0, 
+ "4" : 1, 
+ "6" : 5, 
+ "7" : 6},{ "Name" : "getProperty" ,
+"Edges" : 13,
+"Duas" : 16,
+"5" : 5, 
+ "6" : 6, 
+ "7" : 0, 
+ "8" : 1, 
+ "9" : 3, 
+ "10" : 4, 
+ "13" : 8, 
+ "14" : 9}]
+}

@@ -1,0 +1,22 @@
+{
+"Class" : "org.apache.commons.jxpath.ri.model.jdom.JDOMPointerFactory", 
+"Methods" : [{ "Name" : "createNodePointer" ,
+"Duas" : 8,
+"0" :  "(44,(44,45), bean)",
+"1" :  "(44,(44,47), bean)",
+"2" :  "(44,(47,48), bean)",
+"3" :  "(44,(47,50), bean)",
+"4" :  "(44,48, bean)",
+"5" :  "(44,45, bean)",
+"6" :  "(44,48, locale)",
+"7" :  "(44,45, locale)"},{ "Name" : "createNodePointer" ,
+"Duas" : 8,
+"0" :  "(56,60, parent)",
+"1" :  "(56,57, parent)",
+"2" :  "(56,(56,57), bean)",
+"3" :  "(56,(56,59), bean)",
+"4" :  "(56,(59,60), bean)",
+"5" :  "(56,(59,62), bean)",
+"6" :  "(56,60, bean)",
+"7" :  "(56,57, bean)"}]
+}

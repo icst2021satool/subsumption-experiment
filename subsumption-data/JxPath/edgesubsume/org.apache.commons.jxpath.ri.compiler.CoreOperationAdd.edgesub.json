@@ -1,0 +1,13 @@
+{
+"Class" : "org.apache.commons.jxpath.ri.compiler.CoreOperationAdd", 
+"Methods" : [{ "Name" : "computeValue" ,
+"Edges" : 5,
+"2" : [ ],
+"3" : [ 0, 2, 3, 4, 6, 8, 9, 11, 12],
+"4" : [ 1, 5],
+"1" : [ 1, 5],
+"0" : [ 0, 2, 3, 4, 6, 8, 9, 11, 12],
+"CoveredDUAsByEdges" : 11,
+"Duas" : 19
+}]
+}

@@ -1,0 +1,15 @@
+{
+"Class" : "org.apache.commons.jxpath.ri.compiler.CoreOperationAnd", 
+"Methods" : [{ "Name" : "computeValue" ,
+"Nodes" : 7,
+"0" : [ ],
+"1" : [ ],
+"2" : [ 1, 7, 11],
+"3" : [ 0, 6, 12],
+"4" : [ 0, 16, 3, 5, 6, 9, 12, 15],
+"5" : [ 0, 2, 4, 6, 8, 10, 12],
+"6" : [ ],
+"CoveredDUAsByNodes" : 15,
+"Duas" : 22
+}]
+}

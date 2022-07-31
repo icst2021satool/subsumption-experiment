@@ -1,0 +1,10 @@
+{
+"Class" : "org.apache.commons.jxpath.ri.compiler.Expression$ValueIterator", 
+"Methods" : [{ "Name" : "next" ,
+"Nodes" : 4,
+"0" : [ 133,134 ]
+"1" : [ 137 ]
+"2" : [ 135 ]
+"3" : [  ]
+}]
+}

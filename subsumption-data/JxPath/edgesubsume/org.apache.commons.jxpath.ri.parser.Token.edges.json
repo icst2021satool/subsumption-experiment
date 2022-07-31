@@ -1,0 +1,7 @@
+{
+"Class" : "org.apache.commons.jxpath.ri.parser.Token", 
+"Methods" : [{ "Name" : "newToken" ,
+"Edges" : 1,
+"0" : [ 0,1 ]
+}]
+}

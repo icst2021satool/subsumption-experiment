@@ -1,0 +1,12 @@
+{
+"Class" : "org.apache.commons.jxpath.ri.model.beans.CollectionPointerFactory", 
+"Methods" : [{ "Name" : "createNodePointer" ,
+"Edges" : 4,
+"Duas" : 4,
+"0" : 2, 
+ "1" : 3},{ "Name" : "createNodePointer" ,
+"Edges" : 4,
+"Duas" : 4,
+"1" : 1, 
+ "2" : 2}]
+}

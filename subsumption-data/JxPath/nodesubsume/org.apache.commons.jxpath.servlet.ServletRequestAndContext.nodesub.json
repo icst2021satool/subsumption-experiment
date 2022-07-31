@@ -1,0 +1,12 @@
+{
+"Class" : "org.apache.commons.jxpath.servlet.ServletRequestAndContext", 
+"Methods" : [{ "Name" : "getSession" ,
+"Nodes" : 4,
+"0" : [ ],
+"1" : [ 1, 4],
+"2" : [ 0, 2, 3, 5],
+"3" : [ ],
+"CoveredDUAsByNodes" : 6,
+"Duas" : 6
+}]
+}

@@ -1,0 +1,11 @@
+{
+"Class" : "org.apache.commons.jxpath.ri.compiler.CoreOperationLessThan", 
+"Methods" : [{ "Name" : "computeValue" ,
+"Edges" : 5,
+"0" : [ 0,3 ],
+"1" : [ 0,1 ],
+"2" : [ 3,2 ],
+"3" : [ 1,2 ],
+"4" : [ 2,4 ]
+}]
+}

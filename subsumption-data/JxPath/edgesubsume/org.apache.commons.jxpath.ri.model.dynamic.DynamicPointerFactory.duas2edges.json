@@ -1,0 +1,14 @@
+{
+"Class" : "org.apache.commons.jxpath.ri.model.dynamic.DynamicPointerFactory", 
+"Methods" : [{ "Name" : "createNodePointer" ,
+"Edges" : 4,
+"Duas" : 6,
+"3" : 0, 
+ "4" : 1},{ "Name" : "createNodePointer" ,
+"Edges" : 7,
+"Duas" : 11,
+"4" : 4, 
+ "5" : 5, 
+ "8" : 1, 
+ "9" : 2}]
+}

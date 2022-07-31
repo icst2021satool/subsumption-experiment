@@ -1,0 +1,24 @@
+{
+"Class" : "org.apache.commons.jxpath.ri.axes.UnionContext", 
+"Methods" : [{ "Name" : "getDocumentOrder" ,
+"Nodes" : 4,
+"0" : [ 42 ]
+"1" : [ 45 ]
+"2" : [ 43 ]
+"3" : [  ]
+},{ "Name" : "setPosition" ,
+"Nodes" : 12,
+"0" : [ 49 ]
+"1" : [ 66 ]
+"2" : [ 50,51,52,53 ]
+"3" : [ 53 ]
+"4" : [ 54 ]
+"5" : [ 55 ]
+"6" : [ 53 ]
+"7" : [ 56 ]
+"8" : [ 57,58 ]
+"9" : [ 62 ]
+"10" : [ 59,60 ]
+"11" : [  ]
+}]
+}

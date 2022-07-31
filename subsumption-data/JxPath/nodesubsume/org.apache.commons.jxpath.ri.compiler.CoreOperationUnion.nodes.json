@@ -1,0 +1,14 @@
+{
+"Class" : "org.apache.commons.jxpath.ri.compiler.CoreOperationUnion", 
+"Methods" : [{ "Name" : "computeValue" ,
+"Nodes" : 8,
+"0" : [ 35,36 ]
+"1" : [ 36 ]
+"2" : [ 45 ]
+"3" : [ 37,38 ]
+"4" : [ 42 ]
+"5" : [ 36 ]
+"6" : [ 39 ]
+"7" : [  ]
+}]
+}

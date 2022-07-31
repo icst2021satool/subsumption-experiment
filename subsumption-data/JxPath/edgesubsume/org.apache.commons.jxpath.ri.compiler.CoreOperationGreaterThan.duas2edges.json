@@ -1,0 +1,10 @@
+{
+"Class" : "org.apache.commons.jxpath.ri.compiler.CoreOperationGreaterThan", 
+"Methods" : [{ "Name" : "computeValue" ,
+"Edges" : 5,
+"Duas" : 6,
+"2" : 0, 
+ "3" : 1, 
+ "4" : 0, 
+ "5" : 1}]
+}

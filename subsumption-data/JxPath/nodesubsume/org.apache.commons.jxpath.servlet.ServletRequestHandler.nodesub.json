@@ -1,0 +1,30 @@
+{
+"Class" : "org.apache.commons.jxpath.servlet.ServletRequestHandler", 
+"Methods" : [{ "Name" : "collectPropertyNames" ,
+"Nodes" : 8,
+"0" : [ ],
+"1" : [ ],
+"2" : [ 2, 4],
+"3" : [ 2, 4],
+"4" : [ 2, 4, 7],
+"7" : [ 2, 4, 7],
+"5" : [ 0, 2, 4, 6, 8],
+"6" : [ 1, 3, 5],
+"CoveredDUAsByNodes" : 9,
+"Duas" : 9
+},{ "Name" : "getProperty" ,
+"Nodes" : 10,
+"0" : [ ],
+"1" : [ 2, 4, 6],
+"2" : [ 0, 1, 2, 3, 4, 6, 14],
+"3" : [ 2, 4, 6, 13, 15],
+"4" : [ 5],
+"5" : [ 5, 8],
+"6" : [ 5, 8, 10, 11],
+"7" : [ 5, 8, 9, 12],
+"8" : [ 5, 7],
+"9" : [ ],
+"CoveredDUAsByNodes" : 16,
+"Duas" : 16
+}]
+}

@@ -1,0 +1,33 @@
+{
+"Class" : "org.apache.commons.jxpath.servlet.JXPathServletContexts", 
+"Methods" : [{ "Name" : "getPageContext" ,
+"Nodes" : 4,
+"0" : [ 97,95 ]
+"1" : [ 109 ]
+"2" : [ 98,102,103,107 ]
+"3" : [  ]
+},{ "Name" : "getRequestContext" ,
+"Nodes" : 9,
+"0" : [ 120,125 ]
+"1" : [ 133,134 ]
+"2" : [ 144,146,147,149,150 ]
+"3" : [ 135,137 ]
+"4" : [ 141 ]
+"5" : [ 138 ]
+"6" : [ 128,126 ]
+"7" : [ 129 ]
+"8" : [  ]
+},{ "Name" : "getSessionContext" ,
+"Nodes" : 4,
+"0" : [ 161,163 ]
+"1" : [ 172 ]
+"2" : [ 164,165,167,168,170 ]
+"3" : [  ]
+},{ "Name" : "getApplicationContext" ,
+"Nodes" : 4,
+"0" : [ 182,185 ]
+"1" : [ 193 ]
+"2" : [ 186,187,191 ]
+"3" : [  ]
+}]
+}

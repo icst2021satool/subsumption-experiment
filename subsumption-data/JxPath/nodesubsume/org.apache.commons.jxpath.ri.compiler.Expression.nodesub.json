@@ -1,0 +1,30 @@
+{
+"Class" : "org.apache.commons.jxpath.ri.compiler.Expression", 
+"Methods" : [{ "Name" : "isContextDependent" ,
+"Nodes" : 4,
+"0" : [ ],
+"2" : [ 0, 3, 4, 5],
+"1" : [ 2],
+"3" : [ 2],
+"CoveredDUAsByNodes" : 5,
+"Duas" : 9
+},{ "Name" : "iterate" ,
+"Nodes" : 4,
+"0" : [ ],
+"1" : [ 1, 2],
+"2" : [ 0, 3],
+"3" : [ ],
+"CoveredDUAsByNodes" : 4,
+"Duas" : 4
+},{ "Name" : "iteratePointers" ,
+"Nodes" : 6,
+"0" : [ ],
+"1" : [ 3],
+"2" : [ 0, 3, 5, 6],
+"3" : [ 3, 4, 7],
+"4" : [ 1, 2],
+"5" : [ ],
+"CoveredDUAsByNodes" : 8,
+"Duas" : 8
+}]
+}

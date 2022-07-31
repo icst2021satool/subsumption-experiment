@@ -1,0 +1,12 @@
+{
+"Class" : "org.apache.commons.jxpath.servlet.KeywordVariables", 
+"Methods" : [{ "Name" : "getVariable" ,
+"Edges" : 4,
+"1" : [ 0, 2, 3, 5, 7],
+"2" : [ 1, 4, 6],
+"3" : [ 1, 4, 6],
+"0" : [ 0, 2, 3, 5, 7],
+"CoveredDUAsByEdges" : 8,
+"Duas" : 8
+}]
+}

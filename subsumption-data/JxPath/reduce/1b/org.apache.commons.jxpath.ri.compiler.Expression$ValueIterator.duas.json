@@ -1,0 +1,9 @@
+{
+"Class" : "org.apache.commons.jxpath.ri.compiler.Expression$ValueIterator", 
+"Methods" : [{ "Name" : "next" ,
+"Duas" : 4,
+"0" :  "(133,(134,135), o)",
+"1" :  "(133,(134,137), o)",
+"2" :  "(133,137, o)",
+"3" :  "(133,135, o)"}]
+}

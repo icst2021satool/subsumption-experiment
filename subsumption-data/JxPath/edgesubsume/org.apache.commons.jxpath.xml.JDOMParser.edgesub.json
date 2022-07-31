@@ -1,0 +1,12 @@
+{
+"Class" : "org.apache.commons.jxpath.xml.JDOMParser", 
+"Methods" : [{ "Name" : "parseXML" ,
+"Edges" : 4,
+"0" : [ 0],
+"1" : [ 1, 2, 3, 4, 5],
+"3" : [ 1, 2, 3, 4, 5],
+"2" : [ 0],
+"CoveredDUAsByEdges" : 6,
+"Duas" : 6
+}]
+}
