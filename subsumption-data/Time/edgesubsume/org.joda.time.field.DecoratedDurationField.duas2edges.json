@@ -1,0 +1,10 @@
+{
+"Class" : "org.joda.time.field.DecoratedDurationField", 
+"Methods" : [{ "Name" : "<init>" ,
+"Edges" : 7,
+"Duas" : 6,
+"1" : 5, 
+ "2" : 6, 
+ "3" : 2, 
+ "4" : 3}]
+}

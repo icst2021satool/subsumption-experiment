@@ -1,0 +1,10 @@
+{
+"Class" : "org.joda.time.tz.UTCProvider", 
+"Methods" : [{ "Name" : "getZone" ,
+"Nodes" : 4,
+"0" : [ 45 ]
+"1" : [ 48 ]
+"2" : [ 46 ]
+"3" : [  ]
+}]
+}

@@ -1,0 +1,32 @@
+{
+"Class" : "org.joda.time.chrono.BasicWeekOfWeekyearDateTimeField", 
+"Methods" : [{ "Name" : "getMaximumValue" ,
+"Nodes" : 4,
+"0" : [ ],
+"1" : [ 2],
+"2" : [ 0, 1, 3, 4],
+"3" : [ ],
+"CoveredDUAsByNodes" : 5,
+"Duas" : 5
+},{ "Name" : "getMaximumValue" ,
+"Nodes" : 7,
+"0" : [ ],
+"1" : [ ],
+"2" : [ 6],
+"3" : [ 5, 7],
+"4" : [ 2, 5, 7, 10, 11],
+"5" : [ 0, 1, 3, 4, 5, 7],
+"6" : [ ],
+"CoveredDUAsByNodes" : 10,
+"Duas" : 19
+},{ "Name" : "getMaximumValueForSet" ,
+"Nodes" : 5,
+"0" : [ ],
+"1" : [ 3],
+"3" : [ 2],
+"2" : [ 0, 1],
+"4" : [ 0, 1],
+"CoveredDUAsByNodes" : 4,
+"Duas" : 4
+}]
+}

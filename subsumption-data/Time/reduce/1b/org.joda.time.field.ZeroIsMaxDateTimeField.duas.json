@@ -1,0 +1,22 @@
+{
+"Class" : "org.joda.time.field.ZeroIsMaxDateTimeField", 
+"Methods" : [{ "Name" : "<init>" ,
+"Duas" : 2,
+"0" :  "(46,(47,48), field)",
+"1" :  "(46,(47,50), field)"},{ "Name" : "get" ,
+"Duas" : 5,
+"0" :  "(53,55, this)",
+"1" :  "(53,(54,55), value)",
+"2" :  "(53,(54,57), value)",
+"3" :  "(53,57, value)",
+"4" :  "(55,57, value)"},{ "Name" : "set" ,
+"Duas" : 8,
+"0" :  "(85,90, this)",
+"1" :  "(85,90, instant)",
+"2" :  "(85,(87,88), value)",
+"3" :  "(85,(87,90), value)",
+"4" :  "(85,90, value)",
+"5" :  "(85,(87,88), max)",
+"6" :  "(85,(87,90), max)",
+"7" :  "(88,90, value)"}]
+}

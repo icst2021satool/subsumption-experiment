@@ -1,0 +1,22 @@
+{
+"Class" : "org.joda.time.field.MillisDurationField", 
+"Methods" : [{ "Name" : "compareTo" ,
+"Edges" : 7,
+"Duas" : 8,
+"0" : 1, 
+ "1" : 2, 
+ "2" : 3, 
+ "3" : 4, 
+ "4" : 1, 
+ "5" : 2, 
+ "6" : 3, 
+ "7" : 4},{ "Name" : "equals" ,
+"Edges" : 8,
+"Duas" : 6,
+"0" : 4, 
+ "1" : 5, 
+ "2" : 6, 
+ "3" : 7, 
+ "4" : 4, 
+ "5" : 5}]
+}

@@ -1,0 +1,12 @@
+{
+"Class" : "org.joda.time.format.PeriodFormatterBuilder$CompositeAffix", 
+"Methods" : [{ "Name" : "parse" ,
+"Edges" : 4,
+"Duas" : 8,
+"3" : 0, 
+ "4" : 1},{ "Name" : "scan" ,
+"Edges" : 4,
+"Duas" : 7,
+"4" : 1, 
+ "5" : 2}]
+}

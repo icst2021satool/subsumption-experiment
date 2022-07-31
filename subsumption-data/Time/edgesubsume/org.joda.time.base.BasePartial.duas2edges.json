@@ -1,0 +1,12 @@
+{
+"Class" : "org.joda.time.base.BasePartial", 
+"Methods" : [{ "Name" : "toString" ,
+"Edges" : 4,
+"Duas" : 5,
+"2" : 2, 
+ "3" : 3},{ "Name" : "toString" ,
+"Edges" : 4,
+"Duas" : 6,
+"2" : 2, 
+ "3" : 3}]
+}

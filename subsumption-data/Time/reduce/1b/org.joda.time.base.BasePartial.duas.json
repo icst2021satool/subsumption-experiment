@@ -1,0 +1,17 @@
+{
+"Class" : "org.joda.time.base.BasePartial", 
+"Methods" : [{ "Name" : "toString" ,
+"Duas" : 5,
+"0" :  "(292,295, this)",
+"1" :  "(292,293, this)",
+"2" :  "(292,(292,293), pattern)",
+"3" :  "(292,(292,295), pattern)",
+"4" :  "(292,295, pattern)"},{ "Name" : "toString" ,
+"Duas" : 6,
+"0" :  "(306,309, this)",
+"1" :  "(306,307, this)",
+"2" :  "(306,(306,307), pattern)",
+"3" :  "(306,(306,309), pattern)",
+"4" :  "(306,309, pattern)",
+"5" :  "(306,309, locale)"}]
+}

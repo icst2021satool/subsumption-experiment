@@ -1,0 +1,20 @@
+{
+"Class" : "org.joda.time.base.BasePartial", 
+"Methods" : [{ "Name" : "toString" ,
+"Nodes" : 4,
+"0" : [ ],
+"1" : [ 0, 3, 4],
+"2" : [ 1, 2],
+"3" : [ ],
+"CoveredDUAsByNodes" : 5,
+"Duas" : 5
+},{ "Name" : "toString" ,
+"Nodes" : 4,
+"0" : [ ],
+"1" : [ 0, 3, 4, 5],
+"2" : [ 1, 2],
+"3" : [ ],
+"CoveredDUAsByNodes" : 6,
+"Duas" : 6
+}]
+}

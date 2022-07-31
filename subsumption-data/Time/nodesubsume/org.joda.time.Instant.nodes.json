@@ -1,0 +1,25 @@
+{
+"Class" : "org.joda.time.Instant", 
+"Methods" : [{ "Name" : "withMillis" ,
+"Nodes" : 5,
+"0" : [ 157 ]
+"1" : [ 157 ]
+"2" : [ 157 ]
+"3" : [ 157 ]
+"4" : [  ]
+},{ "Name" : "withDurationAdded" ,
+"Nodes" : 5,
+"0" : [ 171 ]
+"1" : [ 172 ]
+"2" : [ 171 ]
+"3" : [ 174,175 ]
+"4" : [  ]
+},{ "Name" : "withDurationAdded" ,
+"Nodes" : 5,
+"0" : [ 189 ]
+"1" : [ 190 ]
+"2" : [ 189 ]
+"3" : [ 192 ]
+"4" : [  ]
+}]
+}

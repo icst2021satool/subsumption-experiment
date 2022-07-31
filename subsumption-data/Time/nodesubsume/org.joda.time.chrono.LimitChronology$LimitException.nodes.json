@@ -1,0 +1,13 @@
+{
+"Class" : "org.joda.time.chrono.LimitChronology$LimitException", 
+"Methods" : [{ "Name" : "getMessage" ,
+"Nodes" : 7,
+"0" : [ 357,358,359,360 ]
+"1" : [ 368,364,366,367 ]
+"2" : [ 372,373 ]
+"3" : [ 376,377,378,380 ]
+"4" : [ 369,370 ]
+"5" : [ 361,362 ]
+"6" : [  ]
+}]
+}

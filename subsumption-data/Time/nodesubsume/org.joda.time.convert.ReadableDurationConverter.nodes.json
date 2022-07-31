@@ -1,0 +1,11 @@
+{
+"Class" : "org.joda.time.convert.ReadableDurationConverter", 
+"Methods" : [{ "Name" : "setInto" ,
+"Nodes" : 5,
+"0" : [ 72,73,74,75,76 ]
+"1" : [ 76 ]
+"2" : [ 79 ]
+"3" : [ 76,77 ]
+"4" : [  ]
+}]
+}

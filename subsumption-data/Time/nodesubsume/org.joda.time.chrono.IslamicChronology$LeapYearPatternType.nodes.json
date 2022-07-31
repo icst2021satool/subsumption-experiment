@@ -1,0 +1,29 @@
+{
+"Class" : "org.joda.time.chrono.IslamicChronology$LeapYearPatternType", 
+"Methods" : [{ "Name" : "isLeapYear" ,
+"Nodes" : 5,
+"0" : [ 540,541 ]
+"1" : [ 541 ]
+"2" : [ 541 ]
+"3" : [ 541 ]
+"4" : [  ]
+},{ "Name" : "readResolve" ,
+"Nodes" : 7,
+"0" : [ 549 ]
+"1" : [ 557 ]
+"2" : [ 555 ]
+"3" : [ 553 ]
+"4" : [ 551 ]
+"5" : [ 559 ]
+"6" : [  ]
+},{ "Name" : "equals" ,
+"Nodes" : 7,
+"0" : [ 565 ]
+"1" : [ 568 ]
+"2" : [ 566 ]
+"3" : [ 566 ]
+"4" : [ 566 ]
+"5" : [ 566 ]
+"6" : [  ]
+}]
+}

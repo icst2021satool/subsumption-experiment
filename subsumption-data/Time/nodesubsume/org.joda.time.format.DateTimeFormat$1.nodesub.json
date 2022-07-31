@@ -1,0 +1,13 @@
+{
+"Class" : "org.joda.time.format.DateTimeFormat$1", 
+"Methods" : [{ "Name" : "removeEldestEntry" ,
+"Nodes" : 5,
+"0" : [ ],
+"1" : [ 1],
+"3" : [ 0],
+"2" : [ ],
+"4" : [ ],
+"CoveredDUAsByNodes" : 2,
+"Duas" : 2
+}]
+}

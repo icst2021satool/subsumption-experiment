@@ -1,0 +1,17 @@
+{
+"Class" : "org.joda.time.format.DateTimeFormatterBuilder$CharacterLiteral", 
+"Methods" : [{ "Name" : "parseInto" ,
+"Edges" : 11,
+"0" : [ 0,6 ],
+"1" : [ 0,1 ],
+"2" : [ 2,7 ],
+"3" : [ 3,4 ],
+"4" : [ 3,2 ],
+"5" : [ 5,7 ],
+"6" : [ 1,3 ],
+"7" : [ 1,2 ],
+"8" : [ 6,7 ],
+"9" : [ 4,5 ],
+"10" : [ 4,2 ]
+}]
+}

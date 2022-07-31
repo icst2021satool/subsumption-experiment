@@ -1,0 +1,18 @@
+{
+"Class" : "org.joda.time.field.BaseDurationField", 
+"Methods" : [{ "Name" : "<init>" ,
+"Nodes" : 4,
+"0" : [ 48,47 ]
+"1" : [ 51,52 ]
+"2" : [ 49 ]
+"3" : [  ]
+},{ "Name" : "compareTo" ,
+"Nodes" : 6,
+"0" : [ 146,147,149 ]
+"1" : [ 152 ]
+"2" : [ 155 ]
+"3" : [ 153 ]
+"4" : [ 150 ]
+"5" : [  ]
+}]
+}

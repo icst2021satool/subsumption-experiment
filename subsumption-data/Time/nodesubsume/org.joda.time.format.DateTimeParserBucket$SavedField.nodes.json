@@ -1,0 +1,19 @@
+{
+"Class" : "org.joda.time.format.DateTimeParserBucket$SavedField", 
+"Methods" : [{ "Name" : "set" ,
+"Nodes" : 7,
+"0" : [ 482 ]
+"1" : [ 485 ]
+"2" : [ 487 ]
+"3" : [ 490 ]
+"4" : [ 488 ]
+"5" : [ 483 ]
+"6" : [  ]
+},{ "Name" : "compareTo" ,
+"Nodes" : 4,
+"0" : [ 499,500,502 ]
+"1" : [ 505 ]
+"2" : [ 503 ]
+"3" : [  ]
+}]
+}

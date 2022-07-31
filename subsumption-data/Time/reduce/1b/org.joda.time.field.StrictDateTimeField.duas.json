@@ -1,0 +1,18 @@
+{
+"Class" : "org.joda.time.field.StrictDateTimeField", 
+"Methods" : [{ "Name" : "getInstance" ,
+"Duas" : 13,
+"0" :  "(41,(41,42), field)",
+"1" :  "(41,(41,44), field)",
+"2" :  "(41,(44,45), field)",
+"3" :  "(41,(44,47), field)",
+"4" :  "(41,(47,48), field)",
+"5" :  "(41,(47,50), field)",
+"6" :  "(41,50, field)",
+"7" :  "(41,48, field)",
+"8" :  "(41,45, field)",
+"9" :  "(45,(47,48), field)",
+"10" :  "(45,(47,50), field)",
+"11" :  "(45,50, field)",
+"12" :  "(45,48, field)"}]
+}

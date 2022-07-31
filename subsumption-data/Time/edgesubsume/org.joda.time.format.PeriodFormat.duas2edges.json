@@ -1,0 +1,8 @@
+{
+"Class" : "org.joda.time.format.PeriodFormat", 
+"Methods" : [{ "Name" : "wordBased" ,
+"Edges" : 4,
+"Duas" : 7,
+"3" : 2, 
+ "4" : 3}]
+}

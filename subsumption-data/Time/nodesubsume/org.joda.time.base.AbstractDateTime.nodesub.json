@@ -1,0 +1,36 @@
+{
+"Class" : "org.joda.time.base.AbstractDateTime", 
+"Methods" : [{ "Name" : "get" ,
+"Nodes" : 4,
+"0" : [ ],
+"1" : [ 0, 2, 3],
+"2" : [ 1],
+"3" : [ ],
+"CoveredDUAsByNodes" : 4,
+"Duas" : 4
+},{ "Name" : "toCalendar" ,
+"Nodes" : 4,
+"0" : [ ],
+"2" : [ 2],
+"1" : [ 0, 1],
+"3" : [ 0, 1],
+"CoveredDUAsByNodes" : 3,
+"Duas" : 6
+},{ "Name" : "toString" ,
+"Nodes" : 4,
+"0" : [ ],
+"1" : [ 0, 3, 4],
+"2" : [ 1, 2],
+"3" : [ ],
+"CoveredDUAsByNodes" : 5,
+"Duas" : 5
+},{ "Name" : "toString" ,
+"Nodes" : 4,
+"0" : [ ],
+"1" : [ 0, 3, 4, 5],
+"2" : [ 1, 2],
+"3" : [ ],
+"CoveredDUAsByNodes" : 6,
+"Duas" : 6
+}]
+}

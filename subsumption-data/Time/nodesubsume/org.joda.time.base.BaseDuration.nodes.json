@@ -1,0 +1,11 @@
+{
+"Class" : "org.joda.time.base.BaseDuration", 
+"Methods" : [{ "Name" : "<init>" ,
+"Nodes" : 5,
+"0" : [ 85,86 ]
+"1" : [ 89,90,91 ]
+"2" : [ 93 ]
+"3" : [ 87 ]
+"4" : [  ]
+}]
+}

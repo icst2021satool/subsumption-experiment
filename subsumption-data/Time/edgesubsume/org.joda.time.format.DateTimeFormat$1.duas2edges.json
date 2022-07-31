@@ -1,0 +1,8 @@
+{
+"Class" : "org.joda.time.format.DateTimeFormat$1", 
+"Methods" : [{ "Name" : "removeEldestEntry" ,
+"Edges" : 5,
+"Duas" : 2,
+"0" : 0, 
+ "1" : 1}]
+}

@@ -1,0 +1,20 @@
+{
+"Class" : "org.joda.time.field.DelegatedDurationField", 
+"Methods" : [{ "Name" : "<init>" ,
+"Edges" : 8,
+"Duas" : 9,
+"2" : 2, 
+ "3" : 3, 
+ "6" : 6, 
+ "7" : 7},{ "Name" : "equals" ,
+"Edges" : 4,
+"Duas" : 5,
+"1" : 1, 
+ "2" : 2},{ "Name" : "toString" ,
+"Edges" : 5,
+"Duas" : 7,
+"0" : 1, 
+ "1" : 2, 
+ "3" : 1, 
+ "4" : 2}]
+}

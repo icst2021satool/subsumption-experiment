@@ -1,0 +1,18 @@
+{
+"Class" : "org.joda.time.field.BaseDurationField", 
+"Methods" : [{ "Name" : "<init>" ,
+"Edges" : 4,
+"Duas" : 4,
+"1" : 0, 
+ "2" : 1},{ "Name" : "compareTo" ,
+"Edges" : 7,
+"Duas" : 8,
+"0" : 5, 
+ "1" : 6, 
+ "2" : 3, 
+ "3" : 4, 
+ "4" : 5, 
+ "5" : 6, 
+ "6" : 3, 
+ "7" : 4}]
+}

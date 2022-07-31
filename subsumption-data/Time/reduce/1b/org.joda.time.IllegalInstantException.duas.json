@@ -1,0 +1,17 @@
+{
+"Class" : "org.joda.time.IllegalInstantException", 
+"Methods" : [{ "Name" : "createMessage" ,
+"Duas" : 4,
+"0" :  "(67,(68,68), zoneId)",
+"1" :  "(67,(68,68), zoneId)",
+"2" :  "(67,68, zoneId)",
+"3" :  "(67,69, localDateTime)"},{ "Name" : "isIllegalInstant" ,
+"Duas" : 7,
+"0" :  "(80,(80,81), ex)",
+"1" :  "(80,(80,83), ex)",
+"2" :  "(80,(83,83), ex)",
+"3" :  "(80,(83,86), ex)",
+"4" :  "(80,(83,84), ex)",
+"5" :  "(80,(83,86), ex)",
+"6" :  "(80,84, ex)"}]
+}

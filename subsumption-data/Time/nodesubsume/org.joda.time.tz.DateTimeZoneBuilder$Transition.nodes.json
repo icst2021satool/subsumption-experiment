@@ -1,0 +1,15 @@
+{
+"Class" : "org.joda.time.tz.DateTimeZoneBuilder$Transition", 
+"Methods" : [{ "Name" : "isTransitionFrom" ,
+"Nodes" : 9,
+"0" : [ 931 ]
+"1" : [ 934 ]
+"2" : [ 934 ]
+"3" : [ 934 ]
+"4" : [ 934 ]
+"5" : [ 934 ]
+"6" : [ 934 ]
+"7" : [ 932 ]
+"8" : [  ]
+}]
+}

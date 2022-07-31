@@ -1,0 +1,10 @@
+{
+"Class" : "org.joda.time.LocalTime$Property", 
+"Methods" : [{ "Name" : "addNoWrapToCopy" ,
+"Edges" : 4,
+"Duas" : 7,
+"2" : 0, 
+ "3" : 1, 
+ "5" : 0, 
+ "6" : 1}]
+}

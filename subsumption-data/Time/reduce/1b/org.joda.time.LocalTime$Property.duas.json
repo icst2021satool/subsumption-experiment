@@ -1,0 +1,12 @@
+{
+"Class" : "org.joda.time.LocalTime$Property", 
+"Methods" : [{ "Name" : "addNoWrapToCopy" ,
+"Duas" : 7,
+"0" :  "(1473,1478, this)",
+"1" :  "(1473,1478, this.iInstant)",
+"2" :  "(1473,(1475,1476), millis)",
+"3" :  "(1473,(1475,1478), millis)",
+"4" :  "(1473,1478, millis)",
+"5" :  "(1474,(1475,1476), rounded)",
+"6" :  "(1474,(1475,1478), rounded)"}]
+}

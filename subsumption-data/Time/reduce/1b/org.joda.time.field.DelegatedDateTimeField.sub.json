@@ -1,0 +1,15 @@
+{
+"Class" : "org.joda.time.field.DelegatedDateTimeField", 
+"Methods" : [{ "Name" : "<init>" ,
+"Duas" : "11" ,
+"Subsumers" : 3,
+"0" : [ 8], "S0" : [0, 1, 2, 4, 5, 6, 7, 8, 10 ],
+"1" : [ 9], "S1" : [0, 1, 2, 4, 5, 6, 7, 9, 10 ],
+"2" : [ 3], "S2" : [3 ]
+},{ "Name" : "getRangeDurationField" ,
+"Duas" : "8" ,
+"Subsumers" : 2,
+"0" : [ 6, 4, 3, 0], "S0" : [0, 3, 4, 6 ],
+"1" : [ 7, 5, 2, 1], "S1" : [1, 2, 5, 7 ]
+}]
+}

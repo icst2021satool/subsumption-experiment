@@ -1,0 +1,26 @@
+{
+"Class" : "org.joda.time.field.UnsupportedDateTimeField", 
+"Methods" : [{ "Name" : "getInstance" ,
+"Nodes" : 9,
+"0" : [ ],
+"1" : [ 0, 7, 8],
+"5" : [ 0, 7, 8, 14],
+"6" : [ 0, 19, 4, 7, 8, 14],
+"7" : [ 6],
+"2" : [ ],
+"4" : [ 1, 2, 3],
+"3" : [ ],
+"8" : [ ],
+"CoveredDUAsByNodes" : 10,
+"Duas" : 25
+},{ "Name" : "<init>" ,
+"Nodes" : 5,
+"0" : [ ],
+"2" : [ 2],
+"3" : [ 0, 1, 2, 4, 6, 7],
+"1" : [ ],
+"4" : [ ],
+"CoveredDUAsByNodes" : 6,
+"Duas" : 8
+}]
+}

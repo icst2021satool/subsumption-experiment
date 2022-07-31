@@ -1,0 +1,12 @@
+{
+"Class" : "org.joda.time.field.DecoratedDateTimeField", 
+"Methods" : [{ "Name" : "<init>" ,
+"Nodes" : 6,
+"Duas" : 6,
+"0" :  [ 0,2 ],
+"1" :  [ 0,4 ],
+"2" :  [ 0,1 ],
+"3" :  [ 0,1,3 ],
+"4" :  [ 0,1,2 ],
+"5" :  [ 0,2 ]}]
+}

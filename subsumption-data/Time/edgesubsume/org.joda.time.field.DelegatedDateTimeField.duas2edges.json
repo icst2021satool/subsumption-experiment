@@ -1,0 +1,16 @@
+{
+"Class" : "org.joda.time.field.DelegatedDateTimeField", 
+"Methods" : [{ "Name" : "<init>" ,
+"Edges" : 8,
+"Duas" : 11,
+"3" : 3, 
+ "4" : 4, 
+ "8" : 0, 
+ "9" : 1},{ "Name" : "getRangeDurationField" ,
+"Edges" : 4,
+"Duas" : 8,
+"0" : 1, 
+ "1" : 2, 
+ "4" : 1, 
+ "5" : 2}]
+}

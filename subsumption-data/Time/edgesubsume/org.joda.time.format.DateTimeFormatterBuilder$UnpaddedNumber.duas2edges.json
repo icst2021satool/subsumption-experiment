@@ -1,0 +1,20 @@
+{
+"Class" : "org.joda.time.format.DateTimeFormatterBuilder$UnpaddedNumber", 
+"Methods" : [{ "Name" : "printTo" ,
+"Edges" : 5,
+"Duas" : 11,
+"0" : 3, 
+ "1" : 4, 
+ "5" : 3, 
+ "6" : 4, 
+ "8" : 3, 
+ "9" : 4},{ "Name" : "printTo" ,
+"Edges" : 5,
+"Duas" : 11,
+"0" : 1, 
+ "1" : 2, 
+ "5" : 1, 
+ "6" : 2, 
+ "8" : 1, 
+ "9" : 2}]
+}

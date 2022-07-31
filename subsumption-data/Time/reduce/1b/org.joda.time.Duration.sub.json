@@ -1,0 +1,71 @@
+{
+"Class" : "org.joda.time.Duration", 
+"Methods" : [{ "Name" : "standardDays" ,
+"Duas" : "4" ,
+"Subsumers" : 2,
+"0" : [ 3, 0], "S0" : [0, 3 ],
+"1" : [ 2, 1], "S1" : [1, 2 ]
+},{ "Name" : "standardHours" ,
+"Duas" : "4" ,
+"Subsumers" : 2,
+"0" : [ 3, 0], "S0" : [0, 3 ],
+"1" : [ 2, 1], "S1" : [1, 2 ]
+},{ "Name" : "standardMinutes" ,
+"Duas" : "4" ,
+"Subsumers" : 2,
+"0" : [ 3, 0], "S0" : [0, 3 ],
+"1" : [ 2, 1], "S1" : [1, 2 ]
+},{ "Name" : "standardSeconds" ,
+"Duas" : "4" ,
+"Subsumers" : 2,
+"0" : [ 3, 0], "S0" : [0, 3 ],
+"1" : [ 2, 1], "S1" : [1, 2 ]
+},{ "Name" : "millis" ,
+"Duas" : "4" ,
+"Subsumers" : 2,
+"0" : [ 3, 0], "S0" : [0, 3 ],
+"1" : [ 2, 1], "S1" : [1, 2 ]
+},{ "Name" : "withMillis" ,
+"Duas" : "6" ,
+"Subsumers" : 2,
+"0" : [ 3, 2, 0], "S0" : [0, 2, 3 ],
+"1" : [ 5, 4, 1], "S1" : [1, 4, 5 ]
+},{ "Name" : "withDurationAdded" ,
+"Duas" : "8" ,
+"Subsumers" : 3,
+"0" : [ 3], "S0" : [0, 3 ],
+"1" : [ 5], "S1" : [0, 2, 5 ],
+"2" : [ 7, 6, 4, 1], "S2" : [1, 2, 4, 6, 7 ]
+},{ "Name" : "withDurationAdded" ,
+"Duas" : "8" ,
+"Subsumers" : 3,
+"0" : [ 3], "S0" : [0, 3 ],
+"1" : [ 5], "S1" : [0, 2, 5 ],
+"2" : [ 7, 6, 4, 1], "S2" : [1, 2, 4, 6, 7 ]
+},{ "Name" : "plus" ,
+"Duas" : "5" ,
+"Subsumers" : 2,
+"0" : [ 4, 3, 0], "S0" : [0, 3, 4 ],
+"1" : [ 2, 1], "S1" : [1, 2 ]
+},{ "Name" : "minus" ,
+"Duas" : "5" ,
+"Subsumers" : 2,
+"0" : [ 4, 3, 0], "S0" : [0, 3, 4 ],
+"1" : [ 2, 1], "S1" : [1, 2 ]
+},{ "Name" : "multipliedBy" ,
+"Duas" : "5" ,
+"Subsumers" : 2,
+"0" : [ 4, 3, 0], "S0" : [0, 3, 4 ],
+"1" : [ 2, 1], "S1" : [1, 2 ]
+},{ "Name" : "dividedBy" ,
+"Duas" : "5" ,
+"Subsumers" : 2,
+"0" : [ 4, 3, 0], "S0" : [0, 3, 4 ],
+"1" : [ 2, 1], "S1" : [1, 2 ]
+},{ "Name" : "negated" ,
+"Duas" : "3" ,
+"Subsumers" : 2,
+"0" : [ 0], "S0" : [0 ],
+"1" : [ 2, 1], "S1" : [1, 2 ]
+}]
+}

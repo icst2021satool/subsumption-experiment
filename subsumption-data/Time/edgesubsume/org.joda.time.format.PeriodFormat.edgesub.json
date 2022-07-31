@@ -1,0 +1,12 @@
+{
+"Class" : "org.joda.time.format.PeriodFormat", 
+"Methods" : [{ "Name" : "wordBased" ,
+"Edges" : 4,
+"2" : [ 0, 1, 2, 3],
+"3" : [ 4, 5],
+"1" : [ 0, 1, 2, 3],
+"0" : [ ],
+"CoveredDUAsByEdges" : 6,
+"Duas" : 7
+}]
+}

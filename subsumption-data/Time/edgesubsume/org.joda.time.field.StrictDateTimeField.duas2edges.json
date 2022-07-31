@@ -1,0 +1,14 @@
+{
+"Class" : "org.joda.time.field.StrictDateTimeField", 
+"Methods" : [{ "Name" : "getInstance" ,
+"Edges" : 10,
+"Duas" : 13,
+"0" : 0, 
+ "1" : 1, 
+ "2" : 5, 
+ "3" : 6, 
+ "4" : 3, 
+ "5" : 4, 
+ "9" : 3, 
+ "10" : 4}]
+}
