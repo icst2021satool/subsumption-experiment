@@ -1,0 +1,11 @@
+{
+"Class" : "com.fasterxml.jackson.databind.ser.impl.SimpleBeanPropertyFilter$SerializeExceptFilter", 
+"Methods" : [{ "Name" : "include" ,
+"Nodes" : 5,
+"0" : [ 142 ]
+"1" : [ 142 ]
+"2" : [ 142 ]
+"3" : [ 142 ]
+"4" : [  ]
+}]
+}

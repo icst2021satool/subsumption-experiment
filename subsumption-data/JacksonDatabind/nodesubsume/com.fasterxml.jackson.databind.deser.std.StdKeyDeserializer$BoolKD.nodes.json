@@ -1,0 +1,12 @@
+{
+"Class" : "com.fasterxml.jackson.databind.deser.std.StdKeyDeserializer$BoolKD", 
+"Methods" : [{ "Name" : "_parse" ,
+"Nodes" : 6,
+"0" : [ 125 ]
+"1" : [ 128 ]
+"2" : [ 131 ]
+"3" : [ 129 ]
+"4" : [ 126 ]
+"5" : [  ]
+}]
+}

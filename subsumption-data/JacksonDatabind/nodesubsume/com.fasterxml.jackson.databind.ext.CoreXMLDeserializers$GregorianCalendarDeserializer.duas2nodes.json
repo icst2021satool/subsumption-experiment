@@ -1,0 +1,16 @@
+{
+"Class" : "com.fasterxml.jackson.databind.ext.CoreXMLDeserializers$GregorianCalendarDeserializer", 
+"Methods" : [{ "Name" : "deserialize" ,
+"Nodes" : 6,
+"Duas" : 10,
+"0" :  [ 0,1 ],
+"1" :  [ 0,2 ],
+"2" :  [ 0,4 ],
+"3" :  [ 0,1 ],
+"4" :  [ 0,1 ],
+"5" :  [ 1,2 ],
+"6" :  [ 1,3 ],
+"7" :  [ 1,3 ],
+"8" :  [ 1,2 ],
+"9" :  [ 1,3 ]}]
+}

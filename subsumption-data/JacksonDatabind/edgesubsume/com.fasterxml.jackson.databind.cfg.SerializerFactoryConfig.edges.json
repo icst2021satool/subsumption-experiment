@@ -1,0 +1,58 @@
+{
+"Class" : "com.fasterxml.jackson.databind.cfg.SerializerFactoryConfig", 
+"Methods" : [{ "Name" : "<init>" ,
+"Edges" : 13,
+"0" : [ 5,6 ],
+"1" : [ 8,4 ],
+"2" : [ 6,10 ],
+"3" : [ 1,2 ],
+"4" : [ 0,9 ],
+"5" : [ 0,1 ],
+"6" : [ 9,2 ],
+"7" : [ 7,6 ],
+"8" : [ 3,4 ],
+"9" : [ 2,8 ],
+"10" : [ 2,3 ],
+"11" : [ 4,7 ],
+"12" : [ 4,5 ]
+},{ "Name" : "withAdditionalSerializers" ,
+"Edges" : 4,
+"0" : [ 2,3 ],
+"1" : [ 1,3 ],
+"2" : [ 0,2 ],
+"3" : [ 0,1 ]
+},{ "Name" : "withAdditionalKeySerializers" ,
+"Edges" : 4,
+"0" : [ 1,3 ],
+"1" : [ 0,2 ],
+"2" : [ 0,1 ],
+"3" : [ 2,3 ]
+},{ "Name" : "withSerializerModifier" ,
+"Edges" : 4,
+"0" : [ 1,3 ],
+"1" : [ 2,3 ],
+"2" : [ 0,2 ],
+"3" : [ 0,1 ]
+},{ "Name" : "hasSerializers" ,
+"Edges" : 5,
+"0" : [ 2,4 ],
+"1" : [ 1,2 ],
+"2" : [ 3,2 ],
+"3" : [ 0,3 ],
+"4" : [ 0,1 ]
+},{ "Name" : "hasKeySerializers" ,
+"Edges" : 5,
+"0" : [ 1,2 ],
+"1" : [ 3,2 ],
+"2" : [ 0,3 ],
+"3" : [ 0,1 ],
+"4" : [ 2,4 ]
+},{ "Name" : "hasSerializerModifiers" ,
+"Edges" : 5,
+"0" : [ 2,4 ],
+"1" : [ 1,2 ],
+"2" : [ 3,2 ],
+"3" : [ 0,3 ],
+"4" : [ 0,1 ]
+}]
+}

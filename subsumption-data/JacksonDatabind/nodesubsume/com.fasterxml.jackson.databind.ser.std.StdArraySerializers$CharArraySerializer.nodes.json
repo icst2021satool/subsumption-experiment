@@ -1,0 +1,40 @@
+{
+"Class" : "com.fasterxml.jackson.databind.ser.std.StdArraySerializers$CharArraySerializer", 
+"Methods" : [{ "Name" : "isEmpty" ,
+"Nodes" : 6,
+"0" : [ 309 ]
+"1" : [ 309 ]
+"2" : [ 309 ]
+"3" : [ 309 ]
+"4" : [ 309 ]
+"5" : [  ]
+},{ "Name" : "serialize" ,
+"Nodes" : 5,
+"0" : [ 317 ]
+"1" : [ 322 ]
+"2" : [ 324 ]
+"3" : [ 320,318,319 ]
+"4" : [  ]
+},{ "Name" : "serializeWithType" ,
+"Nodes" : 5,
+"0" : [ 332 ]
+"1" : [ 337,338,339 ]
+"2" : [ 341 ]
+"3" : [ 333,334,335 ]
+"4" : [  ]
+},{ "Name" : "_writeArrayContents" ,
+"Nodes" : 5,
+"0" : [ 346 ]
+"1" : [ 346 ]
+"2" : [ 349 ]
+"3" : [ 346,347 ]
+"4" : [  ]
+},{ "Name" : "acceptJsonFormatVisitor" ,
+"Nodes" : 5,
+"0" : [ 365 ]
+"1" : [ 371 ]
+"2" : [ 366,367 ]
+"3" : [ 368 ]
+"4" : [  ]
+}]
+}

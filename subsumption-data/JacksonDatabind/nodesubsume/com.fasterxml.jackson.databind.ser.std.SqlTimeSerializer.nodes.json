@@ -1,0 +1,13 @@
+{
+"Class" : "com.fasterxml.jackson.databind.ser.std.SqlTimeSerializer", 
+"Methods" : [{ "Name" : "acceptJsonFormatVisitor" ,
+"Nodes" : 7,
+"0" : [ 40 ]
+"1" : [ 40 ]
+"2" : [ 40,41 ]
+"3" : [ 44 ]
+"4" : [ 42 ]
+"5" : [ 40 ]
+"6" : [  ]
+}]
+}

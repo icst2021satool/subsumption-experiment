@@ -1,0 +1,8 @@
+{
+"Class" : "com.fasterxml.jackson.databind.deser.std.DateDeserializers$SqlDateDeserializer", 
+"Methods" : [{ "Name" : "deserialize" ,
+"Edges" : 5,
+"Duas" : 3,
+"0" : 0, 
+ "1" : 1}]
+}

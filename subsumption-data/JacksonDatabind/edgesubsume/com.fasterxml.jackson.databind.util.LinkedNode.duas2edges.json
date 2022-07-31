@@ -1,0 +1,12 @@
+{
+"Class" : "com.fasterxml.jackson.databind.util.LinkedNode", 
+"Methods" : [{ "Name" : "contains" ,
+"Edges" : 7,
+"Duas" : 7,
+"0" : 0, 
+ "1" : 1, 
+ "2" : 3, 
+ "3" : 4, 
+ "5" : 3, 
+ "6" : 4}]
+}

@@ -1,0 +1,33 @@
+{
+"Class" : "com.fasterxml.jackson.databind.ser.std.StdArraySerializers$DoubleArraySerializer", 
+"Methods" : [{ "Name" : "isEmpty" ,
+"Nodes" : 6,
+"0" : [ 631 ]
+"1" : [ 631 ]
+"2" : [ 631 ]
+"3" : [ 631 ]
+"4" : [ 631 ]
+"5" : [  ]
+},{ "Name" : "hasSingleElement" ,
+"Nodes" : 5,
+"0" : [ 636 ]
+"1" : [ 636 ]
+"2" : [ 636 ]
+"3" : [ 636 ]
+"4" : [  ]
+},{ "Name" : "serializeContents" ,
+"Nodes" : 5,
+"0" : [ 643 ]
+"1" : [ 643 ]
+"2" : [ 646 ]
+"3" : [ 643,644 ]
+"4" : [  ]
+},{ "Name" : "acceptJsonFormatVisitor" ,
+"Nodes" : 5,
+"0" : [ 660 ]
+"1" : [ 666 ]
+"2" : [ 661,662 ]
+"3" : [ 663 ]
+"4" : [  ]
+}]
+}

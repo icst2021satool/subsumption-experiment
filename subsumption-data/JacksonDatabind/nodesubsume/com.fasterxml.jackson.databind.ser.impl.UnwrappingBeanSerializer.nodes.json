@@ -1,0 +1,13 @@
+{
+"Class" : "com.fasterxml.jackson.databind.ser.impl.UnwrappingBeanSerializer", 
+"Methods" : [{ "Name" : "serialize" ,
+"Nodes" : 7,
+"0" : [ 96 ]
+"1" : [ 100 ]
+"2" : [ 103 ]
+"3" : [ 105 ]
+"4" : [ 101 ]
+"5" : [ 97,98 ]
+"6" : [  ]
+}]
+}

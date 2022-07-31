@@ -1,0 +1,16 @@
+{
+"Class" : "com.fasterxml.jackson.databind.JsonSerializer", 
+"Methods" : [{ "Name" : "serializeWithType" ,
+"Edges" : 4,
+"Duas" : 5,
+"1" : 2, 
+ "2" : 3},{ "Name" : "isEmpty" ,
+"Edges" : 5,
+"Duas" : 2,
+"0" : 0, 
+ "1" : 1},{ "Name" : "acceptJsonFormatVisitor" ,
+"Edges" : 4,
+"Duas" : 4,
+"0" : 2, 
+ "1" : 3}]
+}

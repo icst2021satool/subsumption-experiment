@@ -1,0 +1,16 @@
+{
+"Class" : "com.fasterxml.jackson.databind.ser.impl.PropertySerializerMap$Multi", 
+"Methods" : [{ "Name" : "serializerFor" ,
+"Duas" : "20" ,
+"Subsumers" : 4,
+"0" : [ 15, 13, 12, 10, 1], "S0" : [0, 1, 3, 4, 6, 8, 10, 12, 13, 15 ],
+"1" : [ 19], "S1" : [0, 2, 3, 4, 6, 7, 8, 11, 14, 16, 18, 19 ],
+"2" : [ 17], "S2" : [0, 2, 3, 4, 6, 7, 8, 9, 11, 14, 17 ],
+"3" : [ 5], "S3" : [5, 9 ]
+},{ "Name" : "newWith" ,
+"Duas" : "10" ,
+"Subsumers" : 2,
+"0" : [ 7, 8, 9, 6, 4, 3, 2, 0], "S0" : [0, 2, 3, 4, 6, 7, 8, 9 ],
+"1" : [ 5, 1], "S1" : [1, 5 ]
+}]
+}

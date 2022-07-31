@@ -1,0 +1,21 @@
+{
+"Class" : "com.fasterxml.jackson.databind.deser.impl.UnwrappedPropertyHandler", 
+"Methods" : [{ "Name" : "renameAll" ,
+"Nodes" : 8,
+"0" : [ 32,30,31 ]
+"1" : [ 33 ]
+"2" : [ 48 ]
+"3" : [ 34,35,36,37,38 ]
+"4" : [ 46,47 ]
+"5" : [ 40,42 ]
+"6" : [ 43 ]
+"7" : [  ]
+},{ "Name" : "processUnwrapped" ,
+"Nodes" : 5,
+"0" : [ 54 ]
+"1" : [ 54 ]
+"2" : [ 60 ]
+"3" : [ 54,55,56,57,58 ]
+"4" : [  ]
+}]
+}

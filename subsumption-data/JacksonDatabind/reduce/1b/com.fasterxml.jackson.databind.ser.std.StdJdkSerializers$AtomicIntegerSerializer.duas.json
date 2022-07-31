@@ -1,0 +1,9 @@
+{
+"Class" : "com.fasterxml.jackson.databind.ser.std.StdJdkSerializers$AtomicIntegerSerializer", 
+"Methods" : [{ "Name" : "acceptJsonFormatVisitor" ,
+"Duas" : 4,
+"0" :  "(114,116, INT)",
+"1" :  "(114,(115,116), v2)",
+"2" :  "(114,(115,118), v2)",
+"3" :  "(114,116, v2)"}]
+}

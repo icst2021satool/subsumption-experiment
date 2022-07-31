@@ -1,0 +1,14 @@
+{
+"Class" : "com.fasterxml.jackson.databind.ext.CoreXMLDeserializers", 
+"Methods" : [{ "Name" : "findBeanDeserializer" ,
+"Duas" : 9,
+"0" :  "(45,47, instance)",
+"1" :  "(45,50, instance)",
+"2" :  "(45,53, instance)",
+"3" :  "(45,(46,47), raw)",
+"4" :  "(45,(46,49), raw)",
+"5" :  "(45,(49,50), raw)",
+"6" :  "(45,(49,52), raw)",
+"7" :  "(45,(52,53), raw)",
+"8" :  "(45,(52,55), raw)"}]
+}

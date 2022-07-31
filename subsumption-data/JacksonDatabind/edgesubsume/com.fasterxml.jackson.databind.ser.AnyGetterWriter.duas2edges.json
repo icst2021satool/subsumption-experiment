@@ -1,0 +1,10 @@
+{
+"Class" : "com.fasterxml.jackson.databind.ser.AnyGetterWriter", 
+"Methods" : [{ "Name" : "getAndSerialize" ,
+"Edges" : 7,
+"Duas" : 12,
+"6" : 5, 
+ "7" : 6, 
+ "8" : 3, 
+ "9" : 4}]
+}

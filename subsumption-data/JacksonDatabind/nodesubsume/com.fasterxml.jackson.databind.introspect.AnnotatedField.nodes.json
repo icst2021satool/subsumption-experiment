@@ -1,0 +1,17 @@
+{
+"Class" : "com.fasterxml.jackson.databind.introspect.AnnotatedField", 
+"Methods" : [{ "Name" : "getAnnotation" ,
+"Nodes" : 5,
+"0" : [ 78 ]
+"1" : [ 78 ]
+"2" : [ 78 ]
+"3" : [ 78 ]
+"4" : [  ]
+},{ "Name" : "readResolve" ,
+"Nodes" : 4,
+"0" : [ 154,156,158 ]
+"1" : [ 161 ]
+"2" : [ 159 ]
+"3" : [  ]
+}]
+}

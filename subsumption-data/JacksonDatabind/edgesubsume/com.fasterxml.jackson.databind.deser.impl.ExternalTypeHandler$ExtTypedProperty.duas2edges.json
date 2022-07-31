@@ -1,0 +1,14 @@
+{
+"Class" : "com.fasterxml.jackson.databind.deser.impl.ExternalTypeHandler$ExtTypedProperty", 
+"Methods" : [{ "Name" : "hasDefaultType" ,
+"Edges" : 5,
+"Duas" : 4,
+"0" : 3, 
+ "1" : 4, 
+ "2" : 3, 
+ "3" : 4},{ "Name" : "getDefaultTypeId" ,
+"Edges" : 4,
+"Duas" : 5,
+"2" : 0, 
+ "3" : 1}]
+}

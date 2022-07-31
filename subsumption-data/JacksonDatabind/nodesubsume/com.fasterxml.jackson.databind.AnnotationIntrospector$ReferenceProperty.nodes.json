@@ -1,0 +1,18 @@
+{
+"Class" : "com.fasterxml.jackson.databind.AnnotationIntrospector$ReferenceProperty", 
+"Methods" : [{ "Name" : "isManagedReference" ,
+"Nodes" : 5,
+"0" : [ 86 ]
+"1" : [ 86 ]
+"2" : [ 86 ]
+"3" : [ 86 ]
+"4" : [  ]
+},{ "Name" : "isBackReference" ,
+"Nodes" : 5,
+"0" : [ 87 ]
+"1" : [ 87 ]
+"2" : [ 87 ]
+"3" : [ 87 ]
+"4" : [  ]
+}]
+}

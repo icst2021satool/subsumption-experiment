@@ -1,0 +1,97 @@
+{
+"Class" : "com.fasterxml.jackson.databind.JsonNode", 
+"Methods" : [{ "Name" : "isValueNode" ,
+"Duas" : "4" ,
+"Subsumers" : 2,
+"0" : [ 2, 0], "S0" : [0, 2 ],
+"1" : [ 3, 1], "S1" : [1, 3 ]
+},{ "Name" : "isContainerNode" ,
+"Duas" : "8" ,
+"Subsumers" : 3,
+"0" : [ 6, 2], "S0" : [0, 2, 4, 6 ],
+"1" : [ 7, 3], "S1" : [0, 3, 4, 7 ],
+"2" : [ 5, 1], "S2" : [1, 5 ]
+},{ "Name" : "isMissingNode" ,
+"Duas" : "4" ,
+"Subsumers" : 2,
+"0" : [ 2, 0], "S0" : [0, 2 ],
+"1" : [ 3, 1], "S1" : [1, 3 ]
+},{ "Name" : "isArray" ,
+"Duas" : "4" ,
+"Subsumers" : 2,
+"0" : [ 2, 0], "S0" : [0, 2 ],
+"1" : [ 3, 1], "S1" : [1, 3 ]
+},{ "Name" : "isObject" ,
+"Duas" : "4" ,
+"Subsumers" : 2,
+"0" : [ 2, 0], "S0" : [0, 2 ],
+"1" : [ 3, 1], "S1" : [1, 3 ]
+},{ "Name" : "isPojo" ,
+"Duas" : "4" ,
+"Subsumers" : 2,
+"0" : [ 2, 0], "S0" : [0, 2 ],
+"1" : [ 3, 1], "S1" : [1, 3 ]
+},{ "Name" : "isNumber" ,
+"Duas" : "4" ,
+"Subsumers" : 2,
+"0" : [ 2, 0], "S0" : [0, 2 ],
+"1" : [ 3, 1], "S1" : [1, 3 ]
+},{ "Name" : "isTextual" ,
+"Duas" : "4" ,
+"Subsumers" : 2,
+"0" : [ 2, 0], "S0" : [0, 2 ],
+"1" : [ 3, 1], "S1" : [1, 3 ]
+},{ "Name" : "isBoolean" ,
+"Duas" : "4" ,
+"Subsumers" : 2,
+"0" : [ 2, 0], "S0" : [0, 2 ],
+"1" : [ 3, 1], "S1" : [1, 3 ]
+},{ "Name" : "isNull" ,
+"Duas" : "4" ,
+"Subsumers" : 2,
+"0" : [ 2, 0], "S0" : [0, 2 ],
+"1" : [ 3, 1], "S1" : [1, 3 ]
+},{ "Name" : "isBinary" ,
+"Duas" : "4" ,
+"Subsumers" : 2,
+"0" : [ 2, 0], "S0" : [0, 2 ],
+"1" : [ 3, 1], "S1" : [1, 3 ]
+},{ "Name" : "has" ,
+"Duas" : "4" ,
+"Subsumers" : 2,
+"0" : [ 2, 0], "S0" : [0, 2 ],
+"1" : [ 3, 1], "S1" : [1, 3 ]
+},{ "Name" : "has" ,
+"Duas" : "4" ,
+"Subsumers" : 2,
+"0" : [ 2, 0], "S0" : [0, 2 ],
+"1" : [ 3, 1], "S1" : [1, 3 ]
+},{ "Name" : "hasNonNull" ,
+"Duas" : "4" ,
+"Subsumers" : 3,
+"0" : [ 2], "S0" : [0, 2 ],
+"1" : [ 3], "S1" : [0, 3 ],
+"2" : [ 1], "S2" : [1 ]
+},{ "Name" : "hasNonNull" ,
+"Duas" : "4" ,
+"Subsumers" : 3,
+"0" : [ 2], "S0" : [0, 2 ],
+"1" : [ 3], "S1" : [0, 3 ],
+"2" : [ 1], "S2" : [1 ]
+},{ "Name" : "findValues" ,
+"Duas" : "3" ,
+"Subsumers" : 2,
+"0" : [ 0], "S0" : [0 ],
+"1" : [ 2, 1], "S1" : [1, 2 ]
+},{ "Name" : "findValuesAsText" ,
+"Duas" : "3" ,
+"Subsumers" : 2,
+"0" : [ 0], "S0" : [0 ],
+"1" : [ 2, 1], "S1" : [1, 2 ]
+},{ "Name" : "findParents" ,
+"Duas" : "3" ,
+"Subsumers" : 2,
+"0" : [ 0], "S0" : [0 ],
+"1" : [ 2, 1], "S1" : [1, 2 ]
+}]
+}

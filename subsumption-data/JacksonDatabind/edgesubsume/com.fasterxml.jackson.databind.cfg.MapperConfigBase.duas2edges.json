@@ -1,0 +1,16 @@
+{
+"Class" : "com.fasterxml.jackson.databind.cfg.MapperConfigBase", 
+"Methods" : [{ "Name" : "findMixInClassFor" ,
+"Edges" : 5,
+"Duas" : 7,
+"0" : 2, 
+ "1" : 3, 
+ "4" : 2, 
+ "5" : 3},{ "Name" : "mixInCount" ,
+"Edges" : 5,
+"Duas" : 6,
+"0" : 3, 
+ "1" : 4, 
+ "3" : 3, 
+ "4" : 4}]
+}

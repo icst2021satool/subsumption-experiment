@@ -1,0 +1,10 @@
+{
+"Class" : "com.fasterxml.jackson.databind.ser.std.NumberSerializers$LongSerializer", 
+"Methods" : [{ "Name" : "acceptJsonFormatVisitor" ,
+"Nodes" : 4,
+"0" : [ 179,180 ]
+"1" : [ 183 ]
+"2" : [ 181 ]
+"3" : [  ]
+}]
+}

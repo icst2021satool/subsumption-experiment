@@ -1,0 +1,30 @@
+{
+"Class" : "com.fasterxml.jackson.databind.node.DecimalNode", 
+"Methods" : [{ "Name" : "canConvertToInt" ,
+"Nodes" : 6,
+"0" : [ 61 ]
+"1" : [ 61 ]
+"2" : [ 61 ]
+"3" : [ 61 ]
+"4" : [ 61 ]
+"5" : [  ]
+},{ "Name" : "canConvertToLong" ,
+"Nodes" : 6,
+"0" : [ 64 ]
+"1" : [ 64 ]
+"2" : [ 64 ]
+"3" : [ 64 ]
+"4" : [ 64 ]
+"5" : [  ]
+},{ "Name" : "equals" ,
+"Nodes" : 8,
+"0" : [ 107 ]
+"1" : [ 108 ]
+"2" : [ 109 ]
+"3" : [ 112 ]
+"4" : [ 110 ]
+"5" : [ 108 ]
+"6" : [ 107 ]
+"7" : [  ]
+}]
+}

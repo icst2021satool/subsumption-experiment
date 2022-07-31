@@ -1,0 +1,17 @@
+{
+"Class" : "com.fasterxml.jackson.databind.ser.impl.ObjectIdWriter", 
+"Methods" : [{ "Name" : "construct" ,
+"Nodes" : 5,
+"0" : [ 68 ]
+"1" : [ 68 ]
+"2" : [ 68,69 ]
+"3" : [ 68 ]
+"4" : [  ]
+},{ "Name" : "withAlwaysAsId" ,
+"Nodes" : 4,
+"0" : [ 80 ]
+"1" : [ 83 ]
+"2" : [ 81 ]
+"3" : [  ]
+}]
+}

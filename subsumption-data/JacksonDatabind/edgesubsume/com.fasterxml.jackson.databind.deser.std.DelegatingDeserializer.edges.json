@@ -1,0 +1,34 @@
+{
+"Class" : "com.fasterxml.jackson.databind.deser.std.DelegatingDeserializer", 
+"Methods" : [{ "Name" : "_figureType" ,
+"Edges" : 4,
+"0" : [ 1,3 ],
+"1" : [ 0,2 ],
+"2" : [ 0,1 ],
+"3" : [ 2,3 ]
+},{ "Name" : "resolve" ,
+"Edges" : 4,
+"0" : [ 0,2 ],
+"1" : [ 0,1 ],
+"2" : [ 1,3 ],
+"3" : [ 2,1 ]
+},{ "Name" : "createContextual" ,
+"Edges" : 4,
+"0" : [ 0,2 ],
+"1" : [ 0,1 ],
+"2" : [ 1,3 ],
+"3" : [ 2,1 ]
+},{ "Name" : "_createContextual" ,
+"Edges" : 4,
+"0" : [ 1,3 ],
+"1" : [ 2,3 ],
+"2" : [ 0,2 ],
+"3" : [ 0,1 ]
+},{ "Name" : "replaceDelegatee" ,
+"Edges" : 4,
+"0" : [ 0,2 ],
+"1" : [ 0,1 ],
+"2" : [ 2,3 ],
+"3" : [ 1,3 ]
+}]
+}

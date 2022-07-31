@@ -1,0 +1,19 @@
+{
+"Class" : "com.fasterxml.jackson.databind.deser.std.NumberDeserializers$CharacterDeserializer", 
+"Methods" : [{ "Name" : "deserialize" ,
+"Nodes" : 11,
+"0" : [ ],
+"1" : [ 6, 11],
+"3" : [ 2, 6, 7, 11, 12],
+"4" : [ 2, 21, 6, 7, 11, 12],
+"5" : [ 1, 2, 21, 6, 22, 7, 11, 12],
+"6" : [ 2, 20, 6, 7, 24, 11, 12],
+"7" : [ 3, 5, 10],
+"8" : [ 3, 5, 10, 15],
+"2" : [ 0, 4, 9, 14],
+"9" : [ 17, 3, 19, 5, 10, 15],
+"10" : [ ],
+"CoveredDUAsByNodes" : 20,
+"Duas" : 25
+}]
+}

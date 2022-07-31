@@ -1,0 +1,18 @@
+{
+"Class" : "com.fasterxml.jackson.databind.util.StdConverter", 
+"Methods" : [{ "Name" : "getInputType" ,
+"Nodes" : 5,
+"0" : [ 28,29 ]
+"1" : [ 30 ]
+"2" : [ 29 ]
+"3" : [ 32 ]
+"4" : [  ]
+},{ "Name" : "getOutputType" ,
+"Nodes" : 5,
+"0" : [ 38,39 ]
+"1" : [ 40 ]
+"2" : [ 39 ]
+"3" : [ 42 ]
+"4" : [  ]
+}]
+}

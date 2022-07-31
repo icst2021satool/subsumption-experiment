@@ -1,0 +1,21 @@
+{
+"Class" : "com.fasterxml.jackson.databind.deser.std.JsonNodeDeserializer$ObjectDeserializer", 
+"Methods" : [{ "Name" : "deserialize" ,
+"Duas" : 16,
+"0" :  "(88,93, this)",
+"1" :  "(88,90, this)",
+"2" :  "(88,(88,89), jp)",
+"3" :  "(88,(88,92), jp)",
+"4" :  "(88,(92,93), jp)",
+"5" :  "(88,(92,95), jp)",
+"6" :  "(88,93, jp)",
+"7" :  "(88,89, jp)",
+"8" :  "(88,90, jp)",
+"9" :  "(88,95, ctxt)",
+"10" :  "(88,93, ctxt)",
+"11" :  "(88,90, ctxt)",
+"12" :  "(88,(88,89), START_OBJECT)",
+"13" :  "(88,(88,92), START_OBJECT)",
+"14" :  "(88,(92,93), FIELD_NAME)",
+"15" :  "(88,(92,95), FIELD_NAME)"}]
+}

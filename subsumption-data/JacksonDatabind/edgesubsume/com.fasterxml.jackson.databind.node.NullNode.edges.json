@@ -1,0 +1,11 @@
+{
+"Class" : "com.fasterxml.jackson.databind.node.NullNode", 
+"Methods" : [{ "Name" : "equals" ,
+"Edges" : 5,
+"0" : [ 3,2 ],
+"1" : [ 1,2 ],
+"2" : [ 0,3 ],
+"3" : [ 0,1 ],
+"4" : [ 2,4 ]
+}]
+}

@@ -1,0 +1,12 @@
+{
+"Class" : "com.fasterxml.jackson.databind.ser.std.StdKeySerializer", 
+"Methods" : [{ "Name" : "serialize" ,
+"Duas" : 7,
+"0" :  "(31,(31,32), value)",
+"1" :  "(31,(31,34), value)",
+"2" :  "(31,34, value)",
+"3" :  "(31,32, value)",
+"4" :  "(31,34, jgen)",
+"5" :  "(31,32, jgen)",
+"6" :  "(31,32, provider)"}]
+}

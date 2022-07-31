@@ -1,0 +1,23 @@
+{
+"Class" : "com.fasterxml.jackson.databind.jsontype.impl.AsWrapperTypeDeserializer", 
+"Methods" : [{ "Name" : "forProperty" ,
+"Nodes" : 4,
+"0" : [ 42 ]
+"1" : [ 45 ]
+"2" : [ 43 ]
+"3" : [  ]
+},{ "Name" : "_deserialize" ,
+"Nodes" : 11,
+"0" : [ 99 ]
+"1" : [ 104 ]
+"2" : [ 113,108,109,110 ]
+"3" : [ 124,126 ]
+"4" : [ 130 ]
+"5" : [ 127 ]
+"6" : [ 113 ]
+"7" : [ 116,117,118,119,120,121 ]
+"8" : [ 105 ]
+"9" : [ 100 ]
+"10" : [  ]
+}]
+}

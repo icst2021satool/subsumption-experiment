@@ -1,0 +1,23 @@
+{
+"Class" : "com.fasterxml.jackson.databind.introspect.AnnotatedParameter", 
+"Methods" : [{ "Name" : "withAnnotations" ,
+"Nodes" : 4,
+"0" : [ 60 ]
+"1" : [ 63 ]
+"2" : [ 61 ]
+"3" : [  ]
+},{ "Name" : "getAnnotation" ,
+"Nodes" : 5,
+"0" : [ 100 ]
+"1" : [ 100 ]
+"2" : [ 100 ]
+"3" : [ 100 ]
+"4" : [  ]
+},{ "Name" : "getRawType" ,
+"Nodes" : 4,
+"0" : [ 111 ]
+"1" : [ 115,116 ]
+"2" : [ 112 ]
+"3" : [  ]
+}]
+}

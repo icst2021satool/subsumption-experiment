@@ -1,0 +1,12 @@
+{
+"Class" : "com.fasterxml.jackson.databind.introspect.POJOPropertyBuilder$5", 
+"Methods" : [{ "Name" : "withMember" ,
+"Edges" : 4,
+"1" : [ 0, 1, 2, 3, 4, 7],
+"2" : [ 5, 6],
+"0" : [ 0, 1, 2, 3, 4, 7],
+"3" : [ ],
+"CoveredDUAsByEdges" : 8,
+"Duas" : 9
+}]
+}

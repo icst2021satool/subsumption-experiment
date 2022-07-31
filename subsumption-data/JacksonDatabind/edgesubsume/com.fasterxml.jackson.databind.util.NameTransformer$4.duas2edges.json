@@ -1,0 +1,12 @@
+{
+"Class" : "com.fasterxml.jackson.databind.util.NameTransformer$4", 
+"Methods" : [{ "Name" : "reverse" ,
+"Edges" : 4,
+"Duas" : 9,
+"0" : 2, 
+ "1" : 3, 
+ "3" : 2, 
+ "4" : 3, 
+ "6" : 2, 
+ "7" : 3}]
+}

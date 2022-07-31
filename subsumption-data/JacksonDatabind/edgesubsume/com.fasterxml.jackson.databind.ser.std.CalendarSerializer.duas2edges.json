@@ -1,0 +1,22 @@
+{
+"Class" : "com.fasterxml.jackson.databind.ser.std.CalendarSerializer", 
+"Methods" : [{ "Name" : "withFormat" ,
+"Edges" : 4,
+"Duas" : 3,
+"0" : 1, 
+ "1" : 2},{ "Name" : "_timestamp" ,
+"Edges" : 5,
+"Duas" : 3,
+"0" : 0, 
+ "1" : 1},{ "Name" : "serialize" ,
+"Edges" : 8,
+"Duas" : 22,
+"0" : 0, 
+ "1" : 1, 
+ "2" : 3, 
+ "3" : 4, 
+ "15" : 0, 
+ "16" : 1, 
+ "17" : 3, 
+ "18" : 4}]
+}

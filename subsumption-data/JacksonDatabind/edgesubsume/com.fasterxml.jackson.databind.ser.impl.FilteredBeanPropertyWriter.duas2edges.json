@@ -1,0 +1,8 @@
+{
+"Class" : "com.fasterxml.jackson.databind.ser.impl.FilteredBeanPropertyWriter", 
+"Methods" : [{ "Name" : "constructViewBased" ,
+"Edges" : 4,
+"Duas" : 6,
+"2" : 0, 
+ "3" : 1}]
+}

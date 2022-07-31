@@ -1,0 +1,13 @@
+{
+"Class" : "com.fasterxml.jackson.databind.ser.std.ArraySerializerBase", 
+"Methods" : [{ "Name" : "serialize" ,
+"Nodes" : 5,
+"0" : [ ],
+"2" : [ 16, 12],
+"1" : [ 0, 4, 8, 9, 10, 14],
+"3" : [ 16, 1, 3, 5, 7, 11, 12, 15],
+"4" : [ ],
+"CoveredDUAsByNodes" : 14,
+"Duas" : 18
+}]
+}

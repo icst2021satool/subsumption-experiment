@@ -1,0 +1,24 @@
+{
+"Class" : "com.fasterxml.jackson.databind.ser.std.SerializableSerializer", 
+"Methods" : [{ "Name" : "getSchema" ,
+"Nodes" : 12,
+"0" : [ 64,60,61,62,63 ]
+"1" : [ 80,81 ]
+"2" : [ 88 ]
+"3" : [ 97 ]
+"4" : [ 90,93 ]
+"5" : [ 83,86 ]
+"6" : [ 65,66 ]
+"7" : [ 67,68,69 ]
+"8" : [ 72 ]
+"9" : [ 73 ]
+"10" : [ 70 ]
+"11" : [  ]
+},{ "Name" : "_getObjectMapper" ,
+"Nodes" : 4,
+"0" : [ 102,103 ]
+"1" : [ 107 ]
+"2" : [ 104,105 ]
+"3" : [  ]
+}]
+}

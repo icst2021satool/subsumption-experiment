@@ -1,0 +1,14 @@
+{
+"Class" : "com.fasterxml.jackson.databind.util.ViewMatcher", 
+"Methods" : [{ "Name" : "construct" ,
+"Duas" : 9,
+"0" :  "(13,(13,14), views)",
+"1" :  "(13,(13,16), views)",
+"2" :  "(13,(16,22), views)",
+"3" :  "(13,(16,18), views)",
+"4" :  "(13,(16,20), views)",
+"5" :  "(13,20, views)",
+"6" :  "(13,22, views)",
+"7" :  "(13,18, instance)",
+"8" :  "(13,14, instance)"}]
+}

@@ -1,0 +1,22 @@
+{
+"Class" : "com.fasterxml.jackson.databind.deser.std.DateDeserializers$CalendarDeserializer", 
+"Methods" : [{ "Name" : "deserialize" ,
+"Duas" : 17,
+"0" :  "(232,(236,237), this)",
+"1" :  "(232,(236,240), this)",
+"2" :  "(232,240, this)",
+"3" :  "(232,242, ctxt)",
+"4" :  "(232,237, ctxt)",
+"5" :  "(232,(236,237), this._calendarClass)",
+"6" :  "(232,(236,240), this._calendarClass)",
+"7" :  "(232,240, this._calendarClass)",
+"8" :  "(232,(233,234), d)",
+"9" :  "(232,(233,236), d)",
+"10" :  "(232,241, d)",
+"11" :  "(232,237, d)",
+"12" :  "(240,246, c)",
+"13" :  "(240,244, c)",
+"14" :  "(242,(243,244), tz)",
+"15" :  "(242,(243,246), tz)",
+"16" :  "(242,244, tz)"}]
+}

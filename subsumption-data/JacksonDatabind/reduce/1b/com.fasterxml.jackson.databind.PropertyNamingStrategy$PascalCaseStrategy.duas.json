@@ -1,0 +1,16 @@
+{
+"Class" : "com.fasterxml.jackson.databind.PropertyNamingStrategy$PascalCaseStrategy", 
+"Methods" : [{ "Name" : "translate" ,
+"Duas" : 11,
+"0" :  "(288,(288,288), input)",
+"1" :  "(288,(288,289), input)",
+"2" :  "(288,289, input)",
+"3" :  "(288,(288,289), input)",
+"4" :  "(288,(288,292), input)",
+"5" :  "(288,292, input)",
+"6" :  "(288,296, input)",
+"7" :  "(288,294, input)",
+"8" :  "(292,(293,294), c)",
+"9" :  "(292,(293,296), c)",
+"10" :  "(292,297, c)"}]
+}

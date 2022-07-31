@@ -1,0 +1,14 @@
+{
+"Class" : "com.fasterxml.jackson.databind.deser.std.JsonNodeDeserializer$ObjectDeserializer", 
+"Methods" : [{ "Name" : "deserialize" ,
+"Edges" : 7,
+"Duas" : 16,
+"2" : 5, 
+ "3" : 6, 
+ "4" : 0, 
+ "5" : 1, 
+ "12" : 5, 
+ "13" : 6, 
+ "14" : 0, 
+ "15" : 1}]
+}

@@ -1,0 +1,23 @@
+{
+"Class" : "com.fasterxml.jackson.databind.ser.std.StdArraySerializers$ByteArraySerializer", 
+"Methods" : [{ "Name" : "isEmpty" ,
+"Nodes" : 6,
+"0" : [ ],
+"3" : [ 0],
+"4" : [ 0, 3],
+"1" : [ ],
+"2" : [ ],
+"5" : [ ],
+"CoveredDUAsByNodes" : 2,
+"Duas" : 4
+},{ "Name" : "acceptJsonFormatVisitor" ,
+"Nodes" : 5,
+"0" : [ ],
+"2" : [ 0, 2, 3],
+"3" : [ 0, 2, 3, 4, 5, 7],
+"1" : [ ],
+"4" : [ ],
+"CoveredDUAsByNodes" : 6,
+"Duas" : 8
+}]
+}

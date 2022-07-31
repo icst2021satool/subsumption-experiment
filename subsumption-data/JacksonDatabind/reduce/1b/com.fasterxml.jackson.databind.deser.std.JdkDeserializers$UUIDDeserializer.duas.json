@@ -1,0 +1,16 @@
+{
+"Class" : "com.fasterxml.jackson.databind.deser.std.JdkDeserializers$UUIDDeserializer", 
+"Methods" : [{ "Name" : "_deserializeEmbedded" ,
+"Duas" : 11,
+"0" :  "(151,162, this)",
+"1" :  "(151,(151,152), ob)",
+"2" :  "(151,(151,162), ob)",
+"3" :  "(151,162, ob)",
+"4" :  "(151,152, ob)",
+"5" :  "(151,162, ctxt)",
+"6" :  "(151,154, ctxt)",
+"7" :  "(152,(153,154), bytes)",
+"8" :  "(152,(153,157), bytes)",
+"9" :  "(152,157, bytes)",
+"10" :  "(152,154, bytes)"}]
+}

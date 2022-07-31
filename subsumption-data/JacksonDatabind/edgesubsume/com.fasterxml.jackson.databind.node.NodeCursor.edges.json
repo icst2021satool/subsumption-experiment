@@ -1,0 +1,16 @@
+{
+"Class" : "com.fasterxml.jackson.databind.node.NodeCursor", 
+"Methods" : [{ "Name" : "iterateChildren" ,
+"Edges" : 10,
+"0" : [ 4,7 ],
+"1" : [ 2,4 ],
+"2" : [ 2,3 ],
+"3" : [ 1,5 ],
+"4" : [ 1,2 ],
+"5" : [ 5,7 ],
+"6" : [ 0,6 ],
+"7" : [ 0,1 ],
+"8" : [ 6,7 ],
+"9" : [ 3,7 ]
+}]
+}

@@ -1,0 +1,29 @@
+{
+"Class" : "com.fasterxml.jackson.databind.deser.ValueInstantiator", 
+"Methods" : [{ "Name" : "canInstantiate" ,
+"Nodes" : 12,
+"0" : [ ],
+"3" : [ 0],
+"4" : [ 0, 2],
+"5" : [ 0, 2, 4],
+"6" : [ 0, 2, 4, 6],
+"7" : [ 0, 2, 4, 6, 8],
+"8" : [ 0, 2, 4, 6, 8, 10],
+"9" : [ 0, 2, 4, 6, 8, 10, 12],
+"10" : [ 0, 2, 4, 6, 8, 10, 12, 15],
+"1" : [ ],
+"2" : [ ],
+"11" : [ ],
+"CoveredDUAsByNodes" : 8,
+"Duas" : 16
+},{ "Name" : "canCreateUsingDefault" ,
+"Nodes" : 5,
+"0" : [ ],
+"1" : [ 1],
+"3" : [ 0],
+"2" : [ ],
+"4" : [ ],
+"CoveredDUAsByNodes" : 2,
+"Duas" : 2
+}]
+}

@@ -1,0 +1,17 @@
+{
+"Class" : "com.fasterxml.jackson.databind.util.JSONWrappedObject", 
+"Methods" : [{ "Name" : "serialize" ,
+"Nodes" : 11,
+"0" : [ 84 ]
+"1" : [ 85 ]
+"2" : [ 87 ]
+"3" : [ 90,91 ]
+"4" : [ 93 ]
+"5" : [ 94 ]
+"6" : [ 93 ]
+"7" : [ 88 ]
+"8" : [ 86 ]
+"9" : [ 84 ]
+"10" : [  ]
+}]
+}

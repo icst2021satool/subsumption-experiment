@@ -1,0 +1,16 @@
+{
+"Class" : "com.fasterxml.jackson.databind.ser.impl.SimpleFilterProvider", 
+"Methods" : [{ "Name" : "findFilter" ,
+"Edges" : 8,
+"6" : [ 0, 4, 7],
+"7" : [ 8, 9],
+"0" : [ 0, 4, 7, 10],
+"1" : [ 11, 12],
+"2" : [ 0, 1, 3, 4, 5, 7, 10],
+"3" : [ 2, 6, 12],
+"5" : [ ],
+"4" : [ 0, 1, 3, 4, 5, 7, 10],
+"CoveredDUAsByEdges" : 13,
+"Duas" : 13
+}]
+}

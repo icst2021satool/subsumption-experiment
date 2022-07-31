@@ -1,0 +1,15 @@
+{
+"Class" : "com.fasterxml.jackson.databind.deser.impl.ExternalTypeHandler$ExtTypedProperty", 
+"Methods" : [{ "Name" : "hasDefaultType" ,
+"Duas" : 4,
+"0" :  "(300,(300,300), this)",
+"1" :  "(300,(300,300), this)",
+"2" :  "(300,(300,300), this._typeDeserializer)",
+"3" :  "(300,(300,300), this._typeDeserializer)"},{ "Name" : "getDefaultTypeId" ,
+"Duas" : 5,
+"0" :  "(304,308, this)",
+"1" :  "(304,308, this._typeDeserializer)",
+"2" :  "(304,(305,306), defaultType)",
+"3" :  "(304,(305,308), defaultType)",
+"4" :  "(304,308, defaultType)"}]
+}

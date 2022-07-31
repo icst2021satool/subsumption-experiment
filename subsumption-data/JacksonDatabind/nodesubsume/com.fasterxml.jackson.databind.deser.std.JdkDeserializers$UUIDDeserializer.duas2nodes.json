@@ -1,0 +1,17 @@
+{
+"Class" : "com.fasterxml.jackson.databind.deser.std.JdkDeserializers$UUIDDeserializer", 
+"Methods" : [{ "Name" : "_deserializeEmbedded" ,
+"Nodes" : 6,
+"Duas" : 11,
+"0" :  [ 0,1 ],
+"1" :  [ 0,2 ],
+"2" :  [ 0,1 ],
+"3" :  [ 0,1 ],
+"4" :  [ 0,2 ],
+"5" :  [ 0,1 ],
+"6" :  [ 0,4 ],
+"7" :  [ 2,4 ],
+"8" :  [ 2,3 ],
+"9" :  [ 2,3 ],
+"10" :  [ 2,4 ]}]
+}

@@ -1,0 +1,23 @@
+{
+"Class" : "com.fasterxml.jackson.databind.deser.std.JacksonDeserializers$JavaTypeDeserializer", 
+"Methods" : [{ "Name" : "deserialize" ,
+"Duas" : 18,
+"0" :  "(78,91, this)",
+"1" :  "(78,83, this)",
+"2" :  "(78,89, jp)",
+"3" :  "(78,81, jp)",
+"4" :  "(78,91, ctxt)",
+"5" :  "(78,85, ctxt)",
+"6" :  "(78,(80,81), VALUE_STRING)",
+"7" :  "(78,(80,88), VALUE_STRING)",
+"8" :  "(78,(88,89), VALUE_EMBEDDED_OBJECT)",
+"9" :  "(78,(88,91), VALUE_EMBEDDED_OBJECT)",
+"10" :  "(78,91, this._valueClass)",
+"11" :  "(78,(80,81), curr)",
+"12" :  "(78,(80,88), curr)",
+"13" :  "(78,(88,89), curr)",
+"14" :  "(78,(88,91), curr)",
+"15" :  "(81,(82,83), str)",
+"16" :  "(81,(82,85), str)",
+"17" :  "(81,85, str)"}]
+}

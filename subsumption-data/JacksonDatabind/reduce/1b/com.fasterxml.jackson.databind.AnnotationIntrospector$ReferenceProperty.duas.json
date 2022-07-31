@@ -1,0 +1,18 @@
+{
+"Class" : "com.fasterxml.jackson.databind.AnnotationIntrospector$ReferenceProperty", 
+"Methods" : [{ "Name" : "isManagedReference" ,
+"Duas" : 6,
+"0" :  "(86,(86,86), this)",
+"1" :  "(86,(86,86), this)",
+"2" :  "(86,(86,86), MANAGED_REFERENCE)",
+"3" :  "(86,(86,86), MANAGED_REFERENCE)",
+"4" :  "(86,(86,86), this._type)",
+"5" :  "(86,(86,86), this._type)"},{ "Name" : "isBackReference" ,
+"Duas" : 6,
+"0" :  "(87,(87,87), this)",
+"1" :  "(87,(87,87), this)",
+"2" :  "(87,(87,87), BACK_REFERENCE)",
+"3" :  "(87,(87,87), BACK_REFERENCE)",
+"4" :  "(87,(87,87), this._type)",
+"5" :  "(87,(87,87), this._type)"}]
+}

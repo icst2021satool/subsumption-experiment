@@ -1,0 +1,25 @@
+{
+"Class" : "com.fasterxml.jackson.databind.deser.std.PrimitiveArrayDeserializers$BooleanDeser", 
+"Methods" : [{ "Name" : "deserialize" ,
+"Nodes" : 9,
+"0" : [ 150 ]
+"1" : [ 153,154,155 ]
+"2" : [ 157 ]
+"3" : [ 166 ]
+"4" : [ 160,159 ]
+"5" : [ 164,165 ]
+"6" : [ 161,162 ]
+"7" : [ 151 ]
+"8" : [  ]
+},{ "Name" : "handleNonArray" ,
+"Nodes" : 8,
+"0" : [ 173 ]
+"1" : [ 179 ]
+"2" : [ 182 ]
+"3" : [ 180 ]
+"4" : [ 173 ]
+"5" : [ 175 ]
+"6" : [ 176 ]
+"7" : [  ]
+}]
+}

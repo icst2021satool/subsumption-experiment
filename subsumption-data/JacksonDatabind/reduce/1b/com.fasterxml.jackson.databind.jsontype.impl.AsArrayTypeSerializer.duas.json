@@ -1,0 +1,15 @@
+{
+"Class" : "com.fasterxml.jackson.databind.jsontype.impl.AsArrayTypeSerializer", 
+"Methods" : [{ "Name" : "forProperty" ,
+"Duas" : 10,
+"0" :  "(27,(27,27), this)",
+"1" :  "(27,(27,28), this)",
+"2" :  "(27,28, this)",
+"3" :  "(27,27, this)",
+"4" :  "(27,(27,27), prop)",
+"5" :  "(27,(27,28), prop)",
+"6" :  "(27,28, prop)",
+"7" :  "(27,(27,27), this._property)",
+"8" :  "(27,(27,28), this._property)",
+"9" :  "(27,28, this._idResolver)"}]
+}

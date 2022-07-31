@@ -1,0 +1,10 @@
+{
+"Class" : "com.fasterxml.jackson.databind.ser.std.NumberSerializers$IntLikeSerializer", 
+"Methods" : [{ "Name" : "acceptJsonFormatVisitor" ,
+"Nodes" : 4,
+"0" : [ 147,148 ]
+"1" : [ 151 ]
+"2" : [ 149 ]
+"3" : [  ]
+}]
+}

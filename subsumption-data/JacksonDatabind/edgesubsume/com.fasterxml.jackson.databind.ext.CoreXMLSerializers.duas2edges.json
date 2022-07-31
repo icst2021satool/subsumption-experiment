@@ -1,0 +1,12 @@
+{
+"Class" : "com.fasterxml.jackson.databind.ext.CoreXMLSerializers", 
+"Methods" : [{ "Name" : "findSerializer" ,
+"Edges" : 9,
+"Duas" : 8,
+"2" : 6, 
+ "3" : 7, 
+ "4" : 3, 
+ "5" : 4, 
+ "6" : 0, 
+ "7" : 1}]
+}

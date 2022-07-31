@@ -1,0 +1,14 @@
+{
+"Class" : "com.fasterxml.jackson.databind.ser.std.StringSerializer", 
+"Methods" : [{ "Name" : "isEmpty" ,
+"Edges" : 7,
+"Duas" : 4,
+"0" : 0, 
+ "1" : 1, 
+ "2" : 5, 
+ "3" : 6},{ "Name" : "acceptJsonFormatVisitor" ,
+"Edges" : 4,
+"Duas" : 4,
+"0" : 1, 
+ "1" : 2}]
+}

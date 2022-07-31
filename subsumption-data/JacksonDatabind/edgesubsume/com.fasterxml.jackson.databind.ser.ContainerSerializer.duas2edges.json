@@ -1,0 +1,18 @@
+{
+"Class" : "com.fasterxml.jackson.databind.ser.ContainerSerializer", 
+"Methods" : [{ "Name" : "withValueTypeSerializer" ,
+"Edges" : 4,
+"Duas" : 5,
+"2" : 2, 
+ "3" : 3},{ "Name" : "hasContentTypeAnnotation" ,
+"Edges" : 8,
+"Duas" : 9,
+"1" : 2, 
+ "2" : 3, 
+ "3" : 6, 
+ "4" : 7, 
+ "5" : 0, 
+ "6" : 1, 
+ "7" : 6, 
+ "8" : 7}]
+}

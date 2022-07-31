@@ -1,0 +1,30 @@
+{
+"Class" : "com.fasterxml.jackson.databind.introspect.AnnotatedWithParams", 
+"Methods" : [{ "Name" : "addOrOverrideParam" ,
+"Nodes" : 4,
+"0" : [ 48,47 ]
+"1" : [ 52,53 ]
+"2" : [ 49,50 ]
+"3" : [  ]
+},{ "Name" : "getType" ,
+"Nodes" : 10,
+"0" : [ 74 ]
+"1" : [ 87 ]
+"2" : [ 74 ]
+"3" : [ 75,76 ]
+"4" : [ 76 ]
+"5" : [ 81,82,76,77,79 ]
+"6" : [ 82 ]
+"7" : [ 82,84,76 ]
+"8" : [ 82 ]
+"9" : [  ]
+},{ "Name" : "getParameterAnnotations" ,
+"Nodes" : 6,
+"0" : [ 110 ]
+"1" : [ 115 ]
+"2" : [ 111 ]
+"3" : [ 111 ]
+"4" : [ 112 ]
+"5" : [  ]
+}]
+}

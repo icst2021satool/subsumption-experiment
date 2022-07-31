@@ -1,0 +1,18 @@
+{
+"Class" : "com.fasterxml.jackson.databind.deser.std.NumberDeserializers$BigIntegerDeserializer", 
+"Methods" : [{ "Name" : "deserialize" ,
+"Nodes" : 12,
+"0" : [ 529,532 ]
+"1" : [ 538 ]
+"2" : [ 543 ]
+"3" : [ 547,548 ]
+"4" : [ 552 ]
+"5" : [ 549 ]
+"6" : [ 545 ]
+"7" : [ 542 ]
+"8" : [ 533 ]
+"9" : [ 536 ]
+"10" : [ 536 ]
+"11" : [  ]
+}]
+}

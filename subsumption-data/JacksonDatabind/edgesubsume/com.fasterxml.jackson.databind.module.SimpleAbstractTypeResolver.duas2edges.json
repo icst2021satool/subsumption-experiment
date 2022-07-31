@@ -1,0 +1,20 @@
+{
+"Class" : "com.fasterxml.jackson.databind.module.SimpleAbstractTypeResolver", 
+"Methods" : [{ "Name" : "addMapping" ,
+"Edges" : 10,
+"Duas" : 18,
+"2" : 7, 
+ "3" : 8, 
+ "4" : 0, 
+ "5" : 1, 
+ "6" : 3, 
+ "7" : 4, 
+ "11" : 7, 
+ "12" : 8, 
+ "13" : 0, 
+ "14" : 1},{ "Name" : "findTypeMapping" ,
+"Edges" : 4,
+"Duas" : 4,
+"1" : 1, 
+ "2" : 2}]
+}

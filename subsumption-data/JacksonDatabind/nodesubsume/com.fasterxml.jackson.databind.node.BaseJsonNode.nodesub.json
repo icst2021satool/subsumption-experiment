@@ -1,0 +1,12 @@
+{
+"Class" : "com.fasterxml.jackson.databind.node.BaseJsonNode", 
+"Methods" : [{ "Name" : "findPath" ,
+"Nodes" : 4,
+"0" : [ ],
+"1" : [ 1, 2],
+"2" : [ 0],
+"3" : [ ],
+"CoveredDUAsByNodes" : 3,
+"Duas" : 3
+}]
+}

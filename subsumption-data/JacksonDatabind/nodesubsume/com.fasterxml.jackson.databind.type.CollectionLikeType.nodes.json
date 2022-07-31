@@ -1,0 +1,55 @@
+{
+"Class" : "com.fasterxml.jackson.databind.type.CollectionLikeType", 
+"Methods" : [{ "Name" : "narrowContentsBy" ,
+"Nodes" : 4,
+"0" : [ 46 ]
+"1" : [ 49 ]
+"2" : [ 47 ]
+"3" : [  ]
+},{ "Name" : "widenContentsBy" ,
+"Nodes" : 4,
+"0" : [ 57 ]
+"1" : [ 60 ]
+"2" : [ 58 ]
+"3" : [  ]
+},{ "Name" : "withStaticTyping" ,
+"Nodes" : 4,
+"0" : [ 96 ]
+"1" : [ 99 ]
+"2" : [ 97 ]
+"3" : [  ]
+},{ "Name" : "containedType" ,
+"Nodes" : 5,
+"0" : [ 123 ]
+"1" : [ 123 ]
+"2" : [ 123 ]
+"3" : [ 123 ]
+"4" : [  ]
+},{ "Name" : "containedTypeName" ,
+"Nodes" : 4,
+"0" : [ 132 ]
+"1" : [ 133 ]
+"2" : [ 132 ]
+"3" : [  ]
+},{ "Name" : "buildCanonicalName" ,
+"Nodes" : 4,
+"0" : [ 152,153,154 ]
+"1" : [ 159 ]
+"2" : [ 155,156,157 ]
+"3" : [  ]
+},{ "Name" : "equals" ,
+"Nodes" : 12,
+"0" : [ 187 ]
+"1" : [ 188 ]
+"2" : [ 189 ]
+"3" : [ 192,191 ]
+"4" : [ 192 ]
+"5" : [ 192 ]
+"6" : [ 192 ]
+"7" : [ 192 ]
+"8" : [ 189 ]
+"9" : [ 188 ]
+"10" : [ 187 ]
+"11" : [  ]
+}]
+}

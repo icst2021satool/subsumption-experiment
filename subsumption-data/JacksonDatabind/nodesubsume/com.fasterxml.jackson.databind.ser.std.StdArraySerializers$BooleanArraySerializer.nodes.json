@@ -1,0 +1,33 @@
+{
+"Class" : "com.fasterxml.jackson.databind.ser.std.StdArraySerializers$BooleanArraySerializer", 
+"Methods" : [{ "Name" : "isEmpty" ,
+"Nodes" : 6,
+"0" : [ 117 ]
+"1" : [ 117 ]
+"2" : [ 117 ]
+"3" : [ 117 ]
+"4" : [ 117 ]
+"5" : [  ]
+},{ "Name" : "hasSingleElement" ,
+"Nodes" : 5,
+"0" : [ 122 ]
+"1" : [ 122 ]
+"2" : [ 122 ]
+"3" : [ 122 ]
+"4" : [  ]
+},{ "Name" : "serializeContents" ,
+"Nodes" : 5,
+"0" : [ 129 ]
+"1" : [ 129 ]
+"2" : [ 132 ]
+"3" : [ 129,130 ]
+"4" : [  ]
+},{ "Name" : "acceptJsonFormatVisitor" ,
+"Nodes" : 5,
+"0" : [ 146 ]
+"1" : [ 152 ]
+"2" : [ 147,148 ]
+"3" : [ 149 ]
+"4" : [  ]
+}]
+}

@@ -1,0 +1,16 @@
+{
+"Class" : "com.fasterxml.jackson.databind.deser.std.JacksonDeserializers$JavaTypeDeserializer", 
+"Methods" : [{ "Name" : "deserialize" ,
+"Edges" : 10,
+"Duas" : 18,
+"6" : 5, 
+ "7" : 6, 
+ "8" : 7, 
+ "9" : 8, 
+ "11" : 5, 
+ "12" : 6, 
+ "13" : 7, 
+ "14" : 8, 
+ "15" : 2, 
+ "16" : 3}]
+}

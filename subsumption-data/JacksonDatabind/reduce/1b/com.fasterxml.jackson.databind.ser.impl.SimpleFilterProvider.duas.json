@@ -1,0 +1,18 @@
+{
+"Class" : "com.fasterxml.jackson.databind.ser.impl.SimpleFilterProvider", 
+"Methods" : [{ "Name" : "findFilter" ,
+"Duas" : 13,
+"0" :  "(98,100, this)",
+"1" :  "(98,(101,102), this)",
+"2" :  "(98,(101,106), this)",
+"3" :  "(98,102, filterId)",
+"4" :  "(98,100, this._defaultFilter)",
+"5" :  "(98,(101,102), this._cfgFailOnUnknownId)",
+"6" :  "(98,(101,106), this._cfgFailOnUnknownId)",
+"7" :  "(98,(99,100), f)",
+"8" :  "(98,(99,106), f)",
+"9" :  "(98,106, f)",
+"10" :  "(100,(101,101), f)",
+"11" :  "(100,(101,106), f)",
+"12" :  "(100,106, f)"}]
+}

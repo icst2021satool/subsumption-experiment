@@ -1,0 +1,53 @@
+{
+"Class" : "com.fasterxml.jackson.databind.module.SimpleDeserializers", 
+"Methods" : [{ "Name" : "addDeserializer" ,
+"Duas" : "10" ,
+"Subsumers" : 2,
+"0" : [ 9, 5, 3, 0], "S0" : [0, 2, 3, 4, 5, 8, 9 ],
+"1" : [ 7, 6, 1], "S1" : [1, 2, 4, 6, 7, 8 ]
+},{ "Name" : "addDeserializers" ,
+"Duas" : "4" ,
+"Subsumers" : 1,
+"0" : [ 3, 1, 0], "S0" : [0, 1, 2, 3 ]
+},{ "Name" : "findArrayDeserializer" ,
+"Duas" : "7" ,
+"Subsumers" : 2,
+"0" : [ 4, 0], "S0" : [0, 2, 4, 6 ],
+"1" : [ 5, 3, 1], "S1" : [1, 2, 3, 5, 6 ]
+},{ "Name" : "findBeanDeserializer" ,
+"Duas" : "7" ,
+"Subsumers" : 2,
+"0" : [ 4, 0], "S0" : [0, 2, 4, 6 ],
+"1" : [ 5, 3, 1], "S1" : [1, 2, 3, 5, 6 ]
+},{ "Name" : "findCollectionDeserializer" ,
+"Duas" : "7" ,
+"Subsumers" : 2,
+"0" : [ 4, 0], "S0" : [0, 2, 4, 6 ],
+"1" : [ 5, 3, 1], "S1" : [1, 2, 3, 5, 6 ]
+},{ "Name" : "findCollectionLikeDeserializer" ,
+"Duas" : "7" ,
+"Subsumers" : 2,
+"0" : [ 4, 0], "S0" : [0, 2, 4, 6 ],
+"1" : [ 5, 3, 1], "S1" : [1, 2, 3, 5, 6 ]
+},{ "Name" : "findEnumDeserializer" ,
+"Duas" : "7" ,
+"Subsumers" : 2,
+"0" : [ 4, 0], "S0" : [0, 2, 4, 6 ],
+"1" : [ 5, 3, 1], "S1" : [1, 2, 3, 5, 6 ]
+},{ "Name" : "findMapDeserializer" ,
+"Duas" : "7" ,
+"Subsumers" : 2,
+"0" : [ 4, 0], "S0" : [0, 2, 4, 6 ],
+"1" : [ 5, 3, 1], "S1" : [1, 2, 3, 5, 6 ]
+},{ "Name" : "findMapLikeDeserializer" ,
+"Duas" : "7" ,
+"Subsumers" : 2,
+"0" : [ 4, 0], "S0" : [0, 2, 4, 6 ],
+"1" : [ 5, 3, 1], "S1" : [1, 2, 3, 5, 6 ]
+},{ "Name" : "findTreeNodeDeserializer" ,
+"Duas" : "7" ,
+"Subsumers" : 2,
+"0" : [ 4, 0], "S0" : [0, 2, 4, 6 ],
+"1" : [ 5, 3, 1], "S1" : [1, 2, 3, 5, 6 ]
+}]
+}

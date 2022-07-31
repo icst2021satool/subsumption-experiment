@@ -1,0 +1,19 @@
+{
+"Class" : "com.fasterxml.jackson.databind.type.TypeParser$MyTokenizer", 
+"Methods" : [{ "Name" : "hasMoreTokens" ,
+"Nodes" : 6,
+"0" : [ 107 ]
+"1" : [ 107 ]
+"2" : [ 107 ]
+"3" : [ 107 ]
+"4" : [ 107 ]
+"5" : [  ]
+},{ "Name" : "nextToken" ,
+"Nodes" : 5,
+"0" : [ 113 ]
+"1" : [ 117 ]
+"2" : [ 119,120 ]
+"3" : [ 114,115 ]
+"4" : [  ]
+}]
+}

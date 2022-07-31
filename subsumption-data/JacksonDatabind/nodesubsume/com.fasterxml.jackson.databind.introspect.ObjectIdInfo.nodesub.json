@@ -1,0 +1,24 @@
+{
+"Class" : "com.fasterxml.jackson.databind.introspect.ObjectIdInfo", 
+"Methods" : [{ "Name" : "withAlwaysAsId" ,
+"Nodes" : 4,
+"0" : [ ],
+"1" : [ 1, 2, 5, 6, 8, 9, 10, 11],
+"2" : [ 0, 3, 4, 7],
+"3" : [ ],
+"CoveredDUAsByNodes" : 12,
+"Duas" : 12
+},{ "Name" : "toString" ,
+"Nodes" : 8,
+"0" : [ ],
+"1" : [ 1, 6],
+"6" : [ 0, 5],
+"2" : [ ],
+"3" : [ 3, 9],
+"5" : [ 2, 8],
+"4" : [ 4, 7, 10, 11, 12],
+"7" : [ 4, 7, 10, 11, 12],
+"CoveredDUAsByNodes" : 13,
+"Duas" : 13
+}]
+}

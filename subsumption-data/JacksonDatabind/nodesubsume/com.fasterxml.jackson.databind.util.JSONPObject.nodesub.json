@@ -1,0 +1,15 @@
+{
+"Class" : "com.fasterxml.jackson.databind.util.JSONPObject", 
+"Methods" : [{ "Name" : "serialize" ,
+"Nodes" : 7,
+"0" : [ ],
+"1" : [ 1, 15],
+"2" : [ 16, 1, 17, 3, 4, 20, 5, 7, 11, 15],
+"4" : [ 1, 2, 18, 19, 21, 6, 9, 12, 15],
+"5" : [ 0, 10, 13, 14],
+"3" : [ 8],
+"6" : [ 8],
+"CoveredDUAsByNodes" : 22,
+"Duas" : 22
+}]
+}

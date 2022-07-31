@@ -1,0 +1,12 @@
+{
+"Class" : "com.fasterxml.jackson.databind.deser.impl.SetterlessProperty", 
+"Methods" : [{ "Name" : "deserializeAndSet" ,
+"Edges" : 7,
+"Duas" : 15,
+"6" : 0, 
+ "7" : 1, 
+ "10" : 0, 
+ "11" : 1, 
+ "12" : 3, 
+ "13" : 4}]
+}

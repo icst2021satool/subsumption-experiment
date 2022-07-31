@@ -1,0 +1,12 @@
+{
+"Class" : "com.fasterxml.jackson.databind.introspect.BeanPropertyDefinition", 
+"Methods" : [{ "Name" : "couldDeserialize" ,
+"Edges" : 5,
+"Duas" : 2,
+"0" : 3, 
+ "1" : 4},{ "Name" : "couldSerialize" ,
+"Edges" : 5,
+"Duas" : 2,
+"0" : 1, 
+ "1" : 2}]
+}

@@ -1,0 +1,28 @@
+{
+"Class" : "com.fasterxml.jackson.databind.ser.impl.FilteredBeanPropertyWriter$MultiView", 
+"Methods" : [{ "Name" : "serializeAsField" ,
+"Nodes" : 10,
+"0" : [ 113,114 ]
+"1" : [ 124,125 ]
+"2" : [ 115 ]
+"3" : [ 116 ]
+"4" : [ 120 ]
+"5" : [ 121 ]
+"6" : [ 117 ]
+"7" : [ 116 ]
+"8" : [ 117 ]
+"9" : [  ]
+},{ "Name" : "serializeAsColumn" ,
+"Nodes" : 10,
+"0" : [ 131,132 ]
+"1" : [ 144,143 ]
+"2" : [ 133 ]
+"3" : [ 134 ]
+"4" : [ 138 ]
+"5" : [ 139,140 ]
+"6" : [ 135 ]
+"7" : [ 134 ]
+"8" : [ 135 ]
+"9" : [  ]
+}]
+}

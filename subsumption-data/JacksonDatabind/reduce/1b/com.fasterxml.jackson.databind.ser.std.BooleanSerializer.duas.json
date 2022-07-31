@@ -1,0 +1,15 @@
+{
+"Class" : "com.fasterxml.jackson.databind.ser.std.BooleanSerializer", 
+"Methods" : [{ "Name" : "getSchema" ,
+"Duas" : 5,
+"0" :  "(48,(48,48), this)",
+"1" :  "(48,(48,48), this)",
+"2" :  "(48,48, this)",
+"3" :  "(48,(48,48), this._forPrimitive)",
+"4" :  "(48,(48,48), this._forPrimitive)"},{ "Name" : "acceptJsonFormatVisitor" ,
+"Duas" : 4,
+"0" :  "(55,(55,56), visitor)",
+"1" :  "(55,(55,58), visitor)",
+"2" :  "(55,56, visitor)",
+"3" :  "(55,56, typeHint)"}]
+}

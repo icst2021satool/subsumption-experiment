@@ -1,0 +1,16 @@
+{
+"Class" : "com.fasterxml.jackson.databind.ser.impl.UnknownSerializer", 
+"Methods" : [{ "Name" : "serialize" ,
+"Edges" : 4,
+"Duas" : 8,
+"4" : 2, 
+ "5" : 3, 
+ "6" : 2, 
+ "7" : 3},{ "Name" : "serializeWithType" ,
+"Edges" : 4,
+"Duas" : 12,
+"6" : 0, 
+ "7" : 1, 
+ "10" : 0, 
+ "11" : 1}]
+}

@@ -1,0 +1,10 @@
+{
+"Class" : "com.fasterxml.jackson.databind.util.PrimitiveArrayBuilder$Node", 
+"Methods" : [{ "Name" : "linkNext" ,
+"Edges" : 4,
+"Duas" : 6,
+"0" : 0, 
+ "1" : 1, 
+ "4" : 0, 
+ "5" : 1}]
+}

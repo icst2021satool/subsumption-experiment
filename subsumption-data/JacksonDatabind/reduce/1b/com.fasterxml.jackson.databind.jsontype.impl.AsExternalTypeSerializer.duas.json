@@ -1,0 +1,16 @@
+{
+"Class" : "com.fasterxml.jackson.databind.jsontype.impl.AsExternalTypeSerializer", 
+"Methods" : [{ "Name" : "forProperty" ,
+"Duas" : 11,
+"0" :  "(36,(36,36), this)",
+"1" :  "(36,(36,37), this)",
+"2" :  "(36,37, this)",
+"3" :  "(36,36, this)",
+"4" :  "(36,(36,36), prop)",
+"5" :  "(36,(36,37), prop)",
+"6" :  "(36,37, prop)",
+"7" :  "(36,(36,36), this._property)",
+"8" :  "(36,(36,37), this._property)",
+"9" :  "(36,37, this._idResolver)",
+"10" :  "(36,37, this._typePropertyName)"}]
+}

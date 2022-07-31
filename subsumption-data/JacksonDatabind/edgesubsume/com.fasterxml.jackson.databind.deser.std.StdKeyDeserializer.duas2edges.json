@@ -1,0 +1,18 @@
+{
+"Class" : "com.fasterxml.jackson.databind.deser.std.StdKeyDeserializer", 
+"Methods" : [{ "Name" : "deserializeKey" ,
+"Edges" : 12,
+"Duas" : 20,
+"1" : 10, 
+ "2" : 11, 
+ "4" : 5, 
+ "5" : 6, 
+ "10" : 1, 
+ "11" : 2, 
+ "12" : 10, 
+ "13" : 11, 
+ "15" : 1, 
+ "16" : 2, 
+ "17" : 8, 
+ "18" : 9}]
+}

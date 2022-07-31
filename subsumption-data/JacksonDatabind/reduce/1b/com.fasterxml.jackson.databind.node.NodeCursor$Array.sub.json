@@ -1,0 +1,14 @@
+{
+"Class" : "com.fasterxml.jackson.databind.node.NodeCursor$Array", 
+"Methods" : [{ "Name" : "nextToken" ,
+"Duas" : "8" ,
+"Subsumers" : 2,
+"0" : [ 5, 4, 0], "S0" : [0, 4, 5 ],
+"1" : [ 7, 6, 2, 3, 1], "S1" : [1, 2, 3, 6, 7 ]
+},{ "Name" : "currentHasChildren" ,
+"Duas" : "2" ,
+"Subsumers" : 2,
+"0" : [ 0], "S0" : [0 ],
+"1" : [ 1], "S1" : [1 ]
+}]
+}

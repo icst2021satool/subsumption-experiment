@@ -1,0 +1,26 @@
+{
+"Class" : "com.fasterxml.jackson.databind.jsontype.impl.MinimalClassNameIdResolver", 
+"Methods" : [{ "Name" : "<init>" ,
+"Nodes" : 5,
+"0" : [ 25,26,27,28 ]
+"1" : [ 32,33 ]
+"2" : [ 35 ]
+"3" : [ 29,30 ]
+"4" : [  ]
+},{ "Name" : "idFromValue" ,
+"Nodes" : 4,
+"0" : [ 43,44 ]
+"1" : [ 48 ]
+"2" : [ 46 ]
+"3" : [  ]
+},{ "Name" : "typeFromId" ,
+"Nodes" : 7,
+"0" : [ 54 ]
+"1" : [ 65 ]
+"2" : [ 55,56 ]
+"3" : [ 61 ]
+"4" : [ 63 ]
+"5" : [ 58 ]
+"6" : [  ]
+}]
+}

@@ -1,0 +1,29 @@
+{
+"Class" : "com.fasterxml.jackson.databind.introspect.AnnotatedParameter", 
+"Methods" : [{ "Name" : "withAnnotations" ,
+"Nodes" : 4,
+"0" : [ ],
+"1" : [ 1, 2, 5, 6, 8, 9, 10],
+"2" : [ 0, 3, 4, 7],
+"3" : [ ],
+"CoveredDUAsByNodes" : 11,
+"Duas" : 11
+},{ "Name" : "getAnnotation" ,
+"Nodes" : 5,
+"0" : [ ],
+"1" : [ 1, 5],
+"3" : [ 0, 4],
+"2" : [ 2, 3, 6],
+"4" : [ 2, 3, 6],
+"CoveredDUAsByNodes" : 7,
+"Duas" : 7
+},{ "Name" : "getRawType" ,
+"Nodes" : 4,
+"0" : [ ],
+"1" : [ 1, 2, 5, 6],
+"2" : [ 0, 3, 4, 7],
+"3" : [ ],
+"CoveredDUAsByNodes" : 8,
+"Duas" : 8
+}]
+}

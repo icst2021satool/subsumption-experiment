@@ -1,0 +1,16 @@
+{
+"Class" : "com.fasterxml.jackson.databind.module.SimpleKeyDeserializers", 
+"Methods" : [{ "Name" : "addDeserializer" ,
+"Edges" : 4,
+"Duas" : 11,
+"0" : 0, 
+ "1" : 1, 
+ "7" : 0, 
+ "8" : 1},{ "Name" : "findKeyDeserializer" ,
+"Edges" : 4,
+"Duas" : 7,
+"0" : 0, 
+ "1" : 1, 
+ "4" : 0, 
+ "5" : 1}]
+}

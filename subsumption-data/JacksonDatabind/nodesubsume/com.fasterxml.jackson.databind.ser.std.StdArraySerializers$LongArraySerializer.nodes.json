@@ -1,0 +1,38 @@
+{
+"Class" : "com.fasterxml.jackson.databind.ser.std.StdArraySerializers$LongArraySerializer", 
+"Methods" : [{ "Name" : "isEmpty" ,
+"Nodes" : 6,
+"0" : [ 474 ]
+"1" : [ 474 ]
+"2" : [ 474 ]
+"3" : [ 474 ]
+"4" : [ 474 ]
+"5" : [  ]
+},{ "Name" : "hasSingleElement" ,
+"Nodes" : 5,
+"0" : [ 479 ]
+"1" : [ 479 ]
+"2" : [ 479 ]
+"3" : [ 479 ]
+"4" : [  ]
+},{ "Name" : "serializeContents" ,
+"Nodes" : 10,
+"0" : [ 486 ]
+"1" : [ 495 ]
+"2" : [ 495 ]
+"3" : [ 498 ]
+"4" : [ 496,495 ]
+"5" : [ 487 ]
+"6" : [ 487 ]
+"7" : [ 492 ]
+"8" : [ 487,488,489,490 ]
+"9" : [  ]
+},{ "Name" : "acceptJsonFormatVisitor" ,
+"Nodes" : 5,
+"0" : [ 512 ]
+"1" : [ 518 ]
+"2" : [ 513,514 ]
+"3" : [ 515 ]
+"4" : [  ]
+}]
+}

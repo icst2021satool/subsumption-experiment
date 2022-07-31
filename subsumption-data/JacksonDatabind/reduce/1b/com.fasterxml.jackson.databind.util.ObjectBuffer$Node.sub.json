@@ -1,0 +1,9 @@
+{
+"Class" : "com.fasterxml.jackson.databind.util.ObjectBuffer$Node", 
+"Methods" : [{ "Name" : "linkNext" ,
+"Duas" : "6" ,
+"Subsumers" : 2,
+"0" : [ 4, 0], "S0" : [0, 4 ],
+"1" : [ 5, 3, 2, 1], "S1" : [1, 2, 3, 5 ]
+}]
+}

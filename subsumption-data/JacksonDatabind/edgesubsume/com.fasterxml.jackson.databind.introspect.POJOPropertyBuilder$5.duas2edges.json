@@ -1,0 +1,8 @@
+{
+"Class" : "com.fasterxml.jackson.databind.introspect.POJOPropertyBuilder$5", 
+"Methods" : [{ "Name" : "withMember" ,
+"Edges" : 4,
+"Duas" : 9,
+"4" : 1, 
+ "5" : 2}]
+}

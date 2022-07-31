@@ -1,0 +1,12 @@
+{
+"Class" : "com.fasterxml.jackson.databind.deser.impl.ReadableObjectId", 
+"Methods" : [{ "Name" : "bindItem" ,
+"Nodes" : 4,
+"0" : [ ],
+"1" : [ 1, 2, 4, 6],
+"2" : [ 0, 3, 5, 7],
+"3" : [ ],
+"CoveredDUAsByNodes" : 8,
+"Duas" : 8
+}]
+}

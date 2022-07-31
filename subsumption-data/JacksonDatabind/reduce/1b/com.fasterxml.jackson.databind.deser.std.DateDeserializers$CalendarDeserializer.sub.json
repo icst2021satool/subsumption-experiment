@@ -1,0 +1,11 @@
+{
+"Class" : "com.fasterxml.jackson.databind.deser.std.DateDeserializers$CalendarDeserializer", 
+"Methods" : [{ "Name" : "deserialize" ,
+"Duas" : "17" ,
+"Subsumers" : 4,
+"0" : [ 11, 5, 4, 0], "S0" : [0, 4, 5, 9, 11 ],
+"1" : [ 16, 14, 13], "S1" : [1, 2, 3, 6, 7, 9, 10, 12, 13, 14, 16 ],
+"2" : [ 15], "S2" : [1, 2, 3, 6, 7, 9, 10, 12, 15 ],
+"3" : [ 8], "S3" : [8 ]
+}]
+}

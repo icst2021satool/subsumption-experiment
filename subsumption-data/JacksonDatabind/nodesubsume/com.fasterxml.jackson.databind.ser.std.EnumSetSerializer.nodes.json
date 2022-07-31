@@ -1,0 +1,28 @@
+{
+"Class" : "com.fasterxml.jackson.databind.ser.std.EnumSetSerializer", 
+"Methods" : [{ "Name" : "isEmpty" ,
+"Nodes" : 6,
+"0" : [ 39 ]
+"1" : [ 39 ]
+"2" : [ 39 ]
+"3" : [ 39 ]
+"4" : [ 39 ]
+"5" : [  ]
+},{ "Name" : "hasSingleElement" ,
+"Nodes" : 5,
+"0" : [ 44 ]
+"1" : [ 44 ]
+"2" : [ 44 ]
+"3" : [ 44 ]
+"4" : [  ]
+},{ "Name" : "serializeContents" ,
+"Nodes" : 7,
+"0" : [ 51,56 ]
+"1" : [ 56 ]
+"2" : [ 65 ]
+"3" : [ 56,57 ]
+"4" : [ 64,63 ]
+"5" : [ 61 ]
+"6" : [  ]
+}]
+}

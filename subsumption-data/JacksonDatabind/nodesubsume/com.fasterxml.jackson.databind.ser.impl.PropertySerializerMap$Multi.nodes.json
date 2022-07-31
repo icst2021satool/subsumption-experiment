@@ -1,0 +1,19 @@
+{
+"Class" : "com.fasterxml.jackson.databind.ser.impl.PropertySerializerMap$Multi", 
+"Methods" : [{ "Name" : "serializerFor" ,
+"Nodes" : 7,
+"0" : [ 206 ]
+"1" : [ 206 ]
+"2" : [ 212 ]
+"3" : [ 208,207 ]
+"4" : [ 206 ]
+"5" : [ 209 ]
+"6" : [  ]
+},{ "Name" : "newWith" ,
+"Nodes" : 4,
+"0" : [ 218,220 ]
+"1" : [ 224,225,226,227 ]
+"2" : [ 221 ]
+"3" : [  ]
+}]
+}

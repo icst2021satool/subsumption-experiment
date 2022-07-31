@@ -1,0 +1,10 @@
+{
+"Class" : "com.fasterxml.jackson.databind.jsontype.impl.AsExternalTypeDeserializer", 
+"Methods" : [{ "Name" : "forProperty" ,
+"Nodes" : 4,
+"0" : [ 35 ]
+"1" : [ 38 ]
+"2" : [ 36 ]
+"3" : [  ]
+}]
+}

@@ -1,0 +1,12 @@
+{
+"Class" : "com.fasterxml.jackson.databind.deser.std.JdkDeserializers$AtomicReferenceDeserializer", 
+"Methods" : [{ "Name" : "createContextual" ,
+"Edges" : 4,
+"2" : [ 1, 5],
+"3" : [ 0, 2, 3, 4, 6],
+"1" : [ 0, 2, 3, 4, 6],
+"0" : [ 1, 5],
+"CoveredDUAsByEdges" : 7,
+"Duas" : 7
+}]
+}

@@ -1,0 +1,12 @@
+{
+"Class" : "com.fasterxml.jackson.databind.ser.impl.SimpleFilterProvider", 
+"Methods" : [{ "Name" : "findFilter" ,
+"Nodes" : 6,
+"0" : [ 98,99 ]
+"1" : [ 106 ]
+"2" : [ 100,101 ]
+"3" : [ 101 ]
+"4" : [ 102 ]
+"5" : [  ]
+}]
+}

@@ -1,0 +1,15 @@
+{
+"Class" : "com.fasterxml.jackson.databind.jsontype.impl.AsWrapperTypeSerializer", 
+"Methods" : [{ "Name" : "forProperty" ,
+"Duas" : 10,
+"0" :  "(31,(31,31), this)",
+"1" :  "(31,(31,32), this)",
+"2" :  "(31,32, this)",
+"3" :  "(31,31, this)",
+"4" :  "(31,(31,31), prop)",
+"5" :  "(31,(31,32), prop)",
+"6" :  "(31,32, prop)",
+"7" :  "(31,(31,31), this._property)",
+"8" :  "(31,(31,32), this._property)",
+"9" :  "(31,32, this._idResolver)"}]
+}

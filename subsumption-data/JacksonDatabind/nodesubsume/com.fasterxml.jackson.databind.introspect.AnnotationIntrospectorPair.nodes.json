@@ -1,0 +1,407 @@
+{
+"Class" : "com.fasterxml.jackson.databind.introspect.AnnotationIntrospectorPair", 
+"Methods" : [{ "Name" : "create" ,
+"Nodes" : 6,
+"0" : [ 64 ]
+"1" : [ 67 ]
+"2" : [ 70 ]
+"3" : [ 68 ]
+"4" : [ 65 ]
+"5" : [  ]
+},{ "Name" : "isAnnotationBundle" ,
+"Nodes" : 6,
+"0" : [ 90 ]
+"1" : [ 90 ]
+"2" : [ 90 ]
+"3" : [ 90 ]
+"4" : [ 90 ]
+"5" : [  ]
+},{ "Name" : "findRootName" ,
+"Nodes" : 9,
+"0" : [ 102,103 ]
+"1" : [ 106 ]
+"2" : [ 110,111 ]
+"3" : [ 111 ]
+"4" : [ 111 ]
+"5" : [ 111 ]
+"6" : [ 107 ]
+"7" : [ 104 ]
+"8" : [  ]
+},{ "Name" : "findPropertiesToIgnore" ,
+"Nodes" : 4,
+"0" : [ 117,118 ]
+"1" : [ 121 ]
+"2" : [ 119 ]
+"3" : [  ]
+},{ "Name" : "findIgnoreUnknownProperties" ,
+"Nodes" : 4,
+"0" : [ 128,127 ]
+"1" : [ 131 ]
+"2" : [ 129 ]
+"3" : [  ]
+},{ "Name" : "isIgnorableType" ,
+"Nodes" : 4,
+"0" : [ 137,138 ]
+"1" : [ 141 ]
+"2" : [ 139 ]
+"3" : [  ]
+},{ "Name" : "findFilterId" ,
+"Nodes" : 4,
+"0" : [ 147,148 ]
+"1" : [ 151 ]
+"2" : [ 149 ]
+"3" : [  ]
+},{ "Name" : "findNamingStrategy" ,
+"Nodes" : 4,
+"0" : [ 157,158 ]
+"1" : [ 161 ]
+"2" : [ 159 ]
+"3" : [  ]
+},{ "Name" : "findTypeResolver" ,
+"Nodes" : 4,
+"0" : [ 192,191 ]
+"1" : [ 195 ]
+"2" : [ 193 ]
+"3" : [  ]
+},{ "Name" : "findPropertyTypeResolver" ,
+"Nodes" : 4,
+"0" : [ 202,203 ]
+"1" : [ 206 ]
+"2" : [ 204 ]
+"3" : [  ]
+},{ "Name" : "findPropertyContentTypeResolver" ,
+"Nodes" : 4,
+"0" : [ 213,214 ]
+"1" : [ 217 ]
+"2" : [ 215 ]
+"3" : [  ]
+},{ "Name" : "findSubtypes" ,
+"Nodes" : 8,
+"0" : [ 224,225,223 ]
+"1" : [ 225 ]
+"2" : [ 225 ]
+"3" : [ 226 ]
+"4" : [ 226 ]
+"5" : [ 226 ]
+"6" : [ 227,228,229,230 ]
+"7" : [  ]
+},{ "Name" : "findTypeName" ,
+"Nodes" : 5,
+"0" : [ 236,237 ]
+"1" : [ 238 ]
+"2" : [ 240 ]
+"3" : [ 237 ]
+"4" : [  ]
+},{ "Name" : "findReferenceType" ,
+"Nodes" : 4,
+"0" : [ 248,249 ]
+"1" : [ 252 ]
+"2" : [ 250 ]
+"3" : [  ]
+},{ "Name" : "findUnwrappingNameTransformer" ,
+"Nodes" : 4,
+"0" : [ 258,259 ]
+"1" : [ 262 ]
+"2" : [ 260 ]
+"3" : [  ]
+},{ "Name" : "findInjectableValueId" ,
+"Nodes" : 4,
+"0" : [ 268,269 ]
+"1" : [ 272 ]
+"2" : [ 270 ]
+"3" : [  ]
+},{ "Name" : "hasIgnoreMarker" ,
+"Nodes" : 6,
+"0" : [ 277 ]
+"1" : [ 277 ]
+"2" : [ 277 ]
+"3" : [ 277 ]
+"4" : [ 277 ]
+"5" : [  ]
+},{ "Name" : "hasRequiredMarker" ,
+"Nodes" : 4,
+"0" : [ 283,284 ]
+"1" : [ 287 ]
+"2" : [ 285 ]
+"3" : [  ]
+},{ "Name" : "findSerializer" ,
+"Nodes" : 4,
+"0" : [ 295,296 ]
+"1" : [ 299 ]
+"2" : [ 297 ]
+"3" : [  ]
+},{ "Name" : "findKeySerializer" ,
+"Nodes" : 6,
+"0" : [ 305,306 ]
+"1" : [ 307 ]
+"2" : [ 309 ]
+"3" : [ 306 ]
+"4" : [ 306 ]
+"5" : [  ]
+},{ "Name" : "findContentSerializer" ,
+"Nodes" : 6,
+"0" : [ 315,316 ]
+"1" : [ 317 ]
+"2" : [ 319 ]
+"3" : [ 316 ]
+"4" : [ 316 ]
+"5" : [  ]
+},{ "Name" : "findSerializationType" ,
+"Nodes" : 4,
+"0" : [ 345,346 ]
+"1" : [ 349 ]
+"2" : [ 347 ]
+"3" : [  ]
+},{ "Name" : "findSerializationKeyType" ,
+"Nodes" : 4,
+"0" : [ 355,356 ]
+"1" : [ 359 ]
+"2" : [ 357 ]
+"3" : [  ]
+},{ "Name" : "findSerializationContentType" ,
+"Nodes" : 4,
+"0" : [ 365,366 ]
+"1" : [ 369 ]
+"2" : [ 367 ]
+"3" : [  ]
+},{ "Name" : "findSerializationTyping" ,
+"Nodes" : 4,
+"0" : [ 375,376 ]
+"1" : [ 379 ]
+"2" : [ 377 ]
+"3" : [  ]
+},{ "Name" : "findSerializationConverter" ,
+"Nodes" : 4,
+"0" : [ 385,386 ]
+"1" : [ 389 ]
+"2" : [ 387 ]
+"3" : [  ]
+},{ "Name" : "findSerializationContentConverter" ,
+"Nodes" : 4,
+"0" : [ 395,396 ]
+"1" : [ 399 ]
+"2" : [ 397 ]
+"3" : [  ]
+},{ "Name" : "findViews" ,
+"Nodes" : 4,
+"0" : [ 409,410 ]
+"1" : [ 413 ]
+"2" : [ 411 ]
+"3" : [  ]
+},{ "Name" : "isTypeId" ,
+"Nodes" : 4,
+"0" : [ 418,419 ]
+"1" : [ 422 ]
+"2" : [ 420 ]
+"3" : [  ]
+},{ "Name" : "findObjectIdInfo" ,
+"Nodes" : 4,
+"0" : [ 427,428 ]
+"1" : [ 431 ]
+"2" : [ 429 ]
+"3" : [  ]
+},{ "Name" : "findFormat" ,
+"Nodes" : 4,
+"0" : [ 444,445 ]
+"1" : [ 448 ]
+"2" : [ 446 ]
+"3" : [  ]
+},{ "Name" : "findWrapperName" ,
+"Nodes" : 7,
+"0" : [ 453,454 ]
+"1" : [ 456 ]
+"2" : [ 463 ]
+"3" : [ 458,459 ]
+"4" : [ 460 ]
+"5" : [ 455 ]
+"6" : [  ]
+},{ "Name" : "findSerializationPropertyOrder" ,
+"Nodes" : 4,
+"0" : [ 470,471 ]
+"1" : [ 474 ]
+"2" : [ 472 ]
+"3" : [  ]
+},{ "Name" : "findSerializationSortAlphabetically" ,
+"Nodes" : 4,
+"0" : [ 484,485 ]
+"1" : [ 488 ]
+"2" : [ 486 ]
+"3" : [  ]
+},{ "Name" : "findNameForSerialization" ,
+"Nodes" : 7,
+"0" : [ 497,495 ]
+"1" : [ 499 ]
+"2" : [ 505 ]
+"3" : [ 500,501 ]
+"4" : [ 502 ]
+"5" : [ 498 ]
+"6" : [  ]
+},{ "Name" : "hasAsValueAnnotation" ,
+"Nodes" : 6,
+"0" : [ 511 ]
+"1" : [ 511 ]
+"2" : [ 511 ]
+"3" : [ 511 ]
+"4" : [ 511 ]
+"5" : [  ]
+},{ "Name" : "findEnumValue" ,
+"Nodes" : 4,
+"0" : [ 517,518 ]
+"1" : [ 521 ]
+"2" : [ 519 ]
+"3" : [  ]
+},{ "Name" : "findDeserializer" ,
+"Nodes" : 4,
+"0" : [ 529,530 ]
+"1" : [ 533 ]
+"2" : [ 531 ]
+"3" : [  ]
+},{ "Name" : "findKeyDeserializer" ,
+"Nodes" : 6,
+"0" : [ 539,540 ]
+"1" : [ 541 ]
+"2" : [ 543 ]
+"3" : [ 540 ]
+"4" : [ 540 ]
+"5" : [  ]
+},{ "Name" : "findContentDeserializer" ,
+"Nodes" : 6,
+"0" : [ 549,550 ]
+"1" : [ 551 ]
+"2" : [ 553 ]
+"3" : [ 550 ]
+"4" : [ 550 ]
+"5" : [  ]
+},{ "Name" : "findDeserializationType" ,
+"Nodes" : 4,
+"0" : [ 560,559 ]
+"1" : [ 563 ]
+"2" : [ 561 ]
+"3" : [  ]
+},{ "Name" : "findDeserializationKeyType" ,
+"Nodes" : 4,
+"0" : [ 569,570 ]
+"1" : [ 573 ]
+"2" : [ 571 ]
+"3" : [  ]
+},{ "Name" : "findDeserializationContentType" ,
+"Nodes" : 4,
+"0" : [ 578,579 ]
+"1" : [ 582 ]
+"2" : [ 580 ]
+"3" : [  ]
+},{ "Name" : "findDeserializationConverter" ,
+"Nodes" : 4,
+"0" : [ 587,588 ]
+"1" : [ 591 ]
+"2" : [ 589 ]
+"3" : [  ]
+},{ "Name" : "findDeserializationContentConverter" ,
+"Nodes" : 4,
+"0" : [ 596,597 ]
+"1" : [ 600 ]
+"2" : [ 598 ]
+"3" : [  ]
+},{ "Name" : "findValueInstantiator" ,
+"Nodes" : 4,
+"0" : [ 608,609 ]
+"1" : [ 612 ]
+"2" : [ 610 ]
+"3" : [  ]
+},{ "Name" : "findPOJOBuilder" ,
+"Nodes" : 4,
+"0" : [ 618,619 ]
+"1" : [ 622 ]
+"2" : [ 620 ]
+"3" : [  ]
+},{ "Name" : "findPOJOBuilderConfig" ,
+"Nodes" : 4,
+"0" : [ 628,629 ]
+"1" : [ 632 ]
+"2" : [ 630 ]
+"3" : [  ]
+},{ "Name" : "findNameForDeserialization" ,
+"Nodes" : 7,
+"0" : [ 641,642 ]
+"1" : [ 644 ]
+"2" : [ 650 ]
+"3" : [ 645,646 ]
+"4" : [ 647 ]
+"5" : [ 643 ]
+"6" : [  ]
+},{ "Name" : "hasAnySetterAnnotation" ,
+"Nodes" : 6,
+"0" : [ 656 ]
+"1" : [ 656 ]
+"2" : [ 656 ]
+"3" : [ 656 ]
+"4" : [ 656 ]
+"5" : [  ]
+},{ "Name" : "hasAnyGetterAnnotation" ,
+"Nodes" : 6,
+"0" : [ 662 ]
+"1" : [ 662 ]
+"2" : [ 662 ]
+"3" : [ 662 ]
+"4" : [ 662 ]
+"5" : [  ]
+},{ "Name" : "hasCreatorAnnotation" ,
+"Nodes" : 6,
+"0" : [ 668 ]
+"1" : [ 668 ]
+"2" : [ 668 ]
+"3" : [ 668 ]
+"4" : [ 668 ]
+"5" : [  ]
+},{ "Name" : "isHandled" ,
+"Nodes" : 6,
+"0" : [ 680 ]
+"1" : [ 680 ]
+"2" : [ 680 ]
+"3" : [ 680 ]
+"4" : [ 680 ]
+"5" : [  ]
+},{ "Name" : "findDeserializationName" ,
+"Nodes" : 7,
+"0" : [ 689,690 ]
+"1" : [ 692 ]
+"2" : [ 701 ]
+"3" : [ 696,697 ]
+"4" : [ 698 ]
+"5" : [ 691 ]
+"6" : [  ]
+},{ "Name" : "findDeserializationName" ,
+"Nodes" : 7,
+"0" : [ 708,709 ]
+"1" : [ 711 ]
+"2" : [ 720 ]
+"3" : [ 715,716 ]
+"4" : [ 717 ]
+"5" : [ 710 ]
+"6" : [  ]
+},{ "Name" : "findDeserializationName" ,
+"Nodes" : 4,
+"0" : [ 727,728 ]
+"1" : [ 731 ]
+"2" : [ 729 ]
+"3" : [  ]
+},{ "Name" : "findSerializationName" ,
+"Nodes" : 7,
+"0" : [ 740,741 ]
+"1" : [ 743 ]
+"2" : [ 752 ]
+"3" : [ 747,748 ]
+"4" : [ 749 ]
+"5" : [ 742 ]
+"6" : [  ]
+},{ "Name" : "findSerializationName" ,
+"Nodes" : 7,
+"0" : [ 759,760 ]
+"1" : [ 762 ]
+"2" : [ 771 ]
+"3" : [ 766,767 ]
+"4" : [ 768 ]
+"5" : [ 761 ]
+"6" : [  ]
+}]
+}

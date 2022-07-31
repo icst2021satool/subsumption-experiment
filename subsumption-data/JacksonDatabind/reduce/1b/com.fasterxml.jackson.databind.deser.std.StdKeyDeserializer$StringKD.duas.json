@@ -1,0 +1,12 @@
+{
+"Class" : "com.fasterxml.jackson.databind.deser.std.StdKeyDeserializer$StringKD", 
+"Methods" : [{ "Name" : "forType" ,
+"Duas" : 7,
+"0" :  "(94,(94,95), nominalType)",
+"1" :  "(94,(94,97), nominalType)",
+"2" :  "(94,(97,98), nominalType)",
+"3" :  "(94,(97,100), nominalType)",
+"4" :  "(94,100, nominalType)",
+"5" :  "(94,95, sString)",
+"6" :  "(94,98, sObject)"}]
+}

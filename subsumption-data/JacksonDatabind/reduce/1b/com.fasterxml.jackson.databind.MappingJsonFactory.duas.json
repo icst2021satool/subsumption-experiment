@@ -1,0 +1,14 @@
+{
+"Class" : "com.fasterxml.jackson.databind.MappingJsonFactory", 
+"Methods" : [{ "Name" : "<init>" ,
+"Duas" : 4,
+"0" :  "(44,46, this)",
+"1" :  "(44,46, this)",
+"2" :  "(44,(45,46), mapper)",
+"3" :  "(44,(45,48), mapper)"},{ "Name" : "hasFormat" ,
+"Duas" : 4,
+"0" :  "(90,(90,91), this)",
+"1" :  "(90,(90,93), this)",
+"2" :  "(90,91, this)",
+"3" :  "(90,91, acc)"}]
+}

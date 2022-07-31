@@ -1,0 +1,14 @@
+{
+"Class" : "com.fasterxml.jackson.databind.ser.std.StringSerializer", 
+"Methods" : [{ "Name" : "isEmpty" ,
+"Duas" : 4,
+"0" :  "(32,(32,32), value)",
+"1" :  "(32,(32,32), value)",
+"2" :  "(32,(32,32), value)",
+"3" :  "(32,(32,32), value)"},{ "Name" : "acceptJsonFormatVisitor" ,
+"Duas" : 4,
+"0" :  "(52,(52,52), visitor)",
+"1" :  "(52,(52,53), visitor)",
+"2" :  "(52,52, visitor)",
+"3" :  "(52,52, typeHint)"}]
+}

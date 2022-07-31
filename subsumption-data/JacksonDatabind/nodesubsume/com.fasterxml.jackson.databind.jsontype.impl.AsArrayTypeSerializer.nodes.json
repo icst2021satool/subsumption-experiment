@@ -1,0 +1,10 @@
+{
+"Class" : "com.fasterxml.jackson.databind.jsontype.impl.AsArrayTypeSerializer", 
+"Methods" : [{ "Name" : "forProperty" ,
+"Nodes" : 4,
+"0" : [ 27 ]
+"1" : [ 28 ]
+"2" : [ 27 ]
+"3" : [  ]
+}]
+}

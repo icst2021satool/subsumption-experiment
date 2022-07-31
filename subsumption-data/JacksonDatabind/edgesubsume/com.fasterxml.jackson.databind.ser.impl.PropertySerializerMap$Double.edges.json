@@ -1,0 +1,13 @@
+{
+"Class" : "com.fasterxml.jackson.databind.ser.impl.PropertySerializerMap$Double", 
+"Methods" : [{ "Name" : "serializerFor" ,
+"Edges" : 7,
+"0" : [ 2,5 ],
+"1" : [ 0,4 ],
+"2" : [ 0,1 ],
+"3" : [ 4,5 ],
+"4" : [ 1,3 ],
+"5" : [ 1,2 ],
+"6" : [ 3,5 ]
+}]
+}

@@ -1,0 +1,44 @@
+{
+"Class" : "com.fasterxml.jackson.databind.type.MapType", 
+"Methods" : [{ "Name" : "narrowContentsBy" ,
+"Nodes" : 4,
+"0" : [ ],
+"1" : [ 1, 2, 5, 6, 8, 9, 10, 11, 12, 13, 14],
+"2" : [ 0, 3, 4, 7],
+"3" : [ ],
+"CoveredDUAsByNodes" : 15,
+"Duas" : 15
+},{ "Name" : "widenContentsBy" ,
+"Nodes" : 4,
+"0" : [ ],
+"1" : [ 1, 2, 5, 6, 8, 9, 10, 11, 12, 13, 14],
+"2" : [ 0, 3, 4, 7],
+"3" : [ ],
+"CoveredDUAsByNodes" : 15,
+"Duas" : 15
+},{ "Name" : "narrowKey" ,
+"Nodes" : 4,
+"0" : [ ],
+"1" : [ 1, 2, 5, 6, 8, 9, 10, 11, 12, 13, 14],
+"2" : [ 0, 3, 4, 7],
+"3" : [ ],
+"CoveredDUAsByNodes" : 15,
+"Duas" : 15
+},{ "Name" : "widenKey" ,
+"Nodes" : 4,
+"0" : [ ],
+"1" : [ 1, 2, 5, 6, 8, 9, 10, 11, 12, 13, 14],
+"2" : [ 0, 3, 4, 7],
+"3" : [ ],
+"CoveredDUAsByNodes" : 15,
+"Duas" : 15
+},{ "Name" : "withStaticTyping" ,
+"Nodes" : 4,
+"0" : [ ],
+"1" : [ 1, 2, 5, 6, 7, 8, 9, 10],
+"2" : [ 0, 3, 4],
+"3" : [ ],
+"CoveredDUAsByNodes" : 11,
+"Duas" : 11
+}]
+}

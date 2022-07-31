@@ -1,0 +1,8 @@
+{
+"Class" : "com.fasterxml.jackson.databind.node.BaseJsonNode", 
+"Methods" : [{ "Name" : "findPath" ,
+"Edges" : 4,
+"Duas" : 3,
+"0" : 1, 
+ "1" : 2}]
+}

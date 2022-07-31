@@ -1,0 +1,18 @@
+{
+"Class" : "com.fasterxml.jackson.databind.JsonSerializer", 
+"Methods" : [{ "Name" : "serializeWithType" ,
+"Duas" : 5,
+"0" :  "(138,140, value)",
+"1" :  "(138,(139,140), clz)",
+"2" :  "(138,(139,142), clz)",
+"3" :  "(138,142, clz)",
+"4" :  "(140,142, clz)"},{ "Name" : "isEmpty" ,
+"Duas" : 2,
+"0" :  "(174,(174,174), value)",
+"1" :  "(174,(174,174), value)"},{ "Name" : "acceptJsonFormatVisitor" ,
+"Duas" : 4,
+"0" :  "(225,(225,225), visitor)",
+"1" :  "(225,(225,226), visitor)",
+"2" :  "(225,225, visitor)",
+"3" :  "(225,225, type)"}]
+}

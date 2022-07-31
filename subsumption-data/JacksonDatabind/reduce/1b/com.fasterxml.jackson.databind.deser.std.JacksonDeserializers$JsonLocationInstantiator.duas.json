@@ -1,0 +1,12 @@
+{
+"Class" : "com.fasterxml.jackson.databind.deser.std.JacksonDeserializers$JsonLocationInstantiator", 
+"Methods" : [{ "Name" : "_long" ,
+"Duas" : 3,
+"0" :  "(137,(137,137), o)",
+"1" :  "(137,(137,137), o)",
+"2" :  "(137,137, o)"},{ "Name" : "_int" ,
+"Duas" : 3,
+"0" :  "(140,(140,140), o)",
+"1" :  "(140,(140,140), o)",
+"2" :  "(140,140, o)"}]
+}

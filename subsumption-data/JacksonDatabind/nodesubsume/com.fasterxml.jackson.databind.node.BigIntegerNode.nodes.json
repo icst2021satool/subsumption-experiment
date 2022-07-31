@@ -1,0 +1,37 @@
+{
+"Class" : "com.fasterxml.jackson.databind.node.BigIntegerNode", 
+"Methods" : [{ "Name" : "canConvertToInt" ,
+"Nodes" : 6,
+"0" : [ 52 ]
+"1" : [ 52 ]
+"2" : [ 52 ]
+"3" : [ 52 ]
+"4" : [ 52 ]
+"5" : [  ]
+},{ "Name" : "canConvertToLong" ,
+"Nodes" : 6,
+"0" : [ 55 ]
+"1" : [ 55 ]
+"2" : [ 55 ]
+"3" : [ 55 ]
+"4" : [ 55 ]
+"5" : [  ]
+},{ "Name" : "asBoolean" ,
+"Nodes" : 5,
+"0" : [ 97 ]
+"1" : [ 97 ]
+"2" : [ 97 ]
+"3" : [ 97 ]
+"4" : [  ]
+},{ "Name" : "equals" ,
+"Nodes" : 8,
+"0" : [ 110 ]
+"1" : [ 111 ]
+"2" : [ 112 ]
+"3" : [ 115 ]
+"4" : [ 113 ]
+"5" : [ 111 ]
+"6" : [ 110 ]
+"7" : [  ]
+}]
+}

@@ -1,0 +1,38 @@
+{
+"Class" : "com.fasterxml.jackson.databind.ser.std.StdArraySerializers$FloatArraySerializer", 
+"Methods" : [{ "Name" : "isEmpty" ,
+"Nodes" : 6,
+"0" : [ 554 ]
+"1" : [ 554 ]
+"2" : [ 554 ]
+"3" : [ 554 ]
+"4" : [ 554 ]
+"5" : [  ]
+},{ "Name" : "hasSingleElement" ,
+"Nodes" : 5,
+"0" : [ 559 ]
+"1" : [ 559 ]
+"2" : [ 559 ]
+"3" : [ 559 ]
+"4" : [  ]
+},{ "Name" : "serializeContents" ,
+"Nodes" : 10,
+"0" : [ 566 ]
+"1" : [ 574 ]
+"2" : [ 574 ]
+"3" : [ 577 ]
+"4" : [ 574,575 ]
+"5" : [ 567 ]
+"6" : [ 567 ]
+"7" : [ 572 ]
+"8" : [ 567,568,569,570 ]
+"9" : [  ]
+},{ "Name" : "acceptJsonFormatVisitor" ,
+"Nodes" : 5,
+"0" : [ 591 ]
+"1" : [ 597 ]
+"2" : [ 592,593 ]
+"3" : [ 594 ]
+"4" : [  ]
+}]
+}

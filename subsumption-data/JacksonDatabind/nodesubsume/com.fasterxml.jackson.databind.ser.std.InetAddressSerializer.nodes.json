@@ -1,0 +1,12 @@
+{
+"Class" : "com.fasterxml.jackson.databind.ser.std.InetAddressSerializer", 
+"Methods" : [{ "Name" : "serialize" ,
+"Nodes" : 6,
+"0" : [ 27,28,29 ]
+"1" : [ 36,37 ]
+"2" : [ 30 ]
+"3" : [ 33 ]
+"4" : [ 31 ]
+"5" : [  ]
+}]
+}

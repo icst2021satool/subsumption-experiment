@@ -1,0 +1,26 @@
+{
+"Class" : "com.fasterxml.jackson.databind.ser.std.ToStringSerializer", 
+"Methods" : [{ "Name" : "isEmpty" ,
+"Edges" : 10,
+"8" : [ 0],
+"9" : [ 1, 2],
+"1" : [ 1, 2, 3],
+"2" : [ 1, 2, 4],
+"6" : [ 1, 2, 5],
+"7" : [ 1, 2, 3, 6],
+"4" : [ 1, 2, 3, 6],
+"0" : [ 1, 2],
+"5" : [ 1, 2],
+"3" : [ 0],
+"CoveredDUAsByEdges" : 7,
+"Duas" : 7
+},{ "Name" : "acceptJsonFormatVisitor" ,
+"Edges" : 4,
+"1" : [ 0, 2, 3],
+"2" : [ 1],
+"0" : [ 0, 2, 3],
+"3" : [ ],
+"CoveredDUAsByEdges" : 4,
+"Duas" : 4
+}]
+}

@@ -1,0 +1,40 @@
+{
+"Class" : "com.fasterxml.jackson.databind.ser.impl.ReadOnlyClassToSerializerMap", 
+"Methods" : [{ "Name" : "typedValueSerializer" ,
+"Nodes" : 5,
+"0" : [ ],
+"1" : [ 1, 2, 5, 8, 9],
+"3" : [ 0, 4, 6, 7],
+"2" : [ 3, 11],
+"4" : [ 3, 11],
+"CoveredDUAsByNodes" : 11,
+"Duas" : 13
+},{ "Name" : "typedValueSerializer" ,
+"Nodes" : 5,
+"0" : [ ],
+"1" : [ 1, 2, 5, 8, 9],
+"3" : [ 0, 4, 6, 7],
+"2" : [ 3, 11],
+"4" : [ 3, 11],
+"CoveredDUAsByNodes" : 11,
+"Duas" : 13
+},{ "Name" : "untypedValueSerializer" ,
+"Nodes" : 5,
+"0" : [ ],
+"1" : [ 1, 2, 5, 8, 9],
+"3" : [ 0, 4, 6, 7],
+"2" : [ 3, 11],
+"4" : [ 3, 11],
+"CoveredDUAsByNodes" : 11,
+"Duas" : 13
+},{ "Name" : "untypedValueSerializer" ,
+"Nodes" : 5,
+"0" : [ ],
+"1" : [ 1, 2, 5, 8, 9],
+"3" : [ 0, 4, 6, 7],
+"2" : [ 3, 11],
+"4" : [ 3, 11],
+"CoveredDUAsByNodes" : 11,
+"Duas" : 13
+}]
+}

@@ -1,0 +1,16 @@
+{
+"Class" : "com.fasterxml.jackson.databind.ser.impl.UnwrappingBeanSerializer", 
+"Methods" : [{ "Name" : "serialize" ,
+"Edges" : 8,
+"3" : [ 0, 16, 6, 9, 12, 15],
+"4" : [ 1, 17],
+"0" : [ 1, 17, 2, 18, 5, 8, 11, 14],
+"1" : [ 1, 17, 3, 19, 4, 7, 10, 13],
+"5" : [ 1, 17, 3, 19, 4, 7, 10, 13],
+"6" : [ 1, 17, 2, 18, 5, 8, 11, 14],
+"2" : [ 1, 17],
+"7" : [ 0, 16, 6, 9, 12, 15],
+"CoveredDUAsByEdges" : 20,
+"Duas" : 20
+}]
+}

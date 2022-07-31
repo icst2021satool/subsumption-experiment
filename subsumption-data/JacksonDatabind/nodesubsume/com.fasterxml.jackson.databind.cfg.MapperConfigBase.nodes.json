@@ -1,0 +1,18 @@
+{
+"Class" : "com.fasterxml.jackson.databind.cfg.MapperConfigBase", 
+"Methods" : [{ "Name" : "findMixInClassFor" ,
+"Nodes" : 5,
+"0" : [ 331 ]
+"1" : [ 331 ]
+"2" : [ 331 ]
+"3" : [ 331 ]
+"4" : [  ]
+},{ "Name" : "mixInCount" ,
+"Nodes" : 5,
+"0" : [ 335 ]
+"1" : [ 335 ]
+"2" : [ 335 ]
+"3" : [ 335 ]
+"4" : [  ]
+}]
+}

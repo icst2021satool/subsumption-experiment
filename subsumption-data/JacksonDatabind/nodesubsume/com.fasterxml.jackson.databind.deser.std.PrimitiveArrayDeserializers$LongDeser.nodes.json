@@ -1,0 +1,25 @@
+{
+"Class" : "com.fasterxml.jackson.databind.deser.std.PrimitiveArrayDeserializers$LongDeser", 
+"Methods" : [{ "Name" : "deserialize" ,
+"Nodes" : 9,
+"0" : [ 385 ]
+"1" : [ 388,389,390 ]
+"2" : [ 392 ]
+"3" : [ 400 ]
+"4" : [ 393,394 ]
+"5" : [ 398,399 ]
+"6" : [ 395,396 ]
+"7" : [ 386 ]
+"8" : [  ]
+},{ "Name" : "handleNonArray" ,
+"Nodes" : 8,
+"0" : [ 407 ]
+"1" : [ 413 ]
+"2" : [ 416 ]
+"3" : [ 414 ]
+"4" : [ 407 ]
+"5" : [ 409 ]
+"6" : [ 410 ]
+"7" : [  ]
+}]
+}

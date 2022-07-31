@@ -1,0 +1,14 @@
+{
+"Class" : "com.fasterxml.jackson.databind.util.NameTransformer$2", 
+"Methods" : [{ "Name" : "reverse" ,
+"Edges" : 6,
+"2" : [ 0, 2, 6, 8, 9, 11],
+"3" : [ 1, 7, 10],
+"4" : [ 0, 17, 2, 3, 5, 6, 8, 9, 11, 12, 14, 15],
+"5" : [ 16, 4, 13],
+"1" : [ ],
+"0" : [ 0, 17, 2, 3, 5, 6, 8, 9, 11, 12, 14, 15],
+"CoveredDUAsByEdges" : 18,
+"Duas" : 18
+}]
+}

@@ -1,0 +1,36 @@
+{
+"Class" : "com.fasterxml.jackson.databind.introspect.AnnotatedMethod", 
+"Methods" : [{ "Name" : "<init>" ,
+"Nodes" : 4,
+"0" : [ 37,38 ]
+"1" : [ 41,42 ]
+"2" : [ 39 ]
+"3" : [  ]
+},{ "Name" : "getRawParameterTypes" ,
+"Nodes" : 4,
+"0" : [ 187 ]
+"1" : [ 190 ]
+"2" : [ 188 ]
+"3" : [  ]
+},{ "Name" : "getRawParameterType" ,
+"Nodes" : 5,
+"0" : [ 200,201 ]
+"1" : [ 201 ]
+"2" : [ 201 ]
+"3" : [ 201 ]
+"4" : [  ]
+},{ "Name" : "getGenericParameterType" ,
+"Nodes" : 5,
+"0" : [ 208,207 ]
+"1" : [ 208 ]
+"2" : [ 208 ]
+"3" : [ 208 ]
+"4" : [  ]
+},{ "Name" : "readResolve" ,
+"Nodes" : 4,
+"0" : [ 242,244,247 ]
+"1" : [ 250 ]
+"2" : [ 248 ]
+"3" : [  ]
+}]
+}

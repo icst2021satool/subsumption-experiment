@@ -1,0 +1,12 @@
+{
+"Class" : "com.fasterxml.jackson.databind.deser.impl.FieldProperty", 
+"Methods" : [{ "Name" : "<init>" ,
+"Nodes" : 4,
+"0" : [ ],
+"1" : [ 0, 3, 4],
+"2" : [ 1, 2],
+"3" : [ ],
+"CoveredDUAsByNodes" : 5,
+"Duas" : 5
+}]
+}

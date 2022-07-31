@@ -1,0 +1,13 @@
+{
+"Class" : "com.fasterxml.jackson.databind.deser.impl.PropertyBasedObjectIdGenerator", 
+"Methods" : [{ "Name" : "forScope" ,
+"Duas" : 8,
+"0" :  "(23,(23,23), this)",
+"1" :  "(23,(23,23), this)",
+"2" :  "(23,23, this)",
+"3" :  "(23,(23,23), scope)",
+"4" :  "(23,(23,23), scope)",
+"5" :  "(23,23, scope)",
+"6" :  "(23,(23,23), this._scope)",
+"7" :  "(23,(23,23), this._scope)"}]
+}

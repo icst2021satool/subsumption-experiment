@@ -1,0 +1,11 @@
+{
+"Class" : "com.fasterxml.jackson.databind.introspect.Annotated", 
+"Methods" : [{ "Name" : "hasAnnotation" ,
+"Nodes" : 5,
+"0" : [ 24 ]
+"1" : [ 24 ]
+"2" : [ 24 ]
+"3" : [ 24 ]
+"4" : [  ]
+}]
+}

@@ -1,0 +1,16 @@
+{
+"Class" : "com.fasterxml.jackson.databind.deser.CreatorProperty", 
+"Methods" : [{ "Name" : "findInjectableValue" ,
+"Edges" : 4,
+"Duas" : 9,
+"0" : 1, 
+ "1" : 2, 
+ "6" : 1, 
+ "7" : 2},{ "Name" : "getAnnotation" ,
+"Edges" : 4,
+"Duas" : 7,
+"0" : 0, 
+ "1" : 1, 
+ "4" : 0, 
+ "5" : 1}]
+}

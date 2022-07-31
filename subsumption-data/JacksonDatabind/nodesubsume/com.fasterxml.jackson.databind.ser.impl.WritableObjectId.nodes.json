@@ -1,0 +1,18 @@
+{
+"Class" : "com.fasterxml.jackson.databind.ser.impl.WritableObjectId", 
+"Methods" : [{ "Name" : "writeAsId" ,
+"Nodes" : 6,
+"0" : [ 31 ]
+"1" : [ 35 ]
+"2" : [ 31 ]
+"3" : [ 32,33 ]
+"4" : [ 31 ]
+"5" : [  ]
+},{ "Name" : "writeAsField" ,
+"Nodes" : 4,
+"0" : [ 48,46,47 ]
+"1" : [ 52 ]
+"2" : [ 49,50 ]
+"3" : [  ]
+}]
+}

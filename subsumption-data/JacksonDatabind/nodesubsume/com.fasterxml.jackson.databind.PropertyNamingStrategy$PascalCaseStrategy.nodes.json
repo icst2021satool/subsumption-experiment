@@ -1,0 +1,13 @@
+{
+"Class" : "com.fasterxml.jackson.databind.PropertyNamingStrategy$PascalCaseStrategy", 
+"Methods" : [{ "Name" : "translate" ,
+"Nodes" : 7,
+"0" : [ 288 ]
+"1" : [ 289 ]
+"2" : [ 288 ]
+"3" : [ 292,293 ]
+"4" : [ 296,297,298 ]
+"5" : [ 294 ]
+"6" : [  ]
+}]
+}

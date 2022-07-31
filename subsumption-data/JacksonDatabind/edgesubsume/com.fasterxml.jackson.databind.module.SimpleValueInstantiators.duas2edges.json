@@ -1,0 +1,8 @@
+{
+"Class" : "com.fasterxml.jackson.databind.module.SimpleValueInstantiators", 
+"Methods" : [{ "Name" : "findValueInstantiator" ,
+"Edges" : 5,
+"Duas" : 4,
+"1" : 2, 
+ "2" : 3}]
+}

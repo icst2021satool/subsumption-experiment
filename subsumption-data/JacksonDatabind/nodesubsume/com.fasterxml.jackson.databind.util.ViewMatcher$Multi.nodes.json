@@ -1,0 +1,14 @@
+{
+"Class" : "com.fasterxml.jackson.databind.util.ViewMatcher$Multi", 
+"Methods" : [{ "Name" : "isVisibleForView" ,
+"Nodes" : 8,
+"0" : [ 68 ]
+"1" : [ 68 ]
+"2" : [ 74 ]
+"3" : [ 69,70 ]
+"4" : [ 71 ]
+"5" : [ 70 ]
+"6" : [ 68 ]
+"7" : [  ]
+}]
+}

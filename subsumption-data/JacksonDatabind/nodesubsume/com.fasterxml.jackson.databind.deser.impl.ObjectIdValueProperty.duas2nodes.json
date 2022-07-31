@@ -1,0 +1,19 @@
+{
+"Class" : "com.fasterxml.jackson.databind.deser.impl.ObjectIdValueProperty", 
+"Methods" : [{ "Name" : "deserializeSetAndReturn" ,
+"Nodes" : 4,
+"Duas" : 6,
+"0" :  [ 0,1 ],
+"1" :  [ 0,2 ],
+"2" :  [ 0,2 ],
+"3" :  [ 0,2 ],
+"4" :  [ 0,1 ],
+"5" :  [ 0,2 ]},{ "Name" : "setAndReturn" ,
+"Nodes" : 4,
+"Duas" : 5,
+"0" :  [ 0,1 ],
+"1" :  [ 0,1 ],
+"2" :  [ 0,2 ],
+"3" :  [ 0,1 ],
+"4" :  [ 0,1 ]}]
+}

@@ -1,0 +1,30 @@
+{
+"Class" : "com.fasterxml.jackson.databind.introspect.AnnotatedConstructor", 
+"Methods" : [{ "Name" : "<init>" ,
+"Nodes" : 4,
+"0" : [ 34,35 ]
+"1" : [ 38,39 ]
+"2" : [ 36 ]
+"3" : [  ]
+},{ "Name" : "getRawParameterType" ,
+"Nodes" : 5,
+"0" : [ 107,108 ]
+"1" : [ 108 ]
+"2" : [ 108 ]
+"3" : [ 108 ]
+"4" : [  ]
+},{ "Name" : "getGenericParameterType" ,
+"Nodes" : 5,
+"0" : [ 114,115 ]
+"1" : [ 115 ]
+"2" : [ 115 ]
+"3" : [ 115 ]
+"4" : [  ]
+},{ "Name" : "readResolve" ,
+"Nodes" : 4,
+"0" : [ 183,185,187 ]
+"1" : [ 190 ]
+"2" : [ 188 ]
+"3" : [  ]
+}]
+}

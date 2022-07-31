@@ -1,0 +1,8 @@
+{
+"Class" : "com.fasterxml.jackson.databind.deser.impl.MethodProperty", 
+"Methods" : [{ "Name" : "setAndReturn" ,
+"Edges" : 5,
+"Duas" : 4,
+"1" : 1, 
+ "2" : 2}]
+}

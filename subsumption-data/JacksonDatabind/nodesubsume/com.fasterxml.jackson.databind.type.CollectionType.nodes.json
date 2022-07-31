@@ -1,0 +1,22 @@
+{
+"Class" : "com.fasterxml.jackson.databind.type.CollectionType", 
+"Methods" : [{ "Name" : "narrowContentsBy" ,
+"Nodes" : 4,
+"0" : [ 34 ]
+"1" : [ 37 ]
+"2" : [ 35 ]
+"3" : [  ]
+},{ "Name" : "widenContentsBy" ,
+"Nodes" : 4,
+"0" : [ 45 ]
+"1" : [ 48 ]
+"2" : [ 46 ]
+"3" : [  ]
+},{ "Name" : "withStaticTyping" ,
+"Nodes" : 4,
+"0" : [ 85 ]
+"1" : [ 88 ]
+"2" : [ 86 ]
+"3" : [  ]
+}]
+}

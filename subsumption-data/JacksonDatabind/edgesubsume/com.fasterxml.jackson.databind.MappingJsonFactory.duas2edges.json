@@ -1,0 +1,12 @@
+{
+"Class" : "com.fasterxml.jackson.databind.MappingJsonFactory", 
+"Methods" : [{ "Name" : "<init>" ,
+"Edges" : 4,
+"Duas" : 4,
+"2" : 0, 
+ "3" : 1},{ "Name" : "hasFormat" ,
+"Edges" : 4,
+"Duas" : 4,
+"0" : 0, 
+ "1" : 1}]
+}

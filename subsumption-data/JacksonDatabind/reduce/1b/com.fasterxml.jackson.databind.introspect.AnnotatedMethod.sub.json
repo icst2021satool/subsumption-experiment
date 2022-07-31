@@ -1,0 +1,29 @@
+{
+"Class" : "com.fasterxml.jackson.databind.introspect.AnnotatedMethod", 
+"Methods" : [{ "Name" : "<init>" ,
+"Duas" : "4" ,
+"Subsumers" : 2,
+"0" : [ 3, 2, 0], "S0" : [0, 2, 3 ],
+"1" : [ 1], "S1" : [1 ]
+},{ "Name" : "getRawParameterTypes" ,
+"Duas" : "9" ,
+"Subsumers" : 2,
+"0" : [ 8, 7, 4, 3, 0], "S0" : [0, 2, 3, 4, 7, 8 ],
+"1" : [ 6, 5, 1], "S1" : [1, 2, 5, 6 ]
+},{ "Name" : "getRawParameterType" ,
+"Duas" : "6" ,
+"Subsumers" : 2,
+"0" : [ 3, 0], "S0" : [0, 2, 3, 5 ],
+"1" : [ 4, 1], "S1" : [1, 2, 4, 5 ]
+},{ "Name" : "getGenericParameterType" ,
+"Duas" : "6" ,
+"Subsumers" : 2,
+"0" : [ 3, 0], "S0" : [0, 2, 3, 5 ],
+"1" : [ 4, 1], "S1" : [1, 2, 4, 5 ]
+},{ "Name" : "readResolve" ,
+"Duas" : "4" ,
+"Subsumers" : 2,
+"0" : [ 3, 0], "S0" : [0, 2, 3 ],
+"1" : [ 1], "S1" : [1, 2 ]
+}]
+}

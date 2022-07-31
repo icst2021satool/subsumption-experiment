@@ -1,0 +1,12 @@
+{
+"Class" : "com.fasterxml.jackson.databind.deser.impl.PropertyBasedObjectIdGenerator", 
+"Methods" : [{ "Name" : "forScope" ,
+"Edges" : 5,
+"Duas" : 8,
+"0" : 3, 
+ "1" : 4, 
+ "3" : 3, 
+ "4" : 4, 
+ "6" : 3, 
+ "7" : 4}]
+}

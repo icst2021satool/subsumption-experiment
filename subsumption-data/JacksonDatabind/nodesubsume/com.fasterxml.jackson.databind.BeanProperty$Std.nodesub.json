@@ -1,0 +1,22 @@
+{
+"Class" : "com.fasterxml.jackson.databind.BeanProperty$Std", 
+"Methods" : [{ "Name" : "getAnnotation" ,
+"Nodes" : 5,
+"0" : [ ],
+"1" : [ 1, 5],
+"3" : [ 0, 4],
+"2" : [ 2, 3, 6],
+"4" : [ 2, 3, 6],
+"CoveredDUAsByNodes" : 7,
+"Duas" : 7
+},{ "Name" : "getContextAnnotation" ,
+"Nodes" : 5,
+"0" : [ ],
+"1" : [ 1, 5],
+"3" : [ 0, 4],
+"2" : [ 2, 3, 6],
+"4" : [ 2, 3, 6],
+"CoveredDUAsByNodes" : 7,
+"Duas" : 7
+}]
+}

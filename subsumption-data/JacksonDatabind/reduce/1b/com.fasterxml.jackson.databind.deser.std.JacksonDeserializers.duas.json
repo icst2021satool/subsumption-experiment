@@ -1,0 +1,15 @@
+{
+"Class" : "com.fasterxml.jackson.databind.deser.std.JacksonDeserializers", 
+"Methods" : [{ "Name" : "find" ,
+"Duas" : 6,
+"0" :  "(40,(40,41), rawType)",
+"1" :  "(40,(40,43), rawType)",
+"2" :  "(40,(43,44), rawType)",
+"3" :  "(40,(43,46), rawType)",
+"4" :  "(40,41, instance)",
+"5" :  "(40,44, instance)"},{ "Name" : "findValueInstantiator" ,
+"Duas" : 3,
+"0" :  "(52,(52,53), beanDesc)",
+"1" :  "(52,(52,55), beanDesc)",
+"2" :  "(52,53, instance)"}]
+}

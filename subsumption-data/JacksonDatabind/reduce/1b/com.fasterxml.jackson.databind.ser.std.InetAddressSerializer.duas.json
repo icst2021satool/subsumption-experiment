@@ -1,0 +1,16 @@
+{
+"Class" : "com.fasterxml.jackson.databind.ser.std.InetAddressSerializer", 
+"Methods" : [{ "Name" : "serialize" ,
+"Duas" : 11,
+"0" :  "(27,36, jgen)",
+"1" :  "(27,36, str)",
+"2" :  "(27,33, str)",
+"3" :  "(27,31, str)",
+"4" :  "(28,(29,30), ix)",
+"5" :  "(28,(29,36), ix)",
+"6" :  "(28,(30,31), ix)",
+"7" :  "(28,(30,33), ix)",
+"8" :  "(28,33, ix)",
+"9" :  "(31,36, str)",
+"10" :  "(33,36, str)"}]
+}

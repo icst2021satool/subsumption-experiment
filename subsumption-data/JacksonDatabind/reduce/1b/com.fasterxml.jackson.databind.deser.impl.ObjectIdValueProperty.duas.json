@@ -1,0 +1,17 @@
+{
+"Class" : "com.fasterxml.jackson.databind.deser.impl.ObjectIdValueProperty", 
+"Methods" : [{ "Name" : "deserializeSetAndReturn" ,
+"Duas" : 6,
+"0" :  "(89,97, instance)",
+"1" :  "(89,95, instance)",
+"2" :  "(89,95, id)",
+"3" :  "(93,(94,95), idProp)",
+"4" :  "(93,(94,97), idProp)",
+"5" :  "(93,95, idProp)"},{ "Name" : "setAndReturn" ,
+"Duas" : 5,
+"0" :  "(110,115, instance)",
+"1" :  "(110,115, value)",
+"2" :  "(110,(111,112), idProp)",
+"3" :  "(110,(111,115), idProp)",
+"4" :  "(110,115, idProp)"}]
+}
