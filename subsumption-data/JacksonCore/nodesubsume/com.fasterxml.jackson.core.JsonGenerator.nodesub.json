@@ -1,0 +1,13 @@
+{
+"Class" : "com.fasterxml.jackson.core.JsonGenerator", 
+"Methods" : [{ "Name" : "configure" ,
+"Nodes" : 5,
+"0" : [ ],
+"1" : [ 0, 3, 6],
+"3" : [ 2, 4, 5],
+"2" : [ 1],
+"4" : [ 1],
+"CoveredDUAsByNodes" : 7,
+"Duas" : 7
+}]
+}

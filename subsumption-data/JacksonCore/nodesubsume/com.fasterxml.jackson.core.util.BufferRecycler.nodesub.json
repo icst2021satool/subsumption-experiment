@@ -1,0 +1,25 @@
+{
+"Class" : "com.fasterxml.jackson.core.util.BufferRecycler", 
+"Methods" : [{ "Name" : "allocByteBuffer" ,
+"Nodes" : 5,
+"0" : [ ],
+"1" : [ 0, 3, 5, 7],
+"3" : [ 1, 2, 4, 6],
+"2" : [ ],
+"4" : [ ],
+"CoveredDUAsByNodes" : 8,
+"Duas" : 10
+},{ "Name" : "allocCharBuffer" ,
+"Nodes" : 8,
+"0" : [ ],
+"6" : [ 3, 6, 7, 12, 14],
+"1" : [ 0, 5, 15],
+"4" : [ 0, 5, 21, 15],
+"5" : [ 0, 16, 2, 20, 5, 21, 24, 15],
+"2" : [ 0, 1, 5, 15],
+"3" : [ 0, 5, 15],
+"7" : [ 0, 5, 15],
+"CoveredDUAsByNodes" : 14,
+"Duas" : 27
+}]
+}

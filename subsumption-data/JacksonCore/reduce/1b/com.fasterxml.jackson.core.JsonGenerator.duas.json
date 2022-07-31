@@ -1,0 +1,12 @@
+{
+"Class" : "com.fasterxml.jackson.core.JsonGenerator", 
+"Methods" : [{ "Name" : "configure" ,
+"Duas" : 7,
+"0" :  "(255,258, this)",
+"1" :  "(255,260, this)",
+"2" :  "(255,256, this)",
+"3" :  "(255,258, f)",
+"4" :  "(255,256, f)",
+"5" :  "(255,(255,256), state)",
+"6" :  "(255,(255,258), state)"}]
+}

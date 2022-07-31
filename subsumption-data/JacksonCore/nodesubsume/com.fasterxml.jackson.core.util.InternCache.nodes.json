@@ -1,0 +1,17 @@
+{
+"Class" : "com.fasterxml.jackson.core.util.InternCache", 
+"Methods" : [{ "Name" : "removeEldestEntry" ,
+"Nodes" : 5,
+"0" : [ 38 ]
+"1" : [ 38 ]
+"2" : [ 38 ]
+"3" : [ 38 ]
+"4" : [  ]
+},{ "Name" : "intern" ,
+"Nodes" : 4,
+"0" : [ 43,44 ]
+"1" : [ 48 ]
+"2" : [ 45,46 ]
+"3" : [  ]
+}]
+}

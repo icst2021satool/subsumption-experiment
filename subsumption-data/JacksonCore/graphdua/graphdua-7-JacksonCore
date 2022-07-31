@@ -1,0 +1,2769 @@
+@@ Method, Nodes, Nduas, Time_s, Time_ms
+
+Failed to analyze: /Users/marcoschaim/experimentos/subsumption-experiment/scripts/../subsumption-data/JacksonCore/graphdua
+Failed to analyze: /Users/marcoschaim/experimentos/subsumption-experiment/scripts/../subsumption-data/JacksonCore/graphdua
+Failed to analyze: /Users/marcoschaim/experimentos/subsumption-experiment/scripts/../subsumption-data/JacksonCore/graphdua
+
+#com/fasterxml/jackson/core/JsonFactory$Feature/collectDefaults:
+Method com.fasterxml.jackson.core.JsonFactory$Feature.collectDefaults graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.JsonFactory$Feature.collectDefaults,7,18,0,14
+
+
+#com/fasterxml/jackson/core/JsonFactory$Feature/enabledIn:
+Method com.fasterxml.jackson.core.JsonFactory$Feature.enabledIn graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.JsonFactory$Feature.enabledIn,5,4,0,1
+
+
+#com/fasterxml/jackson/core/JsonLocation/toString:
+Method com.fasterxml.jackson.core.JsonLocation.toString graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.JsonLocation.toString,5,12,0,3
+
+
+#com/fasterxml/jackson/core/JsonLocation/hashCode:
+Method com.fasterxml.jackson.core.JsonLocation.hashCode graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.JsonLocation.hashCode,5,10,0,1
+
+
+#com/fasterxml/jackson/core/JsonLocation/equals:
+Method com.fasterxml.jackson.core.JsonLocation.equals graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.JsonLocation.equals,19,53,0,17
+
+
+#com/fasterxml/jackson/core/JsonToken/<init>:
+Method com.fasterxml.jackson.core.JsonToken.<init> graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.JsonToken.<init>,7,16,0,3
+
+
+#com/fasterxml/jackson/core/JsonToken/isNumeric:
+Method com.fasterxml.jackson.core.JsonToken.isNumeric graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.JsonToken.isNumeric,6,8,0,1
+
+
+#com/fasterxml/jackson/core/JsonToken/isScalarValue:
+Method com.fasterxml.jackson.core.JsonToken.isScalarValue graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.JsonToken.isScalarValue,5,4,0,1
+
+
+#com/fasterxml/jackson/core/Version/<init>:
+Method com.fasterxml.jackson.core.Version.<init> graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.Version.<init>,8,8,0,1
+
+
+#com/fasterxml/jackson/core/Version/isUknownVersion:
+Method com.fasterxml.jackson.core.Version.isUknownVersion graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.Version.isUknownVersion,5,4,0,0
+
+
+#com/fasterxml/jackson/core/Version/isSnapshot:
+Method com.fasterxml.jackson.core.Version.isSnapshot graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.Version.isSnapshot,6,8,0,1
+
+
+#com/fasterxml/jackson/core/Version/toString:
+Method com.fasterxml.jackson.core.Version.toString graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.Version.toString,4,6,0,0
+
+
+#com/fasterxml/jackson/core/Version/equals:
+Method com.fasterxml.jackson.core.Version.equals graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.Version.equals,15,51,0,7
+
+
+#com/fasterxml/jackson/core/Version/compareTo:
+Method com.fasterxml.jackson.core.Version.compareTo graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.Version.compareTo,9,37,0,4
+
+
+#com/fasterxml/jackson/core/Base64Variants/valueOf:
+Method com.fasterxml.jackson.core.Base64Variants.valueOf graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.Base64Variants.valueOf,13,33,0,3
+
+
+#com/fasterxml/jackson/core/JsonStreamContext/inArray:
+Method com.fasterxml.jackson.core.JsonStreamContext.inArray graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.JsonStreamContext.inArray,5,4,0,1
+
+
+#com/fasterxml/jackson/core/JsonStreamContext/inRoot:
+Method com.fasterxml.jackson.core.JsonStreamContext.inRoot graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.JsonStreamContext.inRoot,5,4,0,0
+
+
+#com/fasterxml/jackson/core/JsonStreamContext/inObject:
+Method com.fasterxml.jackson.core.JsonStreamContext.inObject graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.JsonStreamContext.inObject,5,4,0,0
+
+
+#com/fasterxml/jackson/core/JsonStreamContext/getTypeDesc:
+Method com.fasterxml.jackson.core.JsonStreamContext.getTypeDesc graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.JsonStreamContext.getTypeDesc,6,8,0,0
+
+
+#com/fasterxml/jackson/core/JsonStreamContext/getCurrentIndex:
+Method com.fasterxml.jackson.core.JsonStreamContext.getCurrentIndex graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.JsonStreamContext.getCurrentIndex,5,6,0,0
+
+
+#com/fasterxml/jackson/core/JsonGenerator/configure:
+Method com.fasterxml.jackson.core.JsonGenerator.configure graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.JsonGenerator.configure,5,7,0,0
+
+
+#com/fasterxml/jackson/core/Base64Variant/<init>:
+Method com.fasterxml.jackson.core.Base64Variant.<init> graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.Base64Variant.<init>,9,25,0,2
+
+
+#com/fasterxml/jackson/core/Base64Variant/usesPaddingChar:
+Method com.fasterxml.jackson.core.Base64Variant.usesPaddingChar graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.Base64Variant.usesPaddingChar,5,6,0,0
+
+
+#com/fasterxml/jackson/core/Base64Variant/usesPaddingChar:
+Method com.fasterxml.jackson.core.Base64Variant.usesPaddingChar graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.Base64Variant.usesPaddingChar,5,6,0,1
+
+
+#com/fasterxml/jackson/core/Base64Variant/decodeBase64Char:
+Method com.fasterxml.jackson.core.Base64Variant.decodeBase64Char graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.Base64Variant.decodeBase64Char,5,5,0,1
+
+
+#com/fasterxml/jackson/core/Base64Variant/decodeBase64Char:
+Method com.fasterxml.jackson.core.Base64Variant.decodeBase64Char graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.Base64Variant.decodeBase64Char,5,5,0,0
+
+
+#com/fasterxml/jackson/core/Base64Variant/decodeBase64Byte:
+Method com.fasterxml.jackson.core.Base64Variant.decodeBase64Byte graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.Base64Variant.decodeBase64Byte,5,5,0,1
+
+
+#com/fasterxml/jackson/core/Base64Variant/encodeBase64Partial:
+Method com.fasterxml.jackson.core.Base64Variant.encodeBase64Partial graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.Base64Variant.encodeBase64Partial,9,23,0,2
+
+
+#com/fasterxml/jackson/core/Base64Variant/encodeBase64Partial:
+Method com.fasterxml.jackson.core.Base64Variant.encodeBase64Partial graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.Base64Variant.encodeBase64Partial,9,15,0,1
+
+
+#com/fasterxml/jackson/core/Base64Variant/encodeBase64Partial:
+Method com.fasterxml.jackson.core.Base64Variant.encodeBase64Partial graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.Base64Variant.encodeBase64Partial,9,25,0,1
+
+
+#com/fasterxml/jackson/core/Base64Variant/encode:
+Method com.fasterxml.jackson.core.Base64Variant.encode graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.Base64Variant.encode,15,45,0,7
+
+
+#com/fasterxml/jackson/core/Base64Variant/decode:
+Method com.fasterxml.jackson.core.Base64Variant.decode graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.Base64Variant.decode,35,98,0,49
+
+
+#com/fasterxml/jackson/core/Base64Variant/equals:
+Method com.fasterxml.jackson.core.Base64Variant.equals graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.Base64Variant.equals,5,4,0,0
+
+
+#com/fasterxml/jackson/core/Base64Variant/_reportInvalidBase64:
+Method com.fasterxml.jackson.core.Base64Variant._reportInvalidBase64 graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.Base64Variant._reportInvalidBase64,12,28,0,2
+
+
+#com/fasterxml/jackson/core/JsonProcessingException/<init>:
+Method com.fasterxml.jackson.core.JsonProcessingException.<init> graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.JsonProcessingException.<init>,4,6,0,0
+
+
+#com/fasterxml/jackson/core/JsonProcessingException/getMessage:
+Method com.fasterxml.jackson.core.JsonProcessingException.getMessage graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.JsonProcessingException.getMessage,11,21,0,1
+
+
+#com/fasterxml/jackson/core/JsonFactory/_checkInvalidCopy:
+Method com.fasterxml.jackson.core.JsonFactory._checkInvalidCopy graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.JsonFactory._checkInvalidCopy,4,5,0,1
+
+
+#com/fasterxml/jackson/core/JsonFactory/canUseSchema:
+Method com.fasterxml.jackson.core.JsonFactory.canUseSchema graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.JsonFactory.canUseSchema,6,6,0,0
+
+
+#com/fasterxml/jackson/core/JsonFactory/getFormatName:
+Method com.fasterxml.jackson.core.JsonFactory.getFormatName graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.JsonFactory.getFormatName,4,2,0,0
+
+
+#com/fasterxml/jackson/core/JsonFactory/hasFormat:
+Method com.fasterxml.jackson.core.JsonFactory.hasFormat graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.JsonFactory.hasFormat,4,4,0,0
+
+
+#com/fasterxml/jackson/core/JsonFactory/configure:
+Method com.fasterxml.jackson.core.JsonFactory.configure graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.JsonFactory.configure,5,4,0,0
+
+
+#com/fasterxml/jackson/core/JsonFactory/isEnabled:
+Method com.fasterxml.jackson.core.JsonFactory.isEnabled graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.JsonFactory.isEnabled,5,6,0,0
+
+
+#com/fasterxml/jackson/core/JsonFactory/configure:
+Method com.fasterxml.jackson.core.JsonFactory.configure graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.JsonFactory.configure,5,4,0,0
+
+
+#com/fasterxml/jackson/core/JsonFactory/isEnabled:
+Method com.fasterxml.jackson.core.JsonFactory.isEnabled graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.JsonFactory.isEnabled,5,6,0,1
+
+
+#com/fasterxml/jackson/core/JsonFactory/configure:
+Method com.fasterxml.jackson.core.JsonFactory.configure graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.JsonFactory.configure,5,4,0,0
+
+
+#com/fasterxml/jackson/core/JsonFactory/isEnabled:
+Method com.fasterxml.jackson.core.JsonFactory.isEnabled graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.JsonFactory.isEnabled,5,6,0,1
+
+
+#com/fasterxml/jackson/core/JsonFactory/setRootValueSeparator:
+Method com.fasterxml.jackson.core.JsonFactory.setRootValueSeparator graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.JsonFactory.setRootValueSeparator,5,4,0,0
+
+
+#com/fasterxml/jackson/core/JsonFactory/getRootValueSeparator:
+Method com.fasterxml.jackson.core.JsonFactory.getRootValueSeparator graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.JsonFactory.getRootValueSeparator,5,6,0,1
+
+
+#com/fasterxml/jackson/core/JsonFactory/createParser:
+Method com.fasterxml.jackson.core.JsonFactory.createParser graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.JsonFactory.createParser,4,12,0,1
+
+
+#com/fasterxml/jackson/core/JsonFactory/createParser:
+Method com.fasterxml.jackson.core.JsonFactory.createParser graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.JsonFactory.createParser,4,12,0,0
+
+
+#com/fasterxml/jackson/core/JsonFactory/createParser:
+Method com.fasterxml.jackson.core.JsonFactory.createParser graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.JsonFactory.createParser,4,12,0,1
+
+
+#com/fasterxml/jackson/core/JsonFactory/createParser:
+Method com.fasterxml.jackson.core.JsonFactory.createParser graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.JsonFactory.createParser,4,12,0,0
+
+
+#com/fasterxml/jackson/core/JsonFactory/createParser:
+Method com.fasterxml.jackson.core.JsonFactory.createParser graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.JsonFactory.createParser,5,16,0,1
+
+
+#com/fasterxml/jackson/core/JsonFactory/createParser:
+Method com.fasterxml.jackson.core.JsonFactory.createParser graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.JsonFactory.createParser,5,20,0,1
+
+
+#com/fasterxml/jackson/core/JsonFactory/createParser:
+Method com.fasterxml.jackson.core.JsonFactory.createParser graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.JsonFactory.createParser,4,12,0,1
+
+
+#com/fasterxml/jackson/core/JsonFactory/createGenerator:
+Method com.fasterxml.jackson.core.JsonFactory.createGenerator graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.JsonFactory.createGenerator,8,32,0,1
+
+
+#com/fasterxml/jackson/core/JsonFactory/createGenerator:
+Method com.fasterxml.jackson.core.JsonFactory.createGenerator graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.JsonFactory.createGenerator,4,12,0,0
+
+
+#com/fasterxml/jackson/core/JsonFactory/createGenerator:
+Method com.fasterxml.jackson.core.JsonFactory.createGenerator graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.JsonFactory.createGenerator,8,32,0,1
+
+
+#com/fasterxml/jackson/core/JsonFactory/_createGenerator:
+Method com.fasterxml.jackson.core.JsonFactory._createGenerator graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.JsonFactory._createGenerator,6,16,0,1
+
+
+#com/fasterxml/jackson/core/JsonFactory/_createUTF8Generator:
+Method com.fasterxml.jackson.core.JsonFactory._createUTF8Generator graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.JsonFactory._createUTF8Generator,6,16,0,0
+
+
+#com/fasterxml/jackson/core/JsonFactory/_createWriter:
+Method com.fasterxml.jackson.core.JsonFactory._createWriter graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.JsonFactory._createWriter,4,8,0,1
+
+
+#com/fasterxml/jackson/core/JsonFactory/_getBufferRecycler:
+Method com.fasterxml.jackson.core.JsonFactory._getBufferRecycler graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.JsonFactory._getBufferRecycler,7,8,0,1
+
+
+#com/fasterxml/jackson/core/JsonFactory/_optimizedStreamFromURL:
+Method com.fasterxml.jackson.core.JsonFactory._optimizedStreamFromURL graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.JsonFactory._optimizedStreamFromURL,7,12,0,0
+
+
+#com/fasterxml/jackson/core/JsonGenerator$Feature/collectDefaults:
+Method com.fasterxml.jackson.core.JsonGenerator$Feature.collectDefaults graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.JsonGenerator$Feature.collectDefaults,7,18,0,1
+
+
+#com/fasterxml/jackson/core/JsonParser$Feature/collectDefaults:
+Method com.fasterxml.jackson.core.JsonParser$Feature.collectDefaults graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.JsonParser$Feature.collectDefaults,7,18,0,1
+
+
+#com/fasterxml/jackson/core/JsonParser/configure:
+Method com.fasterxml.jackson.core.JsonParser.configure graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.JsonParser.configure,5,7,0,1
+
+
+#com/fasterxml/jackson/core/JsonParser/isEnabled:
+Method com.fasterxml.jackson.core.JsonParser.isEnabled graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.JsonParser.isEnabled,5,6,0,0
+
+
+#com/fasterxml/jackson/core/JsonParser/nextFieldName:
+Method com.fasterxml.jackson.core.JsonParser.nextFieldName graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.JsonParser.nextFieldName,6,8,0,0
+
+
+#com/fasterxml/jackson/core/JsonParser/nextTextValue:
+Method com.fasterxml.jackson.core.JsonParser.nextTextValue graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.JsonParser.nextTextValue,5,5,0,0
+
+
+#com/fasterxml/jackson/core/JsonParser/nextIntValue:
+Method com.fasterxml.jackson.core.JsonParser.nextIntValue graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.JsonParser.nextIntValue,5,6,0,0
+
+
+#com/fasterxml/jackson/core/JsonParser/nextLongValue:
+Method com.fasterxml.jackson.core.JsonParser.nextLongValue graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.JsonParser.nextLongValue,5,6,0,0
+
+
+#com/fasterxml/jackson/core/JsonParser/nextBooleanValue:
+Method com.fasterxml.jackson.core.JsonParser.nextBooleanValue graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.JsonParser.nextBooleanValue,5,8,0,0
+
+
+#com/fasterxml/jackson/core/JsonParser/isExpectedStartArrayToken:
+Method com.fasterxml.jackson.core.JsonParser.isExpectedStartArrayToken graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.JsonParser.isExpectedStartArrayToken,5,4,0,0
+
+
+#com/fasterxml/jackson/core/JsonParser/getByteValue:
+Method com.fasterxml.jackson.core.JsonParser.getByteValue graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.JsonParser.getByteValue,5,6,0,0
+
+
+#com/fasterxml/jackson/core/JsonParser/getShortValue:
+Method com.fasterxml.jackson.core.JsonParser.getShortValue graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.JsonParser.getShortValue,5,6,0,0
+
+
+#com/fasterxml/jackson/core/JsonParser/getBooleanValue:
+Method com.fasterxml.jackson.core.JsonParser.getBooleanValue graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.JsonParser.getBooleanValue,6,10,0,0
+
+
+#com/fasterxml/jackson/core/JsonParser/readValueAs:
+Method com.fasterxml.jackson.core.JsonParser.readValueAs graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.JsonParser.readValueAs,4,5,0,0
+
+
+#com/fasterxml/jackson/core/JsonParser/readValueAs:
+Method com.fasterxml.jackson.core.JsonParser.readValueAs graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.JsonParser.readValueAs,4,5,0,0
+
+
+#com/fasterxml/jackson/core/JsonParser/readValuesAs:
+Method com.fasterxml.jackson.core.JsonParser.readValuesAs graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.JsonParser.readValuesAs,4,5,0,0
+
+
+#com/fasterxml/jackson/core/JsonParser/readValuesAs:
+Method com.fasterxml.jackson.core.JsonParser.readValuesAs graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.JsonParser.readValuesAs,4,5,0,0
+
+
+#com/fasterxml/jackson/core/JsonParser/readValueAsTree:
+Method com.fasterxml.jackson.core.JsonParser.readValueAsTree graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.JsonParser.readValueAsTree,4,4,0,0
+
+
+#com/fasterxml/jackson/core/sym/Name3/equals:
+Method com.fasterxml.jackson.core.sym.Name3.equals graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.sym.Name3.equals,8,20,0,0
+
+
+#com/fasterxml/jackson/core/sym/NameN/<init>:
+Method com.fasterxml.jackson.core.sym.NameN.<init> graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.sym.NameN.<init>,4,5,0,0
+
+
+#com/fasterxml/jackson/core/sym/NameN/equals:
+Method com.fasterxml.jackson.core.sym.NameN.equals graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.sym.NameN.equals,9,24,0,2
+
+
+#com/fasterxml/jackson/core/sym/Name1/equals:
+Method com.fasterxml.jackson.core.sym.Name1.equals graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.sym.Name1.equals,5,6,0,1
+
+
+#com/fasterxml/jackson/core/sym/Name1/equals:
+Method com.fasterxml.jackson.core.sym.Name1.equals graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.sym.Name1.equals,6,8,0,1
+
+
+#com/fasterxml/jackson/core/sym/Name1/equals:
+Method com.fasterxml.jackson.core.sym.Name1.equals graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.sym.Name1.equals,6,8,0,0
+
+
+#com/fasterxml/jackson/core/sym/Name2/equals:
+Method com.fasterxml.jackson.core.sym.Name2.equals graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.sym.Name2.equals,6,12,0,0
+
+
+#com/fasterxml/jackson/core/sym/Name2/equals:
+Method com.fasterxml.jackson.core.sym.Name2.equals graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.sym.Name2.equals,7,14,0,1
+
+
+#com/fasterxml/jackson/core/sym/BytesToNameCanonicalizer$Bucket/<init>:
+Method com.fasterxml.jackson.core.sym.BytesToNameCanonicalizer$Bucket.<init> graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.sym.BytesToNameCanonicalizer$Bucket.<init>,5,5,0,0
+
+
+#com/fasterxml/jackson/core/sym/BytesToNameCanonicalizer$Bucket/find:
+Method com.fasterxml.jackson.core.sym.BytesToNameCanonicalizer$Bucket.find graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.sym.BytesToNameCanonicalizer$Bucket.find,11,40,0,1
+
+
+#com/fasterxml/jackson/core/sym/BytesToNameCanonicalizer$Bucket/find:
+Method com.fasterxml.jackson.core.sym.BytesToNameCanonicalizer$Bucket.find graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.sym.BytesToNameCanonicalizer$Bucket.find,11,40,0,1
+
+
+#com/fasterxml/jackson/core/sym/Name/equals:
+Method com.fasterxml.jackson.core.sym.Name.equals graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.sym.Name.equals,5,4,0,0
+
+
+#com/fasterxml/jackson/core/sym/BytesToNameCanonicalizer/<init>:
+Method com.fasterxml.jackson.core.sym.BytesToNameCanonicalizer.<init> graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.sym.BytesToNameCanonicalizer.<init>,9,18,0,2
+
+
+#com/fasterxml/jackson/core/sym/BytesToNameCanonicalizer/release:
+Method com.fasterxml.jackson.core.sym.BytesToNameCanonicalizer.release graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.sym.BytesToNameCanonicalizer.release,5,8,0,0
+
+
+#com/fasterxml/jackson/core/sym/BytesToNameCanonicalizer/mergeChild:
+Method com.fasterxml.jackson.core.sym.BytesToNameCanonicalizer.mergeChild graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.sym.BytesToNameCanonicalizer.mergeChild,7,18,0,0
+
+
+#com/fasterxml/jackson/core/sym/BytesToNameCanonicalizer/size:
+Method com.fasterxml.jackson.core.sym.BytesToNameCanonicalizer.size graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.sym.BytesToNameCanonicalizer.size,4,8,0,0
+
+
+#com/fasterxml/jackson/core/sym/BytesToNameCanonicalizer/maybeDirty:
+Method com.fasterxml.jackson.core.sym.BytesToNameCanonicalizer.maybeDirty graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.sym.BytesToNameCanonicalizer.maybeDirty,5,4,0,1
+
+
+#com/fasterxml/jackson/core/sym/BytesToNameCanonicalizer/findName:
+Method com.fasterxml.jackson.core.sym.BytesToNameCanonicalizer.findName graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.sym.BytesToNameCanonicalizer.findName,13,27,0,4
+
+
+#com/fasterxml/jackson/core/sym/BytesToNameCanonicalizer/findName:
+Method com.fasterxml.jackson.core.sym.BytesToNameCanonicalizer.findName graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.sym.BytesToNameCanonicalizer.findName,16,37,0,1
+
+
+#com/fasterxml/jackson/core/sym/BytesToNameCanonicalizer/findName:
+Method com.fasterxml.jackson.core.sym.BytesToNameCanonicalizer.findName graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.sym.BytesToNameCanonicalizer.findName,17,41,0,1
+
+
+#com/fasterxml/jackson/core/sym/BytesToNameCanonicalizer/addName:
+Method com.fasterxml.jackson.core.sym.BytesToNameCanonicalizer.addName graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.sym.BytesToNameCanonicalizer.addName,7,13,0,0
+
+
+#com/fasterxml/jackson/core/sym/BytesToNameCanonicalizer/addName:
+Method com.fasterxml.jackson.core.sym.BytesToNameCanonicalizer.addName graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.sym.BytesToNameCanonicalizer.addName,10,22,0,0
+
+
+#com/fasterxml/jackson/core/sym/BytesToNameCanonicalizer/calcHash:
+Method com.fasterxml.jackson.core.sym.BytesToNameCanonicalizer.calcHash graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.sym.BytesToNameCanonicalizer.calcHash,7,18,0,1
+
+
+#com/fasterxml/jackson/core/sym/BytesToNameCanonicalizer/calcQuads:
+Method com.fasterxml.jackson.core.sym.BytesToNameCanonicalizer.calcQuads graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.sym.BytesToNameCanonicalizer.calcQuads,9,39,0,3
+
+
+#com/fasterxml/jackson/core/sym/BytesToNameCanonicalizer/_addSymbol:
+Method com.fasterxml.jackson.core.sym.BytesToNameCanonicalizer._addSymbol graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.sym.BytesToNameCanonicalizer._addSymbol,26,104,0,8
+
+
+#com/fasterxml/jackson/core/sym/BytesToNameCanonicalizer/rehash:
+Method com.fasterxml.jackson.core.sym.BytesToNameCanonicalizer.rehash graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.sym.BytesToNameCanonicalizer.rehash,29,129,0,20
+
+
+#com/fasterxml/jackson/core/sym/BytesToNameCanonicalizer/findBestBucket:
+Method com.fasterxml.jackson.core.sym.BytesToNameCanonicalizer.findBestBucket graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.sym.BytesToNameCanonicalizer.findBestBucket,9,26,0,2
+
+
+#com/fasterxml/jackson/core/sym/BytesToNameCanonicalizer/unshareCollision:
+Method com.fasterxml.jackson.core.sym.BytesToNameCanonicalizer.unshareCollision graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.sym.BytesToNameCanonicalizer.unshareCollision,5,6,0,0
+
+
+#com/fasterxml/jackson/core/sym/BytesToNameCanonicalizer/constructName:
+Method com.fasterxml.jackson.core.sym.BytesToNameCanonicalizer.constructName graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.sym.BytesToNameCanonicalizer.constructName,4,9,0,1
+
+
+#com/fasterxml/jackson/core/sym/BytesToNameCanonicalizer/constructName:
+Method com.fasterxml.jackson.core.sym.BytesToNameCanonicalizer.constructName graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.sym.BytesToNameCanonicalizer.constructName,10,30,0,1
+
+
+#com/fasterxml/jackson/core/sym/CharsToNameCanonicalizer$Bucket/<init>:
+Method com.fasterxml.jackson.core.sym.CharsToNameCanonicalizer$Bucket.<init> graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.sym.CharsToNameCanonicalizer$Bucket.<init>,5,5,0,0
+
+
+#com/fasterxml/jackson/core/sym/CharsToNameCanonicalizer$Bucket/find:
+Method com.fasterxml.jackson.core.sym.CharsToNameCanonicalizer$Bucket.find graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.sym.CharsToNameCanonicalizer$Bucket.find,12,38,0,5
+
+
+#com/fasterxml/jackson/core/sym/CharsToNameCanonicalizer/mergeChild:
+Method com.fasterxml.jackson.core.sym.CharsToNameCanonicalizer.mergeChild graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.sym.CharsToNameCanonicalizer.mergeChild,8,19,0,1
+
+
+#com/fasterxml/jackson/core/sym/CharsToNameCanonicalizer/release:
+Method com.fasterxml.jackson.core.sym.CharsToNameCanonicalizer.release graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.sym.CharsToNameCanonicalizer.release,6,8,0,0
+
+
+#com/fasterxml/jackson/core/sym/CharsToNameCanonicalizer/collisionCount:
+Method com.fasterxml.jackson.core.sym.CharsToNameCanonicalizer.collisionCount graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.sym.CharsToNameCanonicalizer.collisionCount,7,18,0,1
+
+
+#com/fasterxml/jackson/core/sym/CharsToNameCanonicalizer/findSymbol:
+Method com.fasterxml.jackson.core.sym.CharsToNameCanonicalizer.findSymbol graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.sym.CharsToNameCanonicalizer.findSymbol,27,107,0,8
+
+
+#com/fasterxml/jackson/core/sym/CharsToNameCanonicalizer/calcHash:
+Method com.fasterxml.jackson.core.sym.CharsToNameCanonicalizer.calcHash graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.sym.CharsToNameCanonicalizer.calcHash,8,17,0,0
+
+
+#com/fasterxml/jackson/core/sym/CharsToNameCanonicalizer/calcHash:
+Method com.fasterxml.jackson.core.sym.CharsToNameCanonicalizer.calcHash graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.sym.CharsToNameCanonicalizer.calcHash,8,17,0,1
+
+
+#com/fasterxml/jackson/core/sym/CharsToNameCanonicalizer/rehash:
+Method com.fasterxml.jackson.core.sym.CharsToNameCanonicalizer.rehash graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.sym.CharsToNameCanonicalizer.rehash,22,102,0,11
+
+
+#com/fasterxml/jackson/core/util/TextBuffer/releaseBuffers:
+Method com.fasterxml.jackson.core.util.TextBuffer.releaseBuffers graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.util.TextBuffer.releaseBuffers,6,13,0,1
+
+
+#com/fasterxml/jackson/core/util/TextBuffer/resetWithEmpty:
+Method com.fasterxml.jackson.core.util.TextBuffer.resetWithEmpty graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.util.TextBuffer.resetWithEmpty,4,5,0,1
+
+
+#com/fasterxml/jackson/core/util/TextBuffer/resetWithShared:
+Method com.fasterxml.jackson.core.util.TextBuffer.resetWithShared graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.util.TextBuffer.resetWithShared,4,5,0,1
+
+
+#com/fasterxml/jackson/core/util/TextBuffer/resetWithCopy:
+Method com.fasterxml.jackson.core.util.TextBuffer.resetWithCopy graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.util.TextBuffer.resetWithCopy,6,15,0,0
+
+
+#com/fasterxml/jackson/core/util/TextBuffer/resetWithString:
+Method com.fasterxml.jackson.core.util.TextBuffer.resetWithString graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.util.TextBuffer.resetWithString,4,6,0,0
+
+
+#com/fasterxml/jackson/core/util/TextBuffer/findBuffer:
+Method com.fasterxml.jackson.core.util.TextBuffer.findBuffer graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.util.TextBuffer.findBuffer,4,9,0,0
+
+
+#com/fasterxml/jackson/core/util/TextBuffer/size:
+Method com.fasterxml.jackson.core.util.TextBuffer.size graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.util.TextBuffer.size,8,21,0,1
+
+
+#com/fasterxml/jackson/core/util/TextBuffer/getTextOffset:
+Method com.fasterxml.jackson.core.util.TextBuffer.getTextOffset graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.util.TextBuffer.getTextOffset,5,6,0,0
+
+
+#com/fasterxml/jackson/core/util/TextBuffer/hasTextAsCharacters:
+Method com.fasterxml.jackson.core.util.TextBuffer.hasTextAsCharacters graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.util.TextBuffer.hasTextAsCharacters,7,12,0,0
+
+
+#com/fasterxml/jackson/core/util/TextBuffer/getTextBuffer:
+Method com.fasterxml.jackson.core.util.TextBuffer.getTextBuffer graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.util.TextBuffer.getTextBuffer,10,25,0,0
+
+
+#com/fasterxml/jackson/core/util/TextBuffer/contentsAsString:
+Method com.fasterxml.jackson.core.util.TextBuffer.contentsAsString graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.util.TextBuffer.contentsAsString,19,63,0,2
+
+
+#com/fasterxml/jackson/core/util/TextBuffer/contentsAsArray:
+Method com.fasterxml.jackson.core.util.TextBuffer.contentsAsArray graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.util.TextBuffer.contentsAsArray,4,5,0,0
+
+
+#com/fasterxml/jackson/core/util/TextBuffer/contentsAsDecimal:
+Method com.fasterxml.jackson.core.util.TextBuffer.contentsAsDecimal graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.util.TextBuffer.contentsAsDecimal,8,22,0,0
+
+
+#com/fasterxml/jackson/core/util/TextBuffer/ensureNotShared:
+Method com.fasterxml.jackson.core.util.TextBuffer.ensureNotShared graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.util.TextBuffer.ensureNotShared,4,5,0,0
+
+
+#com/fasterxml/jackson/core/util/TextBuffer/append:
+Method com.fasterxml.jackson.core.util.TextBuffer.append graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.util.TextBuffer.append,6,20,0,0
+
+
+#com/fasterxml/jackson/core/util/TextBuffer/append:
+Method com.fasterxml.jackson.core.util.TextBuffer.append graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.util.TextBuffer.append,9,41,0,1
+
+
+#com/fasterxml/jackson/core/util/TextBuffer/append:
+Method com.fasterxml.jackson.core.util.TextBuffer.append graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.util.TextBuffer.append,9,41,0,2
+
+
+#com/fasterxml/jackson/core/util/TextBuffer/getCurrentSegment:
+Method com.fasterxml.jackson.core.util.TextBuffer.getCurrentSegment graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.util.TextBuffer.getCurrentSegment,8,20,0,0
+
+
+#com/fasterxml/jackson/core/util/TextBuffer/emptyAndGetCurrentSegment:
+Method com.fasterxml.jackson.core.util.TextBuffer.emptyAndGetCurrentSegment graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.util.TextBuffer.emptyAndGetCurrentSegment,6,12,0,0
+
+
+#com/fasterxml/jackson/core/util/TextBuffer/finishCurrentSegment:
+Method com.fasterxml.jackson.core.util.TextBuffer.finishCurrentSegment graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.util.TextBuffer.finishCurrentSegment,4,10,0,0
+
+
+#com/fasterxml/jackson/core/util/TextBuffer/expandCurrentSegment:
+Method com.fasterxml.jackson.core.util.TextBuffer.expandCurrentSegment graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.util.TextBuffer.expandCurrentSegment,5,5,0,0
+
+
+#com/fasterxml/jackson/core/util/TextBuffer/unshare:
+Method com.fasterxml.jackson.core.util.TextBuffer.unshare graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.util.TextBuffer.unshare,7,22,0,1
+
+
+#com/fasterxml/jackson/core/util/TextBuffer/expand:
+Method com.fasterxml.jackson.core.util.TextBuffer.expand graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.util.TextBuffer.expand,6,19,0,0
+
+
+#com/fasterxml/jackson/core/util/TextBuffer/buildResultArray:
+Method com.fasterxml.jackson.core.util.TextBuffer.buildResultArray graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.util.TextBuffer.buildResultArray,16,57,0,6
+
+
+#com/fasterxml/jackson/core/util/VersionUtil/<init>:
+Method com.fasterxml.jackson.core.util.VersionUtil.<init> graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.util.VersionUtil.<init>,4,5,0,0
+
+
+#com/fasterxml/jackson/core/util/VersionUtil/versionFor:
+Method com.fasterxml.jackson.core.util.VersionUtil.versionFor graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.util.VersionUtil.versionFor,6,7,0,0
+
+
+#com/fasterxml/jackson/core/util/VersionUtil/packageVersionFor:
+Method com.fasterxml.jackson.core.util.VersionUtil.packageVersionFor graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.util.VersionUtil.packageVersionFor,6,7,0,0
+
+
+#com/fasterxml/jackson/core/util/VersionUtil/doReadVersion:
+Method com.fasterxml.jackson.core.util.VersionUtil.doReadVersion graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.util.VersionUtil.doReadVersion,9,26,0,1
+
+
+#com/fasterxml/jackson/core/util/VersionUtil/mavenVersionFor:
+Method com.fasterxml.jackson.core.util.VersionUtil.mavenVersionFor graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.util.VersionUtil.mavenVersionFor,4,3,0,0
+
+
+#com/fasterxml/jackson/core/util/VersionUtil/parseVersion:
+Method com.fasterxml.jackson.core.util.VersionUtil.parseVersion graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.util.VersionUtil.parseVersion,15,21,0,1
+
+
+#com/fasterxml/jackson/core/util/VersionUtil/parseVersionPart:
+Method com.fasterxml.jackson.core.util.VersionUtil.parseVersionPart graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.util.VersionUtil.parseVersionPart,8,20,0,2
+
+
+#com/fasterxml/jackson/core/util/JsonParserSequence/createFlattened:
+Method com.fasterxml.jackson.core.util.JsonParserSequence.createFlattened graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.util.JsonParserSequence.createFlattened,11,19,0,1
+
+
+#com/fasterxml/jackson/core/util/JsonParserSequence/addFlattenedActiveParsers:
+Method com.fasterxml.jackson.core.util.JsonParserSequence.addFlattenedActiveParsers graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.util.JsonParserSequence.addFlattenedActiveParsers,8,18,0,1
+
+
+#com/fasterxml/jackson/core/util/JsonParserSequence/close:
+Method com.fasterxml.jackson.core.util.JsonParserSequence.close graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.util.JsonParserSequence.close,3,2,0,1
+
+
+#com/fasterxml/jackson/core/util/JsonParserSequence/nextToken:
+Method com.fasterxml.jackson.core.util.JsonParserSequence.nextToken graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.util.JsonParserSequence.nextToken,7,10,0,1
+
+
+#com/fasterxml/jackson/core/util/JsonParserSequence/switchToNext:
+Method com.fasterxml.jackson.core.util.JsonParserSequence.switchToNext graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.util.JsonParserSequence.switchToNext,4,9,0,0
+
+
+#com/fasterxml/jackson/core/util/ByteArrayBuilder/<init>:
+Method com.fasterxml.jackson.core.util.ByteArrayBuilder.<init> graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.util.ByteArrayBuilder.<init>,5,7,0,0
+
+
+#com/fasterxml/jackson/core/util/ByteArrayBuilder/reset:
+Method com.fasterxml.jackson.core.util.ByteArrayBuilder.reset graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.util.ByteArrayBuilder.reset,4,6,0,0
+
+
+#com/fasterxml/jackson/core/util/ByteArrayBuilder/release:
+Method com.fasterxml.jackson.core.util.ByteArrayBuilder.release graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.util.ByteArrayBuilder.release,5,12,0,0
+
+
+#com/fasterxml/jackson/core/util/ByteArrayBuilder/append:
+Method com.fasterxml.jackson.core.util.ByteArrayBuilder.append graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.util.ByteArrayBuilder.append,4,11,0,0
+
+
+#com/fasterxml/jackson/core/util/ByteArrayBuilder/appendTwoBytes:
+Method com.fasterxml.jackson.core.util.ByteArrayBuilder.appendTwoBytes graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.util.ByteArrayBuilder.appendTwoBytes,5,12,0,0
+
+
+#com/fasterxml/jackson/core/util/ByteArrayBuilder/appendThreeBytes:
+Method com.fasterxml.jackson.core.util.ByteArrayBuilder.appendThreeBytes graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.util.ByteArrayBuilder.appendThreeBytes,5,12,0,1
+
+
+#com/fasterxml/jackson/core/util/ByteArrayBuilder/toByteArray:
+Method com.fasterxml.jackson.core.util.ByteArrayBuilder.toByteArray graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.util.ByteArrayBuilder.toByteArray,11,30,0,1
+
+
+#com/fasterxml/jackson/core/util/ByteArrayBuilder/write:
+Method com.fasterxml.jackson.core.util.ByteArrayBuilder.write graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.util.ByteArrayBuilder.write,6,14,0,1
+
+
+#com/fasterxml/jackson/core/util/ByteArrayBuilder/_allocMore:
+Method com.fasterxml.jackson.core.util.ByteArrayBuilder._allocMore graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.util.ByteArrayBuilder._allocMore,4,7,0,0
+
+
+#com/fasterxml/jackson/core/util/DefaultPrettyPrinter$Lf2SpacesIndenter/withLinefeed:
+Method com.fasterxml.jackson.core.util.DefaultPrettyPrinter$Lf2SpacesIndenter.withLinefeed graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.util.DefaultPrettyPrinter$Lf2SpacesIndenter.withLinefeed,4,8,0,1
+
+
+#com/fasterxml/jackson/core/util/DefaultPrettyPrinter$Lf2SpacesIndenter/writeIndentation:
+Method com.fasterxml.jackson.core.util.DefaultPrettyPrinter$Lf2SpacesIndenter.writeIndentation graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.util.DefaultPrettyPrinter$Lf2SpacesIndenter.writeIndentation,7,15,0,0
+
+
+#com/fasterxml/jackson/core/util/MinimalPrettyPrinter/writeRootValueSeparator:
+Method com.fasterxml.jackson.core.util.MinimalPrettyPrinter.writeRootValueSeparator graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.util.MinimalPrettyPrinter.writeRootValueSeparator,4,7,0,0
+
+
+#com/fasterxml/jackson/core/util/BufferRecycler/allocByteBuffer:
+Method com.fasterxml.jackson.core.util.BufferRecycler.allocByteBuffer graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.util.BufferRecycler.allocByteBuffer,5,10,0,0
+
+
+#com/fasterxml/jackson/core/util/BufferRecycler/allocCharBuffer:
+Method com.fasterxml.jackson.core.util.BufferRecycler.allocCharBuffer graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.util.BufferRecycler.allocCharBuffer,8,27,0,0
+
+
+#com/fasterxml/jackson/core/util/InternCache/removeEldestEntry:
+Method com.fasterxml.jackson.core.util.InternCache.removeEldestEntry graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.util.InternCache.removeEldestEntry,5,2,0,0
+
+
+#com/fasterxml/jackson/core/util/InternCache/intern:
+Method com.fasterxml.jackson.core.util.InternCache.intern graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.util.InternCache.intern,4,6,0,0
+
+
+#com/fasterxml/jackson/core/util/DefaultPrettyPrinter/<init>:
+Method com.fasterxml.jackson.core.util.DefaultPrettyPrinter.<init> graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.util.DefaultPrettyPrinter.<init>,5,4,0,0
+
+
+#com/fasterxml/jackson/core/util/DefaultPrettyPrinter/withRootSeparator:
+Method com.fasterxml.jackson.core.util.DefaultPrettyPrinter.withRootSeparator graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.util.DefaultPrettyPrinter.withRootSeparator,6,17,0,0
+
+
+#com/fasterxml/jackson/core/util/DefaultPrettyPrinter/indentArraysWith:
+Method com.fasterxml.jackson.core.util.DefaultPrettyPrinter.indentArraysWith graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.util.DefaultPrettyPrinter.indentArraysWith,5,5,0,0
+
+
+#com/fasterxml/jackson/core/util/DefaultPrettyPrinter/indentObjectsWith:
+Method com.fasterxml.jackson.core.util.DefaultPrettyPrinter.indentObjectsWith graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.util.DefaultPrettyPrinter.indentObjectsWith,5,5,0,0
+
+
+#com/fasterxml/jackson/core/util/DefaultPrettyPrinter/withArrayIndenter:
+Method com.fasterxml.jackson.core.util.DefaultPrettyPrinter.withArrayIndenter graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.util.DefaultPrettyPrinter.withArrayIndenter,6,15,0,0
+
+
+#com/fasterxml/jackson/core/util/DefaultPrettyPrinter/withObjectIndenter:
+Method com.fasterxml.jackson.core.util.DefaultPrettyPrinter.withObjectIndenter graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.util.DefaultPrettyPrinter.withObjectIndenter,6,15,0,0
+
+
+#com/fasterxml/jackson/core/util/DefaultPrettyPrinter/_withSpaces:
+Method com.fasterxml.jackson.core.util.DefaultPrettyPrinter._withSpaces graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.util.DefaultPrettyPrinter._withSpaces,4,9,0,0
+
+
+#com/fasterxml/jackson/core/util/DefaultPrettyPrinter/writeRootValueSeparator:
+Method com.fasterxml.jackson.core.util.DefaultPrettyPrinter.writeRootValueSeparator graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.util.DefaultPrettyPrinter.writeRootValueSeparator,4,7,0,0
+
+
+#com/fasterxml/jackson/core/util/DefaultPrettyPrinter/writeStartObject:
+Method com.fasterxml.jackson.core.util.DefaultPrettyPrinter.writeStartObject graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.util.DefaultPrettyPrinter.writeStartObject,4,6,0,1
+
+
+#com/fasterxml/jackson/core/util/DefaultPrettyPrinter/writeObjectFieldValueSeparator:
+Method com.fasterxml.jackson.core.util.DefaultPrettyPrinter.writeObjectFieldValueSeparator graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.util.DefaultPrettyPrinter.writeObjectFieldValueSeparator,5,6,0,0
+
+
+#com/fasterxml/jackson/core/util/DefaultPrettyPrinter/writeEndObject:
+Method com.fasterxml.jackson.core.util.DefaultPrettyPrinter.writeEndObject graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.util.DefaultPrettyPrinter.writeEndObject,7,15,0,1
+
+
+#com/fasterxml/jackson/core/util/DefaultPrettyPrinter/writeStartArray:
+Method com.fasterxml.jackson.core.util.DefaultPrettyPrinter.writeStartArray graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.util.DefaultPrettyPrinter.writeStartArray,4,7,0,0
+
+
+#com/fasterxml/jackson/core/util/DefaultPrettyPrinter/writeEndArray:
+Method com.fasterxml.jackson.core.util.DefaultPrettyPrinter.writeEndArray graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.util.DefaultPrettyPrinter.writeEndArray,7,15,0,1
+
+
+#com/fasterxml/jackson/core/io/IOContext/releaseReadIOBuffer:
+Method com.fasterxml.jackson.core.io.IOContext.releaseReadIOBuffer graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.io.IOContext.releaseReadIOBuffer,4,7,0,0
+
+
+#com/fasterxml/jackson/core/io/IOContext/releaseWriteEncodingBuffer:
+Method com.fasterxml.jackson.core.io.IOContext.releaseWriteEncodingBuffer graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.io.IOContext.releaseWriteEncodingBuffer,4,7,0,0
+
+
+#com/fasterxml/jackson/core/io/IOContext/releaseBase64Buffer:
+Method com.fasterxml.jackson.core.io.IOContext.releaseBase64Buffer graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.io.IOContext.releaseBase64Buffer,4,7,0,0
+
+
+#com/fasterxml/jackson/core/io/IOContext/releaseTokenBuffer:
+Method com.fasterxml.jackson.core.io.IOContext.releaseTokenBuffer graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.io.IOContext.releaseTokenBuffer,4,7,0,0
+
+
+#com/fasterxml/jackson/core/io/IOContext/releaseConcatBuffer:
+Method com.fasterxml.jackson.core.io.IOContext.releaseConcatBuffer graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.io.IOContext.releaseConcatBuffer,4,7,0,0
+
+
+#com/fasterxml/jackson/core/io/IOContext/releaseNameCopyBuffer:
+Method com.fasterxml.jackson.core.io.IOContext.releaseNameCopyBuffer graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.io.IOContext.releaseNameCopyBuffer,4,7,0,0
+
+
+#com/fasterxml/jackson/core/io/IOContext/_verifyAlloc:
+Method com.fasterxml.jackson.core.io.IOContext._verifyAlloc graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.io.IOContext._verifyAlloc,4,2,0,1
+
+
+#com/fasterxml/jackson/core/io/IOContext/_verifyRelease:
+Method com.fasterxml.jackson.core.io.IOContext._verifyRelease graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.io.IOContext._verifyRelease,4,4,0,0
+
+
+#com/fasterxml/jackson/core/io/BaseReader/close:
+Method com.fasterxml.jackson.core.io.BaseReader.close graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.io.BaseReader.close,4,4,0,0
+
+
+#com/fasterxml/jackson/core/io/BaseReader/read:
+Method com.fasterxml.jackson.core.io.BaseReader.read graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.io.BaseReader.read,6,14,0,0
+
+
+#com/fasterxml/jackson/core/io/BaseReader/freeBuffers:
+Method com.fasterxml.jackson.core.io.BaseReader.freeBuffers graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.io.BaseReader.freeBuffers,4,5,0,0
+
+
+#com/fasterxml/jackson/core/io/UTF8Writer/close:
+Method com.fasterxml.jackson.core.io.UTF8Writer.close graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.io.UTF8Writer.close,9,26,0,1
+
+
+#com/fasterxml/jackson/core/io/UTF8Writer/flush:
+Method com.fasterxml.jackson.core.io.UTF8Writer.flush graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.io.UTF8Writer.flush,6,14,0,1
+
+
+#com/fasterxml/jackson/core/io/UTF8Writer/write:
+Method com.fasterxml.jackson.core.io.UTF8Writer.write graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.io.UTF8Writer.write,34,188,0,61
+
+
+#com/fasterxml/jackson/core/io/UTF8Writer/write:
+Method com.fasterxml.jackson.core.io.UTF8Writer.write graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.io.UTF8Writer.write,21,71,0,6
+
+
+#com/fasterxml/jackson/core/io/UTF8Writer/write:
+Method com.fasterxml.jackson.core.io.UTF8Writer.write graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.io.UTF8Writer.write,34,188,0,46
+
+
+#com/fasterxml/jackson/core/io/UTF8Writer/convertSurrogate:
+Method com.fasterxml.jackson.core.io.UTF8Writer.convertSurrogate graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.io.UTF8Writer.convertSurrogate,5,8,0,0
+
+
+#com/fasterxml/jackson/core/io/UTF8Writer/illegalSurrogateDesc:
+Method com.fasterxml.jackson.core.io.UTF8Writer.illegalSurrogateDesc graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.io.UTF8Writer.illegalSurrogateDesc,8,10,0,0
+
+
+#com/fasterxml/jackson/core/io/JsonStringEncoder/getInstance:
+Method com.fasterxml.jackson.core.io.JsonStringEncoder.getInstance graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.io.JsonStringEncoder.getInstance,7,8,0,0
+
+
+#com/fasterxml/jackson/core/io/JsonStringEncoder/quoteAsString:
+Method com.fasterxml.jackson.core.io.JsonStringEncoder.quoteAsString graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.io.JsonStringEncoder.quoteAsString,22,124,0,19
+
+
+#com/fasterxml/jackson/core/io/JsonStringEncoder/quoteAsUTF8:
+Method com.fasterxml.jackson.core.io.JsonStringEncoder.quoteAsUTF8 graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.io.JsonStringEncoder.quoteAsUTF8,40,317,0,111
+
+
+#com/fasterxml/jackson/core/io/JsonStringEncoder/encodeAsUTF8:
+Method com.fasterxml.jackson.core.io.JsonStringEncoder.encodeAsUTF8 graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.io.JsonStringEncoder.encodeAsUTF8,36,290,0,108
+
+
+#com/fasterxml/jackson/core/io/JsonStringEncoder/_appendByteEscape:
+Method com.fasterxml.jackson.core.io.JsonStringEncoder._appendByteEscape graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.io.JsonStringEncoder._appendByteEscape,8,16,0,1
+
+
+#com/fasterxml/jackson/core/io/JsonStringEncoder/_convertSurrogate:
+Method com.fasterxml.jackson.core.io.JsonStringEncoder._convertSurrogate graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.io.JsonStringEncoder._convertSurrogate,5,8,0,0
+
+
+#com/fasterxml/jackson/core/io/SerializedString/<init>:
+Method com.fasterxml.jackson.core.io.SerializedString.<init> graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.io.SerializedString.<init>,4,4,0,0
+
+
+#com/fasterxml/jackson/core/io/SerializedString/asQuotedChars:
+Method com.fasterxml.jackson.core.io.SerializedString.asQuotedChars graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.io.SerializedString.asQuotedChars,4,6,0,1
+
+
+#com/fasterxml/jackson/core/io/SerializedString/asUnquotedUTF8:
+Method com.fasterxml.jackson.core.io.SerializedString.asUnquotedUTF8 graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.io.SerializedString.asUnquotedUTF8,4,6,0,0
+
+
+#com/fasterxml/jackson/core/io/SerializedString/asQuotedUTF8:
+Method com.fasterxml.jackson.core.io.SerializedString.asQuotedUTF8 graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.io.SerializedString.asQuotedUTF8,4,6,0,0
+
+
+#com/fasterxml/jackson/core/io/SerializedString/appendQuotedUTF8:
+Method com.fasterxml.jackson.core.io.SerializedString.appendQuotedUTF8 graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.io.SerializedString.appendQuotedUTF8,6,17,0,1
+
+
+#com/fasterxml/jackson/core/io/SerializedString/appendQuoted:
+Method com.fasterxml.jackson.core.io.SerializedString.appendQuoted graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.io.SerializedString.appendQuoted,6,17,0,0
+
+
+#com/fasterxml/jackson/core/io/SerializedString/appendUnquotedUTF8:
+Method com.fasterxml.jackson.core.io.SerializedString.appendUnquotedUTF8 graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.io.SerializedString.appendUnquotedUTF8,6,17,0,1
+
+
+#com/fasterxml/jackson/core/io/SerializedString/appendUnquoted:
+Method com.fasterxml.jackson.core.io.SerializedString.appendUnquoted graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.io.SerializedString.appendUnquoted,4,10,0,0
+
+
+#com/fasterxml/jackson/core/io/SerializedString/writeQuotedUTF8:
+Method com.fasterxml.jackson.core.io.SerializedString.writeQuotedUTF8 graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.io.SerializedString.writeQuotedUTF8,4,7,0,1
+
+
+#com/fasterxml/jackson/core/io/SerializedString/writeUnquotedUTF8:
+Method com.fasterxml.jackson.core.io.SerializedString.writeUnquotedUTF8 graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.io.SerializedString.writeUnquotedUTF8,4,7,0,0
+
+
+#com/fasterxml/jackson/core/io/SerializedString/putQuotedUTF8:
+Method com.fasterxml.jackson.core.io.SerializedString.putQuotedUTF8 graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.io.SerializedString.putQuotedUTF8,6,14,0,0
+
+
+#com/fasterxml/jackson/core/io/SerializedString/putUnquotedUTF8:
+Method com.fasterxml.jackson.core.io.SerializedString.putUnquotedUTF8 graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.io.SerializedString.putUnquotedUTF8,6,14,0,0
+
+
+#com/fasterxml/jackson/core/io/SerializedString/equals:
+Method com.fasterxml.jackson.core.io.SerializedString.equals graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.io.SerializedString.equals,7,13,0,0
+
+
+#com/fasterxml/jackson/core/io/CharTypes/charToHex:
+Method com.fasterxml.jackson.core.io.CharTypes.charToHex graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.io.CharTypes.charToHex,5,4,0,0
+
+
+#com/fasterxml/jackson/core/io/CharTypes/appendQuoted:
+Method com.fasterxml.jackson.core.io.CharTypes.appendQuoted graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.io.CharTypes.appendQuoted,11,31,0,4
+
+
+#com/fasterxml/jackson/core/io/NumberInput/parseInt:
+Method com.fasterxml.jackson.core.io.NumberInput.parseInt graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.io.NumberInput.parseInt,11,65,0,3
+
+
+#com/fasterxml/jackson/core/io/NumberInput/parseInt:
+Method com.fasterxml.jackson.core.io.NumberInput.parseInt graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.io.NumberInput.parseInt,31,79,0,10
+
+
+#com/fasterxml/jackson/core/io/NumberInput/parseLong:
+Method com.fasterxml.jackson.core.io.NumberInput.parseLong graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.io.NumberInput.parseLong,4,4,0,0
+
+
+#com/fasterxml/jackson/core/io/NumberInput/inLongRange:
+Method com.fasterxml.jackson.core.io.NumberInput.inLongRange graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.io.NumberInput.inLongRange,17,29,0,1
+
+
+#com/fasterxml/jackson/core/io/NumberInput/inLongRange:
+Method com.fasterxml.jackson.core.io.NumberInput.inLongRange graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.io.NumberInput.inLongRange,17,29,0,1
+
+
+#com/fasterxml/jackson/core/io/NumberInput/parseAsInt:
+Method com.fasterxml.jackson.core.io.NumberInput.parseAsInt graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.io.NumberInput.parseAsInt,16,44,0,2
+
+
+#com/fasterxml/jackson/core/io/NumberInput/parseAsLong:
+Method com.fasterxml.jackson.core.io.NumberInput.parseAsLong graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.io.NumberInput.parseAsLong,16,44,0,2
+
+
+#com/fasterxml/jackson/core/io/NumberInput/parseAsDouble:
+Method com.fasterxml.jackson.core.io.NumberInput.parseAsDouble graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.io.NumberInput.parseAsDouble,6,8,0,1
+
+
+#com/fasterxml/jackson/core/io/NumberInput/parseDouble:
+Method com.fasterxml.jackson.core.io.NumberInput.parseDouble graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.io.NumberInput.parseDouble,4,3,0,0
+
+
+#com/fasterxml/jackson/core/io/UTF32Reader/<init>:
+Method com.fasterxml.jackson.core.io.UTF32Reader.<init> graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.io.UTF32Reader.<init>,5,3,0,0
+
+
+#com/fasterxml/jackson/core/io/UTF32Reader/read:
+Method com.fasterxml.jackson.core.io.UTF32Reader.read graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.io.UTF32Reader.read,26,110,0,10
+
+
+#com/fasterxml/jackson/core/io/UTF32Reader/loadMore:
+Method com.fasterxml.jackson.core.io.UTF32Reader.loadMore graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.io.UTF32Reader.loadMore,30,78,0,5
+
+
+#com/fasterxml/jackson/core/io/MergedStream/available:
+Method com.fasterxml.jackson.core.io.MergedStream.available graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.io.MergedStream.available,4,9,0,0
+
+
+#com/fasterxml/jackson/core/io/MergedStream/mark:
+Method com.fasterxml.jackson.core.io.MergedStream.mark graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.io.MergedStream.mark,4,7,0,0
+
+
+#com/fasterxml/jackson/core/io/MergedStream/markSupported:
+Method com.fasterxml.jackson.core.io.MergedStream.markSupported graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.io.MergedStream.markSupported,6,8,0,0
+
+
+#com/fasterxml/jackson/core/io/MergedStream/read:
+Method com.fasterxml.jackson.core.io.MergedStream.read graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.io.MergedStream.read,6,17,0,0
+
+
+#com/fasterxml/jackson/core/io/MergedStream/read:
+Method com.fasterxml.jackson.core.io.MergedStream.read graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.io.MergedStream.read,8,33,0,1
+
+
+#com/fasterxml/jackson/core/io/MergedStream/reset:
+Method com.fasterxml.jackson.core.io.MergedStream.reset graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.io.MergedStream.reset,4,6,0,0
+
+
+#com/fasterxml/jackson/core/io/MergedStream/skip:
+Method com.fasterxml.jackson.core.io.MergedStream.skip graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.io.MergedStream.skip,8,31,0,1
+
+
+#com/fasterxml/jackson/core/io/MergedStream/freeMergedBuffer:
+Method com.fasterxml.jackson.core.io.MergedStream.freeMergedBuffer graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.io.MergedStream.freeMergedBuffer,5,10,0,1
+
+
+#com/fasterxml/jackson/core/io/NumberOutput/outputInt:
+Method com.fasterxml.jackson.core.io.NumberOutput.outputInt graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.io.NumberOutput.outputInt,23,88,0,5
+
+
+#com/fasterxml/jackson/core/io/NumberOutput/outputInt:
+Method com.fasterxml.jackson.core.io.NumberOutput.outputInt graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.io.NumberOutput.outputInt,23,88,0,4
+
+
+#com/fasterxml/jackson/core/io/NumberOutput/outputLong:
+Method com.fasterxml.jackson.core.io.NumberOutput.outputLong graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.io.NumberOutput.outputLong,16,61,0,3
+
+
+#com/fasterxml/jackson/core/io/NumberOutput/outputLong:
+Method com.fasterxml.jackson.core.io.NumberOutput.outputLong graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.io.NumberOutput.outputLong,19,73,0,2
+
+
+#com/fasterxml/jackson/core/io/NumberOutput/toString:
+Method com.fasterxml.jackson.core.io.NumberOutput.toString graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.io.NumberOutput.toString,7,16,0,0
+
+
+#com/fasterxml/jackson/core/io/NumberOutput/toString:
+Method com.fasterxml.jackson.core.io.NumberOutput.toString graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.io.NumberOutput.toString,5,6,0,0
+
+
+#com/fasterxml/jackson/core/io/NumberOutput/outputLeadingTriplet:
+Method com.fasterxml.jackson.core.io.NumberOutput.outputLeadingTriplet graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.io.NumberOutput.outputLeadingTriplet,6,19,0,0
+
+
+#com/fasterxml/jackson/core/io/NumberOutput/outputLeadingTriplet:
+Method com.fasterxml.jackson.core.io.NumberOutput.outputLeadingTriplet graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.io.NumberOutput.outputLeadingTriplet,6,19,0,0
+
+
+#com/fasterxml/jackson/core/io/NumberOutput/calcLongStrLength:
+Method com.fasterxml.jackson.core.io.NumberOutput.calcLongStrLength graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.io.NumberOutput.calcLongStrLength,7,16,0,1
+
+
+#com/fasterxml/jackson/core/json/ReaderBasedJsonParser/releaseBuffered:
+Method com.fasterxml.jackson.core.json.ReaderBasedJsonParser.releaseBuffered graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.ReaderBasedJsonParser.releaseBuffered,4,7,0,1
+
+
+#com/fasterxml/jackson/core/json/ReaderBasedJsonParser/loadMore:
+Method com.fasterxml.jackson.core.json.ReaderBasedJsonParser.loadMore graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.ReaderBasedJsonParser.loadMore,7,16,0,0
+
+
+#com/fasterxml/jackson/core/json/ReaderBasedJsonParser/getNextChar:
+Method com.fasterxml.jackson.core.json.ReaderBasedJsonParser.getNextChar graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.ReaderBasedJsonParser.getNextChar,5,13,0,0
+
+
+#com/fasterxml/jackson/core/json/ReaderBasedJsonParser/_closeInput:
+Method com.fasterxml.jackson.core.json.ReaderBasedJsonParser._closeInput graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.ReaderBasedJsonParser._closeInput,7,15,0,0
+
+
+#com/fasterxml/jackson/core/json/ReaderBasedJsonParser/_releaseBuffers:
+Method com.fasterxml.jackson.core.json.ReaderBasedJsonParser._releaseBuffers graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.ReaderBasedJsonParser._releaseBuffers,4,5,0,0
+
+
+#com/fasterxml/jackson/core/json/ReaderBasedJsonParser/getText:
+Method com.fasterxml.jackson.core.json.ReaderBasedJsonParser.getText graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.ReaderBasedJsonParser.getText,6,13,0,0
+
+
+#com/fasterxml/jackson/core/json/ReaderBasedJsonParser/getValueAsString:
+Method com.fasterxml.jackson.core.json.ReaderBasedJsonParser.getValueAsString graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.ReaderBasedJsonParser.getValueAsString,6,14,0,0
+
+
+#com/fasterxml/jackson/core/json/ReaderBasedJsonParser/getValueAsString:
+Method com.fasterxml.jackson.core.json.ReaderBasedJsonParser.getValueAsString graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.ReaderBasedJsonParser.getValueAsString,6,15,0,0
+
+
+#com/fasterxml/jackson/core/json/ReaderBasedJsonParser/_getText2:
+Method com.fasterxml.jackson.core.json.ReaderBasedJsonParser._getText2 graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.ReaderBasedJsonParser._getText2,7,13,0,1
+
+
+#com/fasterxml/jackson/core/json/ReaderBasedJsonParser/getTextCharacters:
+Method com.fasterxml.jackson.core.json.ReaderBasedJsonParser.getTextCharacters graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.ReaderBasedJsonParser.getTextCharacters,15,56,0,1
+
+
+#com/fasterxml/jackson/core/json/ReaderBasedJsonParser/getTextLength:
+Method com.fasterxml.jackson.core.json.ReaderBasedJsonParser.getTextLength graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.ReaderBasedJsonParser.getTextLength,9,27,0,1
+
+
+#com/fasterxml/jackson/core/json/ReaderBasedJsonParser/getTextOffset:
+Method com.fasterxml.jackson.core.json.ReaderBasedJsonParser.getTextOffset graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.ReaderBasedJsonParser.getTextOffset,8,23,0,1
+
+
+#com/fasterxml/jackson/core/json/ReaderBasedJsonParser/getBinaryValue:
+Method com.fasterxml.jackson.core.json.ReaderBasedJsonParser.getBinaryValue graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.ReaderBasedJsonParser.getBinaryValue,10,34,0,0
+
+
+#com/fasterxml/jackson/core/json/ReaderBasedJsonParser/readBinaryValue:
+Method com.fasterxml.jackson.core.json.ReaderBasedJsonParser.readBinaryValue graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.ReaderBasedJsonParser.readBinaryValue,5,17,0,0
+
+
+#com/fasterxml/jackson/core/json/ReaderBasedJsonParser/_readBinary:
+Method com.fasterxml.jackson.core.json.ReaderBasedJsonParser._readBinary graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.ReaderBasedJsonParser._readBinary,44,206,0,44
+
+
+#com/fasterxml/jackson/core/json/ReaderBasedJsonParser/nextToken:
+Method com.fasterxml.jackson.core.json.ReaderBasedJsonParser.nextToken graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.ReaderBasedJsonParser.nextToken,40,150,0,12
+
+
+#com/fasterxml/jackson/core/json/ReaderBasedJsonParser/_nextAfterName:
+Method com.fasterxml.jackson.core.json.ReaderBasedJsonParser._nextAfterName graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.ReaderBasedJsonParser._nextAfterName,6,18,0,1
+
+
+#com/fasterxml/jackson/core/json/ReaderBasedJsonParser/nextTextValue:
+Method com.fasterxml.jackson.core.json.ReaderBasedJsonParser.nextTextValue graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.ReaderBasedJsonParser.nextTextValue,15,40,0,0
+
+
+#com/fasterxml/jackson/core/json/ReaderBasedJsonParser/nextIntValue:
+Method com.fasterxml.jackson.core.json.ReaderBasedJsonParser.nextIntValue graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.ReaderBasedJsonParser.nextIntValue,13,36,0,1
+
+
+#com/fasterxml/jackson/core/json/ReaderBasedJsonParser/nextLongValue:
+Method com.fasterxml.jackson.core.json.ReaderBasedJsonParser.nextLongValue graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.ReaderBasedJsonParser.nextLongValue,13,36,0,1
+
+
+#com/fasterxml/jackson/core/json/ReaderBasedJsonParser/nextBooleanValue:
+Method com.fasterxml.jackson.core.json.ReaderBasedJsonParser.nextBooleanValue graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.ReaderBasedJsonParser.nextBooleanValue,15,42,0,1
+
+
+#com/fasterxml/jackson/core/json/ReaderBasedJsonParser/parseNumberText:
+Method com.fasterxml.jackson.core.json.ReaderBasedJsonParser.parseNumberText graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.ReaderBasedJsonParser.parseNumberText,49,157,0,16
+
+
+#com/fasterxml/jackson/core/json/ReaderBasedJsonParser/parseNumberText2:
+Method com.fasterxml.jackson.core.json.ReaderBasedJsonParser.parseNumberText2 graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.ReaderBasedJsonParser.parseNumberText2,60,398,0,67
+
+
+#com/fasterxml/jackson/core/json/ReaderBasedJsonParser/_verifyNoLeadingZeroes:
+Method com.fasterxml.jackson.core.json.ReaderBasedJsonParser._verifyNoLeadingZeroes graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.ReaderBasedJsonParser._verifyNoLeadingZeroes,18,49,0,3
+
+
+#com/fasterxml/jackson/core/json/ReaderBasedJsonParser/_handleInvalidNumberStart:
+Method com.fasterxml.jackson.core.json.ReaderBasedJsonParser._handleInvalidNumberStart graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.ReaderBasedJsonParser._handleInvalidNumberStart,26,47,0,2
+
+
+#com/fasterxml/jackson/core/json/ReaderBasedJsonParser/_parseFieldName:
+Method com.fasterxml.jackson.core.json.ReaderBasedJsonParser._parseFieldName graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.ReaderBasedJsonParser._parseFieldName,11,49,0,2
+
+
+#com/fasterxml/jackson/core/json/ReaderBasedJsonParser/_parseFieldName2:
+Method com.fasterxml.jackson.core.json.ReaderBasedJsonParser._parseFieldName2 graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.ReaderBasedJsonParser._parseFieldName2,16,59,0,7
+
+
+#com/fasterxml/jackson/core/json/ReaderBasedJsonParser/_handleUnusualFieldName:
+Method com.fasterxml.jackson.core.json.ReaderBasedJsonParser._handleUnusualFieldName graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.ReaderBasedJsonParser._handleUnusualFieldName,24,86,0,4
+
+
+#com/fasterxml/jackson/core/json/ReaderBasedJsonParser/_parseApostropheFieldName:
+Method com.fasterxml.jackson.core.json.ReaderBasedJsonParser._parseApostropheFieldName graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.ReaderBasedJsonParser._parseApostropheFieldName,10,41,0,1
+
+
+#com/fasterxml/jackson/core/json/ReaderBasedJsonParser/_handleUnexpectedValue:
+Method com.fasterxml.jackson.core.json.ReaderBasedJsonParser._handleUnexpectedValue graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.ReaderBasedJsonParser._handleUnexpectedValue,17,42,0,2
+
+
+#com/fasterxml/jackson/core/json/ReaderBasedJsonParser/_handleApostropheValue:
+Method com.fasterxml.jackson.core.json.ReaderBasedJsonParser._handleApostropheValue graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.ReaderBasedJsonParser._handleApostropheValue,16,50,0,5
+
+
+#com/fasterxml/jackson/core/json/ReaderBasedJsonParser/_parseUnusualFieldName2:
+Method com.fasterxml.jackson.core.json.ReaderBasedJsonParser._parseUnusualFieldName2 graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.ReaderBasedJsonParser._parseUnusualFieldName2,14,52,0,3
+
+
+#com/fasterxml/jackson/core/json/ReaderBasedJsonParser/_finishString:
+Method com.fasterxml.jackson.core.json.ReaderBasedJsonParser._finishString graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.ReaderBasedJsonParser._finishString,9,36,0,1
+
+
+#com/fasterxml/jackson/core/json/ReaderBasedJsonParser/_finishString2:
+Method com.fasterxml.jackson.core.json.ReaderBasedJsonParser._finishString2 graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.ReaderBasedJsonParser._finishString2,16,49,0,5
+
+
+#com/fasterxml/jackson/core/json/ReaderBasedJsonParser/_skipString:
+Method com.fasterxml.jackson.core.json.ReaderBasedJsonParser._skipString graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.ReaderBasedJsonParser._skipString,15,45,0,4
+
+
+#com/fasterxml/jackson/core/json/ReaderBasedJsonParser/_skipCR:
+Method com.fasterxml.jackson.core.json.ReaderBasedJsonParser._skipCR graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.ReaderBasedJsonParser._skipCR,6,20,0,1
+
+
+#com/fasterxml/jackson/core/json/ReaderBasedJsonParser/_skipWS:
+Method com.fasterxml.jackson.core.json.ReaderBasedJsonParser._skipWS graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.ReaderBasedJsonParser._skipWS,16,31,0,3
+
+
+#com/fasterxml/jackson/core/json/ReaderBasedJsonParser/_skipWSOrEnd:
+Method com.fasterxml.jackson.core.json.ReaderBasedJsonParser._skipWSOrEnd graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.ReaderBasedJsonParser._skipWSOrEnd,16,30,0,2
+
+
+#com/fasterxml/jackson/core/json/ReaderBasedJsonParser/_skipComment:
+Method com.fasterxml.jackson.core.json.ReaderBasedJsonParser._skipComment graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.ReaderBasedJsonParser._skipComment,12,25,0,1
+
+Failed to analyze: /Users/marcoschaim/experimentos/subsumption-experiment/scripts/../subsumption-data/JacksonCore/graphdua/
+
+#com/fasterxml/jackson/core/json/JsonWriteContext/createChildArrayContext:
+Method com.fasterxml.jackson.core.json.JsonWriteContext.createChildArrayContext graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.JsonWriteContext.createChildArrayContext,4,4,0,0
+
+
+#com/fasterxml/jackson/core/json/JsonWriteContext/createChildObjectContext:
+Method com.fasterxml.jackson.core.json.JsonWriteContext.createChildObjectContext graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.JsonWriteContext.createChildObjectContext,4,4,0,0
+
+
+#com/fasterxml/jackson/core/json/JsonWriteContext/writeFieldName:
+Method com.fasterxml.jackson.core.json.JsonWriteContext.writeFieldName graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.JsonWriteContext.writeFieldName,9,14,0,0
+
+
+#com/fasterxml/jackson/core/json/JsonWriteContext/writeValue:
+Method com.fasterxml.jackson.core.json.JsonWriteContext.writeValue graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.JsonWriteContext.writeValue,14,24,0,1
+
+
+#com/fasterxml/jackson/core/json/JsonWriteContext/appendDesc:
+Method com.fasterxml.jackson.core.json.JsonWriteContext.appendDesc graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.JsonWriteContext.appendDesc,10,21,0,1
+
+
+#com/fasterxml/jackson/core/json/UTF8StreamJsonParser/releaseBuffered:
+Method com.fasterxml.jackson.core.json.UTF8StreamJsonParser.releaseBuffered graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.UTF8StreamJsonParser.releaseBuffered,4,7,0,0
+
+
+#com/fasterxml/jackson/core/json/UTF8StreamJsonParser/loadMore:
+Method com.fasterxml.jackson.core.json.UTF8StreamJsonParser.loadMore graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.UTF8StreamJsonParser.loadMore,7,16,0,0
+
+
+#com/fasterxml/jackson/core/json/UTF8StreamJsonParser/_loadToHaveAtLeast:
+Method com.fasterxml.jackson.core.json.UTF8StreamJsonParser._loadToHaveAtLeast graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.UTF8StreamJsonParser._loadToHaveAtLeast,15,48,0,2
+
+
+#com/fasterxml/jackson/core/json/UTF8StreamJsonParser/_closeInput:
+Method com.fasterxml.jackson.core.json.UTF8StreamJsonParser._closeInput graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.UTF8StreamJsonParser._closeInput,7,15,0,1
+
+
+#com/fasterxml/jackson/core/json/UTF8StreamJsonParser/_releaseBuffers:
+Method com.fasterxml.jackson.core.json.UTF8StreamJsonParser._releaseBuffers graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.UTF8StreamJsonParser._releaseBuffers,5,11,0,0
+
+
+#com/fasterxml/jackson/core/json/UTF8StreamJsonParser/getText:
+Method com.fasterxml.jackson.core.json.UTF8StreamJsonParser.getText graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.UTF8StreamJsonParser.getText,6,15,0,1
+
+
+#com/fasterxml/jackson/core/json/UTF8StreamJsonParser/getValueAsString:
+Method com.fasterxml.jackson.core.json.UTF8StreamJsonParser.getValueAsString graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.UTF8StreamJsonParser.getValueAsString,6,14,0,1
+
+
+#com/fasterxml/jackson/core/json/UTF8StreamJsonParser/getValueAsString:
+Method com.fasterxml.jackson.core.json.UTF8StreamJsonParser.getValueAsString graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.UTF8StreamJsonParser.getValueAsString,6,15,0,0
+
+
+#com/fasterxml/jackson/core/json/UTF8StreamJsonParser/_getText2:
+Method com.fasterxml.jackson.core.json.UTF8StreamJsonParser._getText2 graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.UTF8StreamJsonParser._getText2,7,13,0,0
+
+
+#com/fasterxml/jackson/core/json/UTF8StreamJsonParser/getTextCharacters:
+Method com.fasterxml.jackson.core.json.UTF8StreamJsonParser.getTextCharacters graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.UTF8StreamJsonParser.getTextCharacters,15,56,0,2
+
+
+#com/fasterxml/jackson/core/json/UTF8StreamJsonParser/getTextLength:
+Method com.fasterxml.jackson.core.json.UTF8StreamJsonParser.getTextLength graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.UTF8StreamJsonParser.getTextLength,9,27,0,0
+
+
+#com/fasterxml/jackson/core/json/UTF8StreamJsonParser/getTextOffset:
+Method com.fasterxml.jackson.core.json.UTF8StreamJsonParser.getTextOffset graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.UTF8StreamJsonParser.getTextOffset,8,23,0,1
+
+
+#com/fasterxml/jackson/core/json/UTF8StreamJsonParser/getBinaryValue:
+Method com.fasterxml.jackson.core.json.UTF8StreamJsonParser.getBinaryValue graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.UTF8StreamJsonParser.getBinaryValue,10,34,0,0
+
+
+#com/fasterxml/jackson/core/json/UTF8StreamJsonParser/readBinaryValue:
+Method com.fasterxml.jackson.core.json.UTF8StreamJsonParser.readBinaryValue graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.UTF8StreamJsonParser.readBinaryValue,5,17,0,0
+
+
+#com/fasterxml/jackson/core/json/UTF8StreamJsonParser/_readBinary:
+Method com.fasterxml.jackson.core.json.UTF8StreamJsonParser._readBinary graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.UTF8StreamJsonParser._readBinary,44,206,0,65
+
+
+#com/fasterxml/jackson/core/json/UTF8StreamJsonParser/nextToken:
+Method com.fasterxml.jackson.core.json.UTF8StreamJsonParser.nextToken graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.UTF8StreamJsonParser.nextToken,35,106,0,9
+
+
+#com/fasterxml/jackson/core/json/UTF8StreamJsonParser/_nextTokenNotInObject:
+Method com.fasterxml.jackson.core.json.UTF8StreamJsonParser._nextTokenNotInObject graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.UTF8StreamJsonParser._nextTokenNotInObject,12,34,0,2
+
+
+#com/fasterxml/jackson/core/json/UTF8StreamJsonParser/_nextAfterName:
+Method com.fasterxml.jackson.core.json.UTF8StreamJsonParser._nextAfterName graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.UTF8StreamJsonParser._nextAfterName,6,18,0,0
+
+
+#com/fasterxml/jackson/core/json/UTF8StreamJsonParser/nextFieldName:
+Method com.fasterxml.jackson.core.json.UTF8StreamJsonParser.nextFieldName graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.UTF8StreamJsonParser.nextFieldName,31,113,0,11
+
+
+#com/fasterxml/jackson/core/json/UTF8StreamJsonParser/_isNextTokenNameYes:
+Method com.fasterxml.jackson.core.json.UTF8StreamJsonParser._isNextTokenNameYes graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.UTF8StreamJsonParser._isNextTokenNameYes,23,86,0,6
+
+
+#com/fasterxml/jackson/core/json/UTF8StreamJsonParser/_isNextTokenNameMaybe:
+Method com.fasterxml.jackson.core.json.UTF8StreamJsonParser._isNextTokenNameMaybe graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.UTF8StreamJsonParser._isNextTokenNameMaybe,15,41,0,2
+
+
+#com/fasterxml/jackson/core/json/UTF8StreamJsonParser/nextTextValue:
+Method com.fasterxml.jackson.core.json.UTF8StreamJsonParser.nextTextValue graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.UTF8StreamJsonParser.nextTextValue,15,40,0,1
+
+
+#com/fasterxml/jackson/core/json/UTF8StreamJsonParser/nextIntValue:
+Method com.fasterxml.jackson.core.json.UTF8StreamJsonParser.nextIntValue graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.UTF8StreamJsonParser.nextIntValue,13,36,0,1
+
+
+#com/fasterxml/jackson/core/json/UTF8StreamJsonParser/nextLongValue:
+Method com.fasterxml.jackson.core.json.UTF8StreamJsonParser.nextLongValue graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.UTF8StreamJsonParser.nextLongValue,13,36,0,2
+
+
+#com/fasterxml/jackson/core/json/UTF8StreamJsonParser/nextBooleanValue:
+Method com.fasterxml.jackson.core.json.UTF8StreamJsonParser.nextBooleanValue graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.UTF8StreamJsonParser.nextBooleanValue,15,42,0,2
+
+
+#com/fasterxml/jackson/core/json/UTF8StreamJsonParser/parseNumberText:
+Method com.fasterxml.jackson.core.json.UTF8StreamJsonParser.parseNumberText graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.UTF8StreamJsonParser.parseNumberText,27,114,0,11
+
+
+#com/fasterxml/jackson/core/json/UTF8StreamJsonParser/_parserNumber2:
+Method com.fasterxml.jackson.core.json.UTF8StreamJsonParser._parserNumber2 graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.UTF8StreamJsonParser._parserNumber2,14,50,0,3
+
+
+#com/fasterxml/jackson/core/json/UTF8StreamJsonParser/_verifyNoLeadingZeroes:
+Method com.fasterxml.jackson.core.json.UTF8StreamJsonParser._verifyNoLeadingZeroes graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.UTF8StreamJsonParser._verifyNoLeadingZeroes,18,49,0,4
+
+
+#com/fasterxml/jackson/core/json/UTF8StreamJsonParser/_parseFloatText:
+Method com.fasterxml.jackson.core.json.UTF8StreamJsonParser._parseFloatText graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.UTF8StreamJsonParser._parseFloatText,40,216,0,36
+
+
+#com/fasterxml/jackson/core/json/UTF8StreamJsonParser/_parseFieldName:
+Method com.fasterxml.jackson.core.json.UTF8StreamJsonParser._parseFieldName graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.UTF8StreamJsonParser._parseFieldName,26,89,0,6
+
+
+#com/fasterxml/jackson/core/json/UTF8StreamJsonParser/parseMediumFieldName:
+Method com.fasterxml.jackson.core.json.UTF8StreamJsonParser.parseMediumFieldName graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.UTF8StreamJsonParser.parseMediumFieldName,18,72,0,3
+
+
+#com/fasterxml/jackson/core/json/UTF8StreamJsonParser/parseLongFieldName:
+Method com.fasterxml.jackson.core.json.UTF8StreamJsonParser.parseLongFieldName graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.UTF8StreamJsonParser.parseLongFieldName,23,135,0,15
+
+
+#com/fasterxml/jackson/core/json/UTF8StreamJsonParser/slowParseFieldName:
+Method com.fasterxml.jackson.core.json.UTF8StreamJsonParser.slowParseFieldName graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.UTF8StreamJsonParser.slowParseFieldName,7,17,0,1
+
+
+#com/fasterxml/jackson/core/json/UTF8StreamJsonParser/parseEscapedFieldName:
+Method com.fasterxml.jackson.core.json.UTF8StreamJsonParser.parseEscapedFieldName graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.UTF8StreamJsonParser.parseEscapedFieldName,36,278,0,87
+
+
+#com/fasterxml/jackson/core/json/UTF8StreamJsonParser/_handleUnusualFieldName:
+Method com.fasterxml.jackson.core.json.UTF8StreamJsonParser._handleUnusualFieldName graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.UTF8StreamJsonParser._handleUnusualFieldName,26,120,0,10
+
+
+#com/fasterxml/jackson/core/json/UTF8StreamJsonParser/_parseApostropheFieldName:
+Method com.fasterxml.jackson.core.json.UTF8StreamJsonParser._parseApostropheFieldName graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.UTF8StreamJsonParser._parseApostropheFieldName,42,299,0,61
+
+
+#com/fasterxml/jackson/core/json/UTF8StreamJsonParser/findName:
+Method com.fasterxml.jackson.core.json.UTF8StreamJsonParser.findName graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.UTF8StreamJsonParser.findName,4,7,0,0
+
+
+#com/fasterxml/jackson/core/json/UTF8StreamJsonParser/findName:
+Method com.fasterxml.jackson.core.json.UTF8StreamJsonParser.findName graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.UTF8StreamJsonParser.findName,4,8,0,0
+
+
+#com/fasterxml/jackson/core/json/UTF8StreamJsonParser/findName:
+Method com.fasterxml.jackson.core.json.UTF8StreamJsonParser.findName graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.UTF8StreamJsonParser.findName,6,20,0,0
+
+
+#com/fasterxml/jackson/core/json/UTF8StreamJsonParser/addName:
+Method com.fasterxml.jackson.core.json.UTF8StreamJsonParser.addName graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.UTF8StreamJsonParser.addName,35,164,0,29
+
+
+#com/fasterxml/jackson/core/json/UTF8StreamJsonParser/_finishString:
+Method com.fasterxml.jackson.core.json.UTF8StreamJsonParser._finishString graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.UTF8StreamJsonParser._finishString,10,54,0,1
+
+
+#com/fasterxml/jackson/core/json/UTF8StreamJsonParser/_finishString2:
+Method com.fasterxml.jackson.core.json.UTF8StreamJsonParser._finishString2 graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.UTF8StreamJsonParser._finishString2,28,174,0,34
+
+
+#com/fasterxml/jackson/core/json/UTF8StreamJsonParser/_skipString:
+Method com.fasterxml.jackson.core.json.UTF8StreamJsonParser._skipString graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.UTF8StreamJsonParser._skipString,18,63,0,7
+
+
+#com/fasterxml/jackson/core/json/UTF8StreamJsonParser/_handleUnexpectedValue:
+Method com.fasterxml.jackson.core.json.UTF8StreamJsonParser._handleUnexpectedValue graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.UTF8StreamJsonParser._handleUnexpectedValue,17,42,0,1
+
+
+#com/fasterxml/jackson/core/json/UTF8StreamJsonParser/_handleApostropheValue:
+Method com.fasterxml.jackson.core.json.UTF8StreamJsonParser._handleApostropheValue graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.UTF8StreamJsonParser._handleApostropheValue,32,175,0,32
+
+
+#com/fasterxml/jackson/core/json/UTF8StreamJsonParser/_handleInvalidNumberStart:
+Method com.fasterxml.jackson.core.json.UTF8StreamJsonParser._handleInvalidNumberStart graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.UTF8StreamJsonParser._handleInvalidNumberStart,22,40,0,4
+
+
+#com/fasterxml/jackson/core/json/UTF8StreamJsonParser/_matchToken:
+Method com.fasterxml.jackson.core.json.UTF8StreamJsonParser._matchToken graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.UTF8StreamJsonParser._matchToken,17,61,0,3
+
+
+#com/fasterxml/jackson/core/json/UTF8StreamJsonParser/_reportInvalidToken:
+Method com.fasterxml.jackson.core.json.UTF8StreamJsonParser._reportInvalidToken graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.UTF8StreamJsonParser._reportInvalidToken,9,21,0,1
+
+
+#com/fasterxml/jackson/core/json/UTF8StreamJsonParser/_skipWS:
+Method com.fasterxml.jackson.core.json.UTF8StreamJsonParser._skipWS graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.UTF8StreamJsonParser._skipWS,16,31,0,2
+
+
+#com/fasterxml/jackson/core/json/UTF8StreamJsonParser/_skipWSOrEnd:
+Method com.fasterxml.jackson.core.json.UTF8StreamJsonParser._skipWSOrEnd graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.UTF8StreamJsonParser._skipWSOrEnd,16,30,0,3
+
+
+#com/fasterxml/jackson/core/json/UTF8StreamJsonParser/_skipColon:
+Method com.fasterxml.jackson.core.json.UTF8StreamJsonParser._skipColon graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.UTF8StreamJsonParser._skipColon,35,106,0,9
+
+
+#com/fasterxml/jackson/core/json/UTF8StreamJsonParser/_skipComment:
+Method com.fasterxml.jackson.core.json.UTF8StreamJsonParser._skipComment graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.UTF8StreamJsonParser._skipComment,12,25,0,1
+
+
+#com/fasterxml/jackson/core/json/UTF8StreamJsonParser/_skipCComment:
+Method com.fasterxml.jackson.core.json.UTF8StreamJsonParser._skipCComment graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.UTF8StreamJsonParser._skipCComment,19,51,0,5
+
+
+#com/fasterxml/jackson/core/json/UTF8StreamJsonParser/_skipCppComment:
+Method com.fasterxml.jackson.core.json.UTF8StreamJsonParser._skipCppComment graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.UTF8StreamJsonParser._skipCppComment,15,34,0,2
+
+
+#com/fasterxml/jackson/core/json/UTF8StreamJsonParser/_decodeEscaped:
+Method com.fasterxml.jackson.core.json.UTF8StreamJsonParser._decodeEscaped graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.UTF8StreamJsonParser._decodeEscaped,21,53,0,2
+
+
+#com/fasterxml/jackson/core/json/UTF8StreamJsonParser/_decodeCharForError:
+Method com.fasterxml.jackson.core.json.UTF8StreamJsonParser._decodeCharForError graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.UTF8StreamJsonParser._decodeCharForError,19,57,0,2
+
+
+#com/fasterxml/jackson/core/json/UTF8StreamJsonParser/_decodeUtf8_2:
+Method com.fasterxml.jackson.core.json.UTF8StreamJsonParser._decodeUtf8_2 graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.UTF8StreamJsonParser._decodeUtf8_2,6,17,0,0
+
+
+#com/fasterxml/jackson/core/json/UTF8StreamJsonParser/_decodeUtf8_3:
+Method com.fasterxml.jackson.core.json.UTF8StreamJsonParser._decodeUtf8_3 graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.UTF8StreamJsonParser._decodeUtf8_3,10,35,0,1
+
+
+#com/fasterxml/jackson/core/json/UTF8StreamJsonParser/_decodeUtf8_3fast:
+Method com.fasterxml.jackson.core.json.UTF8StreamJsonParser._decodeUtf8_3fast graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.UTF8StreamJsonParser._decodeUtf8_3fast,6,17,0,0
+
+
+#com/fasterxml/jackson/core/json/UTF8StreamJsonParser/_decodeUtf8_4:
+Method com.fasterxml.jackson.core.json.UTF8StreamJsonParser._decodeUtf8_4 graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.UTF8StreamJsonParser._decodeUtf8_4,14,51,0,2
+
+
+#com/fasterxml/jackson/core/json/UTF8StreamJsonParser/_skipUtf8_2:
+Method com.fasterxml.jackson.core.json.UTF8StreamJsonParser._skipUtf8_2 graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.UTF8StreamJsonParser._skipUtf8_2,6,15,0,1
+
+
+#com/fasterxml/jackson/core/json/UTF8StreamJsonParser/_skipUtf8_3:
+Method com.fasterxml.jackson.core.json.UTF8StreamJsonParser._skipUtf8_3 graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.UTF8StreamJsonParser._skipUtf8_3,10,30,0,0
+
+
+#com/fasterxml/jackson/core/json/UTF8StreamJsonParser/_skipUtf8_4:
+Method com.fasterxml.jackson.core.json.UTF8StreamJsonParser._skipUtf8_4 graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.UTF8StreamJsonParser._skipUtf8_4,14,45,0,1
+
+
+#com/fasterxml/jackson/core/json/UTF8StreamJsonParser/_skipCR:
+Method com.fasterxml.jackson.core.json.UTF8StreamJsonParser._skipCR graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.UTF8StreamJsonParser._skipCR,6,20,0,0
+
+
+#com/fasterxml/jackson/core/json/UTF8StreamJsonParser/nextByte:
+Method com.fasterxml.jackson.core.json.UTF8StreamJsonParser.nextByte graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.UTF8StreamJsonParser.nextByte,4,10,0,1
+
+
+#com/fasterxml/jackson/core/json/UTF8StreamJsonParser/_reportInvalidChar:
+Method com.fasterxml.jackson.core.json.UTF8StreamJsonParser._reportInvalidChar graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.UTF8StreamJsonParser._reportInvalidChar,4,6,0,0
+
+
+#com/fasterxml/jackson/core/json/UTF8StreamJsonParser/growArrayBy:
+Method com.fasterxml.jackson.core.json.UTF8StreamJsonParser.growArrayBy graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.UTF8StreamJsonParser.growArrayBy,4,5,0,0
+
+
+#com/fasterxml/jackson/core/json/UTF8StreamJsonParser/_decodeBase64:
+Method com.fasterxml.jackson.core.json.UTF8StreamJsonParser._decodeBase64 graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.UTF8StreamJsonParser._decodeBase64,39,138,0,26
+
+
+#com/fasterxml/jackson/core/json/WriterBasedJsonGenerator/writeFieldName:
+Method com.fasterxml.jackson.core.json.WriterBasedJsonGenerator.writeFieldName graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.WriterBasedJsonGenerator.writeFieldName,7,7,0,0
+
+
+#com/fasterxml/jackson/core/json/WriterBasedJsonGenerator/writeFieldName:
+Method com.fasterxml.jackson.core.json.WriterBasedJsonGenerator.writeFieldName graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.WriterBasedJsonGenerator.writeFieldName,7,7,0,1
+
+
+#com/fasterxml/jackson/core/json/WriterBasedJsonGenerator/writeStartArray:
+Method com.fasterxml.jackson.core.json.WriterBasedJsonGenerator.writeStartArray graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.WriterBasedJsonGenerator.writeStartArray,7,16,0,0
+
+
+#com/fasterxml/jackson/core/json/WriterBasedJsonGenerator/writeEndArray:
+Method com.fasterxml.jackson.core.json.WriterBasedJsonGenerator.writeEndArray graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.WriterBasedJsonGenerator.writeEndArray,9,25,0,1
+
+
+#com/fasterxml/jackson/core/json/WriterBasedJsonGenerator/writeStartObject:
+Method com.fasterxml.jackson.core.json.WriterBasedJsonGenerator.writeStartObject graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.WriterBasedJsonGenerator.writeStartObject,7,16,0,1
+
+
+#com/fasterxml/jackson/core/json/WriterBasedJsonGenerator/writeEndObject:
+Method com.fasterxml.jackson.core.json.WriterBasedJsonGenerator.writeEndObject graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.WriterBasedJsonGenerator.writeEndObject,9,25,0,0
+
+
+#com/fasterxml/jackson/core/json/WriterBasedJsonGenerator/_writeFieldName:
+Method com.fasterxml.jackson.core.json.WriterBasedJsonGenerator._writeFieldName graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.WriterBasedJsonGenerator._writeFieldName,12,40,0,1
+
+
+#com/fasterxml/jackson/core/json/WriterBasedJsonGenerator/_writeFieldName:
+Method com.fasterxml.jackson.core.json.WriterBasedJsonGenerator._writeFieldName graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.WriterBasedJsonGenerator._writeFieldName,15,57,0,2
+
+
+#com/fasterxml/jackson/core/json/WriterBasedJsonGenerator/_writePPFieldName:
+Method com.fasterxml.jackson.core.json.WriterBasedJsonGenerator._writePPFieldName graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.WriterBasedJsonGenerator._writePPFieldName,12,33,0,1
+
+
+#com/fasterxml/jackson/core/json/WriterBasedJsonGenerator/_writePPFieldName:
+Method com.fasterxml.jackson.core.json.WriterBasedJsonGenerator._writePPFieldName graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.WriterBasedJsonGenerator._writePPFieldName,12,34,0,13
+
+
+#com/fasterxml/jackson/core/json/WriterBasedJsonGenerator/writeString:
+Method com.fasterxml.jackson.core.json.WriterBasedJsonGenerator.writeString graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.WriterBasedJsonGenerator.writeString,8,24,0,1
+
+
+#com/fasterxml/jackson/core/json/WriterBasedJsonGenerator/writeString:
+Method com.fasterxml.jackson.core.json.WriterBasedJsonGenerator.writeString graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.WriterBasedJsonGenerator.writeString,6,23,0,0
+
+
+#com/fasterxml/jackson/core/json/WriterBasedJsonGenerator/writeString:
+Method com.fasterxml.jackson.core.json.WriterBasedJsonGenerator.writeString graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.WriterBasedJsonGenerator.writeString,11,43,0,1
+
+
+#com/fasterxml/jackson/core/json/WriterBasedJsonGenerator/writeRaw:
+Method com.fasterxml.jackson.core.json.WriterBasedJsonGenerator.writeRaw graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.WriterBasedJsonGenerator.writeRaw,7,18,0,1
+
+
+#com/fasterxml/jackson/core/json/WriterBasedJsonGenerator/writeRaw:
+Method com.fasterxml.jackson.core.json.WriterBasedJsonGenerator.writeRaw graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.WriterBasedJsonGenerator.writeRaw,7,23,0,0
+
+
+#com/fasterxml/jackson/core/json/WriterBasedJsonGenerator/writeRaw:
+Method com.fasterxml.jackson.core.json.WriterBasedJsonGenerator.writeRaw graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.WriterBasedJsonGenerator.writeRaw,6,21,0,1
+
+
+#com/fasterxml/jackson/core/json/WriterBasedJsonGenerator/writeRaw:
+Method com.fasterxml.jackson.core.json.WriterBasedJsonGenerator.writeRaw graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.WriterBasedJsonGenerator.writeRaw,4,11,0,1
+
+
+#com/fasterxml/jackson/core/json/WriterBasedJsonGenerator/writeRawLong:
+Method com.fasterxml.jackson.core.json.WriterBasedJsonGenerator.writeRawLong graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.WriterBasedJsonGenerator.writeRawLong,5,23,0,1
+
+
+#com/fasterxml/jackson/core/json/WriterBasedJsonGenerator/writeBinary:
+Method com.fasterxml.jackson.core.json.WriterBasedJsonGenerator.writeBinary graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.WriterBasedJsonGenerator.writeBinary,6,24,0,1
+
+
+#com/fasterxml/jackson/core/json/WriterBasedJsonGenerator/writeBinary:
+Method com.fasterxml.jackson.core.json.WriterBasedJsonGenerator.writeBinary graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.WriterBasedJsonGenerator.writeBinary,11,43,0,1
+
+
+#com/fasterxml/jackson/core/json/WriterBasedJsonGenerator/writeNumber:
+Method com.fasterxml.jackson.core.json.WriterBasedJsonGenerator.writeNumber graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.WriterBasedJsonGenerator.writeNumber,6,17,0,1
+
+
+#com/fasterxml/jackson/core/json/WriterBasedJsonGenerator/_writeQuotedShort:
+Method com.fasterxml.jackson.core.json.WriterBasedJsonGenerator._writeQuotedShort graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.WriterBasedJsonGenerator._writeQuotedShort,4,11,0,0
+
+
+#com/fasterxml/jackson/core/json/WriterBasedJsonGenerator/writeNumber:
+Method com.fasterxml.jackson.core.json.WriterBasedJsonGenerator.writeNumber graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.WriterBasedJsonGenerator.writeNumber,6,17,0,0
+
+
+#com/fasterxml/jackson/core/json/WriterBasedJsonGenerator/_writeQuotedInt:
+Method com.fasterxml.jackson.core.json.WriterBasedJsonGenerator._writeQuotedInt graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.WriterBasedJsonGenerator._writeQuotedInt,4,11,0,0
+
+
+#com/fasterxml/jackson/core/json/WriterBasedJsonGenerator/writeNumber:
+Method com.fasterxml.jackson.core.json.WriterBasedJsonGenerator.writeNumber graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.WriterBasedJsonGenerator.writeNumber,6,17,0,0
+
+
+#com/fasterxml/jackson/core/json/WriterBasedJsonGenerator/_writeQuotedLong:
+Method com.fasterxml.jackson.core.json.WriterBasedJsonGenerator._writeQuotedLong graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.WriterBasedJsonGenerator._writeQuotedLong,4,11,0,0
+
+
+#com/fasterxml/jackson/core/json/WriterBasedJsonGenerator/writeNumber:
+Method com.fasterxml.jackson.core.json.WriterBasedJsonGenerator.writeNumber graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.WriterBasedJsonGenerator.writeNumber,7,11,0,0
+
+
+#com/fasterxml/jackson/core/json/WriterBasedJsonGenerator/writeNumber:
+Method com.fasterxml.jackson.core.json.WriterBasedJsonGenerator.writeNumber graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.WriterBasedJsonGenerator.writeNumber,7,16,0,0
+
+
+#com/fasterxml/jackson/core/json/WriterBasedJsonGenerator/writeNumber:
+Method com.fasterxml.jackson.core.json.WriterBasedJsonGenerator.writeNumber graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.WriterBasedJsonGenerator.writeNumber,7,16,0,0
+
+
+#com/fasterxml/jackson/core/json/WriterBasedJsonGenerator/writeNumber:
+Method com.fasterxml.jackson.core.json.WriterBasedJsonGenerator.writeNumber graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.WriterBasedJsonGenerator.writeNumber,9,17,0,0
+
+
+#com/fasterxml/jackson/core/json/WriterBasedJsonGenerator/writeNumber:
+Method com.fasterxml.jackson.core.json.WriterBasedJsonGenerator.writeNumber graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.WriterBasedJsonGenerator.writeNumber,5,8,0,0
+
+
+#com/fasterxml/jackson/core/json/WriterBasedJsonGenerator/_writeQuotedRaw:
+Method com.fasterxml.jackson.core.json.WriterBasedJsonGenerator._writeQuotedRaw graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.WriterBasedJsonGenerator._writeQuotedRaw,6,21,0,0
+
+
+#com/fasterxml/jackson/core/json/WriterBasedJsonGenerator/writeBoolean:
+Method com.fasterxml.jackson.core.json.WriterBasedJsonGenerator.writeBoolean graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.WriterBasedJsonGenerator.writeBoolean,7,19,0,1
+
+
+#com/fasterxml/jackson/core/json/WriterBasedJsonGenerator/_verifyValueWrite:
+Method com.fasterxml.jackson.core.json.WriterBasedJsonGenerator._verifyValueWrite graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.WriterBasedJsonGenerator._verifyValueWrite,15,33,0,1
+
+
+#com/fasterxml/jackson/core/json/WriterBasedJsonGenerator/_verifyPrettyValueWrite:
+Method com.fasterxml.jackson.core.json.WriterBasedJsonGenerator._verifyPrettyValueWrite graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.WriterBasedJsonGenerator._verifyPrettyValueWrite,11,24,0,1
+
+
+#com/fasterxml/jackson/core/json/WriterBasedJsonGenerator/flush:
+Method com.fasterxml.jackson.core.json.WriterBasedJsonGenerator.flush graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.WriterBasedJsonGenerator.flush,5,10,0,0
+
+
+#com/fasterxml/jackson/core/json/WriterBasedJsonGenerator/close:
+Method com.fasterxml.jackson.core.json.WriterBasedJsonGenerator.close graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.WriterBasedJsonGenerator.close,15,37,0,2
+
+
+#com/fasterxml/jackson/core/json/WriterBasedJsonGenerator/_releaseBuffers:
+Method com.fasterxml.jackson.core.json.WriterBasedJsonGenerator._releaseBuffers graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.WriterBasedJsonGenerator._releaseBuffers,4,5,0,1
+
+
+#com/fasterxml/jackson/core/json/WriterBasedJsonGenerator/_writeString:
+Method com.fasterxml.jackson.core.json.WriterBasedJsonGenerator._writeString graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.WriterBasedJsonGenerator._writeString,11,37,0,2
+
+
+#com/fasterxml/jackson/core/json/WriterBasedJsonGenerator/_writeString2:
+Method com.fasterxml.jackson.core.json.WriterBasedJsonGenerator._writeString2 graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.WriterBasedJsonGenerator._writeString2,12,49,0,3
+
+
+#com/fasterxml/jackson/core/json/WriterBasedJsonGenerator/_writeLongString:
+Method com.fasterxml.jackson.core.json.WriterBasedJsonGenerator._writeLongString graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.WriterBasedJsonGenerator._writeLongString,12,39,0,2
+
+
+#com/fasterxml/jackson/core/json/WriterBasedJsonGenerator/_writeSegment:
+Method com.fasterxml.jackson.core.json.WriterBasedJsonGenerator._writeSegment graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.WriterBasedJsonGenerator._writeSegment,13,55,0,3
+
+
+#com/fasterxml/jackson/core/json/WriterBasedJsonGenerator/_writeString:
+Method com.fasterxml.jackson.core.json.WriterBasedJsonGenerator._writeString graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.WriterBasedJsonGenerator._writeString,24,93,0,7
+
+
+#com/fasterxml/jackson/core/json/WriterBasedJsonGenerator/_writeStringASCII:
+Method com.fasterxml.jackson.core.json.WriterBasedJsonGenerator._writeStringASCII graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.WriterBasedJsonGenerator._writeStringASCII,14,54,0,4
+
+
+#com/fasterxml/jackson/core/json/WriterBasedJsonGenerator/_writeSegmentASCII:
+Method com.fasterxml.jackson.core.json.WriterBasedJsonGenerator._writeSegmentASCII graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.WriterBasedJsonGenerator._writeSegmentASCII,15,61,0,3
+
+
+#com/fasterxml/jackson/core/json/WriterBasedJsonGenerator/_writeStringASCII:
+Method com.fasterxml.jackson.core.json.WriterBasedJsonGenerator._writeStringASCII graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.WriterBasedJsonGenerator._writeStringASCII,21,78,0,8
+
+
+#com/fasterxml/jackson/core/json/WriterBasedJsonGenerator/_writeStringCustom:
+Method com.fasterxml.jackson.core.json.WriterBasedJsonGenerator._writeStringCustom graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.WriterBasedJsonGenerator._writeStringCustom,19,70,0,5
+
+
+#com/fasterxml/jackson/core/json/WriterBasedJsonGenerator/_writeSegmentCustom:
+Method com.fasterxml.jackson.core.json.WriterBasedJsonGenerator._writeSegmentCustom graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.WriterBasedJsonGenerator._writeSegmentCustom,20,77,0,5
+
+
+#com/fasterxml/jackson/core/json/WriterBasedJsonGenerator/_writeStringCustom:
+Method com.fasterxml.jackson.core.json.WriterBasedJsonGenerator._writeStringCustom graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.WriterBasedJsonGenerator._writeStringCustom,26,94,0,12
+
+
+#com/fasterxml/jackson/core/json/WriterBasedJsonGenerator/_writeBinary:
+Method com.fasterxml.jackson.core.json.WriterBasedJsonGenerator._writeBinary graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.WriterBasedJsonGenerator._writeBinary,15,68,0,4
+
+
+#com/fasterxml/jackson/core/json/WriterBasedJsonGenerator/_writeBinary:
+Method com.fasterxml.jackson.core.json.WriterBasedJsonGenerator._writeBinary graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.WriterBasedJsonGenerator._writeBinary,21,107,0,10
+
+
+#com/fasterxml/jackson/core/json/WriterBasedJsonGenerator/_writeBinary:
+Method com.fasterxml.jackson.core.json.WriterBasedJsonGenerator._writeBinary graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.WriterBasedJsonGenerator._writeBinary,17,89,0,6
+
+
+#com/fasterxml/jackson/core/json/WriterBasedJsonGenerator/_readMore:
+Method com.fasterxml.jackson.core.json.WriterBasedJsonGenerator._readMore graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.WriterBasedJsonGenerator._readMore,11,36,0,1
+
+
+#com/fasterxml/jackson/core/json/WriterBasedJsonGenerator/_writeNull:
+Method com.fasterxml.jackson.core.json.WriterBasedJsonGenerator._writeNull graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.WriterBasedJsonGenerator._writeNull,4,10,0,0
+
+
+#com/fasterxml/jackson/core/json/WriterBasedJsonGenerator/_prependOrWriteCharacterEscape:
+Method com.fasterxml.jackson.core.json.WriterBasedJsonGenerator._prependOrWriteCharacterEscape graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.WriterBasedJsonGenerator._prependOrWriteCharacterEscape,25,93,0,3
+
+
+#com/fasterxml/jackson/core/json/WriterBasedJsonGenerator/_prependOrWriteCharacterEscape:
+Method com.fasterxml.jackson.core.json.WriterBasedJsonGenerator._prependOrWriteCharacterEscape graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.WriterBasedJsonGenerator._prependOrWriteCharacterEscape,30,100,0,3
+
+
+#com/fasterxml/jackson/core/json/WriterBasedJsonGenerator/_appendCharacterEscape:
+Method com.fasterxml.jackson.core.json.WriterBasedJsonGenerator._appendCharacterEscape graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.WriterBasedJsonGenerator._appendCharacterEscape,19,76,0,2
+
+
+#com/fasterxml/jackson/core/json/WriterBasedJsonGenerator/_flushBuffer:
+Method com.fasterxml.jackson.core.json.WriterBasedJsonGenerator._flushBuffer graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.WriterBasedJsonGenerator._flushBuffer,4,7,0,0
+
+
+#com/fasterxml/jackson/core/json/UTF8JsonGenerator/<init>:
+Method com.fasterxml.jackson.core.json.UTF8JsonGenerator.<init> graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.UTF8JsonGenerator.<init>,4,5,0,0
+
+
+#com/fasterxml/jackson/core/json/UTF8JsonGenerator/writeFieldName:
+Method com.fasterxml.jackson.core.json.UTF8JsonGenerator.writeFieldName graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.UTF8JsonGenerator.writeFieldName,13,25,0,1
+
+
+#com/fasterxml/jackson/core/json/UTF8JsonGenerator/writeFieldName:
+Method com.fasterxml.jackson.core.json.UTF8JsonGenerator.writeFieldName graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.UTF8JsonGenerator.writeFieldName,13,25,0,1
+
+
+#com/fasterxml/jackson/core/json/UTF8JsonGenerator/writeStartArray:
+Method com.fasterxml.jackson.core.json.UTF8JsonGenerator.writeStartArray graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.UTF8JsonGenerator.writeStartArray,7,16,0,0
+
+
+#com/fasterxml/jackson/core/json/UTF8JsonGenerator/writeEndArray:
+Method com.fasterxml.jackson.core.json.UTF8JsonGenerator.writeEndArray graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.UTF8JsonGenerator.writeEndArray,9,25,0,0
+
+
+#com/fasterxml/jackson/core/json/UTF8JsonGenerator/writeStartObject:
+Method com.fasterxml.jackson.core.json.UTF8JsonGenerator.writeStartObject graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.UTF8JsonGenerator.writeStartObject,7,16,0,0
+
+
+#com/fasterxml/jackson/core/json/UTF8JsonGenerator/writeEndObject:
+Method com.fasterxml.jackson.core.json.UTF8JsonGenerator.writeEndObject graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.UTF8JsonGenerator.writeEndObject,9,25,0,0
+
+
+#com/fasterxml/jackson/core/json/UTF8JsonGenerator/_writeFieldName:
+Method com.fasterxml.jackson.core.json.UTF8JsonGenerator._writeFieldName graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.UTF8JsonGenerator._writeFieldName,15,60,0,3
+
+
+#com/fasterxml/jackson/core/json/UTF8JsonGenerator/_writeFieldName:
+Method com.fasterxml.jackson.core.json.UTF8JsonGenerator._writeFieldName graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.UTF8JsonGenerator._writeFieldName,14,46,0,2
+
+
+#com/fasterxml/jackson/core/json/UTF8JsonGenerator/_writePPFieldName:
+Method com.fasterxml.jackson.core.json.UTF8JsonGenerator._writePPFieldName graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.UTF8JsonGenerator._writePPFieldName,19,66,0,2
+
+
+#com/fasterxml/jackson/core/json/UTF8JsonGenerator/_writePPFieldName:
+Method com.fasterxml.jackson.core.json.UTF8JsonGenerator._writePPFieldName graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.UTF8JsonGenerator._writePPFieldName,13,37,0,1
+
+
+#com/fasterxml/jackson/core/json/UTF8JsonGenerator/writeString:
+Method com.fasterxml.jackson.core.json.UTF8JsonGenerator.writeString graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.UTF8JsonGenerator.writeString,12,49,0,1
+
+
+#com/fasterxml/jackson/core/json/UTF8JsonGenerator/_writeLongString:
+Method com.fasterxml.jackson.core.json.UTF8JsonGenerator._writeLongString graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.UTF8JsonGenerator._writeLongString,6,21,0,1
+
+
+#com/fasterxml/jackson/core/json/UTF8JsonGenerator/_writeLongString:
+Method com.fasterxml.jackson.core.json.UTF8JsonGenerator._writeLongString graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.UTF8JsonGenerator._writeLongString,6,22,0,0
+
+
+#com/fasterxml/jackson/core/json/UTF8JsonGenerator/writeString:
+Method com.fasterxml.jackson.core.json.UTF8JsonGenerator.writeString graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.UTF8JsonGenerator.writeString,11,43,0,1
+
+
+#com/fasterxml/jackson/core/json/UTF8JsonGenerator/writeString:
+Method com.fasterxml.jackson.core.json.UTF8JsonGenerator.writeString graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.UTF8JsonGenerator.writeString,9,31,0,1
+
+
+#com/fasterxml/jackson/core/json/UTF8JsonGenerator/writeRawUTF8String:
+Method com.fasterxml.jackson.core.json.UTF8JsonGenerator.writeRawUTF8String graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.UTF8JsonGenerator.writeRawUTF8String,6,23,0,0
+
+
+#com/fasterxml/jackson/core/json/UTF8JsonGenerator/writeUTF8String:
+Method com.fasterxml.jackson.core.json.UTF8JsonGenerator.writeUTF8String graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.UTF8JsonGenerator.writeUTF8String,9,34,0,0
+
+
+#com/fasterxml/jackson/core/json/UTF8JsonGenerator/writeRaw:
+Method com.fasterxml.jackson.core.json.UTF8JsonGenerator.writeRaw graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.UTF8JsonGenerator.writeRaw,8,20,0,0
+
+
+#com/fasterxml/jackson/core/json/UTF8JsonGenerator/writeRaw:
+Method com.fasterxml.jackson.core.json.UTF8JsonGenerator.writeRaw graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.UTF8JsonGenerator.writeRaw,7,14,0,0
+
+
+#com/fasterxml/jackson/core/json/UTF8JsonGenerator/writeRaw:
+Method com.fasterxml.jackson.core.json.UTF8JsonGenerator.writeRaw graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.UTF8JsonGenerator.writeRaw,4,4,0,0
+
+
+#com/fasterxml/jackson/core/json/UTF8JsonGenerator/writeRaw:
+Method com.fasterxml.jackson.core.json.UTF8JsonGenerator.writeRaw graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.UTF8JsonGenerator.writeRaw,16,63,0,3
+
+
+#com/fasterxml/jackson/core/json/UTF8JsonGenerator/writeRaw:
+Method com.fasterxml.jackson.core.json.UTF8JsonGenerator.writeRaw graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.UTF8JsonGenerator.writeRaw,9,23,0,0
+
+
+#com/fasterxml/jackson/core/json/UTF8JsonGenerator/_writeSegmentedRaw:
+Method com.fasterxml.jackson.core.json.UTF8JsonGenerator._writeSegmentedRaw graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.UTF8JsonGenerator._writeSegmentedRaw,16,64,0,6
+
+
+#com/fasterxml/jackson/core/json/UTF8JsonGenerator/writeBinary:
+Method com.fasterxml.jackson.core.json.UTF8JsonGenerator.writeBinary graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.UTF8JsonGenerator.writeBinary,6,24,0,0
+
+
+#com/fasterxml/jackson/core/json/UTF8JsonGenerator/writeBinary:
+Method com.fasterxml.jackson.core.json.UTF8JsonGenerator.writeBinary graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.UTF8JsonGenerator.writeBinary,11,43,0,1
+
+
+#com/fasterxml/jackson/core/json/UTF8JsonGenerator/writeNumber:
+Method com.fasterxml.jackson.core.json.UTF8JsonGenerator.writeNumber graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.UTF8JsonGenerator.writeNumber,6,17,0,0
+
+
+#com/fasterxml/jackson/core/json/UTF8JsonGenerator/_writeQuotedShort:
+Method com.fasterxml.jackson.core.json.UTF8JsonGenerator._writeQuotedShort graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.UTF8JsonGenerator._writeQuotedShort,4,11,0,0
+
+
+#com/fasterxml/jackson/core/json/UTF8JsonGenerator/writeNumber:
+Method com.fasterxml.jackson.core.json.UTF8JsonGenerator.writeNumber graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.UTF8JsonGenerator.writeNumber,6,17,0,1
+
+
+#com/fasterxml/jackson/core/json/UTF8JsonGenerator/_writeQuotedInt:
+Method com.fasterxml.jackson.core.json.UTF8JsonGenerator._writeQuotedInt graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.UTF8JsonGenerator._writeQuotedInt,4,11,0,1
+
+
+#com/fasterxml/jackson/core/json/UTF8JsonGenerator/writeNumber:
+Method com.fasterxml.jackson.core.json.UTF8JsonGenerator.writeNumber graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.UTF8JsonGenerator.writeNumber,6,17,0,0
+
+
+#com/fasterxml/jackson/core/json/UTF8JsonGenerator/_writeQuotedLong:
+Method com.fasterxml.jackson.core.json.UTF8JsonGenerator._writeQuotedLong graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.UTF8JsonGenerator._writeQuotedLong,4,11,0,0
+
+
+#com/fasterxml/jackson/core/json/UTF8JsonGenerator/writeNumber:
+Method com.fasterxml.jackson.core.json.UTF8JsonGenerator.writeNumber graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.UTF8JsonGenerator.writeNumber,7,11,0,0
+
+
+#com/fasterxml/jackson/core/json/UTF8JsonGenerator/writeNumber:
+Method com.fasterxml.jackson.core.json.UTF8JsonGenerator.writeNumber graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.UTF8JsonGenerator.writeNumber,7,16,0,1
+
+
+#com/fasterxml/jackson/core/json/UTF8JsonGenerator/writeNumber:
+Method com.fasterxml.jackson.core.json.UTF8JsonGenerator.writeNumber graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.UTF8JsonGenerator.writeNumber,7,16,0,0
+
+
+#com/fasterxml/jackson/core/json/UTF8JsonGenerator/writeNumber:
+Method com.fasterxml.jackson.core.json.UTF8JsonGenerator.writeNumber graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.UTF8JsonGenerator.writeNumber,9,17,0,1
+
+
+#com/fasterxml/jackson/core/json/UTF8JsonGenerator/writeNumber:
+Method com.fasterxml.jackson.core.json.UTF8JsonGenerator.writeNumber graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.UTF8JsonGenerator.writeNumber,5,8,0,0
+
+
+#com/fasterxml/jackson/core/json/UTF8JsonGenerator/_writeQuotedRaw:
+Method com.fasterxml.jackson.core.json.UTF8JsonGenerator._writeQuotedRaw graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.UTF8JsonGenerator._writeQuotedRaw,6,21,0,0
+
+
+#com/fasterxml/jackson/core/json/UTF8JsonGenerator/writeBoolean:
+Method com.fasterxml.jackson.core.json.UTF8JsonGenerator.writeBoolean graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.UTF8JsonGenerator.writeBoolean,7,14,0,0
+
+
+#com/fasterxml/jackson/core/json/UTF8JsonGenerator/_verifyValueWrite:
+Method com.fasterxml.jackson.core.json.UTF8JsonGenerator._verifyValueWrite graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.UTF8JsonGenerator._verifyValueWrite,16,37,0,1
+
+
+#com/fasterxml/jackson/core/json/UTF8JsonGenerator/_verifyPrettyValueWrite:
+Method com.fasterxml.jackson.core.json.UTF8JsonGenerator._verifyPrettyValueWrite graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.UTF8JsonGenerator._verifyPrettyValueWrite,11,24,0,1
+
+
+#com/fasterxml/jackson/core/json/UTF8JsonGenerator/flush:
+Method com.fasterxml.jackson.core.json.UTF8JsonGenerator.flush graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.UTF8JsonGenerator.flush,5,10,0,0
+
+
+#com/fasterxml/jackson/core/json/UTF8JsonGenerator/close:
+Method com.fasterxml.jackson.core.json.UTF8JsonGenerator.close graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.UTF8JsonGenerator.close,15,37,0,2
+
+
+#com/fasterxml/jackson/core/json/UTF8JsonGenerator/_releaseBuffers:
+Method com.fasterxml.jackson.core.json.UTF8JsonGenerator._releaseBuffers graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.UTF8JsonGenerator._releaseBuffers,7,16,0,1
+
+
+#com/fasterxml/jackson/core/json/UTF8JsonGenerator/_writeBytes:
+Method com.fasterxml.jackson.core.json.UTF8JsonGenerator._writeBytes graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.UTF8JsonGenerator._writeBytes,5,20,0,1
+
+
+#com/fasterxml/jackson/core/json/UTF8JsonGenerator/_writeBytes:
+Method com.fasterxml.jackson.core.json.UTF8JsonGenerator._writeBytes graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.UTF8JsonGenerator._writeBytes,5,22,0,1
+
+
+#com/fasterxml/jackson/core/json/UTF8JsonGenerator/_writeStringSegments:
+Method com.fasterxml.jackson.core.json.UTF8JsonGenerator._writeStringSegments graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.UTF8JsonGenerator._writeStringSegments,7,28,0,1
+
+Failed to analyze: /Users/marcoschaim/experimentos/subsumption-experiment/scripts/../subsumption-data/JacksonCore/graphdua/
+
+#com/fasterxml/jackson/core/json/JsonReadContext/createChildArrayContext:
+Method com.fasterxml.jackson.core.json.JsonReadContext.createChildArrayContext graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.JsonReadContext.createChildArrayContext,4,8,0,0
+
+
+#com/fasterxml/jackson/core/json/JsonReadContext/createChildObjectContext:
+Method com.fasterxml.jackson.core.json.JsonReadContext.createChildObjectContext graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.JsonReadContext.createChildObjectContext,4,8,0,0
+
+
+#com/fasterxml/jackson/core/json/JsonReadContext/expectComma:
+Method com.fasterxml.jackson.core.json.JsonReadContext.expectComma graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.JsonReadContext.expectComma,6,6,0,1
+
+
+#com/fasterxml/jackson/core/json/JsonReadContext/toString:
+Method com.fasterxml.jackson.core.json.JsonReadContext.toString graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.JsonReadContext.toString,9,22,0,0
+
+
+#com/fasterxml/jackson/core/json/JsonGeneratorImpl/<init>:
+Method com.fasterxml.jackson.core.json.JsonGeneratorImpl.<init> graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.JsonGeneratorImpl.<init>,4,5,0,0
+
+
+#com/fasterxml/jackson/core/json/JsonGeneratorImpl/setHighestNonEscapedChar:
+Method com.fasterxml.jackson.core.json.JsonGeneratorImpl.setHighestNonEscapedChar graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.JsonGeneratorImpl.setHighestNonEscapedChar,5,4,0,0
+
+
+#com/fasterxml/jackson/core/json/JsonGeneratorImpl/setCharacterEscapes:
+Method com.fasterxml.jackson.core.json.JsonGeneratorImpl.setCharacterEscapes graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.JsonGeneratorImpl.setCharacterEscapes,5,7,0,0
+
+
+#com/fasterxml/jackson/core/json/ByteSourceJsonBootstrapper/detectEncoding:
+Method com.fasterxml.jackson.core.json.ByteSourceJsonBootstrapper.detectEncoding graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.ByteSourceJsonBootstrapper.detectEncoding,26,64,0,3
+
+
+#com/fasterxml/jackson/core/json/ByteSourceJsonBootstrapper/constructReader:
+Method com.fasterxml.jackson.core.json.ByteSourceJsonBootstrapper.constructReader graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.ByteSourceJsonBootstrapper.constructReader,9,36,0,1
+
+
+#com/fasterxml/jackson/core/json/ByteSourceJsonBootstrapper/constructParser:
+Method com.fasterxml.jackson.core.json.ByteSourceJsonBootstrapper.constructParser graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.ByteSourceJsonBootstrapper.constructParser,5,25,0,0
+
+
+#com/fasterxml/jackson/core/json/ByteSourceJsonBootstrapper/hasJSONFormat:
+Method com.fasterxml.jackson.core.json.ByteSourceJsonBootstrapper.hasJSONFormat graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.ByteSourceJsonBootstrapper.hasJSONFormat,51,86,0,3
+
+
+#com/fasterxml/jackson/core/json/ByteSourceJsonBootstrapper/tryMatch:
+Method com.fasterxml.jackson.core.json.ByteSourceJsonBootstrapper.tryMatch graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.ByteSourceJsonBootstrapper.tryMatch,9,21,0,0
+
+
+#com/fasterxml/jackson/core/json/ByteSourceJsonBootstrapper/skipSpace:
+Method com.fasterxml.jackson.core.json.ByteSourceJsonBootstrapper.skipSpace graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.ByteSourceJsonBootstrapper.skipSpace,4,3,0,0
+
+
+#com/fasterxml/jackson/core/json/ByteSourceJsonBootstrapper/skipSpace:
+Method com.fasterxml.jackson.core.json.ByteSourceJsonBootstrapper.skipSpace graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.ByteSourceJsonBootstrapper.skipSpace,9,12,0,0
+
+
+#com/fasterxml/jackson/core/json/ByteSourceJsonBootstrapper/handleBOM:
+Method com.fasterxml.jackson.core.json.ByteSourceJsonBootstrapper.handleBOM graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.ByteSourceJsonBootstrapper.handleBOM,13,24,0,0
+
+
+#com/fasterxml/jackson/core/json/ByteSourceJsonBootstrapper/checkUTF32:
+Method com.fasterxml.jackson.core.json.ByteSourceJsonBootstrapper.checkUTF32 graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.ByteSourceJsonBootstrapper.checkUTF32,11,13,0,0
+
+
+#com/fasterxml/jackson/core/json/ByteSourceJsonBootstrapper/checkUTF16:
+Method com.fasterxml.jackson.core.json.ByteSourceJsonBootstrapper.checkUTF16 graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.ByteSourceJsonBootstrapper.checkUTF16,7,7,0,0
+
+
+#com/fasterxml/jackson/core/json/ByteSourceJsonBootstrapper/ensureLoaded:
+Method com.fasterxml.jackson.core.json.ByteSourceJsonBootstrapper.ensureLoaded graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.json.ByteSourceJsonBootstrapper.ensureLoaded,10,26,0,1
+
+
+#com/fasterxml/jackson/core/type/TypeReference/<init>:
+Method com.fasterxml.jackson.core.type.TypeReference.<init> graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.type.TypeReference.<init>,4,4,0,1
+
+
+#com/fasterxml/jackson/core/format/DataFormatDetector/withOptimalMatch:
+Method com.fasterxml.jackson.core.format.DataFormatDetector.withOptimalMatch graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.format.DataFormatDetector.withOptimalMatch,4,12,0,0
+
+
+#com/fasterxml/jackson/core/format/DataFormatDetector/withMinimalMatch:
+Method com.fasterxml.jackson.core.format.DataFormatDetector.withMinimalMatch graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.format.DataFormatDetector.withMinimalMatch,4,12,0,0
+
+
+#com/fasterxml/jackson/core/format/DataFormatDetector/withMaxInputLookahead:
+Method com.fasterxml.jackson.core.format.DataFormatDetector.withMaxInputLookahead graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.format.DataFormatDetector.withMaxInputLookahead,4,12,0,0
+
+
+#com/fasterxml/jackson/core/format/DataFormatDetector/toString:
+Method com.fasterxml.jackson.core.format.DataFormatDetector.toString graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.format.DataFormatDetector.toString,6,17,0,1
+
+
+#com/fasterxml/jackson/core/format/DataFormatDetector/_findFormat:
+Method com.fasterxml.jackson.core.format.DataFormatDetector._findFormat graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.format.DataFormatDetector._findFormat,13,43,0,4
+
+
+#com/fasterxml/jackson/core/format/InputAccessor$Std/hasMoreBytes:
+Method com.fasterxml.jackson.core.format.InputAccessor$Std.hasMoreBytes graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.format.InputAccessor$Std.hasMoreBytes,10,25,0,1
+
+
+#com/fasterxml/jackson/core/format/InputAccessor$Std/nextByte:
+Method com.fasterxml.jackson.core.format.InputAccessor$Std.nextByte graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.format.InputAccessor$Std.nextByte,5,14,0,0
+
+
+#com/fasterxml/jackson/core/format/DataFormatMatcher/hasMatch:
+Method com.fasterxml.jackson.core.format.DataFormatMatcher.hasMatch graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.format.DataFormatMatcher.hasMatch,5,4,0,0
+
+
+#com/fasterxml/jackson/core/format/DataFormatMatcher/getMatchStrength:
+Method com.fasterxml.jackson.core.format.DataFormatMatcher.getMatchStrength graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.format.DataFormatMatcher.getMatchStrength,5,7,0,0
+
+
+#com/fasterxml/jackson/core/format/DataFormatMatcher/createParserWithMatch:
+Method com.fasterxml.jackson.core.format.DataFormatMatcher.createParserWithMatch graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.format.DataFormatMatcher.createParserWithMatch,6,15,0,0
+
+
+#com/fasterxml/jackson/core/format/DataFormatMatcher/getDataStream:
+Method com.fasterxml.jackson.core.format.DataFormatMatcher.getDataStream graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.format.DataFormatMatcher.getDataStream,4,13,0,0
+
+
+#com/fasterxml/jackson/core/base/ParserBase/getCurrentName:
+Method com.fasterxml.jackson.core.base.ParserBase.getCurrentName graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.base.ParserBase.getCurrentName,5,16,0,0
+
+
+#com/fasterxml/jackson/core/base/ParserBase/overrideCurrentName:
+Method com.fasterxml.jackson.core.base.ParserBase.overrideCurrentName graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.base.ParserBase.overrideCurrentName,5,16,0,0
+
+
+#com/fasterxml/jackson/core/base/ParserBase/close:
+Method com.fasterxml.jackson.core.base.ParserBase.close graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.base.ParserBase.close,4,5,0,0
+
+
+#com/fasterxml/jackson/core/base/ParserBase/hasTextCharacters:
+Method com.fasterxml.jackson.core.base.ParserBase.hasTextCharacters graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.base.ParserBase.hasTextCharacters,6,14,0,0
+
+
+#com/fasterxml/jackson/core/base/ParserBase/getTokenColumnNr:
+Method com.fasterxml.jackson.core.base.ParserBase.getTokenColumnNr graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.base.ParserBase.getTokenColumnNr,5,3,0,0
+
+
+#com/fasterxml/jackson/core/base/ParserBase/loadMoreGuaranteed:
+Method com.fasterxml.jackson.core.base.ParserBase.loadMoreGuaranteed graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.base.ParserBase.loadMoreGuaranteed,4,3,0,0
+
+
+#com/fasterxml/jackson/core/base/ParserBase/_releaseBuffers:
+Method com.fasterxml.jackson.core.base.ParserBase._releaseBuffers graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.base.ParserBase._releaseBuffers,4,5,0,0
+
+
+#com/fasterxml/jackson/core/base/ParserBase/_handleEOF:
+Method com.fasterxml.jackson.core.base.ParserBase._handleEOF graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.base.ParserBase._handleEOF,4,7,0,1
+
+
+#com/fasterxml/jackson/core/base/ParserBase/_getByteArrayBuilder:
+Method com.fasterxml.jackson.core.base.ParserBase._getByteArrayBuilder graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.base.ParserBase._getByteArrayBuilder,5,10,0,0
+
+
+#com/fasterxml/jackson/core/base/ParserBase/reset:
+Method com.fasterxml.jackson.core.base.ParserBase.reset graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.base.ParserBase.reset,5,12,0,0
+
+
+#com/fasterxml/jackson/core/base/ParserBase/getNumberValue:
+Method com.fasterxml.jackson.core.base.ParserBase.getNumberValue graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.base.ParserBase.getNumberValue,16,44,0,1
+
+
+#com/fasterxml/jackson/core/base/ParserBase/getNumberType:
+Method com.fasterxml.jackson.core.base.ParserBase.getNumberType graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.base.ParserBase.getNumberType,12,28,0,0
+
+
+#com/fasterxml/jackson/core/base/ParserBase/getIntValue:
+Method com.fasterxml.jackson.core.base.ParserBase.getIntValue graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.base.ParserBase.getIntValue,7,16,0,0
+
+
+#com/fasterxml/jackson/core/base/ParserBase/getLongValue:
+Method com.fasterxml.jackson.core.base.ParserBase.getLongValue graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.base.ParserBase.getLongValue,7,16,0,0
+
+
+#com/fasterxml/jackson/core/base/ParserBase/getBigIntegerValue:
+Method com.fasterxml.jackson.core.base.ParserBase.getBigIntegerValue graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.base.ParserBase.getBigIntegerValue,7,16,0,0
+
+
+#com/fasterxml/jackson/core/base/ParserBase/getDoubleValue:
+Method com.fasterxml.jackson.core.base.ParserBase.getDoubleValue graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.base.ParserBase.getDoubleValue,7,16,0,0
+
+
+#com/fasterxml/jackson/core/base/ParserBase/getDecimalValue:
+Method com.fasterxml.jackson.core.base.ParserBase.getDecimalValue graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.base.ParserBase.getDecimalValue,7,16,0,0
+
+
+#com/fasterxml/jackson/core/base/ParserBase/_parseNumericValue:
+Method com.fasterxml.jackson.core.base.ParserBase._parseNumericValue graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.base.ParserBase._parseNumericValue,23,76,0,2
+
+
+#com/fasterxml/jackson/core/base/ParserBase/_parseSlowFloatValue:
+Method com.fasterxml.jackson.core.base.ParserBase._parseSlowFloatValue graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.base.ParserBase._parseSlowFloatValue,5,6,0,0
+
+
+#com/fasterxml/jackson/core/base/ParserBase/_parseSlowIntValue:
+Method com.fasterxml.jackson.core.base.ParserBase._parseSlowIntValue graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.base.ParserBase._parseSlowIntValue,5,14,0,0
+
+
+#com/fasterxml/jackson/core/base/ParserBase/convertNumberToInt:
+Method com.fasterxml.jackson.core.base.ParserBase.convertNumberToInt graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.base.ParserBase.convertNumberToInt,22,71,0,2
+
+
+#com/fasterxml/jackson/core/base/ParserBase/convertNumberToLong:
+Method com.fasterxml.jackson.core.base.ParserBase.convertNumberToLong graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.base.ParserBase.convertNumberToLong,20,62,0,1
+
+
+#com/fasterxml/jackson/core/base/ParserBase/convertNumberToBigInteger:
+Method com.fasterxml.jackson.core.base.ParserBase.convertNumberToBigInteger graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.base.ParserBase.convertNumberToBigInteger,11,27,0,0
+
+
+#com/fasterxml/jackson/core/base/ParserBase/convertNumberToDouble:
+Method com.fasterxml.jackson.core.base.ParserBase.convertNumberToDouble graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.base.ParserBase.convertNumberToDouble,11,27,0,0
+
+
+#com/fasterxml/jackson/core/base/ParserBase/convertNumberToBigDecimal:
+Method com.fasterxml.jackson.core.base.ParserBase.convertNumberToBigDecimal graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.base.ParserBase.convertNumberToBigDecimal,11,26,0,1
+
+
+#com/fasterxml/jackson/core/base/ParserBase/reportUnexpectedNumberChar:
+Method com.fasterxml.jackson.core.base.ParserBase.reportUnexpectedNumberChar graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.base.ParserBase.reportUnexpectedNumberChar,4,7,0,0
+
+
+#com/fasterxml/jackson/core/base/ParserBase/_decodeBase64Escape:
+Method com.fasterxml.jackson.core.base.ParserBase._decodeBase64Escape graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.base.ParserBase._decodeBase64Escape,9,20,0,1
+
+
+#com/fasterxml/jackson/core/base/ParserBase/_decodeBase64Escape:
+Method com.fasterxml.jackson.core.base.ParserBase._decodeBase64Escape graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.base.ParserBase._decodeBase64Escape,9,20,0,1
+
+
+#com/fasterxml/jackson/core/base/ParserBase/reportInvalidBase64Char:
+Method com.fasterxml.jackson.core.base.ParserBase.reportInvalidBase64Char graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.base.ParserBase.reportInvalidBase64Char,12,28,0,0
+
+
+#com/fasterxml/jackson/core/base/GeneratorBase/enable:
+Method com.fasterxml.jackson.core.base.GeneratorBase.enable graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.base.GeneratorBase.enable,6,11,0,0
+
+
+#com/fasterxml/jackson/core/base/GeneratorBase/disable:
+Method com.fasterxml.jackson.core.base.GeneratorBase.disable graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.base.GeneratorBase.disable,6,11,0,0
+
+
+#com/fasterxml/jackson/core/base/GeneratorBase/isEnabled:
+Method com.fasterxml.jackson.core.base.GeneratorBase.isEnabled graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.base.GeneratorBase.isEnabled,5,6,0,0
+
+
+#com/fasterxml/jackson/core/base/GeneratorBase/useDefaultPrettyPrinter:
+Method com.fasterxml.jackson.core.base.GeneratorBase.useDefaultPrettyPrinter graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.base.GeneratorBase.useDefaultPrettyPrinter,4,4,0,0
+
+
+#com/fasterxml/jackson/core/base/GeneratorBase/writeObject:
+Method com.fasterxml.jackson.core.base.GeneratorBase.writeObject graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.base.GeneratorBase.writeObject,7,12,0,0
+
+
+#com/fasterxml/jackson/core/base/GeneratorBase/writeTree:
+Method com.fasterxml.jackson.core.base.GeneratorBase.writeTree graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.base.GeneratorBase.writeTree,7,10,0,0
+
+
+#com/fasterxml/jackson/core/base/GeneratorBase/copyCurrentEvent:
+Method com.fasterxml.jackson.core.base.GeneratorBase.copyCurrentEvent graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.base.GeneratorBase.copyCurrentEvent,26,71,0,2
+
+
+#com/fasterxml/jackson/core/base/GeneratorBase/copyCurrentStructure:
+Method com.fasterxml.jackson.core.base.GeneratorBase.copyCurrentStructure graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.base.GeneratorBase.copyCurrentStructure,14,33,0,1
+
+
+#com/fasterxml/jackson/core/base/GeneratorBase/_writeSimpleObject:
+Method com.fasterxml.jackson.core.base.GeneratorBase._writeSimpleObject graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.base.GeneratorBase._writeSimpleObject,34,63,0,2
+
+
+#com/fasterxml/jackson/core/base/ParserMinimalBase/hasCurrentToken:
+Method com.fasterxml.jackson.core.base.ParserMinimalBase.hasCurrentToken graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.base.ParserMinimalBase.hasCurrentToken,5,4,0,0
+
+
+#com/fasterxml/jackson/core/base/ParserMinimalBase/nextValue:
+Method com.fasterxml.jackson.core.base.ParserMinimalBase.nextValue graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.base.ParserMinimalBase.nextValue,4,7,0,1
+
+
+#com/fasterxml/jackson/core/base/ParserMinimalBase/skipChildren:
+Method com.fasterxml.jackson.core.base.ParserMinimalBase.skipChildren graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.base.ParserMinimalBase.skipChildren,12,32,0,2
+
+
+#com/fasterxml/jackson/core/base/ParserMinimalBase/clearCurrentToken:
+Method com.fasterxml.jackson.core.base.ParserMinimalBase.clearCurrentToken graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.base.ParserMinimalBase.clearCurrentToken,4,6,0,0
+
+
+#com/fasterxml/jackson/core/base/ParserMinimalBase/getValueAsBoolean:
+Method com.fasterxml.jackson.core.base.ParserMinimalBase.getValueAsBoolean graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.base.ParserMinimalBase.getValueAsBoolean,16,36,0,1
+
+
+#com/fasterxml/jackson/core/base/ParserMinimalBase/getValueAsInt:
+Method com.fasterxml.jackson.core.base.ParserMinimalBase.getValueAsInt graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.base.ParserMinimalBase.getValueAsInt,12,35,0,1
+
+
+#com/fasterxml/jackson/core/base/ParserMinimalBase/getValueAsLong:
+Method com.fasterxml.jackson.core.base.ParserMinimalBase.getValueAsLong graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.base.ParserMinimalBase.getValueAsLong,12,35,0,1
+
+
+#com/fasterxml/jackson/core/base/ParserMinimalBase/getValueAsDouble:
+Method com.fasterxml.jackson.core.base.ParserMinimalBase.getValueAsDouble graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.base.ParserMinimalBase.getValueAsDouble,12,35,0,1
+
+
+#com/fasterxml/jackson/core/base/ParserMinimalBase/getValueAsString:
+Method com.fasterxml.jackson.core.base.ParserMinimalBase.getValueAsString graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.base.ParserMinimalBase.getValueAsString,7,22,0,0
+
+
+#com/fasterxml/jackson/core/base/ParserMinimalBase/_reportInvalidBase64:
+Method com.fasterxml.jackson.core.base.ParserMinimalBase._reportInvalidBase64 graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.base.ParserMinimalBase._reportInvalidBase64,12,29,0,1
+
+
+#com/fasterxml/jackson/core/base/ParserMinimalBase/_reportUnexpectedChar:
+Method com.fasterxml.jackson.core.base.ParserMinimalBase._reportUnexpectedChar graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.base.ParserMinimalBase._reportUnexpectedChar,4,7,0,0
+
+
+#com/fasterxml/jackson/core/base/ParserMinimalBase/_throwUnquotedSpace:
+Method com.fasterxml.jackson.core.base.ParserMinimalBase._throwUnquotedSpace graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.base.ParserMinimalBase._throwUnquotedSpace,5,9,0,0
+
+
+#com/fasterxml/jackson/core/base/ParserMinimalBase/_handleUnrecognizedCharacterEscape:
+Method com.fasterxml.jackson.core.base.ParserMinimalBase._handleUnrecognizedCharacterEscape graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.base.ParserMinimalBase._handleUnrecognizedCharacterEscape,7,14,0,1
+
+
+#com/fasterxml/jackson/core/base/ParserMinimalBase/_getCharDesc:
+Method com.fasterxml.jackson.core.base.ParserMinimalBase._getCharDesc graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.core.base.ParserMinimalBase._getCharDesc,6,9,0,0
+
+552 methods have their graphdua generated in 0 minutes and 2 seconds
+Graphduas time (ms):2703

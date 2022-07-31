@@ -1,0 +1,10 @@
+{
+"Class" : "com.fasterxml.jackson.core.type.TypeReference", 
+"Methods" : [{ "Name" : "<init>" ,
+"Nodes" : 4,
+"0" : [ 33,34,35 ]
+"1" : [ 45,46 ]
+"2" : [ 36 ]
+"3" : [  ]
+}]
+}

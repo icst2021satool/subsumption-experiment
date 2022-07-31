@@ -1,0 +1,12 @@
+{
+"Class" : "com.fasterxml.jackson.core.type.TypeReference", 
+"Methods" : [{ "Name" : "<init>" ,
+"Edges" : 4,
+"0" : [ 1],
+"1" : [ 0, 2, 3],
+"3" : [ 0, 2, 3],
+"2" : [ 1],
+"CoveredDUAsByEdges" : 4,
+"Duas" : 4
+}]
+}

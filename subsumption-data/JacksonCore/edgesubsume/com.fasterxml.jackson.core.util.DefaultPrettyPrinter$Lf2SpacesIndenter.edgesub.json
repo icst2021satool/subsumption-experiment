@@ -1,0 +1,24 @@
+{
+"Class" : "com.fasterxml.jackson.core.util.DefaultPrettyPrinter$Lf2SpacesIndenter", 
+"Methods" : [{ "Name" : "withLinefeed" ,
+"Edges" : 4,
+"2" : [ 0, 2, 3, 6],
+"3" : [ 1, 4, 5, 7],
+"0" : [ 1, 4, 5, 7],
+"1" : [ 0, 2, 3, 6],
+"CoveredDUAsByEdges" : 8,
+"Duas" : 8
+},{ "Name" : "writeIndentation" ,
+"Edges" : 8,
+"5" : [ 2, 4],
+"6" : [ 3],
+"0" : [ 2, 4],
+"1" : [ 1, 2, 4, 6, 7, 8, 11],
+"2" : [ 0, 2, 4, 5],
+"4" : [ 0, 2, 4, 5],
+"3" : [ ],
+"7" : [ 1, 2, 4, 6, 7, 8, 11],
+"CoveredDUAsByEdges" : 10,
+"Duas" : 16
+}]
+}

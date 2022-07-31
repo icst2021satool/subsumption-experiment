@@ -8,11 +8,11 @@
 ## DUAs: 18
 ## Subsumed DUAs: 9
 ## Node DUA coverage: 50.0
-@@ com.fasterxml.jackson.core.JsonFactory$Feature.collectDefaults,7,8,18,9,50.0,0,7
+@@ com.fasterxml.jackson.core.JsonFactory$Feature.collectDefaults,7,8,18,9,50.0,0,8
 
 
 #com/fasterxml/jackson/core/JsonFactory$Feature/collectDefaults:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.JsonFactory$Feature.collectDefaults calculated in 0 minutes, 0 seconds, and 7 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.JsonFactory$Feature.collectDefaults calculated in 0 minutes, 0 seconds, and 8 milliseconds
 
 #com/fasterxml/jackson/core/JsonFactory$Feature/enabledIn:
 ## nodes: 5
@@ -44,11 +44,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.JsonLocation.toS
 ## DUAs: 10
 ## Subsumed DUAs: 10
 ## Node DUA coverage: 100.0
-@@ com.fasterxml.jackson.core.JsonLocation.hashCode,5,5,10,10,100.0,0,1
+@@ com.fasterxml.jackson.core.JsonLocation.hashCode,5,5,10,10,100.0,0,0
 
 
 #com/fasterxml/jackson/core/JsonLocation/hashCode:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.JsonLocation.hashCode calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.JsonLocation.hashCode calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/fasterxml/jackson/core/JsonLocation/equals:
 ## nodes: 19
@@ -68,11 +68,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.JsonLocation.equ
 ## DUAs: 16
 ## Subsumed DUAs: 11
 ## Node DUA coverage: 68.75
-@@ com.fasterxml.jackson.core.JsonToken.<init>,7,8,16,11,68.75,0,1
+@@ com.fasterxml.jackson.core.JsonToken.<init>,7,8,16,11,68.75,0,0
 
 
 #com/fasterxml/jackson/core/JsonToken/<init>:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.JsonToken.<init> calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.JsonToken.<init> calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/fasterxml/jackson/core/JsonToken/isNumeric:
 ## nodes: 6
@@ -80,11 +80,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.JsonToken.<init>
 ## DUAs: 8
 ## Subsumed DUAs: 4
 ## Node DUA coverage: 50.0
-@@ com.fasterxml.jackson.core.JsonToken.isNumeric,6,7,8,4,50.0,0,1
+@@ com.fasterxml.jackson.core.JsonToken.isNumeric,6,7,8,4,50.0,0,0
 
 
 #com/fasterxml/jackson/core/JsonToken/isNumeric:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.JsonToken.isNumeric calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.JsonToken.isNumeric calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/fasterxml/jackson/core/JsonToken/isScalarValue:
 ## nodes: 5
@@ -128,11 +128,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.Version.isUknown
 ## DUAs: 8
 ## Subsumed DUAs: 4
 ## Node DUA coverage: 50.0
-@@ com.fasterxml.jackson.core.Version.isSnapshot,6,7,8,4,50.0,0,0
+@@ com.fasterxml.jackson.core.Version.isSnapshot,6,7,8,4,50.0,0,1
 
 
 #com/fasterxml/jackson/core/Version/isSnapshot:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.Version.isSnapshot calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.Version.isSnapshot calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #com/fasterxml/jackson/core/Version/toString:
 ## nodes: 4
@@ -140,11 +140,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.Version.isSnapsh
 ## DUAs: 6
 ## Subsumed DUAs: 5
 ## Node DUA coverage: 83.33333333333334
-@@ com.fasterxml.jackson.core.Version.toString,4,4,6,5,83.33333333333334,0,1
+@@ com.fasterxml.jackson.core.Version.toString,4,4,6,5,83.33333333333334,0,0
 
 
 #com/fasterxml/jackson/core/Version/toString:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.Version.toString calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.Version.toString calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/fasterxml/jackson/core/Version/equals:
 ## nodes: 15
@@ -176,11 +176,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.Version.compareT
 ## DUAs: 33
 ## Subsumed DUAs: 31
 ## Node DUA coverage: 93.93939393939394
-@@ com.fasterxml.jackson.core.Base64Variants.valueOf,13,17,33,31,93.93939393939394,0,2
+@@ com.fasterxml.jackson.core.Base64Variants.valueOf,13,17,33,31,93.93939393939394,0,0
 
 
 #com/fasterxml/jackson/core/Base64Variants/valueOf:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.Base64Variants.valueOf calculated in 0 minutes, 0 seconds, and 2 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.Base64Variants.valueOf calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/fasterxml/jackson/core/JsonStreamContext/inArray:
 ## nodes: 5
@@ -212,11 +212,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.JsonStreamContex
 ## DUAs: 4
 ## Subsumed DUAs: 4
 ## Node DUA coverage: 100.0
-@@ com.fasterxml.jackson.core.JsonStreamContext.inObject,5,5,4,4,100.0,0,1
+@@ com.fasterxml.jackson.core.JsonStreamContext.inObject,5,5,4,4,100.0,0,0
 
 
 #com/fasterxml/jackson/core/JsonStreamContext/inObject:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.JsonStreamContext.inObject calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.JsonStreamContext.inObject calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/fasterxml/jackson/core/JsonStreamContext/getTypeDesc:
 ## nodes: 6
@@ -236,11 +236,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.JsonStreamContex
 ## DUAs: 6
 ## Subsumed DUAs: 6
 ## Node DUA coverage: 100.0
-@@ com.fasterxml.jackson.core.JsonStreamContext.getCurrentIndex,5,5,6,6,100.0,0,1
+@@ com.fasterxml.jackson.core.JsonStreamContext.getCurrentIndex,5,5,6,6,100.0,0,0
 
 
 #com/fasterxml/jackson/core/JsonStreamContext/getCurrentIndex:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.JsonStreamContext.getCurrentIndex calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.JsonStreamContext.getCurrentIndex calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/fasterxml/jackson/core/JsonGenerator/configure:
 ## nodes: 5
@@ -260,11 +260,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.JsonGenerator.co
 ## DUAs: 25
 ## Subsumed DUAs: 20
 ## Node DUA coverage: 80.0
-@@ com.fasterxml.jackson.core.Base64Variant.<init>,9,11,25,20,80.0,0,1
+@@ com.fasterxml.jackson.core.Base64Variant.<init>,9,11,25,20,80.0,0,0
 
 
 #com/fasterxml/jackson/core/Base64Variant/<init>:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.Base64Variant.<init> calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.Base64Variant.<init> calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/fasterxml/jackson/core/Base64Variant/usesPaddingChar:
 ## nodes: 5
@@ -284,11 +284,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.Base64Variant.us
 ## DUAs: 6
 ## Subsumed DUAs: 6
 ## Node DUA coverage: 100.0
-@@ com.fasterxml.jackson.core.Base64Variant.usesPaddingChar,5,5,6,6,100.0,0,1
+@@ com.fasterxml.jackson.core.Base64Variant.usesPaddingChar,5,5,6,6,100.0,0,0
 
 
 #com/fasterxml/jackson/core/Base64Variant/usesPaddingChar:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.Base64Variant.usesPaddingChar calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.Base64Variant.usesPaddingChar calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/fasterxml/jackson/core/Base64Variant/decodeBase64Char:
 ## nodes: 5
@@ -320,11 +320,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.Base64Variant.de
 ## DUAs: 5
 ## Subsumed DUAs: 5
 ## Node DUA coverage: 100.0
-@@ com.fasterxml.jackson.core.Base64Variant.decodeBase64Byte,5,5,5,5,100.0,0,0
+@@ com.fasterxml.jackson.core.Base64Variant.decodeBase64Byte,5,5,5,5,100.0,0,3
 
 
 #com/fasterxml/jackson/core/Base64Variant/decodeBase64Byte:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.Base64Variant.decodeBase64Byte calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.Base64Variant.decodeBase64Byte calculated in 0 minutes, 0 seconds, and 3 milliseconds
 
 #com/fasterxml/jackson/core/Base64Variant/encodeBase64Partial:
 ## nodes: 9
@@ -332,11 +332,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.Base64Variant.de
 ## DUAs: 23
 ## Subsumed DUAs: 19
 ## Node DUA coverage: 82.6086956521739
-@@ com.fasterxml.jackson.core.Base64Variant.encodeBase64Partial,9,11,23,19,82.6086956521739,0,2
+@@ com.fasterxml.jackson.core.Base64Variant.encodeBase64Partial,9,11,23,19,82.6086956521739,0,0
 
 
 #com/fasterxml/jackson/core/Base64Variant/encodeBase64Partial:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.Base64Variant.encodeBase64Partial calculated in 0 minutes, 0 seconds, and 2 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.Base64Variant.encodeBase64Partial calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/fasterxml/jackson/core/Base64Variant/encodeBase64Partial:
 ## nodes: 9
@@ -380,11 +380,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.Base64Variant.en
 ## DUAs: 98
 ## Subsumed DUAs: 74
 ## Node DUA coverage: 75.51020408163265
-@@ com.fasterxml.jackson.core.Base64Variant.decode,35,50,98,74,75.51020408163265,0,3
+@@ com.fasterxml.jackson.core.Base64Variant.decode,35,50,98,74,75.51020408163265,0,2
 
 
 #com/fasterxml/jackson/core/Base64Variant/decode:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.Base64Variant.decode calculated in 0 minutes, 0 seconds, and 3 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.Base64Variant.decode calculated in 0 minutes, 0 seconds, and 2 milliseconds
 
 #com/fasterxml/jackson/core/Base64Variant/equals:
 ## nodes: 5
@@ -416,11 +416,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.Base64Variant._r
 ## DUAs: 6
 ## Subsumed DUAs: 5
 ## Node DUA coverage: 83.33333333333334
-@@ com.fasterxml.jackson.core.JsonProcessingException.<init>,4,4,6,5,83.33333333333334,0,1
+@@ com.fasterxml.jackson.core.JsonProcessingException.<init>,4,4,6,5,83.33333333333334,0,0
 
 
 #com/fasterxml/jackson/core/JsonProcessingException/<init>:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.JsonProcessingException.<init> calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.JsonProcessingException.<init> calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/fasterxml/jackson/core/JsonProcessingException/getMessage:
 ## nodes: 11
@@ -440,11 +440,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.JsonProcessingEx
 ## DUAs: 5
 ## Subsumed DUAs: 5
 ## Node DUA coverage: 100.0
-@@ com.fasterxml.jackson.core.JsonFactory._checkInvalidCopy,4,4,5,5,100.0,0,1
+@@ com.fasterxml.jackson.core.JsonFactory._checkInvalidCopy,4,4,5,5,100.0,0,0
 
 
 #com/fasterxml/jackson/core/JsonFactory/_checkInvalidCopy:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.JsonFactory._checkInvalidCopy calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.JsonFactory._checkInvalidCopy calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/fasterxml/jackson/core/JsonFactory/canUseSchema:
 ## nodes: 6
@@ -464,11 +464,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.JsonFactory.canU
 ## DUAs: 2
 ## Subsumed DUAs: 2
 ## Node DUA coverage: 100.0
-@@ com.fasterxml.jackson.core.JsonFactory.getFormatName,4,4,2,2,100.0,0,1
+@@ com.fasterxml.jackson.core.JsonFactory.getFormatName,4,4,2,2,100.0,0,0
 
 
 #com/fasterxml/jackson/core/JsonFactory/getFormatName:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.JsonFactory.getFormatName calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.JsonFactory.getFormatName calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/fasterxml/jackson/core/JsonFactory/hasFormat:
 ## nodes: 4
@@ -476,11 +476,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.JsonFactory.getF
 ## DUAs: 4
 ## Subsumed DUAs: 4
 ## Node DUA coverage: 100.0
-@@ com.fasterxml.jackson.core.JsonFactory.hasFormat,4,4,4,4,100.0,0,0
+@@ com.fasterxml.jackson.core.JsonFactory.hasFormat,4,4,4,4,100.0,0,1
 
 
 #com/fasterxml/jackson/core/JsonFactory/hasFormat:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.JsonFactory.hasFormat calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.JsonFactory.hasFormat calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #com/fasterxml/jackson/core/JsonFactory/configure:
 ## nodes: 5
@@ -500,11 +500,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.JsonFactory.conf
 ## DUAs: 6
 ## Subsumed DUAs: 6
 ## Node DUA coverage: 100.0
-@@ com.fasterxml.jackson.core.JsonFactory.isEnabled,5,5,6,6,100.0,0,1
+@@ com.fasterxml.jackson.core.JsonFactory.isEnabled,5,5,6,6,100.0,0,0
 
 
 #com/fasterxml/jackson/core/JsonFactory/isEnabled:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.JsonFactory.isEnabled calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.JsonFactory.isEnabled calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/fasterxml/jackson/core/JsonFactory/configure:
 ## nodes: 5
@@ -524,11 +524,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.JsonFactory.conf
 ## DUAs: 6
 ## Subsumed DUAs: 6
 ## Node DUA coverage: 100.0
-@@ com.fasterxml.jackson.core.JsonFactory.isEnabled,5,5,6,6,100.0,0,1
+@@ com.fasterxml.jackson.core.JsonFactory.isEnabled,5,5,6,6,100.0,0,0
 
 
 #com/fasterxml/jackson/core/JsonFactory/isEnabled:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.JsonFactory.isEnabled calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.JsonFactory.isEnabled calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/fasterxml/jackson/core/JsonFactory/configure:
 ## nodes: 5
@@ -560,11 +560,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.JsonFactory.isEn
 ## DUAs: 4
 ## Subsumed DUAs: 4
 ## Node DUA coverage: 100.0
-@@ com.fasterxml.jackson.core.JsonFactory.setRootValueSeparator,5,5,4,4,100.0,0,1
+@@ com.fasterxml.jackson.core.JsonFactory.setRootValueSeparator,5,5,4,4,100.0,0,0
 
 
 #com/fasterxml/jackson/core/JsonFactory/setRootValueSeparator:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.JsonFactory.setRootValueSeparator calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.JsonFactory.setRootValueSeparator calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/fasterxml/jackson/core/JsonFactory/getRootValueSeparator:
 ## nodes: 5
@@ -572,11 +572,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.JsonFactory.setR
 ## DUAs: 6
 ## Subsumed DUAs: 6
 ## Node DUA coverage: 100.0
-@@ com.fasterxml.jackson.core.JsonFactory.getRootValueSeparator,5,5,6,6,100.0,0,3
+@@ com.fasterxml.jackson.core.JsonFactory.getRootValueSeparator,5,5,6,6,100.0,0,0
 
 
 #com/fasterxml/jackson/core/JsonFactory/getRootValueSeparator:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.JsonFactory.getRootValueSeparator calculated in 0 minutes, 0 seconds, and 3 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.JsonFactory.getRootValueSeparator calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/fasterxml/jackson/core/JsonFactory/createParser:
 ## nodes: 4
@@ -584,11 +584,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.JsonFactory.getR
 ## DUAs: 12
 ## Subsumed DUAs: 8
 ## Node DUA coverage: 66.66666666666666
-@@ com.fasterxml.jackson.core.JsonFactory.createParser,4,4,12,8,66.66666666666666,0,3
+@@ com.fasterxml.jackson.core.JsonFactory.createParser,4,4,12,8,66.66666666666666,0,1
 
 
 #com/fasterxml/jackson/core/JsonFactory/createParser:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.JsonFactory.createParser calculated in 0 minutes, 0 seconds, and 3 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.JsonFactory.createParser calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #com/fasterxml/jackson/core/JsonFactory/createParser:
 ## nodes: 4
@@ -644,11 +644,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.JsonFactory.crea
 ## DUAs: 20
 ## Subsumed DUAs: 17
 ## Node DUA coverage: 85.0
-@@ com.fasterxml.jackson.core.JsonFactory.createParser,5,6,20,17,85.0,0,0
+@@ com.fasterxml.jackson.core.JsonFactory.createParser,5,6,20,17,85.0,0,1
 
 
 #com/fasterxml/jackson/core/JsonFactory/createParser:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.JsonFactory.createParser calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.JsonFactory.createParser calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #com/fasterxml/jackson/core/JsonFactory/createParser:
 ## nodes: 4
@@ -668,11 +668,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.JsonFactory.crea
 ## DUAs: 32
 ## Subsumed DUAs: 24
 ## Node DUA coverage: 75.0
-@@ com.fasterxml.jackson.core.JsonFactory.createGenerator,8,10,32,24,75.0,0,0
+@@ com.fasterxml.jackson.core.JsonFactory.createGenerator,8,10,32,24,75.0,0,1
 
 
 #com/fasterxml/jackson/core/JsonFactory/createGenerator:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.JsonFactory.createGenerator calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.JsonFactory.createGenerator calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #com/fasterxml/jackson/core/JsonFactory/createGenerator:
 ## nodes: 4
@@ -680,11 +680,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.JsonFactory.crea
 ## DUAs: 12
 ## Subsumed DUAs: 8
 ## Node DUA coverage: 66.66666666666666
-@@ com.fasterxml.jackson.core.JsonFactory.createGenerator,4,4,12,8,66.66666666666666,0,2
+@@ com.fasterxml.jackson.core.JsonFactory.createGenerator,4,4,12,8,66.66666666666666,0,0
 
 
 #com/fasterxml/jackson/core/JsonFactory/createGenerator:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.JsonFactory.createGenerator calculated in 0 minutes, 0 seconds, and 2 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.JsonFactory.createGenerator calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/fasterxml/jackson/core/JsonFactory/createGenerator:
 ## nodes: 8
@@ -692,11 +692,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.JsonFactory.crea
 ## DUAs: 32
 ## Subsumed DUAs: 24
 ## Node DUA coverage: 75.0
-@@ com.fasterxml.jackson.core.JsonFactory.createGenerator,8,10,32,24,75.0,0,0
+@@ com.fasterxml.jackson.core.JsonFactory.createGenerator,8,10,32,24,75.0,0,7
 
 
 #com/fasterxml/jackson/core/JsonFactory/createGenerator:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.JsonFactory.createGenerator calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.JsonFactory.createGenerator calculated in 0 minutes, 0 seconds, and 7 milliseconds
 
 #com/fasterxml/jackson/core/JsonFactory/_createGenerator:
 ## nodes: 6
@@ -728,11 +728,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.JsonFactory._cre
 ## DUAs: 8
 ## Subsumed DUAs: 8
 ## Node DUA coverage: 100.0
-@@ com.fasterxml.jackson.core.JsonFactory._createWriter,4,4,8,8,100.0,0,0
+@@ com.fasterxml.jackson.core.JsonFactory._createWriter,4,4,8,8,100.0,0,1
 
 
 #com/fasterxml/jackson/core/JsonFactory/_createWriter:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.JsonFactory._createWriter calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.JsonFactory._createWriter calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #com/fasterxml/jackson/core/JsonFactory/_getBufferRecycler:
 ## nodes: 7
@@ -740,11 +740,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.JsonFactory._cre
 ## DUAs: 8
 ## Subsumed DUAs: 5
 ## Node DUA coverage: 62.5
-@@ com.fasterxml.jackson.core.JsonFactory._getBufferRecycler,7,8,8,5,62.5,0,1
+@@ com.fasterxml.jackson.core.JsonFactory._getBufferRecycler,7,8,8,5,62.5,0,0
 
 
 #com/fasterxml/jackson/core/JsonFactory/_getBufferRecycler:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.JsonFactory._getBufferRecycler calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.JsonFactory._getBufferRecycler calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/fasterxml/jackson/core/JsonFactory/_optimizedStreamFromURL:
 ## nodes: 7
@@ -776,11 +776,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.JsonGenerator$Fe
 ## DUAs: 18
 ## Subsumed DUAs: 9
 ## Node DUA coverage: 50.0
-@@ com.fasterxml.jackson.core.JsonParser$Feature.collectDefaults,7,8,18,9,50.0,0,0
+@@ com.fasterxml.jackson.core.JsonParser$Feature.collectDefaults,7,8,18,9,50.0,0,1
 
 
 #com/fasterxml/jackson/core/JsonParser$Feature/collectDefaults:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.JsonParser$Feature.collectDefaults calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.JsonParser$Feature.collectDefaults calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #com/fasterxml/jackson/core/JsonParser/configure:
 ## nodes: 5
@@ -800,11 +800,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.JsonParser.confi
 ## DUAs: 6
 ## Subsumed DUAs: 6
 ## Node DUA coverage: 100.0
-@@ com.fasterxml.jackson.core.JsonParser.isEnabled,5,5,6,6,100.0,0,1
+@@ com.fasterxml.jackson.core.JsonParser.isEnabled,5,5,6,6,100.0,0,0
 
 
 #com/fasterxml/jackson/core/JsonParser/isEnabled:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.JsonParser.isEnabled calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.JsonParser.isEnabled calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/fasterxml/jackson/core/JsonParser/nextFieldName:
 ## nodes: 6
@@ -824,11 +824,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.JsonParser.nextF
 ## DUAs: 5
 ## Subsumed DUAs: 5
 ## Node DUA coverage: 100.0
-@@ com.fasterxml.jackson.core.JsonParser.nextTextValue,5,5,5,5,100.0,0,0
+@@ com.fasterxml.jackson.core.JsonParser.nextTextValue,5,5,5,5,100.0,0,1
 
 
 #com/fasterxml/jackson/core/JsonParser/nextTextValue:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.JsonParser.nextTextValue calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.JsonParser.nextTextValue calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #com/fasterxml/jackson/core/JsonParser/nextIntValue:
 ## nodes: 5
@@ -836,11 +836,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.JsonParser.nextT
 ## DUAs: 6
 ## Subsumed DUAs: 6
 ## Node DUA coverage: 100.0
-@@ com.fasterxml.jackson.core.JsonParser.nextIntValue,5,5,6,6,100.0,0,3
+@@ com.fasterxml.jackson.core.JsonParser.nextIntValue,5,5,6,6,100.0,0,0
 
 
 #com/fasterxml/jackson/core/JsonParser/nextIntValue:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.JsonParser.nextIntValue calculated in 0 minutes, 0 seconds, and 3 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.JsonParser.nextIntValue calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/fasterxml/jackson/core/JsonParser/nextLongValue:
 ## nodes: 5
@@ -848,11 +848,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.JsonParser.nextI
 ## DUAs: 6
 ## Subsumed DUAs: 6
 ## Node DUA coverage: 100.0
-@@ com.fasterxml.jackson.core.JsonParser.nextLongValue,5,5,6,6,100.0,0,1
+@@ com.fasterxml.jackson.core.JsonParser.nextLongValue,5,5,6,6,100.0,0,0
 
 
 #com/fasterxml/jackson/core/JsonParser/nextLongValue:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.JsonParser.nextLongValue calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.JsonParser.nextLongValue calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/fasterxml/jackson/core/JsonParser/nextBooleanValue:
 ## nodes: 5
@@ -872,11 +872,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.JsonParser.nextB
 ## DUAs: 4
 ## Subsumed DUAs: 4
 ## Node DUA coverage: 100.0
-@@ com.fasterxml.jackson.core.JsonParser.isExpectedStartArrayToken,5,5,4,4,100.0,0,1
+@@ com.fasterxml.jackson.core.JsonParser.isExpectedStartArrayToken,5,5,4,4,100.0,0,0
 
 
 #com/fasterxml/jackson/core/JsonParser/isExpectedStartArrayToken:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.JsonParser.isExpectedStartArrayToken calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.JsonParser.isExpectedStartArrayToken calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/fasterxml/jackson/core/JsonParser/getByteValue:
 ## nodes: 5
@@ -884,11 +884,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.JsonParser.isExp
 ## DUAs: 6
 ## Subsumed DUAs: 4
 ## Node DUA coverage: 66.66666666666666
-@@ com.fasterxml.jackson.core.JsonParser.getByteValue,5,6,6,4,66.66666666666666,0,0
+@@ com.fasterxml.jackson.core.JsonParser.getByteValue,5,6,6,4,66.66666666666666,0,1
 
 
 #com/fasterxml/jackson/core/JsonParser/getByteValue:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.JsonParser.getByteValue calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.JsonParser.getByteValue calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #com/fasterxml/jackson/core/JsonParser/getShortValue:
 ## nodes: 5
@@ -920,11 +920,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.JsonParser.getBo
 ## DUAs: 5
 ## Subsumed DUAs: 5
 ## Node DUA coverage: 100.0
-@@ com.fasterxml.jackson.core.JsonParser.readValueAs,4,4,5,5,100.0,0,1
+@@ com.fasterxml.jackson.core.JsonParser.readValueAs,4,4,5,5,100.0,0,0
 
 
 #com/fasterxml/jackson/core/JsonParser/readValueAs:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.JsonParser.readValueAs calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.JsonParser.readValueAs calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/fasterxml/jackson/core/JsonParser/readValueAs:
 ## nodes: 4
@@ -932,23 +932,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.JsonParser.readV
 ## DUAs: 5
 ## Subsumed DUAs: 5
 ## Node DUA coverage: 100.0
-@@ com.fasterxml.jackson.core.JsonParser.readValueAs,4,4,5,5,100.0,0,1
+@@ com.fasterxml.jackson.core.JsonParser.readValueAs,4,4,5,5,100.0,0,0
 
 
 #com/fasterxml/jackson/core/JsonParser/readValueAs:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.JsonParser.readValueAs calculated in 0 minutes, 0 seconds, and 1 milliseconds
-
-#com/fasterxml/jackson/core/JsonParser/readValuesAs:
-## nodes: 4
-## edges: 4
-## DUAs: 5
-## Subsumed DUAs: 5
-## Node DUA coverage: 100.0
-@@ com.fasterxml.jackson.core.JsonParser.readValuesAs,4,4,5,5,100.0,0,0
-
-
-#com/fasterxml/jackson/core/JsonParser/readValuesAs:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.JsonParser.readValuesAs calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.JsonParser.readValueAs calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/fasterxml/jackson/core/JsonParser/readValuesAs:
 ## nodes: 4
@@ -961,6 +949,18 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.JsonParser.readV
 
 #com/fasterxml/jackson/core/JsonParser/readValuesAs:
 Local DUA-Node subsumption of method com.fasterxml.jackson.core.JsonParser.readValuesAs calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#com/fasterxml/jackson/core/JsonParser/readValuesAs:
+## nodes: 4
+## edges: 4
+## DUAs: 5
+## Subsumed DUAs: 5
+## Node DUA coverage: 100.0
+@@ com.fasterxml.jackson.core.JsonParser.readValuesAs,4,4,5,5,100.0,0,1
+
+
+#com/fasterxml/jackson/core/JsonParser/readValuesAs:
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.JsonParser.readValuesAs calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #com/fasterxml/jackson/core/JsonParser/readValueAsTree:
 ## nodes: 4
@@ -968,11 +968,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.JsonParser.readV
 ## DUAs: 4
 ## Subsumed DUAs: 4
 ## Node DUA coverage: 100.0
-@@ com.fasterxml.jackson.core.JsonParser.readValueAsTree,4,4,4,4,100.0,0,1
+@@ com.fasterxml.jackson.core.JsonParser.readValueAsTree,4,4,4,4,100.0,0,0
 
 
 #com/fasterxml/jackson/core/JsonParser/readValueAsTree:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.JsonParser.readValueAsTree calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.JsonParser.readValueAsTree calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/fasterxml/jackson/core/sym/Name3/equals:
 ## nodes: 8
@@ -980,11 +980,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.JsonParser.readV
 ## DUAs: 20
 ## Subsumed DUAs: 10
 ## Node DUA coverage: 50.0
-@@ com.fasterxml.jackson.core.sym.Name3.equals,8,11,20,10,50.0,0,0
+@@ com.fasterxml.jackson.core.sym.Name3.equals,8,11,20,10,50.0,0,1
 
 
 #com/fasterxml/jackson/core/sym/Name3/equals:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.sym.Name3.equals calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.sym.Name3.equals calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #com/fasterxml/jackson/core/sym/NameN/<init>:
 ## nodes: 4
@@ -1004,11 +1004,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.sym.NameN.<init>
 ## DUAs: 24
 ## Subsumed DUAs: 17
 ## Node DUA coverage: 70.83333333333334
-@@ com.fasterxml.jackson.core.sym.NameN.equals,9,11,24,17,70.83333333333334,0,1
+@@ com.fasterxml.jackson.core.sym.NameN.equals,9,11,24,17,70.83333333333334,0,0
 
 
 #com/fasterxml/jackson/core/sym/NameN/equals:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.sym.NameN.equals calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.sym.NameN.equals calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/fasterxml/jackson/core/sym/Name1/equals:
 ## nodes: 5
@@ -1040,11 +1040,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.sym.Name1.equals
 ## DUAs: 8
 ## Subsumed DUAs: 4
 ## Node DUA coverage: 50.0
-@@ com.fasterxml.jackson.core.sym.Name1.equals,6,7,8,4,50.0,0,0
+@@ com.fasterxml.jackson.core.sym.Name1.equals,6,7,8,4,50.0,0,1
 
 
 #com/fasterxml/jackson/core/sym/Name1/equals:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.sym.Name1.equals calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.sym.Name1.equals calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #com/fasterxml/jackson/core/sym/Name2/equals:
 ## nodes: 6
@@ -1064,11 +1064,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.sym.Name2.equals
 ## DUAs: 14
 ## Subsumed DUAs: 7
 ## Node DUA coverage: 50.0
-@@ com.fasterxml.jackson.core.sym.Name2.equals,7,9,14,7,50.0,0,1
+@@ com.fasterxml.jackson.core.sym.Name2.equals,7,9,14,7,50.0,0,0
 
 
 #com/fasterxml/jackson/core/sym/Name2/equals:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.sym.Name2.equals calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.sym.Name2.equals calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/fasterxml/jackson/core/sym/BytesToNameCanonicalizer$Bucket/<init>:
 ## nodes: 5
@@ -1088,11 +1088,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.sym.BytesToNameC
 ## DUAs: 40
 ## Subsumed DUAs: 21
 ## Node DUA coverage: 52.5
-@@ com.fasterxml.jackson.core.sym.BytesToNameCanonicalizer$Bucket.find,11,15,40,21,52.5,0,0
+@@ com.fasterxml.jackson.core.sym.BytesToNameCanonicalizer$Bucket.find,11,15,40,21,52.5,0,1
 
 
 #com/fasterxml/jackson/core/sym/BytesToNameCanonicalizer$Bucket/find:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.sym.BytesToNameCanonicalizer$Bucket.find calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.sym.BytesToNameCanonicalizer$Bucket.find calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #com/fasterxml/jackson/core/sym/BytesToNameCanonicalizer$Bucket/find:
 ## nodes: 11
@@ -1124,11 +1124,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.sym.Name.equals 
 ## DUAs: 18
 ## Subsumed DUAs: 8
 ## Node DUA coverage: 44.44444444444444
-@@ com.fasterxml.jackson.core.sym.BytesToNameCanonicalizer.<init>,9,11,18,8,44.44444444444444,0,1
+@@ com.fasterxml.jackson.core.sym.BytesToNameCanonicalizer.<init>,9,11,18,8,44.44444444444444,0,0
 
 
 #com/fasterxml/jackson/core/sym/BytesToNameCanonicalizer/<init>:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.sym.BytesToNameCanonicalizer.<init> calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.sym.BytesToNameCanonicalizer.<init> calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/fasterxml/jackson/core/sym/BytesToNameCanonicalizer/release:
 ## nodes: 5
@@ -1196,11 +1196,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.sym.BytesToNameC
 ## DUAs: 37
 ## Subsumed DUAs: 34
 ## Node DUA coverage: 91.8918918918919
-@@ com.fasterxml.jackson.core.sym.BytesToNameCanonicalizer.findName,16,22,37,34,91.8918918918919,0,3
+@@ com.fasterxml.jackson.core.sym.BytesToNameCanonicalizer.findName,16,22,37,34,91.8918918918919,0,1
 
 
 #com/fasterxml/jackson/core/sym/BytesToNameCanonicalizer/findName:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.sym.BytesToNameCanonicalizer.findName calculated in 0 minutes, 0 seconds, and 3 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.sym.BytesToNameCanonicalizer.findName calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #com/fasterxml/jackson/core/sym/BytesToNameCanonicalizer/findName:
 ## nodes: 17
@@ -1208,11 +1208,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.sym.BytesToNameC
 ## DUAs: 41
 ## Subsumed DUAs: 34
 ## Node DUA coverage: 82.92682926829268
-@@ com.fasterxml.jackson.core.sym.BytesToNameCanonicalizer.findName,17,24,41,34,82.92682926829268,0,3
+@@ com.fasterxml.jackson.core.sym.BytesToNameCanonicalizer.findName,17,24,41,34,82.92682926829268,0,0
 
 
 #com/fasterxml/jackson/core/sym/BytesToNameCanonicalizer/findName:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.sym.BytesToNameCanonicalizer.findName calculated in 0 minutes, 0 seconds, and 3 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.sym.BytesToNameCanonicalizer.findName calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/fasterxml/jackson/core/sym/BytesToNameCanonicalizer/addName:
 ## nodes: 7
@@ -1244,11 +1244,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.sym.BytesToNameC
 ## DUAs: 18
 ## Subsumed DUAs: 11
 ## Node DUA coverage: 61.111111111111114
-@@ com.fasterxml.jackson.core.sym.BytesToNameCanonicalizer.calcHash,7,8,18,11,61.111111111111114,0,0
+@@ com.fasterxml.jackson.core.sym.BytesToNameCanonicalizer.calcHash,7,8,18,11,61.111111111111114,0,1
 
 
 #com/fasterxml/jackson/core/sym/BytesToNameCanonicalizer/calcHash:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.sym.BytesToNameCanonicalizer.calcHash calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.sym.BytesToNameCanonicalizer.calcHash calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #com/fasterxml/jackson/core/sym/BytesToNameCanonicalizer/calcQuads:
 ## nodes: 9
@@ -1268,11 +1268,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.sym.BytesToNameC
 ## DUAs: 104
 ## Subsumed DUAs: 77
 ## Node DUA coverage: 74.03846153846155
-@@ com.fasterxml.jackson.core.sym.BytesToNameCanonicalizer._addSymbol,26,37,104,77,74.03846153846155,0,1
+@@ com.fasterxml.jackson.core.sym.BytesToNameCanonicalizer._addSymbol,26,37,104,77,74.03846153846155,0,0
 
 
 #com/fasterxml/jackson/core/sym/BytesToNameCanonicalizer/_addSymbol:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.sym.BytesToNameCanonicalizer._addSymbol calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.sym.BytesToNameCanonicalizer._addSymbol calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/fasterxml/jackson/core/sym/BytesToNameCanonicalizer/rehash:
 ## nodes: 29
@@ -1316,11 +1316,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.sym.BytesToNameC
 ## DUAs: 9
 ## Subsumed DUAs: 9
 ## Node DUA coverage: 100.0
-@@ com.fasterxml.jackson.core.sym.BytesToNameCanonicalizer.constructName,4,4,9,9,100.0,0,0
+@@ com.fasterxml.jackson.core.sym.BytesToNameCanonicalizer.constructName,4,4,9,9,100.0,0,1
 
 
 #com/fasterxml/jackson/core/sym/BytesToNameCanonicalizer/constructName:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.sym.BytesToNameCanonicalizer.constructName calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.sym.BytesToNameCanonicalizer.constructName calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #com/fasterxml/jackson/core/sym/BytesToNameCanonicalizer/constructName:
 ## nodes: 10
@@ -1352,11 +1352,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.sym.CharsToNameC
 ## DUAs: 38
 ## Subsumed DUAs: 10
 ## Node DUA coverage: 26.31578947368421
-@@ com.fasterxml.jackson.core.sym.CharsToNameCanonicalizer$Bucket.find,12,16,38,10,26.31578947368421,0,1
+@@ com.fasterxml.jackson.core.sym.CharsToNameCanonicalizer$Bucket.find,12,16,38,10,26.31578947368421,0,0
 
 
 #com/fasterxml/jackson/core/sym/CharsToNameCanonicalizer$Bucket/find:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.sym.CharsToNameCanonicalizer$Bucket.find calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.sym.CharsToNameCanonicalizer$Bucket.find calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/fasterxml/jackson/core/sym/CharsToNameCanonicalizer/mergeChild:
 ## nodes: 8
@@ -1412,11 +1412,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.sym.CharsToNameC
 ## DUAs: 17
 ## Subsumed DUAs: 6
 ## Node DUA coverage: 35.294117647058826
-@@ com.fasterxml.jackson.core.sym.CharsToNameCanonicalizer.calcHash,8,9,17,6,35.294117647058826,0,0
+@@ com.fasterxml.jackson.core.sym.CharsToNameCanonicalizer.calcHash,8,9,17,6,35.294117647058826,0,1
 
 
 #com/fasterxml/jackson/core/sym/CharsToNameCanonicalizer/calcHash:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.sym.CharsToNameCanonicalizer.calcHash calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.sym.CharsToNameCanonicalizer.calcHash calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #com/fasterxml/jackson/core/sym/CharsToNameCanonicalizer/calcHash:
 ## nodes: 8
@@ -1436,11 +1436,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.sym.CharsToNameC
 ## DUAs: 102
 ## Subsumed DUAs: 66
 ## Node DUA coverage: 64.70588235294117
-@@ com.fasterxml.jackson.core.sym.CharsToNameCanonicalizer.rehash,22,29,102,66,64.70588235294117,0,1
+@@ com.fasterxml.jackson.core.sym.CharsToNameCanonicalizer.rehash,22,29,102,66,64.70588235294117,0,2
 
 
 #com/fasterxml/jackson/core/sym/CharsToNameCanonicalizer/rehash:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.sym.CharsToNameCanonicalizer.rehash calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.sym.CharsToNameCanonicalizer.rehash calculated in 0 minutes, 0 seconds, and 2 milliseconds
 
 #com/fasterxml/jackson/core/util/TextBuffer/releaseBuffers:
 ## nodes: 6
@@ -1448,11 +1448,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.sym.CharsToNameC
 ## DUAs: 13
 ## Subsumed DUAs: 11
 ## Node DUA coverage: 84.61538461538461
-@@ com.fasterxml.jackson.core.util.TextBuffer.releaseBuffers,6,7,13,11,84.61538461538461,0,0
+@@ com.fasterxml.jackson.core.util.TextBuffer.releaseBuffers,6,7,13,11,84.61538461538461,0,1
 
 
 #com/fasterxml/jackson/core/util/TextBuffer/releaseBuffers:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.util.TextBuffer.releaseBuffers calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.util.TextBuffer.releaseBuffers calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #com/fasterxml/jackson/core/util/TextBuffer/resetWithEmpty:
 ## nodes: 4
@@ -1460,11 +1460,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.util.TextBuffer.
 ## DUAs: 5
 ## Subsumed DUAs: 3
 ## Node DUA coverage: 60.0
-@@ com.fasterxml.jackson.core.util.TextBuffer.resetWithEmpty,4,4,5,3,60.0,0,1
+@@ com.fasterxml.jackson.core.util.TextBuffer.resetWithEmpty,4,4,5,3,60.0,0,0
 
 
 #com/fasterxml/jackson/core/util/TextBuffer/resetWithEmpty:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.util.TextBuffer.resetWithEmpty calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.util.TextBuffer.resetWithEmpty calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/fasterxml/jackson/core/util/TextBuffer/resetWithShared:
 ## nodes: 4
@@ -1472,11 +1472,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.util.TextBuffer.
 ## DUAs: 5
 ## Subsumed DUAs: 3
 ## Node DUA coverage: 60.0
-@@ com.fasterxml.jackson.core.util.TextBuffer.resetWithShared,4,4,5,3,60.0,0,1
+@@ com.fasterxml.jackson.core.util.TextBuffer.resetWithShared,4,4,5,3,60.0,0,0
 
 
 #com/fasterxml/jackson/core/util/TextBuffer/resetWithShared:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.util.TextBuffer.resetWithShared calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.util.TextBuffer.resetWithShared calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/fasterxml/jackson/core/util/TextBuffer/resetWithCopy:
 ## nodes: 6
@@ -1484,11 +1484,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.util.TextBuffer.
 ## DUAs: 15
 ## Subsumed DUAs: 13
 ## Node DUA coverage: 86.66666666666667
-@@ com.fasterxml.jackson.core.util.TextBuffer.resetWithCopy,6,7,15,13,86.66666666666667,0,0
+@@ com.fasterxml.jackson.core.util.TextBuffer.resetWithCopy,6,7,15,13,86.66666666666667,0,1
 
 
 #com/fasterxml/jackson/core/util/TextBuffer/resetWithCopy:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.util.TextBuffer.resetWithCopy calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.util.TextBuffer.resetWithCopy calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #com/fasterxml/jackson/core/util/TextBuffer/resetWithString:
 ## nodes: 4
@@ -1496,11 +1496,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.util.TextBuffer.
 ## DUAs: 6
 ## Subsumed DUAs: 4
 ## Node DUA coverage: 66.66666666666666
-@@ com.fasterxml.jackson.core.util.TextBuffer.resetWithString,4,4,6,4,66.66666666666666,0,1
+@@ com.fasterxml.jackson.core.util.TextBuffer.resetWithString,4,4,6,4,66.66666666666666,0,0
 
 
 #com/fasterxml/jackson/core/util/TextBuffer/resetWithString:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.util.TextBuffer.resetWithString calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.util.TextBuffer.resetWithString calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/fasterxml/jackson/core/util/TextBuffer/findBuffer:
 ## nodes: 4
@@ -1520,11 +1520,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.util.TextBuffer.
 ## DUAs: 21
 ## Subsumed DUAs: 21
 ## Node DUA coverage: 100.0
-@@ com.fasterxml.jackson.core.util.TextBuffer.size,8,10,21,21,100.0,0,1
+@@ com.fasterxml.jackson.core.util.TextBuffer.size,8,10,21,21,100.0,0,0
 
 
 #com/fasterxml/jackson/core/util/TextBuffer/size:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.util.TextBuffer.size calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.util.TextBuffer.size calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/fasterxml/jackson/core/util/TextBuffer/getTextOffset:
 ## nodes: 5
@@ -1532,11 +1532,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.util.TextBuffer.
 ## DUAs: 6
 ## Subsumed DUAs: 6
 ## Node DUA coverage: 100.0
-@@ com.fasterxml.jackson.core.util.TextBuffer.getTextOffset,5,5,6,6,100.0,0,1
+@@ com.fasterxml.jackson.core.util.TextBuffer.getTextOffset,5,5,6,6,100.0,0,0
 
 
 #com/fasterxml/jackson/core/util/TextBuffer/getTextOffset:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.util.TextBuffer.getTextOffset calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.util.TextBuffer.getTextOffset calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/fasterxml/jackson/core/util/TextBuffer/hasTextAsCharacters:
 ## nodes: 7
@@ -1544,11 +1544,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.util.TextBuffer.
 ## DUAs: 12
 ## Subsumed DUAs: 8
 ## Node DUA coverage: 66.66666666666666
-@@ com.fasterxml.jackson.core.util.TextBuffer.hasTextAsCharacters,7,9,12,8,66.66666666666666,0,1
+@@ com.fasterxml.jackson.core.util.TextBuffer.hasTextAsCharacters,7,9,12,8,66.66666666666666,0,0
 
 
 #com/fasterxml/jackson/core/util/TextBuffer/hasTextAsCharacters:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.util.TextBuffer.hasTextAsCharacters calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.util.TextBuffer.hasTextAsCharacters calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/fasterxml/jackson/core/util/TextBuffer/getTextBuffer:
 ## nodes: 10
@@ -1556,11 +1556,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.util.TextBuffer.
 ## DUAs: 25
 ## Subsumed DUAs: 25
 ## Node DUA coverage: 100.0
-@@ com.fasterxml.jackson.core.util.TextBuffer.getTextBuffer,10,13,25,25,100.0,0,0
+@@ com.fasterxml.jackson.core.util.TextBuffer.getTextBuffer,10,13,25,25,100.0,0,1
 
 
 #com/fasterxml/jackson/core/util/TextBuffer/getTextBuffer:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.util.TextBuffer.getTextBuffer calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.util.TextBuffer.getTextBuffer calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #com/fasterxml/jackson/core/util/TextBuffer/contentsAsString:
 ## nodes: 19
@@ -1568,11 +1568,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.util.TextBuffer.
 ## DUAs: 63
 ## Subsumed DUAs: 49
 ## Node DUA coverage: 77.77777777777779
-@@ com.fasterxml.jackson.core.util.TextBuffer.contentsAsString,19,26,63,49,77.77777777777779,0,1
+@@ com.fasterxml.jackson.core.util.TextBuffer.contentsAsString,19,26,63,49,77.77777777777779,0,0
 
 
 #com/fasterxml/jackson/core/util/TextBuffer/contentsAsString:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.util.TextBuffer.contentsAsString calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.util.TextBuffer.contentsAsString calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/fasterxml/jackson/core/util/TextBuffer/contentsAsArray:
 ## nodes: 4
@@ -1616,11 +1616,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.util.TextBuffer.
 ## DUAs: 20
 ## Subsumed DUAs: 13
 ## Node DUA coverage: 65.0
-@@ com.fasterxml.jackson.core.util.TextBuffer.append,6,7,20,13,65.0,0,0
+@@ com.fasterxml.jackson.core.util.TextBuffer.append,6,7,20,13,65.0,0,1
 
 
 #com/fasterxml/jackson/core/util/TextBuffer/append:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.util.TextBuffer.append calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.util.TextBuffer.append calculated in 0 minutes, 0 seconds, and 1 milliseconds
 Warning: Method:com.fasterxml.jackson.core.util.TextBuffer.append has auto edges.
 Warning: Method:com.fasterxml.jackson.core.util.TextBuffer.append has auto edges.
 
@@ -1690,11 +1690,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.util.TextBuffer.
 ## DUAs: 19
 ## Subsumed DUAs: 11
 ## Node DUA coverage: 57.89473684210527
-@@ com.fasterxml.jackson.core.util.TextBuffer.expand,6,7,19,11,57.89473684210527,0,1
+@@ com.fasterxml.jackson.core.util.TextBuffer.expand,6,7,19,11,57.89473684210527,0,0
 
 
 #com/fasterxml/jackson/core/util/TextBuffer/expand:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.util.TextBuffer.expand calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.util.TextBuffer.expand calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/fasterxml/jackson/core/util/TextBuffer/buildResultArray:
 ## nodes: 16
@@ -1702,11 +1702,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.util.TextBuffer.
 ## DUAs: 57
 ## Subsumed DUAs: 47
 ## Node DUA coverage: 82.45614035087719
-@@ com.fasterxml.jackson.core.util.TextBuffer.buildResultArray,16,22,57,47,82.45614035087719,0,1
+@@ com.fasterxml.jackson.core.util.TextBuffer.buildResultArray,16,22,57,47,82.45614035087719,0,0
 
 
 #com/fasterxml/jackson/core/util/TextBuffer/buildResultArray:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.util.TextBuffer.buildResultArray calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.util.TextBuffer.buildResultArray calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/fasterxml/jackson/core/util/VersionUtil/<init>:
 ## nodes: 4
@@ -1726,11 +1726,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.util.VersionUtil
 ## DUAs: 7
 ## Subsumed DUAs: 7
 ## Node DUA coverage: 100.0
-@@ com.fasterxml.jackson.core.util.VersionUtil.versionFor,6,7,7,7,100.0,0,1
+@@ com.fasterxml.jackson.core.util.VersionUtil.versionFor,6,7,7,7,100.0,0,0
 
 
 #com/fasterxml/jackson/core/util/VersionUtil/versionFor:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.util.VersionUtil.versionFor calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.util.VersionUtil.versionFor calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/fasterxml/jackson/core/util/VersionUtil/packageVersionFor:
 ## nodes: 6
@@ -1750,11 +1750,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.util.VersionUtil
 ## DUAs: 26
 ## Subsumed DUAs: 6
 ## Node DUA coverage: 23.076923076923077
-@@ com.fasterxml.jackson.core.util.VersionUtil.doReadVersion,9,12,26,6,23.076923076923077,0,1
+@@ com.fasterxml.jackson.core.util.VersionUtil.doReadVersion,9,12,26,6,23.076923076923077,0,0
 
 
 #com/fasterxml/jackson/core/util/VersionUtil/doReadVersion:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.util.VersionUtil.doReadVersion calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.util.VersionUtil.doReadVersion calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/fasterxml/jackson/core/util/VersionUtil/mavenVersionFor:
 ## nodes: 4
@@ -1786,11 +1786,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.util.VersionUtil
 ## DUAs: 20
 ## Subsumed DUAs: 10
 ## Node DUA coverage: 50.0
-@@ com.fasterxml.jackson.core.util.VersionUtil.parseVersionPart,8,10,20,10,50.0,0,1
+@@ com.fasterxml.jackson.core.util.VersionUtil.parseVersionPart,8,10,20,10,50.0,0,0
 
 
 #com/fasterxml/jackson/core/util/VersionUtil/parseVersionPart:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.util.VersionUtil.parseVersionPart calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.util.VersionUtil.parseVersionPart calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/fasterxml/jackson/core/util/JsonParserSequence/createFlattened:
 ## nodes: 11
@@ -1798,11 +1798,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.util.VersionUtil
 ## DUAs: 19
 ## Subsumed DUAs: 17
 ## Node DUA coverage: 89.47368421052632
-@@ com.fasterxml.jackson.core.util.JsonParserSequence.createFlattened,11,14,19,17,89.47368421052632,0,0
+@@ com.fasterxml.jackson.core.util.JsonParserSequence.createFlattened,11,14,19,17,89.47368421052632,0,1
 
 
 #com/fasterxml/jackson/core/util/JsonParserSequence/createFlattened:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.util.JsonParserSequence.createFlattened calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.util.JsonParserSequence.createFlattened calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #com/fasterxml/jackson/core/util/JsonParserSequence/addFlattenedActiveParsers:
 ## nodes: 8
@@ -1847,11 +1847,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.util.JsonParserS
 ## DUAs: 7
 ## Subsumed DUAs: 7
 ## Node DUA coverage: 100.0
-@@ com.fasterxml.jackson.core.util.ByteArrayBuilder.<init>,5,5,7,7,100.0,0,1
+@@ com.fasterxml.jackson.core.util.ByteArrayBuilder.<init>,5,5,7,7,100.0,0,0
 
 
 #com/fasterxml/jackson/core/util/ByteArrayBuilder/<init>:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.util.ByteArrayBuilder.<init> calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.util.ByteArrayBuilder.<init> calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/fasterxml/jackson/core/util/ByteArrayBuilder/reset:
 ## nodes: 4
@@ -1859,11 +1859,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.util.ByteArrayBu
 ## DUAs: 6
 ## Subsumed DUAs: 4
 ## Node DUA coverage: 66.66666666666666
-@@ com.fasterxml.jackson.core.util.ByteArrayBuilder.reset,4,4,6,4,66.66666666666666,0,0
+@@ com.fasterxml.jackson.core.util.ByteArrayBuilder.reset,4,4,6,4,66.66666666666666,0,1
 
 
 #com/fasterxml/jackson/core/util/ByteArrayBuilder/reset:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.util.ByteArrayBuilder.reset calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.util.ByteArrayBuilder.reset calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #com/fasterxml/jackson/core/util/ByteArrayBuilder/release:
 ## nodes: 5
@@ -1895,11 +1895,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.util.ByteArrayBu
 ## DUAs: 12
 ## Subsumed DUAs: 12
 ## Node DUA coverage: 100.0
-@@ com.fasterxml.jackson.core.util.ByteArrayBuilder.appendTwoBytes,5,5,12,12,100.0,0,0
+@@ com.fasterxml.jackson.core.util.ByteArrayBuilder.appendTwoBytes,5,5,12,12,100.0,0,1
 
 
 #com/fasterxml/jackson/core/util/ByteArrayBuilder/appendTwoBytes:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.util.ByteArrayBuilder.appendTwoBytes calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.util.ByteArrayBuilder.appendTwoBytes calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #com/fasterxml/jackson/core/util/ByteArrayBuilder/appendThreeBytes:
 ## nodes: 5
@@ -1956,11 +1956,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.util.DefaultPret
 ## DUAs: 15
 ## Subsumed DUAs: 8
 ## Node DUA coverage: 53.333333333333336
-@@ com.fasterxml.jackson.core.util.DefaultPrettyPrinter$Lf2SpacesIndenter.writeIndentation,7,8,15,8,53.333333333333336,0,1
+@@ com.fasterxml.jackson.core.util.DefaultPrettyPrinter$Lf2SpacesIndenter.writeIndentation,7,8,15,8,53.333333333333336,0,0
 
 
 #com/fasterxml/jackson/core/util/DefaultPrettyPrinter$Lf2SpacesIndenter/writeIndentation:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.util.DefaultPrettyPrinter$Lf2SpacesIndenter.writeIndentation calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.util.DefaultPrettyPrinter$Lf2SpacesIndenter.writeIndentation calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/fasterxml/jackson/core/util/MinimalPrettyPrinter/writeRootValueSeparator:
 ## nodes: 4
@@ -2028,11 +2028,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.util.InternCache
 ## DUAs: 4
 ## Subsumed DUAs: 4
 ## Node DUA coverage: 100.0
-@@ com.fasterxml.jackson.core.util.DefaultPrettyPrinter.<init>,5,5,4,4,100.0,0,1
+@@ com.fasterxml.jackson.core.util.DefaultPrettyPrinter.<init>,5,5,4,4,100.0,0,0
 
 
 #com/fasterxml/jackson/core/util/DefaultPrettyPrinter/<init>:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.util.DefaultPrettyPrinter.<init> calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.util.DefaultPrettyPrinter.<init> calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/fasterxml/jackson/core/util/DefaultPrettyPrinter/withRootSeparator:
 ## nodes: 6
@@ -2052,11 +2052,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.util.DefaultPret
 ## DUAs: 5
 ## Subsumed DUAs: 5
 ## Node DUA coverage: 100.0
-@@ com.fasterxml.jackson.core.util.DefaultPrettyPrinter.indentArraysWith,5,5,5,5,100.0,0,0
+@@ com.fasterxml.jackson.core.util.DefaultPrettyPrinter.indentArraysWith,5,5,5,5,100.0,0,1
 
 
 #com/fasterxml/jackson/core/util/DefaultPrettyPrinter/indentArraysWith:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.util.DefaultPrettyPrinter.indentArraysWith calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.util.DefaultPrettyPrinter.indentArraysWith calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #com/fasterxml/jackson/core/util/DefaultPrettyPrinter/indentObjectsWith:
 ## nodes: 5
@@ -2064,11 +2064,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.util.DefaultPret
 ## DUAs: 5
 ## Subsumed DUAs: 5
 ## Node DUA coverage: 100.0
-@@ com.fasterxml.jackson.core.util.DefaultPrettyPrinter.indentObjectsWith,5,5,5,5,100.0,0,0
+@@ com.fasterxml.jackson.core.util.DefaultPrettyPrinter.indentObjectsWith,5,5,5,5,100.0,0,1
 
 
 #com/fasterxml/jackson/core/util/DefaultPrettyPrinter/indentObjectsWith:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.util.DefaultPrettyPrinter.indentObjectsWith calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.util.DefaultPrettyPrinter.indentObjectsWith calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #com/fasterxml/jackson/core/util/DefaultPrettyPrinter/withArrayIndenter:
 ## nodes: 6
@@ -2232,11 +2232,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.io.IOContext.rel
 ## DUAs: 7
 ## Subsumed DUAs: 6
 ## Node DUA coverage: 85.71428571428571
-@@ com.fasterxml.jackson.core.io.IOContext.releaseConcatBuffer,4,4,7,6,85.71428571428571,0,0
+@@ com.fasterxml.jackson.core.io.IOContext.releaseConcatBuffer,4,4,7,6,85.71428571428571,0,1
 
 
 #com/fasterxml/jackson/core/io/IOContext/releaseConcatBuffer:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.io.IOContext.releaseConcatBuffer calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.io.IOContext.releaseConcatBuffer calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #com/fasterxml/jackson/core/io/IOContext/releaseNameCopyBuffer:
 ## nodes: 4
@@ -2256,11 +2256,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.io.IOContext.rel
 ## DUAs: 2
 ## Subsumed DUAs: 2
 ## Node DUA coverage: 100.0
-@@ com.fasterxml.jackson.core.io.IOContext._verifyAlloc,4,4,2,2,100.0,0,1
+@@ com.fasterxml.jackson.core.io.IOContext._verifyAlloc,4,4,2,2,100.0,0,0
 
 
 #com/fasterxml/jackson/core/io/IOContext/_verifyAlloc:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.io.IOContext._verifyAlloc calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.io.IOContext._verifyAlloc calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/fasterxml/jackson/core/io/IOContext/_verifyRelease:
 ## nodes: 4
@@ -2268,11 +2268,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.io.IOContext._ve
 ## DUAs: 4
 ## Subsumed DUAs: 4
 ## Node DUA coverage: 100.0
-@@ com.fasterxml.jackson.core.io.IOContext._verifyRelease,4,4,4,4,100.0,0,1
+@@ com.fasterxml.jackson.core.io.IOContext._verifyRelease,4,4,4,4,100.0,0,0
 
 
 #com/fasterxml/jackson/core/io/IOContext/_verifyRelease:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.io.IOContext._verifyRelease calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.io.IOContext._verifyRelease calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/fasterxml/jackson/core/io/BaseReader/close:
 ## nodes: 4
@@ -2304,11 +2304,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.io.BaseReader.re
 ## DUAs: 5
 ## Subsumed DUAs: 4
 ## Node DUA coverage: 80.0
-@@ com.fasterxml.jackson.core.io.BaseReader.freeBuffers,4,4,5,4,80.0,0,1
+@@ com.fasterxml.jackson.core.io.BaseReader.freeBuffers,4,4,5,4,80.0,0,0
 
 
 #com/fasterxml/jackson/core/io/BaseReader/freeBuffers:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.io.BaseReader.freeBuffers calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.io.BaseReader.freeBuffers calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/fasterxml/jackson/core/io/UTF8Writer/close:
 ## nodes: 9
@@ -2340,11 +2340,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.io.UTF8Writer.fl
 ## DUAs: 188
 ## Subsumed DUAs: 56
 ## Node DUA coverage: 29.78723404255319
-@@ com.fasterxml.jackson.core.io.UTF8Writer.write,34,48,188,56,29.78723404255319,0,1
+@@ com.fasterxml.jackson.core.io.UTF8Writer.write,34,48,188,56,29.78723404255319,0,0
 
 
 #com/fasterxml/jackson/core/io/UTF8Writer/write:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.io.UTF8Writer.write calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.io.UTF8Writer.write calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/fasterxml/jackson/core/io/UTF8Writer/write:
 ## nodes: 21
@@ -2364,11 +2364,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.io.UTF8Writer.wr
 ## DUAs: 188
 ## Subsumed DUAs: 56
 ## Node DUA coverage: 29.78723404255319
-@@ com.fasterxml.jackson.core.io.UTF8Writer.write,34,48,188,56,29.78723404255319,0,2
+@@ com.fasterxml.jackson.core.io.UTF8Writer.write,34,48,188,56,29.78723404255319,0,0
 
 
 #com/fasterxml/jackson/core/io/UTF8Writer/write:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.io.UTF8Writer.write calculated in 0 minutes, 0 seconds, and 2 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.io.UTF8Writer.write calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/fasterxml/jackson/core/io/UTF8Writer/convertSurrogate:
 ## nodes: 5
@@ -2424,11 +2424,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.io.JsonStringEnc
 ## DUAs: 317
 ## Subsumed DUAs: 47
 ## Node DUA coverage: 14.826498422712934
-@@ com.fasterxml.jackson.core.io.JsonStringEncoder.quoteAsUTF8,40,57,317,47,14.826498422712934,0,0
+@@ com.fasterxml.jackson.core.io.JsonStringEncoder.quoteAsUTF8,40,57,317,47,14.826498422712934,0,1
 
 
 #com/fasterxml/jackson/core/io/JsonStringEncoder/quoteAsUTF8:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.io.JsonStringEncoder.quoteAsUTF8 calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.io.JsonStringEncoder.quoteAsUTF8 calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #com/fasterxml/jackson/core/io/JsonStringEncoder/encodeAsUTF8:
 ## nodes: 36
@@ -2580,11 +2580,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.io.SerializedStr
 ## DUAs: 7
 ## Subsumed DUAs: 4
 ## Node DUA coverage: 57.14285714285714
-@@ com.fasterxml.jackson.core.io.SerializedString.writeUnquotedUTF8,4,4,7,4,57.14285714285714,0,1
+@@ com.fasterxml.jackson.core.io.SerializedString.writeUnquotedUTF8,4,4,7,4,57.14285714285714,0,0
 
 
 #com/fasterxml/jackson/core/io/SerializedString/writeUnquotedUTF8:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.io.SerializedString.writeUnquotedUTF8 calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.io.SerializedString.writeUnquotedUTF8 calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/fasterxml/jackson/core/io/SerializedString/putQuotedUTF8:
 ## nodes: 6
@@ -2592,11 +2592,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.io.SerializedStr
 ## DUAs: 14
 ## Subsumed DUAs: 9
 ## Node DUA coverage: 64.28571428571429
-@@ com.fasterxml.jackson.core.io.SerializedString.putQuotedUTF8,6,7,14,9,64.28571428571429,0,1
+@@ com.fasterxml.jackson.core.io.SerializedString.putQuotedUTF8,6,7,14,9,64.28571428571429,0,0
 
 
 #com/fasterxml/jackson/core/io/SerializedString/putQuotedUTF8:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.io.SerializedString.putQuotedUTF8 calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.io.SerializedString.putQuotedUTF8 calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/fasterxml/jackson/core/io/SerializedString/putUnquotedUTF8:
 ## nodes: 6
@@ -2604,11 +2604,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.io.SerializedStr
 ## DUAs: 14
 ## Subsumed DUAs: 9
 ## Node DUA coverage: 64.28571428571429
-@@ com.fasterxml.jackson.core.io.SerializedString.putUnquotedUTF8,6,7,14,9,64.28571428571429,0,1
+@@ com.fasterxml.jackson.core.io.SerializedString.putUnquotedUTF8,6,7,14,9,64.28571428571429,0,0
 
 
 #com/fasterxml/jackson/core/io/SerializedString/putUnquotedUTF8:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.io.SerializedString.putUnquotedUTF8 calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.io.SerializedString.putUnquotedUTF8 calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/fasterxml/jackson/core/io/SerializedString/equals:
 ## nodes: 7
@@ -2640,11 +2640,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.io.CharTypes.cha
 ## DUAs: 31
 ## Subsumed DUAs: 22
 ## Node DUA coverage: 70.96774193548387
-@@ com.fasterxml.jackson.core.io.CharTypes.appendQuoted,11,14,31,22,70.96774193548387,0,1
+@@ com.fasterxml.jackson.core.io.CharTypes.appendQuoted,11,14,31,22,70.96774193548387,0,0
 
 
 #com/fasterxml/jackson/core/io/CharTypes/appendQuoted:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.io.CharTypes.appendQuoted calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.io.CharTypes.appendQuoted calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/fasterxml/jackson/core/io/NumberInput/parseInt:
 ## nodes: 11
@@ -2664,11 +2664,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.io.NumberInput.p
 ## DUAs: 79
 ## Subsumed DUAs: 39
 ## Node DUA coverage: 49.36708860759494
-@@ com.fasterxml.jackson.core.io.NumberInput.parseInt,31,48,79,39,49.36708860759494,0,0
+@@ com.fasterxml.jackson.core.io.NumberInput.parseInt,31,48,79,39,49.36708860759494,0,1
 
 
 #com/fasterxml/jackson/core/io/NumberInput/parseInt:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.io.NumberInput.parseInt calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.io.NumberInput.parseInt calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #com/fasterxml/jackson/core/io/NumberInput/parseLong:
 ## nodes: 4
@@ -2784,11 +2784,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.io.UTF32Reader.r
 ## DUAs: 78
 ## Subsumed DUAs: 50
 ## Node DUA coverage: 64.1025641025641
-@@ com.fasterxml.jackson.core.io.UTF32Reader.loadMore,30,41,78,50,64.1025641025641,0,1
+@@ com.fasterxml.jackson.core.io.UTF32Reader.loadMore,30,41,78,50,64.1025641025641,0,0
 
 
 #com/fasterxml/jackson/core/io/UTF32Reader/loadMore:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.io.UTF32Reader.loadMore calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.io.UTF32Reader.loadMore calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/fasterxml/jackson/core/io/MergedStream/available:
 ## nodes: 4
@@ -2844,11 +2844,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.io.MergedStream.
 ## DUAs: 33
 ## Subsumed DUAs: 24
 ## Node DUA coverage: 72.72727272727273
-@@ com.fasterxml.jackson.core.io.MergedStream.read,8,10,33,24,72.72727272727273,0,1
+@@ com.fasterxml.jackson.core.io.MergedStream.read,8,10,33,24,72.72727272727273,0,0
 
 
 #com/fasterxml/jackson/core/io/MergedStream/read:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.io.MergedStream.read calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.io.MergedStream.read calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/fasterxml/jackson/core/io/MergedStream/reset:
 ## nodes: 4
@@ -2868,11 +2868,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.io.MergedStream.
 ## DUAs: 31
 ## Subsumed DUAs: 18
 ## Node DUA coverage: 58.06451612903226
-@@ com.fasterxml.jackson.core.io.MergedStream.skip,8,10,31,18,58.06451612903226,0,0
+@@ com.fasterxml.jackson.core.io.MergedStream.skip,8,10,31,18,58.06451612903226,0,1
 
 
 #com/fasterxml/jackson/core/io/MergedStream/skip:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.io.MergedStream.skip calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.io.MergedStream.skip calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #com/fasterxml/jackson/core/io/MergedStream/freeMergedBuffer:
 ## nodes: 5
@@ -2904,11 +2904,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.io.NumberOutput.
 ## DUAs: 88
 ## Subsumed DUAs: 35
 ## Node DUA coverage: 39.77272727272727
-@@ com.fasterxml.jackson.core.io.NumberOutput.outputInt,23,31,88,35,39.77272727272727,0,1
+@@ com.fasterxml.jackson.core.io.NumberOutput.outputInt,23,31,88,35,39.77272727272727,0,0
 
 
 #com/fasterxml/jackson/core/io/NumberOutput/outputInt:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.io.NumberOutput.outputInt calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.io.NumberOutput.outputInt calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/fasterxml/jackson/core/io/NumberOutput/outputLong:
 ## nodes: 16
@@ -2916,11 +2916,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.io.NumberOutput.
 ## DUAs: 61
 ## Subsumed DUAs: 33
 ## Node DUA coverage: 54.09836065573771
-@@ com.fasterxml.jackson.core.io.NumberOutput.outputLong,16,21,61,33,54.09836065573771,0,0
+@@ com.fasterxml.jackson.core.io.NumberOutput.outputLong,16,21,61,33,54.09836065573771,0,1
 
 
 #com/fasterxml/jackson/core/io/NumberOutput/outputLong:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.io.NumberOutput.outputLong calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.io.NumberOutput.outputLong calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #com/fasterxml/jackson/core/io/NumberOutput/outputLong:
 ## nodes: 19
@@ -2940,11 +2940,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.io.NumberOutput.
 ## DUAs: 16
 ## Subsumed DUAs: 12
 ## Node DUA coverage: 75.0
-@@ com.fasterxml.jackson.core.io.NumberOutput.toString,7,9,16,12,75.0,0,0
+@@ com.fasterxml.jackson.core.io.NumberOutput.toString,7,9,16,12,75.0,0,1
 
 
 #com/fasterxml/jackson/core/io/NumberOutput/toString:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.io.NumberOutput.toString calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.io.NumberOutput.toString calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #com/fasterxml/jackson/core/io/NumberOutput/toString:
 ## nodes: 5
@@ -2952,11 +2952,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.io.NumberOutput.
 ## DUAs: 6
 ## Subsumed DUAs: 4
 ## Node DUA coverage: 66.66666666666666
-@@ com.fasterxml.jackson.core.io.NumberOutput.toString,5,6,6,4,66.66666666666666,0,0
+@@ com.fasterxml.jackson.core.io.NumberOutput.toString,5,6,6,4,66.66666666666666,0,1
 
 
 #com/fasterxml/jackson/core/io/NumberOutput/toString:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.io.NumberOutput.toString calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.io.NumberOutput.toString calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #com/fasterxml/jackson/core/io/NumberOutput/outputLeadingTriplet:
 ## nodes: 6
@@ -3000,11 +3000,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.io.NumberOutput.
 ## DUAs: 7
 ## Subsumed DUAs: 7
 ## Node DUA coverage: 100.0
-@@ com.fasterxml.jackson.core.json.ReaderBasedJsonParser.releaseBuffered,4,4,7,7,100.0,0,0
+@@ com.fasterxml.jackson.core.json.ReaderBasedJsonParser.releaseBuffered,4,4,7,7,100.0,0,1
 
 
 #com/fasterxml/jackson/core/json/ReaderBasedJsonParser/releaseBuffered:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.ReaderBasedJsonParser.releaseBuffered calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.ReaderBasedJsonParser.releaseBuffered calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #com/fasterxml/jackson/core/json/ReaderBasedJsonParser/loadMore:
 ## nodes: 7
@@ -3012,11 +3012,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.ReaderBased
 ## DUAs: 16
 ## Subsumed DUAs: 13
 ## Node DUA coverage: 81.25
-@@ com.fasterxml.jackson.core.json.ReaderBasedJsonParser.loadMore,7,9,16,13,81.25,0,0
+@@ com.fasterxml.jackson.core.json.ReaderBasedJsonParser.loadMore,7,9,16,13,81.25,0,1
 
 
 #com/fasterxml/jackson/core/json/ReaderBasedJsonParser/loadMore:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.ReaderBasedJsonParser.loadMore calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.ReaderBasedJsonParser.loadMore calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #com/fasterxml/jackson/core/json/ReaderBasedJsonParser/getNextChar:
 ## nodes: 5
@@ -3048,11 +3048,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.ReaderBased
 ## DUAs: 5
 ## Subsumed DUAs: 4
 ## Node DUA coverage: 80.0
-@@ com.fasterxml.jackson.core.json.ReaderBasedJsonParser._releaseBuffers,4,4,5,4,80.0,0,1
+@@ com.fasterxml.jackson.core.json.ReaderBasedJsonParser._releaseBuffers,4,4,5,4,80.0,0,0
 
 
 #com/fasterxml/jackson/core/json/ReaderBasedJsonParser/_releaseBuffers:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.ReaderBasedJsonParser._releaseBuffers calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.ReaderBasedJsonParser._releaseBuffers calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/fasterxml/jackson/core/json/ReaderBasedJsonParser/getText:
 ## nodes: 6
@@ -3060,11 +3060,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.ReaderBased
 ## DUAs: 13
 ## Subsumed DUAs: 11
 ## Node DUA coverage: 84.61538461538461
-@@ com.fasterxml.jackson.core.json.ReaderBasedJsonParser.getText,6,7,13,11,84.61538461538461,0,1
+@@ com.fasterxml.jackson.core.json.ReaderBasedJsonParser.getText,6,7,13,11,84.61538461538461,0,0
 
 
 #com/fasterxml/jackson/core/json/ReaderBasedJsonParser/getText:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.ReaderBasedJsonParser.getText calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.ReaderBasedJsonParser.getText calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/fasterxml/jackson/core/json/ReaderBasedJsonParser/getValueAsString:
 ## nodes: 6
@@ -3072,11 +3072,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.ReaderBased
 ## DUAs: 14
 ## Subsumed DUAs: 12
 ## Node DUA coverage: 85.71428571428571
-@@ com.fasterxml.jackson.core.json.ReaderBasedJsonParser.getValueAsString,6,7,14,12,85.71428571428571,0,1
+@@ com.fasterxml.jackson.core.json.ReaderBasedJsonParser.getValueAsString,6,7,14,12,85.71428571428571,0,0
 
 
 #com/fasterxml/jackson/core/json/ReaderBasedJsonParser/getValueAsString:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.ReaderBasedJsonParser.getValueAsString calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.ReaderBasedJsonParser.getValueAsString calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/fasterxml/jackson/core/json/ReaderBasedJsonParser/getValueAsString:
 ## nodes: 6
@@ -3084,11 +3084,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.ReaderBased
 ## DUAs: 15
 ## Subsumed DUAs: 13
 ## Node DUA coverage: 86.66666666666667
-@@ com.fasterxml.jackson.core.json.ReaderBasedJsonParser.getValueAsString,6,7,15,13,86.66666666666667,0,1
+@@ com.fasterxml.jackson.core.json.ReaderBasedJsonParser.getValueAsString,6,7,15,13,86.66666666666667,0,0
 
 
 #com/fasterxml/jackson/core/json/ReaderBasedJsonParser/getValueAsString:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.ReaderBasedJsonParser.getValueAsString calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.ReaderBasedJsonParser.getValueAsString calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/fasterxml/jackson/core/json/ReaderBasedJsonParser/_getText2:
 ## nodes: 7
@@ -3108,11 +3108,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.ReaderBased
 ## DUAs: 56
 ## Subsumed DUAs: 40
 ## Node DUA coverage: 71.42857142857143
-@@ com.fasterxml.jackson.core.json.ReaderBasedJsonParser.getTextCharacters,15,22,56,40,71.42857142857143,0,0
+@@ com.fasterxml.jackson.core.json.ReaderBasedJsonParser.getTextCharacters,15,22,56,40,71.42857142857143,0,1
 
 
 #com/fasterxml/jackson/core/json/ReaderBasedJsonParser/getTextCharacters:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.ReaderBasedJsonParser.getTextCharacters calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.ReaderBasedJsonParser.getTextCharacters calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #com/fasterxml/jackson/core/json/ReaderBasedJsonParser/getTextLength:
 ## nodes: 9
@@ -3120,11 +3120,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.ReaderBased
 ## DUAs: 27
 ## Subsumed DUAs: 22
 ## Node DUA coverage: 81.48148148148148
-@@ com.fasterxml.jackson.core.json.ReaderBasedJsonParser.getTextLength,9,13,27,22,81.48148148148148,0,1
+@@ com.fasterxml.jackson.core.json.ReaderBasedJsonParser.getTextLength,9,13,27,22,81.48148148148148,0,0
 
 
 #com/fasterxml/jackson/core/json/ReaderBasedJsonParser/getTextLength:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.ReaderBasedJsonParser.getTextLength calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.ReaderBasedJsonParser.getTextLength calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/fasterxml/jackson/core/json/ReaderBasedJsonParser/getTextOffset:
 ## nodes: 8
@@ -3204,11 +3204,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.ReaderBased
 ## DUAs: 40
 ## Subsumed DUAs: 36
 ## Node DUA coverage: 90.0
-@@ com.fasterxml.jackson.core.json.ReaderBasedJsonParser.nextTextValue,15,20,40,36,90.0,0,1
+@@ com.fasterxml.jackson.core.json.ReaderBasedJsonParser.nextTextValue,15,20,40,36,90.0,0,0
 
 
 #com/fasterxml/jackson/core/json/ReaderBasedJsonParser/nextTextValue:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.ReaderBasedJsonParser.nextTextValue calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.ReaderBasedJsonParser.nextTextValue calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/fasterxml/jackson/core/json/ReaderBasedJsonParser/nextIntValue:
 ## nodes: 13
@@ -3228,11 +3228,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.ReaderBased
 ## DUAs: 36
 ## Subsumed DUAs: 34
 ## Node DUA coverage: 94.44444444444444
-@@ com.fasterxml.jackson.core.json.ReaderBasedJsonParser.nextLongValue,13,17,36,34,94.44444444444444,0,1
+@@ com.fasterxml.jackson.core.json.ReaderBasedJsonParser.nextLongValue,13,17,36,34,94.44444444444444,0,0
 
 
 #com/fasterxml/jackson/core/json/ReaderBasedJsonParser/nextLongValue:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.ReaderBasedJsonParser.nextLongValue calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.ReaderBasedJsonParser.nextLongValue calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/fasterxml/jackson/core/json/ReaderBasedJsonParser/nextBooleanValue:
 ## nodes: 15
@@ -3288,11 +3288,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.ReaderBased
 ## DUAs: 47
 ## Subsumed DUAs: 39
 ## Node DUA coverage: 82.97872340425532
-@@ com.fasterxml.jackson.core.json.ReaderBasedJsonParser._handleInvalidNumberStart,26,36,47,39,82.97872340425532,0,1
+@@ com.fasterxml.jackson.core.json.ReaderBasedJsonParser._handleInvalidNumberStart,26,36,47,39,82.97872340425532,0,0
 
 
 #com/fasterxml/jackson/core/json/ReaderBasedJsonParser/_handleInvalidNumberStart:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.ReaderBasedJsonParser._handleInvalidNumberStart calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.ReaderBasedJsonParser._handleInvalidNumberStart calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/fasterxml/jackson/core/json/ReaderBasedJsonParser/_parseFieldName:
 ## nodes: 11
@@ -3336,11 +3336,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.ReaderBased
 ## DUAs: 41
 ## Subsumed DUAs: 20
 ## Node DUA coverage: 48.78048780487805
-@@ com.fasterxml.jackson.core.json.ReaderBasedJsonParser._parseApostropheFieldName,10,14,41,20,48.78048780487805,0,1
+@@ com.fasterxml.jackson.core.json.ReaderBasedJsonParser._parseApostropheFieldName,10,14,41,20,48.78048780487805,0,0
 
 
 #com/fasterxml/jackson/core/json/ReaderBasedJsonParser/_parseApostropheFieldName:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.ReaderBasedJsonParser._parseApostropheFieldName calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.ReaderBasedJsonParser._parseApostropheFieldName calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/fasterxml/jackson/core/json/ReaderBasedJsonParser/_handleUnexpectedValue:
 ## nodes: 17
@@ -3434,11 +3434,11 @@ Warning: Method:com.fasterxml.jackson.core.json.ReaderBasedJsonParser._skipWSOrE
 ## DUAs: 25
 ## Subsumed DUAs: 19
 ## Node DUA coverage: 76.0
-@@ com.fasterxml.jackson.core.json.ReaderBasedJsonParser._skipComment,12,16,25,19,76.0,0,1
+@@ com.fasterxml.jackson.core.json.ReaderBasedJsonParser._skipComment,12,16,25,19,76.0,0,0
 
 
 #com/fasterxml/jackson/core/json/ReaderBasedJsonParser/_skipComment:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.ReaderBasedJsonParser._skipComment calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.ReaderBasedJsonParser._skipComment calculated in 0 minutes, 0 seconds, and 0 milliseconds
 Warning: Method:com.fasterxml.jackson.core.json.ReaderBasedJsonParser._skipCComment has incoming edges.
 Warning: Method:com.fasterxml.jackson.core.json.ReaderBasedJsonParser._skipCppComment has incoming edges.
 
@@ -3472,11 +3472,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.ReaderBased
 ## DUAs: 138
 ## Subsumed DUAs: 85
 ## Node DUA coverage: 61.59420289855072
-@@ com.fasterxml.jackson.core.json.ReaderBasedJsonParser._decodeBase64,39,59,138,85,61.59420289855072,0,1
+@@ com.fasterxml.jackson.core.json.ReaderBasedJsonParser._decodeBase64,39,59,138,85,61.59420289855072,0,0
 
 
 #com/fasterxml/jackson/core/json/ReaderBasedJsonParser/_decodeBase64:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.ReaderBasedJsonParser._decodeBase64 calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.ReaderBasedJsonParser._decodeBase64 calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/fasterxml/jackson/core/json/ReaderBasedJsonParser/_reportInvalidToken:
 ## nodes: 9
@@ -3580,11 +3580,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.UTF8StreamJ
 ## DUAs: 48
 ## Subsumed DUAs: 33
 ## Node DUA coverage: 68.75
-@@ com.fasterxml.jackson.core.json.UTF8StreamJsonParser._loadToHaveAtLeast,15,20,48,33,68.75,0,1
+@@ com.fasterxml.jackson.core.json.UTF8StreamJsonParser._loadToHaveAtLeast,15,20,48,33,68.75,0,0
 
 
 #com/fasterxml/jackson/core/json/UTF8StreamJsonParser/_loadToHaveAtLeast:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.UTF8StreamJsonParser._loadToHaveAtLeast calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.UTF8StreamJsonParser._loadToHaveAtLeast calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/fasterxml/jackson/core/json/UTF8StreamJsonParser/_closeInput:
 ## nodes: 7
@@ -3664,11 +3664,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.UTF8StreamJ
 ## DUAs: 56
 ## Subsumed DUAs: 40
 ## Node DUA coverage: 71.42857142857143
-@@ com.fasterxml.jackson.core.json.UTF8StreamJsonParser.getTextCharacters,15,22,56,40,71.42857142857143,0,1
+@@ com.fasterxml.jackson.core.json.UTF8StreamJsonParser.getTextCharacters,15,22,56,40,71.42857142857143,0,0
 
 
 #com/fasterxml/jackson/core/json/UTF8StreamJsonParser/getTextCharacters:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.UTF8StreamJsonParser.getTextCharacters calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.UTF8StreamJsonParser.getTextCharacters calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/fasterxml/jackson/core/json/UTF8StreamJsonParser/getTextLength:
 ## nodes: 9
@@ -3736,11 +3736,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.UTF8StreamJ
 ## DUAs: 106
 ## Subsumed DUAs: 84
 ## Node DUA coverage: 79.24528301886792
-@@ com.fasterxml.jackson.core.json.UTF8StreamJsonParser.nextToken,35,53,106,84,79.24528301886792,0,0
+@@ com.fasterxml.jackson.core.json.UTF8StreamJsonParser.nextToken,35,53,106,84,79.24528301886792,0,1
 
 
 #com/fasterxml/jackson/core/json/UTF8StreamJsonParser/nextToken:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.UTF8StreamJsonParser.nextToken calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.UTF8StreamJsonParser.nextToken calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #com/fasterxml/jackson/core/json/UTF8StreamJsonParser/_nextTokenNotInObject:
 ## nodes: 12
@@ -3796,11 +3796,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.UTF8StreamJ
 ## DUAs: 41
 ## Subsumed DUAs: 32
 ## Node DUA coverage: 78.04878048780488
-@@ com.fasterxml.jackson.core.json.UTF8StreamJsonParser._isNextTokenNameMaybe,15,23,41,32,78.04878048780488,0,1
+@@ com.fasterxml.jackson.core.json.UTF8StreamJsonParser._isNextTokenNameMaybe,15,23,41,32,78.04878048780488,0,0
 
 
 #com/fasterxml/jackson/core/json/UTF8StreamJsonParser/_isNextTokenNameMaybe:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.UTF8StreamJsonParser._isNextTokenNameMaybe calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.UTF8StreamJsonParser._isNextTokenNameMaybe calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/fasterxml/jackson/core/json/UTF8StreamJsonParser/nextTextValue:
 ## nodes: 15
@@ -3808,11 +3808,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.UTF8StreamJ
 ## DUAs: 40
 ## Subsumed DUAs: 36
 ## Node DUA coverage: 90.0
-@@ com.fasterxml.jackson.core.json.UTF8StreamJsonParser.nextTextValue,15,20,40,36,90.0,0,0
+@@ com.fasterxml.jackson.core.json.UTF8StreamJsonParser.nextTextValue,15,20,40,36,90.0,0,3
 
 
 #com/fasterxml/jackson/core/json/UTF8StreamJsonParser/nextTextValue:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.UTF8StreamJsonParser.nextTextValue calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.UTF8StreamJsonParser.nextTextValue calculated in 0 minutes, 0 seconds, and 3 milliseconds
 
 #com/fasterxml/jackson/core/json/UTF8StreamJsonParser/nextIntValue:
 ## nodes: 13
@@ -3832,11 +3832,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.UTF8StreamJ
 ## DUAs: 36
 ## Subsumed DUAs: 34
 ## Node DUA coverage: 94.44444444444444
-@@ com.fasterxml.jackson.core.json.UTF8StreamJsonParser.nextLongValue,13,17,36,34,94.44444444444444,0,1
+@@ com.fasterxml.jackson.core.json.UTF8StreamJsonParser.nextLongValue,13,17,36,34,94.44444444444444,0,0
 
 
 #com/fasterxml/jackson/core/json/UTF8StreamJsonParser/nextLongValue:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.UTF8StreamJsonParser.nextLongValue calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.UTF8StreamJsonParser.nextLongValue calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/fasterxml/jackson/core/json/UTF8StreamJsonParser/nextBooleanValue:
 ## nodes: 15
@@ -3856,11 +3856,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.UTF8StreamJ
 ## DUAs: 114
 ## Subsumed DUAs: 47
 ## Node DUA coverage: 41.228070175438596
-@@ com.fasterxml.jackson.core.json.UTF8StreamJsonParser.parseNumberText,27,40,114,47,41.228070175438596,0,0
+@@ com.fasterxml.jackson.core.json.UTF8StreamJsonParser.parseNumberText,27,40,114,47,41.228070175438596,0,1
 
 
 #com/fasterxml/jackson/core/json/UTF8StreamJsonParser/parseNumberText:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.UTF8StreamJsonParser.parseNumberText calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.UTF8StreamJsonParser.parseNumberText calculated in 0 minutes, 0 seconds, and 1 milliseconds
 Warning: Method:com.fasterxml.jackson.core.json.UTF8StreamJsonParser._parserNumber2 has incoming edges.
 
 #com/fasterxml/jackson/core/json/UTF8StreamJsonParser/_verifyNoLeadingZeroes:
@@ -3869,11 +3869,11 @@ Warning: Method:com.fasterxml.jackson.core.json.UTF8StreamJsonParser._parserNumb
 ## DUAs: 49
 ## Subsumed DUAs: 25
 ## Node DUA coverage: 51.02040816326531
-@@ com.fasterxml.jackson.core.json.UTF8StreamJsonParser._verifyNoLeadingZeroes,18,28,49,25,51.02040816326531,0,1
+@@ com.fasterxml.jackson.core.json.UTF8StreamJsonParser._verifyNoLeadingZeroes,18,28,49,25,51.02040816326531,0,0
 
 
 #com/fasterxml/jackson/core/json/UTF8StreamJsonParser/_verifyNoLeadingZeroes:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.UTF8StreamJsonParser._verifyNoLeadingZeroes calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.UTF8StreamJsonParser._verifyNoLeadingZeroes calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/fasterxml/jackson/core/json/UTF8StreamJsonParser/_parseFloatText:
 ## nodes: 40
@@ -3893,11 +3893,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.UTF8StreamJ
 ## DUAs: 89
 ## Subsumed DUAs: 89
 ## Node DUA coverage: 100.0
-@@ com.fasterxml.jackson.core.json.UTF8StreamJsonParser._parseFieldName,26,37,89,89,100.0,0,1
+@@ com.fasterxml.jackson.core.json.UTF8StreamJsonParser._parseFieldName,26,37,89,89,100.0,0,0
 
 
 #com/fasterxml/jackson/core/json/UTF8StreamJsonParser/_parseFieldName:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.UTF8StreamJsonParser._parseFieldName calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.UTF8StreamJsonParser._parseFieldName calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/fasterxml/jackson/core/json/UTF8StreamJsonParser/parseMediumFieldName:
 ## nodes: 18
@@ -3917,11 +3917,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.UTF8StreamJ
 ## DUAs: 135
 ## Subsumed DUAs: 74
 ## Node DUA coverage: 54.81481481481482
-@@ com.fasterxml.jackson.core.json.UTF8StreamJsonParser.parseLongFieldName,23,32,135,74,54.81481481481482,0,1
+@@ com.fasterxml.jackson.core.json.UTF8StreamJsonParser.parseLongFieldName,23,32,135,74,54.81481481481482,0,0
 
 
 #com/fasterxml/jackson/core/json/UTF8StreamJsonParser/parseLongFieldName:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.UTF8StreamJsonParser.parseLongFieldName calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.UTF8StreamJsonParser.parseLongFieldName calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/fasterxml/jackson/core/json/UTF8StreamJsonParser/slowParseFieldName:
 ## nodes: 7
@@ -3977,11 +3977,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.UTF8StreamJ
 ## DUAs: 7
 ## Subsumed DUAs: 7
 ## Node DUA coverage: 100.0
-@@ com.fasterxml.jackson.core.json.UTF8StreamJsonParser.findName,4,4,7,7,100.0,0,1
+@@ com.fasterxml.jackson.core.json.UTF8StreamJsonParser.findName,4,4,7,7,100.0,0,0
 
 
 #com/fasterxml/jackson/core/json/UTF8StreamJsonParser/findName:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.UTF8StreamJsonParser.findName calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.UTF8StreamJsonParser.findName calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/fasterxml/jackson/core/json/UTF8StreamJsonParser/findName:
 ## nodes: 4
@@ -4037,11 +4037,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.UTF8StreamJ
 ## DUAs: 174
 ## Subsumed DUAs: 62
 ## Node DUA coverage: 35.63218390804598
-@@ com.fasterxml.jackson.core.json.UTF8StreamJsonParser._finishString2,28,40,174,62,35.63218390804598,0,0
+@@ com.fasterxml.jackson.core.json.UTF8StreamJsonParser._finishString2,28,40,174,62,35.63218390804598,0,1
 
 
 #com/fasterxml/jackson/core/json/UTF8StreamJsonParser/_finishString2:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.UTF8StreamJsonParser._finishString2 calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.UTF8StreamJsonParser._finishString2 calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #com/fasterxml/jackson/core/json/UTF8StreamJsonParser/_skipString:
 ## nodes: 18
@@ -4073,11 +4073,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.UTF8StreamJ
 ## DUAs: 175
 ## Subsumed DUAs: 65
 ## Node DUA coverage: 37.142857142857146
-@@ com.fasterxml.jackson.core.json.UTF8StreamJsonParser._handleApostropheValue,32,47,175,65,37.142857142857146,0,0
+@@ com.fasterxml.jackson.core.json.UTF8StreamJsonParser._handleApostropheValue,32,47,175,65,37.142857142857146,0,1
 
 
 #com/fasterxml/jackson/core/json/UTF8StreamJsonParser/_handleApostropheValue:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.UTF8StreamJsonParser._handleApostropheValue calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.UTF8StreamJsonParser._handleApostropheValue calculated in 0 minutes, 0 seconds, and 1 milliseconds
 Warning: Method:com.fasterxml.jackson.core.json.UTF8StreamJsonParser._handleInvalidNumberStart has incoming edges.
 
 #com/fasterxml/jackson/core/json/UTF8StreamJsonParser/_matchToken:
@@ -4136,11 +4136,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.UTF8StreamJ
 ## DUAs: 51
 ## Subsumed DUAs: 34
 ## Node DUA coverage: 66.66666666666666
-@@ com.fasterxml.jackson.core.json.UTF8StreamJsonParser._skipCComment,19,30,51,34,66.66666666666666,0,1
+@@ com.fasterxml.jackson.core.json.UTF8StreamJsonParser._skipCComment,19,30,51,34,66.66666666666666,0,0
 
 
 #com/fasterxml/jackson/core/json/UTF8StreamJsonParser/_skipCComment:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.UTF8StreamJsonParser._skipCComment calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.UTF8StreamJsonParser._skipCComment calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/fasterxml/jackson/core/json/UTF8StreamJsonParser/_skipCppComment:
 ## nodes: 15
@@ -4172,11 +4172,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.UTF8StreamJ
 ## DUAs: 57
 ## Subsumed DUAs: 29
 ## Node DUA coverage: 50.877192982456144
-@@ com.fasterxml.jackson.core.json.UTF8StreamJsonParser._decodeCharForError,19,27,57,29,50.877192982456144,0,0
+@@ com.fasterxml.jackson.core.json.UTF8StreamJsonParser._decodeCharForError,19,27,57,29,50.877192982456144,0,1
 
 
 #com/fasterxml/jackson/core/json/UTF8StreamJsonParser/_decodeCharForError:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.UTF8StreamJsonParser._decodeCharForError calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.UTF8StreamJsonParser._decodeCharForError calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #com/fasterxml/jackson/core/json/UTF8StreamJsonParser/_decodeUtf8_2:
 ## nodes: 6
@@ -4220,11 +4220,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.UTF8StreamJ
 ## DUAs: 51
 ## Subsumed DUAs: 39
 ## Node DUA coverage: 76.47058823529412
-@@ com.fasterxml.jackson.core.json.UTF8StreamJsonParser._decodeUtf8_4,14,19,51,39,76.47058823529412,0,1
+@@ com.fasterxml.jackson.core.json.UTF8StreamJsonParser._decodeUtf8_4,14,19,51,39,76.47058823529412,0,0
 
 
 #com/fasterxml/jackson/core/json/UTF8StreamJsonParser/_decodeUtf8_4:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.UTF8StreamJsonParser._decodeUtf8_4 calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.UTF8StreamJsonParser._decodeUtf8_4 calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/fasterxml/jackson/core/json/UTF8StreamJsonParser/_skipUtf8_2:
 ## nodes: 6
@@ -4256,11 +4256,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.UTF8StreamJ
 ## DUAs: 45
 ## Subsumed DUAs: 33
 ## Node DUA coverage: 73.33333333333333
-@@ com.fasterxml.jackson.core.json.UTF8StreamJsonParser._skipUtf8_4,14,19,45,33,73.33333333333333,0,1
+@@ com.fasterxml.jackson.core.json.UTF8StreamJsonParser._skipUtf8_4,14,19,45,33,73.33333333333333,0,0
 
 
 #com/fasterxml/jackson/core/json/UTF8StreamJsonParser/_skipUtf8_4:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.UTF8StreamJsonParser._skipUtf8_4 calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.UTF8StreamJsonParser._skipUtf8_4 calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/fasterxml/jackson/core/json/UTF8StreamJsonParser/_skipCR:
 ## nodes: 6
@@ -4400,11 +4400,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.WriterBased
 ## DUAs: 40
 ## Subsumed DUAs: 31
 ## Node DUA coverage: 77.5
-@@ com.fasterxml.jackson.core.json.WriterBasedJsonGenerator._writeFieldName,12,16,40,31,77.5,0,1
+@@ com.fasterxml.jackson.core.json.WriterBasedJsonGenerator._writeFieldName,12,16,40,31,77.5,0,0
 
 
 #com/fasterxml/jackson/core/json/WriterBasedJsonGenerator/_writeFieldName:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.WriterBasedJsonGenerator._writeFieldName calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.WriterBasedJsonGenerator._writeFieldName calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/fasterxml/jackson/core/json/WriterBasedJsonGenerator/_writeFieldName:
 ## nodes: 15
@@ -4412,11 +4412,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.WriterBased
 ## DUAs: 57
 ## Subsumed DUAs: 48
 ## Node DUA coverage: 84.21052631578947
-@@ com.fasterxml.jackson.core.json.WriterBasedJsonGenerator._writeFieldName,15,20,57,48,84.21052631578947,0,0
+@@ com.fasterxml.jackson.core.json.WriterBasedJsonGenerator._writeFieldName,15,20,57,48,84.21052631578947,0,1
 
 
 #com/fasterxml/jackson/core/json/WriterBasedJsonGenerator/_writeFieldName:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.WriterBasedJsonGenerator._writeFieldName calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.WriterBasedJsonGenerator._writeFieldName calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #com/fasterxml/jackson/core/json/WriterBasedJsonGenerator/_writePPFieldName:
 ## nodes: 12
@@ -4460,11 +4460,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.WriterBased
 ## DUAs: 23
 ## Subsumed DUAs: 17
 ## Node DUA coverage: 73.91304347826086
-@@ com.fasterxml.jackson.core.json.WriterBasedJsonGenerator.writeString,6,7,23,17,73.91304347826086,0,1
+@@ com.fasterxml.jackson.core.json.WriterBasedJsonGenerator.writeString,6,7,23,17,73.91304347826086,0,0
 
 
 #com/fasterxml/jackson/core/json/WriterBasedJsonGenerator/writeString:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.WriterBasedJsonGenerator.writeString calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.WriterBasedJsonGenerator.writeString calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/fasterxml/jackson/core/json/WriterBasedJsonGenerator/writeString:
 ## nodes: 11
@@ -4544,11 +4544,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.WriterBased
 ## DUAs: 24
 ## Subsumed DUAs: 18
 ## Node DUA coverage: 75.0
-@@ com.fasterxml.jackson.core.json.WriterBasedJsonGenerator.writeBinary,6,7,24,18,75.0,0,0
+@@ com.fasterxml.jackson.core.json.WriterBasedJsonGenerator.writeBinary,6,7,24,18,75.0,0,1
 
 
 #com/fasterxml/jackson/core/json/WriterBasedJsonGenerator/writeBinary:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.WriterBasedJsonGenerator.writeBinary calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.WriterBasedJsonGenerator.writeBinary calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #com/fasterxml/jackson/core/json/WriterBasedJsonGenerator/writeBinary:
 ## nodes: 11
@@ -4556,11 +4556,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.WriterBased
 ## DUAs: 43
 ## Subsumed DUAs: 34
 ## Node DUA coverage: 79.06976744186046
-@@ com.fasterxml.jackson.core.json.WriterBasedJsonGenerator.writeBinary,11,14,43,34,79.06976744186046,0,1
+@@ com.fasterxml.jackson.core.json.WriterBasedJsonGenerator.writeBinary,11,14,43,34,79.06976744186046,0,0
 
 
 #com/fasterxml/jackson/core/json/WriterBasedJsonGenerator/writeBinary:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.WriterBasedJsonGenerator.writeBinary calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.WriterBasedJsonGenerator.writeBinary calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/fasterxml/jackson/core/json/WriterBasedJsonGenerator/writeNumber:
 ## nodes: 6
@@ -4592,11 +4592,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.WriterBased
 ## DUAs: 17
 ## Subsumed DUAs: 14
 ## Node DUA coverage: 82.35294117647058
-@@ com.fasterxml.jackson.core.json.WriterBasedJsonGenerator.writeNumber,6,7,17,14,82.35294117647058,0,0
+@@ com.fasterxml.jackson.core.json.WriterBasedJsonGenerator.writeNumber,6,7,17,14,82.35294117647058,0,1
 
 
 #com/fasterxml/jackson/core/json/WriterBasedJsonGenerator/writeNumber:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.WriterBasedJsonGenerator.writeNumber calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.WriterBasedJsonGenerator.writeNumber calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #com/fasterxml/jackson/core/json/WriterBasedJsonGenerator/_writeQuotedInt:
 ## nodes: 4
@@ -4604,11 +4604,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.WriterBased
 ## DUAs: 11
 ## Subsumed DUAs: 8
 ## Node DUA coverage: 72.72727272727273
-@@ com.fasterxml.jackson.core.json.WriterBasedJsonGenerator._writeQuotedInt,4,4,11,8,72.72727272727273,0,0
+@@ com.fasterxml.jackson.core.json.WriterBasedJsonGenerator._writeQuotedInt,4,4,11,8,72.72727272727273,0,1
 
 
 #com/fasterxml/jackson/core/json/WriterBasedJsonGenerator/_writeQuotedInt:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.WriterBasedJsonGenerator._writeQuotedInt calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.WriterBasedJsonGenerator._writeQuotedInt calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #com/fasterxml/jackson/core/json/WriterBasedJsonGenerator/writeNumber:
 ## nodes: 6
@@ -4652,11 +4652,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.WriterBased
 ## DUAs: 16
 ## Subsumed DUAs: 7
 ## Node DUA coverage: 43.75
-@@ com.fasterxml.jackson.core.json.WriterBasedJsonGenerator.writeNumber,7,10,16,7,43.75,0,1
+@@ com.fasterxml.jackson.core.json.WriterBasedJsonGenerator.writeNumber,7,10,16,7,43.75,0,0
 
 
 #com/fasterxml/jackson/core/json/WriterBasedJsonGenerator/writeNumber:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.WriterBasedJsonGenerator.writeNumber calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.WriterBasedJsonGenerator.writeNumber calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/fasterxml/jackson/core/json/WriterBasedJsonGenerator/writeNumber:
 ## nodes: 7
@@ -4712,11 +4712,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.WriterBased
 ## DUAs: 19
 ## Subsumed DUAs: 14
 ## Node DUA coverage: 73.68421052631578
-@@ com.fasterxml.jackson.core.json.WriterBasedJsonGenerator.writeBoolean,7,8,19,14,73.68421052631578,0,0
+@@ com.fasterxml.jackson.core.json.WriterBasedJsonGenerator.writeBoolean,7,8,19,14,73.68421052631578,0,1
 
 
 #com/fasterxml/jackson/core/json/WriterBasedJsonGenerator/writeBoolean:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.WriterBasedJsonGenerator.writeBoolean calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.WriterBasedJsonGenerator.writeBoolean calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #com/fasterxml/jackson/core/json/WriterBasedJsonGenerator/_verifyValueWrite:
 ## nodes: 15
@@ -4736,11 +4736,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.WriterBased
 ## DUAs: 24
 ## Subsumed DUAs: 22
 ## Node DUA coverage: 91.66666666666666
-@@ com.fasterxml.jackson.core.json.WriterBasedJsonGenerator._verifyPrettyValueWrite,11,16,24,22,91.66666666666666,0,1
+@@ com.fasterxml.jackson.core.json.WriterBasedJsonGenerator._verifyPrettyValueWrite,11,16,24,22,91.66666666666666,0,0
 
 
 #com/fasterxml/jackson/core/json/WriterBasedJsonGenerator/_verifyPrettyValueWrite:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.WriterBasedJsonGenerator._verifyPrettyValueWrite calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.WriterBasedJsonGenerator._verifyPrettyValueWrite calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/fasterxml/jackson/core/json/WriterBasedJsonGenerator/flush:
 ## nodes: 5
@@ -4784,11 +4784,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.WriterBased
 ## DUAs: 37
 ## Subsumed DUAs: 33
 ## Node DUA coverage: 89.1891891891892
-@@ com.fasterxml.jackson.core.json.WriterBasedJsonGenerator._writeString,11,14,37,33,89.1891891891892,0,0
+@@ com.fasterxml.jackson.core.json.WriterBasedJsonGenerator._writeString,11,14,37,33,89.1891891891892,0,1
 
 
 #com/fasterxml/jackson/core/json/WriterBasedJsonGenerator/_writeString:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.WriterBasedJsonGenerator._writeString calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.WriterBasedJsonGenerator._writeString calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #com/fasterxml/jackson/core/json/WriterBasedJsonGenerator/_writeString2:
 ## nodes: 12
@@ -4808,11 +4808,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.WriterBased
 ## DUAs: 39
 ## Subsumed DUAs: 31
 ## Node DUA coverage: 79.48717948717949
-@@ com.fasterxml.jackson.core.json.WriterBasedJsonGenerator._writeLongString,12,15,39,31,79.48717948717949,0,0
+@@ com.fasterxml.jackson.core.json.WriterBasedJsonGenerator._writeLongString,12,15,39,31,79.48717948717949,0,1
 
 
 #com/fasterxml/jackson/core/json/WriterBasedJsonGenerator/_writeLongString:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.WriterBasedJsonGenerator._writeLongString calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.WriterBasedJsonGenerator._writeLongString calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #com/fasterxml/jackson/core/json/WriterBasedJsonGenerator/_writeSegment:
 ## nodes: 13
@@ -4904,11 +4904,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.WriterBased
 ## DUAs: 94
 ## Subsumed DUAs: 54
 ## Node DUA coverage: 57.446808510638306
-@@ com.fasterxml.jackson.core.json.WriterBasedJsonGenerator._writeStringCustom,26,36,94,54,57.446808510638306,0,1
+@@ com.fasterxml.jackson.core.json.WriterBasedJsonGenerator._writeStringCustom,26,36,94,54,57.446808510638306,0,0
 
 
 #com/fasterxml/jackson/core/json/WriterBasedJsonGenerator/_writeStringCustom:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.WriterBasedJsonGenerator._writeStringCustom calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.WriterBasedJsonGenerator._writeStringCustom calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/fasterxml/jackson/core/json/WriterBasedJsonGenerator/_writeBinary:
 ## nodes: 15
@@ -4916,11 +4916,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.WriterBased
 ## DUAs: 68
 ## Subsumed DUAs: 32
 ## Node DUA coverage: 47.05882352941176
-@@ com.fasterxml.jackson.core.json.WriterBasedJsonGenerator._writeBinary,15,20,68,32,47.05882352941176,0,0
+@@ com.fasterxml.jackson.core.json.WriterBasedJsonGenerator._writeBinary,15,20,68,32,47.05882352941176,0,1
 
 
 #com/fasterxml/jackson/core/json/WriterBasedJsonGenerator/_writeBinary:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.WriterBasedJsonGenerator._writeBinary calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.WriterBasedJsonGenerator._writeBinary calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #com/fasterxml/jackson/core/json/WriterBasedJsonGenerator/_writeBinary:
 ## nodes: 21
@@ -4952,11 +4952,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.WriterBased
 ## DUAs: 36
 ## Subsumed DUAs: 20
 ## Node DUA coverage: 55.55555555555556
-@@ com.fasterxml.jackson.core.json.WriterBasedJsonGenerator._readMore,11,14,36,20,55.55555555555556,0,1
+@@ com.fasterxml.jackson.core.json.WriterBasedJsonGenerator._readMore,11,14,36,20,55.55555555555556,0,0
 
 
 #com/fasterxml/jackson/core/json/WriterBasedJsonGenerator/_readMore:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.WriterBasedJsonGenerator._readMore calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.WriterBasedJsonGenerator._readMore calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/fasterxml/jackson/core/json/WriterBasedJsonGenerator/_writeNull:
 ## nodes: 4
@@ -4964,11 +4964,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.WriterBased
 ## DUAs: 10
 ## Subsumed DUAs: 7
 ## Node DUA coverage: 70.0
-@@ com.fasterxml.jackson.core.json.WriterBasedJsonGenerator._writeNull,4,4,10,7,70.0,0,4
+@@ com.fasterxml.jackson.core.json.WriterBasedJsonGenerator._writeNull,4,4,10,7,70.0,0,0
 
 
 #com/fasterxml/jackson/core/json/WriterBasedJsonGenerator/_writeNull:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.WriterBasedJsonGenerator._writeNull calculated in 0 minutes, 0 seconds, and 4 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.WriterBasedJsonGenerator._writeNull calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/fasterxml/jackson/core/json/WriterBasedJsonGenerator/_prependOrWriteCharacterEscape:
 ## nodes: 25
@@ -4988,11 +4988,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.WriterBased
 ## DUAs: 100
 ## Subsumed DUAs: 66
 ## Node DUA coverage: 66.0
-@@ com.fasterxml.jackson.core.json.WriterBasedJsonGenerator._prependOrWriteCharacterEscape,30,42,100,66,66.0,0,1
+@@ com.fasterxml.jackson.core.json.WriterBasedJsonGenerator._prependOrWriteCharacterEscape,30,42,100,66,66.0,0,0
 
 
 #com/fasterxml/jackson/core/json/WriterBasedJsonGenerator/_prependOrWriteCharacterEscape:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.WriterBasedJsonGenerator._prependOrWriteCharacterEscape calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.WriterBasedJsonGenerator._prependOrWriteCharacterEscape calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/fasterxml/jackson/core/json/WriterBasedJsonGenerator/_appendCharacterEscape:
 ## nodes: 19
@@ -5036,11 +5036,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.UTF8JsonGen
 ## DUAs: 25
 ## Subsumed DUAs: 20
 ## Node DUA coverage: 80.0
-@@ com.fasterxml.jackson.core.json.UTF8JsonGenerator.writeFieldName,13,17,25,20,80.0,0,1
+@@ com.fasterxml.jackson.core.json.UTF8JsonGenerator.writeFieldName,13,17,25,20,80.0,0,0
 
 
 #com/fasterxml/jackson/core/json/UTF8JsonGenerator/writeFieldName:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.UTF8JsonGenerator.writeFieldName calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.UTF8JsonGenerator.writeFieldName calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/fasterxml/jackson/core/json/UTF8JsonGenerator/writeFieldName:
 ## nodes: 13
@@ -5132,11 +5132,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.UTF8JsonGen
 ## DUAs: 66
 ## Subsumed DUAs: 56
 ## Node DUA coverage: 84.84848484848484
-@@ com.fasterxml.jackson.core.json.UTF8JsonGenerator._writePPFieldName,19,25,66,56,84.84848484848484,0,0
+@@ com.fasterxml.jackson.core.json.UTF8JsonGenerator._writePPFieldName,19,25,66,56,84.84848484848484,0,1
 
 
 #com/fasterxml/jackson/core/json/UTF8JsonGenerator/_writePPFieldName:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.UTF8JsonGenerator._writePPFieldName calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.UTF8JsonGenerator._writePPFieldName calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #com/fasterxml/jackson/core/json/UTF8JsonGenerator/_writePPFieldName:
 ## nodes: 13
@@ -5168,11 +5168,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.UTF8JsonGen
 ## DUAs: 21
 ## Subsumed DUAs: 15
 ## Node DUA coverage: 71.42857142857143
-@@ com.fasterxml.jackson.core.json.UTF8JsonGenerator._writeLongString,6,7,21,15,71.42857142857143,0,0
+@@ com.fasterxml.jackson.core.json.UTF8JsonGenerator._writeLongString,6,7,21,15,71.42857142857143,0,1
 
 
 #com/fasterxml/jackson/core/json/UTF8JsonGenerator/_writeLongString:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.UTF8JsonGenerator._writeLongString calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.UTF8JsonGenerator._writeLongString calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #com/fasterxml/jackson/core/json/UTF8JsonGenerator/_writeLongString:
 ## nodes: 6
@@ -5204,11 +5204,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.UTF8JsonGen
 ## DUAs: 31
 ## Subsumed DUAs: 20
 ## Node DUA coverage: 64.51612903225806
-@@ com.fasterxml.jackson.core.json.UTF8JsonGenerator.writeString,9,11,31,20,64.51612903225806,0,1
+@@ com.fasterxml.jackson.core.json.UTF8JsonGenerator.writeString,9,11,31,20,64.51612903225806,0,0
 
 
 #com/fasterxml/jackson/core/json/UTF8JsonGenerator/writeString:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.UTF8JsonGenerator.writeString calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.UTF8JsonGenerator.writeString calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/fasterxml/jackson/core/json/UTF8JsonGenerator/writeRawUTF8String:
 ## nodes: 6
@@ -5240,11 +5240,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.UTF8JsonGen
 ## DUAs: 20
 ## Subsumed DUAs: 11
 ## Node DUA coverage: 55.00000000000001
-@@ com.fasterxml.jackson.core.json.UTF8JsonGenerator.writeRaw,8,9,20,11,55.00000000000001,0,0
+@@ com.fasterxml.jackson.core.json.UTF8JsonGenerator.writeRaw,8,9,20,11,55.00000000000001,0,1
 
 
 #com/fasterxml/jackson/core/json/UTF8JsonGenerator/writeRaw:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.UTF8JsonGenerator.writeRaw calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.UTF8JsonGenerator.writeRaw calculated in 0 minutes, 0 seconds, and 1 milliseconds
 Warning: Method:com.fasterxml.jackson.core.json.UTF8JsonGenerator.writeRaw has incoming edges.
 
 #com/fasterxml/jackson/core/json/UTF8JsonGenerator/writeRaw:
@@ -5361,11 +5361,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.UTF8JsonGen
 ## DUAs: 11
 ## Subsumed DUAs: 8
 ## Node DUA coverage: 72.72727272727273
-@@ com.fasterxml.jackson.core.json.UTF8JsonGenerator._writeQuotedInt,4,4,11,8,72.72727272727273,0,1
+@@ com.fasterxml.jackson.core.json.UTF8JsonGenerator._writeQuotedInt,4,4,11,8,72.72727272727273,0,0
 
 
 #com/fasterxml/jackson/core/json/UTF8JsonGenerator/_writeQuotedInt:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.UTF8JsonGenerator._writeQuotedInt calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.UTF8JsonGenerator._writeQuotedInt calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/fasterxml/jackson/core/json/UTF8JsonGenerator/writeNumber:
 ## nodes: 6
@@ -5373,11 +5373,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.UTF8JsonGen
 ## DUAs: 17
 ## Subsumed DUAs: 14
 ## Node DUA coverage: 82.35294117647058
-@@ com.fasterxml.jackson.core.json.UTF8JsonGenerator.writeNumber,6,7,17,14,82.35294117647058,0,1
+@@ com.fasterxml.jackson.core.json.UTF8JsonGenerator.writeNumber,6,7,17,14,82.35294117647058,0,0
 
 
 #com/fasterxml/jackson/core/json/UTF8JsonGenerator/writeNumber:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.UTF8JsonGenerator.writeNumber calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.UTF8JsonGenerator.writeNumber calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/fasterxml/jackson/core/json/UTF8JsonGenerator/_writeQuotedLong:
 ## nodes: 4
@@ -5457,11 +5457,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.UTF8JsonGen
 ## DUAs: 21
 ## Subsumed DUAs: 15
 ## Node DUA coverage: 71.42857142857143
-@@ com.fasterxml.jackson.core.json.UTF8JsonGenerator._writeQuotedRaw,6,7,21,15,71.42857142857143,0,1
+@@ com.fasterxml.jackson.core.json.UTF8JsonGenerator._writeQuotedRaw,6,7,21,15,71.42857142857143,0,0
 
 
 #com/fasterxml/jackson/core/json/UTF8JsonGenerator/_writeQuotedRaw:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.UTF8JsonGenerator._writeQuotedRaw calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.UTF8JsonGenerator._writeQuotedRaw calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/fasterxml/jackson/core/json/UTF8JsonGenerator/writeBoolean:
 ## nodes: 7
@@ -5493,11 +5493,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.UTF8JsonGen
 ## DUAs: 24
 ## Subsumed DUAs: 22
 ## Node DUA coverage: 91.66666666666666
-@@ com.fasterxml.jackson.core.json.UTF8JsonGenerator._verifyPrettyValueWrite,11,16,24,22,91.66666666666666,0,1
+@@ com.fasterxml.jackson.core.json.UTF8JsonGenerator._verifyPrettyValueWrite,11,16,24,22,91.66666666666666,0,0
 
 
 #com/fasterxml/jackson/core/json/UTF8JsonGenerator/_verifyPrettyValueWrite:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.UTF8JsonGenerator._verifyPrettyValueWrite calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.UTF8JsonGenerator._verifyPrettyValueWrite calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/fasterxml/jackson/core/json/UTF8JsonGenerator/flush:
 ## nodes: 5
@@ -5529,11 +5529,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.UTF8JsonGen
 ## DUAs: 16
 ## Subsumed DUAs: 12
 ## Node DUA coverage: 75.0
-@@ com.fasterxml.jackson.core.json.UTF8JsonGenerator._releaseBuffers,7,9,16,12,75.0,0,1
+@@ com.fasterxml.jackson.core.json.UTF8JsonGenerator._releaseBuffers,7,9,16,12,75.0,0,0
 
 
 #com/fasterxml/jackson/core/json/UTF8JsonGenerator/_releaseBuffers:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.UTF8JsonGenerator._releaseBuffers calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.UTF8JsonGenerator._releaseBuffers calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/fasterxml/jackson/core/json/UTF8JsonGenerator/_writeBytes:
 ## nodes: 5
@@ -5602,11 +5602,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.UTF8JsonGen
 ## DUAs: 103
 ## Subsumed DUAs: 45
 ## Node DUA coverage: 43.689320388349515
-@@ com.fasterxml.jackson.core.json.UTF8JsonGenerator._writeStringSegmentASCII2,18,24,103,45,43.689320388349515,0,1
+@@ com.fasterxml.jackson.core.json.UTF8JsonGenerator._writeStringSegmentASCII2,18,24,103,45,43.689320388349515,0,0
 
 
 #com/fasterxml/jackson/core/json/UTF8JsonGenerator/_writeStringSegmentASCII2:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.UTF8JsonGenerator._writeStringSegmentASCII2 calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.UTF8JsonGenerator._writeStringSegmentASCII2 calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/fasterxml/jackson/core/json/UTF8JsonGenerator/_writeCustomStringSegment2:
 ## nodes: 27
@@ -5651,11 +5651,11 @@ Warning: Method:com.fasterxml.jackson.core.json.UTF8JsonGenerator._writeUTF8Segm
 ## DUAs: 34
 ## Subsumed DUAs: 23
 ## Node DUA coverage: 67.64705882352942
-@@ com.fasterxml.jackson.core.json.UTF8JsonGenerator._writeUTF8Segment,10,13,34,23,67.64705882352942,0,1
+@@ com.fasterxml.jackson.core.json.UTF8JsonGenerator._writeUTF8Segment,10,13,34,23,67.64705882352942,0,0
 
 
 #com/fasterxml/jackson/core/json/UTF8JsonGenerator/_writeUTF8Segment:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.UTF8JsonGenerator._writeUTF8Segment calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.UTF8JsonGenerator._writeUTF8Segment calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/fasterxml/jackson/core/json/UTF8JsonGenerator/_writeUTF8Segment2:
 ## nodes: 13
@@ -5675,11 +5675,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.UTF8JsonGen
 ## DUAs: 68
 ## Subsumed DUAs: 32
 ## Node DUA coverage: 47.05882352941176
-@@ com.fasterxml.jackson.core.json.UTF8JsonGenerator._writeBinary,15,20,68,32,47.05882352941176,0,0
+@@ com.fasterxml.jackson.core.json.UTF8JsonGenerator._writeBinary,15,20,68,32,47.05882352941176,0,1
 
 
 #com/fasterxml/jackson/core/json/UTF8JsonGenerator/_writeBinary:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.UTF8JsonGenerator._writeBinary calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.UTF8JsonGenerator._writeBinary calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #com/fasterxml/jackson/core/json/UTF8JsonGenerator/_writeBinary:
 ## nodes: 21
@@ -5723,11 +5723,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.UTF8JsonGen
 ## DUAs: 18
 ## Subsumed DUAs: 14
 ## Node DUA coverage: 77.77777777777779
-@@ com.fasterxml.jackson.core.json.UTF8JsonGenerator._outputRawMultiByteChar,7,9,18,14,77.77777777777779,0,0
+@@ com.fasterxml.jackson.core.json.UTF8JsonGenerator._outputRawMultiByteChar,7,9,18,14,77.77777777777779,0,1
 
 
 #com/fasterxml/jackson/core/json/UTF8JsonGenerator/_outputRawMultiByteChar:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.UTF8JsonGenerator._outputRawMultiByteChar calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.UTF8JsonGenerator._outputRawMultiByteChar calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #com/fasterxml/jackson/core/json/UTF8JsonGenerator/_outputSurrogates:
 ## nodes: 4
@@ -5783,11 +5783,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.UTF8JsonGen
 ## DUAs: 14
 ## Subsumed DUAs: 10
 ## Node DUA coverage: 71.42857142857143
-@@ com.fasterxml.jackson.core.json.UTF8JsonGenerator._writeGenericEscape,5,5,14,10,71.42857142857143,0,0
+@@ com.fasterxml.jackson.core.json.UTF8JsonGenerator._writeGenericEscape,5,5,14,10,71.42857142857143,0,1
 
 
 #com/fasterxml/jackson/core/json/UTF8JsonGenerator/_writeGenericEscape:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.UTF8JsonGenerator._writeGenericEscape calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.UTF8JsonGenerator._writeGenericEscape calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #com/fasterxml/jackson/core/json/UTF8JsonGenerator/_flushBuffer:
 ## nodes: 4
@@ -5831,11 +5831,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.JsonReadCon
 ## DUAs: 6
 ## Subsumed DUAs: 3
 ## Node DUA coverage: 50.0
-@@ com.fasterxml.jackson.core.json.JsonReadContext.expectComma,6,7,6,3,50.0,0,0
+@@ com.fasterxml.jackson.core.json.JsonReadContext.expectComma,6,7,6,3,50.0,0,1
 
 
 #com/fasterxml/jackson/core/json/JsonReadContext/expectComma:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.JsonReadContext.expectComma calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.JsonReadContext.expectComma calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #com/fasterxml/jackson/core/json/JsonReadContext/toString:
 ## nodes: 9
@@ -5843,11 +5843,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.JsonReadCon
 ## DUAs: 22
 ## Subsumed DUAs: 20
 ## Node DUA coverage: 90.9090909090909
-@@ com.fasterxml.jackson.core.json.JsonReadContext.toString,9,12,22,20,90.9090909090909,0,1
+@@ com.fasterxml.jackson.core.json.JsonReadContext.toString,9,12,22,20,90.9090909090909,0,0
 
 
 #com/fasterxml/jackson/core/json/JsonReadContext/toString:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.JsonReadContext.toString calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.JsonReadContext.toString calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/fasterxml/jackson/core/json/JsonGeneratorImpl/<init>:
 ## nodes: 4
@@ -5855,11 +5855,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.JsonReadCon
 ## DUAs: 5
 ## Subsumed DUAs: 3
 ## Node DUA coverage: 60.0
-@@ com.fasterxml.jackson.core.json.JsonGeneratorImpl.<init>,4,4,5,3,60.0,0,1
+@@ com.fasterxml.jackson.core.json.JsonGeneratorImpl.<init>,4,4,5,3,60.0,0,0
 
 
 #com/fasterxml/jackson/core/json/JsonGeneratorImpl/<init>:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.JsonGeneratorImpl.<init> calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.JsonGeneratorImpl.<init> calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/fasterxml/jackson/core/json/JsonGeneratorImpl/setHighestNonEscapedChar:
 ## nodes: 5
@@ -5891,11 +5891,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.JsonGenerat
 ## DUAs: 64
 ## Subsumed DUAs: 45
 ## Node DUA coverage: 70.3125
-@@ com.fasterxml.jackson.core.json.ByteSourceJsonBootstrapper.detectEncoding,26,37,64,45,70.3125,0,1
+@@ com.fasterxml.jackson.core.json.ByteSourceJsonBootstrapper.detectEncoding,26,37,64,45,70.3125,0,0
 
 
 #com/fasterxml/jackson/core/json/ByteSourceJsonBootstrapper/detectEncoding:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.ByteSourceJsonBootstrapper.detectEncoding calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.ByteSourceJsonBootstrapper.detectEncoding calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/fasterxml/jackson/core/json/ByteSourceJsonBootstrapper/constructReader:
 ## nodes: 9
@@ -5903,11 +5903,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.ByteSourceJ
 ## DUAs: 36
 ## Subsumed DUAs: 30
 ## Node DUA coverage: 83.33333333333334
-@@ com.fasterxml.jackson.core.json.ByteSourceJsonBootstrapper.constructReader,9,12,36,30,83.33333333333334,0,1
+@@ com.fasterxml.jackson.core.json.ByteSourceJsonBootstrapper.constructReader,9,12,36,30,83.33333333333334,0,0
 
 
 #com/fasterxml/jackson/core/json/ByteSourceJsonBootstrapper/constructReader:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.ByteSourceJsonBootstrapper.constructReader calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.ByteSourceJsonBootstrapper.constructReader calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/fasterxml/jackson/core/json/ByteSourceJsonBootstrapper/constructParser:
 ## nodes: 5
@@ -5927,11 +5927,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.ByteSourceJ
 ## DUAs: 86
 ## Subsumed DUAs: 75
 ## Node DUA coverage: 87.20930232558139
-@@ com.fasterxml.jackson.core.json.ByteSourceJsonBootstrapper.hasJSONFormat,51,76,86,75,87.20930232558139,0,0
+@@ com.fasterxml.jackson.core.json.ByteSourceJsonBootstrapper.hasJSONFormat,51,76,86,75,87.20930232558139,0,1
 
 
 #com/fasterxml/jackson/core/json/ByteSourceJsonBootstrapper/hasJSONFormat:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.ByteSourceJsonBootstrapper.hasJSONFormat calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.ByteSourceJsonBootstrapper.hasJSONFormat calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #com/fasterxml/jackson/core/json/ByteSourceJsonBootstrapper/tryMatch:
 ## nodes: 9
@@ -5976,11 +5976,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.ByteSourceJ
 ## DUAs: 13
 ## Subsumed DUAs: 13
 ## Node DUA coverage: 100.0
-@@ com.fasterxml.jackson.core.json.ByteSourceJsonBootstrapper.checkUTF32,11,14,13,13,100.0,0,0
+@@ com.fasterxml.jackson.core.json.ByteSourceJsonBootstrapper.checkUTF32,11,14,13,13,100.0,0,15
 
 
 #com/fasterxml/jackson/core/json/ByteSourceJsonBootstrapper/checkUTF32:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.ByteSourceJsonBootstrapper.checkUTF32 calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.json.ByteSourceJsonBootstrapper.checkUTF32 calculated in 0 minutes, 0 seconds, and 15 milliseconds
 
 #com/fasterxml/jackson/core/json/ByteSourceJsonBootstrapper/checkUTF16:
 ## nodes: 7
@@ -6072,11 +6072,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.format.DataForma
 ## DUAs: 43
 ## Subsumed DUAs: 20
 ## Node DUA coverage: 46.51162790697674
-@@ com.fasterxml.jackson.core.format.DataFormatDetector._findFormat,13,18,43,20,46.51162790697674,0,0
+@@ com.fasterxml.jackson.core.format.DataFormatDetector._findFormat,13,18,43,20,46.51162790697674,0,1
 
 
 #com/fasterxml/jackson/core/format/DataFormatDetector/_findFormat:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.format.DataFormatDetector._findFormat calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.format.DataFormatDetector._findFormat calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #com/fasterxml/jackson/core/format/InputAccessor$Std/hasMoreBytes:
 ## nodes: 10
@@ -6132,11 +6132,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.format.DataForma
 ## DUAs: 15
 ## Subsumed DUAs: 15
 ## Node DUA coverage: 100.0
-@@ com.fasterxml.jackson.core.format.DataFormatMatcher.createParserWithMatch,6,7,15,15,100.0,0,1
+@@ com.fasterxml.jackson.core.format.DataFormatMatcher.createParserWithMatch,6,7,15,15,100.0,0,0
 
 
 #com/fasterxml/jackson/core/format/DataFormatMatcher/createParserWithMatch:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.format.DataFormatMatcher.createParserWithMatch calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.format.DataFormatMatcher.createParserWithMatch calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/fasterxml/jackson/core/format/DataFormatMatcher/getDataStream:
 ## nodes: 4
@@ -6156,11 +6156,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.format.DataForma
 ## DUAs: 16
 ## Subsumed DUAs: 10
 ## Node DUA coverage: 62.5
-@@ com.fasterxml.jackson.core.base.ParserBase.getCurrentName,5,6,16,10,62.5,0,1
+@@ com.fasterxml.jackson.core.base.ParserBase.getCurrentName,5,6,16,10,62.5,0,0
 
 
 #com/fasterxml/jackson/core/base/ParserBase/getCurrentName:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.base.ParserBase.getCurrentName calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.base.ParserBase.getCurrentName calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/fasterxml/jackson/core/base/ParserBase/overrideCurrentName:
 ## nodes: 5
@@ -6312,11 +6312,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.base.ParserBase.
 ## DUAs: 16
 ## Subsumed DUAs: 10
 ## Node DUA coverage: 62.5
-@@ com.fasterxml.jackson.core.base.ParserBase.getLongValue,7,9,16,10,62.5,0,1
+@@ com.fasterxml.jackson.core.base.ParserBase.getLongValue,7,9,16,10,62.5,0,0
 
 
 #com/fasterxml/jackson/core/base/ParserBase/getLongValue:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.base.ParserBase.getLongValue calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.base.ParserBase.getLongValue calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/fasterxml/jackson/core/base/ParserBase/getBigIntegerValue:
 ## nodes: 7
@@ -6360,11 +6360,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.base.ParserBase.
 ## DUAs: 76
 ## Subsumed DUAs: 51
 ## Node DUA coverage: 67.10526315789474
-@@ com.fasterxml.jackson.core.base.ParserBase._parseNumericValue,23,33,76,51,67.10526315789474,0,1
+@@ com.fasterxml.jackson.core.base.ParserBase._parseNumericValue,23,33,76,51,67.10526315789474,0,0
 
 
 #com/fasterxml/jackson/core/base/ParserBase/_parseNumericValue:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.base.ParserBase._parseNumericValue calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.base.ParserBase._parseNumericValue calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/fasterxml/jackson/core/base/ParserBase/_parseSlowFloatValue:
 ## nodes: 5
@@ -6516,11 +6516,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.base.GeneratorBa
 ## DUAs: 11
 ## Subsumed DUAs: 9
 ## Node DUA coverage: 81.81818181818183
-@@ com.fasterxml.jackson.core.base.GeneratorBase.disable,6,7,11,9,81.81818181818183,0,1
+@@ com.fasterxml.jackson.core.base.GeneratorBase.disable,6,7,11,9,81.81818181818183,0,0
 
 
 #com/fasterxml/jackson/core/base/GeneratorBase/disable:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.base.GeneratorBase.disable calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.base.GeneratorBase.disable calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/fasterxml/jackson/core/base/GeneratorBase/isEnabled:
 ## nodes: 5
@@ -6576,11 +6576,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.base.GeneratorBa
 ## DUAs: 71
 ## Subsumed DUAs: 70
 ## Node DUA coverage: 98.59154929577466
-@@ com.fasterxml.jackson.core.base.GeneratorBase.copyCurrentEvent,26,43,71,70,98.59154929577466,0,0
+@@ com.fasterxml.jackson.core.base.GeneratorBase.copyCurrentEvent,26,43,71,70,98.59154929577466,0,1
 
 
 #com/fasterxml/jackson/core/base/GeneratorBase/copyCurrentEvent:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.base.GeneratorBase.copyCurrentEvent calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.base.GeneratorBase.copyCurrentEvent calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #com/fasterxml/jackson/core/base/GeneratorBase/copyCurrentStructure:
 ## nodes: 14
@@ -6600,11 +6600,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.base.GeneratorBa
 ## DUAs: 63
 ## Subsumed DUAs: 62
 ## Node DUA coverage: 98.4126984126984
-@@ com.fasterxml.jackson.core.base.GeneratorBase._writeSimpleObject,34,49,63,62,98.4126984126984,0,1
+@@ com.fasterxml.jackson.core.base.GeneratorBase._writeSimpleObject,34,49,63,62,98.4126984126984,0,0
 
 
 #com/fasterxml/jackson/core/base/GeneratorBase/_writeSimpleObject:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.base.GeneratorBase._writeSimpleObject calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.base.GeneratorBase._writeSimpleObject calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/fasterxml/jackson/core/base/ParserMinimalBase/hasCurrentToken:
 ## nodes: 5
@@ -6684,11 +6684,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.base.ParserMinim
 ## DUAs: 35
 ## Subsumed DUAs: 29
 ## Node DUA coverage: 82.85714285714286
-@@ com.fasterxml.jackson.core.base.ParserMinimalBase.getValueAsLong,12,19,35,29,82.85714285714286,0,0
+@@ com.fasterxml.jackson.core.base.ParserMinimalBase.getValueAsLong,12,19,35,29,82.85714285714286,0,1
 
 
 #com/fasterxml/jackson/core/base/ParserMinimalBase/getValueAsLong:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.base.ParserMinimalBase.getValueAsLong calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.base.ParserMinimalBase.getValueAsLong calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #com/fasterxml/jackson/core/base/ParserMinimalBase/getValueAsDouble:
 ## nodes: 12
@@ -6696,11 +6696,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.base.ParserMinim
 ## DUAs: 35
 ## Subsumed DUAs: 29
 ## Node DUA coverage: 82.85714285714286
-@@ com.fasterxml.jackson.core.base.ParserMinimalBase.getValueAsDouble,12,19,35,29,82.85714285714286,0,0
+@@ com.fasterxml.jackson.core.base.ParserMinimalBase.getValueAsDouble,12,19,35,29,82.85714285714286,0,1
 
 
 #com/fasterxml/jackson/core/base/ParserMinimalBase/getValueAsDouble:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.base.ParserMinimalBase.getValueAsDouble calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.base.ParserMinimalBase.getValueAsDouble calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #com/fasterxml/jackson/core/base/ParserMinimalBase/getValueAsString:
 ## nodes: 7
@@ -6732,11 +6732,11 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.base.ParserMinim
 ## DUAs: 7
 ## Subsumed DUAs: 4
 ## Node DUA coverage: 57.14285714285714
-@@ com.fasterxml.jackson.core.base.ParserMinimalBase._reportUnexpectedChar,4,4,7,4,57.14285714285714,0,0
+@@ com.fasterxml.jackson.core.base.ParserMinimalBase._reportUnexpectedChar,4,4,7,4,57.14285714285714,0,1
 
 
 #com/fasterxml/jackson/core/base/ParserMinimalBase/_reportUnexpectedChar:
-Local DUA-Node subsumption of method com.fasterxml.jackson.core.base.ParserMinimalBase._reportUnexpectedChar calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Node subsumption of method com.fasterxml.jackson.core.base.ParserMinimalBase._reportUnexpectedChar calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #com/fasterxml/jackson/core/base/ParserMinimalBase/_throwUnquotedSpace:
 ## nodes: 5
@@ -6774,4 +6774,4 @@ Local DUA-Node subsumption of method com.fasterxml.jackson.core.base.ParserMinim
 #com/fasterxml/jackson/core/base/ParserMinimalBase/_getCharDesc:
 Local DUA-Node subsumption of method com.fasterxml.jackson.core.base.ParserMinimalBase._getCharDesc calculated in 0 minutes, 0 seconds, and 0 milliseconds
 563 methods had the node subsumption relationship calculated in 0 minutes and 1 seconds
-Local DUA-Node subsumption time (ms):1671
+Local DUA-Node subsumption time (ms):1785

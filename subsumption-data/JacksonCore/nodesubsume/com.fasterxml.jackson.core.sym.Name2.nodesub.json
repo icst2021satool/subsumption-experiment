@@ -1,0 +1,25 @@
+{
+"Class" : "com.fasterxml.jackson.core.sym.Name2", 
+"Methods" : [{ "Name" : "equals" ,
+"Nodes" : 6,
+"0" : [ ],
+"3" : [ 0, 4, 8],
+"1" : [ ],
+"4" : [ 0, 2, 4, 6, 8, 10],
+"2" : [ ],
+"5" : [ ],
+"CoveredDUAsByNodes" : 6,
+"Duas" : 12
+},{ "Name" : "equals" ,
+"Nodes" : 7,
+"0" : [ ],
+"3" : [ 8],
+"4" : [ 0, 4, 8, 10],
+"1" : [ ],
+"5" : [ 0, 2, 4, 6, 8, 10, 12],
+"2" : [ ],
+"6" : [ ],
+"CoveredDUAsByNodes" : 7,
+"Duas" : 14
+}]
+}

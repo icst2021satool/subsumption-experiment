@@ -1,0 +1,52 @@
+{
+"Class" : "com.fasterxml.jackson.core.io.IOContext", 
+"Methods" : [{ "Name" : "releaseReadIOBuffer" ,
+"Edges" : 4,
+"0" : [ 0,2 ],
+"1" : [ 0,1 ],
+"2" : [ 1,3 ],
+"3" : [ 2,1 ]
+},{ "Name" : "releaseWriteEncodingBuffer" ,
+"Edges" : 4,
+"0" : [ 2,1 ],
+"1" : [ 0,2 ],
+"2" : [ 0,1 ],
+"3" : [ 1,3 ]
+},{ "Name" : "releaseBase64Buffer" ,
+"Edges" : 4,
+"0" : [ 1,3 ],
+"1" : [ 2,1 ],
+"2" : [ 0,2 ],
+"3" : [ 0,1 ]
+},{ "Name" : "releaseTokenBuffer" ,
+"Edges" : 4,
+"0" : [ 0,2 ],
+"1" : [ 0,1 ],
+"2" : [ 2,1 ],
+"3" : [ 1,3 ]
+},{ "Name" : "releaseConcatBuffer" ,
+"Edges" : 4,
+"0" : [ 1,3 ],
+"1" : [ 0,2 ],
+"2" : [ 0,1 ],
+"3" : [ 2,1 ]
+},{ "Name" : "releaseNameCopyBuffer" ,
+"Edges" : 4,
+"0" : [ 1,3 ],
+"1" : [ 2,1 ],
+"2" : [ 0,2 ],
+"3" : [ 0,1 ]
+},{ "Name" : "_verifyAlloc" ,
+"Edges" : 4,
+"0" : [ 0,2 ],
+"1" : [ 0,1 ],
+"2" : [ 2,3 ],
+"3" : [ 1,3 ]
+},{ "Name" : "_verifyRelease" ,
+"Edges" : 4,
+"0" : [ 2,3 ],
+"1" : [ 0,2 ],
+"2" : [ 0,1 ],
+"3" : [ 1,3 ]
+}]
+}

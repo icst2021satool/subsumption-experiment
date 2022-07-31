@@ -1,0 +1,32 @@
+{
+"Class" : "com.fasterxml.jackson.core.format.DataFormatMatcher", 
+"Methods" : [{ "Name" : "hasMatch" ,
+"Nodes" : 5,
+"0" : [ 64 ]
+"1" : [ 64 ]
+"2" : [ 64 ]
+"3" : [ 64 ]
+"4" : [  ]
+},{ "Name" : "getMatchStrength" ,
+"Nodes" : 5,
+"0" : [ 71 ]
+"1" : [ 71 ]
+"2" : [ 71 ]
+"3" : [ 71 ]
+"4" : [  ]
+},{ "Name" : "createParserWithMatch" ,
+"Nodes" : 6,
+"0" : [ 102 ]
+"1" : [ 105 ]
+"2" : [ 108 ]
+"3" : [ 106 ]
+"4" : [ 103 ]
+"5" : [  ]
+},{ "Name" : "getDataStream" ,
+"Nodes" : 4,
+"0" : [ 119 ]
+"1" : [ 122 ]
+"2" : [ 120 ]
+"3" : [  ]
+}]
+}

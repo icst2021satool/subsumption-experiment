@@ -1,0 +1,15 @@
+{
+"Class" : "com.fasterxml.jackson.core.JsonParser$Feature", 
+"Methods" : [{ "Name" : "collectDefaults" ,
+"Nodes" : 7,
+"0" : [ ],
+"1" : [ ],
+"2" : [ 4],
+"6" : [ 4],
+"3" : [ 2, 3, 5, 7],
+"5" : [ 1, 2, 3, 5, 7, 9, 11],
+"4" : [ 2, 3, 5, 7, 8],
+"CoveredDUAsByNodes" : 9,
+"Duas" : 18
+}]
+}

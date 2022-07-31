@@ -1,0 +1,24 @@
+{
+"Class" : "com.fasterxml.jackson.core.json.JsonGeneratorImpl", 
+"Methods" : [{ "Name" : "<init>" ,
+"Nodes" : 4,
+"0" : [ 96,97,84,53,95 ]
+"1" : [ 100 ]
+"2" : [ 98 ]
+"3" : [  ]
+},{ "Name" : "setHighestNonEscapedChar" ,
+"Nodes" : 5,
+"0" : [ 110 ]
+"1" : [ 110 ]
+"2" : [ 110,111 ]
+"3" : [ 110 ]
+"4" : [  ]
+},{ "Name" : "setCharacterEscapes" ,
+"Nodes" : 5,
+"0" : [ 122,123 ]
+"1" : [ 126 ]
+"2" : [ 128 ]
+"3" : [ 124 ]
+"4" : [  ]
+}]
+}
