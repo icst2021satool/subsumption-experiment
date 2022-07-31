@@ -1,0 +1,21 @@
+{
+"Class" : "elki.outlier.spatial.neighborhood.PrecomputedKNearestNeighborNeighborhood$Factory", 
+"Methods" : [{ "Name" : "instantiate" ,
+"Duas" : 16,
+"0" :  "(99,102, this)",
+"1" :  "(99,102, this.k)",
+"2" :  "(99,102, knnQuery)",
+"3" :  "(100,109, s)",
+"4" :  "(100,107, s)",
+"5" :  "(101,(101,102), iditer)",
+"6" :  "(101,(101,109), iditer)",
+"7" :  "(101,102, iditer)",
+"8" :  "(101,107, iditer)",
+"9" :  "(101,101, iditer)",
+"10" :  "(103,107, neighbours)",
+"11" :  "(103,105, neighbours)",
+"12" :  "(104,(104,105), neighbor)",
+"13" :  "(104,(104,107), neighbor)",
+"14" :  "(104,105, neighbor)",
+"15" :  "(104,104, neighbor)"}]
+}

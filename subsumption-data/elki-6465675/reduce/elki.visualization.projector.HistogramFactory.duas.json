@@ -1,0 +1,22 @@
+{
+"Class" : "elki.visualization.projector.HistogramFactory", 
+"Methods" : [{ "Name" : "lambda$processNewResult$0" ,
+"Duas" : 17,
+"0" :  "(63,78, this)",
+"1" :  "(63,79, context)",
+"2" :  "(63,(63,64), rel)",
+"3" :  "(63,(63,67), rel)",
+"4" :  "(63,67, rel)",
+"5" :  "(63,76, rel)",
+"6" :  "(63,(63,64), NUMBER_VECTOR_FIELD)",
+"7" :  "(63,(63,67), NUMBER_VECTOR_FIELD)",
+"8" :  "(63,(70,71), SPATIAL_OBJECT)",
+"9" :  "(63,(70,67), SPATIAL_OBJECT)",
+"10" :  "(63,78, this.maxdim)",
+"11" :  "(67,(67,69), it2)",
+"12" :  "(67,(67,76), it2)",
+"13" :  "(67,69, it2)",
+"14" :  "(67,67, it2)",
+"15" :  "(69,(70,71), rel2)",
+"16" :  "(69,(70,67), rel2)"}]
+}

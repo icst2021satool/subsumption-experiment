@@ -1,0 +1,9 @@
+{
+"Class" : "elki.index.tree.metrical.vptree.VPTree$Node", 
+"Methods" : [{ "Name" : "<init>" ,
+"Duas" : 4,
+"0" :  "(370,(374,374), vp)",
+"1" :  "(370,(374,375), vp)",
+"2" :  "(370,(374,374), $assertionsDisabled)",
+"3" :  "(370,(374,375), $assertionsDisabled)"}]
+}

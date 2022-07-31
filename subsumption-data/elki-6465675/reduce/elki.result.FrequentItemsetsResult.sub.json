@@ -1,0 +1,8 @@
+{
+"Class" : "elki.result.FrequentItemsetsResult", 
+"Methods" : [{ "Name" : "writeToText" ,
+"Duas" : "6" ,
+"Subsumers" : 1,
+"0" : [ 4, 5, 3, 1, 2, 0], "S0" : [0, 1, 2, 3, 4, 5 ]
+}]
+}

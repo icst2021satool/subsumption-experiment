@@ -1,0 +1,7 @@
+{
+"Class" : "elki.evaluation.clustering.extractor.HDBSCANHierarchyExtractionEvaluator", 
+"Methods" : [{ "Name" : "processNewResult" ,
+"Duas" : 2,
+"0" :  "(67,69, this)",
+"1" :  "(67,69, this.inner)"}]
+}

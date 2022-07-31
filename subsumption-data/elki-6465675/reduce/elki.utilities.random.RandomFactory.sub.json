@@ -1,0 +1,14 @@
+{
+"Class" : "elki.utilities.random.RandomFactory", 
+"Methods" : [{ "Name" : "getGlobalSeed" ,
+"Duas" : "2" ,
+"Subsumers" : 2,
+"0" : [ 0], "S0" : [0 ],
+"1" : [ 1], "S1" : [1 ]
+},{ "Name" : "get" ,
+"Duas" : "4" ,
+"Subsumers" : 2,
+"0" : [ 0], "S0" : [0, 3 ],
+"1" : [ 2, 1], "S1" : [1, 2, 3 ]
+}]
+}

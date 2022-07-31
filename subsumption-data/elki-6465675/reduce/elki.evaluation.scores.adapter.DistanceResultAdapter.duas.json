@@ -1,0 +1,11 @@
+{
+"Class" : "elki.evaluation.scores.adapter.DistanceResultAdapter", 
+"Methods" : [{ "Name" : "tiedToPrevious" ,
+"Duas" : 6,
+"0" :  "(86,(86,86), this)",
+"1" :  "(86,(86,86), this)",
+"2" :  "(86,(86,86), this.iter)",
+"3" :  "(86,(86,86), this.iter)",
+"4" :  "(86,(86,86), this.prevDist)",
+"5" :  "(86,(86,86), this.prevDist)"}]
+}

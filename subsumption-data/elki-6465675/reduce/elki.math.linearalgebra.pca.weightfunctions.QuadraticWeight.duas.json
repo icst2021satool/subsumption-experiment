@@ -1,0 +1,9 @@
+{
+"Class" : "elki.math.linearalgebra.pca.weightfunctions.QuadraticWeight", 
+"Methods" : [{ "Name" : "getWeight" ,
+"Duas" : 4,
+"0" :  "(36,39, distance)",
+"1" :  "(36,(36,37), max)",
+"2" :  "(36,(36,39), max)",
+"3" :  "(36,39, max)"}]
+}

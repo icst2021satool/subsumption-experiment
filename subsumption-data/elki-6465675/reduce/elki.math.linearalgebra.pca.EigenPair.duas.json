@@ -1,0 +1,21 @@
+{
+"Class" : "elki.math.linearalgebra.pca.EigenPair", 
+"Methods" : [{ "Name" : "compareTo" ,
+"Duas" : 16,
+"0" :  "(68,(68,69), this)",
+"1" :  "(68,(68,71), this)",
+"2" :  "(68,(71,72), this)",
+"3" :  "(68,(71,74), this)",
+"4" :  "(68,(68,69), o)",
+"5" :  "(68,(68,71), o)",
+"6" :  "(68,(71,72), o)",
+"7" :  "(68,(71,74), o)",
+"8" :  "(68,(68,69), this.eigenvalue)",
+"9" :  "(68,(68,71), this.eigenvalue)",
+"10" :  "(68,(71,72), this.eigenvalue)",
+"11" :  "(68,(71,74), this.eigenvalue)",
+"12" :  "(68,(68,69), o.eigenvalue)",
+"13" :  "(68,(68,71), o.eigenvalue)",
+"14" :  "(68,(71,72), o.eigenvalue)",
+"15" :  "(68,(71,74), o.eigenvalue)"}]
+}

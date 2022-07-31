@@ -1,0 +1,18 @@
+{
+"Class" : "elki.visualization.visualizers.scatterplot.PolygonVisualization", 
+"Methods" : [{ "Name" : "lambda$processNewResult$0" ,
+"Duas" : 13,
+"0" :  "(78,86, this)",
+"1" :  "(78,89, context)",
+"2" :  "(78,90, context)",
+"3" :  "(78,(78,79), rel)",
+"4" :  "(78,(78,81), rel)",
+"5" :  "(78,(81,82), rel)",
+"6" :  "(78,(81,86), rel)",
+"7" :  "(78,86, rel)",
+"8" :  "(78,89, rel)",
+"9" :  "(78,90, p)",
+"10" :  "(78,(78,79), POLYGON_TYPE)",
+"11" :  "(78,(78,81), POLYGON_TYPE)",
+"12" :  "(78,88, ON_DATA)"}]
+}

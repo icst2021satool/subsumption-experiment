@@ -1,0 +1,13 @@
+{
+"Class" : "elki.utilities.HandlerList", 
+"Methods" : [{ "Name" : "getHandler" ,
+"Duas" : 8,
+"0" :  "(64,68, this)",
+"1" :  "(64,(64,65), o)",
+"2" :  "(64,(64,68), o)",
+"3" :  "(64,73, o)",
+"4" :  "(64,68, this.handlers)",
+"5" :  "(68,(69,70), iter)",
+"6" :  "(68,(69,80), iter)",
+"7" :  "(68,70, iter)"}]
+}

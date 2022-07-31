@@ -1,0 +1,13 @@
+{
+"Class" : "elki.itemsetmining.associationrules.interest.Conviction", 
+"Methods" : [{ "Name" : "measure" ,
+"Duas" : 8,
+"0" :  "(53,53, t)",
+"1" :  "(53,(53,53), sX)",
+"2" :  "(53,(53,53), sX)",
+"3" :  "(53,53, sX)",
+"4" :  "(53,53, sY)",
+"5" :  "(53,(53,53), sXY)",
+"6" :  "(53,(53,53), sXY)",
+"7" :  "(53,53, sXY)"}]
+}

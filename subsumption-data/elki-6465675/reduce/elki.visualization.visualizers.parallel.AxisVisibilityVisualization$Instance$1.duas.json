@@ -1,0 +1,18 @@
+{
+"Class" : "elki.visualization.visualizers.parallel.AxisVisibilityVisualization$Instance$1", 
+"Methods" : [{ "Name" : "handleEvent" ,
+"Duas" : 13,
+"0" :  "(248,(248,249), this)",
+"1" :  "(248,(248,252), this)",
+"2" :  "(248,249, this)",
+"3" :  "(248,250, this)",
+"4" :  "(248,(248,249), this.this$1)",
+"5" :  "(248,(248,252), this.this$1)",
+"6" :  "(248,249, this.this$1)",
+"7" :  "(248,250, this.this$1)",
+"8" :  "(248,(248,249), this.proj)",
+"9" :  "(248,(248,252), this.proj)",
+"10" :  "(248,249, this.proj)",
+"11" :  "(248,250, this.proj)",
+"12" :  "(248,249, this.val$axis)"}]
+}

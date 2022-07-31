@@ -1,0 +1,9 @@
+{
+"Class" : "elki.index.tree.metrical.vptree.VPTree$Factory$Par", 
+"Methods" : [{ "Name" : "lambda$configure$0" ,
+"Duas" : 4,
+"0" :  "(961,(962,963), this)",
+"1" :  "(961,(962,965), this)",
+"2" :  "(961,(962,963), this.distance)",
+"3" :  "(961,(962,965), this.distance)"}]
+}

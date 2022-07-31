@@ -1,0 +1,18 @@
+{
+"Class" : "elki.utilities.xml.XMLNodeIterator", 
+"Methods" : [{ "Name" : "hasNext" ,
+"Duas" : 4,
+"0" :  "(55,(55,55), this)",
+"1" :  "(55,(55,55), this)",
+"2" :  "(55,(55,55), this.next)",
+"3" :  "(55,(55,55), this.next)"},{ "Name" : "next" ,
+"Duas" : 8,
+"0" :  "(63,(63,64), this)",
+"1" :  "(63,(63,66), this)",
+"2" :  "(63,66, this)",
+"3" :  "(63,67, this)",
+"4" :  "(63,(63,64), this.next)",
+"5" :  "(63,(63,66), this.next)",
+"6" :  "(63,66, this.next)",
+"7" :  "(63,67, this.next)"}]
+}

@@ -1,0 +1,14 @@
+{
+"Class" : "elki.data.model.CoreObjectsModel", 
+"Methods" : [{ "Name" : "writeToText" ,
+"Duas" : 9,
+"0" :  "(66,69, this)",
+"1" :  "(66,70, this)",
+"2" :  "(66,69, out)",
+"3" :  "(66,70, out)",
+"4" :  "(66,67, out)",
+"5" :  "(66,(66,67), label)",
+"6" :  "(66,(66,69), label)",
+"7" :  "(66,67, label)",
+"8" :  "(66,70, this.core)"}]
+}

@@ -1,0 +1,20 @@
+{
+"Class" : "elki.evaluation.clustering.EvaluateClustering$ScoreResult", 
+"Methods" : [{ "Name" : "<init>" ,
+"Duas" : 15,
+"0" :  "(207,243, this)",
+"1" :  "(207,253, this)",
+"2" :  "(207,259, this)",
+"3" :  "(207,265, this)",
+"4" :  "(207,239, contmat)",
+"5" :  "(207,245, contmat)",
+"6" :  "(207,246, contmat)",
+"7" :  "(207,247, contmat)",
+"8" :  "(207,255, contmat)",
+"9" :  "(207,261, contmat)",
+"10" :  "(207,262, contmat)",
+"11" :  "(221,(233,234), entropy)",
+"12" :  "(221,(233,239), entropy)",
+"13" :  "(221,236, entropy)",
+"14" :  "(231,236, g)"}]
+}

@@ -1,0 +1,19 @@
+{
+"Class" : "elki.visualization.visualizers.scatterplot.TooltipStringVisualization$Instance", 
+"Methods" : [{ "Name" : "makeTooltip" ,
+"Duas" : 14,
+"0" :  "(161,164, this)",
+"1" :  "(161,164, x)",
+"2" :  "(161,164, y)",
+"3" :  "(161,164, dotsize)",
+"4" :  "(161,164, this.svgp)",
+"5" :  "(161,164, this.fontsize)",
+"6" :  "(161,(162,162), data)",
+"7" :  "(161,(162,162), data)",
+"8" :  "(161,162, data)",
+"9" :  "(162,(163,163), label)",
+"10" :  "(162,(163,163), label)",
+"11" :  "(162,163, label)",
+"12" :  "(162,(163,163), label)",
+"13" :  "(162,(163,163), label)"}]
+}

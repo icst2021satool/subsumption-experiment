@@ -1,0 +1,8 @@
+{
+"Class" : "elki.math.statistics.kernelfunctions.TricubeKernelDensityFunction", 
+"Methods" : [{ "Name" : "density" ,
+"Duas" : 3,
+"0" :  "(68,(68,69), delta)",
+"1" :  "(68,(68,71), delta)",
+"2" :  "(68,71, delta)"}]
+}

@@ -1,0 +1,18 @@
+{
+"Class" : "elki.evaluation.clustering.internal.VarianceRatioCriterion$Par", 
+"Methods" : [{ "Name" : "configure" ,
+"Duas" : 9,
+"0" :  "(260,(262,263), this)",
+"1" :  "(260,(262,265), this)",
+"2" :  "(260,263, this)",
+"3" :  "(260,263, config)",
+"4" :  "(260,(262,263), IGNORE_NOISE)",
+"5" :  "(260,(262,265), IGNORE_NOISE)",
+"6" :  "(260,(262,263), this.noiseOption)",
+"7" :  "(260,(262,265), this.noiseOption)",
+"8" :  "(260,263, NO_PENALIZE_ID)"},{ "Name" : "lambda$configure$1" ,
+"Duas" : 3,
+"0" :  "(263,263, this)",
+"1" :  "(263,(263,263), x)",
+"2" :  "(263,(263,263), x)"}]
+}

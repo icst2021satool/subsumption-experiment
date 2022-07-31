@@ -1,0 +1,10 @@
+{
+"Class" : "elki.math.statistics.distribution.estimator.GeneralizedParetoLMMEstimator", 
+"Methods" : [{ "Name" : "estimateFromLMoments" ,
+"Duas" : 5,
+"0" :  "(68,73, xmom)",
+"1" :  "(68,74, xmom)",
+"2" :  "(68,(69,70), t3)",
+"3" :  "(68,(69,72), t3)",
+"4" :  "(68,72, t3)"}]
+}

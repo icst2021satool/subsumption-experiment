@@ -1,0 +1,12 @@
+{
+"Class" : "elki.evaluation.outlier.OutlierPrecisionRecallCurve", 
+"Methods" : [{ "Name" : "processNewResult" ,
+"Duas" : "18" ,
+"Subsumers" : 5,
+"0" : [ 17, 15, 14], "S0" : [0, 1, 4, 5, 7, 14, 15, 17 ],
+"1" : [ 16], "S1" : [0, 1, 4, 5, 7, 16 ],
+"2" : [ 13, 11, 10], "S2" : [0, 1, 4, 6, 7, 8, 9, 10, 11, 13 ],
+"3" : [ 12], "S3" : [0, 1, 4, 6, 7, 8, 9, 12 ],
+"4" : [ 3, 2], "S4" : [2, 3 ]
+}]
+}

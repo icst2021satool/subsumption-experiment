@@ -1,0 +1,13 @@
+{
+"Class" : "elki.database.query.WrappedPrioritySearchDBIDByLookup", 
+"Methods" : [{ "Name" : "wrap" ,
+"Duas" : 8,
+"0" :  "(154,154, relation)",
+"1" :  "(154,154, relation)",
+"2" :  "(154,(154,154), inner)",
+"3" :  "(154,(154,154), inner)",
+"4" :  "(154,(154,154), inner)",
+"5" :  "(154,(154,154), inner)",
+"6" :  "(154,154, inner)",
+"7" :  "(154,154, inner)"}]
+}

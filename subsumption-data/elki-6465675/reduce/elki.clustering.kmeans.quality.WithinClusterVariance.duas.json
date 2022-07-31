@@ -1,0 +1,16 @@
+{
+"Class" : "elki.clustering.kmeans.quality.WithinClusterVariance", 
+"Methods" : [{ "Name" : "quality" ,
+"Duas" : 6,
+"0" :  "(40,42, distance)",
+"1" :  "(40,42, relation)",
+"2" :  "(40,44, variance)",
+"3" :  "(40,42, variance)",
+"4" :  "(42,44, variance)",
+"5" :  "(42,42, variance)"},{ "Name" : "isBetter" ,
+"Duas" : 4,
+"0" :  "(50,(50,50), currentCost)",
+"1" :  "(50,(50,50), currentCost)",
+"2" :  "(50,(50,50), bestCost)",
+"3" :  "(50,(50,50), bestCost)"}]
+}

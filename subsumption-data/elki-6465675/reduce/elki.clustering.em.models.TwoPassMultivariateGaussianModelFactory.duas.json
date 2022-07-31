@@ -1,0 +1,19 @@
+{
+"Class" : "elki.clustering.em.models.TwoPassMultivariateGaussianModelFactory", 
+"Methods" : [{ "Name" : "buildInitialModels" ,
+"Duas" : 14,
+"0" :  "(71,74, relation)",
+"1" :  "(71,75, k)",
+"2" :  "(71,77, k)",
+"3" :  "(71,79, k)",
+"4" :  "(71,(72,72), k)",
+"5" :  "(71,(72,74), k)",
+"6" :  "(71,(72,72), $assertionsDisabled)",
+"7" :  "(71,(72,74), $assertionsDisabled)",
+"8" :  "(71,78, initialMeans)",
+"9" :  "(71,(72,72), initialMeans)",
+"10" :  "(71,(72,74), initialMeans)",
+"11" :  "(74,79, covmat)",
+"12" :  "(77,81, models)",
+"13" :  "(77,79, models)"}]
+}

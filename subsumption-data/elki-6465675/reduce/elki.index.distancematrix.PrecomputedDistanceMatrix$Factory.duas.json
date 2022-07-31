@@ -1,0 +1,11 @@
+{
+"Class" : "elki.index.distancematrix.PrecomputedDistanceMatrix$Factory", 
+"Methods" : [{ "Name" : "instantiate" ,
+"Duas" : 6,
+"0" :  "(485,489, this)",
+"1" :  "(485,489, relation)",
+"2" :  "(485,489, this.distance)",
+"3" :  "(485,(486,487), rids)",
+"4" :  "(485,(486,489), rids)",
+"5" :  "(485,489, rids)"}]
+}

@@ -1,0 +1,14 @@
+{
+"Class" : "elki.math.linearalgebra.pca.filter.LimitEigenPairFilter$Par", 
+"Methods" : [{ "Name" : "configure" ,
+"Duas" : 9,
+"0" :  "(114,(120,121), this)",
+"1" :  "(114,(120,124), this)",
+"2" :  "(114,124, this)",
+"3" :  "(114,124, config)",
+"4" :  "(114,(120,121), this.absolute)",
+"5" :  "(114,(120,124), this.absolute)",
+"6" :  "(114,122, LESS_EQUAL_ONE_DOUBLE)",
+"7" :  "(116,124, deltaP)",
+"8" :  "(116,122, deltaP)"}]
+}

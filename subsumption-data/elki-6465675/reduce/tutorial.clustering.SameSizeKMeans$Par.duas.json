@@ -1,0 +1,13 @@
+{
+"Class" : "tutorial.clustering.SameSizeKMeans$Par", 
+"Methods" : [{ "Name" : "lambda$configure$0" ,
+"Duas" : 8,
+"0" :  "(472,(473,473), this)",
+"1" :  "(472,(473,477), this)",
+"2" :  "(472,(473,475), this)",
+"3" :  "(472,(473,477), this)",
+"4" :  "(472,(473,473), this.distance)",
+"5" :  "(472,(473,477), this.distance)",
+"6" :  "(472,(473,475), this.distance)",
+"7" :  "(472,(473,477), this.distance)"}]
+}

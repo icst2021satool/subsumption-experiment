@@ -1,0 +1,15 @@
+{
+"Class" : "elki.similarity.kernel.RadialBasisFunctionKernel$Par", 
+"Methods" : [{ "Name" : "configure" ,
+"Duas" : 10,
+"0" :  "(93,102, this)",
+"1" :  "(93,97, this)",
+"2" :  "(93,(96,97), config)",
+"3" :  "(93,(96,100), config)",
+"4" :  "(93,102, config)",
+"5" :  "(93,102, GREATER_THAN_ZERO_DOUBLE)",
+"6" :  "(93,100, SIGMA_ID)",
+"7" :  "(95,(96,97), g)",
+"8" :  "(95,(96,100), g)",
+"9" :  "(95,97, g)"}]
+}

@@ -1,0 +1,8 @@
+{
+"Class" : "elki.timeseries.ChangePoints", 
+"Methods" : [{ "Name" : "writeToText" ,
+"Duas" : "4" ,
+"Subsumers" : 1,
+"0" : [ 2, 3, 0, 1], "S0" : [0, 1, 2, 3 ]
+}]
+}

@@ -1,0 +1,16 @@
+{
+"Class" : "elki.clustering.uncertain.CenterOfMassMetaClustering", 
+"Methods" : [{ "Name" : "run" ,
+"Duas" : 11,
+"0" :  "(98,105, this)",
+"1" :  "(98,105, relation)",
+"2" :  "(98,103, relation)",
+"3" :  "(98,105, dim)",
+"4" :  "(99,105, ids)",
+"5" :  "(101,105, store1)",
+"6" :  "(101,103, store1)",
+"7" :  "(102,(102,103), iter)",
+"8" :  "(102,(102,105), iter)",
+"9" :  "(102,103, iter)",
+"10" :  "(102,102, iter)"}]
+}

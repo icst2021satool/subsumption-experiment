@@ -1,0 +1,23 @@
+{
+"Class" : "elki.datasource.FileBasedDatabaseConnection$Par", 
+"Methods" : [{ "Name" : "configure" ,
+"Duas" : 18,
+"0" :  "(109,(112,112), this)",
+"1" :  "(109,(112,115), this)",
+"2" :  "(109,115, this)",
+"3" :  "(109,116, this)",
+"4" :  "(109,(112,112), this)",
+"5" :  "(109,(112,113), this)",
+"6" :  "(109,(112,113), this)",
+"7" :  "(109,(112,115), this)",
+"8" :  "(109,115, config)",
+"9" :  "(109,116, config)",
+"10" :  "(109,(112,112), this.infile)",
+"11" :  "(109,(112,115), this.infile)",
+"12" :  "(109,(112,112), this.infile)",
+"13" :  "(109,(112,113), this.infile)",
+"14" :  "(109,(112,113), this.infile)",
+"15" :  "(109,(112,115), this.infile)",
+"16" :  "(111,115, defaultParser)",
+"17" :  "(113,115, defaultParser)"}]
+}

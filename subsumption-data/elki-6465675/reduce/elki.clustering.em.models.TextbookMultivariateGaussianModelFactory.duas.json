@@ -1,0 +1,19 @@
+{
+"Class" : "elki.clustering.em.models.TextbookMultivariateGaussianModelFactory", 
+"Methods" : [{ "Name" : "buildInitialModels" ,
+"Duas" : 14,
+"0" :  "(75,78, relation)",
+"1" :  "(75,79, k)",
+"2" :  "(75,81, k)",
+"3" :  "(75,83, k)",
+"4" :  "(75,(76,76), k)",
+"5" :  "(75,(76,78), k)",
+"6" :  "(75,(76,76), $assertionsDisabled)",
+"7" :  "(75,(76,78), $assertionsDisabled)",
+"8" :  "(75,82, initialMeans)",
+"9" :  "(75,(76,76), initialMeans)",
+"10" :  "(75,(76,78), initialMeans)",
+"11" :  "(78,83, covmat)",
+"12" :  "(81,85, models)",
+"13" :  "(81,83, models)"}]
+}

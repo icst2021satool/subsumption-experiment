@@ -1,0 +1,15 @@
+{
+"Class" : "elki.itemsetmining.FPGrowthTest", 
+"Methods" : [{ "Name" : "testMissing" ,
+"Duas" : 10,
+"0" :  "(44,56, MINSUPP_ID)",
+"1" :  "(44,64, MINSUPP_ID)",
+"2" :  "(44,72, MINSUPP_ID)",
+"3" :  "(44,80, MINSUPP_ID)",
+"4" :  "(44,80, MINLENGTH_ID)",
+"5" :  "(44,80, MAXLENGTH_ID)",
+"6" :  "(44,56, db)",
+"7" :  "(44,64, db)",
+"8" :  "(44,72, db)",
+"9" :  "(44,80, db)"}]
+}

@@ -1,0 +1,9 @@
+{
+"Class" : "elki.persistent.DefaultPageHeader", 
+"Methods" : [{ "Name" : "readHeader" ,
+"Duas" : 4,
+"0" :  "(75,78, this)",
+"1" :  "(75,(75,76), data)",
+"2" :  "(75,(75,78), data)",
+"3" :  "(75,78, data)"}]
+}

@@ -1,0 +1,23 @@
+{
+"Class" : "elki.database.ids.EmptyDBIDs$EmptyDBIDIterator", 
+"Methods" : [{ "Name" : "advance" ,
+"Duas" : 3,
+"0" :  "(107,108, this)",
+"1" :  "(107,(107,107), $assertionsDisabled)",
+"2" :  "(107,(107,108), $assertionsDisabled)"},{ "Name" : "equals" ,
+"Duas" : 4,
+"0" :  "(118,121, this)",
+"1" :  "(118,(118,119), other)",
+"2" :  "(118,(118,121), other)",
+"3" :  "(118,121, other)"},{ "Name" : "advance" ,
+"Duas" : 5,
+"0" :  "(131,132, this)",
+"1" :  "(131,(131,131), count)",
+"2" :  "(131,(131,132), count)",
+"3" :  "(131,(131,131), $assertionsDisabled)",
+"4" :  "(131,(131,132), $assertionsDisabled)"},{ "Name" : "retract" ,
+"Duas" : 3,
+"0" :  "(137,138, this)",
+"1" :  "(137,(137,137), $assertionsDisabled)",
+"2" :  "(137,(137,138), $assertionsDisabled)"}]
+}

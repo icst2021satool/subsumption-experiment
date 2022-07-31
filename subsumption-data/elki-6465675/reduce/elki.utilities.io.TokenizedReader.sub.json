@@ -1,0 +1,22 @@
+{
+"Class" : "elki.utilities.io.TokenizedReader", 
+"Methods" : [{ "Name" : "<init>" ,
+"Duas" : "4" ,
+"Subsumers" : 2,
+"0" : [ 1], "S0" : [0, 1, 3 ],
+"1" : [ 2], "S1" : [0, 2, 3 ]
+},{ "Name" : "nextLineExceptComments" ,
+"Duas" : "15" ,
+"Subsumers" : 0 
+},{ "Name" : "nextLine" ,
+"Duas" : "5" ,
+"Subsumers" : 2,
+"0" : [ 4, 3, 2, 0], "S0" : [0, 2, 3, 4 ],
+"1" : [ 1], "S1" : [1 ]
+},{ "Name" : "reset" ,
+"Duas" : "8" ,
+"Subsumers" : 2,
+"0" : [ 6, 4, 3, 0], "S0" : [0, 2, 3, 4, 6, 7 ],
+"1" : [ 5, 1], "S1" : [1, 2, 5, 7 ]
+}]
+}

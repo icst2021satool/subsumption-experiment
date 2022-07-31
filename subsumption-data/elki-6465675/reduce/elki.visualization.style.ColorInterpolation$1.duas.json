@@ -1,0 +1,18 @@
+{
+"Class" : "elki.visualization.style.ColorInterpolation$1", 
+"Methods" : [{ "Name" : "interpolate" ,
+"Duas" : 13,
+"0" :  "(40,41, color)",
+"1" :  "(40,43, color)",
+"2" :  "(40,41, neutral)",
+"3" :  "(40,43, neutral)",
+"4" :  "(40,(40,40), intensity)",
+"5" :  "(40,(40,41), intensity)",
+"6" :  "(40,(41,41), intensity)",
+"7" :  "(40,(41,41), intensity)",
+"8" :  "(40,(40,41), intensity)",
+"9" :  "(40,(40,43), intensity)",
+"10" :  "(40,44, intensity)",
+"11" :  "(40,45, intensity)",
+"12" :  "(40,46, intensity)"}]
+}

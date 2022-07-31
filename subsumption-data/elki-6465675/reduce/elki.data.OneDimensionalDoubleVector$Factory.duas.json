@@ -1,0 +1,22 @@
+{
+"Class" : "elki.data.OneDimensionalDoubleVector$Factory", 
+"Methods" : [{ "Name" : "newFeatureVector" ,
+"Duas" : 8,
+"0" :  "(88,89, array)",
+"1" :  "(88,(88,88), array)",
+"2" :  "(88,(88,89), array)",
+"3" :  "(88,89, adapter)",
+"4" :  "(88,(88,88), adapter)",
+"5" :  "(88,(88,89), adapter)",
+"6" :  "(88,(88,88), $assertionsDisabled)",
+"7" :  "(88,(88,89), $assertionsDisabled)"},{ "Name" : "newNumberVector" ,
+"Duas" : 8,
+"0" :  "(94,95, array)",
+"1" :  "(94,(94,94), array)",
+"2" :  "(94,(94,95), array)",
+"3" :  "(94,95, adapter)",
+"4" :  "(94,(94,94), adapter)",
+"5" :  "(94,(94,95), adapter)",
+"6" :  "(94,(94,94), $assertionsDisabled)",
+"7" :  "(94,(94,95), $assertionsDisabled)"}]
+}

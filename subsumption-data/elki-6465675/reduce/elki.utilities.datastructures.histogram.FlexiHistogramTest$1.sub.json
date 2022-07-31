@@ -1,0 +1,10 @@
+{
+"Class" : "elki.utilities.datastructures.histogram.FlexiHistogramTest$1", 
+"Methods" : [{ "Name" : "downsample" ,
+"Duas" : "18" ,
+"Subsumers" : 3,
+"0" : [ 13], "S0" : [0, 1, 2, 4, 5, 7, 8, 9, 11, 12, 13, 14, 15, 16, 17 ],
+"1" : [ 10], "S1" : [0, 1, 2, 5, 7, 8, 10, 15 ],
+"2" : [ 6], "S2" : [2, 3, 6 ]
+}]
+}

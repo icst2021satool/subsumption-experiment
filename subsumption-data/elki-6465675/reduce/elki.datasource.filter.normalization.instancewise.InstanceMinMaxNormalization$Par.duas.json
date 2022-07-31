@@ -1,0 +1,14 @@
+{
+"Class" : "elki.datasource.filter.normalization.instancewise.InstanceMinMaxNormalization$Par", 
+"Methods" : [{ "Name" : "configure" ,
+"Duas" : 9,
+"0" :  "(163,(168,169), this)",
+"1" :  "(163,(168,171), this)",
+"2" :  "(163,169, config)",
+"3" :  "(163,(168,169), this.min)",
+"4" :  "(163,(168,171), this.min)",
+"5" :  "(163,(168,169), this.max)",
+"6" :  "(163,(168,171), this.max)",
+"7" :  "(163,169, minP)",
+"8" :  "(165,169, maxP)"}]
+}

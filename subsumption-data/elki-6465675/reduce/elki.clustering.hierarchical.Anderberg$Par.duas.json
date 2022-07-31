@@ -1,0 +1,16 @@
+{
+"Class" : "elki.clustering.hierarchical.Anderberg$Par", 
+"Methods" : [{ "Name" : "configure" ,
+"Duas" : 11,
+"0" :  "(363,(366,366), this)",
+"1" :  "(363,(366,366), this)",
+"2" :  "(363,369, this)",
+"3" :  "(363,(366,366), this)",
+"4" :  "(363,(366,366), this)",
+"5" :  "(363,369, config)",
+"6" :  "(363,(366,366), this.linkage)",
+"7" :  "(363,(366,366), this.linkage)",
+"8" :  "(363,(366,366), this.linkage)",
+"9" :  "(363,(366,366), this.linkage)",
+"10" :  "(363,368, DISTANCE_FUNCTION_ID)"}]
+}

@@ -1,0 +1,15 @@
+{
+"Class" : "elki.visualization.gui.VisualizationPlot$1", 
+"Methods" : [{ "Name" : "run" ,
+"Duas" : 10,
+"0" :  "(53,(53,54), this)",
+"1" :  "(53,(53,57), this)",
+"2" :  "(53,54, this)",
+"3" :  "(53,55, this)",
+"4" :  "(53,(53,54), this.this$0)",
+"5" :  "(53,(53,57), this.this$0)",
+"6" :  "(53,54, this.this$0)",
+"7" :  "(53,55, this.this$0)",
+"8" :  "(53,(53,54), this.pendingRedraw)",
+"9" :  "(53,(53,57), this.pendingRedraw)"}]
+}

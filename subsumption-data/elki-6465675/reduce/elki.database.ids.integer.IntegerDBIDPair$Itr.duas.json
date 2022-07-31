@@ -1,0 +1,17 @@
+{
+"Class" : "elki.database.ids.integer.IntegerDBIDPair$Itr", 
+"Methods" : [{ "Name" : "valid" ,
+"Duas" : 4,
+"0" :  "(204,(204,204), this)",
+"1" :  "(204,(204,204), this)",
+"2" :  "(204,(204,204), this.pos)",
+"3" :  "(204,(204,204), this.pos)"},{ "Name" : "internalGetIndex" ,
+"Duas" : 7,
+"0" :  "(215,(215,215), this)",
+"1" :  "(215,(215,215), this)",
+"2" :  "(215,215, this)",
+"3" :  "(215,(215,215), this.pos)",
+"4" :  "(215,(215,215), this.pos)",
+"5" :  "(215,215, this.second)",
+"6" :  "(215,215, this.first)"}]
+}

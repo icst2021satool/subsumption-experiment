@@ -1,0 +1,10 @@
+{
+"Class" : "elki.index.tree.metrical.covertree.SimplifiedCoverTree$Node", 
+"Methods" : [{ "Name" : "<init>" ,
+"Duas" : "15" ,
+"Subsumers" : 3,
+"0" : [ 12, 7], "S0" : [0, 1, 2, 3, 4, 5, 7, 8, 9, 10, 12, 13 ],
+"1" : [ 14], "S1" : [0, 1, 2, 3, 4, 5, 8, 9, 10, 14 ],
+"2" : [ 11, 6], "S2" : [6, 11, 13 ]
+}]
+}

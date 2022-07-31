@@ -1,0 +1,8 @@
+{
+"Class" : "elki.database.query.knn.PreprocessorSqrtKNNQuery", 
+"Methods" : [{ "Name" : "getKNN" ,
+"Duas" : 3,
+"0" :  "(52,(53,53), knnList)",
+"1" :  "(52,(53,53), knnList)",
+"2" :  "(52,53, knnList)"}]
+}

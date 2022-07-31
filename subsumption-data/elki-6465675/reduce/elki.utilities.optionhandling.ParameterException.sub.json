@@ -1,0 +1,18 @@
+{
+"Class" : "elki.utilities.optionhandling.ParameterException", 
+"Methods" : [{ "Name" : "prefixParameterToMessage" ,
+"Duas" : "4" ,
+"Subsumers" : 2,
+"0" : [ 0], "S0" : [0, 2, 3 ],
+"1" : [ 1], "S1" : [1, 2, 3 ]
+},{ "Name" : "prefixParametersToMessage" ,
+"Duas" : "10" ,
+"Subsumers" : 6,
+"0" : [ 0], "S0" : [0, 2, 3, 6, 9 ],
+"1" : [ 1], "S1" : [1, 2, 3, 6, 9 ],
+"2" : [ 4], "S2" : [2, 3, 4, 6, 9 ],
+"3" : [ 5], "S3" : [2, 3, 5, 6, 9 ],
+"4" : [ 7], "S4" : [2, 3, 6, 7, 9 ],
+"5" : [ 8], "S5" : [2, 3, 6, 8, 9 ]
+}]
+}

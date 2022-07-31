@@ -1,0 +1,15 @@
+{
+"Class" : "elki.utilities.datastructures.iterator.ArrayListIter", 
+"Methods" : [{ "Name" : "valid" ,
+"Duas" : 10,
+"0" :  "(59,(59,59), this)",
+"1" :  "(59,(59,59), this)",
+"2" :  "(59,(59,59), this)",
+"3" :  "(59,(59,59), this)",
+"4" :  "(59,(59,59), this.data)",
+"5" :  "(59,(59,59), this.data)",
+"6" :  "(59,(59,59), this.pos)",
+"7" :  "(59,(59,59), this.pos)",
+"8" :  "(59,(59,59), this.pos)",
+"9" :  "(59,(59,59), this.pos)"}]
+}

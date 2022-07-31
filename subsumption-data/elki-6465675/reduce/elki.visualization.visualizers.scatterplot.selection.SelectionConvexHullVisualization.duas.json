@@ -1,0 +1,17 @@
+{
+"Class" : "elki.visualization.visualizers.scatterplot.selection.SelectionConvexHullVisualization", 
+"Methods" : [{ "Name" : "lambda$processNewResult$0" ,
+"Duas" : 12,
+"0" :  "(80,84, this)",
+"1" :  "(80,84, context)",
+"2" :  "(80,87, context)",
+"3" :  "(80,88, context)",
+"4" :  "(80,88, p)",
+"5" :  "(80,(81,82), NUMBER_VECTOR_FIELD)",
+"6" :  "(80,(81,84), NUMBER_VECTOR_FIELD)",
+"7" :  "(80,86, ON_DATA)",
+"8" :  "(80,86, ON_SELECTION)",
+"9" :  "(80,(81,82), rel)",
+"10" :  "(80,(81,84), rel)",
+"11" :  "(80,84, rel)"}]
+}

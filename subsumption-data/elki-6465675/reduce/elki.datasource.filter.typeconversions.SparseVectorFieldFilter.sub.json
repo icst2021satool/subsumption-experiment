@@ -1,0 +1,10 @@
+{
+"Class" : "elki.datasource.filter.typeconversions.SparseVectorFieldFilter", 
+"Methods" : [{ "Name" : "filterSingleObject" ,
+"Duas" : "10" ,
+"Subsumers" : 3,
+"0" : [ 9, 2], "S0" : [0, 2, 3, 4, 5, 7, 9 ],
+"1" : [ 6], "S1" : [0, 3, 4, 6, 7 ],
+"2" : [ 8, 1], "S2" : [1, 5, 8 ]
+}]
+}

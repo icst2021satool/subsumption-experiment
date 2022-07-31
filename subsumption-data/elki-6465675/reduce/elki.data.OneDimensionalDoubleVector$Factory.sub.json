@@ -1,0 +1,16 @@
+{
+"Class" : "elki.data.OneDimensionalDoubleVector$Factory", 
+"Methods" : [{ "Name" : "newFeatureVector" ,
+"Duas" : "8" ,
+"Subsumers" : 3,
+"0" : [ 5, 2], "S0" : [0, 2, 3, 5, 6 ],
+"1" : [ 7], "S1" : [0, 3, 7 ],
+"2" : [ 4, 1], "S2" : [1, 4, 6 ]
+},{ "Name" : "newNumberVector" ,
+"Duas" : "8" ,
+"Subsumers" : 3,
+"0" : [ 5, 2], "S0" : [0, 2, 3, 5, 6 ],
+"1" : [ 7], "S1" : [0, 3, 7 ],
+"2" : [ 4, 1], "S2" : [1, 4, 6 ]
+}]
+}

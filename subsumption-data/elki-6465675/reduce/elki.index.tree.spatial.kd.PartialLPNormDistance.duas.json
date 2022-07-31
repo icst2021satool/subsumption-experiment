@@ -1,0 +1,15 @@
+{
+"Class" : "elki.index.tree.spatial.kd.PartialLPNormDistance", 
+"Methods" : [{ "Name" : "compareRawRegular" ,
+"Duas" : 10,
+"0" :  "(53,(53,53), this)",
+"1" :  "(53,(53,53), this)",
+"2" :  "(53,(53,53), raw)",
+"3" :  "(53,(53,53), raw)",
+"4" :  "(53,(53,53), reg)",
+"5" :  "(53,(53,53), reg)",
+"6" :  "(53,(53,53), reg)",
+"7" :  "(53,(53,53), reg)",
+"8" :  "(53,(53,53), this.dist)",
+"9" :  "(53,(53,53), this.dist)"}]
+}

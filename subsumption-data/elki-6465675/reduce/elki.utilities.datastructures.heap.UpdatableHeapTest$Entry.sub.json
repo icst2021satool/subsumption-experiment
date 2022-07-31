@@ -1,0 +1,10 @@
+{
+"Class" : "elki.utilities.datastructures.heap.UpdatableHeapTest$Entry", 
+"Methods" : [{ "Name" : "equals" ,
+"Duas" : "8" ,
+"Subsumers" : 3,
+"0" : [ 6, 4, 0], "S0" : [0, 2, 4, 6 ],
+"1" : [ 7, 5, 1], "S1" : [1, 2, 5, 7 ],
+"2" : [ 3], "S2" : [3 ]
+}]
+}

@@ -1,0 +1,10 @@
+{
+"Class" : "elki.index.tree.metrical.vptree.VPTree$Node", 
+"Methods" : [{ "Name" : "<init>" ,
+"Duas" : "4" ,
+"Subsumers" : 3,
+"0" : [ 0], "S0" : [0, 2 ],
+"1" : [ 1], "S1" : [1, 2 ],
+"2" : [ 3], "S2" : [3 ]
+}]
+}

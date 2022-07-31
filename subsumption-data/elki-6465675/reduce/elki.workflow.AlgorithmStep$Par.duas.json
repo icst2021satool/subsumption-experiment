@@ -1,0 +1,11 @@
+{
+"Class" : "elki.workflow.AlgorithmStep$Par", 
+"Methods" : [{ "Name" : "make" ,
+"Duas" : 6,
+"0" :  "(165,(165,166), this)",
+"1" :  "(165,(165,168), this)",
+"2" :  "(165,168, this)",
+"3" :  "(165,(165,166), this.time)",
+"4" :  "(165,(165,168), this.time)",
+"5" :  "(165,168, this.algorithms)"}]
+}

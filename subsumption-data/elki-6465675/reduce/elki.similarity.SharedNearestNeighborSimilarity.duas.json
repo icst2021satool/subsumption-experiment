@@ -1,0 +1,23 @@
+{
+"Class" : "elki.similarity.SharedNearestNeighborSimilarity", 
+"Methods" : [{ "Name" : "countSharedNeighbors" ,
+"Duas" : 18,
+"0" :  "(62,80, intersection)",
+"1" :  "(62,68, intersection)",
+"2" :  "(63,(65,65), iter1)",
+"3" :  "(63,(65,80), iter1)",
+"4" :  "(63,66, iter1)",
+"5" :  "(63,73, iter1)",
+"6" :  "(63,69, iter1)",
+"7" :  "(64,(65,66), iter2)",
+"8" :  "(64,(65,80), iter2)",
+"9" :  "(64,66, iter2)",
+"10" :  "(64,77, iter2)",
+"11" :  "(64,70, iter2)",
+"12" :  "(66,(67,68), comp)",
+"13" :  "(66,(67,72), comp)",
+"14" :  "(66,(72,73), comp)",
+"15" :  "(66,(72,77), comp)",
+"16" :  "(68,80, intersection)",
+"17" :  "(68,68, intersection)"}]
+}

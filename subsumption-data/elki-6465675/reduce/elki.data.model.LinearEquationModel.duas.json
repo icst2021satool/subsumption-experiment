@@ -1,0 +1,14 @@
+{
+"Class" : "elki.data.model.LinearEquationModel", 
+"Methods" : [{ "Name" : "writeToText" ,
+"Duas" : 9,
+"0" :  "(70,73, this)",
+"1" :  "(70,74, this)",
+"2" :  "(70,73, out)",
+"3" :  "(70,74, out)",
+"4" :  "(70,71, out)",
+"5" :  "(70,(70,71), label)",
+"6" :  "(70,(70,73), label)",
+"7" :  "(70,71, label)",
+"8" :  "(70,74, this.les)"}]
+}

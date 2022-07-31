@@ -1,0 +1,20 @@
+{
+"Class" : "elki.clustering.hierarchical.Anderberg", 
+"Methods" : [{ "Name" : "run" ,
+"Duas" : 15,
+"0" :  "(99,(99,100), this)",
+"1" :  "(99,(99,102), this)",
+"2" :  "(99,103, this)",
+"3" :  "(99,104, this)",
+"4" :  "(99,105, this)",
+"5" :  "(99,105, this)",
+"6" :  "(99,102, relation)",
+"7" :  "(99,103, relation)",
+"8" :  "(99,(99,100), this.linkage)",
+"9" :  "(99,(99,102), this.linkage)",
+"10" :  "(99,104, this.linkage)",
+"11" :  "(99,105, this.linkage)",
+"12" :  "(99,100, LOG)",
+"13" :  "(99,103, this.distance)",
+"14" :  "(99,105, this.distance)"}]
+}

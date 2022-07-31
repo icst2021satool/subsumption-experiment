@@ -1,0 +1,19 @@
+{
+"Class" : "elki.data.uncertain.uncertainifier.UnweightedDiscreteUncertainifier", 
+"Methods" : [{ "Name" : "newFeatureVector" ,
+"Duas" : 14,
+"0" :  "(57,61, rand)",
+"1" :  "(57,61, uo)",
+"2" :  "(58,(60,61), distributionSize)",
+"3" :  "(58,(60,63), distributionSize)",
+"4" :  "(59,63, samples)",
+"5" :  "(59,61, samples)",
+"6" :  "(60,(60,61), i)",
+"7" :  "(60,(60,63), i)",
+"8" :  "(60,61, i)",
+"9" :  "(60,60, i)",
+"10" :  "(60,(60,61), i)",
+"11" :  "(60,(60,63), i)",
+"12" :  "(60,61, i)",
+"13" :  "(60,60, i)"}]
+}

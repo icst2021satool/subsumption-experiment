@@ -1,0 +1,9 @@
+{
+"Class" : "elki.visualization.gui.overview.OverviewPlot$1", 
+"Methods" : [{ "Name" : "run" ,
+"Duas" : "8" ,
+"Subsumers" : 2,
+"0" : [ 6, 5, 3, 2, 0], "S0" : [0, 2, 3, 5, 6 ],
+"1" : [ 7, 4, 1], "S1" : [1, 4, 7 ]
+}]
+}

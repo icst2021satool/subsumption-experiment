@@ -1,0 +1,8 @@
+{
+"Class" : "elki.math.statistics.kernelfunctions.EpanechnikovKernelDensityFunction", 
+"Methods" : [{ "Name" : "density" ,
+"Duas" : 3,
+"0" :  "(69,(69,69), delta)",
+"1" :  "(69,(69,69), delta)",
+"2" :  "(69,69, delta)"}]
+}

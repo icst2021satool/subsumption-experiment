@@ -1,0 +1,11 @@
+{
+"Class" : "elki.evaluation.index.IndexStatistics", 
+"Methods" : [{ "Name" : "processNewResult" ,
+"Duas" : "9" ,
+"Subsumers" : 4,
+"0" : [ 2], "S0" : [0, 1, 2, 3, 6, 7 ],
+"1" : [ 8], "S1" : [0, 1, 3, 6, 7, 8 ],
+"2" : [ 5], "S2" : [3, 5 ],
+"3" : [ 4], "S3" : [4 ]
+}]
+}

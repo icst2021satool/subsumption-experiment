@@ -1,0 +1,10 @@
+{
+"Class" : "elki.math.linearalgebra.pca.weightfunctions.QuadraticStddevWeight", 
+"Methods" : [{ "Name" : "getWeight" ,
+"Duas" : "7" ,
+"Subsumers" : 3,
+"0" : [ 4], "S0" : [0, 2, 3, 4, 6 ],
+"1" : [ 5], "S1" : [0, 2, 3, 5, 6 ],
+"2" : [ 1], "S2" : [1 ]
+}]
+}

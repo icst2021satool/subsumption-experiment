@@ -1,0 +1,10 @@
+{
+"Class" : "elki.utilities.scaling.outlier.OutlierLinearScaling$Par", 
+"Methods" : [{ "Name" : "configure" ,
+"Duas" : "14" ,
+"Subsumers" : 3,
+"0" : [ 12, 10, 7, 5, 3], "S0" : [0, 2, 3, 5, 6, 7, 8, 10, 12, 13 ],
+"1" : [ 11, 4], "S1" : [0, 2, 4, 6, 8, 11, 13 ],
+"2" : [ 9, 1], "S2" : [1, 2, 6, 9, 13 ]
+}]
+}

@@ -1,0 +1,9 @@
+{
+"Class" : "elki.clustering.kmeans.initialization.SampleKMeans$Par", 
+"Methods" : [{ "Name" : "configure" ,
+"Duas" : "13" ,
+"Subsumers" : 2,
+"0" : [ 12, 10, 8, 7, 5, 6, 2, 1], "S0" : [0, 1, 2, 4, 5, 6, 7, 8, 9, 10, 12 ],
+"1" : [ 11, 3], "S1" : [0, 3, 4, 9, 11 ]
+}]
+}

@@ -1,0 +1,15 @@
+{
+"Class" : "elki.clustering.hierarchical.AbstractHDBSCAN$HDBSCANAdapter", 
+"Methods" : [{ "Name" : "size" ,
+"Duas" : 10,
+"0" :  "(165,166, this)",
+"1" :  "(165,(165,165), this)",
+"2" :  "(165,(165,166), this)",
+"3" :  "(165,(165,165), data)",
+"4" :  "(165,(165,166), data)",
+"5" :  "(165,(165,165), $assertionsDisabled)",
+"6" :  "(165,(165,166), $assertionsDisabled)",
+"7" :  "(165,166, this.ids)",
+"8" :  "(165,(165,165), this.ids)",
+"9" :  "(165,(165,166), this.ids)"}]
+}

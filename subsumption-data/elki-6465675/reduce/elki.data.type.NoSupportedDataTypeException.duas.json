@@ -1,0 +1,14 @@
+{
+"Class" : "elki.data.type.NoSupportedDataTypeException", 
+"Methods" : [{ "Name" : "getMessage" ,
+"Duas" : 9,
+"0" :  "(68,(69,70), this)",
+"1" :  "(68,(69,75), this)",
+"2" :  "(68,71, this)",
+"3" :  "(68,(69,70), this.types)",
+"4" :  "(68,(69,75), this.types)",
+"5" :  "(68,71, this.types)",
+"6" :  "(68,75, buf)",
+"7" :  "(68,70, buf)",
+"8" :  "(68,72, buf)"}]
+}

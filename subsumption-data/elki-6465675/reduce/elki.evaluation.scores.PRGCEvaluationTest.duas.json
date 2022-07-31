@@ -1,0 +1,11 @@
+{
+"Class" : "elki.evaluation.scores.PRGCEvaluationTest", 
+"Methods" : [{ "Name" : "testPRGCurve" ,
+"Duas" : 6,
+"0" :  "(42,67, positive)",
+"1" :  "(49,67, distances)",
+"2" :  "(63,(65,65), curve)",
+"3" :  "(63,(65,65), curve)",
+"4" :  "(63,66, curve)",
+"5" :  "(63,69, curve)"}]
+}

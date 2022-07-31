@@ -1,0 +1,23 @@
+{
+"Class" : "elki.evaluation.outlier.OutlierPrecisionRecallGainCurve", 
+"Methods" : [{ "Name" : "processNewResult" ,
+"Duas" : 18,
+"0" :  "(94,100, newResult)",
+"1" :  "(94,101, newResult)",
+"2" :  "(94,97, LOG)",
+"3" :  "(95,(96,97), positiveIDs)",
+"4" :  "(95,(96,100), positiveIDs)",
+"5" :  "(95,116, positiveIDs)",
+"6" :  "(95,104, positiveIDs)",
+"7" :  "(101,114, ordResults)",
+"8" :  "(101,112, ordResults)",
+"9" :  "(103,112, o)",
+"10" :  "(104,109, curve)",
+"11" :  "(107,(108,109), g)",
+"12" :  "(107,(108,112), g)",
+"13" :  "(107,109, g)",
+"14" :  "(116,121, curve)",
+"15" :  "(119,(120,121), g)",
+"16" :  "(119,(120,123), g)",
+"17" :  "(119,121, g)"}]
+}

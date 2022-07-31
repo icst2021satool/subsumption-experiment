@@ -1,0 +1,9 @@
+{
+"Class" : "elki.visualization.projections.AbstractSimpleProjection", 
+"Methods" : [{ "Name" : "flipSecondEquals" ,
+"Duas" : "4" ,
+"Subsumers" : 2,
+"0" : [ 3, 0], "S0" : [0, 2, 3 ],
+"1" : [ 1], "S1" : [1, 2 ]
+}]
+}

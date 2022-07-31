@@ -1,0 +1,14 @@
+{
+"Class" : "elki.utilities.io.ByteBufferInputStream", 
+"Methods" : [{ "Name" : "read" ,
+"Duas" : "6" ,
+"Subsumers" : 2,
+"0" : [ 3, 0], "S0" : [0, 3 ],
+"1" : [ 5, 4, 2, 1], "S1" : [1, 2, 4, 5 ]
+},{ "Name" : "read" ,
+"Duas" : "3" ,
+"Subsumers" : 2,
+"0" : [ 0], "S0" : [0, 2 ],
+"1" : [ 1], "S1" : [1, 2 ]
+}]
+}

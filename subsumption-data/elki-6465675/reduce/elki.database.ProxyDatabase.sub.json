@@ -1,0 +1,13 @@
+{
+"Class" : "elki.database.ProxyDatabase", 
+"Methods" : [{ "Name" : "<init>" ,
+"Duas" : "4" ,
+"Subsumers" : 1,
+"0" : [ 3, 2, 0, 1], "S0" : [0, 1, 2, 3 ]
+},{ "Name" : "setDBIDs" ,
+"Duas" : "5" ,
+"Subsumers" : 2,
+"0" : [ 4, 2, 1, 0], "S0" : [0, 1, 2, 4 ],
+"1" : [ 3], "S1" : [3 ]
+}]
+}

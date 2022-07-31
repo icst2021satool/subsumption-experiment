@@ -1,0 +1,23 @@
+{
+"Class" : "elki.clustering.uncertain.RepresentativeUncertainClustering$Par", 
+"Methods" : [{ "Name" : "lambda$configure$2" ,
+"Duas" : 9,
+"0" :  "(444,446, config)",
+"1" :  "(444,446, palgorithm)",
+"2" :  "(444,(444,444), samplesAlgorithm)",
+"3" :  "(444,(444,448), samplesAlgorithm)",
+"4" :  "(444,(445,446), samplesAlgorithm)",
+"5" :  "(444,(445,448), samplesAlgorithm)",
+"6" :  "(444,446, samplesAlgorithm)",
+"7" :  "(444,(445,446), NUMBER_VECTOR_FIELD)",
+"8" :  "(444,(445,448), NUMBER_VECTOR_FIELD)"},{ "Name" : "lambda$configure$1" ,
+"Duas" : 8,
+"0" :  "(437,439, config)",
+"1" :  "(437,439, malgorithm)",
+"2" :  "(437,(437,437), metaAlgorithm)",
+"3" :  "(437,(437,441), metaAlgorithm)",
+"4" :  "(437,(438,439), metaAlgorithm)",
+"5" :  "(437,(438,441), metaAlgorithm)",
+"6" :  "(437,(438,439), TYPE)",
+"7" :  "(437,(438,441), TYPE)"}]
+}

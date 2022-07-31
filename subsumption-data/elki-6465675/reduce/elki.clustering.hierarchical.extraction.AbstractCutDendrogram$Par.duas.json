@@ -1,0 +1,16 @@
+{
+"Class" : "elki.clustering.hierarchical.extraction.AbstractCutDendrogram$Par", 
+"Methods" : [{ "Name" : "configure" ,
+"Duas" : 7,
+"0" :  "(429,(432,433), this)",
+"1" :  "(429,(432,435), this)",
+"2" :  "(429,433, this)",
+"3" :  "(429,433, config)",
+"4" :  "(429,(432,433), this.hierarchical)",
+"5" :  "(429,(432,435), this.hierarchical)",
+"6" :  "(429,433, NOSIMPLIFY_ID)"},{ "Name" : "lambda$configure$2" ,
+"Duas" : 3,
+"0" :  "(433,433, this)",
+"1" :  "(433,(433,433), x)",
+"2" :  "(433,(433,433), x)"}]
+}

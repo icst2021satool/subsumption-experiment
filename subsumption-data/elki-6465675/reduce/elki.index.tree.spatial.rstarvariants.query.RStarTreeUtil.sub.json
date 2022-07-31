@@ -1,0 +1,19 @@
+{
+"Class" : "elki.index.tree.spatial.rstarvariants.query.RStarTreeUtil", 
+"Methods" : [{ "Name" : "getRangeQuery" ,
+"Duas" : "9" ,
+"Subsumers" : 2,
+"0" : [ 8, 7, 5, 2, 0], "S0" : [0, 2, 5, 7, 8 ],
+"1" : [ 6, 4, 3, 1], "S1" : [1, 3, 4, 6 ]
+},{ "Name" : "getKNNQuery" ,
+"Duas" : "9" ,
+"Subsumers" : 2,
+"0" : [ 8, 7, 5, 2, 0], "S0" : [0, 2, 5, 7, 8 ],
+"1" : [ 6, 4, 3, 1], "S1" : [1, 3, 4, 6 ]
+},{ "Name" : "getDistancePrioritySearcher" ,
+"Duas" : "9" ,
+"Subsumers" : 2,
+"0" : [ 8, 7, 5, 2, 0], "S0" : [0, 2, 5, 7, 8 ],
+"1" : [ 6, 4, 3, 1], "S1" : [1, 3, 4, 6 ]
+}]
+}

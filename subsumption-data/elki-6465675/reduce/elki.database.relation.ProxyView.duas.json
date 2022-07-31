@@ -1,0 +1,16 @@
+{
+"Class" : "elki.database.relation.ProxyView", 
+"Methods" : [{ "Name" : "get" ,
+"Duas" : 11,
+"0" :  "(64,65, this)",
+"1" :  "(64,(64,64), this)",
+"2" :  "(64,(64,65), this)",
+"3" :  "(64,65, id)",
+"4" :  "(64,(64,64), id)",
+"5" :  "(64,(64,65), id)",
+"6" :  "(64,(64,64), $assertionsDisabled)",
+"7" :  "(64,(64,65), $assertionsDisabled)",
+"8" :  "(64,(64,64), this.idview)",
+"9" :  "(64,(64,65), this.idview)",
+"10" :  "(64,65, this.inner)"}]
+}

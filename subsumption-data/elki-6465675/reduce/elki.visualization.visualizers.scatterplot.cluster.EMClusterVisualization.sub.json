@@ -1,0 +1,9 @@
+{
+"Class" : "elki.visualization.visualizers.scatterplot.cluster.EMClusterVisualization", 
+"Methods" : [{ "Name" : "lambda$processNewResult$0" ,
+"Duas" : "9" ,
+"Subsumers" : 2,
+"0" : [ 8, 6, 5, 2, 3, 1, 0], "S0" : [0, 1, 2, 3, 5, 6, 8 ],
+"1" : [ 7, 4], "S1" : [4, 7 ]
+}]
+}

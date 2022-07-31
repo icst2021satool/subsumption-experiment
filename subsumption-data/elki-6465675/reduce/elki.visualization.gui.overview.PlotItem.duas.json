@@ -1,0 +1,7 @@
+{
+"Class" : "elki.visualization.gui.overview.PlotItem", 
+"Methods" : [{ "Name" : "<init>" ,
+"Duas" : 2,
+"0" :  "(116,125, this)",
+"1" :  "(123,125, this.subitems)"}]
+}

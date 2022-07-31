@@ -1,0 +1,19 @@
+{
+"Class" : "elki.data.type.TypeInformationSerializer$VectorTypeSerializer", 
+"Methods" : [{ "Name" : "fromByteBuffer" ,
+"Duas" : "8" ,
+"Subsumers" : 2,
+"0" : [ 5], "S0" : [0, 1, 2, 3, 4, 5, 7 ],
+"1" : [ 6], "S1" : [0, 1, 2, 3, 4, 6, 7 ]
+},{ "Name" : "toByteBuffer" ,
+"Duas" : "14" ,
+"Subsumers" : 2,
+"0" : [ 10, 0], "S0" : [0, 10 ],
+"1" : [ 12, 13, 11, 6, 7, 8, 9, 1, 2, 3, 4, 5], "S1" : [1, 2, 3, 4, 5, 6, 7, 8, 9, 11, 12, 13 ]
+},{ "Name" : "getByteSize" ,
+"Duas" : "12" ,
+"Subsumers" : 2,
+"0" : [ 8, 0], "S0" : [0, 8 ],
+"1" : [ 10, 11, 9, 5, 6, 7, 1, 2, 3, 4], "S1" : [1, 2, 3, 4, 5, 6, 7, 9, 10, 11 ]
+}]
+}

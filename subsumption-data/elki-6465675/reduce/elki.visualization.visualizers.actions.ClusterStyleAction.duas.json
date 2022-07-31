@@ -1,0 +1,13 @@
+{
+"Class" : "elki.visualization.visualizers.actions.ClusterStyleAction", 
+"Methods" : [{ "Name" : "lambda$processNewResult$0" ,
+"Duas" : 8,
+"0" :  "(55,(55,56), context)",
+"1" :  "(55,(55,58), context)",
+"2" :  "(55,58, context)",
+"3" :  "(55,58, context)",
+"4" :  "(55,(55,56), c)",
+"5" :  "(55,(55,58), c)",
+"6" :  "(55,58, c)",
+"7" :  "(55,58, c)"}]
+}

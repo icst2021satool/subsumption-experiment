@@ -1,0 +1,24 @@
+{
+"Class" : "elki.index.tree.metrical.mtreevariants.mktrees.mktab.MkTabLeafEntry", 
+"Methods" : [{ "Name" : "setKnnDistances" ,
+"Duas" : "9" ,
+"Subsumers" : 2,
+"0" : [ 7, 6, 3, 0], "S0" : [0, 3, 6, 7 ],
+"1" : [ 8, 5, 4, 2, 1], "S1" : [1, 2, 4, 5, 8 ]
+},{ "Name" : "getKnnDistance" ,
+"Duas" : "10" ,
+"Subsumers" : 2,
+"0" : [ 7, 6, 3, 0], "S0" : [0, 3, 6, 7 ],
+"1" : [ 9, 8, 5, 4, 2, 1], "S1" : [1, 2, 4, 5, 8, 9 ]
+},{ "Name" : "writeExternal" ,
+"Duas" : "13" ,
+"Subsumers" : 2,
+"0" : [ 11, 12, 9], "S0" : [0, 1, 2, 3, 4, 5, 7, 8, 9, 10, 11, 12 ],
+"1" : [ 6], "S1" : [4, 6 ]
+},{ "Name" : "readExternal" ,
+"Duas" : "13" ,
+"Subsumers" : 2,
+"0" : [ 11, 12, 9], "S0" : [0, 1, 2, 3, 4, 5, 7, 8, 9, 10, 11, 12 ],
+"1" : [ 6], "S1" : [3, 6 ]
+}]
+}

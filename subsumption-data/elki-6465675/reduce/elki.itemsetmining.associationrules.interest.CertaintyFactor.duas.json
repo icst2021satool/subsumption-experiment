@@ -1,0 +1,13 @@
+{
+"Class" : "elki.itemsetmining.associationrules.interest.CertaintyFactor", 
+"Methods" : [{ "Name" : "measure" ,
+"Duas" : 8,
+"0" :  "(56,(56,56), t)",
+"1" :  "(56,(56,56), t)",
+"2" :  "(56,56, t)",
+"3" :  "(56,56, sX)",
+"4" :  "(56,(56,56), sY)",
+"5" :  "(56,(56,56), sY)",
+"6" :  "(56,56, sY)",
+"7" :  "(56,56, sXY)"}]
+}

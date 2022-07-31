@@ -1,0 +1,9 @@
+{
+"Class" : "elki.result.SelectionResult", 
+"Methods" : [{ "Name" : "ensureSelectionResult" ,
+"Duas" : 4,
+"0" :  "(81,87, db)",
+"1" :  "(82,(83,84), it)",
+"2" :  "(82,(83,86), it)",
+"3" :  "(82,84, it)"}]
+}

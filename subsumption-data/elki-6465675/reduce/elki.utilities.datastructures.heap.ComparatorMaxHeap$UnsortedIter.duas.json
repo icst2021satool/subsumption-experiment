@@ -1,0 +1,13 @@
+{
+"Class" : "elki.utilities.datastructures.heap.ComparatorMaxHeap$UnsortedIter", 
+"Methods" : [{ "Name" : "valid" ,
+"Duas" : 8,
+"0" :  "(230,(230,230), this)",
+"1" :  "(230,(230,230), this)",
+"2" :  "(230,(230,230), this.this$0)",
+"3" :  "(230,(230,230), this.this$0)",
+"4" :  "(230,(230,230), this.size)",
+"5" :  "(230,(230,230), this.size)",
+"6" :  "(230,(230,230), this.pos)",
+"7" :  "(230,(230,230), this.pos)"}]
+}

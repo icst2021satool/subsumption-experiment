@@ -1,0 +1,8 @@
+{
+"Class" : "elki.math.statistics.kernelfunctions.CosineKernelDensityFunction", 
+"Methods" : [{ "Name" : "density" ,
+"Duas" : 3,
+"0" :  "(67,(67,67), delta)",
+"1" :  "(67,(67,67), delta)",
+"2" :  "(67,67, delta)"}]
+}

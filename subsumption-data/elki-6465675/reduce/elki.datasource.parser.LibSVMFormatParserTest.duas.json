@@ -1,0 +1,21 @@
+{
+"Class" : "elki.datasource.parser.LibSVMFormatParserTest", 
+"Methods" : [{ "Name" : "parameters" ,
+"Duas" : 16,
+"0" :  "(49,63, SPARSE_VECTOR_VARIABLE_LENGTH)",
+"1" :  "(49,64, LABELLIST)",
+"2" :  "(53,(56,56), is)",
+"3" :  "(53,(56,63), is)",
+"4" :  "(53,56, is)",
+"5" :  "(53,56, is)",
+"6" :  "(54,(56,56), dbc)",
+"7" :  "(54,(56,56), dbc)",
+"8" :  "(54,56, dbc)",
+"9" :  "(54,56, dbc)",
+"10" :  "(55,63, bundle)",
+"11" :  "(55,64, bundle)",
+"12" :  "(55,66, bundle)",
+"13" :  "(55,67, bundle)",
+"14" :  "(55,70, bundle)",
+"15" :  "(55,71, bundle)"}]
+}

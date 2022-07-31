@@ -1,0 +1,9 @@
+{
+"Class" : "elki.data.uncertain.uncertainifier.UnweightedDiscreteUncertainifier", 
+"Methods" : [{ "Name" : "newFeatureVector" ,
+"Duas" : "14" ,
+"Subsumers" : 2,
+"0" : [ 12, 13, 10], "S0" : [0, 1, 2, 3, 4, 5, 6, 8, 9, 10, 11, 12, 13 ],
+"1" : [ 7], "S1" : [3, 4, 7 ]
+}]
+}

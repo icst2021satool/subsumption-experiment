@@ -1,0 +1,21 @@
+{
+"Class" : "elki.clustering.dbscan.parallel.ParallelGeneralizedDBSCAN", 
+"Methods" : [{ "Name" : "<init>" ,
+"Duas" : 4,
+"0" :  "(136,(143,144), npred)",
+"1" :  "(136,(143,146), npred)",
+"2" :  "(142,(143,144), cp)",
+"3" :  "(142,(143,146), cp)"},{ "Name" : "autorun" ,
+"Duas" : 11,
+"0" :  "(157,(158,159), this)",
+"1" :  "(157,(158,161), this)",
+"2" :  "(157,161, this)",
+"3" :  "(157,161, database)",
+"4" :  "(157,(158,159), this.npred)",
+"5" :  "(157,(158,161), this.npred)",
+"6" :  "(157,161, this.npred)",
+"7" :  "(157,161, this.coremodel)",
+"8" :  "(157,(158,159), cp)",
+"9" :  "(157,(158,161), cp)",
+"10" :  "(157,161, cp)"}]
+}

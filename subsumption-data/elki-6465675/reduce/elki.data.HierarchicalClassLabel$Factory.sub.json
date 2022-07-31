@@ -1,0 +1,9 @@
+{
+"Class" : "elki.data.HierarchicalClassLabel$Factory", 
+"Methods" : [{ "Name" : "makeFromString" ,
+"Duas" : "8" ,
+"Subsumers" : 2,
+"0" : [ 7, 4, 2, 3, 1, 0], "S0" : [0, 1, 2, 3, 4, 7 ],
+"1" : [ 6, 5], "S1" : [5, 6 ]
+}]
+}

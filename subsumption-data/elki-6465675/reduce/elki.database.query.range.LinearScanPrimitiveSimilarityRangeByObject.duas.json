@@ -1,0 +1,20 @@
+{
+"Class" : "elki.database.query.range.LinearScanPrimitiveSimilarityRangeByObject", 
+"Methods" : [{ "Name" : "getRange" ,
+"Duas" : 15,
+"0" :  "(61,64, obj)",
+"1" :  "(61,(65,66), range)",
+"2" :  "(61,(65,63), range)",
+"3" :  "(61,69, result)",
+"4" :  "(61,66, result)",
+"5" :  "(61,64, sim)",
+"6" :  "(62,64, relation)",
+"7" :  "(63,(63,64), iter)",
+"8" :  "(63,(63,69), iter)",
+"9" :  "(63,64, iter)",
+"10" :  "(63,63, iter)",
+"11" :  "(63,66, iter)",
+"12" :  "(64,(65,66), similarity)",
+"13" :  "(64,(65,63), similarity)",
+"14" :  "(64,66, similarity)"}]
+}

@@ -1,0 +1,10 @@
+{
+"Class" : "elki.clustering.dbscan.DBSCAN$Par", 
+"Methods" : [{ "Name" : "configure" ,
+"Duas" : "10" ,
+"Subsumers" : 3,
+"0" : [ 8, 2], "S0" : [0, 2, 4, 6, 8 ],
+"1" : [ 9, 3], "S1" : [0, 3, 4, 6, 9 ],
+"2" : [ 7, 5, 1], "S2" : [1, 5, 7 ]
+}]
+}

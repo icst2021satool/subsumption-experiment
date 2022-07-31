@@ -1,0 +1,11 @@
+{
+"Class" : "elki.distance.correlation.AbsoluteUncenteredCorrelationDistance", 
+"Methods" : [{ "Name" : "equals" ,
+"Duas" : 6,
+"0" :  "(64,(64,64), this)",
+"1" :  "(64,(64,64), this)",
+"2" :  "(64,(64,64), obj)",
+"3" :  "(64,(64,64), obj)",
+"4" :  "(64,(64,64), obj)",
+"5" :  "(64,(64,64), obj)"}]
+}

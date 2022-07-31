@@ -1,0 +1,9 @@
+{
+"Class" : "elki.visualization.svg.SVGCheckbox$1", 
+"Methods" : [{ "Name" : "handleEvent" ,
+"Duas" : "14" ,
+"Subsumers" : 2,
+"0" : [ 12, 11, 6, 5, 0], "S0" : [0, 3, 4, 5, 6, 8, 9, 11, 12 ],
+"1" : [ 13, 10, 7, 2, 1], "S1" : [1, 2, 3, 4, 7, 8, 9, 10, 13 ]
+}]
+}

@@ -1,0 +1,15 @@
+{
+"Class" : "elki.clustering.hierarchical.extraction.SimplifiedHierarchyExtraction$TempCluster", 
+"Methods" : [{ "Name" : "isNotSpurious" ,
+"Duas" : 10,
+"0" :  "(374,(374,374), this)",
+"1" :  "(374,(374,374), this)",
+"2" :  "(374,(374,374), this)",
+"3" :  "(374,(374,374), this)",
+"4" :  "(374,(374,374), minClSize)",
+"5" :  "(374,(374,374), minClSize)",
+"6" :  "(374,(374,374), this.children)",
+"7" :  "(374,(374,374), this.children)",
+"8" :  "(374,(374,374), this.newids)",
+"9" :  "(374,(374,374), this.newids)"}]
+}

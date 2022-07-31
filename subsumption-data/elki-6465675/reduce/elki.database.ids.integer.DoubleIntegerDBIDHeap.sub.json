@@ -1,0 +1,20 @@
+{
+"Class" : "elki.database.ids.integer.DoubleIntegerDBIDHeap", 
+"Methods" : [{ "Name" : "peekKey" ,
+"Duas" : "6" ,
+"Subsumers" : 2,
+"0" : [ 3, 0], "S0" : [0, 2, 3, 5 ],
+"1" : [ 4, 1], "S1" : [1, 2, 4, 5 ]
+},{ "Name" : "internalGetIndex" ,
+"Duas" : "6" ,
+"Subsumers" : 2,
+"0" : [ 3, 0], "S0" : [0, 2, 3, 5 ],
+"1" : [ 4, 1], "S1" : [1, 2, 4, 5 ]
+},{ "Name" : "toString" ,
+"Duas" : "9" ,
+"Subsumers" : 3,
+"0" : [ 7, 5, 1], "S0" : [0, 1, 5, 6, 7 ],
+"1" : [ 8, 3, 2], "S1" : [0, 2, 3, 6, 8 ],
+"2" : [ 4], "S2" : [0, 4, 6 ]
+}]
+}

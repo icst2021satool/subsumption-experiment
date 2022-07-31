@@ -1,0 +1,14 @@
+{
+"Class" : "elki.database.datastore.memory.MapIntegerDBIDStore", 
+"Methods" : [{ "Name" : "put" ,
+"Duas" : 9,
+"0" :  "(78,81, this)",
+"1" :  "(78,79, this)",
+"2" :  "(78,81, id)",
+"3" :  "(78,79, id)",
+"4" :  "(78,(78,79), value)",
+"5" :  "(78,(78,81), value)",
+"6" :  "(78,81, value)",
+"7" :  "(78,81, this.data)",
+"8" :  "(78,79, this.data)"}]
+}

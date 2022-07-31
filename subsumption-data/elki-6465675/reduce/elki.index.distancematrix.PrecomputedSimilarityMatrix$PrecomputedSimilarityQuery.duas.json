@@ -1,0 +1,13 @@
+{
+"Class" : "elki.index.distancematrix.PrecomputedSimilarityMatrix$PrecomputedSimilarityQuery", 
+"Methods" : [{ "Name" : "similarity" ,
+"Duas" : 8,
+"0" :  "(193,194, this)",
+"1" :  "(193,194, this.this$0)",
+"2" :  "(193,(194,194), x)",
+"3" :  "(193,(194,194), x)",
+"4" :  "(193,194, x)",
+"5" :  "(193,(194,194), y)",
+"6" :  "(193,(194,194), y)",
+"7" :  "(193,194, y)"}]
+}

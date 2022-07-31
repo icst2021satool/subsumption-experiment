@@ -1,0 +1,15 @@
+{
+"Class" : "elki.visualization.visualizers.scatterplot.density.DensityEstimationOverlay", 
+"Methods" : [{ "Name" : "lambda$processNewResult$0" ,
+"Duas" : 10,
+"0" :  "(85,89, this)",
+"1" :  "(85,89, context)",
+"2" :  "(85,89, p)",
+"3" :  "(85,89, p)",
+"4" :  "(85,(86,87), NUMBER_VECTOR_FIELD)",
+"5" :  "(85,(86,89), NUMBER_VECTOR_FIELD)",
+"6" :  "(85,89, ON_DATA)",
+"7" :  "(85,(86,87), rel)",
+"8" :  "(85,(86,89), rel)",
+"9" :  "(85,89, rel)"}]
+}

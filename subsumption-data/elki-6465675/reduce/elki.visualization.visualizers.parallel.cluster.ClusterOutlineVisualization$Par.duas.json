@@ -1,0 +1,8 @@
+{
+"Class" : "elki.visualization.visualizers.parallel.cluster.ClusterOutlineVisualization$Par", 
+"Methods" : [{ "Name" : "lambda$configure$0" ,
+"Duas" : 3,
+"0" :  "(273,273, this)",
+"1" :  "(273,(273,273), x)",
+"2" :  "(273,(273,273), x)"}]
+}

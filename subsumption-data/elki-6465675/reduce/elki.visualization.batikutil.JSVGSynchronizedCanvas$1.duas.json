@@ -1,0 +1,15 @@
+{
+"Class" : "elki.visualization.batikutil.JSVGSynchronizedCanvas$1", 
+"Methods" : [{ "Name" : "run" ,
+"Duas" : 10,
+"0" :  "(120,(120,121), this)",
+"1" :  "(120,(120,124), this)",
+"2" :  "(120,121, this)",
+"3" :  "(120,122, this)",
+"4" :  "(120,(120,121), this.this$0)",
+"5" :  "(120,(120,124), this.this$0)",
+"6" :  "(120,121, this.this$0)",
+"7" :  "(120,122, this.this$0)",
+"8" :  "(120,121, this.val$oldplot)",
+"9" :  "(120,122, this.val$newplot)"}]
+}

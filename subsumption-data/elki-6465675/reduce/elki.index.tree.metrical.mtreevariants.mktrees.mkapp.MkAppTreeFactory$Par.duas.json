@@ -1,0 +1,9 @@
+{
+"Class" : "elki.index.tree.metrical.mtreevariants.mktrees.mkapp.MkAppTreeFactory$Par", 
+"Methods" : [{ "Name" : "lambda$configure$2" ,
+"Duas" : 4,
+"0" :  "(100,100, this)",
+"1" :  "(100,(100,100), x)",
+"2" :  "(100,(100,100), x)",
+"3" :  "(100,100, this.settings)"}]
+}

@@ -1,0 +1,9 @@
+{
+"Class" : "elki.index.tree.metrical.covertree.AbstractCoverTree$Factory$Par", 
+"Methods" : [{ "Name" : "lambda$configure$0" ,
+"Duas" : 4,
+"0" :  "(313,(314,315), this)",
+"1" :  "(313,(314,317), this)",
+"2" :  "(313,(314,315), this.distance)",
+"3" :  "(313,(314,317), this.distance)"}]
+}

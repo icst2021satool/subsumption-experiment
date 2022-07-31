@@ -1,0 +1,18 @@
+{
+"Class" : "elki.algorithm.AbstractSimpleAlgorithmTest", 
+"Methods" : [{ "Name" : "makeSimpleDatabase" ,
+"Duas" : 13,
+"0" :  "(70,(86,87), expectedSize)",
+"1" :  "(70,(86,89), expectedSize)",
+"2" :  "(70,87, expectedSize)",
+"3" :  "(70,(76,77), params)",
+"4" :  "(70,(76,80), params)",
+"5" :  "(70,(80,81), params)",
+"6" :  "(70,(80,84), params)",
+"7" :  "(70,81, params)",
+"8" :  "(70,77, params)",
+"9" :  "(70,87, ANY)",
+"10" :  "(72,84, db)",
+"11" :  "(72,89, db)",
+"12" :  "(72,87, db)"}]
+}

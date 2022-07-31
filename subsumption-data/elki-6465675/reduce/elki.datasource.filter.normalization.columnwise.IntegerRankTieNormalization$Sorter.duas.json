@@ -1,0 +1,13 @@
+{
+"Class" : "elki.datasource.filter.normalization.columnwise.IntegerRankTieNormalization$Sorter", 
+"Methods" : [{ "Name" : "compare" ,
+"Duas" : 8,
+"0" :  "(141,(142,142), vx)",
+"1" :  "(141,(142,142), vx)",
+"2" :  "(141,(142,142), vx)",
+"3" :  "(141,(142,142), vx)",
+"4" :  "(141,(142,142), vy)",
+"5" :  "(141,(142,142), vy)",
+"6" :  "(141,(142,142), vy)",
+"7" :  "(141,(142,142), vy)"}]
+}

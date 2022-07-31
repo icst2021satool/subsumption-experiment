@@ -1,0 +1,20 @@
+{
+"Class" : "elki.database.query.range.LinearScanSimilarityRangeByObject", 
+"Methods" : [{ "Name" : "getRange" ,
+"Duas" : 15,
+"0" :  "(56,57, this)",
+"1" :  "(56,57, obj)",
+"2" :  "(56,(58,59), range)",
+"3" :  "(56,(58,56), range)",
+"4" :  "(56,62, result)",
+"5" :  "(56,59, result)",
+"6" :  "(56,57, this.simQuery)",
+"7" :  "(56,(56,57), iter)",
+"8" :  "(56,(56,62), iter)",
+"9" :  "(56,57, iter)",
+"10" :  "(56,56, iter)",
+"11" :  "(56,59, iter)",
+"12" :  "(57,(58,59), currentSim)",
+"13" :  "(57,(58,56), currentSim)",
+"14" :  "(57,59, currentSim)"}]
+}

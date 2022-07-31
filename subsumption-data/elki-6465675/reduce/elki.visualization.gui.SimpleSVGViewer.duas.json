@@ -1,0 +1,8 @@
+{
+"Class" : "elki.visualization.gui.SimpleSVGViewer", 
+"Methods" : [{ "Name" : "saveCurrentPlot" ,
+"Duas" : 3,
+"0" :  "(131,(132,133), currentPlot)",
+"1" :  "(131,(132,136), currentPlot)",
+"2" :  "(131,133, currentPlot)"}]
+}

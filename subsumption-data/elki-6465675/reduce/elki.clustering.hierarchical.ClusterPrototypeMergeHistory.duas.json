@@ -1,0 +1,15 @@
+{
+"Class" : "elki.clustering.hierarchical.ClusterPrototypeMergeHistory", 
+"Methods" : [{ "Name" : "prototype" ,
+"Duas" : 10,
+"0" :  "(62,(62,62), this)",
+"1" :  "(62,(62,62), this)",
+"2" :  "(62,62, this)",
+"3" :  "(62,(62,62), i)",
+"4" :  "(62,(62,62), i)",
+"5" :  "(62,62, i)",
+"6" :  "(62,(62,62), this.ids)",
+"7" :  "(62,(62,62), this.ids)",
+"8" :  "(62,62, this.ids)",
+"9" :  "(62,62, this.prototypes)"}]
+}

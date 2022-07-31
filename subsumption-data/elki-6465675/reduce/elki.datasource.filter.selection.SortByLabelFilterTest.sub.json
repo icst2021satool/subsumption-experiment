@@ -1,0 +1,11 @@
+{
+"Class" : "elki.datasource.filter.selection.SortByLabelFilterTest", 
+"Methods" : [{ "Name" : "defaultParameters" ,
+"Duas" : "18" ,
+"Subsumers" : 4,
+"0" : [ 11, 9], "S0" : [0, 1, 2, 3, 4, 6, 7, 8, 9, 11, 14 ],
+"1" : [ 12, 10], "S1" : [0, 1, 2, 3, 4, 6, 7, 8, 10, 12, 14 ],
+"2" : [ 17, 15, 16, 13], "S2" : [0, 1, 2, 3, 4, 6, 7, 8, 13, 14, 15, 16, 17 ],
+"3" : [ 5], "S3" : [1, 5 ]
+}]
+}

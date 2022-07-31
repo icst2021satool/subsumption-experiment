@@ -1,0 +1,15 @@
+{
+"Class" : "elki.visualization.visualizers.scatterplot.ReferencePointsVisualization$Instance", 
+"Methods" : [{ "Name" : "fullRedraw" ,
+"Duas" : 10,
+"0" :  "(128,136, this)",
+"1" :  "(128,137, this)",
+"2" :  "(128,139, this)",
+"3" :  "(128,137, this.svgp)",
+"4" :  "(128,136, this.proj)",
+"5" :  "(128,139, this.layer)",
+"6" :  "(131,(134,135), iter)",
+"7" :  "(131,(134,141), iter)",
+"8" :  "(131,135, iter)",
+"9" :  "(133,137, dotsize)"}]
+}

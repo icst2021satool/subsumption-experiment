@@ -1,0 +1,10 @@
+{
+"Class" : "elki.data.LabelList", 
+"Methods" : [{ "Name" : "make" ,
+"Duas" : 5,
+"0" :  "(84,88, labels)",
+"1" :  "(84,86, EMPTY_LABELS)",
+"2" :  "(84,(85,86), size)",
+"3" :  "(84,(85,88), size)",
+"4" :  "(84,88, size)"}]
+}

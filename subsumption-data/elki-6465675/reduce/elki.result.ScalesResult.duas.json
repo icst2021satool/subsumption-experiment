@@ -1,0 +1,10 @@
+{
+"Class" : "elki.result.ScalesResult", 
+"Methods" : [{ "Name" : "getScalesResult" ,
+"Duas" : 5,
+"0" :  "(101,106, rel)",
+"1" :  "(101,107, rel)",
+"2" :  "(102,(103,104), it)",
+"3" :  "(102,(103,106), it)",
+"4" :  "(102,104, it)"}]
+}

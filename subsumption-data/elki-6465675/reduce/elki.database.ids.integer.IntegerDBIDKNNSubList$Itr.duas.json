@@ -1,0 +1,15 @@
+{
+"Class" : "elki.database.ids.integer.IntegerDBIDKNNSubList$Itr", 
+"Methods" : [{ "Name" : "valid" ,
+"Duas" : 10,
+"0" :  "(162,(162,162), this)",
+"1" :  "(162,(162,162), this)",
+"2" :  "(162,(162,162), this)",
+"3" :  "(162,(162,162), this)",
+"4" :  "(162,(162,162), this.this$0)",
+"5" :  "(162,(162,162), this.this$0)",
+"6" :  "(162,(162,162), this.inneriter)",
+"7" :  "(162,(162,162), this.inneriter)",
+"8" :  "(162,(162,162), this.inneriter)",
+"9" :  "(162,(162,162), this.inneriter)"}]
+}

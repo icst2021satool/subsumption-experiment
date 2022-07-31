@@ -1,0 +1,17 @@
+{
+"Class" : "elki.clustering.kmeans.initialization.AFKMC2", 
+"Methods" : [{ "Name" : "chooseInitialMeans" ,
+"Duas" : 12,
+"0" :  "(67,70, this)",
+"1" :  "(67,(67,68), relation)",
+"2" :  "(67,(67,70), relation)",
+"3" :  "(67,70, relation)",
+"4" :  "(67,68, relation)",
+"5" :  "(67,(67,68), k)",
+"6" :  "(67,(67,70), k)",
+"7" :  "(67,70, k)",
+"8" :  "(67,68, k)",
+"9" :  "(67,70, distance)",
+"10" :  "(67,70, this.m)",
+"11" :  "(67,70, this.rnd)"}]
+}

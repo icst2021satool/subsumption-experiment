@@ -1,0 +1,22 @@
+{
+"Class" : "elki.index.tree.metrical.mtreevariants.mktrees.AbstractMkTreeUnified", 
+"Methods" : [{ "Name" : "insertAll" ,
+"Duas" : 17,
+"0" :  "(74,(77,78), this)",
+"1" :  "(74,(77,81), this)",
+"2" :  "(74,89, this)",
+"3" :  "(74,91, this)",
+"4" :  "(74,93, this)",
+"5" :  "(74,86, this)",
+"6" :  "(74,78, this)",
+"7" :  "(74,(74,75), entries)",
+"8" :  "(74,(74,77), entries)",
+"9" :  "(74,81, entries)",
+"10" :  "(74,83, entries)",
+"11" :  "(74,78, entries)",
+"12" :  "(74,(77,78), this.initialized)",
+"13" :  "(74,(77,81), this.initialized)",
+"14" :  "(74,89, this.settings)",
+"15" :  "(81,89, ids)",
+"16" :  "(81,84, ids)"}]
+}

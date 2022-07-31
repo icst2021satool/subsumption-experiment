@@ -1,0 +1,10 @@
+{
+"Class" : "elki.clustering.dbscan.predicates.PreDeConCorePredicate$Instance", 
+"Methods" : [{ "Name" : "isCorePoint" ,
+"Duas" : "20" ,
+"Subsumers" : 3,
+"0" : [ 18, 16, 10, 6, 2], "S0" : [0, 2, 4, 6, 8, 10, 12, 14, 16, 18 ],
+"1" : [ 19, 17, 11, 7, 3], "S1" : [0, 3, 4, 7, 8, 11, 12, 14, 17, 19 ],
+"2" : [ 15, 13, 9, 5, 1], "S2" : [1, 5, 9, 13, 15 ]
+}]
+}

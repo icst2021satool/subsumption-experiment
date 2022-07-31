@@ -1,0 +1,11 @@
+{
+"Class" : "elki.index.tree.spatial.kd.PartialEuclideanDistance", 
+"Methods" : [{ "Name" : "compareRawRegular" ,
+"Duas" : 6,
+"0" :  "(52,(52,52), raw)",
+"1" :  "(52,(52,52), raw)",
+"2" :  "(52,(52,52), reg)",
+"3" :  "(52,(52,52), reg)",
+"4" :  "(52,(52,52), reg)",
+"5" :  "(52,(52,52), reg)"}]
+}

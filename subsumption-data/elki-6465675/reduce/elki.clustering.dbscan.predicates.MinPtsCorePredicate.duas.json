@@ -1,0 +1,13 @@
+{
+"Class" : "elki.clustering.dbscan.predicates.MinPtsCorePredicate", 
+"Methods" : [{ "Name" : "acceptsType" ,
+"Duas" : 8,
+"0" :  "(85,(85,85), type)",
+"1" :  "(85,(85,86), type)",
+"2" :  "(85,(86,86), type)",
+"3" :  "(85,(86,86), type)",
+"4" :  "(85,(85,85), DBIDS)",
+"5" :  "(85,(85,86), DBIDS)",
+"6" :  "(85,(86,86), NEIGHBORLIST)",
+"7" :  "(85,(86,86), NEIGHBORLIST)"}]
+}

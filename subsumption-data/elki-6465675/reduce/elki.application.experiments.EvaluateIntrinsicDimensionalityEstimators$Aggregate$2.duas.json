@@ -1,0 +1,18 @@
+{
+"Class" : "elki.application.experiments.EvaluateIntrinsicDimensionalityEstimators$Aggregate$2", 
+"Methods" : [{ "Name" : "aggregate" ,
+"Duas" : 13,
+"0" :  "(235,239, data)",
+"1" :  "(235,241, data)",
+"2" :  "(235,245, data)",
+"3" :  "(235,239, avg)",
+"4" :  "(235,237, avg)",
+"5" :  "(237,239, avg)",
+"6" :  "(237,237, avg)",
+"7" :  "(239,246, avg)",
+"8" :  "(239,242, avg)",
+"9" :  "(240,245, sqsum)",
+"10" :  "(240,243, sqsum)",
+"11" :  "(243,245, sqsum)",
+"12" :  "(243,243, sqsum)"}]
+}

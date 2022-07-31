@@ -1,0 +1,11 @@
+{
+"Class" : "tutorial.outlier.SimpleScoreDumper", 
+"Methods" : [{ "Name" : "processNewResult" ,
+"Duas" : 6,
+"0" :  "(42,46, out)",
+"1" :  "(44,46, scores)",
+"2" :  "(45,(45,46), iter)",
+"3" :  "(45,(45,48), iter)",
+"4" :  "(45,46, iter)",
+"5" :  "(45,45, iter)"}]
+}

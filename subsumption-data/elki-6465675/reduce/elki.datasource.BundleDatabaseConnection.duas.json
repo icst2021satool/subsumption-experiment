@@ -1,0 +1,9 @@
+{
+"Class" : "elki.datasource.BundleDatabaseConnection", 
+"Methods" : [{ "Name" : "loadData" ,
+"Duas" : 4,
+"0" :  "(74,(76,76), channel)",
+"1" :  "(74,(76,75), channel)",
+"2" :  "(74,76, channel)",
+"3" :  "(74,76, channel)"}]
+}

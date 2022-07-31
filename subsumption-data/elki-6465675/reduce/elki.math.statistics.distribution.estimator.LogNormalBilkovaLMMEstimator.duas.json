@@ -1,0 +1,15 @@
+{
+"Class" : "elki.math.statistics.distribution.estimator.LogNormalBilkovaLMMEstimator", 
+"Methods" : [{ "Name" : "estimateFromLMoments" ,
+"Duas" : 10,
+"0" :  "(78,(78,78), xmom)",
+"1" :  "(78,(78,79), xmom)",
+"2" :  "(78,(78,78), xmom)",
+"3" :  "(78,(78,79), xmom)",
+"4" :  "(78,(78,79), xmom)",
+"5" :  "(78,(78,81), xmom)",
+"6" :  "(78,81, xmom)",
+"7" :  "(78,85, xmom)",
+"8" :  "(78,86, xmom)",
+"9" :  "(78,81, SQRT8_3)"}]
+}

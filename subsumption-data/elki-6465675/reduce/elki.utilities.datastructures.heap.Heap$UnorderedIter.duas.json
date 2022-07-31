@@ -1,0 +1,11 @@
+{
+"Class" : "elki.utilities.datastructures.heap.Heap$UnorderedIter", 
+"Methods" : [{ "Name" : "valid" ,
+"Duas" : 6,
+"0" :  "(309,(309,309), this)",
+"1" :  "(309,(309,309), this)",
+"2" :  "(309,(309,309), this.this$0)",
+"3" :  "(309,(309,309), this.this$0)",
+"4" :  "(309,(309,309), this.pos)",
+"5" :  "(309,(309,309), this.pos)"}]
+}

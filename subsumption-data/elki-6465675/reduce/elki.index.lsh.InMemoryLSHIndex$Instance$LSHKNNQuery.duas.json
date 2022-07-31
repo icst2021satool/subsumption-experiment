@@ -1,0 +1,16 @@
+{
+"Class" : "elki.index.lsh.InMemoryLSHIndex$Instance$LSHKNNQuery", 
+"Methods" : [{ "Name" : "getKNN" ,
+"Duas" : 11,
+"0" :  "(259,263, this)",
+"1" :  "(259,264, this)",
+"2" :  "(259,263, obj)",
+"3" :  "(259,263, this.distanceQuery)",
+"4" :  "(261,267, heap)",
+"5" :  "(261,265, heap)",
+"6" :  "(262,(262,263), iter)",
+"7" :  "(262,(262,267), iter)",
+"8" :  "(262,263, iter)",
+"9" :  "(262,265, iter)",
+"10" :  "(262,262, iter)"}]
+}

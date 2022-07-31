@@ -1,0 +1,12 @@
+{
+"Class" : "elki.data.Clustering", 
+"Methods" : [{ "Name" : "<init>" ,
+"Duas" : "2" ,
+"Subsumers" : 1,
+"0" : [ 1, 0], "S0" : [0, 1 ]
+},{ "Name" : "getAllClusters" ,
+"Duas" : "8" ,
+"Subsumers" : 1,
+"0" : [ 6, 7, 4, 3], "S0" : [0, 1, 2, 3, 4, 5, 6, 7 ]
+}]
+}

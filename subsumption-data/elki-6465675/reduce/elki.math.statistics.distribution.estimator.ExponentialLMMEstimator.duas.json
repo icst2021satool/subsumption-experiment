@@ -1,0 +1,9 @@
+{
+"Class" : "elki.math.statistics.distribution.estimator.ExponentialLMMEstimator", 
+"Methods" : [{ "Name" : "estimateFromLMoments" ,
+"Duas" : 4,
+"0" :  "(68,72, xmom)",
+"1" :  "(68,(69,70), scale)",
+"2" :  "(68,(69,72), scale)",
+"3" :  "(68,72, scale)"}]
+}

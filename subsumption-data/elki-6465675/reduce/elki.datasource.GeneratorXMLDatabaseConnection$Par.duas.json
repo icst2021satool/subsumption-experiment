@@ -1,0 +1,17 @@
+{
+"Class" : "elki.datasource.GeneratorXMLDatabaseConnection$Par", 
+"Methods" : [{ "Name" : "configure" ,
+"Duas" : 12,
+"0" :  "(756,(767,768), this)",
+"1" :  "(756,(767,771), this)",
+"2" :  "(756,771, this)",
+"3" :  "(756,772, this)",
+"4" :  "(756,768, this)",
+"5" :  "(756,771, config)",
+"6" :  "(756,772, config)",
+"7" :  "(756,768, config)",
+"8" :  "(756,(767,768), this.reassign)",
+"9" :  "(756,(767,771), this.reassign)",
+"10" :  "(756,768, REASSIGN_DISTANCE_ID)",
+"11" :  "(756,771, RANDOMSEED_ID)"}]
+}

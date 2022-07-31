@@ -1,0 +1,13 @@
+{
+"Class" : "elki.application.internal.DocumentParameters$2", 
+"Methods" : [{ "Name" : "compare" ,
+"Duas" : 8,
+"0" :  "(836,837, o1)",
+"1" :  "(836,837, o2)",
+"2" :  "(836,837, SORT_BY_PRIORITY)",
+"3" :  "(836,837, o1.second)",
+"4" :  "(836,837, o2.second)",
+"5" :  "(836,(837,837), c)",
+"6" :  "(836,(837,837), c)",
+"7" :  "(836,837, c)"}]
+}

@@ -1,0 +1,15 @@
+{
+"Class" : "elki.clustering.dbscan.DBSCAN$Par", 
+"Methods" : [{ "Name" : "configure" ,
+"Duas" : 10,
+"0" :  "(340,(347,347), this)",
+"1" :  "(340,(347,350), this)",
+"2" :  "(340,(347,348), this)",
+"3" :  "(340,(347,350), this)",
+"4" :  "(340,(347,347), config)",
+"5" :  "(340,(347,350), config)",
+"6" :  "(340,(347,347), GREATER_EQUAL_ONE_INT)",
+"7" :  "(340,(347,350), GREATER_EQUAL_ONE_INT)",
+"8" :  "(340,(347,348), this.minpts)",
+"9" :  "(340,(347,350), this.minpts)"}]
+}

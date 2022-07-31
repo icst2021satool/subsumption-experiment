@@ -1,0 +1,10 @@
+{
+"Class" : "elki.database.ids.integer.UnmodifiableIntegerArrayDBIDs", 
+"Methods" : [{ "Name" : "iter" ,
+"Duas" : 5,
+"0" :  "(66,68, this)",
+"1" :  "(66,(67,68), it)",
+"2" :  "(66,(67,70), it)",
+"3" :  "(66,70, it)",
+"4" :  "(66,68, it)"}]
+}

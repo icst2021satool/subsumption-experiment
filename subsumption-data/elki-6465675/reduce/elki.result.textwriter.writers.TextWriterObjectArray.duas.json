@@ -1,0 +1,15 @@
+{
+"Class" : "elki.result.textwriter.writers.TextWriterObjectArray", 
+"Methods" : [{ "Name" : "write" ,
+"Duas" : 10,
+"0" :  "(39,48, out)",
+"1" :  "(39,(40,41), label)",
+"2" :  "(39,(40,43), label)",
+"3" :  "(39,41, label)",
+"4" :  "(39,(43,44), v)",
+"5" :  "(39,(43,48), v)",
+"6" :  "(39,44, v)",
+"7" :  "(39,48, buf)",
+"8" :  "(39,45, buf)",
+"9" :  "(39,41, buf)"}]
+}

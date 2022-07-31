@@ -1,0 +1,12 @@
+{
+"Class" : "elki.utilities.random.RandomFactory", 
+"Methods" : [{ "Name" : "getGlobalSeed" ,
+"Duas" : 2,
+"0" :  "(58,(59,59), sseed)",
+"1" :  "(58,(59,59), sseed)"},{ "Name" : "get" ,
+"Duas" : 4,
+"0" :  "(74,(74,74), seed)",
+"1" :  "(74,(74,74), seed)",
+"2" :  "(74,74, seed)",
+"3" :  "(74,74, DEFAULT)"}]
+}

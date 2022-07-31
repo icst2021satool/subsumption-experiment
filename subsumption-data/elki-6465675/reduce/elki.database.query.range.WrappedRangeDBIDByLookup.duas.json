@@ -1,0 +1,13 @@
+{
+"Class" : "elki.database.query.range.WrappedRangeDBIDByLookup", 
+"Methods" : [{ "Name" : "wrap" ,
+"Duas" : 8,
+"0" :  "(91,91, relation)",
+"1" :  "(91,91, relation)",
+"2" :  "(91,(91,91), inner)",
+"3" :  "(91,(91,91), inner)",
+"4" :  "(91,(91,91), inner)",
+"5" :  "(91,(91,91), inner)",
+"6" :  "(91,91, inner)",
+"7" :  "(91,91, inner)"}]
+}

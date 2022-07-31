@@ -1,0 +1,21 @@
+{
+"Class" : "elki.clustering.dbscan.predicates.PreDeConNeighborPredicate$Instance", 
+"Methods" : [{ "Name" : "getNeighbors" ,
+"Duas" : 16,
+"0" :  "(231,(235,236), this)",
+"1" :  "(231,(235,234), this)",
+"2" :  "(231,(235,236), reference)",
+"3" :  "(231,(235,234), reference)",
+"4" :  "(231,(235,236), this.storage)",
+"5" :  "(231,(235,234), this.storage)",
+"6" :  "(231,239, asymmetric)",
+"7" :  "(231,239, asymmetric.pdim)",
+"8" :  "(233,239, ids)",
+"9" :  "(233,236, ids)",
+"10" :  "(234,(234,235), neighbor)",
+"11" :  "(234,(234,239), neighbor)",
+"12" :  "(234,(235,236), neighbor)",
+"13" :  "(234,(235,234), neighbor)",
+"14" :  "(234,234, neighbor)",
+"15" :  "(234,236, neighbor)"}]
+}

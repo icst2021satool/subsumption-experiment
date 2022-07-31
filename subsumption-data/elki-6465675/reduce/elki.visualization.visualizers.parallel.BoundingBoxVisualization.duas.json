@@ -1,0 +1,20 @@
+{
+"Class" : "elki.visualization.visualizers.parallel.BoundingBoxVisualization", 
+"Methods" : [{ "Name" : "lambda$processNewResult$0" ,
+"Duas" : 15,
+"0" :  "(83,90, this)",
+"1" :  "(83,90, context)",
+"2" :  "(83,90, p)",
+"3" :  "(83,90, p)",
+"4" :  "(83,(84,85), NUMBER_VECTOR_FIELD)",
+"5" :  "(83,(84,87), NUMBER_VECTOR_FIELD)",
+"6" :  "(83,(87,88), SPATIAL_OBJECT)",
+"7" :  "(83,(87,90), SPATIAL_OBJECT)",
+"8" :  "(83,90, ON_DATA)",
+"9" :  "(83,90, ON_STYLEPOLICY)",
+"10" :  "(83,90, ON_SAMPLE)",
+"11" :  "(83,(84,85), rel)",
+"12" :  "(83,(84,87), rel)",
+"13" :  "(83,(87,88), rel)",
+"14" :  "(83,(87,90), rel)"}]
+}

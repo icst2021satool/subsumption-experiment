@@ -1,0 +1,19 @@
+{
+"Class" : "elki.visualization.parallel3d.OpenGL3DParallelCoordinates", 
+"Methods" : [{ "Name" : "processNewResult" ,
+"Duas" : 9,
+"0" :  "(126,136, this)",
+"1" :  "(126,137, this)",
+"2" :  "(126,(128,129), NUMBER_VECTOR_FIELD)",
+"3" :  "(126,(128,132), NUMBER_VECTOR_FIELD)",
+"4" :  "(126,137, this.settings)",
+"5" :  "(127,(128,129), rel)",
+"6" :  "(127,(128,132), rel)",
+"7" :  "(127,132, rel)",
+"8" :  "(127,136, rel)"},{ "Name" : "getStylePolicy" ,
+"Duas" : 4,
+"0" :  "(147,153, stylelib)",
+"1" :  "(149,(150,151), clusterings)",
+"2" :  "(149,(150,153), clusterings)",
+"3" :  "(149,153, clusterings)"}]
+}

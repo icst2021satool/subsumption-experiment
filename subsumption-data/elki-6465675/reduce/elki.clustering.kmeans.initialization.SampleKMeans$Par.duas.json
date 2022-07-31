@@ -1,0 +1,18 @@
+{
+"Class" : "elki.clustering.kmeans.initialization.SampleKMeans$Par", 
+"Methods" : [{ "Name" : "configure" ,
+"Duas" : 13,
+"0" :  "(155,170, this)",
+"1" :  "(155,166, this)",
+"2" :  "(155,(157,158), config)",
+"3" :  "(155,(157,169), config)",
+"4" :  "(155,170, config)",
+"5" :  "(155,164, config)",
+"6" :  "(155,165, config)",
+"7" :  "(155,161, K_ID)",
+"8" :  "(155,162, DISTANCE_FUNCTION_ID)",
+"9" :  "(155,169, SAMPLE_ID)",
+"10" :  "(156,(157,158), kMeansVariantP)",
+"11" :  "(156,(157,169), kMeansVariantP)",
+"12" :  "(156,166, kMeansVariantP)"}]
+}

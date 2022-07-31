@@ -1,0 +1,23 @@
+{
+"Class" : "elki.visualization.svg.SVGEffects", 
+"Methods" : [{ "Name" : "addShadowFilter" ,
+"Duas" : 8,
+"0" :  "(58,60, svgp)",
+"1" :  "(58,65, svgp)",
+"2" :  "(58,72, svgp)",
+"3" :  "(58,78, svgp)",
+"4" :  "(58,84, svgp)",
+"5" :  "(58,85, svgp)",
+"6" :  "(58,(59,60), shadow)",
+"7" :  "(58,(59,87), shadow)"},{ "Name" : "addLightGradient" ,
+"Duas" : 9,
+"0" :  "(97,99, svgp)",
+"1" :  "(97,106, svgp)",
+"2" :  "(97,112, svgp)",
+"3" :  "(97,118, svgp)",
+"4" :  "(97,124, svgp)",
+"5" :  "(97,130, svgp)",
+"6" :  "(97,131, svgp)",
+"7" :  "(97,(98,99), gradient)",
+"8" :  "(97,(98,133), gradient)"}]
+}

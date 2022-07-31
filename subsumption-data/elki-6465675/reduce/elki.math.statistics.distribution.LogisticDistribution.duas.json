@@ -1,0 +1,12 @@
+{
+"Class" : "elki.math.statistics.distribution.LogisticDistribution", 
+"Methods" : [{ "Name" : "logcdf" ,
+"Duas" : 7,
+"0" :  "(142,(143,144), val)",
+"1" :  "(142,(143,146), val)",
+"2" :  "(142,(146,147), val)",
+"3" :  "(142,(146,150), val)",
+"4" :  "(142,150, val)",
+"5" :  "(142,147, val)",
+"6" :  "(142,144, val)"}]
+}

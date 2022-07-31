@@ -1,0 +1,10 @@
+{
+"Class" : "elki.data.type.SimpleTypeInformation", 
+"Methods" : [{ "Name" : "isAssignableFromType" ,
+"Duas" : 5,
+"0" :  "(114,118, this)",
+"1" :  "(114,(114,115), type)",
+"2" :  "(114,(114,117), type)",
+"3" :  "(114,117, type)",
+"4" :  "(114,118, this.cls)"}]
+}

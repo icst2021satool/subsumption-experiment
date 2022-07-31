@@ -1,0 +1,14 @@
+{
+"Class" : "elki.data.model.DendrogramModel", 
+"Methods" : [{ "Name" : "writeToText" ,
+"Duas" : 9,
+"0" :  "(56,59, this)",
+"1" :  "(56,60, this)",
+"2" :  "(56,59, out)",
+"3" :  "(56,60, out)",
+"4" :  "(56,57, out)",
+"5" :  "(56,(56,57), label)",
+"6" :  "(56,(56,59), label)",
+"7" :  "(56,57, label)",
+"8" :  "(56,60, this.height)"}]
+}

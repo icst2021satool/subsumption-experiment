@@ -1,0 +1,9 @@
+{
+"Class" : "elki.timeseries.ChangePoints", 
+"Methods" : [{ "Name" : "writeToText" ,
+"Duas" : 4,
+"0" :  "(56,59, out)",
+"1" :  "(56,60, out)",
+"2" :  "(56,58, buf)",
+"3" :  "(56,59, buf)"}]
+}

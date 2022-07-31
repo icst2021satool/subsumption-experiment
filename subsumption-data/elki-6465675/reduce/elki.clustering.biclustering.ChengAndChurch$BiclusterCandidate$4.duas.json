@@ -1,0 +1,21 @@
+{
+"Class" : "elki.clustering.biclustering.ChengAndChurch$BiclusterCandidate$4", 
+"Methods" : [{ "Name" : "visit" ,
+"Duas" : 16,
+"0" :  "(411,412, this)",
+"1" :  "(411,413, this)",
+"2" :  "(411,412, val)",
+"3" :  "(411,412, row)",
+"4" :  "(411,412, col)",
+"5" :  "(411,(411,411), selrow)",
+"6" :  "(411,(411,411), selrow)",
+"7" :  "(411,(411,411), selcol)",
+"8" :  "(411,(411,412), selcol)",
+"9" :  "(411,(411,411), $assertionsDisabled)",
+"10" :  "(411,(411,412), $assertionsDisabled)",
+"11" :  "(411,412, this.this$0)",
+"12" :  "(411,412, this.rowM)",
+"13" :  "(411,412, this.colM)",
+"14" :  "(411,412, this.allM)",
+"15" :  "(411,413, this.val$msr)"}]
+}

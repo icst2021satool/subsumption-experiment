@@ -1,0 +1,10 @@
+{
+"Class" : "elki.application.experiments.EvaluateIntrinsicDimensionalityEstimators$Aggregate$1", 
+"Methods" : [{ "Name" : "aggregate" ,
+"Duas" : 5,
+"0" :  "(217,221, data)",
+"1" :  "(217,221, avg)",
+"2" :  "(217,219, avg)",
+"3" :  "(219,221, avg)",
+"4" :  "(219,219, avg)"}]
+}

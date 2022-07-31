@@ -1,0 +1,17 @@
+{
+"Class" : "elki.data.uncertain.uncertainifier.AbstractDiscreteUncertainifier$Par", 
+"Methods" : [{ "Name" : "configure" ,
+"Duas" : 12,
+"0" :  "(102,(104,105), this)",
+"1" :  "(102,(104,107), this)",
+"2" :  "(102,108, this)",
+"3" :  "(102,109, this)",
+"4" :  "(102,112, this)",
+"5" :  "(102,108, config)",
+"6" :  "(102,112, config)",
+"7" :  "(102,(104,105), this.inner)",
+"8" :  "(102,(104,107), this.inner)",
+"9" :  "(102,107, MULT_MAX_ID)",
+"10" :  "(102,109, this.maxQuant)",
+"11" :  "(102,110, MULT_MIN_ID)"}]
+}

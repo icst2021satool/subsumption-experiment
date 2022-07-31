@@ -1,0 +1,9 @@
+{
+"Class" : "elki.evaluation.clustering.pairsegments.ClusterPairSegmentAnalysis", 
+"Methods" : [{ "Name" : "processNewResult" ,
+"Duas" : 4,
+"0" :  "(69,76, result)",
+"1" :  "(69,(71,72), clusterings)",
+"2" :  "(69,(71,76), clusterings)",
+"3" :  "(69,76, clusterings)"}]
+}

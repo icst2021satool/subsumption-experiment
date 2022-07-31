@@ -1,0 +1,21 @@
+{
+"Class" : "elki.datasource.parser.SparseNumberVectorLabelParserTest", 
+"Methods" : [{ "Name" : "parameters" ,
+"Duas" : 16,
+"0" :  "(49,64, SPARSE_VECTOR_VARIABLE_LENGTH)",
+"1" :  "(49,65, LABELLIST)",
+"2" :  "(54,(57,57), is)",
+"3" :  "(54,(57,64), is)",
+"4" :  "(54,57, is)",
+"5" :  "(54,57, is)",
+"6" :  "(55,(57,57), dbc)",
+"7" :  "(55,(57,57), dbc)",
+"8" :  "(55,57, dbc)",
+"9" :  "(55,57, dbc)",
+"10" :  "(56,64, bundle)",
+"11" :  "(56,65, bundle)",
+"12" :  "(56,67, bundle)",
+"13" :  "(56,68, bundle)",
+"14" :  "(56,71, bundle)",
+"15" :  "(56,72, bundle)"}]
+}

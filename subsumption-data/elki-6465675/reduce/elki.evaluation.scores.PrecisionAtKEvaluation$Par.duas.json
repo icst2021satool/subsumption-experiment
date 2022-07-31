@@ -1,0 +1,12 @@
+{
+"Class" : "elki.evaluation.scores.PrecisionAtKEvaluation$Par", 
+"Methods" : [{ "Name" : "make" ,
+"Duas" : 7,
+"0" :  "(122,(122,122), this)",
+"1" :  "(122,(122,122), this)",
+"2" :  "(122,122, this)",
+"3" :  "(122,(122,122), this.k)",
+"4" :  "(122,(122,122), this.k)",
+"5" :  "(122,122, this.k)",
+"6" :  "(122,122, RPRECISION)"}]
+}

@@ -1,0 +1,11 @@
+{
+"Class" : "elki.index.vafile.VectorApproximation", 
+"Methods" : [{ "Name" : "<init>" ,
+"Duas" : 6,
+"0" :  "(55,56, this)",
+"1" :  "(55,57, this)",
+"2" :  "(55,(56,56), id)",
+"3" :  "(55,(56,56), id)",
+"4" :  "(55,56, id)",
+"5" :  "(55,57, approximation)"}]
+}

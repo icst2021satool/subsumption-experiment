@@ -1,0 +1,9 @@
+{
+"Class" : "elki.clustering.dbscan.util.Core", 
+"Methods" : [{ "Name" : "mergeWith" ,
+"Duas" : "15" ,
+"Subsumers" : 2,
+"0" : [ 12, 8, 4, 0], "S0" : [0, 2, 3, 4, 6, 7, 8, 10, 11, 12, 14 ],
+"1" : [ 13, 9, 5, 1], "S1" : [1, 2, 3, 5, 6, 7, 9, 10, 11, 13, 14 ]
+}]
+}

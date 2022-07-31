@@ -1,0 +1,8 @@
+{
+"Class" : "elki.gui.GUIUtil", 
+"Methods" : [{ "Name" : "setLookAndFeel" ,
+"Duas" : 3,
+"0" :  "(56,(57,58), lf)",
+"1" :  "(56,(57,56), lf)",
+"2" :  "(56,58, lf)"}]
+}

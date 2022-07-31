@@ -1,0 +1,23 @@
+{
+"Class" : "elki.application.ConvertToBundleApplication", 
+"Methods" : [{ "Name" : "run" ,
+"Duas" : 18,
+"0" :  "(73,76, this)",
+"1" :  "(73,81, this)",
+"2" :  "(73,78, this)",
+"3" :  "(73,(73,74), LOG)",
+"4" :  "(73,(73,76), LOG)",
+"5" :  "(73,(77,78), LOG)",
+"6" :  "(73,(77,81), LOG)",
+"7" :  "(73,78, LOG)",
+"8" :  "(73,74, LOG)",
+"9" :  "(73,76, this.input)",
+"10" :  "(73,81, this.outfile)",
+"11" :  "(73,78, this.outfile)",
+"12" :  "(73,81, WRITE)",
+"13" :  "(76,83, bundle)",
+"14" :  "(81,(84,84), channel)",
+"15" :  "(81,(84,87), channel)",
+"16" :  "(81,84, channel)",
+"17" :  "(81,84, channel)"}]
+}

@@ -1,0 +1,14 @@
+{
+"Class" : "elki.visualization.svg.SVGEffects", 
+"Methods" : [{ "Name" : "addShadowFilter" ,
+"Duas" : "8" ,
+"Subsumers" : 2,
+"0" : [ 6, 0, 1, 2, 3, 4, 5], "S0" : [0, 1, 2, 3, 4, 5, 6 ],
+"1" : [ 7], "S1" : [7 ]
+},{ "Name" : "addLightGradient" ,
+"Duas" : "9" ,
+"Subsumers" : 2,
+"0" : [ 7, 0, 1, 2, 3, 4, 5, 6], "S0" : [0, 1, 2, 3, 4, 5, 6, 7 ],
+"1" : [ 8], "S1" : [8 ]
+}]
+}

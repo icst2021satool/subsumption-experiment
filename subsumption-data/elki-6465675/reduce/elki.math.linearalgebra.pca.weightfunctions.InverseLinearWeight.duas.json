@@ -1,0 +1,9 @@
+{
+"Class" : "elki.math.linearalgebra.pca.weightfunctions.InverseLinearWeight", 
+"Methods" : [{ "Name" : "getWeight" ,
+"Duas" : 4,
+"0" :  "(43,43, distance)",
+"1" :  "(43,(43,43), max)",
+"2" :  "(43,(43,43), max)",
+"3" :  "(43,43, max)"}]
+}

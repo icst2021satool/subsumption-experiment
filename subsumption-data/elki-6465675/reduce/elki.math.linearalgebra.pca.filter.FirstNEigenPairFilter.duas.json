@@ -1,0 +1,14 @@
+{
+"Class" : "elki.math.linearalgebra.pca.filter.FirstNEigenPairFilter", 
+"Methods" : [{ "Name" : "filter" ,
+"Duas" : 9,
+"0" :  "(59,(59,59), this)",
+"1" :  "(59,(59,59), this)",
+"2" :  "(59,59, this)",
+"3" :  "(59,(59,59), eigenValues)",
+"4" :  "(59,(59,59), eigenValues)",
+"5" :  "(59,59, eigenValues)",
+"6" :  "(59,(59,59), this.n)",
+"7" :  "(59,(59,59), this.n)",
+"8" :  "(59,59, this.n)"}]
+}

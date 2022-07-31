@@ -1,0 +1,11 @@
+{
+"Class" : "elki.clustering.hierarchical.linkage.CompleteLinkage", 
+"Methods" : [{ "Name" : "combine" ,
+"Duas" : 6,
+"0" :  "(115,(115,115), dx)",
+"1" :  "(115,(115,115), dx)",
+"2" :  "(115,115, dx)",
+"3" :  "(115,(115,115), dy)",
+"4" :  "(115,(115,115), dy)",
+"5" :  "(115,115, dy)"}]
+}

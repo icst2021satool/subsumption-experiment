@@ -1,0 +1,9 @@
+{
+"Class" : "elki.index.laesa.LAESA$Factory$Par", 
+"Methods" : [{ "Name" : "lambda$configure$0" ,
+"Duas" : 4,
+"0" :  "(620,(621,622), this)",
+"1" :  "(620,(621,624), this)",
+"2" :  "(620,(621,622), this.distance)",
+"3" :  "(620,(621,624), this.distance)"}]
+}

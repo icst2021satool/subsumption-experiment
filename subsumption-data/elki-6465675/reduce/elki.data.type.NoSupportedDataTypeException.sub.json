@@ -1,0 +1,9 @@
+{
+"Class" : "elki.data.type.NoSupportedDataTypeException", 
+"Methods" : [{ "Name" : "getMessage" ,
+"Duas" : "9" ,
+"Subsumers" : 2,
+"0" : [ 8], "S0" : [0, 2, 3, 5, 6, 7, 8 ],
+"1" : [ 4, 1], "S1" : [1, 4, 6 ]
+}]
+}

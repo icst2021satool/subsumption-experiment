@@ -1,0 +1,17 @@
+{
+"Class" : "elki.utilities.datastructures.histogram.DoubleHistogramTest", 
+"Methods" : [{ "Name" : "testHistogram" ,
+"Duas" : 12,
+"0" :  "(43,64, resized)",
+"1" :  "(61,63, off)",
+"2" :  "(61,64, off)",
+"3" :  "(61,65, off)",
+"4" :  "(62,(62,63), iter)",
+"5" :  "(62,(62,67), iter)",
+"6" :  "(62,63, iter)",
+"7" :  "(62,64, iter)",
+"8" :  "(62,62, iter)",
+"9" :  "(65,63, off)",
+"10" :  "(65,64, off)",
+"11" :  "(65,65, off)"}]
+}

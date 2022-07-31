@@ -1,0 +1,14 @@
+{
+"Class" : "elki.database.relation.RelationUtil$RelationObjectIterator", 
+"Methods" : [{ "Name" : "next" ,
+"Duas" : 9,
+"0" :  "(243,(243,244), this)",
+"1" :  "(243,(243,246), this)",
+"2" :  "(243,246, this)",
+"3" :  "(243,247, this)",
+"4" :  "(243,(243,244), this.iter)",
+"5" :  "(243,(243,246), this.iter)",
+"6" :  "(243,246, this.iter)",
+"7" :  "(243,247, this.iter)",
+"8" :  "(243,246, this.database)"}]
+}

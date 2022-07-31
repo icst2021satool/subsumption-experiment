@@ -1,0 +1,14 @@
+{
+"Class" : "elki.database.ids.integer.IntegerDBIDVar$Itr", 
+"Methods" : [{ "Name" : "valid" ,
+"Duas" : 4,
+"0" :  "(193,(193,193), this)",
+"1" :  "(193,(193,193), this)",
+"2" :  "(193,(193,193), this.pos)",
+"3" :  "(193,(193,193), this.pos)"},{ "Name" : "equals" ,
+"Duas" : 4,
+"0" :  "(204,207, this)",
+"1" :  "(204,(204,205), other)",
+"2" :  "(204,(204,207), other)",
+"3" :  "(204,207, other)"}]
+}

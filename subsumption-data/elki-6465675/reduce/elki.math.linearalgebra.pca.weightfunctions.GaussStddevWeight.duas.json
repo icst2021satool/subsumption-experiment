@@ -1,0 +1,11 @@
+{
+"Class" : "elki.math.linearalgebra.pca.weightfunctions.GaussStddevWeight", 
+"Methods" : [{ "Name" : "getWeight" ,
+"Duas" : 6,
+"0" :  "(39,42, distance)",
+"1" :  "(39,(39,40), stddev)",
+"2" :  "(39,(39,42), stddev)",
+"3" :  "(39,42, stddev)",
+"4" :  "(39,43, stddev)",
+"5" :  "(39,43, ONE_BY_SQRTTWOPI)"}]
+}

@@ -1,0 +1,15 @@
+{
+"Class" : "elki.datasource.filter.typeconversions.MultivariateTimeSeriesFilter", 
+"Methods" : [{ "Name" : "filterSingleObject" ,
+"Duas" : 10,
+"0" :  "(62,(62,63), this)",
+"1" :  "(62,(62,65), this)",
+"2" :  "(62,63, this)",
+"3" :  "(62,(62,63), obj)",
+"4" :  "(62,(62,65), obj)",
+"5" :  "(62,65, obj)",
+"6" :  "(62,63, obj)",
+"7" :  "(62,(62,63), this.variates)",
+"8" :  "(62,(62,65), this.variates)",
+"9" :  "(62,63, this.variates)"}]
+}

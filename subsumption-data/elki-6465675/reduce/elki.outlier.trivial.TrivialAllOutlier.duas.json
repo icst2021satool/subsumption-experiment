@@ -1,0 +1,12 @@
+{
+"Class" : "elki.outlier.trivial.TrivialAllOutlier", 
+"Methods" : [{ "Name" : "run" ,
+"Duas" : 7,
+"0" :  "(66,70, relation)",
+"1" :  "(66,70, scores)",
+"2" :  "(66,68, scores)",
+"3" :  "(67,(67,68), iditer)",
+"4" :  "(67,(67,70), iditer)",
+"5" :  "(67,68, iditer)",
+"6" :  "(67,67, iditer)"}]
+}

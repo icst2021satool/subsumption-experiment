@@ -1,0 +1,18 @@
+{
+"Class" : "elki.evaluation.clustering.internal.DaviesBouldinIndex$Par", 
+"Methods" : [{ "Name" : "configure" ,
+"Duas" : 13,
+"0" :  "(270,(274,274), this)",
+"1" :  "(270,(274,274), this)",
+"2" :  "(270,(274,274), this)",
+"3" :  "(270,(274,275), this)",
+"4" :  "(270,275, this)",
+"5" :  "(270,278, this)",
+"6" :  "(270,278, config)",
+"7" :  "(270,(274,274), this.distance)",
+"8" :  "(270,(274,274), this.distance)",
+"9" :  "(270,(274,274), this.distance)",
+"10" :  "(270,(274,275), this.distance)",
+"11" :  "(270,275, this.distance)",
+"12" :  "(270,277, POWER_ID)"}]
+}

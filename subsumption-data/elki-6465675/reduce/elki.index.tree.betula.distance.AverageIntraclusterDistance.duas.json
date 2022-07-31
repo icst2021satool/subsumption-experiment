@@ -1,0 +1,17 @@
+{
+"Class" : "elki.index.tree.betula.distance.AverageIntraclusterDistance", 
+"Methods" : [{ "Name" : "squaredDistance" ,
+"Duas" : 5,
+"0" :  "(65,65, nv)",
+"1" :  "(65,(65,65), cf1)",
+"2" :  "(65,(65,65), cf1)",
+"3" :  "(65,65, cf1)",
+"4" :  "(65,65, STATIC)"},{ "Name" : "squaredDistance" ,
+"Duas" : 6,
+"0" :  "(71,72, cf1)",
+"1" :  "(71,72, cf2)",
+"2" :  "(71,72, STATIC)",
+"3" :  "(71,(72,72), n12)",
+"4" :  "(71,(72,72), n12)",
+"5" :  "(71,72, n12)"}]
+}

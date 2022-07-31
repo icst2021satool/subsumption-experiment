@@ -1,0 +1,13 @@
+{
+"Class" : "elki.utilities.datastructures.heap.DoubleMinHeap$UnsortedIter", 
+"Methods" : [{ "Name" : "valid" ,
+"Duas" : 8,
+"0" :  "(213,(213,213), this)",
+"1" :  "(213,(213,213), this)",
+"2" :  "(213,(213,213), this.this$0)",
+"3" :  "(213,(213,213), this.this$0)",
+"4" :  "(213,(213,213), this.size)",
+"5" :  "(213,(213,213), this.size)",
+"6" :  "(213,(213,213), this.pos)",
+"7" :  "(213,(213,213), this.pos)"}]
+}

@@ -1,0 +1,13 @@
+{
+"Class" : "elki.data.HierarchicalClassLabel$Factory", 
+"Methods" : [{ "Name" : "makeFromString" ,
+"Duas" : 8,
+"0" :  "(202,206, this)",
+"1" :  "(202,206, this.existing)",
+"2" :  "(202,205, lbl)",
+"3" :  "(202,206, lbl)",
+"4" :  "(203,(204,205), l)",
+"5" :  "(203,(204,208), l)",
+"6" :  "(203,208, l)",
+"7" :  "(205,208, l)"}]
+}

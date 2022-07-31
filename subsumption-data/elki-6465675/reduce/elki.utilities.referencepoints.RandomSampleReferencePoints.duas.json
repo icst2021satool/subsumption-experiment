@@ -1,0 +1,23 @@
+{
+"Class" : "elki.utilities.referencepoints.RandomSampleReferencePoints", 
+"Methods" : [{ "Name" : "getReferencePoints" ,
+"Duas" : 18,
+"0" :  "(71,(71,72), this)",
+"1" :  "(71,(71,76), this)",
+"2" :  "(71,76, this)",
+"3" :  "(71,(71,72), db)",
+"4" :  "(71,(71,76), db)",
+"5" :  "(71,76, db)",
+"6" :  "(71,80, db)",
+"7" :  "(71,73, db)",
+"8" :  "(71,(71,72), this.samplesize)",
+"9" :  "(71,(71,76), this.samplesize)",
+"10" :  "(71,76, this.samplesize)",
+"11" :  "(71,76, this.rnd)",
+"12" :  "(78,82, result)",
+"13" :  "(78,80, result)",
+"14" :  "(79,(79,80), it)",
+"15" :  "(79,(79,82), it)",
+"16" :  "(79,80, it)",
+"17" :  "(79,79, it)"}]
+}

@@ -1,0 +1,10 @@
+{
+"Class" : "elki.database.datastore.DataStoreUtil$DescendingByDoubleDataStoreAndId", 
+"Methods" : [{ "Name" : "compare" ,
+"Duas" : 5,
+"0" :  "(247,248, id1)",
+"1" :  "(247,248, id2)",
+"2" :  "(247,(248,248), c)",
+"3" :  "(247,(248,248), c)",
+"4" :  "(247,248, c)"}]
+}

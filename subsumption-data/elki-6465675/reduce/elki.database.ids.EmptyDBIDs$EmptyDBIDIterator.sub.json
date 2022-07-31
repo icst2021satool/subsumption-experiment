@@ -1,0 +1,25 @@
+{
+"Class" : "elki.database.ids.EmptyDBIDs$EmptyDBIDIterator", 
+"Methods" : [{ "Name" : "advance" ,
+"Duas" : "3" ,
+"Subsumers" : 2,
+"0" : [ 2, 0], "S0" : [0, 2 ],
+"1" : [ 1], "S1" : [1 ]
+},{ "Name" : "equals" ,
+"Duas" : "4" ,
+"Subsumers" : 2,
+"0" : [ 1], "S0" : [0, 1, 3 ],
+"1" : [ 2], "S1" : [0, 2, 3 ]
+},{ "Name" : "advance" ,
+"Duas" : "5" ,
+"Subsumers" : 3,
+"0" : [ 2], "S0" : [0, 2, 3 ],
+"1" : [ 4], "S1" : [0, 4 ],
+"2" : [ 1], "S2" : [1, 3 ]
+},{ "Name" : "retract" ,
+"Duas" : "3" ,
+"Subsumers" : 2,
+"0" : [ 2, 0], "S0" : [0, 2 ],
+"1" : [ 1], "S1" : [1 ]
+}]
+}

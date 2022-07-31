@@ -1,0 +1,21 @@
+{
+"Class" : "elki.clustering.dbscan.predicates.FourCNeighborPredicate$Instance", 
+"Methods" : [{ "Name" : "getNeighbors" ,
+"Duas" : 16,
+"0" :  "(205,(209,210), this)",
+"1" :  "(205,(209,208), this)",
+"2" :  "(205,(209,210), reference)",
+"3" :  "(205,(209,208), reference)",
+"4" :  "(205,(209,210), this.storage)",
+"5" :  "(205,(209,208), this.storage)",
+"6" :  "(205,213, asymmetric)",
+"7" :  "(205,213, asymmetric.pdim)",
+"8" :  "(207,213, ids)",
+"9" :  "(207,210, ids)",
+"10" :  "(208,(208,209), neighbor)",
+"11" :  "(208,(208,213), neighbor)",
+"12" :  "(208,(209,210), neighbor)",
+"13" :  "(208,(209,208), neighbor)",
+"14" :  "(208,208, neighbor)",
+"15" :  "(208,210, neighbor)"}]
+}

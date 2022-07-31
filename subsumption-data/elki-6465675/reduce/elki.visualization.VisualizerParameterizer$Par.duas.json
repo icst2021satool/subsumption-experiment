@@ -1,0 +1,16 @@
+{
+"Class" : "elki.visualization.VisualizerParameterizer$Par", 
+"Methods" : [{ "Name" : "collectFactorys" ,
+"Duas" : 11,
+"0" :  "(315,321, config)",
+"1" :  "(315,322, config)",
+"2" :  "(315,(317,317), filter)",
+"3" :  "(315,(317,321), filter)",
+"4" :  "(315,(317,318), filter)",
+"5" :  "(315,(317,321), filter)",
+"6" :  "(315,334, factories)",
+"7" :  "(315,323, factories)",
+"8" :  "(316,322, c)",
+"9" :  "(316,(317,318), c)",
+"10" :  "(316,(317,321), c)"}]
+}

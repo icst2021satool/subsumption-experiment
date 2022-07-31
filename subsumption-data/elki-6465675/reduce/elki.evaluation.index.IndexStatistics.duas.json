@@ -1,0 +1,14 @@
+{
+"Class" : "elki.evaluation.index.IndexStatistics", 
+"Methods" : [{ "Name" : "processNewResult" ,
+"Duas" : 9,
+"0" :  "(54,65, this)",
+"1" :  "(54,66, db)",
+"2" :  "(55,65, header)",
+"3" :  "(56,(57,57), indexes)",
+"4" :  "(56,(57,58), indexes)",
+"5" :  "(56,(57,58), indexes)",
+"6" :  "(56,(57,60), indexes)",
+"7" :  "(56,60, indexes)",
+"8" :  "(61,65, header)"}]
+}

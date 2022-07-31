@@ -1,0 +1,11 @@
+{
+"Class" : "elki.distance.correlation.SquaredUncenteredCorrelationDistance", 
+"Methods" : [{ "Name" : "equals" ,
+"Duas" : 6,
+"0" :  "(70,(70,70), this)",
+"1" :  "(70,(70,70), this)",
+"2" :  "(70,(70,70), obj)",
+"3" :  "(70,(70,70), obj)",
+"4" :  "(70,(70,70), obj)",
+"5" :  "(70,(70,70), obj)"}]
+}

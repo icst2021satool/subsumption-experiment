@@ -1,0 +1,19 @@
+{
+"Class" : "elki.database.query.range.LinearScanDistanceRangeByObject", 
+"Methods" : [{ "Name" : "getRange" ,
+"Duas" : 14,
+"0" :  "(55,57, obj)",
+"1" :  "(55,(58,59), range)",
+"2" :  "(55,(58,56), range)",
+"3" :  "(55,62, result)",
+"4" :  "(55,59, result)",
+"5" :  "(55,57, dq)",
+"6" :  "(56,(56,57), iter)",
+"7" :  "(56,(56,62), iter)",
+"8" :  "(56,57, iter)",
+"9" :  "(56,56, iter)",
+"10" :  "(56,59, iter)",
+"11" :  "(57,(58,59), currentDistance)",
+"12" :  "(57,(58,56), currentDistance)",
+"13" :  "(57,59, currentDistance)"}]
+}

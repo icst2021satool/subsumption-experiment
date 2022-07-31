@@ -1,0 +1,10 @@
+{
+"Class" : "elki.visualization.parallel3d.OpenGL3DParallelCoordinates$Instance$2", 
+"Methods" : [{ "Name" : "mouseClicked" ,
+"Duas" : "13" ,
+"Subsumers" : 3,
+"0" : [ 12, 9, 3, 2], "S0" : [0, 2, 3, 5, 7, 9, 10, 12 ],
+"1" : [ 4], "S1" : [0, 4, 5, 7, 10 ],
+"2" : [ 11, 8, 6, 1], "S2" : [1, 6, 8, 11 ]
+}]
+}

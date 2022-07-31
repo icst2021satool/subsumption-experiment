@@ -1,0 +1,14 @@
+{
+"Class" : "elki.database.datastore.memory.ArrayDBIDStore", 
+"Methods" : [{ "Name" : "<init>" ,
+"Duas" : "13" ,
+"Subsumers" : 2,
+"0" : [ 12, 10], "S0" : [0, 1, 2, 3, 4, 5, 6, 7, 9, 10, 11, 12 ],
+"1" : [ 8], "S1" : [0, 3, 4, 8 ]
+},{ "Name" : "clear" ,
+"Duas" : "11" ,
+"Subsumers" : 2,
+"0" : [ 10, 8], "S0" : [0, 1, 2, 3, 4, 5, 7, 8, 9, 10 ],
+"1" : [ 6], "S1" : [4, 6 ]
+}]
+}

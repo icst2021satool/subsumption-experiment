@@ -1,0 +1,17 @@
+{
+"Class" : "elki.visualization.visualizers.scatterplot.cluster.ClusterOrderVisualization", 
+"Methods" : [{ "Name" : "lambda$processNewResult$0" ,
+"Duas" : 12,
+"0" :  "(79,83, this)",
+"1" :  "(79,86, context)",
+"2" :  "(79,87, context)",
+"3" :  "(79,83, co)",
+"4" :  "(79,86, co)",
+"5" :  "(79,87, p)",
+"6" :  "(79,(80,81), NUMBER_VECTOR_FIELD)",
+"7" :  "(79,(80,83), NUMBER_VECTOR_FIELD)",
+"8" :  "(79,85, ON_DATA)",
+"9" :  "(79,(80,81), rel)",
+"10" :  "(79,(80,83), rel)",
+"11" :  "(79,83, rel)"}]
+}

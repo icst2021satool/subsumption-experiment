@@ -1,0 +1,9 @@
+{
+"Class" : "elki.similarity.kernel.RadialBasisFunctionKernel", 
+"Methods" : [{ "Name" : "similarity" ,
+"Duas" : "18" ,
+"Subsumers" : 2,
+"0" : [ 16, 17, 14, 13], "S0" : [0, 1, 2, 3, 4, 5, 7, 8, 10, 11, 12, 13, 14, 15, 16, 17 ],
+"1" : [ 9, 6], "S1" : [0, 3, 5, 6, 9 ]
+}]
+}

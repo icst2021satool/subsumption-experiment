@@ -1,0 +1,19 @@
+{
+"Class" : "elki.clustering.dbscan.GriDBSCAN$Par", 
+"Methods" : [{ "Name" : "configure" ,
+"Duas" : 9,
+"0" :  "(720,(734,734), this)",
+"1" :  "(720,(734,734), this)",
+"2" :  "(720,735, this)",
+"3" :  "(720,737, this)",
+"4" :  "(720,737, config)",
+"5" :  "(720,737, GREATER_THAN_ZERO_DOUBLE)",
+"6" :  "(720,(734,734), this.epsilon)",
+"7" :  "(720,(734,734), this.epsilon)",
+"8" :  "(720,735, this.epsilon)"},{ "Name" : "lambda$configure$2" ,
+"Duas" : 4,
+"0" :  "(728,(729,730), this)",
+"1" :  "(728,(729,732), this)",
+"2" :  "(728,(729,730), this.minpts)",
+"3" :  "(728,(729,732), this.minpts)"}]
+}

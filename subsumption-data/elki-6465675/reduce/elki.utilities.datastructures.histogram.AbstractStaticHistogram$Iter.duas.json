@@ -1,0 +1,17 @@
+{
+"Class" : "elki.utilities.datastructures.histogram.AbstractStaticHistogram$Iter", 
+"Methods" : [{ "Name" : "valid" ,
+"Duas" : 12,
+"0" :  "(180,(180,180), this)",
+"1" :  "(180,(180,180), this)",
+"2" :  "(180,(180,180), this)",
+"3" :  "(180,(180,180), this)",
+"4" :  "(180,(180,180), this.bin)",
+"5" :  "(180,(180,180), this.bin)",
+"6" :  "(180,(180,180), this.bin)",
+"7" :  "(180,(180,180), this.bin)",
+"8" :  "(180,(180,180), this.this$0)",
+"9" :  "(180,(180,180), this.this$0)",
+"10" :  "(180,(180,180), this.size)",
+"11" :  "(180,(180,180), this.size)"}]
+}

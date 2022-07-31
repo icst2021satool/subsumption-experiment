@@ -1,0 +1,17 @@
+{
+"Class" : "elki.visualization.projector.SilhouettePlotFactory", 
+"Methods" : [{ "Name" : "processNewResult" ,
+"Duas" : 5,
+"0" :  "(46,51, context)",
+"1" :  "(46,51, start)",
+"2" :  "(46,(48,49), c)",
+"3" :  "(46,(48,51), c)",
+"4" :  "(46,51, c)"},{ "Name" : "lambda$processNewResult$0" ,
+"Duas" : 6,
+"0" :  "(52,53, context)",
+"1" :  "(52,53, c)",
+"2" :  "(52,53, c)",
+"3" :  "(52,(52,53), dds)",
+"4" :  "(52,(52,55), dds)",
+"5" :  "(52,53, dds)"}]
+}

@@ -1,0 +1,17 @@
+{
+"Class" : "elki.visualization.visualizers.scatterplot.uncertain.UncertainBoundingBoxVisualization", 
+"Methods" : [{ "Name" : "lambda$processNewResult$0" ,
+"Duas" : 12,
+"0" :  "(83,85, this)",
+"1" :  "(83,85, context)",
+"2" :  "(83,85, p)",
+"3" :  "(83,85, p)",
+"4" :  "(83,(84,85), UNCERTAIN_OBJECT_FIELD)",
+"5" :  "(83,(84,89), UNCERTAIN_OBJECT_FIELD)",
+"6" :  "(83,85, ON_DATA)",
+"7" :  "(83,85, ON_SAMPLE)",
+"8" :  "(83,85, ON_STYLEPOLICY)",
+"9" :  "(83,(84,85), r)",
+"10" :  "(83,(84,89), r)",
+"11" :  "(83,85, r)"}]
+}

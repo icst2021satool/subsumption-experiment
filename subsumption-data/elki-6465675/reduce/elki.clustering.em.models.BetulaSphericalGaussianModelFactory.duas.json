@@ -1,0 +1,20 @@
+{
+"Class" : "elki.clustering.em.models.BetulaSphericalGaussianModelFactory", 
+"Methods" : [{ "Name" : "buildInitialModels" ,
+"Duas" : 15,
+"0" :  "(70,74, k)",
+"1" :  "(70,75, k)",
+"2" :  "(70,77, k)",
+"3" :  "(70,(72,72), k)",
+"4" :  "(70,(72,74), k)",
+"5" :  "(70,74, tree)",
+"6" :  "(70,(72,72), $assertionsDisabled)",
+"7" :  "(70,(72,74), $assertionsDisabled)",
+"8" :  "(70,74, dim)",
+"9" :  "(71,76, initialMeans)",
+"10" :  "(71,(72,72), initialMeans)",
+"11" :  "(71,(72,74), initialMeans)",
+"12" :  "(74,77, variance)",
+"13" :  "(75,79, models)",
+"14" :  "(75,77, models)"}]
+}

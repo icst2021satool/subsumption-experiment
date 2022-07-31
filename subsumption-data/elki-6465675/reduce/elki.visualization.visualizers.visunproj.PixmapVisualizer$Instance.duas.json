@@ -1,0 +1,18 @@
+{
+"Class" : "elki.visualization.visualizers.visunproj.PixmapVisualizer$Instance", 
+"Methods" : [{ "Name" : "fullRedraw" ,
+"Duas" : 13,
+"0" :  "(114,130, this)",
+"1" :  "(114,136, this)",
+"2" :  "(114,138, this)",
+"3" :  "(114,130, this.svgp)",
+"4" :  "(114,136, this.result)",
+"5" :  "(118,138, this.layer)",
+"6" :  "(124,(128,128), iratio)",
+"7" :  "(124,(128,128), iratio)",
+"8" :  "(124,128, iratio)",
+"9" :  "(124,134, iratio)",
+"10" :  "(125,(128,128), tratio)",
+"11" :  "(125,(128,128), tratio)",
+"12" :  "(125,128, tratio)"}]
+}

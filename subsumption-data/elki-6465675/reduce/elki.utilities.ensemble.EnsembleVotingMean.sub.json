@@ -1,0 +1,9 @@
+{
+"Class" : "elki.utilities.ensemble.EnsembleVotingMean", 
+"Methods" : [{ "Name" : "combine" ,
+"Duas" : "16" ,
+"Subsumers" : 2,
+"0" : [ 14, 15, 12, 11], "S0" : [0, 1, 2, 3, 5, 6, 8, 9, 10, 11, 12, 13, 14, 15 ],
+"1" : [ 7, 4], "S1" : [2, 3, 4, 7 ]
+}]
+}

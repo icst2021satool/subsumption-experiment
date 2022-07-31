@@ -1,0 +1,8 @@
+{
+"Class" : "elki.math.statistics.distribution.estimator.ExponentialMOMEstimator", 
+"Methods" : [{ "Name" : "estimateFromMeanVariance" ,
+"Duas" : 3,
+"0" :  "(51,(52,53), scale)",
+"1" :  "(51,(52,55), scale)",
+"2" :  "(51,55, scale)"}]
+}

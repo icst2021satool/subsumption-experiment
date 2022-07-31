@@ -1,0 +1,22 @@
+{
+"Class" : "elki.index.tree.spatial.kd.split.MedianVarianceSplit", 
+"Methods" : [{ "Name" : "findSplit" ,
+"Duas" : 17,
+"0" :  "(58,66, relation)",
+"1" :  "(58,(60,61), dims)",
+"2" :  "(58,(60,63), dims)",
+"3" :  "(58,65, sorted)",
+"4" :  "(58,66, iter)",
+"5" :  "(58,63, left)",
+"6" :  "(58,65, left)",
+"7" :  "(58,63, right)",
+"8" :  "(58,65, right)",
+"9" :  "(58,64, comp)",
+"10" :  "(58,65, comp)",
+"11" :  "(58,(60,61), sumvar)",
+"12" :  "(58,(60,63), sumvar)",
+"13" :  "(59,(60,61), bestdim)",
+"14" :  "(59,(60,63), bestdim)",
+"15" :  "(59,64, bestdim)",
+"16" :  "(59,66, bestdim)"}]
+}

@@ -1,0 +1,13 @@
+{
+"Class" : "elki.clustering.kmeans.AbstractKMeans$Par", 
+"Methods" : [{ "Name" : "lambda$getParameterDistance$1" ,
+"Duas" : "12" ,
+"Subsumers" : 6,
+"0" : [ 10, 3], "S0" : [0, 3, 4, 6, 9, 10 ],
+"1" : [ 11], "S1" : [0, 2, 4, 6, 9, 11 ],
+"2" : [ 1], "S2" : [1, 2, 4, 6, 9 ],
+"3" : [ 8], "S3" : [4, 6, 8 ],
+"4" : [ 7], "S4" : [4, 7 ],
+"5" : [ 5], "S5" : [5 ]
+}]
+}

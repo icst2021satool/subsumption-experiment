@@ -1,0 +1,9 @@
+{
+"Class" : "elki.clustering.hierarchical.linkage.CompleteLinkage", 
+"Methods" : [{ "Name" : "combine" ,
+"Duas" : "6" ,
+"Subsumers" : 2,
+"0" : [ 3, 0], "S0" : [0, 2, 3, 5 ],
+"1" : [ 4, 1], "S1" : [1, 2, 4, 5 ]
+}]
+}

@@ -1,0 +1,18 @@
+{
+"Class" : "elki.index.tree.metrical.mtreevariants.mktrees.mkapp.PolynomialApproximation", 
+"Methods" : [{ "Name" : "getValueAt" ,
+"Duas" : "23" ,
+"Subsumers" : 2,
+"0" : [ 21, 22, 19, 17, 18, 16], "S0" : [0, 1, 2, 3, 4, 5, 7, 8, 9, 10, 11, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22 ],
+"1" : [ 12, 6], "S1" : [1, 4, 6, 12 ]
+},{ "Name" : "writeExternal" ,
+"Duas" : "1" ,
+"Subsumers" : 1,
+"0" : [ 0], "S0" : [0 ]
+},{ "Name" : "readExternal" ,
+"Duas" : "15" ,
+"Subsumers" : 2,
+"0" : [ 13, 14, 11], "S0" : [0, 1, 2, 3, 4, 5, 6, 7, 9, 10, 11, 12, 13, 14 ],
+"1" : [ 8], "S1" : [1, 5, 8 ]
+}]
+}

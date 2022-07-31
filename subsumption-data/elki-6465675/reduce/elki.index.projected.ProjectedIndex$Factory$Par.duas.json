@@ -1,0 +1,13 @@
+{
+"Class" : "elki.index.projected.ProjectedIndex$Factory$Par", 
+"Methods" : [{ "Name" : "configure" ,
+"Duas" : 8,
+"0" :  "(661,(667,668), this)",
+"1" :  "(661,(667,673), this)",
+"2" :  "(661,671, this)",
+"3" :  "(661,671, config)",
+"4" :  "(661,(667,668), this.norefine)",
+"5" :  "(661,(667,673), this.norefine)",
+"6" :  "(661,668, K_MULTIPLIER_ID)",
+"7" :  "(661,671, GREATER_EQUAL_ONE_DOUBLE)"}]
+}

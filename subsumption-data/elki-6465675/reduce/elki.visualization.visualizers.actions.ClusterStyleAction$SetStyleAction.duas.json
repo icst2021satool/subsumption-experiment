@@ -1,0 +1,13 @@
+{
+"Class" : "elki.visualization.visualizers.actions.ClusterStyleAction$SetStyleAction", 
+"Methods" : [{ "Name" : "enabled" ,
+"Duas" : 8,
+"0" :  "(106,(108,108), this)",
+"1" :  "(106,(108,108), this)",
+"2" :  "(106,(108,108), this.c)",
+"3" :  "(106,(108,108), this.c)",
+"4" :  "(106,(107,107), sp)",
+"5" :  "(106,(107,108), sp)",
+"6" :  "(106,(108,108), sp)",
+"7" :  "(106,(108,108), sp)"}]
+}

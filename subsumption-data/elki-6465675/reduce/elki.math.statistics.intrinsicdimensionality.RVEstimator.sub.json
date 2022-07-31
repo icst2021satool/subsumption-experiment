@@ -1,0 +1,9 @@
+{
+"Class" : "elki.math.statistics.intrinsicdimensionality.RVEstimator", 
+"Methods" : [{ "Name" : "estimate" ,
+"Duas" : "14" ,
+"Subsumers" : 2,
+"0" : [ 11, 12, 13, 10, 6, 7, 8, 3, 4, 5, 0, 1, 2], "S0" : [0, 1, 2, 3, 4, 5, 6, 7, 8, 10, 11, 12, 13 ],
+"1" : [ 9], "S1" : [9 ]
+}]
+}

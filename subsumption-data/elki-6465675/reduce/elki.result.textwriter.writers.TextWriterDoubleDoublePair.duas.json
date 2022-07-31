@@ -1,0 +1,19 @@
+{
+"Class" : "elki.result.textwriter.writers.TextWriterDoubleDoublePair", 
+"Methods" : [{ "Name" : "write" ,
+"Duas" : 14,
+"0" :  "(40,48, out)",
+"1" :  "(40,(42,43), label)",
+"2" :  "(40,(42,46), label)",
+"3" :  "(40,43, label)",
+"4" :  "(40,(40,42), object)",
+"5" :  "(40,(40,50), object)",
+"6" :  "(40,46, object)",
+"7" :  "(40,43, object)",
+"8" :  "(40,46, object.first)",
+"9" :  "(40,43, object.first)",
+"10" :  "(40,46, object.second)",
+"11" :  "(40,43, object.second)",
+"12" :  "(43,48, res)",
+"13" :  "(46,48, res)"}]
+}

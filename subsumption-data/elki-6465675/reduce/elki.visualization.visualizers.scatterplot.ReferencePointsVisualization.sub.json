@@ -1,0 +1,9 @@
+{
+"Class" : "elki.visualization.visualizers.scatterplot.ReferencePointsVisualization", 
+"Methods" : [{ "Name" : "lambda$processNewResult$0" ,
+"Duas" : "11" ,
+"Subsumers" : 2,
+"0" : [ 10, 9, 7, 5, 3, 4, 1, 2, 0], "S0" : [0, 1, 2, 3, 4, 5, 7, 9, 10 ],
+"1" : [ 8, 6], "S1" : [6, 8 ]
+}]
+}

@@ -1,0 +1,11 @@
+{
+"Class" : "elki.math.statistics.distribution.estimator.EMGOlivierNorbergEstimator", 
+"Methods" : [{ "Name" : "estimateFromStatisticalMoments" ,
+"Duas" : 6,
+"0" :  "(65,(71,71), halfsk13)",
+"1" :  "(65,(71,71), halfsk13)",
+"2" :  "(65,71, halfsk13)",
+"3" :  "(66,71, st)",
+"4" :  "(67,72, mu)",
+"5" :  "(69,72, si)"}]
+}

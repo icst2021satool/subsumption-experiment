@@ -1,0 +1,15 @@
+{
+"Class" : "elki.outlier.svm.LibSVMOneClassOutlierDetection$Par", 
+"Methods" : [{ "Name" : "configure" ,
+"Duas" : 10,
+"0" :  "(286,(292,293), this)",
+"1" :  "(286,(292,298), this)",
+"2" :  "(286,296, this)",
+"3" :  "(286,296, config)",
+"4" :  "(286,(292,293), LINEAR)",
+"5" :  "(286,(292,298), LINEAR)",
+"6" :  "(286,(292,293), this.kernel)",
+"7" :  "(286,(292,298), this.kernel)",
+"8" :  "(286,293, GAMMA_ID)",
+"9" :  "(286,296, GREATER_EQUAL_ZERO_DOUBLE)"}]
+}

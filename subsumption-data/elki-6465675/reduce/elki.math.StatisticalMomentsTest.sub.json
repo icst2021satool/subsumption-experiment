@@ -1,0 +1,12 @@
+{
+"Class" : "elki.math.StatisticalMomentsTest", 
+"Methods" : [{ "Name" : "testTiny" ,
+"Duas" : "6" ,
+"Subsumers" : 1,
+"0" : [ 5], "S0" : [0, 1, 2, 3, 4, 5 ]
+},{ "Name" : "testGamma" ,
+"Duas" : "12" ,
+"Subsumers" : 1,
+"0" : [ 11], "S0" : [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11 ]
+}]
+}

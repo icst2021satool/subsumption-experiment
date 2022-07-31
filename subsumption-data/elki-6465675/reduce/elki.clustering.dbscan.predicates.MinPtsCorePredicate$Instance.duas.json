@@ -1,0 +1,11 @@
+{
+"Class" : "elki.clustering.dbscan.predicates.MinPtsCorePredicate$Instance", 
+"Methods" : [{ "Name" : "isCorePoint" ,
+"Duas" : 6,
+"0" :  "(112,(112,112), this)",
+"1" :  "(112,(112,112), this)",
+"2" :  "(112,(112,112), neighbors)",
+"3" :  "(112,(112,112), neighbors)",
+"4" :  "(112,(112,112), this.minpts)",
+"5" :  "(112,(112,112), this.minpts)"}]
+}

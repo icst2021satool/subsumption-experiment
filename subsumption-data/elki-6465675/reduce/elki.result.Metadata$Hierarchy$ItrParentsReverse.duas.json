@@ -1,0 +1,20 @@
+{
+"Class" : "elki.result.Metadata$Hierarchy$ItrParentsReverse", 
+"Methods" : [{ "Name" : "advance" ,
+"Duas" : 15,
+"0" :  "(603,(604,605), this)",
+"1" :  "(603,(604,608), this)",
+"2" :  "(603,608, this)",
+"3" :  "(603,605, this)",
+"4" :  "(603,605, this)",
+"5" :  "(603,(606,606), this)",
+"6" :  "(603,(606,608), this)",
+"7" :  "(603,(604,605), this.pos)",
+"8" :  "(603,(604,608), this.pos)",
+"9" :  "(603,605, this.pos)",
+"10" :  "(603,605, this.this$1)",
+"11" :  "(603,(606,606), $assertionsDisabled)",
+"12" :  "(603,(606,608), $assertionsDisabled)",
+"13" :  "(605,(606,606), this.current)",
+"14" :  "(605,(606,608), this.current)"}]
+}

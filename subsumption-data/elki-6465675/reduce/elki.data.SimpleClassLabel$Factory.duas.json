@@ -1,0 +1,13 @@
+{
+"Class" : "elki.data.SimpleClassLabel$Factory", 
+"Methods" : [{ "Name" : "makeFromString" ,
+"Duas" : 8,
+"0" :  "(127,131, this)",
+"1" :  "(127,131, this.existing)",
+"2" :  "(127,130, lbl)",
+"3" :  "(127,131, lbl)",
+"4" :  "(128,(129,130), l)",
+"5" :  "(128,(129,133), l)",
+"6" :  "(128,133, l)",
+"7" :  "(130,133, l)"}]
+}

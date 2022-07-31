@@ -1,0 +1,9 @@
+{
+"Class" : "elki.visualization.visualizers.scatterplot.uncertain.UncertainBoundingBoxVisualization", 
+"Methods" : [{ "Name" : "lambda$processNewResult$0" ,
+"Duas" : "12" ,
+"Subsumers" : 2,
+"0" : [ 11, 9, 8, 7, 6, 4, 2, 3, 1, 0], "S0" : [0, 1, 2, 3, 4, 6, 7, 8, 9, 11 ],
+"1" : [ 10, 5], "S1" : [5, 10 ]
+}]
+}

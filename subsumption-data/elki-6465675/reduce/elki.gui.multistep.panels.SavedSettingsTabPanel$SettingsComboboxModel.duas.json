@@ -1,0 +1,9 @@
+{
+"Class" : "elki.gui.multistep.panels.SavedSettingsTabPanel$SettingsComboboxModel", 
+"Methods" : [{ "Name" : "setSelectedItem" ,
+"Duas" : 4,
+"0" :  "(198,199, this)",
+"1" :  "(198,(198,199), anItem)",
+"2" :  "(198,(198,201), anItem)",
+"3" :  "(198,199, anItem)"}]
+}

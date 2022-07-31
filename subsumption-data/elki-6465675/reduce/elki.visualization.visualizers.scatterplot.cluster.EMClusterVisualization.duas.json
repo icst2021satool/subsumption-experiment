@@ -1,0 +1,14 @@
+{
+"Class" : "elki.visualization.visualizers.scatterplot.cluster.EMClusterVisualization", 
+"Methods" : [{ "Name" : "lambda$processNewResult$0" ,
+"Duas" : 9,
+"0" :  "(104,108, this)",
+"1" :  "(104,108, context)",
+"2" :  "(104,108, p)",
+"3" :  "(104,108, p)",
+"4" :  "(104,(105,106), NUMBER_VECTOR_FIELD)",
+"5" :  "(104,(105,108), NUMBER_VECTOR_FIELD)",
+"6" :  "(104,108, ON_STYLEPOLICY)",
+"7" :  "(104,(105,106), rel)",
+"8" :  "(104,(105,108), rel)"}]
+}

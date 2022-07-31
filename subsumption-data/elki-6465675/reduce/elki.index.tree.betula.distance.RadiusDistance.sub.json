@@ -1,0 +1,14 @@
+{
+"Class" : "elki.index.tree.betula.distance.RadiusDistance", 
+"Methods" : [{ "Name" : "squaredDistance" ,
+"Duas" : "5" ,
+"Subsumers" : 2,
+"0" : [ 1], "S0" : [0, 1, 3, 4 ],
+"1" : [ 2], "S1" : [0, 2, 3, 4 ]
+},{ "Name" : "squaredDistance" ,
+"Duas" : "8" ,
+"Subsumers" : 2,
+"0" : [ 5], "S0" : [0, 1, 2, 3, 4, 5, 7 ],
+"1" : [ 6], "S1" : [0, 1, 2, 3, 4, 6, 7 ]
+}]
+}

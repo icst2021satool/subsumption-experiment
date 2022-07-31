@@ -1,0 +1,11 @@
+{
+"Class" : "elki.math.statistics.intrinsicdimensionality.LMomentsEstimator", 
+"Methods" : [{ "Name" : "estimate" ,
+"Duas" : "21" ,
+"Subsumers" : 4,
+"0" : [ 20, 17, 16, 14], "S0" : [0, 1, 3, 4, 6, 7, 8, 11, 13, 14, 16, 17, 20 ],
+"1" : [ 19, 18, 15], "S1" : [0, 1, 3, 4, 6, 7, 8, 11, 13, 15, 18, 19 ],
+"2" : [ 12, 9, 5, 2], "S2" : [2, 5, 9, 11, 12 ],
+"3" : [ 10], "S3" : [10 ]
+}]
+}

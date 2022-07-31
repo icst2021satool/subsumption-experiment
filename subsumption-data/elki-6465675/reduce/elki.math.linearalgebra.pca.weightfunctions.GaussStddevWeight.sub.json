@@ -1,0 +1,9 @@
+{
+"Class" : "elki.math.linearalgebra.pca.weightfunctions.GaussStddevWeight", 
+"Methods" : [{ "Name" : "getWeight" ,
+"Duas" : "6" ,
+"Subsumers" : 2,
+"0" : [ 5, 3, 4, 2, 0], "S0" : [0, 2, 3, 4, 5 ],
+"1" : [ 1], "S1" : [1 ]
+}]
+}

@@ -1,0 +1,19 @@
+{
+"Class" : "elki.math.statistics.intrinsicdimensionality.RVEstimator", 
+"Methods" : [{ "Name" : "estimate" ,
+"Duas" : 14,
+"0" :  "(54,62, data)",
+"1" :  "(54,63, data)",
+"2" :  "(54,64, data)",
+"3" :  "(54,62, adapter)",
+"4" :  "(54,63, adapter)",
+"5" :  "(54,64, adapter)",
+"6" :  "(54,62, begin)",
+"7" :  "(54,63, begin)",
+"8" :  "(54,64, begin)",
+"9" :  "(55,(56,57), k)",
+"10" :  "(55,(56,59), k)",
+"11" :  "(55,59, k)",
+"12" :  "(55,60, k)",
+"13" :  "(55,61, k)"}]
+}

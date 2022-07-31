@@ -1,0 +1,20 @@
+{
+"Class" : "elki.classification.PriorProbabilityClassifierTest", 
+"Methods" : [{ "Name" : "testPriorResults" ,
+"Duas" : 15,
+"0" :  "(51,(58,59), prior)",
+"1" :  "(51,(58,57), prior)",
+"2" :  "(53,(58,59), relation)",
+"3" :  "(53,(58,57), relation)",
+"4" :  "(54,(58,59), labels)",
+"5" :  "(54,(58,57), labels)",
+"6" :  "(56,62, correct)",
+"7" :  "(56,59, correct)",
+"8" :  "(57,(57,58), iter)",
+"9" :  "(57,(57,62), iter)",
+"10" :  "(57,(58,59), iter)",
+"11" :  "(57,(58,57), iter)",
+"12" :  "(57,57, iter)",
+"13" :  "(59,62, correct)",
+"14" :  "(59,59, correct)"}]
+}

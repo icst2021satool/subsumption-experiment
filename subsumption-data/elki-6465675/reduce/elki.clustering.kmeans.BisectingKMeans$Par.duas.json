@@ -1,0 +1,14 @@
+{
+"Class" : "elki.clustering.kmeans.BisectingKMeans$Par", 
+"Methods" : [{ "Name" : "configure" ,
+"Duas" : 9,
+"0" :  "(190,202, this)",
+"1" :  "(190,(194,195), config)",
+"2" :  "(190,(194,204), config)",
+"3" :  "(190,200, config)",
+"4" :  "(190,201, config)",
+"5" :  "(190,198, K_ID)",
+"6" :  "(193,(194,195), kMeansVariantP)",
+"7" :  "(193,(194,204), kMeansVariantP)",
+"8" :  "(193,202, kMeansVariantP)"}]
+}

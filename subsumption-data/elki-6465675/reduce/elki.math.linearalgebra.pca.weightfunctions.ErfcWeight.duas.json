@@ -1,0 +1,9 @@
+{
+"Class" : "elki.math.linearalgebra.pca.weightfunctions.ErfcWeight", 
+"Methods" : [{ "Name" : "getWeight" ,
+"Duas" : 4,
+"0" :  "(42,42, distance)",
+"1" :  "(42,(42,42), max)",
+"2" :  "(42,(42,42), max)",
+"3" :  "(42,42, max)"}]
+}

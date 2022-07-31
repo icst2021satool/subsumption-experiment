@@ -1,0 +1,23 @@
+{
+"Class" : "elki.index.tree.spatial.rstarvariants.strategies.insert.CombinedInsertionStrategy", 
+"Methods" : [{ "Name" : "choose" ,
+"Duas" : 18,
+"0" :  "(74,78, this)",
+"1" :  "(74,75, this)",
+"2" :  "(74,78, options)",
+"3" :  "(74,75, options)",
+"4" :  "(74,78, getter)",
+"5" :  "(74,75, getter)",
+"6" :  "(74,78, obj)",
+"7" :  "(74,75, obj)",
+"8" :  "(74,(74,75), height)",
+"9" :  "(74,(74,78), height)",
+"10" :  "(74,78, height)",
+"11" :  "(74,75, height)",
+"12" :  "(74,(74,75), depth)",
+"13" :  "(74,(74,78), depth)",
+"14" :  "(74,78, depth)",
+"15" :  "(74,75, depth)",
+"16" :  "(74,75, this.leafStrategy)",
+"17" :  "(74,78, this.dirStrategy)"}]
+}

@@ -1,0 +1,20 @@
+{
+"Class" : "elki.visualization.parallel3d.layout.SimpleCircularMSTLayout3DPC", 
+"Methods" : [{ "Name" : "computeWeights" ,
+"Duas" : 6,
+"0" :  "(97,99, this)",
+"1" :  "(97,102, node)",
+"2" :  "(97,102, wsum)",
+"3" :  "(97,100, wsum)",
+"4" :  "(100,102, wsum)",
+"5" :  "(100,100, wsum)"},{ "Name" : "computePositions" ,
+"Duas" : 8,
+"0" :  "(115,122, depth)",
+"1" :  "(115,122, maxdepth)",
+"2" :  "(119,122, cpos)",
+"3" :  "(119,123, cpos)",
+"4" :  "(120,122, cwid)",
+"5" :  "(120,123, cwid)",
+"6" :  "(123,122, cpos)",
+"7" :  "(123,123, cpos)"}]
+}

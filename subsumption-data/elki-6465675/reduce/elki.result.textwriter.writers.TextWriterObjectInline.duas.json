@@ -1,0 +1,20 @@
+{
+"Class" : "elki.result.textwriter.writers.TextWriterObjectInline", 
+"Methods" : [{ "Name" : "write" ,
+"Duas" : 15,
+"0" :  "(39,48, out)",
+"1" :  "(39,(39,39), label)",
+"2" :  "(39,(39,39), label)",
+"3" :  "(39,39, label)",
+"4" :  "(39,(41,42), label)",
+"5" :  "(39,(41,45), label)",
+"6" :  "(39,(40,41), object)",
+"7" :  "(39,(40,48), object)",
+"8" :  "(39,45, object)",
+"9" :  "(39,42, object)",
+"10" :  "(39,48, res)",
+"11" :  "(39,45, res)",
+"12" :  "(39,42, res)",
+"13" :  "(42,48, res)",
+"14" :  "(45,48, res)"}]
+}

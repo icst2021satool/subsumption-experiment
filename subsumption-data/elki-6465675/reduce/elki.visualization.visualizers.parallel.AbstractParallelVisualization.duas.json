@@ -1,0 +1,15 @@
+{
+"Class" : "elki.visualization.visualizers.parallel.AbstractParallelVisualization", 
+"Methods" : [{ "Name" : "visualizationChanged" ,
+"Duas" : 10,
+"0" :  "(163,(164,165), this)",
+"1" :  "(163,(164,169), this)",
+"2" :  "(163,165, this)",
+"3" :  "(163,166, this)",
+"4" :  "(163,(164,165), item)",
+"5" :  "(163,(164,169), item)",
+"6" :  "(163,(164,165), this.proj)",
+"7" :  "(163,(164,169), this.proj)",
+"8" :  "(163,166, this.svgp)",
+"9" :  "(163,166, this.task)"}]
+}

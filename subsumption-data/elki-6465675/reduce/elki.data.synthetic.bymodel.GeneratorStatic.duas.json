@@ -1,0 +1,16 @@
+{
+"Class" : "elki.data.synthetic.bymodel.GeneratorStatic", 
+"Methods" : [{ "Name" : "getDensity" ,
+"Duas" : 4,
+"0" :  "(73,(74,75), p)",
+"1" :  "(73,(74,77), p)",
+"2" :  "(73,(74,75), my)",
+"3" :  "(73,(74,77), my)"},{ "Name" : "computeMean" ,
+"Duas" : 6,
+"0" :  "(104,(104,104), this)",
+"1" :  "(104,(104,104), this)",
+"2" :  "(104,104, this)",
+"3" :  "(104,(104,104), this.points)",
+"4" :  "(104,(104,104), this.points)",
+"5" :  "(104,104, this.points)"}]
+}

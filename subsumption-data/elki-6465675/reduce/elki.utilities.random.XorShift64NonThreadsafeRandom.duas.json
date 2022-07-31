@@ -1,0 +1,14 @@
+{
+"Class" : "elki.utilities.random.XorShift64NonThreadsafeRandom", 
+"Methods" : [{ "Name" : "setSeed" ,
+"Duas" : 4,
+"0" :  "(80,80, this)",
+"1" :  "(80,(80,80), seed)",
+"2" :  "(80,(80,80), seed)",
+"3" :  "(80,80, seed)"},{ "Name" : "nextInt" ,
+"Duas" : 4,
+"0" :  "(131,134, this)",
+"1" :  "(131,(131,132), n)",
+"2" :  "(131,(131,134), n)",
+"3" :  "(131,134, n)"}]
+}

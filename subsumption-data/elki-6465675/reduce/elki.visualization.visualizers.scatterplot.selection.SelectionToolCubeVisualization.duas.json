@@ -1,0 +1,18 @@
+{
+"Class" : "elki.visualization.visualizers.scatterplot.selection.SelectionToolCubeVisualization", 
+"Methods" : [{ "Name" : "lambda$processNewResult$0" ,
+"Duas" : 13,
+"0" :  "(93,97, this)",
+"1" :  "(93,97, context)",
+"2" :  "(93,101, context)",
+"3" :  "(93,102, context)",
+"4" :  "(93,102, p)",
+"5" :  "(93,(94,95), NUMBER_VECTOR_FIELD)",
+"6" :  "(93,(94,97), NUMBER_VECTOR_FIELD)",
+"7" :  "(93,100, NO_THUMBNAIL)",
+"8" :  "(93,100, NO_EXPORT)",
+"9" :  "(93,100, ON_SELECTION)",
+"10" :  "(93,(94,95), rel)",
+"11" :  "(93,(94,97), rel)",
+"12" :  "(93,97, rel)"}]
+}

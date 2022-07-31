@@ -1,0 +1,7 @@
+{
+"Class" : "elki.datasource.filter.selection.FirstNStreamFilter", 
+"Methods" : [{ "Name" : "nextEvent" ,
+"Duas" : "18" ,
+"Subsumers" : 0 
+}]
+}

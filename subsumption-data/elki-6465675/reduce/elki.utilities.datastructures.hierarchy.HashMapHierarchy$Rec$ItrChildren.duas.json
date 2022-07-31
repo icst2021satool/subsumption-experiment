@@ -1,0 +1,13 @@
+{
+"Class" : "elki.utilities.datastructures.hierarchy.HashMapHierarchy$Rec$ItrChildren", 
+"Methods" : [{ "Name" : "valid" ,
+"Duas" : 8,
+"0" :  "(502,(502,502), this)",
+"1" :  "(502,(502,502), this)",
+"2" :  "(502,(502,502), this.this$0)",
+"3" :  "(502,(502,502), this.this$0)",
+"4" :  "(502,(502,502), this.numc)",
+"5" :  "(502,(502,502), this.numc)",
+"6" :  "(502,(502,502), this.pos)",
+"7" :  "(502,(502,502), this.pos)"}]
+}

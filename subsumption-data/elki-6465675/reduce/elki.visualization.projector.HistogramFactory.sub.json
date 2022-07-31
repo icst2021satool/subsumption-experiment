@@ -1,0 +1,11 @@
+{
+"Class" : "elki.visualization.projector.HistogramFactory", 
+"Methods" : [{ "Name" : "lambda$processNewResult$0" ,
+"Duas" : "17" ,
+"Subsumers" : 4,
+"0" : [ 12, 10, 5, 1, 0], "S0" : [0, 1, 3, 4, 5, 7, 10, 12 ],
+"1" : [ 6, 2], "S1" : [2, 6 ],
+"2" : [ 15, 8], "S2" : [3, 4, 7, 8, 11, 13, 15 ],
+"3" : [ 16, 14, 9], "S3" : [3, 4, 7, 9, 11, 13, 14, 16 ]
+}]
+}

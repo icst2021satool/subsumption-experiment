@@ -1,0 +1,10 @@
+{
+"Class" : "elki.result.SamplingResult", 
+"Methods" : [{ "Name" : "getSamplingResult" ,
+"Duas" : 5,
+"0" :  "(84,89, rel)",
+"1" :  "(84,90, rel)",
+"2" :  "(85,(86,87), it)",
+"3" :  "(85,(86,89), it)",
+"4" :  "(85,87, it)"}]
+}

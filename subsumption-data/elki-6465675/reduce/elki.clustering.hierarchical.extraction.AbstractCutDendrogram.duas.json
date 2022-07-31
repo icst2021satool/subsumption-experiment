@@ -1,0 +1,14 @@
+{
+"Class" : "elki.clustering.hierarchical.extraction.AbstractCutDendrogram", 
+"Methods" : [{ "Name" : "run" ,
+"Duas" : 9,
+"0" :  "(101,102, this)",
+"1" :  "(101,(101,101), this)",
+"2" :  "(101,(101,102), this)",
+"3" :  "(101,102, database)",
+"4" :  "(101,(101,101), $assertionsDisabled)",
+"5" :  "(101,(101,102), $assertionsDisabled)",
+"6" :  "(101,102, this.algorithm)",
+"7" :  "(101,(101,101), this.algorithm)",
+"8" :  "(101,(101,102), this.algorithm)"}]
+}

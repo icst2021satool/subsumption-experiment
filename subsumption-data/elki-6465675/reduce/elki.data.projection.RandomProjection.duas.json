@@ -1,0 +1,10 @@
+{
+"Class" : "elki.data.projection.RandomProjection", 
+"Methods" : [{ "Name" : "initialize" ,
+"Duas" : 5,
+"0" :  "(94,100, this)",
+"1" :  "(94,(99,100), LOG)",
+"2" :  "(94,(99,102), LOG)",
+"3" :  "(94,100, LOG)",
+"4" :  "(98,100, this.projection)"}]
+}

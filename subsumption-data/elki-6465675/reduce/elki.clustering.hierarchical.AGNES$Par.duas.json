@@ -1,0 +1,16 @@
+{
+"Class" : "elki.clustering.hierarchical.AGNES$Par", 
+"Methods" : [{ "Name" : "configure" ,
+"Duas" : 11,
+"0" :  "(394,(397,397), this)",
+"1" :  "(394,(397,397), this)",
+"2" :  "(394,400, this)",
+"3" :  "(394,(397,397), this)",
+"4" :  "(394,(397,397), this)",
+"5" :  "(394,400, config)",
+"6" :  "(394,(397,397), this.linkage)",
+"7" :  "(394,(397,397), this.linkage)",
+"8" :  "(394,(397,397), this.linkage)",
+"9" :  "(394,(397,397), this.linkage)",
+"10" :  "(394,399, DISTANCE_FUNCTION_ID)"}]
+}

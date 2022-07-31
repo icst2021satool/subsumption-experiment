@@ -1,0 +1,13 @@
+{
+"Class" : "elki.visualization.visualizers.optics.OPTICSSteepAreaVisualization", 
+"Methods" : [{ "Name" : "lambda$processNewResult$0" ,
+"Duas" : 8,
+"0" :  "(71,74, this)",
+"1" :  "(71,76, context)",
+"2" :  "(71,77, context)",
+"3" :  "(71,74, p)",
+"4" :  "(71,76, p)",
+"5" :  "(72,(73,74), r)",
+"6" :  "(72,(73,79), r)",
+"7" :  "(72,77, r)"}]
+}

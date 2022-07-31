@@ -1,0 +1,18 @@
+{
+"Class" : "elki.evaluation.clustering.internal.SimplifiedSilhouette$Par", 
+"Methods" : [{ "Name" : "configure" ,
+"Duas" : 9,
+"0" :  "(288,(292,293), this)",
+"1" :  "(288,(292,295), this)",
+"2" :  "(288,293, this)",
+"3" :  "(288,293, config)",
+"4" :  "(288,(292,293), IGNORE_NOISE)",
+"5" :  "(288,(292,295), IGNORE_NOISE)",
+"6" :  "(288,(292,293), this.noiseOption)",
+"7" :  "(288,(292,295), this.noiseOption)",
+"8" :  "(288,293, NO_PENALIZE_ID)"},{ "Name" : "lambda$configure$2" ,
+"Duas" : 3,
+"0" :  "(293,293, this)",
+"1" :  "(293,(293,293), x)",
+"2" :  "(293,(293,293), x)"}]
+}

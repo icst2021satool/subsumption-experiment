@@ -1,0 +1,11 @@
+{
+"Class" : "elki.itemsetmining.associationrules.AssociationRuleGeneration$PartialItemset", 
+"Methods" : [{ "Name" : "iterValid" ,
+"Duas" : 6,
+"0" :  "(341,(341,341), this)",
+"1" :  "(341,(341,341), this)",
+"2" :  "(341,(341,341), iter)",
+"3" :  "(341,(341,341), iter)",
+"4" :  "(341,(341,341), this.len)",
+"5" :  "(341,(341,341), this.len)"}]
+}

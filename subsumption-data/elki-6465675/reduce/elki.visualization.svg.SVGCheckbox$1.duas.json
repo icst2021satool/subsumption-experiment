@@ -1,0 +1,19 @@
+{
+"Class" : "elki.visualization.svg.SVGCheckbox$1", 
+"Methods" : [{ "Name" : "handleEvent" ,
+"Duas" : 14,
+"0" :  "(115,(115,116), this)",
+"1" :  "(115,(115,119), this)",
+"2" :  "(115,119, this)",
+"3" :  "(115,121, this)",
+"4" :  "(115,121, this)",
+"5" :  "(115,116, this)",
+"6" :  "(115,(115,116), this.this$0)",
+"7" :  "(115,(115,119), this.this$0)",
+"8" :  "(115,121, this.this$0)",
+"9" :  "(115,121, this.this$0)",
+"10" :  "(115,119, this.val$checkmark)",
+"11" :  "(115,116, this.val$checkmark)",
+"12" :  "(115,(115,116), this.checked)",
+"13" :  "(115,(115,119), this.checked)"}]
+}

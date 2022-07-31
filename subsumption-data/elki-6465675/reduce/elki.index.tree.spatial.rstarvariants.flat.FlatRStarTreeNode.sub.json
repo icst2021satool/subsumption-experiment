@@ -1,0 +1,11 @@
+{
+"Class" : "elki.index.tree.spatial.rstarvariants.flat.FlatRStarTreeNode", 
+"Methods" : [{ "Name" : "deleteEntry" ,
+"Duas" : "8" ,
+"Subsumers" : 4,
+"0" : [ 3], "S0" : [0, 3, 6 ],
+"1" : [ 4], "S1" : [0, 2, 4, 5, 6 ],
+"2" : [ 7], "S2" : [0, 2, 5, 7 ],
+"3" : [ 1], "S3" : [1, 2, 5 ]
+}]
+}

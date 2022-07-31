@@ -1,0 +1,13 @@
+{
+"Class" : "elki.visualization.projector.ParallelPlotProjector", 
+"Methods" : [{ "Name" : "arrange" ,
+"Duas" : 8,
+"0" :  "(75,78, this)",
+"1" :  "(75,79, this)",
+"2" :  "(75,78, this.rel)",
+"3" :  "(75,86, col)",
+"4" :  "(75,84, col)",
+"5" :  "(76,(77,78), tasks)",
+"6" :  "(76,(77,86), tasks)",
+"7" :  "(76,83, tasks)"}]
+}

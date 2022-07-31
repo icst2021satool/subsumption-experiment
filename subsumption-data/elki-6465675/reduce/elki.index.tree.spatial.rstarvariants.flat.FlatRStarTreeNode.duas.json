@@ -1,0 +1,13 @@
+{
+"Class" : "elki.index.tree.spatial.rstarvariants.flat.FlatRStarTreeNode", 
+"Methods" : [{ "Name" : "deleteEntry" ,
+"Duas" : 8,
+"0" :  "(54,(54,54), this)",
+"1" :  "(54,(54,57), this)",
+"2" :  "(54,57, this)",
+"3" :  "(54,(54,55), this)",
+"4" :  "(54,(54,57), this)",
+"5" :  "(54,57, index)",
+"6" :  "(54,(54,54), index)",
+"7" :  "(54,(54,57), index)"}]
+}

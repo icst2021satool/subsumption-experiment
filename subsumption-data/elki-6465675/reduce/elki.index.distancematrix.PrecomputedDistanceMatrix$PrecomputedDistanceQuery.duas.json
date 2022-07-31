@@ -1,0 +1,13 @@
+{
+"Class" : "elki.index.distancematrix.PrecomputedDistanceMatrix$PrecomputedDistanceQuery", 
+"Methods" : [{ "Name" : "distance" ,
+"Duas" : 8,
+"0" :  "(208,209, this)",
+"1" :  "(208,209, this.this$0)",
+"2" :  "(208,(209,209), x)",
+"3" :  "(208,(209,209), x)",
+"4" :  "(208,209, x)",
+"5" :  "(208,(209,209), y)",
+"6" :  "(208,(209,209), y)",
+"7" :  "(208,209, y)"}]
+}

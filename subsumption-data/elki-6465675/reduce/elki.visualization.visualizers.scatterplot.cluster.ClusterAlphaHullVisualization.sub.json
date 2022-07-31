@@ -1,0 +1,9 @@
+{
+"Class" : "elki.visualization.visualizers.scatterplot.cluster.ClusterAlphaHullVisualization", 
+"Methods" : [{ "Name" : "lambda$processNewResult$0" ,
+"Duas" : "12" ,
+"Subsumers" : 2,
+"0" : [ 11, 10, 8, 7, 6, 5, 2, 3, 1, 0], "S0" : [0, 1, 2, 3, 5, 6, 7, 8, 10, 11 ],
+"1" : [ 9, 4], "S1" : [4, 9 ]
+}]
+}

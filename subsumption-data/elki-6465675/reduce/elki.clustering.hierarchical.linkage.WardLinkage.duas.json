@@ -1,0 +1,12 @@
+{
+"Class" : "elki.clustering.hierarchical.linkage.WardLinkage", 
+"Methods" : [{ "Name" : "initial" ,
+"Duas" : 3,
+"0" :  "(110,110, d)",
+"1" :  "(110,(110,110), issquare)",
+"2" :  "(110,(110,110), issquare)"},{ "Name" : "restore" ,
+"Duas" : 3,
+"0" :  "(115,115, d)",
+"1" :  "(115,(115,115), issquare)",
+"2" :  "(115,(115,115), issquare)"}]
+}

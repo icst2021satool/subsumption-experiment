@@ -1,0 +1,12 @@
+{
+"Class" : "elki.distance.adapter.AbstractSimilarityAdapter", 
+"Methods" : [{ "Name" : "equals" ,
+"Duas" : 7,
+"0" :  "(82,(86,87), this)",
+"1" :  "(82,(86,90), this)",
+"2" :  "(82,(82,83), obj)",
+"3" :  "(82,(82,86), obj)",
+"4" :  "(82,(86,87), obj)",
+"5" :  "(82,(86,90), obj)",
+"6" :  "(82,90, obj)"}]
+}

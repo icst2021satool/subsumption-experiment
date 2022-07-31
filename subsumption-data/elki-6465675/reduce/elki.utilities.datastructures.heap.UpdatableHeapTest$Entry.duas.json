@@ -1,0 +1,13 @@
+{
+"Class" : "elki.utilities.datastructures.heap.UpdatableHeapTest$Entry", 
+"Methods" : [{ "Name" : "equals" ,
+"Duas" : 8,
+"0" :  "(121,(121,121), this)",
+"1" :  "(121,(121,121), this)",
+"2" :  "(121,(121,121), obj)",
+"3" :  "(121,(121,121), obj)",
+"4" :  "(121,(121,121), obj)",
+"5" :  "(121,(121,121), obj)",
+"6" :  "(121,(121,121), this.key)",
+"7" :  "(121,(121,121), this.key)"}]
+}

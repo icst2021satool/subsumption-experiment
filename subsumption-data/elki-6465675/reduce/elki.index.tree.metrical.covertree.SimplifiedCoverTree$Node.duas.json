@@ -1,0 +1,20 @@
+{
+"Class" : "elki.index.tree.metrical.covertree.SimplifiedCoverTree$Node", 
+"Methods" : [{ "Name" : "<init>" ,
+"Duas" : 15,
+"0" :  "(130,132, this)",
+"1" :  "(130,133, this)",
+"2" :  "(130,134, this)",
+"3" :  "(130,135, this)",
+"4" :  "(130,136, this)",
+"5" :  "(130,133, r)",
+"6" :  "(130,(131,131), r)",
+"7" :  "(130,(131,132), r)",
+"8" :  "(130,136, maxDist)",
+"9" :  "(130,132, singletons)",
+"10" :  "(130,134, singletons)",
+"11" :  "(130,(131,131), singletons)",
+"12" :  "(130,(131,132), singletons)",
+"13" :  "(130,(131,131), $assertionsDisabled)",
+"14" :  "(130,(131,132), $assertionsDisabled)"}]
+}

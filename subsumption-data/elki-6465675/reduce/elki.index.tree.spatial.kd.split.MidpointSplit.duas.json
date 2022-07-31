@@ -1,0 +1,12 @@
+{
+"Class" : "elki.index.tree.spatial.kd.split.MidpointSplit", 
+"Methods" : [{ "Name" : "findSplit" ,
+"Duas" : 7,
+"0" :  "(43,(47,48), right)",
+"1" :  "(43,(47,50), right)",
+"2" :  "(44,50, dim)",
+"3" :  "(45,50, mid)",
+"4" :  "(46,(47,48), r)",
+"5" :  "(46,(47,50), r)",
+"6" :  "(46,50, r)"}]
+}

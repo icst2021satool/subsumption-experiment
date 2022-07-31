@@ -1,0 +1,17 @@
+{
+"Class" : "elki.distance.geo.DimensionSelectingLatLngDistance$Par", 
+"Methods" : [{ "Name" : "configure" ,
+"Duas" : 12,
+"0" :  "(182,(189,190), this)",
+"1" :  "(182,(189,192), this)",
+"2" :  "(182,193, this)",
+"3" :  "(182,193, config)",
+"4" :  "(182,190, config)",
+"5" :  "(182,(189,190), this.dimlng)",
+"6" :  "(182,(189,192), this.dimlng)",
+"7" :  "(182,(189,190), this.dimlat)",
+"8" :  "(182,(189,192), this.dimlat)",
+"9" :  "(182,192, MODEL_ID)",
+"10" :  "(183,190, dimlatP)",
+"11" :  "(186,190, dimlngP)"}]
+}

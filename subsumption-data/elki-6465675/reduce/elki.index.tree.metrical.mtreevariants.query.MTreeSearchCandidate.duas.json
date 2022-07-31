@@ -1,0 +1,13 @@
+{
+"Class" : "elki.index.tree.metrical.mtreevariants.query.MTreeSearchCandidate", 
+"Methods" : [{ "Name" : "equals" ,
+"Duas" : 8,
+"0" :  "(75,(75,75), this)",
+"1" :  "(75,(75,75), this)",
+"2" :  "(75,(75,75), obj)",
+"3" :  "(75,(75,75), obj)",
+"4" :  "(75,(75,75), obj)",
+"5" :  "(75,(75,75), obj)",
+"6" :  "(75,(75,75), this.nodeID)",
+"7" :  "(75,(75,75), this.nodeID)"}]
+}

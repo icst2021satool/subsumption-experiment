@@ -1,0 +1,15 @@
+{
+"Class" : "elki.datasource.filter.typeconversions.SparseVectorFieldFilter", 
+"Methods" : [{ "Name" : "filterSingleObject" ,
+"Duas" : 10,
+"0" :  "(70,71, this)",
+"1" :  "(70,(70,70), this)",
+"2" :  "(70,(70,71), this)",
+"3" :  "(70,71, obj)",
+"4" :  "(70,72, obj)",
+"5" :  "(70,(70,70), $assertionsDisabled)",
+"6" :  "(70,(70,71), $assertionsDisabled)",
+"7" :  "(70,71, this.maxdim)",
+"8" :  "(70,(70,70), this.maxdim)",
+"9" :  "(70,(70,71), this.maxdim)"}]
+}

@@ -1,0 +1,15 @@
+{
+"Class" : "elki.distance.colorhistogram.HSBHistogramQuadraticDistance$Par", 
+"Methods" : [{ "Name" : "lambda$configure$0" ,
+"Duas" : 10,
+"0" :  "(124,125, this)",
+"1" :  "(124,126, this)",
+"2" :  "(124,127, this)",
+"3" :  "(124,125, quant)",
+"4" :  "(124,126, quant)",
+"5" :  "(124,127, quant)",
+"6" :  "(124,(124,124), quant)",
+"7" :  "(124,(124,125), quant)",
+"8" :  "(124,(124,124), $assertionsDisabled)",
+"9" :  "(124,(124,125), $assertionsDisabled)"}]
+}

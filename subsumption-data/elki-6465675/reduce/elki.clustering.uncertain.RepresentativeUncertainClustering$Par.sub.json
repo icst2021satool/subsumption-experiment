@@ -1,0 +1,16 @@
+{
+"Class" : "elki.clustering.uncertain.RepresentativeUncertainClustering$Par", 
+"Methods" : [{ "Name" : "lambda$configure$2" ,
+"Duas" : "9" ,
+"Subsumers" : 3,
+"0" : [ 7, 6, 4, 1, 0], "S0" : [0, 1, 2, 4, 6, 7 ],
+"1" : [ 8, 5], "S1" : [2, 5, 8 ],
+"2" : [ 3], "S2" : [3 ]
+},{ "Name" : "lambda$configure$1" ,
+"Duas" : "8" ,
+"Subsumers" : 3,
+"0" : [ 6, 4, 1, 0], "S0" : [0, 1, 2, 4, 6 ],
+"1" : [ 7, 5], "S1" : [2, 5, 7 ],
+"2" : [ 3], "S2" : [3 ]
+}]
+}

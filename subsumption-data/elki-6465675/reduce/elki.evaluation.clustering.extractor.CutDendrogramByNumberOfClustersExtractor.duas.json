@@ -1,0 +1,7 @@
+{
+"Class" : "elki.evaluation.clustering.extractor.CutDendrogramByNumberOfClustersExtractor", 
+"Methods" : [{ "Name" : "processNewResult" ,
+"Duas" : 2,
+"0" :  "(64,66, this)",
+"1" :  "(64,66, this.inner)"}]
+}

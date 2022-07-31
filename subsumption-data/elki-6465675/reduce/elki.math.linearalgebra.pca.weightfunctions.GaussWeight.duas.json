@@ -1,0 +1,9 @@
+{
+"Class" : "elki.math.linearalgebra.pca.weightfunctions.GaussWeight", 
+"Methods" : [{ "Name" : "getWeight" ,
+"Duas" : 4,
+"0" :  "(39,42, distance)",
+"1" :  "(39,(39,40), max)",
+"2" :  "(39,(39,42), max)",
+"3" :  "(39,42, max)"}]
+}

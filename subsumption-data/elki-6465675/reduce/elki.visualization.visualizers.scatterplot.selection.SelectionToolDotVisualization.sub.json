@@ -1,0 +1,9 @@
+{
+"Class" : "elki.visualization.visualizers.scatterplot.selection.SelectionToolDotVisualization", 
+"Methods" : [{ "Name" : "lambda$processNewResult$0" ,
+"Duas" : "14" ,
+"Subsumers" : 2,
+"0" : [ 13, 12, 10, 9, 8, 7, 6, 4, 1, 2, 3, 0], "S0" : [0, 1, 2, 3, 4, 6, 7, 8, 9, 10, 12, 13 ],
+"1" : [ 11, 5], "S1" : [5, 11 ]
+}]
+}

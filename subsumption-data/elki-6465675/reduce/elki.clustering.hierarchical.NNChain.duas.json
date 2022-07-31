@@ -1,0 +1,20 @@
+{
+"Class" : "elki.clustering.hierarchical.NNChain", 
+"Methods" : [{ "Name" : "run" ,
+"Duas" : 15,
+"0" :  "(81,(81,82), this)",
+"1" :  "(81,(81,84), this)",
+"2" :  "(81,84, this)",
+"3" :  "(81,86, this)",
+"4" :  "(81,87, this)",
+"5" :  "(81,87, this)",
+"6" :  "(81,84, relation)",
+"7" :  "(81,85, relation)",
+"8" :  "(81,(81,82), this.linkage)",
+"9" :  "(81,(81,84), this.linkage)",
+"10" :  "(81,86, this.linkage)",
+"11" :  "(81,87, this.linkage)",
+"12" :  "(81,82, LOG)",
+"13" :  "(81,84, this.distance)",
+"14" :  "(81,87, this.distance)"}]
+}

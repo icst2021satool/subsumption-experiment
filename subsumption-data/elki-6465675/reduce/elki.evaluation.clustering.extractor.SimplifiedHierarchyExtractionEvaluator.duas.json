@@ -1,0 +1,7 @@
+{
+"Class" : "elki.evaluation.clustering.extractor.SimplifiedHierarchyExtractionEvaluator", 
+"Methods" : [{ "Name" : "processNewResult" ,
+"Duas" : 2,
+"0" :  "(65,67, this)",
+"1" :  "(65,67, this.inner)"}]
+}

@@ -1,0 +1,7 @@
+{
+"Class" : "elki.evaluation.clustering.extractor.CutDendrogramByHeightExtractor", 
+"Methods" : [{ "Name" : "processNewResult" ,
+"Duas" : 2,
+"0" :  "(68,70, this)",
+"1" :  "(68,70, this.inner)"}]
+}

@@ -1,0 +1,13 @@
+{
+"Class" : "elki.utilities.datastructures.hierarchy.HashMapHierarchy$ItrAll", 
+"Methods" : [{ "Name" : "valid" ,
+"Duas" : 8,
+"0" :  "(719,(719,719), this)",
+"1" :  "(719,(719,719), this)",
+"2" :  "(719,(719,719), this.this$0)",
+"3" :  "(719,(719,719), this.this$0)",
+"4" :  "(719,(719,719), this.numelems)",
+"5" :  "(719,(719,719), this.numelems)",
+"6" :  "(719,(719,719), this.pos)",
+"7" :  "(719,(719,719), this.pos)"}]
+}

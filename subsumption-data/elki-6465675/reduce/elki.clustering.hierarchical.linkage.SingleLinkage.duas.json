@@ -1,0 +1,11 @@
+{
+"Class" : "elki.clustering.hierarchical.linkage.SingleLinkage", 
+"Methods" : [{ "Name" : "combine" ,
+"Duas" : 6,
+"0" :  "(76,(76,76), dx)",
+"1" :  "(76,(76,76), dx)",
+"2" :  "(76,76, dx)",
+"3" :  "(76,(76,76), dy)",
+"4" :  "(76,(76,76), dy)",
+"5" :  "(76,76, dy)"}]
+}

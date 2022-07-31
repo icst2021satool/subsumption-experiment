@@ -1,0 +1,20 @@
+{
+"Class" : "elki.database.query.range.LinearScanEuclideanRangeByObject", 
+"Methods" : [{ "Name" : "getRange" ,
+"Duas" : 15,
+"0" :  "(59,64, obj)",
+"1" :  "(59,69, result)",
+"2" :  "(59,66, result)",
+"3" :  "(59,64, relation)",
+"4" :  "(60,64, squared)",
+"5" :  "(62,(65,66), sqrange)",
+"6" :  "(62,(65,63), sqrange)",
+"7" :  "(63,(63,64), iter)",
+"8" :  "(63,(63,69), iter)",
+"9" :  "(63,64, iter)",
+"10" :  "(63,63, iter)",
+"11" :  "(63,66, iter)",
+"12" :  "(64,(65,66), sqdistance)",
+"13" :  "(64,(65,63), sqdistance)",
+"14" :  "(64,66, sqdistance)"}]
+}

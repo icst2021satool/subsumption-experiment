@@ -1,0 +1,21 @@
+{
+"Class" : "elki.utilities.optionhandling.parameters.DoubleParameter", 
+"Methods" : [{ "Name" : "parseValue" ,
+"Duas" : 7,
+"0" :  "(64,(64,65), obj)",
+"1" :  "(64,(64,67), obj)",
+"2" :  "(64,(67,68), obj)",
+"3" :  "(64,(67,71), obj)",
+"4" :  "(64,71, obj)",
+"5" :  "(64,68, obj)",
+"6" :  "(64,65, obj)"},{ "Name" : "grab" ,
+"Duas" : 8,
+"0" :  "(105,(105,106), this)",
+"1" :  "(105,(105,111), this)",
+"2" :  "(105,107, this)",
+"3" :  "(105,(105,106), config)",
+"4" :  "(105,(105,111), config)",
+"5" :  "(105,(106,107), consumer)",
+"6" :  "(105,(106,109), consumer)",
+"7" :  "(105,107, consumer)"}]
+}

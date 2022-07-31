@@ -1,0 +1,18 @@
+{
+"Class" : "elki.visualization.visualizers.parallel.selection.SelectionToolAxisRangeVisualization", 
+"Methods" : [{ "Name" : "lambda$processNewResult$0" ,
+"Duas" : 13,
+"0" :  "(89,93, this)",
+"1" :  "(89,93, context)",
+"2" :  "(89,97, context)",
+"3" :  "(89,98, context)",
+"4" :  "(89,98, p)",
+"5" :  "(89,(90,91), NUMBER_VECTOR_FIELD)",
+"6" :  "(89,(90,93), NUMBER_VECTOR_FIELD)",
+"7" :  "(89,96, ON_SELECTION)",
+"8" :  "(89,96, NO_THUMBNAIL)",
+"9" :  "(89,96, NO_EXPORT)",
+"10" :  "(89,(90,91), rel)",
+"11" :  "(89,(90,93), rel)",
+"12" :  "(89,93, rel)"}]
+}

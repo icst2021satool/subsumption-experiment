@@ -1,0 +1,10 @@
+{
+"Class" : "elki.data.type.TypeUtil$1", 
+"Methods" : [{ "Name" : "isAssignableFromType" ,
+"Duas" : "8" ,
+"Subsumers" : 3,
+"0" : [ 6, 4], "S0" : [0, 2, 4, 6 ],
+"1" : [ 7, 5], "S1" : [0, 2, 5, 7 ],
+"2" : [ 3, 1], "S2" : [1, 3 ]
+}]
+}

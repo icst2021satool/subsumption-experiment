@@ -1,0 +1,15 @@
+{
+"Class" : "elki.result.outlier.OrderingFromRelation", 
+"Methods" : [{ "Name" : "order" ,
+"Duas" : 10,
+"0" :  "(77,(78,78), this)",
+"1" :  "(77,(78,78), this)",
+"2" :  "(77,78, this)",
+"3" :  "(77,78, this)",
+"4" :  "(77,(78,78), this.ascending)",
+"5" :  "(77,(78,78), this.ascending)",
+"6" :  "(77,78, this.scores)",
+"7" :  "(77,78, this.scores)",
+"8" :  "(77,78, sorted)",
+"9" :  "(77,81, sorted)"}]
+}

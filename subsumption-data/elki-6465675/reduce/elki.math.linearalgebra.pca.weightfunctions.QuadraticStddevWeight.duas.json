@@ -1,0 +1,12 @@
+{
+"Class" : "elki.math.linearalgebra.pca.weightfunctions.QuadraticStddevWeight", 
+"Methods" : [{ "Name" : "getWeight" ,
+"Duas" : 7,
+"0" :  "(44,47, distance)",
+"1" :  "(44,(44,45), stddev)",
+"2" :  "(44,(44,47), stddev)",
+"3" :  "(44,47, stddev)",
+"4" :  "(47,(49,49), scaleddistance)",
+"5" :  "(47,(49,49), scaleddistance)",
+"6" :  "(47,49, scaleddistance)"}]
+}

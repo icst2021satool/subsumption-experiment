@@ -1,0 +1,12 @@
+{
+"Class" : "elki.visualization.batikutil.NodeReplaceAllChildren", 
+"Methods" : [{ "Name" : "run" ,
+"Duas" : 7,
+"0" :  "(59,(59,60), this)",
+"1" :  "(59,(59,62), this)",
+"2" :  "(59,62, this)",
+"3" :  "(59,60, this)",
+"4" :  "(59,(59,60), this.parent)",
+"5" :  "(59,(59,62), this.parent)",
+"6" :  "(59,60, this.parent)"}]
+}

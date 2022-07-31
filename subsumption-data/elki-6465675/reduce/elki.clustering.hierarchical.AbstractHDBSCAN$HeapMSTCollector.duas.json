@@ -1,0 +1,16 @@
+{
+"Class" : "elki.clustering.hierarchical.AbstractHDBSCAN$HeapMSTCollector", 
+"Methods" : [{ "Name" : "addEdge" ,
+"Duas" : 11,
+"0" :  "(207,(208,208), this)",
+"1" :  "(207,(208,211), this)",
+"2" :  "(207,(208,209), this)",
+"3" :  "(207,(208,211), this)",
+"4" :  "(207,209, this)",
+"5" :  "(207,(208,208), this.log)",
+"6" :  "(207,(208,211), this.log)",
+"7" :  "(207,209, this.log)",
+"8" :  "(207,(208,209), this.prog)",
+"9" :  "(207,(208,211), this.prog)",
+"10" :  "(207,209, this.prog)"}]
+}

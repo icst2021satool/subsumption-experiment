@@ -1,0 +1,14 @@
+{
+"Class" : "elki.data.model.DimensionModel", 
+"Methods" : [{ "Name" : "writeToText" ,
+"Duas" : 9,
+"0" :  "(68,71, this)",
+"1" :  "(68,72, this)",
+"2" :  "(68,71, out)",
+"3" :  "(68,72, out)",
+"4" :  "(68,69, out)",
+"5" :  "(68,(68,69), label)",
+"6" :  "(68,(68,71), label)",
+"7" :  "(68,69, label)",
+"8" :  "(68,72, this.dimension)"}]
+}

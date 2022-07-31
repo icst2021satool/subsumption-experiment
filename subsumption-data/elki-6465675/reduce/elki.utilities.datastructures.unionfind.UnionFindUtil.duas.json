@@ -1,0 +1,9 @@
+{
+"Class" : "elki.utilities.datastructures.unionfind.UnionFindUtil", 
+"Methods" : [{ "Name" : "make" ,
+"Duas" : 4,
+"0" :  "(47,(47,48), ids)",
+"1" :  "(47,(47,50), ids)",
+"2" :  "(47,50, ids)",
+"3" :  "(47,48, ids)"}]
+}

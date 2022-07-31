@@ -1,0 +1,22 @@
+{
+"Class" : "elki.datasource.filter.selection.RandomSamplingStreamFilter", 
+"Methods" : [{ "Name" : "nextEvent" ,
+"Duas" : 17,
+"0" :  "(77,(84,85), this)",
+"1" :  "(77,(84,77), this)",
+"2" :  "(77,(78,89), $SwitchMap$elki$datasource$bundle$BundleStreamSource$Event)",
+"3" :  "(77,(78,80), $SwitchMap$elki$datasource$bundle$BundleStreamSource$Event)",
+"4" :  "(77,(78,82), $SwitchMap$elki$datasource$bundle$BundleStreamSource$Event)",
+"5" :  "(77,(78,84), $SwitchMap$elki$datasource$bundle$BundleStreamSource$Event)",
+"6" :  "(77,(84,85), this.random)",
+"7" :  "(77,(84,77), this.random)",
+"8" :  "(77,(84,85), this.prob)",
+"9" :  "(77,(84,77), this.prob)",
+"10" :  "(77,(78,89), ev)",
+"11" :  "(77,(78,80), ev)",
+"12" :  "(77,(78,82), ev)",
+"13" :  "(77,(78,84), ev)",
+"14" :  "(77,85, ev)",
+"15" :  "(77,82, ev)",
+"16" :  "(77,80, ev)"}]
+}

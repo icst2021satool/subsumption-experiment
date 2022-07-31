@@ -1,0 +1,17 @@
+{
+"Class" : "elki.utilities.optionhandling.parameterization.AbstractParameterization", 
+"Methods" : [{ "Name" : "logAndClearReportedErrors" ,
+"Duas" : 7,
+"0" :  "(62,70, this)",
+"1" :  "(62,(63,64), LOG)",
+"2" :  "(62,(63,67), LOG)",
+"3" :  "(62,67, LOG)",
+"4" :  "(62,64, LOG)",
+"5" :  "(62,67, e)",
+"6" :  "(62,64, e)"},{ "Name" : "failOnErrors" ,
+"Duas" : 4,
+"0" :  "(89,91, this)",
+"1" :  "(89,(90,91), numerror)",
+"2" :  "(89,(90,94), numerror)",
+"3" :  "(89,92, numerror)"}]
+}

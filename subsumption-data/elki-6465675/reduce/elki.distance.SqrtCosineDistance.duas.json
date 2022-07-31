@@ -1,0 +1,12 @@
+{
+"Class" : "elki.distance.SqrtCosineDistance", 
+"Methods" : [{ "Name" : "distance" ,
+"Duas" : 3,
+"0" :  "(63,(64,64), d)",
+"1" :  "(63,(64,64), d)",
+"2" :  "(63,64, d)"},{ "Name" : "minDist" ,
+"Duas" : 3,
+"0" :  "(69,(70,70), d)",
+"1" :  "(69,(70,70), d)",
+"2" :  "(69,70, d)"}]
+}

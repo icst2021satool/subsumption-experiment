@@ -1,0 +1,17 @@
+{
+"Class" : "elki.visualization.batikutil.NodeAppendChild", 
+"Methods" : [{ "Name" : "run" ,
+"Duas" : 12,
+"0" :  "(82,(83,83), this)",
+"1" :  "(82,(83,86), this)",
+"2" :  "(82,(83,84), this)",
+"3" :  "(82,(83,86), this)",
+"4" :  "(82,84, this)",
+"5" :  "(82,84, this.child)",
+"6" :  "(82,(83,83), this.plot)",
+"7" :  "(82,(83,86), this.plot)",
+"8" :  "(82,84, this.plot)",
+"9" :  "(82,(83,84), this.id)",
+"10" :  "(82,(83,86), this.id)",
+"11" :  "(82,84, this.id)"}]
+}

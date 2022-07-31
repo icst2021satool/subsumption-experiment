@@ -1,0 +1,18 @@
+{
+"Class" : "elki.database.query.rknn.PreprocessorRKNNQuery", 
+"Methods" : [{ "Name" : "getRKNN" ,
+"Duas" : 13,
+"0" :  "(75,(75,75), this)",
+"1" :  "(75,(75,78), this)",
+"2" :  "(75,78, this)",
+"3" :  "(75,(75,76), this)",
+"4" :  "(75,(75,78), this)",
+"5" :  "(75,78, id)",
+"6" :  "(75,(75,76), k)",
+"7" :  "(75,(75,78), k)",
+"8" :  "(75,(75,75), this.warned)",
+"9" :  "(75,(75,78), this.warned)",
+"10" :  "(75,78, this.preprocessor)",
+"11" :  "(75,(75,76), this.preprocessor)",
+"12" :  "(75,(75,78), this.preprocessor)"}]
+}

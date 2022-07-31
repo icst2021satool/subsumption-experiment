@@ -1,0 +1,11 @@
+{
+"Class" : "elki.visualization.gui.VisualizationPlot", 
+"Methods" : [{ "Name" : "redraw" ,
+"Duas" : 6,
+"0" :  "(67,(67,68), this)",
+"1" :  "(67,(67,71), this)",
+"2" :  "(67,68, this)",
+"3" :  "(67,(67,68), this.updateQueue)",
+"4" :  "(67,(67,71), this.updateQueue)",
+"5" :  "(67,68, this.updateQueue)"}]
+}

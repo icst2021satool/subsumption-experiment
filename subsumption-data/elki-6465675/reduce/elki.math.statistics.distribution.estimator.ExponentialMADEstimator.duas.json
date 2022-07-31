@@ -1,0 +1,9 @@
+{
+"Class" : "elki.math.statistics.distribution.estimator.ExponentialMADEstimator", 
+"Methods" : [{ "Name" : "estimateFromMedianMAD" ,
+"Duas" : 4,
+"0" :  "(60,65, location)",
+"1" :  "(61,(62,63), scale)",
+"2" :  "(61,(62,65), scale)",
+"3" :  "(61,65, scale)"}]
+}

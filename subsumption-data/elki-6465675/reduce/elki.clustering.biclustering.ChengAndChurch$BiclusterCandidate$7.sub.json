@@ -1,0 +1,11 @@
+{
+"Class" : "elki.clustering.biclustering.ChengAndChurch$BiclusterCandidate$7", 
+"Methods" : [{ "Name" : "visit" ,
+"Duas" : "12" ,
+"Subsumers" : 4,
+"0" : [ 6], "S0" : [0, 1, 2, 3, 6, 7, 9, 10, 11 ],
+"1" : [ 8], "S1" : [0, 1, 2, 8, 9, 10, 11 ],
+"2" : [ 5], "S2" : [3, 5, 7 ],
+"3" : [ 4], "S3" : [4, 7 ]
+}]
+}

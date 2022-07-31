@@ -1,0 +1,12 @@
+{
+"Class" : "elki.evaluation.clustering.EvaluateClustering$Par", 
+"Methods" : [{ "Name" : "make" ,
+"Duas" : 7,
+"0" :  "(330,(330,330), this)",
+"1" :  "(330,(330,330), this)",
+"2" :  "(330,330, this)",
+"3" :  "(330,(330,330), this.selfPairing)",
+"4" :  "(330,(330,330), this.selfPairing)",
+"5" :  "(330,330, this.referencealg)",
+"6" :  "(330,330, this.noiseSpecialHandling)"}]
+}

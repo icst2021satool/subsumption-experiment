@@ -1,0 +1,15 @@
+{
+"Class" : "elki.clustering.correlation.HiCO$Par", 
+"Methods" : [{ "Name" : "make" ,
+"Duas" : 10,
+"0" :  "(499,(499,499), this)",
+"1" :  "(499,(499,499), this)",
+"2" :  "(499,499, this)",
+"3" :  "(499,(499,499), this.k)",
+"4" :  "(499,(499,499), this.k)",
+"5" :  "(499,499, this.k)",
+"6" :  "(499,499, this.mu)",
+"7" :  "(499,499, this.pca)",
+"8" :  "(499,499, this.alpha)",
+"9" :  "(499,499, this.delta)"}]
+}

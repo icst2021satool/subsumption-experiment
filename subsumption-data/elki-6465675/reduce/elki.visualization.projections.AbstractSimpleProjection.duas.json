@@ -1,0 +1,9 @@
+{
+"Class" : "elki.visualization.projections.AbstractSimpleProjection", 
+"Methods" : [{ "Name" : "flipSecondEquals" ,
+"Duas" : 4,
+"0" :  "(87,(87,88), v)",
+"1" :  "(87,(87,90), v)",
+"2" :  "(87,90, v)",
+"3" :  "(87,88, v)"}]
+}

@@ -1,0 +1,20 @@
+{
+"Class" : "elki.evaluation.clustering.internal.ClusterRadius$Par", 
+"Methods" : [{ "Name" : "configure" ,
+"Duas" : 15,
+"0" :  "(178,185, this)",
+"1" :  "(178,180, this)",
+"2" :  "(178,(179,180), config)",
+"3" :  "(178,(179,183), config)",
+"4" :  "(178,(184,185), config)",
+"5" :  "(178,(184,187), config)",
+"6" :  "(178,180, config)",
+"7" :  "(178,183, NOISE_ID)",
+"8" :  "(178,183, TREAT_NOISE_AS_SINGLETONS)",
+"9" :  "(178,(179,180), distP)",
+"10" :  "(178,(179,183), distP)",
+"11" :  "(178,180, distP)",
+"12" :  "(183,(184,185), noiseP)",
+"13" :  "(183,(184,187), noiseP)",
+"14" :  "(183,185, noiseP)"}]
+}

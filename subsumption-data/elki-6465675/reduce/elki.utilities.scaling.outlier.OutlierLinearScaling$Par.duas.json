@@ -1,0 +1,19 @@
+{
+"Class" : "elki.utilities.scaling.outlier.OutlierLinearScaling$Par", 
+"Methods" : [{ "Name" : "configure" ,
+"Duas" : 14,
+"0" :  "(213,(217,217), this)",
+"1" :  "(213,(217,220), this)",
+"2" :  "(213,220, this)",
+"3" :  "(213,(217,218), this)",
+"4" :  "(213,(217,220), this)",
+"5" :  "(213,218, this)",
+"6" :  "(213,220, config)",
+"7" :  "(213,218, config)",
+"8" :  "(213,(217,217), this.min)",
+"9" :  "(213,(217,220), this.min)",
+"10" :  "(213,(217,218), this.max)",
+"11" :  "(213,(217,220), this.max)",
+"12" :  "(213,218, MEAN_ID)",
+"13" :  "(213,220, NOZEROS_ID)"}]
+}

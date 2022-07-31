@@ -1,0 +1,15 @@
+{
+"Class" : "elki.utilities.optionhandling.WrongParameterValueException", 
+"Methods" : [{ "Name" : "formatRead" ,
+"Duas" : 3,
+"0" :  "(78,(78,78), read)",
+"1" :  "(78,(78,78), read)",
+"2" :  "(78,78, read)"},{ "Name" : "formatCause" ,
+"Duas" : 6,
+"0" :  "(97,(97,98), cause)",
+"1" :  "(97,(97,100), cause)",
+"2" :  "(97,100, cause)",
+"3" :  "(97,101, cause)",
+"4" :  "(100,(101,101), message)",
+"5" :  "(100,(101,101), message)"}]
+}

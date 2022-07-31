@@ -1,0 +1,14 @@
+{
+"Class" : "elki.visualization.gui.overview.LayerMap", 
+"Methods" : [{ "Name" : "getVisualization" ,
+"Duas" : "4" ,
+"Subsumers" : 2,
+"0" : [ 0], "S0" : [0, 2, 3 ],
+"1" : [ 1], "S1" : [1, 2, 3 ]
+},{ "Name" : "getContainer" ,
+"Duas" : "4" ,
+"Subsumers" : 2,
+"0" : [ 0], "S0" : [0, 2, 3 ],
+"1" : [ 1], "S1" : [1, 2, 3 ]
+}]
+}

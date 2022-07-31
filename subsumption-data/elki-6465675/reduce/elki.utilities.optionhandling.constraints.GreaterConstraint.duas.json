@@ -1,0 +1,14 @@
+{
+"Class" : "elki.utilities.optionhandling.constraints.GreaterConstraint", 
+"Methods" : [{ "Name" : "test" ,
+"Duas" : 9,
+"0" :  "(79,(79,80), this)",
+"1" :  "(79,(79,82), this)",
+"2" :  "(79,80, this)",
+"3" :  "(79,(79,80), t)",
+"4" :  "(79,(79,82), t)",
+"5" :  "(79,80, t)",
+"6" :  "(79,(79,80), this.constraintValue)",
+"7" :  "(79,(79,82), this.constraintValue)",
+"8" :  "(79,80, this.constraintValue)"}]
+}

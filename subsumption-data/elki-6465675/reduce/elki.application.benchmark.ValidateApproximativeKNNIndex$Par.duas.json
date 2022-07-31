@@ -1,0 +1,23 @@
+{
+"Class" : "elki.application.benchmark.ValidateApproximativeKNNIndex$Par", 
+"Methods" : [{ "Name" : "configure" ,
+"Duas" : 18,
+"0" :  "(329,(335,337), this)",
+"1" :  "(329,(335,341), this)",
+"2" :  "(329,344, this)",
+"3" :  "(329,345, this)",
+"4" :  "(329,346, this)",
+"5" :  "(329,339, this)",
+"6" :  "(329,(335,337), config)",
+"7" :  "(329,(335,341), config)",
+"8" :  "(329,344, config)",
+"9" :  "(329,345, config)",
+"10" :  "(329,346, config)",
+"11" :  "(329,339, config)",
+"12" :  "(329,337, QUERY_ID)",
+"13" :  "(329,341, SAMPLING_ID)",
+"14" :  "(329,344, GREATER_THAN_ZERO_DOUBLE)",
+"15" :  "(329,345, FORCE_ID)",
+"16" :  "(329,346, RANDOM_ID)",
+"17" :  "(329,346, DEFAULT)"}]
+}

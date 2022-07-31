@@ -1,0 +1,12 @@
+{
+"Class" : "elki.workflow.EvaluationStep", 
+"Methods" : [{ "Name" : "runEvaluators" ,
+"Duas" : 7,
+"0" :  "(68,(71,72), this)",
+"1" :  "(68,(71,74), this)",
+"2" :  "(68,72, this)",
+"3" :  "(68,72, db)",
+"4" :  "(68,(71,72), this.evaluators)",
+"5" :  "(68,(71,74), this.evaluators)",
+"6" :  "(68,72, this.evaluators)"}]
+}

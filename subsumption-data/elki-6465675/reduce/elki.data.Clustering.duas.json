@@ -1,0 +1,16 @@
+{
+"Class" : "elki.data.Clustering", 
+"Methods" : [{ "Name" : "<init>" ,
+"Duas" : 2,
+"0" :  "(77,81, this)",
+"1" :  "(79,81, this.hierarchy)"},{ "Name" : "getAllClusters" ,
+"Duas" : 8,
+"0" :  "(136,140, BY_NAME_SORTER)",
+"1" :  "(136,140, res)",
+"2" :  "(136,141, res)",
+"3" :  "(136,138, res)",
+"4" :  "(137,(137,138), iter)",
+"5" :  "(137,(137,140), iter)",
+"6" :  "(137,138, iter)",
+"7" :  "(137,137, iter)"}]
+}

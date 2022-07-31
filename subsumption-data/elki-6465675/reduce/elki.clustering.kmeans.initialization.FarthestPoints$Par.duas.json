@@ -1,0 +1,11 @@
+{
+"Class" : "elki.clustering.kmeans.initialization.FarthestPoints$Par", 
+"Methods" : [{ "Name" : "make" ,
+"Duas" : 6,
+"0" :  "(177,(177,177), this)",
+"1" :  "(177,(177,177), this)",
+"2" :  "(177,177, this)",
+"3" :  "(177,(177,177), this.keepfirst)",
+"4" :  "(177,(177,177), this.keepfirst)",
+"5" :  "(177,177, this.rnd)"}]
+}

@@ -1,0 +1,9 @@
+{
+"Class" : "elki.math.statistics.kernelfunctions.EpanechnikovKernelDensityFunction", 
+"Methods" : [{ "Name" : "density" ,
+"Duas" : "3" ,
+"Subsumers" : 2,
+"0" : [ 0], "S0" : [0, 2 ],
+"1" : [ 1], "S1" : [1, 2 ]
+}]
+}

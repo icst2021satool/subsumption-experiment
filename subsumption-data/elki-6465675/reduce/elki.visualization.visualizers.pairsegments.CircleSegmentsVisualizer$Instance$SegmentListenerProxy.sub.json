@@ -1,0 +1,14 @@
+{
+"Class" : "elki.visualization.visualizers.pairsegments.CircleSegmentsVisualizer$Instance$SegmentListenerProxy", 
+"Methods" : [{ "Name" : "handleEvent" ,
+"Duas" : "26" ,
+"Subsumers" : 7,
+"0" : [ 23, 21, 0], "S0" : [0, 2, 3, 10, 12, 13, 16, 21, 23, 25 ],
+"1" : [ 24, 22, 1], "S1" : [1, 2, 3, 10, 12, 13, 16, 22, 24, 25 ],
+"2" : [ 19, 17, 14, 8, 4], "S2" : [4, 8, 14, 17, 19 ],
+"3" : [ 20, 18, 15, 6, 5], "S3" : [5, 6, 15, 18, 20 ],
+"4" : [ 7], "S4" : [7 ],
+"5" : [ 9], "S5" : [9 ],
+"6" : [ 11], "S6" : [11 ]
+}]
+}

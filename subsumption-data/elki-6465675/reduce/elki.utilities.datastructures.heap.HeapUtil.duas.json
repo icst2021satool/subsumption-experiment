@@ -1,0 +1,19 @@
+{
+"Class" : "elki.utilities.datastructures.heap.HeapUtil", 
+"Methods" : [{ "Name" : "nextSize" ,
+"Duas" : 14,
+"0" :  "(73,(73,73), current)",
+"1" :  "(73,(73,73), current)",
+"2" :  "(73,73, current)",
+"3" :  "(73,(75,76), current)",
+"4" :  "(73,(75,78), current)",
+"5" :  "(73,73, current)",
+"6" :  "(73,73, current)",
+"7" :  "(73,(75,76), current)",
+"8" :  "(73,(75,78), current)",
+"9" :  "(73,(74,74), newCapacity)",
+"10" :  "(73,(74,75), newCapacity)",
+"11" :  "(73,(74,75), newCapacity)",
+"12" :  "(73,(74,80), newCapacity)",
+"13" :  "(73,80, newCapacity)"}]
+}

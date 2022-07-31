@@ -1,0 +1,11 @@
+{
+"Class" : "elki.result.FrequentItemsetsResult", 
+"Methods" : [{ "Name" : "writeToText" ,
+"Duas" : 6,
+"0" :  "(80,83, this)",
+"1" :  "(80,83, out)",
+"2" :  "(80,84, out)",
+"3" :  "(80,83, this.meta)",
+"4" :  "(80,82, buf)",
+"5" :  "(80,83, buf)"}]
+}

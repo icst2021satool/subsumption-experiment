@@ -1,0 +1,11 @@
+{
+"Class" : "elki.result.Metadata$Hierarchy$ItrParentsReverse", 
+"Methods" : [{ "Name" : "advance" ,
+"Duas" : "15" ,
+"Subsumers" : 4,
+"0" : [ 13, 5], "S0" : [0, 3, 4, 5, 7, 9, 10, 11, 13 ],
+"1" : [ 14, 6], "S1" : [0, 2, 3, 4, 6, 7, 9, 10, 11, 14 ],
+"2" : [ 12], "S2" : [0, 2, 3, 4, 7, 9, 10, 12 ],
+"3" : [ 8, 1], "S3" : [1, 2, 8 ]
+}]
+}

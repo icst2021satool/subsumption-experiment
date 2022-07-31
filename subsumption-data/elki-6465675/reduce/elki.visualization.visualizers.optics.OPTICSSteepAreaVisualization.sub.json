@@ -1,0 +1,9 @@
+{
+"Class" : "elki.visualization.visualizers.optics.OPTICSSteepAreaVisualization", 
+"Methods" : [{ "Name" : "lambda$processNewResult$0" ,
+"Duas" : "8" ,
+"Subsumers" : 2,
+"0" : [ 7, 5, 3, 4, 1, 2, 0], "S0" : [0, 1, 2, 3, 4, 5, 7 ],
+"1" : [ 6], "S1" : [6 ]
+}]
+}

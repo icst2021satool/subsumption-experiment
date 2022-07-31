@@ -1,0 +1,16 @@
+{
+"Class" : "elki.visualization.visualizers.parallel.cluster.ClusterOutlineVisualization", 
+"Methods" : [{ "Name" : "lambda$processNewResult$0" ,
+"Duas" : 11,
+"0" :  "(99,103, this)",
+"1" :  "(99,103, context)",
+"2" :  "(99,103, p)",
+"3" :  "(99,103, p)",
+"4" :  "(99,(100,101), NUMBER_VECTOR_FIELD)",
+"5" :  "(99,(100,103), NUMBER_VECTOR_FIELD)",
+"6" :  "(99,103, ON_DATA)",
+"7" :  "(99,103, ON_STYLEPOLICY)",
+"8" :  "(99,(100,101), rel)",
+"9" :  "(99,(100,103), rel)",
+"10" :  "(99,103, rel)"}]
+}

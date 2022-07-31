@@ -1,0 +1,14 @@
+{
+"Class" : "elki.database.datastore.memory.MapStore", 
+"Methods" : [{ "Name" : "put" ,
+"Duas" : 9,
+"0" :  "(74,77, this)",
+"1" :  "(74,75, this)",
+"2" :  "(74,77, id)",
+"3" :  "(74,75, id)",
+"4" :  "(74,(74,75), value)",
+"5" :  "(74,(74,77), value)",
+"6" :  "(74,77, value)",
+"7" :  "(74,77, this.data)",
+"8" :  "(74,75, this.data)"}]
+}

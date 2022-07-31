@@ -1,0 +1,22 @@
+{
+"Class" : "elki.math.statistics.distribution.estimator.LogGammaLogMOMEstimator", 
+"Methods" : [{ "Name" : "estimateFromLogStatisticalMoments" ,
+"Duas" : 17,
+"0" :  "(56,59, mv)",
+"1" :  "(56,66, shift)",
+"2" :  "(56,(58,58), mu)",
+"3" :  "(56,(58,59), mu)",
+"4" :  "(56,61, mu)",
+"5" :  "(56,62, mu)",
+"6" :  "(57,(58,59), var)",
+"7" :  "(57,(58,61), var)",
+"8" :  "(57,61, var)",
+"9" :  "(61,64, theta)",
+"10" :  "(61,(63,64), theta)",
+"11" :  "(61,(63,66), theta)",
+"12" :  "(61,66, theta)",
+"13" :  "(62,(63,63), k)",
+"14" :  "(62,(63,64), k)",
+"15" :  "(62,64, k)",
+"16" :  "(62,66, k)"}]
+}

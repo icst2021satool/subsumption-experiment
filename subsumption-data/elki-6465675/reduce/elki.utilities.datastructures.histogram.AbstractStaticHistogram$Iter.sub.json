@@ -1,0 +1,10 @@
+{
+"Class" : "elki.utilities.datastructures.histogram.AbstractStaticHistogram$Iter", 
+"Methods" : [{ "Name" : "valid" ,
+"Duas" : "12" ,
+"Subsumers" : 3,
+"0" : [ 10, 8, 6, 2], "S0" : [0, 2, 4, 6, 8, 10 ],
+"1" : [ 11, 9, 7, 3], "S1" : [0, 3, 4, 7, 9, 11 ],
+"2" : [ 5, 1], "S2" : [1, 5 ]
+}]
+}

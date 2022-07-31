@@ -1,0 +1,23 @@
+{
+"Class" : "elki.datasource.filter.selection.FirstNStreamFilter", 
+"Methods" : [{ "Name" : "nextEvent" ,
+"Duas" : 18,
+"0" :  "(66,(73,74), this)",
+"1" :  "(66,(73,76), this)",
+"2" :  "(66,76, this)",
+"3" :  "(66,(67,79), $SwitchMap$elki$datasource$bundle$BundleStreamSource$Event)",
+"4" :  "(66,(67,69), $SwitchMap$elki$datasource$bundle$BundleStreamSource$Event)",
+"5" :  "(66,(67,71), $SwitchMap$elki$datasource$bundle$BundleStreamSource$Event)",
+"6" :  "(66,(67,73), $SwitchMap$elki$datasource$bundle$BundleStreamSource$Event)",
+"7" :  "(66,(73,74), this.n)",
+"8" :  "(66,(73,76), this.n)",
+"9" :  "(66,76, this.n)",
+"10" :  "(66,74, END_OF_STREAM)",
+"11" :  "(66,(67,79), ev)",
+"12" :  "(66,(67,69), ev)",
+"13" :  "(66,(67,71), ev)",
+"14" :  "(66,(67,73), ev)",
+"15" :  "(66,77, ev)",
+"16" :  "(66,71, ev)",
+"17" :  "(66,69, ev)"}]
+}

@@ -1,0 +1,16 @@
+{
+"Class" : "elki.itemsetmining.AbstractFrequentItemsetAlgorithm", 
+"Methods" : [{ "Name" : "<init>" ,
+"Duas" : 4,
+"0" :  "(60,63, this)",
+"1" :  "(60,(63,63), maxlength)",
+"2" :  "(60,(63,63), maxlength)",
+"3" :  "(60,63, maxlength)"},{ "Name" : "getMinimumSupport" ,
+"Duas" : 6,
+"0" :  "(89,(89,89), this)",
+"1" :  "(89,(89,89), this)",
+"2" :  "(89,89, this)",
+"3" :  "(89,(89,89), this.minsupp)",
+"4" :  "(89,(89,89), this.minsupp)",
+"5" :  "(89,89, this.minsupp)"}]
+}

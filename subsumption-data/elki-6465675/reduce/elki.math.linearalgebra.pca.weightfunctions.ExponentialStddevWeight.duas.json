@@ -1,0 +1,9 @@
+{
+"Class" : "elki.math.linearalgebra.pca.weightfunctions.ExponentialStddevWeight", 
+"Methods" : [{ "Name" : "getWeight" ,
+"Duas" : 4,
+"0" :  "(41,41, distance)",
+"1" :  "(41,(41,41), stddev)",
+"2" :  "(41,(41,41), stddev)",
+"3" :  "(41,41, stddev)"}]
+}

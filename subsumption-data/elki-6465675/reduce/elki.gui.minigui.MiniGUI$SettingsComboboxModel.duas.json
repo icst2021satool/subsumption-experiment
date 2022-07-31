@@ -1,0 +1,9 @@
+{
+"Class" : "elki.gui.minigui.MiniGUI$SettingsComboboxModel", 
+"Methods" : [{ "Name" : "setSelectedItem" ,
+"Duas" : 4,
+"0" :  "(755,756, this)",
+"1" :  "(755,(755,756), anItem)",
+"2" :  "(755,(755,758), anItem)",
+"3" :  "(755,756, anItem)"}]
+}

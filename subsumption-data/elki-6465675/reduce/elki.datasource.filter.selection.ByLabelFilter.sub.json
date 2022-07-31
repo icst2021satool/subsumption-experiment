@@ -1,0 +1,7 @@
+{
+"Class" : "elki.datasource.filter.selection.ByLabelFilter", 
+"Methods" : [{ "Name" : "nextEvent" ,
+"Duas" : "71" ,
+"Subsumers" : 0 
+}]
+}

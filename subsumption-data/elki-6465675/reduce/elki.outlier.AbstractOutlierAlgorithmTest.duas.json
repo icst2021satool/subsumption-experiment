@@ -1,0 +1,12 @@
+{
+"Class" : "elki.outlier.AbstractOutlierAlgorithmTest", 
+"Methods" : [{ "Name" : "assertAUC" ,
+"Duas" : 7,
+"0" :  "(57,70, expected)",
+"1" :  "(66,(67,67), rocs)",
+"2" :  "(66,(67,67), rocs)",
+"3" :  "(66,68, rocs)",
+"4" :  "(66,(69,69), rocs)",
+"5" :  "(66,(69,69), rocs)",
+"6" :  "(68,70, auc)"}]
+}

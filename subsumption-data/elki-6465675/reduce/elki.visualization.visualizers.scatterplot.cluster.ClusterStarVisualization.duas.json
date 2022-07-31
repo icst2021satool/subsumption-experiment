@@ -1,0 +1,15 @@
+{
+"Class" : "elki.visualization.visualizers.scatterplot.cluster.ClusterStarVisualization", 
+"Methods" : [{ "Name" : "lambda$processNewResult$0" ,
+"Duas" : 10,
+"0" :  "(83,87, this)",
+"1" :  "(83,87, context)",
+"2" :  "(83,87, p)",
+"3" :  "(83,87, p)",
+"4" :  "(83,(84,85), NUMBER_VECTOR_FIELD)",
+"5" :  "(83,(84,87), NUMBER_VECTOR_FIELD)",
+"6" :  "(83,87, ON_STYLEPOLICY)",
+"7" :  "(83,(84,85), rel)",
+"8" :  "(83,(84,87), rel)",
+"9" :  "(83,87, rel)"}]
+}

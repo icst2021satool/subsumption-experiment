@@ -1,0 +1,9 @@
+{
+"Class" : "elki.utilities.datastructures.heap.DoubleMaxHeap$UnsortedIter", 
+"Methods" : [{ "Name" : "valid" ,
+"Duas" : "8" ,
+"Subsumers" : 2,
+"0" : [ 6, 4, 2, 0], "S0" : [0, 2, 4, 6 ],
+"1" : [ 7, 5, 3, 1], "S1" : [1, 3, 5, 7 ]
+}]
+}

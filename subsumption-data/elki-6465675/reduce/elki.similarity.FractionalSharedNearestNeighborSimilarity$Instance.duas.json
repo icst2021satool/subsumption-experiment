@@ -1,0 +1,23 @@
+{
+"Class" : "elki.similarity.FractionalSharedNearestNeighborSimilarity$Instance", 
+"Methods" : [{ "Name" : "countSharedNeighbors" ,
+"Duas" : 18,
+"0" :  "(95,113, intersection)",
+"1" :  "(95,101, intersection)",
+"2" :  "(96,(98,98), iter1)",
+"3" :  "(96,(98,113), iter1)",
+"4" :  "(96,99, iter1)",
+"5" :  "(96,106, iter1)",
+"6" :  "(96,102, iter1)",
+"7" :  "(97,(98,99), iter2)",
+"8" :  "(97,(98,113), iter2)",
+"9" :  "(97,99, iter2)",
+"10" :  "(97,110, iter2)",
+"11" :  "(97,103, iter2)",
+"12" :  "(99,(100,101), comp)",
+"13" :  "(99,(100,105), comp)",
+"14" :  "(99,(105,106), comp)",
+"15" :  "(99,(105,110), comp)",
+"16" :  "(101,113, intersection)",
+"17" :  "(101,101, intersection)"}]
+}

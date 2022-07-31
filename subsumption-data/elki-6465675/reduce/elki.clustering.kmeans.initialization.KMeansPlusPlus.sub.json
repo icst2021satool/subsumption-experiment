@@ -1,0 +1,14 @@
+{
+"Class" : "elki.clustering.kmeans.initialization.KMeansPlusPlus", 
+"Methods" : [{ "Name" : "chooseInitialMeans" ,
+"Duas" : "11" ,
+"Subsumers" : 2,
+"0" : [ 10, 9, 7, 6, 3, 2, 0], "S0" : [0, 2, 3, 6, 7, 9, 10 ],
+"1" : [ 8, 5, 4, 1], "S1" : [1, 4, 5, 8 ]
+},{ "Name" : "chooseInitialMedoids" ,
+"Duas" : "11" ,
+"Subsumers" : 2,
+"0" : [ 10, 9, 7, 6, 3, 2, 0], "S0" : [0, 2, 3, 6, 7, 9, 10 ],
+"1" : [ 8, 5, 4, 1], "S1" : [1, 4, 5, 8 ]
+}]
+}

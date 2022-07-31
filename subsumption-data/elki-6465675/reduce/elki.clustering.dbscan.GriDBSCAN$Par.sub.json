@@ -1,0 +1,14 @@
+{
+"Class" : "elki.clustering.dbscan.GriDBSCAN$Par", 
+"Methods" : [{ "Name" : "configure" ,
+"Duas" : "9" ,
+"Subsumers" : 2,
+"0" : [ 6, 0], "S0" : [0, 2, 3, 4, 5, 6, 8 ],
+"1" : [ 7, 1], "S1" : [1, 2, 3, 4, 5, 7, 8 ]
+},{ "Name" : "lambda$configure$2" ,
+"Duas" : "4" ,
+"Subsumers" : 2,
+"0" : [ 2, 0], "S0" : [0, 2 ],
+"1" : [ 3, 1], "S1" : [1, 3 ]
+}]
+}

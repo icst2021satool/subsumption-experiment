@@ -1,0 +1,11 @@
+{
+"Class" : "elki.distance.correlation.PearsonCorrelationDistance", 
+"Methods" : [{ "Name" : "equals" ,
+"Duas" : 6,
+"0" :  "(84,(84,84), this)",
+"1" :  "(84,(84,84), this)",
+"2" :  "(84,(84,84), obj)",
+"3" :  "(84,(84,84), obj)",
+"4" :  "(84,(84,84), obj)",
+"5" :  "(84,(84,84), obj)"}]
+}

@@ -1,0 +1,12 @@
+{
+"Class" : "elki.algorithm.statistics.DistanceStatisticsWithClasses$Par", 
+"Methods" : [{ "Name" : "configure" ,
+"Duas" : 7,
+"0" :  "(444,(450,451), this)",
+"1" :  "(444,(450,453), this)",
+"2" :  "(444,451, this)",
+"3" :  "(444,451, config)",
+"4" :  "(444,(450,451), this.exact)",
+"5" :  "(444,(450,453), this.exact)",
+"6" :  "(444,451, SAMPLING_ID)"}]
+}

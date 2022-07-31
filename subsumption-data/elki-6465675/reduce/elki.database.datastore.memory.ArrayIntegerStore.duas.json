@@ -1,0 +1,12 @@
+{
+"Class" : "elki.database.datastore.memory.ArrayIntegerStore", 
+"Methods" : [{ "Name" : "<init>" ,
+"Duas" : 7,
+"0" :  "(71,77, this)",
+"1" :  "(71,75, this)",
+"2" :  "(71,77, idmap)",
+"3" :  "(71,(74,75), def)",
+"4" :  "(71,(74,77), def)",
+"5" :  "(71,75, def)",
+"6" :  "(72,75, this.data)"}]
+}

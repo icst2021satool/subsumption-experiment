@@ -1,0 +1,18 @@
+{
+"Class" : "elki.visualization.parallel3d.OpenGL3DParallelCoordinates$Instance$2", 
+"Methods" : [{ "Name" : "mouseClicked" ,
+"Duas" : 13,
+"0" :  "(377,(377,378), this)",
+"1" :  "(377,(377,383), this)",
+"2" :  "(377,379, this)",
+"3" :  "(377,(378,379), e)",
+"4" :  "(377,(378,383), e)",
+"5" :  "(377,(377,378), EXPLORE)",
+"6" :  "(377,(377,383), EXPLORE)",
+"7" :  "(377,(377,378), this.this$0)",
+"8" :  "(377,(377,383), this.this$0)",
+"9" :  "(377,379, this.this$0)",
+"10" :  "(377,(377,378), this.state)",
+"11" :  "(377,(377,383), this.state)",
+"12" :  "(377,379, MENU)"}]
+}

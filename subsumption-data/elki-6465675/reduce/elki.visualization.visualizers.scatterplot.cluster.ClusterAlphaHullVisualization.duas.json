@@ -1,0 +1,17 @@
+{
+"Class" : "elki.visualization.visualizers.scatterplot.cluster.ClusterAlphaHullVisualization", 
+"Methods" : [{ "Name" : "lambda$processNewResult$0" ,
+"Duas" : 12,
+"0" :  "(104,108, this)",
+"1" :  "(104,108, context)",
+"2" :  "(104,108, p)",
+"3" :  "(104,108, p)",
+"4" :  "(104,(105,106), NUMBER_VECTOR_FIELD)",
+"5" :  "(104,(105,108), NUMBER_VECTOR_FIELD)",
+"6" :  "(104,108, ON_DATA)",
+"7" :  "(104,108, ON_SAMPLE)",
+"8" :  "(104,108, ON_STYLEPOLICY)",
+"9" :  "(104,(105,106), rel)",
+"10" :  "(104,(105,108), rel)",
+"11" :  "(104,108, rel)"}]
+}

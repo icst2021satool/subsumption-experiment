@@ -1,0 +1,19 @@
+{
+"Class" : "elki.visualization.visualizers.scatterplot.selection.SelectionToolDotVisualization", 
+"Methods" : [{ "Name" : "lambda$processNewResult$0" ,
+"Duas" : 14,
+"0" :  "(90,94, this)",
+"1" :  "(90,94, context)",
+"2" :  "(90,98, context)",
+"3" :  "(90,99, context)",
+"4" :  "(90,99, p)",
+"5" :  "(90,(91,92), NUMBER_VECTOR_FIELD)",
+"6" :  "(90,(91,94), NUMBER_VECTOR_FIELD)",
+"7" :  "(90,97, NO_THUMBNAIL)",
+"8" :  "(90,97, NO_EXPORT)",
+"9" :  "(90,97, ON_DATA)",
+"10" :  "(90,97, ON_SELECTION)",
+"11" :  "(90,(91,92), rel)",
+"12" :  "(90,(91,94), rel)",
+"13" :  "(90,94, rel)"}]
+}

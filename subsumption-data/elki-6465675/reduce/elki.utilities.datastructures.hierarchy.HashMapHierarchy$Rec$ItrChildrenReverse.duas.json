@@ -1,0 +1,9 @@
+{
+"Class" : "elki.utilities.datastructures.hierarchy.HashMapHierarchy$Rec$ItrChildrenReverse", 
+"Methods" : [{ "Name" : "valid" ,
+"Duas" : 4,
+"0" :  "(528,(528,528), this)",
+"1" :  "(528,(528,528), this)",
+"2" :  "(528,(528,528), this.pos)",
+"3" :  "(528,(528,528), this.pos)"}]
+}

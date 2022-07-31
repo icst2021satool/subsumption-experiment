@@ -1,0 +1,15 @@
+{
+"Class" : "elki.database.ProxyDatabase", 
+"Methods" : [{ "Name" : "<init>" ,
+"Duas" : 4,
+"0" :  "(68,74, this)",
+"1" :  "(68,75, this)",
+"2" :  "(68,73, ids)",
+"3" :  "(68,74, this.relations)"},{ "Name" : "setDBIDs" ,
+"Duas" : 5,
+"0" :  "(124,128, this)",
+"1" :  "(124,128, this.idrep)",
+"2" :  "(126,(127,128), orel)",
+"3" :  "(126,(127,130), orel)",
+"4" :  "(126,128, orel)"}]
+}

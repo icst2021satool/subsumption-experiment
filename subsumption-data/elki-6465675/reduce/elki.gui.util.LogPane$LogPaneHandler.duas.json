@@ -1,0 +1,10 @@
+{
+"Class" : "elki.gui.util.LogPane$LogPaneHandler", 
+"Methods" : [{ "Name" : "publish" ,
+"Duas" : 5,
+"0" :  "(252,261, this)",
+"1" :  "(252,254, this)",
+"2" :  "(252,261, record)",
+"3" :  "(252,254, record)",
+"4" :  "(252,254, this.this$0)"}]
+}

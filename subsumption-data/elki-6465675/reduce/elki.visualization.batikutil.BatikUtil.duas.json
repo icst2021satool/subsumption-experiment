@@ -1,0 +1,21 @@
+{
+"Class" : "elki.visualization.batikutil.BatikUtil", 
+"Methods" : [{ "Name" : "getRelativeCoordinates" ,
+"Duas" : 9,
+"0" :  "(54,(54,54), evt)",
+"1" :  "(54,(54,68), evt)",
+"2" :  "(54,56, evt)",
+"3" :  "(54,(54,54), reference)",
+"4" :  "(54,(54,68), reference)",
+"5" :  "(54,(54,56), reference)",
+"6" :  "(54,(54,68), reference)",
+"7" :  "(54,57, reference)",
+"8" :  "(54,59, reference)"},{ "Name" : "hasFOPInstalled" ,
+"Duas" : 6,
+"0" :  "(78,(81,81), c1)",
+"1" :  "(78,(81,81), c1)",
+"2" :  "(79,(81,81), c2)",
+"3" :  "(79,(81,81), c2)",
+"4" :  "(80,(81,81), c3)",
+"5" :  "(80,(81,81), c3)"}]
+}

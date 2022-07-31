@@ -1,0 +1,13 @@
+{
+"Class" : "elki.similarity.FractionalSharedNearestNeighborSimilarity$Instance", 
+"Methods" : [{ "Name" : "countSharedNeighbors" ,
+"Duas" : "18" ,
+"Subsumers" : 6,
+"0" : [ 0], "S0" : [0 ],
+"1" : [ 17], "S1" : [1, 2, 4, 6, 7, 9, 11, 12, 16, 17 ],
+"2" : [ 14, 5], "S2" : [2, 4, 5, 7, 9, 13, 14 ],
+"3" : [ 15, 10], "S3" : [2, 4, 7, 9, 10, 13, 15 ],
+"4" : [ 8], "S4" : [2, 8 ],
+"5" : [ 3], "S5" : [3 ]
+}]
+}

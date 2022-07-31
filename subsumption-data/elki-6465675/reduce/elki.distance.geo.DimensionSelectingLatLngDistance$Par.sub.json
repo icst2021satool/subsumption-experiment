@@ -1,0 +1,9 @@
+{
+"Class" : "elki.distance.geo.DimensionSelectingLatLngDistance$Par", 
+"Methods" : [{ "Name" : "configure" ,
+"Duas" : "12" ,
+"Subsumers" : 2,
+"0" : [ 11, 10, 7, 5, 4, 0], "S0" : [0, 2, 3, 4, 5, 7, 9, 10, 11 ],
+"1" : [ 8, 6, 1], "S1" : [1, 2, 3, 6, 8, 9 ]
+}]
+}

@@ -1,0 +1,14 @@
+{
+"Class" : "elki.clustering.uncertain.CenterOfMassMetaClustering$Par", 
+"Methods" : [{ "Name" : "lambda$configure$0" ,
+"Duas" : 9,
+"0" :  "(144,146, config)",
+"1" :  "(144,146, palgorithm)",
+"2" :  "(144,(144,144), inner)",
+"3" :  "(144,(144,148), inner)",
+"4" :  "(144,(145,146), inner)",
+"5" :  "(144,(145,148), inner)",
+"6" :  "(144,146, inner)",
+"7" :  "(144,(145,146), NUMBER_VECTOR_FIELD)",
+"8" :  "(144,(145,148), NUMBER_VECTOR_FIELD)"}]
+}

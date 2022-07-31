@@ -1,0 +1,16 @@
+{
+"Class" : "elki.evaluation.similaritymatrix.ComputeSimilarityMatrixImage$SimilarityMatrix", 
+"Methods" : [{ "Name" : "getAsFile" ,
+"Duas" : 11,
+"0" :  "(268,(268,270), this)",
+"1" :  "(268,(268,278), this)",
+"2" :  "(268,278, this)",
+"3" :  "(268,270, this)",
+"4" :  "(268,271, this)",
+"5" :  "(268,272, this)",
+"6" :  "(268,(268,270), this.imgfile)",
+"7" :  "(268,(268,278), this.imgfile)",
+"8" :  "(268,278, this.imgfile)",
+"9" :  "(268,272, this.img)",
+"10" :  "(270,278, this.imgfile)"}]
+}

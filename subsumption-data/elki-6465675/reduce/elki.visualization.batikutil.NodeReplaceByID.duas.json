@@ -1,0 +1,14 @@
+{
+"Class" : "elki.visualization.batikutil.NodeReplaceByID", 
+"Methods" : [{ "Name" : "run" ,
+"Duas" : 9,
+"0" :  "(66,68, this)",
+"1" :  "(66,69, this)",
+"2" :  "(66,69, this.plot)",
+"3" :  "(66,69, this.id)",
+"4" :  "(66,68, this.newe)",
+"5" :  "(66,69, this.newe)",
+"6" :  "(66,(67,68), olde)",
+"7" :  "(66,(67,72), olde)",
+"8" :  "(66,68, olde)"}]
+}

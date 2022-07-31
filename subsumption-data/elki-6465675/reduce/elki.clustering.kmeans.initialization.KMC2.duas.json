@@ -1,0 +1,17 @@
+{
+"Class" : "elki.clustering.kmeans.initialization.KMC2", 
+"Methods" : [{ "Name" : "chooseInitialMeans" ,
+"Duas" : 12,
+"0" :  "(83,86, this)",
+"1" :  "(83,(83,84), relation)",
+"2" :  "(83,(83,86), relation)",
+"3" :  "(83,86, relation)",
+"4" :  "(83,84, relation)",
+"5" :  "(83,(83,84), k)",
+"6" :  "(83,(83,86), k)",
+"7" :  "(83,86, k)",
+"8" :  "(83,84, k)",
+"9" :  "(83,86, distance)",
+"10" :  "(83,86, this.m)",
+"11" :  "(83,86, this.rnd)"}]
+}

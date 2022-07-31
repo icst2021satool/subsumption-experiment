@@ -1,0 +1,10 @@
+{
+"Class" : "elki.database.relation.ProxyView", 
+"Methods" : [{ "Name" : "get" ,
+"Duas" : "11" ,
+"Subsumers" : 3,
+"0" : [ 9, 5, 2], "S0" : [0, 2, 3, 5, 6, 9, 10 ],
+"1" : [ 7], "S1" : [0, 3, 7, 10 ],
+"2" : [ 8, 4, 1], "S2" : [1, 4, 6, 8 ]
+}]
+}

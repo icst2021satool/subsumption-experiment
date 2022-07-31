@@ -1,0 +1,10 @@
+{
+"Class" : "elki.database.query.WrappedPrioritySearchDBIDByLookup", 
+"Methods" : [{ "Name" : "wrap" ,
+"Duas" : "8" ,
+"Subsumers" : 3,
+"0" : [ 6, 5, 0], "S0" : [0, 3, 5, 6 ],
+"1" : [ 7, 4, 1], "S1" : [1, 3, 4, 7 ],
+"2" : [ 2], "S2" : [2 ]
+}]
+}

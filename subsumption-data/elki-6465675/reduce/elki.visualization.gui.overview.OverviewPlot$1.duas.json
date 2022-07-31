@@ -1,0 +1,13 @@
+{
+"Class" : "elki.visualization.gui.overview.OverviewPlot$1", 
+"Methods" : [{ "Name" : "run" ,
+"Duas" : 8,
+"0" :  "(577,(577,578), this)",
+"1" :  "(577,(577,580), this)",
+"2" :  "(577,578, this)",
+"3" :  "(577,(577,578), this.this$0)",
+"4" :  "(577,(577,580), this.this$0)",
+"5" :  "(577,578, this.this$0)",
+"6" :  "(577,(577,578), this.pendingRefresh)",
+"7" :  "(577,(577,580), this.pendingRefresh)"}]
+}

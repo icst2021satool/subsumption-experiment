@@ -1,0 +1,14 @@
+{
+"Class" : "elki.persistent.LRUCache$1", 
+"Methods" : [{ "Name" : "removeEldestEntry" ,
+"Duas" : 9,
+"0" :  "(185,(185,186), this)",
+"1" :  "(185,(185,189), this)",
+"2" :  "(185,186, this)",
+"3" :  "(185,186, eldest)",
+"4" :  "(185,(185,186), this.this$0)",
+"5" :  "(185,(185,189), this.this$0)",
+"6" :  "(185,186, this.this$0)",
+"7" :  "(185,(185,186), this.cacheSize)",
+"8" :  "(185,(185,189), this.cacheSize)"}]
+}

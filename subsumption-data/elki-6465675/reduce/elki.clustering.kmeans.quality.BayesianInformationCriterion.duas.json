@@ -1,0 +1,9 @@
+{
+"Class" : "elki.clustering.kmeans.quality.BayesianInformationCriterion", 
+"Methods" : [{ "Name" : "isBetter" ,
+"Duas" : 4,
+"0" :  "(68,(68,68), currentCost)",
+"1" :  "(68,(68,68), currentCost)",
+"2" :  "(68,(68,68), bestCost)",
+"3" :  "(68,(68,68), bestCost)"}]
+}

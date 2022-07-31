@@ -1,0 +1,19 @@
+{
+"Class" : "elki.clustering.kmeans.initialization.Ostrovsky", 
+"Methods" : [{ "Name" : "chooseInitialMeans" ,
+"Duas" : 14,
+"0" :  "(83,90, this)",
+"1" :  "(83,(83,84), relation)",
+"2" :  "(83,(83,86), relation)",
+"3" :  "(83,90, relation)",
+"4" :  "(83,90, relation)",
+"5" :  "(83,84, relation)",
+"6" :  "(83,(83,84), k)",
+"7" :  "(83,(83,86), k)",
+"8" :  "(83,90, k)",
+"9" :  "(83,84, k)",
+"10" :  "(83,(86,88), distance)",
+"11" :  "(83,(86,90), distance)",
+"12" :  "(83,90, distance)",
+"13" :  "(83,90, this.rnd)"}]
+}

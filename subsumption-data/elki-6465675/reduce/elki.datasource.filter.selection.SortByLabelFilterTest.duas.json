@@ -1,0 +1,23 @@
+{
+"Class" : "elki.datasource.filter.selection.SortByLabelFilterTest", 
+"Methods" : [{ "Name" : "defaultParameters" ,
+"Duas" : 18,
+"0" :  "(47,(52,53), bundle)",
+"1" :  "(47,(52,57), bundle)",
+"2" :  "(47,53, bundle)",
+"3" :  "(47,54, bundle)",
+"4" :  "(52,(52,53), row)",
+"5" :  "(52,(52,57), row)",
+"6" :  "(52,53, row)",
+"7" :  "(52,54, row)",
+"8" :  "(52,52, row)",
+"9" :  "(53,(55,55), llFirst)",
+"10" :  "(53,(55,55), llFirst)",
+"11" :  "(54,(55,55), llSecond)",
+"12" :  "(54,(55,55), llSecond)",
+"13" :  "(52,(52,53), row)",
+"14" :  "(52,(52,57), row)",
+"15" :  "(52,53, row)",
+"16" :  "(52,54, row)",
+"17" :  "(52,52, row)"}]
+}

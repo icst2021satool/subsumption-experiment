@@ -1,0 +1,9 @@
+{
+"Class" : "elki.clustering.kmeans.quality.AkaikeInformationCriterionXMeans", 
+"Methods" : [{ "Name" : "isBetter" ,
+"Duas" : 4,
+"0" :  "(60,(60,60), currentCost)",
+"1" :  "(60,(60,60), currentCost)",
+"2" :  "(60,(60,60), bestCost)",
+"3" :  "(60,(60,60), bestCost)"}]
+}
