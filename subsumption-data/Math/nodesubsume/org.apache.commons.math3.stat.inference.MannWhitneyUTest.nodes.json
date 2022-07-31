@@ -1,0 +1,21 @@
+{
+"Class" : "org.apache.commons.math3.stat.inference.MannWhitneyUTest", 
+"Methods" : [{ "Name" : "ensureDataConformance" ,
+"Nodes" : 8,
+"0" : [ 74 ]
+"1" : [ 76 ]
+"2" : [ 74 ]
+"3" : [ 78 ]
+"4" : [ 80 ]
+"5" : [ 78 ]
+"6" : [ 82 ]
+"7" : [  ]
+},{ "Name" : "mannWhitneyU" ,
+"Nodes" : 5,
+"0" : [ 129,131,132,134,140 ]
+"1" : [ 140 ]
+"2" : [ 148,153,155 ]
+"3" : [ 140,141 ]
+"4" : [  ]
+}]
+}

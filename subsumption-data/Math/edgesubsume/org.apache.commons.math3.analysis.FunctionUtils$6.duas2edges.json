@@ -1,0 +1,14 @@
+{
+"Class" : "org.apache.commons.math3.analysis.FunctionUtils$6", 
+"Methods" : [{ "Name" : "value" ,
+"Edges" : 5,
+"Duas" : 19,
+"0" : 3, 
+ "1" : 4, 
+ "4" : 3, 
+ "5" : 4, 
+ "9" : 3, 
+ "10" : 4, 
+ "15" : 3, 
+ "16" : 4}]
+}

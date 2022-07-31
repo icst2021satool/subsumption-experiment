@@ -1,0 +1,21 @@
+{
+"Class" : "org.apache.commons.math3.optimization.univariate.SimpleUnivariateValueChecker", 
+"Methods" : [{ "Name" : "<init>" ,
+"Nodes" : 4,
+"0" : [ 101,103 ]
+"1" : [ 106,107 ]
+"2" : [ 104 ]
+"3" : [  ]
+},{ "Name" : "converged" ,
+"Nodes" : 9,
+"0" : [ 129 ]
+"1" : [ 133,134,135,136,137 ]
+"2" : [ 137 ]
+"3" : [ 137 ]
+"4" : [ 137 ]
+"5" : [ 137 ]
+"6" : [ 129 ]
+"7" : [ 130 ]
+"8" : [  ]
+}]
+}

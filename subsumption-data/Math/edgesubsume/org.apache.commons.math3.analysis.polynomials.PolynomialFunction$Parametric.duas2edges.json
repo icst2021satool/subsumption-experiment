@@ -1,0 +1,12 @@
+{
+"Class" : "org.apache.commons.math3.analysis.polynomials.PolynomialFunction$Parametric", 
+"Methods" : [{ "Name" : "gradient" ,
+"Edges" : 5,
+"Duas" : 17,
+"1" : 2, 
+ "2" : 3, 
+ "7" : 2, 
+ "8" : 3, 
+ "13" : 2, 
+ "14" : 3}]
+}

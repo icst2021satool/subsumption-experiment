@@ -1,0 +1,16 @@
+{
+"Class" : "org.apache.commons.math3.analysis.interpolation.UnivariatePeriodicInterpolator", 
+"Methods" : [{ "Name" : "interpolate" ,
+"Nodes" : 10,
+"0" : [ 88 ]
+"1" : [ 96,97,98,92,93,95 ]
+"2" : [ 98 ]
+"3" : [ 105 ]
+"4" : [ 105 ]
+"5" : [ 115,117,118 ]
+"6" : [ 112,105,106,107,108,110,111 ]
+"7" : [ 98,99,100,101 ]
+"8" : [ 89 ]
+"9" : [  ]
+}]
+}

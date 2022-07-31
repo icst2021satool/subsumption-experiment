@@ -1,0 +1,15 @@
+{
+"Class" : "org.apache.commons.math3.optim.nonlinear.scalar.noderiv.CMAESOptimizer$DoubleIndex", 
+"Methods" : [{ "Name" : "equals" ,
+"Nodes" : 9,
+"0" : [ 854 ]
+"1" : [ 858 ]
+"2" : [ 862 ]
+"3" : [ 859 ]
+"4" : [ 859 ]
+"5" : [ 859 ]
+"6" : [ 859 ]
+"7" : [ 855 ]
+"8" : [  ]
+}]
+}

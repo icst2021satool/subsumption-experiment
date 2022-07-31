@@ -1,0 +1,25 @@
+{
+"Class" : "org.apache.commons.math3.fraction.AbstractFormat", 
+"Methods" : [{ "Name" : "setDenominatorFormat" ,
+"Nodes" : 4,
+"0" : [ 120 ]
+"1" : [ 123,124 ]
+"2" : [ 121 ]
+"3" : [  ]
+},{ "Name" : "setNumeratorFormat" ,
+"Nodes" : 4,
+"0" : [ 132 ]
+"1" : [ 135,136 ]
+"2" : [ 133 ]
+"3" : [  ]
+},{ "Name" : "parseNextCharacter" ,
+"Nodes" : 7,
+"0" : [ 160,162,158,159 ]
+"1" : [ 174 ]
+"2" : [ 165,166 ]
+"3" : [ 167,169 ]
+"4" : [ 170 ]
+"5" : [ 166 ]
+"6" : [  ]
+}]
+}

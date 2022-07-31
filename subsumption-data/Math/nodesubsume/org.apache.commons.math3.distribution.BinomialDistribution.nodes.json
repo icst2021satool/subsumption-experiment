@@ -1,0 +1,44 @@
+{
+"Class" : "org.apache.commons.math3.distribution.BinomialDistribution", 
+"Methods" : [{ "Name" : "<init>" ,
+"Nodes" : 7,
+"0" : [ 68,70 ]
+"1" : [ 74 ]
+"2" : [ 75 ]
+"3" : [ 74 ]
+"4" : [ 80,78,79 ]
+"5" : [ 71 ]
+"6" : [  ]
+},{ "Name" : "probability" ,
+"Nodes" : 6,
+"0" : [ 103 ]
+"1" : [ 104 ]
+"2" : [ 110 ]
+"3" : [ 103 ]
+"4" : [ 106 ]
+"5" : [  ]
+},{ "Name" : "cumulativeProbability" ,
+"Nodes" : 7,
+"0" : [ 116 ]
+"1" : [ 118 ]
+"2" : [ 121 ]
+"3" : [ 124 ]
+"4" : [ 119 ]
+"5" : [ 117 ]
+"6" : [  ]
+},{ "Name" : "getSupportLowerBound" ,
+"Nodes" : 5,
+"0" : [ 157 ]
+"1" : [ 157 ]
+"2" : [ 157 ]
+"3" : [ 157 ]
+"4" : [  ]
+},{ "Name" : "getSupportUpperBound" ,
+"Nodes" : 5,
+"0" : [ 169 ]
+"1" : [ 169 ]
+"2" : [ 169 ]
+"3" : [ 169 ]
+"4" : [  ]
+}]
+}

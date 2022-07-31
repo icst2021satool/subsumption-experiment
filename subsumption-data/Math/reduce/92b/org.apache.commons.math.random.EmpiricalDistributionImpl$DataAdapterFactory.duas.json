@@ -1,0 +1,15 @@
+{
+"Class" : "org.apache.commons.math.random.EmpiricalDistributionImpl$DataAdapterFactory", 
+"Methods" : [{ "Name" : "getAdapter" ,
+"Duas" : 10,
+"0" :  "(228,233, this)",
+"1" :  "(228,230, this)",
+"2" :  "(228,(228,229), in)",
+"3" :  "(228,(228,231), in)",
+"4" :  "(228,(231,232), in)",
+"5" :  "(228,(231,235), in)",
+"6" :  "(228,232, in)",
+"7" :  "(228,229, in)",
+"8" :  "(228,233, this.this$0)",
+"9" :  "(228,230, this.this$0)"}]
+}

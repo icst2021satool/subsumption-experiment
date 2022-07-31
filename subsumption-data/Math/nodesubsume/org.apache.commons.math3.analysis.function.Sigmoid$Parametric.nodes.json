@@ -1,0 +1,12 @@
+{
+"Class" : "org.apache.commons.math3.analysis.function.Sigmoid$Parametric", 
+"Methods" : [{ "Name" : "validateParameters" ,
+"Nodes" : 6,
+"0" : [ 144 ]
+"1" : [ 147 ]
+"2" : [ 150 ]
+"3" : [ 148 ]
+"4" : [ 145 ]
+"5" : [  ]
+}]
+}

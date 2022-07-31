@@ -1,0 +1,16 @@
+{
+"Class" : "org.apache.commons.math3.geometry.partitioning.BoundarySizeVisitor", 
+"Methods" : [{ "Name" : "visitInternalNode" ,
+"Duas" : 11,
+"0" :  "(45,51, this)",
+"1" :  "(45,48, this)",
+"2" :  "(45,51, this.boundarySize)",
+"3" :  "(45,48, this.boundarySize)",
+"4" :  "(45,(47,48), attribute)",
+"5" :  "(45,(47,50), attribute)",
+"6" :  "(45,(50,51), attribute)",
+"7" :  "(45,(50,53), attribute)",
+"8" :  "(45,51, attribute)",
+"9" :  "(45,48, attribute)",
+"10" :  "(48,51, this.boundarySize)"}]
+}

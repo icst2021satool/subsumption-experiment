@@ -1,0 +1,20 @@
+{
+"Class" : "org.apache.commons.math3.optimization.BaseMultivariateVectorMultiStartOptimizer$1", 
+"Methods" : [{ "Name" : "compare" ,
+"Edges" : 11,
+"Duas" : 9,
+"1" : 6, 
+ "2" : 7, 
+ "4" : 1, 
+ "5" : 2, 
+ "7" : 9, 
+ "8" : 10},{ "Name" : "weightedResidual" ,
+"Edges" : 5,
+"Duas" : 21,
+"4" : 2, 
+ "5" : 3, 
+ "9" : 2, 
+ "10" : 3, 
+ "16" : 2, 
+ "17" : 3}]
+}

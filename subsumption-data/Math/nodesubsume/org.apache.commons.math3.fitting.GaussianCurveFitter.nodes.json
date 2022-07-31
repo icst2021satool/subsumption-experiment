@@ -1,0 +1,14 @@
+{
+"Class" : "org.apache.commons.math3.fitting.GaussianCurveFitter", 
+"Methods" : [{ "Name" : "getOptimizer" ,
+"Nodes" : 8,
+"0" : [ 151,152,153,155,156 ]
+"1" : [ 156 ]
+"2" : [ 162,166 ]
+"3" : [ 166 ]
+"4" : [ 166,173 ]
+"5" : [ 166 ]
+"6" : [ 160,156,157,158,159 ]
+"7" : [  ]
+}]
+}

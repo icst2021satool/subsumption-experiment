@@ -1,0 +1,12 @@
+{
+"Class" : "org.apache.commons.math3.analysis.function.Logit$Parametric", 
+"Methods" : [{ "Name" : "validateParameters" ,
+"Nodes" : 6,
+"0" : [ 142 ]
+"1" : [ 145 ]
+"2" : [ 148 ]
+"3" : [ 146 ]
+"4" : [ 143 ]
+"5" : [  ]
+}]
+}

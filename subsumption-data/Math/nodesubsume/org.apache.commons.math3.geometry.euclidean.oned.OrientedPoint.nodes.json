@@ -1,0 +1,25 @@
+{
+"Class" : "org.apache.commons.math3.geometry.euclidean.oned.OrientedPoint", 
+"Methods" : [{ "Name" : "getOffset" ,
+"Nodes" : 5,
+"0" : [ 58,59 ]
+"1" : [ 59 ]
+"2" : [ 59 ]
+"3" : [ 59 ]
+"4" : [  ]
+},{ "Name" : "sameOrientationAs" ,
+"Nodes" : 5,
+"0" : [ 87 ]
+"1" : [ 87 ]
+"2" : [ 87 ]
+"3" : [ 87 ]
+"4" : [  ]
+},{ "Name" : "revertSelf" ,
+"Nodes" : 5,
+"0" : [ 108 ]
+"1" : [ 108 ]
+"2" : [ 108,109 ]
+"3" : [ 108 ]
+"4" : [  ]
+}]
+}

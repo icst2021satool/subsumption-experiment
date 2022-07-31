@@ -1,0 +1,14 @@
+{
+"Class" : "org.apache.commons.math3.optim.nonlinear.scalar.gradient.NonLinearConjugateGradientOptimizer$LineSearchFunction", 
+"Methods" : [{ "Name" : "value" ,
+"Nodes" : 8,
+"0" : [ 376,377 ]
+"1" : [ 377 ]
+"2" : [ 385,386,382 ]
+"3" : [ 386 ]
+"4" : [ 390 ]
+"5" : [ 386,387 ]
+"6" : [ 377,378 ]
+"7" : [  ]
+}]
+}

@@ -1,0 +1,39 @@
+{
+"Class" : "org.apache.commons.math3.analysis.integration.gauss.BaseRuleFactory", 
+"Methods" : [{ "Name" : "getRule" ,
+"Nodes" : 6,
+"0" : [ ],
+"1" : [ 0, 4, 5, 10],
+"3" : [ 0, 1, 2, 4, 5, 6, 7, 10, 11, 12],
+"2" : [ 0, 4, 5, 10],
+"4" : [ 3, 8, 9],
+"5" : [ ],
+"CoveredDUAsByNodes" : 13,
+"Duas" : 16
+},{ "Name" : "getRuleInternal" ,
+"Nodes" : 4,
+"0" : [ ],
+"1" : [ 5, 6],
+"2" : [ 0, 1, 2, 3, 4],
+"3" : [ ],
+"CoveredDUAsByNodes" : 7,
+"Duas" : 7
+},{ "Name" : "addRule" ,
+"Nodes" : 4,
+"0" : [ ],
+"1" : [ 0, 2, 3, 5],
+"2" : [ 1, 4],
+"3" : [ ],
+"CoveredDUAsByNodes" : 6,
+"Duas" : 6
+},{ "Name" : "convertToDouble" ,
+"Nodes" : 5,
+"0" : [ ],
+"1" : [ ],
+"2" : [ 3, 4, 6],
+"4" : [ 3, 4, 6],
+"3" : [ 0, 1, 2, 5, 7, 8, 10, 11, 12],
+"CoveredDUAsByNodes" : 12,
+"Duas" : 18
+}]
+}

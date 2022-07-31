@@ -1,0 +1,10 @@
+{
+"Class" : "org.apache.commons.math3.optim.MaxIter", 
+"Methods" : [{ "Name" : "<init>" ,
+"Nodes" : 4,
+"0" : [ 35,36 ]
+"1" : [ 40,41 ]
+"2" : [ 37 ]
+"3" : [  ]
+}]
+}

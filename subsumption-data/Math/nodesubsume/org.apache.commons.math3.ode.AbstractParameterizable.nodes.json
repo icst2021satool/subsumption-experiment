@@ -1,0 +1,26 @@
+{
+"Class" : "org.apache.commons.math3.ode.AbstractParameterizable", 
+"Methods" : [{ "Name" : "<init>" ,
+"Nodes" : 5,
+"0" : [ 36,37,38 ]
+"1" : [ 38 ]
+"2" : [ 41 ]
+"3" : [ 38,39 ]
+"4" : [  ]
+},{ "Name" : "isSupported" ,
+"Nodes" : 7,
+"0" : [ 58 ]
+"1" : [ 58 ]
+"2" : [ 63 ]
+"3" : [ 58,59 ]
+"4" : [ 62 ]
+"5" : [ 60 ]
+"6" : [  ]
+},{ "Name" : "complainIfNotSupported" ,
+"Nodes" : 4,
+"0" : [ 73 ]
+"1" : [ 76 ]
+"2" : [ 74 ]
+"3" : [  ]
+}]
+}

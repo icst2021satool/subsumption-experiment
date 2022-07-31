@@ -1,0 +1,23 @@
+{
+"Class" : "org.apache.commons.math3.stat.clustering.EuclideanIntegerPoint", 
+"Methods" : [{ "Name" : "centroidOf" ,
+"Nodes" : 11,
+"0" : [ 66,67 ]
+"1" : [ 67 ]
+"2" : [ 72 ]
+"3" : [ 72 ]
+"4" : [ 75 ]
+"5" : [ 72,73 ]
+"6" : [ 67,68 ]
+"7" : [ 68 ]
+"8" : [ 71 ]
+"9" : [ 68,69 ]
+"10" : [  ]
+},{ "Name" : "equals" ,
+"Nodes" : 4,
+"0" : [ 81 ]
+"1" : [ 84 ]
+"2" : [ 82 ]
+"3" : [  ]
+}]
+}

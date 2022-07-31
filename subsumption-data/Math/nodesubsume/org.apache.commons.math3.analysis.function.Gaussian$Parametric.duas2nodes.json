@@ -1,0 +1,14 @@
+{
+"Class" : "org.apache.commons.math3.analysis.function.Gaussian$Parametric", 
+"Methods" : [{ "Name" : "validateParameters" ,
+"Nodes" : 8,
+"Duas" : 8,
+"0" :  [ 0,6 ],
+"1" :  [ 0,1 ],
+"2" :  [ 0,1,5 ],
+"3" :  [ 0,1,2 ],
+"4" :  [ 0,2,4 ],
+"5" :  [ 0,2,3 ],
+"6" :  [ 0,4 ],
+"7" :  [ 0,5 ]}]
+}

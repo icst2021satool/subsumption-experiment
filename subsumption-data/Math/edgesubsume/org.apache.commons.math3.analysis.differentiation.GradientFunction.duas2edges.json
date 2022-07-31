@@ -1,0 +1,18 @@
+{
+"Class" : "org.apache.commons.math3.analysis.differentiation.GradientFunction", 
+"Methods" : [{ "Name" : "value" ,
+"Edges" : 9,
+"Duas" : 39,
+"1" : 0, 
+ "2" : 1, 
+ "5" : 5, 
+ "6" : 6, 
+ "11" : 0, 
+ "12" : 1, 
+ "16" : 0, 
+ "17" : 1, 
+ "27" : 5, 
+ "28" : 6, 
+ "33" : 5, 
+ "34" : 6}]
+}

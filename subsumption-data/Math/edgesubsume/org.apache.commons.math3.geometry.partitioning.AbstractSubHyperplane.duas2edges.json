@@ -1,0 +1,14 @@
+{
+"Class" : "org.apache.commons.math3.geometry.partitioning.AbstractSubHyperplane", 
+"Methods" : [{ "Name" : "recurseTransform" ,
+"Edges" : 15,
+"Duas" : 28,
+"3" : 4, 
+ "4" : 5, 
+ "17" : 6, 
+ "18" : 7, 
+ "20" : 11, 
+ "21" : 12, 
+ "23" : 0, 
+ "24" : 1}]
+}

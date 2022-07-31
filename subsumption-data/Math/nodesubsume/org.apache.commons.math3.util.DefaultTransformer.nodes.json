@@ -1,0 +1,18 @@
+{
+"Class" : "org.apache.commons.math3.util.DefaultTransformer", 
+"Methods" : [{ "Name" : "transform" ,
+"Nodes" : 6,
+"0" : [ 50 ]
+"1" : [ 54 ]
+"2" : [ 59 ]
+"3" : [ 55 ]
+"4" : [ 51 ]
+"5" : [  ]
+},{ "Name" : "equals" ,
+"Nodes" : 4,
+"0" : [ 69 ]
+"1" : [ 72 ]
+"2" : [ 70 ]
+"3" : [  ]
+}]
+}

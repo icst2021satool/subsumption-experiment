@@ -1,0 +1,20 @@
+{
+"Class" : "org.apache.commons.math3.distribution.fitting.MultivariateNormalMixtureExpectationMaximization$DataRow", 
+"Methods" : [{ "Name" : "<init>" ,
+"Edges" : 5,
+"Duas" : 18,
+"2" : 0, 
+ "3" : 1, 
+ "8" : 0, 
+ "9" : 1, 
+ "14" : 0, 
+ "15" : 1},{ "Name" : "equals" ,
+"Edges" : 7,
+"Duas" : 9,
+"0" : 3, 
+ "1" : 4, 
+ "3" : 3, 
+ "4" : 4, 
+ "5" : 1, 
+ "6" : 2}]
+}

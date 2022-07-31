@@ -1,0 +1,16 @@
+{
+"Class" : "org.apache.commons.math3.optimization.linear.LinearObjectiveFunction", 
+"Methods" : [{ "Name" : "equals" ,
+"Nodes" : 10,
+"0" : [ 109 ]
+"1" : [ 113 ]
+"2" : [ 118 ]
+"3" : [ 114,115 ]
+"4" : [ 115 ]
+"5" : [ 115 ]
+"6" : [ 115 ]
+"7" : [ 115 ]
+"8" : [ 110 ]
+"9" : [  ]
+}]
+}

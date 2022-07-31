@@ -1,0 +1,17 @@
+{
+"Class" : "org.apache.commons.math3.optimization.general.NonLinearConjugateGradientOptimizer$LineSearchFunction", 
+"Methods" : [{ "Name" : "value" ,
+"Edges" : 9,
+"1" : [ ],
+"5" : [ 2, 3, 6, 7, 10, 11, 13, 14],
+"6" : [ 0, 4, 8, 9],
+"0" : [ 0, 4, 8, 9],
+"2" : [ 0, 1, 19, 4, 5, 21, 23, 8, 24, 9, 26, 27],
+"3" : [ 0, 4, 20, 8, 9],
+"4" : [ 0, 4, 20, 8, 9],
+"7" : [ 0, 1, 19, 4, 5, 21, 23, 8, 24, 9, 26, 27],
+"8" : [ 2, 3, 6, 7, 10, 11, 13, 14],
+"CoveredDUAsByEdges" : 21,
+"Duas" : 34
+}]
+}

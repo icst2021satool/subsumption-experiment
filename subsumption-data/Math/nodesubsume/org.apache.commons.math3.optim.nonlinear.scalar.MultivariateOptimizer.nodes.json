@@ -1,0 +1,15 @@
+{
+"Class" : "org.apache.commons.math3.optim.nonlinear.scalar.MultivariateOptimizer", 
+"Methods" : [{ "Name" : "parseOptimizationData" ,
+"Nodes" : 9,
+"0" : [ 81,85 ]
+"1" : [ 85 ]
+"2" : [ 95 ]
+"3" : [ 85,86 ]
+"4" : [ 90 ]
+"5" : [ 85 ]
+"6" : [ 91,92 ]
+"7" : [ 87,88 ]
+"8" : [  ]
+}]
+}

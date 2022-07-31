@@ -1,0 +1,28 @@
+{
+"Class" : "org.apache.commons.math3.geometry.euclidean.twod.PolygonsSet$SegmentsBuilder", 
+"Methods" : [{ "Name" : "visitInternalNode" ,
+"Nodes" : 6,
+"0" : [ 820,821 ]
+"1" : [ 824 ]
+"2" : [ 827 ]
+"3" : [ 825 ]
+"4" : [ 822 ]
+"5" : [  ]
+},{ "Name" : "addContribution" ,
+"Nodes" : 14,
+"0" : [ 839,841,842,843 ]
+"1" : [ 843 ]
+"2" : [ 854 ]
+"3" : [ 843,844 ]
+"4" : [ 844 ]
+"5" : [ 844,846 ]
+"6" : [ 846 ]
+"7" : [ 848,846 ]
+"8" : [ 851 ]
+"9" : [ 853 ]
+"10" : [ 849 ]
+"11" : [ 846 ]
+"12" : [ 844 ]
+"13" : [  ]
+}]
+}

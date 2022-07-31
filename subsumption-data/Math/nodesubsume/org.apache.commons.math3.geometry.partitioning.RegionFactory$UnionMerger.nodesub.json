@@ -1,0 +1,12 @@
+{
+"Class" : "org.apache.commons.math3.geometry.partitioning.RegionFactory$UnionMerger", 
+"Methods" : [{ "Name" : "merge" ,
+"Nodes" : 4,
+"0" : [ ],
+"1" : [ 1, 4, 5, 6, 8],
+"2" : [ 0, 2, 3, 7, 9],
+"3" : [ ],
+"CoveredDUAsByNodes" : 10,
+"Duas" : 10
+}]
+}

@@ -1,0 +1,9 @@
+{
+"Class" : "org.apache.commons.math.analysis.minimization.UnivariateRealMinimizerImpl", 
+"Methods" : [{ "Name" : "checkResultComputed" ,
+"Duas" : 4,
+"0" :  "(62,(62,63), this)",
+"1" :  "(62,(62,65), this)",
+"2" :  "(62,(62,63), this.resultComputed)",
+"3" :  "(62,(62,65), this.resultComputed)"}]
+}

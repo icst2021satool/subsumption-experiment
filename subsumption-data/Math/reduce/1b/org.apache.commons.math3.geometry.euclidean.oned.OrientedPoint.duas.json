@@ -1,0 +1,23 @@
+{
+"Class" : "org.apache.commons.math3.geometry.euclidean.oned.OrientedPoint", 
+"Methods" : [{ "Name" : "getOffset" ,
+"Duas" : 5,
+"0" :  "(58,(59,59), this)",
+"1" :  "(58,(59,59), this)",
+"2" :  "(58,(59,59), this.direct)",
+"3" :  "(58,(59,59), this.direct)",
+"4" :  "(58,59, delta)"},{ "Name" : "sameOrientationAs" ,
+"Duas" : 6,
+"0" :  "(87,(87,87), this)",
+"1" :  "(87,(87,87), this)",
+"2" :  "(87,(87,87), other)",
+"3" :  "(87,(87,87), other)",
+"4" :  "(87,(87,87), this.direct)",
+"5" :  "(87,(87,87), this.direct)"},{ "Name" : "revertSelf" ,
+"Duas" : 5,
+"0" :  "(108,(108,108), this)",
+"1" :  "(108,(108,108), this)",
+"2" :  "(108,108, this)",
+"3" :  "(108,(108,108), this.direct)",
+"4" :  "(108,(108,108), this.direct)"}]
+}

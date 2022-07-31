@@ -1,0 +1,21 @@
+{
+"Class" : "org.apache.commons.math3.geometry.euclidean.twod.PolygonsSet$ComparableSegment", 
+"Methods" : [{ "Name" : "<init>" ,
+"Duas" : 5,
+"0" :  "(755,756, this)",
+"1" :  "(755,(756,756), start)",
+"2" :  "(755,(756,756), start)",
+"3" :  "(755,756, start)",
+"4" :  "(755,756, start)"},{ "Name" : "equals" ,
+"Duas" : 10,
+"0" :  "(783,(783,784), this)",
+"1" :  "(783,(783,785), this)",
+"2" :  "(783,(786,786), this)",
+"3" :  "(783,(786,786), this)",
+"4" :  "(783,(783,784), other)",
+"5" :  "(783,(783,785), other)",
+"6" :  "(783,(785,786), other)",
+"7" :  "(783,(785,788), other)",
+"8" :  "(783,(786,786), other)",
+"9" :  "(783,(786,786), other)"}]
+}

@@ -1,0 +1,11 @@
+{
+"Class" : "org.apache.commons.math3.geometry.partitioning.AbstractRegion$2", 
+"Methods" : [{ "Name" : "visitLeafNode" ,
+"Nodes" : 5,
+"Duas" : 5,
+"0" :  [ 0,3 ],
+"1" :  [ 0,1 ],
+"2" :  [ 0,2 ],
+"3" :  [ 0,2 ],
+"4" :  [ 0,2 ]}]
+}

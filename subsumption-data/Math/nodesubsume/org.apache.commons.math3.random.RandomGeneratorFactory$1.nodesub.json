@@ -1,0 +1,12 @@
+{
+"Class" : "org.apache.commons.math3.random.RandomGeneratorFactory$1", 
+"Methods" : [{ "Name" : "nextInt" ,
+"Nodes" : 4,
+"0" : [ ],
+"1" : [ 0, 2, 3, 5],
+"2" : [ 1, 4],
+"3" : [ ],
+"CoveredDUAsByNodes" : 6,
+"Duas" : 6
+}]
+}

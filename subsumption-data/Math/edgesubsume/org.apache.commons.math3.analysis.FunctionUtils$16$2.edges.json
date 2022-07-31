@@ -1,0 +1,15 @@
+{
+"Class" : "org.apache.commons.math3.analysis.FunctionUtils$16$2", 
+"Methods" : [{ "Name" : "value" ,
+"Edges" : 9,
+"0" : [ 5,3 ],
+"1" : [ 4,7 ],
+"2" : [ 3,5 ],
+"3" : [ 3,4 ],
+"4" : [ 2,3 ],
+"5" : [ 6,1 ],
+"6" : [ 1,6 ],
+"7" : [ 1,2 ],
+"8" : [ 0,1 ]
+}]
+}

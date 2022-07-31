@@ -1,0 +1,11 @@
+{
+"Class" : "org.apache.commons.math3.analysis.integration.gauss.GaussIntegratorFactory", 
+"Methods" : [{ "Name" : "transform" ,
+"Nodes" : 5,
+"0" : [ 160,161,163,156,157 ]
+"1" : [ 163 ]
+"2" : [ 168 ]
+"3" : [ 163,164,165 ]
+"4" : [  ]
+}]
+}

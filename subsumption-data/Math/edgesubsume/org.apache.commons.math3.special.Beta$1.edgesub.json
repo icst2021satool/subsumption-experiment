@@ -1,0 +1,13 @@
+{
+"Class" : "org.apache.commons.math3.special.Beta$1", 
+"Methods" : [{ "Name" : "getB" ,
+"Edges" : 5,
+"3" : [ 1, 2, 5, 7, 9, 11],
+"4" : [ 0, 3, 4, 6, 8, 10],
+"2" : [ 0, 3, 4, 6, 8, 10],
+"0" : [ 1, 2, 5, 7, 9, 11],
+"1" : [ ],
+"CoveredDUAsByEdges" : 12,
+"Duas" : 14
+}]
+}

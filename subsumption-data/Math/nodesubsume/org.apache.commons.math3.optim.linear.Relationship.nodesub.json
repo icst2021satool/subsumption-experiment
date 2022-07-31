@@ -1,0 +1,13 @@
+{
+"Class" : "org.apache.commons.math3.optim.linear.Relationship", 
+"Methods" : [{ "Name" : "oppositeRelationship" ,
+"Nodes" : 5,
+"0" : [ ],
+"1" : [ 2, 5, 7],
+"2" : [ 1, 4, 6],
+"3" : [ 0, 3, 8],
+"4" : [ ],
+"CoveredDUAsByNodes" : 9,
+"Duas" : 9
+}]
+}

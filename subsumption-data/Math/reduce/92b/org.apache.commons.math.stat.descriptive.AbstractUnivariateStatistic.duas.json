@@ -1,0 +1,19 @@
+{
+"Class" : "org.apache.commons.math.stat.descriptive.AbstractUnivariateStatistic", 
+"Methods" : [{ "Name" : "test" ,
+"Duas" : 14,
+"0" :  "(82,(82,83), values)",
+"1" :  "(82,(82,86), values)",
+"2" :  "(82,(94,95), values)",
+"3" :  "(82,(94,99), values)",
+"4" :  "(82,(86,87), begin)",
+"5" :  "(82,(86,90), begin)",
+"6" :  "(82,(94,95), begin)",
+"7" :  "(82,(94,99), begin)",
+"8" :  "(82,(90,91), length)",
+"9" :  "(82,(90,94), length)",
+"10" :  "(82,(94,95), length)",
+"11" :  "(82,(94,99), length)",
+"12" :  "(82,(99,100), length)",
+"13" :  "(82,(99,103), length)"}]
+}

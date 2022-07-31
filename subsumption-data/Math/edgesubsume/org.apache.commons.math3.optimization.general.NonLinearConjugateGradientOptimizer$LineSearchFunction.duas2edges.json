@@ -1,0 +1,18 @@
+{
+"Class" : "org.apache.commons.math3.optimization.general.NonLinearConjugateGradientOptimizer$LineSearchFunction", 
+"Methods" : [{ "Name" : "value" ,
+"Edges" : 9,
+"Duas" : 34,
+"7" : 5, 
+ "8" : 6, 
+ "11" : 5, 
+ "12" : 6, 
+ "15" : 5, 
+ "16" : 6, 
+ "19" : 2, 
+ "20" : 3, 
+ "24" : 2, 
+ "25" : 3, 
+ "30" : 2, 
+ "31" : 3}]
+}

@@ -1,0 +1,15 @@
+{
+"Class" : "org.apache.commons.math3.optimization.direct.CMAESOptimizer$DoubleIndex", 
+"Methods" : [{ "Name" : "equals" ,
+"Nodes" : 9,
+"0" : [ 984 ]
+"1" : [ 988 ]
+"2" : [ 992 ]
+"3" : [ 989 ]
+"4" : [ 989 ]
+"5" : [ 989 ]
+"6" : [ 989 ]
+"7" : [ 985 ]
+"8" : [  ]
+}]
+}

@@ -1,0 +1,14 @@
+{
+"Class" : "org.apache.commons.math3.analysis.solvers.NewtonSolver", 
+"Methods" : [{ "Name" : "doSolve" ,
+"Edges" : 5,
+"Duas" : 13,
+"1" : 0, 
+ "2" : 1, 
+ "4" : 0, 
+ "5" : 1, 
+ "6" : 0, 
+ "7" : 1, 
+ "11" : 0, 
+ "12" : 1}]
+}

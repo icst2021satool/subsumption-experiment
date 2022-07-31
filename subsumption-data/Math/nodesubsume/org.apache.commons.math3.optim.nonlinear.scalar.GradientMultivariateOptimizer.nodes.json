@@ -1,0 +1,13 @@
+{
+"Class" : "org.apache.commons.math3.optim.nonlinear.scalar.GradientMultivariateOptimizer", 
+"Methods" : [{ "Name" : "parseOptimizationData" ,
+"Nodes" : 7,
+"0" : [ 90,94 ]
+"1" : [ 94 ]
+"2" : [ 102 ]
+"3" : [ 94,95 ]
+"4" : [ 94 ]
+"5" : [ 96,99 ]
+"6" : [  ]
+}]
+}

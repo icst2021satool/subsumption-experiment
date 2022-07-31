@@ -1,0 +1,9 @@
+{
+"Class" : "org.apache.commons.math.complex.ComplexUtils", 
+"Methods" : [{ "Name" : "polar2Complex" ,
+"Duas" : 4,
+"0" :  "(61,(61,62), r)",
+"1" :  "(61,(61,65), r)",
+"2" :  "(61,65, r)",
+"3" :  "(61,65, theta)"}]
+}

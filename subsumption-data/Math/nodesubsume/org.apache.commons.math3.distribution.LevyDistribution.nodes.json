@@ -1,0 +1,23 @@
+{
+"Class" : "org.apache.commons.math3.distribution.LevyDistribution", 
+"Methods" : [{ "Name" : "density" ,
+"Nodes" : 4,
+"0" : [ 73 ]
+"1" : [ 77,78,79 ]
+"2" : [ 74 ]
+"3" : [  ]
+},{ "Name" : "cumulativeProbability" ,
+"Nodes" : 4,
+"0" : [ 91 ]
+"1" : [ 94 ]
+"2" : [ 92 ]
+"3" : [  ]
+},{ "Name" : "inverseCumulativeProbability" ,
+"Nodes" : 5,
+"0" : [ 100 ]
+"1" : [ 101 ]
+"2" : [ 100 ]
+"3" : [ 103,104 ]
+"4" : [  ]
+}]
+}

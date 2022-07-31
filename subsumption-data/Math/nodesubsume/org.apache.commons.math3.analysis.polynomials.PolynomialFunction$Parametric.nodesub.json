@@ -1,0 +1,13 @@
+{
+"Class" : "org.apache.commons.math3.analysis.polynomials.PolynomialFunction$Parametric", 
+"Methods" : [{ "Name" : "gradient" ,
+"Nodes" : 5,
+"0" : [ ],
+"1" : [ ],
+"2" : [ 2, 3],
+"4" : [ 2, 3],
+"3" : [ 0, 1, 4, 5, 6, 7, 9, 10],
+"CoveredDUAsByNodes" : 10,
+"Duas" : 17
+}]
+}

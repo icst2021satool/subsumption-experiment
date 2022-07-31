@@ -1,0 +1,22 @@
+{
+"Class" : "org.apache.commons.math3.random.UnitSphereRandomVectorGenerator", 
+"Methods" : [{ "Name" : "nextVector" ,
+"Edges" : 9,
+"Duas" : 34,
+"0" : 1, 
+ "1" : 2, 
+ "2" : 7, 
+ "3" : 8, 
+ "5" : 1, 
+ "6" : 2, 
+ "7" : 7, 
+ "8" : 8, 
+ "15" : 1, 
+ "16" : 2, 
+ "21" : 1, 
+ "22" : 2, 
+ "26" : 7, 
+ "27" : 8, 
+ "30" : 7, 
+ "31" : 8}]
+}

@@ -1,0 +1,10 @@
+{
+"Class" : "org.apache.commons.math3.optimization.univariate.BaseAbstractUnivariateOptimizer", 
+"Methods" : [{ "Name" : "optimize" ,
+"Edges" : 7,
+"Duas" : 20,
+"9" : 2, 
+ "10" : 3, 
+ "12" : 5, 
+ "13" : 6}]
+}

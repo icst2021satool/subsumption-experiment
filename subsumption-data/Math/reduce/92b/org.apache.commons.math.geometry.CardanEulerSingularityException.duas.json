@@ -1,0 +1,8 @@
+{
+"Class" : "org.apache.commons.math.geometry.CardanEulerSingularityException", 
+"Methods" : [{ "Name" : "<init>" ,
+"Duas" : 3,
+"0" :  "(38,38, this)",
+"1" :  "(38,(38,38), isCardan)",
+"2" :  "(38,(38,38), isCardan)"}]
+}

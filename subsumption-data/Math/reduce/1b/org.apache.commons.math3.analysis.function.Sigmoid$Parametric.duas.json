@@ -1,0 +1,10 @@
+{
+"Class" : "org.apache.commons.math3.analysis.function.Sigmoid$Parametric", 
+"Methods" : [{ "Name" : "validateParameters" ,
+"Duas" : 5,
+"0" :  "(144,(144,145), param)",
+"1" :  "(144,(144,147), param)",
+"2" :  "(144,(147,148), param)",
+"3" :  "(144,(147,150), param)",
+"4" :  "(144,148, param)"}]
+}

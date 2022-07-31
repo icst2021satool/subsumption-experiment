@@ -1,0 +1,15 @@
+{
+"Class" : "org.apache.commons.math3.linear.AbstractRealMatrix$1", 
+"Methods" : [{ "Name" : "visit" ,
+"Duas" : 10,
+"0" :  "(264,(265,266), this)",
+"1" :  "(264,(265,269), this)",
+"2" :  "(264,266, this)",
+"3" :  "(264,267, this)",
+"4" :  "(264,(265,266), row)",
+"5" :  "(264,(265,269), row)",
+"6" :  "(264,(265,266), this.endRow)",
+"7" :  "(264,(265,269), this.endRow)",
+"8" :  "(264,266, this.maxColSum)",
+"9" :  "(264,266, this.columnSum)"}]
+}

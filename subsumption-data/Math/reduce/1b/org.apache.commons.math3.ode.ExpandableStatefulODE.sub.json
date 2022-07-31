@@ -1,0 +1,42 @@
+{
+"Class" : "org.apache.commons.math3.ode.ExpandableStatefulODE", 
+"Methods" : [{ "Name" : "getTotalDimension" ,
+"Duas" : "8" ,
+"Subsumers" : 2,
+"0" : [ 7, 4, 3, 0], "S0" : [0, 3, 4, 7 ],
+"1" : [ 6, 5, 2, 1], "S1" : [1, 2, 5, 6 ]
+},{ "Name" : "computeDerivatives" ,
+"Duas" : "13" ,
+"Subsumers" : 1,
+"0" : [ 12, 10, 9, 7, 5, 3, 2, 1], "S0" : [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 ]
+},{ "Name" : "addSecondaryEquations" ,
+"Duas" : "18" ,
+"Subsumers" : 2,
+"0" : [ 16, 14, 15, 13, 8, 5, 6, 0], "S0" : [0, 3, 4, 5, 6, 7, 8, 13, 14, 15, 16 ],
+"1" : [ 17, 11, 12, 10, 9, 2, 1], "S1" : [1, 2, 3, 4, 7, 9, 10, 11, 12, 17 ]
+},{ "Name" : "getSecondaryMappers" ,
+"Duas" : "14" ,
+"Subsumers" : 2,
+"0" : [ 12, 13, 10], "S0" : [0, 1, 2, 3, 4, 5, 6, 8, 9, 10, 11, 12, 13 ],
+"1" : [ 7], "S1" : [3, 4, 7 ]
+},{ "Name" : "setPrimaryState" ,
+"Duas" : "12" ,
+"Subsumers" : 2,
+"0" : [ 11, 8, 7, 4, 3, 0], "S0" : [0, 3, 4, 7, 8, 11 ],
+"1" : [ 10, 9, 6, 5, 2, 1], "S1" : [1, 2, 5, 6, 9, 10 ]
+},{ "Name" : "setSecondaryState" ,
+"Duas" : "8" ,
+"Subsumers" : 2,
+"0" : [ 7, 4, 3, 0], "S0" : [0, 3, 4, 7 ],
+"1" : [ 6, 5, 2, 1], "S1" : [1, 2, 5, 6 ]
+},{ "Name" : "setCompleteState" ,
+"Duas" : "16" ,
+"Subsumers" : 2,
+"0" : [ 9, 5, 4, 0], "S0" : [0, 4, 5, 9 ],
+"1" : [ 15, 13, 8], "S1" : [1, 2, 3, 6, 7, 8, 10, 11, 12, 13, 14, 15 ]
+},{ "Name" : "getCompleteState" ,
+"Duas" : "5" ,
+"Subsumers" : 1,
+"0" : [ 4, 2, 1], "S0" : [0, 1, 2, 3, 4 ]
+}]
+}

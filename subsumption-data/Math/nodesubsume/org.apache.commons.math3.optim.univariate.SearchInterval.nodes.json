@@ -1,0 +1,13 @@
+{
+"Class" : "org.apache.commons.math3.optim.univariate.SearchInterval", 
+"Methods" : [{ "Name" : "<init>" ,
+"Nodes" : 7,
+"0" : [ 48,49 ]
+"1" : [ 52 ]
+"2" : [ 54 ]
+"3" : [ 52 ]
+"4" : [ 57,58,59,60 ]
+"5" : [ 50 ]
+"6" : [  ]
+}]
+}

@@ -1,0 +1,25 @@
+{
+"Class" : "org.apache.commons.math3.genetics.Chromosome", 
+"Methods" : [{ "Name" : "getFitness" ,
+"Nodes" : 4,
+"0" : [ 43 ]
+"1" : [ 47 ]
+"2" : [ 45 ]
+"3" : [  ]
+},{ "Name" : "findSameChromosome" ,
+"Nodes" : 7,
+"0" : [ 84 ]
+"1" : [ 84 ]
+"2" : [ 89 ]
+"3" : [ 84,85 ]
+"4" : [ 88 ]
+"5" : [ 86 ]
+"6" : [  ]
+},{ "Name" : "searchForFitnessUpdate" ,
+"Nodes" : 4,
+"0" : [ 99,100 ]
+"1" : [ 103 ]
+"2" : [ 101 ]
+"3" : [  ]
+}]
+}

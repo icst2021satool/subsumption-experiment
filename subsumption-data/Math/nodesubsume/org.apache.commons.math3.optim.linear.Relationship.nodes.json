@@ -1,0 +1,11 @@
+{
+"Class" : "org.apache.commons.math3.optim.linear.Relationship", 
+"Methods" : [{ "Name" : "oppositeRelationship" ,
+"Nodes" : 5,
+"0" : [ 56 ]
+"1" : [ 60 ]
+"2" : [ 58 ]
+"3" : [ 62 ]
+"4" : [  ]
+}]
+}

@@ -1,0 +1,15 @@
+{
+"Class" : "org.apache.commons.math3.genetics.TournamentSelection", 
+"Methods" : [{ "Name" : "tournament" ,
+"Nodes" : 7,
+"0" : [ ],
+"1" : [ 1, 2, 7, 8, 11, 12],
+"2" : [ 1, 2, 7, 8, 11, 12],
+"3" : [ 1, 17, 2, 4, 7, 8, 11, 12, 14],
+"4" : [ 1, 2, 3, 7, 8, 11, 12, 13, 18, 19, 20, 21, 22, 24],
+"5" : [ 0, 5, 6, 9, 10, 15, 16],
+"6" : [ ],
+"CoveredDUAsByNodes" : 24,
+"Duas" : 28
+}]
+}

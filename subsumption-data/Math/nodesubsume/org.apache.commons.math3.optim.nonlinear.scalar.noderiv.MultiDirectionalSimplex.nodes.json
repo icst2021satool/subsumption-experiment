@@ -1,0 +1,22 @@
+{
+"Class" : "org.apache.commons.math3.optim.nonlinear.scalar.noderiv.MultiDirectionalSimplex", 
+"Methods" : [{ "Name" : "iterate" ,
+"Nodes" : 6,
+"0" : [ 161,163,157,158 ]
+"1" : [ 177,179 ]
+"2" : [ 165,166,168 ]
+"3" : [ 173 ]
+"4" : [ 170 ]
+"5" : [  ]
+},{ "Name" : "evaluateNewSimplex" ,
+"Nodes" : 8,
+"0" : [ 197,200,201,202 ]
+"1" : [ 202 ]
+"2" : [ 212,214 ]
+"3" : [ 203,204,205 ]
+"4" : [ 205 ]
+"5" : [ 208,202 ]
+"6" : [ 205,206 ]
+"7" : [  ]
+}]
+}

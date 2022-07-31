@@ -1,0 +1,46 @@
+{
+"Class" : "org.apache.commons.math3.distribution.ZipfDistribution", 
+"Methods" : [{ "Name" : "<init>" ,
+"Nodes" : 6,
+"0" : [ 40,42,75,44,77,46 ]
+"1" : [ 81 ]
+"2" : [ 86,87,88 ]
+"3" : [ 82 ]
+"4" : [ 78 ]
+"5" : [  ]
+},{ "Name" : "probability" ,
+"Nodes" : 5,
+"0" : [ 110 ]
+"1" : [ 111 ]
+"2" : [ 110 ]
+"3" : [ 114 ]
+"4" : [  ]
+},{ "Name" : "cumulativeProbability" ,
+"Nodes" : 6,
+"0" : [ 119 ]
+"1" : [ 121 ]
+"2" : [ 125 ]
+"3" : [ 122 ]
+"4" : [ 120 ]
+"5" : [  ]
+},{ "Name" : "getNumericalMean" ,
+"Nodes" : 4,
+"0" : [ 139 ]
+"1" : [ 143 ]
+"2" : [ 140,141 ]
+"3" : [  ]
+},{ "Name" : "getNumericalVariance" ,
+"Nodes" : 4,
+"0" : [ 173 ]
+"1" : [ 177 ]
+"2" : [ 174,175 ]
+"3" : [  ]
+},{ "Name" : "generalizedHarmonic" ,
+"Nodes" : 5,
+"0" : [ 206,207 ]
+"1" : [ 207 ]
+"2" : [ 210 ]
+"3" : [ 208,207 ]
+"4" : [  ]
+}]
+}

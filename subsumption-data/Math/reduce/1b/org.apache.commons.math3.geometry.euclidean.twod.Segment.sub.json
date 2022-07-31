@@ -1,0 +1,10 @@
+{
+"Class" : "org.apache.commons.math3.geometry.euclidean.twod.Segment", 
+"Methods" : [{ "Name" : "distance" ,
+"Duas" : "17" ,
+"Subsumers" : 3,
+"0" : [ 12], "S0" : [0, 1, 4, 5, 12 ],
+"1" : [ 13], "S1" : [0, 1, 4, 5, 11, 13 ],
+"2" : [ 15, 16, 14, 10, 9, 7, 8, 6, 2, 3], "S2" : [2, 3, 6, 7, 8, 9, 10, 11, 14, 15, 16 ]
+}]
+}

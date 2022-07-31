@@ -1,0 +1,12 @@
+{
+"Class" : "org.apache.commons.math3.optim.linear.LinearConstraintSet", 
+"Methods" : [{ "Name" : "<init>" ,
+"Edges" : 5,
+"Duas" : 13,
+"3" : 1, 
+ "4" : 2, 
+ "5" : 1, 
+ "6" : 2, 
+ "9" : 1, 
+ "10" : 2}]
+}

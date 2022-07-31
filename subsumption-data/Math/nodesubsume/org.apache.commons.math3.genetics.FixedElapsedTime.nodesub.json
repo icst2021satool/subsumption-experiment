@@ -1,0 +1,23 @@
+{
+"Class" : "org.apache.commons.math3.genetics.FixedElapsedTime", 
+"Methods" : [{ "Name" : "<init>" ,
+"Nodes" : 4,
+"0" : [ ],
+"1" : [ 0, 2, 3, 5],
+"2" : [ 1, 4],
+"3" : [ ],
+"CoveredDUAsByNodes" : 6,
+"Duas" : 6
+},{ "Name" : "isSatisfied" ,
+"Nodes" : 7,
+"0" : [ ],
+"5" : [ 0, 4, 5, 9],
+"1" : [ ],
+"2" : [ 3],
+"4" : [ 2],
+"3" : [ ],
+"6" : [ ],
+"CoveredDUAsByNodes" : 6,
+"Duas" : 12
+}]
+}

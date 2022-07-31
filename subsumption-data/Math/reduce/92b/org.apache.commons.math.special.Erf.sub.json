@@ -1,0 +1,9 @@
+{
+"Class" : "org.apache.commons.math.special.Erf", 
+"Methods" : [{ "Name" : "erf" ,
+"Duas" : "5" ,
+"Subsumers" : 2,
+"0" : [ 4, 3, 0], "S0" : [0, 3, 4 ],
+"1" : [ 2, 1], "S1" : [1, 2 ]
+}]
+}

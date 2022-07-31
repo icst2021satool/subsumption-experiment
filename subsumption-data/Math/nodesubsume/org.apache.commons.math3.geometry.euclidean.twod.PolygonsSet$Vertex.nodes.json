@@ -1,0 +1,16 @@
+{
+"Class" : "org.apache.commons.math3.geometry.euclidean.twod.PolygonsSet$Vertex", 
+"Methods" : [{ "Name" : "sharedLineWith" ,
+"Nodes" : 10,
+"0" : [ 373 ]
+"1" : [ 373 ]
+"2" : [ 380 ]
+"3" : [ 373,374 ]
+"4" : [ 374 ]
+"5" : [ 379 ]
+"6" : [ 374,375 ]
+"7" : [ 378 ]
+"8" : [ 376 ]
+"9" : [  ]
+}]
+}

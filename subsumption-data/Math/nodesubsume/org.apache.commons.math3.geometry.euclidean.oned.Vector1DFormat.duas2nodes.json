@@ -1,0 +1,16 @@
+{
+"Class" : "org.apache.commons.math3.geometry.euclidean.oned.Vector1DFormat", 
+"Methods" : [{ "Name" : "parse" ,
+"Nodes" : 4,
+"Duas" : 5,
+"0" :  [ 0,2 ],
+"1" :  [ 0,2 ],
+"2" :  [ 0,1 ],
+"3" :  [ 0,2 ],
+"4" :  [ 0,1 ]},{ "Name" : "parse" ,
+"Nodes" : 4,
+"Duas" : 3,
+"0" :  [ 0,2 ],
+"1" :  [ 0,1 ],
+"2" :  [ 0,1 ]}]
+}

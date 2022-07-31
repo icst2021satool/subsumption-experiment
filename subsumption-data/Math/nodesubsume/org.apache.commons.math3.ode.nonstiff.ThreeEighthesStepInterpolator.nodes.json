@@ -1,0 +1,17 @@
+{
+"Class" : "org.apache.commons.math3.ode.nonstiff.ThreeEighthesStepInterpolator", 
+"Methods" : [{ "Name" : "computeInterpolatedStateAndDerivatives" ,
+"Nodes" : 11,
+"0" : [ 99,100,101,102,104 ]
+"1" : [ 128,129,123,124,125,126,127 ]
+"2" : [ 129 ]
+"3" : [ 142 ]
+"4" : [ 129,130,131,132,133,134,136 ]
+"5" : [ 104 ]
+"6" : [ 105,106,107,108,109,110,111 ]
+"7" : [ 111 ]
+"8" : [ 122 ]
+"9" : [ 112,113,114,115,116,118,111 ]
+"10" : [  ]
+}]
+}

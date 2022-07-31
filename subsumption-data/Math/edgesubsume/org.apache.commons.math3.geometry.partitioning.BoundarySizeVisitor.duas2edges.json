@@ -1,0 +1,10 @@
+{
+"Class" : "org.apache.commons.math3.geometry.partitioning.BoundarySizeVisitor", 
+"Methods" : [{ "Name" : "visitInternalNode" ,
+"Edges" : 7,
+"Duas" : 11,
+"4" : 4, 
+ "5" : 5, 
+ "6" : 0, 
+ "7" : 1}]
+}

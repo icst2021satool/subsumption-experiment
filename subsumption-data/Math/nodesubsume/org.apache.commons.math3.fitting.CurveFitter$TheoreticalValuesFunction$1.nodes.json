@@ -1,0 +1,11 @@
+{
+"Class" : "org.apache.commons.math3.fitting.CurveFitter$TheoreticalValuesFunction$1", 
+"Methods" : [{ "Name" : "value" ,
+"Nodes" : 5,
+"0" : [ 208,206,207 ]
+"1" : [ 208 ]
+"2" : [ 212 ]
+"3" : [ 208,209,210 ]
+"4" : [  ]
+}]
+}

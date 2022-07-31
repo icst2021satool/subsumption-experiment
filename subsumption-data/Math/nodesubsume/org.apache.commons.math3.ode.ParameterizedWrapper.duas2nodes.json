@@ -1,0 +1,11 @@
+{
+"Class" : "org.apache.commons.math3.ode.ParameterizedWrapper", 
+"Methods" : [{ "Name" : "getParameter" ,
+"Nodes" : 4,
+"Duas" : 5,
+"0" :  [ 0,2 ],
+"1" :  [ 0,1 ],
+"2" :  [ 0,2 ],
+"3" :  [ 0,1 ],
+"4" :  [ 0,2 ]}]
+}

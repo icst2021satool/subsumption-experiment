@@ -1,0 +1,13 @@
+{
+"Class" : "org.apache.commons.math3.distribution.AbstractMultivariateRealDistribution", 
+"Methods" : [{ "Name" : "sample" ,
+"Nodes" : 7,
+"0" : [ 61 ]
+"1" : [ 65,66 ]
+"2" : [ 66 ]
+"3" : [ 69 ]
+"4" : [ 66,67 ]
+"5" : [ 62 ]
+"6" : [  ]
+}]
+}

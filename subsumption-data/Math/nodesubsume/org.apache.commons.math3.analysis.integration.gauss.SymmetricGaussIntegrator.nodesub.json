@@ -1,0 +1,17 @@
+{
+"Class" : "org.apache.commons.math3.analysis.integration.gauss.SymmetricGaussIntegrator", 
+"Methods" : [{ "Name" : "integrate" ,
+"Nodes" : 9,
+"0" : [ ],
+"1" : [ 9, 10],
+"2" : [ 9, 10],
+"3" : [ 9, 10, 14],
+"5" : [ 0, 4, 9, 10, 11, 14, 15],
+"4" : [ 9, 10, 14],
+"6" : [ 1, 2, 5, 6, 9, 10, 13, 18, 19, 21, 22, 24, 25, 26],
+"7" : [ 3, 7, 8],
+"8" : [ ],
+"CoveredDUAsByNodes" : 22,
+"Duas" : 39
+}]
+}

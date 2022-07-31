@@ -1,0 +1,13 @@
+{
+"Class" : "org.apache.commons.math3.optimization.linear.AbstractLinearOptimizer", 
+"Methods" : [{ "Name" : "incrementIterationsCounter" ,
+"Duas" : 8,
+"0" :  "(131,(131,132), this)",
+"1" :  "(131,(131,134), this)",
+"2" :  "(131,132, this)",
+"3" :  "(131,(131,132), this.maxIterations)",
+"4" :  "(131,(131,134), this.maxIterations)",
+"5" :  "(131,132, this.maxIterations)",
+"6" :  "(131,(131,132), this.iterations)",
+"7" :  "(131,(131,134), this.iterations)"}]
+}

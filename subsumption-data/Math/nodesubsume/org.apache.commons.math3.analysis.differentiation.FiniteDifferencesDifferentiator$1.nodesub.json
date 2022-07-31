@@ -1,0 +1,15 @@
+{
+"Class" : "org.apache.commons.math3.analysis.differentiation.FiniteDifferencesDifferentiator$1", 
+"Methods" : [{ "Name" : "value" ,
+"Nodes" : 7,
+"0" : [ ],
+"1" : [ 16, 1, 17, 2, 3, 10, 11, 15],
+"2" : [ 16, 1, 17, 2, 3, 10, 11, 15],
+"3" : [ 1, 2, 3, 5, 6, 10, 11, 12, 15, 16, 17, 19, 20, 24, 26],
+"4" : [ 1, 2, 3, 4, 7, 10, 11, 15, 16, 17, 18, 21, 23, 25, 27, 28, 30, 31],
+"5" : [ 0, 8, 9, 13, 14, 22],
+"6" : [ ],
+"CoveredDUAsByNodes" : 31,
+"Duas" : 36
+}]
+}

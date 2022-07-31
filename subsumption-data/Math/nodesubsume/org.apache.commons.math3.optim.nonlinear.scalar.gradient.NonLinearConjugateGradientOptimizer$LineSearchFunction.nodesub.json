@@ -1,0 +1,16 @@
+{
+"Class" : "org.apache.commons.math3.optim.nonlinear.scalar.gradient.NonLinearConjugateGradientOptimizer$LineSearchFunction", 
+"Methods" : [{ "Name" : "value" ,
+"Nodes" : 8,
+"0" : [ ],
+"1" : [ ],
+"2" : [ 0, 6, 8, 9],
+"3" : [ 0, 6, 8, 9],
+"4" : [ 0, 20, 6, 8, 9],
+"7" : [ 0, 20, 6, 8, 9],
+"5" : [ 0, 1, 19, 4, 21, 6, 23, 8, 24, 9, 26, 27],
+"6" : [ 2, 3, 5, 7, 10, 11, 13, 14],
+"CoveredDUAsByNodes" : 21,
+"Duas" : 34
+}]
+}

@@ -1,0 +1,15 @@
+{
+"Class" : "org.apache.commons.math3.analysis.solvers.BisectionSolver", 
+"Methods" : [{ "Name" : "doSolve" ,
+"Nodes" : 7,
+"0" : [ ],
+"1" : [ 0, 1, 2, 3, 7],
+"2" : [ 0, 16, 1, 2, 18, 3, 7, 13],
+"5" : [ 0, 1, 17, 2, 3, 7, 14, 15],
+"3" : [ 0, 1, 2, 3, 7],
+"4" : [ 0, 1, 2, 3, 7, 11],
+"6" : [ 0, 1, 2, 3, 7, 11],
+"CoveredDUAsByNodes" : 12,
+"Duas" : 28
+}]
+}

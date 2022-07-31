@@ -1,0 +1,15 @@
+{
+"Class" : "org.apache.commons.math.stat.descriptive.moment.GeometricMean", 
+"Methods" : [{ "Name" : "getResult" ,
+"Duas" : 6,
+"0" :  "(102,(102,103), this)",
+"1" :  "(102,(102,105), this)",
+"2" :  "(102,103, this)",
+"3" :  "(102,(102,103), this.sumOfLogs)",
+"4" :  "(102,(102,105), this.sumOfLogs)",
+"5" :  "(102,103, this.sumOfLogs)"},{ "Name" : "checkEmpty" ,
+"Duas" : 3,
+"0" :  "(188,(188,189), this)",
+"1" :  "(188,(188,192), this)",
+"2" :  "(188,189, this)"}]
+}

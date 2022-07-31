@@ -1,0 +1,13 @@
+{
+"Class" : "org.apache.commons.math3.analysis.FunctionUtils$7", 
+"Methods" : [{ "Name" : "value" ,
+"Edges" : 5,
+"3" : [ ],
+"1" : [ 0, 2, 3, 4, 6, 8, 9, 11, 12],
+"2" : [ 1, 5],
+"4" : [ 1, 5],
+"0" : [ 0, 2, 3, 4, 6, 8, 9, 11, 12],
+"CoveredDUAsByEdges" : 11,
+"Duas" : 19
+}]
+}

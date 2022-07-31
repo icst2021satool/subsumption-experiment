@@ -1,0 +1,21 @@
+{
+"Class" : "org.apache.commons.math.distribution.TDistributionImpl", 
+"Methods" : [{ "Name" : "setDegreesOfFreedom" ,
+"Duas" : "4" ,
+"Subsumers" : 2,
+"0" : [ 3, 2, 0], "S0" : [0, 2, 3 ],
+"1" : [ 1], "S1" : [1 ]
+},{ "Name" : "cumulativeProbability" ,
+"Duas" : "11" ,
+"Subsumers" : 3,
+"0" : [ 9, 8, 4], "S0" : [0, 2, 3, 4, 8, 9 ],
+"1" : [ 10, 7, 5], "S1" : [0, 2, 3, 5, 7, 10 ],
+"2" : [ 6, 1], "S2" : [1, 6 ]
+},{ "Name" : "inverseCumulativeProbability" ,
+"Duas" : "6" ,
+"Subsumers" : 3,
+"0" : [ 5, 4, 0], "S0" : [0, 2, 4, 5 ],
+"1" : [ 1], "S1" : [1 ],
+"2" : [ 3], "S2" : [2, 3 ]
+}]
+}

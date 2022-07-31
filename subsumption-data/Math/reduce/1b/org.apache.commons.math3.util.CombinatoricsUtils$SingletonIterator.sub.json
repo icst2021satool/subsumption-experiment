@@ -1,0 +1,9 @@
+{
+"Class" : "org.apache.commons.math3.util.CombinatoricsUtils$SingletonIterator", 
+"Methods" : [{ "Name" : "next" ,
+"Duas" : "7" ,
+"Subsumers" : 2,
+"0" : [ 6, 4, 2, 3, 0], "S0" : [0, 2, 3, 4, 6 ],
+"1" : [ 5, 1], "S1" : [1, 5 ]
+}]
+}

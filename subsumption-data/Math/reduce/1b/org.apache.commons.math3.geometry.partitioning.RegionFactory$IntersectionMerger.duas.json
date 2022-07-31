@@ -1,0 +1,15 @@
+{
+"Class" : "org.apache.commons.math3.geometry.partitioning.RegionFactory$IntersectionMerger", 
+"Methods" : [{ "Name" : "merge" ,
+"Duas" : 10,
+"0" :  "(181,(181,183), leaf)",
+"1" :  "(181,(181,187), leaf)",
+"2" :  "(181,187, leaf)",
+"3" :  "(181,188, leaf)",
+"4" :  "(181,183, tree)",
+"5" :  "(181,184, tree)",
+"6" :  "(181,187, parentTree)",
+"7" :  "(181,183, parentTree)",
+"8" :  "(181,187, isPlusChild)",
+"9" :  "(181,183, isPlusChild)"}]
+}

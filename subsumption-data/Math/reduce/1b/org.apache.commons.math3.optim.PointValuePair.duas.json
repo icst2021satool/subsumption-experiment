@@ -1,0 +1,16 @@
+{
+"Class" : "org.apache.commons.math3.optim.PointValuePair", 
+"Methods" : [{ "Name" : "<init>" ,
+"Duas" : 7,
+"0" :  "(58,58, this)",
+"1" :  "(58,58, point)",
+"2" :  "(58,(58,58), point)",
+"3" :  "(58,(58,58), point)",
+"4" :  "(58,58, value)",
+"5" :  "(58,(58,58), copyArray)",
+"6" :  "(58,(58,58), copyArray)"},{ "Name" : "getPoint" ,
+"Duas" : 3,
+"0" :  "(70,(71,71), p)",
+"1" :  "(70,(71,71), p)",
+"2" :  "(70,71, p)"}]
+}

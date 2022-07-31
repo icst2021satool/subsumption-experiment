@@ -1,0 +1,25 @@
+{
+"Class" : "org.apache.commons.math3.distribution.GeometricDistribution", 
+"Methods" : [{ "Name" : "<init>" ,
+"Nodes" : 5,
+"0" : [ 58,60 ]
+"1" : [ 61 ]
+"2" : [ 60 ]
+"3" : [ 64,65 ]
+"4" : [  ]
+},{ "Name" : "probability" ,
+"Nodes" : 5,
+"0" : [ 79 ]
+"1" : [ 82,83 ]
+"2" : [ 85 ]
+"3" : [ 80 ]
+"4" : [  ]
+},{ "Name" : "cumulativeProbability" ,
+"Nodes" : 5,
+"0" : [ 91 ]
+"1" : [ 94,95 ]
+"2" : [ 97 ]
+"3" : [ 92 ]
+"4" : [  ]
+}]
+}

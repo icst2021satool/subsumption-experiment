@@ -1,0 +1,12 @@
+{
+"Class" : "org.apache.commons.math3.optimization.univariate.BaseAbstractUnivariateOptimizer", 
+"Methods" : [{ "Name" : "optimize" ,
+"Nodes" : 6,
+"0" : [ 119 ]
+"1" : [ 122 ]
+"2" : [ 128,129,130,131,132,133,136,127 ]
+"3" : [ 123 ]
+"4" : [ 120 ]
+"5" : [  ]
+}]
+}

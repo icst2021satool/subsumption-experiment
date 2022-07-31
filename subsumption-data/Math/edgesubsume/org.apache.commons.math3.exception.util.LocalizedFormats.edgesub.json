@@ -1,0 +1,12 @@
+{
+"Class" : "org.apache.commons.math3.exception.util.LocalizedFormats", 
+"Methods" : [{ "Name" : "getLocalizedString" ,
+"Edges" : 4,
+"2" : [ 1, 2, 5, 7],
+"3" : [ 0, 3, 4, 6],
+"0" : [ 0, 3, 4, 6],
+"1" : [ 1, 2, 5, 7],
+"CoveredDUAsByEdges" : 8,
+"Duas" : 8
+}]
+}

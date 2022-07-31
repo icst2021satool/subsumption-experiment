@@ -1,0 +1,17 @@
+{
+"Class" : "org.apache.commons.math3.linear.DefaultIterativeLinearSolverEvent", 
+"Methods" : [{ "Name" : "getResidual" ,
+"Nodes" : 4,
+"0" : [ 114 ]
+"1" : [ 117 ]
+"2" : [ 115 ]
+"3" : [  ]
+},{ "Name" : "providesResidual" ,
+"Nodes" : 5,
+"0" : [ 142 ]
+"1" : [ 142 ]
+"2" : [ 142 ]
+"3" : [ 142 ]
+"4" : [  ]
+}]
+}

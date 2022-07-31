@@ -1,0 +1,17 @@
+{
+"Class" : "org.apache.commons.math3.optim.nonlinear.scalar.MultivariateOptimizer", 
+"Methods" : [{ "Name" : "parseOptimizationData" ,
+"Nodes" : 9,
+"0" : [ ],
+"1" : [ ],
+"2" : [ 4],
+"8" : [ 4],
+"3" : [ 2, 3, 5, 7],
+"4" : [ 2, 3, 5, 7, 10],
+"6" : [ 0, 2, 3, 5, 7, 10, 11, 13],
+"7" : [ 1, 2, 3, 5, 7, 9, 14],
+"5" : [ 2, 3, 5, 7, 8],
+"CoveredDUAsByNodes" : 13,
+"Duas" : 19
+}]
+}

@@ -1,0 +1,13 @@
+{
+"Class" : "org.apache.commons.math3.analysis.solvers.BisectionSolver", 
+"Methods" : [{ "Name" : "doSolve" ,
+"Nodes" : 7,
+"0" : [ 65,66,67,68 ]
+"1" : [ 74,75,76,78 ]
+"2" : [ 83 ]
+"3" : [ 86 ]
+"4" : [ 87,88 ]
+"5" : [ 80 ]
+"6" : [  ]
+}]
+}

@@ -1,0 +1,12 @@
+{
+"Class" : "org.apache.commons.math3.stat.descriptive.moment.SecondMoment", 
+"Methods" : [{ "Name" : "increment" ,
+"Nodes" : 4,
+"0" : [ ],
+"2" : [ 0, 4, 5, 7],
+"1" : [ 2, 3, 6, 9, 11, 12],
+"3" : [ 2, 3, 6, 9, 11, 12],
+"CoveredDUAsByNodes" : 10,
+"Duas" : 14
+}]
+}

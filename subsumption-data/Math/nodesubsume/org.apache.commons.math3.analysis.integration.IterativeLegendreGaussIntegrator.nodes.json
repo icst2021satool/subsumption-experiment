@@ -1,0 +1,25 @@
+{
+"Class" : "org.apache.commons.math3.analysis.integration.IterativeLegendreGaussIntegrator", 
+"Methods" : [{ "Name" : "<init>" ,
+"Nodes" : 4,
+"0" : [ 75,76 ]
+"1" : [ 80,79 ]
+"2" : [ 77 ]
+"3" : [  ]
+},{ "Name" : "doIntegrate" ,
+"Nodes" : 6,
+"0" : [ 123,125 ]
+"1" : [ 128,131,132,137 ]
+"2" : [ 144,145,146,147,143 ]
+"3" : [ 137 ]
+"4" : [ 139 ]
+"5" : [  ]
+},{ "Name" : "stage" ,
+"Nodes" : 5,
+"0" : [ 161,168,169,170,172,173 ]
+"1" : [ 173 ]
+"2" : [ 181 ]
+"3" : [ 176,177,178,173,175 ]
+"4" : [  ]
+}]
+}

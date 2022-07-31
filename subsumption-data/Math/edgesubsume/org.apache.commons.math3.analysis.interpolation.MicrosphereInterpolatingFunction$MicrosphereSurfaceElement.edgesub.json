@@ -1,0 +1,12 @@
+{
+"Class" : "org.apache.commons.math3.analysis.interpolation.MicrosphereInterpolatingFunction$MicrosphereSurfaceElement", 
+"Methods" : [{ "Name" : "store" ,
+"Edges" : 4,
+"2" : [ 0, 2, 3, 4, 6, 7, 8],
+"3" : [ 1, 5, 9],
+"0" : [ 0, 2, 3, 4, 6, 7, 8],
+"1" : [ ],
+"CoveredDUAsByEdges" : 10,
+"Duas" : 10
+}]
+}

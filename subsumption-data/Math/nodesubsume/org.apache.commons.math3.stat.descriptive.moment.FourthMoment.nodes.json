@@ -1,0 +1,10 @@
+{
+"Class" : "org.apache.commons.math3.stat.descriptive.moment.FourthMoment", 
+"Methods" : [{ "Name" : "increment" ,
+"Nodes" : 4,
+"0" : [ 89 ]
+"1" : [ 96,97,99,101,103,105 ]
+"2" : [ 90,91,92,93 ]
+"3" : [  ]
+}]
+}

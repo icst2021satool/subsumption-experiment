@@ -1,0 +1,15 @@
+{
+"Class" : "org.apache.commons.math3.analysis.integration.gauss.SymmetricGaussIntegrator", 
+"Methods" : [{ "Name" : "integrate" ,
+"Nodes" : 9,
+"0" : [ 70,72 ]
+"1" : [ 76,77,78,79 ]
+"2" : [ 79 ]
+"3" : [ 93 ]
+"4" : [ 102 ]
+"5" : [ 96,97,99,94 ]
+"6" : [ 80,81,83,84,86,87,89,90,79 ]
+"7" : [ 73 ]
+"8" : [  ]
+}]
+}

@@ -1,0 +1,10 @@
+{
+"Class" : "org.apache.commons.math3.genetics.RandomKeyMutation", 
+"Methods" : [{ "Name" : "mutate" ,
+"Duas" : 5,
+"0" :  "(40,(40,41), original)",
+"1" :  "(40,(40,45), original)",
+"2" :  "(40,45, original)",
+"3" :  "(40,41, original)",
+"4" :  "(40,41, RANDOMKEY_MUTATION_WRONG_CLASS)"}]
+}

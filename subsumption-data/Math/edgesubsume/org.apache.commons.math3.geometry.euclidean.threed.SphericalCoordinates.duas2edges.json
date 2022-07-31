@@ -1,0 +1,16 @@
+{
+"Class" : "org.apache.commons.math3.geometry.euclidean.threed.SphericalCoordinates", 
+"Methods" : [{ "Name" : "computeJacobian" ,
+"Edges" : 4,
+"Duas" : 22,
+"0" : 1, 
+ "1" : 2, 
+ "14" : 1, 
+ "15" : 2},{ "Name" : "computeHessians" ,
+"Edges" : 4,
+"Duas" : 42,
+"0" : 1, 
+ "1" : 2, 
+ "33" : 1, 
+ "34" : 2}]
+}

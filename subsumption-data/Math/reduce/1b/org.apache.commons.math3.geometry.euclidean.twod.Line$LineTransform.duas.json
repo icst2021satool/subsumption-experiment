@@ -1,0 +1,10 @@
+{
+"Class" : "org.apache.commons.math3.geometry.euclidean.twod.Line$LineTransform", 
+"Methods" : [{ "Name" : "<init>" ,
+"Duas" : 5,
+"0" :  "(371,(386,387), this)",
+"1" :  "(371,(386,390), this)",
+"2" :  "(371,387, NON_INVERTIBLE_TRANSFORM)",
+"3" :  "(384,(386,387), this.c11)",
+"4" :  "(384,(386,390), this.c11)"}]
+}

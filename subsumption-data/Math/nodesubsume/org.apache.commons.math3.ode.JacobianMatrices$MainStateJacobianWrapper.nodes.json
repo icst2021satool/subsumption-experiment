@@ -1,0 +1,20 @@
+{
+"Class" : "org.apache.commons.math3.ode.JacobianMatrices$MainStateJacobianWrapper", 
+"Methods" : [{ "Name" : "<init>" ,
+"Nodes" : 4,
+"0" : [ 438,439,440,441 ]
+"1" : [ 444 ]
+"2" : [ 442 ]
+"3" : [  ]
+},{ "Name" : "computeMainStateJacobian" ,
+"Nodes" : 8,
+"0" : [ 464,461,462 ]
+"1" : [ 464 ]
+"2" : [ 473 ]
+"3" : [ 465,466,467,468 ]
+"4" : [ 468 ]
+"5" : [ 464,471 ]
+"6" : [ 468,469 ]
+"7" : [  ]
+}]
+}

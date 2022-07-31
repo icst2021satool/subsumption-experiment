@@ -1,0 +1,20 @@
+{
+"Class" : "org.apache.commons.math3.stat.descriptive.summary.Product", 
+"Methods" : [{ "Name" : "evaluate" ,
+"Nodes" : 6,
+"0" : [ 124,125 ]
+"1" : [ 131 ]
+"2" : [ 126,127 ]
+"3" : [ 127 ]
+"4" : [ 128,127 ]
+"5" : [  ]
+},{ "Name" : "evaluate" ,
+"Nodes" : 6,
+"0" : [ 164,165 ]
+"1" : [ 171 ]
+"2" : [ 166,167 ]
+"3" : [ 167 ]
+"4" : [ 167,168 ]
+"5" : [  ]
+}]
+}

@@ -1,0 +1,32 @@
+{
+"Class" : "org.apache.commons.math3.util.IterationManager", 
+"Methods" : [{ "Name" : "fireInitializationEvent" ,
+"Nodes" : 5,
+"0" : [ 81 ]
+"1" : [ 81 ]
+"2" : [ 84 ]
+"3" : [ 81,82,83 ]
+"4" : [  ]
+},{ "Name" : "fireIterationPerformedEvent" ,
+"Nodes" : 5,
+"0" : [ 93 ]
+"1" : [ 93 ]
+"2" : [ 96 ]
+"3" : [ 93,94,95 ]
+"4" : [  ]
+},{ "Name" : "fireIterationStartedEvent" ,
+"Nodes" : 5,
+"0" : [ 105 ]
+"1" : [ 105 ]
+"2" : [ 108 ]
+"3" : [ 105,106,107 ]
+"4" : [  ]
+},{ "Name" : "fireTerminationEvent" ,
+"Nodes" : 5,
+"0" : [ 117 ]
+"1" : [ 117 ]
+"2" : [ 120 ]
+"3" : [ 117,118,119 ]
+"4" : [  ]
+}]
+}

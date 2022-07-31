@@ -1,0 +1,32 @@
+{
+"Class" : "org.apache.commons.math3.distribution.NormalDistribution", 
+"Methods" : [{ "Name" : "<init>" ,
+"Nodes" : 4,
+"0" : [ 105,107 ]
+"1" : [ 112,113,114,111 ]
+"2" : [ 108 ]
+"3" : [  ]
+},{ "Name" : "cumulativeProbability" ,
+"Nodes" : 7,
+"0" : [ 149,150 ]
+"1" : [ 153 ]
+"2" : [ 151 ]
+"3" : [ 151 ]
+"4" : [ 151 ]
+"5" : [ 151 ]
+"6" : [  ]
+},{ "Name" : "inverseCumulativeProbability" ,
+"Nodes" : 5,
+"0" : [ 161 ]
+"1" : [ 162 ]
+"2" : [ 161 ]
+"3" : [ 164 ]
+"4" : [  ]
+},{ "Name" : "probability" ,
+"Nodes" : 4,
+"0" : [ 183 ]
+"1" : [ 187,188,189,190 ]
+"2" : [ 184 ]
+"3" : [  ]
+}]
+}

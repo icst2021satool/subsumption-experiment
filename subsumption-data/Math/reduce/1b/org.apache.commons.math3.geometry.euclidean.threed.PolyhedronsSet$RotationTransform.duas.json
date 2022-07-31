@@ -1,0 +1,23 @@
+{
+"Class" : "org.apache.commons.math3.geometry.euclidean.threed.PolyhedronsSet$RotationTransform", 
+"Methods" : [{ "Name" : "apply" ,
+"Duas" : 18,
+"0" :  "(357,(357,360), this)",
+"1" :  "(357,(357,377), this)",
+"2" :  "(357,377, this)",
+"3" :  "(357,365, this)",
+"4" :  "(357,366, this)",
+"5" :  "(357,367, this)",
+"6" :  "(357,373, this)",
+"7" :  "(357,374, this)",
+"8" :  "(357,377, sub)",
+"9" :  "(357,(357,360), original)",
+"10" :  "(357,(357,377), original)",
+"11" :  "(357,360, original)",
+"12" :  "(357,373, original)",
+"13" :  "(357,361, transformed)",
+"14" :  "(357,(357,360), this.cachedOriginal)",
+"15" :  "(357,(357,377), this.cachedOriginal)",
+"16" :  "(357,377, this.cachedTransform)",
+"17" :  "(374,377, this.cachedTransform)"}]
+}

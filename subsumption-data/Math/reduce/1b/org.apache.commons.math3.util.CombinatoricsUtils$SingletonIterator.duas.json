@@ -1,0 +1,12 @@
+{
+"Class" : "org.apache.commons.math3.util.CombinatoricsUtils$SingletonIterator", 
+"Methods" : [{ "Name" : "next" ,
+"Duas" : 7,
+"0" :  "(606,(606,607), this)",
+"1" :  "(606,(606,610), this)",
+"2" :  "(606,607, this)",
+"3" :  "(606,608, this)",
+"4" :  "(606,(606,607), this.more)",
+"5" :  "(606,(606,610), this.more)",
+"6" :  "(606,608, this.singleton)"}]
+}

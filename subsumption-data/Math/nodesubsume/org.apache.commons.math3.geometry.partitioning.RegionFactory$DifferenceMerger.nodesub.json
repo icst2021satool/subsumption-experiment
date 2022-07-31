@@ -1,0 +1,18 @@
+{
+"Class" : "org.apache.commons.math3.geometry.partitioning.RegionFactory$DifferenceMerger", 
+"Methods" : [{ "Name" : "merge" ,
+"Nodes" : 10,
+"0" : [ ],
+"1" : [ 2],
+"2" : [ 2, 11],
+"4" : [ 2, 10],
+"3" : [ 2, 3, 5, 6, 8],
+"5" : [ 1],
+"6" : [ 1, 13],
+"8" : [ 1, 12],
+"7" : [ 0, 1, 4, 7, 9, 14],
+"9" : [ ],
+"CoveredDUAsByNodes" : 15,
+"Duas" : 15
+}]
+}

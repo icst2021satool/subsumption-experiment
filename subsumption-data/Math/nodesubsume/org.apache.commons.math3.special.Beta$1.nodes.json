@@ -1,0 +1,11 @@
+{
+"Class" : "org.apache.commons.math3.special.Beta$1", 
+"Methods" : [{ "Name" : "getB" ,
+"Nodes" : 5,
+"0" : [ 204 ]
+"1" : [ 209,210 ]
+"2" : [ 213 ]
+"3" : [ 205,206 ]
+"4" : [  ]
+}]
+}

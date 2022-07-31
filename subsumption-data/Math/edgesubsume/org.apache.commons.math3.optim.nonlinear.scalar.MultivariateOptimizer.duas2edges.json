@@ -1,0 +1,16 @@
+{
+"Class" : "org.apache.commons.math3.optim.nonlinear.scalar.MultivariateOptimizer", 
+"Methods" : [{ "Name" : "parseOptimizationData" ,
+"Edges" : 11,
+"Duas" : 19,
+"3" : 1, 
+ "4" : 2, 
+ "5" : 1, 
+ "6" : 2, 
+ "9" : 7, 
+ "10" : 8, 
+ "11" : 3, 
+ "12" : 4, 
+ "15" : 1, 
+ "16" : 2}]
+}

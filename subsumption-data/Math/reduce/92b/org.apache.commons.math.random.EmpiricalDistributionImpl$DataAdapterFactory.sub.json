@@ -1,0 +1,10 @@
+{
+"Class" : "org.apache.commons.math.random.EmpiricalDistributionImpl$DataAdapterFactory", 
+"Methods" : [{ "Name" : "getAdapter" ,
+"Duas" : "10" ,
+"Subsumers" : 3,
+"0" : [ 8, 6, 4, 0], "S0" : [0, 3, 4, 6, 8 ],
+"1" : [ 9, 7, 2, 1], "S1" : [1, 2, 7, 9 ],
+"2" : [ 5], "S2" : [3, 5 ]
+}]
+}

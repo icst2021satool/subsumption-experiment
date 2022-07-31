@@ -1,0 +1,32 @@
+{
+"Class" : "org.apache.commons.math3.distribution.UniformRealDistribution", 
+"Methods" : [{ "Name" : "<init>" ,
+"Nodes" : 4,
+"0" : [ 119,120 ]
+"1" : [ 128,126,127 ]
+"2" : [ 121 ]
+"3" : [  ]
+},{ "Name" : "density" ,
+"Nodes" : 5,
+"0" : [ 132 ]
+"1" : [ 133 ]
+"2" : [ 132 ]
+"3" : [ 135 ]
+"4" : [  ]
+},{ "Name" : "cumulativeProbability" ,
+"Nodes" : 6,
+"0" : [ 140 ]
+"1" : [ 143 ]
+"2" : [ 146 ]
+"3" : [ 144 ]
+"4" : [ 141 ]
+"5" : [  ]
+},{ "Name" : "inverseCumulativeProbability" ,
+"Nodes" : 5,
+"0" : [ 152 ]
+"1" : [ 153 ]
+"2" : [ 152 ]
+"3" : [ 155 ]
+"4" : [  ]
+}]
+}

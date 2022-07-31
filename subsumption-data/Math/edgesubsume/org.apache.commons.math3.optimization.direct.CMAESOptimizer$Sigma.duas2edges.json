@@ -1,0 +1,18 @@
+{
+"Class" : "org.apache.commons.math3.optimization.direct.CMAESOptimizer$Sigma", 
+"Methods" : [{ "Name" : "<init>" ,
+"Edges" : 8,
+"Duas" : 19,
+"1" : 4, 
+ "2" : 5, 
+ "4" : 0, 
+ "5" : 1, 
+ "7" : 4, 
+ "8" : 5, 
+ "9" : 0, 
+ "10" : 1, 
+ "13" : 4, 
+ "14" : 5, 
+ "15" : 0, 
+ "16" : 1}]
+}

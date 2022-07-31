@@ -1,0 +1,18 @@
+{
+"Class" : "org.apache.commons.math3.random.EmpiricalDistribution$ArrayDataAdapter", 
+"Methods" : [{ "Name" : "computeStats" ,
+"Nodes" : 5,
+"0" : [ 403,404 ]
+"1" : [ 404 ]
+"2" : [ 407 ]
+"3" : [ 404,405 ]
+"4" : [  ]
+},{ "Name" : "computeBinStats" ,
+"Nodes" : 5,
+"0" : [ 412 ]
+"1" : [ 412 ]
+"2" : [ 417 ]
+"3" : [ 412,413,415 ]
+"4" : [  ]
+}]
+}

@@ -1,0 +1,8 @@
+{
+"Class" : "org.apache.commons.math3.geometry.partitioning.RegionFactory$XorMerger", 
+"Methods" : [{ "Name" : "merge" ,
+"Edges" : 4,
+"Duas" : 11,
+"1" : 2, 
+ "2" : 3}]
+}

@@ -1,0 +1,20 @@
+{
+"Class" : "org.apache.commons.math3.stat.descriptive.moment.GeometricMean", 
+"Methods" : [{ "Name" : "getResult" ,
+"Nodes" : 4,
+"0" : [ ],
+"1" : [ 1, 4],
+"2" : [ 0, 2, 3, 5],
+"3" : [ ],
+"CoveredDUAsByNodes" : 6,
+"Duas" : 6
+},{ "Name" : "checkEmpty" ,
+"Nodes" : 4,
+"0" : [ ],
+"1" : [ 1],
+"2" : [ 0, 2, 3],
+"3" : [ ],
+"CoveredDUAsByNodes" : 4,
+"Duas" : 4
+}]
+}

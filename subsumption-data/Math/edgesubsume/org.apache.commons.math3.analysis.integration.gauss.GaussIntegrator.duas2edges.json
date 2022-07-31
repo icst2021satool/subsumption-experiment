@@ -1,0 +1,20 @@
+{
+"Class" : "org.apache.commons.math3.analysis.integration.gauss.GaussIntegrator", 
+"Methods" : [{ "Name" : "<init>" ,
+"Edges" : 4,
+"Duas" : 12,
+"2" : 0, 
+ "3" : 1, 
+ "7" : 0, 
+ "8" : 1},{ "Name" : "integrate" ,
+"Edges" : 5,
+"Duas" : 27,
+"0" : 1, 
+ "1" : 2, 
+ "5" : 1, 
+ "6" : 2, 
+ "13" : 1, 
+ "14" : 2, 
+ "22" : 1, 
+ "23" : 2}]
+}

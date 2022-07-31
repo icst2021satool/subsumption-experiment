@@ -1,0 +1,14 @@
+{
+"Class" : "org.apache.commons.math3.optimization.PointValuePair", 
+"Methods" : [{ "Name" : "<init>" ,
+"Edges" : 8,
+"Duas" : 7,
+"2" : 6, 
+ "3" : 7, 
+ "5" : 0, 
+ "6" : 1},{ "Name" : "getPoint" ,
+"Edges" : 5,
+"Duas" : 3,
+"0" : 2, 
+ "1" : 3}]
+}

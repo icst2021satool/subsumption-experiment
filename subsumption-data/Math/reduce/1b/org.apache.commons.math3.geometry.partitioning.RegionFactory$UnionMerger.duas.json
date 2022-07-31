@@ -1,0 +1,15 @@
+{
+"Class" : "org.apache.commons.math3.geometry.partitioning.RegionFactory$UnionMerger", 
+"Methods" : [{ "Name" : "merge" ,
+"Duas" : 10,
+"0" :  "(164,(164,166), leaf)",
+"1" :  "(164,(164,170), leaf)",
+"2" :  "(164,166, leaf)",
+"3" :  "(164,167, leaf)",
+"4" :  "(164,170, tree)",
+"5" :  "(164,171, tree)",
+"6" :  "(164,170, parentTree)",
+"7" :  "(164,166, parentTree)",
+"8" :  "(164,170, isPlusChild)",
+"9" :  "(164,166, isPlusChild)"}]
+}

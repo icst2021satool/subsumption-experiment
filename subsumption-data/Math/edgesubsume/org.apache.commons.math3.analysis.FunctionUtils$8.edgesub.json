@@ -1,0 +1,22 @@
+{
+"Class" : "org.apache.commons.math3.analysis.FunctionUtils$8", 
+"Methods" : [{ "Name" : "value" ,
+"Edges" : 5,
+"4" : [ ],
+"2" : [ 0, 2, 3, 4, 6, 8, 9, 11, 12],
+"3" : [ 1, 5],
+"0" : [ 1, 5],
+"1" : [ 0, 2, 3, 4, 6, 8, 9, 11, 12],
+"CoveredDUAsByEdges" : 11,
+"Duas" : 19
+},{ "Name" : "value" ,
+"Edges" : 5,
+"1" : [ ],
+"2" : [ 0, 2, 3, 4, 6, 8, 9, 11, 12],
+"3" : [ 1, 5],
+"0" : [ 1, 5],
+"4" : [ 0, 2, 3, 4, 6, 8, 9, 11, 12],
+"CoveredDUAsByEdges" : 11,
+"Duas" : 19
+}]
+}

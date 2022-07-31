@@ -1,0 +1,17 @@
+{
+"Class" : "org.apache.commons.math3.optimization.direct.CMAESOptimizer$DoubleIndex", 
+"Methods" : [{ "Name" : "equals" ,
+"Duas" : 12,
+"0" :  "(984,(984,985), this)",
+"1" :  "(984,(984,988), this)",
+"2" :  "(984,(989,989), this)",
+"3" :  "(984,(989,989), this)",
+"4" :  "(984,(984,985), other)",
+"5" :  "(984,(984,988), other)",
+"6" :  "(984,(988,989), other)",
+"7" :  "(984,(988,992), other)",
+"8" :  "(984,(989,989), other)",
+"9" :  "(984,(989,989), other)",
+"10" :  "(984,(989,989), this.value)",
+"11" :  "(984,(989,989), this.value)"}]
+}

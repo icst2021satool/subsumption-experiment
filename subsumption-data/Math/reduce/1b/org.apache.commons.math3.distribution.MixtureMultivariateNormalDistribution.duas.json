@@ -1,0 +1,22 @@
+{
+"Class" : "org.apache.commons.math3.distribution.MixtureMultivariateNormalDistribution", 
+"Methods" : [{ "Name" : "createComponents" ,
+"Duas" : 17,
+"0" :  "(85,(88,89), weights)",
+"1" :  "(85,(88,95), weights)",
+"2" :  "(85,92, weights)",
+"3" :  "(85,89, means)",
+"4" :  "(85,89, covariances)",
+"5" :  "(85,95, mvns)",
+"6" :  "(85,92, mvns)",
+"7" :  "(88,(88,89), i)",
+"8" :  "(88,(88,95), i)",
+"9" :  "(88,89, i)",
+"10" :  "(88,92, i)",
+"11" :  "(88,88, i)",
+"12" :  "(88,(88,89), i)",
+"13" :  "(88,(88,95), i)",
+"14" :  "(88,89, i)",
+"15" :  "(88,92, i)",
+"16" :  "(88,88, i)"}]
+}

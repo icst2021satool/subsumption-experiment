@@ -1,0 +1,13 @@
+{
+"Class" : "org.apache.commons.math3.stat.descriptive.summary.SumOfLogs", 
+"Methods" : [{ "Name" : "evaluate" ,
+"Edges" : 7,
+"0" : [ 2,3 ],
+"1" : [ 4,3 ],
+"2" : [ 0,2 ],
+"3" : [ 0,1 ],
+"4" : [ 3,4 ],
+"5" : [ 3,1 ],
+"6" : [ 1,5 ]
+}]
+}

@@ -1,0 +1,22 @@
+{
+"Class" : "org.apache.commons.math3.optim.PointVectorValuePair", 
+"Methods" : [{ "Name" : "<init>" ,
+"Edges" : 15,
+"Duas" : 11,
+"2" : 2, 
+ "3" : 3, 
+ "5" : 9, 
+ "6" : 10, 
+ "7" : 11, 
+ "8" : 12, 
+ "9" : 6, 
+ "10" : 7},{ "Name" : "getPoint" ,
+"Edges" : 5,
+"Duas" : 3,
+"0" : 0, 
+ "1" : 1},{ "Name" : "getValue" ,
+"Edges" : 5,
+"Duas" : 3,
+"0" : 2, 
+ "1" : 3}]
+}

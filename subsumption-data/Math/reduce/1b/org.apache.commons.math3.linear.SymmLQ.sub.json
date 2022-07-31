@@ -1,0 +1,7 @@
+{
+"Class" : "org.apache.commons.math3.linear.SymmLQ", 
+"Methods" : [{ "Name" : "solveInPlace" ,
+"Duas" : "38" ,
+"Subsumers" : 0 
+}]
+}

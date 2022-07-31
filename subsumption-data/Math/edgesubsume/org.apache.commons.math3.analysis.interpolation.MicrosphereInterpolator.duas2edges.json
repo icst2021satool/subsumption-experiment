@@ -1,0 +1,10 @@
+{
+"Class" : "org.apache.commons.math3.analysis.interpolation.MicrosphereInterpolator", 
+"Methods" : [{ "Name" : "<init>" ,
+"Edges" : 7,
+"Duas" : 10,
+"2" : 2, 
+ "3" : 3, 
+ "6" : 0, 
+ "7" : 1}]
+}

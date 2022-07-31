@@ -1,0 +1,10 @@
+{
+"Class" : "org.apache.commons.math3.analysis.function.Logistic", 
+"Methods" : [{ "Name" : "<init>" ,
+"Nodes" : 4,
+"0" : [ 71,72 ]
+"1" : [ 80,81,82,76,77,78,79 ]
+"2" : [ 73 ]
+"3" : [  ]
+}]
+}

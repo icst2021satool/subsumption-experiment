@@ -1,0 +1,14 @@
+{
+"Class" : "org.apache.commons.math3.analysis.differentiation.FiniteDifferencesDifferentiator$1", 
+"Methods" : [{ "Name" : "value" ,
+"Edges" : 8,
+"0" : [ 1,2 ],
+"1" : [ 4,2 ],
+"2" : [ 0,5 ],
+"3" : [ 0,1 ],
+"4" : [ 5,6 ],
+"5" : [ 2,4 ],
+"6" : [ 2,3 ],
+"7" : [ 3,6 ]
+}]
+}

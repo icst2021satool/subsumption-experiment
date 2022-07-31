@@ -1,0 +1,12 @@
+{
+"Class" : "org.apache.commons.math.distribution.AbstractDistribution", 
+"Methods" : [{ "Name" : "cumulativeProbability" ,
+"Duas" : 7,
+"0" :  "(60,64, this)",
+"1" :  "(60,(60,61), x0)",
+"2" :  "(60,(60,64), x0)",
+"3" :  "(60,64, x0)",
+"4" :  "(60,(60,61), x1)",
+"5" :  "(60,(60,64), x1)",
+"6" :  "(60,64, x1)"}]
+}

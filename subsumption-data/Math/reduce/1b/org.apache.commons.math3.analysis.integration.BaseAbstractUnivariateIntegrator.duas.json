@@ -1,0 +1,20 @@
+{
+"Class" : "org.apache.commons.math3.analysis.integration.BaseAbstractUnivariateIntegrator", 
+"Methods" : [{ "Name" : "<init>" ,
+"Duas" : 15,
+"0" :  "(113,126, this)",
+"1" :  "(113,127, this)",
+"2" :  "(113,128, this)",
+"3" :  "(113,131, this)",
+"4" :  "(113,(120,121), minimalIterationCount)",
+"5" :  "(113,(120,123), minimalIterationCount)",
+"6" :  "(113,(123,124), minimalIterationCount)",
+"7" :  "(113,(123,126), minimalIterationCount)",
+"8" :  "(113,126, minimalIterationCount)",
+"9" :  "(113,124, minimalIterationCount)",
+"10" :  "(113,121, minimalIterationCount)",
+"11" :  "(113,(123,124), maximalIterationCount)",
+"12" :  "(113,(123,126), maximalIterationCount)",
+"13" :  "(113,128, maximalIterationCount)",
+"14" :  "(113,124, maximalIterationCount)"}]
+}

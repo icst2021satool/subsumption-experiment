@@ -1,0 +1,23 @@
+{
+"Class" : "org.apache.commons.math3.stat.clustering.EuclideanDoublePoint", 
+"Methods" : [{ "Name" : "centroidOf" ,
+"Nodes" : 11,
+"0" : [ 54,55 ]
+"1" : [ 55 ]
+"2" : [ 60 ]
+"3" : [ 60 ]
+"4" : [ 63 ]
+"5" : [ 60,61 ]
+"6" : [ 55,56 ]
+"7" : [ 56 ]
+"8" : [ 59 ]
+"9" : [ 56,57 ]
+"10" : [  ]
+},{ "Name" : "equals" ,
+"Nodes" : 4,
+"0" : [ 74 ]
+"1" : [ 77 ]
+"2" : [ 75 ]
+"3" : [  ]
+}]
+}

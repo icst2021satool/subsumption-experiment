@@ -1,0 +1,21 @@
+{
+"Class" : "org.apache.commons.math3.analysis.differentiation.FiniteDifferencesDifferentiator$2", 
+"Methods" : [{ "Name" : "value" ,
+"Nodes" : 15,
+"0" : [ 297 ]
+"1" : [ 305,306,302 ]
+"2" : [ 306 ]
+"3" : [ 317,318 ]
+"4" : [ 318 ]
+"5" : [ 322 ]
+"6" : [ 318,319 ]
+"7" : [ 307,308 ]
+"8" : [ 311 ]
+"9" : [ 311 ]
+"10" : [ 306 ]
+"11" : [ 311,312 ]
+"12" : [ 309 ]
+"13" : [ 298 ]
+"14" : [  ]
+}]
+}

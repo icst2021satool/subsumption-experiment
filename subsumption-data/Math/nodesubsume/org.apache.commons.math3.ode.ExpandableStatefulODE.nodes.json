@@ -1,0 +1,59 @@
+{
+"Class" : "org.apache.commons.math3.ode.ExpandableStatefulODE", 
+"Methods" : [{ "Name" : "getTotalDimension" ,
+"Nodes" : 4,
+"0" : [ 97 ]
+"1" : [ 102,103 ]
+"2" : [ 99 ]
+"3" : [  ]
+},{ "Name" : "computeDerivatives" ,
+"Nodes" : 5,
+"0" : [ 118,119,122 ]
+"1" : [ 122 ]
+"2" : [ 129,131 ]
+"3" : [ 122,123,124,126,127 ]
+"4" : [  ]
+},{ "Name" : "addSecondaryEquations" ,
+"Nodes" : 5,
+"0" : [ 140 ]
+"1" : [ 145,146 ]
+"2" : [ 149,151 ]
+"3" : [ 142,143 ]
+"4" : [  ]
+},{ "Name" : "getSecondaryMappers" ,
+"Nodes" : 5,
+"0" : [ 168,169 ]
+"1" : [ 169 ]
+"2" : [ 172 ]
+"3" : [ 169,170 ]
+"4" : [  ]
+},{ "Name" : "setPrimaryState" ,
+"Nodes" : 4,
+"0" : [ 197 ]
+"1" : [ 202,204 ]
+"2" : [ 198 ]
+"3" : [  ]
+},{ "Name" : "setSecondaryState" ,
+"Nodes" : 4,
+"0" : [ 231,234 ]
+"1" : [ 241,239 ]
+"2" : [ 235 ]
+"3" : [  ]
+},{ "Name" : "setCompleteState" ,
+"Nodes" : 7,
+"0" : [ 270 ]
+"1" : [ 275,276 ]
+"2" : [ 276 ]
+"3" : [ 280 ]
+"4" : [ 276,277,278 ]
+"5" : [ 271 ]
+"6" : [  ]
+},{ "Name" : "getCompleteState" ,
+"Nodes" : 5,
+"0" : [ 290,293,294 ]
+"1" : [ 294 ]
+"2" : [ 298 ]
+"3" : [ 294,295,296 ]
+"4" : [  ]
+}]
+}

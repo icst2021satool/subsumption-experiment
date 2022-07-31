@@ -1,0 +1,12 @@
+{
+"Class" : "org.apache.commons.math3.util.BigReal", 
+"Methods" : [{ "Name" : "equals" ,
+"Nodes" : 6,
+"0" : [ 306 ]
+"1" : [ 310 ]
+"2" : [ 313 ]
+"3" : [ 311 ]
+"4" : [ 307 ]
+"5" : [  ]
+}]
+}

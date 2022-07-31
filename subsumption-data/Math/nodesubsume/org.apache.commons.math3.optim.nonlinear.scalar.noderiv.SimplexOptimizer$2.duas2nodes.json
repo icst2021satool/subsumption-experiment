@@ -1,0 +1,12 @@
+{
+"Class" : "org.apache.commons.math3.optim.nonlinear.scalar.noderiv.SimplexOptimizer$2", 
+"Methods" : [{ "Name" : "compare" ,
+"Nodes" : 5,
+"Duas" : 6,
+"0" :  [ 0,3 ],
+"1" :  [ 0,1 ],
+"2" :  [ 0,3 ],
+"3" :  [ 0,1 ],
+"4" :  [ 0,2 ],
+"5" :  [ 0,2 ]}]
+}

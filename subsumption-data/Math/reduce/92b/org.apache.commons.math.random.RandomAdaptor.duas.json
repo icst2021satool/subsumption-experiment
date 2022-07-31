@@ -1,0 +1,12 @@
+{
+"Class" : "org.apache.commons.math.random.RandomAdaptor", 
+"Methods" : [{ "Name" : "setSeed" ,
+"Duas" : 7,
+"0" :  "(175,(175,176), this)",
+"1" :  "(175,(175,178), this)",
+"2" :  "(175,176, this)",
+"3" :  "(175,176, seed)",
+"4" :  "(175,(175,176), this.randomGenerator)",
+"5" :  "(175,(175,178), this.randomGenerator)",
+"6" :  "(175,176, this.randomGenerator)"}]
+}

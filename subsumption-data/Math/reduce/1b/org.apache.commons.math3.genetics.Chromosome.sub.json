@@ -1,0 +1,20 @@
+{
+"Class" : "org.apache.commons.math3.genetics.Chromosome", 
+"Methods" : [{ "Name" : "getFitness" ,
+"Duas" : "8" ,
+"Subsumers" : 2,
+"0" : [ 7, 4, 3, 0], "S0" : [0, 2, 3, 4, 7 ],
+"1" : [ 6, 5, 1], "S1" : [1, 2, 5, 6 ]
+},{ "Name" : "findSameChromosome" ,
+"Duas" : "8" ,
+"Subsumers" : 3,
+"0" : [ 7, 5, 0], "S0" : [0, 2, 4, 5, 7 ],
+"1" : [ 6, 1], "S1" : [1, 2, 4, 6 ],
+"2" : [ 3], "S2" : [3 ]
+},{ "Name" : "searchForFitnessUpdate" ,
+"Duas" : "4" ,
+"Subsumers" : 2,
+"0" : [ 3, 1, 0], "S0" : [0, 1, 3 ],
+"1" : [ 2], "S1" : [2 ]
+}]
+}

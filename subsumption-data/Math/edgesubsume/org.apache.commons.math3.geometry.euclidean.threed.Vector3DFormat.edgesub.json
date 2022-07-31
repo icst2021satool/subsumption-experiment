@@ -1,0 +1,20 @@
+{
+"Class" : "org.apache.commons.math3.geometry.euclidean.threed.Vector3DFormat", 
+"Methods" : [{ "Name" : "parse" ,
+"Edges" : 4,
+"0" : [ 0, 1, 3],
+"1" : [ 2, 4],
+"2" : [ 2, 4],
+"3" : [ 0, 1, 3],
+"CoveredDUAsByEdges" : 5,
+"Duas" : 5
+},{ "Name" : "parse" ,
+"Edges" : 4,
+"1" : [ 0],
+"2" : [ 1, 2],
+"3" : [ 1, 2],
+"0" : [ 0],
+"CoveredDUAsByEdges" : 3,
+"Duas" : 3
+}]
+}

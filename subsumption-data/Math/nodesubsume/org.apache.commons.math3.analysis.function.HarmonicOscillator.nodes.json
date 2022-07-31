@@ -1,0 +1,12 @@
+{
+"Class" : "org.apache.commons.math3.analysis.function.HarmonicOscillator", 
+"Methods" : [{ "Name" : "value" ,
+"Nodes" : 6,
+"0" : [ 167,168,170,171,172 ]
+"1" : [ 180 ]
+"2" : [ 173,174,175 ]
+"3" : [ 175 ]
+"4" : [ 176,175 ]
+"5" : [  ]
+}]
+}

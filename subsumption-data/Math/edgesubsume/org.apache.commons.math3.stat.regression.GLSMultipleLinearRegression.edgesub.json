@@ -1,0 +1,12 @@
+{
+"Class" : "org.apache.commons.math3.stat.regression.GLSMultipleLinearRegression", 
+"Methods" : [{ "Name" : "getOmegaInverse" ,
+"Edges" : 4,
+"1" : [ 0, 3, 4, 5, 8],
+"2" : [ 1, 2, 6, 7],
+"3" : [ 0, 2, 3, 4, 5, 8],
+"0" : [ 2],
+"CoveredDUAsByEdges" : 9,
+"Duas" : 10
+}]
+}

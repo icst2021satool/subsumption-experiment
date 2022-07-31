@@ -1,0 +1,8 @@
+{
+"Class" : "org.apache.commons.math3.random.Well44497b", 
+"Methods" : [{ "Name" : "next" ,
+"Edges" : 5,
+"Duas" : 19,
+"14" : 3, 
+ "15" : 4}]
+}

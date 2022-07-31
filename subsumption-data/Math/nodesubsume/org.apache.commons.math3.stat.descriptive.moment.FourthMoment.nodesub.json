@@ -1,0 +1,12 @@
+{
+"Class" : "org.apache.commons.math3.stat.descriptive.moment.FourthMoment", 
+"Methods" : [{ "Name" : "increment" ,
+"Nodes" : 4,
+"0" : [ ],
+"2" : [ 0, 7, 8, 9, 10, 12],
+"1" : [ 2, 18, 3, 19, 4, 5, 6, 11, 14],
+"3" : [ 2, 18, 3, 19, 4, 5, 6, 11, 14],
+"CoveredDUAsByNodes" : 15,
+"Duas" : 23
+}]
+}

@@ -1,0 +1,10 @@
+{
+"Class" : "org.apache.commons.math3.analysis.interpolation.MicrosphereInterpolatingFunction$MicrosphereSurfaceElement", 
+"Methods" : [{ "Name" : "store" ,
+"Nodes" : 4,
+"0" : [ 104 ]
+"1" : [ 108 ]
+"2" : [ 105,106 ]
+"3" : [  ]
+}]
+}

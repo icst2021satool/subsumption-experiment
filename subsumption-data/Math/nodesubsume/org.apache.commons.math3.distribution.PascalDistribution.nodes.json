@@ -1,0 +1,27 @@
+{
+"Class" : "org.apache.commons.math3.distribution.PascalDistribution", 
+"Methods" : [{ "Name" : "<init>" ,
+"Nodes" : 7,
+"0" : [ 103,105 ]
+"1" : [ 109 ]
+"2" : [ 110 ]
+"3" : [ 109 ]
+"4" : [ 113,114,115 ]
+"5" : [ 106 ]
+"6" : [  ]
+},{ "Name" : "probability" ,
+"Nodes" : 5,
+"0" : [ 138 ]
+"1" : [ 141 ]
+"2" : [ 146 ]
+"3" : [ 139 ]
+"4" : [  ]
+},{ "Name" : "cumulativeProbability" ,
+"Nodes" : 5,
+"0" : [ 152 ]
+"1" : [ 155 ]
+"2" : [ 158 ]
+"3" : [ 153 ]
+"4" : [  ]
+}]
+}

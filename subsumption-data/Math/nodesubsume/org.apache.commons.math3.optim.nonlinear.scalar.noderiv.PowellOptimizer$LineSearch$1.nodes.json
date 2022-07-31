@@ -1,0 +1,11 @@
+{
+"Class" : "org.apache.commons.math3.optim.nonlinear.scalar.noderiv.PowellOptimizer$LineSearch$1", 
+"Methods" : [{ "Name" : "value" ,
+"Nodes" : 5,
+"0" : [ 345,346 ]
+"1" : [ 346 ]
+"2" : [ 349,350 ]
+"3" : [ 346,347 ]
+"4" : [  ]
+}]
+}

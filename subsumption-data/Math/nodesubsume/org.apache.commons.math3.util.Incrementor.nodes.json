@@ -1,0 +1,30 @@
+{
+"Class" : "org.apache.commons.math3.util.Incrementor", 
+"Methods" : [{ "Name" : "<init>" ,
+"Nodes" : 4,
+"0" : [ 80,81,41 ]
+"1" : [ 84,85,86 ]
+"2" : [ 82 ]
+"3" : [  ]
+},{ "Name" : "canIncrement" ,
+"Nodes" : 5,
+"0" : [ 125 ]
+"1" : [ 125 ]
+"2" : [ 125 ]
+"3" : [ 125 ]
+"4" : [  ]
+},{ "Name" : "incrementCount" ,
+"Nodes" : 5,
+"0" : [ 136 ]
+"1" : [ 136 ]
+"2" : [ 139 ]
+"3" : [ 136,137 ]
+"4" : [  ]
+},{ "Name" : "incrementCount" ,
+"Nodes" : 4,
+"0" : [ 155 ]
+"1" : [ 158 ]
+"2" : [ 156 ]
+"3" : [  ]
+}]
+}

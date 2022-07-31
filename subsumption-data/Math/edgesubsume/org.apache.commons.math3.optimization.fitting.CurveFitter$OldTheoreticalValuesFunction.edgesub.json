@@ -1,0 +1,13 @@
+{
+"Class" : "org.apache.commons.math3.optimization.fitting.CurveFitter$OldTheoreticalValuesFunction", 
+"Methods" : [{ "Name" : "value" ,
+"Edges" : 5,
+"0" : [ ],
+"1" : [ 0, 1, 2, 4, 5, 6, 8],
+"2" : [ 3, 7],
+"4" : [ 3, 7],
+"3" : [ 0, 1, 2, 4, 5, 6, 8],
+"CoveredDUAsByEdges" : 9,
+"Duas" : 10
+}]
+}

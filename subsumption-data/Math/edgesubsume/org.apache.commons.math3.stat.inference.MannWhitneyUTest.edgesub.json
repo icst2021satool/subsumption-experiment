@@ -1,0 +1,28 @@
+{
+"Class" : "org.apache.commons.math3.stat.inference.MannWhitneyUTest", 
+"Methods" : [{ "Name" : "ensureDataConformance" ,
+"Edges" : 11,
+"4" : [ 0],
+"5" : [ 1],
+"0" : [ 4],
+"1" : [ 0, 5],
+"9" : [ 0, 2, 5],
+"10" : [ 0, 3, 5],
+"6" : [ 0, 5, 6],
+"7" : [ 0, 2, 5, 7],
+"2" : [ 0, 2, 5, 7],
+"3" : [ 0, 5],
+"8" : [ ],
+"CoveredDUAsByEdges" : 8,
+"Duas" : 8
+},{ "Name" : "mannWhitneyU" ,
+"Edges" : 5,
+"2" : [ ],
+"0" : [ 0, 5, 7, 8, 10, 11],
+"1" : [ 1, 2, 3, 4],
+"3" : [ 1, 2, 3, 4],
+"4" : [ 0, 5, 7, 8, 10, 11],
+"CoveredDUAsByEdges" : 10,
+"Duas" : 18
+}]
+}

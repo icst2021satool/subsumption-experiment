@@ -1,0 +1,19 @@
+{
+"Class" : "org.apache.commons.math3.distribution.fitting.MultivariateNormalMixtureExpectationMaximization$DataRow", 
+"Methods" : [{ "Name" : "<init>" ,
+"Nodes" : 5,
+"0" : [ 403,405,407,408 ]
+"1" : [ 408 ]
+"2" : [ 411,412 ]
+"3" : [ 408,409 ]
+"4" : [  ]
+},{ "Name" : "equals" ,
+"Nodes" : 6,
+"0" : [ 427 ]
+"1" : [ 431 ]
+"2" : [ 435 ]
+"3" : [ 432 ]
+"4" : [ 428 ]
+"5" : [  ]
+}]
+}

@@ -1,0 +1,35 @@
+{
+"Class" : "org.apache.commons.math3.random.BitsStreamGenerator", 
+"Methods" : [{ "Name" : "nextBoolean" ,
+"Edges" : 5,
+"2" : [ 0],
+"3" : [ 1],
+"1" : [ 1],
+"0" : [ 0],
+"4" : [ ],
+"CoveredDUAsByEdges" : 2,
+"Duas" : 2
+},{ "Name" : "nextBytes" ,
+"Edges" : 9,
+"1" : [ ],
+"5" : [ 16, 1, 17, 18, 19, 5, 6, 7, 8, 9, 14, 15],
+"6" : [ 0, 20],
+"0" : [ 0, 20],
+"3" : [ 0, 32, 2, 4, 20, 31],
+"4" : [ 0, 3, 20],
+"2" : [ 0, 3, 20],
+"8" : [ 0, 32, 2, 4, 20, 31],
+"7" : [ 16, 1, 17, 18, 19, 5, 6, 7, 8, 9, 14, 15],
+"CoveredDUAsByEdges" : 19,
+"Duas" : 38
+},{ "Name" : "nextGaussian" ,
+"Edges" : 5,
+"2" : [ 0, 4, 5, 6, 7],
+"3" : [ 1, 2, 3, 8, 9],
+"0" : [ 1, 2, 3, 8, 9],
+"1" : [ 0, 4, 5, 6, 7],
+"4" : [ ],
+"CoveredDUAsByEdges" : 10,
+"Duas" : 12
+},,]
+}

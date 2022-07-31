@@ -1,0 +1,12 @@
+{
+"Class" : "org.apache.commons.math3.analysis.interpolation.MicrosphereInterpolator", 
+"Methods" : [{ "Name" : "<init>" ,
+"Nodes" : 6,
+"0" : [ 76,77 ]
+"1" : [ 80 ]
+"2" : [ 84,85,86 ]
+"3" : [ 81 ]
+"4" : [ 78 ]
+"5" : [  ]
+}]
+}

@@ -1,0 +1,21 @@
+{
+"Class" : "org.apache.commons.math3.geometry.euclidean.threed.PolyhedronsSet$FacetsContributionVisitor", 
+"Methods" : [{ "Name" : "visitInternalNode" ,
+"Nodes" : 6,
+"0" : [ 167,169 ]
+"1" : [ 172 ]
+"2" : [ 175 ]
+"3" : [ 173 ]
+"4" : [ 170 ]
+"5" : [  ]
+},{ "Name" : "addContribution" ,
+"Nodes" : 7,
+"0" : [ 187,188,190 ]
+"1" : [ 195,196,197,198 ]
+"2" : [ 202,203 ]
+"3" : [ 207 ]
+"4" : [ 199 ]
+"5" : [ 192,191 ]
+"6" : [  ]
+}]
+}

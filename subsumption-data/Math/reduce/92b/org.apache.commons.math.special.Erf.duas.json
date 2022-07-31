@@ -1,0 +1,10 @@
+{
+"Class" : "org.apache.commons.math.special.Erf", 
+"Methods" : [{ "Name" : "erf" ,
+"Duas" : 5,
+"0" :  "(56,(57,58), x)",
+"1" :  "(56,(57,60), x)",
+"2" :  "(56,60, ret)",
+"3" :  "(56,58, ret)",
+"4" :  "(58,60, ret)"}]
+}

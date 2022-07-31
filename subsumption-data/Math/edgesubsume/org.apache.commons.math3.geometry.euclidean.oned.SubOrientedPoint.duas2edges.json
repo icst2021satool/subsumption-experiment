@@ -1,0 +1,14 @@
+{
+"Class" : "org.apache.commons.math3.geometry.euclidean.oned.SubOrientedPoint", 
+"Methods" : [{ "Name" : "side" ,
+"Edges" : 8,
+"Duas" : 6,
+"2" : 0, 
+ "3" : 1, 
+ "4" : 6, 
+ "5" : 7},{ "Name" : "split" ,
+"Edges" : 5,
+"Duas" : 4,
+"2" : 0, 
+ "3" : 1}]
+}

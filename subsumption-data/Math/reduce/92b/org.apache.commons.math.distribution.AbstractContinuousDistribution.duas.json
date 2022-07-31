@@ -1,0 +1,17 @@
+{
+"Class" : "org.apache.commons.math.distribution.AbstractContinuousDistribution", 
+"Methods" : [{ "Name" : "inverseCumulativeProbability" ,
+"Duas" : 12,
+"0" :  "(61,67, this)",
+"1" :  "(61,80, this)",
+"2" :  "(61,81, this)",
+"3" :  "(61,84, this)",
+"4" :  "(61,(61,61), p)",
+"5" :  "(61,(61,62), p)",
+"6" :  "(61,(61,62), p)",
+"7" :  "(61,(61,67), p)",
+"8" :  "(61,67, p)",
+"9" :  "(61,80, p)",
+"10" :  "(61,81, p)",
+"11" :  "(61,84, p)"}]
+}

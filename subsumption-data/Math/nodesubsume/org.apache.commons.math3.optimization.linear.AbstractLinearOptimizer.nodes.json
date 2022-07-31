@@ -1,0 +1,10 @@
+{
+"Class" : "org.apache.commons.math3.optimization.linear.AbstractLinearOptimizer", 
+"Methods" : [{ "Name" : "incrementIterationsCounter" ,
+"Nodes" : 4,
+"0" : [ 131 ]
+"1" : [ 134 ]
+"2" : [ 132 ]
+"3" : [  ]
+}]
+}

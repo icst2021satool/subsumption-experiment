@@ -1,0 +1,10 @@
+{
+"Class" : "org.apache.commons.math3.geometry.euclidean.threed.CardanEulerSingularityException", 
+"Methods" : [{ "Name" : "<init>" ,
+"Duas" : 5,
+"0" :  "(42,42, this)",
+"1" :  "(42,(42,42), isCardan)",
+"2" :  "(42,(42,42), isCardan)",
+"3" :  "(42,42, EULER_ANGLES_SINGULARITY)",
+"4" :  "(42,42, CARDAN_ANGLES_SINGULARITY)"}]
+}

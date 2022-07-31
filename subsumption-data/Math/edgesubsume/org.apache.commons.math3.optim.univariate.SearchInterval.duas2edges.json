@@ -1,0 +1,18 @@
+{
+"Class" : "org.apache.commons.math3.optim.univariate.SearchInterval", 
+"Methods" : [{ "Name" : "<init>" ,
+"Edges" : 9,
+"Duas" : 23,
+"3" : 3, 
+ "4" : 4, 
+ "5" : 0, 
+ "6" : 1, 
+ "10" : 3, 
+ "11" : 4, 
+ "13" : 7, 
+ "14" : 8, 
+ "17" : 0, 
+ "18" : 1, 
+ "20" : 7, 
+ "21" : 8}]
+}

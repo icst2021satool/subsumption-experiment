@@ -1,0 +1,10 @@
+{
+"Class" : "org.apache.commons.math3.ode.ParameterizedWrapper", 
+"Methods" : [{ "Name" : "getParameter" ,
+"Duas" : 5,
+"0" :  "(75,(75,76), this)",
+"1" :  "(75,(75,78), this)",
+"2" :  "(75,(75,76), name)",
+"3" :  "(75,(75,78), name)",
+"4" :  "(75,76, name)"}]
+}

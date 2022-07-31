@@ -1,0 +1,14 @@
+{
+"Class" : "org.apache.commons.math3.analysis.differentiation.GradientFunction", 
+"Methods" : [{ "Name" : "value" ,
+"Nodes" : 8,
+"0" : [ 45,46 ]
+"1" : [ 46 ]
+"2" : [ 51,54,55,56 ]
+"3" : [ 56 ]
+"4" : [ 62 ]
+"5" : [ 56,57,58,59 ]
+"6" : [ 46,47 ]
+"7" : [  ]
+}]
+}

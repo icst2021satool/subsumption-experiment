@@ -1,0 +1,10 @@
+{
+"Class" : "org.apache.commons.math3.optim.nonlinear.vector.Weight", 
+"Methods" : [{ "Name" : "<init>" ,
+"Duas" : 5,
+"0" :  "(55,61, this)",
+"1" :  "(55,(56,57), weight)",
+"2" :  "(55,(56,61), weight)",
+"3" :  "(55,61, weight)",
+"4" :  "(55,57, weight)"}]
+}

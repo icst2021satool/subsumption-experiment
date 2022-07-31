@@ -1,0 +1,12 @@
+{
+"Class" : "org.apache.commons.math3.optim.nonlinear.vector.MultiStartMultivariateVectorOptimizer$1", 
+"Methods" : [{ "Name" : "compare" ,
+"Edges" : 11,
+"Duas" : 9,
+"1" : 5, 
+ "2" : 6, 
+ "4" : 0, 
+ "5" : 1, 
+ "7" : 3, 
+ "8" : 4}]
+}

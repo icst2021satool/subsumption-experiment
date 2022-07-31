@@ -1,0 +1,12 @@
+{
+"Class" : "org.apache.commons.math3.fitting.AbstractCurveFitter$TheoreticalValuesFunction", 
+"Methods" : [{ "Name" : "<init>" ,
+"Duas" : 7,
+"0" :  "(90,97, this)",
+"1" :  "(94,97, this.points)",
+"2" :  "(95,97, i)",
+"3" :  "(96,(96,96), i$)",
+"4" :  "(96,(96,99), i$)",
+"5" :  "(96,96, i$)",
+"6" :  "(97,97, i)"}]
+}

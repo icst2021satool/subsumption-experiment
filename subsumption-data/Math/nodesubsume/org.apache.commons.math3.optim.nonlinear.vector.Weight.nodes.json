@@ -1,0 +1,10 @@
+{
+"Class" : "org.apache.commons.math3.optim.nonlinear.vector.Weight", 
+"Methods" : [{ "Name" : "<init>" ,
+"Nodes" : 4,
+"0" : [ 55,56 ]
+"1" : [ 61,62 ]
+"2" : [ 57 ]
+"3" : [  ]
+}]
+}

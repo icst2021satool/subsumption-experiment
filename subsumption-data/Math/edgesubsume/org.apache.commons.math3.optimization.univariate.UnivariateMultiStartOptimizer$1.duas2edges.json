@@ -1,0 +1,18 @@
+{
+"Class" : "org.apache.commons.math3.optimization.univariate.UnivariateMultiStartOptimizer$1", 
+"Methods" : [{ "Name" : "compare" ,
+"Edges" : 15,
+"Duas" : 16,
+"0" : 6, 
+ "1" : 7, 
+ "2" : 8, 
+ "3" : 9, 
+ "5" : 10, 
+ "6" : 11, 
+ "8" : 3, 
+ "9" : 4, 
+ "10" : 6, 
+ "11" : 7, 
+ "12" : 6, 
+ "13" : 7}]
+}

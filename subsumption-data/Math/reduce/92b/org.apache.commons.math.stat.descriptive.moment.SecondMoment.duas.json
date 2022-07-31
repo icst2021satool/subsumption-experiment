@@ -1,0 +1,19 @@
+{
+"Class" : "org.apache.commons.math.stat.descriptive.moment.SecondMoment", 
+"Methods" : [{ "Name" : "increment" ,
+"Duas" : 14,
+"0" :  "(76,(76,77), this)",
+"1" :  "(76,(76,79), this)",
+"2" :  "(76,79, this)",
+"3" :  "(76,80, this)",
+"4" :  "(76,77, this)",
+"5" :  "(76,77, this)",
+"6" :  "(76,79, d)",
+"7" :  "(76,(76,77), this.n)",
+"8" :  "(76,(76,79), this.n)",
+"9" :  "(76,80, this.n)",
+"10" :  "(76,80, this.m2)",
+"11" :  "(76,80, this.dev)",
+"12" :  "(76,80, this.nDev)",
+"13" :  "(77,80, this.m2)"}]
+}

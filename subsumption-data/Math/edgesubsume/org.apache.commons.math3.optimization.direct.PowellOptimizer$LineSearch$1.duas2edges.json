@@ -1,0 +1,14 @@
+{
+"Class" : "org.apache.commons.math3.optimization.direct.PowellOptimizer$LineSearch$1", 
+"Methods" : [{ "Name" : "value" ,
+"Edges" : 5,
+"Duas" : 21,
+"0" : 1, 
+ "1" : 2, 
+ "5" : 1, 
+ "6" : 2, 
+ "13" : 1, 
+ "14" : 2, 
+ "17" : 1, 
+ "18" : 2}]
+}

@@ -1,0 +1,20 @@
+{
+"Class" : "org.apache.commons.math3.analysis.solvers.BisectionSolver", 
+"Methods" : [{ "Name" : "doSolve" ,
+"Edges" : 8,
+"Duas" : 28,
+"4" : 3, 
+ "5" : 4, 
+ "8" : 3, 
+ "9" : 4, 
+ "11" : 3, 
+ "12" : 4, 
+ "15" : 1, 
+ "16" : 2, 
+ "17" : 1, 
+ "18" : 2, 
+ "19" : 3, 
+ "20" : 4, 
+ "24" : 3, 
+ "25" : 4}]
+}

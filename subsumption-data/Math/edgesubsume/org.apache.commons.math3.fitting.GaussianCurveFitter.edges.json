@@ -1,0 +1,15 @@
+{
+"Class" : "org.apache.commons.math3.fitting.GaussianCurveFitter", 
+"Methods" : [{ "Name" : "getOptimizer" ,
+"Edges" : 9,
+"0" : [ 6,1 ],
+"1" : [ 1,6 ],
+"2" : [ 1,2 ],
+"3" : [ 2,5 ],
+"4" : [ 2,3 ],
+"5" : [ 5,4 ],
+"6" : [ 4,7 ],
+"7" : [ 3,4 ],
+"8" : [ 0,1 ]
+}]
+}

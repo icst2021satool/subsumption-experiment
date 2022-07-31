@@ -1,0 +1,17 @@
+{
+"Class" : "org.apache.commons.math3.ml.clustering.DoublePoint", 
+"Methods" : [{ "Name" : "<init>" ,
+"Nodes" : 5,
+"0" : [ 54,55,56 ]
+"1" : [ 56 ]
+"2" : [ 59 ]
+"3" : [ 56,57 ]
+"4" : [  ]
+},{ "Name" : "equals" ,
+"Nodes" : 4,
+"0" : [ 69 ]
+"1" : [ 72 ]
+"2" : [ 70 ]
+"3" : [  ]
+}]
+}

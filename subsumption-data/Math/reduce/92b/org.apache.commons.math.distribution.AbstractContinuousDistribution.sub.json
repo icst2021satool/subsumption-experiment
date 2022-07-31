@@ -1,0 +1,10 @@
+{
+"Class" : "org.apache.commons.math.distribution.AbstractContinuousDistribution", 
+"Methods" : [{ "Name" : "inverseCumulativeProbability" ,
+"Duas" : "12" ,
+"Subsumers" : 3,
+"0" : [ 8, 9, 10, 11, 7, 0, 1, 2, 3], "S0" : [0, 1, 2, 3, 4, 7, 8, 9, 10, 11 ],
+"1" : [ 6], "S1" : [4, 6 ],
+"2" : [ 5], "S2" : [5 ]
+}]
+}

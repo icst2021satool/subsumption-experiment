@@ -1,0 +1,13 @@
+{
+"Class" : "org.apache.commons.math3.fitting.AbstractCurveFitter$TheoreticalValuesFunction$1", 
+"Methods" : [{ "Name" : "value" ,
+"Nodes" : 5,
+"0" : [ ],
+"1" : [ ],
+"2" : [ 4, 5],
+"4" : [ 4, 5],
+"3" : [ 0, 1, 2, 3, 6, 7, 9, 10],
+"CoveredDUAsByNodes" : 10,
+"Duas" : 15
+}]
+}

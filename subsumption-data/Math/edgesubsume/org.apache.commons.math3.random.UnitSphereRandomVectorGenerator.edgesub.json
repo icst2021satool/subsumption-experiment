@@ -1,0 +1,17 @@
+{
+"Class" : "org.apache.commons.math3.random.UnitSphereRandomVectorGenerator", 
+"Methods" : [{ "Name" : "nextVector" ,
+"Edges" : 9,
+"6" : [ ],
+"1" : [ 0, 17, 18, 4, 5, 9, 12, 14, 15],
+"2" : [ 1, 6],
+"4" : [ 1, 6],
+"7" : [ 1, 2, 6, 7, 25, 26, 11, 28, 29],
+"8" : [ 1, 3, 6, 8, 10],
+"5" : [ 1, 3, 6, 8, 10],
+"3" : [ 1, 2, 6, 7, 25, 26, 11, 28, 29],
+"0" : [ 0, 17, 18, 4, 5, 9, 12, 14, 15],
+"CoveredDUAsByEdges" : 21,
+"Duas" : 34
+}]
+}

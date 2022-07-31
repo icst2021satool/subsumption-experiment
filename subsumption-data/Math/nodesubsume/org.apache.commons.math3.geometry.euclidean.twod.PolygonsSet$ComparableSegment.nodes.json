@@ -1,0 +1,22 @@
+{
+"Class" : "org.apache.commons.math3.geometry.euclidean.twod.PolygonsSet$ComparableSegment", 
+"Methods" : [{ "Name" : "<init>" ,
+"Nodes" : 5,
+"0" : [ 755,756 ]
+"1" : [ 756 ]
+"2" : [ 756,759 ]
+"3" : [ 756 ]
+"4" : [  ]
+},{ "Name" : "equals" ,
+"Nodes" : 9,
+"0" : [ 783 ]
+"1" : [ 785 ]
+"2" : [ 788 ]
+"3" : [ 786 ]
+"4" : [ 786 ]
+"5" : [ 786 ]
+"6" : [ 786 ]
+"7" : [ 784 ]
+"8" : [  ]
+}]
+}

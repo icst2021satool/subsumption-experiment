@@ -1,0 +1,18 @@
+{
+"Class" : "org.apache.commons.math3.geometry.euclidean.twod.PolygonsSet$Vertex", 
+"Methods" : [{ "Name" : "sharedLineWith" ,
+"Nodes" : 10,
+"0" : [ ],
+"1" : [ ],
+"2" : [ 3],
+"3" : [ 0, 1, 2, 4],
+"4" : [ 0, 1, 2, 4],
+"5" : [ 0, 1, 2, 4, 9],
+"6" : [ 0, 1, 2, 4, 8, 10],
+"7" : [ 0, 1, 2, 4, 6, 8, 10, 12],
+"8" : [ 0, 1, 2, 4, 5, 7, 8, 10, 11],
+"9" : [ ],
+"CoveredDUAsByNodes" : 13,
+"Duas" : 13
+}]
+}

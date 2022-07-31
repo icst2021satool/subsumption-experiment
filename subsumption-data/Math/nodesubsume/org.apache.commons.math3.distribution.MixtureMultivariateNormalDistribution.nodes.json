@@ -1,0 +1,11 @@
+{
+"Class" : "org.apache.commons.math3.distribution.MixtureMultivariateNormalDistribution", 
+"Methods" : [{ "Name" : "createComponents" ,
+"Nodes" : 5,
+"0" : [ 85,88 ]
+"1" : [ 88 ]
+"2" : [ 95 ]
+"3" : [ 88,89,92 ]
+"4" : [  ]
+}]
+}

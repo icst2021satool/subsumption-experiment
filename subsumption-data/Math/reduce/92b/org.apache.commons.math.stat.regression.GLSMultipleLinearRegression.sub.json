@@ -1,0 +1,9 @@
+{
+"Class" : "org.apache.commons.math.stat.regression.GLSMultipleLinearRegression", 
+"Methods" : [{ "Name" : "getOmegaInverse" ,
+"Duas" : "10" ,
+"Subsumers" : 2,
+"0" : [ 9, 8, 5, 3, 4, 0], "S0" : [0, 2, 3, 4, 5, 8, 9 ],
+"1" : [ 7, 6, 1], "S1" : [1, 2, 6, 7 ]
+}]
+}

@@ -1,0 +1,14 @@
+{
+"Class" : "org.apache.commons.math3.optim.nonlinear.vector.JacobianMultivariateVectorOptimizer", 
+"Methods" : [{ "Name" : "parseOptimizationData" ,
+"Edges" : 8,
+"Duas" : 15,
+"2" : 4, 
+ "3" : 5, 
+ "4" : 4, 
+ "5" : 5, 
+ "8" : 2, 
+ "9" : 3, 
+ "11" : 4, 
+ "12" : 5}]
+}

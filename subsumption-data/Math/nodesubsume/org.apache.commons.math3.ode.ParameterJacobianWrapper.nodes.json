@@ -1,0 +1,23 @@
+{
+"Class" : "org.apache.commons.math3.ode.ParameterJacobianWrapper", 
+"Methods" : [{ "Name" : "<init>" ,
+"Nodes" : 7,
+"0" : [ 52,53,54,55,58 ]
+"1" : [ 58 ]
+"2" : [ 64 ]
+"3" : [ 58,59,60 ]
+"4" : [ 58 ]
+"5" : [ 61 ]
+"6" : [  ]
+},{ "Name" : "computeParameterJacobian" ,
+"Nodes" : 8,
+"0" : [ 81,82 ]
+"1" : [ 95 ]
+"2" : [ 98 ]
+"3" : [ 83,86,87,88,89,90 ]
+"4" : [ 90 ]
+"5" : [ 93,94 ]
+"6" : [ 90,91 ]
+"7" : [  ]
+}]
+}

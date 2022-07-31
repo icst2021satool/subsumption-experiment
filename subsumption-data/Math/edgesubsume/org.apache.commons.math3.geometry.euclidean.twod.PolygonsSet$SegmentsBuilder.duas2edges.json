@@ -1,0 +1,20 @@
+{
+"Class" : "org.apache.commons.math3.geometry.euclidean.twod.PolygonsSet$SegmentsBuilder", 
+"Methods" : [{ "Name" : "visitInternalNode" ,
+"Edges" : 7,
+"Duas" : 8,
+"2" : 0, 
+ "3" : 1, 
+ "4" : 4, 
+ "5" : 5},{ "Name" : "addContribution" ,
+"Edges" : 17,
+"Duas" : 23,
+"2" : 2, 
+ "3" : 3, 
+ "10" : 13, 
+ "11" : 14, 
+ "13" : 10, 
+ "14" : 11, 
+ "16" : 6, 
+ "17" : 7}]
+}

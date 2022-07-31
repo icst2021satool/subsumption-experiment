@@ -1,0 +1,10 @@
+{
+"Class" : "org.apache.commons.math3.geometry.euclidean.twod.Segment", 
+"Methods" : [{ "Name" : "distance" ,
+"Edges" : 6,
+"Duas" : 17,
+"11" : 4, 
+ "12" : 5, 
+ "13" : 1, 
+ "14" : 2}]
+}

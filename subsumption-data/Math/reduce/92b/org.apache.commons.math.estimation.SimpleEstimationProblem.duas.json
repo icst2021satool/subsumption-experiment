@@ -1,0 +1,13 @@
+{
+"Class" : "org.apache.commons.math.estimation.SimpleEstimationProblem", 
+"Methods" : [{ "Name" : "getUnboundParameters" ,
+"Duas" : 8,
+"0" :  "(67,75, unbound)",
+"1" :  "(67,70, unbound)",
+"2" :  "(68,(68,68), i$)",
+"3" :  "(68,(68,75), i$)",
+"4" :  "(68,68, i$)",
+"5" :  "(68,(69,70), p)",
+"6" :  "(68,(69,72), p)",
+"7" :  "(68,70, p)"}]
+}

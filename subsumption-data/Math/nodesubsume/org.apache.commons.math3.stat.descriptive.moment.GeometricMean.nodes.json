@@ -1,0 +1,16 @@
+{
+"Class" : "org.apache.commons.math3.stat.descriptive.moment.GeometricMean", 
+"Methods" : [{ "Name" : "getResult" ,
+"Nodes" : 4,
+"0" : [ 114 ]
+"1" : [ 117 ]
+"2" : [ 115 ]
+"3" : [  ]
+},{ "Name" : "checkEmpty" ,
+"Nodes" : 4,
+"0" : [ 208 ]
+"1" : [ 213 ]
+"2" : [ 209 ]
+"3" : [  ]
+}]
+}

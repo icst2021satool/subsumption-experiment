@@ -1,0 +1,11 @@
+{
+"Class" : "org.apache.commons.math3.fitting.CurveFitter", 
+"Methods" : [{ "Name" : "fit" ,
+"Nodes" : 5,
+"0" : [ 162,163,164,165 ]
+"1" : [ 165 ]
+"2" : [ 183,172,175 ]
+"3" : [ 165,166,167,168,169 ]
+"4" : [  ]
+}]
+}
