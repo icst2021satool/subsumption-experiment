@@ -1,0 +1,24 @@
+{
+"Class" : "org.mockito.internal.stubbing.defaultanswers.ForwardsInvocations", 
+"Methods" : [{ "Name" : "answer" ,
+"Nodes" : 4,
+"0" : [ 33,35,38,40 ]
+"1" : [ 50,52,44 ]
+"2" : [ 41 ]
+"3" : [  ]
+},{ "Name" : "getDelegateMethod" ,
+"Nodes" : 4,
+"0" : [ 56 ]
+"1" : [ 61 ]
+"2" : [ 58 ]
+"3" : [  ]
+},{ "Name" : "compatibleReturnTypes" ,
+"Nodes" : 6,
+"0" : [ 66 ]
+"1" : [ 66 ]
+"2" : [ 66 ]
+"3" : [ 66 ]
+"4" : [ 66 ]
+"5" : [  ]
+}]
+}

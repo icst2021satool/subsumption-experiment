@@ -1,0 +1,8 @@
+{
+"Class" : "org.mockito.internal.stubbing.answers.CallsRealMethods", 
+"Methods" : [{ "Name" : "answer" ,
+"Edges" : 4,
+"Duas" : 5,
+"0" : 1, 
+ "1" : 2}]
+}

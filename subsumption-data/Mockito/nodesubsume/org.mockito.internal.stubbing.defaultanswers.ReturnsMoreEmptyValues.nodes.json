@@ -1,0 +1,18 @@
+{
+"Class" : "org.mockito.internal.stubbing.defaultanswers.ReturnsMoreEmptyValues", 
+"Methods" : [{ "Name" : "answer" ,
+"Nodes" : 4,
+"0" : [ 57,58 ]
+"1" : [ 62,63 ]
+"2" : [ 59 ]
+"3" : [  ]
+},{ "Name" : "returnValueFor" ,
+"Nodes" : 6,
+"0" : [ 67 ]
+"1" : [ 69 ]
+"2" : [ 73 ]
+"3" : [ 70,71 ]
+"4" : [ 68 ]
+"5" : [  ]
+}]
+}

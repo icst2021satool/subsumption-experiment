@@ -1,0 +1,8 @@
+{
+"Class" : "org.mockito.internal.util.collections.Sets", 
+"Methods" : [{ "Name" : "newSet" ,
+"Duas" : 3,
+"0" :  "(28,(28,29), elements)",
+"1" :  "(28,(28,31), elements)",
+"2" :  "(28,31, elements)"}]
+}

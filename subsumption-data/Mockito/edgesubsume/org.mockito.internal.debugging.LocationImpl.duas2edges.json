@@ -1,0 +1,8 @@
+{
+"Class" : "org.mockito.internal.debugging.LocationImpl", 
+"Methods" : [{ "Name" : "toString" ,
+"Edges" : 4,
+"Duas" : 3,
+"0" : 2, 
+ "1" : 3}]
+}

@@ -1,0 +1,12 @@
+{
+"Class" : "org.mockito.internal.util.collections.Sets", 
+"Methods" : [{ "Name" : "newSet" ,
+"Edges" : 4,
+"0" : [ 0],
+"1" : [ 1, 2],
+"2" : [ 1, 2],
+"3" : [ 0],
+"CoveredDUAsByEdges" : 3,
+"Duas" : 3
+}]
+}

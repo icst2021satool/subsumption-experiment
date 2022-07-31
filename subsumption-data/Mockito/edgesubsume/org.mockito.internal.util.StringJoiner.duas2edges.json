@@ -1,0 +1,7 @@
+{
+"Class" : "org.mockito.internal.util.StringJoiner", 
+"Methods" : [{ "Name" : "join" ,
+"Edges" : 5,
+"Duas" : 3,
+}]
+}

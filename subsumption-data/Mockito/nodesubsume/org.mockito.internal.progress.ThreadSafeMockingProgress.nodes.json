@@ -1,0 +1,10 @@
+{
+"Class" : "org.mockito.internal.progress.ThreadSafeMockingProgress", 
+"Methods" : [{ "Name" : "threadSafely" ,
+"Nodes" : 4,
+"0" : [ 21 ]
+"1" : [ 24 ]
+"2" : [ 22 ]
+"3" : [  ]
+}]
+}

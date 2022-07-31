@@ -1,0 +1,12 @@
+{
+"Class" : "org.mockito.internal.handler.InvocationNotifierHandler", 
+"Methods" : [{ "Name" : "notifyMethodCall" ,
+"Nodes" : 5,
+"Duas" : 2,
+"0" :  [ 0,3 ],
+"1" :  [ 0,3 ]},{ "Name" : "notifyMethodCallException" ,
+"Nodes" : 5,
+"Duas" : 2,
+"0" :  [ 0,3 ],
+"1" :  [ 0,3 ]}]
+}

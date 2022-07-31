@@ -1,0 +1,31 @@
+{
+"Class" : "org.mockito.internal.configuration.injection.MockInjectionStrategy", 
+"Methods" : [{ "Name" : "thenTry" ,
+"Nodes" : 5,
+"0" : [ ],
+"1" : [ 1, 2, 4, 8],
+"3" : [ 0, 3, 6, 7, 9],
+"2" : [ 5],
+"4" : [ 5],
+"CoveredDUAsByNodes" : 10,
+"Duas" : 10
+},{ "Name" : "process" ,
+"Nodes" : 4,
+"0" : [ ],
+"1" : [ 1, 2, 4, 5, 7, 8, 10, 11],
+"2" : [ 0, 3, 6, 9],
+"3" : [ ],
+"CoveredDUAsByNodes" : 12,
+"Duas" : 12
+},{ "Name" : "relayProcessToNextStrategy" ,
+"Nodes" : 6,
+"0" : [ ],
+"3" : [ 0, 10],
+"1" : [ ],
+"4" : [ 0, 2, 4, 6, 8, 10, 12],
+"2" : [ ],
+"5" : [ ],
+"CoveredDUAsByNodes" : 7,
+"Duas" : 14
+}]
+}

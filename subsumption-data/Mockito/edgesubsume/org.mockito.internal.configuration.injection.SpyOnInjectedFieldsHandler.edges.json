@@ -1,0 +1,16 @@
+{
+"Class" : "org.mockito.internal.configuration.injection.SpyOnInjectedFieldsHandler", 
+"Methods" : [{ "Name" : "processInjection" ,
+"Edges" : 10,
+"0" : [ 4,5 ],
+"1" : [ 5,1 ],
+"2" : [ 2,3 ],
+"3" : [ 2,1 ],
+"4" : [ 6,5 ],
+"5" : [ 1,7 ],
+"6" : [ 3,6 ],
+"7" : [ 3,4 ],
+"8" : [ 0,2 ],
+"9" : [ 0,1 ]
+}]
+}

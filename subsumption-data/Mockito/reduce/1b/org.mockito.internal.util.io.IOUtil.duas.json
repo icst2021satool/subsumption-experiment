@@ -1,0 +1,15 @@
+{
+"Class" : "org.mockito.internal.util.io.IOUtil", 
+"Methods" : [{ "Name" : "readLines" ,
+"Duas" : 6,
+"0" :  "(31,41, out)",
+"1" :  "(31,36, out)",
+"2" :  "(32,35, r)",
+"3" :  "(32,(35,36), r)",
+"4" :  "(32,(35,40), r)",
+"5" :  "(35,36, line)"},{ "Name" : "close" ,
+"Duas" : 3,
+"0" :  "(63,(63,65), closeable)",
+"1" :  "(63,(63,70), closeable)",
+"2" :  "(63,65, closeable)"}]
+}

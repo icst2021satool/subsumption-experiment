@@ -1,0 +1,18 @@
+{
+"Class" : "org.mockito.internal.util.reflection.Fields$InstanceFields", 
+"Methods" : [{ "Name" : "assignedValues" ,
+"Nodes" : 5,
+"0" : [ 115,116 ]
+"1" : [ 116 ]
+"2" : [ 119 ]
+"3" : [ 116,117,118 ]
+"4" : [  ]
+},{ "Name" : "names" ,
+"Nodes" : 5,
+"0" : [ 123,124 ]
+"1" : [ 124 ]
+"2" : [ 127 ]
+"3" : [ 124,125,126 ]
+"4" : [  ]
+}]
+}

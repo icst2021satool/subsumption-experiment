@@ -1,0 +1,16 @@
+{
+"Class" : "org.mockito.internal.configuration.GlobalConfiguration", 
+"Methods" : [{ "Name" : "<init>" ,
+"Nodes" : 4,
+"0" : [ 29,31 ]
+"1" : [ 34 ]
+"2" : [ 32 ]
+"3" : [  ]
+},{ "Name" : "createConfig" ,
+"Nodes" : 4,
+"0" : [ 37,38,39 ]
+"1" : [ 42 ]
+"2" : [ 40 ]
+"3" : [  ]
+}]
+}

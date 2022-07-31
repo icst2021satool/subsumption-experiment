@@ -1,0 +1,12 @@
+{
+"Class" : "org.mockito.internal.creation.bytebuddy.ByteBuddyCrossClassLoaderSerializationSupport$MockitoMockObjectInputStream", 
+"Methods" : [{ "Name" : "resolveClass" ,
+"Edges" : 4,
+"Duas" : 9,
+"0" : 0, 
+ "1" : 1},{ "Name" : "notMarkedAsAMockitoMock" ,
+"Edges" : 5,
+"Duas" : 2,
+"0" : 0, 
+ "1" : 1}]
+}

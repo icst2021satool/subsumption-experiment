@@ -1,0 +1,10 @@
+{
+"Class" : "org.mockito.internal.creation.bytebuddy.CachingMockBytecodeGenerator", 
+"Methods" : [{ "Name" : "mockCachePerClassLoaderOf" ,
+"Nodes" : 4,
+"0" : [ 38 ]
+"1" : [ 44 ]
+"2" : [ 39,40 ]
+"3" : [  ]
+}]
+}

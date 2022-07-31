@@ -1,0 +1,14 @@
+{
+"Class" : "org.mockito.internal.reporting.PrintSettings", 
+"Methods" : [{ "Name" : "print" ,
+"Nodes" : 6,
+"0" : [ ],
+"2" : [ 0],
+"4" : [ 0, 4],
+"3" : [ 0, 8],
+"1" : [ 2, 3, 6, 7],
+"5" : [ ],
+"CoveredDUAsByNodes" : 7,
+"Duas" : 11
+}]
+}

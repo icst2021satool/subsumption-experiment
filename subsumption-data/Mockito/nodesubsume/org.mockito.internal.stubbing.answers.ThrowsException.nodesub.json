@@ -1,0 +1,12 @@
+{
+"Class" : "org.mockito.internal.stubbing.answers.ThrowsException", 
+"Methods" : [{ "Name" : "answer" ,
+"Nodes" : 4,
+"0" : [ ],
+"1" : [ 1, 2, 3, 6, 7, 9],
+"2" : [ 0, 4, 5, 8],
+"3" : [ ],
+"CoveredDUAsByNodes" : 10,
+"Duas" : 10
+}]
+}

@@ -1,0 +1,10 @@
+{
+"Class" : "org.mockito.internal.configuration.injection.filter.FinalMockCandidateFilter$1", 
+"Methods" : [{ "Name" : "thenInject" ,
+"Edges" : 4,
+"Duas" : 11,
+"0" : 0, 
+ "1" : 1, 
+ "7" : 0, 
+ "8" : 1}]
+}

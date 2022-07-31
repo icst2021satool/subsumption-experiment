@@ -1,0 +1,54 @@
+{
+"Class" : "org.mockito.exceptions.Reporter", 
+"Methods" : [{ "Name" : "locationsOf" ,
+"Nodes" : 5,
+"0" : [ 295,296 ]
+"1" : [ 296 ]
+"2" : [ 298 ]
+"3" : [ 296,297 ]
+"4" : [  ]
+},{ "Name" : "wantedButNotInvoked" ,
+"Nodes" : 8,
+"0" : [ 320 ]
+"1" : [ 323,324 ]
+"2" : [ 324 ]
+"3" : [ 330 ]
+"4" : [ 333,334 ]
+"5" : [ 324,325,326,327,328,329 ]
+"6" : [ 321 ]
+"7" : [  ]
+},{ "Name" : "createTooLittleInvocationsMessage" ,
+"Nodes" : 5,
+"0" : [ 396 ]
+"1" : [ 396 ]
+"2" : [ 400,401,403,406,396,399 ]
+"3" : [ 396 ]
+"4" : [  ]
+},{ "Name" : "exceptionCauseMessageIfAvailable" ,
+"Nodes" : 4,
+"0" : [ 695 ]
+"1" : [ 698 ]
+"2" : [ 696 ]
+"3" : [  ]
+},{ "Name" : "invalidArgumentPositionRangeAtInvocationTime" ,
+"Nodes" : 5,
+"0" : [ 726,728 ]
+"1" : [ 728 ]
+"2" : [ 727,728,732 ]
+"3" : [ 728 ]
+"4" : [  ]
+},{ "Name" : "possibleArgumentTypesOf" ,
+"Nodes" : 11,
+"0" : [ 739,740 ]
+"1" : [ 744,745 ]
+"2" : [ 745 ]
+"3" : [ 754 ]
+"4" : [ 746,748 ]
+"5" : [ 751 ]
+"6" : [ 745 ]
+"7" : [ 748 ]
+"8" : [ 749 ]
+"9" : [ 741 ]
+"10" : [  ]
+}]
+}

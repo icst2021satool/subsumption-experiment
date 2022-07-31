@@ -1,0 +1,14 @@
+{
+"Class" : "org.mockito.internal.matchers.InstanceOf", 
+"Methods" : [{ "Name" : "matches" ,
+"Edges" : 7,
+"Duas" : 8,
+"0" : 0, 
+ "1" : 1, 
+ "2" : 3, 
+ "3" : 4, 
+ "4" : 0, 
+ "5" : 1, 
+ "6" : 0, 
+ "7" : 1}]
+}

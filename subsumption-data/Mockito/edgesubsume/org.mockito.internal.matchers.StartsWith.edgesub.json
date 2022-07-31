@@ -1,0 +1,15 @@
+{
+"Class" : "org.mockito.internal.matchers.StartsWith", 
+"Methods" : [{ "Name" : "matches" ,
+"Edges" : 7,
+"4" : [ 2],
+"5" : [ 3],
+"1" : [ 0, 2, 4, 6],
+"2" : [ 1, 5, 7],
+"3" : [ ],
+"6" : [ 0, 2, 4, 6],
+"0" : [ ],
+"CoveredDUAsByEdges" : 8,
+"Duas" : 8
+}]
+}

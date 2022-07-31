@@ -1,0 +1,23 @@
+{
+"Class" : "org.mockito.internal.util.reflection.GenericMetadataSupport$WildCardBoundedType", 
+"Methods" : [{ "Name" : "firstBound" ,
+"Duas" : 4,
+"0" :  "(588,(591,591), lowerBounds)",
+"1" :  "(588,(591,591), lowerBounds)",
+"2" :  "(588,591, lowerBounds)",
+"3" :  "(589,591, upperBounds)"},{ "Name" : "equals" ,
+"Duas" : 13,
+"0" :  "(603,(603,603), this)",
+"1" :  "(603,(603,604), this)",
+"2" :  "(603,(604,604), this)",
+"3" :  "(603,(604,606), this)",
+"4" :  "(603,606, this)",
+"5" :  "(603,(603,603), o)",
+"6" :  "(603,(603,604), o)",
+"7" :  "(603,(604,604), o)",
+"8" :  "(603,(604,604), o)",
+"9" :  "(603,(604,604), o)",
+"10" :  "(603,(604,606), o)",
+"11" :  "(603,606, o)",
+"12" :  "(603,606, this.wildcard)"}]
+}

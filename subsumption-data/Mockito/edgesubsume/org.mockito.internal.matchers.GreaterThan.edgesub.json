@@ -1,0 +1,13 @@
+{
+"Class" : "org.mockito.internal.matchers.GreaterThan", 
+"Methods" : [{ "Name" : "matchResult" ,
+"Edges" : 5,
+"2" : [ 0],
+"3" : [ 1],
+"4" : [ 1],
+"0" : [ 0],
+"1" : [ ],
+"CoveredDUAsByEdges" : 2,
+"Duas" : 2
+}]
+}

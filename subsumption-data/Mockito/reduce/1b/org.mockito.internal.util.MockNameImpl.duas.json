@@ -1,0 +1,18 @@
+{
+"Class" : "org.mockito.internal.util.MockNameImpl", 
+"Methods" : [{ "Name" : "<init>" ,
+"Duas" : 7,
+"0" :  "(18,23, this)",
+"1" :  "(18,20, this)",
+"2" :  "(18,21, this)",
+"3" :  "(18,(19,20), mockName)",
+"4" :  "(18,(19,23), mockName)",
+"5" :  "(18,23, mockName)",
+"6" :  "(18,20, classToMock)"},{ "Name" : "toInstanceName" ,
+"Duas" : 5,
+"0" :  "(32,35, clazz)",
+"1" :  "(32,(33,35), className)",
+"2" :  "(32,(33,38), className)",
+"3" :  "(32,38, className)",
+"4" :  "(35,38, className)"}]
+}

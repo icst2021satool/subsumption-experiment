@@ -1,0 +1,9 @@
+{
+"Class" : "org.mockito.internal.creation.bytebuddy.MockMethodInterceptor$ForEquals", 
+"Methods" : [{ "Name" : "doIdentityEquals" ,
+"Duas" : 4,
+"0" :  "(115,(115,115), thiz)",
+"1" :  "(115,(115,115), thiz)",
+"2" :  "(115,(115,115), other)",
+"3" :  "(115,(115,115), other)"}]
+}

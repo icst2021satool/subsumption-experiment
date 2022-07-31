@@ -1,0 +1,21 @@
+{
+"Class" : "org.mockito.internal.progress.HandyReturnValues", 
+"Methods" : [{ "Name" : "returnFor" ,
+"Nodes" : 4,
+"0" : [ ],
+"1" : [ 1],
+"2" : [ 0, 2],
+"3" : [ ],
+"CoveredDUAsByNodes" : 3,
+"Duas" : 3
+},{ "Name" : "returnFor" ,
+"Nodes" : 5,
+"0" : [ ],
+"1" : [ 2],
+"3" : [ 1],
+"2" : [ 0, 3],
+"4" : [ 0, 3],
+"CoveredDUAsByNodes" : 4,
+"Duas" : 4
+}]
+}

@@ -1,0 +1,12 @@
+{
+"Class" : "org.mockito.internal.verification.checkers.MissingInvocationChecker", 
+"Methods" : [{ "Name" : "check" ,
+"Nodes" : 6,
+"0" : [ 32,34 ]
+"1" : [ 45 ]
+"2" : [ 35,36 ]
+"3" : [ 42 ]
+"4" : [ 37,38,39,40,41 ]
+"5" : [  ]
+}]
+}

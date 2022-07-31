@@ -1,0 +1,11 @@
+{
+"Class" : "org.mockito.internal.matchers.Null", 
+"Methods" : [{ "Name" : "matches" ,
+"Nodes" : 5,
+"0" : [ 23 ]
+"1" : [ 23 ]
+"2" : [ 23 ]
+"3" : [ 23 ]
+"4" : [  ]
+}]
+}

@@ -1,0 +1,9 @@
+{
+"Class" : "org.mockito.internal.stubbing.answers.Returns", 
+"Methods" : [{ "Name" : "returnsNull" ,
+"Duas" : 4,
+"0" :  "(34,(34,34), this)",
+"1" :  "(34,(34,34), this)",
+"2" :  "(34,(34,34), this.value)",
+"3" :  "(34,(34,34), this.value)"}]
+}

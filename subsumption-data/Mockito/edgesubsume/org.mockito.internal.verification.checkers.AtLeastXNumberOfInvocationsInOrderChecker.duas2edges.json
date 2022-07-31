@@ -1,0 +1,10 @@
+{
+"Class" : "org.mockito.internal.verification.checkers.AtLeastXNumberOfInvocationsInOrderChecker", 
+"Methods" : [{ "Name" : "check" ,
+"Edges" : 4,
+"Duas" : 17,
+"5" : 0, 
+ "6" : 1, 
+ "14" : 0, 
+ "15" : 1}]
+}

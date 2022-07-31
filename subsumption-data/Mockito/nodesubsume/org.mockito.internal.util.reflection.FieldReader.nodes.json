@@ -1,0 +1,11 @@
+{
+"Class" : "org.mockito.internal.util.reflection.FieldReader", 
+"Methods" : [{ "Name" : "isNull" ,
+"Nodes" : 5,
+"0" : [ 24 ]
+"1" : [ 24 ]
+"2" : [ 24 ]
+"3" : [ 24 ]
+"4" : [  ]
+}]
+}

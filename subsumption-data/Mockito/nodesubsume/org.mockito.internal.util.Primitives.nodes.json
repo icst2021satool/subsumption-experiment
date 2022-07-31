@@ -1,0 +1,10 @@
+{
+"Class" : "org.mockito.internal.util.Primitives", 
+"Methods" : [{ "Name" : "primitiveTypeOf" ,
+"Nodes" : 4,
+"0" : [ 29 ]
+"1" : [ 32 ]
+"2" : [ 30 ]
+"3" : [  ]
+}]
+}

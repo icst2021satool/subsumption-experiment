@@ -1,0 +1,10 @@
+{
+"Class" : "org.mockito.internal.creation.bytebuddy.ByteBuddyCrossClassLoaderSerializationSupport$MockitoMockObjectOutputStream", 
+"Methods" : [{ "Name" : "mockitoProxyClassMarker" ,
+"Nodes" : 4,
+"0" : [ 370 ]
+"1" : [ 373 ]
+"2" : [ 371 ]
+"3" : [  ]
+}]
+}

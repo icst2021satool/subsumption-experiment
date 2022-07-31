@@ -1,0 +1,24 @@
+{
+"Class" : "org.mockito.internal.configuration.plugins.PluginFileReader", 
+"Methods" : [{ "Name" : "readPluginClass" ,
+"Edges" : 8,
+"7" : [ ],
+"3" : [ ],
+"4" : [ ],
+"0" : [ ],
+"5" : [ 0, 2],
+"6" : [ 1],
+"2" : [ 1],
+"1" : [ 0, 2],
+"CoveredDUAsByEdges" : 3,
+"Duas" : 3
+},{ "Name" : "stripCommentAndWhitespace" ,
+"Edges" : 4,
+"1" : [ 1, 2, 4],
+"2" : [ 0, 3],
+"3" : [ 1, 2, 4],
+"0" : [ ],
+"CoveredDUAsByEdges" : 5,
+"Duas" : 6
+}]
+}

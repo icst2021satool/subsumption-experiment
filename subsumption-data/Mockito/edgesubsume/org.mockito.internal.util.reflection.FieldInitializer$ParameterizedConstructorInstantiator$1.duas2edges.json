@@ -1,0 +1,16 @@
+{
+"Class" : "org.mockito.internal.util.reflection.FieldInitializer$ParameterizedConstructorInstantiator$1", 
+"Methods" : [{ "Name" : "compare" ,
+"Edges" : 4,
+"Duas" : 7,
+"4" : 0, 
+ "5" : 1},{ "Name" : "countMockableParams" ,
+"Edges" : 8,
+"Duas" : 10,
+"0" : 3, 
+ "1" : 4, 
+ "2" : 3, 
+ "3" : 4, 
+ "6" : 3, 
+ "7" : 4}]
+}

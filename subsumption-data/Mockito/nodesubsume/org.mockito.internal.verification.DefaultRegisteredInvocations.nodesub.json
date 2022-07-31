@@ -1,0 +1,12 @@
+{
+"Class" : "org.mockito.internal.verification.DefaultRegisteredInvocations", 
+"Methods" : [{ "Name" : "removeLast" ,
+"Nodes" : 4,
+"0" : [ ],
+"2" : [ 0, 2, 3, 5],
+"1" : [ ],
+"3" : [ ],
+"CoveredDUAsByNodes" : 4,
+"Duas" : 6
+}]
+}

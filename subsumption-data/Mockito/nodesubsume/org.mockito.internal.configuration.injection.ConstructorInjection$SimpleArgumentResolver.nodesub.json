@@ -1,0 +1,24 @@
+{
+"Class" : "org.mockito.internal.configuration.injection.ConstructorInjection$SimpleArgumentResolver", 
+"Methods" : [{ "Name" : "resolveTypeInstances" ,
+"Nodes" : 5,
+"0" : [ ],
+"1" : [ ],
+"2" : [ 1],
+"4" : [ 1],
+"3" : [ 0, 2],
+"CoveredDUAsByNodes" : 3,
+"Duas" : 3
+},{ "Name" : "objectThatIsAssignableFrom" ,
+"Nodes" : 7,
+"0" : [ ],
+"1" : [ ],
+"2" : [ ],
+"3" : [ ],
+"4" : [ 1, 3],
+"5" : [ 0, 2, 4],
+"6" : [ ],
+"CoveredDUAsByNodes" : 5,
+"Duas" : 5
+}]
+}

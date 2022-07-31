@@ -1,0 +1,8 @@
+{
+"Class" : "org.mockito.internal.util.reflection.FieldInitializer$NoArgConstructorInstantiator", 
+"Methods" : [{ "Name" : "instantiate" ,
+"Edges" : 4,
+"Duas" : 4,
+"1" : 1, 
+ "2" : 2}]
+}

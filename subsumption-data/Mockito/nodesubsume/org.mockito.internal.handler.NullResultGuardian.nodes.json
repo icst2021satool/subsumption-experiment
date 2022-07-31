@@ -1,0 +1,11 @@
+{
+"Class" : "org.mockito.internal.handler.NullResultGuardian", 
+"Methods" : [{ "Name" : "handle" ,
+"Nodes" : 5,
+"0" : [ 29,30,31 ]
+"1" : [ 35 ]
+"2" : [ 31 ]
+"3" : [ 33 ]
+"4" : [  ]
+}]
+}

@@ -1,0 +1,13 @@
+{
+"Class" : "org.mockito.internal.matchers.Contains", 
+"Methods" : [{ "Name" : "matches" ,
+"Edges" : 7,
+"0" : [ 4,2 ],
+"1" : [ 2,5 ],
+"2" : [ 0,3 ],
+"3" : [ 0,1 ],
+"4" : [ 3,4 ],
+"5" : [ 3,1 ],
+"6" : [ 1,2 ]
+}]
+}

@@ -1,0 +1,12 @@
+{
+"Class" : "org.mockito.internal.progress.ThreadSafeMockingProgress", 
+"Methods" : [{ "Name" : "threadSafely" ,
+"Edges" : 4,
+"2" : [ 0, 3],
+"3" : [ 1, 2],
+"0" : [ 0, 2, 3],
+"1" : [ 2],
+"CoveredDUAsByEdges" : 4,
+"Duas" : 4
+}]
+}

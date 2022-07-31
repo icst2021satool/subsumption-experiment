@@ -1,0 +1,15 @@
+{
+"Class" : "org.mockito.internal.util.collections.ArrayUtils", 
+"Methods" : [{ "Name" : "isEmpty" ,
+"Edges" : 7,
+"3" : [ 0],
+"4" : [ 1],
+"5" : [ 2],
+"6" : [ 0, 3],
+"0" : [ 0, 3],
+"1" : [ ],
+"2" : [ ],
+"CoveredDUAsByEdges" : 4,
+"Duas" : 4
+}]
+}

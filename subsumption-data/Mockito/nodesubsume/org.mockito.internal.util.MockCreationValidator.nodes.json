@@ -1,0 +1,55 @@
+{
+"Class" : "org.mockito.internal.util.MockCreationValidator", 
+"Methods" : [{ "Name" : "validateType" ,
+"Nodes" : 4,
+"0" : [ 20 ]
+"1" : [ 23 ]
+"2" : [ 21 ]
+"3" : [  ]
+},{ "Name" : "validateExtraInterfaces" ,
+"Nodes" : 9,
+"0" : [ 26 ]
+"1" : [ 30 ]
+"2" : [ 30 ]
+"3" : [ 35 ]
+"4" : [ 30,31 ]
+"5" : [ 34 ]
+"6" : [ 32 ]
+"7" : [ 27 ]
+"8" : [  ]
+},{ "Name" : "validateMockedType" ,
+"Nodes" : 7,
+"0" : [ 38 ]
+"1" : [ 39 ]
+"2" : [ 38 ]
+"3" : [ 41 ]
+"4" : [ 44 ]
+"5" : [ 42 ]
+"6" : [  ]
+},{ "Name" : "validateDelegatedInstance" ,
+"Nodes" : 7,
+"0" : [ 47 ]
+"1" : [ 48 ]
+"2" : [ 47 ]
+"3" : [ 50 ]
+"4" : [ 53 ]
+"5" : [ 51 ]
+"6" : [  ]
+},{ "Name" : "validateSerializable" ,
+"Nodes" : 7,
+"0" : [ 59 ]
+"1" : [ 66 ]
+"2" : [ 59,60 ]
+"3" : [ 60,61 ]
+"4" : [ 61,62 ]
+"5" : [ 64 ]
+"6" : [  ]
+},{ "Name" : "validateConstructorUse" ,
+"Nodes" : 5,
+"0" : [ 69 ]
+"1" : [ 72 ]
+"2" : [ 69 ]
+"3" : [ 70 ]
+"4" : [  ]
+}]
+}

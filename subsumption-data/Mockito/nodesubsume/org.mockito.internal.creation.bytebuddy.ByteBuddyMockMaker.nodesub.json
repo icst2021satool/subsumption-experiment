@@ -1,0 +1,47 @@
+{
+"Class" : "org.mockito.internal.creation.bytebuddy.ByteBuddyMockMaker", 
+"Methods" : [{ "Name" : "mockWithFeaturesFrom" ,
+"Nodes" : 5,
+"0" : [ ],
+"1" : [ 1, 4],
+"3" : [ 0, 3],
+"2" : [ 2],
+"4" : [ 2],
+"CoveredDUAsByNodes" : 5,
+"Duas" : 5
+},{ "Name" : "describeClass" ,
+"Nodes" : 5,
+"0" : [ ],
+"1" : [ 1],
+"3" : [ 0],
+"2" : [ 2],
+"4" : [ 2],
+"CoveredDUAsByNodes" : 3,
+"Duas" : 3
+},{ "Name" : "describeClass" ,
+"Nodes" : 5,
+"0" : [ ],
+"1" : [ 1],
+"3" : [ 0],
+"2" : [ 2],
+"4" : [ 2],
+"CoveredDUAsByNodes" : 3,
+"Duas" : 3
+},{ "Name" : "getHandler" ,
+"Nodes" : 4,
+"0" : [ ],
+"1" : [ 1, 2],
+"2" : [ 0],
+"3" : [ ],
+"CoveredDUAsByNodes" : 3,
+"Duas" : 3
+},{ "Name" : "asInternalMockHandler" ,
+"Nodes" : 4,
+"0" : [ ],
+"1" : [ 1, 2],
+"2" : [ 0],
+"3" : [ ],
+"CoveredDUAsByNodes" : 3,
+"Duas" : 3
+}]
+}

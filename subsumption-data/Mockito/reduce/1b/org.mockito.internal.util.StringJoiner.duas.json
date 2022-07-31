@@ -1,0 +1,8 @@
+{
+"Class" : "org.mockito.internal.util.StringJoiner", 
+"Methods" : [{ "Name" : "join" ,
+"Duas" : 3,
+"0" :  "(16,19, out)",
+"1" :  "(16,20, out)",
+"2" :  "(16,17, out)"}]
+}

@@ -1,0 +1,15 @@
+{
+"Class" : "org.mockito.internal.exceptions.stacktrace.DefaultStackTraceCleaner", 
+"Methods" : [{ "Name" : "isOut" ,
+"Duas" : 10,
+"0" :  "(10,(15,15), fromMockObject)",
+"1" :  "(10,(15,15), fromMockObject)",
+"2" :  "(11,(15,15), fromByteBuddyMockObject)",
+"3" :  "(11,(15,15), fromByteBuddyMockObject)",
+"4" :  "(12,(15,15), fromOrgMockito)",
+"5" :  "(12,(15,15), fromOrgMockito)",
+"6" :  "(13,(15,15), isRunner)",
+"7" :  "(13,(15,15), isRunner)",
+"8" :  "(14,(15,15), isInternalRunner)",
+"9" :  "(14,(15,15), isInternalRunner)"}]
+}

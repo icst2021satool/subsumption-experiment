@@ -1,0 +1,40 @@
+{
+"Class" : "org.mockito.internal.util.reflection.GenericMetadataSupport$TypeVariableReturnType", 
+"Methods" : [{ "Name" : "readTypeVariables" ,
+"Duas" : "6" ,
+"Subsumers" : 1,
+"0" : [ 3], "S0" : [0, 1, 2, 3, 4, 5 ]
+},{ "Name" : "rawType" ,
+"Duas" : "9" ,
+"Subsumers" : 2,
+"0" : [ 8, 7, 4, 3, 0], "S0" : [0, 2, 3, 4, 7, 8 ],
+"1" : [ 6, 5, 1], "S1" : [1, 2, 5, 6 ]
+},{ "Name" : "extractRawTypeOf" ,
+"Duas" : "16" ,
+"Subsumers" : 5,
+"0" : [ 15, 11, 8, 0], "S0" : [0, 3, 5, 7, 8, 11, 15 ],
+"1" : [ 12, 6, 1], "S1" : [1, 3, 5, 6, 12 ],
+"2" : [ 14, 2], "S2" : [2, 14 ],
+"3" : [ 13, 4], "S3" : [3, 4, 13 ],
+"4" : [ 10, 9], "S4" : [3, 5, 7, 9, 10 ]
+},{ "Name" : "extraInterfaces" ,
+"Duas" : "11" ,
+"Subsumers" : 4,
+"0" : [ 8, 7, 1, 0], "S0" : [0, 1, 3, 5, 7, 8 ],
+"1" : [ 10, 2], "S1" : [2, 10 ],
+"2" : [ 9, 4], "S2" : [3, 4, 9 ],
+"3" : [ 6], "S3" : [3, 5, 6 ]
+},{ "Name" : "rawExtraInterfaces" ,
+"Duas" : "8" ,
+"Subsumers" : 2,
+"0" : [ 7, 5, 4, 1], "S0" : [0, 1, 3, 4, 5, 7 ],
+"1" : [ 6, 2], "S1" : [0, 2, 3, 6 ]
+},{ "Name" : "extractActualBoundedTypeOf" ,
+"Duas" : "14" ,
+"Subsumers" : 4,
+"0" : [ 11, 8], "S0" : [0, 3, 4, 7, 8, 11 ],
+"1" : [ 13, 12], "S1" : [0, 3, 4, 7, 12, 13 ],
+"2" : [ 10, 9, 2, 1], "S2" : [1, 2, 9, 10 ],
+"3" : [ 6, 5], "S3" : [3, 5, 6 ]
+}]
+}

@@ -1,0 +1,16 @@
+{
+"Class" : "org.mockito.internal.stubbing.answers.ReturnsElementsOf", 
+"Methods" : [{ "Name" : "<init>" ,
+"Nodes" : 4,
+"0" : [ 36,37 ]
+"1" : [ 41,42 ]
+"2" : [ 38 ]
+"3" : [  ]
+},{ "Name" : "answer" ,
+"Nodes" : 4,
+"0" : [ 45 ]
+"1" : [ 48 ]
+"2" : [ 46 ]
+"3" : [  ]
+}]
+}

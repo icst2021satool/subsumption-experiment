@@ -1,0 +1,10 @@
+{
+"Class" : "org.mockito.internal.configuration.injection.filter.FinalMockCandidateFilter", 
+"Methods" : [{ "Name" : "filterCandidate" ,
+"Nodes" : 4,
+"0" : [ 24 ]
+"1" : [ 41 ]
+"2" : [ 25,27 ]
+"3" : [  ]
+}]
+}

@@ -1,0 +1,15 @@
+{
+"Class" : "org.mockito.internal.stubbing.defaultanswers.ReturnsMoreEmptyValues", 
+"Methods" : [{ "Name" : "answer" ,
+"Duas" : "5" ,
+"Subsumers" : 2,
+"0" : [ 3, 1, 0], "S0" : [0, 1, 3 ],
+"1" : [ 4, 2], "S1" : [2, 4 ]
+},{ "Name" : "returnValueFor" ,
+"Duas" : "5" ,
+"Subsumers" : 3,
+"0" : [ 0], "S0" : [0 ],
+"1" : [ 4, 2], "S1" : [1, 2, 4 ],
+"2" : [ 3], "S2" : [1, 3 ]
+}]
+}

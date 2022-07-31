@@ -1,0 +1,22 @@
+{
+"Class" : "org.mockito.internal.verification.checkers.AtLeastXNumberOfInvocationsInOrderChecker", 
+"Methods" : [{ "Name" : "check" ,
+"Duas" : 17,
+"0" :  "(30,39, this)",
+"1" :  "(30,35, this)",
+"2" :  "(30,36, this)",
+"3" :  "(30,39, wanted)",
+"4" :  "(30,36, wanted)",
+"5" :  "(30,(34,35), wantedCount)",
+"6" :  "(30,(34,39), wantedCount)",
+"7" :  "(30,36, wantedCount)",
+"8" :  "(30,35, this.finder)",
+"9" :  "(30,39, this.orderingContext)",
+"10" :  "(30,36, this.reporter)",
+"11" :  "(30,39, this.invocationMarker)",
+"12" :  "(30,39, chunk)",
+"13" :  "(30,35, chunk)",
+"14" :  "(32,(34,35), actualCount)",
+"15" :  "(32,(34,39), actualCount)",
+"16" :  "(32,36, actualCount)"}]
+}

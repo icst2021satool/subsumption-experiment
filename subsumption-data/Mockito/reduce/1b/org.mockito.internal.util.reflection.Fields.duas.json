@@ -1,0 +1,21 @@
+{
+"Class" : "org.mockito.internal.util.reflection.Fields", 
+"Methods" : [{ "Name" : "allDeclaredFieldsOf" ,
+"Duas" : 12,
+"0" :  "(30,34, instance)",
+"1" :  "(30,32, instance)",
+"2" :  "(30,34, instanceFields)",
+"3" :  "(30,32, instanceFields)",
+"4" :  "(31,(31,32), clazz)",
+"5" :  "(31,(31,34), clazz)",
+"6" :  "(31,32, clazz)",
+"7" :  "(31,31, clazz)",
+"8" :  "(31,(31,32), clazz)",
+"9" :  "(31,(31,34), clazz)",
+"10" :  "(31,32, clazz)",
+"11" :  "(31,31, clazz)"},{ "Name" : "instanceFieldsIn" ,
+"Duas" : 3,
+"0" :  "(50,52, instance)",
+"1" :  "(50,55, instanceDeclaredFields)",
+"2" :  "(50,53, instanceDeclaredFields)"}]
+}

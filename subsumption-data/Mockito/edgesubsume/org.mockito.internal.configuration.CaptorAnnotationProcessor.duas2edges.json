@@ -1,0 +1,8 @@
+{
+"Class" : "org.mockito.internal.configuration.CaptorAnnotationProcessor", 
+"Methods" : [{ "Name" : "process" ,
+"Edges" : 4,
+"Duas" : 4,
+"2" : 1, 
+ "3" : 2}]
+}

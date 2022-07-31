@@ -1,0 +1,10 @@
+{
+"Class" : "org.mockito.internal.runners.RunnerFactory", 
+"Methods" : [{ "Name" : "create" ,
+"Edges" : 4,
+"Duas" : 10,
+"0" : 0, 
+ "1" : 1, 
+ "6" : 0, 
+ "7" : 1}]
+}

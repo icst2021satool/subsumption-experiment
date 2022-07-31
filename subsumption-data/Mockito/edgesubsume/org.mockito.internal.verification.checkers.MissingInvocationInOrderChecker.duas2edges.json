@@ -1,0 +1,16 @@
+{
+"Class" : "org.mockito.internal.verification.checkers.MissingInvocationInOrderChecker", 
+"Methods" : [{ "Name" : "check" ,
+"Edges" : 16,
+"Duas" : 36,
+"22" : 2, 
+ "23" : 3, 
+ "24" : 10, 
+ "25" : 11, 
+ "27" : 13, 
+ "28" : 14, 
+ "29" : 8, 
+ "30" : 9, 
+ "31" : 6, 
+ "32" : 7}]
+}

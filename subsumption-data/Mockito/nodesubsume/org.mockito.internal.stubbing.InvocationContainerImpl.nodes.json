@@ -1,0 +1,54 @@
+{
+"Class" : "org.mockito.internal.stubbing.InvocationContainerImpl", 
+"Methods" : [{ "Name" : "addAnswer" ,
+"Nodes" : 5,
+"0" : [ 64,58,59,60,61,63 ]
+"1" : [ 67 ]
+"2" : [ 69,70 ]
+"3" : [ 65 ]
+"4" : [  ]
+},{ "Name" : "findAnswerFor" ,
+"Nodes" : 7,
+"0" : [ 77,78 ]
+"1" : [ 78 ]
+"2" : [ 85,87 ]
+"3" : [ 78,79 ]
+"4" : [ 84 ]
+"5" : [ 80,81,82 ]
+"6" : [  ]
+},{ "Name" : "hasAnswersForStubbing" ,
+"Nodes" : 5,
+"0" : [ 99 ]
+"1" : [ 99 ]
+"2" : [ 99 ]
+"3" : [ 99 ]
+"4" : [  ]
+},{ "Name" : "hasInvocationForPotentialStubbing" ,
+"Nodes" : 5,
+"0" : [ 103 ]
+"1" : [ 103 ]
+"2" : [ 103 ]
+"3" : [ 103 ]
+"4" : [  ]
+},{ "Name" : "setMethodForStubbing" ,
+"Nodes" : 11,
+"0" : [ 107,108 ]
+"1" : [ 109 ]
+"2" : [ 109 ]
+"3" : [ 112,113 ]
+"4" : [ 110 ]
+"5" : [ 110 ]
+"6" : [ 109,110 ]
+"7" : [ 110 ]
+"8" : [ 108 ]
+"9" : [ 108 ]
+"10" : [  ]
+},{ "Name" : "createRegisteredInvocations" ,
+"Nodes" : 5,
+"0" : [ 137 ]
+"1" : [ 137 ]
+"2" : [ 137 ]
+"3" : [ 137 ]
+"4" : [  ]
+}]
+}

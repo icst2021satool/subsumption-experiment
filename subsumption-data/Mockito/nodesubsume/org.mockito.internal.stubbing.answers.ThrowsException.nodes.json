@@ -1,0 +1,10 @@
+{
+"Class" : "org.mockito.internal.stubbing.answers.ThrowsException", 
+"Methods" : [{ "Name" : "answer" ,
+"Nodes" : 4,
+"0" : [ 25 ]
+"1" : [ 28,29,30 ]
+"2" : [ 26 ]
+"3" : [  ]
+}]
+}

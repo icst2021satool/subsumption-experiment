@@ -1,0 +1,14 @@
+{
+"Class" : "org.mockito.internal.util.reflection.BeanPropertySetter", 
+"Methods" : [{ "Name" : "set" ,
+"Edges" : 4,
+"Duas" : 4,
+"1" : 0, 
+ "2" : 1},{ "Name" : "reportNoSetterFound" ,
+"Edges" : 4,
+"Duas" : 7,
+"0" : 2, 
+ "1" : 3, 
+ "3" : 2, 
+ "4" : 3}]
+}

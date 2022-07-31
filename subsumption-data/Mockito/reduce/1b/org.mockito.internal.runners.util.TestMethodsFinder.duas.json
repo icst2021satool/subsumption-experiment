@@ -1,0 +1,7 @@
+{
+"Class" : "org.mockito.internal.runners.util.TestMethodsFinder", 
+"Methods" : [{ "Name" : "hasTestMethods" ,
+"Duas" : 2,
+"0" :  "(14,(15,16), m)",
+"1" :  "(14,(15,14), m)"}]
+}

@@ -1,0 +1,2009 @@
+@@ Method, Nodes, Nduas, Time_s, Time_ms
+
+
+#org/mockito/MockitoAnnotations/initMocks:
+Method org.mockito.MockitoAnnotations.initMocks graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.MockitoAnnotations.initMocks,7,15,0,10
+
+
+#org/mockito/MockitoAnnotations/scanDeprecatedWay:
+Method org.mockito.MockitoAnnotations.scanDeprecatedWay graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.MockitoAnnotations.scanDeprecatedWay,5,2,0,1
+
+
+#org/mockito/MockitoAnnotations/processAnnotationDeprecatedWay:
+Method org.mockito.MockitoAnnotations.processAnnotationDeprecatedWay graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.MockitoAnnotations.processAnnotationDeprecatedWay,7,9,0,4
+
+
+#org/mockito/MockitoAnnotations/throwIfAlreadyAssigned:
+Method org.mockito.MockitoAnnotations.throwIfAlreadyAssigned graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.MockitoAnnotations.throwIfAlreadyAssigned,4,3,0,0
+
+
+#org/mockito/internal/MockitoCore/mock:
+Method org.mockito.internal.MockitoCore.mock graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.MockitoCore.mock,4,8,0,1
+
+
+#org/mockito/internal/MockitoCore/stub:
+Method org.mockito.internal.MockitoCore.stub graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.MockitoCore.stub,4,6,0,2
+
+
+#org/mockito/internal/MockitoCore/verify:
+Method org.mockito.internal.MockitoCore.verify graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.MockitoCore.verify,6,17,0,2
+
+
+#org/mockito/internal/MockitoCore/reset:
+Method org.mockito.internal.MockitoCore.reset graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.MockitoCore.reset,5,2,0,0
+
+
+#org/mockito/internal/MockitoCore/verifyNoMoreInteractions:
+Method org.mockito.internal.MockitoCore.verifyNoMoreInteractions graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.MockitoCore.verifyNoMoreInteractions,7,7,0,1
+
+
+#org/mockito/internal/MockitoCore/assertMocksNotEmpty:
+Method org.mockito.internal.MockitoCore.assertMocksNotEmpty graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.MockitoCore.assertMocksNotEmpty,5,6,0,1
+
+
+#org/mockito/internal/MockitoCore/inOrder:
+Method org.mockito.internal.MockitoCore.inOrder graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.MockitoCore.inOrder,12,20,0,7
+
+
+#org/mockito/internal/MockitoCore/ignoreStubs:
+Method org.mockito.internal.MockitoCore.ignoreStubs graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.MockitoCore.ignoreStubs,10,4,0,1
+
+
+#org/mockito/internal/InOrderImpl/verify:
+Method org.mockito.internal.InOrderImpl.verify graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.InOrderImpl.verify,6,15,0,2
+
+
+#org/mockito/internal/invocation/InvocationsFinder$RemoveUnverifiedInOrder/isOut:
+Method org.mockito.internal.invocation.InvocationsFinder$RemoveUnverifiedInOrder.isOut graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.invocation.InvocationsFinder$RemoveUnverifiedInOrder.isOut,5,6,0,1
+
+
+#org/mockito/internal/invocation/SerializableMethod/<init>:
+Method org.mockito.internal.invocation.SerializableMethod.<init> graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.invocation.SerializableMethod.<init>,5,3,0,1
+
+
+#org/mockito/internal/invocation/SerializableMethod/equals:
+Method org.mockito.internal.invocation.SerializableMethod.equals graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.invocation.SerializableMethod.equals,25,67,0,15
+
+
+#org/mockito/internal/invocation/ArgumentsProcessor/expandVarArgs:
+Method org.mockito.internal.invocation.ArgumentsProcessor.expandVarArgs graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.invocation.ArgumentsProcessor.expandVarArgs,13,22,0,3
+
+
+#org/mockito/internal/invocation/ArgumentsProcessor/argumentsToMatchers:
+Method org.mockito.internal.invocation.ArgumentsProcessor.argumentsToMatchers graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.invocation.ArgumentsProcessor.argumentsToMatchers,9,9,0,3
+
+
+#org/mockito/internal/invocation/InvocationsFinder/findMatchingChunk:
+Method org.mockito.internal.invocation.InvocationsFinder.findMatchingChunk graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.invocation.InvocationsFinder.findMatchingChunk,4,9,0,0
+
+
+#org/mockito/internal/invocation/InvocationsFinder/getFirstMatchingChunk:
+Method org.mockito.internal.invocation.InvocationsFinder.getFirstMatchingChunk graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.invocation.InvocationsFinder.getFirstMatchingChunk,9,9,0,1
+
+
+#org/mockito/internal/invocation/InvocationsFinder/findFirstMatchingUnverifiedInvocation:
+Method org.mockito.internal.invocation.InvocationsFinder.findFirstMatchingUnverifiedInvocation graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.invocation.InvocationsFinder.findFirstMatchingUnverifiedInvocation,7,5,0,0
+
+
+#org/mockito/internal/invocation/InvocationsFinder/findSimilarInvocation:
+Method org.mockito.internal.invocation.InvocationsFinder.findSimilarInvocation graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.invocation.InvocationsFinder.findSimilarInvocation,11,16,0,3
+
+
+#org/mockito/internal/invocation/InvocationsFinder/findFirstUnverified:
+Method org.mockito.internal.invocation.InvocationsFinder.findFirstUnverified graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.invocation.InvocationsFinder.findFirstUnverified,12,11,0,3
+
+
+#org/mockito/internal/invocation/InvocationsFinder/getLastLocation:
+Method org.mockito.internal.invocation.InvocationsFinder.getLastLocation graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.invocation.InvocationsFinder.getLastLocation,4,3,0,0
+
+
+#org/mockito/internal/invocation/InvocationsFinder/findPreviousVerifiedInOrder:
+Method org.mockito.internal.invocation.InvocationsFinder.findPreviousVerifiedInOrder graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.invocation.InvocationsFinder.findPreviousVerifiedInOrder,4,3,0,0
+
+
+#org/mockito/internal/invocation/InvocationsFinder/removeVerifiedInOrder:
+Method org.mockito.internal.invocation.InvocationsFinder.removeVerifiedInOrder graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.invocation.InvocationsFinder.removeVerifiedInOrder,8,8,0,1
+
+
+#org/mockito/internal/invocation/InvocationsFinder/findFirstUnverifiedInOrder:
+Method org.mockito.internal.invocation.InvocationsFinder.findFirstUnverifiedInOrder graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.invocation.InvocationsFinder.findFirstUnverifiedInOrder,11,17,0,4
+
+
+#org/mockito/internal/invocation/ArgumentsComparator/argumentsMatch:
+Method org.mockito.internal.invocation.ArgumentsComparator.argumentsMatch graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.invocation.ArgumentsComparator.argumentsMatch,6,12,0,1
+
+
+#org/mockito/internal/invocation/ArgumentsComparator/argumentsMatch:
+Method org.mockito.internal.invocation.ArgumentsComparator.argumentsMatch graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.invocation.ArgumentsComparator.argumentsMatch,9,20,0,2
+
+
+#org/mockito/internal/invocation/ArgumentsComparator/varArgsMatch:
+Method org.mockito.internal.invocation.ArgumentsComparator.varArgsMatch graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.invocation.ArgumentsComparator.varArgsMatch,21,63,0,19
+
+
+#org/mockito/internal/invocation/MatchersBinder/validateMatchers:
+Method org.mockito.internal.invocation.MatchersBinder.validateMatchers graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.invocation.MatchersBinder.validateMatchers,5,10,0,1
+
+
+#org/mockito/internal/invocation/InvocationImpl/isVerified:
+Method org.mockito.internal.invocation.InvocationImpl.isVerified graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.invocation.InvocationImpl.isVerified,6,8,0,0
+
+
+#org/mockito/internal/invocation/InvocationImpl/equals:
+Method org.mockito.internal.invocation.InvocationImpl.equals graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.invocation.InvocationImpl.equals,10,29,0,1
+
+
+#org/mockito/internal/invocation/InvocationImpl/callRealMethod:
+Method org.mockito.internal.invocation.InvocationImpl.callRealMethod graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.invocation.InvocationImpl.callRealMethod,4,8,0,0
+
+
+#org/mockito/internal/invocation/InvocationMarker/markVerified:
+Method org.mockito.internal.invocation.InvocationMarker.markVerified graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.invocation.InvocationMarker.markVerified,5,2,0,0
+
+
+#org/mockito/internal/invocation/InvocationMarker/markVerifiedInOrder:
+Method org.mockito.internal.invocation.InvocationMarker.markVerifiedInOrder graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.invocation.InvocationMarker.markVerifiedInOrder,5,1,0,0
+
+
+#org/mockito/internal/invocation/InvocationsFinder$RemoveNotMatching/isOut:
+Method org.mockito.internal.invocation.InvocationsFinder$RemoveNotMatching.isOut graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.invocation.InvocationsFinder$RemoveNotMatching.isOut,5,6,0,0
+
+
+#org/mockito/internal/invocation/UnusedStubsFinder/find:
+Method org.mockito.internal.invocation.UnusedStubsFinder.find graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.invocation.UnusedStubsFinder.find,10,5,0,1
+
+
+#org/mockito/internal/invocation/InvocationMatcher/<init>:
+Method org.mockito.internal.invocation.InvocationMatcher.<init> graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.invocation.InvocationMatcher.<init>,5,6,0,0
+
+
+#org/mockito/internal/invocation/InvocationMatcher/matches:
+Method org.mockito.internal.invocation.InvocationMatcher.matches graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.invocation.InvocationMatcher.matches,7,14,0,1
+
+
+#org/mockito/internal/invocation/InvocationMatcher/hasSimilarMethod:
+Method org.mockito.internal.invocation.InvocationMatcher.hasSimilarMethod graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.invocation.InvocationMatcher.hasSimilarMethod,19,22,0,2
+
+
+#org/mockito/internal/invocation/InvocationMatcher/hasSameMethod:
+Method org.mockito.internal.invocation.InvocationMatcher.hasSameMethod graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.invocation.InvocationMatcher.hasSameMethod,11,28,0,1
+
+
+#org/mockito/internal/invocation/InvocationMatcher/captureArgumentsFrom:
+Method org.mockito.internal.invocation.InvocationMatcher.captureArgumentsFrom graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.invocation.InvocationMatcher.captureArgumentsFrom,9,23,0,2
+
+
+#org/mockito/internal/invocation/InvocationMatcher/isVarargMatcher:
+Method org.mockito.internal.invocation.InvocationMatcher.isVarargMatcher graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.invocation.InvocationMatcher.isVarargMatcher,4,5,0,0
+
+
+#org/mockito/internal/invocation/InvocationMatcher/isVariableArgument:
+Method org.mockito.internal.invocation.InvocationMatcher.isVariableArgument graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.invocation.InvocationMatcher.isVariableArgument,8,14,0,1
+
+
+#org/mockito/internal/invocation/InvocationMatcher/createFrom:
+Method org.mockito.internal.invocation.InvocationMatcher.createFrom graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.invocation.InvocationMatcher.createFrom,5,2,0,1
+
+
+#org/mockito/internal/invocation/finder/AllInvocationsFinder/find:
+Method org.mockito.internal.invocation.finder.AllInvocationsFinder.find graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.invocation.finder.AllInvocationsFinder.find,5,2,0,0
+
+
+#org/mockito/internal/handler/InvocationNotifierHandler/notifyMethodCall:
+Method org.mockito.internal.handler.InvocationNotifierHandler.notifyMethodCall graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.handler.InvocationNotifierHandler.notifyMethodCall,5,2,0,0
+
+
+#org/mockito/internal/handler/InvocationNotifierHandler/notifyMethodCallException:
+Method org.mockito.internal.handler.InvocationNotifierHandler.notifyMethodCallException graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.handler.InvocationNotifierHandler.notifyMethodCallException,5,2,0,1
+
+
+#org/mockito/internal/handler/NullResultGuardian/handle:
+Method org.mockito.internal.handler.NullResultGuardian.handle graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.handler.NullResultGuardian.handle,5,6,0,0
+
+
+#org/mockito/internal/handler/MockHandlerImpl/handle:
+Method org.mockito.internal.handler.MockHandlerImpl.handle graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.handler.MockHandlerImpl.handle,10,40,0,2
+
+
+#org/mockito/internal/handler/MockHandlerImpl/createVerificationData:
+Method org.mockito.internal.handler.MockHandlerImpl.createVerificationData graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.handler.MockHandlerImpl.createVerificationData,4,6,0,1
+
+
+#org/mockito/internal/reporting/SmartPrinter/<init>:
+Method org.mockito.internal.reporting.SmartPrinter.<init> graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.reporting.SmartPrinter.<init>,6,9,0,1
+
+
+#org/mockito/internal/reporting/Pluralizer/pluralize:
+Method org.mockito.internal.reporting.Pluralizer.pluralize graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.reporting.Pluralizer.pluralize,5,3,0,1
+
+
+#org/mockito/internal/reporting/PrintSettings/print:
+Method org.mockito.internal.reporting.PrintSettings.print graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.reporting.PrintSettings.print,6,11,0,1
+
+
+#org/mockito/internal/configuration/MockAnnotationProcessor/process:
+Method org.mockito.internal.configuration.MockAnnotationProcessor.process graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.configuration.MockAnnotationProcessor.process,9,16,0,1
+
+
+#org/mockito/internal/configuration/InjectingAnnotationEngine/processInjectMocks:
+Method org.mockito.internal.configuration.InjectingAnnotationEngine.processInjectMocks graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.configuration.InjectingAnnotationEngine.processInjectMocks,5,8,0,0
+
+
+#org/mockito/internal/configuration/InjectingAnnotationEngine/processIndependentAnnotations:
+Method org.mockito.internal.configuration.InjectingAnnotationEngine.processIndependentAnnotations graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.configuration.InjectingAnnotationEngine.processIndependentAnnotations,5,10,0,0
+
+
+#org/mockito/internal/configuration/InjectingAnnotationEngine/injectMocks:
+Method org.mockito.internal.configuration.InjectingAnnotationEngine.injectMocks graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.configuration.InjectingAnnotationEngine.injectMocks,5,12,0,0
+
+
+#org/mockito/internal/configuration/DefaultAnnotationEngine/forAnnotation:
+Method org.mockito.internal.configuration.DefaultAnnotationEngine.forAnnotation graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.configuration.DefaultAnnotationEngine.forAnnotation,4,10,0,0
+
+
+#org/mockito/internal/configuration/DefaultAnnotationEngine/process:
+Method org.mockito.internal.configuration.DefaultAnnotationEngine.process graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.configuration.DefaultAnnotationEngine.process,10,10,0,2
+
+
+#org/mockito/internal/configuration/DefaultAnnotationEngine/throwIfAlreadyAssigned:
+Method org.mockito.internal.configuration.DefaultAnnotationEngine.throwIfAlreadyAssigned graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.configuration.DefaultAnnotationEngine.throwIfAlreadyAssigned,4,3,0,0
+
+
+#org/mockito/internal/configuration/GlobalConfiguration/<init>:
+Method org.mockito.internal.configuration.GlobalConfiguration.<init> graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.configuration.GlobalConfiguration.<init>,4,4,0,1
+
+
+#org/mockito/internal/configuration/GlobalConfiguration/createConfig:
+Method org.mockito.internal.configuration.GlobalConfiguration.createConfig graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.configuration.GlobalConfiguration.createConfig,4,4,0,0
+
+
+#org/mockito/internal/configuration/CaptorAnnotationProcessor/process:
+Method org.mockito.internal.configuration.CaptorAnnotationProcessor.process graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.configuration.CaptorAnnotationProcessor.process,4,4,0,0
+
+
+#org/mockito/internal/configuration/SpyAnnotationEngine/process:
+Method org.mockito.internal.configuration.SpyAnnotationEngine.process graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.configuration.SpyAnnotationEngine.process,13,18,0,4
+
+
+#org/mockito/internal/configuration/SpyAnnotationEngine/assertNotInterface:
+Method org.mockito.internal.configuration.SpyAnnotationEngine.assertNotInterface graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.configuration.SpyAnnotationEngine.assertNotInterface,7,7,0,0
+
+
+#org/mockito/internal/configuration/SpyAnnotationEngine/newSpyInstance:
+Method org.mockito.internal.configuration.SpyAnnotationEngine.newSpyInstance graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.configuration.SpyAnnotationEngine.newSpyInstance,11,26,0,1
+
+
+#org/mockito/internal/configuration/SpyAnnotationEngine/assertNoIncompatibleAnnotations:
+Method org.mockito.internal.configuration.SpyAnnotationEngine.assertNoIncompatibleAnnotations graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.configuration.SpyAnnotationEngine.assertNoIncompatibleAnnotations,7,5,0,1
+
+
+#org/mockito/internal/configuration/plugins/PluginLoader/loadPlugin:
+Method org.mockito.internal.configuration.plugins.PluginLoader.loadPlugin graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.configuration.plugins.PluginLoader.loadPlugin,4,5,0,0
+
+
+#org/mockito/internal/configuration/plugins/PluginLoader/loadImpl:
+Method org.mockito.internal.configuration.plugins.PluginLoader.loadImpl graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.configuration.plugins.PluginLoader.loadImpl,6,13,0,0
+
+
+#org/mockito/internal/configuration/plugins/PluginFinder/findPluginClass:
+Method org.mockito.internal.configuration.plugins.PluginFinder.findPluginClass graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.configuration.plugins.PluginFinder.findPluginClass,9,12,0,1
+
+
+#org/mockito/internal/configuration/plugins/PluginFileReader/readPluginClass:
+Method org.mockito.internal.configuration.plugins.PluginFileReader.readPluginClass graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.configuration.plugins.PluginFileReader.readPluginClass,7,3,0,0
+
+
+#org/mockito/internal/configuration/plugins/PluginFileReader/stripCommentAndWhitespace:
+Method org.mockito.internal.configuration.plugins.PluginFileReader.stripCommentAndWhitespace graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.configuration.plugins.PluginFileReader.stripCommentAndWhitespace,4,6,0,0
+
+
+#org/mockito/internal/configuration/injection/PropertyAndSetterInjection/processInjection:
+Method org.mockito.internal.configuration.injection.PropertyAndSetterInjection.processInjection graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.configuration.injection.PropertyAndSetterInjection.processInjection,5,13,0,1
+
+
+#org/mockito/internal/configuration/injection/PropertyAndSetterInjection/injectMockCandidatesOnFields:
+Method org.mockito.internal.configuration.injection.PropertyAndSetterInjection.injectMockCandidatesOnFields graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.configuration.injection.PropertyAndSetterInjection.injectMockCandidatesOnFields,7,16,0,1
+
+
+#org/mockito/internal/configuration/injection/MockInjection$OngoingMockInjection/apply:
+Method org.mockito.internal.configuration.injection.MockInjection$OngoingMockInjection.apply graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.configuration.injection.MockInjection$OngoingMockInjection.apply,5,5,0,1
+
+
+#org/mockito/internal/configuration/injection/SpyOnInjectedFieldsHandler/processInjection:
+Method org.mockito.internal.configuration.injection.SpyOnInjectedFieldsHandler.processInjection graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.configuration.injection.SpyOnInjectedFieldsHandler.processInjection,8,12,0,1
+
+
+#org/mockito/internal/configuration/injection/MockInjectionStrategy/thenTry:
+Method org.mockito.internal.configuration.injection.MockInjectionStrategy.thenTry graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.configuration.injection.MockInjectionStrategy.thenTry,5,10,0,0
+
+
+#org/mockito/internal/configuration/injection/MockInjectionStrategy/process:
+Method org.mockito.internal.configuration.injection.MockInjectionStrategy.process graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.configuration.injection.MockInjectionStrategy.process,4,12,0,0
+
+
+#org/mockito/internal/configuration/injection/MockInjectionStrategy/relayProcessToNextStrategy:
+Method org.mockito.internal.configuration.injection.MockInjectionStrategy.relayProcessToNextStrategy graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.configuration.injection.MockInjectionStrategy.relayProcessToNextStrategy,6,14,0,0
+
+
+#org/mockito/internal/configuration/injection/ConstructorInjection$SimpleArgumentResolver/resolveTypeInstances:
+Method org.mockito.internal.configuration.injection.ConstructorInjection$SimpleArgumentResolver.resolveTypeInstances graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.configuration.injection.ConstructorInjection$SimpleArgumentResolver.resolveTypeInstances,5,3,0,1
+
+
+#org/mockito/internal/configuration/injection/ConstructorInjection$SimpleArgumentResolver/objectThatIsAssignableFrom:
+Method org.mockito.internal.configuration.injection.ConstructorInjection$SimpleArgumentResolver.objectThatIsAssignableFrom graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.configuration.injection.ConstructorInjection$SimpleArgumentResolver.objectThatIsAssignableFrom,7,5,0,1
+
+
+#org/mockito/internal/configuration/injection/PropertyAndSetterInjection$1/isOut:
+Method org.mockito.internal.configuration.injection.PropertyAndSetterInjection$1.isOut graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.configuration.injection.PropertyAndSetterInjection$1.isOut,6,4,0,0
+
+
+#org/mockito/internal/configuration/injection/filter/NameBasedCandidateFilter/filterCandidate:
+Method org.mockito.internal.configuration.injection.filter.NameBasedCandidateFilter.filterCandidate graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.configuration.injection.filter.NameBasedCandidateFilter.filterCandidate,9,23,0,1
+
+
+#org/mockito/internal/configuration/injection/filter/TypeBasedCandidateFilter/filterCandidate:
+Method org.mockito.internal.configuration.injection.filter.TypeBasedCandidateFilter.filterCandidate graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.configuration.injection.filter.TypeBasedCandidateFilter.filterCandidate,7,11,0,0
+
+
+#org/mockito/internal/configuration/injection/filter/FinalMockCandidateFilter/filterCandidate:
+Method org.mockito.internal.configuration.injection.filter.FinalMockCandidateFilter.filterCandidate graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.configuration.injection.filter.FinalMockCandidateFilter.filterCandidate,4,7,0,0
+
+
+#org/mockito/internal/configuration/injection/filter/FinalMockCandidateFilter$1/thenInject:
+Method org.mockito.internal.configuration.injection.filter.FinalMockCandidateFilter$1.thenInject graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.configuration.injection.filter.FinalMockCandidateFilter$1.thenInject,4,10,0,1
+
+
+#org/mockito/internal/configuration/injection/scanner/MockScanner/scan:
+Method org.mockito.internal.configuration.injection.scanner.MockScanner.scan graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.configuration.injection.scanner.MockScanner.scan,7,7,0,0
+
+
+#org/mockito/internal/configuration/injection/scanner/MockScanner/preparedMock:
+Method org.mockito.internal.configuration.injection.scanner.MockScanner.preparedMock graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.configuration.injection.scanner.MockScanner.preparedMock,6,13,0,0
+
+
+#org/mockito/internal/configuration/injection/scanner/MockScanner/isAnnotatedByMockOrSpy:
+Method org.mockito.internal.configuration.injection.scanner.MockScanner.isAnnotatedByMockOrSpy graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.configuration.injection.scanner.MockScanner.isAnnotatedByMockOrSpy,7,6,0,0
+
+
+#org/mockito/internal/configuration/injection/scanner/MockScanner/isMockOrSpy:
+Method org.mockito.internal.configuration.injection.scanner.MockScanner.isMockOrSpy graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.configuration.injection.scanner.MockScanner.isMockOrSpy,6,12,0,1
+
+
+#org/mockito/internal/configuration/injection/scanner/InjectMocksScanner/scan:
+Method org.mockito.internal.configuration.injection.scanner.InjectMocksScanner.scan graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.configuration.injection.scanner.InjectMocksScanner.scan,7,6,0,1
+
+
+#org/mockito/internal/configuration/injection/scanner/InjectMocksScanner/assertNoAnnotations:
+Method org.mockito.internal.configuration.injection.scanner.InjectMocksScanner.assertNoAnnotations graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.configuration.injection.scanner.InjectMocksScanner.assertNoAnnotations,7,5,0,0
+
+
+#org/mockito/internal/progress/ThreadSafeMockingProgress/threadSafely:
+Method org.mockito.internal.progress.ThreadSafeMockingProgress.threadSafely graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.progress.ThreadSafeMockingProgress.threadSafely,4,4,0,0
+
+
+#org/mockito/internal/progress/ArgumentMatcherStorageImpl/pullLocalizedMatchers:
+Method org.mockito.internal.progress.ArgumentMatcherStorageImpl.pullLocalizedMatchers graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.progress.ArgumentMatcherStorageImpl.pullLocalizedMatchers,4,6,0,0
+
+
+#org/mockito/internal/progress/ArgumentMatcherStorageImpl/popLastArgumentMatchers:
+Method org.mockito.internal.progress.ArgumentMatcherStorageImpl.popLastArgumentMatchers graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.progress.ArgumentMatcherStorageImpl.popLastArgumentMatchers,5,11,0,0
+
+
+#org/mockito/internal/progress/ArgumentMatcherStorageImpl/assertMatchersFoundFor:
+Method org.mockito.internal.progress.ArgumentMatcherStorageImpl.assertMatchersFoundFor graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.progress.ArgumentMatcherStorageImpl.assertMatchersFoundFor,4,7,0,1
+
+
+#org/mockito/internal/progress/ArgumentMatcherStorageImpl/assertIncorrectUseOfAdditionalMatchers:
+Method org.mockito.internal.progress.ArgumentMatcherStorageImpl.assertIncorrectUseOfAdditionalMatchers graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.progress.ArgumentMatcherStorageImpl.assertIncorrectUseOfAdditionalMatchers,4,10,0,4
+
+
+#org/mockito/internal/progress/ArgumentMatcherStorageImpl/validateState:
+Method org.mockito.internal.progress.ArgumentMatcherStorageImpl.validateState graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.progress.ArgumentMatcherStorageImpl.validateState,4,6,0,0
+
+
+#org/mockito/internal/progress/MockingProgressImpl/pullVerificationMode:
+Method org.mockito.internal.progress.MockingProgressImpl.pullVerificationMode graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.progress.MockingProgressImpl.pullVerificationMode,4,6,0,0
+
+
+#org/mockito/internal/progress/MockingProgressImpl/validateState:
+Method org.mockito.internal.progress.MockingProgressImpl.validateState graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.progress.MockingProgressImpl.validateState,4,7,0,0
+
+
+#org/mockito/internal/progress/MockingProgressImpl/validateMostStuff:
+Method org.mockito.internal.progress.MockingProgressImpl.validateMostStuff graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.progress.MockingProgressImpl.validateMostStuff,4,8,0,0
+
+
+#org/mockito/internal/progress/MockingProgressImpl/mockingStarted:
+Method org.mockito.internal.progress.MockingProgressImpl.mockingStarted graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.progress.MockingProgressImpl.mockingStarted,4,9,0,0
+
+
+#org/mockito/internal/progress/HandyReturnValues/returnFor:
+Method org.mockito.internal.progress.HandyReturnValues.returnFor graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.progress.HandyReturnValues.returnFor,4,3,0,0
+
+
+#org/mockito/internal/progress/HandyReturnValues/returnFor:
+Method org.mockito.internal.progress.HandyReturnValues.returnFor graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.progress.HandyReturnValues.returnFor,5,4,0,0
+
+
+#org/mockito/internal/util/Decamelizer/decamelizeMatcher:
+Method org.mockito.internal.util.Decamelizer.decamelizeMatcher graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.util.Decamelizer.decamelizeMatcher,6,7,0,0
+
+
+#org/mockito/internal/util/Decamelizer/decamelizeClassName:
+Method org.mockito.internal.util.Decamelizer.decamelizeClassName graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.util.Decamelizer.decamelizeClassName,7,9,0,0
+
+
+#org/mockito/internal/util/MockUtil/isTypeMockable:
+Method org.mockito.internal.util.MockUtil.isTypeMockable graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.util.MockUtil.isTypeMockable,6,4,0,0
+
+
+#org/mockito/internal/util/MockUtil/createMock:
+Method org.mockito.internal.util.MockUtil.createMock graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.util.MockUtil.createMock,4,5,0,1
+
+
+#org/mockito/internal/util/MockUtil/getMockHandler:
+Method org.mockito.internal.util.MockUtil.getMockHandler graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.util.MockUtil.getMockHandler,6,9,0,0
+
+
+#org/mockito/internal/util/MockUtil/isSpy:
+Method org.mockito.internal.util.MockUtil.isSpy graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.util.MockUtil.isSpy,6,10,0,1
+
+
+#org/mockito/internal/util/MockUtil/isMockitoMock:
+Method org.mockito.internal.util.MockUtil.isMockitoMock graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.util.MockUtil.isMockitoMock,5,4,0,0
+
+
+#org/mockito/internal/util/MockUtil/maybeRedefineMockName:
+Method org.mockito.internal.util.MockUtil.maybeRedefineMockName graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.util.MockUtil.maybeRedefineMockName,5,9,0,0
+
+
+#org/mockito/internal/util/MockCreationValidator/validateType:
+Method org.mockito.internal.util.MockCreationValidator.validateType graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.util.MockCreationValidator.validateType,4,7,0,1
+
+
+#org/mockito/internal/util/MockCreationValidator/validateExtraInterfaces:
+Method org.mockito.internal.util.MockCreationValidator.validateExtraInterfaces graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.util.MockCreationValidator.validateExtraInterfaces,9,8,0,1
+
+
+#org/mockito/internal/util/MockCreationValidator/validateMockedType:
+Method org.mockito.internal.util.MockCreationValidator.validateMockedType graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.util.MockCreationValidator.validateMockedType,7,10,0,0
+
+
+#org/mockito/internal/util/MockCreationValidator/validateDelegatedInstance:
+Method org.mockito.internal.util.MockCreationValidator.validateDelegatedInstance graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.util.MockCreationValidator.validateDelegatedInstance,7,10,0,0
+
+
+#org/mockito/internal/util/MockCreationValidator/validateSerializable:
+Method org.mockito.internal.util.MockCreationValidator.validateSerializable graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.util.MockCreationValidator.validateSerializable,7,9,0,1
+
+
+#org/mockito/internal/util/MockCreationValidator/validateConstructorUse:
+Method org.mockito.internal.util.MockCreationValidator.validateConstructorUse graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.util.MockCreationValidator.validateConstructorUse,5,7,0,1
+
+
+#org/mockito/internal/util/Checks/checkNotNull:
+Method org.mockito.internal.util.Checks.checkNotNull graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.util.Checks.checkNotNull,4,4,0,0
+
+
+#org/mockito/internal/util/Checks/checkItemsNotNull:
+Method org.mockito.internal.util.Checks.checkItemsNotNull graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.util.Checks.checkItemsNotNull,5,2,0,0
+
+
+#org/mockito/internal/util/StringJoiner/join:
+Method org.mockito.internal.util.StringJoiner.join graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.util.StringJoiner.join,5,2,0,0
+
+
+#org/mockito/internal/util/Timer/isCounting:
+Method org.mockito.internal.util.Timer.isCounting graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.util.Timer.isCounting,8,12,0,1
+
+
+#org/mockito/internal/util/Timer/validateInput:
+Method org.mockito.internal.util.Timer.validateInput graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.util.Timer.validateInput,4,3,0,0
+
+
+#org/mockito/internal/util/Primitives/primitiveTypeOf:
+Method org.mockito.internal.util.Primitives.primitiveTypeOf graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.util.Primitives.primitiveTypeOf,4,5,0,1
+
+
+#org/mockito/internal/util/ObjectMethodsGuru/isToString:
+Method org.mockito.internal.util.ObjectMethodsGuru.isToString graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.util.ObjectMethodsGuru.isToString,7,6,0,0
+
+
+#org/mockito/internal/util/ObjectMethodsGuru/isEqualsMethod:
+Method org.mockito.internal.util.ObjectMethodsGuru.isEqualsMethod graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.util.ObjectMethodsGuru.isEqualsMethod,7,6,0,1
+
+
+#org/mockito/internal/util/ObjectMethodsGuru/isHashCodeMethod:
+Method org.mockito.internal.util.ObjectMethodsGuru.isHashCodeMethod graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.util.ObjectMethodsGuru.isHashCodeMethod,6,4,0,1
+
+
+#org/mockito/internal/util/ObjectMethodsGuru/isCompareToMethod:
+Method org.mockito.internal.util.ObjectMethodsGuru.isCompareToMethod graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.util.ObjectMethodsGuru.isCompareToMethod,8,8,0,0
+
+
+#org/mockito/internal/util/MockNameImpl/<init>:
+Method org.mockito.internal.util.MockNameImpl.<init> graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.util.MockNameImpl.<init>,5,6,0,0
+
+
+#org/mockito/internal/util/MockNameImpl/toInstanceName:
+Method org.mockito.internal.util.MockNameImpl.toInstanceName graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.util.MockNameImpl.toInstanceName,4,5,0,0
+
+
+#org/mockito/internal/util/junit/JUnitFailureHacker/appendWarnings:
+Method org.mockito.internal.util.junit.JUnitFailureHacker.appendWarnings graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.util.junit.JUnitFailureHacker.appendWarnings,4,6,0,0
+
+
+#org/mockito/internal/util/junit/JUnitFailureHacker/isEmpty:
+Method org.mockito.internal.util.junit.JUnitFailureHacker.isEmpty graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.util.junit.JUnitFailureHacker.isEmpty,6,4,0,0
+
+
+#org/mockito/internal/util/io/IOUtil/readLines:
+Method org.mockito.internal.util.io.IOUtil.readLines graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.util.io.IOUtil.readLines,5,6,0,1
+
+
+#org/mockito/internal/util/io/IOUtil/close:
+Method org.mockito.internal.util.io.IOUtil.close graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.util.io.IOUtil.close,4,3,0,0
+
+
+#org/mockito/internal/util/collections/ArrayUtils/isEmpty:
+Method org.mockito.internal.util.collections.ArrayUtils.isEmpty graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.util.collections.ArrayUtils.isEmpty,6,4,0,0
+
+
+#org/mockito/internal/util/collections/IdentitySet/contains:
+Method org.mockito.internal.util.collections.IdentitySet.contains graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.util.collections.IdentitySet.contains,7,4,0,1
+
+
+#org/mockito/internal/util/collections/HashCodeAndEqualsSafeSet/equals:
+Method org.mockito.internal.util.collections.HashCodeAndEqualsSafeSet.equals graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.util.collections.HashCodeAndEqualsSafeSet.equals,4,5,0,0
+
+
+#org/mockito/internal/util/collections/HashCodeAndEqualsSafeSet/unwrapTo:
+Method org.mockito.internal.util.collections.HashCodeAndEqualsSafeSet.unwrapTo graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.util.collections.HashCodeAndEqualsSafeSet.unwrapTo,7,15,0,1
+
+
+#org/mockito/internal/util/collections/HashCodeAndEqualsSafeSet/toArray:
+Method org.mockito.internal.util.collections.HashCodeAndEqualsSafeSet.toArray graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.util.collections.HashCodeAndEqualsSafeSet.toArray,5,6,0,1
+
+
+#org/mockito/internal/util/collections/HashCodeAndEqualsSafeSet/asWrappedMocks:
+Method org.mockito.internal.util.collections.HashCodeAndEqualsSafeSet.asWrappedMocks graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.util.collections.HashCodeAndEqualsSafeSet.asWrappedMocks,8,7,0,0
+
+
+#org/mockito/internal/util/collections/HashCodeAndEqualsSafeSet/of:
+Method org.mockito.internal.util.collections.HashCodeAndEqualsSafeSet.of graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.util.collections.HashCodeAndEqualsSafeSet.of,6,5,0,0
+
+
+#org/mockito/internal/util/collections/ListUtil/filter:
+Method org.mockito.internal.util.collections.ListUtil.filter graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.util.collections.ListUtil.filter,7,7,0,0
+
+
+#org/mockito/internal/util/collections/Sets/newSet:
+Method org.mockito.internal.util.collections.Sets.newSet graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.util.collections.Sets.newSet,4,3,0,0
+
+
+#org/mockito/internal/util/collections/Iterables/toIterable:
+Method org.mockito.internal.util.collections.Iterables.toIterable graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.util.collections.Iterables.toIterable,5,5,0,0
+
+
+#org/mockito/internal/util/collections/HashCodeAndEqualsMockWrapper/equals:
+Method org.mockito.internal.util.collections.HashCodeAndEqualsMockWrapper.equals graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.util.collections.HashCodeAndEqualsMockWrapper.equals,9,15,0,0
+
+
+#org/mockito/internal/util/collections/HashCodeAndEqualsMockWrapper/toString:
+Method org.mockito.internal.util.collections.HashCodeAndEqualsMockWrapper.toString graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.util.collections.HashCodeAndEqualsMockWrapper.toString,5,7,0,1
+
+
+#org/mockito/internal/util/reflection/FieldInitializer$NoArgConstructorInstantiator/instantiate:
+Method org.mockito.internal.util.reflection.FieldInitializer$NoArgConstructorInstantiator.instantiate graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.util.reflection.FieldInitializer$NoArgConstructorInstantiator.instantiate,4,4,0,0
+
+
+#org/mockito/internal/util/reflection/Fields/allDeclaredFieldsOf:
+Method org.mockito.internal.util.reflection.Fields.allDeclaredFieldsOf graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.util.reflection.Fields.allDeclaredFieldsOf,5,10,0,0
+
+
+#org/mockito/internal/util/reflection/Fields/instanceFieldsIn:
+Method org.mockito.internal.util.reflection.Fields.instanceFieldsIn graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.util.reflection.Fields.instanceFieldsIn,5,3,0,0
+
+
+#org/mockito/internal/util/reflection/GenericMetadataSupport/registerTypeVariablesOn:
+Method org.mockito.internal.util.reflection.GenericMetadataSupport.registerTypeVariablesOn graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.util.reflection.GenericMetadataSupport.registerTypeVariablesOn,11,29,0,3
+
+
+#org/mockito/internal/util/reflection/GenericMetadataSupport/registerTypeParametersOn:
+Method org.mockito.internal.util.reflection.GenericMetadataSupport.registerTypeParametersOn graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.util.reflection.GenericMetadataSupport.registerTypeParametersOn,5,1,0,0
+
+
+#org/mockito/internal/util/reflection/GenericMetadataSupport/registerTypeVariableIfNotPresent:
+Method org.mockito.internal.util.reflection.GenericMetadataSupport.registerTypeVariableIfNotPresent graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.util.reflection.GenericMetadataSupport.registerTypeVariableIfNotPresent,4,9,0,0
+
+
+#org/mockito/internal/util/reflection/GenericMetadataSupport/boundsOf:
+Method org.mockito.internal.util.reflection.GenericMetadataSupport.boundsOf graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.util.reflection.GenericMetadataSupport.boundsOf,4,5,0,0
+
+
+#org/mockito/internal/util/reflection/GenericMetadataSupport/boundsOf:
+Method org.mockito.internal.util.reflection.GenericMetadataSupport.boundsOf graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.util.reflection.GenericMetadataSupport.boundsOf,4,5,0,0
+
+
+#org/mockito/internal/util/reflection/GenericMetadataSupport/hasRawExtraInterfaces:
+Method org.mockito.internal.util.reflection.GenericMetadataSupport.hasRawExtraInterfaces graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.util.reflection.GenericMetadataSupport.hasRawExtraInterfaces,5,2,0,0
+
+
+#org/mockito/internal/util/reflection/GenericMetadataSupport/actualTypeArguments:
+Method org.mockito.internal.util.reflection.GenericMetadataSupport.actualTypeArguments graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.util.reflection.GenericMetadataSupport.actualTypeArguments,5,3,0,0
+
+
+#org/mockito/internal/util/reflection/GenericMetadataSupport/getActualTypeArgumentFor:
+Method org.mockito.internal.util.reflection.GenericMetadataSupport.getActualTypeArgumentFor graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.util.reflection.GenericMetadataSupport.getActualTypeArgumentFor,4,5,0,0
+
+
+#org/mockito/internal/util/reflection/GenericMetadataSupport/resolveGenericReturnType:
+Method org.mockito.internal.util.reflection.GenericMetadataSupport.resolveGenericReturnType graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.util.reflection.GenericMetadataSupport.resolveGenericReturnType,8,14,0,1
+
+
+#org/mockito/internal/util/reflection/GenericMetadataSupport/inferFrom:
+Method org.mockito.internal.util.reflection.GenericMetadataSupport.inferFrom graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.util.reflection.GenericMetadataSupport.inferFrom,6,7,0,0
+
+
+#org/mockito/internal/util/reflection/Fields$1/isOut:
+Method org.mockito.internal.util.reflection.Fields$1.isOut graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.util.reflection.Fields$1.isOut,7,4,0,0
+
+
+#org/mockito/internal/util/reflection/FieldInitializationReport/fieldClass:
+Method org.mockito.internal.util.reflection.FieldInitializationReport.fieldClass graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.util.reflection.FieldInitializationReport.fieldClass,5,6,0,1
+
+
+#org/mockito/internal/util/reflection/InstanceField/reader:
+Method org.mockito.internal.util.reflection.InstanceField.reader graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.util.reflection.InstanceField.reader,4,10,0,0
+
+
+#org/mockito/internal/util/reflection/InstanceField/equals:
+Method org.mockito.internal.util.reflection.InstanceField.equals graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.util.reflection.InstanceField.equals,11,27,0,0
+
+
+#org/mockito/internal/util/reflection/BeanPropertySetter/set:
+Method org.mockito.internal.util.reflection.BeanPropertySetter.set graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.util.reflection.BeanPropertySetter.set,4,4,0,0
+
+
+#org/mockito/internal/util/reflection/BeanPropertySetter/reportNoSetterFound:
+Method org.mockito.internal.util.reflection.BeanPropertySetter.reportNoSetterFound graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.util.reflection.BeanPropertySetter.reportNoSetterFound,4,7,0,0
+
+
+#org/mockito/internal/util/reflection/GenericMetadataSupport$FromClassGenericMetadataSupport/<init>:
+Method org.mockito.internal.util.reflection.GenericMetadataSupport$FromClassGenericMetadataSupport.<init> graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.util.reflection.GenericMetadataSupport$FromClassGenericMetadataSupport.<init>,6,11,0,1
+
+
+#org/mockito/internal/util/reflection/GenericMetadataSupport$FromClassGenericMetadataSupport/superClassOf:
+Method org.mockito.internal.util.reflection.GenericMetadataSupport$FromClassGenericMetadataSupport.superClassOf graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.util.reflection.GenericMetadataSupport$FromClassGenericMetadataSupport.superClassOf,4,4,0,0
+
+
+#org/mockito/internal/util/reflection/GenericMetadataSupport$FromClassGenericMetadataSupport/readActualTypeParametersOnDeclaringClass:
+Method org.mockito.internal.util.reflection.GenericMetadataSupport$FromClassGenericMetadataSupport.readActualTypeParametersOnDeclaringClass graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.util.reflection.GenericMetadataSupport$FromClassGenericMetadataSupport.readActualTypeParametersOnDeclaringClass,5,1,0,0
+
+
+#org/mockito/internal/util/reflection/Whitebox/getFieldFromHierarchy:
+Method org.mockito.internal.util.reflection.Whitebox.getFieldFromHierarchy graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.util.reflection.Whitebox.getFieldFromHierarchy,8,20,0,1
+
+
+#org/mockito/internal/util/reflection/FieldInitializer/<init>:
+Method org.mockito.internal.util.reflection.FieldInitializer.<init> graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.util.reflection.FieldInitializer.<init>,4,6,0,0
+
+
+#org/mockito/internal/util/reflection/FieldInitializer/checkNotLocal:
+Method org.mockito.internal.util.reflection.FieldInitializer.checkNotLocal graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.util.reflection.FieldInitializer.checkNotLocal,4,3,0,1
+
+
+#org/mockito/internal/util/reflection/FieldInitializer/checkNotInner:
+Method org.mockito.internal.util.reflection.FieldInitializer.checkNotInner graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.util.reflection.FieldInitializer.checkNotInner,5,5,0,0
+
+
+#org/mockito/internal/util/reflection/FieldInitializer/checkNotInterface:
+Method org.mockito.internal.util.reflection.FieldInitializer.checkNotInterface graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.util.reflection.FieldInitializer.checkNotInterface,4,3,0,0
+
+
+#org/mockito/internal/util/reflection/FieldInitializer/checkNotAbstract:
+Method org.mockito.internal.util.reflection.FieldInitializer.checkNotAbstract graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.util.reflection.FieldInitializer.checkNotAbstract,4,3,0,0
+
+
+#org/mockito/internal/util/reflection/FieldInitializer/acquireFieldInstance:
+Method org.mockito.internal.util.reflection.FieldInitializer.acquireFieldInstance graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.util.reflection.FieldInitializer.acquireFieldInstance,4,5,0,0
+
+
+#org/mockito/internal/util/reflection/GenericMetadataSupport$WildCardBoundedType/firstBound:
+Method org.mockito.internal.util.reflection.GenericMetadataSupport$WildCardBoundedType.firstBound graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.util.reflection.GenericMetadataSupport$WildCardBoundedType.firstBound,5,4,0,1
+
+
+#org/mockito/internal/util/reflection/GenericMetadataSupport$WildCardBoundedType/equals:
+Method org.mockito.internal.util.reflection.GenericMetadataSupport$WildCardBoundedType.equals graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.util.reflection.GenericMetadataSupport$WildCardBoundedType.equals,7,13,0,1
+
+
+#org/mockito/internal/util/reflection/SuperTypesLastSorter/sort:
+Method org.mockito.internal.util.reflection.SuperTypesLastSorter.sort graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.util.reflection.SuperTypesLastSorter.sort,14,47,0,6
+
+
+#org/mockito/internal/util/reflection/FieldInitializer$ParameterizedConstructorInstantiator$1/compare:
+Method org.mockito.internal.util.reflection.FieldInitializer$ParameterizedConstructorInstantiator$1.compare graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.util.reflection.FieldInitializer$ParameterizedConstructorInstantiator$1.compare,4,6,0,0
+
+
+#org/mockito/internal/util/reflection/FieldInitializer$ParameterizedConstructorInstantiator$1/countMockableParams:
+Method org.mockito.internal.util.reflection.FieldInitializer$ParameterizedConstructorInstantiator$1.countMockableParams graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.util.reflection.FieldInitializer$ParameterizedConstructorInstantiator$1.countMockableParams,7,10,0,0
+
+
+#org/mockito/internal/util/reflection/FieldInitializer$ParameterizedConstructorInstantiator/instantiate:
+Method org.mockito.internal.util.reflection.FieldInitializer$ParameterizedConstructorInstantiator.instantiate graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.util.reflection.FieldInitializer$ParameterizedConstructorInstantiator.instantiate,4,4,0,1
+
+
+#org/mockito/internal/util/reflection/FieldInitializer$ParameterizedConstructorInstantiator/checkParameterized:
+Method org.mockito.internal.util.reflection.FieldInitializer$ParameterizedConstructorInstantiator.checkParameterized graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.util.reflection.FieldInitializer$ParameterizedConstructorInstantiator.checkParameterized,4,3,0,0
+
+
+#org/mockito/internal/util/reflection/GenericMaster/getGenericType:
+Method org.mockito.internal.util.reflection.GenericMaster.getGenericType graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.util.reflection.GenericMaster.getGenericType,7,9,0,0
+
+
+#org/mockito/internal/util/reflection/GenericMetadataSupport$TypeVariableReturnType/readTypeVariables:
+Method org.mockito.internal.util.reflection.GenericMetadataSupport$TypeVariableReturnType.readTypeVariables graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.util.reflection.GenericMetadataSupport$TypeVariableReturnType.readTypeVariables,5,3,0,0
+
+
+#org/mockito/internal/util/reflection/GenericMetadataSupport$TypeVariableReturnType/rawType:
+Method org.mockito.internal.util.reflection.GenericMetadataSupport$TypeVariableReturnType.rawType graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.util.reflection.GenericMetadataSupport$TypeVariableReturnType.rawType,4,9,0,0
+
+
+#org/mockito/internal/util/reflection/GenericMetadataSupport$TypeVariableReturnType/extractRawTypeOf:
+Method org.mockito.internal.util.reflection.GenericMetadataSupport$TypeVariableReturnType.extractRawTypeOf graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.util.reflection.GenericMetadataSupport$TypeVariableReturnType.extractRawTypeOf,10,16,0,0
+
+
+#org/mockito/internal/util/reflection/GenericMetadataSupport$TypeVariableReturnType/extraInterfaces:
+Method org.mockito.internal.util.reflection.GenericMetadataSupport$TypeVariableReturnType.extraInterfaces graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.util.reflection.GenericMetadataSupport$TypeVariableReturnType.extraInterfaces,8,11,0,0
+
+
+#org/mockito/internal/util/reflection/GenericMetadataSupport$TypeVariableReturnType/rawExtraInterfaces:
+Method org.mockito.internal.util.reflection.GenericMetadataSupport$TypeVariableReturnType.rawExtraInterfaces graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.util.reflection.GenericMetadataSupport$TypeVariableReturnType.rawExtraInterfaces,7,8,0,0
+
+
+#org/mockito/internal/util/reflection/GenericMetadataSupport$TypeVariableReturnType/extractActualBoundedTypeOf:
+Method org.mockito.internal.util.reflection.GenericMetadataSupport$TypeVariableReturnType.extractActualBoundedTypeOf graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.util.reflection.GenericMetadataSupport$TypeVariableReturnType.extractActualBoundedTypeOf,8,14,0,0
+
+
+#org/mockito/internal/util/reflection/FieldReader/isNull:
+Method org.mockito.internal.util.reflection.FieldReader.isNull graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.util.reflection.FieldReader.isNull,5,2,0,0
+
+
+#org/mockito/internal/util/reflection/Fields$InstanceFields/assignedValues:
+Method org.mockito.internal.util.reflection.Fields$InstanceFields.assignedValues graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.util.reflection.Fields$InstanceFields.assignedValues,5,2,0,1
+
+
+#org/mockito/internal/util/reflection/Fields$InstanceFields/names:
+Method org.mockito.internal.util.reflection.Fields$InstanceFields.names graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.util.reflection.Fields$InstanceFields.names,5,2,0,0
+
+
+#org/mockito/internal/util/reflection/AccessibilityChanger/safelyDisableAccess:
+Method org.mockito.internal.util.reflection.AccessibilityChanger.safelyDisableAccess graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.util.reflection.AccessibilityChanger.safelyDisableAccess,5,9,0,0
+
+
+#org/mockito/internal/util/reflection/LenientCopyTool/copy:
+Method org.mockito.internal.util.reflection.LenientCopyTool.copy graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.util.reflection.LenientCopyTool.copy,4,6,0,0
+
+
+#org/mockito/internal/util/reflection/LenientCopyTool/copyValues:
+Method org.mockito.internal.util.reflection.LenientCopyTool.copyValues graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.util.reflection.LenientCopyTool.copyValues,8,18,0,2
+
+
+#org/mockito/internal/util/reflection/GenericMetadataSupport$TypeVarBoundedType/equals:
+Method org.mockito.internal.util.reflection.GenericMetadataSupport$TypeVarBoundedType.equals graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.util.reflection.GenericMetadataSupport$TypeVarBoundedType.equals,7,13,0,0
+
+
+#org/mockito/internal/junit/FriendlyExceptionMaker/createArgumentsAreDifferentException:
+Method org.mockito.internal.junit.FriendlyExceptionMaker.createArgumentsAreDifferentException graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.junit.FriendlyExceptionMaker.createArgumentsAreDifferentException,4,8,0,0
+
+
+#org/mockito/internal/debugging/MockitoDebuggerImpl/printInvocations:
+Method org.mockito.internal.debugging.MockitoDebuggerImpl.printInvocations graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.debugging.MockitoDebuggerImpl.printInvocations,12,29,0,3
+
+
+#org/mockito/internal/debugging/WarningsFinder/find:
+Method org.mockito.internal.debugging.WarningsFinder.find graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.debugging.WarningsFinder.find,16,20,0,2
+
+
+#org/mockito/internal/debugging/LoggingListener/foundUnstubbed:
+Method org.mockito.internal.debugging.LoggingListener.foundUnstubbed graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.debugging.LoggingListener.foundUnstubbed,4,7,0,0
+
+
+#org/mockito/internal/debugging/VerboseMockInvocationLogger/printReturnedValueOrThrowable:
+Method org.mockito.internal.debugging.VerboseMockInvocationLogger.printReturnedValueOrThrowable graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.debugging.VerboseMockInvocationLogger.printReturnedValueOrThrowable,11,10,0,0
+
+
+#org/mockito/internal/debugging/VerboseMockInvocationLogger/printStubInfo:
+Method org.mockito.internal.debugging.VerboseMockInvocationLogger.printStubInfo graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.debugging.VerboseMockInvocationLogger.printStubInfo,4,4,0,0
+
+
+#org/mockito/internal/debugging/LocationImpl/toString:
+Method org.mockito.internal.debugging.LocationImpl.toString graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.debugging.LocationImpl.toString,4,3,0,0
+
+
+#org/mockito/internal/exceptions/util/ScenarioPrinter/print:
+Method org.mockito.internal.exceptions.util.ScenarioPrinter.print graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.exceptions.util.ScenarioPrinter.print,9,12,0,0
+
+
+#org/mockito/internal/exceptions/stacktrace/StackTraceFilter/filter:
+Method org.mockito.internal.exceptions.stacktrace.StackTraceFilter.filter graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.exceptions.stacktrace.StackTraceFilter.filter,13,38,0,3
+
+
+#org/mockito/internal/exceptions/stacktrace/ConditionalStackTraceFilter/filter:
+Method org.mockito.internal.exceptions.stacktrace.ConditionalStackTraceFilter.filter graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.exceptions.stacktrace.ConditionalStackTraceFilter.filter,4,7,0,0
+
+
+#org/mockito/internal/exceptions/stacktrace/DefaultStackTraceCleaner/isOut:
+Method org.mockito.internal.exceptions.stacktrace.DefaultStackTraceCleaner.isOut graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.exceptions.stacktrace.DefaultStackTraceCleaner.isOut,9,10,0,0
+
+
+#org/mockito/internal/verification/AtLeast/<init>:
+Method org.mockito.internal.verification.AtLeast.<init> graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.verification.AtLeast.<init>,4,4,0,0
+
+
+#org/mockito/internal/verification/AtLeast/verify:
+Method org.mockito.internal.verification.AtLeast.verify graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.verification.AtLeast.verify,4,10,0,0
+
+
+#org/mockito/internal/verification/AtLeast/verifyInOrder:
+Method org.mockito.internal.verification.AtLeast.verifyInOrder graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.verification.AtLeast.verifyInOrder,4,14,0,0
+
+
+#org/mockito/internal/verification/Times/<init>:
+Method org.mockito.internal.verification.Times.<init> graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.verification.Times.<init>,4,4,0,0
+
+
+#org/mockito/internal/verification/Times/verify:
+Method org.mockito.internal.verification.Times.verify graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.verification.Times.verify,4,8,0,0
+
+
+#org/mockito/internal/verification/Times/verifyInOrder:
+Method org.mockito.internal.verification.Times.verifyInOrder graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.verification.Times.verifyInOrder,4,13,0,1
+
+
+#org/mockito/internal/verification/VerificationOverTimeImpl/verify:
+Method org.mockito.internal.verification.VerificationOverTimeImpl.verify graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.verification.VerificationOverTimeImpl.verify,9,17,0,0
+
+
+#org/mockito/internal/verification/VerificationOverTimeImpl/handleVerifyException:
+Method org.mockito.internal.verification.VerificationOverTimeImpl.handleVerifyException graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.verification.VerificationOverTimeImpl.handleVerifyException,4,8,0,0
+
+
+#org/mockito/internal/verification/VerificationOverTimeImpl/canRecoverFromFailure:
+Method org.mockito.internal.verification.VerificationOverTimeImpl.canRecoverFromFailure graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.verification.VerificationOverTimeImpl.canRecoverFromFailure,6,4,0,0
+
+
+#org/mockito/internal/verification/NoMoreInteractions/verify:
+Method org.mockito.internal.verification.NoMoreInteractions.verify graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.verification.NoMoreInteractions.verify,4,4,0,0
+
+
+#org/mockito/internal/verification/NoMoreInteractions/verifyInOrder:
+Method org.mockito.internal.verification.NoMoreInteractions.verifyInOrder graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.verification.NoMoreInteractions.verifyInOrder,4,3,0,0
+
+
+#org/mockito/internal/verification/VerificationDataImpl/assertWantedIsVerifiable:
+Method org.mockito.internal.verification.VerificationDataImpl.assertWantedIsVerifiable graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.verification.VerificationDataImpl.assertWantedIsVerifiable,6,10,0,0
+
+
+#org/mockito/internal/verification/AtMost/<init>:
+Method org.mockito.internal.verification.AtMost.<init> graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.verification.AtMost.<init>,4,4,0,0
+
+
+#org/mockito/internal/verification/AtMost/verify:
+Method org.mockito.internal.verification.AtMost.verify graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.verification.AtMost.verify,4,13,0,1
+
+
+#org/mockito/internal/verification/Calls/<init>:
+Method org.mockito.internal.verification.Calls.<init> graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.verification.Calls.<init>,4,4,0,0
+
+
+#org/mockito/internal/verification/Only/verify:
+Method org.mockito.internal.verification.Only.verify graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.verification.Only.verify,8,19,0,0
+
+
+#org/mockito/internal/verification/SingleRegisteredInvocation/isEmpty:
+Method org.mockito.internal.verification.SingleRegisteredInvocation.isEmpty graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.verification.SingleRegisteredInvocation.isEmpty,5,4,0,0
+
+
+#org/mockito/internal/verification/DefaultRegisteredInvocations/removeLast:
+Method org.mockito.internal.verification.DefaultRegisteredInvocations.removeLast graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.verification.DefaultRegisteredInvocations.removeLast,4,6,0,0
+
+
+#org/mockito/internal/verification/checkers/NumberOfInvocationsChecker/check:
+Method org.mockito.internal.verification.checkers.NumberOfInvocationsChecker.check graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.verification.checkers.NumberOfInvocationsChecker.check,9,34,0,0
+
+
+#org/mockito/internal/verification/checkers/MissingInvocationChecker/check:
+Method org.mockito.internal.verification.checkers.MissingInvocationChecker.check graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.verification.checkers.MissingInvocationChecker.check,6,16,0,0
+
+
+#org/mockito/internal/verification/checkers/AtLeastXNumberOfInvocationsChecker/check:
+Method org.mockito.internal.verification.checkers.AtLeastXNumberOfInvocationsChecker.check graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.verification.checkers.AtLeastXNumberOfInvocationsChecker.check,4,15,0,0
+
+
+#org/mockito/internal/verification/checkers/AtLeastXNumberOfInvocationsInOrderChecker/check:
+Method org.mockito.internal.verification.checkers.AtLeastXNumberOfInvocationsInOrderChecker.check graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.verification.checkers.AtLeastXNumberOfInvocationsInOrderChecker.check,4,16,0,0
+
+
+#org/mockito/internal/verification/checkers/NumberOfInvocationsInOrderChecker/check:
+Method org.mockito.internal.verification.checkers.NumberOfInvocationsInOrderChecker.check graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.verification.checkers.NumberOfInvocationsInOrderChecker.check,6,26,0,1
+
+
+#org/mockito/internal/verification/checkers/MissingInvocationInOrderChecker/check:
+Method org.mockito.internal.verification.checkers.MissingInvocationInOrderChecker.check graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.verification.checkers.MissingInvocationInOrderChecker.check,12,33,0,1
+
+
+#org/mockito/internal/verification/checkers/NonGreedyNumberOfInvocationsInOrderChecker/check:
+Method org.mockito.internal.verification.checkers.NonGreedyNumberOfInvocationsInOrderChecker.check graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.verification.checkers.NonGreedyNumberOfInvocationsInOrderChecker.check,7,28,0,2
+
+
+#org/mockito/internal/verification/argumentmatching/ArgumentMatchingTool/getSuspiciouslyNotMatchingArgsIndexes:
+Method org.mockito.internal.verification.argumentmatching.ArgumentMatchingTool.getSuspiciouslyNotMatchingArgsIndexes graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.verification.argumentmatching.ArgumentMatchingTool.getSuspiciouslyNotMatchingArgsIndexes,12,41,0,2
+
+
+#org/mockito/internal/verification/argumentmatching/ArgumentMatchingTool/toStringEquals:
+Method org.mockito.internal.verification.argumentmatching.ArgumentMatchingTool.toStringEquals graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.verification.argumentmatching.ArgumentMatchingTool.toStringEquals,5,4,0,0
+
+
+#org/mockito/internal/creation/DelegatingMethod/<init>:
+Method org.mockito.internal.creation.DelegatingMethod.<init> graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.creation.DelegatingMethod.<init>,5,6,0,0
+
+
+#org/mockito/internal/creation/DelegatingMethod/isAbstract:
+Method org.mockito.internal.creation.DelegatingMethod.isAbstract graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.creation.DelegatingMethod.isAbstract,5,4,0,0
+
+
+#org/mockito/internal/creation/DelegatingMethod/equals:
+Method org.mockito.internal.creation.DelegatingMethod.equals graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.creation.DelegatingMethod.equals,6,12,0,0
+
+
+#org/mockito/internal/creation/MockSettingsImpl/extraInterfaces:
+Method org.mockito.internal.creation.MockSettingsImpl.extraInterfaces graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.creation.MockSettingsImpl.extraInterfaces,12,12,0,1
+
+
+#org/mockito/internal/creation/MockSettingsImpl/defaultAnswer:
+Method org.mockito.internal.creation.MockSettingsImpl.defaultAnswer graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.creation.MockSettingsImpl.defaultAnswer,4,3,0,0
+
+
+#org/mockito/internal/creation/MockSettingsImpl/verboseLogging:
+Method org.mockito.internal.creation.MockSettingsImpl.verboseLogging graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.creation.MockSettingsImpl.verboseLogging,4,4,0,0
+
+
+#org/mockito/internal/creation/MockSettingsImpl/invocationListeners:
+Method org.mockito.internal.creation.MockSettingsImpl.invocationListeners graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.creation.MockSettingsImpl.invocationListeners,10,11,0,1
+
+
+#org/mockito/internal/creation/MockSettingsImpl/invocationListenersContainsType:
+Method org.mockito.internal.creation.MockSettingsImpl.invocationListenersContainsType graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.creation.MockSettingsImpl.invocationListenersContainsType,7,4,0,0
+
+
+#org/mockito/internal/creation/MockSettingsImpl/hasInvocationListeners:
+Method org.mockito.internal.creation.MockSettingsImpl.hasInvocationListeners graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.creation.MockSettingsImpl.hasInvocationListeners,5,4,0,1
+
+
+#org/mockito/internal/creation/MockSettingsImpl/prepareExtraInterfaces:
+Method org.mockito.internal.creation.MockSettingsImpl.prepareExtraInterfaces graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.creation.MockSettingsImpl.prepareExtraInterfaces,4,4,0,0
+
+
+#org/mockito/internal/creation/settings/CreationSettings/isSerializable:
+Method org.mockito.internal.creation.settings.CreationSettings.isSerializable graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.creation.settings.CreationSettings.isSerializable,5,6,0,0
+
+
+#org/mockito/internal/creation/bytebuddy/CachingMockBytecodeGenerator/mockCachePerClassLoaderOf:
+Method org.mockito.internal.creation.bytebuddy.CachingMockBytecodeGenerator.mockCachePerClassLoaderOf graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.creation.bytebuddy.CachingMockBytecodeGenerator.mockCachePerClassLoaderOf,4,13,0,0
+
+
+#org/mockito/internal/creation/bytebuddy/ByteBuddyCrossClassLoaderSerializationSupport/writeReplace:
+Method org.mockito.internal.creation.bytebuddy.ByteBuddyCrossClassLoaderSerializationSupport.writeReplace graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.creation.bytebuddy.ByteBuddyCrossClassLoaderSerializationSupport.writeReplace,4,8,0,0
+
+
+#org/mockito/internal/creation/bytebuddy/CachingMockBytecodeGenerator$CachedBytecodeGenerator$MockKey/<init>:
+Method org.mockito.internal.creation.bytebuddy.CachingMockBytecodeGenerator$CachedBytecodeGenerator$MockKey.<init> graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.creation.bytebuddy.CachingMockBytecodeGenerator$CachedBytecodeGenerator$MockKey.<init>,5,5,0,1
+
+
+#org/mockito/internal/creation/bytebuddy/CachingMockBytecodeGenerator$CachedBytecodeGenerator$MockKey/equals:
+Method org.mockito.internal.creation.bytebuddy.CachingMockBytecodeGenerator$CachedBytecodeGenerator$MockKey.equals graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.creation.bytebuddy.CachingMockBytecodeGenerator$CachedBytecodeGenerator$MockKey.equals,11,27,0,1
+
+
+#org/mockito/internal/creation/bytebuddy/ByteBuddyCrossClassLoaderSerializationSupport$MockitoMockObjectInputStream/resolveClass:
+Method org.mockito.internal.creation.bytebuddy.ByteBuddyCrossClassLoaderSerializationSupport$MockitoMockObjectInputStream.resolveClass graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.creation.bytebuddy.ByteBuddyCrossClassLoaderSerializationSupport$MockitoMockObjectInputStream.resolveClass,4,8,0,0
+
+
+#org/mockito/internal/creation/bytebuddy/ByteBuddyCrossClassLoaderSerializationSupport$MockitoMockObjectInputStream/notMarkedAsAMockitoMock:
+Method org.mockito.internal.creation.bytebuddy.ByteBuddyCrossClassLoaderSerializationSupport$MockitoMockObjectInputStream.notMarkedAsAMockitoMock graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.creation.bytebuddy.ByteBuddyCrossClassLoaderSerializationSupport$MockitoMockObjectInputStream.notMarkedAsAMockitoMock,5,2,0,0
+
+
+#org/mockito/internal/creation/bytebuddy/ByteBuddyCrossClassLoaderSerializationSupport$MockitoMockObjectOutputStream/mockitoProxyClassMarker:
+Method org.mockito.internal.creation.bytebuddy.ByteBuddyCrossClassLoaderSerializationSupport$MockitoMockObjectOutputStream.mockitoProxyClassMarker graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.creation.bytebuddy.ByteBuddyCrossClassLoaderSerializationSupport$MockitoMockObjectOutputStream.mockitoProxyClassMarker,4,2,0,0
+
+
+#org/mockito/internal/creation/bytebuddy/InterceptedInvocation/isVerified:
+Method org.mockito.internal.creation.bytebuddy.InterceptedInvocation.isVerified graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.creation.bytebuddy.InterceptedInvocation.isVerified,6,8,0,0
+
+
+#org/mockito/internal/creation/bytebuddy/InterceptedInvocation/callRealMethod:
+Method org.mockito.internal.creation.bytebuddy.InterceptedInvocation.callRealMethod graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.creation.bytebuddy.InterceptedInvocation.callRealMethod,4,6,0,0
+
+
+#org/mockito/internal/creation/bytebuddy/InterceptedInvocation/equals:
+Method org.mockito.internal.creation.bytebuddy.InterceptedInvocation.equals graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.creation.bytebuddy.InterceptedInvocation.equals,10,29,0,1
+
+
+#org/mockito/internal/creation/bytebuddy/CachingMockBytecodeGenerator$CachedBytecodeGenerator/getOrGenerateMockClass:
+Method org.mockito.internal.creation.bytebuddy.CachingMockBytecodeGenerator$CachedBytecodeGenerator.getOrGenerateMockClass graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.creation.bytebuddy.CachingMockBytecodeGenerator$CachedBytecodeGenerator.getOrGenerateMockClass,6,15,0,1
+
+
+#org/mockito/internal/creation/bytebuddy/CachingMockBytecodeGenerator$CachedBytecodeGenerator/prettifyFailure:
+Method org.mockito.internal.creation.bytebuddy.CachingMockBytecodeGenerator$CachedBytecodeGenerator.prettifyFailure graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.creation.bytebuddy.CachingMockBytecodeGenerator$CachedBytecodeGenerator.prettifyFailure,4,10,0,0
+
+
+#org/mockito/internal/creation/bytebuddy/MockMethodInterceptor/createMockitoMethod:
+Method org.mockito.internal.creation.bytebuddy.MockMethodInterceptor.createMockitoMethod graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.creation.bytebuddy.MockMethodInterceptor.createMockitoMethod,4,6,0,0
+
+
+#org/mockito/internal/creation/bytebuddy/MockBytecodeGenerator/generateMockClass:
+Method org.mockito.internal.creation.bytebuddy.MockBytecodeGenerator.generateMockClass graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.creation.bytebuddy.MockBytecodeGenerator.generateMockClass,7,15,0,1
+
+
+#org/mockito/internal/creation/bytebuddy/MockBytecodeGenerator/nameFor:
+Method org.mockito.internal.creation.bytebuddy.MockBytecodeGenerator.nameFor graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.creation.bytebuddy.MockBytecodeGenerator.nameFor,6,17,0,0
+
+
+#org/mockito/internal/creation/bytebuddy/MockBytecodeGenerator/isComingFromJDK:
+Method org.mockito.internal.creation.bytebuddy.MockBytecodeGenerator.isComingFromJDK graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.creation.bytebuddy.MockBytecodeGenerator.isComingFromJDK,8,8,0,0
+
+
+#org/mockito/internal/creation/bytebuddy/MockBytecodeGenerator/isComingFromSealedPackage:
+Method org.mockito.internal.creation.bytebuddy.MockBytecodeGenerator.isComingFromSealedPackage graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.creation.bytebuddy.MockBytecodeGenerator.isComingFromSealedPackage,6,4,0,0
+
+
+#org/mockito/internal/creation/bytebuddy/MockBytecodeGenerator/isComingFromSignedJar:
+Method org.mockito.internal.creation.bytebuddy.MockBytecodeGenerator.isComingFromSignedJar graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.creation.bytebuddy.MockBytecodeGenerator.isComingFromSignedJar,5,2,0,0
+
+
+#org/mockito/internal/creation/bytebuddy/MockMethodInterceptor$ForEquals/doIdentityEquals:
+Method org.mockito.internal.creation.bytebuddy.MockMethodInterceptor$ForEquals.doIdentityEquals graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.creation.bytebuddy.MockMethodInterceptor$ForEquals.doIdentityEquals,5,4,0,0
+
+
+#org/mockito/internal/creation/bytebuddy/ByteBuddyMockMaker/mockWithFeaturesFrom:
+Method org.mockito.internal.creation.bytebuddy.ByteBuddyMockMaker.mockWithFeaturesFrom graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.creation.bytebuddy.ByteBuddyMockMaker.mockWithFeaturesFrom,5,5,0,1
+
+
+#org/mockito/internal/creation/bytebuddy/ByteBuddyMockMaker/describeClass:
+Method org.mockito.internal.creation.bytebuddy.ByteBuddyMockMaker.describeClass graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.creation.bytebuddy.ByteBuddyMockMaker.describeClass,5,3,0,0
+
+
+#org/mockito/internal/creation/bytebuddy/ByteBuddyMockMaker/describeClass:
+Method org.mockito.internal.creation.bytebuddy.ByteBuddyMockMaker.describeClass graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.creation.bytebuddy.ByteBuddyMockMaker.describeClass,5,3,0,0
+
+
+#org/mockito/internal/creation/bytebuddy/ByteBuddyMockMaker/getHandler:
+Method org.mockito.internal.creation.bytebuddy.ByteBuddyMockMaker.getHandler graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.creation.bytebuddy.ByteBuddyMockMaker.getHandler,4,3,0,0
+
+
+#org/mockito/internal/creation/bytebuddy/ByteBuddyMockMaker/asInternalMockHandler:
+Method org.mockito.internal.creation.bytebuddy.ByteBuddyMockMaker.asInternalMockHandler graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.creation.bytebuddy.ByteBuddyMockMaker.asInternalMockHandler,4,3,0,0
+
+
+#org/mockito/internal/creation/util/SearchingClassLoader/combineLoadersOf:
+Method org.mockito.internal.creation.util.SearchingClassLoader.combineLoadersOf graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.creation.util.SearchingClassLoader.combineLoadersOf,5,2,0,0
+
+
+#org/mockito/internal/creation/util/SearchingClassLoader/combine:
+Method org.mockito.internal.creation.util.SearchingClassLoader.combine graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.creation.util.SearchingClassLoader.combine,5,11,0,1
+
+
+#org/mockito/internal/creation/util/SearchingClassLoader/addIfNewElement:
+Method org.mockito.internal.creation.util.SearchingClassLoader.addIfNewElement graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.creation.util.SearchingClassLoader.addIfNewElement,5,8,0,0
+
+
+#org/mockito/internal/creation/util/SearchingClassLoader/findClass:
+Method org.mockito.internal.creation.util.SearchingClassLoader.findClass graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.creation.util.SearchingClassLoader.findClass,4,9,0,1
+
+
+#org/mockito/internal/creation/instance/ConstructorInstantiator/newInstance:
+Method org.mockito.internal.creation.instance.ConstructorInstantiator.newInstance graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.creation.instance.ConstructorInstantiator.newInstance,4,8,0,0
+
+
+#org/mockito/internal/creation/instance/ConstructorInstantiator/withParams:
+Method org.mockito.internal.creation.instance.ConstructorInstantiator.withParams graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.creation.instance.ConstructorInstantiator.withParams,7,7,0,0
+
+
+#org/mockito/internal/creation/instance/ConstructorInstantiator/paramsMatch:
+Method org.mockito.internal.creation.instance.ConstructorInstantiator.paramsMatch graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.creation.instance.ConstructorInstantiator.paramsMatch,9,20,0,1
+
+
+#org/mockito/internal/creation/instance/InstantiatorProvider/getInstantiator:
+Method org.mockito.internal.creation.instance.InstantiatorProvider.getInstantiator graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.creation.instance.InstantiatorProvider.getInstantiator,4,4,0,0
+
+
+#org/mockito/internal/runners/RunnerFactory/create:
+Method org.mockito.internal.runners.RunnerFactory.create graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.runners.RunnerFactory.create,4,10,0,1
+
+
+#org/mockito/internal/runners/util/TestMethodsFinder/hasTestMethods:
+Method org.mockito.internal.runners.util.TestMethodsFinder.hasTestMethods graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.runners.util.TestMethodsFinder.hasTestMethods,7,2,0,0
+
+
+#org/mockito/internal/stubbing/BaseStubbing/thenReturn:
+Method org.mockito.internal.stubbing.BaseStubbing.thenReturn graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.stubbing.BaseStubbing.thenReturn,7,8,0,1
+
+
+#org/mockito/internal/stubbing/BaseStubbing/thenThrow:
+Method org.mockito.internal.stubbing.BaseStubbing.thenThrow graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.stubbing.BaseStubbing.thenThrow,10,19,0,1
+
+
+#org/mockito/internal/stubbing/BaseStubbing/thenThrow:
+Method org.mockito.internal.stubbing.BaseStubbing.thenThrow graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.stubbing.BaseStubbing.thenThrow,10,19,0,0
+
+
+#org/mockito/internal/stubbing/StubberImpl/when:
+Method org.mockito.internal.stubbing.StubberImpl.when graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.stubbing.StubberImpl.when,6,14,0,1
+
+
+#org/mockito/internal/stubbing/InvocationContainerImpl/addAnswer:
+Method org.mockito.internal.stubbing.InvocationContainerImpl.addAnswer graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.stubbing.InvocationContainerImpl.addAnswer,5,9,0,0
+
+
+#org/mockito/internal/stubbing/InvocationContainerImpl/findAnswerFor:
+Method org.mockito.internal.stubbing.InvocationContainerImpl.findAnswerFor graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.stubbing.InvocationContainerImpl.findAnswerFor,7,6,0,0
+
+
+#org/mockito/internal/stubbing/InvocationContainerImpl/hasAnswersForStubbing:
+Method org.mockito.internal.stubbing.InvocationContainerImpl.hasAnswersForStubbing graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.stubbing.InvocationContainerImpl.hasAnswersForStubbing,5,4,0,0
+
+
+#org/mockito/internal/stubbing/InvocationContainerImpl/hasInvocationForPotentialStubbing:
+Method org.mockito.internal.stubbing.InvocationContainerImpl.hasInvocationForPotentialStubbing graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.stubbing.InvocationContainerImpl.hasInvocationForPotentialStubbing,5,4,0,0
+
+
+#org/mockito/internal/stubbing/InvocationContainerImpl/setMethodForStubbing:
+Method org.mockito.internal.stubbing.InvocationContainerImpl.setMethodForStubbing graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.stubbing.InvocationContainerImpl.setMethodForStubbing,11,22,0,2
+
+
+#org/mockito/internal/stubbing/InvocationContainerImpl/createRegisteredInvocations:
+Method org.mockito.internal.stubbing.InvocationContainerImpl.createRegisteredInvocations graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.stubbing.InvocationContainerImpl.createRegisteredInvocations,5,2,0,0
+
+
+#org/mockito/internal/stubbing/OngoingStubbingImpl/thenAnswer:
+Method org.mockito.internal.stubbing.OngoingStubbingImpl.thenAnswer graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.stubbing.OngoingStubbingImpl.thenAnswer,4,7,0,1
+
+
+#org/mockito/internal/stubbing/StubbedInvocationMatcher/answer:
+Method org.mockito.internal.stubbing.StubbedInvocationMatcher.answer graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.stubbing.StubbedInvocationMatcher.answer,5,7,0,0
+
+
+#org/mockito/internal/stubbing/StubbedInvocationMatcher/wasUsed:
+Method org.mockito.internal.stubbing.StubbedInvocationMatcher.wasUsed graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.stubbing.StubbedInvocationMatcher.wasUsed,5,4,0,0
+
+
+#org/mockito/internal/stubbing/answers/ClonesArguments/answer:
+Method org.mockito.internal.stubbing.answers.ClonesArguments.answer graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.stubbing.answers.ClonesArguments.answer,5,10,0,0
+
+
+#org/mockito/internal/stubbing/answers/MethodInfo/isValidException:
+Method org.mockito.internal.stubbing.answers.MethodInfo.isValidException graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.stubbing.answers.MethodInfo.isValidException,7,4,0,0
+
+
+#org/mockito/internal/stubbing/answers/MethodInfo/isValidReturnType:
+Method org.mockito.internal.stubbing.answers.MethodInfo.isValidReturnType graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.stubbing.answers.MethodInfo.isValidReturnType,8,15,0,0
+
+
+#org/mockito/internal/stubbing/answers/MethodInfo/isVoid:
+Method org.mockito.internal.stubbing.answers.MethodInfo.isVoid graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.stubbing.answers.MethodInfo.isVoid,5,6,0,0
+
+
+#org/mockito/internal/stubbing/answers/MethodInfo/isAbstract:
+Method org.mockito.internal.stubbing.answers.MethodInfo.isAbstract graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.stubbing.answers.MethodInfo.isAbstract,5,4,0,0
+
+
+#org/mockito/internal/stubbing/answers/ThrowsException/answer:
+Method org.mockito.internal.stubbing.answers.ThrowsException.answer graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.stubbing.answers.ThrowsException.answer,4,9,0,0
+
+
+#org/mockito/internal/stubbing/answers/AnswersValidator/validate:
+Method org.mockito.internal.stubbing.answers.AnswersValidator.validate graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.stubbing.answers.AnswersValidator.validate,12,25,0,1
+
+
+#org/mockito/internal/stubbing/answers/AnswersValidator/validateReturnArgIdentity:
+Method org.mockito.internal.stubbing.answers.AnswersValidator.validateReturnArgIdentity graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.stubbing.answers.AnswersValidator.validateReturnArgIdentity,4,9,0,0
+
+
+#org/mockito/internal/stubbing/answers/AnswersValidator/validateMockingConcreteClass:
+Method org.mockito.internal.stubbing.answers.AnswersValidator.validateMockingConcreteClass graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.stubbing.answers.AnswersValidator.validateMockingConcreteClass,4,4,0,0
+
+
+#org/mockito/internal/stubbing/answers/AnswersValidator/validateDoNothing:
+Method org.mockito.internal.stubbing.answers.AnswersValidator.validateDoNothing graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.stubbing.answers.AnswersValidator.validateDoNothing,4,4,0,0
+
+
+#org/mockito/internal/stubbing/answers/AnswersValidator/validateReturnValue:
+Method org.mockito.internal.stubbing.answers.AnswersValidator.validateReturnValue graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.stubbing.answers.AnswersValidator.validateReturnValue,10,22,0,1
+
+
+#org/mockito/internal/stubbing/answers/AnswersValidator/validateException:
+Method org.mockito.internal.stubbing.answers.AnswersValidator.validateException graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.stubbing.answers.AnswersValidator.validateException,9,15,0,1
+
+
+#org/mockito/internal/stubbing/answers/AnswersValidator/validateDefaultAnswerReturnedValue:
+Method org.mockito.internal.stubbing.answers.AnswersValidator.validateDefaultAnswerReturnedValue graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.stubbing.answers.AnswersValidator.validateDefaultAnswerReturnedValue,5,11,0,0
+
+
+#org/mockito/internal/stubbing/answers/Returns/returnsNull:
+Method org.mockito.internal.stubbing.answers.Returns.returnsNull graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.stubbing.answers.Returns.returnsNull,5,4,0,0
+
+
+#org/mockito/internal/stubbing/answers/ReturnsElementsOf/<init>:
+Method org.mockito.internal.stubbing.answers.ReturnsElementsOf.<init> graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.stubbing.answers.ReturnsElementsOf.<init>,4,4,0,0
+
+
+#org/mockito/internal/stubbing/answers/ReturnsElementsOf/answer:
+Method org.mockito.internal.stubbing.answers.ReturnsElementsOf.answer graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.stubbing.answers.ReturnsElementsOf.answer,4,8,0,0
+
+
+#org/mockito/internal/stubbing/answers/ReturnsArgumentAt/actualArgumentPosition:
+Method org.mockito.internal.stubbing.answers.ReturnsArgumentAt.actualArgumentPosition graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.stubbing.answers.ReturnsArgumentAt.actualArgumentPosition,5,4,0,0
+
+
+#org/mockito/internal/stubbing/answers/ReturnsArgumentAt/returningLastArg:
+Method org.mockito.internal.stubbing.answers.ReturnsArgumentAt.returningLastArg graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.stubbing.answers.ReturnsArgumentAt.returningLastArg,5,4,0,0
+
+
+#org/mockito/internal/stubbing/answers/ReturnsArgumentAt/checkWithinAllowedRange:
+Method org.mockito.internal.stubbing.answers.ReturnsArgumentAt.checkWithinAllowedRange graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.stubbing.answers.ReturnsArgumentAt.checkWithinAllowedRange,5,5,0,1
+
+
+#org/mockito/internal/stubbing/answers/ReturnsArgumentAt/validateIndexWithinInvocationRange:
+Method org.mockito.internal.stubbing.answers.ReturnsArgumentAt.validateIndexWithinInvocationRange graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.stubbing.answers.ReturnsArgumentAt.validateIndexWithinInvocationRange,4,7,0,0
+
+
+#org/mockito/internal/stubbing/answers/ReturnsArgumentAt/argumentPositionInRange:
+Method org.mockito.internal.stubbing.answers.ReturnsArgumentAt.argumentPositionInRange graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.stubbing.answers.ReturnsArgumentAt.argumentPositionInRange,9,8,0,0
+
+
+#org/mockito/internal/stubbing/answers/ReturnsArgumentAt/returnedTypeOnSignature:
+Method org.mockito.internal.stubbing.answers.ReturnsArgumentAt.returnedTypeOnSignature graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.stubbing.answers.ReturnsArgumentAt.returnedTypeOnSignature,6,13,0,0
+
+
+#org/mockito/internal/stubbing/answers/CallsRealMethods/answer:
+Method org.mockito.internal.stubbing.answers.CallsRealMethods.answer graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.stubbing.answers.CallsRealMethods.answer,4,5,0,0
+
+
+#org/mockito/internal/stubbing/defaultanswers/ReturnsSmartNulls/answer:
+Method org.mockito.internal.stubbing.defaultanswers.ReturnsSmartNulls.answer graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.stubbing.defaultanswers.ReturnsSmartNulls.answer,7,10,0,0
+
+
+#org/mockito/internal/stubbing/defaultanswers/ReturnsMocks/answer:
+Method org.mockito.internal.stubbing.defaultanswers.ReturnsMocks.answer graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.stubbing.defaultanswers.ReturnsMocks.answer,4,5,0,0
+
+
+#org/mockito/internal/stubbing/defaultanswers/ReturnsMocks/returnValueFor:
+Method org.mockito.internal.stubbing.defaultanswers.ReturnsMocks.returnValueFor graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.stubbing.defaultanswers.ReturnsMocks.returnValueFor,4,9,0,0
+
+
+#org/mockito/internal/stubbing/defaultanswers/ReturnsMoreEmptyValues/answer:
+Method org.mockito.internal.stubbing.defaultanswers.ReturnsMoreEmptyValues.answer graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.stubbing.defaultanswers.ReturnsMoreEmptyValues.answer,4,5,0,0
+
+
+#org/mockito/internal/stubbing/defaultanswers/ReturnsMoreEmptyValues/returnValueFor:
+Method org.mockito.internal.stubbing.defaultanswers.ReturnsMoreEmptyValues.returnValueFor graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.stubbing.defaultanswers.ReturnsMoreEmptyValues.returnValueFor,6,5,0,0
+
+
+#org/mockito/internal/stubbing/defaultanswers/ReturnsSmartNulls$ThrowsSmartNullPointer/answer:
+Method org.mockito.internal.stubbing.defaultanswers.ReturnsSmartNulls$ThrowsSmartNullPointer.answer graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.stubbing.defaultanswers.ReturnsSmartNulls$ThrowsSmartNullPointer.answer,4,7,0,0
+
+
+#org/mockito/internal/stubbing/defaultanswers/ForwardsInvocations/answer:
+Method org.mockito.internal.stubbing.defaultanswers.ForwardsInvocations.answer graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.stubbing.defaultanswers.ForwardsInvocations.answer,4,13,0,0
+
+
+#org/mockito/internal/stubbing/defaultanswers/ForwardsInvocations/getDelegateMethod:
+Method org.mockito.internal.stubbing.defaultanswers.ForwardsInvocations.getDelegateMethod graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.stubbing.defaultanswers.ForwardsInvocations.getDelegateMethod,4,10,0,0
+
+
+#org/mockito/internal/stubbing/defaultanswers/ForwardsInvocations/compatibleReturnTypes:
+Method org.mockito.internal.stubbing.defaultanswers.ForwardsInvocations.compatibleReturnTypes graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.stubbing.defaultanswers.ForwardsInvocations.compatibleReturnTypes,6,8,0,0
+
+
+#org/mockito/internal/stubbing/defaultanswers/ReturnsDeepStubs/answer:
+Method org.mockito.internal.stubbing.defaultanswers.ReturnsDeepStubs.answer graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.stubbing.defaultanswers.ReturnsDeepStubs.answer,4,6,0,0
+
+
+#org/mockito/internal/stubbing/defaultanswers/ReturnsDeepStubs/deepStub:
+Method org.mockito.internal.stubbing.defaultanswers.ReturnsDeepStubs.deepStub graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.stubbing.defaultanswers.ReturnsDeepStubs.deepStub,7,10,0,0
+
+
+#org/mockito/internal/stubbing/defaultanswers/ReturnsDeepStubs/withSettingsUsing:
+Method org.mockito.internal.stubbing.defaultanswers.ReturnsDeepStubs.withSettingsUsing graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.stubbing.defaultanswers.ReturnsDeepStubs.withSettingsUsing,5,5,0,0
+
+
+#org/mockito/internal/stubbing/defaultanswers/ReturnsEmptyValues/answer:
+Method org.mockito.internal.stubbing.defaultanswers.ReturnsEmptyValues.answer graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.stubbing.defaultanswers.ReturnsEmptyValues.answer,11,25,0,1
+
+
+#org/mockito/internal/stubbing/defaultanswers/ReturnsEmptyValues/returnValueFor:
+Method org.mockito.internal.stubbing.defaultanswers.ReturnsEmptyValues.returnValueFor graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.stubbing.defaultanswers.ReturnsEmptyValues.returnValueFor,34,33,0,3
+
+
+#org/mockito/internal/matchers/Contains/matches:
+Method org.mockito.internal.matchers.Contains.matches graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.matchers.Contains.matches,6,8,0,0
+
+
+#org/mockito/internal/matchers/CapturingMatcher/getLastValue:
+Method org.mockito.internal.matchers.CapturingMatcher.getLastValue graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.matchers.CapturingMatcher.getLastValue,4,6,0,0
+
+
+#org/mockito/internal/matchers/Same/matches:
+Method org.mockito.internal.matchers.Same.matches graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.matchers.Same.matches,5,6,0,0
+
+
+#org/mockito/internal/matchers/Same/appendQuoting:
+Method org.mockito.internal.matchers.Same.appendQuoting graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.matchers.Same.appendQuoting,6,10,0,0
+
+
+#org/mockito/internal/matchers/LocalizedMatcher/withExtraTypeInfo:
+Method org.mockito.internal.matchers.LocalizedMatcher.withExtraTypeInfo graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.matchers.LocalizedMatcher.withExtraTypeInfo,4,7,0,0
+
+
+#org/mockito/internal/matchers/LocalizedMatcher/typeMatches:
+Method org.mockito.internal.matchers.LocalizedMatcher.typeMatches graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.matchers.LocalizedMatcher.typeMatches,6,10,0,1
+
+
+#org/mockito/internal/matchers/LocalizedMatcher/captureFrom:
+Method org.mockito.internal.matchers.LocalizedMatcher.captureFrom graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.matchers.LocalizedMatcher.captureFrom,4,7,0,0
+
+
+#org/mockito/internal/matchers/MatchersPrinter/applyPrintSettings:
+Method org.mockito.internal.matchers.MatchersPrinter.applyPrintSettings graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.matchers.MatchersPrinter.applyPrintSettings,9,15,0,1
+
+
+#org/mockito/internal/matchers/And/matches:
+Method org.mockito.internal.matchers.And.matches graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.matchers.And.matches,7,4,0,1
+
+
+#org/mockito/internal/matchers/And/describeTo:
+Method org.mockito.internal.matchers.And.describeTo graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.matchers.And.describeTo,6,8,0,0
+
+
+#org/mockito/internal/matchers/VarargCapturingMatcher/getLastVarargs:
+Method org.mockito.internal.matchers.VarargCapturingMatcher.getLastVarargs graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.matchers.VarargCapturingMatcher.getLastVarargs,4,6,0,0
+
+
+#org/mockito/internal/matchers/VarargCapturingMatcher/unpackAsList:
+Method org.mockito.internal.matchers.VarargCapturingMatcher.unpackAsList graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.matchers.VarargCapturingMatcher.unpackAsList,9,18,0,1
+
+
+#org/mockito/internal/matchers/EndsWith/matches:
+Method org.mockito.internal.matchers.EndsWith.matches graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.matchers.EndsWith.matches,6,8,0,0
+
+
+#org/mockito/internal/matchers/CompareEqual/matchResult:
+Method org.mockito.internal.matchers.CompareEqual.matchResult graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.matchers.CompareEqual.matchResult,5,2,0,0
+
+
+#org/mockito/internal/matchers/Equality/areEqual:
+Method org.mockito.internal.matchers.Equality.areEqual graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.matchers.Equality.areEqual,17,22,0,1
+
+
+#org/mockito/internal/matchers/Equality/areArraysEqual:
+Method org.mockito.internal.matchers.Equality.areArraysEqual graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.matchers.Equality.areArraysEqual,6,8,0,0
+
+
+#org/mockito/internal/matchers/Equality/areArrayLengthsEqual:
+Method org.mockito.internal.matchers.Equality.areArrayLengthsEqual graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.matchers.Equality.areArrayLengthsEqual,5,4,0,1
+
+
+#org/mockito/internal/matchers/Equality/areArrayElementsEqual:
+Method org.mockito.internal.matchers.Equality.areArrayElementsEqual graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.matchers.Equality.areArrayElementsEqual,7,16,0,1
+
+
+#org/mockito/internal/matchers/GreaterOrEqual/matchResult:
+Method org.mockito.internal.matchers.GreaterOrEqual.matchResult graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.matchers.GreaterOrEqual.matchResult,5,2,0,0
+
+
+#org/mockito/internal/matchers/InstanceOf/matches:
+Method org.mockito.internal.matchers.InstanceOf.matches graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.matchers.InstanceOf.matches,6,8,0,0
+
+
+#org/mockito/internal/matchers/Not/matches:
+Method org.mockito.internal.matchers.Not.matches graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.matchers.Not.matches,5,6,0,0
+
+
+#org/mockito/internal/matchers/EqualsWithDelta/matches:
+Method org.mockito.internal.matchers.EqualsWithDelta.matches graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.matchers.EqualsWithDelta.matches,16,28,0,2
+
+
+#org/mockito/internal/matchers/Null/matches:
+Method org.mockito.internal.matchers.Null.matches graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.matchers.Null.matches,5,2,0,0
+
+
+#org/mockito/internal/matchers/GreaterThan/matchResult:
+Method org.mockito.internal.matchers.GreaterThan.matchResult graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.matchers.GreaterThan.matchResult,5,2,0,0
+
+
+#org/mockito/internal/matchers/Equals/quoting:
+Method org.mockito.internal.matchers.Equals.quoting graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.matchers.Equals.quoting,6,8,0,0
+
+
+#org/mockito/internal/matchers/Equals/equals:
+Method org.mockito.internal.matchers.Equals.equals graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.matchers.Equals.equals,11,27,0,2
+
+
+#org/mockito/internal/matchers/Equals/typeMatches:
+Method org.mockito.internal.matchers.Equals.typeMatches graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.matchers.Equals.typeMatches,7,12,0,1
+
+
+#org/mockito/internal/matchers/LessOrEqual/matchResult:
+Method org.mockito.internal.matchers.LessOrEqual.matchResult graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.matchers.LessOrEqual.matchResult,5,2,0,0
+
+
+#org/mockito/internal/matchers/StartsWith/matches:
+Method org.mockito.internal.matchers.StartsWith.matches graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.matchers.StartsWith.matches,6,8,0,0
+
+
+#org/mockito/internal/matchers/ArrayEquals/matches:
+Method org.mockito.internal.matchers.ArrayEquals.matches graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.matchers.ArrayEquals.matches,32,60,0,8
+
+
+#org/mockito/internal/matchers/ArrayEquals/describeTo:
+Method org.mockito.internal.matchers.ArrayEquals.describeTo graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.matchers.ArrayEquals.describeTo,6,8,0,0
+
+
+#org/mockito/internal/matchers/ArrayEquals/appendArray:
+Method org.mockito.internal.matchers.ArrayEquals.appendArray graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.matchers.ArrayEquals.appendArray,7,20,0,2
+
+
+#org/mockito/internal/matchers/ArrayEquals/createObjectArray:
+Method org.mockito.internal.matchers.ArrayEquals.createObjectArray graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.matchers.ArrayEquals.createObjectArray,7,15,0,1
+
+
+#org/mockito/internal/matchers/CompareTo/matches:
+Method org.mockito.internal.matchers.CompareTo.matches graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.matchers.CompareTo.matches,4,5,0,0
+
+
+#org/mockito/internal/matchers/Matches/matches:
+Method org.mockito.internal.matchers.Matches.matches graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.matchers.Matches.matches,6,8,0,1
+
+
+#org/mockito/internal/matchers/NotNull/matches:
+Method org.mockito.internal.matchers.NotNull.matches graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.matchers.NotNull.matches,5,2,0,0
+
+
+#org/mockito/internal/matchers/Find/matches:
+Method org.mockito.internal.matchers.Find.matches graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.matchers.Find.matches,6,8,0,1
+
+
+#org/mockito/internal/matchers/LessThan/matchResult:
+Method org.mockito.internal.matchers.LessThan.matchResult graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.matchers.LessThan.matchResult,5,2,0,0
+
+
+#org/mockito/internal/matchers/Or/matches:
+Method org.mockito.internal.matchers.Or.matches graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.matchers.Or.matches,7,4,0,1
+
+
+#org/mockito/internal/matchers/Or/describeTo:
+Method org.mockito.internal.matchers.Or.describeTo graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.matchers.Or.describeTo,6,8,0,1
+
+
+#org/mockito/internal/matchers/apachecommons/EqualsBuilder/reflectionEquals:
+Method org.mockito.internal.matchers.apachecommons.EqualsBuilder.reflectionEquals graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.matchers.apachecommons.EqualsBuilder.reflectionEquals,18,71,0,8
+
+
+#org/mockito/internal/matchers/apachecommons/EqualsBuilder/reflectionAppend:
+Method org.mockito.internal.matchers.apachecommons.EqualsBuilder.reflectionAppend graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.matchers.apachecommons.EqualsBuilder.reflectionAppend,15,36,0,4
+
+
+#org/mockito/internal/matchers/apachecommons/EqualsBuilder/append:
+Method org.mockito.internal.matchers.apachecommons.EqualsBuilder.append graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.matchers.apachecommons.EqualsBuilder.append,36,79,0,6
+
+
+#org/mockito/internal/matchers/apachecommons/EqualsBuilder/append:
+Method org.mockito.internal.matchers.apachecommons.EqualsBuilder.append graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.matchers.apachecommons.EqualsBuilder.append,5,6,0,0
+
+
+#org/mockito/internal/matchers/apachecommons/EqualsBuilder/append:
+Method org.mockito.internal.matchers.apachecommons.EqualsBuilder.append graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.matchers.apachecommons.EqualsBuilder.append,5,6,0,0
+
+
+#org/mockito/internal/matchers/apachecommons/EqualsBuilder/append:
+Method org.mockito.internal.matchers.apachecommons.EqualsBuilder.append graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.matchers.apachecommons.EqualsBuilder.append,5,6,0,0
+
+
+#org/mockito/internal/matchers/apachecommons/EqualsBuilder/append:
+Method org.mockito.internal.matchers.apachecommons.EqualsBuilder.append graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.matchers.apachecommons.EqualsBuilder.append,5,6,0,0
+
+
+#org/mockito/internal/matchers/apachecommons/EqualsBuilder/append:
+Method org.mockito.internal.matchers.apachecommons.EqualsBuilder.append graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.matchers.apachecommons.EqualsBuilder.append,5,6,0,0
+
+
+#org/mockito/internal/matchers/apachecommons/EqualsBuilder/append:
+Method org.mockito.internal.matchers.apachecommons.EqualsBuilder.append graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.matchers.apachecommons.EqualsBuilder.append,4,8,0,1
+
+
+#org/mockito/internal/matchers/apachecommons/EqualsBuilder/append:
+Method org.mockito.internal.matchers.apachecommons.EqualsBuilder.append graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.matchers.apachecommons.EqualsBuilder.append,4,8,0,0
+
+
+#org/mockito/internal/matchers/apachecommons/EqualsBuilder/append:
+Method org.mockito.internal.matchers.apachecommons.EqualsBuilder.append graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.matchers.apachecommons.EqualsBuilder.append,5,6,0,0
+
+
+#org/mockito/internal/matchers/apachecommons/EqualsBuilder/append:
+Method org.mockito.internal.matchers.apachecommons.EqualsBuilder.append graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.matchers.apachecommons.EqualsBuilder.append,15,36,0,2
+
+
+#org/mockito/internal/matchers/apachecommons/EqualsBuilder/append:
+Method org.mockito.internal.matchers.apachecommons.EqualsBuilder.append graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.matchers.apachecommons.EqualsBuilder.append,15,36,0,3
+
+
+#org/mockito/internal/matchers/apachecommons/EqualsBuilder/append:
+Method org.mockito.internal.matchers.apachecommons.EqualsBuilder.append graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.matchers.apachecommons.EqualsBuilder.append,15,36,0,3
+
+
+#org/mockito/internal/matchers/apachecommons/EqualsBuilder/append:
+Method org.mockito.internal.matchers.apachecommons.EqualsBuilder.append graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.matchers.apachecommons.EqualsBuilder.append,15,36,0,2
+
+
+#org/mockito/internal/matchers/apachecommons/EqualsBuilder/append:
+Method org.mockito.internal.matchers.apachecommons.EqualsBuilder.append graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.matchers.apachecommons.EqualsBuilder.append,15,36,0,2
+
+
+#org/mockito/internal/matchers/apachecommons/EqualsBuilder/append:
+Method org.mockito.internal.matchers.apachecommons.EqualsBuilder.append graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.matchers.apachecommons.EqualsBuilder.append,15,36,0,1
+
+
+#org/mockito/internal/matchers/apachecommons/EqualsBuilder/append:
+Method org.mockito.internal.matchers.apachecommons.EqualsBuilder.append graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.matchers.apachecommons.EqualsBuilder.append,15,36,0,3
+
+
+#org/mockito/internal/matchers/apachecommons/EqualsBuilder/append:
+Method org.mockito.internal.matchers.apachecommons.EqualsBuilder.append graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.matchers.apachecommons.EqualsBuilder.append,15,36,0,3
+
+
+#org/mockito/internal/matchers/apachecommons/EqualsBuilder/append:
+Method org.mockito.internal.matchers.apachecommons.EqualsBuilder.append graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.matchers.apachecommons.EqualsBuilder.append,15,36,0,1
+
+
+#org/mockito/internal/listeners/NotifiedMethodInvocationReport/threwException:
+Method org.mockito.internal.listeners.NotifiedMethodInvocationReport.threwException graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.listeners.NotifiedMethodInvocationReport.threwException,5,4,0,0
+
+
+#org/mockito/internal/listeners/NotifiedMethodInvocationReport/getLocationOfStubbing:
+Method org.mockito.internal.listeners.NotifiedMethodInvocationReport.getLocationOfStubbing graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.listeners.NotifiedMethodInvocationReport.getLocationOfStubbing,5,6,0,0
+
+
+#org/mockito/internal/listeners/NotifiedMethodInvocationReport/equals:
+Method org.mockito.internal.listeners.NotifiedMethodInvocationReport.equals graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.listeners.NotifiedMethodInvocationReport.equals,12,35,0,2
+
+
+#org/mockito/internal/listeners/NotifiedMethodInvocationReport/hashCode:
+Method org.mockito.internal.listeners.NotifiedMethodInvocationReport.hashCode graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.internal.listeners.NotifiedMethodInvocationReport.hashCode,11,16,0,1
+
+
+#org/mockito/exceptions/Reporter/locationsOf:
+Method org.mockito.exceptions.Reporter.locationsOf graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.exceptions.Reporter.locationsOf,5,2,0,0
+
+
+#org/mockito/exceptions/Reporter/wantedButNotInvoked:
+Method org.mockito.exceptions.Reporter.wantedButNotInvoked graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.exceptions.Reporter.wantedButNotInvoked,8,9,0,1
+
+
+#org/mockito/exceptions/Reporter/createTooLittleInvocationsMessage:
+Method org.mockito.exceptions.Reporter.createTooLittleInvocationsMessage graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.exceptions.Reporter.createTooLittleInvocationsMessage,5,5,0,1
+
+
+#org/mockito/exceptions/Reporter/exceptionCauseMessageIfAvailable:
+Method org.mockito.exceptions.Reporter.exceptionCauseMessageIfAvailable graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.exceptions.Reporter.exceptionCauseMessageIfAvailable,4,4,0,0
+
+
+#org/mockito/exceptions/Reporter/invalidArgumentPositionRangeAtInvocationTime:
+Method org.mockito.exceptions.Reporter.invalidArgumentPositionRangeAtInvocationTime graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.exceptions.Reporter.invalidArgumentPositionRangeAtInvocationTime,5,5,0,0
+
+
+#org/mockito/exceptions/Reporter/possibleArgumentTypesOf:
+Method org.mockito.exceptions.Reporter.possibleArgumentTypesOf graphduas were calculated in 0 minutes and 0 seconds
+@@ org.mockito.exceptions.Reporter.possibleArgumentTypesOf,11,31,0,3
+
+401 methods have their graphdua generated in 0 minutes and 1 seconds
+Graphduas time (ms):1111

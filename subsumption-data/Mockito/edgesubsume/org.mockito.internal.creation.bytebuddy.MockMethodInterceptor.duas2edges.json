@@ -1,0 +1,10 @@
+{
+"Class" : "org.mockito.internal.creation.bytebuddy.MockMethodInterceptor", 
+"Methods" : [{ "Name" : "createMockitoMethod" ,
+"Edges" : 4,
+"Duas" : 6,
+"0" : 2, 
+ "1" : 3, 
+ "4" : 2, 
+ "5" : 3}]
+}

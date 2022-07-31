@@ -1,0 +1,16 @@
+{
+"Class" : "org.mockito.internal.reporting.PrintSettings", 
+"Methods" : [{ "Name" : "print" ,
+"Duas" : 11,
+"0" :  "(47,(50,50), this)",
+"1" :  "(47,(50,51), this)",
+"2" :  "(47,51, this)",
+"3" :  "(47,51, matchers)",
+"4" :  "(47,(50,50), matchers)",
+"5" :  "(47,(50,53), matchers)",
+"6" :  "(47,51, matchersPrinter)",
+"7" :  "(48,51, qualifiedName)",
+"8" :  "(49,53, invocationString)",
+"9" :  "(49,(50,51), invocationString)",
+"10" :  "(49,(50,53), invocationString)"}]
+}

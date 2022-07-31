@@ -1,0 +1,14 @@
+{
+"Class" : "org.mockito.internal.debugging.WarningsFinder", 
+"Methods" : [{ "Name" : "find" ,
+"Edges" : 20,
+"Duas" : 20,
+"6" : 0, 
+ "7" : 1, 
+ "10" : 2, 
+ "11" : 3, 
+ "13" : 6, 
+ "14" : 7, 
+ "17" : 2, 
+ "18" : 3}]
+}

@@ -1,0 +1,12 @@
+{
+"Class" : "org.mockito.internal.util.reflection.GenericMaster", 
+"Methods" : [{ "Name" : "getGenericType" ,
+"Edges" : 9,
+"Duas" : 9,
+"0" : 3, 
+ "1" : 4, 
+ "3" : 5, 
+ "4" : 6, 
+ "5" : 1, 
+ "6" : 2}]
+}

@@ -1,0 +1,66 @@
+{
+"Class" : "org.mockito.internal.stubbing.answers.AnswersValidator", 
+"Methods" : [{ "Name" : "validate" ,
+"Nodes" : 12,
+"0" : [ 16,17 ]
+"1" : [ 21 ]
+"2" : [ 25 ]
+"3" : [ 29 ]
+"4" : [ 33 ]
+"5" : [ 37 ]
+"6" : [ 34,35 ]
+"7" : [ 30 ]
+"8" : [ 26 ]
+"9" : [ 22 ]
+"10" : [ 18 ]
+"11" : [  ]
+},{ "Name" : "validateReturnArgIdentity" ,
+"Nodes" : 4,
+"0" : [ 40,42,43 ]
+"1" : [ 49 ]
+"2" : [ 44,45,46 ]
+"3" : [  ]
+},{ "Name" : "validateMockingConcreteClass" ,
+"Nodes" : 4,
+"0" : [ 52 ]
+"1" : [ 55 ]
+"2" : [ 53 ]
+"3" : [  ]
+},{ "Name" : "validateDoNothing" ,
+"Nodes" : 4,
+"0" : [ 58 ]
+"1" : [ 61 ]
+"2" : [ 59 ]
+"3" : [  ]
+},{ "Name" : "validateReturnValue" ,
+"Nodes" : 10,
+"0" : [ 64 ]
+"1" : [ 68 ]
+"2" : [ 72 ]
+"3" : [ 75 ]
+"4" : [ 72 ]
+"5" : [ 73 ]
+"6" : [ 68 ]
+"7" : [ 69 ]
+"8" : [ 65 ]
+"9" : [  ]
+},{ "Name" : "validateException" ,
+"Nodes" : 9,
+"0" : [ 78,79 ]
+"1" : [ 83 ]
+"2" : [ 84 ]
+"3" : [ 83 ]
+"4" : [ 87 ]
+"5" : [ 90 ]
+"6" : [ 88 ]
+"7" : [ 80 ]
+"8" : [  ]
+},{ "Name" : "validateDefaultAnswerReturnedValue" ,
+"Nodes" : 5,
+"0" : [ 93,94 ]
+"1" : [ 101 ]
+"2" : [ 94 ]
+"3" : [ 96,97,98,99,95 ]
+"4" : [  ]
+}]
+}

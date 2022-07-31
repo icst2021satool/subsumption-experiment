@@ -1,0 +1,10 @@
+{
+"Class" : "org.mockito.internal.exceptions.stacktrace.ConditionalStackTraceFilter", 
+"Methods" : [{ "Name" : "filter" ,
+"Nodes" : 4,
+"0" : [ 20 ]
+"1" : [ 23,24,25 ]
+"2" : [ 21 ]
+"3" : [  ]
+}]
+}

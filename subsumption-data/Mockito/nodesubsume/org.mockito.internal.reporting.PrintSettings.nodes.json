@@ -1,0 +1,12 @@
+{
+"Class" : "org.mockito.internal.reporting.PrintSettings", 
+"Methods" : [{ "Name" : "print" ,
+"Nodes" : 6,
+"0" : [ 48,49,50,47 ]
+"1" : [ 51 ]
+"2" : [ 50 ]
+"3" : [ 53 ]
+"4" : [ 50 ]
+"5" : [  ]
+}]
+}

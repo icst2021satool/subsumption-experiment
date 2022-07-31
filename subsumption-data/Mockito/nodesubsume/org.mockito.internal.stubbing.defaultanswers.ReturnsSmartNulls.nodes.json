@@ -1,0 +1,13 @@
+{
+"Class" : "org.mockito.internal.stubbing.defaultanswers.ReturnsSmartNulls", 
+"Methods" : [{ "Name" : "answer" ,
+"Nodes" : 7,
+"0" : [ 43,44 ]
+"1" : [ 48,47 ]
+"2" : [ 52 ]
+"3" : [ 48 ]
+"4" : [ 49,50 ]
+"5" : [ 45 ]
+"6" : [  ]
+}]
+}

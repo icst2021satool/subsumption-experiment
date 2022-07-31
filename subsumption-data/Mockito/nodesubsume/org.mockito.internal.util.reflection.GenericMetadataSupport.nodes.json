@@ -1,0 +1,80 @@
+{
+"Class" : "org.mockito.internal.util.reflection.GenericMetadataSupport", 
+"Methods" : [{ "Name" : "registerTypeVariablesOn" ,
+"Nodes" : 11,
+"0" : [ 67 ]
+"1" : [ 70,71,72,73 ]
+"2" : [ 73 ]
+"3" : [ 84 ]
+"4" : [ 74,75,77 ]
+"5" : [ 79 ]
+"6" : [ 73 ]
+"7" : [ 80 ]
+"8" : [ 78 ]
+"9" : [ 68 ]
+"10" : [  ]
+},{ "Name" : "registerTypeParametersOn" ,
+"Nodes" : 5,
+"0" : [ 87 ]
+"1" : [ 87 ]
+"2" : [ 90 ]
+"3" : [ 87,88 ]
+"4" : [  ]
+},{ "Name" : "registerTypeVariableIfNotPresent" ,
+"Nodes" : 4,
+"0" : [ 93 ]
+"1" : [ 97 ]
+"2" : [ 94 ]
+"3" : [  ]
+},{ "Name" : "boundsOf" ,
+"Nodes" : 4,
+"0" : [ 105 ]
+"1" : [ 108 ]
+"2" : [ 106 ]
+"3" : [  ]
+},{ "Name" : "boundsOf" ,
+"Nodes" : 4,
+"0" : [ 123,124 ]
+"1" : [ 128 ]
+"2" : [ 125 ]
+"3" : [  ]
+},{ "Name" : "hasRawExtraInterfaces" ,
+"Nodes" : 5,
+"0" : [ 158 ]
+"1" : [ 158 ]
+"2" : [ 158 ]
+"3" : [ 158 ]
+"4" : [  ]
+},{ "Name" : "actualTypeArguments" ,
+"Nodes" : 5,
+"0" : [ 167,168,170 ]
+"1" : [ 170 ]
+"2" : [ 178 ]
+"3" : [ 170,172,174 ]
+"4" : [  ]
+},{ "Name" : "getActualTypeArgumentFor" ,
+"Nodes" : 4,
+"0" : [ 182,183 ]
+"1" : [ 188 ]
+"2" : [ 184,185 ]
+"3" : [  ]
+},{ "Name" : "resolveGenericReturnType" ,
+"Nodes" : 8,
+"0" : [ 200,203 ]
+"1" : [ 206 ]
+"2" : [ 209 ]
+"3" : [ 213 ]
+"4" : [ 210 ]
+"5" : [ 207 ]
+"6" : [ 204 ]
+"7" : [  ]
+},{ "Name" : "inferFrom" ,
+"Nodes" : 6,
+"0" : [ 229,230 ]
+"1" : [ 233 ]
+"2" : [ 237 ]
+"3" : [ 234 ]
+"4" : [ 231 ]
+"5" : [  ]
+}]
+}

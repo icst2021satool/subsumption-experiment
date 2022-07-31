@@ -1,0 +1,12 @@
+{
+"Class" : "org.mockito.internal.util.collections.ArrayUtils", 
+"Methods" : [{ "Name" : "isEmpty" ,
+"Nodes" : 6,
+"0" : [ 11 ]
+"1" : [ 11 ]
+"2" : [ 11 ]
+"3" : [ 11 ]
+"4" : [ 11 ]
+"5" : [  ]
+}]
+}

@@ -1,0 +1,16 @@
+{
+"Class" : "org.mockito.internal.util.reflection.BeanPropertySetter", 
+"Methods" : [{ "Name" : "set" ,
+"Nodes" : 4,
+"0" : [ 68,53,54,56,58,59,60 ]
+"1" : [ 60 ]
+"2" : [ 69 ]
+"3" : [  ]
+},{ "Name" : "reportNoSetterFound" ,
+"Nodes" : 4,
+"0" : [ 93 ]
+"1" : [ 96 ]
+"2" : [ 94 ]
+"3" : [  ]
+}]
+}

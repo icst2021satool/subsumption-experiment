@@ -1,0 +1,17 @@
+{
+"Class" : "org.mockito.internal.configuration.injection.filter.TypeBasedCandidateFilter", 
+"Methods" : [{ "Name" : "filterCandidate" ,
+"Nodes" : 7,
+"Duas" : 11,
+"0" :  [ 0,2 ],
+"1" :  [ 0,2 ],
+"2" :  [ 0,3,5 ],
+"3" :  [ 0,3,4 ],
+"4" :  [ 0,2 ],
+"5" :  [ 0,2 ],
+"6" :  [ 0,2 ],
+"7" :  [ 0,5 ],
+"8" :  [ 3,5 ],
+"9" :  [ 3,4 ],
+"10" :  [ 3,5 ]}]
+}

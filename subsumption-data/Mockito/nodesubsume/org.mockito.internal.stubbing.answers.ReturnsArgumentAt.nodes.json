@@ -1,0 +1,50 @@
+{
+"Class" : "org.mockito.internal.stubbing.answers.ReturnsArgumentAt", 
+"Methods" : [{ "Name" : "actualArgumentPosition" ,
+"Nodes" : 5,
+"0" : [ 47 ]
+"1" : [ 48,49 ]
+"2" : [ 47 ]
+"3" : [ 48,47 ]
+"4" : [  ]
+},{ "Name" : "returningLastArg" ,
+"Nodes" : 5,
+"0" : [ 53 ]
+"1" : [ 53 ]
+"2" : [ 53 ]
+"3" : [ 53 ]
+"4" : [  ]
+},{ "Name" : "checkWithinAllowedRange" ,
+"Nodes" : 5,
+"0" : [ 65 ]
+"1" : [ 68 ]
+"2" : [ 65 ]
+"3" : [ 66 ]
+"4" : [  ]
+},{ "Name" : "validateIndexWithinInvocationRange" ,
+"Nodes" : 4,
+"0" : [ 76 ]
+"1" : [ 81 ]
+"2" : [ 77,78 ]
+"3" : [  ]
+},{ "Name" : "argumentPositionInRange" ,
+"Nodes" : 9,
+"0" : [ 84,85 ]
+"1" : [ 88 ]
+"2" : [ 92 ]
+"3" : [ 89 ]
+"4" : [ 89 ]
+"5" : [ 89 ]
+"6" : [ 89 ]
+"7" : [ 86 ]
+"8" : [  ]
+},{ "Name" : "returnedTypeOnSignature" ,
+"Nodes" : 6,
+"0" : [ 96,98 ]
+"1" : [ 102,103,105 ]
+"2" : [ 108 ]
+"3" : [ 106 ]
+"4" : [ 99 ]
+"5" : [  ]
+}]
+}

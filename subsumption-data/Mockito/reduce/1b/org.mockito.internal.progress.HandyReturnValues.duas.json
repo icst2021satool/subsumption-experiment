@@ -1,0 +1,13 @@
+{
+"Class" : "org.mockito.internal.progress.HandyReturnValues", 
+"Methods" : [{ "Name" : "returnFor" ,
+"Duas" : 3,
+"0" :  "(37,(37,38), clazz)",
+"1" :  "(37,(37,40), clazz)",
+"2" :  "(37,38, clazz)"},{ "Name" : "returnFor" ,
+"Duas" : 4,
+"0" :  "(56,56, this)",
+"1" :  "(56,(56,56), instance)",
+"2" :  "(56,(56,56), instance)",
+"3" :  "(56,56, instance)"}]
+}

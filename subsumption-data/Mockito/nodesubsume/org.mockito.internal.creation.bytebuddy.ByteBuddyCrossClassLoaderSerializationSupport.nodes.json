@@ -1,0 +1,10 @@
+{
+"Class" : "org.mockito.internal.creation.bytebuddy.ByteBuddyCrossClassLoaderSerializationSupport", 
+"Methods" : [{ "Name" : "writeReplace" ,
+"Nodes" : 4,
+"0" : [ 112,116 ]
+"1" : [ 133,134,119,121 ]
+"2" : [ 117,133,134 ]
+"3" : [  ]
+}]
+}

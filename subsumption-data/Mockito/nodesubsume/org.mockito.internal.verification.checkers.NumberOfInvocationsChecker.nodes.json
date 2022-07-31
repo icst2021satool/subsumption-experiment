@@ -1,0 +1,15 @@
+{
+"Class" : "org.mockito.internal.verification.checkers.NumberOfInvocationsChecker", 
+"Methods" : [{ "Name" : "check" ,
+"Nodes" : 9,
+"0" : [ 34,36,37 ]
+"1" : [ 40 ]
+"2" : [ 43 ]
+"3" : [ 48,49 ]
+"4" : [ 44,45 ]
+"5" : [ 40 ]
+"6" : [ 41,42,43 ]
+"7" : [ 38,39,40 ]
+"8" : [  ]
+}]
+}

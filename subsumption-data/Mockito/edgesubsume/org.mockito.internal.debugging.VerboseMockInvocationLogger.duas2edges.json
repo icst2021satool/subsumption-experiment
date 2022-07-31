@@ -1,0 +1,16 @@
+{
+"Class" : "org.mockito.internal.debugging.VerboseMockInvocationLogger", 
+"Methods" : [{ "Name" : "printReturnedValueOrThrowable" ,
+"Edges" : 13,
+"Duas" : 12,
+"2" : 0, 
+ "3" : 1, 
+ "4" : 4, 
+ "5" : 5, 
+ "8" : 10, 
+ "9" : 11},{ "Name" : "printStubInfo" ,
+"Edges" : 4,
+"Duas" : 4,
+"1" : 0, 
+ "2" : 1}]
+}

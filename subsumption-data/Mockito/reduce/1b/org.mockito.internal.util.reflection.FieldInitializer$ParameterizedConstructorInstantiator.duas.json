@@ -1,0 +1,13 @@
+{
+"Class" : "org.mockito.internal.util.reflection.FieldInitializer$ParameterizedConstructorInstantiator", 
+"Methods" : [{ "Name" : "instantiate" ,
+"Duas" : 4,
+"0" :  "(250,271, changer)",
+"1" :  "(253,(270,271), constructor)",
+"2" :  "(253,(270,260), constructor)",
+"3" :  "(253,271, constructor)"},{ "Name" : "checkParameterized" ,
+"Duas" : 3,
+"0" :  "(277,(277,278), constructor)",
+"1" :  "(277,(277,280), constructor)",
+"2" :  "(277,278, field)"}]
+}

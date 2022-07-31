@@ -1,0 +1,35 @@
+{
+"Class" : "org.mockito.MockitoAnnotations", 
+"Methods" : [{ "Name" : "initMocks" ,
+"Nodes" : 7,
+"0" : [ 90 ]
+"1" : [ 98,94,95 ]
+"2" : [ 108,109 ]
+"3" : [ 101 ]
+"4" : [ 102,103 ]
+"5" : [ 91 ]
+"6" : [  ]
+},{ "Name" : "scanDeprecatedWay" ,
+"Nodes" : 5,
+"0" : [ 112,114 ]
+"1" : [ 114 ]
+"2" : [ 117 ]
+"3" : [ 114,115 ]
+"4" : [  ]
+},{ "Name" : "processAnnotationDeprecatedWay" ,
+"Nodes" : 7,
+"0" : [ 121,122 ]
+"1" : [ 122 ]
+"2" : [ 135 ]
+"3" : [ 122,123,124 ]
+"4" : [ 122 ]
+"5" : [ 128,132,125,126 ]
+"6" : [  ]
+},{ "Name" : "throwIfAlreadyAssigned" ,
+"Nodes" : 4,
+"0" : [ 138 ]
+"1" : [ 141 ]
+"2" : [ 139 ]
+"3" : [  ]
+}]
+}

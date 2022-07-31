@@ -1,0 +1,16 @@
+{
+"Class" : "org.mockito.internal.creation.bytebuddy.ByteBuddyCrossClassLoaderSerializationSupport", 
+"Methods" : [{ "Name" : "writeReplace" ,
+"Duas" : 11,
+"0" :  "(112,(116,117), this)",
+"1" :  "(112,(116,119), this)",
+"2" :  "(112,119, this)",
+"3" :  "(112,133, this)",
+"4" :  "(112,134, this)",
+"5" :  "(112,133, this)",
+"6" :  "(112,134, this)",
+"7" :  "(112,121, mockitoMock)",
+"8" :  "(112,117, mockitoMock)",
+"9" :  "(112,134, this.mutex)",
+"10" :  "(112,134, this.mutex)"}]
+}

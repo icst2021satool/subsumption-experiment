@@ -1,0 +1,14 @@
+{
+"Class" : "org.mockito.internal.InOrderImpl", 
+"Methods" : [{ "Name" : "verify" ,
+"Nodes" : 6,
+"0" : [ ],
+"1" : [ 1, 6, 13],
+"3" : [ 1, 6, 8, 11, 13],
+"4" : [ 0, 4, 5, 12, 14],
+"2" : [ 2, 3, 7, 10, 15],
+"5" : [ ],
+"CoveredDUAsByNodes" : 15,
+"Duas" : 16
+}]
+}

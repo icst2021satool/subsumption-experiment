@@ -1,0 +1,35 @@
+{
+"Class" : "org.mockito.internal.progress.ArgumentMatcherStorageImpl", 
+"Methods" : [{ "Name" : "pullLocalizedMatchers" ,
+"Nodes" : 4,
+"0" : [ 40 ]
+"1" : [ 44,45,46 ]
+"2" : [ 41 ]
+"3" : [  ]
+},{ "Name" : "popLastArgumentMatchers" ,
+"Nodes" : 5,
+"0" : [ 85,86,87 ]
+"1" : [ 87 ]
+"2" : [ 90 ]
+"3" : [ 87,88 ]
+"4" : [  ]
+},{ "Name" : "assertMatchersFoundFor" ,
+"Nodes" : 4,
+"0" : [ 94 ]
+"1" : [ 98 ]
+"2" : [ 96,95 ]
+"3" : [  ]
+},{ "Name" : "assertIncorrectUseOfAdditionalMatchers" ,
+"Nodes" : 4,
+"0" : [ 101 ]
+"1" : [ 106 ]
+"2" : [ 102,103,104 ]
+"3" : [  ]
+},{ "Name" : "validateState" ,
+"Nodes" : 4,
+"0" : [ 112 ]
+"1" : [ 117 ]
+"2" : [ 113,114,115 ]
+"3" : [  ]
+}]
+}

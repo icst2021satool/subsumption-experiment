@@ -1,0 +1,16 @@
+{
+"Class" : "org.mockito.internal.verification.Only", 
+"Methods" : [{ "Name" : "verify" ,
+"Nodes" : 8,
+"0" : [ ],
+"5" : [ 10],
+"1" : [ ],
+"4" : [ 12],
+"2" : [ 0, 5, 8],
+"6" : [ 2, 3, 19, 4, 6, 10, 14, 15],
+"3" : [ 16, 1, 7, 9],
+"7" : [ 16, 1, 7, 9],
+"CoveredDUAsByNodes" : 16,
+"Duas" : 21
+}]
+}

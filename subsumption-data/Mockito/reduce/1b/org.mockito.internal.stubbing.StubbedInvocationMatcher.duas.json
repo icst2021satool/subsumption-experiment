@@ -1,0 +1,17 @@
+{
+"Class" : "org.mockito.internal.stubbing.StubbedInvocationMatcher", 
+"Methods" : [{ "Name" : "answer" ,
+"Duas" : 7,
+"0" :  "(31,(32,32), this)",
+"1" :  "(31,(32,32), this)",
+"2" :  "(31,32, this)",
+"3" :  "(31,34, invocation)",
+"4" :  "(31,(32,32), this.answers)",
+"5" :  "(31,(32,32), this.answers)",
+"6" :  "(31,32, this.answers)"},{ "Name" : "wasUsed" ,
+"Duas" : 4,
+"0" :  "(46,(46,46), this)",
+"1" :  "(46,(46,46), this)",
+"2" :  "(46,(46,46), this.usedAt)",
+"3" :  "(46,(46,46), this.usedAt)"}]
+}

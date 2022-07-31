@@ -1,0 +1,16 @@
+{
+"Class" : "org.mockito.internal.verification.AtMost", 
+"Methods" : [{ "Name" : "<init>" ,
+"Nodes" : 4,
+"0" : [ 22,24,25 ]
+"1" : [ 28,29 ]
+"2" : [ 26 ]
+"3" : [  ]
+},{ "Name" : "verify" ,
+"Nodes" : 4,
+"0" : [ 32,33,35,36,37,38 ]
+"1" : [ 42,43 ]
+"2" : [ 39 ]
+"3" : [  ]
+}]
+}

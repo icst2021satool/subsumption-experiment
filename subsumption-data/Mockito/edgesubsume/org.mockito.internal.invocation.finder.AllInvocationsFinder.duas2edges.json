@@ -1,0 +1,7 @@
+{
+"Class" : "org.mockito.internal.invocation.finder.AllInvocationsFinder", 
+"Methods" : [{ "Name" : "find" ,
+"Edges" : 5,
+"Duas" : 2,
+}]
+}

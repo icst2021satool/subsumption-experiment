@@ -1,0 +1,24 @@
+{
+"Class" : "org.mockito.internal.creation.bytebuddy.CachingMockBytecodeGenerator$CachedBytecodeGenerator$MockKey", 
+"Methods" : [{ "Name" : "<init>" ,
+"Nodes" : 5,
+"0" : [ 100,102,103,104 ]
+"1" : [ 104 ]
+"2" : [ 107,108 ]
+"3" : [ 104,105,106 ]
+"4" : [  ]
+},{ "Name" : "equals" ,
+"Nodes" : 11,
+"0" : [ 112 ]
+"1" : [ 113 ]
+"2" : [ 113 ]
+"3" : [ 113 ]
+"4" : [ 115,117 ]
+"5" : [ 118 ]
+"6" : [ 120 ]
+"7" : [ 118 ]
+"8" : [ 117 ]
+"9" : [ 112 ]
+"10" : [  ]
+}]
+}

@@ -1,0 +1,13 @@
+{
+"Class" : "org.mockito.internal.runners.util.TestMethodsFinder", 
+"Methods" : [{ "Name" : "hasTestMethods" ,
+"Nodes" : 7,
+"0" : [ 13,14 ]
+"1" : [ 14 ]
+"2" : [ 19 ]
+"3" : [ 14,15 ]
+"4" : [ 14 ]
+"5" : [ 16 ]
+"6" : [  ]
+}]
+}

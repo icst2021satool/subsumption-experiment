@@ -1,0 +1,20 @@
+{
+"Class" : "org.mockito.internal.invocation.UnusedStubsFinder", 
+"Methods" : [{ "Name" : "find" ,
+"Edges" : 12,
+"2" : [ ],
+"9" : [ ],
+"10" : [ 0],
+"5" : [ 0],
+"0" : [ ],
+"3" : [ ],
+"4" : [ ],
+"1" : [ ],
+"6" : [ 1, 2, 4],
+"7" : [ 3],
+"11" : [ 1, 2, 4],
+"8" : [ ],
+"CoveredDUAsByEdges" : 5,
+"Duas" : 5
+}]
+}

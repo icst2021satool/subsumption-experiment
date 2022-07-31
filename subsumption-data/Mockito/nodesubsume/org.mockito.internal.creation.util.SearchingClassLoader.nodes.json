@@ -1,0 +1,31 @@
+{
+"Class" : "org.mockito.internal.creation.util.SearchingClassLoader", 
+"Methods" : [{ "Name" : "combineLoadersOf" ,
+"Nodes" : 5,
+"0" : [ 28,30,31 ]
+"1" : [ 31 ]
+"2" : [ 49,40,44 ]
+"3" : [ 32,31 ]
+"4" : [  ]
+},{ "Name" : "combine" ,
+"Nodes" : 5,
+"0" : [ 53,55 ]
+"1" : [ 55 ]
+"2" : [ 59 ]
+"3" : [ 55,56 ]
+"4" : [  ]
+},{ "Name" : "addIfNewElement" ,
+"Nodes" : 5,
+"0" : [ 63 ]
+"1" : [ 66 ]
+"2" : [ 63 ]
+"3" : [ 64 ]
+"4" : [  ]
+},{ "Name" : "findClass" ,
+"Nodes" : 4,
+"0" : [ 70 ]
+"1" : [ 73 ]
+"2" : [ 71 ]
+"3" : [  ]
+}]
+}

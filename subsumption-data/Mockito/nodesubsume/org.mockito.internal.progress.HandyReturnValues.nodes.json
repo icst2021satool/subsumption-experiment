@@ -1,0 +1,17 @@
+{
+"Class" : "org.mockito.internal.progress.HandyReturnValues", 
+"Methods" : [{ "Name" : "returnFor" ,
+"Nodes" : 4,
+"0" : [ 37 ]
+"1" : [ 40 ]
+"2" : [ 38 ]
+"3" : [  ]
+},{ "Name" : "returnFor" ,
+"Nodes" : 5,
+"0" : [ 56 ]
+"1" : [ 56 ]
+"2" : [ 56 ]
+"3" : [ 56 ]
+"4" : [  ]
+}]
+}

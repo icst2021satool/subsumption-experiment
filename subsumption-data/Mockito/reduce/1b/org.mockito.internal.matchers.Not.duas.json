@@ -1,0 +1,11 @@
+{
+"Class" : "org.mockito.internal.matchers.Not", 
+"Methods" : [{ "Name" : "matches" ,
+"Duas" : 6,
+"0" :  "(25,(25,25), this)",
+"1" :  "(25,(25,25), this)",
+"2" :  "(25,(25,25), actual)",
+"3" :  "(25,(25,25), actual)",
+"4" :  "(25,(25,25), this.first)",
+"5" :  "(25,(25,25), this.first)"}]
+}

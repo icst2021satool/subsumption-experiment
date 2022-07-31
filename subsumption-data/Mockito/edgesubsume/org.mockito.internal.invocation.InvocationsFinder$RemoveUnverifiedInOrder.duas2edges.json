@@ -1,0 +1,12 @@
+{
+"Class" : "org.mockito.internal.invocation.InvocationsFinder$RemoveUnverifiedInOrder", 
+"Methods" : [{ "Name" : "isOut" ,
+"Edges" : 5,
+"Duas" : 6,
+"0" : 1, 
+ "1" : 2, 
+ "2" : 1, 
+ "3" : 2, 
+ "4" : 1, 
+ "5" : 2}]
+}

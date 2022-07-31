@@ -1,0 +1,14 @@
+{
+"Class" : "org.mockito.internal.stubbing.StubberImpl", 
+"Methods" : [{ "Name" : "when" ,
+"Nodes" : 6,
+"0" : [ ],
+"1" : [ 4],
+"3" : [ 1, 4, 5, 9, 12],
+"4" : [ 2, 3, 10],
+"2" : [ 0, 7, 8, 11, 14],
+"5" : [ 0, 7, 8, 11, 14],
+"CoveredDUAsByNodes" : 13,
+"Duas" : 15
+}]
+}

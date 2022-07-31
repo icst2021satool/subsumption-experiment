@@ -1,0 +1,16 @@
+{
+"Class" : "org.mockito.internal.stubbing.defaultanswers.ReturnsMocks", 
+"Methods" : [{ "Name" : "answer" ,
+"Nodes" : 4,
+"0" : [ 21,22 ]
+"1" : [ 26 ]
+"2" : [ 23 ]
+"3" : [  ]
+},{ "Name" : "returnValueFor" ,
+"Nodes" : 4,
+"0" : [ 30 ]
+"1" : [ 34 ]
+"2" : [ 31 ]
+"3" : [  ]
+}]
+}

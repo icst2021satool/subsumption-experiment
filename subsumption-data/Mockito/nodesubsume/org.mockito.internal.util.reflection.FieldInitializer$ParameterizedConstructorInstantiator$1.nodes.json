@@ -1,0 +1,19 @@
+{
+"Class" : "org.mockito.internal.util.reflection.FieldInitializer$ParameterizedConstructorInstantiator$1", 
+"Methods" : [{ "Name" : "compare" ,
+"Nodes" : 4,
+"0" : [ 219,220 ]
+"1" : [ 225 ]
+"2" : [ 221,222,223 ]
+"3" : [  ]
+},{ "Name" : "countMockableParams" ,
+"Nodes" : 7,
+"0" : [ 229,230 ]
+"1" : [ 230 ]
+"2" : [ 235 ]
+"3" : [ 230,231 ]
+"4" : [ 230 ]
+"5" : [ 232 ]
+"6" : [  ]
+}]
+}

@@ -1,0 +1,12 @@
+{
+"Class" : "org.mockito.internal.configuration.GlobalConfiguration", 
+"Methods" : [{ "Name" : "<init>" ,
+"Edges" : 4,
+"Duas" : 4,
+"1" : 0, 
+ "2" : 1},{ "Name" : "createConfig" ,
+"Edges" : 4,
+"Duas" : 4,
+"1" : 0, 
+ "2" : 1}]
+}

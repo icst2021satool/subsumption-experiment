@@ -1,0 +1,12 @@
+{
+"Class" : "org.mockito.internal.stubbing.answers.ClonesArguments", 
+"Methods" : [{ "Name" : "answer" ,
+"Edges" : 5,
+"Duas" : 15,
+"1" : 0, 
+ "2" : 1, 
+ "5" : 0, 
+ "6" : 1, 
+ "10" : 0, 
+ "11" : 1}]
+}

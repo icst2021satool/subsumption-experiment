@@ -1,0 +1,17 @@
+{
+"Class" : "org.mockito.internal.matchers.MatchersPrinter", 
+"Methods" : [{ "Name" : "applyPrintSettings" ,
+"Nodes" : 9,
+"0" : [ ],
+"1" : [ ],
+"2" : [ 2],
+"8" : [ 2],
+"3" : [ ],
+"6" : [ 8],
+"4" : [ 3, 10],
+"7" : [ 0, 4, 8, 11],
+"5" : [ 5],
+"CoveredDUAsByNodes" : 8,
+"Duas" : 15
+}]
+}

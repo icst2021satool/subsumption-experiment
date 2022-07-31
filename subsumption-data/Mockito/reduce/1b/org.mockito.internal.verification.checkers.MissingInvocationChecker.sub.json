@@ -1,0 +1,10 @@
+{
+"Class" : "org.mockito.internal.verification.checkers.MissingInvocationChecker", 
+"Methods" : [{ "Name" : "check" ,
+"Duas" : "19" ,
+"Subsumers" : 3,
+"0" : [ 15, 10, 6, 4, 1], "S0" : [0, 1, 3, 4, 5, 6, 9, 10, 12, 15 ],
+"1" : [ 16, 17, 18, 14, 11, 7, 8, 2], "S1" : [0, 2, 3, 5, 7, 8, 9, 11, 12, 14, 16, 17, 18 ],
+"2" : [ 13], "S2" : [13 ]
+}]
+}

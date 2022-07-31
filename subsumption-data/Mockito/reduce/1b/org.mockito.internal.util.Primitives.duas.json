@@ -1,0 +1,10 @@
+{
+"Class" : "org.mockito.internal.util.Primitives", 
+"Methods" : [{ "Name" : "primitiveTypeOf" ,
+"Duas" : 5,
+"0" :  "(29,(29,30), clazz)",
+"1" :  "(29,(29,32), clazz)",
+"2" :  "(29,32, clazz)",
+"3" :  "(29,30, clazz)",
+"4" :  "(29,32, PRIMITIVE_TYPES)"}]
+}

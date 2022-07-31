@@ -1,0 +1,26 @@
+{
+"Class" : "org.mockito.internal.creation.DelegatingMethod", 
+"Methods" : [{ "Name" : "<init>" ,
+"Nodes" : 5,
+"0" : [ 16,17 ]
+"1" : [ 18,19 ]
+"2" : [ 17 ]
+"3" : [ 17 ]
+"4" : [  ]
+},{ "Name" : "isAbstract" ,
+"Nodes" : 5,
+"0" : [ 46 ]
+"1" : [ 46 ]
+"2" : [ 46 ]
+"3" : [ 46 ]
+"4" : [  ]
+},{ "Name" : "equals" ,
+"Nodes" : 6,
+"0" : [ 55 ]
+"1" : [ 58 ]
+"2" : [ 62 ]
+"3" : [ 59,60 ]
+"4" : [ 56 ]
+"5" : [  ]
+}]
+}

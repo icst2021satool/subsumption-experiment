@@ -1,0 +1,16 @@
+{
+"Class" : "org.mockito.internal.util.Decamelizer", 
+"Methods" : [{ "Name" : "decamelizeMatcher" ,
+"Edges" : 7,
+"Duas" : 7,
+"0" : 5, 
+ "1" : 6, 
+ "4" : 1, 
+ "5" : 2},{ "Name" : "decamelizeClassName" ,
+"Edges" : 8,
+"Duas" : 10,
+"0" : 2, 
+ "1" : 3, 
+ "5" : 0, 
+ "6" : 1}]
+}

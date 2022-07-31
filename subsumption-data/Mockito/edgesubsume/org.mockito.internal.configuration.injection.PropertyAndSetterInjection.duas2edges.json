@@ -1,0 +1,16 @@
+{
+"Class" : "org.mockito.internal.configuration.injection.PropertyAndSetterInjection", 
+"Methods" : [{ "Name" : "processInjection" ,
+"Edges" : 5,
+"Duas" : 15,
+"4" : 0, 
+ "5" : 1, 
+ "11" : 0, 
+ "12" : 1},{ "Name" : "injectMockCandidatesOnFields" ,
+"Edges" : 8,
+"Duas" : 16,
+"7" : 2, 
+ "8" : 3, 
+ "11" : 0, 
+ "12" : 1}]
+}

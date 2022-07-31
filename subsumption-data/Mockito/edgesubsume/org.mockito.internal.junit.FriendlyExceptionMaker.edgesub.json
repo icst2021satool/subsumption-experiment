@@ -1,0 +1,12 @@
+{
+"Class" : "org.mockito.internal.junit.FriendlyExceptionMaker", 
+"Methods" : [{ "Name" : "createArgumentsAreDifferentException" ,
+"Edges" : 4,
+"0" : [ 0, 3, 6],
+"1" : [ 1, 2, 4, 5, 7],
+"3" : [ 1, 2, 4, 5, 7],
+"2" : [ 0, 3, 6],
+"CoveredDUAsByEdges" : 8,
+"Duas" : 8
+}]
+}

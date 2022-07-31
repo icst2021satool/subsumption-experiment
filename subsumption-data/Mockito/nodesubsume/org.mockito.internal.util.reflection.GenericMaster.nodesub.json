@@ -1,0 +1,15 @@
+{
+"Class" : "org.mockito.internal.util.reflection.GenericMaster", 
+"Methods" : [{ "Name" : "getGenericType" ,
+"Nodes" : 7,
+"0" : [ ],
+"2" : [ 0, 2],
+"3" : [ 0, 2, 4],
+"1" : [ ],
+"4" : [ 0, 2, 4, 5, 7],
+"5" : [ 0, 2, 3, 8],
+"6" : [ ],
+"CoveredDUAsByNodes" : 7,
+"Duas" : 9
+}]
+}

@@ -1,0 +1,12 @@
+{
+"Class" : "org.mockito.internal.matchers.InstanceOf", 
+"Methods" : [{ "Name" : "matches" ,
+"Nodes" : 6,
+"0" : [ 24 ]
+"1" : [ 24 ]
+"2" : [ 24 ]
+"3" : [ 24 ]
+"4" : [ 24 ]
+"5" : [  ]
+}]
+}

@@ -1,0 +1,13 @@
+{
+"Class" : "org.mockito.internal.configuration.injection.ConstructorInjection$SimpleArgumentResolver", 
+"Methods" : [{ "Name" : "resolveTypeInstances" ,
+"Edges" : 5,
+"Duas" : 3,
+},{ "Name" : "objectThatIsAssignableFrom" ,
+"Edges" : 8,
+"Duas" : 5,
+"0" : 3, 
+ "1" : 4, 
+ "2" : 3, 
+ "3" : 4}]
+}

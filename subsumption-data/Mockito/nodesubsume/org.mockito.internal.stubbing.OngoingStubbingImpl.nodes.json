@@ -1,0 +1,10 @@
+{
+"Class" : "org.mockito.internal.stubbing.OngoingStubbingImpl", 
+"Methods" : [{ "Name" : "thenAnswer" ,
+"Nodes" : 4,
+"0" : [ 24 ]
+"1" : [ 28,29 ]
+"2" : [ 25 ]
+"3" : [  ]
+}]
+}

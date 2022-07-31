@@ -1,0 +1,15 @@
+{
+"Class" : "org.mockito.internal.stubbing.answers.ThrowsException", 
+"Methods" : [{ "Name" : "answer" ,
+"Duas" : 10,
+"0" :  "(25,(25,26), this)",
+"1" :  "(25,(25,28), this)",
+"2" :  "(25,28, this)",
+"3" :  "(25,29, this)",
+"4" :  "(25,26, this)",
+"5" :  "(25,(25,26), this.throwable)",
+"6" :  "(25,(25,28), this.throwable)",
+"7" :  "(25,28, this.throwable)",
+"8" :  "(25,26, this.throwable)",
+"9" :  "(25,29, this.filter)"}]
+}

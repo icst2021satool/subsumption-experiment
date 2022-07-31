@@ -1,0 +1,11 @@
+{
+"Class" : "org.mockito.internal.creation.settings.CreationSettings", 
+"Methods" : [{ "Name" : "isSerializable" ,
+"Duas" : 6,
+"0" :  "(94,(94,94), this)",
+"1" :  "(94,(94,94), this)",
+"2" :  "(94,(94,94), NONE)",
+"3" :  "(94,(94,94), NONE)",
+"4" :  "(94,(94,94), this.serializableMode)",
+"5" :  "(94,(94,94), this.serializableMode)"}]
+}

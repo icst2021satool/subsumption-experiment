@@ -1,0 +1,17 @@
+{
+"Class" : "org.mockito.internal.util.reflection.BeanPropertySetter", 
+"Methods" : [{ "Name" : "set" ,
+"Duas" : 4,
+"0" :  "(53,69, changer)",
+"1" :  "(56,(68,69), writeMethod)",
+"2" :  "(56,(68,60), writeMethod)",
+"3" :  "(56,69, writeMethod)"},{ "Name" : "reportNoSetterFound" ,
+"Duas" : 7,
+"0" :  "(93,(93,94), this)",
+"1" :  "(93,(93,96), this)",
+"2" :  "(93,94, this)",
+"3" :  "(93,(93,94), this.reportNoSetterFound)",
+"4" :  "(93,(93,96), this.reportNoSetterFound)",
+"5" :  "(93,94, this.target)",
+"6" :  "(93,94, this.field)"}]
+}

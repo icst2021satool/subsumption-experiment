@@ -1,0 +1,17 @@
+{
+"Class" : "org.mockito.internal.util.junit.JUnitFailureHacker", 
+"Methods" : [{ "Name" : "appendWarnings" ,
+"Duas" : 7,
+"0" :  "(14,(14,15), this)",
+"1" :  "(14,(14,18), this)",
+"2" :  "(14,18, failure)",
+"3" :  "(14,25, failure)",
+"4" :  "(14,(14,15), warnings)",
+"5" :  "(14,(14,18), warnings)",
+"6" :  "(14,20, warnings)"},{ "Name" : "isEmpty" ,
+"Duas" : 4,
+"0" :  "(29,(29,29), warnings)",
+"1" :  "(29,(29,29), warnings)",
+"2" :  "(29,(29,29), warnings)",
+"3" :  "(29,(29,29), warnings)"}]
+}

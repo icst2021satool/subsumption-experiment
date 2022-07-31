@@ -1,0 +1,14 @@
+{
+"Class" : "org.mockito.internal.configuration.GlobalConfiguration", 
+"Methods" : [{ "Name" : "<init>" ,
+"Duas" : 4,
+"0" :  "(29,32, this)",
+"1" :  "(29,(31,32), GLOBAL_CONFIGURATION)",
+"2" :  "(29,(31,34), GLOBAL_CONFIGURATION)",
+"3" :  "(29,32, GLOBAL_CONFIGURATION)"},{ "Name" : "createConfig" ,
+"Duas" : 4,
+"0" :  "(37,42, defaultConfiguration)",
+"1" :  "(38,(39,40), config)",
+"2" :  "(38,(39,42), config)",
+"3" :  "(38,40, config)"}]
+}

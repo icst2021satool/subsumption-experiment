@@ -1,0 +1,14 @@
+{
+"Class" : "org.mockito.internal.verification.checkers.NonGreedyNumberOfInvocationsInOrderChecker", 
+"Methods" : [{ "Name" : "check" ,
+"Edges" : 8,
+"0" : [ 4,1 ],
+"1" : [ 3,5 ],
+"2" : [ 3,4 ],
+"3" : [ 0,1 ],
+"4" : [ 2,6 ],
+"5" : [ 5,4 ],
+"6" : [ 1,3 ],
+"7" : [ 1,2 ]
+}]
+}

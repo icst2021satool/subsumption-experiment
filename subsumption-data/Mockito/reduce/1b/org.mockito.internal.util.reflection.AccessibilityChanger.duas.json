@@ -1,0 +1,14 @@
+{
+"Class" : "org.mockito.internal.util.reflection.AccessibilityChanger", 
+"Methods" : [{ "Name" : "safelyDisableAccess" ,
+"Duas" : 9,
+"0" :  "(17,19, this)",
+"1" :  "(17,(17,17), this)",
+"2" :  "(17,(17,19), this)",
+"3" :  "(17,19, accessibleObject)",
+"4" :  "(17,(17,17), $assertionsDisabled)",
+"5" :  "(17,(17,19), $assertionsDisabled)",
+"6" :  "(17,19, this.wasAccessible)",
+"7" :  "(17,(17,17), this.wasAccessible)",
+"8" :  "(17,(17,19), this.wasAccessible)"}]
+}

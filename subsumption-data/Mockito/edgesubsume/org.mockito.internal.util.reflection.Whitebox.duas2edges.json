@@ -1,0 +1,18 @@
+{
+"Class" : "org.mockito.internal.util.reflection.Whitebox", 
+"Methods" : [{ "Name" : "getFieldFromHierarchy" ,
+"Edges" : 10,
+"Duas" : 20,
+"1" : 4, 
+ "2" : 5, 
+ "6" : 2, 
+ "7" : 3, 
+ "8" : 7, 
+ "9" : 8, 
+ "12" : 4, 
+ "13" : 5, 
+ "15" : 2, 
+ "16" : 3, 
+ "17" : 7, 
+ "18" : 8}]
+}

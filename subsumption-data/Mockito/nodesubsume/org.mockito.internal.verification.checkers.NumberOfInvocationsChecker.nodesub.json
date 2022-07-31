@@ -1,0 +1,17 @@
+{
+"Class" : "org.mockito.internal.verification.checkers.NumberOfInvocationsChecker", 
+"Methods" : [{ "Name" : "check" ,
+"Nodes" : 9,
+"0" : [ ],
+"1" : [ 10, 29],
+"5" : [ 10, 11, 29],
+"2" : [ 10, 29],
+"4" : [ 16, 32, 1, 20, 6, 25, 10, 13, 29, 30, 15],
+"6" : [ 17, 33, 2, 21, 7, 10, 26, 11, 29],
+"7" : [ 18, 3, 19, 35, 4, 22, 8, 9, 27, 28],
+"3" : [ 0, 5, 23, 24],
+"8" : [ 0, 5, 23, 24],
+"CoveredDUAsByNodes" : 32,
+"Duas" : 36
+}]
+}

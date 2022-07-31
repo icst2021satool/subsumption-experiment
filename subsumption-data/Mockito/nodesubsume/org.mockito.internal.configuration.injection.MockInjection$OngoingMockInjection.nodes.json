@@ -1,0 +1,11 @@
+{
+"Class" : "org.mockito.internal.configuration.injection.MockInjection$OngoingMockInjection", 
+"Methods" : [{ "Name" : "apply" ,
+"Nodes" : 5,
+"0" : [ 91 ]
+"1" : [ 91 ]
+"2" : [ 95 ]
+"3" : [ 91,92,93,94 ]
+"4" : [  ]
+}]
+}

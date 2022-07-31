@@ -1,0 +1,12 @@
+{
+"Class" : "org.mockito.internal.creation.bytebuddy.CachingMockBytecodeGenerator", 
+"Methods" : [{ "Name" : "mockCachePerClassLoaderOf" ,
+"Edges" : 4,
+"1" : [ 0, 3, 4, 5, 8, 9, 12, 13],
+"2" : [ 1, 2, 6, 7, 10, 11],
+"0" : [ 0, 2, 3, 4, 5, 7, 8, 9, 11, 12, 13],
+"3" : [ 2, 7, 11],
+"CoveredDUAsByEdges" : 14,
+"Duas" : 14
+}]
+}

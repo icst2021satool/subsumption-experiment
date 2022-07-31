@@ -1,0 +1,23 @@
+{
+"Class" : "org.mockito.internal.verification.AtMost", 
+"Methods" : [{ "Name" : "<init>" ,
+"Duas" : 4,
+"0" :  "(24,28, this)",
+"1" :  "(24,(25,26), maxNumberOfInvocations)",
+"2" :  "(24,(25,28), maxNumberOfInvocations)",
+"3" :  "(24,28, maxNumberOfInvocations)"},{ "Name" : "verify" ,
+"Duas" : 13,
+"0" :  "(32,(38,39), this)",
+"1" :  "(32,(38,42), this)",
+"2" :  "(32,42, this)",
+"3" :  "(32,39, this)",
+"4" :  "(32,(38,39), this.maxNumberOfInvocations)",
+"5" :  "(32,(38,42), this.maxNumberOfInvocations)",
+"6" :  "(32,39, this.maxNumberOfInvocations)",
+"7" :  "(32,42, this.invocationMarker)",
+"8" :  "(33,42, wanted)",
+"9" :  "(36,42, found)",
+"10" :  "(37,(38,39), foundSize)",
+"11" :  "(37,(38,42), foundSize)",
+"12" :  "(37,39, foundSize)"}]
+}

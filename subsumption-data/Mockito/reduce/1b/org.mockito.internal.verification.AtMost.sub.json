@@ -1,0 +1,14 @@
+{
+"Class" : "org.mockito.internal.verification.AtMost", 
+"Methods" : [{ "Name" : "<init>" ,
+"Duas" : "4" ,
+"Subsumers" : 2,
+"0" : [ 3, 2, 0], "S0" : [0, 2, 3 ],
+"1" : [ 1], "S1" : [1 ]
+},{ "Name" : "verify" ,
+"Duas" : "13" ,
+"Subsumers" : 2,
+"0" : [ 12, 10, 6, 4, 3, 0], "S0" : [0, 2, 3, 4, 6, 7, 8, 9, 10, 12 ],
+"1" : [ 11, 5, 1], "S1" : [1, 2, 5, 7, 8, 9, 11 ]
+}]
+}

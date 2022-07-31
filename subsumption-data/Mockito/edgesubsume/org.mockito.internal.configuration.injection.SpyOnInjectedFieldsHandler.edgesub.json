@@ -1,0 +1,18 @@
+{
+"Class" : "org.mockito.internal.configuration.injection.SpyOnInjectedFieldsHandler", 
+"Methods" : [{ "Name" : "processInjection" ,
+"Edges" : 10,
+"8" : [ 6],
+"9" : [ 7],
+"2" : [ 0, 6, 8],
+"3" : [ 1],
+"6" : [ 0, 6, 8, 9, 12],
+"7" : [ 0, 2, 3, 4, 5, 6, 8, 10, 11],
+"0" : [ 0, 2, 3, 4, 5, 6, 8, 10, 11],
+"4" : [ 0, 6, 8, 9, 12],
+"1" : [ 0, 6, 8],
+"5" : [ ],
+"CoveredDUAsByEdges" : 13,
+"Duas" : 13
+}]
+}

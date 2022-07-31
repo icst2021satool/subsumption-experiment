@@ -1,0 +1,10 @@
+{
+"Class" : "org.mockito.internal.matchers.CompareTo", 
+"Methods" : [{ "Name" : "matches" ,
+"Nodes" : 4,
+"0" : [ 22 ]
+"1" : [ 26 ]
+"2" : [ 23 ]
+"3" : [  ]
+}]
+}

@@ -1,0 +1,8 @@
+{
+"Class" : "org.mockito.internal.reporting.Pluralizer", 
+"Methods" : [{ "Name" : "pluralize" ,
+"Duas" : 3,
+"0" :  "(10,(10,10), number)",
+"1" :  "(10,(10,10), number)",
+"2" :  "(10,10, number)"}]
+}

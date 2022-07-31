@@ -1,0 +1,12 @@
+{
+"Class" : "org.mockito.internal.verification.NoMoreInteractions", 
+"Methods" : [{ "Name" : "verify" ,
+"Edges" : 4,
+"Duas" : 4,
+"1" : 0, 
+ "2" : 1},{ "Name" : "verifyInOrder" ,
+"Edges" : 4,
+"Duas" : 3,
+"0" : 0, 
+ "1" : 1}]
+}

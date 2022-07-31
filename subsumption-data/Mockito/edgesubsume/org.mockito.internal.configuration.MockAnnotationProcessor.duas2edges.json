@@ -1,0 +1,12 @@
+{
+"Class" : "org.mockito.internal.configuration.MockAnnotationProcessor", 
+"Methods" : [{ "Name" : "process" ,
+"Edges" : 11,
+"Duas" : 17,
+"0" : 5, 
+ "1" : 6, 
+ "2" : 7, 
+ "3" : 8, 
+ "5" : 1, 
+ "6" : 2}]
+}

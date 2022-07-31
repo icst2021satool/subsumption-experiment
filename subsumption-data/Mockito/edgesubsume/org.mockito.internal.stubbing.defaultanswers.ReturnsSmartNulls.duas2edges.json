@@ -1,0 +1,12 @@
+{
+"Class" : "org.mockito.internal.stubbing.defaultanswers.ReturnsSmartNulls", 
+"Methods" : [{ "Name" : "answer" ,
+"Edges" : 9,
+"Duas" : 10,
+"2" : 6, 
+ "3" : 7, 
+ "5" : 1, 
+ "6" : 2, 
+ "7" : 4, 
+ "8" : 5}]
+}

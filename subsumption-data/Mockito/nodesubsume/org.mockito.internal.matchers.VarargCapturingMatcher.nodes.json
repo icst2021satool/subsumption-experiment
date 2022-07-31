@@ -1,0 +1,21 @@
+{
+"Class" : "org.mockito.internal.matchers.VarargCapturingMatcher", 
+"Methods" : [{ "Name" : "getLastVarargs" ,
+"Nodes" : 4,
+"0" : [ 29 ]
+"1" : [ 33 ]
+"2" : [ 30,31 ]
+"3" : [  ]
+},{ "Name" : "unpackAsList" ,
+"Nodes" : 9,
+"0" : [ 47 ]
+"1" : [ 49 ]
+"2" : [ 56 ]
+"3" : [ 50,51 ]
+"4" : [ 51 ]
+"5" : [ 54 ]
+"6" : [ 51,52 ]
+"7" : [ 48 ]
+"8" : [  ]
+}]
+}

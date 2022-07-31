@@ -1,0 +1,31 @@
+{
+"Class" : "org.mockito.internal.matchers.LocalizedMatcher", 
+"Methods" : [{ "Name" : "withExtraTypeInfo" ,
+"Edges" : 4,
+"1" : [ 0, 3, 4, 6],
+"2" : [ 1, 2, 5],
+"3" : [ 1, 2, 5],
+"0" : [ 0, 3, 4, 6],
+"CoveredDUAsByEdges" : 7,
+"Duas" : 7
+},{ "Name" : "typeMatches" ,
+"Edges" : 7,
+"1" : [ 0, 6],
+"2" : [ 1, 7],
+"4" : [ 0, 2, 4, 6, 8],
+"5" : [ 3, 5, 9],
+"0" : [ ],
+"6" : [ 0, 2, 4, 6, 8],
+"3" : [ ],
+"CoveredDUAsByEdges" : 10,
+"Duas" : 10
+},{ "Name" : "captureFrom" ,
+"Edges" : 4,
+"2" : [ 0, 2, 3, 4, 6],
+"3" : [ 1, 5],
+"0" : [ 0, 2, 3, 4, 6],
+"1" : [ ],
+"CoveredDUAsByEdges" : 7,
+"Duas" : 7
+}]
+}

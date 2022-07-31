@@ -1,0 +1,16 @@
+{
+"Class" : "org.mockito.internal.stubbing.StubbedInvocationMatcher", 
+"Methods" : [{ "Name" : "answer" ,
+"Edges" : 5,
+"Duas" : 7,
+"0" : 0, 
+ "1" : 1, 
+ "4" : 0, 
+ "5" : 1},{ "Name" : "wasUsed" ,
+"Edges" : 5,
+"Duas" : 4,
+"0" : 0, 
+ "1" : 1, 
+ "2" : 0, 
+ "3" : 1}]
+}

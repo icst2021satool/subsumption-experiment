@@ -1,0 +1,13 @@
+{
+"Class" : "org.mockito.internal.util.collections.Iterables", 
+"Methods" : [{ "Name" : "toIterable" ,
+"Edges" : 5,
+"1" : [ ],
+"3" : [ 0, 2, 4],
+"4" : [ 1, 3],
+"2" : [ 1, 3],
+"0" : [ 0, 2, 4],
+"CoveredDUAsByEdges" : 5,
+"Duas" : 5
+}]
+}

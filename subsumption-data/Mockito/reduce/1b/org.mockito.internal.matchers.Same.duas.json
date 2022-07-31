@@ -1,0 +1,22 @@
+{
+"Class" : "org.mockito.internal.matchers.Same", 
+"Methods" : [{ "Name" : "matches" ,
+"Duas" : 6,
+"0" :  "(24,(24,24), this)",
+"1" :  "(24,(24,24), this)",
+"2" :  "(24,(24,24), actual)",
+"3" :  "(24,(24,24), actual)",
+"4" :  "(24,(24,24), this.wanted)",
+"5" :  "(24,(24,24), this.wanted)"},{ "Name" : "appendQuoting" ,
+"Duas" : 10,
+"0" :  "(36,(36,37), this)",
+"1" :  "(36,(36,38), this)",
+"2" :  "(36,(38,39), this)",
+"3" :  "(36,(38,41), this)",
+"4" :  "(36,39, description)",
+"5" :  "(36,37, description)",
+"6" :  "(36,(36,37), this.wanted)",
+"7" :  "(36,(36,38), this.wanted)",
+"8" :  "(36,(38,39), this.wanted)",
+"9" :  "(36,(38,41), this.wanted)"}]
+}

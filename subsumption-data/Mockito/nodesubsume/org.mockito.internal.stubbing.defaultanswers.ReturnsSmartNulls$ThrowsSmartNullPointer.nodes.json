@@ -1,0 +1,10 @@
+{
+"Class" : "org.mockito.internal.stubbing.defaultanswers.ReturnsSmartNulls$ThrowsSmartNullPointer", 
+"Methods" : [{ "Name" : "answer" ,
+"Nodes" : 4,
+"0" : [ 65 ]
+"1" : [ 70,71 ]
+"2" : [ 66,67 ]
+"3" : [  ]
+}]
+}

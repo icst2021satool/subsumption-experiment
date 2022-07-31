@@ -1,0 +1,12 @@
+{
+"Class" : "org.mockito.internal.handler.NullResultGuardian", 
+"Methods" : [{ "Name" : "handle" ,
+"Edges" : 6,
+"0" : [ 1,4 ],
+"1" : [ 3,4 ],
+"2" : [ 2,3 ],
+"3" : [ 2,1 ],
+"4" : [ 0,2 ],
+"5" : [ 0,1 ]
+}]
+}

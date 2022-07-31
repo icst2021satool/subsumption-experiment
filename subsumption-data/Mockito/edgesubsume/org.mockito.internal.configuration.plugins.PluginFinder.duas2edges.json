@@ -1,0 +1,14 @@
+{
+"Class" : "org.mockito.internal.configuration.plugins.PluginFinder", 
+"Methods" : [{ "Name" : "findPluginClass" ,
+"Edges" : 11,
+"Duas" : 12,
+"0" : 7, 
+ "1" : 8, 
+ "2" : 7, 
+ "3" : 8, 
+ "7" : 9, 
+ "8" : 10, 
+ "9" : 7, 
+ "10" : 8}]
+}

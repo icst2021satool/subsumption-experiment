@@ -1,0 +1,12 @@
+{
+"Class" : "org.mockito.internal.util.Primitives", 
+"Methods" : [{ "Name" : "primitiveTypeOf" ,
+"Edges" : 4,
+"1" : [ 0, 3],
+"2" : [ 1, 2, 4],
+"0" : [ 1, 2, 4],
+"3" : [ 0, 3],
+"CoveredDUAsByEdges" : 5,
+"Duas" : 5
+}]
+}

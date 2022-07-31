@@ -1,0 +1,9 @@
+{
+"Class" : "org.mockito.internal.progress.ThreadSafeMockingProgress", 
+"Methods" : [{ "Name" : "threadSafely" ,
+"Duas" : 4,
+"0" :  "(21,(21,22), mockingProgress)",
+"1" :  "(21,(21,24), mockingProgress)",
+"2" :  "(21,24, mockingProgress)",
+"3" :  "(21,22, mockingProgress)"}]
+}

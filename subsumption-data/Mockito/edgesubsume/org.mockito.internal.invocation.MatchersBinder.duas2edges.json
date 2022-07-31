@@ -1,0 +1,12 @@
+{
+"Class" : "org.mockito.internal.invocation.MatchersBinder", 
+"Methods" : [{ "Name" : "validateMatchers" ,
+"Edges" : 6,
+"Duas" : 10,
+"1" : 2, 
+ "2" : 3, 
+ "5" : 0, 
+ "6" : 1, 
+ "7" : 0, 
+ "8" : 1}]
+}

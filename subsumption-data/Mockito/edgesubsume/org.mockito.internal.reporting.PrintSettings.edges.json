@@ -1,0 +1,14 @@
+{
+"Class" : "org.mockito.internal.reporting.PrintSettings", 
+"Methods" : [{ "Name" : "print" ,
+"Edges" : 8,
+"0" : [ 0,2 ],
+"1" : [ 0,1 ],
+"2" : [ 1,5 ],
+"3" : [ 3,5 ],
+"4" : [ 2,4 ],
+"5" : [ 2,3 ],
+"6" : [ 4,1 ],
+"7" : [ 4,3 ]
+}]
+}

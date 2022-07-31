@@ -1,0 +1,10 @@
+{
+"Class" : "org.mockito.internal.debugging.MockitoDebuggerImpl", 
+"Methods" : [{ "Name" : "printInvocations" ,
+"Edges" : 15,
+"Duas" : 33,
+"16" : 1, 
+ "17" : 2, 
+ "26" : 5, 
+ "27" : 6}]
+}

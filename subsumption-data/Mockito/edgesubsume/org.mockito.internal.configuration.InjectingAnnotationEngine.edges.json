@@ -1,0 +1,25 @@
+{
+"Class" : "org.mockito.internal.configuration.InjectingAnnotationEngine", 
+"Methods" : [{ "Name" : "processInjectMocks" ,
+"Edges" : 5,
+"0" : [ 3,1 ],
+"1" : [ 2,4 ],
+"2" : [ 1,3 ],
+"3" : [ 1,2 ],
+"4" : [ 0,1 ]
+},{ "Name" : "processIndependentAnnotations" ,
+"Edges" : 5,
+"0" : [ 0,1 ],
+"1" : [ 2,4 ],
+"2" : [ 3,1 ],
+"3" : [ 1,3 ],
+"4" : [ 1,2 ]
+},{ "Name" : "injectMocks" ,
+"Edges" : 5,
+"0" : [ 1,3 ],
+"1" : [ 1,2 ],
+"2" : [ 3,1 ],
+"3" : [ 0,1 ],
+"4" : [ 2,4 ]
+}]
+}

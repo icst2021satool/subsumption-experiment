@@ -1,0 +1,18 @@
+{
+"Class" : "org.mockito.internal.util.reflection.LenientCopyTool", 
+"Methods" : [{ "Name" : "copy" ,
+"Edges" : 4,
+"Duas" : 7,
+"3" : 2, 
+ "4" : 3},{ "Name" : "copyValues" ,
+"Edges" : 9,
+"Duas" : 20,
+"4" : 0, 
+ "5" : 1, 
+ "7" : 0, 
+ "8" : 1, 
+ "11" : 2, 
+ "12" : 3, 
+ "16" : 0, 
+ "17" : 1}]
+}

@@ -1,0 +1,12 @@
+{
+"Class" : "org.mockito.internal.InOrderImpl", 
+"Methods" : [{ "Name" : "verify" ,
+"Nodes" : 6,
+"0" : [ 45 ]
+"1" : [ 47 ]
+"2" : [ 50 ]
+"3" : [ 48 ]
+"4" : [ 46 ]
+"5" : [  ]
+}]
+}

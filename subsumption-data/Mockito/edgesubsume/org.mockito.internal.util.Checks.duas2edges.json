@@ -1,0 +1,11 @@
+{
+"Class" : "org.mockito.internal.util.Checks", 
+"Methods" : [{ "Name" : "checkNotNull" ,
+"Edges" : 4,
+"Duas" : 4,
+"0" : 0, 
+ "1" : 1},{ "Name" : "checkItemsNotNull" ,
+"Edges" : 5,
+"Duas" : 2,
+}]
+}

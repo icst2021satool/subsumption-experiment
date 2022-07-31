@@ -1,0 +1,10 @@
+{
+"Class" : "org.mockito.internal.configuration.injection.PropertyAndSetterInjection$1", 
+"Methods" : [{ "Name" : "isOut" ,
+"Edges" : 7,
+"Duas" : 4,
+"0" : 0, 
+ "1" : 1, 
+ "2" : 2, 
+ "3" : 3}]
+}

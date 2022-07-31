@@ -1,0 +1,25 @@
+{
+"Class" : "org.mockito.internal.util.reflection.GenericMetadataSupport$FromClassGenericMetadataSupport", 
+"Methods" : [{ "Name" : "<init>" ,
+"Nodes" : 6,
+"0" : [ 257,254,255 ]
+"1" : [ 258 ]
+"2" : [ 263 ]
+"3" : [ 258 ]
+"4" : [ 259,261 ]
+"5" : [  ]
+},{ "Name" : "superClassOf" ,
+"Nodes" : 4,
+"0" : [ 266,267 ]
+"1" : [ 271 ]
+"2" : [ 268,269 ]
+"3" : [  ]
+},{ "Name" : "readActualTypeParametersOnDeclaringClass" ,
+"Nodes" : 5,
+"0" : [ 275,276,277 ]
+"1" : [ 277 ]
+"2" : [ 280 ]
+"3" : [ 277,278 ]
+"4" : [  ]
+}]
+}

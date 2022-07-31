@@ -1,0 +1,11 @@
+{
+"Class" : "org.mockito.internal.creation.settings.CreationSettings", 
+"Methods" : [{ "Name" : "isSerializable" ,
+"Nodes" : 5,
+"0" : [ 94 ]
+"1" : [ 94 ]
+"2" : [ 94 ]
+"3" : [ 94 ]
+"4" : [  ]
+}]
+}

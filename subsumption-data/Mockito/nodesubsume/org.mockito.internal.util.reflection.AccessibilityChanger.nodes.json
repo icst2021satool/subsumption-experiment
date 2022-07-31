@@ -1,0 +1,11 @@
+{
+"Class" : "org.mockito.internal.util.reflection.AccessibilityChanger", 
+"Methods" : [{ "Name" : "safelyDisableAccess" ,
+"Nodes" : 5,
+"0" : [ 17 ]
+"1" : [ 19,22,23 ]
+"2" : [ 17 ]
+"3" : [ 17 ]
+"4" : [  ]
+}]
+}

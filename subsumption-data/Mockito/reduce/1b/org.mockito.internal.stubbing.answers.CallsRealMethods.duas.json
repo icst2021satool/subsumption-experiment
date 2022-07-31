@@ -1,0 +1,10 @@
+{
+"Class" : "org.mockito.internal.stubbing.answers.CallsRealMethods", 
+"Methods" : [{ "Name" : "answer" ,
+"Duas" : 5,
+"0" :  "(37,(37,38), invocation)",
+"1" :  "(37,(37,40), invocation)",
+"2" :  "(37,40, invocation)",
+"3" :  "(37,38, invocation)",
+"4" :  "(37,38, RETURNS_DEFAULTS)"}]
+}

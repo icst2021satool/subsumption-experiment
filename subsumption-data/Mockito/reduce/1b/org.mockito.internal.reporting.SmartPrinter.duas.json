@@ -1,0 +1,18 @@
+{
+"Class" : "org.mockito.internal.reporting.SmartPrinter", 
+"Methods" : [{ "Name" : "<init>" ,
+"Duas" : 13,
+"0" :  "(21,26, this)",
+"1" :  "(21,27, this)",
+"2" :  "(21,(23,23), wanted)",
+"3" :  "(21,(23,23), wanted)",
+"4" :  "(21,26, wanted)",
+"5" :  "(21,27, actual)",
+"6" :  "(21,(23,23), actual)",
+"7" :  "(21,(23,23), actual)",
+"8" :  "(21,24, indexesOfMatchersToBeDescribedWithExtraTypeInfo)",
+"9" :  "(22,23, printSettings)",
+"10" :  "(22,24, printSettings)",
+"11" :  "(22,26, printSettings)",
+"12" :  "(22,27, printSettings)"}]
+}

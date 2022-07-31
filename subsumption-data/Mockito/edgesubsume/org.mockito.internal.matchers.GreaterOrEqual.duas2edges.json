@@ -1,0 +1,8 @@
+{
+"Class" : "org.mockito.internal.matchers.GreaterOrEqual", 
+"Methods" : [{ "Name" : "matchResult" ,
+"Edges" : 5,
+"Duas" : 2,
+"0" : 0, 
+ "1" : 1}]
+}

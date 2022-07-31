@@ -1,0 +1,36 @@
+{
+"Class" : "org.mockito.internal.progress.MockingProgressImpl", 
+"Methods" : [{ "Name" : "pullVerificationMode" ,
+"Nodes" : 4,
+"0" : [ ],
+"1" : [ 1, 2, 3, 5, 6],
+"2" : [ 0, 4],
+"3" : [ ],
+"CoveredDUAsByNodes" : 7,
+"Duas" : 7
+},{ "Name" : "validateState" ,
+"Nodes" : 4,
+"0" : [ ],
+"2" : [ 0, 2, 3, 4, 5, 7, 8],
+"1" : [ ],
+"3" : [ ],
+"CoveredDUAsByNodes" : 7,
+"Duas" : 9
+},{ "Name" : "validateMostStuff" ,
+"Nodes" : 4,
+"0" : [ ],
+"2" : [ 0, 3, 4, 5, 6, 8, 9],
+"1" : [ 2],
+"3" : [ 2],
+"CoveredDUAsByNodes" : 8,
+"Duas" : 10
+},{ "Name" : "mockingStarted" ,
+"Nodes" : 4,
+"0" : [ ],
+"2" : [ 0, 3, 4, 5, 6, 8],
+"1" : [ 2],
+"3" : [ 2],
+"CoveredDUAsByNodes" : 7,
+"Duas" : 9
+}]
+}

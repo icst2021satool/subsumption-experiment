@@ -1,0 +1,12 @@
+{
+"Class" : "org.mockito.internal.stubbing.StubberImpl", 
+"Methods" : [{ "Name" : "when" ,
+"Edges" : 7,
+"Duas" : 15,
+"3" : 4, 
+ "4" : 5, 
+ "5" : 1, 
+ "6" : 2, 
+ "12" : 1, 
+ "13" : 2}]
+}

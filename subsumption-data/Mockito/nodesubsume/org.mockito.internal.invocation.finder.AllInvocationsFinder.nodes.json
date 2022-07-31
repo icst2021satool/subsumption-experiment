@@ -1,0 +1,11 @@
+{
+"Class" : "org.mockito.internal.invocation.finder.AllInvocationsFinder", 
+"Methods" : [{ "Name" : "find" ,
+"Nodes" : 5,
+"0" : [ 23,24 ]
+"1" : [ 24 ]
+"2" : [ 30 ]
+"3" : [ 24,25,26,27,28 ]
+"4" : [  ]
+}]
+}

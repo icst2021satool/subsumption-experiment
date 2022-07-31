@@ -1,0 +1,18 @@
+{
+"Class" : "org.mockito.internal.creation.bytebuddy.CachingMockBytecodeGenerator$CachedBytecodeGenerator", 
+"Methods" : [{ "Name" : "getOrGenerateMockClass" ,
+"Nodes" : 6,
+"0" : [ 57,58,59,60 ]
+"1" : [ 63 ]
+"2" : [ 66,67 ]
+"3" : [ 64 ]
+"4" : [ 61 ]
+"5" : [  ]
+},{ "Name" : "prettifyFailure" ,
+"Nodes" : 4,
+"0" : [ 79 ]
+"1" : [ 86 ]
+"2" : [ 80 ]
+"3" : [  ]
+}]
+}

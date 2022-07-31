@@ -1,0 +1,10 @@
+{
+"Class" : "org.mockito.internal.reporting.SmartPrinter", 
+"Methods" : [{ "Name" : "<init>" ,
+"Edges" : 7,
+"Duas" : 13,
+"2" : 1, 
+ "3" : 2, 
+ "6" : 3, 
+ "7" : 4}]
+}

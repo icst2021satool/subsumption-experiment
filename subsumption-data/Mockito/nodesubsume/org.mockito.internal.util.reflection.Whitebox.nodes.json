@@ -1,0 +1,14 @@
+{
+"Class" : "org.mockito.internal.util.reflection.Whitebox", 
+"Methods" : [{ "Name" : "getFieldFromHierarchy" ,
+"Nodes" : 8,
+"0" : [ 34 ]
+"1" : [ 35 ]
+"2" : [ 39 ]
+"3" : [ 45 ]
+"4" : [ 40,42 ]
+"5" : [ 35 ]
+"6" : [ 36,37 ]
+"7" : [  ]
+}]
+}

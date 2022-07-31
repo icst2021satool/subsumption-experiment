@@ -1,0 +1,16 @@
+{
+"Class" : "org.mockito.internal.util.junit.JUnitFailureHacker", 
+"Methods" : [{ "Name" : "appendWarnings" ,
+"Edges" : 4,
+"Duas" : 7,
+"0" : 0, 
+ "1" : 1, 
+ "4" : 0, 
+ "5" : 1},{ "Name" : "isEmpty" ,
+"Edges" : 7,
+"Duas" : 4,
+"0" : 1, 
+ "1" : 2, 
+ "2" : 3, 
+ "3" : 4}]
+}

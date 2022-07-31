@@ -1,0 +1,8 @@
+{
+"Class" : "org.mockito.internal.creation.instance.InstantiatorProvider", 
+"Methods" : [{ "Name" : "getInstantiator" ,
+"Edges" : 4,
+"Duas" : 4,
+"0" : 2, 
+ "1" : 3}]
+}

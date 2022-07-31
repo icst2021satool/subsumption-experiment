@@ -1,0 +1,12 @@
+{
+"Class" : "org.mockito.internal.progress.HandyReturnValues", 
+"Methods" : [{ "Name" : "returnFor" ,
+"Edges" : 4,
+"Duas" : 3,
+"0" : 0, 
+ "1" : 1},{ "Name" : "returnFor" ,
+"Edges" : 5,
+"Duas" : 4,
+"1" : 3, 
+ "2" : 4}]
+}

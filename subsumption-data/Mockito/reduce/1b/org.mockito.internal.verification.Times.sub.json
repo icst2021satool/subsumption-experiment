@@ -1,0 +1,19 @@
+{
+"Class" : "org.mockito.internal.verification.Times", 
+"Methods" : [{ "Name" : "<init>" ,
+"Duas" : "4" ,
+"Subsumers" : 2,
+"0" : [ 3, 2, 0], "S0" : [0, 2, 3 ],
+"1" : [ 1], "S1" : [1 ]
+},{ "Name" : "verify" ,
+"Duas" : "8" ,
+"Subsumers" : 2,
+"0" : [ 5, 4, 0], "S0" : [0, 2, 3, 4, 5, 7 ],
+"1" : [ 6, 1], "S1" : [1, 2, 3, 6, 7 ]
+},{ "Name" : "verifyInOrder" ,
+"Duas" : "13" ,
+"Subsumers" : 2,
+"0" : [ 12, 10, 6, 5, 3, 0], "S0" : [0, 2, 3, 4, 5, 6, 8, 9, 10, 11, 12 ],
+"1" : [ 7, 1], "S1" : [1, 2, 4, 7, 8, 9, 11 ]
+}]
+}

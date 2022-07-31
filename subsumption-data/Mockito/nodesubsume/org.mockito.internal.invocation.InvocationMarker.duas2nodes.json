@@ -1,0 +1,11 @@
+{
+"Class" : "org.mockito.internal.invocation.InvocationMarker", 
+"Methods" : [{ "Name" : "markVerified" ,
+"Nodes" : 5,
+"Duas" : 2,
+"0" :  [ 0,3 ],
+"1" :  [ 0,3 ]},{ "Name" : "markVerifiedInOrder" ,
+"Nodes" : 5,
+"Duas" : 1,
+"0" :  [ 0,3 ]}]
+}

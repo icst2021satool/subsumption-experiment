@@ -1,0 +1,30 @@
+{
+"Class" : "org.mockito.internal.creation.bytebuddy.InterceptedInvocation", 
+"Methods" : [{ "Name" : "isVerified" ,
+"Nodes" : 6,
+"0" : [ 52 ]
+"1" : [ 52 ]
+"2" : [ 52 ]
+"3" : [ 52 ]
+"4" : [ 52 ]
+"5" : [  ]
+},{ "Name" : "callRealMethod" ,
+"Nodes" : 4,
+"0" : [ 123 ]
+"1" : [ 126 ]
+"2" : [ 124 ]
+"3" : [  ]
+},{ "Name" : "equals" ,
+"Nodes" : 10,
+"0" : [ 136 ]
+"1" : [ 137 ]
+"2" : [ 136 ]
+"3" : [ 139,140 ]
+"4" : [ 142 ]
+"5" : [ 140 ]
+"6" : [ 140,141 ]
+"7" : [ 141,142 ]
+"8" : [ 142 ]
+"9" : [  ]
+}]
+}

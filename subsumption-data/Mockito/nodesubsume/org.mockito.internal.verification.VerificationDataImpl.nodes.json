@@ -1,0 +1,12 @@
+{
+"Class" : "org.mockito.internal.verification.VerificationDataImpl", 
+"Methods" : [{ "Name" : "assertWantedIsVerifiable" ,
+"Nodes" : 6,
+"0" : [ 36 ]
+"1" : [ 39,40 ]
+"2" : [ 43 ]
+"3" : [ 41 ]
+"4" : [ 37 ]
+"5" : [  ]
+}]
+}

@@ -1,0 +1,20 @@
+{
+"Class" : "org.mockito.internal.util.reflection.GenericMetadataSupport$WildCardBoundedType", 
+"Methods" : [{ "Name" : "firstBound" ,
+"Nodes" : 5,
+"0" : [ 588,589,591 ]
+"1" : [ 591 ]
+"2" : [ 591 ]
+"3" : [ 591 ]
+"4" : [  ]
+},{ "Name" : "equals" ,
+"Nodes" : 7,
+"0" : [ 603 ]
+"1" : [ 604 ]
+"2" : [ 604 ]
+"3" : [ 604 ]
+"4" : [ 606 ]
+"5" : [ 603 ]
+"6" : [  ]
+}]
+}

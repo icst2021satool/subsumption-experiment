@@ -1,0 +1,18 @@
+{
+"Class" : "org.mockito.internal.configuration.plugins.PluginLoader", 
+"Methods" : [{ "Name" : "loadPlugin" ,
+"Nodes" : 4,
+"0" : [ 24,25 ]
+"1" : [ 33 ]
+"2" : [ 26 ]
+"3" : [  ]
+},{ "Name" : "loadImpl" ,
+"Nodes" : 6,
+"0" : [ 46,47 ]
+"1" : [ 52,55,58,59 ]
+"2" : [ 64 ]
+"3" : [ 60,61,62 ]
+"4" : [ 48 ]
+"5" : [  ]
+}]
+}

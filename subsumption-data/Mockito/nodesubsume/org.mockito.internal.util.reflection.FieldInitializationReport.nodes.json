@@ -1,0 +1,11 @@
+{
+"Class" : "org.mockito.internal.util.reflection.FieldInitializationReport", 
+"Methods" : [{ "Name" : "fieldClass" ,
+"Nodes" : 5,
+"0" : [ 55 ]
+"1" : [ 55 ]
+"2" : [ 55 ]
+"3" : [ 55 ]
+"4" : [  ]
+}]
+}

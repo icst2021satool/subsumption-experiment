@@ -1,0 +1,14 @@
+{
+"Class" : "org.mockito.internal.verification.Only", 
+"Methods" : [{ "Name" : "verify" ,
+"Edges" : 11,
+"Duas" : 21,
+"10" : 1, 
+ "11" : 2, 
+ "12" : 4, 
+ "13" : 5, 
+ "17" : 7, 
+ "18" : 8, 
+ "19" : 9, 
+ "20" : 10}]
+}

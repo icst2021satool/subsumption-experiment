@@ -1,0 +1,10 @@
+{
+"Class" : "org.mockito.internal.junit.FriendlyExceptionMaker", 
+"Methods" : [{ "Name" : "createArgumentsAreDifferentException" ,
+"Nodes" : 4,
+"0" : [ 19 ]
+"1" : [ 24,25,26 ]
+"2" : [ 20 ]
+"3" : [  ]
+}]
+}

@@ -1,0 +1,13 @@
+{
+"Class" : "org.mockito.internal.util.reflection.Fields", 
+"Methods" : [{ "Name" : "allDeclaredFieldsOf" ,
+"Edges" : 5,
+"Duas" : 12,
+"4" : 0, 
+ "5" : 1, 
+ "8" : 0, 
+ "9" : 1},{ "Name" : "instanceFieldsIn" ,
+"Edges" : 5,
+"Duas" : 3,
+}]
+}

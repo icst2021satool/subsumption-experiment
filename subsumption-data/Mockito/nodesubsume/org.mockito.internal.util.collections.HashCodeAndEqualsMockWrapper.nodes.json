@@ -1,0 +1,22 @@
+{
+"Class" : "org.mockito.internal.util.collections.HashCodeAndEqualsMockWrapper", 
+"Methods" : [{ "Name" : "equals" ,
+"Nodes" : 9,
+"0" : [ 41 ]
+"1" : [ 42 ]
+"2" : [ 44,46 ]
+"3" : [ 46 ]
+"4" : [ 46 ]
+"5" : [ 46 ]
+"6" : [ 42 ]
+"7" : [ 41 ]
+"8" : [  ]
+},{ "Name" : "toString" ,
+"Nodes" : 5,
+"0" : [ 59,60,61 ]
+"1" : [ 61 ]
+"2" : [ 60,61 ]
+"3" : [ 61 ]
+"4" : [  ]
+}]
+}

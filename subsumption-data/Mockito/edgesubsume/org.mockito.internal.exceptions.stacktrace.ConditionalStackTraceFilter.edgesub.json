@@ -1,0 +1,12 @@
+{
+"Class" : "org.mockito.internal.exceptions.stacktrace.ConditionalStackTraceFilter", 
+"Methods" : [{ "Name" : "filter" ,
+"Edges" : 4,
+"0" : [ 0, 5],
+"1" : [ 1, 2, 3, 4, 6, 7],
+"3" : [ 1, 2, 3, 4, 6, 7],
+"2" : [ 0, 5],
+"CoveredDUAsByEdges" : 8,
+"Duas" : 8
+}]
+}

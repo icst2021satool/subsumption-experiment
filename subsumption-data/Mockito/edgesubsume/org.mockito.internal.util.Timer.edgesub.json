@@ -1,0 +1,26 @@
+{
+"Class" : "org.mockito.internal.util.Timer", 
+"Methods" : [{ "Name" : "isCounting" ,
+"Edges" : 10,
+"0" : [ 4],
+"1" : [ 5],
+"5" : [ 2, 4, 8],
+"6" : [ 3, 9],
+"2" : [ 0, 6, 10],
+"3" : [ 1, 7, 11],
+"7" : [ 1, 7, 11],
+"9" : [ 0, 6, 10],
+"8" : [ ],
+"4" : [ 2, 4, 8],
+"CoveredDUAsByEdges" : 12,
+"Duas" : 12
+},{ "Name" : "validateInput" ,
+"Edges" : 4,
+"2" : [ 0, 2],
+"3" : [ 1],
+"1" : [ 0, 2],
+"0" : [ ],
+"CoveredDUAsByEdges" : 3,
+"Duas" : 3
+}]
+}

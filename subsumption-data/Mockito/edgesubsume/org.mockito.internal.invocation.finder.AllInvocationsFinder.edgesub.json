@@ -1,0 +1,13 @@
+{
+"Class" : "org.mockito.internal.invocation.finder.AllInvocationsFinder", 
+"Methods" : [{ "Name" : "find" ,
+"Edges" : 5,
+"4" : [ ],
+"0" : [ 1],
+"1" : [ 0],
+"2" : [ 0],
+"3" : [ 1],
+"CoveredDUAsByEdges" : 2,
+"Duas" : 2
+}]
+}

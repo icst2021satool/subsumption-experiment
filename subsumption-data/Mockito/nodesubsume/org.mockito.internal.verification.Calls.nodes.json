@@ -1,0 +1,10 @@
+{
+"Class" : "org.mockito.internal.verification.Calls", 
+"Methods" : [{ "Name" : "<init>" ,
+"Nodes" : 4,
+"0" : [ 23,24 ]
+"1" : [ 27,28 ]
+"2" : [ 25 ]
+"3" : [  ]
+}]
+}
