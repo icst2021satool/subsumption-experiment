@@ -593,5 +593,5 @@ com.google.gson.annotations.Expose:
 com.google.gson.annotations.package-info:
 com.google.gson.annotations.Until:
 com.google.gson.annotations.Since:
-226 methods analyzed in 0 minutes and 1 seconds
-Unconstrained DUAs time (ms):1402
+226 methods analyzed in 0 minutes and 2 seconds
+Unconstrained DUAs time (ms):2779

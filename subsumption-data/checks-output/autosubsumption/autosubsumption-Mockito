@@ -1195,5 +1195,5 @@ org.mockito.stubbing.Stubber:
 org.mockito.stubbing.answers.ReturnsElementsOf:
 org.mockito.listeners.InvocationListener:
 org.mockito.listeners.MethodInvocationReport:
-400 methods analyzed in 0 minutes and 2 seconds
-Unconstrained DUAs time (ms):2308
+400 methods analyzed in 0 minutes and 3 seconds
+Unconstrained DUAs time (ms):3591

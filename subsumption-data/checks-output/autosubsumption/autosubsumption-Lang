@@ -2481,5 +2481,5 @@ org.apache.commons.lang3.event.EventListenerSupport:
 #org/apache/commons/lang3/event/EventUtils$EventBindingInvocationHandler/hasMatchingParametersMethod:
 org.apache.commons.lang3.event.EventUtils$EventBindingInvocationHandler:
 org.apache.commons.lang3.event.EventUtils:
-1,153 methods analyzed in 0 minutes and 6 seconds
-Unconstrained DUAs time (ms):6234
+1,153 methods analyzed in 0 minutes and 11 seconds
+Unconstrained DUAs time (ms):11492

@@ -1779,5 +1779,5 @@ org.apache.commons.jxpath.functions.ConstructorFunction:
 
 #org/apache/commons/jxpath/functions/MethodFunction/invoke:
 org.apache.commons.jxpath.functions.MethodFunction:
-800 methods analyzed in 0 minutes and 7 seconds
-Unconstrained DUAs time (ms):7542
+800 methods analyzed in 0 minutes and 14 seconds
+Unconstrained DUAs time (ms):14636

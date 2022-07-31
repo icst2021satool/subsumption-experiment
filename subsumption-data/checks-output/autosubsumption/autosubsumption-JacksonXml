@@ -413,5 +413,5 @@ com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator$Feature:
 
 #com/fasterxml/jackson/dataformat/xml/ser/XmlBeanSerializerModifier/modifySerializer:
 com.fasterxml.jackson.dataformat.xml.ser.XmlBeanSerializerModifier:
-179 methods analyzed in 0 minutes and 1 seconds
-Unconstrained DUAs time (ms):1312
+179 methods analyzed in 0 minutes and 2 seconds
+Unconstrained DUAs time (ms):2674

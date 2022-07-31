@@ -8796,5 +8796,5 @@ com.google.javascript.rhino.jstype.TernaryValue$1:
 
 #com/google/javascript/rhino/jstype/InstanceObjectType/hashCode:
 com.google.javascript.rhino.jstype.InstanceObjectType:
-3,696 methods analyzed in 0 minutes and 35 seconds
-Unconstrained DUAs time (ms):35541
+3,696 methods analyzed in 1 minutes and 7 seconds
+Unconstrained DUAs time (ms):67326

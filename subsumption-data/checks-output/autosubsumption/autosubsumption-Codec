@@ -245,5 +245,5 @@ org.apache.commons.codec.binary.Hex:
 
 #org/apache/commons/codec/binary/Base64/toIntegerBytes:
 org.apache.commons.codec.binary.Base64:
-109 methods analyzed in 0 minutes and 6 seconds
-Unconstrained DUAs time (ms):6494
+109 methods analyzed in 0 minutes and 14 seconds
+Unconstrained DUAs time (ms):14423

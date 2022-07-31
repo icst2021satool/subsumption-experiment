@@ -3130,5 +3130,5 @@ Warning: Method:org.apache.commons.collections4.iterators.BoundedIterator.init h
 
 #org/apache/commons/collections4/iterators/BoundedIterator/remove:
 org.apache.commons.collections4.iterators.BoundedIterator:
-1,311 methods analyzed in 0 minutes and 5 seconds
-Unconstrained DUAs time (ms):5644
+1,311 methods analyzed in 0 minutes and 9 seconds
+Unconstrained DUAs time (ms):9431

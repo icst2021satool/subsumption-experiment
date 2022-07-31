@@ -5941,5 +5941,5 @@ org.apache.commons.math3.transform.DstNormalization:
 #org/apache/commons/math3/transform/TransformUtils/exactLog2:
 org.apache.commons.math3.transform.TransformUtils:
 org.apache.commons.math3.transform.TransformType:
-2,415 methods analyzed in 1 minutes and 50 seconds
-Unconstrained DUAs time (ms):110425
+2,415 methods analyzed in 3 minutes and 13 seconds
+Unconstrained DUAs time (ms):193742

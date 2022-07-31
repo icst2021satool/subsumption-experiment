@@ -505,5 +505,5 @@ org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream:
 org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream$1:
 org.apache.commons.compress.compressors.bzip2.BZip2Constants:
 org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream$StackElem:
-217 methods analyzed in 0 minutes and 5 seconds
-Unconstrained DUAs time (ms):5873
+217 methods analyzed in 0 minutes and 12 seconds
+Unconstrained DUAs time (ms):12921

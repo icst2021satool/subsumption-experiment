@@ -1239,5 +1239,5 @@ com.fasterxml.jackson.core.base.GeneratorBase:
 #com/fasterxml/jackson/core/base/ParserMinimalBase/_getCharDesc:
 com.fasterxml.jackson.core.base.ParserMinimalBase:
 com.fasterxml.jackson.core.base.ParserMinimalBase$1:
-563 methods analyzed in 0 minutes and 7 seconds
-Unconstrained DUAs time (ms):7001
+563 methods analyzed in 0 minutes and 12 seconds
+Unconstrained DUAs time (ms):12966

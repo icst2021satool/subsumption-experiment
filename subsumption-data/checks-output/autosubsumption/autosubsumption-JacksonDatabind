@@ -4059,5 +4059,5 @@ com.fasterxml.jackson.databind.jsontype.impl.TypeDeserializerBase:
 com.fasterxml.jackson.databind.jsontype.impl.StdTypeResolverBuilder:
 com.fasterxml.jackson.databind.jsontype.impl.StdTypeResolverBuilder$1:
 com.fasterxml.jackson.databind.jsontype.impl.TypeIdResolverBase:
-1,737 methods analyzed in 0 minutes and 8 seconds
-Unconstrained DUAs time (ms):8395
+1,737 methods analyzed in 0 minutes and 13 seconds
+Unconstrained DUAs time (ms):13807

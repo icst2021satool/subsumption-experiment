@@ -93,5 +93,5 @@ org.apache.commons.csv.CSVFormat:
 
 #org/apache/commons/csv/CSVPrinter/print:
 org.apache.commons.csv.CSVPrinter:
-40 methods analyzed in 0 minutes and 0 seconds
-Unconstrained DUAs time (ms):711
+40 methods analyzed in 0 minutes and 1 seconds
+Unconstrained DUAs time (ms):1274

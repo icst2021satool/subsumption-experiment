@@ -27366,5 +27366,5 @@ java_cup.runtime.ScannerBuffer:
 #java_cup/runtime/SyntaxTreeXPath/match:
 java_cup.runtime.SyntaxTreeXPath:
 java_cup.runtime.Symbol:
-11,315 methods analyzed in 1 minutes and 41 seconds
-Unconstrained DUAs time (ms):101655
+11,315 methods analyzed in 3 minutes and 3 seconds
+Unconstrained DUAs time (ms):183337

@@ -2599,5 +2599,5 @@ org.joda.time.convert.PeriodConverter:
 
 #org/joda/time/convert/ReadableInstantConverter/getChronology:
 org.joda.time.convert.ReadableInstantConverter:
-1,182 methods analyzed in 0 minutes and 6 seconds
-Unconstrained DUAs time (ms):6080
+1,182 methods analyzed in 0 minutes and 10 seconds
+Unconstrained DUAs time (ms):10600
