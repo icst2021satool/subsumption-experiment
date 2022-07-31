@@ -1,0 +1,10 @@
+{
+"Class" : "com.fasterxml.jackson.dataformat.xml.JacksonXmlModule", 
+"Methods" : [{ "Name" : "setupModule" ,
+"Nodes" : 4,
+"0" : [ 64,57,58,61 ]
+"1" : [ 72,73 ]
+"2" : [ 65,66 ]
+"3" : [  ]
+}]
+}

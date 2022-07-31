@@ -1,0 +1,19 @@
+{
+"Class" : "com.fasterxml.jackson.dataformat.xml.util.StaxUtil", 
+"Methods" : [{ "Name" : "throwXmlAsIOException" ,
+"Edges" : 11,
+"7" : [ ],
+"4" : [ 0, 9],
+"5" : [ ],
+"1" : [ ],
+"2" : [ ],
+"8" : [ ],
+"9" : [ ],
+"3" : [ ],
+"6" : [ ],
+"10" : [ ],
+"0" : [ 0, 9],
+"CoveredDUAsByEdges" : 2,
+"Duas" : 20
+},]
+}

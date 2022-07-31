@@ -1,0 +1,32 @@
+{
+"Class" : "com.fasterxml.jackson.dataformat.xml.deser.WrapperHandlingDeserializer", 
+"Methods" : [{ "Name" : "createContextual" ,
+"Nodes" : 14,
+"0" : [ 80,81,76,77 ]
+"1" : [ 82 ]
+"2" : [ 103 ]
+"3" : [ 107 ]
+"4" : [ 104 ]
+"5" : [ 83,87,88 ]
+"6" : [ 91,93 ]
+"7" : [ 96 ]
+"8" : [ 100,101 ]
+"9" : [ 97 ]
+"10" : [ 93 ]
+"11" : [ 94 ]
+"12" : [ 89 ]
+"13" : [  ]
+},{ "Name" : "_configureParser" ,
+"Nodes" : 4,
+"0" : [ 152 ]
+"1" : [ 155 ]
+"2" : [ 153 ]
+"3" : [  ]
+},{ "Name" : "_verifyDeserType" ,
+"Nodes" : 4,
+"0" : [ 159 ]
+"1" : [ 163 ]
+"2" : [ 160 ]
+"3" : [  ]
+}]
+}

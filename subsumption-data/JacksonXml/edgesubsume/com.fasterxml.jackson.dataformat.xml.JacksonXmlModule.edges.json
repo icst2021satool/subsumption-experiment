@@ -1,0 +1,10 @@
+{
+"Class" : "com.fasterxml.jackson.dataformat.xml.JacksonXmlModule", 
+"Methods" : [{ "Name" : "setupModule" ,
+"Edges" : 4,
+"0" : [ 1,3 ],
+"1" : [ 0,2 ],
+"2" : [ 0,1 ],
+"3" : [ 2,1 ]
+}]
+}

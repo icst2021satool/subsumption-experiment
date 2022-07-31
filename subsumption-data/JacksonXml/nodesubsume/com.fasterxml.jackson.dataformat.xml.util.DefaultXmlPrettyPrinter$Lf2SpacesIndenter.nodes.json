@@ -1,0 +1,18 @@
+{
+"Class" : "com.fasterxml.jackson.dataformat.xml.util.DefaultXmlPrettyPrinter$Lf2SpacesIndenter", 
+"Methods" : [{ "Name" : "writeIndentation" ,
+"Nodes" : 5,
+"0" : [ 508,509 ]
+"1" : [ 510 ]
+"2" : [ 514,515 ]
+"3" : [ 512,511 ]
+"4" : [  ]
+},{ "Name" : "writeIndentation" ,
+"Nodes" : 5,
+"0" : [ 520,521 ]
+"1" : [ 522 ]
+"2" : [ 526,527 ]
+"3" : [ 523,524 ]
+"4" : [  ]
+}]
+}

@@ -1,0 +1,933 @@
+@@ Method, Nodes, Nduas, Time_s, Time_ms
+
+Failed to analyze: /Users/marcoschaim/experimentos/subsumption-experiment/scripts/../subsumption-data/JacksonXml/graphdua
+Failed to analyze: /Users/marcoschaim/experimentos/subsumption-experiment/scripts/../subsumption-data/JacksonXml/graphdua
+Failed to analyze: /Users/marcoschaim/experimentos/subsumption-experiment/scripts/../subsumption-data/JacksonXml/graphdua
+Failed to analyze: /Users/marcoschaim/experimentos/subsumption-experiment/scripts/../subsumption-data/JacksonXml/graphdua
+
+#com/fasterxml/jackson/dataformat/xml/XmlAnnotationIntrospector$Pair/<init>:
+Method com.fasterxml.jackson.dataformat.xml.XmlAnnotationIntrospector$Pair.<init> graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.XmlAnnotationIntrospector$Pair.<init>,12,18,0,11
+
+
+#com/fasterxml/jackson/dataformat/xml/XmlAnnotationIntrospector$Pair/findNamespace:
+Method com.fasterxml.jackson.dataformat.xml.XmlAnnotationIntrospector$Pair.findNamespace graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.XmlAnnotationIntrospector$Pair.findNamespace,8,18,0,4
+
+
+#com/fasterxml/jackson/dataformat/xml/XmlAnnotationIntrospector$Pair/isOutputAsAttribute:
+Method com.fasterxml.jackson.dataformat.xml.XmlAnnotationIntrospector$Pair.isOutputAsAttribute graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.XmlAnnotationIntrospector$Pair.isOutputAsAttribute,8,18,0,4
+
+
+#com/fasterxml/jackson/dataformat/xml/XmlAnnotationIntrospector$Pair/isOutputAsText:
+Method com.fasterxml.jackson.dataformat.xml.XmlAnnotationIntrospector$Pair.isOutputAsText graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.XmlAnnotationIntrospector$Pair.isOutputAsText,8,18,0,3
+
+
+#com/fasterxml/jackson/dataformat/xml/XmlAnnotationIntrospector$Pair/isOutputAsCData:
+Method com.fasterxml.jackson.dataformat.xml.XmlAnnotationIntrospector$Pair.isOutputAsCData graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.XmlAnnotationIntrospector$Pair.isOutputAsCData,8,18,0,4
+
+
+#com/fasterxml/jackson/dataformat/xml/XmlAnnotationIntrospector$Pair/setDefaultUseWrapper:
+Method com.fasterxml.jackson.dataformat.xml.XmlAnnotationIntrospector$Pair.setDefaultUseWrapper graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.XmlAnnotationIntrospector$Pair.setDefaultUseWrapper,6,14,0,3
+
+
+#com/fasterxml/jackson/dataformat/xml/JacksonXmlModule/setupModule:
+Method com.fasterxml.jackson.dataformat.xml.JacksonXmlModule.setupModule graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.JacksonXmlModule.setupModule,4,9,0,1
+
+
+#com/fasterxml/jackson/dataformat/xml/XmlFactory/<init>:
+Method com.fasterxml.jackson.dataformat.xml.XmlFactory.<init> graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.XmlFactory.<init>,6,9,0,1
+
+
+#com/fasterxml/jackson/dataformat/xml/XmlFactory/readResolve:
+Method com.fasterxml.jackson.dataformat.xml.XmlFactory.readResolve graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.XmlFactory.readResolve,6,15,0,2
+
+
+#com/fasterxml/jackson/dataformat/xml/XmlFactory/configure:
+Method com.fasterxml.jackson.dataformat.xml.XmlFactory.configure graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.XmlFactory.configure,5,7,0,1
+
+
+#com/fasterxml/jackson/dataformat/xml/XmlFactory/isEnabled:
+Method com.fasterxml.jackson.dataformat.xml.XmlFactory.isEnabled graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.XmlFactory.isEnabled,5,6,0,1
+
+
+#com/fasterxml/jackson/dataformat/xml/XmlFactory/configure:
+Method com.fasterxml.jackson.dataformat.xml.XmlFactory.configure graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.XmlFactory.configure,5,7,0,0
+
+
+#com/fasterxml/jackson/dataformat/xml/XmlFactory/isEnabled:
+Method com.fasterxml.jackson.dataformat.xml.XmlFactory.isEnabled graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.XmlFactory.isEnabled,5,6,0,0
+
+
+#com/fasterxml/jackson/dataformat/xml/XmlFactory/createParser:
+Method com.fasterxml.jackson.dataformat.xml.XmlFactory.createParser graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.XmlFactory.createParser,4,12,0,1
+
+
+#com/fasterxml/jackson/dataformat/xml/XmlFactory/createParser:
+Method com.fasterxml.jackson.dataformat.xml.XmlFactory.createParser graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.XmlFactory.createParser,6,18,0,2
+
+
+#com/fasterxml/jackson/dataformat/xml/XmlFactory/_createParser:
+Method com.fasterxml.jackson.dataformat.xml.XmlFactory._createParser graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.XmlFactory._createParser,4,8,0,0
+
+
+#com/fasterxml/jackson/dataformat/xml/XmlFactory/_createParser:
+Method com.fasterxml.jackson.dataformat.xml.XmlFactory._createParser graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.XmlFactory._createParser,4,8,0,1
+
+
+#com/fasterxml/jackson/dataformat/xml/XmlFactory/_createParser:
+Method com.fasterxml.jackson.dataformat.xml.XmlFactory._createParser graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.XmlFactory._createParser,4,8,0,1
+
+
+#com/fasterxml/jackson/dataformat/xml/XmlFactory/_createParser:
+Method com.fasterxml.jackson.dataformat.xml.XmlFactory._createParser graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.XmlFactory._createParser,4,8,0,0
+
+
+#com/fasterxml/jackson/dataformat/xml/XmlFactory/_initializeXmlReader:
+Method com.fasterxml.jackson.dataformat.xml.XmlFactory._initializeXmlReader graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.XmlFactory._initializeXmlReader,4,3,0,0
+
+
+#com/fasterxml/jackson/dataformat/xml/XmlFactory/hasXMLFormat:
+Method com.fasterxml.jackson.dataformat.xml.XmlFactory.hasXMLFormat graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.XmlFactory.hasXMLFormat,49,88,0,27
+
+
+#com/fasterxml/jackson/dataformat/xml/XmlFactory/validXmlNameStartChar:
+Method com.fasterxml.jackson.dataformat.xml.XmlFactory.validXmlNameStartChar graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.XmlFactory.validXmlNameStartChar,4,2,0,0
+
+
+#com/fasterxml/jackson/dataformat/xml/XmlFactory/tryMatch:
+Method com.fasterxml.jackson.dataformat.xml.XmlFactory.tryMatch graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.XmlFactory.tryMatch,9,21,0,2
+
+
+#com/fasterxml/jackson/dataformat/xml/XmlFactory/skipSpace:
+Method com.fasterxml.jackson.dataformat.xml.XmlFactory.skipSpace graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.XmlFactory.skipSpace,9,12,0,2
+
+
+#com/fasterxml/jackson/dataformat/xml/JacksonXmlAnnotationIntrospector/findWrapperName:
+Method com.fasterxml.jackson.dataformat.xml.JacksonXmlAnnotationIntrospector.findWrapperName graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.JacksonXmlAnnotationIntrospector.findWrapperName,11,17,0,2
+
+
+#com/fasterxml/jackson/dataformat/xml/JacksonXmlAnnotationIntrospector/findRootName:
+Method com.fasterxml.jackson.dataformat.xml.JacksonXmlAnnotationIntrospector.findRootName graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.JacksonXmlAnnotationIntrospector.findRootName,7,12,0,1
+
+
+#com/fasterxml/jackson/dataformat/xml/JacksonXmlAnnotationIntrospector/findNamespace:
+Method com.fasterxml.jackson.dataformat.xml.JacksonXmlAnnotationIntrospector.findNamespace graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.JacksonXmlAnnotationIntrospector.findNamespace,4,3,0,1
+
+
+#com/fasterxml/jackson/dataformat/xml/JacksonXmlAnnotationIntrospector/isOutputAsAttribute:
+Method com.fasterxml.jackson.dataformat.xml.JacksonXmlAnnotationIntrospector.isOutputAsAttribute graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.JacksonXmlAnnotationIntrospector.isOutputAsAttribute,7,6,0,0
+
+
+#com/fasterxml/jackson/dataformat/xml/JacksonXmlAnnotationIntrospector/isOutputAsText:
+Method com.fasterxml.jackson.dataformat.xml.JacksonXmlAnnotationIntrospector.isOutputAsText graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.JacksonXmlAnnotationIntrospector.isOutputAsText,7,6,0,1
+
+
+#com/fasterxml/jackson/dataformat/xml/JacksonXmlAnnotationIntrospector/isOutputAsCData:
+Method com.fasterxml.jackson.dataformat.xml.JacksonXmlAnnotationIntrospector.isOutputAsCData graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.JacksonXmlAnnotationIntrospector.isOutputAsCData,7,6,0,1
+
+
+#com/fasterxml/jackson/dataformat/xml/JacksonXmlAnnotationIntrospector/findNameForSerialization:
+Method com.fasterxml.jackson.dataformat.xml.JacksonXmlAnnotationIntrospector.findNameForSerialization graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.JacksonXmlAnnotationIntrospector.findNameForSerialization,6,11,0,1
+
+
+#com/fasterxml/jackson/dataformat/xml/JacksonXmlAnnotationIntrospector/findNameForDeserialization:
+Method com.fasterxml.jackson.dataformat.xml.JacksonXmlAnnotationIntrospector.findNameForDeserialization graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.JacksonXmlAnnotationIntrospector.findNameForDeserialization,6,11,0,1
+
+
+#com/fasterxml/jackson/dataformat/xml/JacksonXmlAnnotationIntrospector/_findXmlName:
+Method com.fasterxml.jackson.dataformat.xml.JacksonXmlAnnotationIntrospector._findXmlName graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.JacksonXmlAnnotationIntrospector._findXmlName,4,3,0,0
+
+
+#com/fasterxml/jackson/dataformat/xml/XmlMapper/<init>:
+Method com.fasterxml.jackson.dataformat.xml.XmlMapper.<init> graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.XmlMapper.<init>,4,7,0,0
+
+
+#com/fasterxml/jackson/dataformat/xml/XmlMapper/setDefaultUseWrapper:
+Method com.fasterxml.jackson.dataformat.xml.XmlMapper.setDefaultUseWrapper graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.XmlMapper.setDefaultUseWrapper,7,8,0,1
+
+
+#com/fasterxml/jackson/dataformat/xml/XmlTypeResolverBuilder/init:
+Method com.fasterxml.jackson.dataformat.xml.XmlTypeResolverBuilder.init graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.XmlTypeResolverBuilder.init,4,7,0,1
+
+
+#com/fasterxml/jackson/dataformat/xml/XmlTypeResolverBuilder/typeProperty:
+Method com.fasterxml.jackson.dataformat.xml.XmlTypeResolverBuilder.typeProperty graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.XmlTypeResolverBuilder.typeProperty,5,9,0,1
+
+
+#com/fasterxml/jackson/dataformat/xml/XmlTypeResolverBuilder/idResolver:
+Method com.fasterxml.jackson.dataformat.xml.XmlTypeResolverBuilder.idResolver graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.XmlTypeResolverBuilder.idResolver,7,25,0,1
+
+
+#com/fasterxml/jackson/dataformat/xml/XmlTypeResolverBuilder/encodeXmlClassName:
+Method com.fasterxml.jackson.dataformat.xml.XmlTypeResolverBuilder.encodeXmlClassName graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.XmlTypeResolverBuilder.encodeXmlClassName,6,12,0,1
+
+
+#com/fasterxml/jackson/dataformat/xml/XmlTypeResolverBuilder/decodeXmlClassName:
+Method com.fasterxml.jackson.dataformat.xml.XmlTypeResolverBuilder.decodeXmlClassName graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.XmlTypeResolverBuilder.decodeXmlClassName,6,12,0,1
+
+
+#com/fasterxml/jackson/dataformat/xml/util/DefaultXmlPrettyPrinter$Lf2SpacesIndenter/writeIndentation:
+Method com.fasterxml.jackson.dataformat.xml.util.DefaultXmlPrettyPrinter$Lf2SpacesIndenter.writeIndentation graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.util.DefaultXmlPrettyPrinter$Lf2SpacesIndenter.writeIndentation,5,12,0,1
+
+
+#com/fasterxml/jackson/dataformat/xml/util/DefaultXmlPrettyPrinter$Lf2SpacesIndenter/writeIndentation:
+Method com.fasterxml.jackson.dataformat.xml.util.DefaultXmlPrettyPrinter$Lf2SpacesIndenter.writeIndentation graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.util.DefaultXmlPrettyPrinter$Lf2SpacesIndenter.writeIndentation,5,12,0,2
+
+
+#com/fasterxml/jackson/dataformat/xml/util/AnnotationUtil/findNamespaceAnnotation:
+Method com.fasterxml.jackson.dataformat.xml.util.AnnotationUtil.findNamespaceAnnotation graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.util.AnnotationUtil.findNamespaceAnnotation,12,17,0,3
+
+
+#com/fasterxml/jackson/dataformat/xml/util/AnnotationUtil/findIsAttributeAnnotation:
+Method com.fasterxml.jackson.dataformat.xml.util.AnnotationUtil.findIsAttributeAnnotation graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.util.AnnotationUtil.findIsAttributeAnnotation,12,17,0,3
+
+
+#com/fasterxml/jackson/dataformat/xml/util/AnnotationUtil/findIsTextAnnotation:
+Method com.fasterxml.jackson.dataformat.xml.util.AnnotationUtil.findIsTextAnnotation graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.util.AnnotationUtil.findIsTextAnnotation,12,17,0,3
+
+
+#com/fasterxml/jackson/dataformat/xml/util/AnnotationUtil/findIsCDataAnnotation:
+Method com.fasterxml.jackson.dataformat.xml.util.AnnotationUtil.findIsCDataAnnotation graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.util.AnnotationUtil.findIsCDataAnnotation,8,10,0,1
+
+
+#com/fasterxml/jackson/dataformat/xml/util/XmlInfo/<init>:
+Method com.fasterxml.jackson.dataformat.xml.util.XmlInfo.<init> graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.util.XmlInfo.<init>,14,16,0,1
+
+
+#com/fasterxml/jackson/dataformat/xml/util/TypeUtil/isIndexedType:
+Method com.fasterxml.jackson.dataformat.xml.util.TypeUtil.isIndexedType graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.util.TypeUtil.isIndexedType,9,9,0,0
+
+
+#com/fasterxml/jackson/dataformat/xml/util/TypeUtil/isIndexedType:
+Method com.fasterxml.jackson.dataformat.xml.util.TypeUtil.isIndexedType graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.util.TypeUtil.isIndexedType,8,8,0,1
+
+
+#com/fasterxml/jackson/dataformat/xml/util/XmlRootNameLookup/readResolve:
+Method com.fasterxml.jackson.dataformat.xml.util.XmlRootNameLookup.readResolve graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.util.XmlRootNameLookup.readResolve,4,5,0,0
+
+
+#com/fasterxml/jackson/dataformat/xml/util/XmlRootNameLookup/findRootName:
+Method com.fasterxml.jackson.dataformat.xml.util.XmlRootNameLookup.findRootName graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.util.XmlRootNameLookup.findRootName,4,8,0,0
+
+
+#com/fasterxml/jackson/dataformat/xml/util/XmlRootNameLookup/_findRootName:
+Method com.fasterxml.jackson.dataformat.xml.util.XmlRootNameLookup._findRootName graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.util.XmlRootNameLookup._findRootName,12,35,0,7
+
+
+#com/fasterxml/jackson/dataformat/xml/util/XmlRootNameLookup/findNamespace:
+Method com.fasterxml.jackson.dataformat.xml.util.XmlRootNameLookup.findNamespace graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.util.XmlRootNameLookup.findNamespace,8,10,0,1
+
+
+#com/fasterxml/jackson/dataformat/xml/util/DefaultXmlPrettyPrinter/indentArraysWith:
+Method com.fasterxml.jackson.dataformat.xml.util.DefaultXmlPrettyPrinter.indentArraysWith graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.util.DefaultXmlPrettyPrinter.indentArraysWith,5,4,0,0
+
+
+#com/fasterxml/jackson/dataformat/xml/util/DefaultXmlPrettyPrinter/indentObjectsWith:
+Method com.fasterxml.jackson.dataformat.xml.util.DefaultXmlPrettyPrinter.indentObjectsWith graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.util.DefaultXmlPrettyPrinter.indentObjectsWith,5,4,0,0
+
+
+#com/fasterxml/jackson/dataformat/xml/util/DefaultXmlPrettyPrinter/writeStartObject:
+Method com.fasterxml.jackson.dataformat.xml.util.DefaultXmlPrettyPrinter.writeStartObject graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.util.DefaultXmlPrettyPrinter.writeStartObject,6,16,0,1
+
+
+#com/fasterxml/jackson/dataformat/xml/util/DefaultXmlPrettyPrinter/writeEndObject:
+Method com.fasterxml.jackson.dataformat.xml.util.DefaultXmlPrettyPrinter.writeEndObject graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.util.DefaultXmlPrettyPrinter.writeEndObject,7,17,0,1
+
+
+#com/fasterxml/jackson/dataformat/xml/util/DefaultXmlPrettyPrinter/writeStartElement:
+Method com.fasterxml.jackson.dataformat.xml.util.DefaultXmlPrettyPrinter.writeStartElement graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.util.DefaultXmlPrettyPrinter.writeStartElement,6,17,0,1
+
+
+#com/fasterxml/jackson/dataformat/xml/util/DefaultXmlPrettyPrinter/writeEndElement:
+Method com.fasterxml.jackson.dataformat.xml.util.DefaultXmlPrettyPrinter.writeEndElement graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.util.DefaultXmlPrettyPrinter.writeEndElement,7,17,0,1
+
+
+#com/fasterxml/jackson/dataformat/xml/util/DefaultXmlPrettyPrinter/writeLeafElement:
+Method com.fasterxml.jackson.dataformat.xml.util.DefaultXmlPrettyPrinter.writeLeafElement graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.util.DefaultXmlPrettyPrinter.writeLeafElement,7,19,0,1
+
+
+#com/fasterxml/jackson/dataformat/xml/util/DefaultXmlPrettyPrinter/writeLeafElement:
+Method com.fasterxml.jackson.dataformat.xml.util.DefaultXmlPrettyPrinter.writeLeafElement graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.util.DefaultXmlPrettyPrinter.writeLeafElement,7,23,0,1
+
+
+#com/fasterxml/jackson/dataformat/xml/util/DefaultXmlPrettyPrinter/writeLeafElement:
+Method com.fasterxml.jackson.dataformat.xml.util.DefaultXmlPrettyPrinter.writeLeafElement graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.util.DefaultXmlPrettyPrinter.writeLeafElement,4,13,0,0
+
+
+#com/fasterxml/jackson/dataformat/xml/util/DefaultXmlPrettyPrinter/writeLeafElement:
+Method com.fasterxml.jackson.dataformat.xml.util.DefaultXmlPrettyPrinter.writeLeafElement graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.util.DefaultXmlPrettyPrinter.writeLeafElement,4,13,0,1
+
+
+#com/fasterxml/jackson/dataformat/xml/util/DefaultXmlPrettyPrinter/writeLeafElement:
+Method com.fasterxml.jackson.dataformat.xml.util.DefaultXmlPrettyPrinter.writeLeafElement graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.util.DefaultXmlPrettyPrinter.writeLeafElement,4,13,0,1
+
+
+#com/fasterxml/jackson/dataformat/xml/util/DefaultXmlPrettyPrinter/writeLeafElement:
+Method com.fasterxml.jackson.dataformat.xml.util.DefaultXmlPrettyPrinter.writeLeafElement graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.util.DefaultXmlPrettyPrinter.writeLeafElement,4,13,0,0
+
+
+#com/fasterxml/jackson/dataformat/xml/util/DefaultXmlPrettyPrinter/writeLeafElement:
+Method com.fasterxml.jackson.dataformat.xml.util.DefaultXmlPrettyPrinter.writeLeafElement graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.util.DefaultXmlPrettyPrinter.writeLeafElement,4,13,0,0
+
+
+#com/fasterxml/jackson/dataformat/xml/util/DefaultXmlPrettyPrinter/writeLeafElement:
+Method com.fasterxml.jackson.dataformat.xml.util.DefaultXmlPrettyPrinter.writeLeafElement graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.util.DefaultXmlPrettyPrinter.writeLeafElement,4,13,0,1
+
+
+#com/fasterxml/jackson/dataformat/xml/util/DefaultXmlPrettyPrinter/writeLeafElement:
+Method com.fasterxml.jackson.dataformat.xml.util.DefaultXmlPrettyPrinter.writeLeafElement graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.util.DefaultXmlPrettyPrinter.writeLeafElement,4,13,0,0
+
+
+#com/fasterxml/jackson/dataformat/xml/util/DefaultXmlPrettyPrinter/writeLeafElement:
+Method com.fasterxml.jackson.dataformat.xml.util.DefaultXmlPrettyPrinter.writeLeafElement graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.util.DefaultXmlPrettyPrinter.writeLeafElement,4,15,0,0
+
+
+#com/fasterxml/jackson/dataformat/xml/util/DefaultXmlPrettyPrinter/writeLeafNullElement:
+Method com.fasterxml.jackson.dataformat.xml.util.DefaultXmlPrettyPrinter.writeLeafNullElement graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.util.DefaultXmlPrettyPrinter.writeLeafNullElement,4,12,0,0
+
+
+#com/fasterxml/jackson/dataformat/xml/util/StaxUtil/throwXmlAsIOException:
+Method com.fasterxml.jackson.dataformat.xml.util.StaxUtil.throwXmlAsIOException graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.util.StaxUtil.throwXmlAsIOException,9,20,0,1
+
+
+#com/fasterxml/jackson/dataformat/xml/util/StaxUtil/sanitizeXmlTypeName:
+Method com.fasterxml.jackson.dataformat.xml.util.StaxUtil.sanitizeXmlTypeName graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.util.StaxUtil.sanitizeXmlTypeName,31,71,0,14
+
+
+#com/fasterxml/jackson/dataformat/xml/deser/XmlTokenStream/<init>:
+Method com.fasterxml.jackson.dataformat.xml.deser.XmlTokenStream.<init> graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.deser.XmlTokenStream.<init>,4,5,0,0
+
+
+#com/fasterxml/jackson/dataformat/xml/deser/XmlTokenStream/next:
+Method com.fasterxml.jackson.dataformat.xml.deser.XmlTokenStream.next graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.deser.XmlTokenStream.next,4,6,0,1
+
+
+#com/fasterxml/jackson/dataformat/xml/deser/XmlTokenStream/skipEndElement:
+Method com.fasterxml.jackson.dataformat.xml.deser.XmlTokenStream.skipEndElement graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.deser.XmlTokenStream.skipEndElement,4,3,0,0
+
+
+#com/fasterxml/jackson/dataformat/xml/deser/XmlTokenStream/hasAttributes:
+Method com.fasterxml.jackson.dataformat.xml.deser.XmlTokenStream.hasAttributes graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.deser.XmlTokenStream.hasAttributes,6,8,0,1
+
+
+#com/fasterxml/jackson/dataformat/xml/deser/XmlTokenStream/repeatStartElement:
+Method com.fasterxml.jackson.dataformat.xml.deser.XmlTokenStream.repeatStartElement graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.deser.XmlTokenStream.repeatStartElement,7,19,0,1
+
+
+#com/fasterxml/jackson/dataformat/xml/deser/XmlTokenStream/skipAttributes:
+Method com.fasterxml.jackson.dataformat.xml.deser.XmlTokenStream.skipAttributes graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.deser.XmlTokenStream.skipAttributes,9,15,0,0
+
+
+#com/fasterxml/jackson/dataformat/xml/deser/XmlTokenStream/convertToString:
+Method com.fasterxml.jackson.dataformat.xml.deser.XmlTokenStream.convertToString graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.deser.XmlTokenStream.convertToString,11,25,0,1
+
+
+#com/fasterxml/jackson/dataformat/xml/deser/XmlTokenStream/_next:
+Method com.fasterxml.jackson.dataformat.xml.deser.XmlTokenStream._next graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.deser.XmlTokenStream._next,17,45,0,2
+
+
+#com/fasterxml/jackson/dataformat/xml/deser/XmlTokenStream/_collectUntilTag:
+Method com.fasterxml.jackson.dataformat.xml.deser.XmlTokenStream._collectUntilTag graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.deser.XmlTokenStream._collectUntilTag,8,22,0,1
+
+
+#com/fasterxml/jackson/dataformat/xml/deser/XmlTokenStream/_skipUntilTag:
+Method com.fasterxml.jackson.dataformat.xml.deser.XmlTokenStream._skipUntilTag graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.deser.XmlTokenStream._skipUntilTag,6,11,0,0
+
+
+#com/fasterxml/jackson/dataformat/xml/deser/XmlTokenStream/_initStartElement:
+Method com.fasterxml.jackson.dataformat.xml.deser.XmlTokenStream._initStartElement graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.deser.XmlTokenStream._initStartElement,6,21,0,1
+
+
+#com/fasterxml/jackson/dataformat/xml/deser/XmlTokenStream/_handleRepeatElement:
+Method com.fasterxml.jackson.dataformat.xml.deser.XmlTokenStream._handleRepeatElement graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.deser.XmlTokenStream._handleRepeatElement,12,26,0,1
+
+
+#com/fasterxml/jackson/dataformat/xml/deser/XmlTokenStream/_handleEndElement:
+Method com.fasterxml.jackson.dataformat.xml.deser.XmlTokenStream._handleEndElement graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.deser.XmlTokenStream._handleEndElement,6,14,0,1
+
+
+#com/fasterxml/jackson/dataformat/xml/deser/XmlTokenStream/_extractLocation:
+Method com.fasterxml.jackson.dataformat.xml.deser.XmlTokenStream._extractLocation graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.deser.XmlTokenStream._extractLocation,4,7,0,0
+
+
+#com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser$Feature/collectDefaults:
+Method com.fasterxml.jackson.dataformat.xml.deser.FromXmlParser$Feature.collectDefaults graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.deser.FromXmlParser$Feature.collectDefaults,7,18,0,1
+
+
+#com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser$Feature/enabledIn:
+Method com.fasterxml.jackson.dataformat.xml.deser.FromXmlParser$Feature.enabledIn graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.deser.FromXmlParser$Feature.enabledIn,5,4,0,0
+
+
+#com/fasterxml/jackson/dataformat/xml/deser/WrapperHandlingDeserializer/createContextual:
+Method com.fasterxml.jackson.dataformat.xml.deser.WrapperHandlingDeserializer.createContextual graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.deser.WrapperHandlingDeserializer.createContextual,14,27,0,3
+
+
+#com/fasterxml/jackson/dataformat/xml/deser/WrapperHandlingDeserializer/_configureParser:
+Method com.fasterxml.jackson.dataformat.xml.deser.WrapperHandlingDeserializer._configureParser graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.deser.WrapperHandlingDeserializer._configureParser,4,5,0,0
+
+
+#com/fasterxml/jackson/dataformat/xml/deser/WrapperHandlingDeserializer/_verifyDeserType:
+Method com.fasterxml.jackson.dataformat.xml.deser.WrapperHandlingDeserializer._verifyDeserType graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.deser.WrapperHandlingDeserializer._verifyDeserType,4,4,0,0
+
+
+#com/fasterxml/jackson/dataformat/xml/deser/XmlTextDeserializer/deserialize:
+Method com.fasterxml.jackson.dataformat.xml.deser.XmlTextDeserializer.deserialize graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.deser.XmlTextDeserializer.deserialize,4,13,0,0
+
+
+#com/fasterxml/jackson/dataformat/xml/deser/XmlTextDeserializer/deserialize:
+Method com.fasterxml.jackson.dataformat.xml.deser.XmlTextDeserializer.deserialize graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.deser.XmlTextDeserializer.deserialize,4,14,0,0
+
+
+#com/fasterxml/jackson/dataformat/xml/deser/XmlTextDeserializer/_verifyDeserType:
+Method com.fasterxml.jackson.dataformat.xml.deser.XmlTextDeserializer._verifyDeserType graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.deser.XmlTextDeserializer._verifyDeserType,4,4,0,0
+
+
+#com/fasterxml/jackson/dataformat/xml/deser/ElementWrapper/<init>:
+Method com.fasterxml.jackson.dataformat.xml.deser.ElementWrapper.<init> graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.deser.ElementWrapper.<init>,5,4,0,0
+
+
+#com/fasterxml/jackson/dataformat/xml/deser/ElementWrapper/isMatching:
+Method com.fasterxml.jackson.dataformat.xml.deser.ElementWrapper.isMatching graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.deser.ElementWrapper.isMatching,5,4,0,0
+
+
+#com/fasterxml/jackson/dataformat/xml/deser/ElementWrapper/matchesWrapper:
+Method com.fasterxml.jackson.dataformat.xml.deser.ElementWrapper.matchesWrapper graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.deser.ElementWrapper.matchesWrapper,10,20,0,1
+
+
+#com/fasterxml/jackson/dataformat/xml/deser/ElementWrapper/toString:
+Method com.fasterxml.jackson.dataformat.xml.deser.ElementWrapper.toString graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.deser.ElementWrapper.toString,6,12,0,0
+
+
+#com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser/isEnabled:
+Method com.fasterxml.jackson.dataformat.xml.deser.FromXmlParser.isEnabled graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.deser.FromXmlParser.isEnabled,5,6,0,0
+
+
+#com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser/configure:
+Method com.fasterxml.jackson.dataformat.xml.deser.FromXmlParser.configure graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.deser.FromXmlParser.configure,5,7,0,0
+
+
+#com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser/addVirtualWrapping:
+Method com.fasterxml.jackson.dataformat.xml.deser.FromXmlParser.addVirtualWrapping graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.deser.FromXmlParser.addVirtualWrapping,5,11,0,0
+
+
+#com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser/getCurrentName:
+Method com.fasterxml.jackson.dataformat.xml.deser.FromXmlParser.getCurrentName graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.deser.FromXmlParser.getCurrentName,8,24,0,1
+
+
+#com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser/overrideCurrentName:
+Method com.fasterxml.jackson.dataformat.xml.deser.FromXmlParser.overrideCurrentName graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.deser.FromXmlParser.overrideCurrentName,5,16,0,1
+
+
+#com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser/close:
+Method com.fasterxml.jackson.dataformat.xml.deser.FromXmlParser.close graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.deser.FromXmlParser.close,8,18,0,1
+
+
+#com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser/isExpectedStartArrayToken:
+Method com.fasterxml.jackson.dataformat.xml.deser.FromXmlParser.isExpectedStartArrayToken graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.deser.FromXmlParser.isExpectedStartArrayToken,7,12,0,0
+
+
+#com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser/nextToken:
+Method com.fasterxml.jackson.dataformat.xml.deser.FromXmlParser.nextToken graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.deser.FromXmlParser.nextToken,41,158,0,7
+
+
+#com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser/nextTextValue:
+Method com.fasterxml.jackson.dataformat.xml.deser.FromXmlParser.nextTextValue graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.deser.FromXmlParser.nextTextValue,31,117,0,8
+
+
+#com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser/_updateState:
+Method com.fasterxml.jackson.dataformat.xml.deser.FromXmlParser._updateState graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.deser.FromXmlParser._updateState,7,19,0,0
+
+
+#com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser/getText:
+Method com.fasterxml.jackson.dataformat.xml.deser.FromXmlParser.getText graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.deser.FromXmlParser.getText,7,18,0,1
+
+
+#com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser/getValueAsString:
+Method com.fasterxml.jackson.dataformat.xml.deser.FromXmlParser.getValueAsString graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.deser.FromXmlParser.getValueAsString,12,29,0,1
+
+
+#com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser/getTextCharacters:
+Method com.fasterxml.jackson.dataformat.xml.deser.FromXmlParser.getTextCharacters graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.deser.FromXmlParser.getTextCharacters,5,3,0,0
+
+
+#com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser/getTextLength:
+Method com.fasterxml.jackson.dataformat.xml.deser.FromXmlParser.getTextLength graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.deser.FromXmlParser.getTextLength,5,3,0,0
+
+
+#com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser/getBinaryValue:
+Method com.fasterxml.jackson.dataformat.xml.deser.FromXmlParser.getBinaryValue graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.deser.FromXmlParser.getBinaryValue,8,27,0,1
+
+
+#com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser/_handleEOF:
+Method com.fasterxml.jackson.dataformat.xml.deser.FromXmlParser._handleEOF graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.deser.FromXmlParser._handleEOF,4,7,0,0
+
+
+#com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser/_getByteArrayBuilder:
+Method com.fasterxml.jackson.dataformat.xml.deser.FromXmlParser._getByteArrayBuilder graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.deser.FromXmlParser._getByteArrayBuilder,5,10,0,0
+
+
+#com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser/_isEmpty:
+Method com.fasterxml.jackson.dataformat.xml.deser.FromXmlParser._isEmpty graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.deser.FromXmlParser._isEmpty,11,19,0,1
+
+
+#com/fasterxml/jackson/dataformat/xml/deser/XmlReadContext/createChildArrayContext:
+Method com.fasterxml.jackson.dataformat.xml.deser.XmlReadContext.createChildArrayContext graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.deser.XmlReadContext.createChildArrayContext,4,8,0,0
+
+
+#com/fasterxml/jackson/dataformat/xml/deser/XmlReadContext/createChildObjectContext:
+Method com.fasterxml.jackson.dataformat.xml.deser.XmlReadContext.createChildObjectContext graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.deser.XmlReadContext.createChildObjectContext,4,8,0,0
+
+
+#com/fasterxml/jackson/dataformat/xml/deser/XmlReadContext/toString:
+Method com.fasterxml.jackson.dataformat.xml.deser.XmlReadContext.toString graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.deser.XmlReadContext.toString,9,22,0,1
+
+
+#com/fasterxml/jackson/dataformat/xml/deser/XmlBeanDeserializerModifier/updateProperties:
+Method com.fasterxml.jackson.dataformat.xml.deser.XmlBeanDeserializerModifier.updateProperties graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.deser.XmlBeanDeserializerModifier.updateProperties,19,64,0,8
+
+
+#com/fasterxml/jackson/dataformat/xml/deser/XmlBeanDeserializerModifier/modifyDeserializer:
+Method com.fasterxml.jackson.dataformat.xml.deser.XmlBeanDeserializerModifier.modifyDeserializer graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.deser.XmlBeanDeserializerModifier.modifyDeserializer,7,14,0,0
+
+
+#com/fasterxml/jackson/dataformat/xml/deser/XmlBeanDeserializerModifier/_findSoleTextProp:
+Method com.fasterxml.jackson.dataformat.xml.deser.XmlBeanDeserializerModifier._findSoleTextProp graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.deser.XmlBeanDeserializerModifier._findSoleTextProp,11,21,0,2
+
+
+#com/fasterxml/jackson/dataformat/xml/jaxb/XmlJaxbAnnotationIntrospector/findAnnotation:
+Method com.fasterxml.jackson.dataformat.xml.jaxb.XmlJaxbAnnotationIntrospector.findAnnotation graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.jaxb.XmlJaxbAnnotationIntrospector.findAnnotation,24,59,0,7
+
+
+#com/fasterxml/jackson/dataformat/xml/ser/XmlBeanSerializerBase/<init>:
+Method com.fasterxml.jackson.dataformat.xml.ser.XmlBeanSerializerBase.<init> graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.ser.XmlBeanSerializerBase.<init>,24,83,0,13
+
+
+#com/fasterxml/jackson/dataformat/xml/ser/XmlBeanSerializerBase/serializeFields:
+Method com.fasterxml.jackson.dataformat.xml.ser.XmlBeanSerializerBase.serializeFields graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.ser.XmlBeanSerializerBase.serializeFields,28,96,0,12
+
+
+#com/fasterxml/jackson/dataformat/xml/ser/XmlBeanSerializerBase/serializeFieldsFiltered:
+Method com.fasterxml.jackson.dataformat.xml.ser.XmlBeanSerializerBase.serializeFieldsFiltered graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.ser.XmlBeanSerializerBase.serializeFieldsFiltered,28,101,0,9
+
+
+#com/fasterxml/jackson/dataformat/xml/ser/XmlBeanSerializerBase/serializeWithType:
+Method com.fasterxml.jackson.dataformat.xml.ser.XmlBeanSerializerBase.serializeWithType graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.ser.XmlBeanSerializerBase.serializeWithType,9,28,0,1
+
+
+#com/fasterxml/jackson/dataformat/xml/ser/XmlBeanSerializerBase/_serializeObjectId:
+Method com.fasterxml.jackson.dataformat.xml.ser.XmlBeanSerializerBase._serializeObjectId graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.ser.XmlBeanSerializerBase._serializeObjectId,7,21,0,0
+
+
+#com/fasterxml/jackson/dataformat/xml/ser/XmlBeanSerializerBase/_isAttribute:
+Method com.fasterxml.jackson.dataformat.xml.ser.XmlBeanSerializerBase._isAttribute graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.ser.XmlBeanSerializerBase._isAttribute,6,4,0,0
+
+
+#com/fasterxml/jackson/dataformat/xml/ser/XmlBeanSerializerBase/_isCData:
+Method com.fasterxml.jackson.dataformat.xml.ser.XmlBeanSerializerBase._isCData graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.ser.XmlBeanSerializerBase._isCData,6,4,0,0
+
+
+#com/fasterxml/jackson/dataformat/xml/ser/XmlBeanSerializerBase/_orderAttributesFirst:
+Method com.fasterxml.jackson.dataformat.xml.ser.XmlBeanSerializerBase._orderAttributesFirst graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.ser.XmlBeanSerializerBase._orderAttributesFirst,11,36,0,2
+
+
+#com/fasterxml/jackson/dataformat/xml/ser/XmlBeanSerializer/asArraySerializer:
+Method com.fasterxml.jackson.dataformat.xml.ser.XmlBeanSerializer.asArraySerializer graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.ser.XmlBeanSerializer.asArraySerializer,6,14,0,0
+
+
+#com/fasterxml/jackson/dataformat/xml/ser/XmlBeanSerializer/serialize:
+Method com.fasterxml.jackson.dataformat.xml.ser.XmlBeanSerializer.serialize graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.ser.XmlBeanSerializer.serialize,7,22,0,1
+
+
+#com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator/<init>:
+Method com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator.<init> graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator.<init>,8,13,0,0
+
+
+#com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator/initGenerator:
+Method com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator.initGenerator graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator.initGenerator,12,32,0,0
+
+
+#com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator/useDefaultPrettyPrinter:
+Method com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator.useDefaultPrettyPrinter graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator.useDefaultPrettyPrinter,4,6,0,0
+
+
+#com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator/setPrettyPrinter:
+Method com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator.setPrettyPrinter graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator.setPrettyPrinter,5,4,0,0
+
+
+#com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator/overrideFormatFeatures:
+Method com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator.overrideFormatFeatures graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator.overrideFormatFeatures,4,7,0,0
+
+
+#com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator/isEnabled:
+Method com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator.isEnabled graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator.isEnabled,5,6,0,0
+
+
+#com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator/configure:
+Method com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator.configure graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator.configure,5,7,0,1
+
+
+#com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator/setNextNameIfMissing:
+Method com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator.setNextNameIfMissing graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator.setNextNameIfMissing,4,6,0,0
+
+
+#com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator/startWrappedValue:
+Method com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator.startWrappedValue graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator.startWrappedValue,7,15,0,0
+
+
+#com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator/finishWrappedValue:
+Method com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator.finishWrappedValue graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator.finishWrappedValue,7,12,0,0
+
+
+#com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator/writeRepeatedFieldName:
+Method com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator.writeRepeatedFieldName graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator.writeRepeatedFieldName,4,7,0,0
+
+
+#com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator/writeFieldName:
+Method com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator.writeFieldName graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator.writeFieldName,7,14,0,0
+
+
+#com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator/writeStartArray:
+Method com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator.writeStartArray graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator.writeStartArray,4,6,0,0
+
+
+#com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator/writeEndArray:
+Method com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator.writeEndArray graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator.writeEndArray,6,15,0,0
+
+
+#com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator/writeStartObject:
+Method com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator.writeStartObject graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator.writeStartObject,5,7,0,2
+
+
+#com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator/writeEndObject:
+Method com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator.writeEndObject graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator.writeEndObject,10,20,0,0
+
+
+#com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator/_handleStartObject:
+Method com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator._handleStartObject graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator._handleStartObject,4,9,0,0
+
+
+#com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator/_handleEndObject:
+Method com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator._handleEndObject graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator._handleEndObject,8,22,0,1
+
+
+#com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator/writeString:
+Method com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator.writeString graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator.writeString,16,50,0,2
+
+
+#com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator/writeString:
+Method com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator.writeString graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator.writeString,16,62,0,1
+
+
+#com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator/writeRaw:
+Method com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator.writeRaw graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator.writeRaw,4,8,0,0
+
+
+#com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator/writeRaw:
+Method com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator.writeRaw graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator.writeRaw,4,10,0,0
+
+
+#com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator/writeRaw:
+Method com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator.writeRaw graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator.writeRaw,4,10,0,1
+
+
+#com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator/writeBinary:
+Method com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator.writeBinary graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator.writeBinary,13,43,0,1
+
+
+#com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator/toFullBuffer:
+Method com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator.toFullBuffer graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator.toFullBuffer,7,15,0,1
+
+
+#com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator/writeBoolean:
+Method com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator.writeBoolean graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator.writeBoolean,11,31,0,1
+
+
+#com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator/writeNull:
+Method com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator.writeNull graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator.writeNull,11,22,0,1
+
+
+#com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator/writeNumber:
+Method com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator.writeNumber graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator.writeNumber,11,31,0,2
+
+
+#com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator/writeNumber:
+Method com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator.writeNumber graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator.writeNumber,11,31,0,1
+
+
+#com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator/writeNumber:
+Method com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator.writeNumber graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator.writeNumber,11,31,0,1
+
+
+#com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator/writeNumber:
+Method com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator.writeNumber graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator.writeNumber,11,31,0,1
+
+
+#com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator/writeNumber:
+Method com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator.writeNumber graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator.writeNumber,20,57,0,2
+
+
+#com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator/writeNumber:
+Method com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator.writeNumber graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator.writeNumber,13,35,0,1
+
+
+#com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator/_verifyValueWrite:
+Method com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator._verifyValueWrite graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator._verifyValueWrite,4,4,0,1
+
+
+#com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator/flush:
+Method com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator.flush graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator.flush,4,6,0,0
+
+
+#com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator/close:
+Method com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator.close graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator.close,13,23,0,1
+
+
+#com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator/checkNextIsUnwrapped:
+Method com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator.checkNextIsUnwrapped graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator.checkNextIsUnwrapped,4,5,0,0
+
+
+#com/fasterxml/jackson/dataformat/xml/ser/XmlSerializerProvider/serializeValue:
+Method com.fasterxml.jackson.dataformat.xml.ser.XmlSerializerProvider.serializeValue graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.ser.XmlSerializerProvider.serializeValue,12,36,0,2
+
+
+#com/fasterxml/jackson/dataformat/xml/ser/XmlSerializerProvider/serializeValue:
+Method com.fasterxml.jackson.dataformat.xml.ser.XmlSerializerProvider.serializeValue graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.ser.XmlSerializerProvider.serializeValue,12,35,0,2
+
+
+#com/fasterxml/jackson/dataformat/xml/ser/XmlSerializerProvider/serializeValue:
+Method com.fasterxml.jackson.dataformat.xml.ser.XmlSerializerProvider.serializeValue graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.ser.XmlSerializerProvider.serializeValue,14,40,0,2
+
+
+#com/fasterxml/jackson/dataformat/xml/ser/XmlSerializerProvider/_serializeXmlNull:
+Method com.fasterxml.jackson.dataformat.xml.ser.XmlSerializerProvider._serializeXmlNull graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.ser.XmlSerializerProvider._serializeXmlNull,4,7,0,0
+
+
+#com/fasterxml/jackson/dataformat/xml/ser/XmlSerializerProvider/_initWithRootName:
+Method com.fasterxml.jackson.dataformat.xml.ser.XmlSerializerProvider._initWithRootName graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.ser.XmlSerializerProvider._initWithRootName,8,16,0,1
+
+
+#com/fasterxml/jackson/dataformat/xml/ser/XmlSerializerProvider/_rootNameFromConfig:
+Method com.fasterxml.jackson.dataformat.xml.ser.XmlSerializerProvider._rootNameFromConfig graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.ser.XmlSerializerProvider._rootNameFromConfig,7,10,0,0
+
+
+#com/fasterxml/jackson/dataformat/xml/ser/XmlSerializerProvider/_asXmlGenerator:
+Method com.fasterxml.jackson.dataformat.xml.ser.XmlSerializerProvider._asXmlGenerator graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.ser.XmlSerializerProvider._asXmlGenerator,6,6,0,0
+
+
+#com/fasterxml/jackson/dataformat/xml/ser/UnwrappingXmlBeanSerializer/serialize:
+Method com.fasterxml.jackson.dataformat.xml.ser.UnwrappingXmlBeanSerializer.serialize graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.ser.UnwrappingXmlBeanSerializer.serialize,7,20,0,1
+
+
+#com/fasterxml/jackson/dataformat/xml/ser/XmlBeanPropertyWriter/<init>:
+Method com.fasterxml.jackson.dataformat.xml.ser.XmlBeanPropertyWriter.<init> graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.ser.XmlBeanPropertyWriter.<init>,4,4,0,0
+
+
+#com/fasterxml/jackson/dataformat/xml/ser/XmlBeanPropertyWriter/_qname:
+Method com.fasterxml.jackson.dataformat.xml.ser.XmlBeanPropertyWriter._qname graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.ser.XmlBeanPropertyWriter._qname,4,5,0,0
+
+
+#com/fasterxml/jackson/dataformat/xml/ser/XmlBeanPropertyWriter/serializeAsField:
+Method com.fasterxml.jackson.dataformat.xml.ser.XmlBeanPropertyWriter.serializeAsField graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.ser.XmlBeanPropertyWriter.serializeAsField,26,95,0,7
+
+
+#com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator$Feature/collectDefaults:
+Method com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator$Feature.collectDefaults graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator$Feature.collectDefaults,7,18,0,0
+
+
+#com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator$Feature/enabledIn:
+Method com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator$Feature.enabledIn graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator$Feature.enabledIn,5,4,0,0
+
+
+#com/fasterxml/jackson/dataformat/xml/ser/XmlBeanSerializerModifier/changeProperties:
+Method com.fasterxml.jackson.dataformat.xml.ser.XmlBeanSerializerModifier.changeProperties graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.ser.XmlBeanSerializerModifier.changeProperties,14,37,0,5
+
+
+#com/fasterxml/jackson/dataformat/xml/ser/XmlBeanSerializerModifier/modifySerializer:
+Method com.fasterxml.jackson.dataformat.xml.ser.XmlBeanSerializerModifier.modifySerializer graphduas were calculated in 0 minutes and 0 seconds
+@@ com.fasterxml.jackson.dataformat.xml.ser.XmlBeanSerializerModifier.modifySerializer,4,4,0,0
+
+185 methods have their graphdua generated in 0 minutes and 0 seconds
+Graphduas time (ms):865

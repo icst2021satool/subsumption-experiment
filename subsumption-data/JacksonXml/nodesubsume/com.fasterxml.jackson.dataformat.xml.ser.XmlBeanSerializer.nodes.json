@@ -1,0 +1,21 @@
+{
+"Class" : "com.fasterxml.jackson.dataformat.xml.ser.XmlBeanSerializer", 
+"Methods" : [{ "Name" : "asArraySerializer" ,
+"Nodes" : 6,
+"0" : [ 88 ]
+"1" : [ 95 ]
+"2" : [ 88 ]
+"3" : [ 88 ]
+"4" : [ 92 ]
+"5" : [  ]
+},{ "Name" : "serialize" ,
+"Nodes" : 7,
+"0" : [ 111 ]
+"1" : [ 115,116 ]
+"2" : [ 119 ]
+"3" : [ 121,122 ]
+"4" : [ 117 ]
+"5" : [ 112,113 ]
+"6" : [  ]
+}]
+}

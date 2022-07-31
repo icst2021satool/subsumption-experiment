@@ -1,0 +1,14 @@
+{
+"Class" : "com.fasterxml.jackson.dataformat.xml.ser.UnwrappingXmlBeanSerializer", 
+"Methods" : [{ "Name" : "serialize" ,
+"Edges" : 8,
+"0" : [ 2,3 ],
+"1" : [ 5,6 ],
+"2" : [ 0,5 ],
+"3" : [ 0,1 ],
+"4" : [ 4,3 ],
+"5" : [ 1,4 ],
+"6" : [ 1,2 ],
+"7" : [ 3,6 ]
+}]
+}

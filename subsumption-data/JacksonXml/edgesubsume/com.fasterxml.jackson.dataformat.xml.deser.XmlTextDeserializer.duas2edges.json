@@ -1,0 +1,20 @@
+{
+"Class" : "com.fasterxml.jackson.dataformat.xml.deser.XmlTextDeserializer", 
+"Methods" : [{ "Name" : "deserialize" ,
+"Edges" : 4,
+"Duas" : 15,
+"3" : 1, 
+ "4" : 2, 
+ "10" : 1, 
+ "11" : 2},{ "Name" : "deserialize" ,
+"Edges" : 4,
+"Duas" : 15,
+"2" : 1, 
+ "3" : 2, 
+ "11" : 1, 
+ "12" : 2},{ "Name" : "_verifyDeserType" ,
+"Edges" : 4,
+"Duas" : 4,
+"0" : 2, 
+ "1" : 3}]
+}

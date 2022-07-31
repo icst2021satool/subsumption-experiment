@@ -1,0 +1,26 @@
+{
+"Class" : "com.fasterxml.jackson.dataformat.xml.ser.XmlBeanSerializerModifier", 
+"Methods" : [{ "Name" : "changeProperties" ,
+"Nodes" : 14,
+"0" : [ 40,41 ]
+"1" : [ 41 ]
+"2" : [ 71 ]
+"3" : [ 48,54,42,43,44,45,46,47 ]
+"4" : [ 57,58,61 ]
+"5" : [ 41 ]
+"6" : [ 61 ]
+"7" : [ 65,66 ]
+"8" : [ 67 ]
+"9" : [ 69 ]
+"10" : [ 66 ]
+"11" : [ 62 ]
+"12" : [ 55 ]
+"13" : [  ]
+},{ "Name" : "modifySerializer" ,
+"Nodes" : 4,
+"0" : [ 82 ]
+"1" : [ 85 ]
+"2" : [ 83 ]
+"3" : [  ]
+}]
+}

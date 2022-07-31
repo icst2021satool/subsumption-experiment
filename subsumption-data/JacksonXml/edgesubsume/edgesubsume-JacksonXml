@@ -8,11 +8,11 @@
 ## DUAs: 18
 ## Subsumed DUAs: 18
 ## Edge DUA coverage: 100.0
-@@ com.fasterxml.jackson.dataformat.xml.XmlAnnotationIntrospector$Pair.<init>,12,15,18,18,100.0,0,7
+@@ com.fasterxml.jackson.dataformat.xml.XmlAnnotationIntrospector$Pair.<init>,12,15,18,18,100.0,0,8
 
 
 #com/fasterxml/jackson/dataformat/xml/XmlAnnotationIntrospector$Pair/<init>:
-Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.XmlAnnotationIntrospector$Pair.<init>  calculated in 0 minutes, 0 seconds, and 7 milliseconds
+Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.XmlAnnotationIntrospector$Pair.<init>  calculated in 0 minutes, 0 seconds, and 8 milliseconds
 
 #com/fasterxml/jackson/dataformat/xml/XmlAnnotationIntrospector$Pair/findNamespace:
 ## nodes: 8
@@ -32,11 +32,11 @@ Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.XmlAnn
 ## DUAs: 18
 ## Subsumed DUAs: 17
 ## Edge DUA coverage: 94.44444444444444
-@@ com.fasterxml.jackson.dataformat.xml.XmlAnnotationIntrospector$Pair.isOutputAsAttribute,8,10,18,17,94.44444444444444,0,1
+@@ com.fasterxml.jackson.dataformat.xml.XmlAnnotationIntrospector$Pair.isOutputAsAttribute,8,10,18,17,94.44444444444444,0,3
 
 
 #com/fasterxml/jackson/dataformat/xml/XmlAnnotationIntrospector$Pair/isOutputAsAttribute:
-Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.XmlAnnotationIntrospector$Pair.isOutputAsAttribute  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.XmlAnnotationIntrospector$Pair.isOutputAsAttribute  calculated in 0 minutes, 0 seconds, and 3 milliseconds
 
 #com/fasterxml/jackson/dataformat/xml/XmlAnnotationIntrospector$Pair/isOutputAsText:
 ## nodes: 8
@@ -44,11 +44,11 @@ Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.XmlAnn
 ## DUAs: 18
 ## Subsumed DUAs: 17
 ## Edge DUA coverage: 94.44444444444444
-@@ com.fasterxml.jackson.dataformat.xml.XmlAnnotationIntrospector$Pair.isOutputAsText,8,10,18,17,94.44444444444444,0,1
+@@ com.fasterxml.jackson.dataformat.xml.XmlAnnotationIntrospector$Pair.isOutputAsText,8,10,18,17,94.44444444444444,0,2
 
 
 #com/fasterxml/jackson/dataformat/xml/XmlAnnotationIntrospector$Pair/isOutputAsText:
-Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.XmlAnnotationIntrospector$Pair.isOutputAsText  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.XmlAnnotationIntrospector$Pair.isOutputAsText  calculated in 0 minutes, 0 seconds, and 2 milliseconds
 
 #com/fasterxml/jackson/dataformat/xml/XmlAnnotationIntrospector$Pair/isOutputAsCData:
 ## nodes: 8
@@ -92,11 +92,11 @@ Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.Jackso
 ## DUAs: 9
 ## Subsumed DUAs: 6
 ## Edge DUA coverage: 66.66666666666666
-@@ com.fasterxml.jackson.dataformat.xml.XmlFactory.<init>,6,7,9,6,66.66666666666666,0,0
+@@ com.fasterxml.jackson.dataformat.xml.XmlFactory.<init>,6,7,9,6,66.66666666666666,0,1
 
 
 #com/fasterxml/jackson/dataformat/xml/XmlFactory/<init>:
-Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.XmlFactory.<init>  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.XmlFactory.<init>  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #com/fasterxml/jackson/dataformat/xml/XmlFactory/readResolve:
 ## nodes: 6
@@ -104,11 +104,11 @@ Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.XmlFac
 ## DUAs: 15
 ## Subsumed DUAs: 15
 ## Edge DUA coverage: 100.0
-@@ com.fasterxml.jackson.dataformat.xml.XmlFactory.readResolve,6,7,15,15,100.0,0,0
+@@ com.fasterxml.jackson.dataformat.xml.XmlFactory.readResolve,6,7,15,15,100.0,0,1
 
 
 #com/fasterxml/jackson/dataformat/xml/XmlFactory/readResolve:
-Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.XmlFactory.readResolve  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.XmlFactory.readResolve  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #com/fasterxml/jackson/dataformat/xml/XmlFactory/configure:
 ## nodes: 5
@@ -116,11 +116,11 @@ Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.XmlFac
 ## DUAs: 7
 ## Subsumed DUAs: 7
 ## Edge DUA coverage: 100.0
-@@ com.fasterxml.jackson.dataformat.xml.XmlFactory.configure,5,5,7,7,100.0,0,0
+@@ com.fasterxml.jackson.dataformat.xml.XmlFactory.configure,5,5,7,7,100.0,0,1
 
 
 #com/fasterxml/jackson/dataformat/xml/XmlFactory/configure:
-Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.XmlFactory.configure  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.XmlFactory.configure  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #com/fasterxml/jackson/dataformat/xml/XmlFactory/isEnabled:
 ## nodes: 5
@@ -128,11 +128,11 @@ Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.XmlFac
 ## DUAs: 6
 ## Subsumed DUAs: 6
 ## Edge DUA coverage: 100.0
-@@ com.fasterxml.jackson.dataformat.xml.XmlFactory.isEnabled,5,5,6,6,100.0,0,1
+@@ com.fasterxml.jackson.dataformat.xml.XmlFactory.isEnabled,5,5,6,6,100.0,0,0
 
 
 #com/fasterxml/jackson/dataformat/xml/XmlFactory/isEnabled:
-Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.XmlFactory.isEnabled  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.XmlFactory.isEnabled  calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/fasterxml/jackson/dataformat/xml/XmlFactory/configure:
 ## nodes: 5
@@ -164,11 +164,11 @@ Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.XmlFac
 ## DUAs: 12
 ## Subsumed DUAs: 11
 ## Edge DUA coverage: 91.66666666666666
-@@ com.fasterxml.jackson.dataformat.xml.XmlFactory.createParser,4,4,12,11,91.66666666666666,0,0
+@@ com.fasterxml.jackson.dataformat.xml.XmlFactory.createParser,4,4,12,11,91.66666666666666,0,2
 
 
 #com/fasterxml/jackson/dataformat/xml/XmlFactory/createParser:
-Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.XmlFactory.createParser  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.XmlFactory.createParser  calculated in 0 minutes, 0 seconds, and 2 milliseconds
 
 #com/fasterxml/jackson/dataformat/xml/XmlFactory/createParser:
 ## nodes: 6
@@ -176,11 +176,11 @@ Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.XmlFac
 ## DUAs: 18
 ## Subsumed DUAs: 17
 ## Edge DUA coverage: 94.44444444444444
-@@ com.fasterxml.jackson.dataformat.xml.XmlFactory.createParser,6,7,18,17,94.44444444444444,0,0
+@@ com.fasterxml.jackson.dataformat.xml.XmlFactory.createParser,6,7,18,17,94.44444444444444,0,1
 
 
 #com/fasterxml/jackson/dataformat/xml/XmlFactory/createParser:
-Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.XmlFactory.createParser  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.XmlFactory.createParser  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #com/fasterxml/jackson/dataformat/xml/XmlFactory/_createParser:
 ## nodes: 4
@@ -188,23 +188,11 @@ Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.XmlFac
 ## DUAs: 8
 ## Subsumed DUAs: 8
 ## Edge DUA coverage: 100.0
-@@ com.fasterxml.jackson.dataformat.xml.XmlFactory._createParser,4,4,8,8,100.0,0,1
+@@ com.fasterxml.jackson.dataformat.xml.XmlFactory._createParser,4,4,8,8,100.0,0,0
 
 
 #com/fasterxml/jackson/dataformat/xml/XmlFactory/_createParser:
-Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.XmlFactory._createParser  calculated in 0 minutes, 0 seconds, and 1 milliseconds
-
-#com/fasterxml/jackson/dataformat/xml/XmlFactory/_createParser:
-## nodes: 4
-## edges: 4
-## DUAs: 8
-## Subsumed DUAs: 8
-## Edge DUA coverage: 100.0
-@@ com.fasterxml.jackson.dataformat.xml.XmlFactory._createParser,4,4,8,8,100.0,0,1
-
-
-#com/fasterxml/jackson/dataformat/xml/XmlFactory/_createParser:
-Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.XmlFactory._createParser  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.XmlFactory._createParser  calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/fasterxml/jackson/dataformat/xml/XmlFactory/_createParser:
 ## nodes: 4
@@ -212,11 +200,11 @@ Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.XmlFac
 ## DUAs: 8
 ## Subsumed DUAs: 8
 ## Edge DUA coverage: 100.0
-@@ com.fasterxml.jackson.dataformat.xml.XmlFactory._createParser,4,4,8,8,100.0,0,1
+@@ com.fasterxml.jackson.dataformat.xml.XmlFactory._createParser,4,4,8,8,100.0,0,0
 
 
 #com/fasterxml/jackson/dataformat/xml/XmlFactory/_createParser:
-Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.XmlFactory._createParser  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.XmlFactory._createParser  calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/fasterxml/jackson/dataformat/xml/XmlFactory/_createParser:
 ## nodes: 4
@@ -224,11 +212,23 @@ Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.XmlFac
 ## DUAs: 8
 ## Subsumed DUAs: 8
 ## Edge DUA coverage: 100.0
-@@ com.fasterxml.jackson.dataformat.xml.XmlFactory._createParser,4,4,8,8,100.0,0,1
+@@ com.fasterxml.jackson.dataformat.xml.XmlFactory._createParser,4,4,8,8,100.0,0,0
 
 
 #com/fasterxml/jackson/dataformat/xml/XmlFactory/_createParser:
-Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.XmlFactory._createParser  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.XmlFactory._createParser  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#com/fasterxml/jackson/dataformat/xml/XmlFactory/_createParser:
+## nodes: 4
+## edges: 4
+## DUAs: 8
+## Subsumed DUAs: 8
+## Edge DUA coverage: 100.0
+@@ com.fasterxml.jackson.dataformat.xml.XmlFactory._createParser,4,4,8,8,100.0,0,0
+
+
+#com/fasterxml/jackson/dataformat/xml/XmlFactory/_createParser:
+Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.XmlFactory._createParser  calculated in 0 minutes, 0 seconds, and 0 milliseconds
 Warning: Method:com.fasterxml.jackson.dataformat.xml.XmlFactory._initializeXmlReader has incoming edges.
 
 #com/fasterxml/jackson/dataformat/xml/XmlFactory/hasXMLFormat:
@@ -237,11 +237,11 @@ Warning: Method:com.fasterxml.jackson.dataformat.xml.XmlFactory._initializeXmlRe
 ## DUAs: 88
 ## Subsumed DUAs: 82
 ## Edge DUA coverage: 93.18181818181817
-@@ com.fasterxml.jackson.dataformat.xml.XmlFactory.hasXMLFormat,49,75,88,82,93.18181818181817,0,3
+@@ com.fasterxml.jackson.dataformat.xml.XmlFactory.hasXMLFormat,49,75,88,82,93.18181818181817,0,5
 
 
 #com/fasterxml/jackson/dataformat/xml/XmlFactory/hasXMLFormat:
-Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.XmlFactory.hasXMLFormat  calculated in 0 minutes, 0 seconds, and 3 milliseconds
+Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.XmlFactory.hasXMLFormat  calculated in 0 minutes, 0 seconds, and 5 milliseconds
 
 #com/fasterxml/jackson/dataformat/xml/XmlFactory/validXmlNameStartChar:
 ## nodes: 4
@@ -274,11 +274,11 @@ Warning: Method:com.fasterxml.jackson.dataformat.xml.XmlFactory.skipSpace has in
 ## DUAs: 17
 ## Subsumed DUAs: 17
 ## Edge DUA coverage: 100.0
-@@ com.fasterxml.jackson.dataformat.xml.JacksonXmlAnnotationIntrospector.findWrapperName,11,15,17,17,100.0,0,1
+@@ com.fasterxml.jackson.dataformat.xml.JacksonXmlAnnotationIntrospector.findWrapperName,11,15,17,17,100.0,0,0
 
 
 #com/fasterxml/jackson/dataformat/xml/JacksonXmlAnnotationIntrospector/findWrapperName:
-Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.JacksonXmlAnnotationIntrospector.findWrapperName  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.JacksonXmlAnnotationIntrospector.findWrapperName  calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/fasterxml/jackson/dataformat/xml/JacksonXmlAnnotationIntrospector/findRootName:
 ## nodes: 7
@@ -298,11 +298,11 @@ Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.Jackso
 ## DUAs: 3
 ## Subsumed DUAs: 3
 ## Edge DUA coverage: 100.0
-@@ com.fasterxml.jackson.dataformat.xml.JacksonXmlAnnotationIntrospector.findNamespace,4,4,3,3,100.0,0,1
+@@ com.fasterxml.jackson.dataformat.xml.JacksonXmlAnnotationIntrospector.findNamespace,4,4,3,3,100.0,0,0
 
 
 #com/fasterxml/jackson/dataformat/xml/JacksonXmlAnnotationIntrospector/findNamespace:
-Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.JacksonXmlAnnotationIntrospector.findNamespace  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.JacksonXmlAnnotationIntrospector.findNamespace  calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/fasterxml/jackson/dataformat/xml/JacksonXmlAnnotationIntrospector/isOutputAsAttribute:
 ## nodes: 7
@@ -322,11 +322,11 @@ Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.Jackso
 ## DUAs: 6
 ## Subsumed DUAs: 6
 ## Edge DUA coverage: 100.0
-@@ com.fasterxml.jackson.dataformat.xml.JacksonXmlAnnotationIntrospector.isOutputAsText,7,8,6,6,100.0,0,0
+@@ com.fasterxml.jackson.dataformat.xml.JacksonXmlAnnotationIntrospector.isOutputAsText,7,8,6,6,100.0,0,1
 
 
 #com/fasterxml/jackson/dataformat/xml/JacksonXmlAnnotationIntrospector/isOutputAsText:
-Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.JacksonXmlAnnotationIntrospector.isOutputAsText  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.JacksonXmlAnnotationIntrospector.isOutputAsText  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #com/fasterxml/jackson/dataformat/xml/JacksonXmlAnnotationIntrospector/isOutputAsCData:
 ## nodes: 7
@@ -334,11 +334,11 @@ Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.Jackso
 ## DUAs: 6
 ## Subsumed DUAs: 6
 ## Edge DUA coverage: 100.0
-@@ com.fasterxml.jackson.dataformat.xml.JacksonXmlAnnotationIntrospector.isOutputAsCData,7,8,6,6,100.0,0,1
+@@ com.fasterxml.jackson.dataformat.xml.JacksonXmlAnnotationIntrospector.isOutputAsCData,7,8,6,6,100.0,0,0
 
 
 #com/fasterxml/jackson/dataformat/xml/JacksonXmlAnnotationIntrospector/isOutputAsCData:
-Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.JacksonXmlAnnotationIntrospector.isOutputAsCData  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.JacksonXmlAnnotationIntrospector.isOutputAsCData  calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/fasterxml/jackson/dataformat/xml/JacksonXmlAnnotationIntrospector/findNameForSerialization:
 ## nodes: 6
@@ -358,11 +358,11 @@ Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.Jackso
 ## DUAs: 11
 ## Subsumed DUAs: 11
 ## Edge DUA coverage: 100.0
-@@ com.fasterxml.jackson.dataformat.xml.JacksonXmlAnnotationIntrospector.findNameForDeserialization,6,8,11,11,100.0,0,0
+@@ com.fasterxml.jackson.dataformat.xml.JacksonXmlAnnotationIntrospector.findNameForDeserialization,6,8,11,11,100.0,0,1
 
 
 #com/fasterxml/jackson/dataformat/xml/JacksonXmlAnnotationIntrospector/findNameForDeserialization:
-Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.JacksonXmlAnnotationIntrospector.findNameForDeserialization  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.JacksonXmlAnnotationIntrospector.findNameForDeserialization  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #com/fasterxml/jackson/dataformat/xml/JacksonXmlAnnotationIntrospector/_findXmlName:
 ## nodes: 4
@@ -418,11 +418,11 @@ Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.XmlTyp
 ## DUAs: 9
 ## Subsumed DUAs: 8
 ## Edge DUA coverage: 88.88888888888889
-@@ com.fasterxml.jackson.dataformat.xml.XmlTypeResolverBuilder.typeProperty,5,6,9,8,88.88888888888889,0,0
+@@ com.fasterxml.jackson.dataformat.xml.XmlTypeResolverBuilder.typeProperty,5,6,9,8,88.88888888888889,0,1
 
 
 #com/fasterxml/jackson/dataformat/xml/XmlTypeResolverBuilder/typeProperty:
-Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.XmlTypeResolverBuilder.typeProperty  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.XmlTypeResolverBuilder.typeProperty  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #com/fasterxml/jackson/dataformat/xml/XmlTypeResolverBuilder/idResolver:
 ## nodes: 7
@@ -444,11 +444,11 @@ Warning: Method:com.fasterxml.jackson.dataformat.xml.XmlTypeResolverBuilder.deco
 ## DUAs: 12
 ## Subsumed DUAs: 6
 ## Edge DUA coverage: 50.0
-@@ com.fasterxml.jackson.dataformat.xml.util.DefaultXmlPrettyPrinter$Lf2SpacesIndenter.writeIndentation,5,5,12,6,50.0,0,1
+@@ com.fasterxml.jackson.dataformat.xml.util.DefaultXmlPrettyPrinter$Lf2SpacesIndenter.writeIndentation,5,5,12,6,50.0,0,0
 
 
 #com/fasterxml/jackson/dataformat/xml/util/DefaultXmlPrettyPrinter$Lf2SpacesIndenter/writeIndentation:
-Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.util.DefaultXmlPrettyPrinter$Lf2SpacesIndenter.writeIndentation  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.util.DefaultXmlPrettyPrinter$Lf2SpacesIndenter.writeIndentation  calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/fasterxml/jackson/dataformat/xml/util/DefaultXmlPrettyPrinter$Lf2SpacesIndenter/writeIndentation:
 ## nodes: 5
@@ -492,11 +492,11 @@ Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.util.A
 ## DUAs: 17
 ## Subsumed DUAs: 17
 ## Edge DUA coverage: 100.0
-@@ com.fasterxml.jackson.dataformat.xml.util.AnnotationUtil.findIsTextAnnotation,12,16,17,17,100.0,0,1
+@@ com.fasterxml.jackson.dataformat.xml.util.AnnotationUtil.findIsTextAnnotation,12,16,17,17,100.0,0,0
 
 
 #com/fasterxml/jackson/dataformat/xml/util/AnnotationUtil/findIsTextAnnotation:
-Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.util.AnnotationUtil.findIsTextAnnotation  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.util.AnnotationUtil.findIsTextAnnotation  calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/fasterxml/jackson/dataformat/xml/util/AnnotationUtil/findIsCDataAnnotation:
 ## nodes: 8
@@ -504,11 +504,11 @@ Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.util.A
 ## DUAs: 10
 ## Subsumed DUAs: 10
 ## Edge DUA coverage: 100.0
-@@ com.fasterxml.jackson.dataformat.xml.util.AnnotationUtil.findIsCDataAnnotation,8,10,10,10,100.0,0,0
+@@ com.fasterxml.jackson.dataformat.xml.util.AnnotationUtil.findIsCDataAnnotation,8,10,10,10,100.0,0,1
 
 
 #com/fasterxml/jackson/dataformat/xml/util/AnnotationUtil/findIsCDataAnnotation:
-Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.util.AnnotationUtil.findIsCDataAnnotation  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.util.AnnotationUtil.findIsCDataAnnotation  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #com/fasterxml/jackson/dataformat/xml/util/XmlInfo/<init>:
 ## nodes: 14
@@ -516,11 +516,11 @@ Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.util.A
 ## DUAs: 16
 ## Subsumed DUAs: 16
 ## Edge DUA coverage: 100.0
-@@ com.fasterxml.jackson.dataformat.xml.util.XmlInfo.<init>,14,17,16,16,100.0,0,1
+@@ com.fasterxml.jackson.dataformat.xml.util.XmlInfo.<init>,14,17,16,16,100.0,0,0
 
 
 #com/fasterxml/jackson/dataformat/xml/util/XmlInfo/<init>:
-Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.util.XmlInfo.<init>  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.util.XmlInfo.<init>  calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/fasterxml/jackson/dataformat/xml/util/TypeUtil/isIndexedType:
 ## nodes: 9
@@ -540,11 +540,11 @@ Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.util.T
 ## DUAs: 8
 ## Subsumed DUAs: 8
 ## Edge DUA coverage: 100.0
-@@ com.fasterxml.jackson.dataformat.xml.util.TypeUtil.isIndexedType,8,11,8,8,100.0,0,1
+@@ com.fasterxml.jackson.dataformat.xml.util.TypeUtil.isIndexedType,8,11,8,8,100.0,0,2
 
 
 #com/fasterxml/jackson/dataformat/xml/util/TypeUtil/isIndexedType:
-Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.util.TypeUtil.isIndexedType  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.util.TypeUtil.isIndexedType  calculated in 0 minutes, 0 seconds, and 2 milliseconds
 
 #com/fasterxml/jackson/dataformat/xml/util/XmlRootNameLookup/readResolve:
 ## nodes: 4
@@ -564,11 +564,11 @@ Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.util.X
 ## DUAs: 8
 ## Subsumed DUAs: 8
 ## Edge DUA coverage: 100.0
-@@ com.fasterxml.jackson.dataformat.xml.util.XmlRootNameLookup.findRootName,4,4,8,8,100.0,0,0
+@@ com.fasterxml.jackson.dataformat.xml.util.XmlRootNameLookup.findRootName,4,4,8,8,100.0,0,1
 
 
 #com/fasterxml/jackson/dataformat/xml/util/XmlRootNameLookup/findRootName:
-Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.util.XmlRootNameLookup.findRootName  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.util.XmlRootNameLookup.findRootName  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #com/fasterxml/jackson/dataformat/xml/util/XmlRootNameLookup/_findRootName:
 ## nodes: 12
@@ -576,11 +576,11 @@ Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.util.X
 ## DUAs: 35
 ## Subsumed DUAs: 7
 ## Edge DUA coverage: 20.0
-@@ com.fasterxml.jackson.dataformat.xml.util.XmlRootNameLookup._findRootName,12,17,35,7,20.0,0,1
+@@ com.fasterxml.jackson.dataformat.xml.util.XmlRootNameLookup._findRootName,12,17,35,7,20.0,0,0
 
 
 #com/fasterxml/jackson/dataformat/xml/util/XmlRootNameLookup/_findRootName:
-Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.util.XmlRootNameLookup._findRootName  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.util.XmlRootNameLookup._findRootName  calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/fasterxml/jackson/dataformat/xml/util/XmlRootNameLookup/findNamespace:
 ## nodes: 8
@@ -588,11 +588,11 @@ Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.util.X
 ## DUAs: 10
 ## Subsumed DUAs: 10
 ## Edge DUA coverage: 100.0
-@@ com.fasterxml.jackson.dataformat.xml.util.XmlRootNameLookup.findNamespace,8,10,10,10,100.0,0,0
+@@ com.fasterxml.jackson.dataformat.xml.util.XmlRootNameLookup.findNamespace,8,10,10,10,100.0,0,1
 
 
 #com/fasterxml/jackson/dataformat/xml/util/XmlRootNameLookup/findNamespace:
-Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.util.XmlRootNameLookup.findNamespace  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.util.XmlRootNameLookup.findNamespace  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #com/fasterxml/jackson/dataformat/xml/util/DefaultXmlPrettyPrinter/indentArraysWith:
 ## nodes: 5
@@ -600,11 +600,11 @@ Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.util.X
 ## DUAs: 4
 ## Subsumed DUAs: 4
 ## Edge DUA coverage: 100.0
-@@ com.fasterxml.jackson.dataformat.xml.util.DefaultXmlPrettyPrinter.indentArraysWith,5,5,4,4,100.0,0,1
+@@ com.fasterxml.jackson.dataformat.xml.util.DefaultXmlPrettyPrinter.indentArraysWith,5,5,4,4,100.0,0,0
 
 
 #com/fasterxml/jackson/dataformat/xml/util/DefaultXmlPrettyPrinter/indentArraysWith:
-Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.util.DefaultXmlPrettyPrinter.indentArraysWith  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.util.DefaultXmlPrettyPrinter.indentArraysWith  calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/fasterxml/jackson/dataformat/xml/util/DefaultXmlPrettyPrinter/indentObjectsWith:
 ## nodes: 5
@@ -612,11 +612,11 @@ Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.util.D
 ## DUAs: 4
 ## Subsumed DUAs: 4
 ## Edge DUA coverage: 100.0
-@@ com.fasterxml.jackson.dataformat.xml.util.DefaultXmlPrettyPrinter.indentObjectsWith,5,5,4,4,100.0,0,0
+@@ com.fasterxml.jackson.dataformat.xml.util.DefaultXmlPrettyPrinter.indentObjectsWith,5,5,4,4,100.0,0,1
 
 
 #com/fasterxml/jackson/dataformat/xml/util/DefaultXmlPrettyPrinter/indentObjectsWith:
-Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.util.DefaultXmlPrettyPrinter.indentObjectsWith  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.util.DefaultXmlPrettyPrinter.indentObjectsWith  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #com/fasterxml/jackson/dataformat/xml/util/DefaultXmlPrettyPrinter/writeStartObject:
 ## nodes: 6
@@ -636,11 +636,11 @@ Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.util.D
 ## DUAs: 17
 ## Subsumed DUAs: 15
 ## Edge DUA coverage: 88.23529411764706
-@@ com.fasterxml.jackson.dataformat.xml.util.DefaultXmlPrettyPrinter.writeEndObject,7,8,17,15,88.23529411764706,0,1
+@@ com.fasterxml.jackson.dataformat.xml.util.DefaultXmlPrettyPrinter.writeEndObject,7,8,17,15,88.23529411764706,0,4
 
 
 #com/fasterxml/jackson/dataformat/xml/util/DefaultXmlPrettyPrinter/writeEndObject:
-Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.util.DefaultXmlPrettyPrinter.writeEndObject  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.util.DefaultXmlPrettyPrinter.writeEndObject  calculated in 0 minutes, 0 seconds, and 4 milliseconds
 
 #com/fasterxml/jackson/dataformat/xml/util/DefaultXmlPrettyPrinter/writeStartElement:
 ## nodes: 6
@@ -648,11 +648,11 @@ Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.util.D
 ## DUAs: 17
 ## Subsumed DUAs: 17
 ## Edge DUA coverage: 100.0
-@@ com.fasterxml.jackson.dataformat.xml.util.DefaultXmlPrettyPrinter.writeStartElement,6,7,17,17,100.0,0,1
+@@ com.fasterxml.jackson.dataformat.xml.util.DefaultXmlPrettyPrinter.writeStartElement,6,7,17,17,100.0,0,0
 
 
 #com/fasterxml/jackson/dataformat/xml/util/DefaultXmlPrettyPrinter/writeStartElement:
-Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.util.DefaultXmlPrettyPrinter.writeStartElement  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.util.DefaultXmlPrettyPrinter.writeStartElement  calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/fasterxml/jackson/dataformat/xml/util/DefaultXmlPrettyPrinter/writeEndElement:
 ## nodes: 7
@@ -660,11 +660,11 @@ Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.util.D
 ## DUAs: 17
 ## Subsumed DUAs: 15
 ## Edge DUA coverage: 88.23529411764706
-@@ com.fasterxml.jackson.dataformat.xml.util.DefaultXmlPrettyPrinter.writeEndElement,7,8,17,15,88.23529411764706,0,0
+@@ com.fasterxml.jackson.dataformat.xml.util.DefaultXmlPrettyPrinter.writeEndElement,7,8,17,15,88.23529411764706,0,1
 
 
 #com/fasterxml/jackson/dataformat/xml/util/DefaultXmlPrettyPrinter/writeEndElement:
-Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.util.DefaultXmlPrettyPrinter.writeEndElement  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.util.DefaultXmlPrettyPrinter.writeEndElement  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #com/fasterxml/jackson/dataformat/xml/util/DefaultXmlPrettyPrinter/writeLeafElement:
 ## nodes: 7
@@ -684,59 +684,11 @@ Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.util.D
 ## DUAs: 23
 ## Subsumed DUAs: 23
 ## Edge DUA coverage: 100.0
-@@ com.fasterxml.jackson.dataformat.xml.util.DefaultXmlPrettyPrinter.writeLeafElement,7,8,23,23,100.0,0,1
+@@ com.fasterxml.jackson.dataformat.xml.util.DefaultXmlPrettyPrinter.writeLeafElement,7,8,23,23,100.0,0,0
 
 
 #com/fasterxml/jackson/dataformat/xml/util/DefaultXmlPrettyPrinter/writeLeafElement:
-Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.util.DefaultXmlPrettyPrinter.writeLeafElement  calculated in 0 minutes, 0 seconds, and 1 milliseconds
-
-#com/fasterxml/jackson/dataformat/xml/util/DefaultXmlPrettyPrinter/writeLeafElement:
-## nodes: 4
-## edges: 4
-## DUAs: 13
-## Subsumed DUAs: 13
-## Edge DUA coverage: 100.0
-@@ com.fasterxml.jackson.dataformat.xml.util.DefaultXmlPrettyPrinter.writeLeafElement,4,4,13,13,100.0,0,1
-
-
-#com/fasterxml/jackson/dataformat/xml/util/DefaultXmlPrettyPrinter/writeLeafElement:
-Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.util.DefaultXmlPrettyPrinter.writeLeafElement  calculated in 0 minutes, 0 seconds, and 1 milliseconds
-
-#com/fasterxml/jackson/dataformat/xml/util/DefaultXmlPrettyPrinter/writeLeafElement:
-## nodes: 4
-## edges: 4
-## DUAs: 13
-## Subsumed DUAs: 13
-## Edge DUA coverage: 100.0
-@@ com.fasterxml.jackson.dataformat.xml.util.DefaultXmlPrettyPrinter.writeLeafElement,4,4,13,13,100.0,0,1
-
-
-#com/fasterxml/jackson/dataformat/xml/util/DefaultXmlPrettyPrinter/writeLeafElement:
-Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.util.DefaultXmlPrettyPrinter.writeLeafElement  calculated in 0 minutes, 0 seconds, and 1 milliseconds
-
-#com/fasterxml/jackson/dataformat/xml/util/DefaultXmlPrettyPrinter/writeLeafElement:
-## nodes: 4
-## edges: 4
-## DUAs: 13
-## Subsumed DUAs: 13
-## Edge DUA coverage: 100.0
-@@ com.fasterxml.jackson.dataformat.xml.util.DefaultXmlPrettyPrinter.writeLeafElement,4,4,13,13,100.0,0,2
-
-
-#com/fasterxml/jackson/dataformat/xml/util/DefaultXmlPrettyPrinter/writeLeafElement:
-Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.util.DefaultXmlPrettyPrinter.writeLeafElement  calculated in 0 minutes, 0 seconds, and 2 milliseconds
-
-#com/fasterxml/jackson/dataformat/xml/util/DefaultXmlPrettyPrinter/writeLeafElement:
-## nodes: 4
-## edges: 4
-## DUAs: 13
-## Subsumed DUAs: 13
-## Edge DUA coverage: 100.0
-@@ com.fasterxml.jackson.dataformat.xml.util.DefaultXmlPrettyPrinter.writeLeafElement,4,4,13,13,100.0,0,1
-
-
-#com/fasterxml/jackson/dataformat/xml/util/DefaultXmlPrettyPrinter/writeLeafElement:
-Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.util.DefaultXmlPrettyPrinter.writeLeafElement  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.util.DefaultXmlPrettyPrinter.writeLeafElement  calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/fasterxml/jackson/dataformat/xml/util/DefaultXmlPrettyPrinter/writeLeafElement:
 ## nodes: 4
@@ -773,6 +725,54 @@ Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.util.D
 
 #com/fasterxml/jackson/dataformat/xml/util/DefaultXmlPrettyPrinter/writeLeafElement:
 Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.util.DefaultXmlPrettyPrinter.writeLeafElement  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#com/fasterxml/jackson/dataformat/xml/util/DefaultXmlPrettyPrinter/writeLeafElement:
+## nodes: 4
+## edges: 4
+## DUAs: 13
+## Subsumed DUAs: 13
+## Edge DUA coverage: 100.0
+@@ com.fasterxml.jackson.dataformat.xml.util.DefaultXmlPrettyPrinter.writeLeafElement,4,4,13,13,100.0,0,3
+
+
+#com/fasterxml/jackson/dataformat/xml/util/DefaultXmlPrettyPrinter/writeLeafElement:
+Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.util.DefaultXmlPrettyPrinter.writeLeafElement  calculated in 0 minutes, 0 seconds, and 3 milliseconds
+
+#com/fasterxml/jackson/dataformat/xml/util/DefaultXmlPrettyPrinter/writeLeafElement:
+## nodes: 4
+## edges: 4
+## DUAs: 13
+## Subsumed DUAs: 13
+## Edge DUA coverage: 100.0
+@@ com.fasterxml.jackson.dataformat.xml.util.DefaultXmlPrettyPrinter.writeLeafElement,4,4,13,13,100.0,0,1
+
+
+#com/fasterxml/jackson/dataformat/xml/util/DefaultXmlPrettyPrinter/writeLeafElement:
+Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.util.DefaultXmlPrettyPrinter.writeLeafElement  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#com/fasterxml/jackson/dataformat/xml/util/DefaultXmlPrettyPrinter/writeLeafElement:
+## nodes: 4
+## edges: 4
+## DUAs: 13
+## Subsumed DUAs: 13
+## Edge DUA coverage: 100.0
+@@ com.fasterxml.jackson.dataformat.xml.util.DefaultXmlPrettyPrinter.writeLeafElement,4,4,13,13,100.0,0,0
+
+
+#com/fasterxml/jackson/dataformat/xml/util/DefaultXmlPrettyPrinter/writeLeafElement:
+Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.util.DefaultXmlPrettyPrinter.writeLeafElement  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#com/fasterxml/jackson/dataformat/xml/util/DefaultXmlPrettyPrinter/writeLeafElement:
+## nodes: 4
+## edges: 4
+## DUAs: 13
+## Subsumed DUAs: 13
+## Edge DUA coverage: 100.0
+@@ com.fasterxml.jackson.dataformat.xml.util.DefaultXmlPrettyPrinter.writeLeafElement,4,4,13,13,100.0,0,1
+
+
+#com/fasterxml/jackson/dataformat/xml/util/DefaultXmlPrettyPrinter/writeLeafElement:
+Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.util.DefaultXmlPrettyPrinter.writeLeafElement  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #com/fasterxml/jackson/dataformat/xml/util/DefaultXmlPrettyPrinter/writeLeafElement:
 ## nodes: 4
@@ -804,11 +804,11 @@ Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.util.D
 ## DUAs: 20
 ## Subsumed DUAs: 2
 ## Edge DUA coverage: 10.0
-@@ com.fasterxml.jackson.dataformat.xml.util.StaxUtil.throwXmlAsIOException,9,11,20,2,10.0,0,0
+@@ com.fasterxml.jackson.dataformat.xml.util.StaxUtil.throwXmlAsIOException,9,11,20,2,10.0,0,2
 
 
 #com/fasterxml/jackson/dataformat/xml/util/StaxUtil/throwXmlAsIOException:
-Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.util.StaxUtil.throwXmlAsIOException  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.util.StaxUtil.throwXmlAsIOException  calculated in 0 minutes, 0 seconds, and 2 milliseconds
 Warning: Method:com.fasterxml.jackson.dataformat.xml.util.StaxUtil.sanitizeXmlTypeName has auto edges.
 
 #com/fasterxml/jackson/dataformat/xml/deser/XmlTokenStream/<init>:
@@ -841,11 +841,11 @@ Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.deser.
 ## DUAs: 3
 ## Subsumed DUAs: 3
 ## Edge DUA coverage: 100.0
-@@ com.fasterxml.jackson.dataformat.xml.deser.XmlTokenStream.skipEndElement,4,4,3,3,100.0,0,0
+@@ com.fasterxml.jackson.dataformat.xml.deser.XmlTokenStream.skipEndElement,4,4,3,3,100.0,0,1
 
 
 #com/fasterxml/jackson/dataformat/xml/deser/XmlTokenStream/skipEndElement:
-Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.deser.XmlTokenStream.skipEndElement  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.deser.XmlTokenStream.skipEndElement  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #com/fasterxml/jackson/dataformat/xml/deser/XmlTokenStream/hasAttributes:
 ## nodes: 6
@@ -853,11 +853,11 @@ Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.deser.
 ## DUAs: 8
 ## Subsumed DUAs: 8
 ## Edge DUA coverage: 100.0
-@@ com.fasterxml.jackson.dataformat.xml.deser.XmlTokenStream.hasAttributes,6,7,8,8,100.0,0,0
+@@ com.fasterxml.jackson.dataformat.xml.deser.XmlTokenStream.hasAttributes,6,7,8,8,100.0,0,1
 
 
 #com/fasterxml/jackson/dataformat/xml/deser/XmlTokenStream/hasAttributes:
-Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.deser.XmlTokenStream.hasAttributes  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.deser.XmlTokenStream.hasAttributes  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #com/fasterxml/jackson/dataformat/xml/deser/XmlTokenStream/repeatStartElement:
 ## nodes: 7
@@ -865,11 +865,11 @@ Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.deser.
 ## DUAs: 19
 ## Subsumed DUAs: 19
 ## Edge DUA coverage: 100.0
-@@ com.fasterxml.jackson.dataformat.xml.deser.XmlTokenStream.repeatStartElement,7,8,19,19,100.0,0,0
+@@ com.fasterxml.jackson.dataformat.xml.deser.XmlTokenStream.repeatStartElement,7,8,19,19,100.0,0,1
 
 
 #com/fasterxml/jackson/dataformat/xml/deser/XmlTokenStream/repeatStartElement:
-Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.deser.XmlTokenStream.repeatStartElement  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.deser.XmlTokenStream.repeatStartElement  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #com/fasterxml/jackson/dataformat/xml/deser/XmlTokenStream/skipAttributes:
 ## nodes: 9
@@ -926,11 +926,11 @@ Warning: Method:com.fasterxml.jackson.dataformat.xml.deser.XmlTokenStream._skipU
 ## DUAs: 21
 ## Subsumed DUAs: 21
 ## Edge DUA coverage: 100.0
-@@ com.fasterxml.jackson.dataformat.xml.deser.XmlTokenStream._initStartElement,6,7,21,21,100.0,0,0
+@@ com.fasterxml.jackson.dataformat.xml.deser.XmlTokenStream._initStartElement,6,7,21,21,100.0,0,1
 
 
 #com/fasterxml/jackson/dataformat/xml/deser/XmlTokenStream/_initStartElement:
-Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.deser.XmlTokenStream._initStartElement  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.deser.XmlTokenStream._initStartElement  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #com/fasterxml/jackson/dataformat/xml/deser/XmlTokenStream/_handleRepeatElement:
 ## nodes: 12
@@ -938,11 +938,11 @@ Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.deser.
 ## DUAs: 26
 ## Subsumed DUAs: 26
 ## Edge DUA coverage: 100.0
-@@ com.fasterxml.jackson.dataformat.xml.deser.XmlTokenStream._handleRepeatElement,12,16,26,26,100.0,0,1
+@@ com.fasterxml.jackson.dataformat.xml.deser.XmlTokenStream._handleRepeatElement,12,16,26,26,100.0,0,0
 
 
 #com/fasterxml/jackson/dataformat/xml/deser/XmlTokenStream/_handleRepeatElement:
-Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.deser.XmlTokenStream._handleRepeatElement  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.deser.XmlTokenStream._handleRepeatElement  calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/fasterxml/jackson/dataformat/xml/deser/XmlTokenStream/_handleEndElement:
 ## nodes: 6
@@ -962,11 +962,11 @@ Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.deser.
 ## DUAs: 7
 ## Subsumed DUAs: 7
 ## Edge DUA coverage: 100.0
-@@ com.fasterxml.jackson.dataformat.xml.deser.XmlTokenStream._extractLocation,4,4,7,7,100.0,0,1
+@@ com.fasterxml.jackson.dataformat.xml.deser.XmlTokenStream._extractLocation,4,4,7,7,100.0,0,0
 
 
 #com/fasterxml/jackson/dataformat/xml/deser/XmlTokenStream/_extractLocation:
-Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.deser.XmlTokenStream._extractLocation  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.deser.XmlTokenStream._extractLocation  calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser$Feature/collectDefaults:
 ## nodes: 7
@@ -974,11 +974,11 @@ Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.deser.
 ## DUAs: 18
 ## Subsumed DUAs: 10
 ## Edge DUA coverage: 55.55555555555556
-@@ com.fasterxml.jackson.dataformat.xml.deser.FromXmlParser$Feature.collectDefaults,7,8,18,10,55.55555555555556,0,0
+@@ com.fasterxml.jackson.dataformat.xml.deser.FromXmlParser$Feature.collectDefaults,7,8,18,10,55.55555555555556,0,1
 
 
 #com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser$Feature/collectDefaults:
-Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.deser.FromXmlParser$Feature.collectDefaults  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.deser.FromXmlParser$Feature.collectDefaults  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser$Feature/enabledIn:
 ## nodes: 5
@@ -998,11 +998,11 @@ Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.deser.
 ## DUAs: 27
 ## Subsumed DUAs: 16
 ## Edge DUA coverage: 59.25925925925925
-@@ com.fasterxml.jackson.dataformat.xml.deser.WrapperHandlingDeserializer.createContextual,14,19,27,16,59.25925925925925,0,1
+@@ com.fasterxml.jackson.dataformat.xml.deser.WrapperHandlingDeserializer.createContextual,14,19,27,16,59.25925925925925,0,0
 
 
 #com/fasterxml/jackson/dataformat/xml/deser/WrapperHandlingDeserializer/createContextual:
-Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.deser.WrapperHandlingDeserializer.createContextual  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.deser.WrapperHandlingDeserializer.createContextual  calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/fasterxml/jackson/dataformat/xml/deser/WrapperHandlingDeserializer/_configureParser:
 ## nodes: 4
@@ -1058,11 +1058,11 @@ Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.deser.
 ## DUAs: 4
 ## Subsumed DUAs: 4
 ## Edge DUA coverage: 100.0
-@@ com.fasterxml.jackson.dataformat.xml.deser.XmlTextDeserializer._verifyDeserType,4,4,4,4,100.0,0,1
+@@ com.fasterxml.jackson.dataformat.xml.deser.XmlTextDeserializer._verifyDeserType,4,4,4,4,100.0,0,0
 
 
 #com/fasterxml/jackson/dataformat/xml/deser/XmlTextDeserializer/_verifyDeserType:
-Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.deser.XmlTextDeserializer._verifyDeserType  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.deser.XmlTextDeserializer._verifyDeserType  calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/fasterxml/jackson/dataformat/xml/deser/ElementWrapper/<init>:
 ## nodes: 5
@@ -1082,11 +1082,11 @@ Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.deser.
 ## DUAs: 4
 ## Subsumed DUAs: 4
 ## Edge DUA coverage: 100.0
-@@ com.fasterxml.jackson.dataformat.xml.deser.ElementWrapper.isMatching,5,5,4,4,100.0,0,0
+@@ com.fasterxml.jackson.dataformat.xml.deser.ElementWrapper.isMatching,5,5,4,4,100.0,0,1
 
 
 #com/fasterxml/jackson/dataformat/xml/deser/ElementWrapper/isMatching:
-Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.deser.ElementWrapper.isMatching  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.deser.ElementWrapper.isMatching  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #com/fasterxml/jackson/dataformat/xml/deser/ElementWrapper/matchesWrapper:
 ## nodes: 10
@@ -1118,11 +1118,11 @@ Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.deser.
 ## DUAs: 6
 ## Subsumed DUAs: 6
 ## Edge DUA coverage: 100.0
-@@ com.fasterxml.jackson.dataformat.xml.deser.FromXmlParser.isEnabled,5,5,6,6,100.0,0,1
+@@ com.fasterxml.jackson.dataformat.xml.deser.FromXmlParser.isEnabled,5,5,6,6,100.0,0,0
 
 
 #com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser/isEnabled:
-Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.deser.FromXmlParser.isEnabled  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.deser.FromXmlParser.isEnabled  calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser/configure:
 ## nodes: 5
@@ -1130,11 +1130,11 @@ Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.deser.
 ## DUAs: 7
 ## Subsumed DUAs: 7
 ## Edge DUA coverage: 100.0
-@@ com.fasterxml.jackson.dataformat.xml.deser.FromXmlParser.configure,5,5,7,7,100.0,0,1
+@@ com.fasterxml.jackson.dataformat.xml.deser.FromXmlParser.configure,5,5,7,7,100.0,0,0
 
 
 #com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser/configure:
-Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.deser.FromXmlParser.configure  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.deser.FromXmlParser.configure  calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser/addVirtualWrapping:
 ## nodes: 5
@@ -1154,11 +1154,11 @@ Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.deser.
 ## DUAs: 24
 ## Subsumed DUAs: 18
 ## Edge DUA coverage: 75.0
-@@ com.fasterxml.jackson.dataformat.xml.deser.FromXmlParser.getCurrentName,8,10,24,18,75.0,0,1
+@@ com.fasterxml.jackson.dataformat.xml.deser.FromXmlParser.getCurrentName,8,10,24,18,75.0,0,0
 
 
 #com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser/getCurrentName:
-Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.deser.FromXmlParser.getCurrentName  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.deser.FromXmlParser.getCurrentName  calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser/overrideCurrentName:
 ## nodes: 5
@@ -1166,11 +1166,11 @@ Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.deser.
 ## DUAs: 16
 ## Subsumed DUAs: 15
 ## Edge DUA coverage: 93.75
-@@ com.fasterxml.jackson.dataformat.xml.deser.FromXmlParser.overrideCurrentName,5,6,16,15,93.75,0,0
+@@ com.fasterxml.jackson.dataformat.xml.deser.FromXmlParser.overrideCurrentName,5,6,16,15,93.75,0,1
 
 
 #com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser/overrideCurrentName:
-Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.deser.FromXmlParser.overrideCurrentName  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.deser.FromXmlParser.overrideCurrentName  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser/close:
 ## nodes: 8
@@ -1178,11 +1178,11 @@ Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.deser.
 ## DUAs: 18
 ## Subsumed DUAs: 18
 ## Edge DUA coverage: 100.0
-@@ com.fasterxml.jackson.dataformat.xml.deser.FromXmlParser.close,8,10,18,18,100.0,0,0
+@@ com.fasterxml.jackson.dataformat.xml.deser.FromXmlParser.close,8,10,18,18,100.0,0,1
 
 
 #com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser/close:
-Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.deser.FromXmlParser.close  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.deser.FromXmlParser.close  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser/isExpectedStartArrayToken:
 ## nodes: 7
@@ -1190,11 +1190,11 @@ Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.deser.
 ## DUAs: 12
 ## Subsumed DUAs: 12
 ## Edge DUA coverage: 100.0
-@@ com.fasterxml.jackson.dataformat.xml.deser.FromXmlParser.isExpectedStartArrayToken,7,8,12,12,100.0,0,1
+@@ com.fasterxml.jackson.dataformat.xml.deser.FromXmlParser.isExpectedStartArrayToken,7,8,12,12,100.0,0,0
 
 
 #com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser/isExpectedStartArrayToken:
-Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.deser.FromXmlParser.isExpectedStartArrayToken  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.deser.FromXmlParser.isExpectedStartArrayToken  calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser/nextToken:
 ## nodes: 41
@@ -1226,11 +1226,11 @@ Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.deser.
 ## DUAs: 19
 ## Subsumed DUAs: 19
 ## Edge DUA coverage: 100.0
-@@ com.fasterxml.jackson.dataformat.xml.deser.FromXmlParser._updateState,7,10,19,19,100.0,0,1
+@@ com.fasterxml.jackson.dataformat.xml.deser.FromXmlParser._updateState,7,10,19,19,100.0,0,0
 
 
 #com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser/_updateState:
-Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.deser.FromXmlParser._updateState  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.deser.FromXmlParser._updateState  calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser/getText:
 ## nodes: 7
@@ -1238,11 +1238,11 @@ Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.deser.
 ## DUAs: 18
 ## Subsumed DUAs: 18
 ## Edge DUA coverage: 100.0
-@@ com.fasterxml.jackson.dataformat.xml.deser.FromXmlParser.getText,7,9,18,18,100.0,0,1
+@@ com.fasterxml.jackson.dataformat.xml.deser.FromXmlParser.getText,7,9,18,18,100.0,0,5
 
 
 #com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser/getText:
-Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.deser.FromXmlParser.getText  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.deser.FromXmlParser.getText  calculated in 0 minutes, 0 seconds, and 5 milliseconds
 
 #com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser/getValueAsString:
 ## nodes: 12
@@ -1250,11 +1250,11 @@ Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.deser.
 ## DUAs: 29
 ## Subsumed DUAs: 29
 ## Edge DUA coverage: 100.0
-@@ com.fasterxml.jackson.dataformat.xml.deser.FromXmlParser.getValueAsString,12,17,29,29,100.0,0,1
+@@ com.fasterxml.jackson.dataformat.xml.deser.FromXmlParser.getValueAsString,12,17,29,29,100.0,0,0
 
 
 #com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser/getValueAsString:
-Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.deser.FromXmlParser.getValueAsString  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.deser.FromXmlParser.getValueAsString  calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser/getTextCharacters:
 ## nodes: 5
@@ -1286,11 +1286,11 @@ Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.deser.
 ## DUAs: 27
 ## Subsumed DUAs: 26
 ## Edge DUA coverage: 96.29629629629629
-@@ com.fasterxml.jackson.dataformat.xml.deser.FromXmlParser.getBinaryValue,8,11,27,26,96.29629629629629,0,0
+@@ com.fasterxml.jackson.dataformat.xml.deser.FromXmlParser.getBinaryValue,8,11,27,26,96.29629629629629,0,1
 
 
 #com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser/getBinaryValue:
-Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.deser.FromXmlParser.getBinaryValue  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.deser.FromXmlParser.getBinaryValue  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser/_handleEOF:
 ## nodes: 4
@@ -1310,11 +1310,11 @@ Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.deser.
 ## DUAs: 10
 ## Subsumed DUAs: 8
 ## Edge DUA coverage: 80.0
-@@ com.fasterxml.jackson.dataformat.xml.deser.FromXmlParser._getByteArrayBuilder,5,5,10,8,80.0,0,1
+@@ com.fasterxml.jackson.dataformat.xml.deser.FromXmlParser._getByteArrayBuilder,5,5,10,8,80.0,0,0
 
 
 #com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser/_getByteArrayBuilder:
-Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.deser.FromXmlParser._getByteArrayBuilder  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.deser.FromXmlParser._getByteArrayBuilder  calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser/_isEmpty:
 ## nodes: 11
@@ -1322,11 +1322,11 @@ Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.deser.
 ## DUAs: 19
 ## Subsumed DUAs: 12
 ## Edge DUA coverage: 63.1578947368421
-@@ com.fasterxml.jackson.dataformat.xml.deser.FromXmlParser._isEmpty,11,14,19,12,63.1578947368421,0,0
+@@ com.fasterxml.jackson.dataformat.xml.deser.FromXmlParser._isEmpty,11,14,19,12,63.1578947368421,0,1
 
 
 #com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser/_isEmpty:
-Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.deser.FromXmlParser._isEmpty  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.deser.FromXmlParser._isEmpty  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #com/fasterxml/jackson/dataformat/xml/deser/XmlReadContext/createChildArrayContext:
 ## nodes: 4
@@ -1346,11 +1346,11 @@ Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.deser.
 ## DUAs: 8
 ## Subsumed DUAs: 8
 ## Edge DUA coverage: 100.0
-@@ com.fasterxml.jackson.dataformat.xml.deser.XmlReadContext.createChildObjectContext,4,4,8,8,100.0,0,1
+@@ com.fasterxml.jackson.dataformat.xml.deser.XmlReadContext.createChildObjectContext,4,4,8,8,100.0,0,0
 
 
 #com/fasterxml/jackson/dataformat/xml/deser/XmlReadContext/createChildObjectContext:
-Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.deser.XmlReadContext.createChildObjectContext  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.deser.XmlReadContext.createChildObjectContext  calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/fasterxml/jackson/dataformat/xml/deser/XmlReadContext/toString:
 ## nodes: 9
@@ -1358,11 +1358,11 @@ Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.deser.
 ## DUAs: 22
 ## Subsumed DUAs: 22
 ## Edge DUA coverage: 100.0
-@@ com.fasterxml.jackson.dataformat.xml.deser.XmlReadContext.toString,9,12,22,22,100.0,0,1
+@@ com.fasterxml.jackson.dataformat.xml.deser.XmlReadContext.toString,9,12,22,22,100.0,0,0
 
 
 #com/fasterxml/jackson/dataformat/xml/deser/XmlReadContext/toString:
-Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.deser.XmlReadContext.toString  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.deser.XmlReadContext.toString  calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/fasterxml/jackson/dataformat/xml/deser/XmlBeanDeserializerModifier/updateProperties:
 ## nodes: 19
@@ -1394,11 +1394,11 @@ Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.deser.
 ## DUAs: 21
 ## Subsumed DUAs: 19
 ## Edge DUA coverage: 90.47619047619048
-@@ com.fasterxml.jackson.dataformat.xml.deser.XmlBeanDeserializerModifier._findSoleTextProp,11,15,21,19,90.47619047619048,0,1
+@@ com.fasterxml.jackson.dataformat.xml.deser.XmlBeanDeserializerModifier._findSoleTextProp,11,15,21,19,90.47619047619048,0,0
 
 
 #com/fasterxml/jackson/dataformat/xml/deser/XmlBeanDeserializerModifier/_findSoleTextProp:
-Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.deser.XmlBeanDeserializerModifier._findSoleTextProp  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.deser.XmlBeanDeserializerModifier._findSoleTextProp  calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/fasterxml/jackson/dataformat/xml/jaxb/XmlJaxbAnnotationIntrospector/findAnnotation:
 ## nodes: 24
@@ -1454,11 +1454,11 @@ Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.ser.Xm
 ## DUAs: 28
 ## Subsumed DUAs: 28
 ## Edge DUA coverage: 100.0
-@@ com.fasterxml.jackson.dataformat.xml.ser.XmlBeanSerializerBase.serializeWithType,9,11,28,28,100.0,0,0
+@@ com.fasterxml.jackson.dataformat.xml.ser.XmlBeanSerializerBase.serializeWithType,9,11,28,28,100.0,0,1
 
 
 #com/fasterxml/jackson/dataformat/xml/ser/XmlBeanSerializerBase/serializeWithType:
-Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.ser.XmlBeanSerializerBase.serializeWithType  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.ser.XmlBeanSerializerBase.serializeWithType  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #com/fasterxml/jackson/dataformat/xml/ser/XmlBeanSerializerBase/_serializeObjectId:
 ## nodes: 7
@@ -1466,11 +1466,11 @@ Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.ser.Xm
 ## DUAs: 21
 ## Subsumed DUAs: 21
 ## Edge DUA coverage: 100.0
-@@ com.fasterxml.jackson.dataformat.xml.ser.XmlBeanSerializerBase._serializeObjectId,7,8,21,21,100.0,0,0
+@@ com.fasterxml.jackson.dataformat.xml.ser.XmlBeanSerializerBase._serializeObjectId,7,8,21,21,100.0,0,1
 
 
 #com/fasterxml/jackson/dataformat/xml/ser/XmlBeanSerializerBase/_serializeObjectId:
-Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.ser.XmlBeanSerializerBase._serializeObjectId  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.ser.XmlBeanSerializerBase._serializeObjectId  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #com/fasterxml/jackson/dataformat/xml/ser/XmlBeanSerializerBase/_isAttribute:
 ## nodes: 6
@@ -1514,11 +1514,11 @@ Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.ser.Xm
 ## DUAs: 14
 ## Subsumed DUAs: 14
 ## Edge DUA coverage: 100.0
-@@ com.fasterxml.jackson.dataformat.xml.ser.XmlBeanSerializer.asArraySerializer,6,8,14,14,100.0,0,0
+@@ com.fasterxml.jackson.dataformat.xml.ser.XmlBeanSerializer.asArraySerializer,6,8,14,14,100.0,0,1
 
 
 #com/fasterxml/jackson/dataformat/xml/ser/XmlBeanSerializer/asArraySerializer:
-Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.ser.XmlBeanSerializer.asArraySerializer  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.ser.XmlBeanSerializer.asArraySerializer  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #com/fasterxml/jackson/dataformat/xml/ser/XmlBeanSerializer/serialize:
 ## nodes: 7
@@ -1562,11 +1562,11 @@ Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.ser.To
 ## DUAs: 6
 ## Subsumed DUAs: 6
 ## Edge DUA coverage: 100.0
-@@ com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator.useDefaultPrettyPrinter,4,4,6,6,100.0,0,0
+@@ com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator.useDefaultPrettyPrinter,4,4,6,6,100.0,0,9
 
 
 #com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator/useDefaultPrettyPrinter:
-Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator.useDefaultPrettyPrinter  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator.useDefaultPrettyPrinter  calculated in 0 minutes, 0 seconds, and 9 milliseconds
 
 #com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator/setPrettyPrinter:
 ## nodes: 5
@@ -1574,11 +1574,11 @@ Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.ser.To
 ## DUAs: 4
 ## Subsumed DUAs: 4
 ## Edge DUA coverage: 100.0
-@@ com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator.setPrettyPrinter,5,5,4,4,100.0,0,0
+@@ com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator.setPrettyPrinter,5,5,4,4,100.0,0,1
 
 
 #com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator/setPrettyPrinter:
-Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator.setPrettyPrinter  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator.setPrettyPrinter  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator/overrideFormatFeatures:
 ## nodes: 4
@@ -1622,11 +1622,11 @@ Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.ser.To
 ## DUAs: 6
 ## Subsumed DUAs: 6
 ## Edge DUA coverage: 100.0
-@@ com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator.setNextNameIfMissing,4,4,6,6,100.0,0,1
+@@ com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator.setNextNameIfMissing,4,4,6,6,100.0,0,0
 
 
 #com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator/setNextNameIfMissing:
-Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator.setNextNameIfMissing  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator.setNextNameIfMissing  calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator/startWrappedValue:
 ## nodes: 7
@@ -1634,11 +1634,11 @@ Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.ser.To
 ## DUAs: 15
 ## Subsumed DUAs: 15
 ## Edge DUA coverage: 100.0
-@@ com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator.startWrappedValue,7,8,15,15,100.0,0,0
+@@ com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator.startWrappedValue,7,8,15,15,100.0,0,1
 
 
 #com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator/startWrappedValue:
-Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator.startWrappedValue  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator.startWrappedValue  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator/finishWrappedValue:
 ## nodes: 7
@@ -1670,11 +1670,11 @@ Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.ser.To
 ## DUAs: 14
 ## Subsumed DUAs: 14
 ## Edge DUA coverage: 100.0
-@@ com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator.writeFieldName,7,8,14,14,100.0,0,0
+@@ com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator.writeFieldName,7,8,14,14,100.0,0,1
 
 
 #com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator/writeFieldName:
-Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator.writeFieldName  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator.writeFieldName  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator/writeStartArray:
 ## nodes: 4
@@ -1694,11 +1694,11 @@ Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.ser.To
 ## DUAs: 15
 ## Subsumed DUAs: 15
 ## Edge DUA coverage: 100.0
-@@ com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator.writeEndArray,6,7,15,15,100.0,0,1
+@@ com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator.writeEndArray,6,7,15,15,100.0,0,0
 
 
 #com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator/writeEndArray:
-Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator.writeEndArray  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator.writeEndArray  calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator/writeStartObject:
 ## nodes: 5
@@ -1706,11 +1706,11 @@ Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.ser.To
 ## DUAs: 7
 ## Subsumed DUAs: 7
 ## Edge DUA coverage: 100.0
-@@ com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator.writeStartObject,5,5,7,7,100.0,0,1
+@@ com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator.writeStartObject,5,5,7,7,100.0,0,0
 
 
 #com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator/writeStartObject:
-Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator.writeStartObject  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator.writeStartObject  calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator/writeEndObject:
 ## nodes: 10
@@ -1730,11 +1730,11 @@ Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.ser.To
 ## DUAs: 9
 ## Subsumed DUAs: 9
 ## Edge DUA coverage: 100.0
-@@ com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator._handleStartObject,4,4,9,9,100.0,0,1
+@@ com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator._handleStartObject,4,4,9,9,100.0,0,0
 
 
 #com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator/_handleStartObject:
-Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator._handleStartObject  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator._handleStartObject  calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator/_handleEndObject:
 ## nodes: 8
@@ -1742,11 +1742,11 @@ Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.ser.To
 ## DUAs: 22
 ## Subsumed DUAs: 22
 ## Edge DUA coverage: 100.0
-@@ com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator._handleEndObject,8,11,22,22,100.0,0,1
+@@ com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator._handleEndObject,8,11,22,22,100.0,0,0
 
 
 #com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator/_handleEndObject:
-Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator._handleEndObject  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator._handleEndObject  calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator/writeString:
 ## nodes: 16
@@ -1766,11 +1766,11 @@ Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.ser.To
 ## DUAs: 62
 ## Subsumed DUAs: 62
 ## Edge DUA coverage: 100.0
-@@ com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator.writeString,16,21,62,62,100.0,0,0
+@@ com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator.writeString,16,21,62,62,100.0,0,1
 
 
 #com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator/writeString:
-Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator.writeString  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator.writeString  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator/writeRaw:
 ## nodes: 4
@@ -1802,11 +1802,11 @@ Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.ser.To
 ## DUAs: 10
 ## Subsumed DUAs: 10
 ## Edge DUA coverage: 100.0
-@@ com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator.writeRaw,4,4,10,10,100.0,0,1
+@@ com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator.writeRaw,4,4,10,10,100.0,0,0
 
 
 #com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator/writeRaw:
-Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator.writeRaw  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator.writeRaw  calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator/writeBinary:
 ## nodes: 13
@@ -1814,11 +1814,11 @@ Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.ser.To
 ## DUAs: 43
 ## Subsumed DUAs: 43
 ## Edge DUA coverage: 100.0
-@@ com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator.writeBinary,13,17,43,43,100.0,0,1
+@@ com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator.writeBinary,13,17,43,43,100.0,0,0
 
 
 #com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator/writeBinary:
-Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator.writeBinary  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator.writeBinary  calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator/toFullBuffer:
 ## nodes: 7
@@ -1838,11 +1838,11 @@ Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.ser.To
 ## DUAs: 31
 ## Subsumed DUAs: 31
 ## Edge DUA coverage: 100.0
-@@ com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator.writeBoolean,11,14,31,31,100.0,0,1
+@@ com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator.writeBoolean,11,14,31,31,100.0,0,0
 
 
 #com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator/writeBoolean:
-Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator.writeBoolean  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator.writeBoolean  calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator/writeNull:
 ## nodes: 11
@@ -1850,47 +1850,11 @@ Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.ser.To
 ## DUAs: 22
 ## Subsumed DUAs: 22
 ## Edge DUA coverage: 100.0
-@@ com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator.writeNull,11,14,22,22,100.0,0,0
+@@ com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator.writeNull,11,14,22,22,100.0,0,1
 
 
 #com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator/writeNull:
-Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator.writeNull  calculated in 0 minutes, 0 seconds, and 0 milliseconds
-
-#com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator/writeNumber:
-## nodes: 11
-## edges: 14
-## DUAs: 31
-## Subsumed DUAs: 31
-## Edge DUA coverage: 100.0
-@@ com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator.writeNumber,11,14,31,31,100.0,0,0
-
-
-#com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator/writeNumber:
-Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator.writeNumber  calculated in 0 minutes, 0 seconds, and 0 milliseconds
-
-#com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator/writeNumber:
-## nodes: 11
-## edges: 14
-## DUAs: 31
-## Subsumed DUAs: 31
-## Edge DUA coverage: 100.0
-@@ com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator.writeNumber,11,14,31,31,100.0,0,0
-
-
-#com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator/writeNumber:
-Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator.writeNumber  calculated in 0 minutes, 0 seconds, and 0 milliseconds
-
-#com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator/writeNumber:
-## nodes: 11
-## edges: 14
-## DUAs: 31
-## Subsumed DUAs: 31
-## Edge DUA coverage: 100.0
-@@ com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator.writeNumber,11,14,31,31,100.0,0,0
-
-
-#com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator/writeNumber:
-Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator.writeNumber  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator.writeNull  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator/writeNumber:
 ## nodes: 11
@@ -1905,16 +1869,52 @@ Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.ser.To
 Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator.writeNumber  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator/writeNumber:
+## nodes: 11
+## edges: 14
+## DUAs: 31
+## Subsumed DUAs: 31
+## Edge DUA coverage: 100.0
+@@ com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator.writeNumber,11,14,31,31,100.0,0,1
+
+
+#com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator/writeNumber:
+Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator.writeNumber  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator/writeNumber:
+## nodes: 11
+## edges: 14
+## DUAs: 31
+## Subsumed DUAs: 31
+## Edge DUA coverage: 100.0
+@@ com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator.writeNumber,11,14,31,31,100.0,0,1
+
+
+#com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator/writeNumber:
+Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator.writeNumber  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+
+#com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator/writeNumber:
+## nodes: 11
+## edges: 14
+## DUAs: 31
+## Subsumed DUAs: 31
+## Edge DUA coverage: 100.0
+@@ com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator.writeNumber,11,14,31,31,100.0,0,0
+
+
+#com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator/writeNumber:
+Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator.writeNumber  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+
+#com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator/writeNumber:
 ## nodes: 20
 ## edges: 27
 ## DUAs: 57
 ## Subsumed DUAs: 57
 ## Edge DUA coverage: 100.0
-@@ com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator.writeNumber,20,27,57,57,100.0,0,1
+@@ com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator.writeNumber,20,27,57,57,100.0,0,0
 
 
 #com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator/writeNumber:
-Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator.writeNumber  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator.writeNumber  calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator/writeNumber:
 ## nodes: 13
@@ -1934,11 +1934,11 @@ Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.ser.To
 ## DUAs: 4
 ## Subsumed DUAs: 4
 ## Edge DUA coverage: 100.0
-@@ com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator._verifyValueWrite,4,4,4,4,100.0,0,1
+@@ com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator._verifyValueWrite,4,4,4,4,100.0,0,0
 
 
 #com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator/_verifyValueWrite:
-Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator._verifyValueWrite  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator._verifyValueWrite  calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator/flush:
 ## nodes: 4
@@ -1946,11 +1946,11 @@ Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.ser.To
 ## DUAs: 6
 ## Subsumed DUAs: 6
 ## Edge DUA coverage: 100.0
-@@ com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator.flush,4,4,6,6,100.0,0,1
+@@ com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator.flush,4,4,6,6,100.0,0,0
 
 
 #com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator/flush:
-Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator.flush  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator.flush  calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator/close:
 ## nodes: 13
@@ -2006,11 +2006,11 @@ Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.ser.Xm
 ## DUAs: 40
 ## Subsumed DUAs: 32
 ## Edge DUA coverage: 80.0
-@@ com.fasterxml.jackson.dataformat.xml.ser.XmlSerializerProvider.serializeValue,14,19,40,32,80.0,0,1
+@@ com.fasterxml.jackson.dataformat.xml.ser.XmlSerializerProvider.serializeValue,14,19,40,32,80.0,0,0
 
 
 #com/fasterxml/jackson/dataformat/xml/ser/XmlSerializerProvider/serializeValue:
-Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.ser.XmlSerializerProvider.serializeValue  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.ser.XmlSerializerProvider.serializeValue  calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/fasterxml/jackson/dataformat/xml/ser/XmlSerializerProvider/_serializeXmlNull:
 ## nodes: 4
@@ -2018,11 +2018,11 @@ Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.ser.Xm
 ## DUAs: 7
 ## Subsumed DUAs: 7
 ## Edge DUA coverage: 100.0
-@@ com.fasterxml.jackson.dataformat.xml.ser.XmlSerializerProvider._serializeXmlNull,4,4,7,7,100.0,0,1
+@@ com.fasterxml.jackson.dataformat.xml.ser.XmlSerializerProvider._serializeXmlNull,4,4,7,7,100.0,0,0
 
 
 #com/fasterxml/jackson/dataformat/xml/ser/XmlSerializerProvider/_serializeXmlNull:
-Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.ser.XmlSerializerProvider._serializeXmlNull  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.ser.XmlSerializerProvider._serializeXmlNull  calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/fasterxml/jackson/dataformat/xml/ser/XmlSerializerProvider/_initWithRootName:
 ## nodes: 8
@@ -2030,11 +2030,11 @@ Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.ser.Xm
 ## DUAs: 16
 ## Subsumed DUAs: 16
 ## Edge DUA coverage: 100.0
-@@ com.fasterxml.jackson.dataformat.xml.ser.XmlSerializerProvider._initWithRootName,8,11,16,16,100.0,0,0
+@@ com.fasterxml.jackson.dataformat.xml.ser.XmlSerializerProvider._initWithRootName,8,11,16,16,100.0,0,1
 
 
 #com/fasterxml/jackson/dataformat/xml/ser/XmlSerializerProvider/_initWithRootName:
-Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.ser.XmlSerializerProvider._initWithRootName  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.ser.XmlSerializerProvider._initWithRootName  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #com/fasterxml/jackson/dataformat/xml/ser/XmlSerializerProvider/_rootNameFromConfig:
 ## nodes: 7
@@ -2042,11 +2042,11 @@ Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.ser.Xm
 ## DUAs: 10
 ## Subsumed DUAs: 10
 ## Edge DUA coverage: 100.0
-@@ com.fasterxml.jackson.dataformat.xml.ser.XmlSerializerProvider._rootNameFromConfig,7,9,10,10,100.0,0,1
+@@ com.fasterxml.jackson.dataformat.xml.ser.XmlSerializerProvider._rootNameFromConfig,7,9,10,10,100.0,0,0
 
 
 #com/fasterxml/jackson/dataformat/xml/ser/XmlSerializerProvider/_rootNameFromConfig:
-Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.ser.XmlSerializerProvider._rootNameFromConfig  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.ser.XmlSerializerProvider._rootNameFromConfig  calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/fasterxml/jackson/dataformat/xml/ser/XmlSerializerProvider/_asXmlGenerator:
 ## nodes: 6
@@ -2066,11 +2066,11 @@ Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.ser.Xm
 ## DUAs: 20
 ## Subsumed DUAs: 20
 ## Edge DUA coverage: 100.0
-@@ com.fasterxml.jackson.dataformat.xml.ser.UnwrappingXmlBeanSerializer.serialize,7,8,20,20,100.0,0,1
+@@ com.fasterxml.jackson.dataformat.xml.ser.UnwrappingXmlBeanSerializer.serialize,7,8,20,20,100.0,0,0
 
 
 #com/fasterxml/jackson/dataformat/xml/ser/UnwrappingXmlBeanSerializer/serialize:
-Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.ser.UnwrappingXmlBeanSerializer.serialize  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.ser.UnwrappingXmlBeanSerializer.serialize  calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/fasterxml/jackson/dataformat/xml/ser/XmlBeanPropertyWriter/<init>:
 ## nodes: 4
@@ -2078,11 +2078,11 @@ Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.ser.Un
 ## DUAs: 4
 ## Subsumed DUAs: 4
 ## Edge DUA coverage: 100.0
-@@ com.fasterxml.jackson.dataformat.xml.ser.XmlBeanPropertyWriter.<init>,4,4,4,4,100.0,0,1
+@@ com.fasterxml.jackson.dataformat.xml.ser.XmlBeanPropertyWriter.<init>,4,4,4,4,100.0,0,0
 
 
 #com/fasterxml/jackson/dataformat/xml/ser/XmlBeanPropertyWriter/<init>:
-Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.ser.XmlBeanPropertyWriter.<init>  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.ser.XmlBeanPropertyWriter.<init>  calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/fasterxml/jackson/dataformat/xml/ser/XmlBeanPropertyWriter/_qname:
 ## nodes: 4
@@ -2090,11 +2090,11 @@ Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.ser.Xm
 ## DUAs: 5
 ## Subsumed DUAs: 4
 ## Edge DUA coverage: 80.0
-@@ com.fasterxml.jackson.dataformat.xml.ser.XmlBeanPropertyWriter._qname,4,4,5,4,80.0,0,1
+@@ com.fasterxml.jackson.dataformat.xml.ser.XmlBeanPropertyWriter._qname,4,4,5,4,80.0,0,0
 
 
 #com/fasterxml/jackson/dataformat/xml/ser/XmlBeanPropertyWriter/_qname:
-Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.ser.XmlBeanPropertyWriter._qname  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.ser.XmlBeanPropertyWriter._qname  calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/fasterxml/jackson/dataformat/xml/ser/XmlBeanPropertyWriter/serializeAsField:
 ## nodes: 26
@@ -2102,11 +2102,11 @@ Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.ser.Xm
 ## DUAs: 95
 ## Subsumed DUAs: 77
 ## Edge DUA coverage: 81.05263157894737
-@@ com.fasterxml.jackson.dataformat.xml.ser.XmlBeanPropertyWriter.serializeAsField,26,38,95,77,81.05263157894737,0,0
+@@ com.fasterxml.jackson.dataformat.xml.ser.XmlBeanPropertyWriter.serializeAsField,26,38,95,77,81.05263157894737,0,1
 
 
 #com/fasterxml/jackson/dataformat/xml/ser/XmlBeanPropertyWriter/serializeAsField:
-Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.ser.XmlBeanPropertyWriter.serializeAsField  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.ser.XmlBeanPropertyWriter.serializeAsField  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator$Feature/collectDefaults:
 ## nodes: 7
@@ -2114,11 +2114,11 @@ Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.ser.Xm
 ## DUAs: 18
 ## Subsumed DUAs: 10
 ## Edge DUA coverage: 55.55555555555556
-@@ com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator$Feature.collectDefaults,7,8,18,10,55.55555555555556,0,8
+@@ com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator$Feature.collectDefaults,7,8,18,10,55.55555555555556,0,4
 
 
 #com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator$Feature/collectDefaults:
-Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator$Feature.collectDefaults  calculated in 0 minutes, 0 seconds, and 8 milliseconds
+Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator$Feature.collectDefaults  calculated in 0 minutes, 0 seconds, and 4 milliseconds
 
 #com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator$Feature/enabledIn:
 ## nodes: 5
@@ -2138,11 +2138,11 @@ Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.ser.To
 ## DUAs: 37
 ## Subsumed DUAs: 29
 ## Edge DUA coverage: 78.37837837837837
-@@ com.fasterxml.jackson.dataformat.xml.ser.XmlBeanSerializerModifier.changeProperties,14,19,37,29,78.37837837837837,0,0
+@@ com.fasterxml.jackson.dataformat.xml.ser.XmlBeanSerializerModifier.changeProperties,14,19,37,29,78.37837837837837,0,1
 
 
 #com/fasterxml/jackson/dataformat/xml/ser/XmlBeanSerializerModifier/changeProperties:
-Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.ser.XmlBeanSerializerModifier.changeProperties  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.ser.XmlBeanSerializerModifier.changeProperties  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #com/fasterxml/jackson/dataformat/xml/ser/XmlBeanSerializerModifier/modifySerializer:
 ## nodes: 4
@@ -2155,5 +2155,5 @@ Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.ser.Xm
 
 #com/fasterxml/jackson/dataformat/xml/ser/XmlBeanSerializerModifier/modifySerializer:
 Local DUA-Edge subsumption of method com.fasterxml.jackson.dataformat.xml.ser.XmlBeanSerializerModifier.modifySerializer  calculated in 0 minutes, 0 seconds, and 0 milliseconds
-179 methods had the edge subsumption relationship calculated in 0 minutes and 0 seconds
-Local DUA-Edge subsumption time (ms):767
+179 methods had the edge subsumption relationship calculated in 0 minutes and 1 seconds
+Local DUA-Edge subsumption time (ms):1026

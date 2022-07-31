@@ -1,0 +1,20 @@
+{
+"Class" : "com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator$Feature", 
+"Methods" : [{ "Name" : "collectDefaults" ,
+"Edges" : 8,
+"Duas" : 18,
+"3" : 2, 
+ "4" : 3, 
+ "5" : 2, 
+ "6" : 3, 
+ "9" : 4, 
+ "10" : 5, 
+ "14" : 2, 
+ "15" : 3},{ "Name" : "enabledIn" ,
+"Edges" : 5,
+"Duas" : 4,
+"0" : 3, 
+ "1" : 4, 
+ "2" : 3, 
+ "3" : 4}]
+}

@@ -1,0 +1,24 @@
+{
+"Class" : "com.fasterxml.jackson.dataformat.xml.XmlMapper", 
+"Methods" : [{ "Name" : "<init>" ,
+"Edges" : 4,
+"1" : [ 1, 2, 4],
+"2" : [ 0, 3, 5, 6],
+"3" : [ 0, 1, 2, 4, 5, 6],
+"0" : [ 0, 5, 6],
+"CoveredDUAsByEdges" : 7,
+"Duas" : 7
+},{ "Name" : "setDefaultUseWrapper" ,
+"Edges" : 8,
+"2" : [ ],
+"0" : [ 2, 4],
+"1" : [ 0, 3],
+"7" : [ 0, 3],
+"3" : [ 1, 2, 4, 5, 7],
+"4" : [ 2, 4, 6],
+"6" : [ 1, 2, 4, 5, 7],
+"5" : [ 2, 4],
+"CoveredDUAsByEdges" : 8,
+"Duas" : 8
+}]
+}

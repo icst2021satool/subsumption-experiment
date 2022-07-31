@@ -1,0 +1,32 @@
+{
+"Class" : "com.fasterxml.jackson.dataformat.xml.XmlTypeResolverBuilder", 
+"Methods" : [{ "Name" : "init" ,
+"Nodes" : 4,
+"0" : [ ],
+"2" : [ 0, 3, 4, 6],
+"1" : [ 2],
+"3" : [ 2],
+"CoveredDUAsByNodes" : 5,
+"Duas" : 7
+},{ "Name" : "typeProperty" ,
+"Nodes" : 5,
+"0" : [ ],
+"3" : [ 3],
+"1" : [ 0, 8],
+"2" : [ 1, 2],
+"4" : [ 1, 2],
+"CoveredDUAsByNodes" : 5,
+"Duas" : 10
+},{ "Name" : "idResolver" ,
+"Nodes" : 7,
+"0" : [ ],
+"1" : [ 1, 17],
+"2" : [ 1, 17, 4, 21, 7, 24, 10],
+"3" : [ 1, 17, 3, 20, 23, 8, 11],
+"4" : [ 1, 17, 2, 19, 5, 22, 9, 12, 13, 14, 15],
+"5" : [ 0, 16, 18, 6],
+"6" : [ ],
+"CoveredDUAsByNodes" : 25,
+"Duas" : 25
+},,]
+}

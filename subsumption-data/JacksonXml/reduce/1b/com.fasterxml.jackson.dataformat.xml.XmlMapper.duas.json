@@ -1,0 +1,21 @@
+{
+"Class" : "com.fasterxml.jackson.dataformat.xml.XmlMapper", 
+"Methods" : [{ "Name" : "<init>" ,
+"Duas" : 7,
+"0" :  "(79,86, this)",
+"1" :  "(79,83, this)",
+"2" :  "(79,(82,83), module)",
+"3" :  "(79,(82,86), module)",
+"4" :  "(79,83, module)",
+"5" :  "(79,86, this._serializationConfig)",
+"6" :  "(79,86, DEFAULT_XML_PRETTY_PRINTER)"},{ "Name" : "setDefaultUseWrapper" ,
+"Duas" : 8,
+"0" :  "(124,130, this)",
+"1" :  "(124,127, state)",
+"2" :  "(125,(125,125), i$)",
+"3" :  "(125,(125,130), i$)",
+"4" :  "(125,125, i$)",
+"5" :  "(125,(126,127), ai)",
+"6" :  "(125,(126,129), ai)",
+"7" :  "(125,127, ai)"}]
+}

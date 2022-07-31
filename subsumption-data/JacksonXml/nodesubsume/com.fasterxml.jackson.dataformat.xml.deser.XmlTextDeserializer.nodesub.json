@@ -1,0 +1,28 @@
+{
+"Class" : "com.fasterxml.jackson.dataformat.xml.deser.XmlTextDeserializer", 
+"Methods" : [{ "Name" : "deserialize" ,
+"Nodes" : 4,
+"0" : [ ],
+"1" : [ 0, 4, 5, 7, 11, 14],
+"2" : [ 1, 2, 3, 6, 8, 9, 10, 12, 13],
+"3" : [ ],
+"CoveredDUAsByNodes" : 15,
+"Duas" : 15
+},{ "Name" : "deserialize" ,
+"Nodes" : 4,
+"0" : [ ],
+"1" : [ 0, 3, 4, 6, 8, 12, 14],
+"2" : [ 1, 2, 5, 7, 9, 10, 11, 13],
+"3" : [ ],
+"CoveredDUAsByNodes" : 15,
+"Duas" : 15
+},{ "Name" : "_verifyDeserType" ,
+"Nodes" : 4,
+"0" : [ ],
+"1" : [ 1, 2],
+"2" : [ 0, 3],
+"3" : [ ],
+"CoveredDUAsByNodes" : 4,
+"Duas" : 4
+}]
+}

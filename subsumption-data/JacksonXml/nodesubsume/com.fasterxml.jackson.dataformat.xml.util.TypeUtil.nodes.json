@@ -1,0 +1,25 @@
+{
+"Class" : "com.fasterxml.jackson.dataformat.xml.util.TypeUtil", 
+"Methods" : [{ "Name" : "isIndexedType" ,
+"Nodes" : 9,
+"0" : [ 16 ]
+"1" : [ 29 ]
+"2" : [ 17,20 ]
+"3" : [ 21 ]
+"4" : [ 20 ]
+"5" : [ 24 ]
+"6" : [ 27 ]
+"7" : [ 25 ]
+"8" : [  ]
+},{ "Name" : "isIndexedType" ,
+"Nodes" : 8,
+"0" : [ 34 ]
+"1" : [ 34 ]
+"2" : [ 34 ]
+"3" : [ 34 ]
+"4" : [ 34 ]
+"5" : [ 34 ]
+"6" : [ 34 ]
+"7" : [  ]
+}]
+}

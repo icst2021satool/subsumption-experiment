@@ -1,0 +1,15 @@
+{
+"Class" : "com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator$Feature", 
+"Methods" : [{ "Name" : "collectDefaults" ,
+"Duas" : "18" ,
+"Subsumers" : 3,
+"0" : [ 6], "S0" : [0, 4, 6 ],
+"1" : [ 13], "S1" : [1, 2, 3, 4, 5, 7, 8, 9, 11, 12, 13, 14, 15, 16, 17 ],
+"2" : [ 10], "S2" : [2, 3, 4, 5, 7, 8, 10, 15 ]
+},{ "Name" : "enabledIn" ,
+"Duas" : "4" ,
+"Subsumers" : 2,
+"0" : [ 2, 0], "S0" : [0, 2 ],
+"1" : [ 3, 1], "S1" : [1, 3 ]
+}]
+}

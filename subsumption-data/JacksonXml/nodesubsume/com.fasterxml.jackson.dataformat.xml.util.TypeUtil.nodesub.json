@@ -1,0 +1,29 @@
+{
+"Class" : "com.fasterxml.jackson.dataformat.xml.util.TypeUtil", 
+"Methods" : [{ "Name" : "isIndexedType" ,
+"Nodes" : 9,
+"0" : [ ],
+"1" : [ 1],
+"2" : [ 0, 2],
+"4" : [ 0, 2, 3],
+"5" : [ 0, 2, 3, 6],
+"6" : [ 0, 2, 3, 6, 8],
+"7" : [ 0, 2, 3, 6, 7],
+"3" : [ 0, 2],
+"8" : [ ],
+"CoveredDUAsByNodes" : 7,
+"Duas" : 9
+},{ "Name" : "isIndexedType" ,
+"Nodes" : 8,
+"0" : [ ],
+"5" : [ 0],
+"6" : [ 0, 4],
+"1" : [ ],
+"2" : [ 3],
+"4" : [ ],
+"3" : [ ],
+"7" : [ ],
+"CoveredDUAsByNodes" : 3,
+"Duas" : 8
+}]
+}

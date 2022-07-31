@@ -1,0 +1,22 @@
+{
+"Class" : "com.fasterxml.jackson.dataformat.xml.deser.XmlTextDeserializer", 
+"Methods" : [{ "Name" : "deserialize" ,
+"Nodes" : 4,
+"0" : [ 91 ]
+"1" : [ 96 ]
+"2" : [ 92,93,94 ]
+"3" : [  ]
+},{ "Name" : "deserialize" ,
+"Nodes" : 4,
+"0" : [ 105 ]
+"1" : [ 109 ]
+"2" : [ 106,107 ]
+"3" : [  ]
+},{ "Name" : "_verifyDeserType" ,
+"Nodes" : 4,
+"0" : [ 128 ]
+"1" : [ 132 ]
+"2" : [ 129 ]
+"3" : [  ]
+}]
+}

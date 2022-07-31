@@ -1,0 +1,20 @@
+{
+"Class" : "com.fasterxml.jackson.dataformat.xml.deser.FromXmlParser$Feature", 
+"Methods" : [{ "Name" : "collectDefaults" ,
+"Nodes" : 7,
+"0" : [ 48,49 ]
+"1" : [ 49 ]
+"2" : [ 54 ]
+"3" : [ 49,50 ]
+"4" : [ 49 ]
+"5" : [ 51 ]
+"6" : [  ]
+},{ "Name" : "enabledIn" ,
+"Nodes" : 5,
+"0" : [ 64 ]
+"1" : [ 64 ]
+"2" : [ 64 ]
+"3" : [ 64 ]
+"4" : [  ]
+}]
+}
