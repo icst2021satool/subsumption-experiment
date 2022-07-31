@@ -1,0 +1,12 @@
+{
+"Class" : "javax.xml.bind.util.JAXBResult", 
+"Methods" : [{ "Name" : "<init>" ,
+"Edges" : 5,
+"Duas" : 4,
+"1" : 0, 
+ "2" : 1},{ "Name" : "<init>" ,
+"Edges" : 4,
+"Duas" : 5,
+"2" : 2, 
+ "3" : 3}]
+}

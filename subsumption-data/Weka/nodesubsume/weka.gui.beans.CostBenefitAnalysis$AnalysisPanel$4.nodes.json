@@ -1,0 +1,10 @@
+{
+"Class" : "weka.gui.beans.CostBenefitAnalysis$AnalysisPanel$4", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Nodes" : 4,
+"0" : [ 448 ]
+"1" : [ 458 ]
+"2" : [ 450,451,452,455,456 ]
+"3" : [  ]
+}]
+}

@@ -1,0 +1,11 @@
+{
+"Class" : "weka.classifiers.functions.MultilayerPerceptron$1", 
+"Methods" : [{ "Name" : "windowClosing" ,
+"Nodes" : 5,
+"0" : [ 1879,1880,1881,1885 ]
+"1" : [ 1890 ]
+"2" : [ 1892,1893 ]
+"3" : [ 1888,1886,1887 ]
+"4" : [  ]
+}]
+}

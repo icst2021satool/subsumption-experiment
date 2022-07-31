@@ -1,0 +1,10 @@
+{
+"Class" : "weka.gui.beans.MetaBean$2", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Edges" : 4,
+"Duas" : 10,
+"0" : 0, 
+ "1" : 1, 
+ "5" : 0, 
+ "6" : 1}]
+}

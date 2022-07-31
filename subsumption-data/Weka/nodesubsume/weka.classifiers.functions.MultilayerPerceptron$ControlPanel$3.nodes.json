@@ -1,0 +1,12 @@
+{
+"Class" : "weka.classifiers.functions.MultilayerPerceptron$ControlPanel$3", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Nodes" : 6,
+"0" : [ 853 ]
+"1" : [ 871 ]
+"2" : [ 876 ]
+"3" : [ 872,873,874 ]
+"4" : [ 864,866,867,868,870,871,854,855,856,857,859,860,862,863 ]
+"5" : [  ]
+}]
+}

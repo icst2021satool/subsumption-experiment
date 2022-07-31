@@ -1,0 +1,14 @@
+{
+"Class" : "weka.gui.visualize.PrintableComponent$PrintMouseListener", 
+"Methods" : [{ "Name" : "mouseClicked" ,
+"Nodes" : 6,
+"0" : [ ],
+"2" : [ 3],
+"3" : [ 3, 5],
+"4" : [ 0, 1, 2, 3, 5, 7],
+"1" : [ ],
+"5" : [ ],
+"CoveredDUAsByNodes" : 6,
+"Duas" : 9
+}]
+}

@@ -1,0 +1,12 @@
+{
+"Class" : "com.sun.xml.bind.v2.runtime.property.AttributeProperty", 
+"Methods" : [{ "Name" : "serializeAttributes" ,
+"Edges" : 4,
+"1" : [ 0, 1, 2, 3, 5],
+"2" : [ 4],
+"0" : [ 0, 1, 2, 3, 5],
+"3" : [ ],
+"CoveredDUAsByEdges" : 6,
+"Duas" : 6
+}]
+}

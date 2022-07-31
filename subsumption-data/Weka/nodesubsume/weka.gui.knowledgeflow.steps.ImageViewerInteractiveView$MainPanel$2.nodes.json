@@ -1,0 +1,10 @@
+{
+"Class" : "weka.gui.knowledgeflow.steps.ImageViewerInteractiveView$MainPanel$2", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Nodes" : 4,
+"0" : [ 246,247,248 ]
+"1" : [ 252,253,254 ]
+"2" : [ 249 ]
+"3" : [  ]
+}]
+}

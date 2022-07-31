@@ -1,0 +1,23 @@
+{
+"Class" : "weka.knowledgeflow.steps.WekaAlgorithmWrapper", 
+"Methods" : [{ "Name" : "globalInfo" ,
+"Nodes" : 4,
+"0" : [ ],
+"1" : [ 1, 2],
+"2" : [ 0, 3],
+"3" : [ ],
+"CoveredDUAsByNodes" : 4,
+"Duas" : 4
+},{ "Name" : "setWrappedAlgorithm" ,
+"Nodes" : 7,
+"0" : [ ],
+"3" : [ 0],
+"4" : [ 0, 5],
+"5" : [ 0, 5, 12],
+"1" : [ 2, 9],
+"2" : [ 3, 4, 10, 11],
+"6" : [ 3, 4, 10, 11],
+"CoveredDUAsByNodes" : 9,
+"Duas" : 16
+}]
+}

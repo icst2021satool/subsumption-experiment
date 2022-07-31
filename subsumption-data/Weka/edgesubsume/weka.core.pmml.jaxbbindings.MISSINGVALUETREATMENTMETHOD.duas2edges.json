@@ -1,0 +1,12 @@
+{
+"Class" : "weka.core.pmml.jaxbbindings.MISSINGVALUETREATMENTMETHOD", 
+"Methods" : [{ "Name" : "fromValue" ,
+"Edges" : 8,
+"Duas" : 8,
+"1" : 2, 
+ "2" : 3, 
+ "3" : 2, 
+ "4" : 3, 
+ "6" : 2, 
+ "7" : 3}]
+}

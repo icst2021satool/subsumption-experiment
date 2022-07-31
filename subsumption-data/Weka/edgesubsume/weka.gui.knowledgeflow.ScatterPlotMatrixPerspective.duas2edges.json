@@ -1,0 +1,20 @@
+{
+"Class" : "weka.gui.knowledgeflow.ScatterPlotMatrixPerspective", 
+"Methods" : [{ "Name" : "setActive" ,
+"Edges" : 6,
+"Duas" : 12,
+"0" : 0, 
+ "1" : 1, 
+ "2" : 2, 
+ "3" : 3, 
+ "6" : 0, 
+ "7" : 1, 
+ "8" : 2, 
+ "9" : 3},{ "Name" : "okToBeActive" ,
+"Edges" : 5,
+"Duas" : 4,
+"0" : 2, 
+ "1" : 3, 
+ "2" : 2, 
+ "3" : 3}]
+}

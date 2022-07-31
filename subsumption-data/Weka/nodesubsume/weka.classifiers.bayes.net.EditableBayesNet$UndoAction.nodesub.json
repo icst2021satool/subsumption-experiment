@@ -1,0 +1,15 @@
+{
+"Class" : "weka.classifiers.bayes.net.EditableBayesNet$UndoAction", 
+"Methods" : [{ "Name" : "getMsg" ,
+"Nodes" : 7,
+"0" : [ ],
+"1" : [ ],
+"2" : [ 3, 4],
+"6" : [ 3, 4],
+"3" : [ 0, 2, 7, 9],
+"5" : [ 0, 2, 6, 7, 9, 12],
+"4" : [ 0, 1, 2, 5, 7, 9, 10, 11],
+"CoveredDUAsByNodes" : 12,
+"Duas" : 19
+}]
+}

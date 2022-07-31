@@ -1,0 +1,26 @@
+{
+"Class" : "weka.core.expressionlanguage.common.MacroDeclarationsCompositor", 
+"Methods" : [{ "Name" : "hasMacro" ,
+"Nodes" : 7,
+"0" : [ ],
+"1" : [ ],
+"2" : [ ],
+"3" : [ ],
+"4" : [ 1, 3],
+"5" : [ 0, 2],
+"6" : [ ],
+"CoveredDUAsByNodes" : 4,
+"Duas" : 4
+},{ "Name" : "getMacro" ,
+"Nodes" : 7,
+"0" : [ ],
+"1" : [ ],
+"2" : [ 0],
+"3" : [ ],
+"4" : [ 2, 5],
+"5" : [ 1, 3, 4, 6],
+"6" : [ ],
+"CoveredDUAsByNodes" : 7,
+"Duas" : 7
+}]
+}

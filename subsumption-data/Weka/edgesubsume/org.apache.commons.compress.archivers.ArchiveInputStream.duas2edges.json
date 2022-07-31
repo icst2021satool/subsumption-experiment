@@ -1,0 +1,12 @@
+{
+"Class" : "org.apache.commons.compress.archivers.ArchiveInputStream", 
+"Methods" : [{ "Name" : "read" ,
+"Edges" : 5,
+"Duas" : 4,
+"2" : 3, 
+ "3" : 4},{ "Name" : "count" ,
+"Edges" : 4,
+"Duas" : 5,
+"1" : 0, 
+ "2" : 1}]
+}

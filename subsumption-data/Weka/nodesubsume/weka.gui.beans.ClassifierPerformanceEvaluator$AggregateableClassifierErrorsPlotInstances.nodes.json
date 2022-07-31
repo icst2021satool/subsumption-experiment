@@ -1,0 +1,13 @@
+{
+"Class" : "weka.gui.beans.ClassifierPerformanceEvaluator$AggregateableClassifierErrorsPlotInstances", 
+"Methods" : [{ "Name" : "finishUp" ,
+"Nodes" : 7,
+"0" : [ 464,466 ]
+"1" : [ 470 ]
+"2" : [ 472 ]
+"3" : [ 474 ]
+"4" : [ 470 ]
+"5" : [ 467 ]
+"6" : [  ]
+}]
+}

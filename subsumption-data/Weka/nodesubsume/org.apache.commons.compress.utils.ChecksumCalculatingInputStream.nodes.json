@@ -1,0 +1,30 @@
+{
+"Class" : "org.apache.commons.compress.utils.ChecksumCalculatingInputStream", 
+"Methods" : [{ "Name" : "<init>" ,
+"Nodes" : 6,
+"0" : [ 33,35 ]
+"1" : [ 39 ]
+"2" : [ 43,44,45 ]
+"3" : [ 40 ]
+"4" : [ 36 ]
+"5" : [  ]
+},{ "Name" : "read" ,
+"Nodes" : 4,
+"0" : [ 55,56 ]
+"1" : [ 59 ]
+"2" : [ 57 ]
+"3" : [  ]
+},{ "Name" : "read" ,
+"Nodes" : 4,
+"0" : [ 81,82 ]
+"1" : [ 85 ]
+"2" : [ 83 ]
+"3" : [  ]
+},{ "Name" : "skip" ,
+"Nodes" : 4,
+"0" : [ 91 ]
+"1" : [ 94 ]
+"2" : [ 92 ]
+"3" : [  ]
+}]
+}

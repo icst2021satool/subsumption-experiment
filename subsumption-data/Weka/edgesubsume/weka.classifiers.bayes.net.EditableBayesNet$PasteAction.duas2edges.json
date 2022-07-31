@@ -1,0 +1,14 @@
+{
+"Class" : "weka.classifiers.bayes.net.EditableBayesNet$PasteAction", 
+"Methods" : [{ "Name" : "undo" ,
+"Edges" : 5,
+"Duas" : 14,
+"0" : 0, 
+ "1" : 1, 
+ "4" : 0, 
+ "5" : 1, 
+ "6" : 0, 
+ "7" : 1, 
+ "10" : 0, 
+ "11" : 1}]
+}

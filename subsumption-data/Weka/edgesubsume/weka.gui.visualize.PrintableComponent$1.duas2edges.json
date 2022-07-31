@@ -1,0 +1,8 @@
+{
+"Class" : "weka.gui.visualize.PrintableComponent$1", 
+"Methods" : [{ "Name" : "itemStateChanged" ,
+"Edges" : 5,
+"Duas" : 24,
+"22" : 1, 
+ "23" : 2}]
+}

@@ -1,0 +1,8 @@
+{
+"Class" : "weka.gui.knowledgeflow.KnowledgeFlowApp$1", 
+"Methods" : [{ "Name" : "run" ,
+"Edges" : 2,
+"0" : [ 1,0 ],
+"1" : [ 0,1 ]
+}]
+}

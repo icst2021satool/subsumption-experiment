@@ -1,0 +1,10 @@
+{
+"Class" : "weka.gui.visualize.InstanceInfoFrame", 
+"Methods" : [{ "Name" : "setInfoData" ,
+"Nodes" : 4,
+"0" : [ 115,116 ]
+"1" : [ 118 ]
+"2" : [ 117 ]
+"3" : [  ]
+}]
+}

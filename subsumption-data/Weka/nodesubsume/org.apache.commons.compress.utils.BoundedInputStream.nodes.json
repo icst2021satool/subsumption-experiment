@@ -1,0 +1,20 @@
+{
+"Class" : "org.apache.commons.compress.utils.BoundedInputStream", 
+"Methods" : [{ "Name" : "read" ,
+"Nodes" : 4,
+"0" : [ 45 ]
+"1" : [ 49 ]
+"2" : [ 46,47 ]
+"3" : [  ]
+},{ "Name" : "read" ,
+"Nodes" : 8,
+"0" : [ 54 ]
+"1" : [ 57,58 ]
+"2" : [ 61,62 ]
+"3" : [ 65 ]
+"4" : [ 63 ]
+"5" : [ 59 ]
+"6" : [ 55 ]
+"7" : [  ]
+}]
+}

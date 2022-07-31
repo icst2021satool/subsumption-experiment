@@ -1,0 +1,22 @@
+{
+"Class" : "weka.knowledgeflow.steps.GetDataFromResult", 
+"Methods" : [{ "Name" : "start" ,
+"Edges" : 6,
+"Duas" : 6,
+"0" : 3, 
+ "1" : 4, 
+ "2" : 0, 
+ "3" : 1},{ "Name" : "outputDataFromResult" ,
+"Edges" : 19,
+"Duas" : 15,
+"6" : 8, 
+ "7" : 9, 
+ "8" : 3, 
+ "9" : 4, 
+ "12" : 1, 
+ "13" : 2},{ "Name" : "getIncomingConnectionTypes" ,
+"Edges" : 4,
+"Duas" : 2,
+"0" : 2, 
+ "1" : 3}]
+}

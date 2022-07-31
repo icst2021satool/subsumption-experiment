@@ -1,0 +1,16 @@
+{
+"Class" : "weka.core.PropertyPath$PathElement", 
+"Methods" : [{ "Name" : "<init>" ,
+"Edges" : 5,
+"Duas" : 9,
+"4" : 3, 
+ "5" : 4},{ "Name" : "hasIndex" ,
+"Edges" : 5,
+"Duas" : 2,
+"0" : 2, 
+ "1" : 3},{ "Name" : "toString" ,
+"Edges" : 4,
+"Duas" : 6,
+"0" : 1, 
+ "1" : 2}]
+}

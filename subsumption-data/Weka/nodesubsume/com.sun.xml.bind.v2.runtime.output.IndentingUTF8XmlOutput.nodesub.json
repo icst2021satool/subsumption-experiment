@@ -1,0 +1,42 @@
+{
+"Class" : "com.sun.xml.bind.v2.runtime.output.IndentingUTF8XmlOutput", 
+"Methods" : [{ "Name" : "<init>" ,
+"Nodes" : 8,
+"0" : [ ],
+"1" : [ 0, 1, 7],
+"3" : [ 2, 3, 4, 6, 8],
+"4" : [ 2, 3, 4, 6, 8],
+"5" : [ 2, 3, 4, 6, 8],
+"2" : [ ],
+"7" : [ ],
+"6" : [ 2, 3, 4, 5, 6, 8, 9, 10, 11, 12, 13, 14, 16, 17],
+"CoveredDUAsByNodes" : 17,
+"Duas" : 22
+},{ "Name" : "indentStartTag" ,
+"Nodes" : 4,
+"0" : [ ],
+"2" : [ 0, 4, 5],
+"1" : [ 2, 3, 7],
+"3" : [ 2, 3, 7],
+"CoveredDUAsByNodes" : 6,
+"Duas" : 8
+},{ "Name" : "indentEndTag" ,
+"Nodes" : 5,
+"0" : [ ],
+"2" : [ 0, 6],
+"3" : [ 0, 3, 5, 6, 8],
+"1" : [ 2],
+"4" : [ 2],
+"CoveredDUAsByNodes" : 6,
+"Duas" : 10
+},{ "Name" : "printIndent" ,
+"Nodes" : 5,
+"0" : [ ],
+"1" : [ ],
+"2" : [ ],
+"4" : [ ],
+"3" : [ 0, 1, 2, 4],
+"CoveredDUAsByNodes" : 4,
+"Duas" : 8
+}]
+}

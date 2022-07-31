@@ -1,0 +1,14 @@
+{
+"Class" : "weka.gui.knowledgeflow.StepTree$StepIconRenderer", 
+"Methods" : [{ "Name" : "getTreeCellRendererComponent" ,
+"Edges" : 8,
+"0" : [ 2,3 ],
+"1" : [ 2,1 ],
+"2" : [ 3,4 ],
+"3" : [ 3,1 ],
+"4" : [ 0,2 ],
+"5" : [ 0,1 ],
+"6" : [ 1,5 ],
+"7" : [ 4,1 ]
+}]
+}

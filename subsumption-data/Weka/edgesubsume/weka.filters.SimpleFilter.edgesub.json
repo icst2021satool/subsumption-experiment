@@ -1,0 +1,12 @@
+{
+"Class" : "weka.filters.SimpleFilter", 
+"Methods" : [{ "Name" : "setInputFormat" ,
+"Edges" : 4,
+"2" : [ 0, 3, 4],
+"3" : [ 1, 2],
+"1" : [ 0, 2, 3, 4],
+"0" : [ 2],
+"CoveredDUAsByEdges" : 5,
+"Duas" : 5
+}]
+}

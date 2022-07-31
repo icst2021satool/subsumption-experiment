@@ -1,0 +1,15 @@
+{
+"Class" : "weka.gui.knowledgeflow.steps.SubstringLabelerStepEditorDialog$4", 
+"Methods" : [{ "Name" : "valueChanged" ,
+"Edges" : 9,
+"0" : [ 2,5 ],
+"1" : [ 2,3 ],
+"2" : [ 1,6 ],
+"3" : [ 4,1 ],
+"4" : [ 0,2 ],
+"5" : [ 0,1 ],
+"6" : [ 3,4 ],
+"7" : [ 3,1 ],
+"8" : [ 5,3 ]
+}]
+}

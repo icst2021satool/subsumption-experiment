@@ -1,0 +1,14 @@
+{
+"Class" : "weka.gui.beans.FlowByExpressionCustomizer$3", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Nodes" : 8,
+"0" : [ 292 ]
+"1" : [ 317 ]
+"2" : [ 293,294 ]
+"3" : [ 295 ]
+"4" : [ 297,298,299,300,302 ]
+"5" : [ 304,303 ]
+"6" : [ 305,306,307,308,309,311 ]
+"7" : [  ]
+}]
+}

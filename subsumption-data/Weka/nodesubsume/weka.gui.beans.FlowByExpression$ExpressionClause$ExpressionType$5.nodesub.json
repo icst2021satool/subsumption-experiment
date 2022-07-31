@@ -1,0 +1,13 @@
+{
+"Class" : "weka.gui.beans.FlowByExpression$ExpressionClause$ExpressionType$5", 
+"Methods" : [{ "Name" : "evaluate" ,
+"Nodes" : 5,
+"0" : [ ],
+"1" : [ 1, 3, 5, 7, 9, 11, 13, 15],
+"3" : [ 0, 2, 4, 6, 8, 10, 12, 14],
+"2" : [ ],
+"4" : [ ],
+"CoveredDUAsByNodes" : 16,
+"Duas" : 16
+}]
+}

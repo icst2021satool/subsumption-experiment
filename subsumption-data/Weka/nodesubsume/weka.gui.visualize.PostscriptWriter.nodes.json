@@ -1,0 +1,10 @@
+{
+"Class" : "weka.gui.visualize.PostscriptWriter", 
+"Methods" : [{ "Name" : "generateOutput" ,
+"Nodes" : 4,
+"0" : [ 112,98,101,102,103,104,105,106 ]
+"1" : [ 120 ]
+"2" : [ 114,117 ]
+"3" : [  ]
+}]
+}

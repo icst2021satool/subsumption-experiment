@@ -1,0 +1,12 @@
+{
+"Class" : "com.sun.xml.bind.v2.model.impl.RuntimeEnumLeafInfoImpl", 
+"Methods" : [{ "Name" : "parse" ,
+"Nodes" : 4,
+"0" : [ ],
+"2" : [ 0, 3, 7],
+"1" : [ 2, 5],
+"3" : [ 2, 5],
+"CoveredDUAsByNodes" : 5,
+"Duas" : 9
+}]
+}

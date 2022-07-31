@@ -1,0 +1,30 @@
+{
+"Class" : "weka.classifiers.meta.RandomizableFilteredClassifier", 
+"Methods" : [{ "Name" : "initializeClassifier" ,
+"Nodes" : 5,
+"0" : [ ],
+"2" : [ 0, 6],
+"1" : [ 2, 5],
+"3" : [ 0, 3, 6, 8],
+"4" : [ ],
+"CoveredDUAsByNodes" : 6,
+"Duas" : 10
+},{ "Name" : "buildClassifier" ,
+"Nodes" : 5,
+"0" : [ ],
+"2" : [ 0, 6],
+"1" : [ 2, 5],
+"3" : [ 0, 3, 6, 8],
+"4" : [ ],
+"CoveredDUAsByNodes" : 6,
+"Duas" : 10
+},{ "Name" : "toString" ,
+"Nodes" : 4,
+"0" : [ ],
+"1" : [ 1, 2, 4, 5, 6],
+"2" : [ 0, 3],
+"3" : [ ],
+"CoveredDUAsByNodes" : 7,
+"Duas" : 7
+}]
+}

@@ -1,0 +1,10 @@
+{
+"Class" : "weka.gui.LogPanel$1", 
+"Methods" : [{ "Name" : "stateChanged" ,
+"Nodes" : 4,
+"0" : [ 129,130,131 ]
+"1" : [ 136 ]
+"2" : [ 132,133,134 ]
+"3" : [  ]
+}]
+}

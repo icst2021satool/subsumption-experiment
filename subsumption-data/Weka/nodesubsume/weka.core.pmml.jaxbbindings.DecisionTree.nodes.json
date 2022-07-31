@@ -1,0 +1,40 @@
+{
+"Class" : "weka.core.pmml.jaxbbindings.DecisionTree", 
+"Methods" : [{ "Name" : "getExtension" ,
+"Nodes" : 4,
+"0" : [ 128 ]
+"1" : [ 131 ]
+"2" : [ 129 ]
+"3" : [  ]
+},{ "Name" : "getResultField" ,
+"Nodes" : 4,
+"0" : [ 253 ]
+"1" : [ 256 ]
+"2" : [ 254 ]
+"3" : [  ]
+},{ "Name" : "getMissingValuePenalty" ,
+"Nodes" : 4,
+"0" : [ 340 ]
+"1" : [ 343 ]
+"2" : [ 341 ]
+"3" : [  ]
+},{ "Name" : "getMissingValueStrategy" ,
+"Nodes" : 4,
+"0" : [ 368 ]
+"1" : [ 371 ]
+"2" : [ 369 ]
+"3" : [  ]
+},{ "Name" : "getNoTrueChildStrategy" ,
+"Nodes" : 4,
+"0" : [ 420 ]
+"1" : [ 423 ]
+"2" : [ 421 ]
+"3" : [  ]
+},{ "Name" : "getSplitCharacteristic" ,
+"Nodes" : 4,
+"0" : [ 448 ]
+"1" : [ 451 ]
+"2" : [ 449 ]
+"3" : [  ]
+}]
+}

@@ -1,0 +1,10 @@
+{
+"Class" : "weka.gui.experiment.SetupModePanel$1", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Nodes" : 4,
+"0" : [ 99 ]
+"1" : [ 101,102,103 ]
+"2" : [ 100 ]
+"3" : [  ]
+}]
+}

@@ -1,0 +1,14 @@
+{
+"Class" : "weka.gui.experiment.RunPanel$ExperimentRunner$1", 
+"Methods" : [{ "Name" : "remoteExperimentStatus" ,
+"Nodes" : 8,
+"0" : [ 138 ]
+"1" : [ 141 ]
+"2" : [ 144 ]
+"3" : [ 150 ]
+"4" : [ 145,146,147,148 ]
+"5" : [ 142 ]
+"6" : [ 139 ]
+"7" : [  ]
+}]
+}

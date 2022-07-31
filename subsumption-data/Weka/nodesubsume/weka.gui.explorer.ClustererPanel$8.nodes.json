@@ -1,0 +1,13 @@
+{
+"Class" : "weka.gui.explorer.ClustererPanel$8", 
+"Methods" : [{ "Name" : "mouseClicked" ,
+"Nodes" : 7,
+"0" : [ 397 ]
+"1" : [ 400,399 ]
+"2" : [ 405 ]
+"3" : [ 408 ]
+"4" : [ 401,402,403,404 ]
+"5" : [ 397,398 ]
+"6" : [  ]
+}]
+}

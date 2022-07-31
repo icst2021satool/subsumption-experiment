@@ -1,0 +1,22 @@
+{
+"Class" : "com.sun.xml.bind.v2.schemagen.XmlSchemaGenerator$Namespace$ElementWithType", 
+"Methods" : [{ "Name" : "writeTo" ,
+"Nodes" : 7,
+"0" : [ 1440,1439 ]
+"1" : [ 1442 ]
+"2" : [ 1445 ]
+"3" : [ 1447,1448 ]
+"4" : [ 1443 ]
+"5" : [ 1441 ]
+"6" : [  ]
+},{ "Name" : "equals" ,
+"Nodes" : 7,
+"0" : [ 1451 ]
+"1" : [ 1452 ]
+"2" : [ 1452 ]
+"3" : [ 1452 ]
+"4" : [ 1454,1455 ]
+"5" : [ 1451 ]
+"6" : [  ]
+}]
+}

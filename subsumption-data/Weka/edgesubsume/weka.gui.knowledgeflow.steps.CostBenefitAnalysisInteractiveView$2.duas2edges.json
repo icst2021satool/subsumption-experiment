@@ -1,0 +1,10 @@
+{
+"Class" : "weka.gui.knowledgeflow.steps.CostBenefitAnalysisInteractiveView$2", 
+"Methods" : [{ "Name" : "mouseClicked" ,
+"Edges" : 6,
+"Duas" : 19,
+"12" : 2, 
+ "13" : 3, 
+ "15" : 0, 
+ "16" : 1}]
+}

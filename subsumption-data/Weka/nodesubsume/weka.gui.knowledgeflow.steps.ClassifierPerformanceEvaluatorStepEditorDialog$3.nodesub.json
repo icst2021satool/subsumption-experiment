@@ -1,0 +1,15 @@
+{
+"Class" : "weka.gui.knowledgeflow.steps.ClassifierPerformanceEvaluatorStepEditorDialog$3", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Nodes" : 7,
+"0" : [ ],
+"2" : [ 0, 23, 12],
+"3" : [ 0, 16, 17, 18, 4, 5, 6, 23, 26, 12],
+"5" : [ 0, 3, 21, 22, 23, 10, 11, 27, 12, 15],
+"4" : [ 0, 19, 20, 7, 23, 8, 9, 12],
+"1" : [ 2, 14],
+"6" : [ 2, 14],
+"CoveredDUAsByNodes" : 24,
+"Duas" : 34
+}]
+}

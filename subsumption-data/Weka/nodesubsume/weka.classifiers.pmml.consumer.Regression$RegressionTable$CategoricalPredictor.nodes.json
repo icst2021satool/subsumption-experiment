@@ -1,0 +1,22 @@
+{
+"Class" : "weka.classifiers.pmml.consumer.Regression$RegressionTable$CategoricalPredictor", 
+"Methods" : [{ "Name" : "<init>" ,
+"Nodes" : 8,
+"0" : [ 210,211,213,214,199 ]
+"1" : [ 218,220,221 ]
+"2" : [ 227,234 ]
+"3" : [ 239 ]
+"4" : [ 235,237 ]
+"5" : [ 225 ]
+"6" : [ 215 ]
+"7" : [  ]
+},{ "Name" : "add" ,
+"Nodes" : 6,
+"0" : [ 261 ]
+"1" : [ 268 ]
+"2" : [ 262 ]
+"3" : [ 265 ]
+"4" : [ 263 ]
+"5" : [  ]
+}]
+}

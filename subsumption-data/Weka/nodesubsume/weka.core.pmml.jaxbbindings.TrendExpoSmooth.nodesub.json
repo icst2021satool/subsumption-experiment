@@ -1,0 +1,20 @@
+{
+"Class" : "weka.core.pmml.jaxbbindings.TrendExpoSmooth", 
+"Methods" : [{ "Name" : "getPhi" ,
+"Nodes" : 4,
+"0" : [ ],
+"1" : [ 1, 2, 4, 5],
+"2" : [ 0, 3],
+"3" : [ ],
+"CoveredDUAsByNodes" : 6,
+"Duas" : 6
+},{ "Name" : "getTrend" ,
+"Nodes" : 4,
+"0" : [ ],
+"1" : [ 1, 2, 4, 5],
+"2" : [ 0, 3],
+"3" : [ ],
+"CoveredDUAsByNodes" : 6,
+"Duas" : 6
+}]
+}

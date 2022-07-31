@@ -1,0 +1,13 @@
+{
+"Class" : "weka.classifiers.trees.ht.SplitMetric", 
+"Methods" : [{ "Name" : "sum" ,
+"Nodes" : 5,
+"0" : [ ],
+"1" : [ ],
+"2" : [ ],
+"4" : [ ],
+"3" : [ 1],
+"CoveredDUAsByNodes" : 1,
+"Duas" : 4
+}]
+}

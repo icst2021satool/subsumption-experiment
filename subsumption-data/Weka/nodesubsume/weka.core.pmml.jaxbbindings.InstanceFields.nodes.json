@@ -1,0 +1,16 @@
+{
+"Class" : "weka.core.pmml.jaxbbindings.InstanceFields", 
+"Methods" : [{ "Name" : "getExtension" ,
+"Nodes" : 4,
+"0" : [ 78 ]
+"1" : [ 81 ]
+"2" : [ 79 ]
+"3" : [  ]
+},{ "Name" : "getInstanceField" ,
+"Nodes" : 4,
+"0" : [ 107 ]
+"1" : [ 110 ]
+"2" : [ 108 ]
+"3" : [  ]
+}]
+}

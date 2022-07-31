@@ -1,0 +1,10 @@
+{
+"Class" : "weka.core.expressionlanguage.common.IfElseMacro$DoubleIfElse", 
+"Methods" : [{ "Name" : "evaluate" ,
+"Nodes" : 4,
+"0" : [ 145 ]
+"1" : [ 147 ]
+"2" : [ 146 ]
+"3" : [  ]
+}]
+}

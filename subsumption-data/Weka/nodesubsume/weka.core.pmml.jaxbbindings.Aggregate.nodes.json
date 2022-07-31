@@ -1,0 +1,10 @@
+{
+"Class" : "weka.core.pmml.jaxbbindings.Aggregate", 
+"Methods" : [{ "Name" : "getExtension" ,
+"Nodes" : 4,
+"0" : [ 98 ]
+"1" : [ 101 ]
+"2" : [ 99 ]
+"3" : [  ]
+}]
+}

@@ -1,0 +1,12 @@
+{
+"Class" : "weka.gui.beans.FilterCustomizer$2", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Nodes" : 6,
+"0" : [ 105,109 ]
+"1" : [ 113 ]
+"2" : [ 116,117 ]
+"3" : [ 114 ]
+"4" : [ 110 ]
+"5" : [  ]
+}]
+}

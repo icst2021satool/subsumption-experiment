@@ -1,0 +1,11 @@
+{
+"Class" : "weka.gui.experiment.AbstractSetupPanel", 
+"Methods" : [{ "Name" : "getPanels" ,
+"Nodes" : 5,
+"0" : [ 124,125,126 ]
+"1" : [ 126 ]
+"2" : [ 138,140 ]
+"3" : [ 128,129,130,135,136,126 ]
+"4" : [  ]
+}]
+}

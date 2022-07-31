@@ -1,0 +1,44 @@
+{
+"Class" : "weka.core.pmml.jaxbbindings.SupportVectorMachineModel", 
+"Methods" : [{ "Name" : "getContent" ,
+"Edges" : 4,
+"2" : [ 0, 3, 4],
+"3" : [ 1, 2, 5, 6],
+"0" : [ 0, 2, 3, 4],
+"1" : [ 2],
+"CoveredDUAsByEdges" : 7,
+"Duas" : 8
+},{ "Name" : "getClassificationMethod" ,
+"Edges" : 4,
+"1" : [ 0, 3, 6],
+"2" : [ 1, 2, 4, 5],
+"3" : [ 1, 2, 4, 5],
+"0" : [ 0, 3, 6],
+"CoveredDUAsByEdges" : 7,
+"Duas" : 7
+},{ "Name" : "isIsScorable" ,
+"Edges" : 4,
+"1" : [ 0, 3],
+"2" : [ 1, 2, 4, 5],
+"3" : [ 1, 2, 4, 5],
+"0" : [ 0, 3],
+"CoveredDUAsByEdges" : 6,
+"Duas" : 6
+},{ "Name" : "getSvmRepresentation" ,
+"Edges" : 4,
+"2" : [ 0, 3, 6],
+"3" : [ 1, 2, 4, 5],
+"1" : [ 1, 2, 4, 5],
+"0" : [ 0, 3, 6],
+"CoveredDUAsByEdges" : 7,
+"Duas" : 7
+},{ "Name" : "getThreshold" ,
+"Edges" : 4,
+"2" : [ 0, 3],
+"3" : [ 1, 2, 4, 5],
+"0" : [ 1, 2, 4, 5],
+"1" : [ 0, 3],
+"CoveredDUAsByEdges" : 6,
+"Duas" : 6
+}]
+}

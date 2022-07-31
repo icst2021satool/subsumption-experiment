@@ -1,0 +1,10 @@
+{
+"Class" : "weka.core.pmml.jaxbbindings.TextModelSimiliarity", 
+"Methods" : [{ "Name" : "getExtension" ,
+"Nodes" : 4,
+"0" : [ 85 ]
+"1" : [ 88 ]
+"2" : [ 86 ]
+"3" : [  ]
+}]
+}

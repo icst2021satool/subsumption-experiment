@@ -1,0 +1,24 @@
+{
+"Class" : "weka.core.stopwords.AbstractStopwords", 
+"Methods" : [{ "Name" : "getOptions" ,
+"Nodes" : 4,
+"0" : [ ],
+"2" : [ 0, 3],
+"1" : [ 2],
+"3" : [ 2],
+"CoveredDUAsByNodes" : 3,
+"Duas" : 4
+},{ "Name" : "isStopword" ,
+"Nodes" : 8,
+"0" : [ ],
+"4" : [ 0, 13],
+"6" : [ 0, 17, 6, 10, 13],
+"5" : [ 0, 8, 9, 13],
+"1" : [ 2, 11],
+"3" : [ 2, 3, 20, 5, 11, 12, 15],
+"2" : [ 2, 19, 11],
+"7" : [ 2, 19, 11],
+"CoveredDUAsByNodes" : 15,
+"Duas" : 21
+}]
+}

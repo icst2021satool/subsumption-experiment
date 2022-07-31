@@ -1,0 +1,16 @@
+{
+"Class" : "weka.gui.knowledgeflow.steps.AttributeSummarizerInteractiveView", 
+"Methods" : [{ "Name" : "init" ,
+"Edges" : 8,
+"7" : [ ],
+"3" : [ 2, 3, 9, 10],
+"4" : [ 0, 1, 6],
+"2" : [ 0, 1, 6],
+"5" : [ 2, 3, 4, 5, 7, 8, 9, 10, 11, 13],
+"6" : [ 2, 3, 9, 10],
+"0" : [ 2, 3, 4, 5, 7, 8, 9, 10, 11, 13],
+"1" : [ 2, 3, 9, 10],
+"CoveredDUAsByEdges" : 13,
+"Duas" : 16
+}]
+}

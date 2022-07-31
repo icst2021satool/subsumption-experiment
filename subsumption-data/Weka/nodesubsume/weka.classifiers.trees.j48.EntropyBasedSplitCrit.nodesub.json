@@ -1,0 +1,42 @@
+{
+"Class" : "weka.classifiers.trees.j48.EntropyBasedSplitCrit", 
+"Methods" : [{ "Name" : "lnFunc" ,
+"Nodes" : 4,
+"0" : [ ],
+"1" : [ 1, 2],
+"2" : [ 0],
+"3" : [ ],
+"CoveredDUAsByNodes" : 3,
+"Duas" : 3
+},{ "Name" : "oldEnt" ,
+"Nodes" : 5,
+"0" : [ ],
+"1" : [ ],
+"2" : [ 0, 3, 4, 6],
+"4" : [ 0, 3, 4, 6],
+"3" : [ 1, 2, 5, 8, 9, 11, 12],
+"CoveredDUAsByNodes" : 11,
+"Duas" : 19
+},{ "Name" : "newEnt" ,
+"Nodes" : 8,
+"0" : [ ],
+"1" : [ ],
+"2" : [ 3, 8],
+"7" : [ 3, 8],
+"3" : [ 2, 12],
+"4" : [ 2, 12],
+"5" : [ 0, 2, 5, 6, 12, 14, 15],
+"6" : [ 1, 17, 2, 19, 4, 20, 7, 12],
+"CoveredDUAsByNodes" : 15,
+"Duas" : 35
+},{ "Name" : "splitEnt" ,
+"Nodes" : 5,
+"0" : [ ],
+"1" : [ ],
+"2" : [ 0, 3, 4, 6],
+"4" : [ 0, 3, 4, 6],
+"3" : [ 1, 2, 5, 8, 9, 11, 12],
+"CoveredDUAsByNodes" : 11,
+"Duas" : 19
+}]
+}

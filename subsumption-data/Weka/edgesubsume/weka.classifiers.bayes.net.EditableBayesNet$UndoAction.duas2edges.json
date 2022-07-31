@@ -1,0 +1,14 @@
+{
+"Class" : "weka.classifiers.bayes.net.EditableBayesNet$UndoAction", 
+"Methods" : [{ "Name" : "getMsg" ,
+"Edges" : 8,
+"Duas" : 19,
+"2" : 3, 
+ "3" : 4, 
+ "7" : 3, 
+ "8" : 4, 
+ "12" : 1, 
+ "13" : 2, 
+ "14" : 3, 
+ "15" : 4}]
+}

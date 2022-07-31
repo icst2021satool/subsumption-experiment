@@ -1,0 +1,18 @@
+{
+"Class" : "weka.gui.knowledgeflow.steps.BoundaryPlotterInteractiveView$2", 
+"Methods" : [{ "Name" : "valueChanged" ,
+"Nodes" : 12,
+"0" : [ 107 ]
+"1" : [ 124 ]
+"2" : [ 108,109 ]
+"3" : [ 109 ]
+"4" : [ 110 ]
+"5" : [ 109 ]
+"6" : [ 112 ]
+"7" : [ 113,114,115 ]
+"8" : [ 119 ]
+"9" : [ 115 ]
+"10" : [ 116,117 ]
+"11" : [  ]
+}]
+}

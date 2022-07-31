@@ -1,0 +1,14 @@
+{
+"Class" : "weka.gui.beans.FilterCustomizer$2", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Edges" : 7,
+"Duas" : 14,
+"0" : 0, 
+ "1" : 1, 
+ "2" : 2, 
+ "3" : 3, 
+ "7" : 0, 
+ "8" : 1, 
+ "9" : 2, 
+ "10" : 3}]
+}

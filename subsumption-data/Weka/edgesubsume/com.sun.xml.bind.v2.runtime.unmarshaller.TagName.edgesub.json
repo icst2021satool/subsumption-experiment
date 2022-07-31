@@ -1,0 +1,34 @@
+{
+"Class" : "com.sun.xml.bind.v2.runtime.unmarshaller.TagName", 
+"Methods" : [{ "Name" : "matches" ,
+"Edges" : 7,
+"1" : [ 0, 4, 8],
+"2" : [ 1, 5, 9],
+"3" : [ 0, 2, 4, 6, 8, 10],
+"4" : [ 3, 7, 11],
+"5" : [ ],
+"0" : [ 0, 2, 4, 6, 8, 10],
+"6" : [ ],
+"CoveredDUAsByEdges" : 12,
+"Duas" : 12
+},{ "Name" : "matches" ,
+"Edges" : 7,
+"5" : [ 0, 4, 8, 10],
+"6" : [ 1, 5, 9, 11],
+"3" : [ 0, 2, 4, 6, 8, 10, 12, 14],
+"4" : [ 3, 7, 13, 15],
+"1" : [ ],
+"0" : [ 0, 2, 4, 6, 8, 10, 12, 14],
+"2" : [ ],
+"CoveredDUAsByEdges" : 16,
+"Duas" : 16
+},{ "Name" : "getPrefix" ,
+"Edges" : 4,
+"1" : [ 1],
+"2" : [ 0, 2, 3],
+"3" : [ 0, 2, 3],
+"0" : [ 1],
+"CoveredDUAsByEdges" : 4,
+"Duas" : 4
+}]
+}

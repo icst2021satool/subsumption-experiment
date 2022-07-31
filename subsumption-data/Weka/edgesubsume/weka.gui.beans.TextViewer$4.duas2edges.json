@@ -1,0 +1,8 @@
+{
+"Class" : "weka.gui.beans.TextViewer$4", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Edges" : 4,
+"Duas" : 4,
+"1" : 2, 
+ "2" : 3}]
+}

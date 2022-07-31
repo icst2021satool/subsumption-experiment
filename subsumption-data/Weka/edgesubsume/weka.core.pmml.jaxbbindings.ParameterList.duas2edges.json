@@ -1,0 +1,16 @@
+{
+"Class" : "weka.core.pmml.jaxbbindings.ParameterList", 
+"Methods" : [{ "Name" : "getExtension" ,
+"Edges" : 4,
+"Duas" : 8,
+"0" : 0, 
+ "1" : 1, 
+ "4" : 0, 
+ "5" : 1},{ "Name" : "getParameter" ,
+"Edges" : 4,
+"Duas" : 8,
+"0" : 2, 
+ "1" : 3, 
+ "4" : 2, 
+ "5" : 3}]
+}

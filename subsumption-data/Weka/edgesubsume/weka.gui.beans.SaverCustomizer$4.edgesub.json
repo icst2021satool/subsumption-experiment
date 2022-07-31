@@ -1,0 +1,13 @@
+{
+"Class" : "weka.gui.beans.SaverCustomizer$4", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Edges" : 5,
+"2" : [ 0, 3],
+"3" : [ 1, 4],
+"0" : [ 1, 2, 4, 5],
+"4" : [ 0, 2, 3, 5],
+"1" : [ 2, 5],
+"CoveredDUAsByEdges" : 6,
+"Duas" : 6
+}]
+}

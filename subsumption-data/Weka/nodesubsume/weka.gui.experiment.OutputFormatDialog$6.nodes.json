@@ -1,0 +1,13 @@
+{
+"Class" : "weka.gui.experiment.OutputFormatDialog$6", 
+"Methods" : [{ "Name" : "propertyChange" ,
+"Nodes" : 7,
+"0" : [ 286,287 ]
+"1" : [ 300,301 ]
+"2" : [ 290,291 ]
+"3" : [ 296 ]
+"4" : [ 298 ]
+"5" : [ 292,293,294 ]
+"6" : [  ]
+}]
+}

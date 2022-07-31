@@ -1,0 +1,13 @@
+{
+"Class" : "weka.gui.graphvisualizer.GraphNode", 
+"Methods" : [{ "Name" : "equals" ,
+"Nodes" : 5,
+"0" : [ ],
+"2" : [ 2],
+"1" : [ ],
+"3" : [ 0, 2, 4, 6],
+"4" : [ ],
+"CoveredDUAsByNodes" : 4,
+"Duas" : 8
+}]
+}

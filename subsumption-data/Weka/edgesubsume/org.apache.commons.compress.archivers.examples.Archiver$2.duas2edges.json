@@ -1,0 +1,10 @@
+{
+"Class" : "org.apache.commons.compress.archivers.examples.Archiver$2", 
+"Methods" : [{ "Name" : "accept" ,
+"Edges" : 9,
+"Duas" : 11,
+"3" : 6, 
+ "4" : 7, 
+ "7" : 4, 
+ "8" : 5}]
+}

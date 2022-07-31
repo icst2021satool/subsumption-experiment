@@ -1,0 +1,15 @@
+{
+"Class" : "weka.gui.beans.LoaderCustomizer$9", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Edges" : 7,
+"1" : [ 0, 6, 7, 13],
+"2" : [ 1, 8],
+"5" : [ 0, 6, 7, 13],
+"3" : [ 2, 5, 9, 12],
+"4" : [ 3, 4, 10, 11],
+"6" : [ 2, 4, 5, 9, 11, 12],
+"0" : [ 4, 11],
+"CoveredDUAsByEdges" : 14,
+"Duas" : 14
+}]
+}

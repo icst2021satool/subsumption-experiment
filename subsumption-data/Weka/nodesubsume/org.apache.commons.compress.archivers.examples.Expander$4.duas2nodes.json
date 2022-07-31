@@ -1,0 +1,10 @@
+{
+"Class" : "org.apache.commons.compress.archivers.examples.Expander$4", 
+"Methods" : [{ "Name" : "writeEntryDataTo" ,
+"Nodes" : 6,
+"Duas" : 4,
+"0" :  [ 0,2 ],
+"1" :  [ 0,1 ],
+"2" :  [ 0,3 ],
+"3" :  [ 0,4 ]}]
+}

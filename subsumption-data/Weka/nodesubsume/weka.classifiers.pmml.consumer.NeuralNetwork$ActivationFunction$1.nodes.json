@@ -1,0 +1,10 @@
+{
+"Class" : "weka.classifiers.pmml.consumer.NeuralNetwork$ActivationFunction$1", 
+"Methods" : [{ "Name" : "eval" ,
+"Nodes" : 4,
+"0" : [ 602 ]
+"1" : [ 605 ]
+"2" : [ 603 ]
+"3" : [  ]
+}]
+}

@@ -1,0 +1,18 @@
+{
+"Class" : "weka.gui.beans.AttributeSummarizerCustomizer", 
+"Methods" : [{ "Name" : "setup" ,
+"Edges" : 7,
+"Duas" : 53,
+"50" : 1, 
+ "51" : 2},{ "Name" : "setupRendererOptsTipText" ,
+"Edges" : 12,
+"Duas" : 13,
+"2" : 3, 
+ "3" : 4, 
+ "5" : 1, 
+ "6" : 2, 
+ "8" : 8, 
+ "9" : 9, 
+ "10" : 10, 
+ "11" : 11}]
+}

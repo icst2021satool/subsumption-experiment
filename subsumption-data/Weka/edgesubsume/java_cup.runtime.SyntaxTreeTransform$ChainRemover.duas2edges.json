@@ -1,0 +1,12 @@
+{
+"Class" : "java_cup.runtime.SyntaxTreeTransform$ChainRemover", 
+"Methods" : [{ "Name" : "defaultPost" ,
+"Edges" : 11,
+"Duas" : 18,
+"8" : 0, 
+ "9" : 1, 
+ "10" : 9, 
+ "11" : 10, 
+ "15" : 5, 
+ "16" : 6}]
+}

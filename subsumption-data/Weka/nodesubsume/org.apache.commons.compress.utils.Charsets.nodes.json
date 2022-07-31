@@ -1,0 +1,18 @@
+{
+"Class" : "org.apache.commons.compress.utils.Charsets", 
+"Methods" : [{ "Name" : "toCharset" ,
+"Nodes" : 5,
+"0" : [ 73 ]
+"1" : [ 73 ]
+"2" : [ 73 ]
+"3" : [ 73 ]
+"4" : [  ]
+},{ "Name" : "toCharset" ,
+"Nodes" : 5,
+"0" : [ 88 ]
+"1" : [ 88 ]
+"2" : [ 88 ]
+"3" : [ 88 ]
+"4" : [  ]
+}]
+}

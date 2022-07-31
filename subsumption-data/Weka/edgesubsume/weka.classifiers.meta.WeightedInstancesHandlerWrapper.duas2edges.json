@@ -1,0 +1,22 @@
+{
+"Class" : "weka.classifiers.meta.WeightedInstancesHandlerWrapper", 
+"Methods" : [{ "Name" : "getOptions" ,
+"Edges" : 4,
+"Duas" : 6,
+"0" : 0, 
+ "1" : 1},{ "Name" : "buildClassifier" ,
+"Edges" : 15,
+"Duas" : 21,
+"0" : 8, 
+ "1" : 9, 
+ "3" : 0, 
+ "4" : 1, 
+ "7" : 6, 
+ "8" : 7, 
+ "11" : 13, 
+ "12" : 14, 
+ "14" : 6, 
+ "15" : 7, 
+ "18" : 3, 
+ "19" : 4}]
+}

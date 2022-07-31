@@ -1,0 +1,12 @@
+{
+"Class" : "weka.gui.EnvironmentField$3", 
+"Methods" : [{ "Name" : "getSelectedItem" ,
+"Edges" : 6,
+"0" : [ 3,1 ],
+"1" : [ 0,2 ],
+"2" : [ 0,1 ],
+"3" : [ 1,4 ],
+"4" : [ 2,3 ],
+"5" : [ 2,1 ]
+}]
+}

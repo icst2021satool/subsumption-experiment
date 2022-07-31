@@ -1,0 +1,16 @@
+{
+"Class" : "weka.gui.SortedTableModel$1", 
+"Methods" : [{ "Name" : "mouseClicked" ,
+"Edges" : 14,
+"Duas" : 14,
+"1" : 10, 
+ "2" : 11, 
+ "3" : 0, 
+ "4" : 1, 
+ "5" : 3, 
+ "6" : 4, 
+ "9" : 12, 
+ "10" : 13, 
+ "12" : 8, 
+ "13" : 9}]
+}

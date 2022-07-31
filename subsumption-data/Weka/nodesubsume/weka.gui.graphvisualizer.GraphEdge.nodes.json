@@ -1,0 +1,13 @@
+{
+"Class" : "weka.gui.graphvisualizer.GraphEdge", 
+"Methods" : [{ "Name" : "equals" ,
+"Nodes" : 7,
+"0" : [ 58 ]
+"1" : [ 64 ]
+"2" : [ 58 ]
+"3" : [ 58 ]
+"4" : [ 58 ]
+"5" : [ 62 ]
+"6" : [  ]
+}]
+}

@@ -1,0 +1,14 @@
+{
+"Class" : "java_cup.runtime.ComplexSymbolFactory$Location", 
+"Methods" : [{ "Name" : "move" ,
+"Nodes" : 8,
+"0" : [ 95 ]
+"1" : [ 97 ]
+"2" : [ 99 ]
+"3" : [ 101 ]
+"4" : [ 100 ]
+"5" : [ 98 ]
+"6" : [ 96 ]
+"7" : [  ]
+}]
+}

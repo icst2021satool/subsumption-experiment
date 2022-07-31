@@ -1,0 +1,13 @@
+{
+"Class" : "weka.core.pmml.jaxbbindings.CATSCORINGMETHOD", 
+"Methods" : [{ "Name" : "fromValue" ,
+"Nodes" : 7,
+"0" : [ 48 ]
+"1" : [ 48 ]
+"2" : [ 53 ]
+"3" : [ 48,49 ]
+"4" : [ 48 ]
+"5" : [ 50 ]
+"6" : [  ]
+}]
+}

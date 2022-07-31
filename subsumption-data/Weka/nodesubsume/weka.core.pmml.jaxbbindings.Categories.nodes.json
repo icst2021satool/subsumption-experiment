@@ -1,0 +1,16 @@
+{
+"Class" : "weka.core.pmml.jaxbbindings.Categories", 
+"Methods" : [{ "Name" : "getExtension" ,
+"Nodes" : 4,
+"0" : [ 78 ]
+"1" : [ 81 ]
+"2" : [ 79 ]
+"3" : [  ]
+},{ "Name" : "getCategory" ,
+"Nodes" : 4,
+"0" : [ 107 ]
+"1" : [ 110 ]
+"2" : [ 108 ]
+"3" : [  ]
+}]
+}

@@ -1,0 +1,11 @@
+{
+"Class" : "weka.gui.graphvisualizer.GraphVisualizer$5", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Nodes" : 5,
+"0" : [ 384 ]
+"1" : [ 390,391,392,393,394 ]
+"2" : [ 396 ]
+"3" : [ 385,386,387,388 ]
+"4" : [  ]
+}]
+}

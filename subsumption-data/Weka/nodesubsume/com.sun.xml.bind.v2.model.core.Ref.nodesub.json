@@ -1,0 +1,23 @@
+{
+"Class" : "com.sun.xml.bind.v2.model.core.Ref", 
+"Methods" : [{ "Name" : "<init>" ,
+"Nodes" : 4,
+"0" : [ ],
+"2" : [ 3, 5, 7],
+"1" : [ 0, 1, 6],
+"3" : [ 0, 1, 6],
+"CoveredDUAsByNodes" : 6,
+"Duas" : 9
+},{ "Name" : "<init>" ,
+"Nodes" : 7,
+"0" : [ ],
+"5" : [ 3, 4, 6, 8],
+"1" : [ 0, 1],
+"2" : [ 0, 1, 10],
+"4" : [ 0, 1, 9],
+"3" : [ 0, 1, 2],
+"6" : [ 0, 1, 2],
+"CoveredDUAsByNodes" : 9,
+"Duas" : 14
+}]
+}

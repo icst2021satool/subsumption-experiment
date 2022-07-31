@@ -1,0 +1,13 @@
+{
+"Class" : "weka.gui.experiment.AlgorithmListPanel$1$4", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Nodes" : 7,
+"0" : [ 330 ]
+"1" : [ 337,335 ]
+"2" : [ 353 ]
+"3" : [ 337 ]
+"4" : [ 339,340,341,342,344,345,351 ]
+"5" : [ 331,333 ]
+"6" : [  ]
+}]
+}

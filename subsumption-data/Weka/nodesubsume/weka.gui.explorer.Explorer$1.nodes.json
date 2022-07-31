@@ -1,0 +1,11 @@
+{
+"Class" : "weka.gui.explorer.Explorer$1", 
+"Methods" : [{ "Name" : "propertyChange" ,
+"Nodes" : 5,
+"0" : [ 260 ]
+"1" : [ 260 ]
+"2" : [ 264 ]
+"3" : [ 260,261,262 ]
+"4" : [  ]
+}]
+}

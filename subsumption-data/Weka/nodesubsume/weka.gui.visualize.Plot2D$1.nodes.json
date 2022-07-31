@@ -1,0 +1,11 @@
+{
+"Class" : "weka.gui.visualize.Plot2D$1", 
+"Methods" : [{ "Name" : "windowClosing" ,
+"Nodes" : 5,
+"0" : [ 598 ]
+"1" : [ 599 ]
+"2" : [ 601,602 ]
+"3" : [ 598 ]
+"4" : [  ]
+}]
+}

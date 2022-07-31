@@ -1,0 +1,43 @@
+{
+"Class" : "weka.core.stopwords.MultiStopwords", 
+"Methods" : [{ "Name" : "listOptions" ,
+"Nodes" : 5,
+"0" : [ ],
+"1" : [ ],
+"2" : [ 0, 1, 2, 5],
+"4" : [ 0, 1, 2, 5],
+"3" : [ 3, 4, 6],
+"CoveredDUAsByNodes" : 7,
+"Duas" : 7
+},{ "Name" : "setOptions" ,
+"Nodes" : 6,
+"0" : [ ],
+"1" : [ 2],
+"4" : [ 2, 5, 6, 10],
+"2" : [ 2],
+"3" : [ 0, 1, 2, 3, 4],
+"5" : [ 0, 1, 2, 3, 4],
+"CoveredDUAsByNodes" : 8,
+"Duas" : 13
+},{ "Name" : "getOptions" ,
+"Nodes" : 5,
+"0" : [ ],
+"1" : [ ],
+"2" : [ 0],
+"4" : [ 0],
+"3" : [ 1, 2],
+"CoveredDUAsByNodes" : 3,
+"Duas" : 3
+},{ "Name" : "is" ,
+"Nodes" : 7,
+"0" : [ ],
+"1" : [ ],
+"3" : [ ],
+"4" : [ 1, 4],
+"5" : [ 0, 3],
+"2" : [ ],
+"6" : [ ],
+"CoveredDUAsByNodes" : 4,
+"Duas" : 6
+}]
+}

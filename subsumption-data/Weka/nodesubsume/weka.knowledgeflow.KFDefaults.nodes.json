@@ -1,0 +1,11 @@
+{
+"Class" : "weka.knowledgeflow.KFDefaults", 
+"Methods" : [{ "Name" : "<init>" ,
+"Nodes" : 5,
+"0" : [ 117,118 ]
+"1" : [ 118 ]
+"2" : [ 121 ]
+"3" : [ 118,119 ]
+"4" : [  ]
+}]
+}

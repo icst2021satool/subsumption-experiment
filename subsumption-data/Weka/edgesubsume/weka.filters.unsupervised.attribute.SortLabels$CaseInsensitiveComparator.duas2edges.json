@@ -1,0 +1,14 @@
+{
+"Class" : "weka.filters.unsupervised.attribute.SortLabels$CaseInsensitiveComparator", 
+"Methods" : [{ "Name" : "compare" ,
+"Edges" : 12,
+"Duas" : 10,
+"0" : 5, 
+ "1" : 6, 
+ "2" : 7, 
+ "3" : 8, 
+ "5" : 2, 
+ "6" : 3, 
+ "8" : 0, 
+ "9" : 1}]
+}

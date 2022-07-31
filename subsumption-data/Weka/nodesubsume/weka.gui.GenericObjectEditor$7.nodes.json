@@ -1,0 +1,10 @@
+{
+"Class" : "weka.gui.GenericObjectEditor$7", 
+"Methods" : [{ "Name" : "windowClosing" ,
+"Nodes" : 4,
+"0" : [ 2004,2005,2006,2007 ]
+"1" : [ 2010,2011,2012 ]
+"2" : [ 2008 ]
+"3" : [  ]
+}]
+}

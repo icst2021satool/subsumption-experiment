@@ -1,0 +1,14 @@
+{
+"Class" : "com.sun.xml.bind.v2.runtime.reflect.TransducedAccessor", 
+"Methods" : [{ "Name" : "get" ,
+"Edges" : 10,
+"Duas" : 18,
+"3" : 8, 
+ "4" : 9, 
+ "5" : 4, 
+ "6" : 5, 
+ "10" : 0, 
+ "11" : 1, 
+ "12" : 8, 
+ "13" : 9}]
+}

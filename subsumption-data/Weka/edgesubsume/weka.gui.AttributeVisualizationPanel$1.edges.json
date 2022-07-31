@@ -1,0 +1,7 @@
+{
+"Class" : "weka.gui.AttributeVisualizationPanel$1", 
+"Methods" : [{ "Name" : "componentResized" ,
+"Edges" : 1,
+"0" : [ 0,1 ]
+}]
+}

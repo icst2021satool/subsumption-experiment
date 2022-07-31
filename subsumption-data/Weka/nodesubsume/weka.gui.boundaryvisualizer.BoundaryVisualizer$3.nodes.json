@@ -1,0 +1,12 @@
+{
+"Class" : "weka.gui.boundaryvisualizer.BoundaryVisualizer$3", 
+"Methods" : [{ "Name" : "propertyChange" ,
+"Nodes" : 6,
+"0" : [ 470,472,473 ]
+"1" : [ 480,478 ]
+"2" : [ 473 ]
+"3" : [ 473,474 ]
+"4" : [ 475 ]
+"5" : [  ]
+}]
+}

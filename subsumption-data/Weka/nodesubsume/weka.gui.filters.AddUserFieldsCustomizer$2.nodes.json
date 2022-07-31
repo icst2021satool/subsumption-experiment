@@ -1,0 +1,10 @@
+{
+"Class" : "weka.gui.filters.AddUserFieldsCustomizer$2", 
+"Methods" : [{ "Name" : "propertyChange" ,
+"Nodes" : 4,
+"0" : [ 185,186 ]
+"1" : [ 190 ]
+"2" : [ 187,188 ]
+"3" : [  ]
+}]
+}

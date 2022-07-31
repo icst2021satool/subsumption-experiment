@@ -1,0 +1,10 @@
+{
+"Class" : "weka.gui.boundaryvisualizer.BoundaryVisualizer$11", 
+"Methods" : [{ "Name" : "itemStateChanged" ,
+"Nodes" : 4,
+"0" : [ 966 ]
+"1" : [ 981 ]
+"2" : [ 976,979,973,974 ]
+"3" : [  ]
+}]
+}

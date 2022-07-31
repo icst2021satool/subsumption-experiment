@@ -1,0 +1,10 @@
+{
+"Class" : "weka.core.pmml.jaxbbindings.Node", 
+"Methods" : [{ "Name" : "getContent" ,
+"Nodes" : 4,
+"0" : [ 129 ]
+"1" : [ 132 ]
+"2" : [ 130 ]
+"3" : [  ]
+}]
+}

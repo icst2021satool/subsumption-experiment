@@ -1,0 +1,11 @@
+{
+"Class" : "org.apache.commons.compress.archivers.sevenz.SevenZOutputFile$OutputStreamWrapper", 
+"Methods" : [{ "Name" : "write" ,
+"Nodes" : 5,
+"0" : [ 790 ]
+"1" : [ 793,794,795 ]
+"2" : [ 797,798,799 ]
+"3" : [ 791 ]
+"4" : [  ]
+}]
+}

@@ -1,0 +1,14 @@
+{
+"Class" : "weka.gui.PackageManager$6", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Edges" : 15,
+"Duas" : 24,
+"9" : 0, 
+ "10" : 1, 
+ "12" : 7, 
+ "13" : 8, 
+ "20" : 12, 
+ "21" : 13, 
+ "22" : 3, 
+ "23" : 4}]
+}

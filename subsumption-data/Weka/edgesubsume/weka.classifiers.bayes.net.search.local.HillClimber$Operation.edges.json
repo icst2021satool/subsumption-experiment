@@ -1,0 +1,18 @@
+{
+"Class" : "weka.classifiers.bayes.net.search.local.HillClimber$Operation", 
+"Methods" : [{ "Name" : "equals" ,
+"Edges" : 12,
+"0" : [ 2,3 ],
+"1" : [ 5,6 ],
+"2" : [ 5,2 ],
+"3" : [ 3,8 ],
+"4" : [ 7,8 ],
+"5" : [ 0,7 ],
+"6" : [ 0,1 ],
+"7" : [ 1,4 ],
+"8" : [ 1,2 ],
+"9" : [ 4,5 ],
+"10" : [ 4,2 ],
+"11" : [ 6,3 ]
+}]
+}

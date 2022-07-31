@@ -1,0 +1,11 @@
+{
+"Class" : "com.sun.xml.bind.v2.model.util.ArrayInfoUtil", 
+"Methods" : [{ "Name" : "calcArrayTypeName" ,
+"Nodes" : 5,
+"0" : [ 32 ]
+"1" : [ 36 ]
+"2" : [ 37 ]
+"3" : [ 33,34 ]
+"4" : [  ]
+}]
+}

@@ -1,0 +1,36 @@
+{
+"Class" : "com.sun.xml.bind.v2.runtime.output.FastInfosetStreamWriterOutput$TablesPerJAXBContext", 
+"Methods" : [{ "Name" : "clearOrResetTables" ,
+"Nodes" : 7,
+"0" : [ 117 ]
+"1" : [ 131,134 ]
+"2" : [ 138 ]
+"3" : [ 135 ]
+"4" : [ 118,121,123,126 ]
+"5" : [ 127 ]
+"6" : [  ]
+},{ "Name" : "clear" ,
+"Nodes" : 5,
+"0" : [ 148 ]
+"1" : [ 148 ]
+"2" : [ 151 ]
+"3" : [ 148,149 ]
+"4" : [  ]
+},{ "Name" : "incrementMaxIndexValue" ,
+"Nodes" : 4,
+"0" : [ 160,163 ]
+"1" : [ 166 ]
+"2" : [ 164 ]
+"3" : [  ]
+},{ "Name" : "reset" ,
+"Nodes" : 8,
+"0" : [ 176 ]
+"1" : [ 176 ]
+"2" : [ 183 ]
+"3" : [ 177 ]
+"4" : [ 180 ]
+"5" : [ 176 ]
+"6" : [ 178 ]
+"7" : [  ]
+}]
+}

@@ -1,0 +1,22 @@
+{
+"Class" : "weka.core.MinkowskiDistance", 
+"Methods" : [{ "Name" : "setOptions" ,
+"Edges" : 5,
+"Duas" : 7,
+"4" : 2, 
+ "5" : 3},{ "Name" : "setOrder" ,
+"Edges" : 5,
+"Duas" : 8,
+"0" : 1, 
+ "1" : 2, 
+ "5" : 1, 
+ "6" : 2},{ "Name" : "postProcessDistances" ,
+"Edges" : 5,
+"Duas" : 13,
+"1" : 2, 
+ "2" : 3, 
+ "5" : 2, 
+ "6" : 3, 
+ "9" : 2, 
+ "10" : 3}]
+}

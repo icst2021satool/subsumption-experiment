@@ -1,0 +1,14 @@
+{
+"Class" : "weka.classifiers.bayes.net.search.ci.ICSSearchAlgorithm$SeparationSet", 
+"Methods" : [{ "Name" : "contains" ,
+"Nodes" : 8,
+"0" : [ 130 ]
+"1" : [ 130 ]
+"2" : [ 135 ]
+"3" : [ 130 ]
+"4" : [ 131 ]
+"5" : [ 130 ]
+"6" : [ 132 ]
+"7" : [  ]
+}]
+}

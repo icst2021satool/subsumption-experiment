@@ -1,0 +1,12 @@
+{
+"Class" : "com.sun.istack.localization.NullLocalizable", 
+"Methods" : [{ "Name" : "<init>" ,
+"Edges" : 4,
+"0" : [ 1],
+"1" : [ 0, 2, 3],
+"2" : [ 0, 2, 3],
+"3" : [ 1],
+"CoveredDUAsByEdges" : 4,
+"Duas" : 4
+}]
+}

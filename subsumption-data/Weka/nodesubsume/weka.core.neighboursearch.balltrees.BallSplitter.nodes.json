@@ -1,0 +1,16 @@
+{
+"Class" : "weka.core.neighboursearch.balltrees.BallSplitter", 
+"Methods" : [{ "Name" : "correctlyInitialized" ,
+"Nodes" : 10,
+"0" : [ 86 ]
+"1" : [ 88 ]
+"2" : [ 90 ]
+"3" : [ 92 ]
+"4" : [ 96 ]
+"5" : [ 93 ]
+"6" : [ 91 ]
+"7" : [ 89 ]
+"8" : [ 87 ]
+"9" : [  ]
+}]
+}

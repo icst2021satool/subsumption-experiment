@@ -1,0 +1,13 @@
+{
+"Class" : "org.apache.commons.compress.utils.SkipShieldingInputStream", 
+"Methods" : [{ "Name" : "skip" ,
+"Nodes" : 5,
+"0" : [ ],
+"1" : [ 2],
+"3" : [ 1],
+"2" : [ 0, 3, 4],
+"4" : [ 0, 3, 4],
+"CoveredDUAsByNodes" : 5,
+"Duas" : 5
+}]
+}

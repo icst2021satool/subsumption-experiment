@@ -1,0 +1,13 @@
+{
+"Class" : "weka.core.pmml.jaxbbindings.TIMESERIESALGORITHM", 
+"Methods" : [{ "Name" : "fromValue" ,
+"Nodes" : 7,
+"0" : [ 53 ]
+"1" : [ 53 ]
+"2" : [ 58 ]
+"3" : [ 53,54 ]
+"4" : [ 53 ]
+"5" : [ 55 ]
+"6" : [  ]
+}]
+}

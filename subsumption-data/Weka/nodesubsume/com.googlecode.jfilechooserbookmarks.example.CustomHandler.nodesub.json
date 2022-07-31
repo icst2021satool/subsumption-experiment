@@ -1,0 +1,14 @@
+{
+"Class" : "com.googlecode.jfilechooserbookmarks.example.CustomHandler", 
+"Methods" : [{ "Name" : "main" ,
+"Nodes" : 6,
+"0" : [ ],
+"2" : [ 1, 2],
+"3" : [ 1, 2],
+"1" : [ ],
+"5" : [ ],
+"4" : [ 0, 1, 2],
+"CoveredDUAsByNodes" : 3,
+"Duas" : 4
+}]
+}

@@ -1,0 +1,22 @@
+{
+"Class" : "weka.core.pmml.jaxbbindings.PartitionFieldStats", 
+"Methods" : [{ "Name" : "getExtension" ,
+"Nodes" : 4,
+"0" : [ 100 ]
+"1" : [ 103 ]
+"2" : [ 101 ]
+"3" : [  ]
+},{ "Name" : "getNUMARRAY" ,
+"Nodes" : 4,
+"0" : [ 177 ]
+"1" : [ 180 ]
+"2" : [ 178 ]
+"3" : [  ]
+},{ "Name" : "getWeighted" ,
+"Nodes" : 4,
+"0" : [ 216 ]
+"1" : [ 219 ]
+"2" : [ 217 ]
+"3" : [  ]
+}]
+}

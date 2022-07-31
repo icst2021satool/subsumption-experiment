@@ -1,0 +1,12 @@
+{
+"Class" : "weka.core.pmml.jaxbbindings.OUTLIERTREATMENTMETHOD", 
+"Methods" : [{ "Name" : "fromValue" ,
+"Edges" : 8,
+"Duas" : 8,
+"1" : 3, 
+ "2" : 4, 
+ "3" : 3, 
+ "4" : 4, 
+ "6" : 3, 
+ "7" : 4}]
+}

@@ -1,0 +1,10 @@
+{
+"Class" : "weka.classifiers.bayes.net.GUI$ActionGenerateNetwork", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Edges" : 4,
+"Duas" : 35,
+"0" : 1, 
+ "1" : 2, 
+ "19" : 1, 
+ "20" : 2}]
+}

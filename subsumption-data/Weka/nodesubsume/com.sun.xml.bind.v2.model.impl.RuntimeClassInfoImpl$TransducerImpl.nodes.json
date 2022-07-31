@@ -1,0 +1,29 @@
+{
+"Class" : "com.sun.xml.bind.v2.model.impl.RuntimeClassInfoImpl$TransducerImpl", 
+"Methods" : [{ "Name" : "print" ,
+"Nodes" : 4,
+"0" : [ 345,346 ]
+"1" : [ 348 ]
+"2" : [ 347 ]
+"3" : [  ]
+},{ "Name" : "parse" ,
+"Nodes" : 5,
+"0" : [ 355,357 ]
+"1" : [ 362 ]
+"2" : [ 364,365 ]
+"3" : [ 358 ]
+"4" : [  ]
+},{ "Name" : "writeText" ,
+"Nodes" : 4,
+"0" : [ 369 ]
+"1" : [ 371,372 ]
+"2" : [ 370 ]
+"3" : [  ]
+},{ "Name" : "writeLeafElement" ,
+"Nodes" : 4,
+"0" : [ 375 ]
+"1" : [ 377,378 ]
+"2" : [ 376 ]
+"3" : [  ]
+}]
+}

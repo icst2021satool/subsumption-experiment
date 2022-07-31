@@ -1,0 +1,16 @@
+{
+"Class" : "com.sun.xml.bind.v2.runtime.reflect.Accessor$FieldReflection", 
+"Methods" : [{ "Name" : "<init>" ,
+"Edges" : 8,
+"Duas" : 7,
+"1" : 1, 
+ "2" : 2, 
+ "3" : 5, 
+ "4" : 6, 
+ "5" : 3, 
+ "6" : 4},{ "Name" : "set" ,
+"Edges" : 4,
+"Duas" : 9,
+"3" : 2, 
+ "4" : 3}]
+}

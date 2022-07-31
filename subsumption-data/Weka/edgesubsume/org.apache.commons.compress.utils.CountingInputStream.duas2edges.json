@@ -1,0 +1,16 @@
+{
+"Class" : "org.apache.commons.compress.utils.CountingInputStream", 
+"Methods" : [{ "Name" : "read" ,
+"Edges" : 4,
+"Duas" : 4,
+"1" : 1, 
+ "2" : 2},{ "Name" : "read" ,
+"Edges" : 4,
+"Duas" : 5,
+"1" : 2, 
+ "2" : 3},{ "Name" : "count" ,
+"Edges" : 4,
+"Duas" : 5,
+"1" : 0, 
+ "2" : 1}]
+}

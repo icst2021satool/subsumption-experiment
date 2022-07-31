@@ -1,0 +1,11 @@
+{
+"Class" : "weka.classifiers.pmml.consumer.SupportVectorMachineModel$RadialBasisKernel", 
+"Methods" : [{ "Name" : "<init>" ,
+"Nodes" : 5,
+"0" : [ 304,294,301,303 ]
+"1" : [ 317 ]
+"2" : [ 304 ]
+"3" : [ 306,315 ]
+"4" : [  ]
+}]
+}

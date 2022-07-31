@@ -1,0 +1,16 @@
+{
+"Class" : "weka.core.pmml.jaxbbindings.ClusteringModel", 
+"Methods" : [{ "Name" : "getContent" ,
+"Nodes" : 4,
+"0" : [ 145 ]
+"1" : [ 148 ]
+"2" : [ 146 ]
+"3" : [  ]
+},{ "Name" : "isIsScorable" ,
+"Nodes" : 4,
+"0" : [ 208 ]
+"1" : [ 211 ]
+"2" : [ 209 ]
+"3" : [  ]
+}]
+}

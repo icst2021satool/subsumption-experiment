@@ -1,0 +1,11 @@
+{
+"Class" : "weka.knowledgeflow.DefaultCallbackNotifierDelegate", 
+"Methods" : [{ "Name" : "notifyCallback" ,
+"Nodes" : 5,
+"0" : [ 47 ]
+"1" : [ 50 ]
+"2" : [ 52 ]
+"3" : [ 48 ]
+"4" : [  ]
+}]
+}

@@ -1,0 +1,14 @@
+{
+"Class" : "weka.gui.knowledgeflow.steps.ImageViewerInteractiveView$ImageDisplayer", 
+"Methods" : [{ "Name" : "paintComponent" ,
+"Nodes" : 8,
+"0" : [ 313,315 ]
+"1" : [ 337 ]
+"2" : [ 321,322,325,326,316,317,318,319 ]
+"3" : [ 329 ]
+"4" : [ 333,334,335 ]
+"5" : [ 330 ]
+"6" : [ 327 ]
+"7" : [  ]
+}]
+}

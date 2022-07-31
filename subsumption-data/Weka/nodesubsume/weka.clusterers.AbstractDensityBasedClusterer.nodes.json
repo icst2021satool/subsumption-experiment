@@ -1,0 +1,29 @@
+{
+"Class" : "weka.clusterers.AbstractDensityBasedClusterer", 
+"Methods" : [{ "Name" : "logDensityForInstance" ,
+"Nodes" : 5,
+"0" : [ 81,77,78,79 ]
+"1" : [ 81 ]
+"2" : [ 85 ]
+"3" : [ 81,82 ]
+"4" : [  ]
+},{ "Name" : "logJointDensitiesForInstance" ,
+"Nodes" : 7,
+"0" : [ 113,110,111 ]
+"1" : [ 113 ]
+"2" : [ 120 ]
+"3" : [ 114 ]
+"4" : [ 117 ]
+"5" : [ 113,115 ]
+"6" : [  ]
+},{ "Name" : "makeCopies" ,
+"Nodes" : 7,
+"0" : [ 136 ]
+"1" : [ 139,140,141 ]
+"2" : [ 141 ]
+"3" : [ 144 ]
+"4" : [ 141,142 ]
+"5" : [ 137 ]
+"6" : [  ]
+}]
+}

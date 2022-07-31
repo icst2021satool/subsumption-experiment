@@ -1,0 +1,8 @@
+{
+"Class" : "weka.core.json.Parser", 
+"Methods" : [{ "Name" : "main" ,
+"Edges" : 4,
+"Duas" : 5,
+"0" : 2, 
+ "1" : 3}]
+}

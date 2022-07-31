@@ -1,0 +1,15 @@
+{
+"Class" : "weka.gui.knowledgeflow.steps.SaverStepEditorDialog$1", 
+"Methods" : [{ "Name" : "propertyChange" ,
+"Nodes" : 7,
+"0" : [ ],
+"1" : [ 1, 9],
+"3" : [ 16, 1, 2, 18, 4, 9, 10, 12],
+"4" : [ 0, 8],
+"5" : [ 0, 19, 5, 21, 7, 8, 13, 15],
+"2" : [ ],
+"6" : [ ],
+"CoveredDUAsByNodes" : 16,
+"Duas" : 22
+}]
+}

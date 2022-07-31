@@ -1,0 +1,13 @@
+{
+"Class" : "weka.gui.CostBenefitAnalysisPanel$2", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Edges" : 5,
+"2" : [ 0, 5, 6, 11, 12, 15],
+"3" : [ 1, 2, 7, 8, 13, 14],
+"4" : [ 16, 1, 17, 2, 3, 4, 7, 8, 9, 10, 13, 14],
+"0" : [ 0, 16, 17, 3, 4, 5, 6, 9, 10, 11, 12, 15],
+"1" : [ 16, 17, 3, 4, 9, 10],
+"CoveredDUAsByEdges" : 18,
+"Duas" : 18
+}]
+}

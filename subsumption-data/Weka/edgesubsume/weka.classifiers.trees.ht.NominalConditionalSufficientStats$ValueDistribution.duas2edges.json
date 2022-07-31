@@ -1,0 +1,16 @@
+{
+"Class" : "weka.classifiers.trees.ht.NominalConditionalSufficientStats$ValueDistribution", 
+"Methods" : [{ "Name" : "add" ,
+"Edges" : 4,
+"Duas" : 16,
+"9" : 0, 
+ "10" : 1},{ "Name" : "delete" ,
+"Edges" : 4,
+"Duas" : 8,
+"4" : 1, 
+ "5" : 2},{ "Name" : "getWeight" ,
+"Edges" : 4,
+"Duas" : 4,
+"0" : 0, 
+ "1" : 1}]
+}

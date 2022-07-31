@@ -1,0 +1,16 @@
+{
+"Class" : "weka.gui.explorer.AssociationsPanel$3", 
+"Methods" : [{ "Name" : "propertyChange" ,
+"Nodes" : 8,
+"0" : [ ],
+"2" : [ 11],
+"3" : [ 5, 11],
+"4" : [ 5, 11, 13, 15],
+"5" : [ 16, 5, 7, 11, 13, 15],
+"6" : [ 16, 1, 18, 3, 4, 5, 7, 9, 11, 13, 15],
+"1" : [ 0, 2],
+"7" : [ 0, 2],
+"CoveredDUAsByNodes" : 13,
+"Duas" : 20
+}]
+}

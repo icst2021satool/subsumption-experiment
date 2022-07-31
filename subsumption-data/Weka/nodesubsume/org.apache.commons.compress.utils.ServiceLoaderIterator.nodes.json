@@ -1,0 +1,18 @@
+{
+"Class" : "org.apache.commons.compress.utils.ServiceLoaderIterator", 
+"Methods" : [{ "Name" : "getNextServiceLoader" ,
+"Nodes" : 6,
+"0" : [ 53 ]
+"1" : [ 68 ]
+"2" : [ 55 ]
+"3" : [ 66,58 ]
+"4" : [ 56 ]
+"5" : [  ]
+},{ "Name" : "next" ,
+"Nodes" : 4,
+"0" : [ 78 ]
+"1" : [ 81,82,83 ]
+"2" : [ 79 ]
+"3" : [  ]
+}]
+}

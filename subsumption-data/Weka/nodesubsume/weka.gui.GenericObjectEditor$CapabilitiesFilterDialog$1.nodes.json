@@ -1,0 +1,10 @@
+{
+"Class" : "weka.gui.GenericObjectEditor$CapabilitiesFilterDialog$1", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Nodes" : 4,
+"0" : [ 453,454 ]
+"1" : [ 457,458,459,460 ]
+"2" : [ 455 ]
+"3" : [  ]
+}]
+}

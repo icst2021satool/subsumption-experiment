@@ -1,0 +1,22 @@
+{
+"Class" : "weka.core.pmml.jaxbbindings.SigmoidKernelType", 
+"Methods" : [{ "Name" : "getExtension" ,
+"Nodes" : 4,
+"0" : [ 84 ]
+"1" : [ 87 ]
+"2" : [ 85 ]
+"3" : [  ]
+},{ "Name" : "getCoef0" ,
+"Nodes" : 4,
+"0" : [ 99 ]
+"1" : [ 102 ]
+"2" : [ 100 ]
+"3" : [  ]
+},{ "Name" : "getGamma" ,
+"Nodes" : 4,
+"0" : [ 151 ]
+"1" : [ 154 ]
+"2" : [ 152 ]
+"3" : [  ]
+}]
+}

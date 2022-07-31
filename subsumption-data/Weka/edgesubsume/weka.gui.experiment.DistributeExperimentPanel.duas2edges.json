@@ -1,0 +1,22 @@
+{
+"Class" : "weka.gui.experiment.DistributeExperimentPanel", 
+"Methods" : [{ "Name" : "setExperiment" ,
+"Edges" : 10,
+"Duas" : 31,
+"8" : 4, 
+ "9" : 5, 
+ "12" : 1, 
+ "13" : 2, 
+ "14" : 7, 
+ "15" : 8, 
+ "26" : 4, 
+ "27" : 5, 
+ "29" : 1, 
+ "30" : 2},{ "Name" : "updateRadioLinks" ,
+"Edges" : 4,
+"Duas" : 10,
+"0" : 0, 
+ "1" : 1, 
+ "4" : 0, 
+ "5" : 1}]
+}

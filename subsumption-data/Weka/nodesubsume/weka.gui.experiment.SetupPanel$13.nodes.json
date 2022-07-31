@@ -1,0 +1,10 @@
+{
+"Class" : "weka.gui.experiment.SetupPanel$13", 
+"Methods" : [{ "Name" : "windowClosing" ,
+"Nodes" : 4,
+"0" : [ 700,702 ]
+"1" : [ 715,716,717 ]
+"2" : [ 704,705,707,708,713 ]
+"3" : [  ]
+}]
+}

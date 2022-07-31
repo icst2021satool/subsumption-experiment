@@ -1,0 +1,15 @@
+{
+"Class" : "weka.gui.CheckBoxList$CheckBoxListRenderer", 
+"Methods" : [{ "Name" : "getListCellRendererComponent" ,
+"Edges" : 9,
+"0" : [ 0,6 ],
+"1" : [ 0,1 ],
+"2" : [ 5,4 ],
+"3" : [ 4,7 ],
+"4" : [ 2,5 ],
+"5" : [ 2,3 ],
+"6" : [ 6,2 ],
+"7" : [ 1,2 ],
+"8" : [ 3,4 ]
+}]
+}

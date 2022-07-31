@@ -1,0 +1,16 @@
+{
+"Class" : "weka.core.pmml.jaxbbindings.Segment", 
+"Methods" : [{ "Name" : "getExtension" ,
+"Nodes" : 4,
+"0" : [ 146 ]
+"1" : [ 149 ]
+"2" : [ 147 ]
+"3" : [  ]
+},{ "Name" : "getWeight" ,
+"Nodes" : 4,
+"0" : [ 689 ]
+"1" : [ 692 ]
+"2" : [ 690 ]
+"3" : [  ]
+}]
+}

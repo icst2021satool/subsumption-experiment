@@ -1,0 +1,16 @@
+{
+"Class" : "weka.core.pmml.jaxbbindings.CompoundRule", 
+"Methods" : [{ "Name" : "getExtension" ,
+"Nodes" : 4,
+"0" : [ 98 ]
+"1" : [ 101 ]
+"2" : [ 99 ]
+"3" : [  ]
+},{ "Name" : "getRule" ,
+"Nodes" : 4,
+"0" : [ 248 ]
+"1" : [ 251 ]
+"2" : [ 249 ]
+"3" : [  ]
+}]
+}

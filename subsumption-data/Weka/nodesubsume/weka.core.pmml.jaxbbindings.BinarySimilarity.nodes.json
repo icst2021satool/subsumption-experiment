@@ -1,0 +1,10 @@
+{
+"Class" : "weka.core.pmml.jaxbbindings.BinarySimilarity", 
+"Methods" : [{ "Name" : "getExtension" ,
+"Nodes" : 4,
+"0" : [ 99 ]
+"1" : [ 102 ]
+"2" : [ 100 ]
+"3" : [  ]
+}]
+}

@@ -1,0 +1,15 @@
+{
+"Class" : "weka.classifiers.trees.ht.NBNode", 
+"Methods" : [{ "Name" : "getDistribution" ,
+"Nodes" : 9,
+"0" : [ 91 ]
+"1" : [ 91 ]
+"2" : [ 91 ]
+"3" : [ 91,94 ]
+"4" : [ 98 ]
+"5" : [ 95 ]
+"6" : [ 91 ]
+"7" : [ 91 ]
+"8" : [  ]
+}]
+}

@@ -1,0 +1,13 @@
+{
+"Class" : "weka.gui.visualize.Plot2D$3", 
+"Methods" : [{ "Name" : "mouseClicked" ,
+"Edges" : 5,
+"0" : [ 1, 2, 5, 7],
+"1" : [ 0, 3, 4, 6],
+"3" : [ 0, 3, 4, 6],
+"2" : [ 1, 2, 5, 7],
+"4" : [ ],
+"CoveredDUAsByEdges" : 8,
+"Duas" : 8
+}]
+}

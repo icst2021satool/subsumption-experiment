@@ -1,0 +1,14 @@
+{
+"Class" : "weka.classifiers.pmml.consumer.SupportVectorMachineModel$SigmoidKernel", 
+"Methods" : [{ "Name" : "<init>" ,
+"Nodes" : 8,
+"0" : [ 370,372,379,381,382 ]
+"1" : [ 396,397 ]
+"2" : [ 410 ]
+"3" : [ 397 ]
+"4" : [ 408,399 ]
+"5" : [ 382 ]
+"6" : [ 384,393 ]
+"7" : [  ]
+}]
+}

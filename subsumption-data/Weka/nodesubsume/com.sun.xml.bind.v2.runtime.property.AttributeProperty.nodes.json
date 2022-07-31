@@ -1,0 +1,10 @@
+{
+"Class" : "com.sun.xml.bind.v2.runtime.property.AttributeProperty", 
+"Methods" : [{ "Name" : "serializeAttributes" ,
+"Nodes" : 4,
+"0" : [ 71,72 ]
+"1" : [ 74 ]
+"2" : [ 73 ]
+"3" : [  ]
+}]
+}

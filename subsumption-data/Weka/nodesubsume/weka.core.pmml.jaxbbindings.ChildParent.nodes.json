@@ -1,0 +1,16 @@
+{
+"Class" : "weka.core.pmml.jaxbbindings.ChildParent", 
+"Methods" : [{ "Name" : "getExtension" ,
+"Nodes" : 4,
+"0" : [ 104 ]
+"1" : [ 107 ]
+"2" : [ 105 ]
+"3" : [  ]
+},{ "Name" : "getIsRecursive" ,
+"Nodes" : 4,
+"0" : [ 191 ]
+"1" : [ 194 ]
+"2" : [ 192 ]
+"3" : [  ]
+}]
+}

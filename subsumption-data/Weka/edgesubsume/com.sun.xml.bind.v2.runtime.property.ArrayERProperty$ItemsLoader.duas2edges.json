@@ -1,0 +1,12 @@
+{
+"Class" : "com.sun.xml.bind.v2.runtime.property.ArrayERProperty$ItemsLoader", 
+"Methods" : [{ "Name" : "childElement" ,
+"Edges" : 7,
+"Duas" : 22,
+"8" : 5, 
+ "9" : 6, 
+ "10" : 3, 
+ "11" : 4, 
+ "16" : 3, 
+ "17" : 4}]
+}

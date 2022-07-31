@@ -1,0 +1,12 @@
+{
+"Class" : "weka.core.pmml.jaxbbindings.DATATYPE", 
+"Methods" : [{ "Name" : "fromValue" ,
+"Edges" : 8,
+"Duas" : 8,
+"1" : 6, 
+ "2" : 7, 
+ "3" : 6, 
+ "4" : 7, 
+ "6" : 6, 
+ "7" : 7}]
+}

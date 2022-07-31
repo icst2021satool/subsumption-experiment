@@ -1,0 +1,11 @@
+{
+"Class" : "org.apache.commons.compress.compressors.deflate.DeflateParameters", 
+"Methods" : [{ "Name" : "setCompressionLevel" ,
+"Nodes" : 5,
+"0" : [ 73 ]
+"1" : [ 74 ]
+"2" : [ 73 ]
+"3" : [ 76,77 ]
+"4" : [  ]
+}]
+}

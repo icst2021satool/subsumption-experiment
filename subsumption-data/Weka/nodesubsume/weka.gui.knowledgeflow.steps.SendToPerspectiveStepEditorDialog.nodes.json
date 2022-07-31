@@ -1,0 +1,11 @@
+{
+"Class" : "weka.gui.knowledgeflow.steps.SendToPerspectiveStepEditorDialog", 
+"Methods" : [{ "Name" : "setStepToEdit" ,
+"Nodes" : 5,
+"0" : [ 56,59,60,62 ]
+"1" : [ 62 ]
+"2" : [ 80,68,70,71,73,74,75,76,78,79 ]
+"3" : [ 64,62,63 ]
+"4" : [  ]
+}]
+}

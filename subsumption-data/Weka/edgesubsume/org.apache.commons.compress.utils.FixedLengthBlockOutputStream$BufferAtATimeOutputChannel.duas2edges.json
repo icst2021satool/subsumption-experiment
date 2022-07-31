@@ -1,0 +1,22 @@
+{
+"Class" : "org.apache.commons.compress.utils.FixedLengthBlockOutputStream$BufferAtATimeOutputChannel", 
+"Methods" : [{ "Name" : "write" ,
+"Edges" : 7,
+"Duas" : 10,
+"0" : 2, 
+ "1" : 3, 
+ "3" : 0, 
+ "4" : 1},{ "Name" : "isOpen" ,
+"Edges" : 5,
+"Duas" : 4,
+"0" : 1, 
+ "1" : 2, 
+ "2" : 1, 
+ "3" : 2},{ "Name" : "close" ,
+"Edges" : 4,
+"Duas" : 6,
+"0" : 2, 
+ "1" : 3, 
+ "3" : 2, 
+ "4" : 3}]
+}

@@ -1,0 +1,7 @@
+{
+"Class" : "org.bounce.net.DefaultAuthenticator", 
+"Methods" : [{ "Name" : "getDialog" ,
+"Edges" : 4,
+"Duas" : 10,
+}]
+}

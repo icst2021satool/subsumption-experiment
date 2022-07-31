@@ -1,0 +1,14 @@
+{
+"Class" : "weka.core.pmml.FieldMetaInfo", 
+"Methods" : [{ "Name" : "<init>" ,
+"Edges" : 12,
+"Duas" : 10,
+"1" : 7, 
+ "2" : 8, 
+ "3" : 10, 
+ "4" : 11, 
+ "5" : 0, 
+ "6" : 1, 
+ "7" : 0, 
+ "8" : 1}]
+}

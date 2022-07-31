@@ -1,0 +1,22 @@
+{
+"Class" : "org.apache.commons.compress.utils.Charsets", 
+"Methods" : [{ "Name" : "toCharset" ,
+"Nodes" : 5,
+"0" : [ ],
+"1" : [ 1],
+"3" : [ 0],
+"2" : [ 2],
+"4" : [ 2],
+"CoveredDUAsByNodes" : 3,
+"Duas" : 3
+},{ "Name" : "toCharset" ,
+"Nodes" : 5,
+"0" : [ ],
+"1" : [ 1],
+"3" : [ 0],
+"2" : [ 2],
+"4" : [ 2],
+"CoveredDUAsByNodes" : 3,
+"Duas" : 3
+}]
+}

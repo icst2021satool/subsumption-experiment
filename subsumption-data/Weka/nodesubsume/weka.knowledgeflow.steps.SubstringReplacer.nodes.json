@@ -1,0 +1,37 @@
+{
+"Class" : "weka.knowledgeflow.steps.SubstringReplacer", 
+"Methods" : [{ "Name" : "getIncomingConnectionTypes" ,
+"Nodes" : 4,
+"0" : [ 116 ]
+"1" : [ 120 ]
+"2" : [ 117 ]
+"3" : [  ]
+},{ "Name" : "getOutgoingConnectionTypes" ,
+"Nodes" : 4,
+"0" : [ 134 ]
+"1" : [ 137 ]
+"2" : [ 135 ]
+"3" : [  ]
+},{ "Name" : "processIncoming" ,
+"Nodes" : 9,
+"0" : [ 148,149 ]
+"1" : [ 159 ]
+"2" : [ 163 ]
+"3" : [ 170 ]
+"4" : [ 173 ]
+"5" : [ 164,165,166,167,168,169 ]
+"6" : [ 160,161 ]
+"7" : [ 150,151,152,154,155,156 ]
+"8" : [  ]
+},{ "Name" : "outputStructureForConnectionType" ,
+"Nodes" : 8,
+"0" : [ 189 ]
+"1" : [ 201 ]
+"2" : [ 190,191 ]
+"3" : [ 190 ]
+"4" : [ 192,190 ]
+"5" : [ 198 ]
+"6" : [ 193,194,195 ]
+"7" : [  ]
+}]
+}

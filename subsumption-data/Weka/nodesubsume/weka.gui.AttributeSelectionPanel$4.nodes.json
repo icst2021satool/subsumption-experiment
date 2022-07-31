@@ -1,0 +1,10 @@
+{
+"Class" : "weka.gui.AttributeSelectionPanel$4", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Nodes" : 4,
+"0" : [ 369,371 ]
+"1" : [ 382 ]
+"2" : [ 373,374,375,380 ]
+"3" : [  ]
+}]
+}

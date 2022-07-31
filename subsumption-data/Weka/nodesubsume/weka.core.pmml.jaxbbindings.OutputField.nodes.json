@@ -1,0 +1,46 @@
+{
+"Class" : "weka.core.pmml.jaxbbindings.OutputField", 
+"Methods" : [{ "Name" : "getExtension" ,
+"Nodes" : 4,
+"0" : [ 174 ]
+"1" : [ 177 ]
+"2" : [ 175 ]
+"3" : [  ]
+},{ "Name" : "getAlgorithm" ,
+"Nodes" : 4,
+"0" : [ 405 ]
+"1" : [ 408 ]
+"2" : [ 406 ]
+"3" : [  ]
+},{ "Name" : "getIsMultiValued" ,
+"Nodes" : 4,
+"0" : [ 505 ]
+"1" : [ 508 ]
+"2" : [ 506 ]
+"3" : [  ]
+},{ "Name" : "getRank" ,
+"Nodes" : 4,
+"0" : [ 581 ]
+"1" : [ 584 ]
+"2" : [ 582 ]
+"3" : [  ]
+},{ "Name" : "getRankBasis" ,
+"Nodes" : 4,
+"0" : [ 609 ]
+"1" : [ 612 ]
+"2" : [ 610 ]
+"3" : [  ]
+},{ "Name" : "getRankOrder" ,
+"Nodes" : 4,
+"0" : [ 637 ]
+"1" : [ 640 ]
+"2" : [ 638 ]
+"3" : [  ]
+},{ "Name" : "getRuleFeature" ,
+"Nodes" : 4,
+"0" : [ 665 ]
+"1" : [ 668 ]
+"2" : [ 666 ]
+"3" : [  ]
+}]
+}

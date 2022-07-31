@@ -1,0 +1,11 @@
+{
+"Class" : "weka.core.expressionlanguage.common.Operators$GreaterThan", 
+"Methods" : [{ "Name" : "evaluate" ,
+"Nodes" : 5,
+"0" : [ 385 ]
+"1" : [ 385 ]
+"2" : [ 385 ]
+"3" : [ 385 ]
+"4" : [  ]
+}]
+}

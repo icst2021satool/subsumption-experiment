@@ -1,0 +1,16 @@
+{
+"Class" : "weka.core.pmml.jaxbbindings.ComparisonMeasure", 
+"Methods" : [{ "Name" : "getExtension" ,
+"Edges" : 4,
+"Duas" : 8,
+"0" : 1, 
+ "1" : 2, 
+ "4" : 1, 
+ "5" : 2},{ "Name" : "getCompareFunction" ,
+"Edges" : 4,
+"Duas" : 7,
+"0" : 0, 
+ "1" : 1, 
+ "3" : 0, 
+ "4" : 1}]
+}

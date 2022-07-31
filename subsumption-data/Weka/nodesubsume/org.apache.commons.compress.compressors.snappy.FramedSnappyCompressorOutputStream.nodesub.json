@@ -1,0 +1,32 @@
+{
+"Class" : "org.apache.commons.compress.compressors.snappy.FramedSnappyCompressorOutputStream", 
+"Methods" : [{ "Name" : "write" ,
+"Nodes" : 6,
+"0" : [ ],
+"2" : [ 0, 4, 20, 13],
+"3" : [ 0, 4, 20, 13],
+"1" : [ 2, 3, 8, 24],
+"5" : [ 2, 3, 8, 24],
+"4" : [ 0, 4, 5, 6, 7, 9, 11, 12, 13, 17, 19, 20, 25],
+"CoveredDUAsByNodes" : 17,
+"Duas" : 36
+},{ "Name" : "finish" ,
+"Nodes" : 4,
+"0" : [ ],
+"2" : [ 0, 2, 3],
+"1" : [ ],
+"3" : [ ],
+"CoveredDUAsByNodes" : 3,
+"Duas" : 5
+},{ "Name" : "flushBuffer" ,
+"Nodes" : 6,
+"0" : [ ],
+"2" : [ 6],
+"3" : [ 6, 8],
+"4" : [ 6, 9],
+"1" : [ 0, 1, 2, 3, 4, 5],
+"5" : [ 0, 1, 2, 3, 4, 5],
+"CoveredDUAsByNodes" : 9,
+"Duas" : 10
+}]
+}

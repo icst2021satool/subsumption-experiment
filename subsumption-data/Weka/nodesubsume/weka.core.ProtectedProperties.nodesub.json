@@ -1,0 +1,29 @@
+{
+"Class" : "weka.core.ProtectedProperties", 
+"Methods" : [{ "Name" : "<init>" ,
+"Nodes" : 5,
+"0" : [ ],
+"1" : [ ],
+"2" : [ 0, 4],
+"4" : [ 0, 4],
+"3" : [ 1, 2, 3, 5],
+"CoveredDUAsByNodes" : 6,
+"Duas" : 6
+},{ "Name" : "setProperty" ,
+"Nodes" : 4,
+"0" : [ ],
+"1" : [ 1, 2, 3, 4, 6],
+"2" : [ 0, 5],
+"3" : [ ],
+"CoveredDUAsByNodes" : 7,
+"Duas" : 7
+},{ "Name" : "put" ,
+"Nodes" : 4,
+"0" : [ ],
+"1" : [ 1, 2, 3, 4, 6],
+"2" : [ 0, 5],
+"3" : [ ],
+"CoveredDUAsByNodes" : 7,
+"Duas" : 7
+}]
+}

@@ -1,0 +1,12 @@
+{
+"Class" : "weka.gui.SetInstancesPanel$4", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Nodes" : 6,
+"0" : [ 185 ]
+"1" : [ 195 ]
+"2" : [ 185 ]
+"3" : [ 186 ]
+"4" : [ 192,187 ]
+"5" : [  ]
+}]
+}

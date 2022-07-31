@@ -1,0 +1,14 @@
+{
+"Class" : "com.googlecode.jfilechooserbookmarks.AbstractBookmarksPanel$1", 
+"Methods" : [{ "Name" : "propertyChange" ,
+"Edges" : 6,
+"3" : [ 3],
+"4" : [ 4],
+"0" : [ 0, 2, 3, 5, 7, 8, 10],
+"1" : [ 1, 6, 9],
+"2" : [ 0, 2, 3, 5, 7, 8, 10],
+"5" : [ ],
+"CoveredDUAsByEdges" : 11,
+"Duas" : 11
+}]
+}

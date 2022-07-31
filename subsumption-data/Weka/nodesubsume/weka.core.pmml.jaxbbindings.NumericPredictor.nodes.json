@@ -1,0 +1,16 @@
+{
+"Class" : "weka.core.pmml.jaxbbindings.NumericPredictor", 
+"Methods" : [{ "Name" : "getExtension" ,
+"Nodes" : 4,
+"0" : [ 93 ]
+"1" : [ 96 ]
+"2" : [ 94 ]
+"3" : [  ]
+},{ "Name" : "getExponent" ,
+"Nodes" : 4,
+"0" : [ 124 ]
+"1" : [ 127 ]
+"2" : [ 125 ]
+"3" : [  ]
+}]
+}

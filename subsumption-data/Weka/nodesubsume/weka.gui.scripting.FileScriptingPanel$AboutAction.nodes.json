@@ -1,0 +1,11 @@
+{
+"Class" : "weka.gui.scripting.FileScriptingPanel$AboutAction", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Nodes" : 5,
+"0" : [ 662 ]
+"1" : [ 665 ]
+"2" : [ 672,666,667,668,669,670,671 ]
+"3" : [ 663 ]
+"4" : [  ]
+}]
+}

@@ -1,0 +1,13 @@
+{
+"Class" : "weka.classifiers.trees.ht.UnivariateNominalMultiwaySplit", 
+"Methods" : [{ "Name" : "branchForInstance" ,
+"Nodes" : 5,
+"0" : [ ],
+"2" : [ 3],
+"3" : [ 1, 2, 3, 6, 7],
+"1" : [ ],
+"4" : [ ],
+"CoveredDUAsByNodes" : 5,
+"Duas" : 8
+}]
+}

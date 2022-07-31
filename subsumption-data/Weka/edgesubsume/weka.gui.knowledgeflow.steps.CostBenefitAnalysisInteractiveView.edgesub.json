@@ -1,0 +1,16 @@
+{
+"Class" : "weka.gui.knowledgeflow.steps.CostBenefitAnalysisInteractiveView", 
+"Methods" : [{ "Name" : "init" ,
+"Edges" : 8,
+"3" : [ ],
+"4" : [ 2, 3, 9, 10],
+"5" : [ 0, 1, 6],
+"6" : [ 0, 1, 6],
+"1" : [ 2, 3, 4, 5, 7, 8, 9, 10, 11, 13, 14],
+"2" : [ 2, 3, 9, 10],
+"7" : [ 2, 3, 4, 5, 7, 8, 9, 10, 11, 13, 14],
+"0" : [ 2, 3, 9, 10],
+"CoveredDUAsByEdges" : 14,
+"Duas" : 17
+}]
+}

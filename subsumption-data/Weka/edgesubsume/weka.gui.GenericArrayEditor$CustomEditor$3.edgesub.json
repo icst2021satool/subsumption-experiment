@@ -1,0 +1,16 @@
+{
+"Class" : "weka.gui.GenericArrayEditor$CustomEditor$3", 
+"Methods" : [{ "Name" : "mouseClicked" ,
+"Edges" : 8,
+"0" : [ 0, 5, 10],
+"1" : [ 1, 6, 11],
+"3" : [ 0, 2, 5, 7, 9, 10, 12],
+"4" : [ 8],
+"5" : [ 0, 2, 3, 4, 5, 7, 9, 10, 12, 13, 14, 15],
+"6" : [ 16],
+"2" : [ 0, 2, 3, 4, 5, 7, 9, 10, 12, 13, 14, 15],
+"7" : [ ],
+"CoveredDUAsByEdges" : 17,
+"Duas" : 17
+}]
+}

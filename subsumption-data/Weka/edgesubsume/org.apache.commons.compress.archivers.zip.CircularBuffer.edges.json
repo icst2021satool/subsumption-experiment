@@ -1,0 +1,24 @@
+{
+"Class" : "org.apache.commons.compress.archivers.zip.CircularBuffer", 
+"Methods" : [{ "Name" : "available" ,
+"Edges" : 5,
+"0" : [ 3,2 ],
+"1" : [ 0,3 ],
+"2" : [ 0,1 ],
+"3" : [ 1,2 ],
+"4" : [ 2,4 ]
+},{ "Name" : "get" ,
+"Edges" : 4,
+"0" : [ 2,3 ],
+"1" : [ 0,2 ],
+"2" : [ 0,1 ],
+"3" : [ 1,3 ]
+},{ "Name" : "copy" ,
+"Edges" : 5,
+"0" : [ 1,3 ],
+"1" : [ 1,2 ],
+"2" : [ 0,1 ],
+"3" : [ 3,1 ],
+"4" : [ 2,4 ]
+}]
+}

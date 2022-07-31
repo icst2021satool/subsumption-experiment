@@ -1,0 +1,16 @@
+{
+"Class" : "weka.core.pmml.jaxbbindings.Anova", 
+"Methods" : [{ "Name" : "getExtension" ,
+"Nodes" : 4,
+"0" : [ 82 ]
+"1" : [ 85 ]
+"2" : [ 83 ]
+"3" : [  ]
+},{ "Name" : "getAnovaRow" ,
+"Nodes" : 4,
+"0" : [ 111 ]
+"1" : [ 114 ]
+"2" : [ 112 ]
+"3" : [  ]
+}]
+}

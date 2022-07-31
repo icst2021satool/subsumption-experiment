@@ -1,0 +1,16 @@
+{
+"Class" : "weka.core.pmml.jaxbbindings.TextModel", 
+"Methods" : [{ "Name" : "getContent" ,
+"Nodes" : 4,
+"0" : [ 144 ]
+"1" : [ 147 ]
+"2" : [ 145 ]
+"3" : [  ]
+},{ "Name" : "isIsScorable" ,
+"Nodes" : 4,
+"0" : [ 207 ]
+"1" : [ 210 ]
+"2" : [ 208 ]
+"3" : [  ]
+}]
+}

@@ -1,0 +1,18 @@
+{
+"Class" : "weka.gui.explorer.ClassifierPanel$12", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Edges" : 7,
+"Duas" : 41,
+"0" : 0, 
+ "1" : 1, 
+ "12" : 2, 
+ "13" : 3, 
+ "14" : 0, 
+ "15" : 1, 
+ "23" : 2, 
+ "24" : 3, 
+ "28" : 0, 
+ "29" : 1, 
+ "31" : 2, 
+ "32" : 3}]
+}

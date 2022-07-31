@@ -1,0 +1,12 @@
+{
+"Class" : "weka.core.packageManagement.Package", 
+"Methods" : [{ "Name" : "getPackageMetaDataElement" ,
+"Edges" : 4,
+"2" : [ 0, 4],
+"3" : [ 1, 2, 3, 5, 6],
+"1" : [ 1, 2, 3, 5, 6],
+"0" : [ 0, 4],
+"CoveredDUAsByEdges" : 7,
+"Duas" : 7
+}]
+}

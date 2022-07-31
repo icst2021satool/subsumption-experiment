@@ -1,0 +1,18 @@
+{
+"Class" : "weka.core.logging.OutputLogger$OutputPrintStream", 
+"Methods" : [{ "Name" : "write" ,
+"Nodes" : 5,
+"0" : [ 171,172 ]
+"1" : [ 172 ]
+"2" : [ 174,175 ]
+"3" : [ 172,173 ]
+"4" : [  ]
+},{ "Name" : "write" ,
+"Nodes" : 5,
+"0" : [ 186,187 ]
+"1" : [ 187 ]
+"2" : [ 189,190 ]
+"3" : [ 187,188 ]
+"4" : [  ]
+}]
+}

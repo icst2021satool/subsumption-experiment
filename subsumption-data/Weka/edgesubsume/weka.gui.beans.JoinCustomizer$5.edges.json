@@ -1,0 +1,13 @@
+{
+"Class" : "weka.gui.beans.JoinCustomizer$5", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Edges" : 7,
+"0" : [ 4,1 ],
+"1" : [ 2,5 ],
+"2" : [ 1,3 ],
+"3" : [ 1,2 ],
+"4" : [ 0,4 ],
+"5" : [ 0,1 ],
+"6" : [ 3,2 ]
+}]
+}

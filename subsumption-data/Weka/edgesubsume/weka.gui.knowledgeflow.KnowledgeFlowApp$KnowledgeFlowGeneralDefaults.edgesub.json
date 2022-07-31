@@ -1,0 +1,18 @@
+{
+"Class" : "weka.gui.knowledgeflow.KnowledgeFlowApp$KnowledgeFlowGeneralDefaults", 
+"Methods" : [{ "Name" : "<init>" ,
+"Edges" : 10,
+"0" : [ 4, 6],
+"1" : [ 0, 1, 2, 3, 5, 7],
+"3" : [ 4, 6],
+"6" : [ 4, 6],
+"7" : [ 0, 1, 2, 3, 7],
+"9" : [ 0, 1, 2, 3, 7],
+"4" : [ 4, 6, 8, 9, 11],
+"5" : [ 4, 6, 10],
+"2" : [ 4, 6, 8, 9, 11],
+"8" : [ 4, 6],
+"CoveredDUAsByEdges" : 12,
+"Duas" : 12
+}]
+}

@@ -1,0 +1,11 @@
+{
+"Class" : "weka.gui.knowledgeflow.SQLViewerPerspective$2", 
+"Methods" : [{ "Name" : "connectionChange" ,
+"Nodes" : 5,
+"0" : [ 94 ]
+"1" : [ 97 ]
+"2" : [ 99 ]
+"3" : [ 95 ]
+"4" : [  ]
+}]
+}

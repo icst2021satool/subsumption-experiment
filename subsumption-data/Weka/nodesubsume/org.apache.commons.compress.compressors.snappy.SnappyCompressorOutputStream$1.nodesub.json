@@ -1,0 +1,13 @@
+{
+"Class" : "org.apache.commons.compress.compressors.snappy.SnappyCompressorOutputStream$1", 
+"Methods" : [{ "Name" : "accept" ,
+"Nodes" : 5,
+"0" : [ ],
+"1" : [ 0, 4, 5, 9, 10],
+"2" : [ 1, 3, 6, 8, 11],
+"3" : [ ],
+"4" : [ ],
+"CoveredDUAsByNodes" : 10,
+"Duas" : 12
+}]
+}

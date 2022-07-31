@@ -1,0 +1,13 @@
+{
+"Class" : "weka.gui.simplecli.History", 
+"Methods" : [{ "Name" : "doExecute" ,
+"Nodes" : 5,
+"0" : [ ],
+"1" : [ ],
+"2" : [ 1, 3, 6],
+"4" : [ 1, 3, 6],
+"3" : [ 0, 2, 4, 5, 7, 8, 10, 11],
+"CoveredDUAsByNodes" : 11,
+"Duas" : 16
+}]
+}

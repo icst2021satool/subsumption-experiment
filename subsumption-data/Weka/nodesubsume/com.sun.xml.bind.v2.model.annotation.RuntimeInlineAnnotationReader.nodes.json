@@ -1,0 +1,37 @@
+{
+"Class" : "com.sun.xml.bind.v2.model.annotation.RuntimeInlineAnnotationReader", 
+"Methods" : [{ "Name" : "getAllFieldAnnotations" ,
+"Nodes" : 5,
+"0" : [ 43,44 ]
+"1" : [ 44 ]
+"2" : [ 47 ]
+"3" : [ 44,45 ]
+"4" : [  ]
+},{ "Name" : "getAllMethodAnnotations" ,
+"Nodes" : 5,
+"0" : [ 59,60 ]
+"1" : [ 60 ]
+"2" : [ 63 ]
+"3" : [ 60,61 ]
+"4" : [  ]
+},{ "Name" : "getMethodParameterAnnotation" ,
+"Nodes" : 7,
+"0" : [ 67,68 ]
+"1" : [ 68 ]
+"2" : [ 72 ]
+"3" : [ 68,69 ]
+"4" : [ 68 ]
+"5" : [ 70 ]
+"6" : [  ]
+},{ "Name" : "getPackageAnnotation" ,
+"Nodes" : 8,
+"0" : [ 87,88 ]
+"1" : [ 90,91 ]
+"2" : [ 96 ]
+"3" : [ 99,100,101 ]
+"4" : [ 97 ]
+"5" : [ 92,93 ]
+"6" : [ 88 ]
+"7" : [  ]
+}]
+}

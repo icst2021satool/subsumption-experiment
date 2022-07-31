@@ -1,0 +1,14 @@
+{
+"Class" : "org.apache.commons.compress.changes.ChangeSetResults", 
+"Methods" : [{ "Name" : "hasBeenAdded" ,
+"Nodes" : 6,
+"0" : [ ],
+"3" : [ 0, 4, 8],
+"4" : [ 0, 3, 4, 7, 8, 11],
+"1" : [ ],
+"2" : [ ],
+"5" : [ ],
+"CoveredDUAsByNodes" : 6,
+"Duas" : 12
+}]
+}

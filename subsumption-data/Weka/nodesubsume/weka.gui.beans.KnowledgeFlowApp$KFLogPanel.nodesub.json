@@ -1,0 +1,16 @@
+{
+"Class" : "weka.gui.beans.KnowledgeFlowApp$KFLogPanel", 
+"Methods" : [{ "Name" : "setMessageOnAll" ,
+"Nodes" : 8,
+"0" : [ ],
+"1" : [ ],
+"2" : [ ],
+"7" : [ ],
+"3" : [ ],
+"5" : [ 1],
+"4" : [ 0, 3, 4],
+"6" : [ 1, 5],
+"CoveredDUAsByNodes" : 5,
+"Duas" : 7
+}]
+}

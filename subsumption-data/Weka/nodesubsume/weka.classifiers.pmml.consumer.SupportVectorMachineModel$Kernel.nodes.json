@@ -1,0 +1,16 @@
+{
+"Class" : "weka.classifiers.pmml.consumer.SupportVectorMachineModel$Kernel", 
+"Methods" : [{ "Name" : "getKernel" ,
+"Nodes" : 10,
+"0" : [ 106,107 ]
+"1" : [ 112,111 ]
+"2" : [ 116,117 ]
+"3" : [ 121,122 ]
+"4" : [ 126 ]
+"5" : [ 123 ]
+"6" : [ 118 ]
+"7" : [ 113 ]
+"8" : [ 108 ]
+"9" : [  ]
+}]
+}

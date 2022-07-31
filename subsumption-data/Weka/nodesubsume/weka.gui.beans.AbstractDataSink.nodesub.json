@@ -1,0 +1,29 @@
+{
+"Class" : "weka.gui.beans.AbstractDataSink", 
+"Methods" : [{ "Name" : "connectionAllowed" ,
+"Nodes" : 5,
+"0" : [ ],
+"1" : [ 1, 3],
+"3" : [ 0, 2],
+"2" : [ ],
+"4" : [ ],
+"CoveredDUAsByNodes" : 4,
+"Duas" : 4
+},{ "Name" : "connectionNotification" ,
+"Nodes" : 4,
+"0" : [ ],
+"2" : [ 0, 2, 3, 5],
+"1" : [ ],
+"3" : [ ],
+"CoveredDUAsByNodes" : 4,
+"Duas" : 6
+},{ "Name" : "disconnectionNotification" ,
+"Nodes" : 4,
+"0" : [ ],
+"2" : [ 0, 2, 3, 5],
+"1" : [ ],
+"3" : [ ],
+"CoveredDUAsByNodes" : 4,
+"Duas" : 7
+}]
+}

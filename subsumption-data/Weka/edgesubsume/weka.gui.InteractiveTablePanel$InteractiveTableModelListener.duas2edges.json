@@ -1,0 +1,8 @@
+{
+"Class" : "weka.gui.InteractiveTablePanel$InteractiveTableModelListener", 
+"Methods" : [{ "Name" : "tableChanged" ,
+"Edges" : 4,
+"Duas" : 10,
+"2" : 1, 
+ "3" : 2}]
+}

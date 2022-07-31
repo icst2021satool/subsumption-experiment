@@ -1,0 +1,11 @@
+{
+"Class" : "com.sun.xml.bind.v2.runtime.CompositeStructureBeanInfo", 
+"Methods" : [{ "Name" : "serializeBody" ,
+"Nodes" : 5,
+"0" : [ 77,78 ]
+"1" : [ 78 ]
+"2" : [ 83 ]
+"3" : [ 80,81,78,79 ]
+"4" : [  ]
+}]
+}

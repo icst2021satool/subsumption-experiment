@@ -1,0 +1,14 @@
+{
+"Class" : "weka.gui.knowledgeflow.steps.SubstringLabelerStepEditorDialog$6", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Edges" : 6,
+"4" : [ 0, 1, 17, 19, 6, 7, 12],
+"5" : [ 18],
+"2" : [ 0, 1, 2, 4, 5, 6, 7, 8, 10, 11, 12, 13, 15, 16, 17, 19],
+"3" : [ 3, 9, 14],
+"0" : [ 0, 1, 2, 4, 5, 6, 7, 8, 10, 11, 12, 13, 15, 16, 17, 19],
+"1" : [ ],
+"CoveredDUAsByEdges" : 20,
+"Duas" : 20
+}]
+}

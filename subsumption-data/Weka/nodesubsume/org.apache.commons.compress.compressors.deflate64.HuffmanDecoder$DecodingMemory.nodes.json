@@ -1,0 +1,30 @@
+{
+"Class" : "org.apache.commons.compress.compressors.deflate64.HuffmanDecoder$DecodingMemory", 
+"Methods" : [{ "Name" : "add" ,
+"Nodes" : 5,
+"0" : [ 503 ]
+"1" : [ 503 ]
+"2" : [ 506 ]
+"3" : [ 503,504 ]
+"4" : [  ]
+},{ "Name" : "recordToBuffer" ,
+"Nodes" : 10,
+"0" : [ 509 ]
+"1" : [ 512,513 ]
+"2" : [ 516 ]
+"3" : [ 516 ]
+"4" : [ 519 ]
+"5" : [ 516,517 ]
+"6" : [ 513 ]
+"7" : [ 514 ]
+"8" : [ 510 ]
+"9" : [  ]
+},{ "Name" : "incCounter" ,
+"Nodes" : 5,
+"0" : [ 522,523 ]
+"1" : [ 526 ]
+"2" : [ 523 ]
+"3" : [ 524 ]
+"4" : [  ]
+}]
+}

@@ -1,0 +1,15 @@
+{
+"Class" : "weka.core.expressionlanguage.common.MathFunctions$DoubleUnaryMacro", 
+"Methods" : [{ "Name" : "evaluate" ,
+"Nodes" : 6,
+"Duas" : 9,
+"0" :  [ 0,2 ],
+"1" :  [ 0,3 ],
+"2" :  [ 0,4 ],
+"3" :  [ 0,4 ],
+"4" :  [ 0,1 ],
+"5" :  [ 0,1,3 ],
+"6" :  [ 0,1,2 ],
+"7" :  [ 0,2 ],
+"8" :  [ 0,2 ]}]
+}

@@ -1,0 +1,11 @@
+{
+"Class" : "weka.classifiers.functions.MultilayerPerceptron$ControlPanel$2", 
+"Methods" : [{ "Name" : "paintComponent" ,
+"Nodes" : 5,
+"0" : [ 774,775,776 ]
+"1" : [ 780,782 ]
+"2" : [ 784 ]
+"3" : [ 777,778 ]
+"4" : [  ]
+}]
+}

@@ -1,0 +1,12 @@
+{
+"Class" : "weka.gui.beans.CrossValidationFoldMakerCustomizer$1", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Nodes" : 6,
+"0" : [ 86 ]
+"1" : [ 90 ]
+"2" : [ 93 ]
+"3" : [ 91 ]
+"4" : [ 87,88 ]
+"5" : [  ]
+}]
+}

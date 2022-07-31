@@ -1,0 +1,10 @@
+{
+"Class" : "weka.core.packageManagement.VersionPackageConstraint$VersionComparison$1", 
+"Methods" : [{ "Name" : "compatibleWith" ,
+"Nodes" : 4,
+"Duas" : 4,
+"0" :  [ 0,2 ],
+"1" :  [ 0,1 ],
+"2" :  [ 0,2 ],
+"3" :  [ 0,1 ]}]
+}

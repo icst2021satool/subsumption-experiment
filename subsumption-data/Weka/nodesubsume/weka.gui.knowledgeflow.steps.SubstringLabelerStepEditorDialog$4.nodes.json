@@ -1,0 +1,13 @@
+{
+"Class" : "weka.gui.knowledgeflow.steps.SubstringLabelerStepEditorDialog$4", 
+"Methods" : [{ "Name" : "valueChanged" ,
+"Nodes" : 7,
+"0" : [ 270 ]
+"1" : [ 287 ]
+"2" : [ 271 ]
+"3" : [ 274,276,277 ]
+"4" : [ 278,280,281,282,283,284 ]
+"5" : [ 272 ]
+"6" : [  ]
+}]
+}

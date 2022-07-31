@@ -1,0 +1,14 @@
+{
+"Class" : "weka.core.packageManagement.VersionPackageConstraint$VersionComparison$3", 
+"Methods" : [{ "Name" : "compatibleWith" ,
+"Edges" : 6,
+"4" : [ 0, 4],
+"5" : [ 1, 5],
+"2" : [ 2, 6],
+"3" : [ 0, 3, 4, 7],
+"0" : [ 0, 3, 4, 7],
+"1" : [ ],
+"CoveredDUAsByEdges" : 8,
+"Duas" : 8
+}]
+}

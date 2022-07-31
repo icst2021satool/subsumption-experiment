@@ -1,0 +1,30 @@
+{
+"Class" : "weka.core.logging.FileLogger", 
+"Methods" : [{ "Name" : "initialize" ,
+"Nodes" : 5,
+"0" : [ ],
+"2" : [ 0, 6],
+"3" : [ 0, 3, 5, 6, 8, 10],
+"1" : [ 2],
+"4" : [ 2],
+"CoveredDUAsByNodes" : 7,
+"Duas" : 11
+},{ "Name" : "getLogFile" ,
+"Nodes" : 5,
+"0" : [ ],
+"2" : [ ],
+"3" : [ 1],
+"1" : [ ],
+"4" : [ ],
+"CoveredDUAsByNodes" : 1,
+"Duas" : 3
+},{ "Name" : "append" ,
+"Nodes" : 4,
+"0" : [ ],
+"1" : [ 1, 2, 3, 5, 6],
+"2" : [ 0, 4],
+"3" : [ ],
+"CoveredDUAsByNodes" : 7,
+"Duas" : 7
+}]
+}

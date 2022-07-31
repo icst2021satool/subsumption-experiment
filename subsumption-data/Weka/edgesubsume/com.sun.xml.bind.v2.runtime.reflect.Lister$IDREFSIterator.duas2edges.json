@@ -1,0 +1,8 @@
+{
+"Class" : "com.sun.xml.bind.v2.runtime.reflect.Lister$IDREFSIterator", 
+"Methods" : [{ "Name" : "next" ,
+"Edges" : 4,
+"Duas" : 6,
+"3" : 2, 
+ "4" : 3}]
+}

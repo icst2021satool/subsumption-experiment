@@ -1,0 +1,11 @@
+{
+"Class" : "org.apache.commons.compress.utils.SkipShieldingInputStream", 
+"Methods" : [{ "Name" : "skip" ,
+"Nodes" : 5,
+"0" : [ 49 ]
+"1" : [ 49 ]
+"2" : [ 49 ]
+"3" : [ 49 ]
+"4" : [  ]
+}]
+}

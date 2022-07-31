@@ -1,0 +1,24 @@
+{
+"Class" : "weka.classifiers.evaluation.MarginCurve", 
+"Methods" : [{ "Name" : "getCurve" ,
+"Nodes" : 7,
+"0" : [ ],
+"1" : [ 0, 1, 2, 5, 6],
+"2" : [ 0, 1, 2, 5, 6],
+"3" : [ 0, 1, 2, 5, 6, 8],
+"4" : [ 0, 1, 2, 3, 5, 6, 7, 9, 10, 11, 12],
+"5" : [ 4],
+"6" : [ ],
+"CoveredDUAsByNodes" : 13,
+"Duas" : 15
+},{ "Name" : "getMargins" ,
+"Nodes" : 5,
+"0" : [ ],
+"1" : [ ],
+"2" : [ 2, 3],
+"4" : [ 2, 3],
+"3" : [ 0, 1, 4, 5, 7, 8, 9],
+"CoveredDUAsByNodes" : 9,
+"Duas" : 15
+}]
+}

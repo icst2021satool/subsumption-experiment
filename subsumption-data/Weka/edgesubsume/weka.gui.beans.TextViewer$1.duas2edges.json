@@ -1,0 +1,12 @@
+{
+"Class" : "weka.gui.beans.TextViewer$1", 
+"Methods" : [{ "Name" : "mouseClicked" ,
+"Edges" : 9,
+"Duas" : 20,
+"4" : 7, 
+ "5" : 8, 
+ "9" : 4, 
+ "10" : 5, 
+ "17" : 0, 
+ "18" : 1}]
+}

@@ -1,0 +1,10 @@
+{
+"Class" : "weka.core.pmml.jaxbbindings.AssociationRule", 
+"Methods" : [{ "Name" : "getExtension" ,
+"Nodes" : 4,
+"0" : [ 100 ]
+"1" : [ 103 ]
+"2" : [ 101 ]
+"3" : [  ]
+}]
+}

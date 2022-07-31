@@ -1,0 +1,7 @@
+{
+"Class" : "weka.classifiers.trees.ht.SplitMetric", 
+"Methods" : [{ "Name" : "sum" ,
+"Edges" : 5,
+"Duas" : 4,
+}]
+}

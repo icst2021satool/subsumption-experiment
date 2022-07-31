@@ -1,0 +1,19 @@
+{
+"Class" : "com.sun.xml.bind.v2.runtime.reflect.PrimitiveArrayListerBoolean$BooleanArrayPack", 
+"Methods" : [{ "Name" : "add" ,
+"Edges" : 7,
+"0" : [ 2,5 ],
+"1" : [ 3,2 ],
+"2" : [ 4,1 ],
+"3" : [ 0,4 ],
+"4" : [ 0,1 ],
+"5" : [ 1,3 ],
+"6" : [ 1,2 ]
+},{ "Name" : "build" ,
+"Edges" : 4,
+"0" : [ 1,3 ],
+"1" : [ 0,2 ],
+"2" : [ 0,1 ],
+"3" : [ 2,3 ]
+}]
+}

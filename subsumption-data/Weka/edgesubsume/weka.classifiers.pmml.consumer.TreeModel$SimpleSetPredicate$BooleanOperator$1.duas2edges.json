@@ -1,0 +1,22 @@
+{
+"Class" : "weka.classifiers.pmml.consumer.TreeModel$SimpleSetPredicate$BooleanOperator$1", 
+"Methods" : [{ "Name" : "evaluate" ,
+"Edges" : 12,
+"Duas" : 30,
+"2" : 7, 
+ "3" : 8, 
+ "8" : 7, 
+ "9" : 8, 
+ "12" : 9, 
+ "13" : 10, 
+ "14" : 5, 
+ "15" : 6, 
+ "17" : 2, 
+ "18" : 3, 
+ "22" : 9, 
+ "23" : 10, 
+ "24" : 5, 
+ "25" : 6, 
+ "26" : 2, 
+ "27" : 3}]
+}

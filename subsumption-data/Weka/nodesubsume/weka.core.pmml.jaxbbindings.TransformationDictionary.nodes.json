@@ -1,0 +1,28 @@
+{
+"Class" : "weka.core.pmml.jaxbbindings.TransformationDictionary", 
+"Methods" : [{ "Name" : "getExtension" ,
+"Nodes" : 4,
+"0" : [ 82 ]
+"1" : [ 85 ]
+"2" : [ 83 ]
+"3" : [  ]
+},{ "Name" : "getDefineFunction" ,
+"Nodes" : 4,
+"0" : [ 111 ]
+"1" : [ 114 ]
+"2" : [ 112 ]
+"3" : [  ]
+},{ "Name" : "getDerivedField" ,
+"Nodes" : 4,
+"0" : [ 140 ]
+"1" : [ 143 ]
+"2" : [ 141 ]
+"3" : [  ]
+},{ "Name" : "addDerivedField" ,
+"Nodes" : 4,
+"0" : [ 147 ]
+"1" : [ 150,151 ]
+"2" : [ 148 ]
+"3" : [  ]
+}]
+}

@@ -1,0 +1,16 @@
+{
+"Class" : "org.apache.commons.compress.archivers.zip.InflaterInputStreamWithStatistics", 
+"Methods" : [{ "Name" : "read" ,
+"Nodes" : 4,
+"0" : [ 58,59 ]
+"1" : [ 62 ]
+"2" : [ 60 ]
+"3" : [  ]
+},{ "Name" : "read" ,
+"Nodes" : 4,
+"0" : [ 67,68 ]
+"1" : [ 71 ]
+"2" : [ 69 ]
+"3" : [  ]
+}]
+}

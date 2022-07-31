@@ -1,0 +1,18 @@
+{
+"Class" : "weka.gui.knowledgeflow.steps.CostBenefitAnalysisInteractiveView$3", 
+"Methods" : [{ "Name" : "valueChanged" ,
+"Nodes" : 12,
+"0" : [ 140 ]
+"1" : [ 165 ]
+"2" : [ 141,142 ]
+"3" : [ 142 ]
+"4" : [ 143 ]
+"5" : [ 142 ]
+"6" : [ 145 ]
+"7" : [ 146,147,148 ]
+"8" : [ 160 ]
+"9" : [ 148 ]
+"10" : [ 149,150,152,154,155,158 ]
+"11" : [  ]
+}]
+}

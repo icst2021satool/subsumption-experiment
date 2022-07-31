@@ -1,0 +1,15 @@
+{
+"Class" : "weka.gui.beans.SerializedModelSaverCustomizer$1", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Edges" : 7,
+"2" : [ 3, 4, 5, 6, 11, 12, 13],
+"3" : [ 7],
+"0" : [ 3, 4, 5, 6, 11, 12, 13],
+"4" : [ 0, 2, 8, 10],
+"5" : [ 1, 9],
+"6" : [ 0, 2, 8, 10],
+"1" : [ ],
+"CoveredDUAsByEdges" : 14,
+"Duas" : 14
+}]
+}

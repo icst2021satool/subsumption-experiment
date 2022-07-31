@@ -1,0 +1,10 @@
+{
+"Class" : "weka.gui.knowledgeflow.steps.ScatterPlotMatrixInteractiveView", 
+"Methods" : [{ "Name" : "init" ,
+"Edges" : 8,
+"Duas" : 17,
+"12" : 4, 
+ "13" : 5, 
+ "15" : 4, 
+ "16" : 5}]
+}

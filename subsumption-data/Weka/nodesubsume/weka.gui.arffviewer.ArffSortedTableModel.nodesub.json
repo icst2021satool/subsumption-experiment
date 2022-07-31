@@ -1,0 +1,46 @@
+{
+"Class" : "weka.gui.arffviewer.ArffSortedTableModel", 
+"Methods" : [{ "Name" : "getModelValueAt" ,
+"Nodes" : 4,
+"0" : [ ],
+"2" : [ 0, 2, 4],
+"1" : [ ],
+"3" : [ ],
+"CoveredDUAsByNodes" : 3,
+"Duas" : 8
+},{ "Name" : "getType" ,
+"Nodes" : 5,
+"0" : [ ],
+"1" : [ 1, 5],
+"3" : [ 0, 4],
+"2" : [ 2, 3],
+"4" : [ 2, 3],
+"CoveredDUAsByNodes" : 6,
+"Duas" : 6
+},{ "Name" : "deleteInstances" ,
+"Nodes" : 5,
+"0" : [ ],
+"1" : [ ],
+"2" : [ 0, 3, 6],
+"4" : [ 0, 3, 6],
+"3" : [ 1, 2, 4, 5, 7, 8, 10, 11],
+"CoveredDUAsByNodes" : 11,
+"Duas" : 16
+},{ "Name" : "addTableModelListener" ,
+"Nodes" : 4,
+"0" : [ ],
+"2" : [ 0, 2, 3],
+"1" : [ ],
+"3" : [ ],
+"CoveredDUAsByNodes" : 3,
+"Duas" : 4
+},{ "Name" : "removeTableModelListener" ,
+"Nodes" : 4,
+"0" : [ ],
+"2" : [ 0, 2, 3],
+"1" : [ ],
+"3" : [ ],
+"CoveredDUAsByNodes" : 3,
+"Duas" : 4
+}]
+}

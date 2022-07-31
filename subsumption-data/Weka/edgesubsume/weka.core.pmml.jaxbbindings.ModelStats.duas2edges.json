@@ -1,0 +1,22 @@
+{
+"Class" : "weka.core.pmml.jaxbbindings.ModelStats", 
+"Methods" : [{ "Name" : "getExtension" ,
+"Edges" : 4,
+"Duas" : 8,
+"0" : 0, 
+ "1" : 1, 
+ "4" : 0, 
+ "5" : 1},{ "Name" : "getUnivariateStats" ,
+"Edges" : 4,
+"Duas" : 8,
+"0" : 0, 
+ "1" : 1, 
+ "4" : 0, 
+ "5" : 1},{ "Name" : "getMultivariateStats" ,
+"Edges" : 4,
+"Duas" : 8,
+"0" : 0, 
+ "1" : 1, 
+ "4" : 0, 
+ "5" : 1}]
+}

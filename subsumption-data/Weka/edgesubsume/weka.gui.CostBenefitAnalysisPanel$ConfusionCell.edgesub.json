@@ -1,0 +1,13 @@
+{
+"Class" : "weka.gui.CostBenefitAnalysisPanel$ConfusionCell", 
+"Methods" : [{ "Name" : "setCellValue" ,
+"Edges" : 5,
+"2" : [ 4, 5, 8, 9],
+"3" : [ 0, 6],
+"1" : [ 0, 1, 2, 3, 6, 7, 10, 11, 12, 13, 14],
+"4" : [ 1, 2, 3, 4, 5, 7, 8, 9, 10, 11, 12, 13, 14],
+"0" : [ 1, 2, 3, 7, 10, 11, 12, 13, 14],
+"CoveredDUAsByEdges" : 15,
+"Duas" : 17
+}]
+}

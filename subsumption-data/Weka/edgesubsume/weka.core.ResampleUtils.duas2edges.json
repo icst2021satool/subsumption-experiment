@@ -1,0 +1,22 @@
+{
+"Class" : "weka.core.ResampleUtils", 
+"Methods" : [{ "Name" : "hasInstanceWeights" ,
+"Edges" : 8,
+"Duas" : 16,
+"0" : 0, 
+ "1" : 1, 
+ "2" : 5, 
+ "3" : 6, 
+ "5" : 0, 
+ "6" : 1, 
+ "7" : 5, 
+ "8" : 6, 
+ "11" : 0, 
+ "12" : 1, 
+ "13" : 5, 
+ "14" : 6},{ "Name" : "resampleWithWeightIfNecessary" ,
+"Edges" : 4,
+"Duas" : 5,
+"0" : 0, 
+ "1" : 1}]
+}

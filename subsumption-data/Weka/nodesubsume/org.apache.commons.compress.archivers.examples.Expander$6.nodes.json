@@ -1,0 +1,11 @@
+{
+"Class" : "org.apache.commons.compress.archivers.examples.Expander$6", 
+"Methods" : [{ "Name" : "writeEntryDataTo" ,
+"Nodes" : 5,
+"0" : [ 326 ]
+"1" : [ 328 ]
+"2" : [ 331 ]
+"3" : [ 329 ]
+"4" : [  ]
+}]
+}

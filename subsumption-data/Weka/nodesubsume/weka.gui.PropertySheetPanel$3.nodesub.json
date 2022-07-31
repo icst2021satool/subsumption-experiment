@@ -1,0 +1,15 @@
+{
+"Class" : "weka.gui.PropertySheetPanel$3", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Nodes" : 7,
+"0" : [ ],
+"1" : [ 1, 9],
+"2" : [ 1, 3, 4, 9, 11, 15],
+"4" : [ 16, 1, 2, 6, 9, 10, 13],
+"5" : [ 0, 17, 7, 8, 14],
+"3" : [ 5, 12],
+"6" : [ 5, 12],
+"CoveredDUAsByNodes" : 18,
+"Duas" : 27
+}]
+}

@@ -1,0 +1,12 @@
+{
+"Class" : "weka.gui.beans.AttributeSummarizerCustomizer$2", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Nodes" : 6,
+"0" : [ 224,226,219,220,221,222,223 ]
+"1" : [ 230 ]
+"2" : [ 233 ]
+"3" : [ 231 ]
+"4" : [ 227,228 ]
+"5" : [  ]
+}]
+}

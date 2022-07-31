@@ -1,0 +1,11 @@
+{
+"Class" : "org.apache.commons.compress.archivers.jar.JarArchiveInputStream", 
+"Methods" : [{ "Name" : "getNextJarEntry" ,
+"Nodes" : 5,
+"0" : [ 56,57 ]
+"1" : [ 57 ]
+"2" : [ 57 ]
+"3" : [ 57 ]
+"4" : [  ]
+}]
+}

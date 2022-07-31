@@ -1,0 +1,35 @@
+{
+"Class" : "weka.gui.sql.InfoPanel", 
+"Methods" : [{ "Name" : "setButtons" ,
+"Nodes" : 11,
+"0" : [ ],
+"9" : [ 8],
+"1" : [ ],
+"2" : [ 1, 17],
+"8" : [ 0, 16],
+"3" : [ 2, 18],
+"4" : [ 2, 18, 4, 13],
+"7" : [ 2, 18, 3, 12],
+"5" : [ 2, 18, 19, 5],
+"6" : [ ],
+"10" : [ ],
+"CoveredDUAsByNodes" : 13,
+"Duas" : 20
+},{ "Name" : "copyToClipboard" ,
+"Nodes" : 4,
+"0" : [ ],
+"1" : [ 1, 2, 4, 5],
+"2" : [ 0, 3],
+"3" : [ ],
+"CoveredDUAsByNodes" : 6,
+"Duas" : 6
+},{ "Name" : "append" ,
+"Nodes" : 4,
+"0" : [ ],
+"1" : [ 0, 1, 2, 3, 6, 7, 9, 10, 11, 12],
+"2" : [ 4, 5, 8],
+"3" : [ ],
+"CoveredDUAsByNodes" : 13,
+"Duas" : 13
+}]
+}

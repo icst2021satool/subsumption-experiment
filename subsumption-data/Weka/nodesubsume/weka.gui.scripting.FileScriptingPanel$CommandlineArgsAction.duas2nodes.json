@@ -1,0 +1,11 @@
+{
+"Class" : "weka.gui.scripting.FileScriptingPanel$CommandlineArgsAction", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Nodes" : 4,
+"Duas" : 5,
+"0" :  [ 0,1 ],
+"1" :  [ 0,1 ],
+"2" :  [ 0,2 ],
+"3" :  [ 0,1 ],
+"4" :  [ 0,1 ]}]
+}

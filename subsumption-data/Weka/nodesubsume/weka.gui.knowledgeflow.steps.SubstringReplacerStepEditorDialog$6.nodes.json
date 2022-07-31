@@ -1,0 +1,11 @@
+{
+"Class" : "weka.gui.knowledgeflow.steps.SubstringReplacerStepEditorDialog$6", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Nodes" : 5,
+"0" : [ 283,284 ]
+"1" : [ 293 ]
+"2" : [ 288,285,286 ]
+"3" : [ 289,290 ]
+"4" : [  ]
+}]
+}

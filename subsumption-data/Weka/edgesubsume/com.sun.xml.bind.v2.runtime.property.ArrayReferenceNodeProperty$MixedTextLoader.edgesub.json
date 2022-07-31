@@ -1,0 +1,12 @@
+{
+"Class" : "com.sun.xml.bind.v2.runtime.property.ArrayReferenceNodeProperty$MixedTextLoader", 
+"Methods" : [{ "Name" : "text" ,
+"Edges" : 4,
+"2" : [ 0, 1, 2, 4, 5],
+"3" : [ 3],
+"1" : [ 0, 1, 2, 4, 5],
+"0" : [ ],
+"CoveredDUAsByEdges" : 6,
+"Duas" : 6
+}]
+}

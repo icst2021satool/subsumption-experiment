@@ -1,0 +1,10 @@
+{
+"Class" : "weka.gui.beans.InstanceEvent", 
+"Methods" : [{ "Name" : "setStatus" ,
+"Nodes" : 4,
+"0" : [ 120,122 ]
+"1" : [ 125 ]
+"2" : [ 123 ]
+"3" : [  ]
+}]
+}

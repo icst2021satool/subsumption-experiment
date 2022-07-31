@@ -1,0 +1,15 @@
+{
+"Class" : "weka.classifiers.pmml.consumer.TreeModel$SimpleSetPredicate$BooleanOperator$1", 
+"Methods" : [{ "Name" : "evaluate" ,
+"Nodes" : 9,
+"0" : [ 700 ]
+"1" : [ 707 ]
+"2" : [ 709,710,711 ]
+"3" : [ 707,708 ]
+"4" : [ 713,714,715 ]
+"5" : [ 701,702 ]
+"6" : [ 705,706 ]
+"7" : [ 703 ]
+"8" : [  ]
+}]
+}

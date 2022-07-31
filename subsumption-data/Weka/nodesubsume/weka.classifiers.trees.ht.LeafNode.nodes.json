@@ -1,0 +1,11 @@
+{
+"Class" : "weka.classifiers.trees.ht.LeafNode", 
+"Methods" : [{ "Name" : "updateNode" ,
+"Nodes" : 5,
+"0" : [ 72 ]
+"1" : [ 75 ]
+"2" : [ 77 ]
+"3" : [ 73 ]
+"4" : [  ]
+}]
+}

@@ -1,0 +1,13 @@
+{
+"Class" : "weka.classifiers.bayes.net.GUI$ActionViewStatusbar", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Edges" : 5,
+"0" : [ 0, 3, 6],
+"1" : [ 1, 4, 7],
+"2" : [ 1, 2, 4, 5, 7, 8],
+"3" : [ 0, 2, 3, 5, 6, 8],
+"4" : [ 2, 5, 8],
+"CoveredDUAsByEdges" : 9,
+"Duas" : 9
+}]
+}

@@ -1,0 +1,15 @@
+{
+"Class" : "weka.gui.boundaryvisualizer.BoundaryVisualizer$5", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Edges" : 7,
+"0" : [ 0, 5, 6, 11],
+"1" : [ 1, 7],
+"2" : [ 0, 5, 6, 11],
+"3" : [ 2, 4, 8, 10],
+"4" : [ 3, 9, 13],
+"6" : [ 2, 4, 8, 10],
+"5" : [ ],
+"CoveredDUAsByEdges" : 13,
+"Duas" : 16
+}]
+}

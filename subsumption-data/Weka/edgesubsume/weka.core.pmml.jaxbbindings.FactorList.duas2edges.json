@@ -1,0 +1,16 @@
+{
+"Class" : "weka.core.pmml.jaxbbindings.FactorList", 
+"Methods" : [{ "Name" : "getExtension" ,
+"Edges" : 4,
+"Duas" : 8,
+"0" : 2, 
+ "1" : 3, 
+ "4" : 2, 
+ "5" : 3},{ "Name" : "getPredictor" ,
+"Edges" : 4,
+"Duas" : 8,
+"0" : 2, 
+ "1" : 3, 
+ "4" : 2, 
+ "5" : 3}]
+}

@@ -1,0 +1,15 @@
+{
+"Class" : "weka.gui.knowledgeflow.AttributeSummaryPerspective$1", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Edges" : 7,
+"0" : [ 9],
+"1" : [ 10],
+"2" : [ 9],
+"4" : [ 0, 2, 3, 5, 6, 8, 9, 11, 12, 14, 15],
+"5" : [ 1, 4, 7],
+"3" : [ ],
+"6" : [ 0, 2, 3, 5, 6, 8, 9, 11, 12, 14, 15],
+"CoveredDUAsByEdges" : 15,
+"Duas" : 20
+}]
+}

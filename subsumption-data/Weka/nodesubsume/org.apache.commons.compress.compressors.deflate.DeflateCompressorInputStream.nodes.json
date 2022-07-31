@@ -1,0 +1,30 @@
+{
+"Class" : "org.apache.commons.compress.compressors.deflate.DeflateCompressorInputStream", 
+"Methods" : [{ "Name" : "<init>" ,
+"Nodes" : 5,
+"0" : [ 67,68 ]
+"1" : [ 68 ]
+"2" : [ 68,69,70 ]
+"3" : [ 68 ]
+"4" : [  ]
+},{ "Name" : "read" ,
+"Nodes" : 5,
+"0" : [ 75,76 ]
+"1" : [ 76 ]
+"2" : [ 76,77 ]
+"3" : [ 76 ]
+"4" : [  ]
+},{ "Name" : "matches" ,
+"Nodes" : 10,
+"0" : [ 132 ]
+"1" : [ 132 ]
+"2" : [ 132 ]
+"3" : [ 132 ]
+"4" : [ 132 ]
+"5" : [ 132 ]
+"6" : [ 132 ]
+"7" : [ 132 ]
+"8" : [ 132 ]
+"9" : [  ]
+}]
+}

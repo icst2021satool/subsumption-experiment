@@ -1,0 +1,8 @@
+{
+"Class" : "org.apache.commons.compress.utils.SkipShieldingInputStream", 
+"Methods" : [{ "Name" : "skip" ,
+"Edges" : 5,
+"Duas" : 5,
+"1" : 2, 
+ "2" : 3}]
+}

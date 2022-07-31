@@ -1,0 +1,11 @@
+{
+"Class" : "weka.gui.visualize.VisualizePanel$1", 
+"Methods" : [{ "Name" : "attributeSelectionChange" ,
+"Nodes" : 5,
+"0" : [ 1882 ]
+"1" : [ 1885 ]
+"2" : [ 1887 ]
+"3" : [ 1883 ]
+"4" : [  ]
+}]
+}

@@ -1,0 +1,16 @@
+{
+"Class" : "weka.gui.knowledgeflow.steps.BoundaryPlotterInteractiveView", 
+"Methods" : [{ "Name" : "init" ,
+"Edges" : 10,
+"Duas" : 20,
+"12" : 5, 
+ "13" : 6, 
+ "14" : 8, 
+ "15" : 9, 
+ "18" : 5, 
+ "19" : 6},{ "Name" : "newPlotStarted" ,
+"Edges" : 4,
+"Duas" : 17,
+"13" : 0, 
+ "14" : 1}]
+}

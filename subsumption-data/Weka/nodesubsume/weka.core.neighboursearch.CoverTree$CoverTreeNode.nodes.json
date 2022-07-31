@@ -1,0 +1,11 @@
+{
+"Class" : "weka.core.neighboursearch.CoverTree$CoverTreeNode", 
+"Methods" : [{ "Name" : "isALeaf" ,
+"Nodes" : 5,
+"0" : [ 171 ]
+"1" : [ 171 ]
+"2" : [ 171 ]
+"3" : [ 171 ]
+"4" : [  ]
+}]
+}

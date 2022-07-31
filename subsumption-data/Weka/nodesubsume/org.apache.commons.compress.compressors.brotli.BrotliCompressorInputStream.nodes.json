@@ -1,0 +1,11 @@
+{
+"Class" : "org.apache.commons.compress.compressors.brotli.BrotliCompressorInputStream", 
+"Methods" : [{ "Name" : "read" ,
+"Nodes" : 5,
+"0" : [ 77,78 ]
+"1" : [ 78 ]
+"2" : [ 78,79 ]
+"3" : [ 78 ]
+"4" : [  ]
+}]
+}

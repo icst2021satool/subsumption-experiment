@@ -1,0 +1,22 @@
+{
+"Class" : "org.apache.commons.compress.compressors.lzma.LZMACompressorInputStream", 
+"Methods" : [{ "Name" : "read" ,
+"Nodes" : 5,
+"0" : [ 89,90 ]
+"1" : [ 90 ]
+"2" : [ 90,91 ]
+"3" : [ 90 ]
+"4" : [  ]
+},{ "Name" : "matches" ,
+"Nodes" : 9,
+"0" : [ 140 ]
+"1" : [ 140 ]
+"2" : [ 140 ]
+"3" : [ 140 ]
+"4" : [ 140 ]
+"5" : [ 140 ]
+"6" : [ 140 ]
+"7" : [ 140 ]
+"8" : [  ]
+}]
+}

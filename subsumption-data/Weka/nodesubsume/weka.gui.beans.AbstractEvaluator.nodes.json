@@ -1,0 +1,23 @@
+{
+"Class" : "weka.gui.beans.AbstractEvaluator", 
+"Methods" : [{ "Name" : "connectionAllowed" ,
+"Nodes" : 5,
+"0" : [ 105 ]
+"1" : [ 105 ]
+"2" : [ 105 ]
+"3" : [ 105 ]
+"4" : [  ]
+},{ "Name" : "connectionNotification" ,
+"Nodes" : 4,
+"0" : [ 130 ]
+"1" : [ 133 ]
+"2" : [ 131 ]
+"3" : [  ]
+},{ "Name" : "disconnectionNotification" ,
+"Nodes" : 4,
+"0" : [ 145 ]
+"1" : [ 148 ]
+"2" : [ 146 ]
+"3" : [  ]
+}]
+}

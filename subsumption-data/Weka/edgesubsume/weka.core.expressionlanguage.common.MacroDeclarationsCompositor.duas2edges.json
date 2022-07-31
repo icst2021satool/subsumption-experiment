@@ -1,0 +1,16 @@
+{
+"Class" : "weka.core.expressionlanguage.common.MacroDeclarationsCompositor", 
+"Methods" : [{ "Name" : "hasMacro" ,
+"Edges" : 8,
+"Duas" : 4,
+"0" : 3, 
+ "1" : 4, 
+ "2" : 3, 
+ "3" : 4},{ "Name" : "getMacro" ,
+"Edges" : 8,
+"Duas" : 7,
+"1" : 0, 
+ "2" : 1, 
+ "4" : 0, 
+ "5" : 1}]
+}

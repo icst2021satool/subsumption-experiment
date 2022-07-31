@@ -1,0 +1,16 @@
+{
+"Class" : "weka.classifiers.bayes.net.GUI$ClipBoard", 
+"Methods" : [{ "Name" : "<init>" ,
+"Edges" : 4,
+"Duas" : 6,
+"0" : 0, 
+ "1" : 1, 
+ "3" : 0, 
+ "4" : 1},{ "Name" : "hasText" ,
+"Edges" : 5,
+"Duas" : 4,
+"0" : 1, 
+ "1" : 2, 
+ "2" : 1, 
+ "3" : 2}]
+}

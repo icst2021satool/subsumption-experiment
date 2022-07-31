@@ -1,0 +1,12 @@
+{
+"Class" : "weka.core.expressionlanguage.common.MathFunctions", 
+"Methods" : [{ "Name" : "getMacro" ,
+"Edges" : 4,
+"1" : [ 0, 3, 4, 6],
+"2" : [ 1, 2, 5],
+"0" : [ 1, 2, 5],
+"3" : [ 0, 3, 4, 6],
+"CoveredDUAsByEdges" : 7,
+"Duas" : 7
+}]
+}

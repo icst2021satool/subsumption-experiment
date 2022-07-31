@@ -1,0 +1,22 @@
+{
+"Class" : "weka.gui.arffviewer.ArffViewer", 
+"Methods" : [{ "Name" : "getCenteredLeft" ,
+"Edges" : 4,
+"Duas" : 4,
+"0" : 1, 
+ "1" : 2},{ "Name" : "getCenteredTop" ,
+"Edges" : 4,
+"Duas" : 4,
+"0" : 2, 
+ "1" : 3},{ "Name" : "windowClosing" ,
+"Edges" : 13,
+"Duas" : 12,
+"0" : 9, 
+ "1" : 10, 
+ "2" : 4, 
+ "3" : 5, 
+ "5" : 1, 
+ "6" : 2, 
+ "10" : 11, 
+ "11" : 12}]
+}

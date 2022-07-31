@@ -1,0 +1,19 @@
+{
+"Class" : "weka.classifiers.pmml.consumer.TreeModel$CompoundPredicate$BooleanOperator$2", 
+"Methods" : [{ "Name" : "evaluate" ,
+"Edges" : 11,
+"0" : [ ],
+"9" : [ 0],
+"10" : [ ],
+"1" : [ 0, 1, 6, 11],
+"2" : [ 0, 2, 7],
+"6" : [ 0, 2, 3, 7, 8, 10],
+"7" : [ 0, 2, 4, 7, 9],
+"8" : [ 0, 2, 3, 7, 8, 10],
+"5" : [ 0, 2, 7],
+"3" : [ 0, 1, 6, 11],
+"4" : [ ],
+"CoveredDUAsByEdges" : 11,
+"Duas" : 14
+}]
+}

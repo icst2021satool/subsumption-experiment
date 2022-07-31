@@ -1,0 +1,10 @@
+{
+"Class" : "weka.classifiers.bayes.net.GUI$ActionPrint", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Nodes" : 4,
+"0" : [ 1618,1619,1620 ]
+"1" : [ 1630,1631 ]
+"2" : [ 1622,1623,1624,1628 ]
+"3" : [  ]
+}]
+}

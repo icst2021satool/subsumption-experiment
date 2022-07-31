@@ -1,0 +1,17 @@
+{
+"Class" : "org.apache.commons.compress.archivers.ArchiveInputStream", 
+"Methods" : [{ "Name" : "read" ,
+"Nodes" : 5,
+"0" : [ 81,82 ]
+"1" : [ 82 ]
+"2" : [ 82 ]
+"3" : [ 82 ]
+"4" : [  ]
+},{ "Name" : "count" ,
+"Nodes" : 4,
+"0" : [ 103 ]
+"1" : [ 106 ]
+"2" : [ 104 ]
+"3" : [  ]
+}]
+}

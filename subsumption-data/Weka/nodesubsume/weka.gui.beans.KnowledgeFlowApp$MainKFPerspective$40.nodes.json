@@ -1,0 +1,13 @@
+{
+"Class" : "weka.gui.beans.KnowledgeFlowApp$MainKFPerspective$40", 
+"Methods" : [{ "Name" : "getToolTipText" ,
+"Nodes" : 7,
+"0" : [ 2630 ]
+"1" : [ 2633,2634 ]
+"2" : [ 2642 ]
+"3" : [ 2635,2636,2637 ]
+"4" : [ 2638,2639 ]
+"5" : [ 2631 ]
+"6" : [  ]
+}]
+}

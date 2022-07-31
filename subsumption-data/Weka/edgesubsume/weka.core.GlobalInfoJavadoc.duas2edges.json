@@ -1,0 +1,12 @@
+{
+"Class" : "weka.core.GlobalInfoJavadoc", 
+"Methods" : [{ "Name" : "generateJavadoc" ,
+"Edges" : 9,
+"Duas" : 14,
+"0" : 7, 
+ "1" : 8, 
+ "4" : 5, 
+ "5" : 6, 
+ "7" : 1, 
+ "8" : 2}]
+}

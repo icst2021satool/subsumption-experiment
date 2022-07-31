@@ -1,0 +1,12 @@
+{
+"Class" : "weka.gui.explorer.AttributeSelectionPanel$6", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Edges" : 7,
+"Duas" : 9,
+"1" : 5, 
+ "2" : 6, 
+ "5" : 3, 
+ "6" : 4, 
+ "7" : 3, 
+ "8" : 4}]
+}

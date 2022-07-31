@@ -1,0 +1,19 @@
+{
+"Class" : "weka.core.pmml.BuiltInArithmetic", 
+"Methods" : [{ "Name" : "setParameterDefs" ,
+"Nodes" : 4,
+"0" : [ 100,102 ]
+"1" : [ 106 ]
+"2" : [ 103,104 ]
+"3" : [  ]
+},{ "Name" : "getResult" ,
+"Nodes" : 7,
+"0" : [ 140 ]
+"1" : [ 144 ]
+"2" : [ 145 ]
+"3" : [ 144 ]
+"4" : [ 148,150 ]
+"5" : [ 141 ]
+"6" : [  ]
+}]
+}

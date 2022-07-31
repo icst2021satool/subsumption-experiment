@@ -1,0 +1,10 @@
+{
+"Class" : "weka.core.pmml.jaxbbindings.FieldRef", 
+"Methods" : [{ "Name" : "getExtension" ,
+"Nodes" : 4,
+"0" : [ 81 ]
+"1" : [ 84 ]
+"2" : [ 82 ]
+"3" : [  ]
+}]
+}

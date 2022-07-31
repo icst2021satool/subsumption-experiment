@@ -1,0 +1,10 @@
+{
+"Class" : "weka.core.pmml.jaxbbindings.TableLocator", 
+"Methods" : [{ "Name" : "getExtension" ,
+"Nodes" : 4,
+"0" : [ 74 ]
+"1" : [ 77 ]
+"2" : [ 75 ]
+"3" : [  ]
+}]
+}

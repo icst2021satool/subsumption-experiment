@@ -1,0 +1,10 @@
+{
+"Class" : "com.sun.xml.bind.v2.model.impl.RuntimeElementPropertyInfoImpl", 
+"Methods" : [{ "Name" : "<init>" ,
+"Edges" : 6,
+"Duas" : 9,
+"0" : 0, 
+ "1" : 1, 
+ "3" : 2, 
+ "4" : 3}]
+}

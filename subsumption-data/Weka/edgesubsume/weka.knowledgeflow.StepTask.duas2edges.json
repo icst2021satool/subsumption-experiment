@@ -1,0 +1,10 @@
+{
+"Class" : "weka.knowledgeflow.StepTask", 
+"Methods" : [{ "Name" : "notifyCallback" ,
+"Edges" : 4,
+"Duas" : 8,
+"0" : 2, 
+ "1" : 3, 
+ "3" : 2, 
+ "4" : 3}]
+}

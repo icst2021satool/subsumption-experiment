@@ -1,0 +1,15 @@
+{
+"Class" : "com.sun.xml.bind.v2.model.nav.ReflectionNavigator$10", 
+"Methods" : [{ "Name" : "run" ,
+"Nodes" : 7,
+"0" : [ ],
+"1" : [ ],
+"2" : [ 4],
+"3" : [ 0, 1, 2, 5, 7],
+"4" : [ 0, 1, 2, 5, 7, 8, 10],
+"5" : [ 0, 1, 2, 3, 5, 7, 9],
+"6" : [ ],
+"CoveredDUAsByNodes" : 10,
+"Duas" : 15
+}]
+}

@@ -1,0 +1,13 @@
+{
+"Class" : "weka.core.pmml.jaxbbindings.LINKFUNCTION", 
+"Methods" : [{ "Name" : "fromValue" ,
+"Nodes" : 7,
+"0" : [ 72 ]
+"1" : [ 72 ]
+"2" : [ 77 ]
+"3" : [ 72,73 ]
+"4" : [ 72 ]
+"5" : [ 74 ]
+"6" : [  ]
+}]
+}

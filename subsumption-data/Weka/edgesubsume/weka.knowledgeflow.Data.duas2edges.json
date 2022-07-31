@@ -1,0 +1,12 @@
+{
+"Class" : "weka.knowledgeflow.Data", 
+"Methods" : [{ "Name" : "setConnectionName" ,
+"Edges" : 4,
+"Duas" : 3,
+"0" : 2, 
+ "1" : 3},{ "Name" : "getPayloadElement" ,
+"Edges" : 4,
+"Duas" : 4,
+"1" : 2, 
+ "2" : 3}]
+}

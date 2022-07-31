@@ -1,0 +1,11 @@
+{
+"Class" : "weka.classifiers.RandomizableIteratedSingleClassifierEnhancer", 
+"Methods" : [{ "Name" : "setOptions" ,
+"Nodes" : 5,
+"0" : [ 86,87 ]
+"1" : [ 90 ]
+"2" : [ 93,94 ]
+"3" : [ 88 ]
+"4" : [  ]
+}]
+}

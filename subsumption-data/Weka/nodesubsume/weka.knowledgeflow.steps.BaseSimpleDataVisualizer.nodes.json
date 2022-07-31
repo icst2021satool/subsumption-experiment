@@ -1,0 +1,16 @@
+{
+"Class" : "weka.knowledgeflow.steps.BaseSimpleDataVisualizer", 
+"Methods" : [{ "Name" : "processIncoming" ,
+"Nodes" : 4,
+"0" : [ 80,81,83,84,85,86,88,75,76,77,78,79 ]
+"1" : [ 91 ]
+"2" : [ 89 ]
+"3" : [  ]
+},{ "Name" : "restoreData" ,
+"Nodes" : 4,
+"0" : [ 134 ]
+"1" : [ 138,139 ]
+"2" : [ 135 ]
+"3" : [  ]
+}]
+}

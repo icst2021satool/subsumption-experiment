@@ -1,0 +1,17 @@
+{
+"Class" : "weka.classifiers.trees.ht.NBNode", 
+"Methods" : [{ "Name" : "getDistribution" ,
+"Nodes" : 9,
+"0" : [ ],
+"1" : [ 1, 10],
+"2" : [ 1, 3, 10, 12, 14],
+"6" : [ 1, 2, 10, 11, 13],
+"7" : [ 0, 9],
+"3" : [ ],
+"4" : [ 17, 4, 6, 8],
+"5" : [ 16, 5, 7, 15],
+"8" : [ ],
+"CoveredDUAsByNodes" : 18,
+"Duas" : 18
+}]
+}

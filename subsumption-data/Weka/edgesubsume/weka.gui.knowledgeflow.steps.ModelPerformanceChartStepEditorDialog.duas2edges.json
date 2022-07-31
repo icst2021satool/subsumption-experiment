@@ -1,0 +1,18 @@
+{
+"Class" : "weka.gui.knowledgeflow.steps.ModelPerformanceChartStepEditorDialog", 
+"Methods" : [{ "Name" : "setStepToEdit" ,
+"Edges" : 7,
+"Duas" : 18,
+"15" : 4, 
+ "16" : 5},{ "Name" : "setupRendererOptsTipText" ,
+"Edges" : 12,
+"Duas" : 13,
+"2" : 0, 
+ "3" : 1, 
+ "5" : 6, 
+ "6" : 7, 
+ "8" : 3, 
+ "9" : 4, 
+ "10" : 9, 
+ "11" : 10}]
+}

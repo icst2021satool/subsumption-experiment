@@ -1,0 +1,13 @@
+{
+"Class" : "weka.core.pmml.jaxbbindings.INTERPOLATIONMETHOD", 
+"Methods" : [{ "Name" : "fromValue" ,
+"Nodes" : 7,
+"0" : [ 54 ]
+"1" : [ 54 ]
+"2" : [ 59 ]
+"3" : [ 54,55 ]
+"4" : [ 54 ]
+"5" : [ 56 ]
+"6" : [  ]
+}]
+}

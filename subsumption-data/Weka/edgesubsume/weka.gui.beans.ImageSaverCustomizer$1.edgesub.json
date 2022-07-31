@@ -1,0 +1,15 @@
+{
+"Class" : "weka.gui.beans.ImageSaverCustomizer$1", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Edges" : 7,
+"1" : [ 0, 5, 6, 11],
+"2" : [ 1, 7],
+"4" : [ 0, 5, 6, 11],
+"5" : [ 2, 4, 8, 10],
+"6" : [ 3, 9],
+"3" : [ 2, 4, 8, 10],
+"0" : [ ],
+"CoveredDUAsByEdges" : 12,
+"Duas" : 12
+}]
+}

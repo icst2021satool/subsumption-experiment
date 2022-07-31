@@ -1,0 +1,18 @@
+{
+"Class" : "weka.gui.experiment.AlgorithmListPanel$1$1", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Edges" : 14,
+"Duas" : 31,
+"11" : 7, 
+ "12" : 8, 
+ "13" : 2, 
+ "14" : 3, 
+ "17" : 11, 
+ "18" : 12, 
+ "21" : 0, 
+ "22" : 1, 
+ "23" : 11, 
+ "24" : 12, 
+ "27" : 11, 
+ "28" : 12}]
+}

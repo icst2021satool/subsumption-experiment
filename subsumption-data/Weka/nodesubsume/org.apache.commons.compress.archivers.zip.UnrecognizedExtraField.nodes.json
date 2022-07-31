@@ -1,0 +1,29 @@
+{
+"Class" : "org.apache.commons.compress.archivers.zip.UnrecognizedExtraField", 
+"Methods" : [{ "Name" : "getLocalFileDataLength" ,
+"Nodes" : 5,
+"0" : [ 76 ]
+"1" : [ 76 ]
+"2" : [ 76 ]
+"3" : [ 76 ]
+"4" : [  ]
+},{ "Name" : "getCentralDirectoryLength" ,
+"Nodes" : 4,
+"0" : [ 109 ]
+"1" : [ 112 ]
+"2" : [ 110 ]
+"3" : [  ]
+},{ "Name" : "getCentralDirectoryData" ,
+"Nodes" : 4,
+"0" : [ 121 ]
+"1" : [ 124 ]
+"2" : [ 122 ]
+"3" : [  ]
+},{ "Name" : "parseFromCentralDirectoryData" ,
+"Nodes" : 4,
+"0" : [ 147,148,149 ]
+"1" : [ 152 ]
+"2" : [ 150 ]
+"3" : [  ]
+}]
+}

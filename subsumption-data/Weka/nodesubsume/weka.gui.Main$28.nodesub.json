@@ -1,0 +1,15 @@
+{
+"Class" : "weka.gui.Main$28", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Nodes" : 7,
+"0" : [ ],
+"1" : [ ],
+"3" : [ 7, 9],
+"4" : [ 3, 7, 9, 13],
+"5" : [ 1, 2, 5, 7, 9, 11, 12],
+"2" : [ 0, 4],
+"6" : [ 0, 4],
+"CoveredDUAsByNodes" : 11,
+"Duas" : 14
+}]
+}

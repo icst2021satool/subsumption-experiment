@@ -1,0 +1,28 @@
+{
+"Class" : "weka.core.pmml.jaxbbindings.Regression", 
+"Methods" : [{ "Name" : "getExtension" ,
+"Nodes" : 4,
+"0" : [ 111 ]
+"1" : [ 114 ]
+"2" : [ 112 ]
+"3" : [  ]
+},{ "Name" : "getResultField" ,
+"Nodes" : 4,
+"0" : [ 236 ]
+"1" : [ 239 ]
+"2" : [ 237 ]
+"3" : [  ]
+},{ "Name" : "getRegressionTable" ,
+"Nodes" : 4,
+"0" : [ 265 ]
+"1" : [ 268 ]
+"2" : [ 266 ]
+"3" : [  ]
+},{ "Name" : "getNormalizationMethod" ,
+"Nodes" : 4,
+"0" : [ 352 ]
+"1" : [ 355 ]
+"2" : [ 353 ]
+"3" : [  ]
+}]
+}

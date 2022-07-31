@@ -1,0 +1,12 @@
+{
+"Class" : "weka.gui.experiment.SetupPanel$13", 
+"Methods" : [{ "Name" : "windowClosing" ,
+"Edges" : 4,
+"2" : [ 0, 3, 4, 5, 6, 7, 9],
+"3" : [ 1, 2, 8, 10],
+"1" : [ 0, 2, 3, 4, 5, 6, 7, 9, 10],
+"0" : [ 2, 10],
+"CoveredDUAsByEdges" : 11,
+"Duas" : 11
+}]
+}

@@ -1,0 +1,8 @@
+{
+"Class" : "weka.gui.sql.SqlViewer$2", 
+"Methods" : [{ "Name" : "run" ,
+"Edges" : 2,
+"0" : [ 0,1 ],
+"1" : [ 1,0 ]
+}]
+}

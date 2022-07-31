@@ -1,0 +1,7 @@
+{
+"Class" : "com.sun.xml.bind.util.SecureLoader", 
+"Methods" : [{ "Name" : "getClassClassLoader" ,
+"Edges" : 4,
+"Duas" : 2,
+}]
+}

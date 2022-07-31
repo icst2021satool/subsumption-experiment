@@ -1,0 +1,13 @@
+{
+"Class" : "org.apache.commons.compress.archivers.dump.DumpArchiveInputStream$1", 
+"Methods" : [{ "Name" : "compare" ,
+"Nodes" : 5,
+"0" : [ ],
+"2" : [ 0],
+"3" : [ 0, 2, 4, 5],
+"1" : [ ],
+"4" : [ ],
+"CoveredDUAsByNodes" : 4,
+"Duas" : 6
+}]
+}

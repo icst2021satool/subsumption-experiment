@@ -1,0 +1,35 @@
+{
+"Class" : "weka.gui.streams.InstanceCounter", 
+"Methods" : [{ "Name" : "input" ,
+"Nodes" : 4,
+"0" : [ ],
+"2" : [ 0, 5, 6, 8],
+"1" : [ 2, 3, 4, 9, 10],
+"3" : [ 2, 3, 4, 9, 10],
+"CoveredDUAsByNodes" : 9,
+"Duas" : 11
+},{ "Name" : "inputFormat" ,
+"Nodes" : 4,
+"0" : [ ],
+"2" : [ 0, 4, 6],
+"1" : [ 2, 3, 7],
+"3" : [ 2, 3, 7],
+"CoveredDUAsByNodes" : 6,
+"Duas" : 8
+},{ "Name" : "instanceProduced" ,
+"Nodes" : 11,
+"0" : [ ],
+"1" : [ 10, 14],
+"3" : [ 13, 15],
+"4" : [ 7, 13, 15],
+"6" : [ 0, 7, 8, 11, 13, 15],
+"7" : [ 16, 2, 6, 13, 15],
+"8" : [ 17, 3, 5, 13, 15],
+"9" : [ 4, 12, 13, 15],
+"5" : [ 13, 15],
+"2" : [ ],
+"10" : [ ],
+"CoveredDUAsByNodes" : 16,
+"Duas" : 18
+}]
+}

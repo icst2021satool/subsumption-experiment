@@ -1,0 +1,10 @@
+{
+"Class" : "weka.classifiers.pmml.consumer.SupportVectorMachineModel$RadialBasisKernel", 
+"Methods" : [{ "Name" : "<init>" ,
+"Edges" : 6,
+"Duas" : 6,
+"1" : 4, 
+ "2" : 5, 
+ "3" : 0, 
+ "4" : 1}]
+}

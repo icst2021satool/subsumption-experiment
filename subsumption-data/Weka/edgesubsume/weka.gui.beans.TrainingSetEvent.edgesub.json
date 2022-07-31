@@ -1,0 +1,14 @@
+{
+"Class" : "weka.gui.beans.TrainingSetEvent", 
+"Methods" : [{ "Name" : "<init>" ,
+"Edges" : 6,
+"0" : [ 0, 5],
+"1" : [ 1, 6],
+"3" : [ 0, 2, 4, 5, 7],
+"4" : [ 3, 8],
+"2" : [ 0, 2, 4, 5, 7],
+"5" : [ ],
+"CoveredDUAsByEdges" : 9,
+"Duas" : 9
+}]
+}

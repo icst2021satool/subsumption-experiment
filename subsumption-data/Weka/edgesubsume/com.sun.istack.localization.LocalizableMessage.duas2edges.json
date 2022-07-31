@@ -1,0 +1,14 @@
+{
+"Class" : "com.sun.istack.localization.LocalizableMessage", 
+"Methods" : [{ "Name" : "<init>" ,
+"Edges" : 4,
+"Duas" : 5,
+"1" : 0, 
+ "2" : 1},{ "Name" : "getResourceBundle" ,
+"Edges" : 4,
+"Duas" : 7,
+"0" : 0, 
+ "1" : 1, 
+ "4" : 0, 
+ "5" : 1}]
+}

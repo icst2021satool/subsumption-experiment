@@ -1,0 +1,13 @@
+{
+"Class" : "weka.core.tokenizers.CharacterDelimitedTokenizer", 
+"Methods" : [{ "Name" : "setOptions" ,
+"Nodes" : 5,
+"0" : [ ],
+"1" : [ 0, 3],
+"3" : [ 1, 2, 4],
+"2" : [ ],
+"4" : [ ],
+"CoveredDUAsByNodes" : 5,
+"Duas" : 5
+}]
+}

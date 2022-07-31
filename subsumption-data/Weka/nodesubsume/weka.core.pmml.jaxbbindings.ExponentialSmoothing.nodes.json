@@ -1,0 +1,16 @@
+{
+"Class" : "weka.core.pmml.jaxbbindings.ExponentialSmoothing", 
+"Methods" : [{ "Name" : "getTimeValue" ,
+"Nodes" : 4,
+"0" : [ 176 ]
+"1" : [ 179 ]
+"2" : [ 177 ]
+"3" : [  ]
+},{ "Name" : "getTransformation" ,
+"Nodes" : 4,
+"0" : [ 215 ]
+"1" : [ 218 ]
+"2" : [ 216 ]
+"3" : [  ]
+}]
+}

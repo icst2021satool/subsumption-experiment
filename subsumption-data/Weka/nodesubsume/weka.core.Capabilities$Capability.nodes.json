@@ -1,0 +1,39 @@
+{
+"Class" : "weka.core.Capabilities$Capability", 
+"Methods" : [{ "Name" : "isAttribute" ,
+"Nodes" : 5,
+"0" : [ 218 ]
+"1" : [ 218 ]
+"2" : [ 218 ]
+"3" : [ 218 ]
+"4" : [  ]
+},{ "Name" : "isClass" ,
+"Nodes" : 5,
+"0" : [ 227 ]
+"1" : [ 227 ]
+"2" : [ 227 ]
+"3" : [ 227 ]
+"4" : [  ]
+},{ "Name" : "isAttributeCapability" ,
+"Nodes" : 5,
+"0" : [ 236 ]
+"1" : [ 236 ]
+"2" : [ 236 ]
+"3" : [ 236 ]
+"4" : [  ]
+},{ "Name" : "isOtherCapability" ,
+"Nodes" : 5,
+"0" : [ 245 ]
+"1" : [ 245 ]
+"2" : [ 245 ]
+"3" : [ 245 ]
+"4" : [  ]
+},{ "Name" : "isClassCapability" ,
+"Nodes" : 5,
+"0" : [ 254 ]
+"1" : [ 254 ]
+"2" : [ 254 ]
+"3" : [ 254 ]
+"4" : [  ]
+}]
+}

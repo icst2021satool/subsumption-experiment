@@ -1,0 +1,8 @@
+{
+"Class" : "weka.gui.ReaderToTextPane", 
+"Methods" : [{ "Name" : "run" ,
+"Edges" : 2,
+"0" : [ 0,1 ],
+"1" : [ 1,2 ]
+}]
+}

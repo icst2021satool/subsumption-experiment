@@ -1,0 +1,18 @@
+{
+"Class" : "com.sun.xml.bind.v2.runtime.JAXBContextImpl$JAXBContextBuilder", 
+"Methods" : [{ "Name" : "build" ,
+"Nodes" : 10,
+"0" : [ ],
+"8" : [ 0, 12, 13],
+"1" : [ ],
+"7" : [ 2, 11, 15],
+"2" : [ ],
+"6" : [ 17, 4, 10],
+"3" : [ ],
+"5" : [ 19, 6, 9],
+"4" : [ 8],
+"9" : [ 8],
+"CoveredDUAsByNodes" : 13,
+"Duas" : 21
+}]
+}

@@ -1,0 +1,15 @@
+{
+"Class" : "weka.gui.experiment.OutputFormatDialog$6", 
+"Methods" : [{ "Name" : "propertyChange" ,
+"Nodes" : 7,
+"0" : [ ],
+"2" : [ 0, 18, 20, 9],
+"3" : [ 0, 18, 4, 20, 5, 23, 24, 9, 13, 14],
+"5" : [ 0, 16, 17, 18, 3, 20, 22, 7, 8, 9, 25, 12],
+"4" : [ 0, 18, 20, 6, 9, 15],
+"1" : [ 2, 11],
+"6" : [ 2, 11],
+"CoveredDUAsByNodes" : 22,
+"Duas" : 26
+}]
+}

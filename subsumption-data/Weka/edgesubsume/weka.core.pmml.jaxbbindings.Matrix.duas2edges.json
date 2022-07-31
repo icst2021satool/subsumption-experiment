@@ -1,0 +1,22 @@
+{
+"Class" : "weka.core.pmml.jaxbbindings.Matrix", 
+"Methods" : [{ "Name" : "getNUMARRAY" ,
+"Edges" : 4,
+"Duas" : 8,
+"0" : 2, 
+ "1" : 3, 
+ "4" : 2, 
+ "5" : 3},{ "Name" : "getMatCell" ,
+"Edges" : 4,
+"Duas" : 8,
+"0" : 0, 
+ "1" : 1, 
+ "4" : 0, 
+ "5" : 1},{ "Name" : "getKind" ,
+"Edges" : 4,
+"Duas" : 6,
+"0" : 0, 
+ "1" : 1, 
+ "3" : 0, 
+ "4" : 1}]
+}

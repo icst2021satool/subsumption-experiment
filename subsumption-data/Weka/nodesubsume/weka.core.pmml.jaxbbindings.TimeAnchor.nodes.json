@@ -1,0 +1,16 @@
+{
+"Class" : "weka.core.pmml.jaxbbindings.TimeAnchor", 
+"Methods" : [{ "Name" : "getTimeCycle" ,
+"Nodes" : 4,
+"0" : [ 92 ]
+"1" : [ 95 ]
+"2" : [ 93 ]
+"3" : [  ]
+},{ "Name" : "getTimeException" ,
+"Nodes" : 4,
+"0" : [ 121 ]
+"1" : [ 124 ]
+"2" : [ 122 ]
+"3" : [  ]
+}]
+}

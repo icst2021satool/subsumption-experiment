@@ -1,0 +1,16 @@
+{
+"Class" : "weka.core.pmml.jaxbbindings.Itemset", 
+"Methods" : [{ "Name" : "getExtension" ,
+"Nodes" : 4,
+"0" : [ 90 ]
+"1" : [ 93 ]
+"2" : [ 91 ]
+"3" : [  ]
+},{ "Name" : "getItemRef" ,
+"Nodes" : 4,
+"0" : [ 119 ]
+"1" : [ 122 ]
+"2" : [ 120 ]
+"3" : [  ]
+}]
+}

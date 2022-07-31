@@ -1,0 +1,8 @@
+{
+"Class" : "weka.gui.experiment.Experimenter", 
+"Methods" : [{ "Name" : "main" ,
+"Edges" : 4,
+"Duas" : 5,
+"0" : 0, 
+ "1" : 1}]
+}

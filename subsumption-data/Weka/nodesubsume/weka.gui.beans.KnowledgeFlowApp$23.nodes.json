@@ -1,0 +1,10 @@
+{
+"Class" : "weka.gui.beans.KnowledgeFlowApp$23", 
+"Methods" : [{ "Name" : "windowClosing" ,
+"Nodes" : 4,
+"0" : [ 5177 ]
+"1" : [ 5180,5181 ]
+"2" : [ 5178 ]
+"3" : [  ]
+}]
+}

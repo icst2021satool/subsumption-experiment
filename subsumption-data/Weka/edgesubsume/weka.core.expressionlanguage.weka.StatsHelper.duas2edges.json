@@ -1,0 +1,12 @@
+{
+"Class" : "weka.core.expressionlanguage.weka.StatsHelper", 
+"Methods" : [{ "Name" : "getVariable" ,
+"Edges" : 4,
+"Duas" : 13,
+"0" : 2, 
+ "1" : 3, 
+ "4" : 2, 
+ "5" : 3, 
+ "9" : 2, 
+ "10" : 3}]
+}

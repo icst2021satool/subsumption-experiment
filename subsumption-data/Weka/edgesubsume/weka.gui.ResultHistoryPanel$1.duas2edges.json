@@ -1,0 +1,16 @@
+{
+"Class" : "weka.gui.ResultHistoryPanel$1", 
+"Methods" : [{ "Name" : "mouseClicked" ,
+"Edges" : 9,
+"Duas" : 20,
+"0" : 5, 
+ "1" : 6, 
+ "5" : 2, 
+ "6" : 3, 
+ "8" : 5, 
+ "9" : 6, 
+ "13" : 5, 
+ "14" : 6, 
+ "17" : 0, 
+ "18" : 1}]
+}

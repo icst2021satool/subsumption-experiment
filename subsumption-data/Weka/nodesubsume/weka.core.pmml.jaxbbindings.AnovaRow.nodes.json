@@ -1,0 +1,10 @@
+{
+"Class" : "weka.core.pmml.jaxbbindings.AnovaRow", 
+"Methods" : [{ "Name" : "getExtension" ,
+"Nodes" : 4,
+"0" : [ 102 ]
+"1" : [ 105 ]
+"2" : [ 103 ]
+"3" : [  ]
+}]
+}

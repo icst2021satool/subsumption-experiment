@@ -1,0 +1,13 @@
+{
+"Class" : "weka.gui.visualize.MatrixPanel$1", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Nodes" : 5,
+"0" : [ ],
+"1" : [ 3, 8, 9],
+"3" : [ 6, 7],
+"2" : [ 0, 1, 2, 4, 5],
+"4" : [ 0, 1, 2, 4, 5],
+"CoveredDUAsByNodes" : 10,
+"Duas" : 10
+}]
+}

@@ -1,0 +1,11 @@
+{
+"Class" : "weka.gui.beans.SQLViewerPerspective$2", 
+"Methods" : [{ "Name" : "connectionChange" ,
+"Nodes" : 5,
+"0" : [ 86 ]
+"1" : [ 89 ]
+"2" : [ 91 ]
+"3" : [ 87 ]
+"4" : [  ]
+}]
+}

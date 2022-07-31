@@ -1,0 +1,10 @@
+{
+"Class" : "weka.gui.beans.KnowledgeFlowApp$CloseableTabTitle$1", 
+"Methods" : [{ "Name" : "getText" ,
+"Nodes" : 4,
+"0" : [ 2941,2942,2943 ]
+"1" : [ 2946 ]
+"2" : [ 2944 ]
+"3" : [  ]
+}]
+}

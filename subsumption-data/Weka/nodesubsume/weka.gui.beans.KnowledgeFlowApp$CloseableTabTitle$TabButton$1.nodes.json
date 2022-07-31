@@ -1,0 +1,18 @@
+{
+"Class" : "weka.gui.beans.KnowledgeFlowApp$CloseableTabTitle$TabButton$1", 
+"Methods" : [{ "Name" : "mouseEntered" ,
+"Nodes" : 6,
+"0" : [ 2988,2990 ]
+"1" : [ 3002 ]
+"2" : [ 2992,2994,2995,2996,2991 ]
+"3" : [ 2999 ]
+"4" : [ 2997 ]
+"5" : [  ]
+},{ "Name" : "mouseExited" ,
+"Nodes" : 4,
+"0" : [ 3006,3007 ]
+"1" : [ 3011 ]
+"2" : [ 3008,3009 ]
+"3" : [  ]
+}]
+}

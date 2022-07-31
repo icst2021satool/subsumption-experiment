@@ -1,0 +1,15 @@
+{
+"Class" : "weka.core.stopwords.WordsFromFile", 
+"Methods" : [{ "Name" : "initialize" ,
+"Nodes" : 7,
+"0" : [ ],
+"1" : [ ],
+"2" : [ ],
+"6" : [ ],
+"3" : [ ],
+"5" : [ 0, 1, 2, 4],
+"4" : [ ],
+"CoveredDUAsByNodes" : 4,
+"Duas" : 5
+}]
+}

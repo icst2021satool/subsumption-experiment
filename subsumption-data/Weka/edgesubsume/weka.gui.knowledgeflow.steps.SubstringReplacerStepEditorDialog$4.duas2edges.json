@@ -1,0 +1,16 @@
+{
+"Class" : "weka.gui.knowledgeflow.steps.SubstringReplacerStepEditorDialog$4", 
+"Methods" : [{ "Name" : "valueChanged" ,
+"Edges" : 9,
+"Duas" : 34,
+"0" : 7, 
+ "1" : 8, 
+ "10" : 4, 
+ "11" : 5, 
+ "12" : 7, 
+ "13" : 8, 
+ "22" : 7, 
+ "23" : 8, 
+ "31" : 0, 
+ "32" : 1}]
+}

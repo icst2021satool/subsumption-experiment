@@ -1,0 +1,13 @@
+{
+"Class" : "weka.core.DateAttributeInfo", 
+"Methods" : [{ "Name" : "<init>" ,
+"Nodes" : 5,
+"0" : [ ],
+"1" : [ 0, 4],
+"3" : [ 2, 3, 5],
+"2" : [ 1],
+"4" : [ 1],
+"CoveredDUAsByNodes" : 6,
+"Duas" : 8
+}]
+}

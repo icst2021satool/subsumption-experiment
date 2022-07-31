@@ -1,0 +1,19 @@
+{
+"Class" : "weka.classifiers.pmml.consumer.SupportVectorMachineModel$Kernel", 
+"Methods" : [{ "Name" : "getKernel" ,
+"Edges" : 13,
+"0" : [ 0,8 ],
+"1" : [ 0,1 ],
+"2" : [ 1,7 ],
+"3" : [ 1,2 ],
+"4" : [ 5,9 ],
+"5" : [ 3,5 ],
+"6" : [ 3,4 ],
+"7" : [ 6,9 ],
+"8" : [ 2,6 ],
+"9" : [ 2,3 ],
+"10" : [ 7,9 ],
+"11" : [ 4,9 ],
+"12" : [ 8,9 ]
+}]
+}

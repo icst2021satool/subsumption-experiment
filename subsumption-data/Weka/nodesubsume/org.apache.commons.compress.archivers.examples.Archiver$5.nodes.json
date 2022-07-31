@@ -1,0 +1,16 @@
+{
+"Class" : "org.apache.commons.compress.archivers.examples.Archiver$5", 
+"Methods" : [{ "Name" : "accept" ,
+"Nodes" : 10,
+"0" : [ 244,245 ]
+"1" : [ 256,257 ]
+"2" : [ 246,247,248,249 ]
+"3" : [ 250 ]
+"4" : [ 254 ]
+"5" : [ 254 ]
+"6" : [ 254 ]
+"7" : [ 254 ]
+"8" : [ 251,252 ]
+"9" : [  ]
+}]
+}

@@ -1,0 +1,48 @@
+{
+"Class" : "weka.knowledgeflow.steps.ImageViewer", 
+"Methods" : [{ "Name" : "getOutgoingConnectionTypes" ,
+"Nodes" : 5,
+"0" : [ 87 ]
+"1" : [ 88 ]
+"2" : [ 87 ]
+"3" : [ 88 ]
+"4" : [  ]
+},{ "Name" : "processIncoming" ,
+"Nodes" : 7,
+"0" : [ 99,100,101,102,104 ]
+"1" : [ 108,109 ]
+"2" : [ 112 ]
+"3" : [ 115,117,120,121,122 ]
+"4" : [ 110 ]
+"5" : [ 105 ]
+"6" : [  ]
+},{ "Name" : "getInteractiveViewers" ,
+"Nodes" : 4,
+"0" : [ 144,142 ]
+"1" : [ 149 ]
+"2" : [ 145 ]
+"3" : [  ]
+},{ "Name" : "restoreData" ,
+"Nodes" : 4,
+"0" : [ 175 ]
+"1" : [ 181,184,185 ]
+"2" : [ 176 ]
+"3" : [  ]
+},{ "Name" : "byteArrayImageMapToBufferedImageMap" ,
+"Nodes" : 7,
+"0" : [ 197,200,201 ]
+"1" : [ 201 ]
+"2" : [ 211 ]
+"3" : [ 201,202,203,204,206,207 ]
+"4" : [ 210 ]
+"5" : [ 208 ]
+"6" : [  ]
+},{ "Name" : "bufferedImageMapToSerializableByteMap" ,
+"Nodes" : 5,
+"0" : [ 224,223 ]
+"1" : [ 224 ]
+"2" : [ 236 ]
+"3" : [ 224,225,226,227,229,230,233,234 ]
+"4" : [  ]
+}]
+}

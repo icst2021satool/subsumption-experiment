@@ -1,0 +1,28 @@
+{
+"Class" : "weka.core.pmml.jaxbbindings.MultivariateStat", 
+"Methods" : [{ "Name" : "getExtension" ,
+"Nodes" : 4,
+"0" : [ 125 ]
+"1" : [ 128 ]
+"2" : [ 126 ]
+"3" : [  ]
+},{ "Name" : "getConfidenceLevel" ,
+"Nodes" : 4,
+"0" : [ 188 ]
+"1" : [ 191 ]
+"2" : [ 189 ]
+"3" : [  ]
+},{ "Name" : "getExponent" ,
+"Nodes" : 4,
+"0" : [ 288 ]
+"1" : [ 291 ]
+"2" : [ 289 ]
+"3" : [  ]
+},{ "Name" : "isIsIntercept" ,
+"Nodes" : 4,
+"0" : [ 364 ]
+"1" : [ 367 ]
+"2" : [ 365 ]
+"3" : [  ]
+}]
+}

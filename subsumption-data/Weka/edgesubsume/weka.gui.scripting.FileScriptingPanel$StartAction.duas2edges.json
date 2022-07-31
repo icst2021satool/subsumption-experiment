@@ -1,0 +1,22 @@
+{
+"Class" : "weka.gui.scripting.FileScriptingPanel$StartAction", 
+"Methods" : [{ "Name" : "<init>" ,
+"Edges" : 5,
+"Duas" : 7,
+"2" : 3, 
+ "3" : 4, 
+ "5" : 3, 
+ "6" : 4},{ "Name" : "actionPerformed" ,
+"Edges" : 7,
+"Duas" : 14,
+"0" : 3, 
+ "1" : 4, 
+ "2" : 5, 
+ "3" : 6, 
+ "5" : 3, 
+ "6" : 4, 
+ "7" : 5, 
+ "8" : 6, 
+ "10" : 5, 
+ "11" : 6}]
+}

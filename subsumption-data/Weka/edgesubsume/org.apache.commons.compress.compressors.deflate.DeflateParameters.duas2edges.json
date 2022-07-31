@@ -1,0 +1,10 @@
+{
+"Class" : "org.apache.commons.compress.compressors.deflate.DeflateParameters", 
+"Methods" : [{ "Name" : "setCompressionLevel" ,
+"Edges" : 6,
+"Duas" : 7,
+"1" : 0, 
+ "2" : 1, 
+ "4" : 4, 
+ "5" : 5}]
+}

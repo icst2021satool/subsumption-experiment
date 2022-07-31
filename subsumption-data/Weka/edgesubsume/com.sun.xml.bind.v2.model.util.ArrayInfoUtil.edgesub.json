@@ -1,0 +1,13 @@
+{
+"Class" : "com.sun.xml.bind.v2.model.util.ArrayInfoUtil", 
+"Methods" : [{ "Name" : "calcArrayTypeName" ,
+"Edges" : 5,
+"3" : [ 0],
+"4" : [ 1, 2],
+"1" : [ 1, 2, 3],
+"0" : [ 0, 3],
+"2" : [ 3],
+"CoveredDUAsByEdges" : 4,
+"Duas" : 6
+}]
+}

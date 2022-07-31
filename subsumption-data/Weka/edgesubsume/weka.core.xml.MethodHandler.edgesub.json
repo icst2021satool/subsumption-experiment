@@ -1,0 +1,38 @@
+{
+"Class" : "weka.core.xml.MethodHandler", 
+"Methods" : [{ "Name" : "add" ,
+"Edges" : 4,
+"2" : [ 0, 1, 2, 4, 5],
+"3" : [ 3],
+"0" : [ 0, 1, 2, 4, 5],
+"1" : [ ],
+"CoveredDUAsByEdges" : 6,
+"Duas" : 6
+},{ "Name" : "add" ,
+"Edges" : 4,
+"1" : [ 0, 1, 2, 4, 5],
+"2" : [ 3],
+"0" : [ 0, 1, 2, 4, 5],
+"3" : [ ],
+"CoveredDUAsByEdges" : 6,
+"Duas" : 6
+},{ "Name" : "remove" ,
+"Edges" : 5,
+"2" : [ 0, 2, 4],
+"3" : [ 1, 3, 5],
+"4" : [ 1, 3, 5],
+"0" : [ 0, 2, 4],
+"1" : [ ],
+"CoveredDUAsByEdges" : 6,
+"Duas" : 6
+},{ "Name" : "remove" ,
+"Edges" : 5,
+"3" : [ 0, 2, 4],
+"4" : [ 1, 3, 5],
+"1" : [ 1, 3, 5],
+"0" : [ 0, 2, 4],
+"2" : [ ],
+"CoveredDUAsByEdges" : 6,
+"Duas" : 6
+}]
+}

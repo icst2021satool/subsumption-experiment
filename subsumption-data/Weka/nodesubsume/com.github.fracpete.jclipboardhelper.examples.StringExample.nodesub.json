@@ -1,0 +1,13 @@
+{
+"Class" : "com.github.fracpete.jclipboardhelper.examples.StringExample", 
+"Methods" : [{ "Name" : "main" ,
+"Nodes" : 5,
+"0" : [ ],
+"1" : [ 0, 1],
+"3" : [ 2, 3],
+"2" : [ ],
+"4" : [ ],
+"CoveredDUAsByNodes" : 4,
+"Duas" : 4
+}]
+}

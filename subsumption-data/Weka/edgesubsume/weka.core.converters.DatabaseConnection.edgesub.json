@@ -1,0 +1,20 @@
+{
+"Class" : "weka.core.converters.DatabaseConnection", 
+"Methods" : [{ "Name" : "getMetaData" ,
+"Edges" : 4,
+"2" : [ 0],
+"3" : [ 1, 2, 3],
+"1" : [ 1, 2, 3],
+"0" : [ 0],
+"CoveredDUAsByEdges" : 4,
+"Duas" : 4
+},{ "Name" : "getUpdateCount" ,
+"Edges" : 4,
+"1" : [ 0],
+"2" : [ 1, 2, 3],
+"0" : [ 1, 2, 3],
+"3" : [ 0],
+"CoveredDUAsByEdges" : 4,
+"Duas" : 4
+}]
+}

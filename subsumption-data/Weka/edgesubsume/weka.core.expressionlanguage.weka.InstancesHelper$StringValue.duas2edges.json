@@ -1,0 +1,16 @@
+{
+"Class" : "weka.core.expressionlanguage.weka.InstancesHelper$StringValue", 
+"Methods" : [{ "Name" : "<init>" ,
+"Edges" : 8,
+"Duas" : 6,
+"0" : 1, 
+ "1" : 2, 
+ "2" : 5, 
+ "3" : 6, 
+ "4" : 3, 
+ "5" : 4},{ "Name" : "evaluate" ,
+"Edges" : 4,
+"Duas" : 6,
+"0" : 1, 
+ "1" : 2}]
+}

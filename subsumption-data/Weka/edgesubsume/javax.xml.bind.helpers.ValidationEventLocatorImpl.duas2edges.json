@@ -1,0 +1,20 @@
+{
+"Class" : "javax.xml.bind.helpers.ValidationEventLocatorImpl", 
+"Methods" : [{ "Name" : "<init>" ,
+"Edges" : 4,
+"Duas" : 8,
+"3" : 1, 
+ "4" : 2},{ "Name" : "<init>" ,
+"Edges" : 4,
+"Duas" : 8,
+"3" : 2, 
+ "4" : 3},{ "Name" : "<init>" ,
+"Edges" : 4,
+"Duas" : 4,
+"1" : 0, 
+ "2" : 1},{ "Name" : "<init>" ,
+"Edges" : 4,
+"Duas" : 4,
+"1" : 1, 
+ "2" : 2}]
+}

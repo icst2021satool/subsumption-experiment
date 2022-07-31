@@ -1,0 +1,11 @@
+{
+"Class" : "weka.datagenerators.classifiers.classification.Agrawal$8", 
+"Methods" : [{ "Name" : "determineClass" ,
+"Nodes" : 5,
+"0" : [ 352,350 ]
+"1" : [ 352 ]
+"2" : [ 352 ]
+"3" : [ 352 ]
+"4" : [  ]
+}]
+}

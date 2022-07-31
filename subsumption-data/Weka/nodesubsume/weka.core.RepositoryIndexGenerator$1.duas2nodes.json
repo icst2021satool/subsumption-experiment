@@ -1,0 +1,12 @@
+{
+"Class" : "weka.core.RepositoryIndexGenerator$1", 
+"Methods" : [{ "Name" : "compare" ,
+"Nodes" : 6,
+"Duas" : 6,
+"0" :  [ 0,4 ],
+"1" :  [ 0,1 ],
+"2" :  [ 0,2 ],
+"3" :  [ 0,1,3 ],
+"4" :  [ 0,1,2 ],
+"5" :  [ 0,2 ]}]
+}

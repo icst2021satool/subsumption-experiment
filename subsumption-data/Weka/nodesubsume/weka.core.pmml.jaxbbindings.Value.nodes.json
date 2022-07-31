@@ -1,0 +1,16 @@
+{
+"Class" : "weka.core.pmml.jaxbbindings.Value", 
+"Methods" : [{ "Name" : "getExtension" ,
+"Nodes" : 4,
+"0" : [ 98 ]
+"1" : [ 101 ]
+"2" : [ 99 ]
+"3" : [  ]
+},{ "Name" : "getProperty" ,
+"Nodes" : 4,
+"0" : [ 137 ]
+"1" : [ 140 ]
+"2" : [ 138 ]
+"3" : [  ]
+}]
+}

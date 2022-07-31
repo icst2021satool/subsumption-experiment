@@ -1,0 +1,14 @@
+{
+"Class" : "weka.classifiers.meta.LogitBoost$1", 
+"Methods" : [{ "Name" : "call" ,
+"Edges" : 5,
+"Duas" : 16,
+"0" : 3, 
+ "1" : 4, 
+ "3" : 3, 
+ "4" : 4, 
+ "8" : 3, 
+ "9" : 4, 
+ "12" : 3, 
+ "13" : 4}]
+}

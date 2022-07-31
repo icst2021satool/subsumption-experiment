@@ -1,0 +1,13 @@
+{
+"Class" : "weka.gui.AttributeSelectionPanel$5", 
+"Methods" : [{ "Name" : "mouseClicked" ,
+"Nodes" : 5,
+"0" : [ ],
+"3" : [ 1],
+"1" : [ 0, 3, 6],
+"2" : [ ],
+"4" : [ ],
+"CoveredDUAsByNodes" : 4,
+"Duas" : 7
+}]
+}

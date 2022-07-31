@@ -1,0 +1,18 @@
+{
+"Class" : "weka.gui.beans.KnowledgeFlowApp$InvisibleTreeModel", 
+"Methods" : [{ "Name" : "getChild" ,
+"Nodes" : 5,
+"0" : [ 517 ]
+"1" : [ 522 ]
+"2" : [ 518 ]
+"3" : [ 519 ]
+"4" : [  ]
+},{ "Name" : "getChildCount" ,
+"Nodes" : 5,
+"0" : [ 527 ]
+"1" : [ 532 ]
+"2" : [ 528 ]
+"3" : [ 529 ]
+"4" : [  ]
+}]
+}

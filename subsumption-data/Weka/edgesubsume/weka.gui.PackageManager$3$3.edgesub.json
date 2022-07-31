@@ -1,0 +1,12 @@
+{
+"Class" : "weka.gui.PackageManager$3$3", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Edges" : 4,
+"2" : [ 0, 2, 3, 4, 5, 7, 8, 9, 11, 12, 13, 15, 16],
+"3" : [ 1, 6, 10, 14],
+"0" : [ 0, 2, 3, 4, 5, 7, 8, 9, 11, 12, 13, 15, 16],
+"1" : [ ],
+"CoveredDUAsByEdges" : 17,
+"Duas" : 17
+}]
+}

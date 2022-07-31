@@ -1,0 +1,19 @@
+{
+"Class" : "com.sun.xml.bind.v2.schemagen.Tree$Group", 
+"Methods" : [{ "Name" : "isNullable" ,
+"Edges" : 18,
+"Duas" : 14,
+"0" : 5, 
+ "1" : 6, 
+ "4" : 5, 
+ "5" : 6, 
+ "6" : 5, 
+ "7" : 6, 
+ "10" : 15, 
+ "11" : 16, 
+ "12" : 3, 
+ "13" : 4},{ "Name" : "write" ,
+"Edges" : 5,
+"Duas" : 1,
+}]
+}

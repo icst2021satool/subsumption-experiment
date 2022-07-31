@@ -1,0 +1,12 @@
+{
+"Class" : "com.sun.xml.bind.v2.schemagen.MultiMap", 
+"Methods" : [{ "Name" : "put" ,
+"Edges" : 6,
+"Duas" : 10,
+"2" : 3, 
+ "3" : 4, 
+ "5" : 0, 
+ "6" : 1, 
+ "8" : 3, 
+ "9" : 4}]
+}

@@ -1,0 +1,32 @@
+{
+"Class" : "javax.activation.DataSourceDataContentHandler", 
+"Methods" : [{ "Name" : "getTransferDataFlavors" ,
+"Nodes" : 6,
+"0" : [ 744 ]
+"1" : [ 754 ]
+"2" : [ 745 ]
+"3" : [ 748,749,750,751 ]
+"4" : [ 746 ]
+"5" : [  ]
+},{ "Name" : "getTransferData" ,
+"Nodes" : 6,
+"0" : [ 766 ]
+"1" : [ 768 ]
+"2" : [ 771 ]
+"3" : [ 769 ]
+"4" : [ 767 ]
+"5" : [  ]
+},{ "Name" : "getContent" ,
+"Nodes" : 4,
+"0" : [ 776 ]
+"1" : [ 779 ]
+"2" : [ 777 ]
+"3" : [  ]
+},{ "Name" : "writeTo" ,
+"Nodes" : 4,
+"0" : [ 787 ]
+"1" : [ 790,791 ]
+"2" : [ 788,792 ]
+"3" : [  ]
+}]
+}

@@ -1,0 +1,16 @@
+{
+"Class" : "com.sun.xml.bind.v2.runtime.property.SingleReferenceNodeProperty$1", 
+"Methods" : [{ "Name" : "get" ,
+"Nodes" : 4,
+"0" : [ 115,116 ]
+"1" : [ 120 ]
+"2" : [ 117 ]
+"3" : [  ]
+},{ "Name" : "set" ,
+"Nodes" : 4,
+"0" : [ 124 ]
+"1" : [ 135,136 ]
+"2" : [ 133,126 ]
+"3" : [  ]
+}]
+}

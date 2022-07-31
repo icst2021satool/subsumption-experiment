@@ -1,0 +1,11 @@
+{
+"Class" : "weka.gui.beans.NoteCustomizer", 
+"Methods" : [{ "Name" : "customizerClosing" ,
+"Nodes" : 5,
+"0" : [ 103 ]
+"1" : [ 110 ]
+"2" : [ 104,106 ]
+"3" : [ 107 ]
+"4" : [  ]
+}]
+}

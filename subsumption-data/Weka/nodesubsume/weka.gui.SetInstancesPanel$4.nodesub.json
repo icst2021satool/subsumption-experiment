@@ -1,0 +1,14 @@
+{
+"Class" : "weka.gui.SetInstancesPanel$4", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Nodes" : 6,
+"0" : [ ],
+"2" : [ 0, 16, 8],
+"3" : [ 0, 16, 2, 21, 8, 10],
+"4" : [ 0, 2, 4, 6, 7, 8, 10, 12, 14, 15, 16, 18, 20, 21, 23, 25, 26],
+"1" : [ ],
+"5" : [ ],
+"CoveredDUAsByNodes" : 17,
+"Duas" : 27
+}]
+}

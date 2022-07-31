@@ -1,0 +1,10 @@
+{
+"Class" : "weka.gui.DatabaseConnectionDialog", 
+"Methods" : [{ "Name" : "DbConnectionDialog" ,
+"Edges" : 8,
+"Duas" : 52,
+"38" : 6, 
+ "39" : 7, 
+ "40" : 3, 
+ "41" : 4}]
+}

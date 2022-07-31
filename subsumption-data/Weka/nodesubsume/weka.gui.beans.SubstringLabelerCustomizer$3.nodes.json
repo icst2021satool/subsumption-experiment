@@ -1,0 +1,10 @@
+{
+"Class" : "weka.gui.beans.SubstringLabelerCustomizer$3", 
+"Methods" : [{ "Name" : "propertyChange" ,
+"Nodes" : 4,
+"0" : [ 211,212 ]
+"1" : [ 217 ]
+"2" : [ 213,214,215 ]
+"3" : [  ]
+}]
+}

@@ -1,0 +1,28 @@
+{
+"Class" : "weka.core.pmml.jaxbbindings.Target", 
+"Methods" : [{ "Name" : "getExtension" ,
+"Nodes" : 4,
+"0" : [ 108 ]
+"1" : [ 111 ]
+"2" : [ 109 ]
+"3" : [  ]
+},{ "Name" : "getTargetValue" ,
+"Nodes" : 4,
+"0" : [ 137 ]
+"1" : [ 140 ]
+"2" : [ 138 ]
+"3" : [  ]
+},{ "Name" : "getRescaleConstant" ,
+"Nodes" : 4,
+"0" : [ 272 ]
+"1" : [ 275 ]
+"2" : [ 273 ]
+"3" : [  ]
+},{ "Name" : "getRescaleFactor" ,
+"Nodes" : 4,
+"0" : [ 300 ]
+"1" : [ 303 ]
+"2" : [ 301 ]
+"3" : [  ]
+}]
+}

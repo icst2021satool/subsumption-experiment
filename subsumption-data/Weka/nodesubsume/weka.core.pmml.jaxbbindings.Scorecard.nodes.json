@@ -1,0 +1,40 @@
+{
+"Class" : "weka.core.pmml.jaxbbindings.Scorecard", 
+"Methods" : [{ "Name" : "getContent" ,
+"Nodes" : 4,
+"0" : [ 157 ]
+"1" : [ 160 ]
+"2" : [ 158 ]
+"3" : [  ]
+},{ "Name" : "getBaselineMethod" ,
+"Nodes" : 4,
+"0" : [ 196 ]
+"1" : [ 199 ]
+"2" : [ 197 ]
+"3" : [  ]
+},{ "Name" : "getInitialScore" ,
+"Nodes" : 4,
+"0" : [ 272 ]
+"1" : [ 275 ]
+"2" : [ 273 ]
+"3" : [  ]
+},{ "Name" : "isIsScorable" ,
+"Nodes" : 4,
+"0" : [ 300 ]
+"1" : [ 303 ]
+"2" : [ 301 ]
+"3" : [  ]
+},{ "Name" : "getReasonCodeAlgorithm" ,
+"Nodes" : 4,
+"0" : [ 352 ]
+"1" : [ 355 ]
+"2" : [ 353 ]
+"3" : [  ]
+},{ "Name" : "isUseReasonCodes" ,
+"Nodes" : 4,
+"0" : [ 380 ]
+"1" : [ 383 ]
+"2" : [ 381 ]
+"3" : [  ]
+}]
+}

@@ -1,0 +1,16 @@
+{
+"Class" : "com.sun.xml.bind.v2.runtime.property.SingleMapNodeProperty$1", 
+"Methods" : [{ "Name" : "startElement" ,
+"Edges" : 5,
+"Duas" : 15,
+"8" : 0, 
+ "9" : 1},{ "Name" : "childElement" ,
+"Edges" : 5,
+"Duas" : 12,
+"0" : 0, 
+ "1" : 1, 
+ "6" : 0, 
+ "7" : 1, 
+ "9" : 0, 
+ "10" : 1}]
+}

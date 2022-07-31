@@ -1,0 +1,13 @@
+{
+"Class" : "weka.gui.beans.Sorter$SortComparator", 
+"Methods" : [{ "Name" : "compare" ,
+"Nodes" : 7,
+"0" : [ 180,181 ]
+"1" : [ 181 ]
+"2" : [ 188 ]
+"3" : [ 181,182,183 ]
+"4" : [ 186 ]
+"5" : [ 184 ]
+"6" : [  ]
+}]
+}

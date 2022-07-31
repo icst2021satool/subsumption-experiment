@@ -1,0 +1,13 @@
+{
+"Class" : "weka.gui.beans.Note", 
+"Methods" : [{ "Name" : "setHighlighted" ,
+"Edges" : 5,
+"0" : [ 2, 3, 5],
+"1" : [ 0, 4, 6],
+"2" : [ 0, 1, 4, 6],
+"4" : [ 1, 2, 3, 5],
+"3" : [ 1],
+"CoveredDUAsByEdges" : 7,
+"Duas" : 7
+}]
+}

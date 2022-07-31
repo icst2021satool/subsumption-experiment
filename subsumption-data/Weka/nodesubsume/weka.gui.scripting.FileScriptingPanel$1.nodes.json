@@ -1,0 +1,12 @@
+{
+"Class" : "weka.gui.scripting.FileScriptingPanel$1", 
+"Methods" : [{ "Name" : "update" ,
+"Nodes" : 6,
+"0" : [ 801,802 ]
+"1" : [ 802 ]
+"2" : [ 802,803,804,805 ]
+"3" : [ 802 ]
+"4" : [ 802 ]
+"5" : [  ]
+}]
+}

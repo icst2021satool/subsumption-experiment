@@ -1,0 +1,13 @@
+{
+"Class" : "weka.classifiers.pmml.consumer.TreeModel$CompoundPredicate$BooleanOperator$4", 
+"Methods" : [{ "Name" : "evaluate" ,
+"Nodes" : 7,
+"0" : [ 576,578 ]
+"1" : [ 579 ]
+"2" : [ 584 ]
+"3" : [ 588 ]
+"4" : [ 585 ]
+"5" : [ 580 ]
+"6" : [  ]
+}]
+}

@@ -1,0 +1,10 @@
+{
+"Class" : "weka.gui.knowledgeflow.KnowledgeFlowApp$KnowledgeFlowGeneralDefaults", 
+"Methods" : [{ "Name" : "<init>" ,
+"Edges" : 10,
+"Duas" : 12,
+"4" : 0, 
+ "5" : 1, 
+ "9" : 4, 
+ "10" : 5}]
+}

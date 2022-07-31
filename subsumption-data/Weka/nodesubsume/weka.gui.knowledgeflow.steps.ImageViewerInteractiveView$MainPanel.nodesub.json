@@ -1,0 +1,13 @@
+{
+"Class" : "weka.gui.knowledgeflow.steps.ImageViewerInteractiveView$MainPanel", 
+"Methods" : [{ "Name" : "loadImage" ,
+"Nodes" : 5,
+"0" : [ ],
+"1" : [ 2, 3],
+"3" : [ 1],
+"2" : [ ],
+"4" : [ ],
+"CoveredDUAsByNodes" : 3,
+"Duas" : 5
+}]
+}

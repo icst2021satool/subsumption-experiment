@@ -1,0 +1,13 @@
+{
+"Class" : "weka.gui.knowledgeflow.steps.TextViewerInteractiveView$2", 
+"Methods" : [{ "Name" : "mouseClicked" ,
+"Nodes" : 7,
+"0" : [ 104 ]
+"1" : [ 106,107 ]
+"2" : [ 111 ]
+"3" : [ 114 ]
+"4" : [ 108,109,110 ]
+"5" : [ 104,105 ]
+"6" : [  ]
+}]
+}

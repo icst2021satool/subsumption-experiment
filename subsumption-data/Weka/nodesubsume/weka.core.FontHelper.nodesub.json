@@ -1,0 +1,12 @@
+{
+"Class" : "weka.core.FontHelper", 
+"Methods" : [{ "Name" : "getFont" ,
+"Nodes" : 4,
+"0" : [ ],
+"1" : [ 1, 4],
+"2" : [ 0, 2, 3, 5, 6, 7],
+"3" : [ ],
+"CoveredDUAsByNodes" : 8,
+"Duas" : 8
+}]
+}

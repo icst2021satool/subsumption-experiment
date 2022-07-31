@@ -1,0 +1,10 @@
+{
+"Class" : "weka.gui.explorer.AssociationsPanel$6", 
+"Methods" : [{ "Name" : "stateChanged" ,
+"Nodes" : 4,
+"0" : [ 276,277,278 ]
+"1" : [ 283 ]
+"2" : [ 279,280,281 ]
+"3" : [  ]
+}]
+}

@@ -1,0 +1,24 @@
+{
+"Class" : "weka.associations.FPGrowth$ShadowCounts", 
+"Methods" : [{ "Name" : "getCount" ,
+"Nodes" : 4,
+"0" : [ 445 ]
+"1" : [ 448 ]
+"2" : [ 446 ]
+"3" : [  ]
+},{ "Name" : "increaseCount" ,
+"Nodes" : 6,
+"0" : [ 463 ]
+"1" : [ 466 ]
+"2" : [ 471 ]
+"3" : [ 468,469 ]
+"4" : [ 465 ]
+"5" : [  ]
+},{ "Name" : "removeCount" ,
+"Nodes" : 4,
+"0" : [ 479 ]
+"1" : [ 482 ]
+"2" : [ 480 ]
+"3" : [  ]
+}]
+}

@@ -1,0 +1,16 @@
+{
+"Class" : "weka.gui.beans.FlowByExpression$ExpressionClause$ExpressionType$9", 
+"Methods" : [{ "Name" : "evaluate" ,
+"Edges" : 10,
+"Duas" : 17,
+"0" : 7, 
+ "1" : 8, 
+ "3" : 5, 
+ "4" : 6, 
+ "6" : 7, 
+ "7" : 8, 
+ "10" : 1, 
+ "11" : 2, 
+ "12" : 5, 
+ "13" : 6}]
+}

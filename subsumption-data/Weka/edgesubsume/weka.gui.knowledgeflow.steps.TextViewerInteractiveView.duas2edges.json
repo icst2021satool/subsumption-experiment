@@ -1,0 +1,22 @@
+{
+"Class" : "weka.gui.knowledgeflow.steps.TextViewerInteractiveView", 
+"Methods" : [{ "Name" : "init" ,
+"Edges" : 10,
+"Duas" : 18,
+"9" : 5, 
+ "10" : 6, 
+ "12" : 7, 
+ "13" : 8, 
+ "15" : 7, 
+ "16" : 8},{ "Name" : "visualize" ,
+"Edges" : 17,
+"Duas" : 38,
+"9" : 1, 
+ "10" : 2, 
+ "11" : 15, 
+ "12" : 16, 
+ "13" : 3, 
+ "14" : 4, 
+ "15" : 11, 
+ "16" : 12}]
+}

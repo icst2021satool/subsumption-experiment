@@ -1,0 +1,12 @@
+{
+"Class" : "com.sun.xml.bind.v2.runtime.reflect.PrimitiveArrayListerFloat$1", 
+"Methods" : [{ "Name" : "hasNext" ,
+"Edges" : 5,
+"Duas" : 6,
+"0" : 2, 
+ "1" : 3, 
+ "2" : 2, 
+ "3" : 3, 
+ "4" : 2, 
+ "5" : 3}]
+}

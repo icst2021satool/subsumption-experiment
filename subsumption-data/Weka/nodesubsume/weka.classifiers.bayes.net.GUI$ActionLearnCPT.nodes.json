@@ -1,0 +1,10 @@
+{
+"Class" : "weka.classifiers.bayes.net.GUI$ActionLearnCPT", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Nodes" : 4,
+"0" : [ 886 ]
+"1" : [ 898,900,901,904,905,906,892 ]
+"2" : [ 887,889 ]
+"3" : [  ]
+}]
+}

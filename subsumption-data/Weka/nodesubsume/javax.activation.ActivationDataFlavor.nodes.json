@@ -1,0 +1,18 @@
+{
+"Class" : "javax.activation.ActivationDataFlavor", 
+"Methods" : [{ "Name" : "equals" ,
+"Nodes" : 6,
+"0" : [ 168 ]
+"1" : [ 169 ]
+"2" : [ 168 ]
+"3" : [ 168,169 ]
+"4" : [ 169 ]
+"5" : [  ]
+},{ "Name" : "isMimeTypeEqual" ,
+"Nodes" : 4,
+"0" : [ 185,187 ]
+"1" : [ 193,195,189 ]
+"2" : [ 188 ]
+"3" : [  ]
+}]
+}

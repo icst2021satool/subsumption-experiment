@@ -1,0 +1,25 @@
+{
+"Class" : "com.sun.xml.bind.v2.runtime.unmarshaller.DomLoader$State", 
+"Methods" : [{ "Name" : "declarePrefixes" ,
+"Edges" : 8,
+"0" : [ ],
+"4" : [ 1, 2, 6, 8],
+"5" : [ ],
+"6" : [ ],
+"1" : [ 1, 2, 4, 6, 8, 12],
+"2" : [ 0, 1, 2, 3, 5, 6, 8, 9, 10, 13, 14],
+"7" : [ 0, 1, 2, 3, 5, 6, 8, 9, 10, 13, 14],
+"3" : [ 1, 2, 4, 6, 8, 12],
+"CoveredDUAsByEdges" : 13,
+"Duas" : 21
+},{ "Name" : "undeclarePrefixes" ,
+"Edges" : 5,
+"0" : [ ],
+"1" : [ 0, 1, 2, 3, 5, 6],
+"2" : [ ],
+"4" : [ ],
+"3" : [ 0, 1, 2, 3, 5, 6],
+"CoveredDUAsByEdges" : 6,
+"Duas" : 11
+}]
+}

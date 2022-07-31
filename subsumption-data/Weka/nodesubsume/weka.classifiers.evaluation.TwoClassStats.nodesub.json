@@ -1,0 +1,44 @@
+{
+"Class" : "weka.classifiers.evaluation.TwoClassStats", 
+"Methods" : [{ "Name" : "getTruePositiveRate" ,
+"Nodes" : 4,
+"0" : [ ],
+"1" : [ 1, 2, 4, 5, 7, 8],
+"2" : [ 0, 3, 6],
+"3" : [ ],
+"CoveredDUAsByNodes" : 9,
+"Duas" : 9
+},{ "Name" : "getFalsePositiveRate" ,
+"Nodes" : 4,
+"0" : [ ],
+"1" : [ 1, 2, 4, 5, 7, 8],
+"2" : [ 0, 3, 6],
+"3" : [ ],
+"CoveredDUAsByNodes" : 9,
+"Duas" : 9
+},{ "Name" : "getPrecision" ,
+"Nodes" : 4,
+"0" : [ ],
+"1" : [ 1, 2, 4, 5, 7, 8],
+"2" : [ 0, 3, 6],
+"3" : [ ],
+"CoveredDUAsByNodes" : 9,
+"Duas" : 9
+},{ "Name" : "getFMeasure" ,
+"Nodes" : 4,
+"0" : [ ],
+"1" : [ 1, 2, 4, 5],
+"2" : [ 0, 3],
+"3" : [ ],
+"CoveredDUAsByNodes" : 6,
+"Duas" : 6
+},{ "Name" : "getFallout" ,
+"Nodes" : 4,
+"0" : [ ],
+"1" : [ 1, 2, 4, 5, 7, 8],
+"2" : [ 0, 3, 6],
+"3" : [ ],
+"CoveredDUAsByNodes" : 9,
+"Duas" : 9
+}]
+}

@@ -1,0 +1,17 @@
+{
+"Class" : "weka.core.pmml.BuiltInMath$MathFunc$11", 
+"Methods" : [{ "Name" : "eval" ,
+"Nodes" : 4,
+"0" : [ 178 ]
+"1" : [ 181 ]
+"2" : [ 179 ]
+"3" : [  ]
+},{ "Name" : "legalNumParams" ,
+"Nodes" : 5,
+"0" : [ 186 ]
+"1" : [ 186 ]
+"2" : [ 186 ]
+"3" : [ 186 ]
+"4" : [  ]
+}]
+}

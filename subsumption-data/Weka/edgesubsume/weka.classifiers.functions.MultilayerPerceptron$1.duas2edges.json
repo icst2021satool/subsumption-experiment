@@ -1,0 +1,8 @@
+{
+"Class" : "weka.classifiers.functions.MultilayerPerceptron$1", 
+"Methods" : [{ "Name" : "windowClosing" ,
+"Edges" : 5,
+"Duas" : 13,
+"11" : 3, 
+ "12" : 4}]
+}

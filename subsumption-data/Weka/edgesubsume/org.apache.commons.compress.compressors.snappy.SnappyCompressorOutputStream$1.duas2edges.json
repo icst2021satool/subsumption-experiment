@@ -1,0 +1,12 @@
+{
+"Class" : "org.apache.commons.compress.compressors.snappy.SnappyCompressorOutputStream$1", 
+"Methods" : [{ "Name" : "accept" ,
+"Edges" : 6,
+"Duas" : 12,
+"2" : 0, 
+ "3" : 1, 
+ "4" : 2, 
+ "7" : 0, 
+ "8" : 1, 
+ "9" : 2}]
+}

@@ -1,0 +1,10 @@
+{
+"Class" : "weka.gui.beans.SubstringReplacerCustomizer$2", 
+"Methods" : [{ "Name" : "propertyChange" ,
+"Nodes" : 4,
+"0" : [ 176,177 ]
+"1" : [ 182 ]
+"2" : [ 178,179,180 ]
+"3" : [  ]
+}]
+}

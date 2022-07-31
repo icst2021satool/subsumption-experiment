@@ -1,0 +1,11 @@
+{
+"Class" : "weka.classifiers.bayes.net.GUI$2", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Nodes" : 5,
+"0" : [ 2122,2123,2124 ]
+"1" : [ 2128,2127 ]
+"2" : [ 2124 ]
+"3" : [ 2125 ]
+"4" : [  ]
+}]
+}

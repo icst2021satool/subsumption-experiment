@@ -1,0 +1,13 @@
+{
+"Class" : "com.sun.xml.bind.v2.model.impl.RuntimeElementInfoImpl", 
+"Methods" : [{ "Name" : "<init>" ,
+"Edges" : 5,
+"1" : [ 1, 2, 4, 5],
+"2" : [ 0, 3],
+"0" : [ 0, 3],
+"4" : [ 1, 2, 4, 5],
+"3" : [ ],
+"CoveredDUAsByEdges" : 6,
+"Duas" : 6
+}]
+}

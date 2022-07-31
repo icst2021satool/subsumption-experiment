@@ -1,0 +1,12 @@
+{
+"Class" : "weka.gui.beans.ClassValuePickerCustomizer$1", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Edges" : 4,
+"1" : [ 0, 2, 3, 4, 6, 7],
+"2" : [ 1, 5],
+"0" : [ 0, 2, 3, 4, 6, 7],
+"3" : [ ],
+"CoveredDUAsByEdges" : 8,
+"Duas" : 8
+}]
+}

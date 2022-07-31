@@ -1,0 +1,52 @@
+{
+"Class" : "weka.core.pmml.jaxbbindings.TreeModel", 
+"Methods" : [{ "Name" : "getContent" ,
+"Nodes" : 4,
+"0" : [ ],
+"2" : [ 0, 3, 4],
+"1" : [ 2],
+"3" : [ 2],
+"CoveredDUAsByNodes" : 4,
+"Duas" : 8
+},{ "Name" : "isIsScorable" ,
+"Nodes" : 4,
+"0" : [ ],
+"1" : [ 1, 2, 4, 5],
+"2" : [ 0, 3],
+"3" : [ ],
+"CoveredDUAsByNodes" : 6,
+"Duas" : 6
+},{ "Name" : "getMissingValuePenalty" ,
+"Nodes" : 4,
+"0" : [ ],
+"1" : [ 1, 2, 4, 5],
+"2" : [ 0, 3],
+"3" : [ ],
+"CoveredDUAsByNodes" : 6,
+"Duas" : 6
+},{ "Name" : "getMissingValueStrategy" ,
+"Nodes" : 4,
+"0" : [ ],
+"1" : [ 1, 2, 4, 5],
+"2" : [ 0, 3, 6],
+"3" : [ ],
+"CoveredDUAsByNodes" : 7,
+"Duas" : 7
+},{ "Name" : "getNoTrueChildStrategy" ,
+"Nodes" : 4,
+"0" : [ ],
+"1" : [ 1, 2, 4, 5],
+"2" : [ 0, 3, 6],
+"3" : [ ],
+"CoveredDUAsByNodes" : 7,
+"Duas" : 7
+},{ "Name" : "getSplitCharacteristic" ,
+"Nodes" : 4,
+"0" : [ ],
+"1" : [ 1, 2, 4, 5],
+"2" : [ 0, 3],
+"3" : [ ],
+"CoveredDUAsByNodes" : 6,
+"Duas" : 6
+}]
+}

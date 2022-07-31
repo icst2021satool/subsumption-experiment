@@ -1,0 +1,14 @@
+{
+"Class" : "weka.gui.knowledgeflow.VisibleLayout$2", 
+"Methods" : [{ "Name" : "mouseClicked" ,
+"Nodes" : 6,
+"0" : [ ],
+"2" : [ 0, 4, 10],
+"4" : [ 0, 4, 6, 10],
+"3" : [ 0, 2, 3, 4, 10, 12, 13],
+"1" : [ ],
+"5" : [ ],
+"CoveredDUAsByNodes" : 8,
+"Duas" : 14
+}]
+}

@@ -1,0 +1,27 @@
+{
+"Class" : "weka.classifiers.trees.ht.NBNodeAdaptive", 
+"Methods" : [{ "Name" : "majorityClass" ,
+"Nodes" : 7,
+"0" : [ 67,68,70 ]
+"1" : [ 70 ]
+"2" : [ 77 ]
+"3" : [ 70,71 ]
+"4" : [ 75 ]
+"5" : [ 72,73 ]
+"6" : [  ]
+},{ "Name" : "updateNode" ,
+"Nodes" : 6,
+"0" : [ 83,84,86 ]
+"1" : [ 90 ]
+"2" : [ 94,95 ]
+"3" : [ 91 ]
+"4" : [ 87 ]
+"5" : [  ]
+},{ "Name" : "getDistribution" ,
+"Nodes" : 4,
+"0" : [ 101 ]
+"1" : [ 105 ]
+"2" : [ 102 ]
+"3" : [  ]
+}]
+}

@@ -1,0 +1,20 @@
+{
+"Class" : "javax.activation.URLDataSource", 
+"Methods" : [{ "Name" : "getContentType" ,
+"Nodes" : 8,
+"0" : [ 57,60 ]
+"1" : [ 64,62 ]
+"2" : [ 67 ]
+"3" : [ 70 ]
+"4" : [ 68 ]
+"5" : [ 65 ]
+"6" : [ 61 ]
+"7" : [  ]
+},{ "Name" : "getOutputStream" ,
+"Nodes" : 4,
+"0" : [ 103,105 ]
+"1" : [ 109 ]
+"2" : [ 106,107 ]
+"3" : [  ]
+}]
+}

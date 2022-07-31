@@ -1,0 +1,20 @@
+{
+"Class" : "weka.gui.CloseableTabTitle$TabButton", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Edges" : 6,
+"Duas" : 9,
+"0" : 3, 
+ "1" : 4, 
+ "3" : 3, 
+ "4" : 4, 
+ "6" : 1, 
+ "7" : 2},{ "Name" : "paintComponent" ,
+"Edges" : 10,
+"Duas" : 19,
+"0" : 0, 
+ "1" : 1, 
+ "2" : 8, 
+ "3" : 9, 
+ "4" : 6, 
+ "5" : 7}]
+}

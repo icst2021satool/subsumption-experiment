@@ -1,0 +1,15 @@
+{
+"Class" : "weka.gui.beans.DataVisualizerCustomizer$2", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Edges" : 7,
+"5" : [ 0, 5, 6, 11],
+"6" : [ 1, 7],
+"3" : [ 0, 5, 6, 11],
+"1" : [ 2, 4, 8, 10],
+"2" : [ 3, 9],
+"4" : [ 2, 4, 8, 10],
+"0" : [ ],
+"CoveredDUAsByEdges" : 12,
+"Duas" : 12
+}]
+}

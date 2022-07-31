@@ -1,0 +1,15 @@
+{
+"Class" : "weka.gui.beans.ClustererCustomizer$2", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Edges" : 7,
+"3" : [ 0, 6, 7, 13],
+"4" : [ 1, 8],
+"0" : [ 0, 6, 7, 13],
+"5" : [ 2, 5, 9, 12],
+"6" : [ 3, 4, 10, 11],
+"1" : [ 2, 4, 5, 9, 11, 12],
+"2" : [ 4, 11],
+"CoveredDUAsByEdges" : 14,
+"Duas" : 14
+}]
+}

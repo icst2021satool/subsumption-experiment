@@ -1,0 +1,11 @@
+{
+"Class" : "weka.gui.scripting.FileScriptingPanel$RedoAction", 
+"Methods" : [{ "Name" : "updateRedoState" ,
+"Nodes" : 5,
+"0" : [ 492 ]
+"1" : [ 497,498 ]
+"2" : [ 500 ]
+"3" : [ 493,494 ]
+"4" : [  ]
+}]
+}

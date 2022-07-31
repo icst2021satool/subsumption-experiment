@@ -1,0 +1,13 @@
+{
+"Class" : "weka.gui.CostMatrixEditor$CostMatrixTableModel", 
+"Methods" : [{ "Name" : "setValueAt" ,
+"Nodes" : 5,
+"0" : [ ],
+"1" : [ 0, 4, 7, 10, 13, 14],
+"3" : [ 2, 3, 6, 9, 11, 12],
+"2" : [ 1, 5, 8],
+"4" : [ 1, 5, 8],
+"CoveredDUAsByNodes" : 15,
+"Duas" : 15
+}]
+}

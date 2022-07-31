@@ -1,0 +1,18 @@
+{
+"Class" : "weka.gui.knowledgeflow.steps.SaverStepEditorDialog", 
+"Methods" : [{ "Name" : "setStepToEdit" ,
+"Edges" : 5,
+"Duas" : 6,
+"3" : 0, 
+ "4" : 1},{ "Name" : "setupFileSaver" ,
+"Edges" : 4,
+"Duas" : 14,
+"5" : 0, 
+ "6" : 1},{ "Name" : "okPressed" ,
+"Edges" : 4,
+"Duas" : 11,
+"0" : 1, 
+ "1" : 2, 
+ "5" : 1, 
+ "6" : 2}]
+}

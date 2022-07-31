@@ -1,0 +1,14 @@
+{
+"Class" : "org.apache.commons.compress.changes.Change", 
+"Methods" : [{ "Name" : "<init>" ,
+"Edges" : 4,
+"Duas" : 9,
+"5" : 1, 
+ "6" : 2},{ "Name" : "<init>" ,
+"Edges" : 6,
+"Duas" : 12,
+"5" : 4, 
+ "6" : 5, 
+ "8" : 0, 
+ "9" : 1}]
+}

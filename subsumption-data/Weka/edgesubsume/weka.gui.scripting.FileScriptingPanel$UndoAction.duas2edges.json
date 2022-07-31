@@ -1,0 +1,12 @@
+{
+"Class" : "weka.gui.scripting.FileScriptingPanel$UndoAction", 
+"Methods" : [{ "Name" : "updateUndoState" ,
+"Edges" : 5,
+"Duas" : 12,
+"0" : 2, 
+ "1" : 3, 
+ "6" : 2, 
+ "7" : 3, 
+ "9" : 2, 
+ "10" : 3}]
+}

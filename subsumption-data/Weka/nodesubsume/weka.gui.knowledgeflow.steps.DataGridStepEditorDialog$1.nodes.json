@@ -1,0 +1,10 @@
+{
+"Class" : "weka.gui.knowledgeflow.steps.DataGridStepEditorDialog$1", 
+"Methods" : [{ "Name" : "propertyChange" ,
+"Nodes" : 4,
+"0" : [ 203,204 ]
+"1" : [ 208 ]
+"2" : [ 205,206 ]
+"3" : [  ]
+}]
+}

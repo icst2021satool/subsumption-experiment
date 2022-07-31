@@ -1,0 +1,25 @@
+{
+"Class" : "weka.classifiers.trees.ht.GiniSplitMetric", 
+"Methods" : [{ "Name" : "evaluateSplit" ,
+"Nodes" : 8,
+"0" : [ ],
+"1" : [ ],
+"2" : [ 1],
+"3" : [ 1],
+"4" : [ 1, 3],
+"7" : [ 1, 3],
+"5" : [ 1, 2, 4, 8, 24, 25, 27, 28],
+"6" : [ 0, 5, 7, 9, 10, 11, 13, 14, 15],
+"CoveredDUAsByNodes" : 18,
+"Duas" : 35
+},{ "Name" : "gini" ,
+"Nodes" : 5,
+"0" : [ ],
+"1" : [ ],
+"2" : [ ],
+"4" : [ ],
+"3" : [ 0, 2],
+"CoveredDUAsByNodes" : 2,
+"Duas" : 5
+}]
+}

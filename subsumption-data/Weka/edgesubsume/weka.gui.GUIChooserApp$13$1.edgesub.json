@@ -1,0 +1,12 @@
+{
+"Class" : "weka.gui.GUIChooserApp$13$1", 
+"Methods" : [{ "Name" : "windowClosing" ,
+"Edges" : 4,
+"0" : [ 0, 2, 3, 4, 6, 8, 9, 11, 12, 13],
+"1" : [ 1, 5, 7, 10],
+"3" : [ 0, 2, 3, 4, 6, 8, 9, 11, 12, 13],
+"2" : [ ],
+"CoveredDUAsByEdges" : 14,
+"Duas" : 14
+}]
+}

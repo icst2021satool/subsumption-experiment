@@ -1,0 +1,10 @@
+{
+"Class" : "weka.experiment.RemoteEngine$1", 
+"Methods" : [{ "Name" : "run" ,
+"Nodes" : 4,
+"0" : [ 91,93,95 ]
+"1" : [ 98 ]
+"2" : [ 96 ]
+"3" : [  ]
+}]
+}

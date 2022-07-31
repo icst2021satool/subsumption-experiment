@@ -1,0 +1,18 @@
+{
+"Class" : "javax.activation.CommandMap", 
+"Methods" : [{ "Name" : "getDefaultCommandMap" ,
+"Nodes" : 6,
+"0" : [ 48 ]
+"1" : [ 52,53,54 ]
+"2" : [ 58 ]
+"3" : [ 55,56 ]
+"4" : [ 49 ]
+"5" : [  ]
+},{ "Name" : "setDefaultCommandMap" ,
+"Nodes" : 4,
+"0" : [ 70,71 ]
+"1" : [ 87,88,89 ]
+"2" : [ 84,74 ]
+"3" : [  ]
+}]
+}

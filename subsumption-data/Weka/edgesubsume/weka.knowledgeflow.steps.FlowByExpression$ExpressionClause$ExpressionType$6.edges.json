@@ -1,0 +1,11 @@
+{
+"Class" : "weka.knowledgeflow.steps.FlowByExpression$ExpressionClause$ExpressionType$6", 
+"Methods" : [{ "Name" : "evaluate" ,
+"Edges" : 5,
+"0" : [ 3,2 ],
+"1" : [ 2,4 ],
+"2" : [ 0,3 ],
+"3" : [ 0,1 ],
+"4" : [ 1,2 ]
+}]
+}

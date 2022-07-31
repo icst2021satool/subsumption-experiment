@@ -1,0 +1,41 @@
+{
+"Class" : "weka.core.scripting.Groovy", 
+"Methods" : [{ "Name" : "invoke" ,
+"Nodes" : 4,
+"0" : [ ],
+"2" : [ 0, 2, 3, 4, 5],
+"1" : [ ],
+"3" : [ ],
+"CoveredDUAsByNodes" : 5,
+"Duas" : 8
+},{ "Name" : "newClassLoader" ,
+"Nodes" : 4,
+"0" : [ ],
+"2" : [ ],
+"1" : [ ],
+"3" : [ ],
+"CoveredDUAsByNodes" : 0,
+"Duas" : 2
+},{ "Name" : "newInstance" ,
+"Nodes" : 6,
+"0" : [ ],
+"1" : [ ],
+"2" : [ 0, 4, 5],
+"3" : [ 1, 3],
+"4" : [ 2],
+"5" : [ ],
+"CoveredDUAsByNodes" : 6,
+"Duas" : 6
+},{ "Name" : "main" ,
+"Nodes" : 7,
+"0" : [ ],
+"1" : [ 1],
+"2" : [ 1, 2, 6],
+"4" : [ 1, 4, 5],
+"5" : [ 0, 3],
+"3" : [ ],
+"6" : [ ],
+"CoveredDUAsByNodes" : 7,
+"Duas" : 7
+}]
+}

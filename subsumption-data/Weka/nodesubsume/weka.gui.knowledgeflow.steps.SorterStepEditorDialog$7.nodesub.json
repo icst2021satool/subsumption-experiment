@@ -1,0 +1,13 @@
+{
+"Class" : "weka.gui.knowledgeflow.steps.SorterStepEditorDialog$7", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Nodes" : 5,
+"0" : [ ],
+"2" : [ 3],
+"3" : [ 0, 1, 2, 3, 5, 6, 8],
+"1" : [ ],
+"4" : [ ],
+"CoveredDUAsByNodes" : 7,
+"Duas" : 9
+}]
+}

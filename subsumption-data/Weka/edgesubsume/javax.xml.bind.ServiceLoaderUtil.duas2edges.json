@@ -1,0 +1,21 @@
+{
+"Class" : "javax.xml.bind.ServiceLoaderUtil", 
+"Methods" : [{ "Name" : "firstByServiceLoader" ,
+"Edges" : 4,
+"Duas" : 1,
+},{ "Name" : "lookupUsingOSGiServiceLoader" ,
+"Edges" : 4,
+"Duas" : 4,
+"1" : 0, 
+ "2" : 1},{ "Name" : "checkPackageAccess" ,
+"Edges" : 6,
+"Duas" : 8,
+"2" : 4, 
+ "3" : 5, 
+ "5" : 0, 
+ "6" : 1},{ "Name" : "nullSafeLoadClass" ,
+"Edges" : 4,
+"Duas" : 5,
+"2" : 2, 
+ "3" : 3}]
+}

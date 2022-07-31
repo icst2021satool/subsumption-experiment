@@ -1,0 +1,11 @@
+{
+"Class" : "weka.gui.scripting.GroovyPanel", 
+"Methods" : [{ "Name" : "newCodePane" ,
+"Nodes" : 5,
+"0" : [ 67,72,74,75 ]
+"1" : [ 81,82,83 ]
+"2" : [ 86 ]
+"3" : [ 76,77,78 ]
+"4" : [  ]
+}]
+}

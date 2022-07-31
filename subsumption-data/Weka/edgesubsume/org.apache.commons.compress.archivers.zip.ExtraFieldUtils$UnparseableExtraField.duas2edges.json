@@ -1,0 +1,16 @@
+{
+"Class" : "org.apache.commons.compress.archivers.zip.ExtraFieldUtils$UnparseableExtraField", 
+"Methods" : [{ "Name" : "onUnparseableExtraField" ,
+"Edges" : 12,
+"Duas" : 24,
+"0" : 2, 
+ "1" : 3, 
+ "2" : 4, 
+ "3" : 5, 
+ "13" : 9, 
+ "14" : 10, 
+ "16" : 2, 
+ "17" : 3, 
+ "18" : 4, 
+ "19" : 5}]
+}

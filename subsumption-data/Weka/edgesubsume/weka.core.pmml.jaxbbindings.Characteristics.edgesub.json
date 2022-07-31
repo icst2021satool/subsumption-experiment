@@ -1,0 +1,20 @@
+{
+"Class" : "weka.core.pmml.jaxbbindings.Characteristics", 
+"Methods" : [{ "Name" : "getExtension" ,
+"Edges" : 4,
+"2" : [ 0, 3, 4],
+"3" : [ 1, 2, 5, 6],
+"0" : [ 0, 2, 3, 4],
+"1" : [ 2],
+"CoveredDUAsByEdges" : 7,
+"Duas" : 8
+},{ "Name" : "getCharacteristic" ,
+"Edges" : 4,
+"2" : [ 0, 3, 4],
+"3" : [ 1, 2, 5, 6],
+"1" : [ 0, 2, 3, 4],
+"0" : [ 2],
+"CoveredDUAsByEdges" : 7,
+"Duas" : 8
+}]
+}

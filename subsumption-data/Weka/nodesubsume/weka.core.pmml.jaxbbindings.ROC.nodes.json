@@ -1,0 +1,10 @@
+{
+"Class" : "weka.core.pmml.jaxbbindings.ROC", 
+"Methods" : [{ "Name" : "getExtension" ,
+"Nodes" : 4,
+"0" : [ 91 ]
+"1" : [ 94 ]
+"2" : [ 92 ]
+"3" : [  ]
+}]
+}

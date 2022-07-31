@@ -1,0 +1,16 @@
+{
+"Class" : "weka.gui.PackageManager$HomePageThread", 
+"Methods" : [{ "Name" : "run" ,
+"Nodes" : 8,
+"0" : [ ],
+"1" : [ 10, 11, 14],
+"6" : [ 9, 12, 13, 15],
+"2" : [ ],
+"3" : [ ],
+"4" : [ 0, 1, 2, 3, 4, 5, 21, 6, 7, 8],
+"7" : [ 0, 1, 2, 3, 4, 5, 21, 6, 7, 8],
+"5" : [ 20],
+"CoveredDUAsByNodes" : 18,
+"Duas" : 22
+}]
+}

@@ -1,0 +1,22 @@
+{
+"Class" : "weka.core.pmml.jaxbbindings.FieldValue", 
+"Methods" : [{ "Name" : "getExtension" ,
+"Edges" : 4,
+"Duas" : 8,
+"0" : 2, 
+ "1" : 3, 
+ "4" : 2, 
+ "5" : 3},{ "Name" : "getFieldValue" ,
+"Edges" : 4,
+"Duas" : 8,
+"0" : 1, 
+ "1" : 2, 
+ "4" : 1, 
+ "5" : 2},{ "Name" : "getFieldValueCount" ,
+"Edges" : 4,
+"Duas" : 8,
+"0" : 0, 
+ "1" : 1, 
+ "4" : 0, 
+ "5" : 1}]
+}

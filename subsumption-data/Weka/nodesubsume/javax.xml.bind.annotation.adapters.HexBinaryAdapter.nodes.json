@@ -1,0 +1,16 @@
+{
+"Class" : "javax.xml.bind.annotation.adapters.HexBinaryAdapter", 
+"Methods" : [{ "Name" : "unmarshal" ,
+"Nodes" : 4,
+"0" : [ 26 ]
+"1" : [ 27 ]
+"2" : [ 26 ]
+"3" : [  ]
+},{ "Name" : "marshal" ,
+"Nodes" : 4,
+"0" : [ 31 ]
+"1" : [ 32 ]
+"2" : [ 31 ]
+"3" : [  ]
+}]
+}

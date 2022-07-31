@@ -1,0 +1,12 @@
+{
+"Class" : "weka.core.EnvironmentProperties", 
+"Methods" : [{ "Name" : "getProperty" ,
+"Nodes" : 6,
+"0" : [ 50 ]
+"1" : [ 53,55 ]
+"2" : [ 59 ]
+"3" : [ 56 ]
+"4" : [ 51 ]
+"5" : [  ]
+}]
+}

@@ -1,0 +1,18 @@
+{
+"Class" : "org.apache.commons.compress.archivers.zip.ScatterZipOutputStream$ZipEntryWriter", 
+"Methods" : [{ "Name" : "close" ,
+"Nodes" : 4,
+"0" : [ 137 ]
+"1" : [ 140 ]
+"2" : [ 138 ]
+"3" : [  ]
+},{ "Name" : "writeNextZipEntry" ,
+"Nodes" : 6,
+"0" : [ 144,145,146,143 ]
+"1" : [ 147 ]
+"2" : [ 146 ]
+"3" : [ 146 ]
+"4" : [ 146 ]
+"5" : [  ]
+}]
+}

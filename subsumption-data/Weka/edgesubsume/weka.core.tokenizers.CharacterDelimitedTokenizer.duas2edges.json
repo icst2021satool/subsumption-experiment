@@ -1,0 +1,8 @@
+{
+"Class" : "weka.core.tokenizers.CharacterDelimitedTokenizer", 
+"Methods" : [{ "Name" : "setOptions" ,
+"Edges" : 5,
+"Duas" : 5,
+"2" : 0, 
+ "3" : 1}]
+}

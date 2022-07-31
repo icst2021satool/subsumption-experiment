@@ -1,0 +1,10 @@
+{
+"Class" : "com.sun.xml.bind.v2.runtime.reflect.opt.TransducedAccessor_field_Boolean", 
+"Methods" : [{ "Name" : "parse" ,
+"Nodes" : 4,
+"0" : [ 33,35 ]
+"1" : [ 37 ]
+"2" : [ 36 ]
+"3" : [  ]
+}]
+}

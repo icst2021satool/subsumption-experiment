@@ -1,0 +1,12 @@
+{
+"Class" : "weka.core.pmml.DefineFunction$ParameterField", 
+"Methods" : [{ "Name" : "getFieldAsAttribute" ,
+"Edges" : 4,
+"2" : [ 0, 3, 4, 6, 9],
+"3" : [ 1, 2, 5, 7, 8],
+"0" : [ 1, 2, 5, 7, 8],
+"1" : [ 0, 3, 4, 6, 9],
+"CoveredDUAsByEdges" : 10,
+"Duas" : 10
+}]
+}

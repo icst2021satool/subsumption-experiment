@@ -1,0 +1,21 @@
+{
+"Class" : "weka.gui.knowledgeflow.GetPerspectiveNamesGraphicalCommand", 
+"Methods" : [{ "Name" : "setGraphicalEnvironment" ,
+"Nodes" : 4,
+"0" : [ 54,56 ]
+"1" : [ 59 ]
+"2" : [ 57 ]
+"3" : [  ]
+},{ "Name" : "performCommand" ,
+"Nodes" : 9,
+"0" : [ 92 ]
+"1" : [ 96,97,98,99,100 ]
+"2" : [ 100 ]
+"3" : [ 107 ]
+"4" : [ 100,101,102 ]
+"5" : [ 105 ]
+"6" : [ 103 ]
+"7" : [ 93 ]
+"8" : [  ]
+}]
+}

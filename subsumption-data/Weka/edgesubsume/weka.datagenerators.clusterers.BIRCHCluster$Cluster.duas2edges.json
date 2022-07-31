@@ -1,0 +1,16 @@
+{
+"Class" : "weka.datagenerators.clusterers.BIRCHCluster$Cluster", 
+"Methods" : [{ "Name" : "<init>" ,
+"Edges" : 5,
+"Duas" : 11,
+"3" : 3, 
+ "4" : 4, 
+ "7" : 3, 
+ "8" : 4},{ "Name" : "<init>" ,
+"Edges" : 5,
+"Duas" : 12,
+"4" : 2, 
+ "5" : 3, 
+ "8" : 2, 
+ "9" : 3}]
+}

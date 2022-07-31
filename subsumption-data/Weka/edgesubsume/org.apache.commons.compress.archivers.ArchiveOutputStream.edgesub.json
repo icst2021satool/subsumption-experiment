@@ -1,0 +1,12 @@
+{
+"Class" : "org.apache.commons.compress.archivers.ArchiveOutputStream", 
+"Methods" : [{ "Name" : "count" ,
+"Edges" : 4,
+"1" : [ 0, 1, 3, 4],
+"2" : [ 2],
+"0" : [ 0, 1, 3, 4],
+"3" : [ ],
+"CoveredDUAsByEdges" : 5,
+"Duas" : 5
+}]
+}

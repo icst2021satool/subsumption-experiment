@@ -1,0 +1,20 @@
+{
+"Class" : "weka.gui.PackageManager$ProgressPrintStream", 
+"Methods" : [{ "Name" : "println" ,
+"Edges" : 8,
+"Duas" : 18,
+"2" : 5, 
+ "3" : 6, 
+ "11" : 0, 
+ "12" : 1, 
+ "16" : 0, 
+ "17" : 1},{ "Name" : "print" ,
+"Edges" : 8,
+"Duas" : 18,
+"2" : 3, 
+ "3" : 4, 
+ "11" : 0, 
+ "12" : 1, 
+ "16" : 0, 
+ "17" : 1}]
+}

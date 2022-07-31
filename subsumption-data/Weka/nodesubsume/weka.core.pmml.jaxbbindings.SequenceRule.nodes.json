@@ -1,0 +1,10 @@
+{
+"Class" : "weka.core.pmml.jaxbbindings.SequenceRule", 
+"Methods" : [{ "Name" : "getContent" ,
+"Nodes" : 4,
+"0" : [ 120 ]
+"1" : [ 123 ]
+"2" : [ 121 ]
+"3" : [  ]
+}]
+}

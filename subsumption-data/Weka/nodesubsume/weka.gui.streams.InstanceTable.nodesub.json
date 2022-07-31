@@ -1,0 +1,42 @@
+{
+"Class" : "weka.gui.streams.InstanceTable", 
+"Methods" : [{ "Name" : "inputFormat" ,
+"Nodes" : 4,
+"0" : [ ],
+"2" : [ 0, 4, 5, 7],
+"1" : [ 2, 3],
+"3" : [ 2, 3],
+"CoveredDUAsByNodes" : 6,
+"Duas" : 8
+},{ "Name" : "input" ,
+"Nodes" : 4,
+"0" : [ ],
+"2" : [ 0, 4, 5, 7],
+"1" : [ 2, 3, 8],
+"3" : [ 2, 3, 8],
+"CoveredDUAsByNodes" : 7,
+"Duas" : 9
+},{ "Name" : "batchFinished" ,
+"Nodes" : 4,
+"0" : [ ],
+"2" : [ 0, 2, 4],
+"1" : [ ],
+"3" : [ ],
+"CoveredDUAsByNodes" : 3,
+"Duas" : 5
+},{ "Name" : "instanceProduced" ,
+"Nodes" : 10,
+"0" : [ ],
+"1" : [ 7, 10],
+"3" : [ 9, 11],
+"4" : [ 0, 6, 9, 11],
+"6" : [ 1, 5, 9, 11, 12],
+"7" : [ 2, 4, 9, 11, 13],
+"8" : [ 3, 8, 9, 11],
+"5" : [ 9, 11],
+"2" : [ ],
+"9" : [ ],
+"CoveredDUAsByNodes" : 14,
+"Duas" : 14
+}]
+}

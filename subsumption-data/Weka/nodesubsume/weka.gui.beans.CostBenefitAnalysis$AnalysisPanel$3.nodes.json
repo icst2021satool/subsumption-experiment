@@ -1,0 +1,10 @@
+{
+"Class" : "weka.gui.beans.CostBenefitAnalysis$AnalysisPanel$3", 
+"Methods" : [{ "Name" : "focusLost" ,
+"Nodes" : 4,
+"0" : [ 432 ]
+"1" : [ 442 ]
+"2" : [ 434,435,436,439,440 ]
+"3" : [  ]
+}]
+}

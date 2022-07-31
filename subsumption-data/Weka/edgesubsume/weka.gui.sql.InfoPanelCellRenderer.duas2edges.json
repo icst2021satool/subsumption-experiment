@@ -1,0 +1,10 @@
+{
+"Class" : "weka.gui.sql.InfoPanelCellRenderer", 
+"Methods" : [{ "Name" : "getListCellRendererComponent" ,
+"Edges" : 9,
+"Duas" : 24,
+"17" : 0, 
+ "18" : 1, 
+ "22" : 4, 
+ "23" : 5}]
+}

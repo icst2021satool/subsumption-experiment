@@ -1,0 +1,10 @@
+{
+"Class" : "weka.classifiers.bayes.net.GUI$GraphVisualizerMouseListener$1", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Nodes" : 4,
+"0" : [ 2876 ]
+"1" : [ 2880,2881 ]
+"2" : [ 2877,2878 ]
+"3" : [  ]
+}]
+}

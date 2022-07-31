@@ -1,0 +1,12 @@
+{
+"Class" : "weka.gui.explorer.AssociationsPanel$2", 
+"Methods" : [{ "Name" : "mouseClicked" ,
+"Edges" : 9,
+"Duas" : 19,
+"4" : 6, 
+ "5" : 7, 
+ "9" : 2, 
+ "10" : 3, 
+ "17" : 4, 
+ "18" : 5}]
+}

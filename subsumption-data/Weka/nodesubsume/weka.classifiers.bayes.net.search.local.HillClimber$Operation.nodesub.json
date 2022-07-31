@@ -1,0 +1,17 @@
+{
+"Class" : "weka.classifiers.bayes.net.search.local.HillClimber$Operation", 
+"Methods" : [{ "Name" : "equals" ,
+"Nodes" : 9,
+"0" : [ ],
+"1" : [ 7],
+"4" : [ 0, 16, 7, 8, 14],
+"5" : [ 0, 16, 2, 18, 20, 7, 8, 10, 14],
+"2" : [ 7],
+"6" : [ 0, 2, 4, 7, 8, 10, 12, 14, 16, 18, 20, 22, 24],
+"3" : [ 7],
+"7" : [ 6],
+"8" : [ ],
+"CoveredDUAsByNodes" : 14,
+"Duas" : 26
+}]
+}

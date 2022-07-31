@@ -1,0 +1,18 @@
+{
+"Class" : "weka.classifiers.bayes.net.search.fixed.NaiveBayes", 
+"Methods" : [{ "Name" : "buildStructure" ,
+"Edges" : 8,
+"Duas" : 18,
+"1" : 6, 
+ "2" : 7, 
+ "3" : 3, 
+ "4" : 4, 
+ "6" : 6, 
+ "7" : 7, 
+ "8" : 3, 
+ "9" : 4, 
+ "12" : 6, 
+ "13" : 7, 
+ "14" : 3, 
+ "15" : 4}]
+}

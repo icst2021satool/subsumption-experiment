@@ -1,0 +1,22 @@
+{
+"Class" : "weka.classifiers.trees.j48.InfoGainSplitCrit", 
+"Methods" : [{ "Name" : "splitCritValue" ,
+"Nodes" : 4,
+"0" : [ 50,47 ]
+"1" : [ 56 ]
+"2" : [ 51 ]
+"3" : [  ]
+},{ "Name" : "splitCritValue" ,
+"Nodes" : 4,
+"0" : [ 71,72,73,74,77 ]
+"1" : [ 81 ]
+"2" : [ 78 ]
+"3" : [  ]
+},{ "Name" : "splitCritValue" ,
+"Nodes" : 4,
+"0" : [ 97,98,99,100,103 ]
+"1" : [ 107 ]
+"2" : [ 104 ]
+"3" : [  ]
+}]
+}

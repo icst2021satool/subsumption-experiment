@@ -1,0 +1,14 @@
+{
+"Class" : "com.googlecode.jfilechooserbookmarks.AbstractBookmarksPanel$2", 
+"Methods" : [{ "Name" : "mouseClicked" ,
+"Edges" : 8,
+"0" : [ 5,4 ],
+"1" : [ 3,5 ],
+"2" : [ 3,4 ],
+"3" : [ 0,3 ],
+"4" : [ 0,1 ],
+"5" : [ 4,2 ],
+"6" : [ 1,2 ],
+"7" : [ 2,6 ]
+}]
+}

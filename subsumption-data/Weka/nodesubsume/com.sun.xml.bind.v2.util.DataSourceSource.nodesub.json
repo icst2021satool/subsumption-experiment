@@ -1,0 +1,33 @@
+{
+"Class" : "com.sun.xml.bind.v2.util.DataSourceSource", 
+"Methods" : [{ "Name" : "<init>" ,
+"Nodes" : 5,
+"0" : [ ],
+"1" : [ 0, 3, 4],
+"3" : [ 1, 2],
+"2" : [ ],
+"4" : [ ],
+"CoveredDUAsByNodes" : 5,
+"Duas" : 5
+},{ "Name" : "getReader" ,
+"Nodes" : 6,
+"0" : [ ],
+"1" : [ 1, 8],
+"3" : [ 1, 2, 5, 6, 8, 9, 10, 13],
+"2" : [ 1, 4, 8],
+"4" : [ 0, 7],
+"5" : [ ],
+"CoveredDUAsByNodes" : 11,
+"Duas" : 15
+},{ "Name" : "getInputStream" ,
+"Nodes" : 6,
+"0" : [ ],
+"1" : [ 1, 7],
+"3" : [ 1, 2, 5, 7, 8, 11],
+"2" : [ 1, 4, 7],
+"4" : [ 0, 6],
+"5" : [ ],
+"CoveredDUAsByNodes" : 9,
+"Duas" : 13
+}]
+}

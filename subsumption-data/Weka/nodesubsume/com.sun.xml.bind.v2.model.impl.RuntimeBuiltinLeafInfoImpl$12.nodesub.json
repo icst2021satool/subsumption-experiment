@@ -1,0 +1,29 @@
+{
+"Class" : "com.sun.xml.bind.v2.model.impl.RuntimeBuiltinLeafInfoImpl$12", 
+"Methods" : [{ "Name" : "parse" ,
+"Nodes" : 4,
+"0" : [ ],
+"1" : [ 1, 2],
+"2" : [ 0, 3],
+"3" : [ ],
+"CoveredDUAsByNodes" : 4,
+"Duas" : 4
+},{ "Name" : "print" ,
+"Nodes" : 13,
+"0" : [ ],
+"11" : [ 9, 15],
+"1" : [ ],
+"7" : [ 0, 3],
+"8" : [ 0, 3, 23],
+"10" : [ 0, 3, 23, 11],
+"2" : [ ],
+"6" : [ ],
+"3" : [ ],
+"5" : [ ],
+"4" : [ 2, 4, 5, 6],
+"9" : [ 0, 3, 22, 7, 23, 8],
+"12" : [ ],
+"CoveredDUAsByNodes" : 13,
+"Duas" : 40
+}]
+}

@@ -1,0 +1,12 @@
+{
+"Class" : "weka.datagenerators.classifiers.classification.Agrawal$1", 
+"Methods" : [{ "Name" : "determineClass" ,
+"Edges" : 6,
+"0" : [ 0,2 ],
+"1" : [ 0,1 ],
+"2" : [ 3,4 ],
+"3" : [ 2,1 ],
+"4" : [ 2,3 ],
+"5" : [ 1,4 ]
+}]
+}

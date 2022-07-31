@@ -1,0 +1,14 @@
+{
+"Class" : "com.sun.xml.bind.api.JAXBRIContext", 
+"Methods" : [{ "Name" : "newInstance" ,
+"Edges" : 13,
+"Duas" : 29,
+"1" : 9, 
+ "2" : 10, 
+ "4" : 3, 
+ "5" : 4, 
+ "7" : 6, 
+ "8" : 7, 
+ "11" : 0, 
+ "12" : 1}]
+}

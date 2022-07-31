@@ -1,0 +1,10 @@
+{
+"Class" : "weka.gui.beans.SubstringReplacerCustomizer$10", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Nodes" : 4,
+"0" : [ 290,291 ]
+"1" : [ 296 ]
+"2" : [ 292,293,294 ]
+"3" : [  ]
+}]
+}

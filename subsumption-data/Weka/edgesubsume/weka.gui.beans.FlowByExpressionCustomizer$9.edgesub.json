@@ -1,0 +1,16 @@
+{
+"Class" : "weka.gui.beans.FlowByExpressionCustomizer$9", 
+"Methods" : [{ "Name" : "mouseClicked" ,
+"Edges" : 8,
+"3" : [ 2],
+"4" : [ 3],
+"5" : [ 2, 4, 6],
+"6" : [ 5],
+"0" : [ 0, 1, 2, 4, 6, 7, 9],
+"1" : [ 8],
+"7" : [ 0, 1, 2, 4, 6, 7, 9],
+"2" : [ ],
+"CoveredDUAsByEdges" : 10,
+"Duas" : 10
+}]
+}

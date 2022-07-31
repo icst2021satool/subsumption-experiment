@@ -1,0 +1,11 @@
+{
+"Class" : "org.apache.commons.compress.archivers.zip.ParallelScatterZipCreator", 
+"Methods" : [{ "Name" : "createCallable" ,
+"Edges" : 4,
+"Duas" : 6,
+"4" : 1, 
+ "5" : 2},{ "Name" : "writeTo" ,
+"Edges" : 13,
+"Duas" : 13,
+}]
+}

@@ -1,0 +1,10 @@
+{
+"Class" : "org.apache.commons.compress.compressors.CompressorInputStream", 
+"Methods" : [{ "Name" : "count" ,
+"Edges" : 4,
+"0" : [ 1,3 ],
+"1" : [ 2,1 ],
+"2" : [ 0,2 ],
+"3" : [ 0,1 ]
+}]
+}

@@ -1,0 +1,13 @@
+{
+"Class" : "weka.gui.boundaryvisualizer.BoundaryVisualizer$13", 
+"Methods" : [{ "Name" : "windowClosing" ,
+"Nodes" : 5,
+"0" : [ ],
+"2" : [ 2],
+"3" : [ 0, 2],
+"1" : [ ],
+"4" : [ ],
+"CoveredDUAsByNodes" : 2,
+"Duas" : 4
+}]
+}

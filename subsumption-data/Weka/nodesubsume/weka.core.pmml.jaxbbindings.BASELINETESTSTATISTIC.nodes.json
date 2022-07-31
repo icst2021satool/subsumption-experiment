@@ -1,0 +1,13 @@
+{
+"Class" : "weka.core.pmml.jaxbbindings.BASELINETESTSTATISTIC", 
+"Methods" : [{ "Name" : "fromValue" ,
+"Nodes" : 7,
+"0" : [ 56 ]
+"1" : [ 56 ]
+"2" : [ 61 ]
+"3" : [ 56,57 ]
+"4" : [ 56 ]
+"5" : [ 58 ]
+"6" : [  ]
+}]
+}

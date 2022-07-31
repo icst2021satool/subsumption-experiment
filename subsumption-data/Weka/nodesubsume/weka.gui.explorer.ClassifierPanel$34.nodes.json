@@ -1,0 +1,10 @@
+{
+"Class" : "weka.gui.explorer.ClassifierPanel$34", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Nodes" : 4,
+"0" : [ 2308,2309,2310,2311 ]
+"1" : [ 2320,2321,2322,2325,2326,2316,2317,2318,2319 ]
+"2" : [ 2312,2313 ]
+"3" : [  ]
+}]
+}

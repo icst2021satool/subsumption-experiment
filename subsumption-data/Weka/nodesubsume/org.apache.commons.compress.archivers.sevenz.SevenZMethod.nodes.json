@@ -1,0 +1,13 @@
+{
+"Class" : "org.apache.commons.compress.archivers.sevenz.SevenZMethod", 
+"Methods" : [{ "Name" : "byId" ,
+"Nodes" : 7,
+"0" : [ 106 ]
+"1" : [ 106 ]
+"2" : [ 111 ]
+"3" : [ 106,107 ]
+"4" : [ 106 ]
+"5" : [ 108 ]
+"6" : [  ]
+}]
+}

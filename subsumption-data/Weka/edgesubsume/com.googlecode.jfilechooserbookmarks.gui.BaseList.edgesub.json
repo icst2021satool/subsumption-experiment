@@ -1,0 +1,13 @@
+{
+"Class" : "com.googlecode.jfilechooserbookmarks.gui.BaseList", 
+"Methods" : [{ "Name" : "notifyRemoveItemsListeners" ,
+"Edges" : 5,
+"4" : [ ],
+"1" : [ 0],
+"2" : [ ],
+"3" : [ ],
+"0" : [ 0],
+"CoveredDUAsByEdges" : 1,
+"Duas" : 1
+}]
+}

@@ -1,0 +1,12 @@
+{
+"Class" : "weka.core.FileHelper", 
+"Methods" : [{ "Name" : "getFile" ,
+"Edges" : 4,
+"2" : [ 0, 2, 3, 5],
+"3" : [ 1, 4],
+"1" : [ 1, 4],
+"0" : [ 0, 2, 3, 5],
+"CoveredDUAsByEdges" : 6,
+"Duas" : 6
+}]
+}

@@ -1,0 +1,11 @@
+{
+"Class" : "org.apache.commons.compress.compressors.gzip.GzipParameters", 
+"Methods" : [{ "Name" : "setCompressionLevel" ,
+"Nodes" : 5,
+"0" : [ 51 ]
+"1" : [ 52 ]
+"2" : [ 51 ]
+"3" : [ 54,55 ]
+"4" : [  ]
+}]
+}

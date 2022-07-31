@@ -1,0 +1,11 @@
+{
+"Class" : "org.apache.commons.compress.compressors.CompressorStreamFactory$2", 
+"Methods" : [{ "Name" : "run" ,
+"Nodes" : 5,
+"0" : [ 292,293,294 ]
+"1" : [ 294 ]
+"2" : [ 297 ]
+"3" : [ 294,295,296 ]
+"4" : [  ]
+}]
+}

@@ -1,0 +1,13 @@
+{
+"Class" : "weka.knowledgeflow.steps.Sorter$SortComparator", 
+"Methods" : [{ "Name" : "compare" ,
+"Nodes" : 7,
+"0" : [ 705,706 ]
+"1" : [ 706 ]
+"2" : [ 713 ]
+"3" : [ 706,707,708 ]
+"4" : [ 711 ]
+"5" : [ 709 ]
+"6" : [  ]
+}]
+}

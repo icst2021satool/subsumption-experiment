@@ -1,0 +1,15 @@
+{
+"Class" : "weka.gui.graphvisualizer.GraphEdge", 
+"Methods" : [{ "Name" : "equals" ,
+"Nodes" : 7,
+"0" : [ ],
+"2" : [ 6],
+"3" : [ 0, 6, 8, 14],
+"4" : [ 0, 16, 2, 6, 8, 10, 14],
+"1" : [ ],
+"5" : [ 0, 16, 2, 18, 4, 6, 8, 10, 12, 14],
+"6" : [ ],
+"CoveredDUAsByNodes" : 10,
+"Duas" : 20
+}]
+}

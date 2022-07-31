@@ -1,0 +1,20 @@
+{
+"Class" : "com.sun.xml.bind.v2.runtime.unmarshaller.WildcardLoader", 
+"Methods" : [{ "Name" : "selectLoader" ,
+"Edges" : 9,
+"Duas" : 21,
+"0" : 4, 
+ "1" : 5, 
+ "2" : 6, 
+ "3" : 7, 
+ "7" : 4, 
+ "8" : 5, 
+ "9" : 6, 
+ "10" : 7, 
+ "11" : 4, 
+ "12" : 5, 
+ "13" : 6, 
+ "14" : 7, 
+ "18" : 1, 
+ "19" : 2}]
+}

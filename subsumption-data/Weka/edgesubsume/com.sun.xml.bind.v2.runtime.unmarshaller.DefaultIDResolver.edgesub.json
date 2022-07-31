@@ -1,0 +1,20 @@
+{
+"Class" : "com.sun.xml.bind.v2.runtime.unmarshaller.DefaultIDResolver", 
+"Methods" : [{ "Name" : "startDocument" ,
+"Edges" : 4,
+"2" : [ 0, 2, 3, 5],
+"3" : [ 1, 4],
+"0" : [ 0, 2, 3, 5],
+"1" : [ ],
+"CoveredDUAsByEdges" : 6,
+"Duas" : 6
+},{ "Name" : "bind" ,
+"Edges" : 4,
+"1" : [ 0, 3, 6],
+"2" : [ 1, 2, 4, 5, 7, 8],
+"3" : [ 0, 2, 3, 4, 5, 6],
+"0" : [ 2, 4, 5],
+"CoveredDUAsByEdges" : 9,
+"Duas" : 10
+}]
+}

@@ -1,0 +1,10 @@
+{
+"Class" : "org.apache.commons.compress.changes.ChangeSetPerformer$ArchiveInputStreamIterator", 
+"Methods" : [{ "Name" : "hasNext" ,
+"Nodes" : 5,
+"Duas" : 4,
+"0" :  [ 0,3 ],
+"1" :  [ 0,1 ],
+"2" :  [ 0,3 ],
+"3" :  [ 0,1 ]}]
+}

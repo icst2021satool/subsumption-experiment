@@ -1,0 +1,18 @@
+{
+"Class" : "weka.gui.beans.AttributeSummarizer$1", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Edges" : 7,
+"Duas" : 20,
+"0" : 1, 
+ "1" : 2, 
+ "3" : 1, 
+ "4" : 2, 
+ "6" : 1, 
+ "7" : 2, 
+ "9" : 4, 
+ "10" : 5, 
+ "12" : 1, 
+ "13" : 2, 
+ "16" : 1, 
+ "17" : 2}]
+}

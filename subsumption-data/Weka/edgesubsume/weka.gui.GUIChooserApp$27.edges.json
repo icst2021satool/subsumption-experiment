@@ -1,0 +1,10 @@
+{
+"Class" : "weka.gui.GUIChooserApp$27", 
+"Methods" : [{ "Name" : "windowClosing" ,
+"Edges" : 4,
+"0" : [ 2,1 ],
+"1" : [ 1,3 ],
+"2" : [ 0,2 ],
+"3" : [ 0,1 ]
+}]
+}

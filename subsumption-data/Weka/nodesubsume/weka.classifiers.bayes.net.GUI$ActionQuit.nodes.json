@@ -1,0 +1,14 @@
+{
+"Class" : "weka.classifiers.bayes.net.GUI$ActionQuit", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Nodes" : 8,
+"0" : [ 1649 ]
+"1" : [ 1662,1663 ]
+"2" : [ 1650,1653 ]
+"3" : [ 1656 ]
+"4" : [ 1657 ]
+"5" : [ 1658 ]
+"6" : [ 1654 ]
+"7" : [  ]
+}]
+}

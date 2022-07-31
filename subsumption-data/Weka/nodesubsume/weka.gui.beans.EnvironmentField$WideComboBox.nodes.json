@@ -1,0 +1,10 @@
+{
+"Class" : "weka.gui.beans.EnvironmentField$WideComboBox", 
+"Methods" : [{ "Name" : "getSize" ,
+"Nodes" : 4,
+"0" : [ 130,131 ]
+"1" : [ 134 ]
+"2" : [ 132 ]
+"3" : [  ]
+}]
+}

@@ -1,0 +1,16 @@
+{
+"Class" : "weka.core.pmml.jaxbbindings.MapValues", 
+"Methods" : [{ "Name" : "getExtension" ,
+"Nodes" : 4,
+"0" : [ 101 ]
+"1" : [ 104 ]
+"2" : [ 102 ]
+"3" : [  ]
+},{ "Name" : "getFieldColumnPair" ,
+"Nodes" : 4,
+"0" : [ 130 ]
+"1" : [ 133 ]
+"2" : [ 131 ]
+"3" : [  ]
+}]
+}

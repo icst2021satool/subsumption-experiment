@@ -1,0 +1,10 @@
+{
+"Class" : "weka.gui.InteractiveTablePanel$InteractiveTableModelListener", 
+"Methods" : [{ "Name" : "tableChanged" ,
+"Nodes" : 4,
+"0" : [ 164 ]
+"1" : [ 170 ]
+"2" : [ 165,166,167,168 ]
+"3" : [  ]
+}]
+}

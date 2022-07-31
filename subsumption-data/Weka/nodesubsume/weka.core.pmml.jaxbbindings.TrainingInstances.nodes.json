@@ -1,0 +1,16 @@
+{
+"Class" : "weka.core.pmml.jaxbbindings.TrainingInstances", 
+"Methods" : [{ "Name" : "getExtension" ,
+"Nodes" : 4,
+"0" : [ 99 ]
+"1" : [ 102 ]
+"2" : [ 100 ]
+"3" : [  ]
+},{ "Name" : "isIsTransformed" ,
+"Nodes" : 4,
+"0" : [ 210 ]
+"1" : [ 213 ]
+"2" : [ 211 ]
+"3" : [  ]
+}]
+}

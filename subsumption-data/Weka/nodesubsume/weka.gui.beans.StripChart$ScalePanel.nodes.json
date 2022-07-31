@@ -1,0 +1,10 @@
+{
+"Class" : "weka.gui.beans.StripChart$ScalePanel", 
+"Methods" : [{ "Name" : "paintComponent" ,
+"Nodes" : 4,
+"0" : [ 137,138 ]
+"1" : [ 144,145,146,147,148,149,150,141,142,143 ]
+"2" : [ 139 ]
+"3" : [  ]
+}]
+}

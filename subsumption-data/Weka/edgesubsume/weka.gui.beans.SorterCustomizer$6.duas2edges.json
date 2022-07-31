@@ -1,0 +1,16 @@
+{
+"Class" : "weka.gui.beans.SorterCustomizer$6", 
+"Methods" : [{ "Name" : "keyReleased" ,
+"Edges" : 10,
+"Duas" : 24,
+"0" : 8, 
+ "1" : 9, 
+ "5" : 8, 
+ "6" : 9, 
+ "11" : 8, 
+ "12" : 9, 
+ "15" : 1, 
+ "16" : 2, 
+ "20" : 4, 
+ "21" : 5}]
+}

@@ -1,0 +1,17 @@
+{
+"Class" : "com.sun.xml.bind.v2.runtime.unmarshaller.StAXExConnector", 
+"Methods" : [{ "Name" : "handleCharacters" ,
+"Edges" : 11,
+"0" : [ 3,1 ],
+"1" : [ 4,7 ],
+"2" : [ 4,5 ],
+"3" : [ 6,1 ],
+"4" : [ 2,4 ],
+"5" : [ 2,3 ],
+"6" : [ 1,8 ],
+"7" : [ 0,2 ],
+"8" : [ 0,1 ],
+"9" : [ 7,6 ],
+"10" : [ 5,6 ]
+}]
+}

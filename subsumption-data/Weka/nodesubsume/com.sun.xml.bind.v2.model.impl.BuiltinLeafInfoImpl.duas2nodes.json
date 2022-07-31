@@ -1,0 +1,18 @@
+{
+"Class" : "com.sun.xml.bind.v2.model.impl.BuiltinLeafInfoImpl", 
+"Methods" : [{ "Name" : "<init>" ,
+"Nodes" : 5,
+"Duas" : 7,
+"0" :  [ 0,2 ],
+"1" :  [ 0,2 ],
+"2" :  [ 0,2 ],
+"3" :  [ 0,3 ],
+"4" :  [ 0,1 ],
+"5" :  [ 0,2 ],
+"6" :  [ 0,2 ]},{ "Name" : "createLeaves" ,
+"Nodes" : 5,
+"Duas" : 3,
+"0" :  [ 0,3 ],
+"1" :  [ 0,2 ],
+"2" :  [ 0,3 ]}]
+}

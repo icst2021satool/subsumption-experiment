@@ -1,0 +1,16 @@
+{
+"Class" : "weka.core.pmml.jaxbbindings.PCovMatrix", 
+"Methods" : [{ "Name" : "getExtension" ,
+"Nodes" : 4,
+"0" : [ 89 ]
+"1" : [ 92 ]
+"2" : [ 90 ]
+"3" : [  ]
+},{ "Name" : "getPCovCell" ,
+"Nodes" : 4,
+"0" : [ 118 ]
+"1" : [ 121 ]
+"2" : [ 119 ]
+"3" : [  ]
+}]
+}

@@ -1,0 +1,20 @@
+{
+"Class" : "weka.gui.CloseableTabTitle$TabButton$1", 
+"Methods" : [{ "Name" : "mouseEntered" ,
+"Edges" : 7,
+"Duas" : 19,
+"1" : 0, 
+ "2" : 1, 
+ "5" : 0, 
+ "6" : 1, 
+ "9" : 0, 
+ "10" : 1, 
+ "12" : 2, 
+ "13" : 3, 
+ "17" : 0, 
+ "18" : 1},{ "Name" : "mouseExited" ,
+"Edges" : 4,
+"Duas" : 3,
+"0" : 0, 
+ "1" : 1}]
+}

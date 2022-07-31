@@ -1,0 +1,14 @@
+{
+"Class" : "weka.gui.GenericObjectEditor$3", 
+"Methods" : [{ "Name" : "valueChanged" ,
+"Nodes" : 6,
+"0" : [ ],
+"1" : [ 4],
+"3" : [ 0, 1, 2, 4, 5],
+"2" : [ 4],
+"4" : [ 3],
+"5" : [ ],
+"CoveredDUAsByNodes" : 6,
+"Duas" : 7
+}]
+}

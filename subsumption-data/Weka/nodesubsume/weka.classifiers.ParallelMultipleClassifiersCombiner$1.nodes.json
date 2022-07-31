@@ -1,0 +1,12 @@
+{
+"Class" : "weka.classifiers.ParallelMultipleClassifiersCombiner$1", 
+"Methods" : [{ "Name" : "run" ,
+"Nodes" : 6,
+"0" : [ 216 ]
+"1" : [ 219,220 ]
+"2" : [ 227,228,223 ]
+"3" : [ 221 ]
+"4" : [ 217 ]
+"5" : [  ]
+}]
+}

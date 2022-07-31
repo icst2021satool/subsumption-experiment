@@ -1,0 +1,16 @@
+{
+"Class" : "com.sun.xml.bind.v2.model.impl.ERPropertyInfoImpl", 
+"Methods" : [{ "Name" : "<init>" ,
+"Nodes" : 8,
+"0" : [ ],
+"1" : [ 1],
+"2" : [ 1, 2, 14],
+"4" : [ 16, 1, 17, 5, 13, 15],
+"5" : [ 0, 6],
+"6" : [ 0, 18, 20, 6, 7, 8, 9, 10, 11, 12],
+"3" : [ 3, 4],
+"7" : [ 3, 4],
+"CoveredDUAsByNodes" : 20,
+"Duas" : 25
+}]
+}

@@ -1,0 +1,19 @@
+{
+"Class" : "weka.gui.knowledgeflow.MainKFPerspectiveToolBar$39", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Nodes" : 11,
+"0" : [ ],
+"1" : [ ],
+"2" : [ ],
+"7" : [ 11],
+"8" : [ 9, 11, 14],
+"3" : [ 13],
+"4" : [ 13],
+"5" : [ 0, 1, 4, 5, 6, 7, 13],
+"10" : [ 0, 1, 4, 5, 6, 7, 13],
+"6" : [ 2, 8, 13],
+"9" : [ 3, 10],
+"CoveredDUAsByNodes" : 14,
+"Duas" : 16
+}]
+}

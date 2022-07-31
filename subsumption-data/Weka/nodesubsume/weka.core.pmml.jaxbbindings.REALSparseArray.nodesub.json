@@ -1,0 +1,28 @@
+{
+"Class" : "weka.core.pmml.jaxbbindings.REALSparseArray", 
+"Methods" : [{ "Name" : "getIndices" ,
+"Nodes" : 4,
+"0" : [ ],
+"2" : [ 0, 3, 4],
+"1" : [ 2],
+"3" : [ 2],
+"CoveredDUAsByNodes" : 4,
+"Duas" : 8
+},{ "Name" : "getREALEntries" ,
+"Nodes" : 4,
+"0" : [ ],
+"2" : [ 0, 3, 4],
+"1" : [ 2],
+"3" : [ 2],
+"CoveredDUAsByNodes" : 4,
+"Duas" : 8
+},{ "Name" : "getDefaultValue" ,
+"Nodes" : 4,
+"0" : [ ],
+"1" : [ 1, 2, 4, 5],
+"2" : [ 0, 3],
+"3" : [ ],
+"CoveredDUAsByNodes" : 6,
+"Duas" : 6
+}]
+}

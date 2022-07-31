@@ -1,0 +1,8 @@
+{
+"Class" : "weka.gui.beans.Sorter$SortComparator", 
+"Methods" : [{ "Name" : "compare" ,
+"Edges" : 8,
+"Duas" : 5,
+"2" : 6, 
+ "3" : 7}]
+}

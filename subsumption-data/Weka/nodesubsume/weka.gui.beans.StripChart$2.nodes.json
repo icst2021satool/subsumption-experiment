@@ -1,0 +1,10 @@
+{
+"Class" : "weka.gui.beans.StripChart$2", 
+"Methods" : [{ "Name" : "windowClosing" ,
+"Nodes" : 4,
+"0" : [ 485 ]
+"1" : [ 490,491,492,493,494,495 ]
+"2" : [ 486,487,488 ]
+"3" : [  ]
+}]
+}

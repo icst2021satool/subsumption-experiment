@@ -1,0 +1,25 @@
+{
+"Class" : "weka.core.MinkowskiDistance", 
+"Methods" : [{ "Name" : "setOptions" ,
+"Nodes" : 5,
+"0" : [ 186,187 ]
+"1" : [ 190 ]
+"2" : [ 193,194 ]
+"3" : [ 188 ]
+"4" : [  ]
+},{ "Name" : "setOrder" ,
+"Nodes" : 5,
+"0" : [ 232 ]
+"1" : [ 236 ]
+"2" : [ 238 ]
+"3" : [ 233,234 ]
+"4" : [  ]
+},{ "Name" : "postProcessDistances" ,
+"Nodes" : 5,
+"0" : [ 320 ]
+"1" : [ 320 ]
+"2" : [ 323 ]
+"3" : [ 320,321 ]
+"4" : [  ]
+}]
+}

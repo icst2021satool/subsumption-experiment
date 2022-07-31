@@ -1,0 +1,16 @@
+{
+"Class" : "weka.core.pmml.jaxbbindings.Parameter", 
+"Methods" : [{ "Name" : "getExtension" ,
+"Nodes" : 4,
+"0" : [ 84 ]
+"1" : [ 87 ]
+"2" : [ 85 ]
+"3" : [  ]
+},{ "Name" : "getReferencePoint" ,
+"Nodes" : 4,
+"0" : [ 147 ]
+"1" : [ 150 ]
+"2" : [ 148 ]
+"3" : [  ]
+}]
+}

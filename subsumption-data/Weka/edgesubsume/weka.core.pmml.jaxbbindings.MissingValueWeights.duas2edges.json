@@ -1,0 +1,10 @@
+{
+"Class" : "weka.core.pmml.jaxbbindings.MissingValueWeights", 
+"Methods" : [{ "Name" : "getExtension" ,
+"Edges" : 4,
+"Duas" : 8,
+"0" : 2, 
+ "1" : 3, 
+ "4" : 2, 
+ "5" : 3}]
+}

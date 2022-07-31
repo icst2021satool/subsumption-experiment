@@ -1,0 +1,8 @@
+{
+"Class" : "javax.xml.bind.JAXBIntrospector", 
+"Methods" : [{ "Name" : "getValue" ,
+"Edges" : 4,
+"Duas" : 4,
+"0" : 0, 
+ "1" : 1}]
+}

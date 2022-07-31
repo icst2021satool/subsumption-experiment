@@ -1,0 +1,14 @@
+{
+"Class" : "weka.core.expressionlanguage.weka.InstancesHelper$DoubleValue", 
+"Methods" : [{ "Name" : "<init>" ,
+"Edges" : 6,
+"Duas" : 4,
+"0" : 4, 
+ "1" : 5, 
+ "2" : 0, 
+ "3" : 1},{ "Name" : "evaluate" ,
+"Edges" : 4,
+"Duas" : 6,
+"0" : 2, 
+ "1" : 3}]
+}

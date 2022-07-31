@@ -1,0 +1,14 @@
+{
+"Class" : "com.sun.istack.Pool$Impl", 
+"Methods" : [{ "Name" : "take" ,
+"Edges" : 4,
+"Duas" : 4,
+"1" : 1, 
+ "2" : 2},{ "Name" : "getQueue" ,
+"Edges" : 6,
+"Duas" : 7,
+"1" : 0, 
+ "2" : 1, 
+ "4" : 2, 
+ "5" : 3}]
+}

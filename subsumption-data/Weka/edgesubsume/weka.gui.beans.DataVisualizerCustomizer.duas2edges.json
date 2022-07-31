@@ -1,0 +1,18 @@
+{
+"Class" : "weka.gui.beans.DataVisualizerCustomizer", 
+"Methods" : [{ "Name" : "setup" ,
+"Edges" : 7,
+"Duas" : 61,
+"58" : 5, 
+ "59" : 6},{ "Name" : "setupRendererOptsTipText" ,
+"Edges" : 12,
+"Duas" : 13,
+"2" : 5, 
+ "3" : 6, 
+ "5" : 10, 
+ "6" : 11, 
+ "8" : 0, 
+ "9" : 1, 
+ "10" : 7, 
+ "11" : 8}]
+}

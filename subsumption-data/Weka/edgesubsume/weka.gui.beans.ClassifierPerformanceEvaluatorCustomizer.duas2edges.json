@@ -1,0 +1,10 @@
+{
+"Class" : "weka.gui.beans.ClassifierPerformanceEvaluatorCustomizer", 
+"Methods" : [{ "Name" : "setObject" ,
+"Edges" : 9,
+"Duas" : 7,
+"1" : 2, 
+ "2" : 3, 
+ "3" : 4, 
+ "4" : 5}]
+}

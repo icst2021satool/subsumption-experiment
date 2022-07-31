@@ -1,0 +1,12 @@
+{
+"Class" : "org.apache.commons.compress.compressors.CompressorInputStream", 
+"Methods" : [{ "Name" : "count" ,
+"Edges" : 4,
+"2" : [ 0, 1, 3, 4],
+"3" : [ 2],
+"1" : [ 0, 1, 3, 4],
+"0" : [ ],
+"CoveredDUAsByEdges" : 5,
+"Duas" : 5
+}]
+}

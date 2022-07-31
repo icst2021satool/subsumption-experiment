@@ -1,0 +1,12 @@
+{
+"Class" : "weka.gui.ExtensionFileFilter", 
+"Methods" : [{ "Name" : "accept" ,
+"Edges" : 11,
+"Duas" : 8,
+"1" : 0, 
+ "2" : 1, 
+ "4" : 7, 
+ "5" : 8, 
+ "6" : 7, 
+ "7" : 8}]
+}

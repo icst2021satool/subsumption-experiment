@@ -1,0 +1,22 @@
+{
+"Class" : "weka.core.pmml.jaxbbindings.PMML", 
+"Methods" : [{ "Name" : "getAssociationModelOrBaselineModelOrClusteringModels" ,
+"Nodes" : 4,
+"0" : [ 229 ]
+"1" : [ 232 ]
+"2" : [ 230 ]
+"3" : [  ]
+},{ "Name" : "addAssociationModelOrBaselineModelOrClusteringModes" ,
+"Nodes" : 4,
+"0" : [ 236 ]
+"1" : [ 240,239 ]
+"2" : [ 237 ]
+"3" : [  ]
+},{ "Name" : "getExtension" ,
+"Nodes" : 4,
+"0" : [ 265 ]
+"1" : [ 268 ]
+"2" : [ 266 ]
+"3" : [  ]
+}]
+}

@@ -1,0 +1,8 @@
+{
+"Class" : "weka.core.Attribute$1", 
+"Methods" : [{ "Name" : "nextElement" ,
+"Edges" : 4,
+"Duas" : 4,
+"0" : 1, 
+ "1" : 2}]
+}

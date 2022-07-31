@@ -1,0 +1,12 @@
+{
+"Class" : "weka.gui.beans.AssociatorCustomizer$1", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Nodes" : 4,
+"0" : [ ],
+"2" : [ 0, 3, 4, 7],
+"1" : [ 2, 6, 8],
+"3" : [ 2, 6, 8],
+"CoveredDUAsByNodes" : 7,
+"Duas" : 9
+}]
+}

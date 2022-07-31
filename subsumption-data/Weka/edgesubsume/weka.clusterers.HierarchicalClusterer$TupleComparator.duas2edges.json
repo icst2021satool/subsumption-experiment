@@ -1,0 +1,22 @@
+{
+"Class" : "weka.clusterers.HierarchicalClusterer$TupleComparator", 
+"Methods" : [{ "Name" : "compare" ,
+"Edges" : 7,
+"Duas" : 16,
+"0" : 0, 
+ "1" : 1, 
+ "2" : 5, 
+ "3" : 6, 
+ "4" : 0, 
+ "5" : 1, 
+ "6" : 5, 
+ "7" : 6, 
+ "8" : 0, 
+ "9" : 1, 
+ "10" : 5, 
+ "11" : 6, 
+ "12" : 0, 
+ "13" : 1, 
+ "14" : 5, 
+ "15" : 6}]
+}

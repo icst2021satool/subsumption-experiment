@@ -1,0 +1,11 @@
+{
+"Class" : "weka.core.pmml.BuiltInMath$MathFunc$1", 
+"Methods" : [{ "Name" : "legalNumParams" ,
+"Edges" : 5,
+"0" : [ 0,3 ],
+"1" : [ 0,1 ],
+"2" : [ 2,4 ],
+"3" : [ 3,2 ],
+"4" : [ 1,2 ]
+}]
+}

@@ -1,0 +1,26 @@
+{
+"Class" : "com.sun.xml.bind.v2.model.nav.ReflectionNavigator$BinderArg", 
+"Methods" : [{ "Name" : "<init>" ,
+"Edges" : 6,
+"1" : [ 4],
+"2" : [ 5],
+"4" : [ 0, 2, 4],
+"5" : [ 1, 3],
+"0" : [ ],
+"3" : [ 0, 2, 4],
+"CoveredDUAsByEdges" : 6,
+"Duas" : 6
+},{ "Name" : "replace" ,
+"Edges" : 8,
+"7" : [ ],
+"0" : [ 0, 8, 13],
+"1" : [ 1, 5, 9],
+"6" : [ 1, 5, 9],
+"2" : [ 0, 2, 4, 6, 8, 10, 12, 13],
+"3" : [ 0, 16, 17, 3, 7, 8, 11, 13],
+"4" : [ 0, 16, 17, 3, 7, 8, 11, 13],
+"5" : [ 0, 2, 4, 6, 8, 10, 12, 13],
+"CoveredDUAsByEdges" : 16,
+"Duas" : 25
+}]
+}

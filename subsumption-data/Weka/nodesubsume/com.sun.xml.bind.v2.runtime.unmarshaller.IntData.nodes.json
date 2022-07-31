@@ -1,0 +1,21 @@
+{
+"Class" : "com.sun.xml.bind.v2.runtime.unmarshaller.IntData", 
+"Methods" : [{ "Name" : "reset" ,
+"Nodes" : 8,
+"0" : [ 38,39 ]
+"1" : [ 42 ]
+"2" : [ 42 ]
+"3" : [ 42 ]
+"4" : [ 43 ]
+"5" : [ 42 ]
+"6" : [ 40 ]
+"7" : [  ]
+},{ "Name" : "stringSizeOfInt" ,
+"Nodes" : 5,
+"0" : [ 50 ]
+"1" : [ 51 ]
+"2" : [ 50 ]
+"3" : [ 52 ]
+"4" : [  ]
+}]
+}

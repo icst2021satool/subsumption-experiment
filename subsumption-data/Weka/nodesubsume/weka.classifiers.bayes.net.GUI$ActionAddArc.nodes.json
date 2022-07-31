@@ -1,0 +1,14 @@
+{
+"Class" : "weka.classifiers.bayes.net.GUI$ActionAddArc", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Nodes" : 8,
+"0" : [ 1396,1397 ]
+"1" : [ 1397 ]
+"2" : [ 1400,1402 ]
+"3" : [ 1403 ]
+"4" : [ 1402 ]
+"5" : [ 1409,1410,1405,1406 ]
+"6" : [ 1397,1398 ]
+"7" : [  ]
+}]
+}

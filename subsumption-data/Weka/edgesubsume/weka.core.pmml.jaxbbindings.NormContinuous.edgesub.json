@@ -1,0 +1,28 @@
+{
+"Class" : "weka.core.pmml.jaxbbindings.NormContinuous", 
+"Methods" : [{ "Name" : "getExtension" ,
+"Edges" : 4,
+"1" : [ 0, 3, 4],
+"2" : [ 1, 2, 5, 6],
+"3" : [ 0, 2, 3, 4],
+"0" : [ 2],
+"CoveredDUAsByEdges" : 7,
+"Duas" : 8
+},{ "Name" : "getLinearNorm" ,
+"Edges" : 4,
+"0" : [ 0, 3, 4],
+"1" : [ 1, 2, 5, 6],
+"3" : [ 0, 2, 3, 4],
+"2" : [ 2],
+"CoveredDUAsByEdges" : 7,
+"Duas" : 8
+},{ "Name" : "getOutliers" ,
+"Edges" : 4,
+"2" : [ 0, 3, 6],
+"3" : [ 1, 2, 4, 5],
+"1" : [ 1, 2, 4, 5],
+"0" : [ 0, 3, 6],
+"CoveredDUAsByEdges" : 7,
+"Duas" : 7
+}]
+}

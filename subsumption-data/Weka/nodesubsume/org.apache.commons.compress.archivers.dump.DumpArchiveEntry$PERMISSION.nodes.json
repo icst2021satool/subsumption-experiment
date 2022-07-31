@@ -1,0 +1,15 @@
+{
+"Class" : "org.apache.commons.compress.archivers.dump.DumpArchiveEntry$PERMISSION", 
+"Methods" : [{ "Name" : "find" ,
+"Nodes" : 9,
+"0" : [ 832,830 ]
+"1" : [ 832 ]
+"2" : [ 838 ]
+"3" : [ 842 ]
+"4" : [ 839 ]
+"5" : [ 832,833 ]
+"6" : [ 832 ]
+"7" : [ 834 ]
+"8" : [  ]
+}]
+}

@@ -1,0 +1,20 @@
+{
+"Class" : "com.googlecode.jfilechooserbookmarks.AbstractBookmarksPanel$3", 
+"Methods" : [{ "Name" : "valueChanged" ,
+"Edges" : 10,
+"Duas" : 29,
+"0" : 0, 
+ "1" : 1, 
+ "2" : 3, 
+ "3" : 4, 
+ "9" : 0, 
+ "10" : 1, 
+ "11" : 3, 
+ "12" : 4, 
+ "18" : 0, 
+ "19" : 1, 
+ "22" : 3, 
+ "23" : 4, 
+ "25" : 7, 
+ "26" : 8}]
+}

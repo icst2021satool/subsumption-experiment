@@ -1,0 +1,13 @@
+{
+"Class" : "weka.gui.LogPanel$4", 
+"Methods" : [{ "Name" : "mouseClicked" ,
+"Nodes" : 5,
+"0" : [ ],
+"3" : [ 3],
+"1" : [ 0, 1, 2, 5, 8],
+"2" : [ ],
+"4" : [ ],
+"CoveredDUAsByNodes" : 6,
+"Duas" : 9
+}]
+}

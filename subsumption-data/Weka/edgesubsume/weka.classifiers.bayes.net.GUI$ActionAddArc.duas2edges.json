@@ -1,0 +1,16 @@
+{
+"Class" : "weka.classifiers.bayes.net.GUI$ActionAddArc", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Edges" : 10,
+"Duas" : 25,
+"8" : 6, 
+ "9" : 7, 
+ "12" : 6, 
+ "13" : 7, 
+ "16" : 6, 
+ "17" : 7, 
+ "20" : 8, 
+ "21" : 9, 
+ "22" : 1, 
+ "23" : 2}]
+}

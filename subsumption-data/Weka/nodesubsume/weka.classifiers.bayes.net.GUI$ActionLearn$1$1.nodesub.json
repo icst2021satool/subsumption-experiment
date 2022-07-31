@@ -1,0 +1,12 @@
+{
+"Class" : "weka.classifiers.bayes.net.GUI$ActionLearn$1$1", 
+"Methods" : [{ "Name" : "windowClosing" ,
+"Nodes" : 4,
+"0" : [ ],
+"2" : [ 0, 1, 2, 3, 4, 6, 9, 10],
+"1" : [ 5, 8],
+"3" : [ 5, 8],
+"CoveredDUAsByNodes" : 10,
+"Duas" : 13
+}]
+}

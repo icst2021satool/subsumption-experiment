@@ -1,0 +1,8 @@
+{
+"Class" : "weka.gui.knowledgeflow.NoteVisual", 
+"Methods" : [{ "Name" : "setHighlighted" ,
+"Edges" : 5,
+"Duas" : 7,
+"3" : 2, 
+ "4" : 3}]
+}

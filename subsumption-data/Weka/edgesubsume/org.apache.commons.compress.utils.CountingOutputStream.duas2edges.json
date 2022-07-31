@@ -1,0 +1,8 @@
+{
+"Class" : "org.apache.commons.compress.utils.CountingOutputStream", 
+"Methods" : [{ "Name" : "count" ,
+"Edges" : 4,
+"Duas" : 5,
+"1" : 2, 
+ "2" : 3}]
+}

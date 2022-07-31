@@ -1,0 +1,10 @@
+{
+"Class" : "weka.experiment.PropertyNode", 
+"Methods" : [{ "Name" : "toString" ,
+"Edges" : 4,
+"Duas" : 6,
+"0" : 0, 
+ "1" : 1, 
+ "3" : 0, 
+ "4" : 1}]
+}

@@ -1,0 +1,20 @@
+{
+"Class" : "org.apache.commons.compress.compressors.bzip2.CRC", 
+"Methods" : [{ "Name" : "updateCRC" ,
+"Nodes" : 4,
+"0" : [ 115,116 ]
+"1" : [ 119,120 ]
+"2" : [ 117 ]
+"3" : [  ]
+},{ "Name" : "updateCRC" ,
+"Nodes" : 8,
+"0" : [ 123 ]
+"1" : [ 124 ]
+"2" : [ 130,131 ]
+"3" : [ 125,126 ]
+"4" : [ 126 ]
+"5" : [ 129,126 ]
+"6" : [ 126 ]
+"7" : [  ]
+}]
+}

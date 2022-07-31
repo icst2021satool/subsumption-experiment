@@ -1,0 +1,15 @@
+{
+"Class" : "weka.gui.CheckBoxList$1", 
+"Methods" : [{ "Name" : "mousePressed" ,
+"Nodes" : 7,
+"0" : [ ],
+"2" : [ 8],
+"3" : [ 1, 5, 8, 11],
+"5" : [ 0, 4, 8, 10],
+"4" : [ 2, 3, 6, 7, 8, 12],
+"1" : [ ],
+"6" : [ ],
+"CoveredDUAsByNodes" : 12,
+"Duas" : 13
+}]
+}

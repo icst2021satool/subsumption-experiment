@@ -1,0 +1,10 @@
+{
+"Class" : "weka.gui.experiment.ResultsPanel$1", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Nodes" : 4,
+"0" : [ 332 ]
+"1" : [ 342 ]
+"2" : [ 340,333 ]
+"3" : [  ]
+}]
+}

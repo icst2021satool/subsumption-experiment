@@ -1,0 +1,16 @@
+{
+"Class" : "weka.core.pmml.jaxbbindings.VectorDictionary", 
+"Methods" : [{ "Name" : "getExtension" ,
+"Nodes" : 4,
+"0" : [ 87 ]
+"1" : [ 90 ]
+"2" : [ 88 ]
+"3" : [  ]
+},{ "Name" : "getVectorInstance" ,
+"Nodes" : 4,
+"0" : [ 140 ]
+"1" : [ 143 ]
+"2" : [ 141 ]
+"3" : [  ]
+}]
+}

@@ -1,0 +1,10 @@
+{
+"Class" : "weka.gui.knowledgeflow.steps.AttributeSummarizerInteractiveView$2", 
+"Methods" : [{ "Name" : "mouseClicked" ,
+"Edges" : 6,
+"Duas" : 23,
+"16" : 2, 
+ "17" : 3, 
+ "19" : 4, 
+ "20" : 5}]
+}

@@ -1,0 +1,18 @@
+{
+"Class" : "javax.activation.FileTypeMap", 
+"Methods" : [{ "Name" : "setDefaultFileTypeMap" ,
+"Nodes" : 4,
+"0" : [ 73,74 ]
+"1" : [ 89,90,91 ]
+"2" : [ 86,77 ]
+"3" : [  ]
+},{ "Name" : "getDefaultFileTypeMap" ,
+"Nodes" : 6,
+"0" : [ 103 ]
+"1" : [ 107,108,109 ]
+"2" : [ 113 ]
+"3" : [ 110,111 ]
+"4" : [ 104 ]
+"5" : [  ]
+}]
+}

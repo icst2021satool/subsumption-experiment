@@ -1,0 +1,52 @@
+{
+"Class" : "weka.core.pmml.jaxbbindings.TreeModel", 
+"Methods" : [{ "Name" : "getContent" ,
+"Edges" : 4,
+"1" : [ 0, 3, 4],
+"2" : [ 1, 2, 5, 6],
+"0" : [ 0, 2, 3, 4],
+"3" : [ 2],
+"CoveredDUAsByEdges" : 7,
+"Duas" : 8
+},{ "Name" : "isIsScorable" ,
+"Edges" : 4,
+"0" : [ 0, 3],
+"1" : [ 1, 2, 4, 5],
+"2" : [ 1, 2, 4, 5],
+"3" : [ 0, 3],
+"CoveredDUAsByEdges" : 6,
+"Duas" : 6
+},{ "Name" : "getMissingValuePenalty" ,
+"Edges" : 4,
+"1" : [ 0, 3],
+"2" : [ 1, 2, 4, 5],
+"3" : [ 1, 2, 4, 5],
+"0" : [ 0, 3],
+"CoveredDUAsByEdges" : 6,
+"Duas" : 6
+},{ "Name" : "getMissingValueStrategy" ,
+"Edges" : 4,
+"2" : [ 0, 3, 6],
+"3" : [ 1, 2, 4, 5],
+"0" : [ 1, 2, 4, 5],
+"1" : [ 0, 3, 6],
+"CoveredDUAsByEdges" : 7,
+"Duas" : 7
+},{ "Name" : "getNoTrueChildStrategy" ,
+"Edges" : 4,
+"2" : [ 0, 3, 6],
+"3" : [ 1, 2, 4, 5],
+"1" : [ 1, 2, 4, 5],
+"0" : [ 0, 3, 6],
+"CoveredDUAsByEdges" : 7,
+"Duas" : 7
+},{ "Name" : "getSplitCharacteristic" ,
+"Edges" : 4,
+"0" : [ 0, 3],
+"1" : [ 1, 2, 4, 5],
+"2" : [ 1, 2, 4, 5],
+"3" : [ 0, 3],
+"CoveredDUAsByEdges" : 6,
+"Duas" : 6
+}]
+}

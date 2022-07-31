@@ -1,0 +1,16 @@
+{
+"Class" : "org.apache.commons.compress.archivers.examples.CloseableConsumerAdapter", 
+"Methods" : [{ "Name" : "<init>" ,
+"Nodes" : 4,
+"0" : [ 28,29 ]
+"1" : [ 32,33 ]
+"2" : [ 30 ]
+"3" : [  ]
+},{ "Name" : "close" ,
+"Nodes" : 4,
+"0" : [ 42 ]
+"1" : [ 45 ]
+"2" : [ 43 ]
+"3" : [  ]
+}]
+}

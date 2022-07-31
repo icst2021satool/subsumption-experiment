@@ -1,0 +1,10 @@
+{
+"Class" : "weka.gui.beans.PredictionAppenderCustomizer$2", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Nodes" : 4,
+"0" : [ 93,94 ]
+"1" : [ 97 ]
+"2" : [ 95 ]
+"3" : [  ]
+}]
+}

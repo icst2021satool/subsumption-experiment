@@ -1,0 +1,10 @@
+{
+"Class" : "weka.core.Debug$SimpleLog", 
+"Methods" : [{ "Name" : "log" ,
+"Nodes" : 4,
+"0" : [ 618,620 ]
+"1" : [ 624,623 ]
+"2" : [ 621 ]
+"3" : [  ]
+}]
+}

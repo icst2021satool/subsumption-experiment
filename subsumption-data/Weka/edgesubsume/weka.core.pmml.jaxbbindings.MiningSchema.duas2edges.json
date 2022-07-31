@@ -1,0 +1,22 @@
+{
+"Class" : "weka.core.pmml.jaxbbindings.MiningSchema", 
+"Methods" : [{ "Name" : "getExtension" ,
+"Edges" : 4,
+"Duas" : 8,
+"0" : 1, 
+ "1" : 2, 
+ "4" : 1, 
+ "5" : 2},{ "Name" : "getMiningFields" ,
+"Edges" : 4,
+"Duas" : 8,
+"0" : 1, 
+ "1" : 2, 
+ "4" : 1, 
+ "5" : 2},{ "Name" : "addMiningFields" ,
+"Edges" : 4,
+"Duas" : 9,
+"0" : 1, 
+ "1" : 2, 
+ "5" : 1, 
+ "6" : 2}]
+}

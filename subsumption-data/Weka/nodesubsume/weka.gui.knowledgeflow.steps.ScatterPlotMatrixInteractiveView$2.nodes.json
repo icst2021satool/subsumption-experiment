@@ -1,0 +1,11 @@
+{
+"Class" : "weka.gui.knowledgeflow.steps.ScatterPlotMatrixInteractiveView$2", 
+"Methods" : [{ "Name" : "mouseClicked" ,
+"Nodes" : 5,
+"0" : [ 120,121 ]
+"1" : [ 135 ]
+"2" : [ 122,124,125 ]
+"3" : [ 128,129,132 ]
+"4" : [  ]
+}]
+}

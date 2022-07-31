@@ -1,0 +1,22 @@
+{
+"Class" : "java_cup.runtime.SyntaxTreeDFS$AbstractVisitor", 
+"Methods" : [{ "Name" : "preVisit" ,
+"Edges" : 5,
+"3" : [ 0, 2, 3],
+"4" : [ 1, 4, 5],
+"1" : [ 1, 4, 5],
+"2" : [ 0, 2, 3],
+"0" : [ ],
+"CoveredDUAsByEdges" : 6,
+"Duas" : 6
+},{ "Name" : "postVisit" ,
+"Edges" : 5,
+"2" : [ 0, 2, 3],
+"3" : [ 1, 4, 5],
+"0" : [ 1, 4, 5],
+"4" : [ 0, 2, 3],
+"1" : [ ],
+"CoveredDUAsByEdges" : 6,
+"Duas" : 6
+}]
+}

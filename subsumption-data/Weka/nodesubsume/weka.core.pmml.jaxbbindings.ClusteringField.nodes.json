@@ -1,0 +1,22 @@
+{
+"Class" : "weka.core.pmml.jaxbbindings.ClusteringField", 
+"Methods" : [{ "Name" : "getExtension" ,
+"Nodes" : 4,
+"0" : [ 101 ]
+"1" : [ 104 ]
+"2" : [ 102 ]
+"3" : [  ]
+},{ "Name" : "getFieldWeight" ,
+"Nodes" : 4,
+"0" : [ 188 ]
+"1" : [ 191 ]
+"2" : [ 189 ]
+"3" : [  ]
+},{ "Name" : "getIsCenterField" ,
+"Nodes" : 4,
+"0" : [ 216 ]
+"1" : [ 219 ]
+"2" : [ 217 ]
+"3" : [  ]
+}]
+}

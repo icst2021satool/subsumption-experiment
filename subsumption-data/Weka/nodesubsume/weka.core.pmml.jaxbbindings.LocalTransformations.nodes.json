@@ -1,0 +1,22 @@
+{
+"Class" : "weka.core.pmml.jaxbbindings.LocalTransformations", 
+"Methods" : [{ "Name" : "getExtension" ,
+"Nodes" : 4,
+"0" : [ 78 ]
+"1" : [ 81 ]
+"2" : [ 79 ]
+"3" : [  ]
+},{ "Name" : "getDerivedField" ,
+"Nodes" : 4,
+"0" : [ 107 ]
+"1" : [ 110 ]
+"2" : [ 108 ]
+"3" : [  ]
+},{ "Name" : "addDerivedField" ,
+"Nodes" : 4,
+"0" : [ 114 ]
+"1" : [ 117,118 ]
+"2" : [ 115 ]
+"3" : [  ]
+}]
+}

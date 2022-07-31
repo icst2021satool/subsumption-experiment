@@ -1,0 +1,25 @@
+{
+"Class" : "org.apache.commons.compress.utils.FixedLengthBlockOutputStream$BufferAtATimeOutputChannel", 
+"Methods" : [{ "Name" : "write" ,
+"Nodes" : 6,
+"0" : [ 234 ]
+"1" : [ 237 ]
+"2" : [ 242,243,244,245,246 ]
+"3" : [ 238 ]
+"4" : [ 235 ]
+"5" : [  ]
+},{ "Name" : "isOpen" ,
+"Nodes" : 5,
+"0" : [ 258 ]
+"1" : [ 258 ]
+"2" : [ 258 ]
+"3" : [ 258 ]
+"4" : [  ]
+},{ "Name" : "close" ,
+"Nodes" : 4,
+"0" : [ 263 ]
+"1" : [ 266 ]
+"2" : [ 264 ]
+"3" : [  ]
+}]
+}

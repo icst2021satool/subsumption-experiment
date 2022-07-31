@@ -1,0 +1,10 @@
+{
+"Class" : "weka.gui.experiment.AlgorithmListPanel$ObjectCellRenderer", 
+"Methods" : [{ "Name" : "getListCellRendererComponent" ,
+"Edges" : 7,
+"Duas" : 14,
+"1" : 5, 
+ "2" : 6, 
+ "8" : 3, 
+ "9" : 4}]
+}

@@ -1,0 +1,8 @@
+{
+"Class" : "weka.knowledgeflow.steps.Sorter$SortComparator", 
+"Methods" : [{ "Name" : "compare" ,
+"Edges" : 8,
+"Duas" : 5,
+"2" : 0, 
+ "3" : 1}]
+}

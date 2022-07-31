@@ -1,0 +1,16 @@
+{
+"Class" : "weka.core.pmml.jaxbbindings.NumericInfo", 
+"Methods" : [{ "Name" : "getExtension" ,
+"Nodes" : 4,
+"0" : [ 97 ]
+"1" : [ 100 ]
+"2" : [ 98 ]
+"3" : [  ]
+},{ "Name" : "getQuantile" ,
+"Nodes" : 4,
+"0" : [ 126 ]
+"1" : [ 129 ]
+"2" : [ 127 ]
+"3" : [  ]
+}]
+}

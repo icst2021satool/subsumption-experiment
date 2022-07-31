@@ -1,0 +1,18 @@
+{
+"Class" : "com.sun.xml.bind.v2.runtime.Name", 
+"Methods" : [{ "Name" : "equals" ,
+"Nodes" : 6,
+"0" : [ 75 ]
+"1" : [ 75 ]
+"2" : [ 75 ]
+"3" : [ 75 ]
+"4" : [ 75 ]
+"5" : [  ]
+},{ "Name" : "compareTo" ,
+"Nodes" : 4,
+"0" : [ 80,79 ]
+"1" : [ 81 ]
+"2" : [ 80 ]
+"3" : [  ]
+}]
+}

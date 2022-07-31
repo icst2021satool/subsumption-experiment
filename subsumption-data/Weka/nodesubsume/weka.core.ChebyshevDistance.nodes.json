@@ -1,0 +1,10 @@
+{
+"Class" : "weka.core.ChebyshevDistance", 
+"Methods" : [{ "Name" : "updateDistance" ,
+"Nodes" : 4,
+"0" : [ 138,140,141 ]
+"1" : [ 144 ]
+"2" : [ 142 ]
+"3" : [  ]
+}]
+}

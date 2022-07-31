@@ -1,0 +1,14 @@
+{
+"Class" : "weka.gui.experiment.OutputFormatDialog$6", 
+"Methods" : [{ "Name" : "propertyChange" ,
+"Edges" : 8,
+"0" : [ 0,2 ],
+"1" : [ 0,1 ],
+"2" : [ 3,4 ],
+"3" : [ 2,5 ],
+"4" : [ 2,3 ],
+"5" : [ 4,1 ],
+"6" : [ 1,6 ],
+"7" : [ 5,4 ]
+}]
+}

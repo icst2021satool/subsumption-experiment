@@ -1,0 +1,19 @@
+{
+"Class" : "weka.gui.SimpleDateFormatEditor$CustomEditor", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Edges" : 7,
+"0" : [ 3,2 ],
+"1" : [ 4,2 ],
+"2" : [ 0,4 ],
+"3" : [ 0,1 ],
+"4" : [ 1,3 ],
+"5" : [ 1,2 ],
+"6" : [ 2,5 ]
+},{ "Name" : "applyFormat" ,
+"Edges" : 4,
+"0" : [ 1,3 ],
+"1" : [ 2,3 ],
+"2" : [ 0,2 ],
+"3" : [ 0,1 ]
+}]
+}

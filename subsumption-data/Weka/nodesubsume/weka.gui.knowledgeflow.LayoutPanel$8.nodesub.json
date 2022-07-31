@@ -1,0 +1,12 @@
+{
+"Class" : "weka.gui.knowledgeflow.LayoutPanel$8", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Nodes" : 4,
+"0" : [ ],
+"2" : [ 0, 18, 6, 7, 13, 14],
+"1" : [ 16, 17, 2, 3, 4, 5, 9, 10, 11, 12],
+"3" : [ 16, 17, 2, 3, 4, 5, 9, 10, 11, 12],
+"CoveredDUAsByNodes" : 16,
+"Duas" : 19
+}]
+}

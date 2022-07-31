@@ -1,0 +1,22 @@
+{
+"Class" : "com.sun.xml.bind.v2.model.annotation.LocatableAnnotation", 
+"Methods" : [{ "Name" : "create" ,
+"Edges" : 10,
+"Duas" : 21,
+"0" : 3, 
+ "1" : 4, 
+ "8" : 0, 
+ "9" : 1, 
+ "11" : 0, 
+ "12" : 1, 
+ "14" : 6, 
+ "15" : 7, 
+ "19" : 6, 
+ "20" : 7},{ "Name" : "invoke" ,
+"Edges" : 7,
+"Duas" : 11,
+"2" : 4, 
+ "3" : 5, 
+ "4" : 2, 
+ "5" : 3}]
+}

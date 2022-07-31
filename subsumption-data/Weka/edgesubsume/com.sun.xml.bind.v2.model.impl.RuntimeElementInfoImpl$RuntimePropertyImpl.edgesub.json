@@ -1,0 +1,12 @@
+{
+"Class" : "com.sun.xml.bind.v2.model.impl.RuntimeElementInfoImpl$RuntimePropertyImpl", 
+"Methods" : [{ "Name" : "getAccessor" ,
+"Edges" : 4,
+"0" : [ 0, 3, 7],
+"1" : [ 1, 2, 4, 5, 6],
+"2" : [ 1, 2, 4, 5, 6],
+"3" : [ 0, 3, 7],
+"CoveredDUAsByEdges" : 8,
+"Duas" : 8
+}]
+}

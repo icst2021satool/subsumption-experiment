@@ -1,0 +1,31 @@
+{
+"Class" : "weka.core.Check", 
+"Methods" : [{ "Name" : "getOptions" ,
+"Edges" : 7,
+"5" : [ 0, 6],
+"6" : [ 1],
+"3" : [ 0, 6],
+"0" : [ 2, 5],
+"1" : [ 3, 4],
+"4" : [ 2, 4, 5],
+"2" : [ 4],
+"CoveredDUAsByEdges" : 7,
+"Duas" : 7
+},{ "Name" : "setDebug" ,
+"Edges" : 4,
+"0" : [ 0, 2],
+"1" : [ 1],
+"2" : [ 0, 2],
+"3" : [ ],
+"CoveredDUAsByEdges" : 3,
+"Duas" : 3
+},{ "Name" : "print" ,
+"Edges" : 4,
+"1" : [ 0, 2, 3],
+"2" : [ 1],
+"3" : [ 0, 2, 3],
+"0" : [ ],
+"CoveredDUAsByEdges" : 4,
+"Duas" : 4
+}]
+}

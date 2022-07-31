@@ -1,0 +1,12 @@
+{
+"Class" : "weka.gui.AttributeSelectionPanel$4", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Edges" : 4,
+"0" : [ 0, 1, 2, 3, 4, 5, 7, 8, 9],
+"1" : [ 6],
+"3" : [ 0, 1, 2, 3, 4, 5, 7, 8, 9],
+"2" : [ ],
+"CoveredDUAsByEdges" : 10,
+"Duas" : 10
+}]
+}

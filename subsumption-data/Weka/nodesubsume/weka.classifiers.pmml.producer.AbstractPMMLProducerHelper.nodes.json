@@ -1,0 +1,30 @@
+{
+"Class" : "weka.classifiers.pmml.producer.AbstractPMMLProducerHelper", 
+"Methods" : [{ "Name" : "addDataDictionary" ,
+"Nodes" : 9,
+"0" : [ 71,73 ]
+"1" : [ 73 ]
+"2" : [ 86,87 ]
+"3" : [ 74,75,76,77 ]
+"4" : [ 83,73 ]
+"5" : [ 78 ]
+"6" : [ 78 ]
+"7" : [ 80,78,79 ]
+"8" : [  ]
+},{ "Name" : "getOPTYPE" ,
+"Nodes" : 4,
+"0" : [ 97 ]
+"1" : [ 100 ]
+"2" : [ 102 ]
+"3" : [  ]
+},{ "Name" : "getNameAndValueFromUnsupervisedNominalToBinaryDerivedAttribute" ,
+"Nodes" : 7,
+"0" : [ 128,119,123,124,125,126,127 ]
+"1" : [ 129 ]
+"2" : [ 142 ]
+"3" : [ 130 ]
+"4" : [ 136,137,138 ]
+"5" : [ 131,132,133 ]
+"6" : [  ]
+}]
+}

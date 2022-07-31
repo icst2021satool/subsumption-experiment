@@ -1,0 +1,8 @@
+{
+"Class" : "weka.classifiers.RandomizableIteratedSingleClassifierEnhancer", 
+"Methods" : [{ "Name" : "setOptions" ,
+"Edges" : 5,
+"Duas" : 7,
+"4" : 1, 
+ "5" : 2}]
+}

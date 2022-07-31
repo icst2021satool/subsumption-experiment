@@ -1,0 +1,13 @@
+{
+"Class" : "weka.gui.scripting.GroovyScript$GroovyThread", 
+"Methods" : [{ "Name" : "doRun" ,
+"Nodes" : 7,
+"0" : [ 87,88 ]
+"1" : [ 90 ]
+"2" : [ 93 ]
+"3" : [ 91 ]
+"4" : [ 94 ]
+"5" : [ 89 ]
+"6" : [  ]
+}]
+}

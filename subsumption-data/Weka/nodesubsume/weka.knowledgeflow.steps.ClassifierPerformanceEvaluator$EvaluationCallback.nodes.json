@@ -1,0 +1,11 @@
+{
+"Class" : "weka.knowledgeflow.steps.ClassifierPerformanceEvaluator$EvaluationCallback", 
+"Methods" : [{ "Name" : "taskFinished" ,
+"Nodes" : 5,
+"0" : [ 872 ]
+"1" : [ 885 ]
+"2" : [ 887,888 ]
+"3" : [ 880,882,884,873,874,875,876,877,878,879 ]
+"4" : [  ]
+}]
+}

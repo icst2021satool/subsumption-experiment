@@ -1,0 +1,12 @@
+{
+"Class" : "com.sun.xml.bind.v2.model.impl.RuntimeBuiltinLeafInfoImpl$11", 
+"Methods" : [{ "Name" : "parse" ,
+"Edges" : 4,
+"2" : [ 0, 3],
+"3" : [ 1, 2],
+"1" : [ 1, 2],
+"0" : [ 0, 3],
+"CoveredDUAsByEdges" : 4,
+"Duas" : 4
+}]
+}

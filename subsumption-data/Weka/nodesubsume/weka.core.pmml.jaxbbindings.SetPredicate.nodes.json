@@ -1,0 +1,16 @@
+{
+"Class" : "weka.core.pmml.jaxbbindings.SetPredicate", 
+"Methods" : [{ "Name" : "getExtension" ,
+"Nodes" : 4,
+"0" : [ 88 ]
+"1" : [ 91 ]
+"2" : [ 89 ]
+"3" : [  ]
+},{ "Name" : "getOperator" ,
+"Nodes" : 4,
+"0" : [ 175 ]
+"1" : [ 178 ]
+"2" : [ 176 ]
+"3" : [  ]
+}]
+}

@@ -1,0 +1,41 @@
+{
+"Class" : "com.sun.xml.bind.v2.runtime.property.SingleReferenceNodeProperty", 
+"Methods" : [{ "Name" : "<init>" ,
+"Nodes" : 8,
+"0" : [ 51,52,54,45 ]
+"1" : [ 54 ]
+"2" : [ 58 ]
+"3" : [ 62,63 ]
+"4" : [ 65 ]
+"5" : [ 59,60 ]
+"6" : [ 54,55,56 ]
+"7" : [  ]
+},{ "Name" : "serializeBody" ,
+"Nodes" : 8,
+"0" : [ 76,77 ]
+"1" : [ 91 ]
+"2" : [ 80,79 ]
+"3" : [ 85 ]
+"4" : [ 89 ]
+"5" : [ 80 ]
+"6" : [ 83 ]
+"7" : [  ]
+},{ "Name" : "buildChildElementUnmarshallers" ,
+"Nodes" : 7,
+"0" : [ 94 ]
+"1" : [ 94 ]
+"2" : [ 97 ]
+"3" : [ 100 ]
+"4" : [ 98 ]
+"5" : [ 94,95 ]
+"6" : [  ]
+},{ "Name" : "getElementPropertyAccessor" ,
+"Nodes" : 6,
+"0" : [ 108,109 ]
+"1" : [ 143 ]
+"2" : [ 110 ]
+"3" : [ 140 ]
+"4" : [ 113,111 ]
+"5" : [  ]
+}]
+}

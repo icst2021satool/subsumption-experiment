@@ -1,0 +1,10 @@
+{
+"Class" : "weka.gui.visualize.MatrixPanel$5", 
+"Methods" : [{ "Name" : "stateChanged" ,
+"Nodes" : 4,
+"0" : [ 329,330,331,332 ]
+"1" : [ 335 ]
+"2" : [ 333 ]
+"3" : [  ]
+}]
+}

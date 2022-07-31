@@ -1,0 +1,17 @@
+{
+"Class" : "weka.gui.beans.FlowByExpressionCustomizer$14", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Nodes" : 9,
+"0" : [ ],
+"1" : [ 0, 4, 10],
+"3" : [ 9],
+"4" : [ 9, 11, 13],
+"5" : [ 1, 17, 5, 9, 11, 13],
+"7" : [ 16, 2, 18, 3, 6, 7, 8, 9, 11, 13, 14, 15],
+"6" : [ 9, 11, 13],
+"2" : [ ],
+"8" : [ ],
+"CoveredDUAsByNodes" : 18,
+"Duas" : 19
+}]
+}

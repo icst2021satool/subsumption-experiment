@@ -1,0 +1,13 @@
+{
+"Class" : "org.apache.commons.compress.archivers.dump.DumpArchiveEntry$TYPE", 
+"Methods" : [{ "Name" : "find" ,
+"Nodes" : 7,
+"0" : [ 797,799 ]
+"1" : [ 799 ]
+"2" : [ 805 ]
+"3" : [ 800,799 ]
+"4" : [ 799 ]
+"5" : [ 801 ]
+"6" : [  ]
+}]
+}

@@ -1,0 +1,21 @@
+{
+"Class" : "weka.gui.beans.KnowledgeFlowApp$CloseableTabTitle$TabButton", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Nodes" : 5,
+"0" : [ 3020,3021 ]
+"1" : [ 3025 ]
+"2" : [ 3021 ]
+"3" : [ 3023 ]
+"4" : [  ]
+},{ "Name" : "paintComponent" ,
+"Nodes" : 8,
+"0" : [ 3035,3036,3038 ]
+"1" : [ 3041,3042,3043 ]
+"2" : [ 3046 ]
+"3" : [ 3049,3050,3052,3054,3055 ]
+"4" : [ 3047 ]
+"5" : [ 3044 ]
+"6" : [ 3039 ]
+"7" : [  ]
+}]
+}

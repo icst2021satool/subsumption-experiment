@@ -1,0 +1,16 @@
+{
+"Class" : "com.googlecode.jfilechooserbookmarks.AbstractBookmarksPanel$3", 
+"Methods" : [{ "Name" : "valueChanged" ,
+"Edges" : 10,
+"0" : [ 0,6 ],
+"1" : [ 0,1 ],
+"2" : [ 4,7 ],
+"3" : [ 1,5 ],
+"4" : [ 1,2 ],
+"5" : [ 5,7 ],
+"6" : [ 6,7 ],
+"7" : [ 2,4 ],
+"8" : [ 2,3 ],
+"9" : [ 3,7 ]
+}]
+}

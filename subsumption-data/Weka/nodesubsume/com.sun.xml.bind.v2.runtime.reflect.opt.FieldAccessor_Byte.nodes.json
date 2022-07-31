@@ -1,0 +1,11 @@
+{
+"Class" : "com.sun.xml.bind.v2.runtime.reflect.opt.FieldAccessor_Byte", 
+"Methods" : [{ "Name" : "set" ,
+"Nodes" : 5,
+"0" : [ 33 ]
+"1" : [ 33 ]
+"2" : [ 33,34 ]
+"3" : [ 33 ]
+"4" : [  ]
+}]
+}

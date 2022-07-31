@@ -1,0 +1,14 @@
+{
+"Class" : "weka.gui.beans.SorterCustomizer$3", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Edges" : 6,
+"Duas" : 18,
+"1" : 0, 
+ "2" : 1, 
+ "6" : 0, 
+ "7" : 1, 
+ "11" : 0, 
+ "12" : 1, 
+ "15" : 4, 
+ "16" : 5}]
+}

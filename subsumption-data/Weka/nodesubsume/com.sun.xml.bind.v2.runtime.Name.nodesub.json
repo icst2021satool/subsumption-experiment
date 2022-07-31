@@ -1,0 +1,22 @@
+{
+"Class" : "com.sun.xml.bind.v2.runtime.Name", 
+"Methods" : [{ "Name" : "equals" ,
+"Nodes" : 6,
+"0" : [ ],
+"3" : [ 0, 6, 8],
+"1" : [ ],
+"4" : [ 0, 2, 4, 6, 8, 10],
+"2" : [ ],
+"5" : [ ],
+"CoveredDUAsByNodes" : 6,
+"Duas" : 12
+},{ "Name" : "compareTo" ,
+"Nodes" : 4,
+"0" : [ ],
+"1" : [ 0, 1, 2, 3, 5],
+"2" : [ 4, 6],
+"3" : [ ],
+"CoveredDUAsByNodes" : 7,
+"Duas" : 7
+}]
+}

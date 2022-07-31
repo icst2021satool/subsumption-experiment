@@ -1,0 +1,21 @@
+{
+"Class" : "weka.gui.AttributeListPanel", 
+"Methods" : [{ "Name" : "setInstances" ,
+"Nodes" : 5,
+"0" : [ ],
+"1" : [ 1, 2, 10, 13, 14],
+"3" : [ 0, 18, 19, 6, 7, 8, 9, 11, 12],
+"2" : [ 16, 17, 3, 4, 5, 15],
+"4" : [ 16, 17, 3, 4, 5, 15],
+"CoveredDUAsByNodes" : 20,
+"Duas" : 20
+},{ "Name" : "main" ,
+"Nodes" : 4,
+"0" : [ ],
+"1" : [ 1, 2],
+"2" : [ 0],
+"3" : [ ],
+"CoveredDUAsByNodes" : 3,
+"Duas" : 3
+}]
+}

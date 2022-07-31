@@ -1,0 +1,13 @@
+{
+"Class" : "weka.core.pmml.BuiltInString$StringFunc$1", 
+"Methods" : [{ "Name" : "legalNumParams" ,
+"Edges" : 5,
+"1" : [ 0],
+"2" : [ 1],
+"4" : [ 1],
+"0" : [ 0],
+"3" : [ ],
+"CoveredDUAsByEdges" : 2,
+"Duas" : 2
+}]
+}

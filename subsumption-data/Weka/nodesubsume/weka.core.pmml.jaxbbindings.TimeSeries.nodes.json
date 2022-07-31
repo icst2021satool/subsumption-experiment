@@ -1,0 +1,22 @@
+{
+"Class" : "weka.core.pmml.jaxbbindings.TimeSeries", 
+"Methods" : [{ "Name" : "getTimeValue" ,
+"Nodes" : 4,
+"0" : [ 115 ]
+"1" : [ 118 ]
+"2" : [ 116 ]
+"3" : [  ]
+},{ "Name" : "getInterpolationMethod" ,
+"Nodes" : 4,
+"0" : [ 154 ]
+"1" : [ 157 ]
+"2" : [ 155 ]
+"3" : [  ]
+},{ "Name" : "getUsage" ,
+"Nodes" : 4,
+"0" : [ 206 ]
+"1" : [ 209 ]
+"2" : [ 207 ]
+"3" : [  ]
+}]
+}

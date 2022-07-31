@@ -1,0 +1,12 @@
+{
+"Class" : "weka.gui.PropertyPanel$1$2", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Edges" : 14,
+"Duas" : 23,
+"0" : 10, 
+ "1" : 11, 
+ "3" : 0, 
+ "4" : 1, 
+ "12" : 12, 
+ "13" : 13}]
+}

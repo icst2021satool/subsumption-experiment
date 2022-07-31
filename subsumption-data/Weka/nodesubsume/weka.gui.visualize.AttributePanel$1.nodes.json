@@ -1,0 +1,11 @@
+{
+"Class" : "weka.gui.visualize.AttributePanel$1", 
+"Methods" : [{ "Name" : "paintComponent" ,
+"Nodes" : 5,
+"0" : [ 502,503,504 ]
+"1" : [ 508 ]
+"2" : [ 510 ]
+"3" : [ 505,506 ]
+"4" : [  ]
+}]
+}

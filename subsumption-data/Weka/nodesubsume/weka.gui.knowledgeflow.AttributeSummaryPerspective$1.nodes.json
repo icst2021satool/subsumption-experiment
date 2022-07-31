@@ -1,0 +1,12 @@
+{
+"Class" : "weka.gui.knowledgeflow.AttributeSummaryPerspective$1", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Nodes" : 6,
+"0" : [ 121,122 ]
+"1" : [ 127 ]
+"2" : [ 123 ]
+"3" : [ 123 ]
+"4" : [ 123,124 ]
+"5" : [  ]
+}]
+}

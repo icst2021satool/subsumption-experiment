@@ -1,0 +1,21 @@
+{
+"Class" : "weka.gui.sql.ResultSetTable", 
+"Methods" : [{ "Name" : "<init>" ,
+"Edges" : 5,
+"0" : [ ],
+"2" : [ 0, 6, 7, 8, 10, 11, 12],
+"3" : [ 1, 2, 3, 4, 5],
+"1" : [ 1, 2, 3, 4, 5],
+"4" : [ 0, 6, 7, 8, 10, 11, 12],
+"CoveredDUAsByEdges" : 12,
+"Duas" : 18
+},{ "Name" : "finalize" ,
+"Edges" : 4,
+"1" : [ 0, 3],
+"2" : [ 1, 2],
+"3" : [ 0, 2, 3],
+"0" : [ 2],
+"CoveredDUAsByEdges" : 4,
+"Duas" : 4
+}]
+}

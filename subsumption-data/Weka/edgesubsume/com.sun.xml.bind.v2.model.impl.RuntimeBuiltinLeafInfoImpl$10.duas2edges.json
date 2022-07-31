@@ -1,0 +1,20 @@
+{
+"Class" : "com.sun.xml.bind.v2.model.impl.RuntimeBuiltinLeafInfoImpl$10", 
+"Methods" : [{ "Name" : "parse" ,
+"Edges" : 5,
+"Duas" : 8,
+"0" : 3, 
+ "1" : 4},{ "Name" : "convertToBufferedImage" ,
+"Edges" : 4,
+"Duas" : 7,
+"1" : 1, 
+ "2" : 2},{ "Name" : "print" ,
+"Edges" : 9,
+"Duas" : 22,
+"7" : 2, 
+ "8" : 3, 
+ "9" : 7, 
+ "10" : 8, 
+ "19" : 4, 
+ "20" : 5}]
+}

@@ -1,0 +1,8 @@
+{
+"Class" : "weka.gui.visualize.BMPWriter", 
+"Methods" : [{ "Name" : "generateOutput" ,
+"Edges" : 4,
+"Duas" : 10,
+"5" : 2, 
+ "6" : 3}]
+}

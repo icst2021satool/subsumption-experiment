@@ -1,0 +1,18 @@
+{
+"Class" : "weka.gui.beans.StripChart$LegendPanel", 
+"Methods" : [{ "Name" : "paintComponent" ,
+"Edges" : 8,
+"Duas" : 41,
+"0" : 6, 
+ "1" : 7, 
+ "4" : 4, 
+ "5" : 5, 
+ "14" : 6, 
+ "15" : 7, 
+ "18" : 4, 
+ "19" : 5, 
+ "29" : 4, 
+ "30" : 5, 
+ "36" : 4, 
+ "37" : 5}]
+}

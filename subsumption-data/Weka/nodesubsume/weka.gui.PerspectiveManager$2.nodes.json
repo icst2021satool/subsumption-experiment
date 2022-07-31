@@ -1,0 +1,11 @@
+{
+"Class" : "weka.gui.PerspectiveManager$2", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Nodes" : 5,
+"0" : [ 361 ]
+"1" : [ 364 ]
+"2" : [ 366,367 ]
+"3" : [ 362 ]
+"4" : [  ]
+}]
+}

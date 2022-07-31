@@ -1,0 +1,8 @@
+{
+"Class" : "weka.gui.CheckBoxList$CheckBoxListItem", 
+"Methods" : [{ "Name" : "equals" ,
+"Edges" : 4,
+"Duas" : 4,
+"1" : 1, 
+ "2" : 2}]
+}

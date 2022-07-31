@@ -1,0 +1,14 @@
+{
+"Class" : "weka.core.stemmers.IteratedLovinsStemmer", 
+"Methods" : [{ "Name" : "stem" ,
+"Edges" : 8,
+"0" : [ 3,6 ],
+"1" : [ 4,2 ],
+"2" : [ 5,6 ],
+"3" : [ 1,2 ],
+"4" : [ 0,5 ],
+"5" : [ 0,1 ],
+"6" : [ 2,4 ],
+"7" : [ 2,3 ]
+}]
+}

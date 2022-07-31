@@ -1,0 +1,13 @@
+{
+"Class" : "weka.core.pmml.jaxbbindings.FIELDUSAGETYPE", 
+"Methods" : [{ "Name" : "fromValue" ,
+"Nodes" : 7,
+"0" : [ 63 ]
+"1" : [ 63 ]
+"2" : [ 68 ]
+"3" : [ 64,63 ]
+"4" : [ 63 ]
+"5" : [ 65 ]
+"6" : [  ]
+}]
+}

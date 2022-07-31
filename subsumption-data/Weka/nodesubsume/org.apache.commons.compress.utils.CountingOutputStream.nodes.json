@@ -1,0 +1,10 @@
+{
+"Class" : "org.apache.commons.compress.utils.CountingOutputStream", 
+"Methods" : [{ "Name" : "count" ,
+"Nodes" : 4,
+"0" : [ 59 ]
+"1" : [ 62 ]
+"2" : [ 60 ]
+"3" : [  ]
+}]
+}

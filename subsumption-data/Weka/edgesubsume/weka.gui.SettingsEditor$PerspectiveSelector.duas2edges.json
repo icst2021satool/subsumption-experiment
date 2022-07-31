@@ -1,0 +1,14 @@
+{
+"Class" : "weka.gui.SettingsEditor$PerspectiveSelector", 
+"Methods" : [{ "Name" : "<init>" ,
+"Edges" : 11,
+"Duas" : 21,
+"11" : 6, 
+ "12" : 7, 
+ "14" : 4, 
+ "15" : 5},{ "Name" : "applyToSettings" ,
+"Edges" : 8,
+"Duas" : 12,
+"9" : 0, 
+ "10" : 1}]
+}

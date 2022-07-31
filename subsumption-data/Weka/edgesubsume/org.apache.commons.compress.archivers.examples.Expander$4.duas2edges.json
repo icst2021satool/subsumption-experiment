@@ -1,0 +1,8 @@
+{
+"Class" : "org.apache.commons.compress.archivers.examples.Expander$4", 
+"Methods" : [{ "Name" : "writeEntryDataTo" ,
+"Edges" : 7,
+"Duas" : 4,
+"0" : 4, 
+ "1" : 5}]
+}

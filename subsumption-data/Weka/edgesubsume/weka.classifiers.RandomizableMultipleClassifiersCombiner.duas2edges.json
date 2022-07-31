@@ -1,0 +1,8 @@
+{
+"Class" : "weka.classifiers.RandomizableMultipleClassifiersCombiner", 
+"Methods" : [{ "Name" : "setOptions" ,
+"Edges" : 5,
+"Duas" : 7,
+"4" : 0, 
+ "5" : 1}]
+}

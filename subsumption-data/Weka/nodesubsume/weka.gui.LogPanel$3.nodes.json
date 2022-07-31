@@ -1,0 +1,10 @@
+{
+"Class" : "weka.gui.LogPanel$3", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Nodes" : 4,
+"0" : [ 156,157 ]
+"1" : [ 160,161,162 ]
+"2" : [ 158 ]
+"3" : [  ]
+}]
+}

@@ -1,0 +1,45 @@
+{
+"Class" : "org.apache.commons.compress.archivers.zip.PKWareExtraHeader", 
+"Methods" : [{ "Name" : "getLocalFileDataLength" ,
+"Nodes" : 5,
+"0" : [ ],
+"1" : [ 1, 4],
+"3" : [ 0, 3],
+"2" : [ 2, 5],
+"4" : [ 2, 5],
+"CoveredDUAsByNodes" : 6,
+"Duas" : 6
+},{ "Name" : "getCentralDirectoryLength" ,
+"Nodes" : 4,
+"0" : [ ],
+"1" : [ 1, 2, 5],
+"2" : [ 0, 3, 4, 6],
+"3" : [ ],
+"CoveredDUAsByNodes" : 7,
+"Duas" : 7
+},{ "Name" : "getCentralDirectoryData" ,
+"Nodes" : 4,
+"0" : [ ],
+"1" : [ 1, 2, 5],
+"2" : [ 0, 3, 4, 6],
+"3" : [ ],
+"CoveredDUAsByNodes" : 7,
+"Duas" : 7
+},{ "Name" : "parseFromCentralDirectoryData" ,
+"Nodes" : 4,
+"0" : [ ],
+"2" : [ 0, 2, 3, 5],
+"1" : [ ],
+"3" : [ ],
+"CoveredDUAsByNodes" : 4,
+"Duas" : 6
+},{ "Name" : "assertMinimalLength" ,
+"Nodes" : 4,
+"0" : [ ],
+"1" : [ 2, 5],
+"2" : [ 0, 1, 3, 4, 6],
+"3" : [ ],
+"CoveredDUAsByNodes" : 7,
+"Duas" : 7
+}]
+}

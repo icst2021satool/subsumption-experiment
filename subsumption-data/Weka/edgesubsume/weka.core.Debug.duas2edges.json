@@ -1,0 +1,12 @@
+{
+"Class" : "weka.core.Debug", 
+"Methods" : [{ "Name" : "log" ,
+"Edges" : 4,
+"Duas" : 8,
+"0" : 0, 
+ "1" : 1},{ "Name" : "saveToFile" ,
+"Edges" : 5,
+"Duas" : 6,
+"1" : 1, 
+ "2" : 2}]
+}

@@ -1,0 +1,14 @@
+{
+"Class" : "weka.gui.InteractiveTablePanel$InteractiveRenderer", 
+"Methods" : [{ "Name" : "getTableCellRendererComponent" ,
+"Nodes" : 8,
+"0" : [ 145,142,143 ]
+"1" : [ 154 ]
+"2" : [ 145 ]
+"3" : [ 146 ]
+"4" : [ 151 ]
+"5" : [ 146,147 ]
+"6" : [ 148 ]
+"7" : [  ]
+}]
+}

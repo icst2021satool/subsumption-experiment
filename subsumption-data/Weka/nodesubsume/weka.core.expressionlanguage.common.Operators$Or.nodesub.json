@@ -1,0 +1,14 @@
+{
+"Class" : "weka.core.expressionlanguage.common.Operators$Or", 
+"Methods" : [{ "Name" : "evaluate" ,
+"Nodes" : 6,
+"0" : [ ],
+"3" : [ 0, 4],
+"4" : [ 0, 3, 4, 7],
+"1" : [ ],
+"2" : [ ],
+"5" : [ ],
+"CoveredDUAsByNodes" : 4,
+"Duas" : 8
+}]
+}

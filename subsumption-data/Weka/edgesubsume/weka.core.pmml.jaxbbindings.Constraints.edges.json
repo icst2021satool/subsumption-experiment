@@ -1,0 +1,64 @@
+{
+"Class" : "weka.core.pmml.jaxbbindings.Constraints", 
+"Methods" : [{ "Name" : "getExtension" ,
+"Edges" : 4,
+"0" : [ 2,1 ],
+"1" : [ 1,3 ],
+"2" : [ 0,2 ],
+"3" : [ 0,1 ]
+},{ "Name" : "getMinimumAntConsSeparationTime" ,
+"Edges" : 4,
+"0" : [ 1,3 ],
+"1" : [ 0,2 ],
+"2" : [ 0,1 ],
+"3" : [ 2,3 ]
+},{ "Name" : "getMinimumConfidence" ,
+"Edges" : 4,
+"0" : [ 0,2 ],
+"1" : [ 0,1 ],
+"2" : [ 2,3 ],
+"3" : [ 1,3 ]
+},{ "Name" : "getMinimumItemsetSeparationTime" ,
+"Edges" : 4,
+"0" : [ 2,3 ],
+"1" : [ 1,3 ],
+"2" : [ 0,2 ],
+"3" : [ 0,1 ]
+},{ "Name" : "getMinimumLift" ,
+"Edges" : 4,
+"0" : [ 0,2 ],
+"1" : [ 0,1 ],
+"2" : [ 2,3 ],
+"3" : [ 1,3 ]
+},{ "Name" : "getMinimumNumberOfAntecedentItems" ,
+"Edges" : 4,
+"0" : [ 0,2 ],
+"1" : [ 0,1 ],
+"2" : [ 1,3 ],
+"3" : [ 2,3 ]
+},{ "Name" : "getMinimumNumberOfConsequentItems" ,
+"Edges" : 4,
+"0" : [ 0,2 ],
+"1" : [ 0,1 ],
+"2" : [ 2,3 ],
+"3" : [ 1,3 ]
+},{ "Name" : "getMinimumNumberOfItems" ,
+"Edges" : 4,
+"0" : [ 2,3 ],
+"1" : [ 0,2 ],
+"2" : [ 0,1 ],
+"3" : [ 1,3 ]
+},{ "Name" : "getMinimumSupport" ,
+"Edges" : 4,
+"0" : [ 1,3 ],
+"1" : [ 2,3 ],
+"2" : [ 0,2 ],
+"3" : [ 0,1 ]
+},{ "Name" : "getMinimumTotalSequenceTime" ,
+"Edges" : 4,
+"0" : [ 1,3 ],
+"1" : [ 2,3 ],
+"2" : [ 0,2 ],
+"3" : [ 0,1 ]
+}]
+}

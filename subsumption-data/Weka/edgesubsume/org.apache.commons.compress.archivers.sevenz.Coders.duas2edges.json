@@ -1,0 +1,12 @@
+{
+"Class" : "org.apache.commons.compress.archivers.sevenz.Coders", 
+"Methods" : [{ "Name" : "addDecoder" ,
+"Edges" : 4,
+"Duas" : 12,
+"9" : 1, 
+ "10" : 2},{ "Name" : "addEncoder" ,
+"Edges" : 4,
+"Duas" : 6,
+"3" : 2, 
+ "4" : 3}]
+}

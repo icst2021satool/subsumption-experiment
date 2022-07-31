@@ -1,0 +1,13 @@
+{
+"Class" : "weka.classifiers.bayes.net.EditableBayesNet$UndoAction", 
+"Methods" : [{ "Name" : "getMsg" ,
+"Nodes" : 7,
+"0" : [ 1826,1827,1828,1829,1830 ]
+"1" : [ 1830 ]
+"2" : [ 1837 ]
+"3" : [ 1831,1832 ]
+"4" : [ 1830,1835 ]
+"5" : [ 1833 ]
+"6" : [  ]
+}]
+}

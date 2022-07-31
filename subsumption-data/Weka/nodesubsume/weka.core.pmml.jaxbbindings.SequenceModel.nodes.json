@@ -1,0 +1,16 @@
+{
+"Class" : "weka.core.pmml.jaxbbindings.SequenceModel", 
+"Methods" : [{ "Name" : "getContent" ,
+"Nodes" : 4,
+"0" : [ 147 ]
+"1" : [ 150 ]
+"2" : [ 148 ]
+"3" : [  ]
+},{ "Name" : "isIsScorable" ,
+"Nodes" : 4,
+"0" : [ 258 ]
+"1" : [ 261 ]
+"2" : [ 259 ]
+"3" : [  ]
+}]
+}

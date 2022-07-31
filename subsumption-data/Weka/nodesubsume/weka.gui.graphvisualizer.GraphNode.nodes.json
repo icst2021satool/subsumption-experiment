@@ -1,0 +1,11 @@
+{
+"Class" : "weka.gui.graphvisualizer.GraphNode", 
+"Methods" : [{ "Name" : "equals" ,
+"Nodes" : 5,
+"0" : [ 71 ]
+"1" : [ 77 ]
+"2" : [ 71 ]
+"3" : [ 74 ]
+"4" : [  ]
+}]
+}

@@ -1,0 +1,12 @@
+{
+"Class" : "weka.gui.beans.GraphViewer$1", 
+"Methods" : [{ "Name" : "mouseClicked" ,
+"Edges" : 4,
+"1" : [ 0, 1, 2, 3, 4, 5, 7],
+"2" : [ 6],
+"0" : [ 0, 1, 2, 3, 4, 5, 7],
+"3" : [ ],
+"CoveredDUAsByEdges" : 8,
+"Duas" : 8
+}]
+}

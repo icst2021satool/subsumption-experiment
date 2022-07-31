@@ -1,0 +1,26 @@
+{
+"Class" : "javax.xml.bind.util.ValidationEventCollector", 
+"Methods" : [{ "Name" : "hasEvents" ,
+"Nodes" : 5,
+"0" : [ 66 ]
+"1" : [ 66 ]
+"2" : [ 66 ]
+"3" : [ 66 ]
+"4" : [  ]
+},{ "Name" : "handleEvent" ,
+"Nodes" : 7,
+"0" : [ 70,72,73 ]
+"1" : [ 81,82 ]
+"2" : [ 90 ]
+"3" : [ 78,79 ]
+"4" : [ 75,76 ]
+"5" : [ 84,85,86 ]
+"6" : [  ]
+},{ "Name" : "_assert" ,
+"Nodes" : 4,
+"0" : [ 94 ]
+"1" : [ 97 ]
+"2" : [ 95 ]
+"3" : [  ]
+}]
+}

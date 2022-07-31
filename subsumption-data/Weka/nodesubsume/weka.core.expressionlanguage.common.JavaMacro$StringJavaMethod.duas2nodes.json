@@ -1,0 +1,10 @@
+{
+"Class" : "weka.core.expressionlanguage.common.JavaMacro$StringJavaMethod", 
+"Methods" : [{ "Name" : "<init>" ,
+"Nodes" : 5,
+"Duas" : 4,
+"0" :  [ 0,2,3 ],
+"1" :  [ 0,2,1 ],
+"2" :  [ 0,2 ],
+"3" :  [ 0,1 ]}]
+}

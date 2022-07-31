@@ -1,0 +1,21 @@
+{
+"Class" : "weka.knowledgeflow.steps.GraphViewer", 
+"Methods" : [{ "Name" : "getOutgoingConnectionTypes" ,
+"Nodes" : 5,
+"0" : [ ],
+"1" : [ 1],
+"3" : [ 0],
+"2" : [ ],
+"4" : [ ],
+"CoveredDUAsByNodes" : 2,
+"Duas" : 2
+},{ "Name" : "getInteractiveViewers" ,
+"Nodes" : 4,
+"0" : [ ],
+"2" : [ 0, 2, 5],
+"1" : [ 4],
+"3" : [ 4],
+"CoveredDUAsByNodes" : 4,
+"Duas" : 6
+}]
+}

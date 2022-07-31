@@ -1,0 +1,12 @@
+{
+"Class" : "weka.experiment.RemoteEngine$2", 
+"Methods" : [{ "Name" : "run" ,
+"Nodes" : 4,
+"0" : [ ],
+"2" : [ 0, 4, 5, 9],
+"1" : [ 2, 3, 7, 8],
+"3" : [ 2, 3, 7, 8],
+"CoveredDUAsByNodes" : 8,
+"Duas" : 10
+}]
+}

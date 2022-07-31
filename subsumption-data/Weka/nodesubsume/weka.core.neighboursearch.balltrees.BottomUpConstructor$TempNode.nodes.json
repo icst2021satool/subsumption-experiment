@@ -1,0 +1,14 @@
+{
+"Class" : "weka.core.neighboursearch.balltrees.BottomUpConstructor$TempNode", 
+"Methods" : [{ "Name" : "toString" ,
+"Nodes" : 8,
+"0" : [ 349,350,351 ]
+"1" : [ 351 ]
+"2" : [ 356 ]
+"3" : [ 352 ]
+"4" : [ 355 ]
+"5" : [ 351 ]
+"6" : [ 353 ]
+"7" : [  ]
+}]
+}

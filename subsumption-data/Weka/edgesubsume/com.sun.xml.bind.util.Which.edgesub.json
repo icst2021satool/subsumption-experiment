@@ -1,0 +1,15 @@
+{
+"Class" : "com.sun.xml.bind.util.Which", 
+"Methods" : [{ "Name" : "which" ,
+"Edges" : 7,
+"0" : [ 0],
+"1" : [ 1, 2, 3],
+"5" : [ 0, 3],
+"2" : [ 3, 5, 7],
+"3" : [ 3, 6],
+"4" : [ 3, 6],
+"6" : [ 3, 5, 7],
+"CoveredDUAsByEdges" : 7,
+"Duas" : 8
+}]
+}

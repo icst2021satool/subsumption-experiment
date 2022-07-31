@@ -1,0 +1,14 @@
+{
+"Class" : "weka.gui.GenericObjectEditor$4", 
+"Methods" : [{ "Name" : "mousePressed" ,
+"Edges" : 6,
+"0" : [ 0, 3, 7],
+"1" : [ 1, 4, 8],
+"3" : [ 0, 2, 3, 5, 7, 9],
+"4" : [ 6],
+"2" : [ 0, 2, 3, 5, 7, 9],
+"5" : [ ],
+"CoveredDUAsByEdges" : 10,
+"Duas" : 10
+}]
+}

@@ -1,0 +1,8 @@
+{
+"Class" : "weka.gui.PackageManager$10", 
+"Methods" : [{ "Name" : "isCellEditable" ,
+"Edges" : 4,
+"Duas" : 2,
+"0" : 1, 
+ "1" : 2}]
+}

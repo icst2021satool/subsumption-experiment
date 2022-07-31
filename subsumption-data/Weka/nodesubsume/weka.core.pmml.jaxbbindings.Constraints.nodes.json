@@ -1,0 +1,64 @@
+{
+"Class" : "weka.core.pmml.jaxbbindings.Constraints", 
+"Methods" : [{ "Name" : "getExtension" ,
+"Nodes" : 4,
+"0" : [ 121 ]
+"1" : [ 124 ]
+"2" : [ 122 ]
+"3" : [  ]
+},{ "Name" : "getMinimumAntConsSeparationTime" ,
+"Nodes" : 4,
+"0" : [ 280 ]
+"1" : [ 283 ]
+"2" : [ 281 ]
+"3" : [  ]
+},{ "Name" : "getMinimumConfidence" ,
+"Nodes" : 4,
+"0" : [ 308 ]
+"1" : [ 311 ]
+"2" : [ 309 ]
+"3" : [  ]
+},{ "Name" : "getMinimumItemsetSeparationTime" ,
+"Nodes" : 4,
+"0" : [ 336 ]
+"1" : [ 339 ]
+"2" : [ 337 ]
+"3" : [  ]
+},{ "Name" : "getMinimumLift" ,
+"Nodes" : 4,
+"0" : [ 364 ]
+"1" : [ 367 ]
+"2" : [ 365 ]
+"3" : [  ]
+},{ "Name" : "getMinimumNumberOfAntecedentItems" ,
+"Nodes" : 4,
+"0" : [ 392 ]
+"1" : [ 395 ]
+"2" : [ 393 ]
+"3" : [  ]
+},{ "Name" : "getMinimumNumberOfConsequentItems" ,
+"Nodes" : 4,
+"0" : [ 420 ]
+"1" : [ 423 ]
+"2" : [ 421 ]
+"3" : [  ]
+},{ "Name" : "getMinimumNumberOfItems" ,
+"Nodes" : 4,
+"0" : [ 448 ]
+"1" : [ 451 ]
+"2" : [ 449 ]
+"3" : [  ]
+},{ "Name" : "getMinimumSupport" ,
+"Nodes" : 4,
+"0" : [ 476 ]
+"1" : [ 479 ]
+"2" : [ 477 ]
+"3" : [  ]
+},{ "Name" : "getMinimumTotalSequenceTime" ,
+"Nodes" : 4,
+"0" : [ 504 ]
+"1" : [ 507 ]
+"2" : [ 505 ]
+"3" : [  ]
+}]
+}

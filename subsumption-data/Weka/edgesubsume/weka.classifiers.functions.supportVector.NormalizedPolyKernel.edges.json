@@ -1,0 +1,28 @@
+{
+"Class" : "weka.classifiers.functions.supportVector.NormalizedPolyKernel", 
+"Methods" : [{ "Name" : "eval" ,
+"Edges" : 8,
+"0" : [ 4,6 ],
+"1" : [ 0,5 ],
+"2" : [ 0,1 ],
+"3" : [ 5,2 ],
+"4" : [ 3,6 ],
+"5" : [ 1,2 ],
+"6" : [ 2,4 ],
+"7" : [ 2,3 ]
+},{ "Name" : "setExponent" ,
+"Edges" : 5,
+"0" : [ 2,4 ],
+"1" : [ 0,3 ],
+"2" : [ 0,1 ],
+"3" : [ 3,2 ],
+"4" : [ 1,2 ]
+},{ "Name" : "toString" ,
+"Edges" : 5,
+"0" : [ 1,2 ],
+"1" : [ 2,4 ],
+"2" : [ 0,3 ],
+"3" : [ 0,1 ],
+"4" : [ 3,2 ]
+}]
+}

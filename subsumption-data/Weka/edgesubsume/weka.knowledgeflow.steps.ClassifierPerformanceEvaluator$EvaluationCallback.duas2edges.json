@@ -1,0 +1,10 @@
+{
+"Class" : "weka.knowledgeflow.steps.ClassifierPerformanceEvaluator$EvaluationCallback", 
+"Methods" : [{ "Name" : "taskFinished" ,
+"Edges" : 5,
+"Duas" : 17,
+"0" : 1, 
+ "1" : 2, 
+ "11" : 1, 
+ "12" : 2}]
+}

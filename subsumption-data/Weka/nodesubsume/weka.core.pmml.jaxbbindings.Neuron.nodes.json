@@ -1,0 +1,16 @@
+{
+"Class" : "weka.core.pmml.jaxbbindings.Neuron", 
+"Methods" : [{ "Name" : "getExtension" ,
+"Nodes" : 4,
+"0" : [ 91 ]
+"1" : [ 94 ]
+"2" : [ 92 ]
+"3" : [  ]
+},{ "Name" : "getCon" ,
+"Nodes" : 4,
+"0" : [ 120 ]
+"1" : [ 123 ]
+"2" : [ 121 ]
+"3" : [  ]
+}]
+}

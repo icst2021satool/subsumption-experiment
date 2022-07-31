@@ -1,0 +1,21 @@
+{
+"Class" : "com.sun.xml.bind.v2.runtime.BridgeImpl", 
+"Methods" : [{ "Name" : "marshal" ,
+"Nodes" : 4,
+"0" : [ ],
+"2" : [ 3, 5, 9, 10],
+"1" : [ 0, 1, 2, 6, 7, 8],
+"3" : [ 0, 1, 2, 6, 7, 8],
+"CoveredDUAsByNodes" : 10,
+"Duas" : 13
+},{ "Name" : "marshal" ,
+"Nodes" : 5,
+"0" : [ ],
+"1" : [ 0, 2, 3, 4, 7],
+"3" : [ 1, 6],
+"2" : [ 5],
+"4" : [ 5],
+"CoveredDUAsByNodes" : 8,
+"Duas" : 8
+}]
+}

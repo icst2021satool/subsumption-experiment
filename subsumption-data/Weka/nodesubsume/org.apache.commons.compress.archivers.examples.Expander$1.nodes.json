@@ -1,0 +1,12 @@
+{
+"Class" : "org.apache.commons.compress.archivers.examples.Expander$1", 
+"Methods" : [{ "Name" : "getNextReadableEntry" ,
+"Nodes" : 6,
+"0" : [ 264 ]
+"1" : [ 265 ]
+"2" : [ 268 ]
+"3" : [ 265 ]
+"4" : [ 266 ]
+"5" : [  ]
+}]
+}

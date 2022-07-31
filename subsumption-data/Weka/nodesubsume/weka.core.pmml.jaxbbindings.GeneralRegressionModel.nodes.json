@@ -1,0 +1,22 @@
+{
+"Class" : "weka.core.pmml.jaxbbindings.GeneralRegressionModel", 
+"Methods" : [{ "Name" : "getContent" ,
+"Nodes" : 4,
+"0" : [ 224 ]
+"1" : [ 227 ]
+"2" : [ 225 ]
+"3" : [  ]
+},{ "Name" : "addContent" ,
+"Nodes" : 4,
+"0" : [ 231 ]
+"1" : [ 234,235 ]
+"2" : [ 232 ]
+"3" : [  ]
+},{ "Name" : "isIsScorable" ,
+"Nodes" : 4,
+"0" : [ 414 ]
+"1" : [ 417 ]
+"2" : [ 415 ]
+"3" : [  ]
+}]
+}

@@ -1,0 +1,12 @@
+{
+"Class" : "weka.gui.beans.JoinCustomizer$6", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Nodes" : 6,
+"0" : [ 279,280 ]
+"1" : [ 284 ]
+"2" : [ 288 ]
+"3" : [ 285,286 ]
+"4" : [ 281 ]
+"5" : [  ]
+}]
+}

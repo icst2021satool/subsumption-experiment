@@ -1,0 +1,16 @@
+{
+"Class" : "weka.core.pmml.jaxbbindings.Characteristic", 
+"Methods" : [{ "Name" : "getExtension" ,
+"Nodes" : 4,
+"0" : [ 88 ]
+"1" : [ 91 ]
+"2" : [ 89 ]
+"3" : [  ]
+},{ "Name" : "getAttribute" ,
+"Nodes" : 4,
+"0" : [ 117 ]
+"1" : [ 120 ]
+"2" : [ 118 ]
+"3" : [  ]
+}]
+}

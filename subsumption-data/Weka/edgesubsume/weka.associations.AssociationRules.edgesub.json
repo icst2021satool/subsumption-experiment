@@ -1,0 +1,15 @@
+{
+"Class" : "weka.associations.AssociationRules", 
+"Methods" : [{ "Name" : "<init>" ,
+"Edges" : 7,
+"1" : [ 6, 10],
+"2" : [ 7],
+"6" : [ 6, 10],
+"3" : [ 3, 5],
+"4" : [ 0, 1, 2, 4],
+"0" : [ 0, 1, 2, 3, 5],
+"5" : [ 0, 1, 2],
+"CoveredDUAsByEdges" : 9,
+"Duas" : 14
+}]
+}

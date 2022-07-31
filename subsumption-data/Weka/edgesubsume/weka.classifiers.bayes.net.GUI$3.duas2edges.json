@@ -1,0 +1,12 @@
+{
+"Class" : "weka.classifiers.bayes.net.GUI$3", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Edges" : 6,
+"Duas" : 10,
+"1" : 1, 
+ "2" : 2, 
+ "6" : 1, 
+ "7" : 2, 
+ "8" : 3, 
+ "9" : 4}]
+}

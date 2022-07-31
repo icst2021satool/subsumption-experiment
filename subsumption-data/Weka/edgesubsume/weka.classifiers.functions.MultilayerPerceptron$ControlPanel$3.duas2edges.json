@@ -1,0 +1,10 @@
+{
+"Class" : "weka.classifiers.functions.MultilayerPerceptron$ControlPanel$3", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Edges" : 7,
+"Duas" : 55,
+"16" : 0, 
+ "17" : 1, 
+ "18" : 3, 
+ "19" : 4}]
+}

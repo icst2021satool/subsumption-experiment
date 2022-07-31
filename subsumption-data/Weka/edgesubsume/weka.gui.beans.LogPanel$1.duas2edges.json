@@ -1,0 +1,16 @@
+{
+"Class" : "weka.gui.beans.LogPanel$1", 
+"Methods" : [{ "Name" : "prepareRenderer" ,
+"Edges" : 13,
+"Duas" : 21,
+"0" : 9, 
+ "1" : 10, 
+ "7" : 9, 
+ "8" : 10, 
+ "11" : 0, 
+ "12" : 1, 
+ "13" : 11, 
+ "14" : 12, 
+ "15" : 4, 
+ "16" : 5}]
+}

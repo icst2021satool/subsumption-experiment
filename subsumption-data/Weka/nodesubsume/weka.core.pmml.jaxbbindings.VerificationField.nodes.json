@@ -1,0 +1,22 @@
+{
+"Class" : "weka.core.pmml.jaxbbindings.VerificationField", 
+"Methods" : [{ "Name" : "getExtension" ,
+"Nodes" : 4,
+"0" : [ 87 ]
+"1" : [ 90 ]
+"2" : [ 88 ]
+"3" : [  ]
+},{ "Name" : "getPrecision" ,
+"Nodes" : 4,
+"0" : [ 150 ]
+"1" : [ 153 ]
+"2" : [ 151 ]
+"3" : [  ]
+},{ "Name" : "getZeroThreshold" ,
+"Nodes" : 4,
+"0" : [ 178 ]
+"1" : [ 181 ]
+"2" : [ 179 ]
+"3" : [  ]
+}]
+}

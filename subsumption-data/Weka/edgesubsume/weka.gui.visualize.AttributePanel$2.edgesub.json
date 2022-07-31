@@ -1,0 +1,13 @@
+{
+"Class" : "weka.gui.visualize.AttributePanel$2", 
+"Methods" : [{ "Name" : "attributeSelectionChange" ,
+"Edges" : 5,
+"3" : [ 0, 3, 4, 7, 9],
+"4" : [ 1, 2, 5, 6, 8],
+"2" : [ 1, 2, 5, 6, 8],
+"1" : [ 0, 3, 4, 7, 9],
+"0" : [ ],
+"CoveredDUAsByEdges" : 10,
+"Duas" : 10
+}]
+}

@@ -1,0 +1,35 @@
+{
+"Class" : "weka.knowledgeflow.steps.TestSetMaker", 
+"Methods" : [{ "Name" : "processIncoming" ,
+"Nodes" : 6,
+"0" : [ 64,65,62,63 ]
+"1" : [ 69,70,71,72,73,74,75 ]
+"2" : [ 78,79 ]
+"3" : [ 76 ]
+"4" : [ 66 ]
+"5" : [  ]
+},{ "Name" : "getIncomingConnectionTypes" ,
+"Nodes" : 4,
+"0" : [ 92 ]
+"1" : [ 97 ]
+"2" : [ 93,94 ]
+"3" : [  ]
+},{ "Name" : "getOutgoingConnectionTypes" ,
+"Nodes" : 4,
+"0" : [ 111 ]
+"1" : [ 114 ]
+"2" : [ 112 ]
+"3" : [  ]
+},{ "Name" : "outputStructureForConnectionType" ,
+"Nodes" : 9,
+"0" : [ 130 ]
+"1" : [ 132 ]
+"2" : [ 130,131 ]
+"3" : [ 135,136,138 ]
+"4" : [ 145,142,143 ]
+"5" : [ 149 ]
+"6" : [ 146 ]
+"7" : [ 139 ]
+"8" : [  ]
+}]
+}

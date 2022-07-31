@@ -1,0 +1,14 @@
+{
+"Class" : "org.apache.commons.compress.archivers.sevenz.Archive", 
+"Methods" : [{ "Name" : "lengthOf" ,
+"Nodes" : 5,
+"Duas" : 3,
+"0" :  [ 0,3 ],
+"1" :  [ 0,1 ],
+"2" :  [ 0,2 ]},{ "Name" : "lengthOf" ,
+"Nodes" : 5,
+"Duas" : 3,
+"0" :  [ 0,3 ],
+"1" :  [ 0,1 ],
+"2" :  [ 0,2 ]}]
+}

@@ -1,0 +1,36 @@
+{
+"Class" : "weka.classifiers.pmml.consumer.PMMLClassifier", 
+"Methods" : [{ "Name" : "setPMMLVersion" ,
+"Nodes" : 5,
+"0" : [ 91,92,93 ]
+"1" : [ 99 ]
+"2" : [ 94,95 ]
+"3" : [ 96 ]
+"4" : [  ]
+},{ "Name" : "setCreatorApplication" ,
+"Nodes" : 11,
+"0" : [ 108,109,110 ]
+"1" : [ 126 ]
+"2" : [ 112,111 ]
+"3" : [ 113,114 ]
+"4" : [ 115,116 ]
+"5" : [ 116 ]
+"6" : [ 117,118 ]
+"7" : [ 121 ]
+"8" : [ 118 ]
+"9" : [ 119 ]
+"10" : [  ]
+},{ "Name" : "mapToMiningSchema" ,
+"Nodes" : 4,
+"0" : [ 214 ]
+"1" : [ 219 ]
+"2" : [ 216,217 ]
+"3" : [  ]
+},{ "Name" : "getFieldsMappingString" ,
+"Nodes" : 4,
+"0" : [ 229 ]
+"1" : [ 232 ]
+"2" : [ 230 ]
+"3" : [  ]
+}]
+}

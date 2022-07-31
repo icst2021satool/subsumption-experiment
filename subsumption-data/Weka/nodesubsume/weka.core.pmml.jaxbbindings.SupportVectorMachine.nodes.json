@@ -1,0 +1,10 @@
+{
+"Class" : "weka.core.pmml.jaxbbindings.SupportVectorMachine", 
+"Methods" : [{ "Name" : "getExtension" ,
+"Nodes" : 4,
+"0" : [ 92 ]
+"1" : [ 95 ]
+"2" : [ 93 ]
+"3" : [  ]
+}]
+}

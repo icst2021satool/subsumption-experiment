@@ -1,0 +1,13 @@
+{
+"Class" : "org.apache.commons.compress.archivers.examples.Expander$1", 
+"Methods" : [{ "Name" : "getNextReadableEntry" ,
+"Edges" : 7,
+"0" : [ 3,4 ],
+"1" : [ 3,2 ],
+"2" : [ 1,3 ],
+"3" : [ 1,2 ],
+"4" : [ 2,5 ],
+"5" : [ 4,1 ],
+"6" : [ 0,1 ]
+}]
+}

@@ -1,0 +1,28 @@
+{
+"Class" : "weka.core.pmml.jaxbbindings.ContStats", 
+"Methods" : [{ "Name" : "getExtension" ,
+"Edges" : 4,
+"2" : [ 0, 3, 4],
+"3" : [ 1, 2, 5, 6],
+"1" : [ 0, 2, 3, 4],
+"0" : [ 2],
+"CoveredDUAsByEdges" : 7,
+"Duas" : 8
+},{ "Name" : "getInterval" ,
+"Edges" : 4,
+"2" : [ 0, 3, 4],
+"3" : [ 1, 2, 5, 6],
+"1" : [ 0, 2, 3, 4],
+"0" : [ 2],
+"CoveredDUAsByEdges" : 7,
+"Duas" : 8
+},{ "Name" : "getNUMARRAY" ,
+"Edges" : 4,
+"2" : [ 0, 3, 4],
+"3" : [ 1, 2, 5, 6],
+"1" : [ 0, 2, 3, 4],
+"0" : [ 2],
+"CoveredDUAsByEdges" : 7,
+"Duas" : 8
+}]
+}

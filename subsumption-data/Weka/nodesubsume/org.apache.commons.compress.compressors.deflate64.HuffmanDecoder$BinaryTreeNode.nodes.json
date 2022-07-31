@@ -1,0 +1,18 @@
+{
+"Class" : "org.apache.commons.compress.compressors.deflate64.HuffmanDecoder$BinaryTreeNode", 
+"Methods" : [{ "Name" : "left" ,
+"Nodes" : 5,
+"0" : [ 426 ]
+"1" : [ 429 ]
+"2" : [ 426 ]
+"3" : [ 427 ]
+"4" : [  ]
+},{ "Name" : "right" ,
+"Nodes" : 5,
+"0" : [ 433 ]
+"1" : [ 436 ]
+"2" : [ 433 ]
+"3" : [ 434 ]
+"4" : [  ]
+}]
+}

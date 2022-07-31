@@ -1,0 +1,29 @@
+{
+"Class" : "weka.core.WekaEnumeration", 
+"Methods" : [{ "Name" : "<init>" ,
+"Nodes" : 5,
+"0" : [ ],
+"1" : [ 0, 3],
+"3" : [ 1, 2],
+"2" : [ ],
+"4" : [ ],
+"CoveredDUAsByNodes" : 4,
+"Duas" : 4
+},{ "Name" : "hasMoreElements" ,
+"Nodes" : 4,
+"0" : [ ],
+"1" : [ 1, 3, 5],
+"2" : [ 0, 2, 4],
+"3" : [ ],
+"CoveredDUAsByNodes" : 6,
+"Duas" : 6
+},{ "Name" : "nextElement" ,
+"Nodes" : 4,
+"0" : [ ],
+"2" : [ 0, 2, 3, 6, 8],
+"1" : [ 5],
+"3" : [ 5],
+"CoveredDUAsByNodes" : 6,
+"Duas" : 9
+}]
+}

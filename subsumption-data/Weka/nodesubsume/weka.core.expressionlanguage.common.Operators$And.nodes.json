@@ -1,0 +1,12 @@
+{
+"Class" : "weka.core.expressionlanguage.common.Operators$And", 
+"Methods" : [{ "Name" : "evaluate" ,
+"Nodes" : 6,
+"0" : [ 433 ]
+"1" : [ 433 ]
+"2" : [ 433 ]
+"3" : [ 433 ]
+"4" : [ 433 ]
+"5" : [  ]
+}]
+}

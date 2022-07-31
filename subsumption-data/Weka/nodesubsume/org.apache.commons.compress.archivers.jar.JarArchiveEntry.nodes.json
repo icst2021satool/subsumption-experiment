@@ -1,0 +1,10 @@
+{
+"Class" : "org.apache.commons.compress.archivers.jar.JarArchiveEntry", 
+"Methods" : [{ "Name" : "getCertificates" ,
+"Nodes" : 4,
+"0" : [ 77 ]
+"1" : [ 87 ]
+"2" : [ 80,78,79 ]
+"3" : [  ]
+}]
+}

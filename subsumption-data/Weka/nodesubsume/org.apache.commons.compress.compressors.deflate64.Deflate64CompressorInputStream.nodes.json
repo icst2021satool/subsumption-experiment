@@ -1,0 +1,32 @@
+{
+"Class" : "org.apache.commons.compress.compressors.deflate64.Deflate64CompressorInputStream", 
+"Methods" : [{ "Name" : "read" ,
+"Nodes" : 6,
+"0" : [ 60,61 ]
+"1" : [ 63 ]
+"2" : [ 67 ]
+"3" : [ 65 ]
+"4" : [ 69 ]
+"5" : [  ]
+},{ "Name" : "read" ,
+"Nodes" : 5,
+"0" : [ 80,79 ]
+"1" : [ 88 ]
+"2" : [ 81,82,83,84 ]
+"3" : [ 85 ]
+"4" : [  ]
+},{ "Name" : "available" ,
+"Nodes" : 5,
+"0" : [ 93 ]
+"1" : [ 93 ]
+"2" : [ 93 ]
+"3" : [ 93 ]
+"4" : [  ]
+},{ "Name" : "close" ,
+"Nodes" : 4,
+"0" : [ 99,101 ]
+"1" : [ 106 ]
+"2" : [ 102,103 ]
+"3" : [  ]
+}]
+}

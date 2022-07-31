@@ -1,0 +1,13 @@
+{
+"Class" : "com.sun.xml.bind.v2.runtime.output.XmlOutputAbstractImpl", 
+"Methods" : [{ "Name" : "attribute" ,
+"Edges" : 5,
+"1" : [ 1, 3, 5, 7, 9],
+"2" : [ 0, 2, 4, 6, 8, 10, 11],
+"0" : [ 0, 2, 4, 6, 8, 10, 11],
+"4" : [ 1, 3, 5, 7, 9],
+"3" : [ ],
+"CoveredDUAsByEdges" : 12,
+"Duas" : 12
+}]
+}

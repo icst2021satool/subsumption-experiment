@@ -1,0 +1,14 @@
+{
+"Class" : "weka.gui.beans.NoteCustomizer", 
+"Methods" : [{ "Name" : "customizerClosing" ,
+"Edges" : 6,
+"3" : [ 0, 2, 6, 8, 9],
+"4" : [ 1, 7],
+"0" : [ 0, 2, 3, 5, 6, 8, 9, 10, 12],
+"1" : [ 4, 11],
+"5" : [ 0, 2, 3, 5, 6, 8, 9, 10, 12],
+"2" : [ ],
+"CoveredDUAsByEdges" : 13,
+"Duas" : 13
+}]
+}

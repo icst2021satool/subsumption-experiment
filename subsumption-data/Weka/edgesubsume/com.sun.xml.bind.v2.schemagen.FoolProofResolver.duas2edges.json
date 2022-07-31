@@ -1,0 +1,16 @@
+{
+"Class" : "com.sun.xml.bind.v2.schemagen.FoolProofResolver", 
+"Methods" : [{ "Name" : "<init>" ,
+"Edges" : 6,
+"Duas" : 6,
+"2" : 3, 
+ "3" : 4, 
+ "4" : 0, 
+ "5" : 1},{ "Name" : "createOutput" ,
+"Edges" : 7,
+"Duas" : 10,
+"3" : 1, 
+ "4" : 2, 
+ "8" : 5, 
+ "9" : 6}]
+}

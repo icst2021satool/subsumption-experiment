@@ -1,0 +1,22 @@
+{
+"Class" : "weka.classifiers.functions.supportVector.PrecomputedKernelMatrixKernel", 
+"Methods" : [{ "Name" : "setOptions" ,
+"Edges" : 5,
+"Duas" : 7,
+"4" : 2, 
+ "5" : 3},{ "Name" : "eval" ,
+"Edges" : 8,
+"Duas" : 17,
+"0" : 3, 
+ "1" : 4, 
+ "5" : 0, 
+ "6" : 1, 
+ "10" : 3, 
+ "11" : 4},{ "Name" : "initVars" ,
+"Edges" : 4,
+"Duas" : 9,
+"0" : 1, 
+ "1" : 2, 
+ "5" : 1, 
+ "6" : 2}]
+}

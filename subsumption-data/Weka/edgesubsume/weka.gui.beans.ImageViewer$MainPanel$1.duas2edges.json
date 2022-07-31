@@ -1,0 +1,8 @@
+{
+"Class" : "weka.gui.beans.ImageViewer$MainPanel$1", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Edges" : 4,
+"Duas" : 8,
+"4" : 1, 
+ "5" : 2}]
+}

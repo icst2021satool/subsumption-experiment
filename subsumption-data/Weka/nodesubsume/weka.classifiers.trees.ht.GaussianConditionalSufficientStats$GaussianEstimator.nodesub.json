@@ -1,0 +1,28 @@
+{
+"Class" : "weka.classifiers.trees.ht.GaussianConditionalSufficientStats$GaussianEstimator", 
+"Methods" : [{ "Name" : "probabilityDensity" ,
+"Nodes" : 9,
+"0" : [ ],
+"1" : [ 1, 11],
+"2" : [ 0, 2, 10, 12],
+"3" : [ 0, 2, 19, 10, 12],
+"4" : [ 0, 2, 19, 4, 8, 10, 12, 15],
+"6" : [ 0, 2, 3, 19, 7, 10, 12, 14],
+"5" : [ 0, 2, 19, 10, 12],
+"7" : [ 0, 16, 17, 2, 18, 20, 5, 6, 9, 10, 12, 13],
+"8" : [ ],
+"CoveredDUAsByNodes" : 21,
+"Duas" : 21
+},{ "Name" : "weightLessThanEqualAndGreaterThan" ,
+"Nodes" : 7,
+"0" : [ ],
+"1" : [ 11],
+"2" : [ 1, 5, 9, 11],
+"4" : [ 0, 4, 8, 11],
+"5" : [ 10],
+"3" : [ 2, 3, 6, 7, 12, 13, 14],
+"6" : [ 2, 3, 6, 7, 12, 13, 14],
+"CoveredDUAsByNodes" : 15,
+"Duas" : 15
+}]
+}

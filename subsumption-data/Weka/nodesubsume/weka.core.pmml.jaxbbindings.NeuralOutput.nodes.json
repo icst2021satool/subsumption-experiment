@@ -1,0 +1,10 @@
+{
+"Class" : "weka.core.pmml.jaxbbindings.NeuralOutput", 
+"Methods" : [{ "Name" : "getExtension" ,
+"Nodes" : 4,
+"0" : [ 82 ]
+"1" : [ 85 ]
+"2" : [ 83 ]
+"3" : [  ]
+}]
+}

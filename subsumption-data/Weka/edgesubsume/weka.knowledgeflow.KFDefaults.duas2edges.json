@@ -1,0 +1,12 @@
+{
+"Class" : "weka.knowledgeflow.KFDefaults", 
+"Methods" : [{ "Name" : "<init>" ,
+"Edges" : 5,
+"Duas" : 14,
+"1" : 0, 
+ "2" : 1, 
+ "6" : 0, 
+ "7" : 1, 
+ "10" : 0, 
+ "11" : 1}]
+}

@@ -1,0 +1,14 @@
+{
+"Class" : "weka.gui.simplecli.Set", 
+"Methods" : [{ "Name" : "doExecute" ,
+"Edges" : 17,
+"Duas" : 21,
+"3" : 10, 
+ "4" : 11, 
+ "5" : 2, 
+ "6" : 3, 
+ "7" : 7, 
+ "8" : 8, 
+ "17" : 0, 
+ "18" : 1}]
+}

@@ -1,0 +1,21 @@
+{
+"Class" : "com.sun.xml.bind.v2.runtime.unmarshaller.StAXConnector", 
+"Methods" : [{ "Name" : "fixNull" ,
+"Nodes" : 4,
+"0" : [ ],
+"1" : [ 1, 2],
+"2" : [ 0],
+"3" : [ ],
+"CoveredDUAsByNodes" : 3,
+"Duas" : 3
+},{ "Name" : "getQName" ,
+"Nodes" : 5,
+"0" : [ ],
+"2" : [ 0],
+"3" : [ 0, 3, 4, 6],
+"1" : [ 5],
+"4" : [ ],
+"CoveredDUAsByNodes" : 5,
+"Duas" : 7
+}]
+}

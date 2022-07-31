@@ -1,0 +1,11 @@
+{
+"Class" : "weka.classifiers.trees.lmt.LogisticBase$UnsafeInstance", 
+"Methods" : [{ "Name" : "<init>" ,
+"Nodes" : 5,
+"0" : [ 700,702,703 ]
+"1" : [ 703 ]
+"2" : [ 706,707 ]
+"3" : [ 704,703 ]
+"4" : [  ]
+}]
+}

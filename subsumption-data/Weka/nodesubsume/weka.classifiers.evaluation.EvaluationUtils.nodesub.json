@@ -1,0 +1,35 @@
+{
+"Class" : "weka.classifiers.evaluation.EvaluationUtils", 
+"Methods" : [{ "Name" : "getCVPredictions" ,
+"Nodes" : 8,
+"0" : [ ],
+"5" : [ 11],
+"6" : [ 6, 8, 11, 15],
+"1" : [ ],
+"2" : [ ],
+"3" : [ 3, 9],
+"7" : [ 3, 9],
+"4" : [ 0, 1, 2, 4, 5, 10, 13, 14, 16, 17, 19, 20, 21],
+"CoveredDUAsByNodes" : 19,
+"Duas" : 27
+},{ "Name" : "getTestPredictions" ,
+"Nodes" : 7,
+"0" : [ ],
+"1" : [ ],
+"2" : [ 3, 7],
+"6" : [ 3, 7],
+"3" : [ 2, 9],
+"5" : [ 0, 1, 2, 4, 6, 8, 9],
+"4" : [ 2, 9, 13],
+"CoveredDUAsByNodes" : 10,
+"Duas" : 21
+},{ "Name" : "getPrediction" ,
+"Nodes" : 4,
+"0" : [ ],
+"1" : [ 1, 2, 4, 6],
+"2" : [ 0, 3, 5, 7],
+"3" : [ ],
+"CoveredDUAsByNodes" : 8,
+"Duas" : 8
+}]
+}

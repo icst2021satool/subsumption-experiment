@@ -1,0 +1,15 @@
+{
+"Class" : "weka.gui.knowledgeflow.steps.JobStepEditorDialog", 
+"Methods" : [{ "Name" : "loadFlow" ,
+"Edges" : 7,
+"2" : [ 6],
+"3" : [ 3, 5],
+"0" : [ 0, 2, 3, 5, 8, 10],
+"1" : [ 1, 4, 9],
+"5" : [ 0, 2, 3, 5, 8, 10],
+"4" : [ 6],
+"6" : [ ],
+"CoveredDUAsByEdges" : 10,
+"Duas" : 12
+}]
+}

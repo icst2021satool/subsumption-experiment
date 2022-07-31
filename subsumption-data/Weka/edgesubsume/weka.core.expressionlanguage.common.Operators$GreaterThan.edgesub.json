@@ -1,0 +1,13 @@
+{
+"Class" : "weka.core.expressionlanguage.common.Operators$GreaterThan", 
+"Methods" : [{ "Name" : "evaluate" ,
+"Edges" : 5,
+"1" : [ 0, 2, 4],
+"2" : [ 1, 3, 5],
+"3" : [ 1, 3, 5],
+"0" : [ 0, 2, 4],
+"4" : [ ],
+"CoveredDUAsByEdges" : 6,
+"Duas" : 6
+}]
+}

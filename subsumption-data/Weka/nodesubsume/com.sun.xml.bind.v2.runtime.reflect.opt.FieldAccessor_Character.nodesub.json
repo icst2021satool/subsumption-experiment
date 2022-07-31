@@ -1,0 +1,13 @@
+{
+"Class" : "com.sun.xml.bind.v2.runtime.reflect.opt.FieldAccessor_Character", 
+"Methods" : [{ "Name" : "set" ,
+"Nodes" : 5,
+"0" : [ ],
+"1" : [ 2],
+"3" : [ 1],
+"2" : [ 0, 3],
+"4" : [ 0, 3],
+"CoveredDUAsByNodes" : 4,
+"Duas" : 4
+}]
+}

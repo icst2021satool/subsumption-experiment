@@ -1,0 +1,14 @@
+{
+"Class" : "weka.gui.knowledgeflow.steps.ImageViewerInteractiveView", 
+"Methods" : [{ "Name" : "init" ,
+"Edges" : 11,
+"Duas" : 22,
+"0" : 3, 
+ "1" : 4, 
+ "12" : 3, 
+ "13" : 4, 
+ "17" : 5, 
+ "18" : 6, 
+ "20" : 5, 
+ "21" : 6}]
+}

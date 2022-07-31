@@ -1,0 +1,13 @@
+{
+"Class" : "weka.gui.PropertySheetPanel$CapabilitiesHelpDialog", 
+"Methods" : [{ "Name" : "updateText" ,
+"Edges" : 7,
+"0" : [ 4,1 ],
+"1" : [ 0,4 ],
+"2" : [ 0,1 ],
+"3" : [ 2,5 ],
+"4" : [ 3,2 ],
+"5" : [ 1,3 ],
+"6" : [ 1,2 ]
+}]
+}

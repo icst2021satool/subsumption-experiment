@@ -1,0 +1,17 @@
+{
+"Class" : "weka.attributeSelection.ASSearch", 
+"Methods" : [{ "Name" : "getOptions" ,
+"Edges" : 5,
+"Duas" : 2,
+},{ "Name" : "makeCopies" ,
+"Edges" : 8,
+"Duas" : 17,
+"0" : 0, 
+ "1" : 1, 
+ "4" : 3, 
+ "5" : 4, 
+ "9" : 3, 
+ "10" : 4, 
+ "13" : 3, 
+ "14" : 4}]
+}

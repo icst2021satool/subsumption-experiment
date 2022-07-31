@@ -1,0 +1,16 @@
+{
+"Class" : "org.apache.commons.compress.compressors.pack200.Pack200Utils", 
+"Methods" : [{ "Name" : "normalize" ,
+"Edges" : 25,
+"Duas" : 24,
+"2" : 23, 
+ "3" : 24, 
+ "9" : 5, 
+ "10" : 6, 
+ "12" : 18, 
+ "13" : 19, 
+ "16" : 11, 
+ "17" : 12, 
+ "20" : 16, 
+ "21" : 17}]
+}

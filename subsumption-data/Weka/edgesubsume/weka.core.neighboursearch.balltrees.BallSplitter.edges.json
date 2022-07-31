@@ -1,0 +1,19 @@
+{
+"Class" : "weka.core.neighboursearch.balltrees.BallSplitter", 
+"Methods" : [{ "Name" : "correctlyInitialized" ,
+"Edges" : 13,
+"0" : [ 2,6 ],
+"1" : [ 2,3 ],
+"2" : [ 3,5 ],
+"3" : [ 3,4 ],
+"4" : [ 6,9 ],
+"5" : [ 8,9 ],
+"6" : [ 7,9 ],
+"7" : [ 0,8 ],
+"8" : [ 0,1 ],
+"9" : [ 4,9 ],
+"10" : [ 1,7 ],
+"11" : [ 1,2 ],
+"12" : [ 5,9 ]
+}]
+}

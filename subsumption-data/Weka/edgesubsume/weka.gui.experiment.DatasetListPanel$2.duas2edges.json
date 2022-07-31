@@ -1,0 +1,10 @@
+{
+"Class" : "weka.gui.experiment.DatasetListPanel$2", 
+"Methods" : [{ "Name" : "mouseClicked" ,
+"Edges" : 6,
+"Duas" : 13,
+"3" : 3, 
+ "4" : 4, 
+ "11" : 0, 
+ "12" : 1}]
+}

@@ -1,0 +1,22 @@
+{
+"Class" : "weka.classifiers.lazy.kstar.KStarCache", 
+"Methods" : [{ "Name" : "store" ,
+"Nodes" : 4,
+"0" : [ 57 ]
+"1" : [ 60 ]
+"2" : [ 58 ]
+"3" : [  ]
+},{ "Name" : "containsKey" ,
+"Nodes" : 4,
+"0" : [ 68 ]
+"1" : [ 71 ]
+"2" : [ 69 ]
+"3" : [  ]
+},{ "Name" : "getCacheValues" ,
+"Nodes" : 4,
+"0" : [ 80 ]
+"1" : [ 83 ]
+"2" : [ 81 ]
+"3" : [  ]
+}]
+}

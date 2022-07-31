@@ -1,0 +1,28 @@
+{
+"Class" : "weka.core.pmml.jaxbbindings.RuleSet", 
+"Methods" : [{ "Name" : "getExtension" ,
+"Nodes" : 4,
+"0" : [ 103 ]
+"1" : [ 106 ]
+"2" : [ 104 ]
+"3" : [  ]
+},{ "Name" : "getRuleSelectionMethod" ,
+"Nodes" : 4,
+"0" : [ 132 ]
+"1" : [ 135 ]
+"2" : [ 133 ]
+"3" : [  ]
+},{ "Name" : "getScoreDistribution" ,
+"Nodes" : 4,
+"0" : [ 161 ]
+"1" : [ 164 ]
+"2" : [ 162 ]
+"3" : [  ]
+},{ "Name" : "getRule" ,
+"Nodes" : 4,
+"0" : [ 191 ]
+"1" : [ 194 ]
+"2" : [ 192 ]
+"3" : [  ]
+}]
+}

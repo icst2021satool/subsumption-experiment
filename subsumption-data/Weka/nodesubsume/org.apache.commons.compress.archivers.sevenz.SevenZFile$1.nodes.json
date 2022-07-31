@@ -1,0 +1,16 @@
+{
+"Class" : "org.apache.commons.compress.archivers.sevenz.SevenZFile$1", 
+"Methods" : [{ "Name" : "read" ,
+"Nodes" : 4,
+"0" : [ 1125,1126 ]
+"1" : [ 1129 ]
+"2" : [ 1127 ]
+"3" : [  ]
+},{ "Name" : "read" ,
+"Nodes" : 4,
+"0" : [ 1137,1138 ]
+"1" : [ 1141 ]
+"2" : [ 1139 ]
+"3" : [  ]
+}]
+}

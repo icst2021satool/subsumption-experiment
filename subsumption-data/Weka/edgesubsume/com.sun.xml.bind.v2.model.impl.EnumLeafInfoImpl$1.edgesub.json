@@ -1,0 +1,13 @@
+{
+"Class" : "com.sun.xml.bind.v2.model.impl.EnumLeafInfoImpl$1", 
+"Methods" : [{ "Name" : "hasNext" ,
+"Edges" : 5,
+"1" : [ 0, 2],
+"2" : [ 1, 3],
+"0" : [ 1, 3],
+"3" : [ 0, 2],
+"4" : [ ],
+"CoveredDUAsByEdges" : 4,
+"Duas" : 4
+}]
+}

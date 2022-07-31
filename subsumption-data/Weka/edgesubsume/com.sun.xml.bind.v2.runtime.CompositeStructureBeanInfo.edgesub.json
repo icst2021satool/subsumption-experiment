@@ -1,0 +1,13 @@
+{
+"Class" : "com.sun.xml.bind.v2.runtime.CompositeStructureBeanInfo", 
+"Methods" : [{ "Name" : "serializeBody" ,
+"Edges" : 5,
+"4" : [ ],
+"2" : [ 0, 1, 2, 3, 4, 5, 7, 9, 10, 11],
+"3" : [ 6],
+"1" : [ 6],
+"0" : [ 0, 1, 2, 3, 4, 5, 7, 9, 10, 11],
+"CoveredDUAsByEdges" : 11,
+"Duas" : 17
+}]
+}

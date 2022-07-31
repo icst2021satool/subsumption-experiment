@@ -1,0 +1,31 @@
+{
+"Class" : "weka.classifiers.functions.neural.LinearUnit", 
+"Methods" : [{ "Name" : "outputValue" ,
+"Edges" : 5,
+"3" : [ ],
+"0" : [ 0, 2, 3, 5, 6, 8, 9],
+"1" : [ 1],
+"2" : [ 1],
+"4" : [ 0, 2, 3, 5, 6, 8, 9],
+"CoveredDUAsByEdges" : 8,
+"Duas" : 16
+},{ "Name" : "errorValue" ,
+"Edges" : 5,
+"3" : [ ],
+"1" : [ 0, 2, 3, 5, 6, 8, 9],
+"2" : [ 1],
+"4" : [ 1],
+"0" : [ 0, 2, 3, 5, 6, 8, 9],
+"CoveredDUAsByEdges" : 8,
+"Duas" : 16
+},{ "Name" : "updateWeights" ,
+"Edges" : 5,
+"4" : [ ],
+"2" : [ 0, 1, 2, 3, 4, 5, 6, 8, 10, 11, 12, 13, 14],
+"3" : [ 7],
+"0" : [ 7],
+"1" : [ 0, 1, 2, 3, 4, 5, 6, 8, 10, 11, 12, 13, 14],
+"CoveredDUAsByEdges" : 14,
+"Duas" : 22
+}]
+}

@@ -1,0 +1,19 @@
+{
+"Class" : "weka.knowledgeflow.steps.WekaAlgorithmWrapper", 
+"Methods" : [{ "Name" : "globalInfo" ,
+"Nodes" : 4,
+"0" : [ 68 ]
+"1" : [ 71 ]
+"2" : [ 69 ]
+"3" : [  ]
+},{ "Name" : "setWrappedAlgorithm" ,
+"Nodes" : 7,
+"0" : [ 100,101,91,93,94,95 ]
+"1" : [ 103 ]
+"2" : [ 106,107,108 ]
+"3" : [ 101 ]
+"4" : [ 101 ]
+"5" : [ 101,102 ]
+"6" : [  ]
+}]
+}

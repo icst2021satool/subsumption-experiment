@@ -1,0 +1,14 @@
+{
+"Class" : "weka.gui.knowledgeflow.MainKFPerspectiveToolBar$31", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Edges" : 6,
+"2" : [ 0, 5],
+"3" : [ 1, 6],
+"4" : [ 0, 2, 4, 5, 7, 9, 10, 12],
+"5" : [ 3, 8, 11],
+"0" : [ 0, 2, 4, 5, 7, 9, 10, 12],
+"1" : [ ],
+"CoveredDUAsByEdges" : 13,
+"Duas" : 13
+}]
+}

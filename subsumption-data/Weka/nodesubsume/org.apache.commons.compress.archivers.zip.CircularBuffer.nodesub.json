@@ -1,0 +1,30 @@
+{
+"Class" : "org.apache.commons.compress.archivers.zip.CircularBuffer", 
+"Methods" : [{ "Name" : "available" ,
+"Nodes" : 5,
+"0" : [ ],
+"1" : [ 1, 3, 5],
+"3" : [ 0, 2, 4],
+"2" : [ ],
+"4" : [ ],
+"CoveredDUAsByNodes" : 6,
+"Duas" : 6
+},{ "Name" : "get" ,
+"Nodes" : 4,
+"0" : [ ],
+"1" : [ 1],
+"2" : [ 0, 2, 3, 4, 5, 6, 7],
+"3" : [ ],
+"CoveredDUAsByNodes" : 8,
+"Duas" : 8
+},{ "Name" : "copy" ,
+"Nodes" : 5,
+"0" : [ ],
+"1" : [ ],
+"2" : [ 8],
+"4" : [ 8],
+"3" : [ 0, 1, 2, 3, 4, 5, 6, 7, 9, 11, 12],
+"CoveredDUAsByNodes" : 12,
+"Duas" : 19
+}]
+}

@@ -1,0 +1,12 @@
+{
+"Class" : "weka.gui.FileEnvironmentField$1", 
+"Methods" : [{ "Name" : "propertyChange" ,
+"Edges" : 4,
+"2" : [ 0, 1, 2, 4],
+"3" : [ 3],
+"1" : [ 0, 1, 2, 4],
+"0" : [ ],
+"CoveredDUAsByEdges" : 5,
+"Duas" : 5
+}]
+}

@@ -1,0 +1,8 @@
+{
+"Class" : "weka.gui.PackageManager$ComboBoxEditor", 
+"Methods" : [{ "Name" : "getTableCellEditorComponent" ,
+"Edges" : 5,
+"Duas" : 8,
+"3" : 2, 
+ "4" : 3}]
+}

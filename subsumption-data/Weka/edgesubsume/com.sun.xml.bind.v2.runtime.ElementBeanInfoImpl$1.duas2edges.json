@@ -1,0 +1,12 @@
+{
+"Class" : "com.sun.xml.bind.v2.runtime.ElementBeanInfoImpl$1", 
+"Methods" : [{ "Name" : "serializeBody" ,
+"Edges" : 12,
+"Duas" : 25,
+"2" : 6, 
+ "3" : 7, 
+ "18" : 0, 
+ "19" : 1, 
+ "22" : 3, 
+ "23" : 4}]
+}

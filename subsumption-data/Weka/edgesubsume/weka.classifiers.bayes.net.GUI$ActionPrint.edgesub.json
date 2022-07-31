@@ -1,0 +1,12 @@
+{
+"Class" : "weka.classifiers.bayes.net.GUI$ActionPrint", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Edges" : 4,
+"1" : [ 1, 2, 5, 7],
+"2" : [ 0, 3, 4, 6],
+"3" : [ 0, 1, 2, 3, 4, 5, 7],
+"0" : [ 0, 3, 4],
+"CoveredDUAsByEdges" : 8,
+"Duas" : 8
+}]
+}

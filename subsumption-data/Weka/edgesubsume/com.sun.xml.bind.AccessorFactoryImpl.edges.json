@@ -1,0 +1,27 @@
+{
+"Class" : "com.sun.xml.bind.AccessorFactoryImpl", 
+"Methods" : [{ "Name" : "createFieldAccessor" ,
+"Edges" : 5,
+"0" : [ 0,3 ],
+"1" : [ 0,1 ],
+"2" : [ 1,2 ],
+"3" : [ 2,4 ],
+"4" : [ 3,2 ]
+},{ "Name" : "createFieldAccessor" ,
+"Edges" : 5,
+"0" : [ 3,2 ],
+"1" : [ 0,3 ],
+"2" : [ 0,1 ],
+"3" : [ 2,4 ],
+"4" : [ 1,2 ]
+},{ "Name" : "createPropertyAccessor" ,
+"Edges" : 7,
+"0" : [ 4,5 ],
+"1" : [ 3,5 ],
+"2" : [ 0,4 ],
+"3" : [ 0,1 ],
+"4" : [ 2,5 ],
+"5" : [ 1,3 ],
+"6" : [ 1,2 ]
+}]
+}

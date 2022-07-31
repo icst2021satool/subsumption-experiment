@@ -1,0 +1,26 @@
+{
+"Class" : "weka.classifiers.trees.M5P", 
+"Methods" : [{ "Name" : "listOptions" ,
+"Nodes" : 5,
+"0" : [ ],
+"1" : [ ],
+"2" : [ 1, 3, 4],
+"4" : [ 1, 3, 4],
+"3" : [ 0, 2, 5],
+"CoveredDUAsByNodes" : 6,
+"Duas" : 6
+},{ "Name" : "getOptions" ,
+"Nodes" : 9,
+"0" : [ ],
+"1" : [ ],
+"2" : [ 10],
+"6" : [ 0, 7, 10, 14],
+"3" : [ 10],
+"4" : [ 4, 5, 10],
+"8" : [ 4, 5, 10],
+"5" : [ 3, 6, 10],
+"7" : [ 17, 2, 18, 8, 9, 15],
+"CoveredDUAsByNodes" : 14,
+"Duas" : 29
+}]
+}

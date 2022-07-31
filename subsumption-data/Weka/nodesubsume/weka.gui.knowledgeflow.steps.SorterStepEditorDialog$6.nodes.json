@@ -1,0 +1,14 @@
+{
+"Class" : "weka.gui.knowledgeflow.steps.SorterStepEditorDialog$6", 
+"Methods" : [{ "Name" : "keyReleased" ,
+"Nodes" : 8,
+"0" : [ 267,268,269 ]
+"1" : [ 272,273,274 ]
+"2" : [ 277 ]
+"3" : [ 281 ]
+"4" : [ 278,279 ]
+"5" : [ 275 ]
+"6" : [ 270 ]
+"7" : [  ]
+}]
+}

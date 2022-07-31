@@ -1,0 +1,23 @@
+{
+"Class" : "weka.gui.beans.KnowledgeFlowApp$MainKFPerspective$32", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Edges" : 15,
+"7" : [ ],
+"8" : [ ],
+"3" : [ 1, 3, 5],
+"4" : [ ],
+"13" : [ 1, 3, 5, 6],
+"14" : [ 7],
+"2" : [ 1, 3, 5, 6],
+"9" : [ ],
+"10" : [ ],
+"1" : [ ],
+"5" : [ 0, 2, 4],
+"6" : [ ],
+"0" : [ 0, 2, 4],
+"12" : [ ],
+"11" : [ ],
+"CoveredDUAsByEdges" : 8,
+"Duas" : 12
+}]
+}

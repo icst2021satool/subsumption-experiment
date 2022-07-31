@@ -1,0 +1,10 @@
+{
+"Class" : "weka.associations.AssociationRules", 
+"Methods" : [{ "Name" : "<init>" ,
+"Edges" : 7,
+"Duas" : 14,
+"3" : 3, 
+ "4" : 4, 
+ "6" : 1, 
+ "7" : 2}]
+}

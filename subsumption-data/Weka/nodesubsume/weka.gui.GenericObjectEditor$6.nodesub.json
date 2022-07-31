@@ -1,0 +1,15 @@
+{
+"Class" : "weka.gui.GenericObjectEditor$6", 
+"Methods" : [{ "Name" : "getToolTipText" ,
+"Nodes" : 7,
+"0" : [ ],
+"1" : [ 1, 2, 4, 5],
+"3" : [ 1, 2, 4, 5, 6, 8],
+"2" : [ 1, 2, 4, 5],
+"4" : [ 1, 2, 4, 5, 6, 8, 9, 11],
+"5" : [ 0, 3],
+"6" : [ ],
+"CoveredDUAsByNodes" : 10,
+"Duas" : 12
+}]
+}

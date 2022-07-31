@@ -1,0 +1,11 @@
+{
+"Class" : "weka.clusterers.RandomizableClusterer", 
+"Methods" : [{ "Name" : "setOptions" ,
+"Edges" : 5,
+"0" : [ 2,4 ],
+"1" : [ 1,2 ],
+"2" : [ 3,2 ],
+"3" : [ 0,3 ],
+"4" : [ 0,1 ]
+}]
+}

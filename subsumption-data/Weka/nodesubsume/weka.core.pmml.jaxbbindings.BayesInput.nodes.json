@@ -1,0 +1,16 @@
+{
+"Class" : "weka.core.pmml.jaxbbindings.BayesInput", 
+"Methods" : [{ "Name" : "getExtension" ,
+"Nodes" : 4,
+"0" : [ 86 ]
+"1" : [ 89 ]
+"2" : [ 87 ]
+"3" : [  ]
+},{ "Name" : "getPairCounts" ,
+"Nodes" : 4,
+"0" : [ 139 ]
+"1" : [ 142 ]
+"2" : [ 140 ]
+"3" : [  ]
+}]
+}

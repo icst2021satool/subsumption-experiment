@@ -1,0 +1,12 @@
+{
+"Class" : "org.apache.commons.compress.utils.Charsets", 
+"Methods" : [{ "Name" : "toCharset" ,
+"Edges" : 5,
+"Duas" : 3,
+"0" : 3, 
+ "1" : 4},{ "Name" : "toCharset" ,
+"Edges" : 5,
+"Duas" : 3,
+"0" : 3, 
+ "1" : 4}]
+}

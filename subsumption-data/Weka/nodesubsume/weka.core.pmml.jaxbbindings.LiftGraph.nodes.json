@@ -1,0 +1,10 @@
+{
+"Class" : "weka.core.pmml.jaxbbindings.LiftGraph", 
+"Methods" : [{ "Name" : "getExtension" ,
+"Nodes" : 4,
+"0" : [ 90 ]
+"1" : [ 93 ]
+"2" : [ 91 ]
+"3" : [  ]
+}]
+}

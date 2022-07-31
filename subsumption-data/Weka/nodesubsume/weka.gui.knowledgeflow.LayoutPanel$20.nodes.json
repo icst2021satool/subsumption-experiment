@@ -1,0 +1,10 @@
+{
+"Class" : "weka.gui.knowledgeflow.LayoutPanel$20", 
+"Methods" : [{ "Name" : "closing" ,
+"Nodes" : 4,
+"0" : [ 1260 ]
+"1" : [ 1263 ]
+"2" : [ 1261 ]
+"3" : [  ]
+}]
+}

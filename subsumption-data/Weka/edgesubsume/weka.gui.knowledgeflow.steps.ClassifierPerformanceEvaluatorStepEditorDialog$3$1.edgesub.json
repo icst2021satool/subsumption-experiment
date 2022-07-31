@@ -1,0 +1,14 @@
+{
+"Class" : "weka.gui.knowledgeflow.steps.ClassifierPerformanceEvaluatorStepEditorDialog$3$1", 
+"Methods" : [{ "Name" : "windowClosing" ,
+"Edges" : 6,
+"1" : [ 0, 17, 5, 10],
+"2" : [ 1, 18, 6, 11],
+"3" : [ 0, 17, 2, 19, 4, 5, 7, 9, 10, 12, 14, 15],
+"4" : [ 16, 3, 8, 13],
+"0" : [ 0, 17, 2, 19, 4, 5, 7, 9, 10, 12, 14, 15],
+"5" : [ ],
+"CoveredDUAsByEdges" : 20,
+"Duas" : 20
+}]
+}

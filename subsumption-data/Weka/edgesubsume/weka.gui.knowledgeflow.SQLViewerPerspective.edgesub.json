@@ -1,0 +1,20 @@
+{
+"Class" : "weka.gui.knowledgeflow.SQLViewerPerspective", 
+"Methods" : [{ "Name" : "setMainApplication" ,
+"Edges" : 4,
+"2" : [ 0, 2, 3, 4],
+"3" : [ 1, 5],
+"1" : [ 0, 2, 3, 4],
+"0" : [ ],
+"CoveredDUAsByEdges" : 6,
+"Duas" : 6
+},{ "Name" : "newFlow" ,
+"Edges" : 4,
+"2" : [ 11],
+"3" : [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 12, 13],
+"1" : [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11],
+"0" : [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+"CoveredDUAsByEdges" : 14,
+"Duas" : 15
+}]
+}

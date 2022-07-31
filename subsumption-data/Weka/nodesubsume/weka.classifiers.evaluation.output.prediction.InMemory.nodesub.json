@@ -1,0 +1,36 @@
+{
+"Class" : "weka.classifiers.evaluation.output.prediction.InMemory", 
+"Methods" : [{ "Name" : "checkHeader" ,
+"Nodes" : 4,
+"0" : [ ],
+"2" : [ 0, 3, 4],
+"1" : [ 2],
+"3" : [ 2],
+"CoveredDUAsByNodes" : 4,
+"Duas" : 6
+},{ "Name" : "attributeValuesToMap" ,
+"Nodes" : 11,
+"0" : [ ],
+"1" : [ ],
+"2" : [ 3, 14],
+"3" : [ 17, 2],
+"5" : [ 0, 17, 2, 12],
+"6" : [ 0, 17, 2, 4, 12],
+"7" : [ 0, 17, 2, 4, 8, 9, 12, 15],
+"8" : [ 0, 16, 17, 2, 4, 7, 10, 12],
+"4" : [ 17, 2, 21],
+"9" : [ 0, 17, 2, 4, 6, 11, 12],
+"10" : [ ],
+"CoveredDUAsByNodes" : 16,
+"Duas" : 43
+},{ "Name" : "doPrintClassification" ,
+"Nodes" : 5,
+"0" : [ ],
+"1" : [ 2, 5, 6, 10],
+"3" : [ 3, 4, 8, 13],
+"2" : [ 0, 1, 7, 9, 11, 12, 14],
+"4" : [ 0, 1, 7, 9, 11, 12, 14],
+"CoveredDUAsByNodes" : 15,
+"Duas" : 15
+}]
+}

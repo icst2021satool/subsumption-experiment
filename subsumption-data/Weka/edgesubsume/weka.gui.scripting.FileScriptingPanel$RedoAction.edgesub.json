@@ -1,0 +1,13 @@
+{
+"Class" : "weka.gui.scripting.FileScriptingPanel$RedoAction", 
+"Methods" : [{ "Name" : "updateRedoState" ,
+"Edges" : 5,
+"3" : [ 0, 4, 5, 6, 8, 9, 11],
+"4" : [ 1, 2, 3, 7, 10],
+"0" : [ 1, 2, 3, 7, 10],
+"1" : [ 0, 4, 5, 6, 8, 9, 11],
+"2" : [ ],
+"CoveredDUAsByEdges" : 12,
+"Duas" : 12
+}]
+}

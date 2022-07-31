@@ -1,0 +1,36 @@
+{
+"Class" : "weka.core.expressionlanguage.common.SimpleVariableDeclarations", 
+"Methods" : [{ "Name" : "getVariable" ,
+"Nodes" : 4,
+"0" : [ ],
+"1" : [ 1, 2, 3, 5, 6, 7, 10, 11, 12, 13],
+"2" : [ 0, 4, 8, 9],
+"3" : [ ],
+"CoveredDUAsByNodes" : 14,
+"Duas" : 14
+},{ "Name" : "addBoolean" ,
+"Nodes" : 4,
+"0" : [ ],
+"1" : [ 1, 2, 4, 5, 6, 9, 10],
+"2" : [ 0, 3, 7, 8],
+"3" : [ ],
+"CoveredDUAsByNodes" : 11,
+"Duas" : 11
+},{ "Name" : "addDouble" ,
+"Nodes" : 4,
+"0" : [ ],
+"1" : [ 1, 2, 4, 5, 6, 9, 10],
+"2" : [ 0, 3, 7, 8],
+"3" : [ ],
+"CoveredDUAsByNodes" : 11,
+"Duas" : 11
+},{ "Name" : "addString" ,
+"Nodes" : 4,
+"0" : [ ],
+"1" : [ 1, 2, 4, 5, 6, 9, 10],
+"2" : [ 0, 3, 7, 8],
+"3" : [ ],
+"CoveredDUAsByNodes" : 11,
+"Duas" : 11
+}]
+}

@@ -1,0 +1,18 @@
+{
+"Class" : "weka.gui.knowledgeflow.ScatterPlotMatrixPerspective", 
+"Methods" : [{ "Name" : "setActive" ,
+"Nodes" : 5,
+"0" : [ 94,95 ]
+"1" : [ 100 ]
+"2" : [ 95 ]
+"3" : [ 96,97,98 ]
+"4" : [  ]
+},{ "Name" : "okToBeActive" ,
+"Nodes" : 5,
+"0" : [ 121 ]
+"1" : [ 121 ]
+"2" : [ 121 ]
+"3" : [ 121 ]
+"4" : [  ]
+}]
+}

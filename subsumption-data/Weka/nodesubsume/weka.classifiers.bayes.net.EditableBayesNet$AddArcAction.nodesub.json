@@ -1,0 +1,31 @@
+{
+"Class" : "weka.classifiers.bayes.net.EditableBayesNet$AddArcAction", 
+"Methods" : [{ "Name" : "<init>" ,
+"Nodes" : 5,
+"0" : [ ],
+"1" : [ ],
+"2" : [ 4],
+"4" : [ 4],
+"3" : [ 0, 1, 2, 3, 5, 6, 7, 8, 9, 11, 12, 13],
+"CoveredDUAsByNodes" : 13,
+"Duas" : 19
+},{ "Name" : "undo" ,
+"Nodes" : 5,
+"0" : [ ],
+"1" : [ ],
+"2" : [ 1, 7],
+"4" : [ 1, 7],
+"3" : [ 0, 2, 3, 4, 5, 6, 8, 9, 10, 11, 12, 13, 14, 16, 17, 18],
+"CoveredDUAsByNodes" : 18,
+"Duas" : 24
+},{ "Name" : "redo" ,
+"Nodes" : 5,
+"0" : [ ],
+"1" : [ ],
+"2" : [ 1, 5],
+"4" : [ 1, 5],
+"3" : [ 0, 2, 3, 4, 6, 7, 8, 9, 11, 12],
+"CoveredDUAsByNodes" : 12,
+"Duas" : 17
+}]
+}

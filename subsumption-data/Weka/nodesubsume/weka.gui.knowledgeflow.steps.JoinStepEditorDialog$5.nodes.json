@@ -1,0 +1,12 @@
+{
+"Class" : "weka.gui.knowledgeflow.steps.JoinStepEditorDialog$5", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Nodes" : 6,
+"0" : [ 292,293 ]
+"1" : [ 297 ]
+"2" : [ 301 ]
+"3" : [ 298,299 ]
+"4" : [ 294 ]
+"5" : [  ]
+}]
+}

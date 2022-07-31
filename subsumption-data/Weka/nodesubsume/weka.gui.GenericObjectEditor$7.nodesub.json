@@ -1,0 +1,12 @@
+{
+"Class" : "weka.gui.GenericObjectEditor$7", 
+"Methods" : [{ "Name" : "windowClosing" ,
+"Nodes" : 4,
+"0" : [ ],
+"2" : [ 1, 4],
+"1" : [ 0, 3],
+"3" : [ 0, 3],
+"CoveredDUAsByNodes" : 4,
+"Duas" : 7
+}]
+}

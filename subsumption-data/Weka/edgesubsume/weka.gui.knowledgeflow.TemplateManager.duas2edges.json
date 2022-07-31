@@ -1,0 +1,16 @@
+{
+"Class" : "weka.gui.knowledgeflow.TemplateManager", 
+"Methods" : [{ "Name" : "getBuiltinTemplateDescriptions" ,
+"Edges" : 7,
+"Duas" : 5,
+"2" : 4, 
+ "3" : 5},{ "Name" : "getPluginTemplateDescriptions" ,
+"Edges" : 7,
+"Duas" : 5,
+"2" : 1, 
+ "3" : 2},{ "Name" : "getTemplateFlow" ,
+"Edges" : 4,
+"Duas" : 6,
+"2" : 2, 
+ "3" : 3}]
+}

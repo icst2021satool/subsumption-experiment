@@ -1,0 +1,10 @@
+{
+"Class" : "weka.gui.experiment.Experimenter$1", 
+"Methods" : [{ "Name" : "propertyChange" ,
+"Nodes" : 4,
+"0" : [ 102,103 ]
+"1" : [ 109 ]
+"2" : [ 104,105,107 ]
+"3" : [  ]
+}]
+}

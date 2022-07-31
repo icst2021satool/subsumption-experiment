@@ -1,0 +1,22 @@
+{
+"Class" : "weka.core.pmml.jaxbbindings.TestDistributions", 
+"Methods" : [{ "Name" : "getExtension" ,
+"Nodes" : 4,
+"0" : [ 150 ]
+"1" : [ 153 ]
+"2" : [ 151 ]
+"3" : [  ]
+},{ "Name" : "getResetValue" ,
+"Nodes" : 4,
+"0" : [ 213 ]
+"1" : [ 216 ]
+"2" : [ 214 ]
+"3" : [  ]
+},{ "Name" : "getWindowSize" ,
+"Nodes" : 4,
+"0" : [ 289 ]
+"1" : [ 292 ]
+"2" : [ 290 ]
+"3" : [  ]
+}]
+}

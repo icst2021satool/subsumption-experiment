@@ -1,0 +1,10 @@
+{
+"Class" : "weka.filters.SimpleFilter", 
+"Methods" : [{ "Name" : "setInputFormat" ,
+"Nodes" : 4,
+"0" : [ 115,117,119 ]
+"1" : [ 123 ]
+"2" : [ 120 ]
+"3" : [  ]
+}]
+}

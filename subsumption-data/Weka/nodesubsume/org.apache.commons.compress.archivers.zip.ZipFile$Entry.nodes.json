@@ -1,0 +1,14 @@
+{
+"Class" : "org.apache.commons.compress.archivers.zip.ZipFile$Entry", 
+"Methods" : [{ "Name" : "equals" ,
+"Nodes" : 8,
+"0" : [ 1347 ]
+"1" : [ 1355 ]
+"2" : [ 1349,1350,1351 ]
+"3" : [ 1353 ]
+"4" : [ 1350 ]
+"5" : [ 1351,1352,1353 ]
+"6" : [ 1353 ]
+"7" : [  ]
+}]
+}

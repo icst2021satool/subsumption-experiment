@@ -1,0 +1,12 @@
+{
+"Class" : "weka.gui.EvaluationMetricSelectionDialog$1", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Edges" : 5,
+"Duas" : 17,
+"6" : 0, 
+ "7" : 1, 
+ "9" : 0, 
+ "10" : 1, 
+ "13" : 0, 
+ "14" : 1}]
+}

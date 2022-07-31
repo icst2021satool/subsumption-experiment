@@ -1,0 +1,12 @@
+{
+"Class" : "weka.gui.FileEditor$1", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Nodes" : 4,
+"0" : [ ],
+"2" : [ 1, 2, 4, 5, 6, 7],
+"1" : [ 0, 3],
+"3" : [ 0, 3],
+"CoveredDUAsByNodes" : 8,
+"Duas" : 9
+}]
+}

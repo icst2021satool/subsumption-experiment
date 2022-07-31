@@ -1,0 +1,20 @@
+{
+"Class" : "com.sun.xml.bind.v2.runtime.output.C14nXmlOutput$DynamicAttribute", 
+"Methods" : [{ "Name" : "getURI" ,
+"Edges" : 4,
+"2" : [ 0, 3],
+"3" : [ 1, 2, 4, 5, 6, 7],
+"1" : [ 1, 2, 4, 5, 6, 7],
+"0" : [ 0, 3],
+"CoveredDUAsByEdges" : 8,
+"Duas" : 8
+},{ "Name" : "compareTo" ,
+"Edges" : 4,
+"2" : [ 4, 6],
+"3" : [ 0, 1, 2, 3, 5],
+"0" : [ 0, 1, 2, 3, 5],
+"1" : [ 4, 6],
+"CoveredDUAsByEdges" : 7,
+"Duas" : 7
+}]
+}

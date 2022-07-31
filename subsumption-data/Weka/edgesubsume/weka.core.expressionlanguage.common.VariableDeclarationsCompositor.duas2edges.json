@@ -1,0 +1,16 @@
+{
+"Class" : "weka.core.expressionlanguage.common.VariableDeclarationsCompositor", 
+"Methods" : [{ "Name" : "hasVariable" ,
+"Edges" : 8,
+"Duas" : 4,
+"0" : 5, 
+ "1" : 6, 
+ "2" : 5, 
+ "3" : 6},{ "Name" : "getVariable" ,
+"Edges" : 8,
+"Duas" : 7,
+"1" : 6, 
+ "2" : 7, 
+ "4" : 6, 
+ "5" : 7}]
+}

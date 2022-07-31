@@ -1,0 +1,10 @@
+{
+"Class" : "com.sun.xml.bind.v2.model.impl.RuntimeEnumLeafInfoImpl", 
+"Methods" : [{ "Name" : "parse" ,
+"Edges" : 4,
+"Duas" : 9,
+"0" : 0, 
+ "1" : 1, 
+ "3" : 0, 
+ "4" : 1}]
+}

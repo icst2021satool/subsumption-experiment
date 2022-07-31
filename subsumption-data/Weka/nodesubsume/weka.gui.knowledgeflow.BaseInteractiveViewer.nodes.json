@@ -1,0 +1,16 @@
+{
+"Class" : "weka.gui.knowledgeflow.BaseInteractiveViewer", 
+"Methods" : [{ "Name" : "<init>" ,
+"Nodes" : 4,
+"0" : [ 81,66,82,83,85,91,93,78,63,79 ]
+"1" : [ 114 ]
+"2" : [ 112,94,95 ]
+"3" : [  ]
+},{ "Name" : "close" ,
+"Nodes" : 4,
+"0" : [ 217 ]
+"1" : [ 220,221 ]
+"2" : [ 218 ]
+"3" : [  ]
+}]
+}

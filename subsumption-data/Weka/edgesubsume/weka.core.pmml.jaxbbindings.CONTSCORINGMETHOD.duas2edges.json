@@ -1,0 +1,12 @@
+{
+"Class" : "weka.core.pmml.jaxbbindings.CONTSCORINGMETHOD", 
+"Methods" : [{ "Name" : "fromValue" ,
+"Edges" : 8,
+"Duas" : 8,
+"1" : 4, 
+ "2" : 5, 
+ "3" : 4, 
+ "4" : 5, 
+ "6" : 4, 
+ "7" : 5}]
+}

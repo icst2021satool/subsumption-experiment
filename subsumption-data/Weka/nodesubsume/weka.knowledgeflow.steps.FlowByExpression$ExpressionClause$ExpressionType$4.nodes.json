@@ -1,0 +1,21 @@
+{
+"Class" : "weka.knowledgeflow.steps.FlowByExpression$ExpressionClause$ExpressionType$4", 
+"Methods" : [{ "Name" : "evaluate" ,
+"Nodes" : 15,
+"0" : [ 857 ]
+"1" : [ 864 ]
+"2" : [ 867 ]
+"3" : [ 867 ]
+"4" : [ 867 ]
+"5" : [ 867 ]
+"6" : [ 865 ]
+"7" : [ 858 ]
+"8" : [ 859 ]
+"9" : [ 858 ]
+"10" : [ 861 ]
+"11" : [ 861 ]
+"12" : [ 861 ]
+"13" : [ 861 ]
+"14" : [  ]
+}]
+}

@@ -1,0 +1,12 @@
+{
+"Class" : "weka.core.Debug$SimpleLog", 
+"Methods" : [{ "Name" : "log" ,
+"Edges" : 4,
+"0" : [ 0, 2, 5],
+"1" : [ 1, 3, 4],
+"2" : [ 0, 2, 3, 4, 5],
+"3" : [ 3, 4],
+"CoveredDUAsByEdges" : 6,
+"Duas" : 6
+}]
+}

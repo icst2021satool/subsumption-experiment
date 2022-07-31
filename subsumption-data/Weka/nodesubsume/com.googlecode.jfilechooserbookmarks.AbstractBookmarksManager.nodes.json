@@ -1,0 +1,24 @@
+{
+"Class" : "com.googlecode.jfilechooserbookmarks.AbstractBookmarksManager", 
+"Methods" : [{ "Name" : "load" ,
+"Nodes" : 5,
+"0" : [ 80,81,83,79 ]
+"1" : [ 83 ]
+"2" : [ 90 ]
+"3" : [ 83,84,85,86,87 ]
+"4" : [  ]
+},{ "Name" : "save" ,
+"Nodes" : 5,
+"0" : [ 105,106,107,109 ]
+"1" : [ 109 ]
+"2" : [ 115,116,118 ]
+"3" : [ 112,109,110,111 ]
+"4" : [  ]
+},{ "Name" : "getProperties" ,
+"Nodes" : 4,
+"0" : [ 127 ]
+"1" : [ 130 ]
+"2" : [ 128 ]
+"3" : [  ]
+}]
+}

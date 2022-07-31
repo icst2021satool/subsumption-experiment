@@ -1,0 +1,14 @@
+{
+"Class" : "weka.gui.knowledgeflow.KnowledgeFlowApp$KnowledgeFlowGeneralDefaults", 
+"Methods" : [{ "Name" : "<init>" ,
+"Nodes" : 8,
+"0" : [ 226,228,229,230,231,232,233,235,236,237,238,240,241 ]
+"1" : [ 248,249,250 ]
+"2" : [ 242 ]
+"3" : [ 242 ]
+"4" : [ 242,243 ]
+"5" : [ 246 ]
+"6" : [ 244 ]
+"7" : [  ]
+}]
+}

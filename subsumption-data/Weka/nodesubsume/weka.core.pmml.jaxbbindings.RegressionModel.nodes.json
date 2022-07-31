@@ -1,0 +1,28 @@
+{
+"Class" : "weka.core.pmml.jaxbbindings.RegressionModel", 
+"Methods" : [{ "Name" : "getContent" ,
+"Nodes" : 4,
+"0" : [ 142 ]
+"1" : [ 145 ]
+"2" : [ 143 ]
+"3" : [  ]
+},{ "Name" : "addContent" ,
+"Nodes" : 4,
+"0" : [ 149 ]
+"1" : [ 152,153 ]
+"2" : [ 150 ]
+"3" : [  ]
+},{ "Name" : "isIsScorable" ,
+"Nodes" : 4,
+"0" : [ 212 ]
+"1" : [ 215 ]
+"2" : [ 213 ]
+"3" : [  ]
+},{ "Name" : "getNormalizationMethod" ,
+"Nodes" : 4,
+"0" : [ 288 ]
+"1" : [ 291 ]
+"2" : [ 289 ]
+"3" : [  ]
+}]
+}

@@ -1,0 +1,10 @@
+{
+"Class" : "weka.core.Attribute$1", 
+"Methods" : [{ "Name" : "nextElement" ,
+"Nodes" : 4,
+"0" : [ 384,383 ]
+"1" : [ 387 ]
+"2" : [ 385 ]
+"3" : [  ]
+}]
+}

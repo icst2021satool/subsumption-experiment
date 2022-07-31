@@ -1,0 +1,13 @@
+{
+"Class" : "weka.associations.FPGrowth$FPTreeRoot", 
+"Methods" : [{ "Name" : "isEmpty" ,
+"Edges" : 8,
+"Duas" : 4,
+"0" : 0, 
+ "1" : 1, 
+ "2" : 0, 
+ "3" : 1},{ "Name" : "toString" ,
+"Edges" : 5,
+"Duas" : 4,
+}]
+}

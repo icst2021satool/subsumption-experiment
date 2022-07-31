@@ -1,0 +1,14 @@
+{
+"Class" : "weka.classifiers.evaluation.NumericPrediction", 
+"Methods" : [{ "Name" : "error" ,
+"Edges" : 6,
+"4" : [ 0, 5, 8],
+"5" : [ 1, 6, 9, 10],
+"0" : [ 2, 10, 11, 13],
+"1" : [ 0, 3, 4, 5, 7, 8, 12, 14, 15],
+"2" : [ 0, 3, 4, 5, 7, 8, 12, 14, 15],
+"3" : [ 10],
+"CoveredDUAsByEdges" : 16,
+"Duas" : 16
+}]
+}

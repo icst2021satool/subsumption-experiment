@@ -1,0 +1,16 @@
+{
+"Class" : "com.sun.xml.bind.v2.runtime.reflect.AdaptedAccessor", 
+"Methods" : [{ "Name" : "set" ,
+"Edges" : 5,
+"Duas" : 7,
+"2" : 1, 
+ "3" : 2},{ "Name" : "getAdapter" ,
+"Edges" : 7,
+"Duas" : 16,
+"2" : 2, 
+ "3" : 3, 
+ "9" : 2, 
+ "10" : 3, 
+ "12" : 5, 
+ "13" : 6}]
+}

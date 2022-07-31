@@ -1,0 +1,13 @@
+{
+"Class" : "weka.gui.BrowserHelper$1", 
+"Methods" : [{ "Name" : "mouseClicked" ,
+"Edges" : 5,
+"3" : [ 1, 2, 5],
+"4" : [ 0, 3, 4],
+"0" : [ 0, 3, 4],
+"1" : [ 1, 2, 5],
+"2" : [ ],
+"CoveredDUAsByEdges" : 6,
+"Duas" : 6
+}]
+}

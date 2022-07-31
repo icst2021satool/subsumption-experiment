@@ -1,0 +1,14 @@
+{
+"Class" : "weka.gui.knowledgeflow.BaseInteractiveViewer", 
+"Methods" : [{ "Name" : "<init>" ,
+"Edges" : 4,
+"Duas" : 4,
+"0" : 0, 
+ "1" : 1},{ "Name" : "close" ,
+"Edges" : 4,
+"Duas" : 7,
+"0" : 0, 
+ "1" : 1, 
+ "4" : 0, 
+ "5" : 1}]
+}

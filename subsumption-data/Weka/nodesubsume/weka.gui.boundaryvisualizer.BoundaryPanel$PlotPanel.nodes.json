@@ -1,0 +1,21 @@
+{
+"Class" : "weka.gui.boundaryvisualizer.BoundaryPanel$PlotPanel", 
+"Methods" : [{ "Name" : "paintComponent" ,
+"Nodes" : 4,
+"0" : [ 150,151 ]
+"1" : [ 154 ]
+"2" : [ 152 ]
+"3" : [  ]
+},{ "Name" : "getToolTipText" ,
+"Nodes" : 9,
+"0" : [ 158 ]
+"1" : [ 162 ]
+"2" : [ 166,167,168,170 ]
+"3" : [ 170 ]
+"4" : [ 175 ]
+"5" : [ 170,171,172 ]
+"6" : [ 163 ]
+"7" : [ 159 ]
+"8" : [  ]
+}]
+}

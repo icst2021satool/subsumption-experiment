@@ -1,0 +1,9 @@
+{
+"Class" : "weka.gui.beans.KnowledgeFlowApp$33", 
+"Methods" : [{ "Name" : "run" ,
+"Nodes" : 3,
+"0" : [ 7068 ]
+"1" : [ 7072,7075,7076,7077,7078,7070,7071 ]
+"2" : [  ]
+}]
+}

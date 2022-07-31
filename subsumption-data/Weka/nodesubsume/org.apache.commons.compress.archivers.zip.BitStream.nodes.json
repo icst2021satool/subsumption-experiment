@@ -1,0 +1,11 @@
+{
+"Class" : "org.apache.commons.compress.archivers.zip.BitStream", 
+"Methods" : [{ "Name" : "nextBits" ,
+"Nodes" : 5,
+"0" : [ 55 ]
+"1" : [ 56 ]
+"2" : [ 55 ]
+"3" : [ 58 ]
+"4" : [  ]
+}]
+}

@@ -1,0 +1,13 @@
+{
+"Class" : "weka.classifiers.pmml.consumer.NeuralNetwork$NeuralInput", 
+"Methods" : [{ "Name" : "<init>" ,
+"Nodes" : 7,
+"0" : [ 81,82,72,78,79 ]
+"1" : [ 86,87,88,89 ]
+"2" : [ 89 ]
+"3" : [ 92,93 ]
+"4" : [ 89,90 ]
+"5" : [ 83 ]
+"6" : [  ]
+}]
+}

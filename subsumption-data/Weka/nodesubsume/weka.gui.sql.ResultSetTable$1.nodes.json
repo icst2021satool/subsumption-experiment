@@ -1,0 +1,12 @@
+{
+"Class" : "weka.gui.sql.ResultSetTable$1", 
+"Methods" : [{ "Name" : "mouseClicked" ,
+"Nodes" : 6,
+"0" : [ 86,87,88,89 ]
+"1" : [ 93 ]
+"2" : [ 89,90 ]
+"3" : [ 90 ]
+"4" : [ 92 ]
+"5" : [  ]
+}]
+}

@@ -1,0 +1,20 @@
+{
+"Class" : "weka.gui.Loader", 
+"Methods" : [{ "Name" : "processFilename" ,
+"Edges" : 4,
+"1" : [ 0, 2, 3, 6],
+"2" : [ 1, 4, 5],
+"3" : [ 0, 2, 3, 6],
+"0" : [ ],
+"CoveredDUAsByEdges" : 7,
+"Duas" : 8
+},{ "Name" : "getReader" ,
+"Edges" : 4,
+"1" : [ 0],
+"2" : [ 1, 2],
+"3" : [ 1, 2],
+"0" : [ 0],
+"CoveredDUAsByEdges" : 3,
+"Duas" : 3
+}]
+}

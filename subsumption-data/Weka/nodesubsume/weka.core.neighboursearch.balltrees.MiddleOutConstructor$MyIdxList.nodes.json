@@ -1,0 +1,23 @@
+{
+"Class" : "weka.core.neighboursearch.balltrees.MiddleOutConstructor$MyIdxList", 
+"Methods" : [{ "Name" : "insertReverseSorted" ,
+"Nodes" : 7,
+"0" : [ 1166,1167 ]
+"1" : [ 1167 ]
+"2" : [ 1173,1174 ]
+"3" : [ 1168,1167 ]
+"4" : [ 1171,1172 ]
+"5" : [ 1169 ]
+"6" : [  ]
+},{ "Name" : "checkSorting" ,
+"Nodes" : 8,
+"0" : [ 1234,1235 ]
+"1" : [ 1236 ]
+"2" : [ 1248 ]
+"3" : [ 1237 ]
+"4" : [ 1240,1241 ]
+"5" : [ 1242 ]
+"6" : [ 1238 ]
+"7" : [  ]
+}]
+}

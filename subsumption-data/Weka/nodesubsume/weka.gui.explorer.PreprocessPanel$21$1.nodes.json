@@ -1,0 +1,12 @@
+{
+"Class" : "weka.gui.explorer.PreprocessPanel$21$1", 
+"Methods" : [{ "Name" : "tableChanged" ,
+"Nodes" : 6,
+"0" : [ 697 ]
+"1" : [ 701 ]
+"2" : [ 703 ]
+"3" : [ 697,698 ]
+"4" : [ 699 ]
+"5" : [  ]
+}]
+}

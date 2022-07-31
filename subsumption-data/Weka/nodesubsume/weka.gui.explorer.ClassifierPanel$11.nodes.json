@@ -1,0 +1,13 @@
+{
+"Class" : "weka.gui.explorer.ClassifierPanel$11", 
+"Methods" : [{ "Name" : "mouseClicked" ,
+"Nodes" : 7,
+"0" : [ 600 ]
+"1" : [ 602,603 ]
+"2" : [ 609 ]
+"3" : [ 612 ]
+"4" : [ 608,604,605,607 ]
+"5" : [ 600,601 ]
+"6" : [  ]
+}]
+}

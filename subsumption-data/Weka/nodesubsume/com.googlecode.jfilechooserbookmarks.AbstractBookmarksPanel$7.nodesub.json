@@ -1,0 +1,12 @@
+{
+"Class" : "com.googlecode.jfilechooserbookmarks.AbstractBookmarksPanel$7", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Nodes" : 4,
+"0" : [ ],
+"2" : [ 0, 3, 4, 7, 8, 10],
+"1" : [ 2, 6, 11],
+"3" : [ 2, 6, 11],
+"CoveredDUAsByNodes" : 9,
+"Duas" : 12
+}]
+}

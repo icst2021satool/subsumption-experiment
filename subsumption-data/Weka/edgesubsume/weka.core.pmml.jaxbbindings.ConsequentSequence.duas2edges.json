@@ -1,0 +1,10 @@
+{
+"Class" : "weka.core.pmml.jaxbbindings.ConsequentSequence", 
+"Methods" : [{ "Name" : "getExtension" ,
+"Edges" : 4,
+"Duas" : 8,
+"0" : 0, 
+ "1" : 1, 
+ "4" : 0, 
+ "5" : 1}]
+}

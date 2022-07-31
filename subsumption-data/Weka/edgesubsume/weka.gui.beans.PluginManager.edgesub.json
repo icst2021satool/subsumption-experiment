@@ -1,0 +1,13 @@
+{
+"Class" : "weka.gui.beans.PluginManager", 
+"Methods" : [{ "Name" : "removePlugins" ,
+"Edges" : 5,
+"3" : [ ],
+"0" : [ 0, 1],
+"1" : [ ],
+"2" : [ ],
+"4" : [ 0, 1],
+"CoveredDUAsByEdges" : 2,
+"Duas" : 2
+}]
+}

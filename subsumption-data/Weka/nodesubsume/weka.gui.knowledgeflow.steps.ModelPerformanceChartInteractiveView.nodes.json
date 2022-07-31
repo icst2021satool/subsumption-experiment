@@ -1,0 +1,13 @@
+{
+"Class" : "weka.gui.knowledgeflow.steps.ModelPerformanceChartInteractiveView", 
+"Methods" : [{ "Name" : "init" ,
+"Nodes" : 7,
+"0" : [ 91,76,77,93,79,95 ]
+"1" : [ 95 ]
+"2" : [ 99 ]
+"3" : [ 105,106,107,108 ]
+"4" : [ 100,101 ]
+"5" : [ 96,95 ]
+"6" : [  ]
+}]
+}

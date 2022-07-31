@@ -1,0 +1,8 @@
+{
+"Class" : "com.sun.xml.bind.v2.model.impl.ElementInfoImpl$PropertyImpl", 
+"Methods" : [{ "Name" : "getDefaultValue" ,
+"Edges" : 4,
+"Duas" : 3,
+"0" : 1, 
+ "1" : 2}]
+}

@@ -1,0 +1,16 @@
+{
+"Class" : "weka.gui.scripting.Script$ScriptThread", 
+"Methods" : [{ "Name" : "run" ,
+"Nodes" : 4,
+"0" : [ 113,115,118,119 ]
+"1" : [ 128,129,127 ]
+"2" : [ 120 ]
+"3" : [  ]
+},{ "Name" : "stopScript" ,
+"Nodes" : 4,
+"0" : [ 136 ]
+"1" : [ 144 ]
+"2" : [ 137,139,142 ]
+"3" : [  ]
+}]
+}

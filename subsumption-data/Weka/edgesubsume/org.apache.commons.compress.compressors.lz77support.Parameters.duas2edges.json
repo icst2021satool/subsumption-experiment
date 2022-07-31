@@ -1,0 +1,8 @@
+{
+"Class" : "org.apache.commons.compress.compressors.lz77support.Parameters", 
+"Methods" : [{ "Name" : "isPowerOfTwo" ,
+"Edges" : 5,
+"Duas" : 2,
+"0" : 3, 
+ "1" : 4}]
+}

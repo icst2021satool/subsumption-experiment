@@ -1,0 +1,15 @@
+{
+"Class" : "weka.core.SerializedObject$2", 
+"Methods" : [{ "Name" : "resolveClass" ,
+"Nodes" : 7,
+"0" : [ ],
+"5" : [ 1, 4, 6, 9],
+"1" : [ 2, 8],
+"3" : [ 0, 2, 3, 8, 10],
+"2" : [ 2, 8],
+"4" : [ 0, 2, 3, 5, 8, 10, 13],
+"6" : [ 2, 8],
+"CoveredDUAsByNodes" : 11,
+"Duas" : 16
+}]
+}

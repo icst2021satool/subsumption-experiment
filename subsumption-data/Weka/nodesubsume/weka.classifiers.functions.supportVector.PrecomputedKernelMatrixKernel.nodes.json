@@ -1,0 +1,26 @@
+{
+"Class" : "weka.classifiers.functions.supportVector.PrecomputedKernelMatrixKernel", 
+"Methods" : [{ "Name" : "setOptions" ,
+"Nodes" : 5,
+"0" : [ 160,161 ]
+"1" : [ 164 ]
+"2" : [ 167,168 ]
+"3" : [ 162 ]
+"4" : [  ]
+},{ "Name" : "eval" ,
+"Nodes" : 7,
+"0" : [ 199 ]
+"1" : [ 203,204 ]
+"2" : [ 207 ]
+"3" : [ 209,210 ]
+"4" : [ 205 ]
+"5" : [ 200 ]
+"6" : [  ]
+},{ "Name" : "initVars" ,
+"Nodes" : 4,
+"0" : [ 220,223 ]
+"1" : [ 229,230,232 ]
+"2" : [ 224 ]
+"3" : [  ]
+}]
+}

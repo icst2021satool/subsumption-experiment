@@ -1,0 +1,10 @@
+{
+"Class" : "weka.gui.knowledgeflow.MainKFPerspective$2", 
+"Methods" : [{ "Name" : "tabClosing" ,
+"Edges" : 4,
+"Duas" : 7,
+"0" : 0, 
+ "1" : 1, 
+ "4" : 0, 
+ "5" : 1}]
+}

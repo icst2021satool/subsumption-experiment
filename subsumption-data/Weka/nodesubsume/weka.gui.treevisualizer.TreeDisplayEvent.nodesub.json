@@ -1,0 +1,16 @@
+{
+"Class" : "weka.gui.treevisualizer.TreeDisplayEvent", 
+"Methods" : [{ "Name" : "<init>" ,
+"Nodes" : 8,
+"0" : [ ],
+"3" : [ 2],
+"4" : [ 2, 5],
+"5" : [ 2, 5, 7],
+"6" : [ 2, 5, 7, 9],
+"1" : [ 0, 4],
+"2" : [ 1, 13],
+"7" : [ 1, 13],
+"CoveredDUAsByNodes" : 8,
+"Duas" : 14
+}]
+}

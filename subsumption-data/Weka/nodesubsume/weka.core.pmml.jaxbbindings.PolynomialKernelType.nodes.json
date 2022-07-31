@@ -1,0 +1,28 @@
+{
+"Class" : "weka.core.pmml.jaxbbindings.PolynomialKernelType", 
+"Methods" : [{ "Name" : "getExtension" ,
+"Nodes" : 4,
+"0" : [ 87 ]
+"1" : [ 90 ]
+"2" : [ 88 ]
+"3" : [  ]
+},{ "Name" : "getCoef0" ,
+"Nodes" : 4,
+"0" : [ 102 ]
+"1" : [ 105 ]
+"2" : [ 103 ]
+"3" : [  ]
+},{ "Name" : "getDegree" ,
+"Nodes" : 4,
+"0" : [ 130 ]
+"1" : [ 133 ]
+"2" : [ 131 ]
+"3" : [  ]
+},{ "Name" : "getGamma" ,
+"Nodes" : 4,
+"0" : [ 182 ]
+"1" : [ 185 ]
+"2" : [ 183 ]
+"3" : [  ]
+}]
+}

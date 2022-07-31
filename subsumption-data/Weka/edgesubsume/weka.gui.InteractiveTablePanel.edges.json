@@ -1,0 +1,17 @@
+{
+"Class" : "weka.gui.InteractiveTablePanel", 
+"Methods" : [{ "Name" : "initComponent" ,
+"Edges" : 4,
+"0" : [ 2,1 ],
+"1" : [ 1,3 ],
+"2" : [ 0,2 ],
+"3" : [ 0,1 ]
+},{ "Name" : "highlightLastRow" ,
+"Edges" : 5,
+"0" : [ 3,2 ],
+"1" : [ 0,3 ],
+"2" : [ 0,1 ],
+"3" : [ 2,4 ],
+"4" : [ 1,2 ]
+}]
+}

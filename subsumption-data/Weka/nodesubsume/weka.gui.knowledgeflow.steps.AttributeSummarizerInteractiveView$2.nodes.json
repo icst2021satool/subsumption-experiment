@@ -1,0 +1,11 @@
+{
+"Class" : "weka.gui.knowledgeflow.steps.AttributeSummarizerInteractiveView$2", 
+"Methods" : [{ "Name" : "mouseClicked" ,
+"Nodes" : 5,
+"0" : [ 122,123 ]
+"1" : [ 134 ]
+"2" : [ 124,126,127 ]
+"3" : [ 128,129,130,131 ]
+"4" : [  ]
+}]
+}

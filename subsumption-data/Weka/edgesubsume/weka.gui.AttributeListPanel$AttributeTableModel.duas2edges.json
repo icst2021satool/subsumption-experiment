@@ -1,0 +1,14 @@
+{
+"Class" : "weka.gui.AttributeListPanel$AttributeTableModel", 
+"Methods" : [{ "Name" : "getValueAt" ,
+"Edges" : 6,
+"Duas" : 7,
+"3" : 2, 
+ "4" : 3, 
+ "5" : 4},{ "Name" : "getColumnName" ,
+"Edges" : 6,
+"Duas" : 3,
+"0" : 0, 
+ "1" : 1, 
+ "2" : 2}]
+}

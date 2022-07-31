@@ -1,0 +1,14 @@
+{
+"Class" : "com.sun.xml.bind.v2.model.core.Ref", 
+"Methods" : [{ "Name" : "<init>" ,
+"Edges" : 4,
+"Duas" : 9,
+"3" : 1, 
+ "4" : 2},{ "Name" : "<init>" ,
+"Edges" : 8,
+"Duas" : 14,
+"6" : 3, 
+ "7" : 4, 
+ "9" : 1, 
+ "10" : 2}]
+}

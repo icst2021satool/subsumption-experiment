@@ -1,0 +1,18 @@
+{
+"Class" : "com.sun.xml.bind.v2.runtime.output.MTOMXmlOutput", 
+"Methods" : [{ "Name" : "text" ,
+"Edges" : 12,
+"Duas" : 41,
+"1" : 6, 
+ "2" : 7, 
+ "12" : 10, 
+ "13" : 11, 
+ "17" : 6, 
+ "18" : 7, 
+ "31" : 8, 
+ "32" : 9, 
+ "35" : 0, 
+ "36" : 1, 
+ "38" : 0, 
+ "39" : 1}]
+}

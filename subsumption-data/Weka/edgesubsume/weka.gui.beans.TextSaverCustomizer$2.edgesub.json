@@ -1,0 +1,12 @@
+{
+"Class" : "weka.gui.beans.TextSaverCustomizer$2", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Edges" : 4,
+"2" : [ 0, 2, 3, 5],
+"3" : [ 1, 4],
+"1" : [ 0, 2, 3, 5],
+"0" : [ ],
+"CoveredDUAsByEdges" : 6,
+"Duas" : 6
+}]
+}

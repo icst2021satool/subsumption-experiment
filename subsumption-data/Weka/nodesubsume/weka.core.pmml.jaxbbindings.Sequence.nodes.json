@@ -1,0 +1,16 @@
+{
+"Class" : "weka.core.pmml.jaxbbindings.Sequence", 
+"Methods" : [{ "Name" : "getExtension" ,
+"Nodes" : 4,
+"0" : [ 108 ]
+"1" : [ 111 ]
+"2" : [ 109 ]
+"3" : [  ]
+},{ "Name" : "getExtensionAndDelimiterAndTime" ,
+"Nodes" : 4,
+"0" : [ 164 ]
+"1" : [ 167 ]
+"2" : [ 165 ]
+"3" : [  ]
+}]
+}

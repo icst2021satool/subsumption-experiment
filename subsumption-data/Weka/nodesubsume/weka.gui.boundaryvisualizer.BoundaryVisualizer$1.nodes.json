@@ -1,0 +1,10 @@
+{
+"Class" : "weka.gui.boundaryvisualizer.BoundaryVisualizer$1", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Nodes" : 4,
+"0" : [ 403 ]
+"1" : [ 415 ]
+"2" : [ 405,406,407,410,413 ]
+"3" : [  ]
+}]
+}

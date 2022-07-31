@@ -1,0 +1,12 @@
+{
+"Class" : "weka.gui.visualize.VisualizePanel$2", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Nodes" : 6,
+"0" : [ 1893,1894 ]
+"1" : [ 1897,1900 ]
+"2" : [ 1903 ]
+"3" : [ 1901 ]
+"4" : [ 1895 ]
+"5" : [  ]
+}]
+}

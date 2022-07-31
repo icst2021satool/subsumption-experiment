@@ -1,0 +1,21 @@
+{
+"Class" : "com.googlecode.jfilechooserbookmarks.AbstractPropertiesHandler", 
+"Methods" : [{ "Name" : "saveProperties" ,
+"Nodes" : 6,
+"0" : [ 65,66,60,61,62 ]
+"1" : [ 68,69,70,71,79 ]
+"2" : [ 84,87 ]
+"3" : [ 80 ]
+"4" : [ 67 ]
+"5" : [  ]
+},{ "Name" : "loadProperties" ,
+"Nodes" : 7,
+"0" : [ 101,102,103,106,107 ]
+"1" : [ 118 ]
+"2" : [ 123,126 ]
+"3" : [ 119 ]
+"4" : [ 107 ]
+"5" : [ 108,109 ]
+"6" : [  ]
+}]
+}

@@ -1,0 +1,18 @@
+{
+"Class" : "com.sun.xml.bind.v2.model.impl.RuntimeReferencePropertyInfoImpl", 
+"Methods" : [{ "Name" : "<init>" ,
+"Nodes" : 5,
+"0" : [ 32,33,31 ]
+"1" : [ 37,38 ]
+"2" : [ 33 ]
+"3" : [ 36 ]
+"4" : [  ]
+},{ "Name" : "elementOnlyContent" ,
+"Nodes" : 5,
+"0" : [ 53 ]
+"1" : [ 53 ]
+"2" : [ 53 ]
+"3" : [ 53 ]
+"4" : [  ]
+}]
+}

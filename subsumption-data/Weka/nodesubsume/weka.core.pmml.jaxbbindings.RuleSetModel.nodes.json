@@ -1,0 +1,16 @@
+{
+"Class" : "weka.core.pmml.jaxbbindings.RuleSetModel", 
+"Methods" : [{ "Name" : "getContent" ,
+"Nodes" : 4,
+"0" : [ 125 ]
+"1" : [ 128 ]
+"2" : [ 126 ]
+"3" : [  ]
+},{ "Name" : "isIsScorable" ,
+"Nodes" : 4,
+"0" : [ 188 ]
+"1" : [ 191 ]
+"2" : [ 189 ]
+"3" : [  ]
+}]
+}

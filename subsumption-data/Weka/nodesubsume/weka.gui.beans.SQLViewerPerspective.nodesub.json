@@ -1,0 +1,21 @@
+{
+"Class" : "weka.gui.beans.SQLViewerPerspective", 
+"Methods" : [{ "Name" : "newFlow" ,
+"Nodes" : 4,
+"0" : [ ],
+"2" : [ 11],
+"1" : [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+"3" : [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+"CoveredDUAsByNodes" : 12,
+"Duas" : 15
+},{ "Name" : "getPerspectiveIcon" ,
+"Nodes" : 5,
+"0" : [ ],
+"1" : [ 2, 3],
+"3" : [ 1],
+"2" : [ ],
+"4" : [ ],
+"CoveredDUAsByNodes" : 3,
+"Duas" : 5
+}]
+}

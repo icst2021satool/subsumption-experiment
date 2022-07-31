@@ -1,0 +1,16 @@
+{
+"Class" : "weka.core.pmml.jaxbbindings.VectorFields", 
+"Methods" : [{ "Name" : "getExtension" ,
+"Nodes" : 4,
+"0" : [ 83 ]
+"1" : [ 86 ]
+"2" : [ 84 ]
+"3" : [  ]
+},{ "Name" : "getFieldRef" ,
+"Nodes" : 4,
+"0" : [ 112 ]
+"1" : [ 115 ]
+"2" : [ 113 ]
+"3" : [  ]
+}]
+}

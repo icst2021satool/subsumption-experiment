@@ -1,0 +1,11 @@
+{
+"Class" : "weka.classifiers.meta.MultiClassClassifier$StandardCode", 
+"Methods" : [{ "Name" : "<init>" ,
+"Nodes" : 5,
+"0" : [ 252,253,254 ]
+"1" : [ 254 ]
+"2" : [ 258 ]
+"3" : [ 254,255 ]
+"4" : [  ]
+}]
+}

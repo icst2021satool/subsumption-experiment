@@ -1,0 +1,25 @@
+{
+"Class" : "weka.gui.experiment.ExperimenterDefaults", 
+"Methods" : [{ "Name" : "getInitialDatasetsDirectory" ,
+"Edges" : 4,
+"2" : [ 0],
+"3" : [ 1, 2],
+"0" : [ 0],
+"1" : [ ],
+"CoveredDUAsByEdges" : 3,
+"Duas" : 4
+},{ "Name" : "main" ,
+"Edges" : 9,
+"6" : [ ],
+"7" : [ 3, 5, 8],
+"8" : [ 4, 6, 7],
+"0" : [ 4, 6, 7],
+"1" : [ 1, 2, 4, 6, 7, 9, 11],
+"2" : [ 0, 4, 6, 7, 10],
+"5" : [ 0, 4, 6, 7, 10],
+"4" : [ 1, 2, 4, 6, 7, 9, 11],
+"3" : [ 3, 5, 8],
+"CoveredDUAsByEdges" : 12,
+"Duas" : 12
+}]
+}

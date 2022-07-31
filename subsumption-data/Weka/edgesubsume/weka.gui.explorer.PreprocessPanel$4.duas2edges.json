@@ -1,0 +1,10 @@
+{
+"Class" : "weka.gui.explorer.PreprocessPanel$4", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Edges" : 7,
+"Duas" : 14,
+"7" : 4, 
+ "8" : 5, 
+ "11" : 2, 
+ "12" : 3}]
+}

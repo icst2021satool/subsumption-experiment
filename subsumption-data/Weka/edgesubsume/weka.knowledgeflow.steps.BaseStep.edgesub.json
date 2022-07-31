@@ -1,0 +1,38 @@
+{
+"Class" : "weka.knowledgeflow.steps.BaseStep", 
+"Methods" : [{ "Name" : "<init>" ,
+"Edges" : 10,
+"7" : [ ],
+"8" : [ ],
+"9" : [ ],
+"0" : [ 1, 3],
+"1" : [ 2],
+"3" : [ 0, 1, 3, 4, 6],
+"4" : [ 5],
+"5" : [ ],
+"2" : [ 0, 1, 3, 4, 6],
+"6" : [ ],
+"CoveredDUAsByEdges" : 7,
+"Duas" : 7
+},{ "Name" : "globalInfo" ,
+"Edges" : 8,
+"2" : [ ],
+"0" : [ ],
+"1" : [ ],
+"6" : [ ],
+"4" : [ 0, 2],
+"5" : [ 1],
+"7" : [ 1],
+"3" : [ 0, 2],
+"CoveredDUAsByEdges" : 3,
+"Duas" : 3
+},{ "Name" : "stop" ,
+"Edges" : 4,
+"0" : [ 0, 4, 5, 6],
+"1" : [ 1, 2, 3],
+"2" : [ 0, 2, 3, 4, 5, 6],
+"3" : [ 2, 3],
+"CoveredDUAsByEdges" : 7,
+"Duas" : 7
+}]
+}

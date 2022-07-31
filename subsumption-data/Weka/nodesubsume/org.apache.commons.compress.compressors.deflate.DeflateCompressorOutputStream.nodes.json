@@ -1,0 +1,11 @@
+{
+"Class" : "org.apache.commons.compress.compressors.deflate.DeflateCompressorOutputStream", 
+"Methods" : [{ "Name" : "<init>" ,
+"Nodes" : 5,
+"0" : [ 52,53 ]
+"1" : [ 53 ]
+"2" : [ 53,54,55 ]
+"3" : [ 53 ]
+"4" : [  ]
+}]
+}

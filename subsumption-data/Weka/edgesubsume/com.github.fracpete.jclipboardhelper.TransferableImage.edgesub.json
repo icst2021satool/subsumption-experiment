@@ -1,0 +1,12 @@
+{
+"Class" : "com.github.fracpete.jclipboardhelper.TransferableImage", 
+"Methods" : [{ "Name" : "getTransferData" ,
+"Edges" : 4,
+"2" : [ 0, 1, 4, 6],
+"3" : [ 2, 3, 5],
+"1" : [ 2, 3, 5],
+"0" : [ 0, 1, 4, 6],
+"CoveredDUAsByEdges" : 7,
+"Duas" : 7
+}]
+}

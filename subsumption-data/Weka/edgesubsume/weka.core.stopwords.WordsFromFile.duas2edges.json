@@ -1,0 +1,8 @@
+{
+"Class" : "weka.core.stopwords.WordsFromFile", 
+"Methods" : [{ "Name" : "initialize" ,
+"Edges" : 8,
+"Duas" : 5,
+"2" : 3, 
+ "3" : 4}]
+}

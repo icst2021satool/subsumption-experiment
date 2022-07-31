@@ -1,0 +1,18 @@
+{
+"Class" : "org.apache.commons.compress.archivers.dump.DumpArchiveUtil", 
+"Methods" : [{ "Name" : "calculateChecksum" ,
+"Edges" : 5,
+"Duas" : 14,
+"4" : 3, 
+ "5" : 4, 
+ "10" : 3, 
+ "11" : 4},{ "Name" : "verify" ,
+"Edges" : 8,
+"Duas" : 7,
+"1" : 2, 
+ "2" : 3, 
+ "3" : 4, 
+ "4" : 5, 
+ "5" : 2, 
+ "6" : 3}]
+}

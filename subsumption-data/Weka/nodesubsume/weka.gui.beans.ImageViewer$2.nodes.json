@@ -1,0 +1,11 @@
+{
+"Class" : "weka.gui.beans.ImageViewer$2", 
+"Methods" : [{ "Name" : "mouseClicked" ,
+"Nodes" : 5,
+"0" : [ 233,234 ]
+"1" : [ 243 ]
+"2" : [ 235,237,238 ]
+"3" : [ 240,239 ]
+"4" : [  ]
+}]
+}

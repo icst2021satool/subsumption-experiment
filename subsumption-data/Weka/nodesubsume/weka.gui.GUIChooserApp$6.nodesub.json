@@ -1,0 +1,12 @@
+{
+"Class" : "weka.gui.GUIChooserApp$6", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Nodes" : 4,
+"0" : [ ],
+"1" : [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 14],
+"2" : [ 13],
+"3" : [ ],
+"CoveredDUAsByNodes" : 15,
+"Duas" : 15
+}]
+}

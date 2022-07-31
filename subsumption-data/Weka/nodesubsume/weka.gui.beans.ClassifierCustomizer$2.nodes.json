@@ -1,0 +1,10 @@
+{
+"Class" : "weka.gui.beans.ClassifierCustomizer$2", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Nodes" : 4,
+"0" : [ 126 ]
+"1" : [ 131 ]
+"2" : [ 128,129,127 ]
+"3" : [  ]
+}]
+}

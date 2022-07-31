@@ -1,0 +1,41 @@
+{
+"Class" : "weka.core.ListOptions", 
+"Methods" : [{ "Name" : "setOptions" ,
+"Nodes" : 5,
+"0" : [ ],
+"1" : [ 0, 3],
+"3" : [ 1, 2, 4],
+"2" : [ ],
+"4" : [ ],
+"CoveredDUAsByNodes" : 5,
+"Duas" : 5
+},{ "Name" : "generateHelp" ,
+"Nodes" : 5,
+"0" : [ ],
+"1" : [ ],
+"2" : [ 3],
+"4" : [ 3],
+"3" : [ 1, 2, 4],
+"CoveredDUAsByNodes" : 4,
+"Duas" : 7
+},{ "Name" : "generate" ,
+"Nodes" : 5,
+"0" : [ ],
+"1" : [ ],
+"2" : [ 0, 4],
+"4" : [ 0, 4],
+"3" : [ 1, 2, 3, 5],
+"CoveredDUAsByNodes" : 6,
+"Duas" : 6
+},{ "Name" : "run" ,
+"Nodes" : 6,
+"0" : [ ],
+"1" : [ 1, 2],
+"2" : [ 1, 2, 4, 5, 6, 7, 8, 9],
+"3" : [ 1, 2, 3],
+"4" : [ 0],
+"5" : [ ],
+"CoveredDUAsByNodes" : 10,
+"Duas" : 10
+}]
+}

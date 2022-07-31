@@ -1,0 +1,12 @@
+{
+"Class" : "weka.core.FastVector", 
+"Methods" : [{ "Name" : "copyElements" ,
+"Edges" : 5,
+"Duas" : 13,
+"0" : 3, 
+ "1" : 4, 
+ "5" : 3, 
+ "6" : 4, 
+ "9" : 3, 
+ "10" : 4}]
+}

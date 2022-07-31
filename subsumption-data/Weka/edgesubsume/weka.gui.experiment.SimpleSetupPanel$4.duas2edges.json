@@ -1,0 +1,14 @@
+{
+"Class" : "weka.gui.experiment.SimpleSetupPanel$4", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Edges" : 5,
+"Duas" : 12,
+"0" : 0, 
+ "1" : 1, 
+ "4" : 0, 
+ "5" : 1, 
+ "6" : 0, 
+ "7" : 1, 
+ "10" : 0, 
+ "11" : 1}]
+}

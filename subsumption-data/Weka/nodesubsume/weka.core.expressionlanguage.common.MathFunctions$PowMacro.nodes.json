@@ -1,0 +1,14 @@
+{
+"Class" : "weka.core.expressionlanguage.common.MathFunctions$PowMacro", 
+"Methods" : [{ "Name" : "evaluate" ,
+"Nodes" : 8,
+"0" : [ 273 ]
+"1" : [ 275 ]
+"2" : [ 277 ]
+"3" : [ 279 ]
+"4" : [ 278 ]
+"5" : [ 276 ]
+"6" : [ 274 ]
+"7" : [  ]
+}]
+}

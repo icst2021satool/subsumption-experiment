@@ -1,0 +1,12 @@
+{
+"Class" : "weka.core.pmml.jaxbbindings.TIMEANCHOR2", 
+"Methods" : [{ "Name" : "fromValue" ,
+"Edges" : 8,
+"Duas" : 8,
+"1" : 5, 
+ "2" : 6, 
+ "3" : 5, 
+ "4" : 6, 
+ "6" : 5, 
+ "7" : 6}]
+}

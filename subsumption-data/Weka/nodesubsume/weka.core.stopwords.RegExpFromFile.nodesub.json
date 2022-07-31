@@ -1,0 +1,28 @@
+{
+"Class" : "weka.core.stopwords.RegExpFromFile", 
+"Methods" : [{ "Name" : "initialize" ,
+"Nodes" : 5,
+"0" : [ ],
+"1" : [ ],
+"2" : [ ],
+"4" : [ ],
+"3" : [ 0, 1],
+"CoveredDUAsByNodes" : 2,
+"Duas" : 2
+},{ "Name" : "is" ,
+"Nodes" : 11,
+"0" : [ ],
+"1" : [ ],
+"2" : [ ],
+"3" : [ ],
+"4" : [ 7, 13],
+"6" : [ 0, 2, 7, 8, 13, 14],
+"5" : [ 7, 13],
+"7" : [ 6, 12],
+"9" : [ 3, 5, 6, 10, 12, 15],
+"8" : [ 6, 12],
+"10" : [ ],
+"CoveredDUAsByNodes" : 12,
+"Duas" : 16
+}]
+}

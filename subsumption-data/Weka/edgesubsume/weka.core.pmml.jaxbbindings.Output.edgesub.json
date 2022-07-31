@@ -1,0 +1,28 @@
+{
+"Class" : "weka.core.pmml.jaxbbindings.Output", 
+"Methods" : [{ "Name" : "getExtension" ,
+"Edges" : 4,
+"1" : [ 0, 3, 4],
+"2" : [ 1, 2, 5, 6],
+"3" : [ 0, 2, 3, 4],
+"0" : [ 2],
+"CoveredDUAsByEdges" : 7,
+"Duas" : 8
+},{ "Name" : "getOutputFields" ,
+"Edges" : 4,
+"2" : [ 0, 3, 4],
+"3" : [ 1, 2, 5, 6],
+"1" : [ 0, 2, 3, 4],
+"0" : [ 2],
+"CoveredDUAsByEdges" : 7,
+"Duas" : 8
+},{ "Name" : "addOutputField" ,
+"Edges" : 4,
+"2" : [ 0, 3, 5],
+"3" : [ 1, 2, 4, 6, 7],
+"0" : [ 0, 2, 3, 4, 5],
+"1" : [ 2, 4],
+"CoveredDUAsByEdges" : 8,
+"Duas" : 9
+}]
+}

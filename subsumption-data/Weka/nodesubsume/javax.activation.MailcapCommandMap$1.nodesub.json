@@ -1,0 +1,12 @@
+{
+"Class" : "javax.activation.MailcapCommandMap$1", 
+"Methods" : [{ "Name" : "run" ,
+"Nodes" : 4,
+"0" : [ ],
+"1" : [ 0, 2, 5],
+"2" : [ 1, 3, 4],
+"3" : [ ],
+"CoveredDUAsByNodes" : 6,
+"Duas" : 6
+}]
+}

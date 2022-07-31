@@ -1,0 +1,13 @@
+{
+"Class" : "weka.core.pmml.jaxbbindings.MISSINGVALUESTRATEGY", 
+"Methods" : [{ "Name" : "fromValue" ,
+"Nodes" : 7,
+"0" : [ 60 ]
+"1" : [ 60 ]
+"2" : [ 65 ]
+"3" : [ 60,61 ]
+"4" : [ 60 ]
+"5" : [ 62 ]
+"6" : [  ]
+}]
+}

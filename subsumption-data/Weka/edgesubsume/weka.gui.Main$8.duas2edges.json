@@ -1,0 +1,12 @@
+{
+"Class" : "weka.gui.Main$8", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Edges" : 5,
+"Duas" : 13,
+"0" : 1, 
+ "1" : 2, 
+ "4" : 1, 
+ "5" : 2, 
+ "9" : 1, 
+ "10" : 2}]
+}

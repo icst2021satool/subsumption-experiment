@@ -1,0 +1,13 @@
+{
+"Class" : "weka.gui.knowledgeflow.steps.StripChartInteractiveView$LegendPanel", 
+"Methods" : [{ "Name" : "paintComponent" ,
+"Nodes" : 7,
+"0" : [ 426,428 ]
+"1" : [ 432,433,434,435,431 ]
+"2" : [ 435 ]
+"3" : [ 441,442 ]
+"4" : [ 435,436,437,438,439 ]
+"5" : [ 429 ]
+"6" : [  ]
+}]
+}

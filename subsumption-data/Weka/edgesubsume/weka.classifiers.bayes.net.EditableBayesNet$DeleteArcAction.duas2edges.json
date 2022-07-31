@@ -1,0 +1,17 @@
+{
+"Class" : "weka.classifiers.bayes.net.EditableBayesNet$DeleteArcAction", 
+"Methods" : [{ "Name" : "<init>" ,
+"Edges" : 5,
+"Duas" : 20,
+"0" : 3, 
+ "1" : 4, 
+ "9" : 3, 
+ "10" : 4, 
+ "12" : 3, 
+ "13" : 4, 
+ "16" : 3, 
+ "17" : 4},{ "Name" : "undo" ,
+"Edges" : 5,
+"Duas" : 8,
+}]
+}

@@ -1,0 +1,10 @@
+{
+"Class" : "weka.knowledgeflow.steps.MemoryBasedDataSource", 
+"Methods" : [{ "Name" : "stepInit" ,
+"Nodes" : 4,
+"0" : [ 76 ]
+"1" : [ 80 ]
+"2" : [ 77 ]
+"3" : [  ]
+}]
+}

@@ -1,0 +1,22 @@
+{
+"Class" : "weka.core.pmml.jaxbbindings.Coefficients", 
+"Methods" : [{ "Name" : "getExtension" ,
+"Nodes" : 4,
+"0" : [ 86 ]
+"1" : [ 89 ]
+"2" : [ 87 ]
+"3" : [  ]
+},{ "Name" : "getCoefficient" ,
+"Nodes" : 4,
+"0" : [ 115 ]
+"1" : [ 118 ]
+"2" : [ 116 ]
+"3" : [  ]
+},{ "Name" : "getAbsoluteValue" ,
+"Nodes" : 4,
+"0" : [ 130 ]
+"1" : [ 133 ]
+"2" : [ 131 ]
+"3" : [  ]
+}]
+}

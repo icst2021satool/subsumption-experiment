@@ -1,0 +1,19 @@
+{
+"Class" : "javax.activation.CommandMap", 
+"Methods" : [{ "Name" : "getDefaultCommandMap" ,
+"Edges" : 7,
+"0" : [ 2,5 ],
+"1" : [ 4,5 ],
+"2" : [ 1,3 ],
+"3" : [ 1,2 ],
+"4" : [ 0,4 ],
+"5" : [ 0,1 ],
+"6" : [ 3,2 ]
+},{ "Name" : "setDefaultCommandMap" ,
+"Edges" : 4,
+"0" : [ 1,3 ],
+"1" : [ 0,2 ],
+"2" : [ 0,1 ],
+"3" : [ 2,1 ]
+}]
+}

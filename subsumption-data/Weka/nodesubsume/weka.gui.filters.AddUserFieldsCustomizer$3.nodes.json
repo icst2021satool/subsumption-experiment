@@ -1,0 +1,14 @@
+{
+"Class" : "weka.gui.filters.AddUserFieldsCustomizer$3", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Nodes" : 8,
+"0" : [ 196,197 ]
+"1" : [ 209 ]
+"2" : [ 198,199 ]
+"3" : [ 206,207 ]
+"4" : [ 201,202 ]
+"5" : [ 202 ]
+"6" : [ 203 ]
+"7" : [  ]
+}]
+}

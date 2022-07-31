@@ -1,0 +1,13 @@
+{
+"Class" : "weka.knowledgeflow.DefaultCallbackNotifierDelegate", 
+"Methods" : [{ "Name" : "notifyCallback" ,
+"Edges" : 5,
+"3" : [ 1, 3, 6],
+"4" : [ 0, 2, 4, 5],
+"0" : [ 0, 2, 4, 5],
+"1" : [ 1, 3, 6],
+"2" : [ ],
+"CoveredDUAsByEdges" : 7,
+"Duas" : 7
+}]
+}

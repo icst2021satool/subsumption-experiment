@@ -1,0 +1,13 @@
+{
+"Class" : "weka.gui.visualize.LegendPanel$LegendEntry", 
+"Methods" : [{ "Name" : "<init>" ,
+"Edges" : 7,
+"0" : [ 4,1 ],
+"1" : [ 3,2 ],
+"2" : [ 0,4 ],
+"3" : [ 0,1 ],
+"4" : [ 2,5 ],
+"5" : [ 1,3 ],
+"6" : [ 1,2 ]
+}]
+}

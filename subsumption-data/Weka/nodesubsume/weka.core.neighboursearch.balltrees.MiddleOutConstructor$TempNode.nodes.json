@@ -1,0 +1,17 @@
+{
+"Class" : "weka.core.neighboursearch.balltrees.MiddleOutConstructor$TempNode", 
+"Methods" : [{ "Name" : "toString" ,
+"Nodes" : 11,
+"0" : [ 1049 ]
+"1" : [ 1050 ]
+"2" : [ 1049 ]
+"3" : [ 1056,1052,1054 ]
+"4" : [ 1056 ]
+"5" : [ 1066,1067 ]
+"6" : [ 1057,1058 ]
+"7" : [ 1061 ]
+"8" : [ 1056 ]
+"9" : [ 1059 ]
+"10" : [  ]
+}]
+}

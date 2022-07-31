@@ -1,0 +1,22 @@
+{
+"Class" : "weka.gui.knowledgeflow.steps.ClassifierPerformanceEvaluatorStepEditorDialog", 
+"Methods" : [{ "Name" : "setStepToEdit" ,
+"Edges" : 16,
+"Duas" : 42,
+"0" : 0, 
+ "1" : 1, 
+ "32" : 7, 
+ "33" : 8, 
+ "34" : 2, 
+ "35" : 3, 
+ "37" : 5, 
+ "38" : 6, 
+ "39" : 9, 
+ "40" : 10},{ "Name" : "okPressed" ,
+"Edges" : 8,
+"Duas" : 12,
+"2" : 2, 
+ "3" : 3, 
+ "7" : 2, 
+ "8" : 3}]
+}

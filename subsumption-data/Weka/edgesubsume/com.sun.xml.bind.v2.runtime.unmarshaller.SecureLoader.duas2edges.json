@@ -1,0 +1,7 @@
+{
+"Class" : "com.sun.xml.bind.v2.runtime.unmarshaller.SecureLoader", 
+"Methods" : [{ "Name" : "getClassClassLoader" ,
+"Edges" : 4,
+"Duas" : 2,
+}]
+}

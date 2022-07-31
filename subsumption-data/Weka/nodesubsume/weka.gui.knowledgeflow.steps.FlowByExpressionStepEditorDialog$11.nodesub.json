@@ -1,0 +1,17 @@
+{
+"Class" : "weka.gui.knowledgeflow.steps.FlowByExpressionStepEditorDialog$11", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Nodes" : 9,
+"0" : [ ],
+"1" : [ 0, 4, 11],
+"3" : [ 10],
+"4" : [ 10, 12, 14],
+"5" : [ 1, 18, 5, 10, 12, 14],
+"7" : [ 2, 3, 6, 7, 8, 9, 10, 12, 14, 15, 16, 17, 19],
+"6" : [ 10, 12, 14],
+"2" : [ ],
+"8" : [ ],
+"CoveredDUAsByNodes" : 19,
+"Duas" : 20
+}]
+}

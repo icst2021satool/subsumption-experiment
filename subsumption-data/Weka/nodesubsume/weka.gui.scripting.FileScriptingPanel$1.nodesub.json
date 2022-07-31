@@ -1,0 +1,14 @@
+{
+"Class" : "weka.gui.scripting.FileScriptingPanel$1", 
+"Methods" : [{ "Name" : "update" ,
+"Nodes" : 6,
+"0" : [ ],
+"3" : [ 16],
+"1" : [ ],
+"4" : [ 16, 4, 10, 12],
+"2" : [ 0, 1, 2, 3, 6, 7, 8, 9, 14, 15],
+"5" : [ 0, 1, 2, 3, 6, 7, 8, 9, 14, 15],
+"CoveredDUAsByNodes" : 14,
+"Duas" : 18
+}]
+}

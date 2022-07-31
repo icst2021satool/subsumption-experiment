@@ -1,0 +1,10 @@
+{
+"Class" : "weka.knowledgeflow.steps.WriteDataToResult", 
+"Methods" : [{ "Name" : "stepInit" ,
+"Nodes" : 4,
+"0" : [ 51,52,54 ]
+"1" : [ 59 ]
+"2" : [ 55,56 ]
+"3" : [  ]
+}]
+}

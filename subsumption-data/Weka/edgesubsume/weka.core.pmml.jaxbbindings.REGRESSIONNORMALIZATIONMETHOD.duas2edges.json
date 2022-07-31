@@ -1,0 +1,12 @@
+{
+"Class" : "weka.core.pmml.jaxbbindings.REGRESSIONNORMALIZATIONMETHOD", 
+"Methods" : [{ "Name" : "fromValue" ,
+"Edges" : 8,
+"Duas" : 8,
+"1" : 1, 
+ "2" : 2, 
+ "3" : 1, 
+ "4" : 2, 
+ "6" : 1, 
+ "7" : 2}]
+}

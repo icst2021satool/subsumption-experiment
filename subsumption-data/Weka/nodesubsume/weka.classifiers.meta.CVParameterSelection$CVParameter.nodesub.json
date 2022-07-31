@@ -1,0 +1,25 @@
+{
+"Class" : "weka.classifiers.meta.CVParameterSelection$CVParameter", 
+"Methods" : [{ "Name" : "<init>" ,
+"Nodes" : 5,
+"0" : [ ],
+"2" : [ 2],
+"3" : [ 1, 2, 5, 6],
+"1" : [ 0],
+"4" : [ ],
+"CoveredDUAsByNodes" : 5,
+"Duas" : 7
+},{ "Name" : "toString" ,
+"Nodes" : 8,
+"0" : [ ],
+"1" : [ 17, 2, 9, 12],
+"5" : [ 1, 18, 8, 11],
+"6" : [ 0, 19, 6, 7, 10, 13],
+"2" : [ 3, 14],
+"4" : [ 3, 4, 24, 14, 15],
+"3" : [ 3, 14],
+"7" : [ 3, 14],
+"CoveredDUAsByNodes" : 19,
+"Duas" : 26
+}]
+}

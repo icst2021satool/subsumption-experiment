@@ -1,0 +1,10 @@
+{
+"Class" : "weka.gui.knowledgeflow.steps.ImageViewerInteractiveView$2", 
+"Methods" : [{ "Name" : "mouseClicked" ,
+"Edges" : 6,
+"Duas" : 18,
+"12" : 2, 
+ "13" : 3, 
+ "15" : 4, 
+ "16" : 5}]
+}

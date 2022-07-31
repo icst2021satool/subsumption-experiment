@@ -1,0 +1,19 @@
+{
+"Class" : "weka.gui.beans.ClassifierPerformanceEvaluatorCustomizer$1", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Nodes" : 11,
+"0" : [ ],
+"9" : [ 0, 19, 9, 10],
+"1" : [ ],
+"5" : [ 17, 2, 7, 12],
+"6" : [ 17, 2, 7, 12],
+"7" : [ 17, 2, 18, 20, 7, 8, 12],
+"2" : [ ],
+"4" : [ 16, 4, 6, 14],
+"3" : [ ],
+"10" : [ ],
+"8" : [ 17, 2, 21, 7, 12],
+"CoveredDUAsByNodes" : 16,
+"Duas" : 22
+}]
+}

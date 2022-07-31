@@ -1,0 +1,10 @@
+{
+"Class" : "weka.gui.GenericObjectEditor$JTreePopupMenu$1", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Nodes" : 4,
+"0" : [ 612 ]
+"1" : [ 621 ]
+"2" : [ 613,614,615,616,617,618,619 ]
+"3" : [  ]
+}]
+}

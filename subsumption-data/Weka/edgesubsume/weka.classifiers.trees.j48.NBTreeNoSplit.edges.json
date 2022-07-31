@@ -1,0 +1,21 @@
+{
+"Class" : "weka.classifiers.trees.j48.NBTreeNoSplit", 
+"Methods" : [{ "Name" : "buildClassifier" ,
+"Edges" : 4,
+"0" : [ 0,2 ],
+"1" : [ 0,1 ],
+"2" : [ 2,1 ],
+"3" : [ 1,3 ]
+},{ "Name" : "crossValidate" ,
+"Edges" : 9,
+"0" : [ 5,1 ],
+"1" : [ 3,4 ],
+"2" : [ 6,4 ],
+"3" : [ 0,1 ],
+"4" : [ 1,3 ],
+"5" : [ 1,2 ],
+"6" : [ 2,7 ],
+"7" : [ 4,6 ],
+"8" : [ 4,5 ]
+}]
+}

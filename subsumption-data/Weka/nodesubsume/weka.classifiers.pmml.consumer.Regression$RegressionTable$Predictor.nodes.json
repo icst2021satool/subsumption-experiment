@@ -1,0 +1,17 @@
+{
+"Class" : "weka.classifiers.pmml.consumer.Regression$RegressionTable$Predictor", 
+"Methods" : [{ "Name" : "<init>" ,
+"Nodes" : 11,
+"0" : [ 88,89,90,76,79 ]
+"1" : [ 90 ]
+"2" : [ 97 ]
+"3" : [ 102,103 ]
+"4" : [ 106 ]
+"5" : [ 104 ]
+"6" : [ 98 ]
+"7" : [ 91,92 ]
+"8" : [ 90 ]
+"9" : [ 93 ]
+"10" : [  ]
+}]
+}

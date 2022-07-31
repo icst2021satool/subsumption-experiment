@@ -1,0 +1,10 @@
+{
+"Class" : "weka.gui.visualize.MatrixPanel$9", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Nodes" : 4,
+"0" : [ 804,805,806,808,809,811 ]
+"1" : [ 823 ]
+"2" : [ 816,817,818,821,813,814,815 ]
+"3" : [  ]
+}]
+}

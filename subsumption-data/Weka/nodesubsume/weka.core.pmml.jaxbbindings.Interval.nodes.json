@@ -1,0 +1,10 @@
+{
+"Class" : "weka.core.pmml.jaxbbindings.Interval", 
+"Methods" : [{ "Name" : "getExtension" ,
+"Nodes" : 4,
+"0" : [ 93 ]
+"1" : [ 96 ]
+"2" : [ 94 ]
+"3" : [  ]
+}]
+}

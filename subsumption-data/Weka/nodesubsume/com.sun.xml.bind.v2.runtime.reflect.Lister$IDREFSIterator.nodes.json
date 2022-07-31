@@ -1,0 +1,10 @@
+{
+"Class" : "com.sun.xml.bind.v2.runtime.reflect.Lister$IDREFSIterator", 
+"Methods" : [{ "Name" : "next" ,
+"Nodes" : 4,
+"0" : [ 426,427,428 ]
+"1" : [ 431 ]
+"2" : [ 429 ]
+"3" : [  ]
+}]
+}

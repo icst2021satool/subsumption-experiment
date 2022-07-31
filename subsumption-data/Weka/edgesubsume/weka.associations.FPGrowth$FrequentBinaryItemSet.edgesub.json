@@ -1,0 +1,13 @@
+{
+"Class" : "weka.associations.FPGrowth$FrequentBinaryItemSet", 
+"Methods" : [{ "Name" : "toString" ,
+"Edges" : 5,
+"3" : [ ],
+"0" : [ 4, 5, 7],
+"1" : [ 0, 1, 2, 3, 6],
+"4" : [ 0, 1, 2, 3, 6],
+"2" : [ 4, 5, 7],
+"CoveredDUAsByEdges" : 8,
+"Duas" : 8
+}]
+}

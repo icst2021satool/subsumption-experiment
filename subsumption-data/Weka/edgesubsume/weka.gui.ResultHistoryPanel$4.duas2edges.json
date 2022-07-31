@@ -1,0 +1,12 @@
+{
+"Class" : "weka.gui.ResultHistoryPanel$4", 
+"Methods" : [{ "Name" : "stateChanged" ,
+"Edges" : 4,
+"Duas" : 11,
+"0" : 1, 
+ "1" : 2, 
+ "3" : 1, 
+ "4" : 2, 
+ "7" : 1, 
+ "8" : 2}]
+}

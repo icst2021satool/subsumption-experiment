@@ -1,0 +1,16 @@
+{
+"Class" : "weka.core.converters.SerializedInstancesSaver", 
+"Methods" : [{ "Name" : "writeBatch" ,
+"Nodes" : 8,
+"0" : [ ],
+"1" : [ 1],
+"2" : [ 1, 3, 4],
+"3" : [ 1, 3, 4, 6, 7, 8, 9, 10, 11, 12, 13, 15, 16, 17, 18],
+"4" : [ 1, 3, 4, 5, 14],
+"5" : [ 1, 2],
+"6" : [ 0],
+"7" : [ ],
+"CoveredDUAsByNodes" : 19,
+"Duas" : 19
+}]
+}

@@ -1,0 +1,10 @@
+{
+"Class" : "weka.gui.beans.ClustererCustomizer$1", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Nodes" : 4,
+"0" : [ 81 ]
+"1" : [ 85,86 ]
+"2" : [ 82 ]
+"3" : [  ]
+}]
+}

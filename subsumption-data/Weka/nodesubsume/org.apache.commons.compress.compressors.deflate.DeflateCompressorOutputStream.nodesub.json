@@ -1,0 +1,13 @@
+{
+"Class" : "org.apache.commons.compress.compressors.deflate.DeflateCompressorOutputStream", 
+"Methods" : [{ "Name" : "<init>" ,
+"Nodes" : 5,
+"0" : [ ],
+"1" : [ 5],
+"3" : [ 4],
+"2" : [ 0, 1, 2, 3, 6],
+"4" : [ 0, 1, 2, 3, 6],
+"CoveredDUAsByNodes" : 7,
+"Duas" : 7
+}]
+}

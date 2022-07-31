@@ -1,0 +1,14 @@
+{
+"Class" : "weka.gui.beans.EnvironmentField$6", 
+"Methods" : [{ "Name" : "keyReleased" ,
+"Edges" : 7,
+"Duas" : 20,
+"1" : 0, 
+ "2" : 1, 
+ "6" : 0, 
+ "7" : 1, 
+ "11" : 0, 
+ "12" : 1, 
+ "14" : 2, 
+ "15" : 3}]
+}

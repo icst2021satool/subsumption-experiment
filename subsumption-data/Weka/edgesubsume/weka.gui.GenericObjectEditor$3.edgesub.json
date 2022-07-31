@@ -1,0 +1,15 @@
+{
+"Class" : "weka.gui.GenericObjectEditor$3", 
+"Methods" : [{ "Name" : "valueChanged" ,
+"Edges" : 7,
+"5" : [ 3],
+"6" : [ 4],
+"3" : [ 0, 1, 2, 4, 5],
+"4" : [ 4, 6],
+"0" : [ 0, 1, 2, 4, 5],
+"1" : [ 4],
+"2" : [ 3],
+"CoveredDUAsByEdges" : 7,
+"Duas" : 7
+}]
+}

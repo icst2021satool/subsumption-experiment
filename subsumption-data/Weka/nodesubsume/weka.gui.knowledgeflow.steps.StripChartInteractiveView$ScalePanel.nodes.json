@@ -1,0 +1,10 @@
+{
+"Class" : "weka.gui.knowledgeflow.steps.StripChartInteractiveView$ScalePanel", 
+"Methods" : [{ "Name" : "paintComponent" ,
+"Nodes" : 4,
+"0" : [ 400,401 ]
+"1" : [ 404,405,406,407,408,409,410,411,412,413 ]
+"2" : [ 402 ]
+"3" : [  ]
+}]
+}

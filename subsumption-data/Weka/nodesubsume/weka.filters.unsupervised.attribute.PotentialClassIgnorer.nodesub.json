@@ -1,0 +1,28 @@
+{
+"Class" : "weka.filters.unsupervised.attribute.PotentialClassIgnorer", 
+"Methods" : [{ "Name" : "getOptions" ,
+"Nodes" : 4,
+"0" : [ ],
+"2" : [ 0, 3],
+"1" : [ 2],
+"3" : [ 2],
+"CoveredDUAsByNodes" : 3,
+"Duas" : 4
+},{ "Name" : "setInputFormat" ,
+"Nodes" : 4,
+"0" : [ ],
+"2" : [ 0, 2, 3, 4],
+"1" : [ 6],
+"3" : [ 6],
+"CoveredDUAsByNodes" : 5,
+"Duas" : 7
+},{ "Name" : "getOutputFormat" ,
+"Nodes" : 4,
+"0" : [ ],
+"2" : [ 0, 3, 4, 6],
+"1" : [ 2],
+"3" : [ 2],
+"CoveredDUAsByNodes" : 5,
+"Duas" : 7
+}]
+}

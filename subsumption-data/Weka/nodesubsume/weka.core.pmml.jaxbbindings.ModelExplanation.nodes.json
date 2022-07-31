@@ -1,0 +1,22 @@
+{
+"Class" : "weka.core.pmml.jaxbbindings.ModelExplanation", 
+"Methods" : [{ "Name" : "getExtension" ,
+"Nodes" : 4,
+"0" : [ 88 ]
+"1" : [ 91 ]
+"2" : [ 89 ]
+"3" : [  ]
+},{ "Name" : "getPredictiveModelQuality" ,
+"Nodes" : 4,
+"0" : [ 117 ]
+"1" : [ 120 ]
+"2" : [ 118 ]
+"3" : [  ]
+},{ "Name" : "getClusteringModelQuality" ,
+"Nodes" : 4,
+"0" : [ 146 ]
+"1" : [ 149 ]
+"2" : [ 147 ]
+"3" : [  ]
+}]
+}

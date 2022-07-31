@@ -1,0 +1,11 @@
+{
+"Class" : "weka.classifiers.RandomizableParallelMultipleClassifiersCombiner", 
+"Methods" : [{ "Name" : "setOptions" ,
+"Nodes" : 5,
+"0" : [ 85,86 ]
+"1" : [ 89 ]
+"2" : [ 92,93 ]
+"3" : [ 87 ]
+"4" : [  ]
+}]
+}

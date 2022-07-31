@@ -1,0 +1,28 @@
+{
+"Class" : "weka.gui.knowledgeflow.TemplateManager", 
+"Methods" : [{ "Name" : "getBuiltinTemplateDescriptions" ,
+"Edges" : 7,
+"0" : [ 2,3 ],
+"1" : [ 4,3 ],
+"2" : [ 3,4 ],
+"3" : [ 3,1 ],
+"4" : [ 0,2 ],
+"5" : [ 0,1 ],
+"6" : [ 1,5 ]
+},{ "Name" : "getPluginTemplateDescriptions" ,
+"Edges" : 7,
+"0" : [ 2,3 ],
+"1" : [ 0,2 ],
+"2" : [ 0,1 ],
+"3" : [ 4,3 ],
+"4" : [ 3,4 ],
+"5" : [ 3,1 ],
+"6" : [ 1,5 ]
+},{ "Name" : "getTemplateFlow" ,
+"Edges" : 4,
+"0" : [ 1,3 ],
+"1" : [ 2,1 ],
+"2" : [ 0,2 ],
+"3" : [ 0,1 ]
+}]
+}

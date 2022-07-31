@@ -1,0 +1,10 @@
+{
+"Class" : "com.github.fracpete.jclipboardhelper.TransferableString", 
+"Methods" : [{ "Name" : "getTransferData" ,
+"Edges" : 4,
+"Duas" : 7,
+"1" : 1, 
+ "2" : 2, 
+ "4" : 1, 
+ "5" : 2}]
+}

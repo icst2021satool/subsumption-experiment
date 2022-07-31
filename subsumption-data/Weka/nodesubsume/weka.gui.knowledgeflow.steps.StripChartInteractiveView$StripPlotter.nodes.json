@@ -1,0 +1,10 @@
+{
+"Class" : "weka.gui.knowledgeflow.steps.StripChartInteractiveView$StripPlotter", 
+"Methods" : [{ "Name" : "paintComponent" ,
+"Nodes" : 4,
+"0" : [ 384,383 ]
+"1" : [ 387 ]
+"2" : [ 385 ]
+"3" : [  ]
+}]
+}

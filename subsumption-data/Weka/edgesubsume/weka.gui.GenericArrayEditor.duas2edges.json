@@ -1,0 +1,16 @@
+{
+"Class" : "weka.gui.GenericArrayEditor", 
+"Methods" : [{ "Name" : "getValue" ,
+"Edges" : 8,
+"Duas" : 22,
+"0" : 5, 
+ "1" : 6, 
+ "5" : 5, 
+ "6" : 6, 
+ "10" : 1, 
+ "11" : 2, 
+ "14" : 1, 
+ "15" : 2, 
+ "18" : 1, 
+ "19" : 2}]
+}

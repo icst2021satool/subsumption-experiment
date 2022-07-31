@@ -1,0 +1,10 @@
+{
+"Class" : "weka.knowledgeflow.LoggingLevel", 
+"Methods" : [{ "Name" : "stringToLevel" ,
+"Edges" : 8,
+"Duas" : 7,
+"0" : 5, 
+ "1" : 6, 
+ "3" : 5, 
+ "4" : 6}]
+}

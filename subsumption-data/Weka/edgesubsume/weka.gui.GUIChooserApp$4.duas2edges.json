@@ -1,0 +1,8 @@
+{
+"Class" : "weka.gui.GUIChooserApp$4", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Edges" : 4,
+"Duas" : 6,
+"4" : 0, 
+ "5" : 1}]
+}

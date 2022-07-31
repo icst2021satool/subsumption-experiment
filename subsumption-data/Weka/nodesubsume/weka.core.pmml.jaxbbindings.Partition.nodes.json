@@ -1,0 +1,16 @@
+{
+"Class" : "weka.core.pmml.jaxbbindings.Partition", 
+"Methods" : [{ "Name" : "getExtension" ,
+"Nodes" : 4,
+"0" : [ 85 ]
+"1" : [ 88 ]
+"2" : [ 86 ]
+"3" : [  ]
+},{ "Name" : "getPartitionFieldStats" ,
+"Nodes" : 4,
+"0" : [ 114 ]
+"1" : [ 117 ]
+"2" : [ 115 ]
+"3" : [  ]
+}]
+}

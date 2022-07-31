@@ -1,0 +1,10 @@
+{
+"Class" : "weka.knowledgeflow.steps.CostBenefitAnalysis", 
+"Methods" : [{ "Name" : "getInteractiveViewers" ,
+"Nodes" : 4,
+"0" : [ 90,92 ]
+"1" : [ 97 ]
+"2" : [ 93 ]
+"3" : [  ]
+}]
+}

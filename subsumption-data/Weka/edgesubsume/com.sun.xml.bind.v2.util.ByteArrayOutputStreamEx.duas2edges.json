@@ -1,0 +1,14 @@
+{
+"Class" : "com.sun.xml.bind.v2.util.ByteArrayOutputStreamEx", 
+"Methods" : [{ "Name" : "readFrom" ,
+"Edges" : 7,
+"Duas" : 21,
+"0" : 1, 
+ "1" : 2, 
+ "8" : 1, 
+ "9" : 2, 
+ "13" : 1, 
+ "14" : 2, 
+ "18" : 4, 
+ "19" : 5}]
+}

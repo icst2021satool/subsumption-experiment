@@ -1,0 +1,10 @@
+{
+"Class" : "weka.gui.arffviewer.ArffViewer$1", 
+"Methods" : [{ "Name" : "run" ,
+"Edges" : 12,
+"Duas" : 14,
+"4" : 8, 
+ "5" : 9, 
+ "9" : 8, 
+ "10" : 9}]
+}

@@ -1,0 +1,14 @@
+{
+"Class" : "weka.gui.scripting.FileScriptingPanel$OpenAction", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Nodes" : 8,
+"0" : [ 179 ]
+"1" : [ 182,183 ]
+"2" : [ 186,187,188 ]
+"3" : [ 193,194 ]
+"4" : [ 189,191 ]
+"5" : [ 184 ]
+"6" : [ 180 ]
+"7" : [  ]
+}]
+}

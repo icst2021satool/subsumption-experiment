@@ -1,0 +1,11 @@
+{
+"Class" : "weka.datagenerators.RegressionGenerator", 
+"Methods" : [{ "Name" : "setOptions" ,
+"Nodes" : 5,
+"0" : [ 96,97,94 ]
+"1" : [ 100 ]
+"2" : [ 102 ]
+"3" : [ 98 ]
+"4" : [  ]
+}]
+}

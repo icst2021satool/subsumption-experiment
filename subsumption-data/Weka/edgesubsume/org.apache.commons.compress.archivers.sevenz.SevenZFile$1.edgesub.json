@@ -1,0 +1,20 @@
+{
+"Class" : "org.apache.commons.compress.archivers.sevenz.SevenZFile$1", 
+"Methods" : [{ "Name" : "read" ,
+"Edges" : 4,
+"0" : [ 0, 1],
+"1" : [ 2, 3],
+"3" : [ 0, 1, 3],
+"2" : [ 3],
+"CoveredDUAsByEdges" : 4,
+"Duas" : 4
+},{ "Name" : "read" ,
+"Edges" : 4,
+"1" : [ 0, 1, 4],
+"2" : [ 2, 3],
+"0" : [ 0, 1, 3, 4],
+"3" : [ 3],
+"CoveredDUAsByEdges" : 5,
+"Duas" : 5
+}]
+}

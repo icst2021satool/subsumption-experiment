@@ -1,0 +1,15 @@
+{
+"Class" : "weka.filters.unsupervised.instance.SparseToNonSparse", 
+"Methods" : [{ "Name" : "input" ,
+"Nodes" : 9,
+"0" : [ 109 ]
+"1" : [ 112 ]
+"2" : [ 116,117 ]
+"3" : [ 121 ]
+"4" : [ 123,124 ]
+"5" : [ 118,119 ]
+"6" : [ 113,114 ]
+"7" : [ 110 ]
+"8" : [  ]
+}]
+}

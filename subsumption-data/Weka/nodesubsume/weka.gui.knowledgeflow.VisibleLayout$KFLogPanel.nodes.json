@@ -1,0 +1,14 @@
+{
+"Class" : "weka.gui.knowledgeflow.VisibleLayout$KFLogPanel", 
+"Methods" : [{ "Name" : "setMessageOnAll" ,
+"Nodes" : 8,
+"0" : [ 1146 ]
+"1" : [ 1146 ]
+"2" : [ 1154 ]
+"3" : [ 1146,1147 ]
+"4" : [ 1152,1153,1151 ]
+"5" : [ 1147 ]
+"6" : [ 1148 ]
+"7" : [  ]
+}]
+}

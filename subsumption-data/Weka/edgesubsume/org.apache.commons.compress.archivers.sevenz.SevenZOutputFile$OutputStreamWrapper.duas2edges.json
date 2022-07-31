@@ -1,0 +1,8 @@
+{
+"Class" : "org.apache.commons.compress.archivers.sevenz.SevenZOutputFile$OutputStreamWrapper", 
+"Methods" : [{ "Name" : "write" ,
+"Edges" : 5,
+"Duas" : 25,
+"12" : 1, 
+ "13" : 2}]
+}

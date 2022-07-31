@@ -1,0 +1,16 @@
+{
+"Class" : "weka.core.pmml.jaxbbindings.AssociationModel", 
+"Methods" : [{ "Name" : "getContent" ,
+"Nodes" : 4,
+"0" : [ 154 ]
+"1" : [ 157 ]
+"2" : [ 155 ]
+"3" : [  ]
+},{ "Name" : "isIsScorable" ,
+"Nodes" : 4,
+"0" : [ 241 ]
+"1" : [ 244 ]
+"2" : [ 242 ]
+"3" : [  ]
+}]
+}

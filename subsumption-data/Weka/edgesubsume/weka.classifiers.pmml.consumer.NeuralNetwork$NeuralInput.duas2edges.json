@@ -1,0 +1,14 @@
+{
+"Class" : "weka.classifiers.pmml.consumer.NeuralNetwork$NeuralInput", 
+"Methods" : [{ "Name" : "<init>" ,
+"Edges" : 8,
+"Duas" : 20,
+"3" : 6, 
+ "4" : 7, 
+ "7" : 3, 
+ "8" : 4, 
+ "12" : 3, 
+ "13" : 4, 
+ "16" : 3, 
+ "17" : 4}]
+}

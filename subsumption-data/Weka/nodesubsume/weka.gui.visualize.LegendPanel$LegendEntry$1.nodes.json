@@ -1,0 +1,15 @@
+{
+"Class" : "weka.gui.visualize.LegendPanel$LegendEntry$1", 
+"Methods" : [{ "Name" : "mouseClicked" ,
+"Nodes" : 9,
+"0" : [ 105 ]
+"1" : [ 121 ]
+"2" : [ 106,107,109 ]
+"3" : [ 113,110,111 ]
+"4" : [ 118 ]
+"5" : [ 114 ]
+"6" : [ 114 ]
+"7" : [ 114,115 ]
+"8" : [  ]
+}]
+}

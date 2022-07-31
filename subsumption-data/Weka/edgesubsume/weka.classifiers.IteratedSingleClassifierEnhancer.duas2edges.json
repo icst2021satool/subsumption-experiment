@@ -1,0 +1,14 @@
+{
+"Class" : "weka.classifiers.IteratedSingleClassifierEnhancer", 
+"Methods" : [{ "Name" : "buildClassifier" ,
+"Edges" : 4,
+"Duas" : 7,
+"0" : 1, 
+ "1" : 2, 
+ "3" : 1, 
+ "4" : 2},{ "Name" : "setOptions" ,
+"Edges" : 5,
+"Duas" : 7,
+"4" : 0, 
+ "5" : 1}]
+}

@@ -1,0 +1,16 @@
+{
+"Class" : "weka.core.pmml.jaxbbindings.DerivedField", 
+"Methods" : [{ "Name" : "getExtension" ,
+"Nodes" : 4,
+"0" : [ 124 ]
+"1" : [ 127 ]
+"2" : [ 125 ]
+"3" : [  ]
+},{ "Name" : "getValue" ,
+"Nodes" : 4,
+"0" : [ 345 ]
+"1" : [ 348 ]
+"2" : [ 346 ]
+"3" : [  ]
+}]
+}

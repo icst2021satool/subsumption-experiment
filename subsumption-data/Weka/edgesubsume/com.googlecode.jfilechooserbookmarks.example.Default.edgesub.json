@@ -1,0 +1,15 @@
+{
+"Class" : "com.googlecode.jfilechooserbookmarks.example.Default", 
+"Methods" : [{ "Name" : "main" ,
+"Edges" : 7,
+"4" : [ 1, 2],
+"5" : [ 3],
+"6" : [ 1, 2],
+"1" : [ 0, 1, 2],
+"2" : [ ],
+"3" : [ ],
+"0" : [ 0, 1, 2],
+"CoveredDUAsByEdges" : 4,
+"Duas" : 4
+}]
+}

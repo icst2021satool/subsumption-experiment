@@ -1,0 +1,14 @@
+{
+"Class" : "weka.filters.AllFilter", 
+"Methods" : [{ "Name" : "input" ,
+"Edges" : 11,
+"Duas" : 14,
+"0" : 7, 
+ "1" : 8, 
+ "2" : 9, 
+ "3" : 10, 
+ "8" : 1, 
+ "9" : 2, 
+ "12" : 9, 
+ "13" : 10}]
+}

@@ -1,0 +1,17 @@
+{
+"Class" : "weka.gui.knowledgeflow.KFGraphicalEnvironmentCommandHandler", 
+"Methods" : [{ "Name" : "<init>" ,
+"Nodes" : 5,
+"0" : [ 65,67,69,44,61,62 ]
+"1" : [ 69 ]
+"2" : [ 77,78 ]
+"3" : [ 69,70,71,73,74 ]
+"4" : [  ]
+},{ "Name" : "performCommand" ,
+"Nodes" : 4,
+"0" : [ 93,94 ]
+"1" : [ 98 ]
+"2" : [ 96,95 ]
+"3" : [  ]
+}]
+}

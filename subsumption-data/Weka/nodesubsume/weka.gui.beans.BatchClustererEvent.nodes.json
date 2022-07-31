@@ -1,0 +1,11 @@
+{
+"Class" : "weka.gui.beans.BatchClustererEvent", 
+"Methods" : [{ "Name" : "<init>" ,
+"Nodes" : 5,
+"0" : [ 84,86,87,88,89,90 ]
+"1" : [ 93 ]
+"2" : [ 94 ]
+"3" : [ 91 ]
+"4" : [  ]
+}]
+}

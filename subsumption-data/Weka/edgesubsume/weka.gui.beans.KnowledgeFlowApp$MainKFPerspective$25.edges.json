@@ -1,0 +1,14 @@
+{
+"Class" : "weka.gui.beans.KnowledgeFlowApp$MainKFPerspective$25", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Edges" : 8,
+"0" : [ 0,5 ],
+"1" : [ 0,1 ],
+"2" : [ 3,6 ],
+"3" : [ 1,2 ],
+"4" : [ 2,4 ],
+"5" : [ 2,3 ],
+"6" : [ 4,3 ],
+"7" : [ 5,2 ]
+}]
+}

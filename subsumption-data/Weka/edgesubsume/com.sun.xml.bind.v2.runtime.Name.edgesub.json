@@ -1,0 +1,23 @@
+{
+"Class" : "com.sun.xml.bind.v2.runtime.Name", 
+"Methods" : [{ "Name" : "equals" ,
+"Edges" : 7,
+"4" : [ 0, 6, 8],
+"5" : [ 1, 7, 9],
+"1" : [ 0, 2, 4, 6, 8, 10],
+"2" : [ 3, 5, 11],
+"3" : [ ],
+"6" : [ 0, 2, 4, 6, 8, 10],
+"0" : [ ],
+"CoveredDUAsByEdges" : 12,
+"Duas" : 12
+},{ "Name" : "compareTo" ,
+"Edges" : 4,
+"1" : [ 4, 6],
+"2" : [ 0, 1, 2, 3, 5],
+"3" : [ 0, 1, 2, 3, 5],
+"0" : [ 4, 6],
+"CoveredDUAsByEdges" : 7,
+"Duas" : 7
+}]
+}

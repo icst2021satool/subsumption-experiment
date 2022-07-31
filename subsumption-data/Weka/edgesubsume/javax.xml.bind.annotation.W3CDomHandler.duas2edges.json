@@ -1,0 +1,22 @@
+{
+"Class" : "javax.xml.bind.annotation.W3CDomHandler", 
+"Methods" : [{ "Name" : "<init>" ,
+"Edges" : 4,
+"Duas" : 4,
+"1" : 0, 
+ "2" : 1},{ "Name" : "createUnmarshaller" ,
+"Edges" : 4,
+"Duas" : 6,
+"0" : 1, 
+ "1" : 2, 
+ "3" : 1, 
+ "4" : 2},{ "Name" : "getElement" ,
+"Edges" : 10,
+"Duas" : 10,
+"0" : 7, 
+ "1" : 8, 
+ "2" : 0, 
+ "3" : 1, 
+ "4" : 3, 
+ "5" : 4}]
+}

@@ -1,0 +1,11 @@
+{
+"Class" : "weka.clusterers.RandomizableSingleClustererEnhancer", 
+"Methods" : [{ "Name" : "setOptions" ,
+"Nodes" : 5,
+"0" : [ 80,79 ]
+"1" : [ 83 ]
+"2" : [ 86,87 ]
+"3" : [ 81 ]
+"4" : [  ]
+}]
+}

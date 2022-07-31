@@ -1,0 +1,18 @@
+{
+"Class" : "java_cup.runtime.SyntaxTreeDFS$AbstractVisitor", 
+"Methods" : [{ "Name" : "preVisit" ,
+"Nodes" : 5,
+"0" : [ 17,18 ]
+"1" : [ 21 ]
+"2" : [ 22 ]
+"3" : [ 19 ]
+"4" : [  ]
+},{ "Name" : "postVisit" ,
+"Nodes" : 5,
+"0" : [ 25,26 ]
+"1" : [ 29 ]
+"2" : [ 30 ]
+"3" : [ 27 ]
+"4" : [  ]
+}]
+}

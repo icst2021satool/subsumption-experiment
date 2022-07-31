@@ -1,0 +1,12 @@
+{
+"Class" : "com.sun.xml.bind.v2.runtime.unmarshaller.DefaultValueLoaderDecorator", 
+"Methods" : [{ "Name" : "startElement" ,
+"Nodes" : 4,
+"0" : [ ],
+"2" : [ 2, 3, 7, 9],
+"1" : [ 0, 1, 5, 6, 8, 10, 11],
+"3" : [ 0, 1, 5, 6, 8, 10, 11],
+"CoveredDUAsByNodes" : 11,
+"Duas" : 12
+}]
+}

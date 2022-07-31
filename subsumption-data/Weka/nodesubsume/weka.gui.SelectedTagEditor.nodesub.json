@@ -1,0 +1,35 @@
+{
+"Class" : "weka.gui.SelectedTagEditor", 
+"Methods" : [{ "Name" : "getJavaInitializationString" ,
+"Nodes" : 7,
+"0" : [ ],
+"1" : [ ],
+"2" : [ 1],
+"6" : [ 1],
+"3" : [ 0, 2, 6, 7, 9],
+"5" : [ 0, 2, 3, 6, 7, 9, 14],
+"4" : [ 0, 2, 6, 7, 9, 12],
+"CoveredDUAsByNodes" : 9,
+"Duas" : 24
+},{ "Name" : "setAsText" ,
+"Nodes" : 7,
+"0" : [ ],
+"1" : [ ],
+"2" : [ 4],
+"3" : [ 3, 8],
+"4" : [ 2, 3, 6, 8, 11, 12],
+"5" : [ 0, 1, 3, 5, 7, 8],
+"6" : [ ],
+"CoveredDUAsByNodes" : 11,
+"Duas" : 20
+},{ "Name" : "getTags" ,
+"Nodes" : 5,
+"0" : [ ],
+"1" : [ ],
+"2" : [ 1, 3],
+"4" : [ 1, 3],
+"3" : [ 0, 2, 4, 5, 7, 8],
+"CoveredDUAsByNodes" : 8,
+"Duas" : 13
+}]
+}

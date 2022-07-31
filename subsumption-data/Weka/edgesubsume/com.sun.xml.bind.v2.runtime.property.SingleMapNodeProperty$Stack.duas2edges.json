@@ -1,0 +1,14 @@
+{
+"Class" : "com.sun.xml.bind.v2.runtime.property.SingleMapNodeProperty$Stack", 
+"Methods" : [{ "Name" : "push" ,
+"Edges" : 5,
+"Duas" : 7,
+"4" : 2, 
+ "5" : 3},{ "Name" : "pop" ,
+"Edges" : 5,
+"Duas" : 10,
+"2" : 3, 
+ "3" : 4, 
+ "6" : 3, 
+ "7" : 4}]
+}

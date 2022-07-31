@@ -1,0 +1,14 @@
+{
+"Class" : "weka.gui.beans.JoinCustomizer$2", 
+"Methods" : [{ "Name" : "valueChanged" ,
+"Edges" : 6,
+"Duas" : 11,
+"0" : 1, 
+ "1" : 2, 
+ "3" : 4, 
+ "4" : 5, 
+ "5" : 1, 
+ "6" : 2, 
+ "8" : 1, 
+ "9" : 2}]
+}

@@ -1,0 +1,13 @@
+{
+"Class" : "weka.gui.visualize.LegendPanel$LegendEntry$2", 
+"Methods" : [{ "Name" : "paintComponent" ,
+"Nodes" : 5,
+"0" : [ ],
+"1" : [ 1, 2, 4, 8, 9],
+"3" : [ 0, 6, 7, 11],
+"2" : [ 3, 5, 10],
+"4" : [ 3, 5, 10],
+"CoveredDUAsByNodes" : 12,
+"Duas" : 12
+}]
+}

@@ -1,0 +1,13 @@
+{
+"Class" : "weka.classifiers.functions.MultilayerPerceptron$1", 
+"Methods" : [{ "Name" : "windowClosing" ,
+"Nodes" : 5,
+"0" : [ ],
+"1" : [ 0, 5, 12],
+"3" : [ 2, 3, 4, 7, 8, 9, 11],
+"2" : [ 1, 6, 10],
+"4" : [ 1, 6, 10],
+"CoveredDUAsByNodes" : 13,
+"Duas" : 13
+}]
+}

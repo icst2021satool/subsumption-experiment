@@ -1,0 +1,14 @@
+{
+"Class" : "weka.gui.GenericArrayEditor$CustomEditor$EditorListCellRenderer$1", 
+"Methods" : [{ "Name" : "paintComponent" ,
+"Edges" : 9,
+"Duas" : 20,
+"0" : 4, 
+ "1" : 5, 
+ "4" : 0, 
+ "5" : 1, 
+ "12" : 4, 
+ "13" : 5, 
+ "14" : 0, 
+ "15" : 1}]
+}

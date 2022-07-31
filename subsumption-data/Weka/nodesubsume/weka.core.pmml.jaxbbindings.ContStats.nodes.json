@@ -1,0 +1,22 @@
+{
+"Class" : "weka.core.pmml.jaxbbindings.ContStats", 
+"Methods" : [{ "Name" : "getExtension" ,
+"Nodes" : 4,
+"0" : [ 89 ]
+"1" : [ 92 ]
+"2" : [ 90 ]
+"3" : [  ]
+},{ "Name" : "getInterval" ,
+"Nodes" : 4,
+"0" : [ 118 ]
+"1" : [ 121 ]
+"2" : [ 119 ]
+"3" : [  ]
+},{ "Name" : "getNUMARRAY" ,
+"Nodes" : 4,
+"0" : [ 147 ]
+"1" : [ 150 ]
+"2" : [ 148 ]
+"3" : [  ]
+}]
+}

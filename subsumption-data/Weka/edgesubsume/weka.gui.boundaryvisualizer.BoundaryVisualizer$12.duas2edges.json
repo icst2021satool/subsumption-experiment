@@ -1,0 +1,8 @@
+{
+"Class" : "weka.gui.boundaryvisualizer.BoundaryVisualizer$12", 
+"Methods" : [{ "Name" : "itemStateChanged" ,
+"Edges" : 4,
+"Duas" : 8,
+"3" : 1, 
+ "4" : 2}]
+}

@@ -1,0 +1,16 @@
+{
+"Class" : "weka.knowledgeflow.steps.Job$1", 
+"Methods" : [{ "Name" : "logMessage" ,
+"Edges" : 17,
+"Duas" : 33,
+"6" : 9, 
+ "7" : 10, 
+ "8" : 6, 
+ "9" : 7, 
+ "10" : 4, 
+ "11" : 5, 
+ "12" : 0, 
+ "13" : 1, 
+ "14" : 2, 
+ "15" : 3}]
+}

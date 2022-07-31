@@ -1,0 +1,14 @@
+{
+"Class" : "weka.classifiers.evaluation.AbstractEvaluationMetric", 
+"Methods" : [{ "Name" : "getPluginMetrics" ,
+"Nodes" : 8,
+"0" : [ 50,51,52,53,54 ]
+"1" : [ 70 ]
+"2" : [ 55,57 ]
+"3" : [ 57 ]
+"4" : [ 57,59,60,61,62 ]
+"5" : [ 67,68 ]
+"6" : [ 63 ]
+"7" : [  ]
+}]
+}

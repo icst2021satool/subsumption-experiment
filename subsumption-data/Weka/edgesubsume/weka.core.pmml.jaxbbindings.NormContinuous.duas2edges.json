@@ -1,0 +1,22 @@
+{
+"Class" : "weka.core.pmml.jaxbbindings.NormContinuous", 
+"Methods" : [{ "Name" : "getExtension" ,
+"Edges" : 4,
+"Duas" : 8,
+"0" : 1, 
+ "1" : 2, 
+ "4" : 1, 
+ "5" : 2},{ "Name" : "getLinearNorm" ,
+"Edges" : 4,
+"Duas" : 8,
+"0" : 0, 
+ "1" : 1, 
+ "4" : 0, 
+ "5" : 1},{ "Name" : "getOutliers" ,
+"Edges" : 4,
+"Duas" : 7,
+"0" : 2, 
+ "1" : 3, 
+ "3" : 2, 
+ "4" : 3}]
+}

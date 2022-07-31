@@ -1,0 +1,13 @@
+{
+"Class" : "weka.classifiers.rules.DecisionTable$DummySubsetEvaluator", 
+"Methods" : [{ "Name" : "evaluateSubset" ,
+"Nodes" : 7,
+"0" : [ 1076,1077 ]
+"1" : [ 1077 ]
+"2" : [ 1083 ]
+"3" : [ 1078 ]
+"4" : [ 1077 ]
+"5" : [ 1079 ]
+"6" : [  ]
+}]
+}

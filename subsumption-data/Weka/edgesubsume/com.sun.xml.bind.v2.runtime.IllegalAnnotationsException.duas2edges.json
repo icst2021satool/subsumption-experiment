@@ -1,0 +1,13 @@
+{
+"Class" : "com.sun.xml.bind.v2.runtime.IllegalAnnotationsException", 
+"Methods" : [{ "Name" : "<init>" ,
+"Edges" : 6,
+"Duas" : 6,
+"2" : 4, 
+ "3" : 5, 
+ "4" : 2, 
+ "5" : 3},{ "Name" : "toString" ,
+"Edges" : 5,
+"Duas" : 2,
+}]
+}

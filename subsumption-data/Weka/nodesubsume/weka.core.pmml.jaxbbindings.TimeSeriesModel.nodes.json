@@ -1,0 +1,16 @@
+{
+"Class" : "weka.core.pmml.jaxbbindings.TimeSeriesModel", 
+"Methods" : [{ "Name" : "getContent" ,
+"Nodes" : 4,
+"0" : [ 138 ]
+"1" : [ 141 ]
+"2" : [ 139 ]
+"3" : [  ]
+},{ "Name" : "isIsScorable" ,
+"Nodes" : 4,
+"0" : [ 225 ]
+"1" : [ 228 ]
+"2" : [ 226 ]
+"3" : [  ]
+}]
+}

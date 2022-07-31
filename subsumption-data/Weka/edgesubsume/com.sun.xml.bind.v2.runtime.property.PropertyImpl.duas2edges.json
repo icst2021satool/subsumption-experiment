@@ -1,0 +1,10 @@
+{
+"Class" : "com.sun.xml.bind.v2.runtime.property.PropertyImpl", 
+"Methods" : [{ "Name" : "<init>" ,
+"Edges" : 4,
+"Duas" : 6,
+"1" : 1, 
+ "2" : 2, 
+ "4" : 1, 
+ "5" : 2}]
+}

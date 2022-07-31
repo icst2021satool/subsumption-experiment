@@ -1,0 +1,18 @@
+{
+"Class" : "weka.gui.knowledgeflow.steps.GraphViewerInteractiveView$4", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Edges" : 6,
+"Duas" : 18,
+"0" : 0, 
+ "1" : 1, 
+ "4" : 4, 
+ "5" : 5, 
+ "6" : 0, 
+ "7" : 1, 
+ "10" : 4, 
+ "11" : 5, 
+ "12" : 0, 
+ "13" : 1, 
+ "14" : 4, 
+ "15" : 5}]
+}

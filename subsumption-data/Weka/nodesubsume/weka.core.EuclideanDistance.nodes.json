@@ -1,0 +1,27 @@
+{
+"Class" : "weka.core.EuclideanDistance", 
+"Methods" : [{ "Name" : "postProcessDistances" ,
+"Nodes" : 5,
+"0" : [ 197 ]
+"1" : [ 197 ]
+"2" : [ 200 ]
+"3" : [ 197,198 ]
+"4" : [  ]
+},{ "Name" : "closestPoint" ,
+"Nodes" : 7,
+"0" : [ 240,241,239 ]
+"1" : [ 241 ]
+"2" : [ 248 ]
+"3" : [ 242,243 ]
+"4" : [ 241 ]
+"5" : [ 244,245 ]
+"6" : [  ]
+},{ "Name" : "valueIsSmallerEqual" ,
+"Nodes" : 5,
+"0" : [ 262 ]
+"1" : [ 262 ]
+"2" : [ 262 ]
+"3" : [ 262 ]
+"4" : [  ]
+}]
+}

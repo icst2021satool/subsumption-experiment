@@ -1,0 +1,30 @@
+{
+"Class" : "weka.core.converters.ConverterUtils$DataSink", 
+"Methods" : [{ "Name" : "<init>" ,
+"Edges" : 5,
+"3" : [ 2, 3],
+"4" : [ 0, 4, 5],
+"2" : [ 0, 1, 4, 5, 6],
+"1" : [ 1, 2, 3, 6],
+"0" : [ 1, 6],
+"CoveredDUAsByEdges" : 7,
+"Duas" : 9
+},{ "Name" : "write" ,
+"Edges" : 5,
+"2" : [ 0, 4, 5, 7, 8, 10, 11],
+"3" : [ 1, 2, 3, 6, 9, 12, 13],
+"1" : [ 1, 2, 3, 6, 9, 12, 13],
+"0" : [ 0, 4, 5, 7, 8, 10, 11],
+"4" : [ ],
+"CoveredDUAsByEdges" : 14,
+"Duas" : 14
+},{ "Name" : "main" ,
+"Edges" : 4,
+"1" : [ 0, 4],
+"2" : [ 1, 2, 3],
+"0" : [ 0, 2, 3, 4],
+"3" : [ 2, 3],
+"CoveredDUAsByEdges" : 5,
+"Duas" : 5
+}]
+}

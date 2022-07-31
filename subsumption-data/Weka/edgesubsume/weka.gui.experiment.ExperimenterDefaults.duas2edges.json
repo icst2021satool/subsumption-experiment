@@ -1,0 +1,14 @@
+{
+"Class" : "weka.gui.experiment.ExperimenterDefaults", 
+"Methods" : [{ "Name" : "getInitialDatasetsDirectory" ,
+"Edges" : 4,
+"Duas" : 4,
+"0" : 2, 
+ "1" : 3},{ "Name" : "main" ,
+"Edges" : 9,
+"Duas" : 12,
+"3" : 7, 
+ "4" : 8, 
+ "9" : 1, 
+ "10" : 2}]
+}

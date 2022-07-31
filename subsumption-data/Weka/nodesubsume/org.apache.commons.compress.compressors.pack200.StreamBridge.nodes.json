@@ -1,0 +1,16 @@
+{
+"Class" : "org.apache.commons.compress.compressors.pack200.StreamBridge", 
+"Methods" : [{ "Name" : "getInput" ,
+"Nodes" : 4,
+"0" : [ 50,51 ]
+"1" : [ 54,55 ]
+"2" : [ 52 ]
+"3" : [  ]
+},{ "Name" : "stop" ,
+"Nodes" : 4,
+"0" : [ 67,68,69 ]
+"1" : [ 73,74 ]
+"2" : [ 70,71 ]
+"3" : [  ]
+}]
+}

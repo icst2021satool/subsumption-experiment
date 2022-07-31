@@ -1,0 +1,14 @@
+{
+"Class" : "weka.gui.graphvisualizer.GraphVisualizer$7", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Edges" : 7,
+"Duas" : 20,
+"12" : 4, 
+ "13" : 5, 
+ "14" : 1, 
+ "15" : 2, 
+ "16" : 4, 
+ "17" : 5, 
+ "18" : 1, 
+ "19" : 2}]
+}

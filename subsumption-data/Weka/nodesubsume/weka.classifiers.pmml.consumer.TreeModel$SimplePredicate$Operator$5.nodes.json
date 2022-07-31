@@ -1,0 +1,11 @@
+{
+"Class" : "weka.classifiers.pmml.consumer.TreeModel$SimplePredicate$Operator$5", 
+"Methods" : [{ "Name" : "evaluate" ,
+"Nodes" : 5,
+"0" : [ 350,351 ]
+"1" : [ 351 ]
+"2" : [ 350 ]
+"3" : [ 351 ]
+"4" : [  ]
+}]
+}

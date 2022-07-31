@@ -1,0 +1,8 @@
+{
+"Class" : "org.apache.commons.compress.compressors.zstandard.ZstdCompressorInputStream", 
+"Methods" : [{ "Name" : "read" ,
+"Edges" : 5,
+"Duas" : 4,
+"1" : 0, 
+ "2" : 1}]
+}

@@ -1,0 +1,12 @@
+{
+"Class" : "weka.gui.LogWindow$4", 
+"Methods" : [{ "Name" : "setSize" ,
+"Edges" : 4,
+"1" : [ 0, 3, 4, 7, 8],
+"2" : [ 1, 2, 5, 6, 9],
+"0" : [ 0, 2, 3, 4, 6, 7, 8],
+"3" : [ 2, 6],
+"CoveredDUAsByEdges" : 10,
+"Duas" : 10
+}]
+}

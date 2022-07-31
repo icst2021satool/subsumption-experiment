@@ -1,0 +1,11 @@
+{
+"Class" : "weka.gui.scripting.event.ScriptExecutionEvent", 
+"Methods" : [{ "Name" : "hasAdditional" ,
+"Nodes" : 5,
+"0" : [ 111 ]
+"1" : [ 111 ]
+"2" : [ 111 ]
+"3" : [ 111 ]
+"4" : [  ]
+}]
+}

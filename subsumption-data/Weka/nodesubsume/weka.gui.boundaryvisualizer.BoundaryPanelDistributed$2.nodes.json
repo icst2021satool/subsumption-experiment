@@ -1,0 +1,11 @@
+{
+"Class" : "weka.gui.boundaryvisualizer.BoundaryPanelDistributed$2", 
+"Methods" : [{ "Name" : "remoteExperimentStatus" ,
+"Nodes" : 5,
+"0" : [ 579 ]
+"1" : [ 585 ]
+"2" : [ 587 ]
+"3" : [ 580,581,582,584 ]
+"4" : [  ]
+}]
+}

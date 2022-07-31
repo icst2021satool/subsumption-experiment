@@ -1,0 +1,16 @@
+{
+"Class" : "weka.core.EnumHelper", 
+"Methods" : [{ "Name" : "valueFromString" ,
+"Edges" : 8,
+"Duas" : 5,
+"0" : 4, 
+ "1" : 5, 
+ "2" : 4, 
+ "3" : 5},{ "Name" : "main" ,
+"Edges" : 7,
+"Duas" : 9,
+"0" : 5, 
+ "1" : 6, 
+ "7" : 3, 
+ "8" : 4}]
+}

@@ -1,0 +1,11 @@
+{
+"Class" : "weka.gui.explorer.ClustererPanel$30", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Nodes" : 5,
+"0" : [ 1424 ]
+"1" : [ 1427 ]
+"2" : [ 1429,1430 ]
+"3" : [ 1425 ]
+"4" : [  ]
+}]
+}

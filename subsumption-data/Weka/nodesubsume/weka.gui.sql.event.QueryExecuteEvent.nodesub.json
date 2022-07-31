@@ -1,0 +1,22 @@
+{
+"Class" : "weka.gui.sql.event.QueryExecuteEvent", 
+"Methods" : [{ "Name" : "failed" ,
+"Nodes" : 5,
+"0" : [ ],
+"1" : [ 1, 3],
+"3" : [ 0, 2],
+"2" : [ ],
+"4" : [ ],
+"CoveredDUAsByNodes" : 4,
+"Duas" : 4
+},{ "Name" : "hasResult" ,
+"Nodes" : 5,
+"0" : [ ],
+"1" : [ 1, 3],
+"3" : [ 0, 2],
+"2" : [ ],
+"4" : [ ],
+"CoveredDUAsByNodes" : 4,
+"Duas" : 4
+}]
+}

@@ -1,0 +1,10 @@
+{
+"Class" : "weka.core.pmml.jaxbbindings.Cluster", 
+"Methods" : [{ "Name" : "getExtension" ,
+"Nodes" : 4,
+"0" : [ 101 ]
+"1" : [ 104 ]
+"2" : [ 102 ]
+"3" : [  ]
+}]
+}

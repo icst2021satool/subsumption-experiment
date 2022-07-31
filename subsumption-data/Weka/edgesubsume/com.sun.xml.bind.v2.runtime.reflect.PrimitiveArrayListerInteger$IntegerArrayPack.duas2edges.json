@@ -1,0 +1,22 @@
+{
+"Class" : "com.sun.xml.bind.v2.runtime.reflect.PrimitiveArrayListerInteger$IntegerArrayPack", 
+"Methods" : [{ "Name" : "add" ,
+"Edges" : 7,
+"Duas" : 19,
+"0" : 4, 
+ "1" : 5, 
+ "7" : 0, 
+ "8" : 1, 
+ "10" : 4, 
+ "11" : 5, 
+ "13" : 4, 
+ "14" : 5},{ "Name" : "build" ,
+"Edges" : 4,
+"Duas" : 13,
+"0" : 1, 
+ "1" : 2, 
+ "5" : 1, 
+ "6" : 2, 
+ "9" : 1, 
+ "10" : 2}]
+}

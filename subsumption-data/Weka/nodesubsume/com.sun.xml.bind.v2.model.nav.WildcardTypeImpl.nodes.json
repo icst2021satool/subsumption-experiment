@@ -1,0 +1,14 @@
+{
+"Class" : "com.sun.xml.bind.v2.model.nav.WildcardTypeImpl", 
+"Methods" : [{ "Name" : "equals" ,
+"Nodes" : 8,
+"0" : [ 43 ]
+"1" : [ 48 ]
+"2" : [ 44,45 ]
+"3" : [ 46 ]
+"4" : [ 45 ]
+"5" : [ 45,46 ]
+"6" : [ 46 ]
+"7" : [  ]
+}]
+}

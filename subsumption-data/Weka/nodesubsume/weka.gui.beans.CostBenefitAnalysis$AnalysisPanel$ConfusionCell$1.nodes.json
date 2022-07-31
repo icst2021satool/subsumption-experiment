@@ -1,0 +1,10 @@
+{
+"Class" : "weka.gui.beans.CostBenefitAnalysis$AnalysisPanel$ConfusionCell$1", 
+"Methods" : [{ "Name" : "paintComponent" ,
+"Nodes" : 4,
+"0" : [ 241,243 ]
+"1" : [ 250 ]
+"2" : [ 244,245,246,247,248 ]
+"3" : [  ]
+}]
+}

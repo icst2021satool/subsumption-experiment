@@ -1,0 +1,8 @@
+{
+"Class" : "com.sun.xml.bind.api.impl.NameConverter$2", 
+"Methods" : [{ "Name" : "toConstantName" ,
+"Edges" : 4,
+"Duas" : 4,
+"0" : 2, 
+ "1" : 3}]
+}

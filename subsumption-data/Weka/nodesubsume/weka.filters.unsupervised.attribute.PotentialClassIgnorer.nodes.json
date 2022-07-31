@@ -1,0 +1,22 @@
+{
+"Class" : "weka.filters.unsupervised.attribute.PotentialClassIgnorer", 
+"Methods" : [{ "Name" : "getOptions" ,
+"Nodes" : 4,
+"0" : [ 93,95 ]
+"1" : [ 99 ]
+"2" : [ 96 ]
+"3" : [  ]
+},{ "Name" : "setInputFormat" ,
+"Nodes" : 4,
+"0" : [ 118,119 ]
+"1" : [ 123 ]
+"2" : [ 120,121 ]
+"3" : [  ]
+},{ "Name" : "getOutputFormat" ,
+"Nodes" : 4,
+"0" : [ 139 ]
+"1" : [ 142 ]
+"2" : [ 140 ]
+"3" : [  ]
+}]
+}

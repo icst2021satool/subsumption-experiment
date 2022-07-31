@@ -1,0 +1,10 @@
+{
+"Class" : "weka.gui.GenericObjectEditor$5", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Edges" : 4,
+"Duas" : 6,
+"0" : 1, 
+ "1" : 2, 
+ "3" : 1, 
+ "4" : 2}]
+}

@@ -1,0 +1,8 @@
+{
+"Class" : "weka.clusterers.RandomizableDensityBasedClusterer", 
+"Methods" : [{ "Name" : "setOptions" ,
+"Edges" : 5,
+"Duas" : 8,
+"5" : 0, 
+ "6" : 1}]
+}

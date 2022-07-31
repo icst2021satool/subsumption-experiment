@@ -1,0 +1,13 @@
+{
+"Class" : "weka.gui.SettingsEditor$PickList", 
+"Methods" : [{ "Name" : "<init>" ,
+"Nodes" : 5,
+"0" : [ ],
+"1" : [ ],
+"2" : [ 0, 1, 3],
+"4" : [ 0, 1, 3],
+"3" : [ 2, 4],
+"CoveredDUAsByNodes" : 5,
+"Duas" : 5
+}]
+}

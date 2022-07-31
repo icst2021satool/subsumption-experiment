@@ -1,0 +1,12 @@
+{
+"Class" : "com.sun.xml.bind.v2.model.impl.ERPropertyInfoImpl", 
+"Methods" : [{ "Name" : "<init>" ,
+"Edges" : 10,
+"Duas" : 25,
+"0" : 0, 
+ "1" : 1, 
+ "13" : 2, 
+ "14" : 3, 
+ "18" : 8, 
+ "19" : 9}]
+}

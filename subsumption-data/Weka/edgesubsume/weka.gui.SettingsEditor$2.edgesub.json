@@ -1,0 +1,14 @@
+{
+"Class" : "weka.gui.SettingsEditor$2", 
+"Methods" : [{ "Name" : "hierarchyChanged" ,
+"Edges" : 6,
+"0" : [ 0, 2],
+"1" : [ 1],
+"4" : [ 0, 2, 3, 5],
+"5" : [ 4],
+"2" : [ 0, 2, 3, 5],
+"3" : [ ],
+"CoveredDUAsByEdges" : 6,
+"Duas" : 6
+}]
+}

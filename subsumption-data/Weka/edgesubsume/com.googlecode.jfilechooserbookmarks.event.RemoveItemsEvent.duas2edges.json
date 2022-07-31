@@ -1,0 +1,14 @@
+{
+"Class" : "com.googlecode.jfilechooserbookmarks.event.RemoveItemsEvent", 
+"Methods" : [{ "Name" : "<init>" ,
+"Edges" : 5,
+"Duas" : 5,
+"2" : 0, 
+ "3" : 1},{ "Name" : "hasIndices" ,
+"Edges" : 5,
+"Duas" : 4,
+"0" : 0, 
+ "1" : 1, 
+ "2" : 0, 
+ "3" : 1}]
+}

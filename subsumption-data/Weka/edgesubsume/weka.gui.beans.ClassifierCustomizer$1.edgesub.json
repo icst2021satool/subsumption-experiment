@@ -1,0 +1,12 @@
+{
+"Class" : "weka.gui.beans.ClassifierCustomizer$1", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Edges" : 4,
+"0" : [ 0, 2, 3, 5],
+"1" : [ 1, 4],
+"3" : [ 0, 2, 3, 5],
+"2" : [ ],
+"CoveredDUAsByEdges" : 6,
+"Duas" : 6
+}]
+}

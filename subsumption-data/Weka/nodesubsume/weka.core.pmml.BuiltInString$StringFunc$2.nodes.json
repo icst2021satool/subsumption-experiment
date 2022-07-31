@@ -1,0 +1,11 @@
+{
+"Class" : "weka.core.pmml.BuiltInString$StringFunc$2", 
+"Methods" : [{ "Name" : "legalNumParams" ,
+"Nodes" : 5,
+"0" : [ 46 ]
+"1" : [ 46 ]
+"2" : [ 46 ]
+"3" : [ 46 ]
+"4" : [  ]
+}]
+}

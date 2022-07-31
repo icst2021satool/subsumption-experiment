@@ -1,0 +1,16 @@
+{
+"Class" : "weka.core.pmml.jaxbbindings.NormDiscrete", 
+"Methods" : [{ "Name" : "getExtension" ,
+"Nodes" : 4,
+"0" : [ 100 ]
+"1" : [ 103 ]
+"2" : [ 101 ]
+"3" : [  ]
+},{ "Name" : "getMethod" ,
+"Nodes" : 4,
+"0" : [ 163 ]
+"1" : [ 166 ]
+"2" : [ 164 ]
+"3" : [  ]
+}]
+}

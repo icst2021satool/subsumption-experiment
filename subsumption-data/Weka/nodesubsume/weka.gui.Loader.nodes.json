@@ -1,0 +1,16 @@
+{
+"Class" : "weka.gui.Loader", 
+"Methods" : [{ "Name" : "processFilename" ,
+"Nodes" : 4,
+"0" : [ 60 ]
+"1" : [ 63 ]
+"2" : [ 61 ]
+"3" : [  ]
+},{ "Name" : "getReader" ,
+"Nodes" : 4,
+"0" : [ 119,121 ]
+"1" : [ 124 ]
+"2" : [ 122 ]
+"3" : [  ]
+}]
+}

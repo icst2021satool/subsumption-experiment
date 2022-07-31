@@ -1,0 +1,16 @@
+{
+"Class" : "weka.core.pmml.jaxbbindings.PredictiveModelQuality", 
+"Methods" : [{ "Name" : "getExtension" ,
+"Nodes" : 4,
+"0" : [ 152 ]
+"1" : [ 155 ]
+"2" : [ 153 ]
+"3" : [  ]
+},{ "Name" : "getDataUsage" ,
+"Nodes" : 4,
+"0" : [ 359 ]
+"1" : [ 362 ]
+"2" : [ 360 ]
+"3" : [  ]
+}]
+}

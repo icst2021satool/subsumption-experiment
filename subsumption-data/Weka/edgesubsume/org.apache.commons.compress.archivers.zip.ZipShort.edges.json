@@ -1,0 +1,16 @@
+{
+"Class" : "org.apache.commons.compress.archivers.zip.ZipShort", 
+"Methods" : [{ "Name" : "equals" ,
+"Edges" : 10,
+"0" : [ 5,7 ],
+"1" : [ 6,5 ],
+"2" : [ 1,7 ],
+"3" : [ 3,6 ],
+"4" : [ 3,4 ],
+"5" : [ 2,1 ],
+"6" : [ 2,3 ],
+"7" : [ 0,2 ],
+"8" : [ 0,1 ],
+"9" : [ 4,5 ]
+}]
+}

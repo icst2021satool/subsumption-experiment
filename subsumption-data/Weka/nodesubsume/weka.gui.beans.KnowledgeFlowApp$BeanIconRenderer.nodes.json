@@ -1,0 +1,12 @@
+{
+"Class" : "weka.gui.beans.KnowledgeFlowApp$BeanIconRenderer", 
+"Methods" : [{ "Name" : "getTreeCellRendererComponent" ,
+"Nodes" : 6,
+"0" : [ 391,394 ]
+"1" : [ 403 ]
+"2" : [ 395,396 ]
+"3" : [ 397,398 ]
+"4" : [ 399 ]
+"5" : [  ]
+}]
+}

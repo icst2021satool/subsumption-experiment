@@ -1,0 +1,13 @@
+{
+"Class" : "weka.gui.GenericObjectEditor$GOEPanel$5", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Nodes" : 7,
+"0" : [ 816,814,815 ]
+"1" : [ 826 ]
+"2" : [ 831 ]
+"3" : [ 826,827 ]
+"4" : [ 828,829 ]
+"5" : [ 818,821,822,823,824 ]
+"6" : [  ]
+}]
+}

@@ -1,0 +1,23 @@
+{
+"Class" : "com.sun.xml.bind.v2.model.impl.RuntimeReferencePropertyInfoImpl", 
+"Methods" : [{ "Name" : "<init>" ,
+"Edges" : 6,
+"0" : [ 0],
+"1" : [ 1, 2, 6],
+"3" : [ 0, 3, 5, 7],
+"4" : [ 2, 4, 6],
+"5" : [ 0, 2, 3, 5, 7],
+"2" : [ 2],
+"CoveredDUAsByEdges" : 8,
+"Duas" : 9
+},{ "Name" : "elementOnlyContent" ,
+"Edges" : 5,
+"2" : [ 0],
+"3" : [ 1],
+"4" : [ 1],
+"1" : [ 0],
+"0" : [ ],
+"CoveredDUAsByEdges" : 2,
+"Duas" : 2
+}]
+}
