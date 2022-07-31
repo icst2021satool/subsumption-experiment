@@ -1,0 +1,13 @@
+{
+"Class" : "org.apache.commons.lang3.event.EventListenerSupport$ProxyInvocationHandler", 
+"Methods" : [{ "Name" : "invoke" ,
+"Nodes" : 5,
+"0" : [ ],
+"1" : [ ],
+"2" : [ 3],
+"4" : [ 3],
+"3" : [ 0, 1, 2, 4],
+"CoveredDUAsByNodes" : 5,
+"Duas" : 5
+}]
+}

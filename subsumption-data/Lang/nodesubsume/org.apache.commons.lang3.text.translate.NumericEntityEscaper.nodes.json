@@ -1,0 +1,15 @@
+{
+"Class" : "org.apache.commons.lang3.text.translate.NumericEntityEscaper", 
+"Methods" : [{ "Name" : "translate" ,
+"Nodes" : 9,
+"0" : [ 104 ]
+"1" : [ 109 ]
+"2" : [ 114,115,116,117 ]
+"3" : [ 109 ]
+"4" : [ 110 ]
+"5" : [ 105 ]
+"6" : [ 106 ]
+"7" : [ 105 ]
+"8" : [  ]
+}]
+}

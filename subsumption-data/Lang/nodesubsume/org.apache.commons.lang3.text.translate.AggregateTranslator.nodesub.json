@@ -1,0 +1,15 @@
+{
+"Class" : "org.apache.commons.lang3.text.translate.AggregateTranslator", 
+"Methods" : [{ "Name" : "translate" ,
+"Nodes" : 7,
+"0" : [ ],
+"1" : [ ],
+"2" : [ 5],
+"3" : [ 0, 1, 2, 3, 4, 6, 8],
+"4" : [ 0, 1, 2, 3, 4, 6, 8, 9, 11],
+"5" : [ 0, 1, 2, 3, 4, 6, 8, 10, 12],
+"6" : [ ],
+"CoveredDUAsByNodes" : 12,
+"Duas" : 17
+}]
+}

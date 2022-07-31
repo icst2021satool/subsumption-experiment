@@ -1,0 +1,33 @@
+{
+"Class" : "org.apache.commons.lang3.concurrent.BackgroundInitializer", 
+"Methods" : [{ "Name" : "isStarted" ,
+"Edges" : 5,
+"0" : [ 0,3 ],
+"1" : [ 0,1 ],
+"2" : [ 3,2 ],
+"3" : [ 1,2 ],
+"4" : [ 2,4 ]
+},{ "Name" : "setExternalExecutor" ,
+"Edges" : 4,
+"0" : [ 2,3 ],
+"1" : [ 0,2 ],
+"2" : [ 0,1 ],
+"3" : [ 1,3 ]
+},{ "Name" : "start" ,
+"Edges" : 8,
+"0" : [ 1,6 ],
+"1" : [ 2,5 ],
+"2" : [ 2,3 ],
+"3" : [ 3,4 ],
+"4" : [ 0,2 ],
+"5" : [ 0,1 ],
+"6" : [ 4,6 ],
+"7" : [ 5,4 ]
+},{ "Name" : "getFuture" ,
+"Edges" : 4,
+"0" : [ 2,3 ],
+"1" : [ 1,3 ],
+"2" : [ 0,2 ],
+"3" : [ 0,1 ]
+}]
+}

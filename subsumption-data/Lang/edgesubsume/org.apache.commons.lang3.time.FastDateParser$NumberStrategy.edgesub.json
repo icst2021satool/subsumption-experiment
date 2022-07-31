@@ -1,0 +1,13 @@
+{
+"Class" : "org.apache.commons.lang3.time.FastDateParser$NumberStrategy", 
+"Methods" : [{ "Name" : "addRegex" ,
+"Edges" : 5,
+"0" : [ 0, 2, 4],
+"1" : [ 1, 3],
+"2" : [ 1, 3],
+"3" : [ 0, 2, 4],
+"4" : [ ],
+"CoveredDUAsByEdges" : 5,
+"Duas" : 5
+}]
+}

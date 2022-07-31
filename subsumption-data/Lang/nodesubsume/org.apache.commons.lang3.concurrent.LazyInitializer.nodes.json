@@ -1,0 +1,12 @@
+{
+"Class" : "org.apache.commons.lang3.concurrent.LazyInitializer", 
+"Methods" : [{ "Name" : "get" ,
+"Nodes" : 6,
+"0" : [ 97,95 ]
+"1" : [ 106 ]
+"2" : [ 98,99,100 ]
+"3" : [ 103 ]
+"4" : [ 101 ]
+"5" : [  ]
+}]
+}

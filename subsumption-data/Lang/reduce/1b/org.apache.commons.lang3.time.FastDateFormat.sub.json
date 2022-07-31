@@ -1,0 +1,9 @@
+{
+"Class" : "org.apache.commons.lang3.time.FastDateFormat", 
+"Methods" : [{ "Name" : "equals" ,
+"Duas" : "5" ,
+"Subsumers" : 2,
+"0" : [ 4, 3, 2, 0], "S0" : [0, 2, 3, 4 ],
+"1" : [ 1], "S1" : [1 ]
+}]
+}

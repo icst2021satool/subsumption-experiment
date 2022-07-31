@@ -1,0 +1,12 @@
+{
+"Class" : "org.apache.commons.lang3.concurrent.BackgroundInitializer$InitializationTask", 
+"Methods" : [{ "Name" : "call" ,
+"Edges" : 4,
+"0" : [ 0, 2, 3, 5],
+"1" : [ 1, 4],
+"2" : [ 0, 2, 3, 5],
+"3" : [ ],
+"CoveredDUAsByEdges" : 6,
+"Duas" : 6
+}]
+}

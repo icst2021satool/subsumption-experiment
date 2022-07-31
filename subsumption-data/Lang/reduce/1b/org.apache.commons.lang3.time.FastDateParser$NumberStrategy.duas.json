@@ -1,0 +1,10 @@
+{
+"Class" : "org.apache.commons.lang3.time.FastDateParser$NumberStrategy", 
+"Methods" : [{ "Name" : "addRegex" ,
+"Duas" : 5,
+"0" :  "(627,(627,628), parser)",
+"1" :  "(627,(627,631), parser)",
+"2" :  "(627,628, parser)",
+"3" :  "(627,631, regex)",
+"4" :  "(627,628, regex)"}]
+}

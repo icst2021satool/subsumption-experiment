@@ -1,0 +1,9 @@
+{
+"Class" : "org.apache.commons.lang3.concurrent.BackgroundInitializer$InitializationTask", 
+"Methods" : [{ "Name" : "call" ,
+"Duas" : "6" ,
+"Subsumers" : 2,
+"0" : [ 5, 3, 2, 0], "S0" : [0, 2, 3, 5 ],
+"1" : [ 4, 1], "S1" : [1, 4 ]
+}]
+}

@@ -1,0 +1,15 @@
+{
+"Class" : "org.apache.commons.lang3.time.FastDatePrinter$TimeZoneNumberRule", 
+"Methods" : [{ "Name" : "appendTo" ,
+"Nodes" : 7,
+"0" : [ ],
+"1" : [ 2, 12],
+"5" : [ 8, 11, 15],
+"2" : [ 3, 4],
+"4" : [ 0, 3, 4, 7, 9],
+"3" : [ 18, 3, 4, 5, 6],
+"6" : [ 18, 3, 4, 5, 6],
+"CoveredDUAsByNodes" : 13,
+"Duas" : 19
+}]
+}

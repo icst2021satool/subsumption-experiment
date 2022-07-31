@@ -1,0 +1,15 @@
+{
+"Class" : "org.apache.commons.lang3.mutable.MutableFloat", 
+"Methods" : [{ "Name" : "equals" ,
+"Edges" : 7,
+"5" : [ 2],
+"6" : [ 3],
+"3" : [ 0, 2, 4, 6],
+"4" : [ 1, 5, 7],
+"2" : [ ],
+"1" : [ 0, 2, 4, 6],
+"0" : [ ],
+"CoveredDUAsByEdges" : 8,
+"Duas" : 8
+}]
+}

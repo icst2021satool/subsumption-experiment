@@ -1,0 +1,11 @@
+{
+"Class" : "org.apache.commons.lang3.text.StrMatcher$CharSetMatcher", 
+"Methods" : [{ "Name" : "isMatch" ,
+"Nodes" : 5,
+"0" : [ 301 ]
+"1" : [ 301 ]
+"2" : [ 301 ]
+"3" : [ 301 ]
+"4" : [  ]
+}]
+}

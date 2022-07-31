@@ -1,0 +1,8 @@
+{
+"Class" : "org.apache.commons.lang3.text.translate.CodePointTranslator", 
+"Methods" : [{ "Name" : "translate" ,
+"Edges" : 4,
+"Duas" : 2,
+"0" : 0, 
+ "1" : 1}]
+}

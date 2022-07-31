@@ -1,0 +1,8 @@
+{
+"Class" : "org.apache.commons.lang3.event.EventListenerSupport$ProxyInvocationHandler", 
+"Methods" : [{ "Name" : "invoke" ,
+"Edges" : 5,
+"Duas" : 5,
+"2" : 0, 
+ "3" : 1}]
+}

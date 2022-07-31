@@ -1,0 +1,8 @@
+{
+"Class" : "org.apache.commons.lang3.time.FastDateFormat", 
+"Methods" : [{ "Name" : "equals" ,
+"Edges" : 4,
+"Duas" : 5,
+"1" : 2, 
+ "2" : 3}]
+}

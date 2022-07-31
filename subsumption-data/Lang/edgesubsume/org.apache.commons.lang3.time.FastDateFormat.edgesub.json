@@ -1,0 +1,12 @@
+{
+"Class" : "org.apache.commons.lang3.time.FastDateFormat", 
+"Methods" : [{ "Name" : "equals" ,
+"Edges" : 4,
+"2" : [ 1],
+"3" : [ 0, 2, 3, 4],
+"1" : [ 0, 2, 3, 4],
+"0" : [ 1],
+"CoveredDUAsByEdges" : 5,
+"Duas" : 5
+}]
+}

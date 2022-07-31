@@ -1,0 +1,18 @@
+{
+"Class" : "org.apache.commons.lang3.AnnotationUtils$1", 
+"Methods" : [{ "Name" : "getShortClassName" ,
+"Edges" : 12,
+"Duas" : 12,
+"0" : 5, 
+ "1" : 6, 
+ "3" : 10, 
+ "4" : 11, 
+ "6" : 2, 
+ "7" : 3, 
+ "9" : 5, 
+ "10" : 6},{ "Name" : "appendDetail" ,
+"Edges" : 4,
+"Duas" : 8,
+"3" : 1, 
+ "4" : 2}]
+}

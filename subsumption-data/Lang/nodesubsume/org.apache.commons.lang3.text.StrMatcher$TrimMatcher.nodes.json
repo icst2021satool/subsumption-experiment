@@ -1,0 +1,11 @@
+{
+"Class" : "org.apache.commons.lang3.text.StrMatcher$TrimMatcher", 
+"Methods" : [{ "Name" : "isMatch" ,
+"Nodes" : 5,
+"0" : [ 432 ]
+"1" : [ 432 ]
+"2" : [ 432 ]
+"3" : [ 432 ]
+"4" : [  ]
+}]
+}

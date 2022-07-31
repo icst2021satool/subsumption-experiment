@@ -1,0 +1,13 @@
+{
+"Class" : "org.apache.commons.lang3.text.StrMatcher$CharSetMatcher", 
+"Methods" : [{ "Name" : "isMatch" ,
+"Edges" : 5,
+"1" : [ 0, 2, 4, 6],
+"2" : [ 1, 3, 5, 7],
+"4" : [ 1, 3, 5, 7],
+"0" : [ 0, 2, 4, 6],
+"3" : [ ],
+"CoveredDUAsByEdges" : 8,
+"Duas" : 8
+}]
+}

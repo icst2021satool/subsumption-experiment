@@ -1,0 +1,26 @@
+{
+"Class" : "org.apache.commons.lang3.AnnotationUtils$1", 
+"Methods" : [{ "Name" : "getShortClassName" ,
+"Nodes" : 10,
+"0" : [ ],
+"1" : [ ],
+"6" : [ 3, 5],
+"7" : [ 3, 5, 7],
+"8" : [ 3, 5, 6, 8],
+"2" : [ ],
+"3" : [ ],
+"5" : [ ],
+"4" : [ ],
+"9" : [ ],
+"CoveredDUAsByNodes" : 5,
+"Duas" : 12
+},{ "Name" : "appendDetail" ,
+"Nodes" : 4,
+"0" : [ ],
+"2" : [ 3, 6],
+"1" : [ 0, 1, 2],
+"3" : [ 0, 1, 2],
+"CoveredDUAsByNodes" : 5,
+"Duas" : 8
+}]
+}

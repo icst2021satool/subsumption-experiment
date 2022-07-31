@@ -1,0 +1,11 @@
+{
+"Class" : "org.apache.commons.lang3.time.FastDateParser$CopyQuotedStrategy", 
+"Methods" : [{ "Name" : "isNumber" ,
+"Duas" : 6,
+"0" :  "(532,534, this)",
+"1" :  "(532,534, this.formatField)",
+"2" :  "(532,(533,534), c)",
+"3" :  "(532,(533,536), c)",
+"4" :  "(532,536, c)",
+"5" :  "(534,536, c)"}]
+}

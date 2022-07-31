@@ -1,0 +1,17 @@
+{
+"Class" : "org.apache.commons.lang3.text.translate.OctalUnescaper", 
+"Methods" : [{ "Name" : "translate" ,
+"Nodes" : 11,
+"0" : [ 43 ]
+"1" : [ 58 ]
+"2" : [ 43 ]
+"3" : [ 43 ]
+"4" : [ 44,46 ]
+"5" : [ 47 ]
+"6" : [ 55,56 ]
+"7" : [ 47 ]
+"8" : [ 48,49 ]
+"9" : [ 50,51 ]
+"10" : [  ]
+}]
+}

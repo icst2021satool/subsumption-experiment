@@ -1,0 +1,12 @@
+{
+"Class" : "org.apache.commons.lang3.concurrent.MultiBackgroundInitializer$MultiBackgroundInitializerResults", 
+"Methods" : [{ "Name" : "checkName" ,
+"Edges" : 4,
+"1" : [ 0, 1],
+"2" : [ 2, 3],
+"0" : [ 2, 3],
+"3" : [ 0, 1],
+"CoveredDUAsByEdges" : 4,
+"Duas" : 4
+}]
+}

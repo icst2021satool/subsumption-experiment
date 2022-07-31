@@ -1,0 +1,14 @@
+{
+"Class" : "org.apache.commons.lang3.concurrent.AtomicSafeInitializer", 
+"Methods" : [{ "Name" : "get" ,
+"Edges" : 6,
+"Duas" : 11,
+"0" : 4, 
+ "1" : 5, 
+ "2" : 2, 
+ "3" : 3, 
+ "5" : 4, 
+ "6" : 5, 
+ "8" : 2, 
+ "9" : 3}]
+}

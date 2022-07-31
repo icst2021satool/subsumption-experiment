@@ -1,0 +1,12 @@
+{
+"Class" : "org.apache.commons.lang3.exception.ContextedException", 
+"Methods" : [{ "Name" : "<init>" ,
+"Nodes" : 4,
+"0" : [ ],
+"2" : [ 1],
+"1" : [ 0],
+"3" : [ 0],
+"CoveredDUAsByNodes" : 2,
+"Duas" : 5
+}]
+}

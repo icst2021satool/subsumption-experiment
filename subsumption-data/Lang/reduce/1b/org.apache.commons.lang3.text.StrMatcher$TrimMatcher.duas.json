@@ -1,0 +1,9 @@
+{
+"Class" : "org.apache.commons.lang3.text.StrMatcher$TrimMatcher", 
+"Methods" : [{ "Name" : "isMatch" ,
+"Duas" : 4,
+"0" :  "(432,(432,432), buffer)",
+"1" :  "(432,(432,432), buffer)",
+"2" :  "(432,(432,432), pos)",
+"3" :  "(432,(432,432), pos)"}]
+}

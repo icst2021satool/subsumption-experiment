@@ -1,0 +1,11 @@
+{
+"Class" : "org.apache.commons.lang3.text.translate.EntityArrays", 
+"Methods" : [{ "Name" : "invert" ,
+"Nodes" : 5,
+"0" : [ 417,418 ]
+"1" : [ 418 ]
+"2" : [ 422 ]
+"3" : [ 418,419,420 ]
+"4" : [  ]
+}]
+}

@@ -1,0 +1,11 @@
+{
+"Class" : "org.apache.commons.lang3.concurrent.AtomicSafeInitializer", 
+"Methods" : [{ "Name" : "get" ,
+"Nodes" : 5,
+"0" : [ 76 ]
+"1" : [ 82 ]
+"2" : [ 77 ]
+"3" : [ 78 ]
+"4" : [  ]
+}]
+}

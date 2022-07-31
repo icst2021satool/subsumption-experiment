@@ -1,0 +1,10 @@
+{
+"Class" : "org.apache.commons.lang3.time.FastDateFormat", 
+"Methods" : [{ "Name" : "equals" ,
+"Nodes" : 4,
+"0" : [ 548 ]
+"1" : [ 551,553 ]
+"2" : [ 549 ]
+"3" : [  ]
+}]
+}

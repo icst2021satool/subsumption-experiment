@@ -1,0 +1,12 @@
+{
+"Class" : "org.apache.commons.lang3.StringEscapeUtils$CsvEscaper", 
+"Methods" : [{ "Name" : "translate" ,
+"Edges" : 8,
+"Duas" : 14,
+"0" : 2, 
+ "1" : 3, 
+ "5" : 0, 
+ "6" : 1, 
+ "11" : 2, 
+ "12" : 3}]
+}

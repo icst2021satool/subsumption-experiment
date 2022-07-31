@@ -1,0 +1,9 @@
+{
+"Class" : "org.apache.commons.lang3.CharEncoding", 
+"Methods" : [{ "Name" : "isSupported" ,
+"Nodes" : 4,
+"Duas" : 3,
+"0" :  [ 0,2 ],
+"1" :  [ 0,1 ],
+"2" :  [ 0,1 ]}]
+}

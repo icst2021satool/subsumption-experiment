@@ -1,0 +1,16 @@
+{
+"Class" : "org.apache.commons.lang3.text.translate.AggregateTranslator", 
+"Methods" : [{ "Name" : "translate" ,
+"Edges" : 8,
+"6" : [ ],
+"1" : [ 0, 1, 2, 3, 4, 6, 8],
+"2" : [ 5],
+"7" : [ 5],
+"3" : [ 0, 1, 2, 3, 4, 6, 8, 10, 12],
+"4" : [ 0, 1, 2, 3, 4, 6, 8, 9, 11],
+"5" : [ 0, 1, 2, 3, 4, 6, 8, 9, 11],
+"0" : [ 0, 1, 2, 3, 4, 6, 8, 10, 12],
+"CoveredDUAsByEdges" : 12,
+"Duas" : 17
+}]
+}

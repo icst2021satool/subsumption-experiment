@@ -1,0 +1,28 @@
+{
+"Class" : "org.apache.commons.lang3.concurrent.BasicThreadFactory$Builder", 
+"Methods" : [{ "Name" : "wrappedFactory" ,
+"Nodes" : 4,
+"0" : [ ],
+"1" : [ 0, 1, 3, 4],
+"2" : [ 2],
+"3" : [ ],
+"CoveredDUAsByNodes" : 5,
+"Duas" : 5
+},{ "Name" : "namingPattern" ,
+"Nodes" : 4,
+"0" : [ ],
+"1" : [ 0, 1, 3, 4],
+"2" : [ 2],
+"3" : [ ],
+"CoveredDUAsByNodes" : 5,
+"Duas" : 5
+},{ "Name" : "uncaughtExceptionHandler" ,
+"Nodes" : 4,
+"0" : [ ],
+"1" : [ 0, 1, 3, 4],
+"2" : [ 2],
+"3" : [ ],
+"CoveredDUAsByNodes" : 5,
+"Duas" : 5
+}]
+}

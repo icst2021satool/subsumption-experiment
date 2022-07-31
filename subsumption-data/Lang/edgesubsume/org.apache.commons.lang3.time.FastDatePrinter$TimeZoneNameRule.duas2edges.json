@@ -1,0 +1,10 @@
+{
+"Class" : "org.apache.commons.lang3.time.FastDatePrinter$TimeZoneNameRule", 
+"Methods" : [{ "Name" : "appendTo" ,
+"Edges" : 7,
+"Duas" : 14,
+"4" : 4, 
+ "5" : 5, 
+ "10" : 2, 
+ "11" : 3}]
+}

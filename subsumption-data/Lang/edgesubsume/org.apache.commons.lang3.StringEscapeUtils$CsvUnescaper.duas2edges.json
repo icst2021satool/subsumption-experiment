@@ -1,0 +1,16 @@
+{
+"Class" : "org.apache.commons.lang3.StringEscapeUtils$CsvUnescaper", 
+"Methods" : [{ "Name" : "translate" ,
+"Edges" : 13,
+"Duas" : 20,
+"0" : 11, 
+ "1" : 12, 
+ "4" : 0, 
+ "5" : 1, 
+ "9" : 6, 
+ "10" : 7, 
+ "14" : 8, 
+ "15" : 9, 
+ "17" : 8, 
+ "18" : 9}]
+}

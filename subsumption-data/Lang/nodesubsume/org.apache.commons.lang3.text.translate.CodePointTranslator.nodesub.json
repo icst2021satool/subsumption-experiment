@@ -1,0 +1,12 @@
+{
+"Class" : "org.apache.commons.lang3.text.translate.CodePointTranslator", 
+"Methods" : [{ "Name" : "translate" ,
+"Nodes" : 4,
+"0" : [ ],
+"1" : [ 1],
+"2" : [ 0],
+"3" : [ ],
+"CoveredDUAsByNodes" : 2,
+"Duas" : 2
+}]
+}

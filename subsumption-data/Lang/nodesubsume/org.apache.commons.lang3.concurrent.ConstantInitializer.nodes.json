@@ -1,0 +1,19 @@
+{
+"Class" : "org.apache.commons.lang3.concurrent.ConstantInitializer", 
+"Methods" : [{ "Name" : "hashCode" ,
+"Nodes" : 5,
+"0" : [ 92 ]
+"1" : [ 92 ]
+"2" : [ 92 ]
+"3" : [ 92 ]
+"4" : [  ]
+},{ "Name" : "equals" ,
+"Nodes" : 6,
+"0" : [ 106 ]
+"1" : [ 109 ]
+"2" : [ 113,114 ]
+"3" : [ 110 ]
+"4" : [ 107 ]
+"5" : [  ]
+}]
+}

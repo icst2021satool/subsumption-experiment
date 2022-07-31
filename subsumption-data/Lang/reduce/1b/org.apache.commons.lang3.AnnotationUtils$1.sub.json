@@ -1,0 +1,17 @@
+{
+"Class" : "org.apache.commons.lang3.AnnotationUtils$1", 
+"Methods" : [{ "Name" : "getShortClassName" ,
+"Duas" : "12" ,
+"Subsumers" : 5,
+"0" : [ 0], "S0" : [0, 2, 4 ],
+"1" : [ 1], "S1" : [1, 2, 4 ],
+"2" : [ 9], "S2" : [3, 5, 6, 8, 9, 11 ],
+"3" : [ 10], "S3" : [3, 5, 6, 8, 10, 11 ],
+"4" : [ 7], "S4" : [3, 5, 7 ]
+},{ "Name" : "appendDetail" ,
+"Duas" : "8" ,
+"Subsumers" : 2,
+"0" : [ 7, 6, 3], "S0" : [0, 1, 2, 3, 6, 7 ],
+"1" : [ 5, 4], "S1" : [0, 1, 2, 4, 5 ]
+}]
+}

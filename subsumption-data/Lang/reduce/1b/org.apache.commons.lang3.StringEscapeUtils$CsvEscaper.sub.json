@@ -1,0 +1,10 @@
+{
+"Class" : "org.apache.commons.lang3.StringEscapeUtils$CsvEscaper", 
+"Methods" : [{ "Name" : "translate" ,
+"Duas" : "14" ,
+"Subsumers" : 3,
+"0" : [ 11, 10, 4, 0], "S0" : [0, 3, 4, 6, 10, 11 ],
+"1" : [ 13, 12, 7, 8, 9, 2, 1], "S1" : [1, 2, 3, 6, 7, 8, 9, 12, 13 ],
+"2" : [ 5], "S2" : [5 ]
+}]
+}

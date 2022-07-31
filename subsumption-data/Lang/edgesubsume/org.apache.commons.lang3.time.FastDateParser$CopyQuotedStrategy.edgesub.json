@@ -1,0 +1,12 @@
+{
+"Class" : "org.apache.commons.lang3.time.FastDateParser$CopyQuotedStrategy", 
+"Methods" : [{ "Name" : "isNumber" ,
+"Edges" : 4,
+"1" : [ 0, 1, 2],
+"2" : [ 3, 4],
+"0" : [ 0, 1, 2],
+"3" : [ ],
+"CoveredDUAsByEdges" : 5,
+"Duas" : 6
+}]
+}
