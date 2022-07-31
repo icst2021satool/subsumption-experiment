@@ -1,0 +1,1150 @@
+@@ Method, Nodes, Nduas, Time_s, Time_ms
+
+Failed to analyze: /Users/marcoschaim/experimentos/subsumption-experiment/scripts/../subsumption-data/Gson/graphdua
+
+#com/google/gson/JsonStreamParser/next:
+Method com.google.gson.JsonStreamParser.next graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.JsonStreamParser.next,4,4,0,5
+
+
+#com/google/gson/JsonStreamParser/hasNext:
+Method com.google.gson.JsonStreamParser.hasNext graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.JsonStreamParser.hasNext,5,6,0,1
+
+
+#com/google/gson/TypeUtils/getActualTypeForFirstTypeVariable:
+Method com.google.gson.TypeUtils.getActualTypeForFirstTypeVariable graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.TypeUtils.getActualTypeForFirstTypeVariable,8,9,0,3
+
+
+#com/google/gson/TypeUtils/isArray:
+Method com.google.gson.TypeUtils.isArray graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.TypeUtils.isArray,6,5,0,1
+
+
+#com/google/gson/TypeUtils/toRawClass:
+Method com.google.gson.TypeUtils.toRawClass graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.TypeUtils.toRawClass,10,13,0,2
+
+
+#com/google/gson/VersionExclusionStrategy/<init>:
+Method com.google.gson.VersionExclusionStrategy.<init> graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.VersionExclusionStrategy.<init>,5,4,0,0
+
+
+#com/google/gson/VersionExclusionStrategy/shouldSkipField:
+Method com.google.gson.VersionExclusionStrategy.shouldSkipField graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.VersionExclusionStrategy.shouldSkipField,5,4,0,1
+
+
+#com/google/gson/VersionExclusionStrategy/shouldSkipClass:
+Method com.google.gson.VersionExclusionStrategy.shouldSkipClass graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.VersionExclusionStrategy.shouldSkipClass,5,4,0,1
+
+
+#com/google/gson/VersionExclusionStrategy/isValidVersion:
+Method com.google.gson.VersionExclusionStrategy.isValidVersion graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.VersionExclusionStrategy.isValidVersion,6,8,0,2
+
+
+#com/google/gson/VersionExclusionStrategy/isValidSince:
+Method com.google.gson.VersionExclusionStrategy.isValidSince graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.VersionExclusionStrategy.isValidSince,5,9,0,1
+
+
+#com/google/gson/VersionExclusionStrategy/isValidUntil:
+Method com.google.gson.VersionExclusionStrategy.isValidUntil graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.VersionExclusionStrategy.isValidUntil,5,9,0,1
+
+
+#com/google/gson/TypeInfo/isCollectionOrArray:
+Method com.google.gson.TypeInfo.isCollectionOrArray graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.TypeInfo.isCollectionOrArray,6,6,0,0
+
+
+#com/google/gson/GenericArrayTypeImpl/equals:
+Method com.google.gson.GenericArrayTypeImpl.equals graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.GenericArrayTypeImpl.equals,9,12,0,2
+
+
+#com/google/gson/GenericArrayTypeImpl/hashCode:
+Method com.google.gson.GenericArrayTypeImpl.hashCode graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.GenericArrayTypeImpl.hashCode,5,6,0,1
+
+
+#com/google/gson/Gson/createExclusionStrategy:
+Method com.google.gson.Gson.createExclusionStrategy graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.Gson.createExclusionStrategy,4,5,0,0
+
+
+#com/google/gson/Gson/toJsonTree:
+Method com.google.gson.Gson.toJsonTree graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.Gson.toJsonTree,4,4,0,0
+
+
+#com/google/gson/Gson/toJsonTree:
+Method com.google.gson.Gson.toJsonTree graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.Gson.toJsonTree,4,8,0,1
+
+
+#com/google/gson/Gson/toJson:
+Method com.google.gson.Gson.toJson graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.Gson.toJson,7,8,0,1
+
+
+#com/google/gson/Gson/toJson:
+Method com.google.gson.Gson.toJson graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.Gson.toJson,6,11,0,1
+
+
+#com/google/gson/Gson/toJson:
+Method com.google.gson.Gson.toJson graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.Gson.toJson,6,14,0,2
+
+
+#com/google/gson/Gson/fromJson:
+Method com.google.gson.Gson.fromJson graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.Gson.fromJson,4,5,0,0
+
+
+#com/google/gson/Gson/fromJson:
+Method com.google.gson.Gson.fromJson graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.Gson.fromJson,4,8,0,1
+
+
+#com/google/gson/TypeInfoArray/<init>:
+Method com.google.gson.TypeInfoArray.<init> graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.TypeInfoArray.<init>,5,11,0,2
+
+
+#com/google/gson/TypeInfoArray/extractSecondLevelType:
+Method com.google.gson.TypeInfoArray.extractSecondLevelType graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.TypeInfoArray.extractSecondLevelType,5,4,0,0
+
+
+#com/google/gson/DefaultTypeAdapters$DefaultTimeTypeAdapter/deserialize:
+Method com.google.gson.DefaultTypeAdapters$DefaultTimeTypeAdapter.deserialize graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.DefaultTypeAdapters$DefaultTimeTypeAdapter.deserialize,4,5,0,0
+
+
+#com/google/gson/DisjunctionExclusionStrategy/shouldSkipField:
+Method com.google.gson.DisjunctionExclusionStrategy.shouldSkipField graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.DisjunctionExclusionStrategy.shouldSkipField,7,7,0,1
+
+
+#com/google/gson/DisjunctionExclusionStrategy/shouldSkipClass:
+Method com.google.gson.DisjunctionExclusionStrategy.shouldSkipClass graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.DisjunctionExclusionStrategy.shouldSkipClass,7,7,0,1
+
+
+#com/google/gson/ParameterizedTypeHandlerMap/registerForTypeHierarchy:
+Method com.google.gson.ParameterizedTypeHandlerMap.registerForTypeHierarchy graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.ParameterizedTypeHandlerMap.registerForTypeHierarchy,8,29,0,3
+
+
+#com/google/gson/ParameterizedTypeHandlerMap/getIndexOfAnOverriddenHandler:
+Method com.google.gson.ParameterizedTypeHandlerMap.getIndexOfAnOverriddenHandler graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.ParameterizedTypeHandlerMap.getIndexOfAnOverriddenHandler,7,18,0,3
+
+
+#com/google/gson/ParameterizedTypeHandlerMap/register:
+Method com.google.gson.ParameterizedTypeHandlerMap.register graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.ParameterizedTypeHandlerMap.register,6,15,0,1
+
+
+#com/google/gson/ParameterizedTypeHandlerMap/registerIfAbsent:
+Method com.google.gson.ParameterizedTypeHandlerMap.registerIfAbsent graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.ParameterizedTypeHandlerMap.registerIfAbsent,14,34,0,7
+
+
+#com/google/gson/ParameterizedTypeHandlerMap/registerIfAbsent:
+Method com.google.gson.ParameterizedTypeHandlerMap.registerIfAbsent graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.ParameterizedTypeHandlerMap.registerIfAbsent,6,13,0,1
+
+
+#com/google/gson/ParameterizedTypeHandlerMap/getHandlerFor:
+Method com.google.gson.ParameterizedTypeHandlerMap.getHandlerFor graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.ParameterizedTypeHandlerMap.getHandlerFor,7,18,0,1
+
+
+#com/google/gson/ParameterizedTypeHandlerMap/getHandlerForTypeHierarchy:
+Method com.google.gson.ParameterizedTypeHandlerMap.getHandlerForTypeHierarchy graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.ParameterizedTypeHandlerMap.getHandlerForTypeHierarchy,7,11,0,1
+
+
+#com/google/gson/ParameterizedTypeHandlerMap/getIndexOfSpecificHandlerForTypeHierarchy:
+Method com.google.gson.ParameterizedTypeHandlerMap.getIndexOfSpecificHandlerForTypeHierarchy graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.ParameterizedTypeHandlerMap.getIndexOfSpecificHandlerForTypeHierarchy,7,18,0,2
+
+
+#com/google/gson/ParameterizedTypeHandlerMap/copyOf:
+Method com.google.gson.ParameterizedTypeHandlerMap.copyOf graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.ParameterizedTypeHandlerMap.copyOf,8,11,0,1
+
+
+#com/google/gson/ParameterizedTypeHandlerMap/toString:
+Method com.google.gson.ParameterizedTypeHandlerMap.toString graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.ParameterizedTypeHandlerMap.toString,14,28,0,5
+
+
+#com/google/gson/DefaultTypeAdapters$DefaultDateTypeAdapter/deserialize:
+Method com.google.gson.DefaultTypeAdapters$DefaultDateTypeAdapter.deserialize graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.DefaultTypeAdapters$DefaultDateTypeAdapter.deserialize,4,5,0,1
+
+
+#com/google/gson/TypeInfoFactory/getActualType:
+Method com.google.gson.TypeInfoFactory.getActualType graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.TypeInfoFactory.getActualType,19,36,0,3
+
+
+#com/google/gson/TypeInfoFactory/extractRealTypes:
+Method com.google.gson.TypeInfoFactory.extractRealTypes graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.TypeInfoFactory.extractRealTypes,5,13,0,1
+
+
+#com/google/gson/TypeInfoFactory/getIndex:
+Method com.google.gson.TypeInfoFactory.getIndex graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.TypeInfoFactory.getIndex,7,18,0,2
+
+
+#com/google/gson/Pair/hashCode:
+Method com.google.gson.Pair.hashCode graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.Pair.hashCode,8,8,0,1
+
+
+#com/google/gson/Pair/equals:
+Method com.google.gson.Pair.equals graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.Pair.equals,8,19,0,1
+
+
+#com/google/gson/Pair/equal:
+Method com.google.gson.Pair.equal graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.Pair.equal,7,10,0,1
+
+
+#com/google/gson/JsonElement/getAsJsonObject:
+Method com.google.gson.JsonElement.getAsJsonObject graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.JsonElement.getAsJsonObject,4,3,0,0
+
+
+#com/google/gson/JsonElement/getAsJsonArray:
+Method com.google.gson.JsonElement.getAsJsonArray graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.JsonElement.getAsJsonArray,4,3,0,1
+
+
+#com/google/gson/JsonElement/getAsJsonPrimitive:
+Method com.google.gson.JsonElement.getAsJsonPrimitive graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.JsonElement.getAsJsonPrimitive,4,3,0,0
+
+
+#com/google/gson/JsonElement/getAsJsonNull:
+Method com.google.gson.JsonElement.getAsJsonNull graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.JsonElement.getAsJsonNull,4,3,0,0
+
+
+#com/google/gson/SerializedNameAnnotationInterceptingNamingPolicy/translateName:
+Method com.google.gson.SerializedNameAnnotationInterceptingNamingPolicy.translateName graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.SerializedNameAnnotationInterceptingNamingPolicy.translateName,5,7,0,1
+
+
+#com/google/gson/TypeInfoMap/<init>:
+Method com.google.gson.TypeInfoMap.<init> graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.TypeInfoMap.<init>,8,9,0,1
+
+
+#com/google/gson/JsonDeserializationContextDefault/deserialize:
+Method com.google.gson.JsonDeserializationContextDefault.deserialize graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.JsonDeserializationContextDefault.deserialize,11,20,0,1
+
+
+#com/google/gson/DefaultTypeAdapters$DoubleSerializer/serialize:
+Method com.google.gson.DefaultTypeAdapters$DoubleSerializer.serialize graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.DefaultTypeAdapters$DoubleSerializer.serialize,6,10,0,1
+
+
+#com/google/gson/InnerClassExclusionStrategy/isInnerClass:
+Method com.google.gson.InnerClassExclusionStrategy.isInnerClass graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.InnerClassExclusionStrategy.isInnerClass,6,6,0,0
+
+
+#com/google/gson/InnerClassExclusionStrategy/isStatic:
+Method com.google.gson.InnerClassExclusionStrategy.isStatic graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.InnerClassExclusionStrategy.isStatic,5,2,0,0
+
+
+#com/google/gson/LruCache/removeEldestEntry:
+Method com.google.gson.LruCache.removeEldestEntry graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.LruCache.removeEldestEntry,5,4,0,1
+
+
+#com/google/gson/JsonPrimitive/setValue:
+Method com.google.gson.JsonPrimitive.setValue graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.JsonPrimitive.setValue,9,10,0,0
+
+
+#com/google/gson/JsonPrimitive/getAsBoolean:
+Method com.google.gson.JsonPrimitive.getAsBoolean graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.JsonPrimitive.getAsBoolean,5,3,0,1
+
+
+#com/google/gson/JsonPrimitive/getAsNumber:
+Method com.google.gson.JsonPrimitive.getAsNumber graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.JsonPrimitive.getAsNumber,5,6,0,0
+
+
+#com/google/gson/JsonPrimitive/stringToNumber:
+Method com.google.gson.JsonPrimitive.stringToNumber graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.JsonPrimitive.stringToNumber,5,6,0,1
+
+
+#com/google/gson/JsonPrimitive/getAsString:
+Method com.google.gson.JsonPrimitive.getAsString graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.JsonPrimitive.getAsString,6,8,0,5
+
+
+#com/google/gson/JsonPrimitive/getAsDouble:
+Method com.google.gson.JsonPrimitive.getAsDouble graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.JsonPrimitive.getAsDouble,5,3,0,1
+
+
+#com/google/gson/JsonPrimitive/getAsBigDecimal:
+Method com.google.gson.JsonPrimitive.getAsBigDecimal graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.JsonPrimitive.getAsBigDecimal,5,8,0,1
+
+
+#com/google/gson/JsonPrimitive/getAsBigInteger:
+Method com.google.gson.JsonPrimitive.getAsBigInteger graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.JsonPrimitive.getAsBigInteger,5,8,0,0
+
+
+#com/google/gson/JsonPrimitive/getAsFloat:
+Method com.google.gson.JsonPrimitive.getAsFloat graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.JsonPrimitive.getAsFloat,5,3,0,0
+
+
+#com/google/gson/JsonPrimitive/getAsLong:
+Method com.google.gson.JsonPrimitive.getAsLong graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.JsonPrimitive.getAsLong,5,3,0,0
+
+
+#com/google/gson/JsonPrimitive/getAsShort:
+Method com.google.gson.JsonPrimitive.getAsShort graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.JsonPrimitive.getAsShort,5,3,0,0
+
+
+#com/google/gson/JsonPrimitive/getAsInt:
+Method com.google.gson.JsonPrimitive.getAsInt graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.JsonPrimitive.getAsInt,5,3,0,0
+
+
+#com/google/gson/JsonPrimitive/getAsByte:
+Method com.google.gson.JsonPrimitive.getAsByte graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.JsonPrimitive.getAsByte,5,3,0,0
+
+
+#com/google/gson/JsonPrimitive/getAsObject:
+Method com.google.gson.JsonPrimitive.getAsObject graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.JsonPrimitive.getAsObject,7,18,0,1
+
+
+#com/google/gson/JsonPrimitive/toString:
+Method com.google.gson.JsonPrimitive.toString graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.JsonPrimitive.toString,5,9,0,1
+
+
+#com/google/gson/JsonPrimitive/isPrimitiveOrString:
+Method com.google.gson.JsonPrimitive.isPrimitiveOrString graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.JsonPrimitive.isPrimitiveOrString,9,19,0,2
+
+
+#com/google/gson/JsonPrimitive/hashCode:
+Method com.google.gson.JsonPrimitive.hashCode graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.JsonPrimitive.hashCode,8,12,0,1
+
+
+#com/google/gson/JsonPrimitive/equals:
+Method com.google.gson.JsonPrimitive.equals graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.JsonPrimitive.equals,24,39,0,3
+
+
+#com/google/gson/JsonPrimitive/isIntegral:
+Method com.google.gson.JsonPrimitive.isIntegral graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.JsonPrimitive.isIntegral,11,16,0,1
+
+
+#com/google/gson/JsonPrimitive/isFloatingPoint:
+Method com.google.gson.JsonPrimitive.isFloatingPoint graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.JsonPrimitive.isFloatingPoint,9,12,0,0
+
+
+#com/google/gson/Preconditions/checkNotNull:
+Method com.google.gson.Preconditions.checkNotNull graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.Preconditions.checkNotNull,5,2,0,0
+
+
+#com/google/gson/Preconditions/checkArgument:
+Method com.google.gson.Preconditions.checkArgument graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.Preconditions.checkArgument,4,3,0,0
+
+
+#com/google/gson/Preconditions/checkState:
+Method com.google.gson.Preconditions.checkState graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.Preconditions.checkState,4,3,0,0
+
+
+#com/google/gson/JsonObjectDeserializationVisitor/visitObjectField:
+Method com.google.gson.JsonObjectDeserializationVisitor.visitObjectField graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.JsonObjectDeserializationVisitor.visitObjectField,7,18,0,1
+
+
+#com/google/gson/JsonObjectDeserializationVisitor/visitArrayField:
+Method com.google.gson.JsonObjectDeserializationVisitor.visitArrayField graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.JsonObjectDeserializationVisitor.visitArrayField,7,18,0,0
+
+
+#com/google/gson/JsonObjectDeserializationVisitor/visitFieldUsingCustomHandler:
+Method com.google.gson.JsonObjectDeserializationVisitor.visitFieldUsingCustomHandler graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.JsonObjectDeserializationVisitor.visitFieldUsingCustomHandler,15,33,0,2
+
+
+#com/google/gson/JsonObjectDeserializationVisitor/visitPrimitive:
+Method com.google.gson.JsonObjectDeserializationVisitor.visitPrimitive graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.JsonObjectDeserializationVisitor.visitPrimitive,4,8,0,0
+
+
+#com/google/gson/DefaultTypeAdapters$FloatSerializer/serialize:
+Method com.google.gson.DefaultTypeAdapters$FloatSerializer.serialize graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.DefaultTypeAdapters$FloatSerializer.serialize,6,10,0,0
+
+
+#com/google/gson/Escaper/escapeJsonString:
+Method com.google.gson.Escaper.escapeJsonString graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.Escaper.escapeJsonString,18,49,0,10
+
+
+#com/google/gson/Escaper/mustEscapeCharInJsString:
+Method com.google.gson.Escaper.mustEscapeCharInJsString graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.Escaper.mustEscapeCharInJsString,9,15,0,1
+
+
+#com/google/gson/Escaper/isControlCharacter:
+Method com.google.gson.Escaper.isControlCharacter graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.Escaper.isControlCharacter,9,10,0,0
+
+
+#com/google/gson/Escaper/appendHexJavaScriptRepresentation:
+Method com.google.gson.Escaper.appendHexJavaScriptRepresentation graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.Escaper.appendHexJavaScriptRepresentation,4,7,0,0
+
+
+#com/google/gson/JsonArrayDeserializationVisitor/constructTarget:
+Method com.google.gson.JsonArrayDeserializationVisitor.constructTarget graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.JsonArrayDeserializationVisitor.constructTarget,6,17,0,0
+
+
+#com/google/gson/JsonArrayDeserializationVisitor/visitArray:
+Method com.google.gson.JsonArrayDeserializationVisitor.visitArray graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.JsonArrayDeserializationVisitor.visitArray,17,44,0,6
+
+
+#com/google/gson/ModifyFirstLetterNamingPolicy/translateName:
+Method com.google.gson.ModifyFirstLetterNamingPolicy.translateName graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.ModifyFirstLetterNamingPolicy.translateName,18,56,0,5
+
+
+#com/google/gson/ModifyFirstLetterNamingPolicy/modifyString:
+Method com.google.gson.ModifyFirstLetterNamingPolicy.modifyString graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.ModifyFirstLetterNamingPolicy.modifyString,5,5,0,0
+
+
+#com/google/gson/DefaultTypeAdapters$LocaleTypeAdapter/deserialize:
+Method com.google.gson.DefaultTypeAdapters$LocaleTypeAdapter.deserialize graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.DefaultTypeAdapters$LocaleTypeAdapter.deserialize,13,33,0,2
+
+
+#com/google/gson/SyntheticFieldExclusionStrategy/shouldSkipField:
+Method com.google.gson.SyntheticFieldExclusionStrategy.shouldSkipField graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.SyntheticFieldExclusionStrategy.shouldSkipField,6,6,0,0
+
+
+#com/google/gson/JsonDeserializationVisitor/getTarget:
+Method com.google.gson.JsonDeserializationVisitor.getTarget graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.JsonDeserializationVisitor.getTarget,4,8,0,0
+
+
+#com/google/gson/JsonDeserializationVisitor/visitUsingCustomHandler:
+Method com.google.gson.JsonDeserializationVisitor.visitUsingCustomHandler graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.JsonDeserializationVisitor.visitUsingCustomHandler,4,5,0,1
+
+
+#com/google/gson/JsonDeserializationVisitor/invokeCustomDeserializer:
+Method com.google.gson.JsonDeserializationVisitor.invokeCustomDeserializer graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.JsonDeserializationVisitor.invokeCustomDeserializer,5,10,0,0
+
+
+#com/google/gson/Streams/parse:
+Method com.google.gson.Streams.parse graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.Streams.parse,15,32,0,0
+
+
+#com/google/gson/Streams/write:
+Method com.google.gson.Streams.write graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.Streams.write,29,51,0,3
+
+
+#com/google/gson/Streams/writerForAppendable:
+Method com.google.gson.Streams.writerForAppendable graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.Streams.writerForAppendable,5,4,0,0
+
+
+#com/google/gson/ExposeAnnotationDeserializationExclusionStrategy/shouldSkipField:
+Method com.google.gson.ExposeAnnotationDeserializationExclusionStrategy.shouldSkipField graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.ExposeAnnotationDeserializationExclusionStrategy.shouldSkipField,7,4,0,0
+
+
+#com/google/gson/ExposeAnnotationSerializationExclusionStrategy/shouldSkipField:
+Method com.google.gson.ExposeAnnotationSerializationExclusionStrategy.shouldSkipField graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.ExposeAnnotationSerializationExclusionStrategy.shouldSkipField,7,4,0,0
+
+
+#com/google/gson/CamelCaseSeparatorNamingPolicy/<init>:
+Method com.google.gson.CamelCaseSeparatorNamingPolicy.<init> graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.CamelCaseSeparatorNamingPolicy.<init>,5,4,0,0
+
+
+#com/google/gson/CamelCaseSeparatorNamingPolicy/translateName:
+Method com.google.gson.CamelCaseSeparatorNamingPolicy.translateName graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.CamelCaseSeparatorNamingPolicy.translateName,8,21,0,2
+
+
+#com/google/gson/ObjectNavigator/accept:
+Method com.google.gson.ObjectNavigator.accept graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.ObjectNavigator.accept,22,64,0,4
+
+
+#com/google/gson/ObjectNavigator/isPrimitiveOrString:
+Method com.google.gson.ObjectNavigator.isPrimitiveOrString graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.ObjectNavigator.isPrimitiveOrString,7,6,0,0
+
+
+#com/google/gson/ObjectNavigator/navigateClassFields:
+Method com.google.gson.ObjectNavigator.navigateClassFields graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.ObjectNavigator.navigateClassFields,12,43,0,9
+
+
+#com/google/gson/ModifierBasedExclusionStrategy/<init>:
+Method com.google.gson.ModifierBasedExclusionStrategy.<init> graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.ModifierBasedExclusionStrategy.<init>,6,14,0,0
+
+
+#com/google/gson/ModifierBasedExclusionStrategy/shouldSkipField:
+Method com.google.gson.ModifierBasedExclusionStrategy.shouldSkipField graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.ModifierBasedExclusionStrategy.shouldSkipField,7,7,0,1
+
+
+#com/google/gson/DefaultTypeAdapters$MapTypeAdapter/serialize:
+Method com.google.gson.DefaultTypeAdapters$MapTypeAdapter.serialize graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.DefaultTypeAdapters$MapTypeAdapter.serialize,13,22,0,2
+
+
+#com/google/gson/DefaultTypeAdapters$MapTypeAdapter/deserialize:
+Method com.google.gson.DefaultTypeAdapters$MapTypeAdapter.deserialize graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.DefaultTypeAdapters$MapTypeAdapter.deserialize,5,7,0,1
+
+
+#com/google/gson/MemoryRefStack/contains:
+Method com.google.gson.MemoryRefStack.contains graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.MemoryRefStack.contains,10,19,0,1
+
+
+#com/google/gson/MappedObjectConstructor/construct:
+Method com.google.gson.MappedObjectConstructor.construct graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.MappedObjectConstructor.construct,4,6,0,0
+
+
+#com/google/gson/MappedObjectConstructor/constructWithNoArgConstructor:
+Method com.google.gson.MappedObjectConstructor.constructWithNoArgConstructor graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.MappedObjectConstructor.constructWithNoArgConstructor,4,4,0,0
+
+
+#com/google/gson/MappedObjectConstructor/getNoArgsConstructor:
+Method com.google.gson.MappedObjectConstructor.getNoArgsConstructor graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.MappedObjectConstructor.getNoArgsConstructor,7,14,0,1
+
+
+#com/google/gson/MappedObjectConstructor/register:
+Method com.google.gson.MappedObjectConstructor.register graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.MappedObjectConstructor.register,4,13,0,1
+
+
+#com/google/gson/JsonFieldNameValidator/validate:
+Method com.google.gson.JsonFieldNameValidator.validate graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.JsonFieldNameValidator.validate,7,8,0,0
+
+
+#com/google/gson/JsonSerializationVisitor/start:
+Method com.google.gson.JsonSerializationVisitor.start graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.JsonSerializationVisitor.start,6,12,0,0
+
+
+#com/google/gson/JsonSerializationVisitor/end:
+Method com.google.gson.JsonSerializationVisitor.end graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.JsonSerializationVisitor.end,4,4,0,0
+
+
+#com/google/gson/JsonSerializationVisitor/visitArray:
+Method com.google.gson.JsonSerializationVisitor.visitArray graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.JsonSerializationVisitor.visitArray,5,11,0,0
+
+
+#com/google/gson/JsonSerializationVisitor/visitArrayField:
+Method com.google.gson.JsonSerializationVisitor.visitArrayField graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.JsonSerializationVisitor.visitArrayField,6,16,0,1
+
+
+#com/google/gson/JsonSerializationVisitor/visitObjectField:
+Method com.google.gson.JsonSerializationVisitor.visitObjectField graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.JsonSerializationVisitor.visitObjectField,6,16,0,1
+
+
+#com/google/gson/JsonSerializationVisitor/visitPrimitive:
+Method com.google.gson.JsonSerializationVisitor.visitPrimitive graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.JsonSerializationVisitor.visitPrimitive,5,4,0,1
+
+
+#com/google/gson/JsonSerializationVisitor/addAsArrayElement:
+Method com.google.gson.JsonSerializationVisitor.addAsArrayElement graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.JsonSerializationVisitor.addAsArrayElement,5,7,0,1
+
+
+#com/google/gson/JsonSerializationVisitor/visitUsingCustomHandler:
+Method com.google.gson.JsonSerializationVisitor.visitUsingCustomHandler graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.JsonSerializationVisitor.visitUsingCustomHandler,8,13,0,0
+
+
+#com/google/gson/JsonSerializationVisitor/findAndInvokeCustomSerializer:
+Method com.google.gson.JsonSerializationVisitor.findAndInvokeCustomSerializer graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.JsonSerializationVisitor.findAndInvokeCustomSerializer,7,12,0,1
+
+
+#com/google/gson/JsonSerializationVisitor/visitFieldUsingCustomHandler:
+Method com.google.gson.JsonSerializationVisitor.visitFieldUsingCustomHandler graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.JsonSerializationVisitor.visitFieldUsingCustomHandler,8,16,0,0
+
+
+#com/google/gson/JsonSerializationVisitor/isFieldNull:
+Method com.google.gson.JsonSerializationVisitor.isFieldNull graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.JsonSerializationVisitor.isFieldNull,5,6,0,0
+
+
+#com/google/gson/Primitives/wrap:
+Method com.google.gson.Primitives.wrap graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.Primitives.wrap,5,4,0,0
+
+
+#com/google/gson/Primitives/unwrap:
+Method com.google.gson.Primitives.unwrap graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.Primitives.unwrap,5,4,0,0
+
+
+#com/google/gson/JsonSerializationContextDefault/serialize:
+Method com.google.gson.JsonSerializationContextDefault.serialize graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.JsonSerializationContextDefault.serialize,4,4,0,1
+
+
+#com/google/gson/CompositionFieldNamingPolicy/<init>:
+Method com.google.gson.CompositionFieldNamingPolicy.<init> graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.CompositionFieldNamingPolicy.<init>,4,4,0,0
+
+
+#com/google/gson/CompositionFieldNamingPolicy/translateName:
+Method com.google.gson.CompositionFieldNamingPolicy.translateName graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.CompositionFieldNamingPolicy.translateName,5,15,0,1
+
+
+#com/google/gson/JsonArray/add:
+Method com.google.gson.JsonArray.add graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.JsonArray.add,4,6,0,0
+
+
+#com/google/gson/JsonArray/getAsNumber:
+Method com.google.gson.JsonArray.getAsNumber graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.JsonArray.getAsNumber,4,6,0,0
+
+
+#com/google/gson/JsonArray/getAsString:
+Method com.google.gson.JsonArray.getAsString graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.JsonArray.getAsString,4,6,0,0
+
+
+#com/google/gson/JsonArray/getAsDouble:
+Method com.google.gson.JsonArray.getAsDouble graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.JsonArray.getAsDouble,4,6,0,1
+
+
+#com/google/gson/JsonArray/getAsBigDecimal:
+Method com.google.gson.JsonArray.getAsBigDecimal graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.JsonArray.getAsBigDecimal,4,6,0,0
+
+
+#com/google/gson/JsonArray/getAsBigInteger:
+Method com.google.gson.JsonArray.getAsBigInteger graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.JsonArray.getAsBigInteger,4,6,0,0
+
+
+#com/google/gson/JsonArray/getAsFloat:
+Method com.google.gson.JsonArray.getAsFloat graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.JsonArray.getAsFloat,4,6,0,0
+
+
+#com/google/gson/JsonArray/getAsLong:
+Method com.google.gson.JsonArray.getAsLong graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.JsonArray.getAsLong,4,6,0,0
+
+
+#com/google/gson/JsonArray/getAsInt:
+Method com.google.gson.JsonArray.getAsInt graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.JsonArray.getAsInt,4,6,0,0
+
+
+#com/google/gson/JsonArray/getAsByte:
+Method com.google.gson.JsonArray.getAsByte graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.JsonArray.getAsByte,4,6,0,0
+
+
+#com/google/gson/JsonArray/getAsCharacter:
+Method com.google.gson.JsonArray.getAsCharacter graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.JsonArray.getAsCharacter,4,6,0,0
+
+
+#com/google/gson/JsonArray/getAsShort:
+Method com.google.gson.JsonArray.getAsShort graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.JsonArray.getAsShort,4,6,0,1
+
+
+#com/google/gson/JsonArray/getAsBoolean:
+Method com.google.gson.JsonArray.getAsBoolean graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.JsonArray.getAsBoolean,4,6,0,0
+
+
+#com/google/gson/JsonArray/getAsObject:
+Method com.google.gson.JsonArray.getAsObject graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.JsonArray.getAsObject,4,6,0,0
+
+
+#com/google/gson/JsonArray/toString:
+Method com.google.gson.JsonArray.toString graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.JsonArray.toString,8,12,0,1
+
+
+#com/google/gson/DefaultTypeAdapters$CollectionTypeAdapter/serialize:
+Method com.google.gson.DefaultTypeAdapters$CollectionTypeAdapter.serialize graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.DefaultTypeAdapters$CollectionTypeAdapter.serialize,16,26,0,3
+
+
+#com/google/gson/DefaultTypeAdapters$CollectionTypeAdapter/deserialize:
+Method com.google.gson.DefaultTypeAdapters$CollectionTypeAdapter.deserialize graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.DefaultTypeAdapters$CollectionTypeAdapter.deserialize,11,19,0,1
+
+
+#com/google/gson/AnonymousAndLocalClassExclusionStrategy/isAnonymousOrLocal:
+Method com.google.gson.AnonymousAndLocalClassExclusionStrategy.isAnonymousOrLocal graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.AnonymousAndLocalClassExclusionStrategy.isAnonymousOrLocal,7,6,0,0
+
+
+#com/google/gson/DefaultTypeAdapters$DefaultJavaSqlDateTypeAdapter/deserialize:
+Method com.google.gson.DefaultTypeAdapters$DefaultJavaSqlDateTypeAdapter.deserialize graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.DefaultTypeAdapters$DefaultJavaSqlDateTypeAdapter.deserialize,4,5,0,0
+
+
+#com/google/gson/ParameterizedTypeImpl/equals:
+Method com.google.gson.ParameterizedTypeImpl.equals graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.ParameterizedTypeImpl.equals,17,38,0,3
+
+
+#com/google/gson/ParameterizedTypeImpl/hashCode:
+Method com.google.gson.ParameterizedTypeImpl.hashCode graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.ParameterizedTypeImpl.hashCode,8,12,0,0
+
+
+#com/google/gson/GsonBuilder/setExclusionStrategies:
+Method com.google.gson.GsonBuilder.setExclusionStrategies graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.GsonBuilder.setExclusionStrategies,5,12,0,0
+
+
+#com/google/gson/GsonBuilder/registerTypeAdapter:
+Method com.google.gson.GsonBuilder.registerTypeAdapter graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.GsonBuilder.registerTypeAdapter,13,22,0,1
+
+
+#com/google/gson/GsonBuilder/registerTypeHierarchyAdapter:
+Method com.google.gson.GsonBuilder.registerTypeHierarchyAdapter graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.GsonBuilder.registerTypeHierarchyAdapter,13,22,0,1
+
+
+#com/google/gson/GsonBuilder/create:
+Method com.google.gson.GsonBuilder.create graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.GsonBuilder.create,8,39,0,2
+
+
+#com/google/gson/GsonBuilder/addTypeAdaptersForDate:
+Method com.google.gson.GsonBuilder.addTypeAdaptersForDate graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.GsonBuilder.addTypeAdaptersForDate,13,29,0,2
+
+
+#com/google/gson/ObjectTypePair/getMatchingHandler:
+Method com.google.gson.ObjectTypePair.getMatchingHandler graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.ObjectTypePair.getMatchingHandler,9,21,0,1
+
+
+#com/google/gson/ObjectTypePair/toMoreSpecificType:
+Method com.google.gson.ObjectTypePair.toMoreSpecificType graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.ObjectTypePair.toMoreSpecificType,7,23,0,1
+
+
+#com/google/gson/ObjectTypePair/getActualTypeIfMoreSpecific:
+Method com.google.gson.ObjectTypePair.getActualTypeIfMoreSpecific graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.ObjectTypePair.getActualTypeIfMoreSpecific,7,16,0,1
+
+
+#com/google/gson/ObjectTypePair/hashCode:
+Method com.google.gson.ObjectTypePair.hashCode graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.ObjectTypePair.hashCode,5,6,0,0
+
+
+#com/google/gson/ObjectTypePair/equals:
+Method com.google.gson.ObjectTypePair.equals graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.ObjectTypePair.equals,21,51,0,6
+
+
+#com/google/gson/TypeInfoCollection/<init>:
+Method com.google.gson.TypeInfoCollection.<init> graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.TypeInfoCollection.<init>,4,4,0,0
+
+
+#com/google/gson/FieldAttributes/getDeclaredType:
+Method com.google.gson.FieldAttributes.getDeclaredType graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.FieldAttributes.getDeclaredType,4,9,0,0
+
+
+#com/google/gson/FieldAttributes/getAnnotations:
+Method com.google.gson.FieldAttributes.getAnnotations graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.FieldAttributes.getAnnotations,5,20,0,1
+
+
+#com/google/gson/FieldAttributes/hasModifier:
+Method com.google.gson.FieldAttributes.hasModifier graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.FieldAttributes.hasModifier,5,6,0,0
+
+
+#com/google/gson/FieldAttributes/getAnnotationFromArray:
+Method com.google.gson.FieldAttributes.getAnnotationFromArray graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.FieldAttributes.getAnnotationFromArray,7,8,0,1
+
+
+#com/google/gson/JsonObject/add:
+Method com.google.gson.JsonObject.add graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.JsonObject.add,7,9,0,0
+
+
+#com/google/gson/JsonObject/createJsonElement:
+Method com.google.gson.JsonObject.createJsonElement graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.JsonObject.createJsonElement,5,3,0,0
+
+
+#com/google/gson/JsonObject/get:
+Method com.google.gson.JsonObject.get graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.JsonObject.get,7,12,0,1
+
+
+#com/google/gson/JsonObject/toString:
+Method com.google.gson.JsonObject.toString graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.JsonObject.toString,8,12,0,1
+
+
+#com/google/gson/JsonTreeNavigator/navigate:
+Method com.google.gson.JsonTreeNavigator.navigate graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.JsonTreeNavigator.navigate,20,47,0,3
+
+
+#com/google/gson/JsonTreeNavigator/visitChild:
+Method com.google.gson.JsonTreeNavigator.visitChild graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.JsonTreeNavigator.visitChild,11,34,0,0
+
+
+#com/google/gson/JsonTreeNavigator/visitChild:
+Method com.google.gson.JsonTreeNavigator.visitChild graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.JsonTreeNavigator.visitChild,9,26,0,0
+
+
+#com/google/gson/ObjectNavigatorFactory/<init>:
+Method com.google.gson.ObjectNavigatorFactory.<init> graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.ObjectNavigatorFactory.<init>,5,5,0,1
+
+
+#com/google/gson/CircularReferenceException/createDetailedException:
+Method com.google.gson.CircularReferenceException.createDetailedException graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.CircularReferenceException.createDetailedException,6,13,0,0
+
+
+#com/google/gson/stream/JsonReader/<init>:
+Method com.google.gson.stream.JsonReader.<init> graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.stream.JsonReader.<init>,4,4,0,1
+
+
+#com/google/gson/stream/JsonReader/expect:
+Method com.google.gson.stream.JsonReader.expect graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.stream.JsonReader.expect,4,9,0,0
+
+
+#com/google/gson/stream/JsonReader/hasNext:
+Method com.google.gson.stream.JsonReader.hasNext graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.stream.JsonReader.hasNext,6,12,0,1
+
+
+#com/google/gson/stream/JsonReader/peek:
+Method com.google.gson.stream.JsonReader.peek graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.stream.JsonReader.peek,4,7,0,0
+
+
+#com/google/gson/stream/JsonReader/quickPeek:
+Method com.google.gson.stream.JsonReader.quickPeek graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.stream.JsonReader.quickPeek,21,57,0,1
+
+
+#com/google/gson/stream/JsonReader/consumeNonExecutePrefix:
+Method com.google.gson.stream.JsonReader.consumeNonExecutePrefix graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.stream.JsonReader.consumeNonExecutePrefix,10,35,0,2
+
+
+#com/google/gson/stream/JsonReader/nextName:
+Method com.google.gson.stream.JsonReader.nextName graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.stream.JsonReader.nextName,4,9,0,0
+
+
+#com/google/gson/stream/JsonReader/nextString:
+Method com.google.gson.stream.JsonReader.nextString graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.stream.JsonReader.nextString,6,19,0,0
+
+
+#com/google/gson/stream/JsonReader/nextBoolean:
+Method com.google.gson.stream.JsonReader.nextBoolean graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.stream.JsonReader.nextBoolean,10,24,0,1
+
+
+#com/google/gson/stream/JsonReader/nextNull:
+Method com.google.gson.stream.JsonReader.nextNull graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.stream.JsonReader.nextNull,7,18,0,0
+
+
+#com/google/gson/stream/JsonReader/nextDouble:
+Method com.google.gson.stream.JsonReader.nextDouble graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.stream.JsonReader.nextDouble,11,27,0,0
+
+
+#com/google/gson/stream/JsonReader/nextLong:
+Method com.google.gson.stream.JsonReader.nextLong graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.stream.JsonReader.nextLong,7,17,0,0
+
+
+#com/google/gson/stream/JsonReader/nextInt:
+Method com.google.gson.stream.JsonReader.nextInt graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.stream.JsonReader.nextInt,7,17,0,1
+
+
+#com/google/gson/stream/JsonReader/skipValue:
+Method com.google.gson.stream.JsonReader.skipValue graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.stream.JsonReader.skipValue,10,30,0,3
+
+
+#com/google/gson/stream/JsonReader/nextInArray:
+Method com.google.gson.stream.JsonReader.nextInArray graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.stream.JsonReader.nextInArray,13,24,0,1
+
+
+#com/google/gson/stream/JsonReader/nextInObject:
+Method com.google.gson.stream.JsonReader.nextInObject graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.stream.JsonReader.nextInObject,15,32,0,1
+
+
+#com/google/gson/stream/JsonReader/objectValue:
+Method com.google.gson.stream.JsonReader.objectValue graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.stream.JsonReader.objectValue,9,23,0,0
+
+
+#com/google/gson/stream/JsonReader/nextValue:
+Method com.google.gson.stream.JsonReader.nextValue graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.stream.JsonReader.nextValue,7,17,0,0
+
+
+#com/google/gson/stream/JsonReader/fillBuffer:
+Method com.google.gson.stream.JsonReader.fillBuffer graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.stream.JsonReader.fillBuffer,9,41,0,2
+
+
+#com/google/gson/stream/JsonReader/nextNonWhitespace:
+Method com.google.gson.stream.JsonReader.nextNonWhitespace graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.stream.JsonReader.nextNonWhitespace,17,42,0,6
+
+
+#com/google/gson/stream/JsonReader/checkLenient:
+Method com.google.gson.stream.JsonReader.checkLenient graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.stream.JsonReader.checkLenient,4,5,0,0
+
+
+#com/google/gson/stream/JsonReader/skipToEndOfLine:
+Method com.google.gson.stream.JsonReader.skipToEndOfLine graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.stream.JsonReader.skipToEndOfLine,8,15,0,1
+
+
+#com/google/gson/stream/JsonReader/skipTo:
+Method com.google.gson.stream.JsonReader.skipTo graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.stream.JsonReader.skipTo,10,34,0,2
+
+
+#com/google/gson/stream/JsonReader/nextString:
+Method com.google.gson.stream.JsonReader.nextString graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.stream.JsonReader.nextString,19,76,0,10
+
+
+#com/google/gson/stream/JsonReader/nextLiteral:
+Method com.google.gson.stream.JsonReader.nextLiteral graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.stream.JsonReader.nextLiteral,16,54,0,4
+
+
+#com/google/gson/stream/JsonReader/readEscapeCharacter:
+Method com.google.gson.stream.JsonReader.readEscapeCharacter graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.stream.JsonReader.readEscapeCharacter,15,32,0,0
+
+
+#com/google/gson/stream/JsonReader/readLiteral:
+Method com.google.gson.stream.JsonReader.readLiteral graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.stream.JsonReader.readLiteral,4,5,0,0
+
+
+#com/google/gson/stream/JsonReader/decodeLiteral:
+Method com.google.gson.stream.JsonReader.decodeLiteral graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.stream.JsonReader.decodeLiteral,8,19,0,1
+
+
+#com/google/gson/stream/JsonWriter/<init>:
+Method com.google.gson.stream.JsonWriter.<init> graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.stream.JsonWriter.<init>,4,4,0,0
+
+
+#com/google/gson/stream/JsonWriter/setIndent:
+Method com.google.gson.stream.JsonWriter.setIndent graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.stream.JsonWriter.setIndent,5,5,0,0
+
+
+#com/google/gson/stream/JsonWriter/close:
+Method com.google.gson.stream.JsonWriter.close graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.stream.JsonWriter.close,7,20,0,1
+
+
+#com/google/gson/stream/JsonWriter/name:
+Method com.google.gson.stream.JsonWriter.name graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.stream.JsonWriter.name,4,4,0,0
+
+
+#com/google/gson/stream/JsonWriter/value:
+Method com.google.gson.stream.JsonWriter.value graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.stream.JsonWriter.value,4,5,0,0
+
+
+#com/google/gson/stream/JsonWriter/value:
+Method com.google.gson.stream.JsonWriter.value graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.stream.JsonWriter.value,5,4,0,0
+
+
+#com/google/gson/stream/JsonWriter/value:
+Method com.google.gson.stream.JsonWriter.value graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.stream.JsonWriter.value,5,8,0,1
+
+
+#com/google/gson/stream/JsonWriter/value:
+Method com.google.gson.stream.JsonWriter.value graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.stream.JsonWriter.value,9,18,0,1
+
+
+#com/google/gson/stream/JsonWriter/close:
+Method com.google.gson.stream.JsonWriter.close graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.stream.JsonWriter.close,4,4,0,0
+
+
+#com/google/gson/stream/JsonWriter/string:
+Method com.google.gson.stream.JsonWriter.string graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.stream.JsonWriter.string,18,52,0,7
+
+
+#com/google/gson/stream/JsonWriter/newline:
+Method com.google.gson.stream.JsonWriter.newline graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.stream.JsonWriter.newline,7,19,0,1
+
+
+#com/google/gson/stream/JsonWriter/beforeName:
+Method com.google.gson.stream.JsonWriter.beforeName graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.stream.JsonWriter.beforeName,6,14,0,0
+
+
+#com/google/gson/stream/JsonWriter/beforeValue:
+Method com.google.gson.stream.JsonWriter.beforeValue graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.stream.JsonWriter.beforeValue,12,30,0,1
+
+
+#com/google/gson/reflect/TypeToken/nonNull:
+Method com.google.gson.reflect.TypeToken.nonNull graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.reflect.TypeToken.nonNull,4,4,0,1
+
+
+#com/google/gson/reflect/TypeToken/getSuperclassTypeParameter:
+Method com.google.gson.reflect.TypeToken.getSuperclassTypeParameter graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.reflect.TypeToken.getSuperclassTypeParameter,4,3,0,0
+
+
+#com/google/gson/reflect/TypeToken/getRawType:
+Method com.google.gson.reflect.TypeToken.getRawType graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.reflect.TypeToken.getRawType,10,14,0,0
+
+
+#com/google/gson/reflect/TypeToken/isAssignableFrom:
+Method com.google.gson.reflect.TypeToken.isAssignableFrom graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.reflect.TypeToken.isAssignableFrom,16,40,0,2
+
+
+#com/google/gson/reflect/TypeToken/isAssignableFrom:
+Method com.google.gson.reflect.TypeToken.isAssignableFrom graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.reflect.TypeToken.isAssignableFrom,11,21,0,1
+
+
+#com/google/gson/reflect/TypeToken/isAssignableFrom:
+Method com.google.gson.reflect.TypeToken.isAssignableFrom graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.reflect.TypeToken.isAssignableFrom,24,71,0,7
+
+
+#com/google/gson/reflect/TypeToken/typeEquals:
+Method com.google.gson.reflect.TypeToken.typeEquals graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.reflect.TypeToken.typeEquals,9,24,0,1
+
+
+#com/google/gson/reflect/TypeToken/matches:
+Method com.google.gson.reflect.TypeToken.matches graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.reflect.TypeToken.matches,6,9,0,1
+
+
+#com/google/gson/reflect/TypeToken/equals:
+Method com.google.gson.reflect.TypeToken.equals graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.reflect.TypeToken.equals,6,9,0,0
+
+
+#com/google/gson/reflect/TypeToken/toString:
+Method com.google.gson.reflect.TypeToken.toString graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.reflect.TypeToken.toString,5,6,0,0
+
+
+#com/google/gson/reflect/TypeToken/buildUnexpectedTypeError:
+Method com.google.gson.reflect.TypeToken.buildUnexpectedTypeError graphduas were calculated in 0 minutes and 0 seconds
+@@ com.google.gson.reflect.TypeToken.buildUnexpectedTypeError,5,12,0,0
+
+229 methods have their graphdua generated in 0 minutes and 0 seconds
+Graphduas time (ms):785

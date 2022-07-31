@@ -1,0 +1,15 @@
+{
+"Class" : "com.google.gson.DefaultTypeAdapters$DoubleSerializer", 
+"Methods" : [{ "Name" : "serialize" ,
+"Duas" : 10,
+"0" :  "(799,(799,800), this)",
+"1" :  "(799,(799,806), this)",
+"2" :  "(799,806, src)",
+"3" :  "(799,(800,800), src)",
+"4" :  "(799,(800,801), src)",
+"5" :  "(799,801, src)",
+"6" :  "(799,(800,801), src)",
+"7" :  "(799,(800,806), src)",
+"8" :  "(799,(799,800), this.serializeSpecialFloatingPointValues)",
+"9" :  "(799,(799,806), this.serializeSpecialFloatingPointValues)"}]
+}

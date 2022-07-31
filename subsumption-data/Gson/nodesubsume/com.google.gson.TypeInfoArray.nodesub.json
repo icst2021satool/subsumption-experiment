@@ -1,0 +1,22 @@
+{
+"Class" : "com.google.gson.TypeInfoArray", 
+"Methods" : [{ "Name" : "<init>" ,
+"Nodes" : 5,
+"0" : [ ],
+"1" : [ ],
+"2" : [ 0, 1, 2, 3],
+"4" : [ 0, 1, 2, 3],
+"3" : [ 4, 7],
+"CoveredDUAsByNodes" : 6,
+"Duas" : 12
+},{ "Name" : "extractSecondLevelType" ,
+"Nodes" : 5,
+"0" : [ ],
+"1" : [ 1],
+"3" : [ 0],
+"2" : [ 2, 3],
+"4" : [ 2, 3],
+"CoveredDUAsByNodes" : 4,
+"Duas" : 4
+}]
+}

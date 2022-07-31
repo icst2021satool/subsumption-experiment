@@ -1,0 +1,20 @@
+{
+"Class" : "com.google.gson.CamelCaseSeparatorNamingPolicy", 
+"Methods" : [{ "Name" : "<init>" ,
+"Edges" : 5,
+"Duas" : 4,
+"1" : 0, 
+ "2" : 1},{ "Name" : "translateName" ,
+"Edges" : 10,
+"Duas" : 21,
+"1" : 6, 
+ "2" : 7, 
+ "7" : 0, 
+ "8" : 1, 
+ "10" : 6, 
+ "11" : 7, 
+ "14" : 3, 
+ "15" : 4, 
+ "17" : 6, 
+ "18" : 7}]
+}

@@ -1,0 +1,11 @@
+{
+"Class" : "com.google.gson.ObjectNavigatorFactory", 
+"Methods" : [{ "Name" : "<init>" ,
+"Duas" : 6,
+"0" :  "(39,41, this)",
+"1" :  "(39,42, this)",
+"2" :  "(39,(41,41), strategy)",
+"3" :  "(39,(41,41), strategy)",
+"4" :  "(39,41, strategy)",
+"5" :  "(39,42, fieldNamingPolicy)"}]
+}

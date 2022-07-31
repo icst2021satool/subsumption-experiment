@@ -1,0 +1,13 @@
+{
+"Class" : "com.google.gson.JsonFieldNameValidator", 
+"Methods" : [{ "Name" : "validate" ,
+"Duas" : 8,
+"0" :  "(47,(48,48), fieldName)",
+"1" :  "(47,(48,48), fieldName)",
+"2" :  "(47,50, fieldName)",
+"3" :  "(47,54, fieldName)",
+"4" :  "(47,52, fieldName)",
+"5" :  "(47,50, JSON_FIELD_NAME_PATTERN)",
+"6" :  "(50,(51,52), matcher)",
+"7" :  "(50,(51,54), matcher)"}]
+}

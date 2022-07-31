@@ -27,51 +27,51 @@ com.google.gson.JsonStreamParser.hasNext;6;2;2;2;
 
 
 #com/google/gson/TypeUtils/getActualTypeForFirstTypeVariable:
-Method getActualTypeForFirstTypeVariable reduced in 0 minutes and 0 seconds. Total em milliseconds 3
+Method getActualTypeForFirstTypeVariable reduced in 0 minutes and 0 seconds. Total em milliseconds 5
 ## nodes: 8
 ## edges: 10
 ## duas: 9
 ## Unconstrained duas: 4
 ## Reduction nodes: 6
-@@ com.google.gson.TypeUtils.getActualTypeForFirstTypeVariable,8,10,9,4,6,44.44444444444444,66.66666666666666,0,3
+@@ com.google.gson.TypeUtils.getActualTypeForFirstTypeVariable,8,10,9,4,6,44.44444444444444,66.66666666666666,0,5
 
-com.google.gson.TypeUtils.getActualTypeForFirstTypeVariable;9;4;6;3;
+com.google.gson.TypeUtils.getActualTypeForFirstTypeVariable;9;4;6;5;
 
 
 #com/google/gson/TypeUtils/isArray:
-Method isArray reduced in 0 minutes and 0 seconds. Total em milliseconds 2
+Method isArray reduced in 0 minutes and 0 seconds. Total em milliseconds 1
 ## nodes: 6
 ## edges: 7
 ## duas: 5
 ## Unconstrained duas: 3
 ## Reduction nodes: 4
-@@ com.google.gson.TypeUtils.isArray,6,7,5,3,4,60.0,80.0,0,2
+@@ com.google.gson.TypeUtils.isArray,6,7,5,3,4,60.0,80.0,0,1
 
-com.google.gson.TypeUtils.isArray;5;3;4;2;
+com.google.gson.TypeUtils.isArray;5;3;4;1;
 
 
 #com/google/gson/TypeUtils/toRawClass:
-Method toRawClass reduced in 0 minutes and 0 seconds. Total em milliseconds 6
+Method toRawClass reduced in 0 minutes and 0 seconds. Total em milliseconds 5
 ## nodes: 10
 ## edges: 13
 ## duas: 13
 ## Unconstrained duas: 5
 ## Reduction nodes: 8
-@@ com.google.gson.TypeUtils.toRawClass,10,13,13,5,8,38.46153846153847,61.53846153846154,0,6
+@@ com.google.gson.TypeUtils.toRawClass,10,13,13,5,8,38.46153846153847,61.53846153846154,0,5
 
-com.google.gson.TypeUtils.toRawClass;13;5;8;6;
+com.google.gson.TypeUtils.toRawClass;13;5;8;5;
 
 
 #com/google/gson/VersionExclusionStrategy/<init>:
-Method <init> reduced in 0 minutes and 0 seconds. Total em milliseconds 2
+Method <init> reduced in 0 minutes and 0 seconds. Total em milliseconds 1
 ## nodes: 5
 ## edges: 5
 ## duas: 4
 ## Unconstrained duas: 2
 ## Reduction nodes: 3
-@@ com.google.gson.VersionExclusionStrategy.<init>,5,5,4,2,3,50.0,75.0,0,2
+@@ com.google.gson.VersionExclusionStrategy.<init>,5,5,4,2,3,50.0,75.0,0,1
 
-com.google.gson.VersionExclusionStrategy.<init>;4;2;3;2;
+com.google.gson.VersionExclusionStrategy.<init>;4;2;3;1;
 
 
 #com/google/gson/VersionExclusionStrategy/shouldSkipField:
@@ -111,63 +111,63 @@ com.google.gson.VersionExclusionStrategy.isValidVersion;8;3;4;2;
 
 
 #com/google/gson/VersionExclusionStrategy/isValidSince:
-Method isValidSince reduced in 0 minutes and 0 seconds. Total em milliseconds 3
+Method isValidSince reduced in 0 minutes and 0 seconds. Total em milliseconds 1
 ## nodes: 5
 ## edges: 6
 ## duas: 9
 ## Unconstrained duas: 3
 ## Reduction nodes: 4
-@@ com.google.gson.VersionExclusionStrategy.isValidSince,5,6,9,3,4,33.33333333333333,44.44444444444444,0,3
+@@ com.google.gson.VersionExclusionStrategy.isValidSince,5,6,9,3,4,33.33333333333333,44.44444444444444,0,1
 
-com.google.gson.VersionExclusionStrategy.isValidSince;9;3;4;3;
+com.google.gson.VersionExclusionStrategy.isValidSince;9;3;4;1;
 
 
 #com/google/gson/VersionExclusionStrategy/isValidUntil:
-Method isValidUntil reduced in 0 minutes and 0 seconds. Total em milliseconds 2
+Method isValidUntil reduced in 0 minutes and 0 seconds. Total em milliseconds 3
 ## nodes: 5
 ## edges: 6
 ## duas: 9
 ## Unconstrained duas: 3
 ## Reduction nodes: 4
-@@ com.google.gson.VersionExclusionStrategy.isValidUntil,5,6,9,3,4,33.33333333333333,44.44444444444444,0,2
+@@ com.google.gson.VersionExclusionStrategy.isValidUntil,5,6,9,3,4,33.33333333333333,44.44444444444444,0,3
 
-com.google.gson.VersionExclusionStrategy.isValidUntil;9;3;4;2;
+com.google.gson.VersionExclusionStrategy.isValidUntil;9;3;4;3;
 
 
 #com/google/gson/TypeInfo/isCollectionOrArray:
-Method isCollectionOrArray reduced in 0 minutes and 0 seconds. Total em milliseconds 1
+Method isCollectionOrArray reduced in 0 minutes and 0 seconds. Total em milliseconds 2
 ## nodes: 6
 ## edges: 7
 ## duas: 6
 ## Unconstrained duas: 3
 ## Reduction nodes: 4
-@@ com.google.gson.TypeInfo.isCollectionOrArray,6,7,6,3,4,50.0,66.66666666666666,0,1
+@@ com.google.gson.TypeInfo.isCollectionOrArray,6,7,6,3,4,50.0,66.66666666666666,0,2
 
-com.google.gson.TypeInfo.isCollectionOrArray;6;3;4;1;
+com.google.gson.TypeInfo.isCollectionOrArray;6;3;4;2;
 
 
 #com/google/gson/GenericArrayTypeImpl/equals:
-Method equals reduced in 0 minutes and 0 seconds. Total em milliseconds 4
+Method equals reduced in 0 minutes and 0 seconds. Total em milliseconds 3
 ## nodes: 9
 ## edges: 11
 ## duas: 12
 ## Unconstrained duas: 4
 ## Reduction nodes: 6
-@@ com.google.gson.GenericArrayTypeImpl.equals,9,11,12,4,6,33.33333333333333,50.0,0,4
+@@ com.google.gson.GenericArrayTypeImpl.equals,9,11,12,4,6,33.33333333333333,50.0,0,3
 
-com.google.gson.GenericArrayTypeImpl.equals;12;4;6;4;
+com.google.gson.GenericArrayTypeImpl.equals;12;4;6;3;
 
 
 #com/google/gson/GenericArrayTypeImpl/hashCode:
-Method hashCode reduced in 0 minutes and 0 seconds. Total em milliseconds 1
+Method hashCode reduced in 0 minutes and 0 seconds. Total em milliseconds 2
 ## nodes: 5
 ## edges: 5
 ## duas: 6
 ## Unconstrained duas: 2
 ## Reduction nodes: 3
-@@ com.google.gson.GenericArrayTypeImpl.hashCode,5,5,6,2,3,33.33333333333333,50.0,0,1
+@@ com.google.gson.GenericArrayTypeImpl.hashCode,5,5,6,2,3,33.33333333333333,50.0,0,2
 
-com.google.gson.GenericArrayTypeImpl.hashCode;6;2;3;1;
+com.google.gson.GenericArrayTypeImpl.hashCode;6;2;3;2;
 
 
 #com/google/gson/Gson/createExclusionStrategy:
@@ -195,63 +195,63 @@ com.google.gson.Gson.toJsonTree;4;2;2;1;
 
 
 #com/google/gson/Gson/toJsonTree:
-Method toJsonTree reduced in 0 minutes and 0 seconds. Total em milliseconds 1
+Method toJsonTree reduced in 0 minutes and 0 seconds. Total em milliseconds 2
 ## nodes: 4
 ## edges: 4
 ## duas: 8
 ## Unconstrained duas: 2
 ## Reduction nodes: 2
-@@ com.google.gson.Gson.toJsonTree,4,4,8,2,2,25.0,25.0,0,1
+@@ com.google.gson.Gson.toJsonTree,4,4,8,2,2,25.0,25.0,0,2
 
-com.google.gson.Gson.toJsonTree;8;2;2;1;
+com.google.gson.Gson.toJsonTree;8;2;2;2;
 
 
 #com/google/gson/Gson/toJson:
-Method toJson reduced in 0 minutes and 0 seconds. Total em milliseconds 1
+Method toJson reduced in 0 minutes and 0 seconds. Total em milliseconds 2
 ## nodes: 7
 ## edges: 8
 ## duas: 8
 ## Unconstrained duas: 3
 ## Reduction nodes: 4
-@@ com.google.gson.Gson.toJson,7,8,8,3,4,37.5,50.0,0,1
+@@ com.google.gson.Gson.toJson,7,8,8,3,4,37.5,50.0,0,2
 
-com.google.gson.Gson.toJson;8;3;4;1;
+com.google.gson.Gson.toJson;8;3;4;2;
 
 
 #com/google/gson/Gson/toJson:
-Method toJson reduced in 0 minutes and 0 seconds. Total em milliseconds 6
+Method toJson reduced in 0 minutes and 0 seconds. Total em milliseconds 3
 ## nodes: 6
 ## edges: 7
 ## duas: 11
 ## Unconstrained duas: 3
 ## Reduction nodes: 4
-@@ com.google.gson.Gson.toJson,6,7,11,3,4,27.27272727272727,36.36363636363637,0,6
+@@ com.google.gson.Gson.toJson,6,7,11,3,4,27.27272727272727,36.36363636363637,0,3
 
-com.google.gson.Gson.toJson;11;3;4;6;
+com.google.gson.Gson.toJson;11;3;4;3;
 
 
 #com/google/gson/Gson/toJson:
-Method toJson reduced in 0 minutes and 0 seconds. Total em milliseconds 4
+Method toJson reduced in 0 minutes and 0 seconds. Total em milliseconds 7
 ## nodes: 6
 ## edges: 7
 ## duas: 14
 ## Unconstrained duas: 4
 ## Reduction nodes: 5
-@@ com.google.gson.Gson.toJson,6,7,14,4,5,28.57142857142857,35.714285714285715,0,4
+@@ com.google.gson.Gson.toJson,6,7,14,4,5,28.57142857142857,35.714285714285715,0,7
 
-com.google.gson.Gson.toJson;14;4;5;4;
+com.google.gson.Gson.toJson;14;4;5;7;
 
 
 #com/google/gson/Gson/fromJson:
-Method fromJson reduced in 0 minutes and 0 seconds. Total em milliseconds 2
+Method fromJson reduced in 0 minutes and 0 seconds. Total em milliseconds 1
 ## nodes: 4
 ## edges: 4
 ## duas: 5
 ## Unconstrained duas: 2
 ## Reduction nodes: 2
-@@ com.google.gson.Gson.fromJson,4,4,5,2,2,40.0,40.0,0,2
+@@ com.google.gson.Gson.fromJson,4,4,5,2,2,40.0,40.0,0,1
 
-com.google.gson.Gson.fromJson;5;2;2;2;
+com.google.gson.Gson.fromJson;5;2;2;1;
 
 
 #com/google/gson/Gson/fromJson:
@@ -267,27 +267,27 @@ com.google.gson.Gson.fromJson;8;2;2;2;
 
 
 #com/google/gson/TypeInfoArray/<init>:
-Method <init> reduced in 0 minutes and 0 seconds. Total em milliseconds 4
+Method <init> reduced in 0 minutes and 0 seconds. Total em milliseconds 3
 ## nodes: 5
 ## edges: 5
 ## duas: 11
 ## Unconstrained duas: 2
 ## Reduction nodes: 4
-@@ com.google.gson.TypeInfoArray.<init>,5,5,11,2,4,18.181818181818183,36.36363636363637,0,4
+@@ com.google.gson.TypeInfoArray.<init>,5,5,11,2,4,18.181818181818183,36.36363636363637,0,3
 
-com.google.gson.TypeInfoArray.<init>;11;2;4;4;
+com.google.gson.TypeInfoArray.<init>;11;2;4;3;
 
 
 #com/google/gson/TypeInfoArray/extractSecondLevelType:
-Method extractSecondLevelType reduced in 0 minutes and 0 seconds. Total em milliseconds 1
+Method extractSecondLevelType reduced in 0 minutes and 0 seconds. Total em milliseconds 0
 ## nodes: 5
 ## edges: 5
 ## duas: 4
 ## Unconstrained duas: 2
 ## Reduction nodes: 3
-@@ com.google.gson.TypeInfoArray.extractSecondLevelType,5,5,4,2,3,50.0,75.0,0,1
+@@ com.google.gson.TypeInfoArray.extractSecondLevelType,5,5,4,2,3,50.0,75.0,0,0
 
-com.google.gson.TypeInfoArray.extractSecondLevelType;4;2;3;1;
+com.google.gson.TypeInfoArray.extractSecondLevelType;4;2;3;0;
 
 
 #com/google/gson/DefaultTypeAdapters$DefaultTimeTypeAdapter/deserialize:
@@ -303,87 +303,87 @@ com.google.gson.DefaultTypeAdapters$DefaultTimeTypeAdapter.deserialize;5;2;2;1;
 
 
 #com/google/gson/DisjunctionExclusionStrategy/shouldSkipField:
-Method shouldSkipField reduced in 0 minutes and 0 seconds. Total em milliseconds 3
+Method shouldSkipField reduced in 0 minutes and 0 seconds. Total em milliseconds 1
 ## nodes: 7
 ## edges: 8
 ## duas: 7
 ## Unconstrained duas: 3
 ## Reduction nodes: 4
-@@ com.google.gson.DisjunctionExclusionStrategy.shouldSkipField,7,8,7,3,4,42.857142857142854,57.14285714285714,0,3
+@@ com.google.gson.DisjunctionExclusionStrategy.shouldSkipField,7,8,7,3,4,42.857142857142854,57.14285714285714,0,1
 
-com.google.gson.DisjunctionExclusionStrategy.shouldSkipField;7;3;4;3;
+com.google.gson.DisjunctionExclusionStrategy.shouldSkipField;7;3;4;1;
 
 
 #com/google/gson/DisjunctionExclusionStrategy/shouldSkipClass:
-Method shouldSkipClass reduced in 0 minutes and 0 seconds. Total em milliseconds 3
+Method shouldSkipClass reduced in 0 minutes and 0 seconds. Total em milliseconds 2
 ## nodes: 7
 ## edges: 8
 ## duas: 7
 ## Unconstrained duas: 3
 ## Reduction nodes: 4
-@@ com.google.gson.DisjunctionExclusionStrategy.shouldSkipClass,7,8,7,3,4,42.857142857142854,57.14285714285714,0,3
+@@ com.google.gson.DisjunctionExclusionStrategy.shouldSkipClass,7,8,7,3,4,42.857142857142854,57.14285714285714,0,2
 
-com.google.gson.DisjunctionExclusionStrategy.shouldSkipClass;7;3;4;3;
+com.google.gson.DisjunctionExclusionStrategy.shouldSkipClass;7;3;4;2;
 
 
 #com/google/gson/ParameterizedTypeHandlerMap/registerForTypeHierarchy:
-Method registerForTypeHierarchy reduced in 0 minutes and 0 seconds. Total em milliseconds 4
+Method registerForTypeHierarchy reduced in 0 minutes and 0 seconds. Total em milliseconds 7
 ## nodes: 8
 ## edges: 10
 ## duas: 29
 ## Unconstrained duas: 5
 ## Reduction nodes: 6
-@@ com.google.gson.ParameterizedTypeHandlerMap.registerForTypeHierarchy,8,10,29,5,6,17.24137931034483,20.689655172413794,0,4
+@@ com.google.gson.ParameterizedTypeHandlerMap.registerForTypeHierarchy,8,10,29,5,6,17.24137931034483,20.689655172413794,0,7
 
-com.google.gson.ParameterizedTypeHandlerMap.registerForTypeHierarchy;29;5;6;4;
+com.google.gson.ParameterizedTypeHandlerMap.registerForTypeHierarchy;29;5;6;7;
 
 
 #com/google/gson/ParameterizedTypeHandlerMap/getIndexOfAnOverriddenHandler:
-Method getIndexOfAnOverriddenHandler reduced in 0 minutes and 0 seconds. Total em milliseconds 8
+Method getIndexOfAnOverriddenHandler reduced in 0 minutes and 0 seconds. Total em milliseconds 4
 ## nodes: 7
 ## edges: 8
 ## duas: 18
 ## Unconstrained duas: 5
 ## Reduction nodes: 9
-@@ com.google.gson.ParameterizedTypeHandlerMap.getIndexOfAnOverriddenHandler,7,8,18,5,9,27.77777777777778,50.0,0,8
+@@ com.google.gson.ParameterizedTypeHandlerMap.getIndexOfAnOverriddenHandler,7,8,18,5,9,27.77777777777778,50.0,0,4
 
-com.google.gson.ParameterizedTypeHandlerMap.getIndexOfAnOverriddenHandler;18;5;9;8;
+com.google.gson.ParameterizedTypeHandlerMap.getIndexOfAnOverriddenHandler;18;5;9;4;
 
 
 #com/google/gson/ParameterizedTypeHandlerMap/register:
-Method register reduced in 0 minutes and 0 seconds. Total em milliseconds 3
+Method register reduced in 0 minutes and 0 seconds. Total em milliseconds 2
 ## nodes: 6
 ## edges: 7
 ## duas: 15
 ## Unconstrained duas: 3
 ## Reduction nodes: 4
-@@ com.google.gson.ParameterizedTypeHandlerMap.register,6,7,15,3,4,20.0,26.666666666666668,0,3
+@@ com.google.gson.ParameterizedTypeHandlerMap.register,6,7,15,3,4,20.0,26.666666666666668,0,2
 
-com.google.gson.ParameterizedTypeHandlerMap.register;15;3;4;3;
+com.google.gson.ParameterizedTypeHandlerMap.register;15;3;4;2;
 
 
 #com/google/gson/ParameterizedTypeHandlerMap/registerIfAbsent:
-Method registerIfAbsent reduced in 0 minutes and 0 seconds. Total em milliseconds 15
+Method registerIfAbsent reduced in 0 minutes and 0 seconds. Total em milliseconds 13
 ## nodes: 14
 ## edges: 18
 ## duas: 34
 ## Unconstrained duas: 7
 ## Reduction nodes: 10
-@@ com.google.gson.ParameterizedTypeHandlerMap.registerIfAbsent,14,18,34,7,10,20.588235294117645,29.411764705882355,0,15
+@@ com.google.gson.ParameterizedTypeHandlerMap.registerIfAbsent,14,18,34,7,10,20.588235294117645,29.411764705882355,0,13
 
-com.google.gson.ParameterizedTypeHandlerMap.registerIfAbsent;34;7;10;15;
+com.google.gson.ParameterizedTypeHandlerMap.registerIfAbsent;34;7;10;13;
 
 
 #com/google/gson/ParameterizedTypeHandlerMap/registerIfAbsent:
-Method registerIfAbsent reduced in 0 minutes and 0 seconds. Total em milliseconds 2
+Method registerIfAbsent reduced in 0 minutes and 0 seconds. Total em milliseconds 1
 ## nodes: 6
 ## edges: 7
 ## duas: 13
 ## Unconstrained duas: 3
 ## Reduction nodes: 4
-@@ com.google.gson.ParameterizedTypeHandlerMap.registerIfAbsent,6,7,13,3,4,23.076923076923077,30.76923076923077,0,2
+@@ com.google.gson.ParameterizedTypeHandlerMap.registerIfAbsent,6,7,13,3,4,23.076923076923077,30.76923076923077,0,1
 
-com.google.gson.ParameterizedTypeHandlerMap.registerIfAbsent;13;3;4;2;
+com.google.gson.ParameterizedTypeHandlerMap.registerIfAbsent;13;3;4;1;
 
 
 #com/google/gson/ParameterizedTypeHandlerMap/getHandlerFor:
@@ -399,39 +399,39 @@ com.google.gson.ParameterizedTypeHandlerMap.getHandlerFor;18;5;10;2;
 
 
 #com/google/gson/ParameterizedTypeHandlerMap/getHandlerForTypeHierarchy:
-Method getHandlerForTypeHierarchy reduced in 0 minutes and 0 seconds. Total em milliseconds 4
+Method getHandlerForTypeHierarchy reduced in 0 minutes and 0 seconds. Total em milliseconds 3
 ## nodes: 7
 ## edges: 8
 ## duas: 11
 ## Unconstrained duas: 3
 ## Reduction nodes: 4
-@@ com.google.gson.ParameterizedTypeHandlerMap.getHandlerForTypeHierarchy,7,8,11,3,4,27.27272727272727,36.36363636363637,0,4
+@@ com.google.gson.ParameterizedTypeHandlerMap.getHandlerForTypeHierarchy,7,8,11,3,4,27.27272727272727,36.36363636363637,0,3
 
-com.google.gson.ParameterizedTypeHandlerMap.getHandlerForTypeHierarchy;11;3;4;4;
+com.google.gson.ParameterizedTypeHandlerMap.getHandlerForTypeHierarchy;11;3;4;3;
 
 
 #com/google/gson/ParameterizedTypeHandlerMap/getIndexOfSpecificHandlerForTypeHierarchy:
-Method getIndexOfSpecificHandlerForTypeHierarchy reduced in 0 minutes and 0 seconds. Total em milliseconds 5
+Method getIndexOfSpecificHandlerForTypeHierarchy reduced in 0 minutes and 0 seconds. Total em milliseconds 3
 ## nodes: 7
 ## edges: 8
 ## duas: 18
 ## Unconstrained duas: 5
 ## Reduction nodes: 9
-@@ com.google.gson.ParameterizedTypeHandlerMap.getIndexOfSpecificHandlerForTypeHierarchy,7,8,18,5,9,27.77777777777778,50.0,0,5
+@@ com.google.gson.ParameterizedTypeHandlerMap.getIndexOfSpecificHandlerForTypeHierarchy,7,8,18,5,9,27.77777777777778,50.0,0,3
 
-com.google.gson.ParameterizedTypeHandlerMap.getIndexOfSpecificHandlerForTypeHierarchy;18;5;9;5;
+com.google.gson.ParameterizedTypeHandlerMap.getIndexOfSpecificHandlerForTypeHierarchy;18;5;9;3;
 
 
 #com/google/gson/ParameterizedTypeHandlerMap/copyOf:
-Method copyOf reduced in 0 minutes and 0 seconds. Total em milliseconds 2
+Method copyOf reduced in 0 minutes and 0 seconds. Total em milliseconds 1
 ## nodes: 8
 ## edges: 9
 ## duas: 11
 ## Unconstrained duas: 2
 ## Reduction nodes: 3
-@@ com.google.gson.ParameterizedTypeHandlerMap.copyOf,8,9,11,2,3,18.181818181818183,27.27272727272727,0,2
+@@ com.google.gson.ParameterizedTypeHandlerMap.copyOf,8,9,11,2,3,18.181818181818183,27.27272727272727,0,1
 
-com.google.gson.ParameterizedTypeHandlerMap.copyOf;11;2;3;2;
+com.google.gson.ParameterizedTypeHandlerMap.copyOf;11;2;3;1;
 
 
 #com/google/gson/ParameterizedTypeHandlerMap/toString:
@@ -447,27 +447,27 @@ com.google.gson.ParameterizedTypeHandlerMap.toString;28;6;13;9;
 
 
 #com/google/gson/DefaultTypeAdapters$DefaultDateTypeAdapter/deserialize:
-Method deserialize reduced in 0 minutes and 0 seconds. Total em milliseconds 0
+Method deserialize reduced in 0 minutes and 0 seconds. Total em milliseconds 1
 ## nodes: 4
 ## edges: 4
 ## duas: 5
 ## Unconstrained duas: 2
 ## Reduction nodes: 2
-@@ com.google.gson.DefaultTypeAdapters$DefaultDateTypeAdapter.deserialize,4,4,5,2,2,40.0,40.0,0,0
+@@ com.google.gson.DefaultTypeAdapters$DefaultDateTypeAdapter.deserialize,4,4,5,2,2,40.0,40.0,0,1
 
-com.google.gson.DefaultTypeAdapters$DefaultDateTypeAdapter.deserialize;5;2;2;0;
+com.google.gson.DefaultTypeAdapters$DefaultDateTypeAdapter.deserialize;5;2;2;1;
 
 
 #com/google/gson/TypeInfoFactory/getActualType:
-Method getActualType reduced in 0 minutes and 0 seconds. Total em milliseconds 10
+Method getActualType reduced in 0 minutes and 0 seconds. Total em milliseconds 6
 ## nodes: 19
 ## edges: 26
 ## duas: 36
 ## Unconstrained duas: 9
 ## Reduction nodes: 16
-@@ com.google.gson.TypeInfoFactory.getActualType,19,26,36,9,16,25.0,44.44444444444444,0,10
+@@ com.google.gson.TypeInfoFactory.getActualType,19,26,36,9,16,25.0,44.44444444444444,0,6
 
-com.google.gson.TypeInfoFactory.getActualType;36;9;16;10;
+com.google.gson.TypeInfoFactory.getActualType;36;9;16;6;
 
 
 #com/google/gson/TypeInfoFactory/extractRealTypes:
@@ -483,15 +483,15 @@ com.google.gson.TypeInfoFactory.extractRealTypes;13;2;4;2;
 
 
 #com/google/gson/TypeInfoFactory/getIndex:
-Method getIndex reduced in 0 minutes and 0 seconds. Total em milliseconds 6
+Method getIndex reduced in 0 minutes and 0 seconds. Total em milliseconds 3
 ## nodes: 7
 ## edges: 8
 ## duas: 18
 ## Unconstrained duas: 5
 ## Reduction nodes: 10
-@@ com.google.gson.TypeInfoFactory.getIndex,7,8,18,5,10,27.77777777777778,55.55555555555556,0,6
+@@ com.google.gson.TypeInfoFactory.getIndex,7,8,18,5,10,27.77777777777778,55.55555555555556,0,3
 
-com.google.gson.TypeInfoFactory.getIndex;18;5;10;6;
+com.google.gson.TypeInfoFactory.getIndex;18;5;10;3;
 
 
 #com/google/gson/Pair/hashCode:
@@ -519,27 +519,27 @@ com.google.gson.Pair.equals;19;4;6;3;
 
 
 #com/google/gson/Pair/equal:
-Method equal reduced in 0 minutes and 0 seconds. Total em milliseconds 0
+Method equal reduced in 0 minutes and 0 seconds. Total em milliseconds 7
 ## nodes: 7
 ## edges: 9
 ## duas: 10
 ## Unconstrained duas: 4
 ## Reduction nodes: 6
-@@ com.google.gson.Pair.equal,7,9,10,4,6,40.0,60.0,0,0
+@@ com.google.gson.Pair.equal,7,9,10,4,6,40.0,60.0,0,7
 
-com.google.gson.Pair.equal;10;4;6;0;
+com.google.gson.Pair.equal;10;4;6;7;
 
 
 #com/google/gson/JsonElement/getAsJsonObject:
-Method getAsJsonObject reduced in 0 minutes and 0 seconds. Total em milliseconds 0
+Method getAsJsonObject reduced in 0 minutes and 0 seconds. Total em milliseconds 1
 ## nodes: 4
 ## edges: 4
 ## duas: 3
 ## Unconstrained duas: 2
 ## Reduction nodes: 2
-@@ com.google.gson.JsonElement.getAsJsonObject,4,4,3,2,2,66.66666666666666,66.66666666666666,0,0
+@@ com.google.gson.JsonElement.getAsJsonObject,4,4,3,2,2,66.66666666666666,66.66666666666666,0,1
 
-com.google.gson.JsonElement.getAsJsonObject;3;2;2;0;
+com.google.gson.JsonElement.getAsJsonObject;3;2;2;1;
 
 
 #com/google/gson/JsonElement/getAsJsonArray:
@@ -555,15 +555,15 @@ com.google.gson.JsonElement.getAsJsonArray;3;2;2;0;
 
 
 #com/google/gson/JsonElement/getAsJsonPrimitive:
-Method getAsJsonPrimitive reduced in 0 minutes and 0 seconds. Total em milliseconds 1
+Method getAsJsonPrimitive reduced in 0 minutes and 0 seconds. Total em milliseconds 0
 ## nodes: 4
 ## edges: 4
 ## duas: 3
 ## Unconstrained duas: 2
 ## Reduction nodes: 2
-@@ com.google.gson.JsonElement.getAsJsonPrimitive,4,4,3,2,2,66.66666666666666,66.66666666666666,0,1
+@@ com.google.gson.JsonElement.getAsJsonPrimitive,4,4,3,2,2,66.66666666666666,66.66666666666666,0,0
 
-com.google.gson.JsonElement.getAsJsonPrimitive;3;2;2;1;
+com.google.gson.JsonElement.getAsJsonPrimitive;3;2;2;0;
 
 
 #com/google/gson/JsonElement/getAsJsonNull:
@@ -615,39 +615,39 @@ com.google.gson.JsonDeserializationContextDefault.deserialize;20;6;10;2;
 
 
 #com/google/gson/DefaultTypeAdapters$DoubleSerializer/serialize:
-Method serialize reduced in 0 minutes and 0 seconds. Total em milliseconds 1
+Method serialize reduced in 0 minutes and 0 seconds. Total em milliseconds 0
 ## nodes: 6
 ## edges: 8
 ## duas: 10
 ## Unconstrained duas: 4
 ## Reduction nodes: 8
-@@ com.google.gson.DefaultTypeAdapters$DoubleSerializer.serialize,6,8,10,4,8,40.0,80.0,0,1
+@@ com.google.gson.DefaultTypeAdapters$DoubleSerializer.serialize,6,8,10,4,8,40.0,80.0,0,0
 
-com.google.gson.DefaultTypeAdapters$DoubleSerializer.serialize;10;4;8;1;
+com.google.gson.DefaultTypeAdapters$DoubleSerializer.serialize;10;4;8;0;
 
 
 #com/google/gson/InnerClassExclusionStrategy/isInnerClass:
-Method isInnerClass reduced in 0 minutes and 0 seconds. Total em milliseconds 0
+Method isInnerClass reduced in 0 minutes and 0 seconds. Total em milliseconds 1
 ## nodes: 6
 ## edges: 7
 ## duas: 6
 ## Unconstrained duas: 3
 ## Reduction nodes: 4
-@@ com.google.gson.InnerClassExclusionStrategy.isInnerClass,6,7,6,3,4,50.0,66.66666666666666,0,0
+@@ com.google.gson.InnerClassExclusionStrategy.isInnerClass,6,7,6,3,4,50.0,66.66666666666666,0,1
 
-com.google.gson.InnerClassExclusionStrategy.isInnerClass;6;3;4;0;
+com.google.gson.InnerClassExclusionStrategy.isInnerClass;6;3;4;1;
 
 
 #com/google/gson/InnerClassExclusionStrategy/isStatic:
-Method isStatic reduced in 0 minutes and 0 seconds. Total em milliseconds 1
+Method isStatic reduced in 0 minutes and 0 seconds. Total em milliseconds 0
 ## nodes: 5
 ## edges: 5
 ## duas: 2
 ## Unconstrained duas: 2
 ## Reduction nodes: 2
-@@ com.google.gson.InnerClassExclusionStrategy.isStatic,5,5,2,2,2,100.0,100.0,0,1
+@@ com.google.gson.InnerClassExclusionStrategy.isStatic,5,5,2,2,2,100.0,100.0,0,0
 
-com.google.gson.InnerClassExclusionStrategy.isStatic;2;2;2;1;
+com.google.gson.InnerClassExclusionStrategy.isStatic;2;2;2;0;
 
 
 #com/google/gson/LruCache/removeEldestEntry:
@@ -675,51 +675,51 @@ com.google.gson.JsonPrimitive.setValue;10;4;6;1;
 
 
 #com/google/gson/JsonPrimitive/getAsBoolean:
-Method getAsBoolean reduced in 0 minutes and 0 seconds. Total em milliseconds 1
+Method getAsBoolean reduced in 0 minutes and 0 seconds. Total em milliseconds 0
 ## nodes: 5
 ## edges: 5
 ## duas: 3
 ## Unconstrained duas: 2
 ## Reduction nodes: 3
-@@ com.google.gson.JsonPrimitive.getAsBoolean,5,5,3,2,3,66.66666666666666,100.0,0,1
+@@ com.google.gson.JsonPrimitive.getAsBoolean,5,5,3,2,3,66.66666666666666,100.0,0,0
 
-com.google.gson.JsonPrimitive.getAsBoolean;3;2;3;1;
+com.google.gson.JsonPrimitive.getAsBoolean;3;2;3;0;
 
 
 #com/google/gson/JsonPrimitive/getAsNumber:
-Method getAsNumber reduced in 0 minutes and 0 seconds. Total em milliseconds 0
+Method getAsNumber reduced in 0 minutes and 0 seconds. Total em milliseconds 1
 ## nodes: 5
 ## edges: 5
 ## duas: 6
 ## Unconstrained duas: 2
 ## Reduction nodes: 3
-@@ com.google.gson.JsonPrimitive.getAsNumber,5,5,6,2,3,33.33333333333333,50.0,0,0
+@@ com.google.gson.JsonPrimitive.getAsNumber,5,5,6,2,3,33.33333333333333,50.0,0,1
 
-com.google.gson.JsonPrimitive.getAsNumber;6;2;3;0;
+com.google.gson.JsonPrimitive.getAsNumber;6;2;3;1;
 
 
 #com/google/gson/JsonPrimitive/stringToNumber:
-Method stringToNumber reduced in 0 minutes and 0 seconds. Total em milliseconds 0
+Method stringToNumber reduced in 0 minutes and 0 seconds. Total em milliseconds 1
 ## nodes: 5
 ## edges: 6
 ## duas: 6
 ## Unconstrained duas: 3
 ## Reduction nodes: 5
-@@ com.google.gson.JsonPrimitive.stringToNumber,5,6,6,3,5,50.0,83.33333333333334,0,0
+@@ com.google.gson.JsonPrimitive.stringToNumber,5,6,6,3,5,50.0,83.33333333333334,0,1
 
-com.google.gson.JsonPrimitive.stringToNumber;6;3;5;0;
+com.google.gson.JsonPrimitive.stringToNumber;6;3;5;1;
 
 
 #com/google/gson/JsonPrimitive/getAsString:
-Method getAsString reduced in 0 minutes and 0 seconds. Total em milliseconds 0
+Method getAsString reduced in 0 minutes and 0 seconds. Total em milliseconds 1
 ## nodes: 6
 ## edges: 7
 ## duas: 8
 ## Unconstrained duas: 3
 ## Reduction nodes: 4
-@@ com.google.gson.JsonPrimitive.getAsString,6,7,8,3,4,37.5,50.0,0,0
+@@ com.google.gson.JsonPrimitive.getAsString,6,7,8,3,4,37.5,50.0,0,1
 
-com.google.gson.JsonPrimitive.getAsString;8;3;4;0;
+com.google.gson.JsonPrimitive.getAsString;8;3;4;1;
 
 
 #com/google/gson/JsonPrimitive/getAsDouble:
@@ -747,27 +747,27 @@ com.google.gson.JsonPrimitive.getAsBigDecimal;8;2;3;1;
 
 
 #com/google/gson/JsonPrimitive/getAsBigInteger:
-Method getAsBigInteger reduced in 0 minutes and 0 seconds. Total em milliseconds 0
+Method getAsBigInteger reduced in 0 minutes and 0 seconds. Total em milliseconds 1
 ## nodes: 5
 ## edges: 5
 ## duas: 8
 ## Unconstrained duas: 2
 ## Reduction nodes: 3
-@@ com.google.gson.JsonPrimitive.getAsBigInteger,5,5,8,2,3,25.0,37.5,0,0
+@@ com.google.gson.JsonPrimitive.getAsBigInteger,5,5,8,2,3,25.0,37.5,0,1
 
-com.google.gson.JsonPrimitive.getAsBigInteger;8;2;3;0;
+com.google.gson.JsonPrimitive.getAsBigInteger;8;2;3;1;
 
 
 #com/google/gson/JsonPrimitive/getAsFloat:
-Method getAsFloat reduced in 0 minutes and 0 seconds. Total em milliseconds 1
+Method getAsFloat reduced in 0 minutes and 0 seconds. Total em milliseconds 0
 ## nodes: 5
 ## edges: 5
 ## duas: 3
 ## Unconstrained duas: 2
 ## Reduction nodes: 3
-@@ com.google.gson.JsonPrimitive.getAsFloat,5,5,3,2,3,66.66666666666666,100.0,0,1
+@@ com.google.gson.JsonPrimitive.getAsFloat,5,5,3,2,3,66.66666666666666,100.0,0,0
 
-com.google.gson.JsonPrimitive.getAsFloat;3;2;3;1;
+com.google.gson.JsonPrimitive.getAsFloat;3;2;3;0;
 
 
 #com/google/gson/JsonPrimitive/getAsLong:
@@ -783,51 +783,51 @@ com.google.gson.JsonPrimitive.getAsLong;3;2;3;0;
 
 
 #com/google/gson/JsonPrimitive/getAsShort:
-Method getAsShort reduced in 0 minutes and 0 seconds. Total em milliseconds 1
+Method getAsShort reduced in 0 minutes and 0 seconds. Total em milliseconds 0
 ## nodes: 5
 ## edges: 5
 ## duas: 3
 ## Unconstrained duas: 2
 ## Reduction nodes: 3
-@@ com.google.gson.JsonPrimitive.getAsShort,5,5,3,2,3,66.66666666666666,100.0,0,1
+@@ com.google.gson.JsonPrimitive.getAsShort,5,5,3,2,3,66.66666666666666,100.0,0,0
 
-com.google.gson.JsonPrimitive.getAsShort;3;2;3;1;
+com.google.gson.JsonPrimitive.getAsShort;3;2;3;0;
 
 
 #com/google/gson/JsonPrimitive/getAsInt:
-Method getAsInt reduced in 0 minutes and 0 seconds. Total em milliseconds 0
+Method getAsInt reduced in 0 minutes and 0 seconds. Total em milliseconds 1
 ## nodes: 5
 ## edges: 5
 ## duas: 3
 ## Unconstrained duas: 2
 ## Reduction nodes: 3
-@@ com.google.gson.JsonPrimitive.getAsInt,5,5,3,2,3,66.66666666666666,100.0,0,0
+@@ com.google.gson.JsonPrimitive.getAsInt,5,5,3,2,3,66.66666666666666,100.0,0,1
 
-com.google.gson.JsonPrimitive.getAsInt;3;2;3;0;
+com.google.gson.JsonPrimitive.getAsInt;3;2;3;1;
 
 
 #com/google/gson/JsonPrimitive/getAsByte:
-Method getAsByte reduced in 0 minutes and 0 seconds. Total em milliseconds 1
+Method getAsByte reduced in 0 minutes and 0 seconds. Total em milliseconds 0
 ## nodes: 5
 ## edges: 5
 ## duas: 3
 ## Unconstrained duas: 2
 ## Reduction nodes: 3
-@@ com.google.gson.JsonPrimitive.getAsByte,5,5,3,2,3,66.66666666666666,100.0,0,1
+@@ com.google.gson.JsonPrimitive.getAsByte,5,5,3,2,3,66.66666666666666,100.0,0,0
 
-com.google.gson.JsonPrimitive.getAsByte;3;2;3;1;
+com.google.gson.JsonPrimitive.getAsByte;3;2;3;0;
 
 
 #com/google/gson/JsonPrimitive/getAsObject:
-Method getAsObject reduced in 0 minutes and 0 seconds. Total em milliseconds 1
+Method getAsObject reduced in 0 minutes and 0 seconds. Total em milliseconds 2
 ## nodes: 7
 ## edges: 9
 ## duas: 18
 ## Unconstrained duas: 4
 ## Reduction nodes: 7
-@@ com.google.gson.JsonPrimitive.getAsObject,7,9,18,4,7,22.22222222222222,38.88888888888889,0,1
+@@ com.google.gson.JsonPrimitive.getAsObject,7,9,18,4,7,22.22222222222222,38.88888888888889,0,2
 
-com.google.gson.JsonPrimitive.getAsObject;18;4;7;1;
+com.google.gson.JsonPrimitive.getAsObject;18;4;7;2;
 
 
 #com/google/gson/JsonPrimitive/toString:
@@ -867,39 +867,39 @@ com.google.gson.JsonPrimitive.hashCode;12;4;6;1;
 
 
 #com/google/gson/JsonPrimitive/equals:
-Method equals reduced in 0 minutes and 0 seconds. Total em milliseconds 10
+Method equals reduced in 0 minutes and 0 seconds. Total em milliseconds 7
 ## nodes: 24
 ## edges: 34
 ## duas: 39
 ## Unconstrained duas: 13
 ## Reduction nodes: 23
-@@ com.google.gson.JsonPrimitive.equals,24,34,39,13,23,33.33333333333333,58.97435897435898,0,10
+@@ com.google.gson.JsonPrimitive.equals,24,34,39,13,23,33.33333333333333,58.97435897435898,0,7
 
-com.google.gson.JsonPrimitive.equals;39;13;23;10;
+com.google.gson.JsonPrimitive.equals;39;13;23;7;
 
 
 #com/google/gson/JsonPrimitive/isIntegral:
-Method isIntegral reduced in 0 minutes and 0 seconds. Total em milliseconds 1
+Method isIntegral reduced in 0 minutes and 0 seconds. Total em milliseconds 2
 ## nodes: 11
 ## edges: 16
 ## duas: 16
 ## Unconstrained duas: 7
 ## Reduction nodes: 12
-@@ com.google.gson.JsonPrimitive.isIntegral,11,16,16,7,12,43.75,75.0,0,1
+@@ com.google.gson.JsonPrimitive.isIntegral,11,16,16,7,12,43.75,75.0,0,2
 
-com.google.gson.JsonPrimitive.isIntegral;16;7;12;1;
+com.google.gson.JsonPrimitive.isIntegral;16;7;12;2;
 
 
 #com/google/gson/JsonPrimitive/isFloatingPoint:
-Method isFloatingPoint reduced in 0 minutes and 0 seconds. Total em milliseconds 4
+Method isFloatingPoint reduced in 0 minutes and 0 seconds. Total em milliseconds 1
 ## nodes: 9
 ## edges: 12
 ## duas: 12
 ## Unconstrained duas: 5
 ## Reduction nodes: 8
-@@ com.google.gson.JsonPrimitive.isFloatingPoint,9,12,12,5,8,41.66666666666667,66.66666666666666,0,4
+@@ com.google.gson.JsonPrimitive.isFloatingPoint,9,12,12,5,8,41.66666666666667,66.66666666666666,0,1
 
-com.google.gson.JsonPrimitive.isFloatingPoint;12;5;8;4;
+com.google.gson.JsonPrimitive.isFloatingPoint;12;5;8;1;
 
 
 #com/google/gson/Preconditions/checkNotNull:
@@ -915,15 +915,15 @@ com.google.gson.Preconditions.checkNotNull;2;2;2;0;
 
 
 #com/google/gson/Preconditions/checkArgument:
-Method checkArgument reduced in 0 minutes and 0 seconds. Total em milliseconds 0
+Method checkArgument reduced in 0 minutes and 0 seconds. Total em milliseconds 1
 ## nodes: 4
 ## edges: 4
 ## duas: 3
 ## Unconstrained duas: 2
 ## Reduction nodes: 2
-@@ com.google.gson.Preconditions.checkArgument,4,4,3,2,2,66.66666666666666,66.66666666666666,0,0
+@@ com.google.gson.Preconditions.checkArgument,4,4,3,2,2,66.66666666666666,66.66666666666666,0,1
 
-com.google.gson.Preconditions.checkArgument;3;2;2;0;
+com.google.gson.Preconditions.checkArgument;3;2;2;1;
 
 
 #com/google/gson/Preconditions/checkState:
@@ -939,15 +939,15 @@ com.google.gson.Preconditions.checkState;3;2;2;0;
 
 
 #com/google/gson/JsonObjectDeserializationVisitor/visitObjectField:
-Method visitObjectField reduced in 0 minutes and 0 seconds. Total em milliseconds 1
+Method visitObjectField reduced in 0 minutes and 0 seconds. Total em milliseconds 2
 ## nodes: 7
 ## edges: 8
 ## duas: 18
 ## Unconstrained duas: 3
 ## Reduction nodes: 4
-@@ com.google.gson.JsonObjectDeserializationVisitor.visitObjectField,7,8,18,3,4,16.666666666666664,22.22222222222222,0,1
+@@ com.google.gson.JsonObjectDeserializationVisitor.visitObjectField,7,8,18,3,4,16.666666666666664,22.22222222222222,0,2
 
-com.google.gson.JsonObjectDeserializationVisitor.visitObjectField;18;3;4;1;
+com.google.gson.JsonObjectDeserializationVisitor.visitObjectField;18;3;4;2;
 
 
 #com/google/gson/JsonObjectDeserializationVisitor/visitArrayField:
@@ -963,51 +963,51 @@ com.google.gson.JsonObjectDeserializationVisitor.visitArrayField;18;3;4;1;
 
 
 #com/google/gson/JsonObjectDeserializationVisitor/visitFieldUsingCustomHandler:
-Method visitFieldUsingCustomHandler reduced in 0 minutes and 0 seconds. Total em milliseconds 4
+Method visitFieldUsingCustomHandler reduced in 0 minutes and 0 seconds. Total em milliseconds 8
 ## nodes: 15
 ## edges: 21
 ## duas: 33
 ## Unconstrained duas: 8
 ## Reduction nodes: 15
-@@ com.google.gson.JsonObjectDeserializationVisitor.visitFieldUsingCustomHandler,15,21,33,8,15,24.242424242424242,45.45454545454545,0,4
+@@ com.google.gson.JsonObjectDeserializationVisitor.visitFieldUsingCustomHandler,15,21,33,8,15,24.242424242424242,45.45454545454545,0,8
 
-com.google.gson.JsonObjectDeserializationVisitor.visitFieldUsingCustomHandler;33;8;15;4;
+com.google.gson.JsonObjectDeserializationVisitor.visitFieldUsingCustomHandler;33;8;15;8;
 
 
 #com/google/gson/JsonObjectDeserializationVisitor/visitPrimitive:
-Method visitPrimitive reduced in 0 minutes and 0 seconds. Total em milliseconds 0
+Method visitPrimitive reduced in 0 minutes and 0 seconds. Total em milliseconds 1
 ## nodes: 4
 ## edges: 4
 ## duas: 8
 ## Unconstrained duas: 2
 ## Reduction nodes: 2
-@@ com.google.gson.JsonObjectDeserializationVisitor.visitPrimitive,4,4,8,2,2,25.0,25.0,0,0
+@@ com.google.gson.JsonObjectDeserializationVisitor.visitPrimitive,4,4,8,2,2,25.0,25.0,0,1
 
-com.google.gson.JsonObjectDeserializationVisitor.visitPrimitive;8;2;2;0;
+com.google.gson.JsonObjectDeserializationVisitor.visitPrimitive;8;2;2;1;
 
 
 #com/google/gson/DefaultTypeAdapters$FloatSerializer/serialize:
-Method serialize reduced in 0 minutes and 0 seconds. Total em milliseconds 1
+Method serialize reduced in 0 minutes and 0 seconds. Total em milliseconds 0
 ## nodes: 6
 ## edges: 8
 ## duas: 10
 ## Unconstrained duas: 4
 ## Reduction nodes: 8
-@@ com.google.gson.DefaultTypeAdapters$FloatSerializer.serialize,6,8,10,4,8,40.0,80.0,0,1
+@@ com.google.gson.DefaultTypeAdapters$FloatSerializer.serialize,6,8,10,4,8,40.0,80.0,0,0
 
-com.google.gson.DefaultTypeAdapters$FloatSerializer.serialize;10;4;8;1;
+com.google.gson.DefaultTypeAdapters$FloatSerializer.serialize;10;4;8;0;
 
 
 #com/google/gson/Escaper/escapeJsonString:
-Method escapeJsonString reduced in 0 minutes and 0 seconds. Total em milliseconds 23
+Method escapeJsonString reduced in 0 minutes and 0 seconds. Total em milliseconds 27
 ## nodes: 18
 ## edges: 28
 ## duas: 49
 ## Unconstrained duas: 15
 ## Reduction nodes: 22
-@@ com.google.gson.Escaper.escapeJsonString,18,28,49,15,22,30.612244897959183,44.89795918367347,0,23
+@@ com.google.gson.Escaper.escapeJsonString,18,28,49,15,22,30.612244897959183,44.89795918367347,0,27
 
-com.google.gson.Escaper.escapeJsonString;49;15;22;23;
+com.google.gson.Escaper.escapeJsonString;49;15;22;27;
 
 
 #com/google/gson/Escaper/mustEscapeCharInJsString:
@@ -1023,15 +1023,15 @@ com.google.gson.Escaper.mustEscapeCharInJsString;15;5;8;1;
 
 
 #com/google/gson/Escaper/isControlCharacter:
-Method isControlCharacter reduced in 0 minutes and 0 seconds. Total em milliseconds 2
+Method isControlCharacter reduced in 0 minutes and 0 seconds. Total em milliseconds 1
 ## nodes: 9
 ## edges: 13
 ## duas: 10
 ## Unconstrained duas: 6
 ## Reduction nodes: 10
-@@ com.google.gson.Escaper.isControlCharacter,9,13,10,6,10,60.0,100.0,0,2
+@@ com.google.gson.Escaper.isControlCharacter,9,13,10,6,10,60.0,100.0,0,1
 
-com.google.gson.Escaper.isControlCharacter;10;6;10;2;
+com.google.gson.Escaper.isControlCharacter;10;6;10;1;
 
 
 #com/google/gson/Escaper/appendHexJavaScriptRepresentation:
@@ -1047,39 +1047,39 @@ com.google.gson.Escaper.appendHexJavaScriptRepresentation;7;2;2;0;
 
 
 #com/google/gson/JsonArrayDeserializationVisitor/constructTarget:
-Method constructTarget reduced in 0 minutes and 0 seconds. Total em milliseconds 2
+Method constructTarget reduced in 0 minutes and 0 seconds. Total em milliseconds 1
 ## nodes: 6
 ## edges: 7
 ## duas: 17
 ## Unconstrained duas: 3
 ## Reduction nodes: 4
-@@ com.google.gson.JsonArrayDeserializationVisitor.constructTarget,6,7,17,3,4,17.647058823529413,23.52941176470588,0,2
+@@ com.google.gson.JsonArrayDeserializationVisitor.constructTarget,6,7,17,3,4,17.647058823529413,23.52941176470588,0,1
 
-com.google.gson.JsonArrayDeserializationVisitor.constructTarget;17;3;4;2;
+com.google.gson.JsonArrayDeserializationVisitor.constructTarget;17;3;4;1;
 
 
 #com/google/gson/JsonArrayDeserializationVisitor/visitArray:
-Method visitArray reduced in 0 minutes and 0 seconds. Total em milliseconds 22
+Method visitArray reduced in 0 minutes and 0 seconds. Total em milliseconds 19
 ## nodes: 17
 ## edges: 23
 ## duas: 44
 ## Unconstrained duas: 10
 ## Reduction nodes: 20
-@@ com.google.gson.JsonArrayDeserializationVisitor.visitArray,17,23,44,10,20,22.727272727272727,45.45454545454545,0,22
+@@ com.google.gson.JsonArrayDeserializationVisitor.visitArray,17,23,44,10,20,22.727272727272727,45.45454545454545,0,19
 
-com.google.gson.JsonArrayDeserializationVisitor.visitArray;44;10;20;22;
+com.google.gson.JsonArrayDeserializationVisitor.visitArray;44;10;20;19;
 
 
 #com/google/gson/ModifyFirstLetterNamingPolicy/translateName:
-Method translateName reduced in 0 minutes and 0 seconds. Total em milliseconds 11
+Method translateName reduced in 0 minutes and 0 seconds. Total em milliseconds 12
 ## nodes: 18
 ## edges: 25
 ## duas: 56
 ## Unconstrained duas: 19
 ## Reduction nodes: 32
-@@ com.google.gson.ModifyFirstLetterNamingPolicy.translateName,18,25,56,19,32,33.92857142857143,57.14285714285714,0,11
+@@ com.google.gson.ModifyFirstLetterNamingPolicy.translateName,18,25,56,19,32,33.92857142857143,57.14285714285714,0,12
 
-com.google.gson.ModifyFirstLetterNamingPolicy.translateName;56;19;32;11;
+com.google.gson.ModifyFirstLetterNamingPolicy.translateName;56;19;32;12;
 
 
 #com/google/gson/ModifyFirstLetterNamingPolicy/modifyString:
@@ -1095,39 +1095,39 @@ com.google.gson.ModifyFirstLetterNamingPolicy.modifyString;5;2;3;0;
 
 
 #com/google/gson/DefaultTypeAdapters$LocaleTypeAdapter/deserialize:
-Method deserialize reduced in 0 minutes and 0 seconds. Total em milliseconds 5
+Method deserialize reduced in 0 minutes and 0 seconds. Total em milliseconds 4
 ## nodes: 13
 ## edges: 18
 ## duas: 33
 ## Unconstrained duas: 22
 ## Reduction nodes: 28
-@@ com.google.gson.DefaultTypeAdapters$LocaleTypeAdapter.deserialize,13,18,33,22,28,66.66666666666666,84.84848484848484,0,5
+@@ com.google.gson.DefaultTypeAdapters$LocaleTypeAdapter.deserialize,13,18,33,22,28,66.66666666666666,84.84848484848484,0,4
 
-com.google.gson.DefaultTypeAdapters$LocaleTypeAdapter.deserialize;33;22;28;5;
+com.google.gson.DefaultTypeAdapters$LocaleTypeAdapter.deserialize;33;22;28;4;
 
 
 #com/google/gson/SyntheticFieldExclusionStrategy/shouldSkipField:
-Method shouldSkipField reduced in 0 minutes and 0 seconds. Total em milliseconds 1
+Method shouldSkipField reduced in 0 minutes and 0 seconds. Total em milliseconds 0
 ## nodes: 6
 ## edges: 7
 ## duas: 6
 ## Unconstrained duas: 3
 ## Reduction nodes: 4
-@@ com.google.gson.SyntheticFieldExclusionStrategy.shouldSkipField,6,7,6,3,4,50.0,66.66666666666666,0,1
+@@ com.google.gson.SyntheticFieldExclusionStrategy.shouldSkipField,6,7,6,3,4,50.0,66.66666666666666,0,0
 
-com.google.gson.SyntheticFieldExclusionStrategy.shouldSkipField;6;3;4;1;
+com.google.gson.SyntheticFieldExclusionStrategy.shouldSkipField;6;3;4;0;
 
 
 #com/google/gson/JsonDeserializationVisitor/getTarget:
-Method getTarget reduced in 0 minutes and 0 seconds. Total em milliseconds 0
+Method getTarget reduced in 0 minutes and 0 seconds. Total em milliseconds 1
 ## nodes: 4
 ## edges: 4
 ## duas: 8
 ## Unconstrained duas: 2
 ## Reduction nodes: 3
-@@ com.google.gson.JsonDeserializationVisitor.getTarget,4,4,8,2,3,25.0,37.5,0,0
+@@ com.google.gson.JsonDeserializationVisitor.getTarget,4,4,8,2,3,25.0,37.5,0,1
 
-com.google.gson.JsonDeserializationVisitor.getTarget;8;2;3;0;
+com.google.gson.JsonDeserializationVisitor.getTarget;8;2;3;1;
 
 
 #com/google/gson/JsonDeserializationVisitor/visitUsingCustomHandler:
@@ -1143,39 +1143,39 @@ com.google.gson.JsonDeserializationVisitor.visitUsingCustomHandler;5;2;2;0;
 
 
 #com/google/gson/JsonDeserializationVisitor/invokeCustomDeserializer:
-Method invokeCustomDeserializer reduced in 0 minutes and 0 seconds. Total em milliseconds 1
+Method invokeCustomDeserializer reduced in 0 minutes and 0 seconds. Total em milliseconds 0
 ## nodes: 5
 ## edges: 6
 ## duas: 10
 ## Unconstrained duas: 3
 ## Reduction nodes: 4
-@@ com.google.gson.JsonDeserializationVisitor.invokeCustomDeserializer,5,6,10,3,4,30.0,40.0,0,1
+@@ com.google.gson.JsonDeserializationVisitor.invokeCustomDeserializer,5,6,10,3,4,30.0,40.0,0,0
 
-com.google.gson.JsonDeserializationVisitor.invokeCustomDeserializer;10;3;4;1;
+com.google.gson.JsonDeserializationVisitor.invokeCustomDeserializer;10;3;4;0;
 
 
 #com/google/gson/Streams/parse:
-Method parse reduced in 0 minutes and 0 seconds. Total em milliseconds 2
+Method parse reduced in 0 minutes and 0 seconds. Total em milliseconds 3
 ## nodes: 15
 ## edges: 22
 ## duas: 32
 ## Unconstrained duas: 7
 ## Reduction nodes: 9
-@@ com.google.gson.Streams.parse,15,22,32,7,9,21.875,28.125,0,2
+@@ com.google.gson.Streams.parse,15,22,32,7,9,21.875,28.125,0,3
 
-com.google.gson.Streams.parse;32;7;9;2;
+com.google.gson.Streams.parse;32;7;9;3;
 
 
 #com/google/gson/Streams/write:
-Method write reduced in 0 minutes and 0 seconds. Total em milliseconds 9
+Method write reduced in 0 minutes and 0 seconds. Total em milliseconds 6
 ## nodes: 29
 ## edges: 41
 ## duas: 51
 ## Unconstrained duas: 13
 ## Reduction nodes: 25
-@@ com.google.gson.Streams.write,29,41,51,13,25,25.49019607843137,49.01960784313725,0,9
+@@ com.google.gson.Streams.write,29,41,51,13,25,25.49019607843137,49.01960784313725,0,6
 
-com.google.gson.Streams.write;51;13;25;9;
+com.google.gson.Streams.write;51;13;25;6;
 
 
 #com/google/gson/Streams/writerForAppendable:
@@ -1191,15 +1191,15 @@ com.google.gson.Streams.writerForAppendable;4;2;3;0;
 
 
 #com/google/gson/ExposeAnnotationDeserializationExclusionStrategy/shouldSkipField:
-Method shouldSkipField reduced in 0 minutes and 0 seconds. Total em milliseconds 1
+Method shouldSkipField reduced in 0 minutes and 0 seconds. Total em milliseconds 0
 ## nodes: 7
 ## edges: 8
 ## duas: 4
 ## Unconstrained duas: 3
 ## Reduction nodes: 4
-@@ com.google.gson.ExposeAnnotationDeserializationExclusionStrategy.shouldSkipField,7,8,4,3,4,75.0,100.0,0,1
+@@ com.google.gson.ExposeAnnotationDeserializationExclusionStrategy.shouldSkipField,7,8,4,3,4,75.0,100.0,0,0
 
-com.google.gson.ExposeAnnotationDeserializationExclusionStrategy.shouldSkipField;4;3;4;1;
+com.google.gson.ExposeAnnotationDeserializationExclusionStrategy.shouldSkipField;4;3;4;0;
 
 
 #com/google/gson/ExposeAnnotationSerializationExclusionStrategy/shouldSkipField:
@@ -1215,15 +1215,15 @@ com.google.gson.ExposeAnnotationSerializationExclusionStrategy.shouldSkipField;4
 
 
 #com/google/gson/CamelCaseSeparatorNamingPolicy/<init>:
-Method <init> reduced in 0 minutes and 0 seconds. Total em milliseconds 0
+Method <init> reduced in 0 minutes and 0 seconds. Total em milliseconds 1
 ## nodes: 5
 ## edges: 5
 ## duas: 4
 ## Unconstrained duas: 2
 ## Reduction nodes: 3
-@@ com.google.gson.CamelCaseSeparatorNamingPolicy.<init>,5,5,4,2,3,50.0,75.0,0,0
+@@ com.google.gson.CamelCaseSeparatorNamingPolicy.<init>,5,5,4,2,3,50.0,75.0,0,1
 
-com.google.gson.CamelCaseSeparatorNamingPolicy.<init>;4;2;3;0;
+com.google.gson.CamelCaseSeparatorNamingPolicy.<init>;4;2;3;1;
 
 
 #com/google/gson/CamelCaseSeparatorNamingPolicy/translateName:
@@ -1239,15 +1239,15 @@ com.google.gson.CamelCaseSeparatorNamingPolicy.translateName;21;5;8;4;
 
 
 #com/google/gson/ObjectNavigator/accept:
-Method accept reduced in 0 minutes and 0 seconds. Total em milliseconds 14
+Method accept reduced in 0 minutes and 0 seconds. Total em milliseconds 9
 ## nodes: 22
 ## edges: 31
 ## duas: 64
 ## Unconstrained duas: 17
 ## Reduction nodes: 28
-@@ com.google.gson.ObjectNavigator.accept,22,31,64,17,28,26.5625,43.75,0,14
+@@ com.google.gson.ObjectNavigator.accept,22,31,64,17,28,26.5625,43.75,0,9
 
-com.google.gson.ObjectNavigator.accept;64;17;28;14;
+com.google.gson.ObjectNavigator.accept;64;17;28;9;
 
 
 #com/google/gson/ObjectNavigator/isPrimitiveOrString:
@@ -1263,51 +1263,51 @@ com.google.gson.ObjectNavigator.isPrimitiveOrString;6;4;6;1;
 
 
 #com/google/gson/ObjectNavigator/navigateClassFields:
-Method navigateClassFields reduced in 0 minutes and 0 seconds. Total em milliseconds 11
+Method navigateClassFields reduced in 0 minutes and 0 seconds. Total em milliseconds 8
 ## nodes: 12
 ## edges: 16
 ## duas: 43
 ## Unconstrained duas: 7
 ## Reduction nodes: 12
-@@ com.google.gson.ObjectNavigator.navigateClassFields,12,16,43,7,12,16.27906976744186,27.906976744186046,0,11
+@@ com.google.gson.ObjectNavigator.navigateClassFields,12,16,43,7,12,16.27906976744186,27.906976744186046,0,8
 
-com.google.gson.ObjectNavigator.navigateClassFields;43;7;12;11;
+com.google.gson.ObjectNavigator.navigateClassFields;43;7;12;8;
 
 
 #com/google/gson/ModifierBasedExclusionStrategy/<init>:
-Method <init> reduced in 0 minutes and 0 seconds. Total em milliseconds 2
+Method <init> reduced in 0 minutes and 0 seconds. Total em milliseconds 1
 ## nodes: 6
 ## edges: 7
 ## duas: 14
 ## Unconstrained duas: 3
 ## Reduction nodes: 5
-@@ com.google.gson.ModifierBasedExclusionStrategy.<init>,6,7,14,3,5,21.428571428571427,35.714285714285715,0,2
+@@ com.google.gson.ModifierBasedExclusionStrategy.<init>,6,7,14,3,5,21.428571428571427,35.714285714285715,0,1
 
-com.google.gson.ModifierBasedExclusionStrategy.<init>;14;3;5;2;
+com.google.gson.ModifierBasedExclusionStrategy.<init>;14;3;5;1;
 
 
 #com/google/gson/ModifierBasedExclusionStrategy/shouldSkipField:
-Method shouldSkipField reduced in 0 minutes and 0 seconds. Total em milliseconds 0
+Method shouldSkipField reduced in 0 minutes and 0 seconds. Total em milliseconds 1
 ## nodes: 7
 ## edges: 8
 ## duas: 7
 ## Unconstrained duas: 3
 ## Reduction nodes: 4
-@@ com.google.gson.ModifierBasedExclusionStrategy.shouldSkipField,7,8,7,3,4,42.857142857142854,57.14285714285714,0,0
+@@ com.google.gson.ModifierBasedExclusionStrategy.shouldSkipField,7,8,7,3,4,42.857142857142854,57.14285714285714,0,1
 
-com.google.gson.ModifierBasedExclusionStrategy.shouldSkipField;7;3;4;0;
+com.google.gson.ModifierBasedExclusionStrategy.shouldSkipField;7;3;4;1;
 
 
 #com/google/gson/DefaultTypeAdapters$MapTypeAdapter/serialize:
-Method serialize reduced in 0 minutes and 0 seconds. Total em milliseconds 3
+Method serialize reduced in 0 minutes and 0 seconds. Total em milliseconds 5
 ## nodes: 13
 ## edges: 16
 ## duas: 22
 ## Unconstrained duas: 5
 ## Reduction nodes: 12
-@@ com.google.gson.DefaultTypeAdapters$MapTypeAdapter.serialize,13,16,22,5,12,22.727272727272727,54.54545454545454,0,3
+@@ com.google.gson.DefaultTypeAdapters$MapTypeAdapter.serialize,13,16,22,5,12,22.727272727272727,54.54545454545454,0,5
 
-com.google.gson.DefaultTypeAdapters$MapTypeAdapter.serialize;22;5;12;3;
+com.google.gson.DefaultTypeAdapters$MapTypeAdapter.serialize;22;5;12;5;
 
 
 #com/google/gson/DefaultTypeAdapters$MapTypeAdapter/deserialize:
@@ -1323,15 +1323,15 @@ com.google.gson.DefaultTypeAdapters$MapTypeAdapter.deserialize;7;1;2;1;
 
 
 #com/google/gson/MemoryRefStack/contains:
-Method contains reduced in 0 minutes and 0 seconds. Total em milliseconds 3
+Method contains reduced in 0 minutes and 0 seconds. Total em milliseconds 1
 ## nodes: 10
 ## edges: 13
 ## duas: 19
 ## Unconstrained duas: 5
 ## Reduction nodes: 8
-@@ com.google.gson.MemoryRefStack.contains,10,13,19,5,8,26.31578947368421,42.10526315789473,0,3
+@@ com.google.gson.MemoryRefStack.contains,10,13,19,5,8,26.31578947368421,42.10526315789473,0,1
 
-com.google.gson.MemoryRefStack.contains;19;5;8;3;
+com.google.gson.MemoryRefStack.contains;19;5;8;1;
 
 
 #com/google/gson/MappedObjectConstructor/construct:
@@ -1359,51 +1359,51 @@ com.google.gson.MappedObjectConstructor.constructWithNoArgConstructor;4;2;2;0;
 
 
 #com/google/gson/MappedObjectConstructor/getNoArgsConstructor:
-Method getNoArgsConstructor reduced in 0 minutes and 0 seconds. Total em milliseconds 2
+Method getNoArgsConstructor reduced in 0 minutes and 0 seconds. Total em milliseconds 5
 ## nodes: 7
 ## edges: 8
 ## duas: 14
 ## Unconstrained duas: 4
 ## Reduction nodes: 8
-@@ com.google.gson.MappedObjectConstructor.getNoArgsConstructor,7,8,14,4,8,28.57142857142857,57.14285714285714,0,2
+@@ com.google.gson.MappedObjectConstructor.getNoArgsConstructor,7,8,14,4,8,28.57142857142857,57.14285714285714,0,5
 
-com.google.gson.MappedObjectConstructor.getNoArgsConstructor;14;4;8;2;
+com.google.gson.MappedObjectConstructor.getNoArgsConstructor;14;4;8;5;
 
 
 #com/google/gson/MappedObjectConstructor/register:
-Method register reduced in 0 minutes and 0 seconds. Total em milliseconds 3
+Method register reduced in 0 minutes and 0 seconds. Total em milliseconds 1
 ## nodes: 4
 ## edges: 4
 ## duas: 13
 ## Unconstrained duas: 2
 ## Reduction nodes: 3
-@@ com.google.gson.MappedObjectConstructor.register,4,4,13,2,3,15.384615384615385,23.076923076923077,0,3
+@@ com.google.gson.MappedObjectConstructor.register,4,4,13,2,3,15.384615384615385,23.076923076923077,0,1
 
-com.google.gson.MappedObjectConstructor.register;13;2;3;3;
+com.google.gson.MappedObjectConstructor.register;13;2;3;1;
 
 
 #com/google/gson/JsonFieldNameValidator/validate:
-Method validate reduced in 0 minutes and 0 seconds. Total em milliseconds 1
+Method validate reduced in 0 minutes and 0 seconds. Total em milliseconds 0
 ## nodes: 7
 ## edges: 8
 ## duas: 8
 ## Unconstrained duas: 4
 ## Reduction nodes: 5
-@@ com.google.gson.JsonFieldNameValidator.validate,7,8,8,4,5,50.0,62.5,0,1
+@@ com.google.gson.JsonFieldNameValidator.validate,7,8,8,4,5,50.0,62.5,0,0
 
-com.google.gson.JsonFieldNameValidator.validate;8;4;5;1;
+com.google.gson.JsonFieldNameValidator.validate;8;4;5;0;
 
 
 #com/google/gson/JsonSerializationVisitor/start:
-Method start reduced in 0 minutes and 0 seconds. Total em milliseconds 0
+Method start reduced in 0 minutes and 0 seconds. Total em milliseconds 1
 ## nodes: 6
 ## edges: 7
 ## duas: 12
 ## Unconstrained duas: 3
 ## Reduction nodes: 4
-@@ com.google.gson.JsonSerializationVisitor.start,6,7,12,3,4,25.0,33.33333333333333,0,0
+@@ com.google.gson.JsonSerializationVisitor.start,6,7,12,3,4,25.0,33.33333333333333,0,1
 
-com.google.gson.JsonSerializationVisitor.start;12;3;4;0;
+com.google.gson.JsonSerializationVisitor.start;12;3;4;1;
 
 
 #com/google/gson/JsonSerializationVisitor/end:
@@ -1419,39 +1419,39 @@ com.google.gson.JsonSerializationVisitor.end;4;2;2;0;
 
 
 #com/google/gson/JsonSerializationVisitor/visitArray:
-Method visitArray reduced in 0 minutes and 0 seconds. Total em milliseconds 2
+Method visitArray reduced in 0 minutes and 0 seconds. Total em milliseconds 1
 ## nodes: 5
 ## edges: 5
 ## duas: 11
 ## Unconstrained duas: 2
 ## Reduction nodes: 4
-@@ com.google.gson.JsonSerializationVisitor.visitArray,5,5,11,2,4,18.181818181818183,36.36363636363637,0,2
+@@ com.google.gson.JsonSerializationVisitor.visitArray,5,5,11,2,4,18.181818181818183,36.36363636363637,0,1
 
-com.google.gson.JsonSerializationVisitor.visitArray;11;2;4;2;
+com.google.gson.JsonSerializationVisitor.visitArray;11;2;4;1;
 
 
 #com/google/gson/JsonSerializationVisitor/visitArrayField:
-Method visitArrayField reduced in 0 minutes and 0 seconds. Total em milliseconds 1
+Method visitArrayField reduced in 0 minutes and 0 seconds. Total em milliseconds 0
 ## nodes: 6
 ## edges: 7
 ## duas: 16
 ## Unconstrained duas: 3
 ## Reduction nodes: 4
-@@ com.google.gson.JsonSerializationVisitor.visitArrayField,6,7,16,3,4,18.75,25.0,0,1
+@@ com.google.gson.JsonSerializationVisitor.visitArrayField,6,7,16,3,4,18.75,25.0,0,0
 
-com.google.gson.JsonSerializationVisitor.visitArrayField;16;3;4;1;
+com.google.gson.JsonSerializationVisitor.visitArrayField;16;3;4;0;
 
 
 #com/google/gson/JsonSerializationVisitor/visitObjectField:
-Method visitObjectField reduced in 0 minutes and 0 seconds. Total em milliseconds 1
+Method visitObjectField reduced in 0 minutes and 0 seconds. Total em milliseconds 0
 ## nodes: 6
 ## edges: 7
 ## duas: 16
 ## Unconstrained duas: 3
 ## Reduction nodes: 4
-@@ com.google.gson.JsonSerializationVisitor.visitObjectField,6,7,16,3,4,18.75,25.0,0,1
+@@ com.google.gson.JsonSerializationVisitor.visitObjectField,6,7,16,3,4,18.75,25.0,0,0
 
-com.google.gson.JsonSerializationVisitor.visitObjectField;16;3;4;1;
+com.google.gson.JsonSerializationVisitor.visitObjectField;16;3;4;0;
 
 
 #com/google/gson/JsonSerializationVisitor/visitPrimitive:
@@ -1479,27 +1479,27 @@ com.google.gson.JsonSerializationVisitor.addAsArrayElement;7;2;2;0;
 
 
 #com/google/gson/JsonSerializationVisitor/visitUsingCustomHandler:
-Method visitUsingCustomHandler reduced in 0 minutes and 0 seconds. Total em milliseconds 1
+Method visitUsingCustomHandler reduced in 0 minutes and 0 seconds. Total em milliseconds 0
 ## nodes: 8
 ## edges: 10
 ## duas: 13
 ## Unconstrained duas: 4
 ## Reduction nodes: 6
-@@ com.google.gson.JsonSerializationVisitor.visitUsingCustomHandler,8,10,13,4,6,30.76923076923077,46.15384615384615,0,1
+@@ com.google.gson.JsonSerializationVisitor.visitUsingCustomHandler,8,10,13,4,6,30.76923076923077,46.15384615384615,0,0
 
-com.google.gson.JsonSerializationVisitor.visitUsingCustomHandler;13;4;6;1;
+com.google.gson.JsonSerializationVisitor.visitUsingCustomHandler;13;4;6;0;
 
 
 #com/google/gson/JsonSerializationVisitor/findAndInvokeCustomSerializer:
-Method findAndInvokeCustomSerializer reduced in 0 minutes and 0 seconds. Total em milliseconds 1
+Method findAndInvokeCustomSerializer reduced in 0 minutes and 0 seconds. Total em milliseconds 0
 ## nodes: 7
 ## edges: 8
 ## duas: 12
 ## Unconstrained duas: 3
 ## Reduction nodes: 4
-@@ com.google.gson.JsonSerializationVisitor.findAndInvokeCustomSerializer,7,8,12,3,4,25.0,33.33333333333333,0,1
+@@ com.google.gson.JsonSerializationVisitor.findAndInvokeCustomSerializer,7,8,12,3,4,25.0,33.33333333333333,0,0
 
-com.google.gson.JsonSerializationVisitor.findAndInvokeCustomSerializer;12;3;4;1;
+com.google.gson.JsonSerializationVisitor.findAndInvokeCustomSerializer;12;3;4;0;
 
 
 #com/google/gson/JsonSerializationVisitor/visitFieldUsingCustomHandler:
@@ -1551,51 +1551,51 @@ com.google.gson.Primitives.unwrap;4;2;3;0;
 
 
 #com/google/gson/JsonSerializationContextDefault/serialize:
-Method serialize reduced in 0 minutes and 0 seconds. Total em milliseconds 1
+Method serialize reduced in 0 minutes and 0 seconds. Total em milliseconds 0
 ## nodes: 4
 ## edges: 4
 ## duas: 4
 ## Unconstrained duas: 2
 ## Reduction nodes: 2
-@@ com.google.gson.JsonSerializationContextDefault.serialize,4,4,4,2,2,50.0,50.0,0,1
+@@ com.google.gson.JsonSerializationContextDefault.serialize,4,4,4,2,2,50.0,50.0,0,0
 
-com.google.gson.JsonSerializationContextDefault.serialize;4;2;2;1;
+com.google.gson.JsonSerializationContextDefault.serialize;4;2;2;0;
 
 
 #com/google/gson/CompositionFieldNamingPolicy/<init>:
-Method <init> reduced in 0 minutes and 0 seconds. Total em milliseconds 1
+Method <init> reduced in 0 minutes and 0 seconds. Total em milliseconds 0
 ## nodes: 4
 ## edges: 4
 ## duas: 4
 ## Unconstrained duas: 2
 ## Reduction nodes: 2
-@@ com.google.gson.CompositionFieldNamingPolicy.<init>,4,4,4,2,2,50.0,50.0,0,1
+@@ com.google.gson.CompositionFieldNamingPolicy.<init>,4,4,4,2,2,50.0,50.0,0,0
 
-com.google.gson.CompositionFieldNamingPolicy.<init>;4;2;2;1;
+com.google.gson.CompositionFieldNamingPolicy.<init>;4;2;2;0;
 
 
 #com/google/gson/CompositionFieldNamingPolicy/translateName:
-Method translateName reduced in 0 minutes and 0 seconds. Total em milliseconds 1
+Method translateName reduced in 0 minutes and 0 seconds. Total em milliseconds 0
 ## nodes: 5
 ## edges: 5
 ## duas: 15
 ## Unconstrained duas: 2
 ## Reduction nodes: 4
-@@ com.google.gson.CompositionFieldNamingPolicy.translateName,5,5,15,2,4,13.333333333333334,26.666666666666668,0,1
+@@ com.google.gson.CompositionFieldNamingPolicy.translateName,5,5,15,2,4,13.333333333333334,26.666666666666668,0,0
 
-com.google.gson.CompositionFieldNamingPolicy.translateName;15;2;4;1;
+com.google.gson.CompositionFieldNamingPolicy.translateName;15;2;4;0;
 
 
 #com/google/gson/JsonArray/add:
-Method add reduced in 0 minutes and 0 seconds. Total em milliseconds 0
+Method add reduced in 0 minutes and 0 seconds. Total em milliseconds 1
 ## nodes: 4
 ## edges: 4
 ## duas: 6
 ## Unconstrained duas: 2
 ## Reduction nodes: 3
-@@ com.google.gson.JsonArray.add,4,4,6,2,3,33.33333333333333,50.0,0,0
+@@ com.google.gson.JsonArray.add,4,4,6,2,3,33.33333333333333,50.0,0,1
 
-com.google.gson.JsonArray.add;6;2;3;0;
+com.google.gson.JsonArray.add;6;2;3;1;
 
 
 #com/google/gson/JsonArray/getAsNumber:
@@ -1635,15 +1635,15 @@ com.google.gson.JsonArray.getAsDouble;6;2;2;0;
 
 
 #com/google/gson/JsonArray/getAsBigDecimal:
-Method getAsBigDecimal reduced in 0 minutes and 0 seconds. Total em milliseconds 1
+Method getAsBigDecimal reduced in 0 minutes and 0 seconds. Total em milliseconds 0
 ## nodes: 4
 ## edges: 4
 ## duas: 6
 ## Unconstrained duas: 2
 ## Reduction nodes: 2
-@@ com.google.gson.JsonArray.getAsBigDecimal,4,4,6,2,2,33.33333333333333,33.33333333333333,0,1
+@@ com.google.gson.JsonArray.getAsBigDecimal,4,4,6,2,2,33.33333333333333,33.33333333333333,0,0
 
-com.google.gson.JsonArray.getAsBigDecimal;6;2;2;1;
+com.google.gson.JsonArray.getAsBigDecimal;6;2;2;0;
 
 
 #com/google/gson/JsonArray/getAsBigInteger:
@@ -1659,15 +1659,15 @@ com.google.gson.JsonArray.getAsBigInteger;6;2;2;0;
 
 
 #com/google/gson/JsonArray/getAsFloat:
-Method getAsFloat reduced in 0 minutes and 0 seconds. Total em milliseconds 0
+Method getAsFloat reduced in 0 minutes and 0 seconds. Total em milliseconds 1
 ## nodes: 4
 ## edges: 4
 ## duas: 6
 ## Unconstrained duas: 2
 ## Reduction nodes: 2
-@@ com.google.gson.JsonArray.getAsFloat,4,4,6,2,2,33.33333333333333,33.33333333333333,0,0
+@@ com.google.gson.JsonArray.getAsFloat,4,4,6,2,2,33.33333333333333,33.33333333333333,0,1
 
-com.google.gson.JsonArray.getAsFloat;6;2;2;0;
+com.google.gson.JsonArray.getAsFloat;6;2;2;1;
 
 
 #com/google/gson/JsonArray/getAsLong:
@@ -1719,27 +1719,27 @@ com.google.gson.JsonArray.getAsCharacter;6;2;2;0;
 
 
 #com/google/gson/JsonArray/getAsShort:
-Method getAsShort reduced in 0 minutes and 0 seconds. Total em milliseconds 1
+Method getAsShort reduced in 0 minutes and 0 seconds. Total em milliseconds 0
 ## nodes: 4
 ## edges: 4
 ## duas: 6
 ## Unconstrained duas: 2
 ## Reduction nodes: 2
-@@ com.google.gson.JsonArray.getAsShort,4,4,6,2,2,33.33333333333333,33.33333333333333,0,1
+@@ com.google.gson.JsonArray.getAsShort,4,4,6,2,2,33.33333333333333,33.33333333333333,0,0
 
-com.google.gson.JsonArray.getAsShort;6;2;2;1;
+com.google.gson.JsonArray.getAsShort;6;2;2;0;
 
 
 #com/google/gson/JsonArray/getAsBoolean:
-Method getAsBoolean reduced in 0 minutes and 0 seconds. Total em milliseconds 0
+Method getAsBoolean reduced in 0 minutes and 0 seconds. Total em milliseconds 1
 ## nodes: 4
 ## edges: 4
 ## duas: 6
 ## Unconstrained duas: 2
 ## Reduction nodes: 2
-@@ com.google.gson.JsonArray.getAsBoolean,4,4,6,2,2,33.33333333333333,33.33333333333333,0,0
+@@ com.google.gson.JsonArray.getAsBoolean,4,4,6,2,2,33.33333333333333,33.33333333333333,0,1
 
-com.google.gson.JsonArray.getAsBoolean;6;2;2;0;
+com.google.gson.JsonArray.getAsBoolean;6;2;2;1;
 
 
 #com/google/gson/JsonArray/getAsObject:
@@ -1755,39 +1755,39 @@ com.google.gson.JsonArray.getAsObject;6;2;2;0;
 
 
 #com/google/gson/JsonArray/toString:
-Method toString reduced in 0 minutes and 0 seconds. Total em milliseconds 2
+Method toString reduced in 0 minutes and 0 seconds. Total em milliseconds 1
 ## nodes: 8
 ## edges: 9
 ## duas: 12
 ## Unconstrained duas: 3
 ## Reduction nodes: 7
-@@ com.google.gson.JsonArray.toString,8,9,12,3,7,25.0,58.333333333333336,0,2
+@@ com.google.gson.JsonArray.toString,8,9,12,3,7,25.0,58.333333333333336,0,1
 
-com.google.gson.JsonArray.toString;12;3;7;2;
+com.google.gson.JsonArray.toString;12;3;7;1;
 
 
 #com/google/gson/DefaultTypeAdapters$CollectionTypeAdapter/serialize:
-Method serialize reduced in 0 minutes and 0 seconds. Total em milliseconds 4
+Method serialize reduced in 0 minutes and 0 seconds. Total em milliseconds 7
 ## nodes: 16
 ## edges: 21
 ## duas: 26
 ## Unconstrained duas: 8
 ## Reduction nodes: 17
-@@ com.google.gson.DefaultTypeAdapters$CollectionTypeAdapter.serialize,16,21,26,8,17,30.76923076923077,65.38461538461539,0,4
+@@ com.google.gson.DefaultTypeAdapters$CollectionTypeAdapter.serialize,16,21,26,8,17,30.76923076923077,65.38461538461539,0,7
 
-com.google.gson.DefaultTypeAdapters$CollectionTypeAdapter.serialize;26;8;17;4;
+com.google.gson.DefaultTypeAdapters$CollectionTypeAdapter.serialize;26;8;17;7;
 
 
 #com/google/gson/DefaultTypeAdapters$CollectionTypeAdapter/deserialize:
-Method deserialize reduced in 0 minutes and 0 seconds. Total em milliseconds 2
+Method deserialize reduced in 0 minutes and 0 seconds. Total em milliseconds 4
 ## nodes: 11
 ## edges: 14
 ## duas: 19
 ## Unconstrained duas: 4
 ## Reduction nodes: 8
-@@ com.google.gson.DefaultTypeAdapters$CollectionTypeAdapter.deserialize,11,14,19,4,8,21.052631578947366,42.10526315789473,0,2
+@@ com.google.gson.DefaultTypeAdapters$CollectionTypeAdapter.deserialize,11,14,19,4,8,21.052631578947366,42.10526315789473,0,4
 
-com.google.gson.DefaultTypeAdapters$CollectionTypeAdapter.deserialize;19;4;8;2;
+com.google.gson.DefaultTypeAdapters$CollectionTypeAdapter.deserialize;19;4;8;4;
 
 
 #com/google/gson/AnonymousAndLocalClassExclusionStrategy/isAnonymousOrLocal:
@@ -1815,27 +1815,27 @@ com.google.gson.DefaultTypeAdapters$DefaultJavaSqlDateTypeAdapter.deserialize;5;
 
 
 #com/google/gson/ParameterizedTypeImpl/equals:
-Method equals reduced in 0 minutes and 0 seconds. Total em milliseconds 6
+Method equals reduced in 0 minutes and 0 seconds. Total em milliseconds 4
 ## nodes: 17
 ## edges: 25
 ## duas: 38
 ## Unconstrained duas: 12
 ## Reduction nodes: 18
-@@ com.google.gson.ParameterizedTypeImpl.equals,17,25,38,12,18,31.57894736842105,47.368421052631575,0,6
+@@ com.google.gson.ParameterizedTypeImpl.equals,17,25,38,12,18,31.57894736842105,47.368421052631575,0,4
 
-com.google.gson.ParameterizedTypeImpl.equals;38;12;18;6;
+com.google.gson.ParameterizedTypeImpl.equals;38;12;18;4;
 
 
 #com/google/gson/ParameterizedTypeImpl/hashCode:
-Method hashCode reduced in 0 minutes and 0 seconds. Total em milliseconds 4
+Method hashCode reduced in 0 minutes and 0 seconds. Total em milliseconds 1
 ## nodes: 8
 ## edges: 9
 ## duas: 12
 ## Unconstrained duas: 4
 ## Reduction nodes: 5
-@@ com.google.gson.ParameterizedTypeImpl.hashCode,8,9,12,4,5,33.33333333333333,41.66666666666667,0,4
+@@ com.google.gson.ParameterizedTypeImpl.hashCode,8,9,12,4,5,33.33333333333333,41.66666666666667,0,1
 
-com.google.gson.ParameterizedTypeImpl.hashCode;12;4;5;4;
+com.google.gson.ParameterizedTypeImpl.hashCode;12;4;5;1;
 
 
 #com/google/gson/GsonBuilder/setExclusionStrategies:
@@ -1851,51 +1851,51 @@ com.google.gson.GsonBuilder.setExclusionStrategies;12;2;4;1;
 
 
 #com/google/gson/GsonBuilder/registerTypeAdapter:
-Method registerTypeAdapter reduced in 0 minutes and 0 seconds. Total em milliseconds 6
+Method registerTypeAdapter reduced in 0 minutes and 0 seconds. Total em milliseconds 2
 ## nodes: 13
 ## edges: 18
 ## duas: 22
 ## Unconstrained duas: 10
 ## Reduction nodes: 13
-@@ com.google.gson.GsonBuilder.registerTypeAdapter,13,18,22,10,13,45.45454545454545,59.09090909090909,0,6
+@@ com.google.gson.GsonBuilder.registerTypeAdapter,13,18,22,10,13,45.45454545454545,59.09090909090909,0,2
 
-com.google.gson.GsonBuilder.registerTypeAdapter;22;10;13;6;
+com.google.gson.GsonBuilder.registerTypeAdapter;22;10;13;2;
 
 
 #com/google/gson/GsonBuilder/registerTypeHierarchyAdapter:
-Method registerTypeHierarchyAdapter reduced in 0 minutes and 0 seconds. Total em milliseconds 2
+Method registerTypeHierarchyAdapter reduced in 0 minutes and 0 seconds. Total em milliseconds 1
 ## nodes: 13
 ## edges: 18
 ## duas: 22
 ## Unconstrained duas: 10
 ## Reduction nodes: 13
-@@ com.google.gson.GsonBuilder.registerTypeHierarchyAdapter,13,18,22,10,13,45.45454545454545,59.09090909090909,0,2
+@@ com.google.gson.GsonBuilder.registerTypeHierarchyAdapter,13,18,22,10,13,45.45454545454545,59.09090909090909,0,1
 
-com.google.gson.GsonBuilder.registerTypeHierarchyAdapter;22;10;13;2;
+com.google.gson.GsonBuilder.registerTypeHierarchyAdapter;22;10;13;1;
 
 
 #com/google/gson/GsonBuilder/create:
-Method create reduced in 0 minutes and 0 seconds. Total em milliseconds 4
+Method create reduced in 0 minutes and 0 seconds. Total em milliseconds 2
 ## nodes: 8
 ## edges: 10
 ## duas: 39
 ## Unconstrained duas: 6
 ## Reduction nodes: 7
-@@ com.google.gson.GsonBuilder.create,8,10,39,6,7,15.384615384615385,17.94871794871795,0,4
+@@ com.google.gson.GsonBuilder.create,8,10,39,6,7,15.384615384615385,17.94871794871795,0,2
 
-com.google.gson.GsonBuilder.create;39;6;7;4;
+com.google.gson.GsonBuilder.create;39;6;7;2;
 
 
 #com/google/gson/GsonBuilder/addTypeAdaptersForDate:
-Method addTypeAdaptersForDate reduced in 0 minutes and 0 seconds. Total em milliseconds 2
+Method addTypeAdaptersForDate reduced in 0 minutes and 0 seconds. Total em milliseconds 4
 ## nodes: 13
 ## edges: 19
 ## duas: 29
 ## Unconstrained duas: 15
 ## Reduction nodes: 24
-@@ com.google.gson.GsonBuilder.addTypeAdaptersForDate,13,19,29,15,24,51.724137931034484,82.75862068965517,0,2
+@@ com.google.gson.GsonBuilder.addTypeAdaptersForDate,13,19,29,15,24,51.724137931034484,82.75862068965517,0,4
 
-com.google.gson.GsonBuilder.addTypeAdaptersForDate;29;15;24;2;
+com.google.gson.GsonBuilder.addTypeAdaptersForDate;29;15;24;4;
 
 
 #com/google/gson/ObjectTypePair/getMatchingHandler:
@@ -1911,63 +1911,63 @@ com.google.gson.ObjectTypePair.getMatchingHandler;21;6;9;1;
 
 
 #com/google/gson/ObjectTypePair/toMoreSpecificType:
-Method toMoreSpecificType reduced in 0 minutes and 0 seconds. Total em milliseconds 2
+Method toMoreSpecificType reduced in 0 minutes and 0 seconds. Total em milliseconds 1
 ## nodes: 7
 ## edges: 9
 ## duas: 23
 ## Unconstrained duas: 4
 ## Reduction nodes: 7
-@@ com.google.gson.ObjectTypePair.toMoreSpecificType,7,9,23,4,7,17.391304347826086,30.434782608695656,0,2
+@@ com.google.gson.ObjectTypePair.toMoreSpecificType,7,9,23,4,7,17.391304347826086,30.434782608695656,0,1
 
-com.google.gson.ObjectTypePair.toMoreSpecificType;23;4;7;2;
+com.google.gson.ObjectTypePair.toMoreSpecificType;23;4;7;1;
 
 
 #com/google/gson/ObjectTypePair/getActualTypeIfMoreSpecific:
-Method getActualTypeIfMoreSpecific reduced in 0 minutes and 0 seconds. Total em milliseconds 2
+Method getActualTypeIfMoreSpecific reduced in 0 minutes and 0 seconds. Total em milliseconds 0
 ## nodes: 7
 ## edges: 9
 ## duas: 16
 ## Unconstrained duas: 5
 ## Reduction nodes: 10
-@@ com.google.gson.ObjectTypePair.getActualTypeIfMoreSpecific,7,9,16,5,10,31.25,62.5,0,2
+@@ com.google.gson.ObjectTypePair.getActualTypeIfMoreSpecific,7,9,16,5,10,31.25,62.5,0,0
 
-com.google.gson.ObjectTypePair.getActualTypeIfMoreSpecific;16;5;10;2;
+com.google.gson.ObjectTypePair.getActualTypeIfMoreSpecific;16;5;10;0;
 
 
 #com/google/gson/ObjectTypePair/hashCode:
-Method hashCode reduced in 0 minutes and 0 seconds. Total em milliseconds 1
+Method hashCode reduced in 0 minutes and 0 seconds. Total em milliseconds 0
 ## nodes: 5
 ## edges: 5
 ## duas: 6
 ## Unconstrained duas: 2
 ## Reduction nodes: 3
-@@ com.google.gson.ObjectTypePair.hashCode,5,5,6,2,3,33.33333333333333,50.0,0,1
+@@ com.google.gson.ObjectTypePair.hashCode,5,5,6,2,3,33.33333333333333,50.0,0,0
 
-com.google.gson.ObjectTypePair.hashCode;6;2;3;1;
+com.google.gson.ObjectTypePair.hashCode;6;2;3;0;
 
 
 #com/google/gson/ObjectTypePair/equals:
-Method equals reduced in 0 minutes and 0 seconds. Total em milliseconds 6
+Method equals reduced in 0 minutes and 0 seconds. Total em milliseconds 9
 ## nodes: 21
 ## edges: 30
 ## duas: 51
 ## Unconstrained duas: 13
 ## Reduction nodes: 20
-@@ com.google.gson.ObjectTypePair.equals,21,30,51,13,20,25.49019607843137,39.21568627450981,0,6
+@@ com.google.gson.ObjectTypePair.equals,21,30,51,13,20,25.49019607843137,39.21568627450981,0,9
 
-com.google.gson.ObjectTypePair.equals;51;13;20;6;
+com.google.gson.ObjectTypePair.equals;51;13;20;9;
 
 
 #com/google/gson/TypeInfoCollection/<init>:
-Method <init> reduced in 0 minutes and 0 seconds. Total em milliseconds 1
+Method <init> reduced in 0 minutes and 0 seconds. Total em milliseconds 0
 ## nodes: 4
 ## edges: 4
 ## duas: 4
 ## Unconstrained duas: 2
 ## Reduction nodes: 2
-@@ com.google.gson.TypeInfoCollection.<init>,4,4,4,2,2,50.0,50.0,0,1
+@@ com.google.gson.TypeInfoCollection.<init>,4,4,4,2,2,50.0,50.0,0,0
 
-com.google.gson.TypeInfoCollection.<init>;4;2;2;1;
+com.google.gson.TypeInfoCollection.<init>;4;2;2;0;
 
 
 #com/google/gson/FieldAttributes/getDeclaredType:
@@ -1983,39 +1983,39 @@ com.google.gson.FieldAttributes.getDeclaredType;9;2;3;0;
 
 
 #com/google/gson/FieldAttributes/getAnnotations:
-Method getAnnotations reduced in 0 minutes and 0 seconds. Total em milliseconds 2
+Method getAnnotations reduced in 0 minutes and 0 seconds. Total em milliseconds 1
 ## nodes: 5
 ## edges: 6
 ## duas: 20
 ## Unconstrained duas: 3
 ## Reduction nodes: 5
-@@ com.google.gson.FieldAttributes.getAnnotations,5,6,20,3,5,15.0,25.0,0,2
+@@ com.google.gson.FieldAttributes.getAnnotations,5,6,20,3,5,15.0,25.0,0,1
 
-com.google.gson.FieldAttributes.getAnnotations;20;3;5;2;
+com.google.gson.FieldAttributes.getAnnotations;20;3;5;1;
 
 
 #com/google/gson/FieldAttributes/hasModifier:
-Method hasModifier reduced in 0 minutes and 0 seconds. Total em milliseconds 1
+Method hasModifier reduced in 0 minutes and 0 seconds. Total em milliseconds 0
 ## nodes: 5
 ## edges: 5
 ## duas: 6
 ## Unconstrained duas: 2
 ## Reduction nodes: 2
-@@ com.google.gson.FieldAttributes.hasModifier,5,5,6,2,2,33.33333333333333,33.33333333333333,0,1
+@@ com.google.gson.FieldAttributes.hasModifier,5,5,6,2,2,33.33333333333333,33.33333333333333,0,0
 
-com.google.gson.FieldAttributes.hasModifier;6;2;2;1;
+com.google.gson.FieldAttributes.hasModifier;6;2;2;0;
 
 
 #com/google/gson/FieldAttributes/getAnnotationFromArray:
-Method getAnnotationFromArray reduced in 0 minutes and 0 seconds. Total em milliseconds 0
+Method getAnnotationFromArray reduced in 0 minutes and 0 seconds. Total em milliseconds 1
 ## nodes: 7
 ## edges: 8
 ## duas: 8
 ## Unconstrained duas: 3
 ## Reduction nodes: 4
-@@ com.google.gson.FieldAttributes.getAnnotationFromArray,7,8,8,3,4,37.5,50.0,0,0
+@@ com.google.gson.FieldAttributes.getAnnotationFromArray,7,8,8,3,4,37.5,50.0,0,1
 
-com.google.gson.FieldAttributes.getAnnotationFromArray;8;3;4;0;
+com.google.gson.FieldAttributes.getAnnotationFromArray;8;3;4;1;
 
 
 #com/google/gson/JsonObject/add:
@@ -2055,15 +2055,15 @@ com.google.gson.JsonObject.get;12;3;4;1;
 
 
 #com/google/gson/JsonObject/toString:
-Method toString reduced in 0 minutes and 0 seconds. Total em milliseconds 1
+Method toString reduced in 0 minutes and 0 seconds. Total em milliseconds 3
 ## nodes: 8
 ## edges: 9
 ## duas: 12
 ## Unconstrained duas: 3
 ## Reduction nodes: 7
-@@ com.google.gson.JsonObject.toString,8,9,12,3,7,25.0,58.333333333333336,0,1
+@@ com.google.gson.JsonObject.toString,8,9,12,3,7,25.0,58.333333333333336,0,3
 
-com.google.gson.JsonObject.toString;12;3;7;1;
+com.google.gson.JsonObject.toString;12;3;7;3;
 
 
 #com/google/gson/JsonTreeNavigator/navigate:
@@ -2091,15 +2091,15 @@ com.google.gson.JsonTreeNavigator.visitChild;34;5;8;2;
 
 
 #com/google/gson/JsonTreeNavigator/visitChild:
-Method visitChild reduced in 0 minutes and 0 seconds. Total em milliseconds 1
+Method visitChild reduced in 0 minutes and 0 seconds. Total em milliseconds 2
 ## nodes: 9
 ## edges: 11
 ## duas: 26
 ## Unconstrained duas: 4
 ## Reduction nodes: 6
-@@ com.google.gson.JsonTreeNavigator.visitChild,9,11,26,4,6,15.384615384615385,23.076923076923077,0,1
+@@ com.google.gson.JsonTreeNavigator.visitChild,9,11,26,4,6,15.384615384615385,23.076923076923077,0,2
 
-com.google.gson.JsonTreeNavigator.visitChild;26;4;6;1;
+com.google.gson.JsonTreeNavigator.visitChild;26;4;6;2;
 
 
 #com/google/gson/ObjectNavigatorFactory/<init>:
@@ -2139,15 +2139,15 @@ com.google.gson.stream.JsonReader.<init>;4;2;2;0;
 
 
 #com/google/gson/stream/JsonReader/expect:
-Method expect reduced in 0 minutes and 0 seconds. Total em milliseconds 0
+Method expect reduced in 0 minutes and 0 seconds. Total em milliseconds 1
 ## nodes: 4
 ## edges: 4
 ## duas: 9
 ## Unconstrained duas: 2
 ## Reduction nodes: 2
-@@ com.google.gson.stream.JsonReader.expect,4,4,9,2,2,22.22222222222222,22.22222222222222,0,0
+@@ com.google.gson.stream.JsonReader.expect,4,4,9,2,2,22.22222222222222,22.22222222222222,0,1
 
-com.google.gson.stream.JsonReader.expect;9;2;2;0;
+com.google.gson.stream.JsonReader.expect;9;2;2;1;
 
 
 #com/google/gson/stream/JsonReader/hasNext:
@@ -2175,51 +2175,51 @@ com.google.gson.stream.JsonReader.peek;7;2;3;0;
 
 
 #com/google/gson/stream/JsonReader/quickPeek:
-Method quickPeek reduced in 0 minutes and 0 seconds. Total em milliseconds 4
+Method quickPeek reduced in 0 minutes and 0 seconds. Total em milliseconds 3
 ## nodes: 21
 ## edges: 34
 ## duas: 57
 ## Unconstrained duas: 16
 ## Reduction nodes: 21
-@@ com.google.gson.stream.JsonReader.quickPeek,21,34,57,16,21,28.07017543859649,36.84210526315789,0,4
+@@ com.google.gson.stream.JsonReader.quickPeek,21,34,57,16,21,28.07017543859649,36.84210526315789,0,3
 
-com.google.gson.stream.JsonReader.quickPeek;57;16;21;4;
+com.google.gson.stream.JsonReader.quickPeek;57;16;21;3;
 
 
 #com/google/gson/stream/JsonReader/consumeNonExecutePrefix:
-Method consumeNonExecutePrefix reduced in 0 minutes and 0 seconds. Total em milliseconds 5
+Method consumeNonExecutePrefix reduced in 0 minutes and 0 seconds. Total em milliseconds 4
 ## nodes: 10
 ## edges: 13
 ## duas: 35
 ## Unconstrained duas: 8
 ## Reduction nodes: 14
-@@ com.google.gson.stream.JsonReader.consumeNonExecutePrefix,10,13,35,8,14,22.857142857142858,40.0,0,5
+@@ com.google.gson.stream.JsonReader.consumeNonExecutePrefix,10,13,35,8,14,22.857142857142858,40.0,0,4
 
-com.google.gson.stream.JsonReader.consumeNonExecutePrefix;35;8;14;5;
+com.google.gson.stream.JsonReader.consumeNonExecutePrefix;35;8;14;4;
 
 
 #com/google/gson/stream/JsonReader/nextName:
-Method nextName reduced in 0 minutes and 0 seconds. Total em milliseconds 0
+Method nextName reduced in 0 minutes and 0 seconds. Total em milliseconds 1
 ## nodes: 4
 ## edges: 4
 ## duas: 9
 ## Unconstrained duas: 2
 ## Reduction nodes: 2
-@@ com.google.gson.stream.JsonReader.nextName,4,4,9,2,2,22.22222222222222,22.22222222222222,0,0
+@@ com.google.gson.stream.JsonReader.nextName,4,4,9,2,2,22.22222222222222,22.22222222222222,0,1
 
-com.google.gson.stream.JsonReader.nextName;9;2;2;0;
+com.google.gson.stream.JsonReader.nextName;9;2;2;1;
 
 
 #com/google/gson/stream/JsonReader/nextString:
-Method nextString reduced in 0 minutes and 0 seconds. Total em milliseconds 0
+Method nextString reduced in 0 minutes and 0 seconds. Total em milliseconds 1
 ## nodes: 6
 ## edges: 8
 ## duas: 19
 ## Unconstrained duas: 4
 ## Reduction nodes: 8
-@@ com.google.gson.stream.JsonReader.nextString,6,8,19,4,8,21.052631578947366,42.10526315789473,0,0
+@@ com.google.gson.stream.JsonReader.nextString,6,8,19,4,8,21.052631578947366,42.10526315789473,0,1
 
-com.google.gson.stream.JsonReader.nextString;19;4;8;0;
+com.google.gson.stream.JsonReader.nextString;19;4;8;1;
 
 
 #com/google/gson/stream/JsonReader/nextBoolean:
@@ -2319,27 +2319,27 @@ com.google.gson.stream.JsonReader.nextInObject;32;9;17;3;
 
 
 #com/google/gson/stream/JsonReader/objectValue:
-Method objectValue reduced in 0 minutes and 0 seconds. Total em milliseconds 1
+Method objectValue reduced in 0 minutes and 0 seconds. Total em milliseconds 2
 ## nodes: 9
 ## edges: 13
 ## duas: 23
 ## Unconstrained duas: 7
 ## Reduction nodes: 10
-@@ com.google.gson.stream.JsonReader.objectValue,9,13,23,7,10,30.434782608695656,43.47826086956522,0,1
+@@ com.google.gson.stream.JsonReader.objectValue,9,13,23,7,10,30.434782608695656,43.47826086956522,0,2
 
-com.google.gson.stream.JsonReader.objectValue;23;7;10;1;
+com.google.gson.stream.JsonReader.objectValue;23;7;10;2;
 
 
 #com/google/gson/stream/JsonReader/nextValue:
-Method nextValue reduced in 0 minutes and 0 seconds. Total em milliseconds 1
+Method nextValue reduced in 0 minutes and 0 seconds. Total em milliseconds 0
 ## nodes: 7
 ## edges: 10
 ## duas: 17
 ## Unconstrained duas: 5
 ## Reduction nodes: 6
-@@ com.google.gson.stream.JsonReader.nextValue,7,10,17,5,6,29.411764705882355,35.294117647058826,0,1
+@@ com.google.gson.stream.JsonReader.nextValue,7,10,17,5,6,29.411764705882355,35.294117647058826,0,0
 
-com.google.gson.stream.JsonReader.nextValue;17;5;6;1;
+com.google.gson.stream.JsonReader.nextValue;17;5;6;0;
 
 
 #com/google/gson/stream/JsonReader/fillBuffer:
@@ -2356,65 +2356,65 @@ com.google.gson.stream.JsonReader.fillBuffer;41;7;13;5;
 Warning: Method:com.google.gson.stream.JsonReader.nextNonWhitespace has incoming edges.
 
 #com/google/gson/stream/JsonReader/checkLenient:
-Method checkLenient reduced in 0 minutes and 0 seconds. Total em milliseconds 0
+Method checkLenient reduced in 0 minutes and 0 seconds. Total em milliseconds 1
 ## nodes: 4
 ## edges: 4
 ## duas: 5
 ## Unconstrained duas: 2
 ## Reduction nodes: 2
-@@ com.google.gson.stream.JsonReader.checkLenient,4,4,5,2,2,40.0,40.0,0,0
+@@ com.google.gson.stream.JsonReader.checkLenient,4,4,5,2,2,40.0,40.0,0,1
 
-com.google.gson.stream.JsonReader.checkLenient;5;2;2;0;
+com.google.gson.stream.JsonReader.checkLenient;5;2;2;1;
 
 Warning: Method:com.google.gson.stream.JsonReader.skipToEndOfLine has incoming edges.
 Warning: Method:com.google.gson.stream.JsonReader.skipTo has incoming edges.
 
 #com/google/gson/stream/JsonReader/nextString:
-Method nextString reduced in 0 minutes and 0 seconds. Total em milliseconds 33
+Method nextString reduced in 0 minutes and 0 seconds. Total em milliseconds 42
 ## nodes: 19
 ## edges: 26
 ## duas: 76
 ## Unconstrained duas: 28
 ## Reduction nodes: 44
-@@ com.google.gson.stream.JsonReader.nextString,19,26,76,28,44,36.84210526315789,57.89473684210527,0,33
+@@ com.google.gson.stream.JsonReader.nextString,19,26,76,28,44,36.84210526315789,57.89473684210527,0,42
 
-com.google.gson.stream.JsonReader.nextString;76;28;44;33;
+com.google.gson.stream.JsonReader.nextString;76;28;44;42;
 
 
 #com/google/gson/stream/JsonReader/nextLiteral:
-Method nextLiteral reduced in 0 minutes and 0 seconds. Total em milliseconds 13
+Method nextLiteral reduced in 0 minutes and 0 seconds. Total em milliseconds 12
 ## nodes: 16
 ## edges: 22
 ## duas: 54
 ## Unconstrained duas: 14
 ## Reduction nodes: 27
-@@ com.google.gson.stream.JsonReader.nextLiteral,16,22,54,14,27,25.925925925925924,50.0,0,13
+@@ com.google.gson.stream.JsonReader.nextLiteral,16,22,54,14,27,25.925925925925924,50.0,0,12
 
-com.google.gson.stream.JsonReader.nextLiteral;54;14;27;13;
+com.google.gson.stream.JsonReader.nextLiteral;54;14;27;12;
 
 
 #com/google/gson/stream/JsonReader/readEscapeCharacter:
-Method readEscapeCharacter reduced in 0 minutes and 0 seconds. Total em milliseconds 4
+Method readEscapeCharacter reduced in 0 minutes and 0 seconds. Total em milliseconds 3
 ## nodes: 15
 ## edges: 24
 ## duas: 32
 ## Unconstrained duas: 12
 ## Reduction nodes: 17
-@@ com.google.gson.stream.JsonReader.readEscapeCharacter,15,24,32,12,17,37.5,53.125,0,4
+@@ com.google.gson.stream.JsonReader.readEscapeCharacter,15,24,32,12,17,37.5,53.125,0,3
 
-com.google.gson.stream.JsonReader.readEscapeCharacter;32;12;17;4;
+com.google.gson.stream.JsonReader.readEscapeCharacter;32;12;17;3;
 
 
 #com/google/gson/stream/JsonReader/readLiteral:
-Method readLiteral reduced in 0 minutes and 0 seconds. Total em milliseconds 0
+Method readLiteral reduced in 0 minutes and 0 seconds. Total em milliseconds 1
 ## nodes: 4
 ## edges: 4
 ## duas: 5
 ## Unconstrained duas: 2
 ## Reduction nodes: 2
-@@ com.google.gson.stream.JsonReader.readLiteral,4,4,5,2,2,40.0,40.0,0,0
+@@ com.google.gson.stream.JsonReader.readLiteral,4,4,5,2,2,40.0,40.0,0,1
 
-com.google.gson.stream.JsonReader.readLiteral;5;2;2;0;
+com.google.gson.stream.JsonReader.readLiteral;5;2;2;1;
 
 
 #com/google/gson/stream/JsonReader/decodeLiteral:
@@ -2430,27 +2430,27 @@ com.google.gson.stream.JsonReader.decodeLiteral;19;4;7;1;
 
 
 #com/google/gson/stream/JsonWriter/<init>:
-Method <init> reduced in 0 minutes and 0 seconds. Total em milliseconds 0
+Method <init> reduced in 0 minutes and 0 seconds. Total em milliseconds 1
 ## nodes: 4
 ## edges: 4
 ## duas: 4
 ## Unconstrained duas: 2
 ## Reduction nodes: 2
-@@ com.google.gson.stream.JsonWriter.<init>,4,4,4,2,2,50.0,50.0,0,0
+@@ com.google.gson.stream.JsonWriter.<init>,4,4,4,2,2,50.0,50.0,0,1
 
-com.google.gson.stream.JsonWriter.<init>;4;2;2;0;
+com.google.gson.stream.JsonWriter.<init>;4;2;2;1;
 
 
 #com/google/gson/stream/JsonWriter/setIndent:
-Method setIndent reduced in 0 minutes and 0 seconds. Total em milliseconds 0
+Method setIndent reduced in 0 minutes and 0 seconds. Total em milliseconds 1
 ## nodes: 5
 ## edges: 5
 ## duas: 5
 ## Unconstrained duas: 2
 ## Reduction nodes: 2
-@@ com.google.gson.stream.JsonWriter.setIndent,5,5,5,2,2,40.0,40.0,0,0
+@@ com.google.gson.stream.JsonWriter.setIndent,5,5,5,2,2,40.0,40.0,0,1
 
-com.google.gson.stream.JsonWriter.setIndent;5;2;2;0;
+com.google.gson.stream.JsonWriter.setIndent;5;2;2;1;
 
 
 #com/google/gson/stream/JsonWriter/close:
@@ -2478,15 +2478,15 @@ com.google.gson.stream.JsonWriter.name;4;2;2;0;
 
 
 #com/google/gson/stream/JsonWriter/value:
-Method value reduced in 0 minutes and 0 seconds. Total em milliseconds 1
+Method value reduced in 0 minutes and 0 seconds. Total em milliseconds 0
 ## nodes: 4
 ## edges: 4
 ## duas: 5
 ## Unconstrained duas: 2
 ## Reduction nodes: 2
-@@ com.google.gson.stream.JsonWriter.value,4,4,5,2,2,40.0,40.0,0,1
+@@ com.google.gson.stream.JsonWriter.value,4,4,5,2,2,40.0,40.0,0,0
 
-com.google.gson.stream.JsonWriter.value;5;2;2;1;
+com.google.gson.stream.JsonWriter.value;5;2;2;0;
 
 
 #com/google/gson/stream/JsonWriter/value:
@@ -2514,15 +2514,15 @@ com.google.gson.stream.JsonWriter.value;8;3;5;0;
 
 
 #com/google/gson/stream/JsonWriter/value:
-Method value reduced in 0 minutes and 0 seconds. Total em milliseconds 2
+Method value reduced in 0 minutes and 0 seconds. Total em milliseconds 0
 ## nodes: 9
 ## edges: 13
 ## duas: 18
 ## Unconstrained duas: 6
 ## Reduction nodes: 12
-@@ com.google.gson.stream.JsonWriter.value,9,13,18,6,12,33.33333333333333,66.66666666666666,0,2
+@@ com.google.gson.stream.JsonWriter.value,9,13,18,6,12,33.33333333333333,66.66666666666666,0,0
 
-com.google.gson.stream.JsonWriter.value;18;6;12;2;
+com.google.gson.stream.JsonWriter.value;18;6;12;0;
 
 
 #com/google/gson/stream/JsonWriter/close:
@@ -2538,15 +2538,15 @@ com.google.gson.stream.JsonWriter.close;4;2;2;0;
 
 
 #com/google/gson/stream/JsonWriter/string:
-Method string reduced in 0 minutes and 0 seconds. Total em milliseconds 25
+Method string reduced in 0 minutes and 0 seconds. Total em milliseconds 21
 ## nodes: 18
 ## edges: 27
 ## duas: 52
 ## Unconstrained duas: 12
 ## Reduction nodes: 16
-@@ com.google.gson.stream.JsonWriter.string,18,27,52,12,16,23.076923076923077,30.76923076923077,0,25
+@@ com.google.gson.stream.JsonWriter.string,18,27,52,12,16,23.076923076923077,30.76923076923077,0,21
 
-com.google.gson.stream.JsonWriter.string;52;12;16;25;
+com.google.gson.stream.JsonWriter.string;52;12;16;21;
 
 
 #com/google/gson/stream/JsonWriter/newline:
@@ -2586,15 +2586,15 @@ com.google.gson.stream.JsonWriter.beforeValue;30;8;11;2;
 
 
 #com/google/gson/reflect/TypeToken/nonNull:
-Method nonNull reduced in 0 minutes and 0 seconds. Total em milliseconds 1
+Method nonNull reduced in 0 minutes and 0 seconds. Total em milliseconds 0
 ## nodes: 4
 ## edges: 4
 ## duas: 4
 ## Unconstrained duas: 2
 ## Reduction nodes: 2
-@@ com.google.gson.reflect.TypeToken.nonNull,4,4,4,2,2,50.0,50.0,0,1
+@@ com.google.gson.reflect.TypeToken.nonNull,4,4,4,2,2,50.0,50.0,0,0
 
-com.google.gson.reflect.TypeToken.nonNull;4;2;2;1;
+com.google.gson.reflect.TypeToken.nonNull;4;2;2;0;
 
 
 #com/google/gson/reflect/TypeToken/getSuperclassTypeParameter:
@@ -2622,39 +2622,39 @@ com.google.gson.reflect.TypeToken.getRawType;14;5;8;1;
 
 
 #com/google/gson/reflect/TypeToken/isAssignableFrom:
-Method isAssignableFrom reduced in 0 minutes and 0 seconds. Total em milliseconds 5
+Method isAssignableFrom reduced in 0 minutes and 0 seconds. Total em milliseconds 3
 ## nodes: 16
 ## edges: 22
 ## duas: 40
 ## Unconstrained duas: 8
 ## Reduction nodes: 14
-@@ com.google.gson.reflect.TypeToken.isAssignableFrom,16,22,40,8,14,20.0,35.0,0,5
+@@ com.google.gson.reflect.TypeToken.isAssignableFrom,16,22,40,8,14,20.0,35.0,0,3
 
-com.google.gson.reflect.TypeToken.isAssignableFrom;40;8;14;5;
+com.google.gson.reflect.TypeToken.isAssignableFrom;40;8;14;3;
 
 
 #com/google/gson/reflect/TypeToken/isAssignableFrom:
-Method isAssignableFrom reduced in 0 minutes and 0 seconds. Total em milliseconds 1
+Method isAssignableFrom reduced in 0 minutes and 0 seconds. Total em milliseconds 2
 ## nodes: 11
 ## edges: 14
 ## duas: 21
 ## Unconstrained duas: 5
 ## Reduction nodes: 9
-@@ com.google.gson.reflect.TypeToken.isAssignableFrom,11,14,21,5,9,23.809523809523807,42.857142857142854,0,1
+@@ com.google.gson.reflect.TypeToken.isAssignableFrom,11,14,21,5,9,23.809523809523807,42.857142857142854,0,2
 
-com.google.gson.reflect.TypeToken.isAssignableFrom;21;5;9;1;
+com.google.gson.reflect.TypeToken.isAssignableFrom;21;5;9;2;
 
 
 #com/google/gson/reflect/TypeToken/isAssignableFrom:
-Method isAssignableFrom reduced in 0 minutes and 0 seconds. Total em milliseconds 19
+Method isAssignableFrom reduced in 0 minutes and 0 seconds. Total em milliseconds 18
 ## nodes: 24
 ## edges: 33
 ## duas: 71
 ## Unconstrained duas: 18
 ## Reduction nodes: 34
-@@ com.google.gson.reflect.TypeToken.isAssignableFrom,24,33,71,18,34,25.352112676056336,47.88732394366197,0,19
+@@ com.google.gson.reflect.TypeToken.isAssignableFrom,24,33,71,18,34,25.352112676056336,47.88732394366197,0,18
 
-com.google.gson.reflect.TypeToken.isAssignableFrom;71;18;34;19;
+com.google.gson.reflect.TypeToken.isAssignableFrom;71;18;34;18;
 
 
 #com/google/gson/reflect/TypeToken/typeEquals:
@@ -2670,27 +2670,27 @@ com.google.gson.reflect.TypeToken.typeEquals;24;6;12;3;
 
 
 #com/google/gson/reflect/TypeToken/matches:
-Method matches reduced in 0 minutes and 0 seconds. Total em milliseconds 1
+Method matches reduced in 0 minutes and 0 seconds. Total em milliseconds 0
 ## nodes: 6
 ## edges: 7
 ## duas: 9
 ## Unconstrained duas: 3
 ## Reduction nodes: 4
-@@ com.google.gson.reflect.TypeToken.matches,6,7,9,3,4,33.33333333333333,44.44444444444444,0,1
+@@ com.google.gson.reflect.TypeToken.matches,6,7,9,3,4,33.33333333333333,44.44444444444444,0,0
 
-com.google.gson.reflect.TypeToken.matches;9;3;4;1;
+com.google.gson.reflect.TypeToken.matches;9;3;4;0;
 
 
 #com/google/gson/reflect/TypeToken/equals:
-Method equals reduced in 0 minutes and 0 seconds. Total em milliseconds 0
+Method equals reduced in 0 minutes and 0 seconds. Total em milliseconds 1
 ## nodes: 6
 ## edges: 7
 ## duas: 9
 ## Unconstrained duas: 3
 ## Reduction nodes: 4
-@@ com.google.gson.reflect.TypeToken.equals,6,7,9,3,4,33.33333333333333,44.44444444444444,0,0
+@@ com.google.gson.reflect.TypeToken.equals,6,7,9,3,4,33.33333333333333,44.44444444444444,0,1
 
-com.google.gson.reflect.TypeToken.equals;9;3;4;0;
+com.google.gson.reflect.TypeToken.equals;9;3;4;1;
 
 
 #com/google/gson/reflect/TypeToken/toString:
@@ -2717,4 +2717,4 @@ Method buildUnexpectedTypeError reduced in 0 minutes and 0 seconds. Total em mil
 com.google.gson.reflect.TypeToken.buildUnexpectedTypeError;12;2;4;1;
 
 226 methods analyzed in 0 minutes and 1 seconds
-Unconstrained DUAs time (ms):1381
+Unconstrained DUAs time (ms):1260

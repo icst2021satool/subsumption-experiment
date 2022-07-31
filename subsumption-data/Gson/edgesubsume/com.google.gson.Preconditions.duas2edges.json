@@ -1,0 +1,16 @@
+{
+"Class" : "com.google.gson.Preconditions", 
+"Methods" : [{ "Name" : "checkNotNull" ,
+"Edges" : 5,
+"Duas" : 2,
+"0" : 3, 
+ "1" : 4},{ "Name" : "checkArgument" ,
+"Edges" : 4,
+"Duas" : 3,
+"0" : 0, 
+ "1" : 1},{ "Name" : "checkState" ,
+"Edges" : 4,
+"Duas" : 3,
+"0" : 2, 
+ "1" : 3}]
+}

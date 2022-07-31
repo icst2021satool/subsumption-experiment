@@ -1,0 +1,26 @@
+{
+"Class" : "com.google.gson.DisjunctionExclusionStrategy", 
+"Methods" : [{ "Name" : "shouldSkipField" ,
+"Nodes" : 7,
+"0" : [ ],
+"1" : [ ],
+"2" : [ 3],
+"3" : [ 2, 4],
+"4" : [ 1, 2, 4, 6],
+"5" : [ 0, 2, 4, 5],
+"6" : [ ],
+"CoveredDUAsByNodes" : 7,
+"Duas" : 7
+},{ "Name" : "shouldSkipClass" ,
+"Nodes" : 7,
+"0" : [ ],
+"1" : [ ],
+"2" : [ 3],
+"3" : [ 2, 4],
+"4" : [ 1, 2, 4, 6],
+"5" : [ 0, 2, 4, 5],
+"6" : [ ],
+"CoveredDUAsByNodes" : 7,
+"Duas" : 7
+}]
+}

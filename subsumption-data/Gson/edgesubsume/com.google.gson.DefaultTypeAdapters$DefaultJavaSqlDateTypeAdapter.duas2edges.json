@@ -1,0 +1,8 @@
+{
+"Class" : "com.google.gson.DefaultTypeAdapters$DefaultJavaSqlDateTypeAdapter", 
+"Methods" : [{ "Name" : "deserialize" ,
+"Edges" : 4,
+"Duas" : 9,
+"3" : 2, 
+ "4" : 3}]
+}

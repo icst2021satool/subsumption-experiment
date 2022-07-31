@@ -1,0 +1,10 @@
+{
+"Class" : "com.google.gson.ExposeAnnotationDeserializationExclusionStrategy", 
+"Methods" : [{ "Name" : "shouldSkipField" ,
+"Edges" : 8,
+"Duas" : 4,
+"0" : 2, 
+ "1" : 3, 
+ "2" : 6, 
+ "3" : 7}]
+}

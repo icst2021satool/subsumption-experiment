@@ -1,0 +1,16 @@
+{
+"Class" : "com.google.gson.JsonStreamParser", 
+"Methods" : [{ "Name" : "next" ,
+"Duas" : 4,
+"0" :  "(82,(82,83), this)",
+"1" :  "(82,(82,87), this)",
+"2" :  "(82,87, this)",
+"3" :  "(82,87, this.parser)"},{ "Name" : "hasNext" ,
+"Duas" : 6,
+"0" :  "(103,(105,105), this)",
+"1" :  "(103,(105,105), this)",
+"2" :  "(103,(105,105), END_DOCUMENT)",
+"3" :  "(103,(105,105), END_DOCUMENT)",
+"4" :  "(103,(105,105), this.parser)",
+"5" :  "(103,(105,105), this.parser)"}]
+}

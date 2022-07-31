@@ -1,0 +1,12 @@
+{
+"Class" : "com.google.gson.TypeInfoMap", 
+"Methods" : [{ "Name" : "<init>" ,
+"Edges" : 10,
+"Duas" : 12,
+"4" : 8, 
+ "5" : 9, 
+ "6" : 1, 
+ "7" : 2, 
+ "10" : 5, 
+ "11" : 6}]
+}

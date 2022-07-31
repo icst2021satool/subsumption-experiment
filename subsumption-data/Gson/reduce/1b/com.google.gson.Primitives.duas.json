@@ -1,0 +1,14 @@
+{
+"Class" : "com.google.gson.Primitives", 
+"Methods" : [{ "Name" : "wrap" ,
+"Duas" : 4,
+"0" :  "(89,94, type)",
+"1" :  "(93,(94,94), wrapped)",
+"2" :  "(93,(94,94), wrapped)",
+"3" :  "(93,94, wrapped)"},{ "Name" : "unwrap" ,
+"Duas" : 4,
+"0" :  "(107,112, type)",
+"1" :  "(111,(112,112), unwrapped)",
+"2" :  "(111,(112,112), unwrapped)",
+"3" :  "(111,112, unwrapped)"}]
+}

@@ -1,0 +1,15 @@
+{
+"Class" : "com.google.gson.SyntheticFieldExclusionStrategy", 
+"Methods" : [{ "Name" : "shouldSkipField" ,
+"Edges" : 7,
+"4" : [ 0, 4],
+"5" : [ 1, 5],
+"2" : [ 0, 2, 4],
+"3" : [ 3],
+"0" : [ ],
+"6" : [ 0, 2, 4],
+"1" : [ ],
+"CoveredDUAsByEdges" : 6,
+"Duas" : 6
+}]
+}

@@ -1,0 +1,15 @@
+{
+"Class" : "com.google.gson.TypeInfo", 
+"Methods" : [{ "Name" : "isCollectionOrArray" ,
+"Edges" : 7,
+"0" : [ 0, 4],
+"1" : [ 1, 5],
+"4" : [ 2],
+"5" : [ 0, 3, 4],
+"2" : [ 0, 3, 4],
+"3" : [ ],
+"6" : [ ],
+"CoveredDUAsByEdges" : 6,
+"Duas" : 6
+}]
+}

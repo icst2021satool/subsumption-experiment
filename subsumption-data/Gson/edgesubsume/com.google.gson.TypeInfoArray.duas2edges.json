@@ -1,0 +1,14 @@
+{
+"Class" : "com.google.gson.TypeInfoArray", 
+"Methods" : [{ "Name" : "<init>" ,
+"Edges" : 5,
+"Duas" : 12,
+"4" : 1, 
+ "5" : 2, 
+ "8" : 1, 
+ "9" : 2},{ "Name" : "extractSecondLevelType" ,
+"Edges" : 5,
+"Duas" : 4,
+"0" : 2, 
+ "1" : 3}]
+}

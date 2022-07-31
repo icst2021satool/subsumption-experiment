@@ -1,0 +1,14 @@
+{
+"Class" : "com.google.gson.DefaultTypeAdapters$DefaultJavaSqlDateTypeAdapter", 
+"Methods" : [{ "Name" : "deserialize" ,
+"Duas" : 9,
+"0" :  "(310,314, this)",
+"1" :  "(310,314, this)",
+"2" :  "(310,315, this)",
+"3" :  "(310,(310,311), json)",
+"4" :  "(310,(310,314), json)",
+"5" :  "(310,315, json)",
+"6" :  "(310,314, this.format)",
+"7" :  "(310,314, this.format)",
+"8" :  "(310,315, this.format)"}]
+}

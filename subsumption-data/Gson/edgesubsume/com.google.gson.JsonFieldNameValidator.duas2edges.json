@@ -1,0 +1,10 @@
+{
+"Class" : "com.google.gson.JsonFieldNameValidator", 
+"Methods" : [{ "Name" : "validate" ,
+"Edges" : 8,
+"Duas" : 8,
+"0" : 6, 
+ "1" : 7, 
+ "6" : 1, 
+ "7" : 2}]
+}

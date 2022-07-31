@@ -1,0 +1,8 @@
+{
+"Class" : "com.google.gson.SerializedNameAnnotationInterceptingNamingPolicy", 
+"Methods" : [{ "Name" : "translateName" ,
+"Edges" : 5,
+"Duas" : 7,
+"4" : 2, 
+ "5" : 3}]
+}

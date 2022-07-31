@@ -1,0 +1,17 @@
+{
+"Class" : "com.google.gson.CompositionFieldNamingPolicy", 
+"Methods" : [{ "Name" : "<init>" ,
+"Nodes" : 4,
+"0" : [ 32,33 ]
+"1" : [ 36,37 ]
+"2" : [ 34 ]
+"3" : [  ]
+},{ "Name" : "translateName" ,
+"Nodes" : 5,
+"0" : [ 41 ]
+"1" : [ 41 ]
+"2" : [ 44 ]
+"3" : [ 41,42 ]
+"4" : [  ]
+}]
+}

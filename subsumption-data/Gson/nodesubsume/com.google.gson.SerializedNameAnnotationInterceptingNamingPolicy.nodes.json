@@ -1,0 +1,11 @@
+{
+"Class" : "com.google.gson.SerializedNameAnnotationInterceptingNamingPolicy", 
+"Methods" : [{ "Name" : "translateName" ,
+"Nodes" : 5,
+"0" : [ 43,44,45 ]
+"1" : [ 45 ]
+"2" : [ 45 ]
+"3" : [ 45 ]
+"4" : [  ]
+}]
+}

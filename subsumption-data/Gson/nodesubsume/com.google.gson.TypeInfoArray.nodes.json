@@ -1,0 +1,18 @@
+{
+"Class" : "com.google.gson.TypeInfoArray", 
+"Methods" : [{ "Name" : "<init>" ,
+"Nodes" : 5,
+"0" : [ 33,34 ]
+"1" : [ 35 ]
+"2" : [ 38,39,40 ]
+"3" : [ 36 ]
+"4" : [  ]
+},{ "Name" : "extractSecondLevelType" ,
+"Nodes" : 5,
+"0" : [ 43 ]
+"1" : [ 43 ]
+"2" : [ 43 ]
+"3" : [ 43 ]
+"4" : [  ]
+}]
+}

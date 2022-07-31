@@ -1,0 +1,11 @@
+{
+"Class" : "com.google.gson.LruCache", 
+"Methods" : [{ "Name" : "removeEldestEntry" ,
+"Nodes" : 5,
+"0" : [ 62 ]
+"1" : [ 62 ]
+"2" : [ 62 ]
+"3" : [ 62 ]
+"4" : [  ]
+}]
+}

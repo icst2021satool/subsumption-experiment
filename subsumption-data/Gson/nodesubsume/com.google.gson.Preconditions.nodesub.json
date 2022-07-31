@@ -1,0 +1,29 @@
+{
+"Class" : "com.google.gson.Preconditions", 
+"Methods" : [{ "Name" : "checkNotNull" ,
+"Nodes" : 5,
+"0" : [ ],
+"1" : [ 1],
+"3" : [ 0],
+"2" : [ ],
+"4" : [ ],
+"CoveredDUAsByNodes" : 2,
+"Duas" : 2
+},{ "Name" : "checkArgument" ,
+"Nodes" : 4,
+"0" : [ ],
+"1" : [ 1],
+"2" : [ 0, 2],
+"3" : [ ],
+"CoveredDUAsByNodes" : 3,
+"Duas" : 3
+},{ "Name" : "checkState" ,
+"Nodes" : 4,
+"0" : [ ],
+"1" : [ 1],
+"2" : [ 0, 2],
+"3" : [ ],
+"CoveredDUAsByNodes" : 3,
+"Duas" : 3
+}]
+}

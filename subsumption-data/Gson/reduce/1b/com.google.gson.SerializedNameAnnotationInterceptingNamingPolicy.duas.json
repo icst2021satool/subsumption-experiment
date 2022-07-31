@@ -1,0 +1,12 @@
+{
+"Class" : "com.google.gson.SerializedNameAnnotationInterceptingNamingPolicy", 
+"Methods" : [{ "Name" : "translateName" ,
+"Duas" : 7,
+"0" :  "(43,45, this)",
+"1" :  "(43,45, f)",
+"2" :  "(43,45, fieldNameValidator)",
+"3" :  "(43,45, this.delegate)",
+"4" :  "(44,(45,45), serializedName)",
+"5" :  "(44,(45,45), serializedName)",
+"6" :  "(44,45, serializedName)"}]
+}

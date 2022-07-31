@@ -1,0 +1,12 @@
+{
+"Class" : "com.google.gson.DefaultTypeAdapters$FloatSerializer", 
+"Methods" : [{ "Name" : "serialize" ,
+"Nodes" : 6,
+"0" : [ 768 ]
+"1" : [ 775 ]
+"2" : [ 769 ]
+"3" : [ 770 ]
+"4" : [ 769 ]
+"5" : [  ]
+}]
+}

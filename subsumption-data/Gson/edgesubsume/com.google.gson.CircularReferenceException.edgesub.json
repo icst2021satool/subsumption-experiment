@@ -1,0 +1,15 @@
+{
+"Class" : "com.google.gson.CircularReferenceException", 
+"Methods" : [{ "Name" : "createDetailedException" ,
+"Edges" : 7,
+"5" : [ 4, 6, 12],
+"6" : [ 5],
+"2" : [ 4, 6, 12],
+"3" : [ 0, 3, 7, 9, 11],
+"4" : [ 1, 2, 8, 10],
+"0" : [ 0, 2, 3, 7, 9, 10, 11],
+"1" : [ 2, 10],
+"CoveredDUAsByEdges" : 13,
+"Duas" : 13
+}]
+}

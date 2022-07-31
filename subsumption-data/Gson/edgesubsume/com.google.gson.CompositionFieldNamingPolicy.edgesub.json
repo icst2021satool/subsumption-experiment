@@ -1,0 +1,21 @@
+{
+"Class" : "com.google.gson.CompositionFieldNamingPolicy", 
+"Methods" : [{ "Name" : "<init>" ,
+"Edges" : 4,
+"1" : [ 1],
+"2" : [ 0, 2, 3],
+"0" : [ 0, 2, 3],
+"3" : [ 1],
+"CoveredDUAsByEdges" : 4,
+"Duas" : 4
+},{ "Name" : "translateName" ,
+"Edges" : 5,
+"0" : [ ],
+"1" : [ 1, 2, 3, 4, 5, 7, 9, 10],
+"2" : [ 6],
+"4" : [ 6],
+"3" : [ 1, 2, 3, 4, 5, 7, 9, 10],
+"CoveredDUAsByEdges" : 9,
+"Duas" : 17
+}]
+}

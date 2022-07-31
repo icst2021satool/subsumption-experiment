@@ -1,0 +1,8 @@
+{
+"Class" : "com.google.gson.JsonSerializationContextDefault", 
+"Methods" : [{ "Name" : "serialize" ,
+"Edges" : 4,
+"Duas" : 4,
+"1" : 0, 
+ "2" : 1}]
+}

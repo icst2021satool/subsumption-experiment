@@ -1,0 +1,28 @@
+{
+"Class" : "com.google.gson.JsonElement", 
+"Methods" : [{ "Name" : "getAsJsonObject" ,
+"Nodes" : 4,
+"0" : [ 80 ]
+"1" : [ 83 ]
+"2" : [ 81 ]
+"3" : [  ]
+},{ "Name" : "getAsJsonArray" ,
+"Nodes" : 4,
+"0" : [ 96 ]
+"1" : [ 99 ]
+"2" : [ 97 ]
+"3" : [  ]
+},{ "Name" : "getAsJsonPrimitive" ,
+"Nodes" : 4,
+"0" : [ 112 ]
+"1" : [ 115 ]
+"2" : [ 113 ]
+"3" : [  ]
+},{ "Name" : "getAsJsonNull" ,
+"Nodes" : 4,
+"0" : [ 129 ]
+"1" : [ 132 ]
+"2" : [ 130 ]
+"3" : [  ]
+}]
+}

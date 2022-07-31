@@ -8,11 +8,11 @@
 ## DUAs: 4
 ## Subsumed DUAs: 4
 ## Edge DUA coverage: 100.0
-@@ com.google.gson.JsonStreamParser.next,4,4,4,4,100.0,0,5
+@@ com.google.gson.JsonStreamParser.next,4,4,4,4,100.0,0,10
 
 
 #com/google/gson/JsonStreamParser/next:
-Local DUA-Edge subsumption of method com.google.gson.JsonStreamParser.next  calculated in 0 minutes, 0 seconds, and 5 milliseconds
+Local DUA-Edge subsumption of method com.google.gson.JsonStreamParser.next  calculated in 0 minutes, 0 seconds, and 10 milliseconds
 
 #com/google/gson/JsonStreamParser/hasNext:
 ## nodes: 5
@@ -32,11 +32,11 @@ Local DUA-Edge subsumption of method com.google.gson.JsonStreamParser.hasNext  c
 ## DUAs: 9
 ## Subsumed DUAs: 9
 ## Edge DUA coverage: 100.0
-@@ com.google.gson.TypeUtils.getActualTypeForFirstTypeVariable,8,10,9,9,100.0,0,1
+@@ com.google.gson.TypeUtils.getActualTypeForFirstTypeVariable,8,10,9,9,100.0,0,2
 
 
 #com/google/gson/TypeUtils/getActualTypeForFirstTypeVariable:
-Local DUA-Edge subsumption of method com.google.gson.TypeUtils.getActualTypeForFirstTypeVariable  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method com.google.gson.TypeUtils.getActualTypeForFirstTypeVariable  calculated in 0 minutes, 0 seconds, and 2 milliseconds
 
 #com/google/gson/TypeUtils/isArray:
 ## nodes: 6
@@ -80,11 +80,11 @@ Local DUA-Edge subsumption of method com.google.gson.VersionExclusionStrategy.<i
 ## DUAs: 4
 ## Subsumed DUAs: 4
 ## Edge DUA coverage: 100.0
-@@ com.google.gson.VersionExclusionStrategy.shouldSkipField,5,5,4,4,100.0,0,1
+@@ com.google.gson.VersionExclusionStrategy.shouldSkipField,5,5,4,4,100.0,0,0
 
 
 #com/google/gson/VersionExclusionStrategy/shouldSkipField:
-Local DUA-Edge subsumption of method com.google.gson.VersionExclusionStrategy.shouldSkipField  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method com.google.gson.VersionExclusionStrategy.shouldSkipField  calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/google/gson/VersionExclusionStrategy/shouldSkipClass:
 ## nodes: 5
@@ -92,11 +92,11 @@ Local DUA-Edge subsumption of method com.google.gson.VersionExclusionStrategy.sh
 ## DUAs: 4
 ## Subsumed DUAs: 4
 ## Edge DUA coverage: 100.0
-@@ com.google.gson.VersionExclusionStrategy.shouldSkipClass,5,5,4,4,100.0,0,1
+@@ com.google.gson.VersionExclusionStrategy.shouldSkipClass,5,5,4,4,100.0,0,0
 
 
 #com/google/gson/VersionExclusionStrategy/shouldSkipClass:
-Local DUA-Edge subsumption of method com.google.gson.VersionExclusionStrategy.shouldSkipClass  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method com.google.gson.VersionExclusionStrategy.shouldSkipClass  calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/google/gson/VersionExclusionStrategy/isValidVersion:
 ## nodes: 6
@@ -104,11 +104,11 @@ Local DUA-Edge subsumption of method com.google.gson.VersionExclusionStrategy.sh
 ## DUAs: 8
 ## Subsumed DUAs: 8
 ## Edge DUA coverage: 100.0
-@@ com.google.gson.VersionExclusionStrategy.isValidVersion,6,7,8,8,100.0,0,1
+@@ com.google.gson.VersionExclusionStrategy.isValidVersion,6,7,8,8,100.0,0,0
 
 
 #com/google/gson/VersionExclusionStrategy/isValidVersion:
-Local DUA-Edge subsumption of method com.google.gson.VersionExclusionStrategy.isValidVersion  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method com.google.gson.VersionExclusionStrategy.isValidVersion  calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/google/gson/VersionExclusionStrategy/isValidSince:
 ## nodes: 5
@@ -116,11 +116,11 @@ Local DUA-Edge subsumption of method com.google.gson.VersionExclusionStrategy.is
 ## DUAs: 9
 ## Subsumed DUAs: 9
 ## Edge DUA coverage: 100.0
-@@ com.google.gson.VersionExclusionStrategy.isValidSince,5,6,9,9,100.0,0,0
+@@ com.google.gson.VersionExclusionStrategy.isValidSince,5,6,9,9,100.0,0,1
 
 
 #com/google/gson/VersionExclusionStrategy/isValidSince:
-Local DUA-Edge subsumption of method com.google.gson.VersionExclusionStrategy.isValidSince  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method com.google.gson.VersionExclusionStrategy.isValidSince  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #com/google/gson/VersionExclusionStrategy/isValidUntil:
 ## nodes: 5
@@ -128,11 +128,11 @@ Local DUA-Edge subsumption of method com.google.gson.VersionExclusionStrategy.is
 ## DUAs: 9
 ## Subsumed DUAs: 9
 ## Edge DUA coverage: 100.0
-@@ com.google.gson.VersionExclusionStrategy.isValidUntil,5,6,9,9,100.0,0,1
+@@ com.google.gson.VersionExclusionStrategy.isValidUntil,5,6,9,9,100.0,0,4
 
 
 #com/google/gson/VersionExclusionStrategy/isValidUntil:
-Local DUA-Edge subsumption of method com.google.gson.VersionExclusionStrategy.isValidUntil  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method com.google.gson.VersionExclusionStrategy.isValidUntil  calculated in 0 minutes, 0 seconds, and 4 milliseconds
 
 #com/google/gson/TypeInfo/isCollectionOrArray:
 ## nodes: 6
@@ -140,11 +140,11 @@ Local DUA-Edge subsumption of method com.google.gson.VersionExclusionStrategy.is
 ## DUAs: 6
 ## Subsumed DUAs: 6
 ## Edge DUA coverage: 100.0
-@@ com.google.gson.TypeInfo.isCollectionOrArray,6,7,6,6,100.0,0,0
+@@ com.google.gson.TypeInfo.isCollectionOrArray,6,7,6,6,100.0,0,1
 
 
 #com/google/gson/TypeInfo/isCollectionOrArray:
-Local DUA-Edge subsumption of method com.google.gson.TypeInfo.isCollectionOrArray  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method com.google.gson.TypeInfo.isCollectionOrArray  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #com/google/gson/GenericArrayTypeImpl/equals:
 ## nodes: 9
@@ -152,11 +152,11 @@ Local DUA-Edge subsumption of method com.google.gson.TypeInfo.isCollectionOrArra
 ## DUAs: 12
 ## Subsumed DUAs: 12
 ## Edge DUA coverage: 100.0
-@@ com.google.gson.GenericArrayTypeImpl.equals,9,11,12,12,100.0,0,0
+@@ com.google.gson.GenericArrayTypeImpl.equals,9,11,12,12,100.0,0,1
 
 
 #com/google/gson/GenericArrayTypeImpl/equals:
-Local DUA-Edge subsumption of method com.google.gson.GenericArrayTypeImpl.equals  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method com.google.gson.GenericArrayTypeImpl.equals  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #com/google/gson/GenericArrayTypeImpl/hashCode:
 ## nodes: 5
@@ -164,11 +164,11 @@ Local DUA-Edge subsumption of method com.google.gson.GenericArrayTypeImpl.equals
 ## DUAs: 6
 ## Subsumed DUAs: 6
 ## Edge DUA coverage: 100.0
-@@ com.google.gson.GenericArrayTypeImpl.hashCode,5,5,6,6,100.0,0,0
+@@ com.google.gson.GenericArrayTypeImpl.hashCode,5,5,6,6,100.0,0,1
 
 
 #com/google/gson/GenericArrayTypeImpl/hashCode:
-Local DUA-Edge subsumption of method com.google.gson.GenericArrayTypeImpl.hashCode  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method com.google.gson.GenericArrayTypeImpl.hashCode  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #com/google/gson/Gson/createExclusionStrategy:
 ## nodes: 4
@@ -176,11 +176,11 @@ Local DUA-Edge subsumption of method com.google.gson.GenericArrayTypeImpl.hashCo
 ## DUAs: 5
 ## Subsumed DUAs: 5
 ## Edge DUA coverage: 100.0
-@@ com.google.gson.Gson.createExclusionStrategy,4,4,5,5,100.0,0,0
+@@ com.google.gson.Gson.createExclusionStrategy,4,4,5,5,100.0,0,1
 
 
 #com/google/gson/Gson/createExclusionStrategy:
-Local DUA-Edge subsumption of method com.google.gson.Gson.createExclusionStrategy  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method com.google.gson.Gson.createExclusionStrategy  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #com/google/gson/Gson/toJsonTree:
 ## nodes: 4
@@ -188,11 +188,11 @@ Local DUA-Edge subsumption of method com.google.gson.Gson.createExclusionStrateg
 ## DUAs: 4
 ## Subsumed DUAs: 4
 ## Edge DUA coverage: 100.0
-@@ com.google.gson.Gson.toJsonTree,4,4,4,4,100.0,0,1
+@@ com.google.gson.Gson.toJsonTree,4,4,4,4,100.0,0,0
 
 
 #com/google/gson/Gson/toJsonTree:
-Local DUA-Edge subsumption of method com.google.gson.Gson.toJsonTree  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method com.google.gson.Gson.toJsonTree  calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/google/gson/Gson/toJsonTree:
 ## nodes: 4
@@ -236,11 +236,11 @@ Local DUA-Edge subsumption of method com.google.gson.Gson.toJson  calculated in 
 ## DUAs: 14
 ## Subsumed DUAs: 14
 ## Edge DUA coverage: 100.0
-@@ com.google.gson.Gson.toJson,6,7,14,14,100.0,0,0
+@@ com.google.gson.Gson.toJson,6,7,14,14,100.0,0,1
 
 
 #com/google/gson/Gson/toJson:
-Local DUA-Edge subsumption of method com.google.gson.Gson.toJson  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method com.google.gson.Gson.toJson  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #com/google/gson/Gson/fromJson:
 ## nodes: 4
@@ -248,11 +248,11 @@ Local DUA-Edge subsumption of method com.google.gson.Gson.toJson  calculated in 
 ## DUAs: 5
 ## Subsumed DUAs: 5
 ## Edge DUA coverage: 100.0
-@@ com.google.gson.Gson.fromJson,4,4,5,5,100.0,0,0
+@@ com.google.gson.Gson.fromJson,4,4,5,5,100.0,0,2
 
 
 #com/google/gson/Gson/fromJson:
-Local DUA-Edge subsumption of method com.google.gson.Gson.fromJson  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method com.google.gson.Gson.fromJson  calculated in 0 minutes, 0 seconds, and 2 milliseconds
 
 #com/google/gson/Gson/fromJson:
 ## nodes: 4
@@ -260,11 +260,11 @@ Local DUA-Edge subsumption of method com.google.gson.Gson.fromJson  calculated i
 ## DUAs: 8
 ## Subsumed DUAs: 8
 ## Edge DUA coverage: 100.0
-@@ com.google.gson.Gson.fromJson,4,4,8,8,100.0,0,0
+@@ com.google.gson.Gson.fromJson,4,4,8,8,100.0,0,1
 
 
 #com/google/gson/Gson/fromJson:
-Local DUA-Edge subsumption of method com.google.gson.Gson.fromJson  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method com.google.gson.Gson.fromJson  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #com/google/gson/TypeInfoArray/<init>:
 ## nodes: 5
@@ -272,11 +272,11 @@ Local DUA-Edge subsumption of method com.google.gson.Gson.fromJson  calculated i
 ## DUAs: 11
 ## Subsumed DUAs: 5
 ## Edge DUA coverage: 45.45454545454545
-@@ com.google.gson.TypeInfoArray.<init>,5,5,11,5,45.45454545454545,0,0
+@@ com.google.gson.TypeInfoArray.<init>,5,5,11,5,45.45454545454545,0,5
 
 
 #com/google/gson/TypeInfoArray/<init>:
-Local DUA-Edge subsumption of method com.google.gson.TypeInfoArray.<init>  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method com.google.gson.TypeInfoArray.<init>  calculated in 0 minutes, 0 seconds, and 5 milliseconds
 
 #com/google/gson/TypeInfoArray/extractSecondLevelType:
 ## nodes: 5
@@ -284,11 +284,11 @@ Local DUA-Edge subsumption of method com.google.gson.TypeInfoArray.<init>  calcu
 ## DUAs: 4
 ## Subsumed DUAs: 4
 ## Edge DUA coverage: 100.0
-@@ com.google.gson.TypeInfoArray.extractSecondLevelType,5,5,4,4,100.0,0,0
+@@ com.google.gson.TypeInfoArray.extractSecondLevelType,5,5,4,4,100.0,0,1
 
 
 #com/google/gson/TypeInfoArray/extractSecondLevelType:
-Local DUA-Edge subsumption of method com.google.gson.TypeInfoArray.extractSecondLevelType  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method com.google.gson.TypeInfoArray.extractSecondLevelType  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #com/google/gson/DefaultTypeAdapters$DefaultTimeTypeAdapter/deserialize:
 ## nodes: 4
@@ -308,11 +308,11 @@ Local DUA-Edge subsumption of method com.google.gson.DefaultTypeAdapters$Default
 ## DUAs: 7
 ## Subsumed DUAs: 7
 ## Edge DUA coverage: 100.0
-@@ com.google.gson.DisjunctionExclusionStrategy.shouldSkipField,7,8,7,7,100.0,0,0
+@@ com.google.gson.DisjunctionExclusionStrategy.shouldSkipField,7,8,7,7,100.0,0,1
 
 
 #com/google/gson/DisjunctionExclusionStrategy/shouldSkipField:
-Local DUA-Edge subsumption of method com.google.gson.DisjunctionExclusionStrategy.shouldSkipField  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method com.google.gson.DisjunctionExclusionStrategy.shouldSkipField  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #com/google/gson/DisjunctionExclusionStrategy/shouldSkipClass:
 ## nodes: 7
@@ -332,11 +332,11 @@ Local DUA-Edge subsumption of method com.google.gson.DisjunctionExclusionStrateg
 ## DUAs: 29
 ## Subsumed DUAs: 29
 ## Edge DUA coverage: 100.0
-@@ com.google.gson.ParameterizedTypeHandlerMap.registerForTypeHierarchy,8,10,29,29,100.0,0,1
+@@ com.google.gson.ParameterizedTypeHandlerMap.registerForTypeHierarchy,8,10,29,29,100.0,0,2
 
 
 #com/google/gson/ParameterizedTypeHandlerMap/registerForTypeHierarchy:
-Local DUA-Edge subsumption of method com.google.gson.ParameterizedTypeHandlerMap.registerForTypeHierarchy  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method com.google.gson.ParameterizedTypeHandlerMap.registerForTypeHierarchy  calculated in 0 minutes, 0 seconds, and 2 milliseconds
 
 #com/google/gson/ParameterizedTypeHandlerMap/getIndexOfAnOverriddenHandler:
 ## nodes: 7
@@ -368,11 +368,11 @@ Local DUA-Edge subsumption of method com.google.gson.ParameterizedTypeHandlerMap
 ## DUAs: 34
 ## Subsumed DUAs: 29
 ## Edge DUA coverage: 85.29411764705883
-@@ com.google.gson.ParameterizedTypeHandlerMap.registerIfAbsent,14,18,34,29,85.29411764705883,0,1
+@@ com.google.gson.ParameterizedTypeHandlerMap.registerIfAbsent,14,18,34,29,85.29411764705883,0,2
 
 
 #com/google/gson/ParameterizedTypeHandlerMap/registerIfAbsent:
-Local DUA-Edge subsumption of method com.google.gson.ParameterizedTypeHandlerMap.registerIfAbsent  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method com.google.gson.ParameterizedTypeHandlerMap.registerIfAbsent  calculated in 0 minutes, 0 seconds, and 2 milliseconds
 
 #com/google/gson/ParameterizedTypeHandlerMap/registerIfAbsent:
 ## nodes: 6
@@ -380,11 +380,11 @@ Local DUA-Edge subsumption of method com.google.gson.ParameterizedTypeHandlerMap
 ## DUAs: 13
 ## Subsumed DUAs: 13
 ## Edge DUA coverage: 100.0
-@@ com.google.gson.ParameterizedTypeHandlerMap.registerIfAbsent,6,7,13,13,100.0,0,1
+@@ com.google.gson.ParameterizedTypeHandlerMap.registerIfAbsent,6,7,13,13,100.0,0,0
 
 
 #com/google/gson/ParameterizedTypeHandlerMap/registerIfAbsent:
-Local DUA-Edge subsumption of method com.google.gson.ParameterizedTypeHandlerMap.registerIfAbsent  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method com.google.gson.ParameterizedTypeHandlerMap.registerIfAbsent  calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/google/gson/ParameterizedTypeHandlerMap/getHandlerFor:
 ## nodes: 7
@@ -392,11 +392,11 @@ Local DUA-Edge subsumption of method com.google.gson.ParameterizedTypeHandlerMap
 ## DUAs: 18
 ## Subsumed DUAs: 12
 ## Edge DUA coverage: 66.66666666666666
-@@ com.google.gson.ParameterizedTypeHandlerMap.getHandlerFor,7,9,18,12,66.66666666666666,0,0
+@@ com.google.gson.ParameterizedTypeHandlerMap.getHandlerFor,7,9,18,12,66.66666666666666,0,1
 
 
 #com/google/gson/ParameterizedTypeHandlerMap/getHandlerFor:
-Local DUA-Edge subsumption of method com.google.gson.ParameterizedTypeHandlerMap.getHandlerFor  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method com.google.gson.ParameterizedTypeHandlerMap.getHandlerFor  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #com/google/gson/ParameterizedTypeHandlerMap/getHandlerForTypeHierarchy:
 ## nodes: 7
@@ -404,11 +404,11 @@ Local DUA-Edge subsumption of method com.google.gson.ParameterizedTypeHandlerMap
 ## DUAs: 11
 ## Subsumed DUAs: 11
 ## Edge DUA coverage: 100.0
-@@ com.google.gson.ParameterizedTypeHandlerMap.getHandlerForTypeHierarchy,7,8,11,11,100.0,0,1
+@@ com.google.gson.ParameterizedTypeHandlerMap.getHandlerForTypeHierarchy,7,8,11,11,100.0,0,0
 
 
 #com/google/gson/ParameterizedTypeHandlerMap/getHandlerForTypeHierarchy:
-Local DUA-Edge subsumption of method com.google.gson.ParameterizedTypeHandlerMap.getHandlerForTypeHierarchy  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method com.google.gson.ParameterizedTypeHandlerMap.getHandlerForTypeHierarchy  calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/google/gson/ParameterizedTypeHandlerMap/getIndexOfSpecificHandlerForTypeHierarchy:
 ## nodes: 7
@@ -416,11 +416,11 @@ Local DUA-Edge subsumption of method com.google.gson.ParameterizedTypeHandlerMap
 ## DUAs: 18
 ## Subsumed DUAs: 9
 ## Edge DUA coverage: 50.0
-@@ com.google.gson.ParameterizedTypeHandlerMap.getIndexOfSpecificHandlerForTypeHierarchy,7,8,18,9,50.0,0,0
+@@ com.google.gson.ParameterizedTypeHandlerMap.getIndexOfSpecificHandlerForTypeHierarchy,7,8,18,9,50.0,0,1
 
 
 #com/google/gson/ParameterizedTypeHandlerMap/getIndexOfSpecificHandlerForTypeHierarchy:
-Local DUA-Edge subsumption of method com.google.gson.ParameterizedTypeHandlerMap.getIndexOfSpecificHandlerForTypeHierarchy  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method com.google.gson.ParameterizedTypeHandlerMap.getIndexOfSpecificHandlerForTypeHierarchy  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #com/google/gson/ParameterizedTypeHandlerMap/copyOf:
 ## nodes: 8
@@ -452,11 +452,11 @@ Local DUA-Edge subsumption of method com.google.gson.ParameterizedTypeHandlerMap
 ## DUAs: 5
 ## Subsumed DUAs: 5
 ## Edge DUA coverage: 100.0
-@@ com.google.gson.DefaultTypeAdapters$DefaultDateTypeAdapter.deserialize,4,4,5,5,100.0,0,0
+@@ com.google.gson.DefaultTypeAdapters$DefaultDateTypeAdapter.deserialize,4,4,5,5,100.0,0,1
 
 
 #com/google/gson/DefaultTypeAdapters$DefaultDateTypeAdapter/deserialize:
-Local DUA-Edge subsumption of method com.google.gson.DefaultTypeAdapters$DefaultDateTypeAdapter.deserialize  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method com.google.gson.DefaultTypeAdapters$DefaultDateTypeAdapter.deserialize  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #com/google/gson/TypeInfoFactory/getActualType:
 ## nodes: 19
@@ -476,11 +476,11 @@ Local DUA-Edge subsumption of method com.google.gson.TypeInfoFactory.getActualTy
 ## DUAs: 13
 ## Subsumed DUAs: 9
 ## Edge DUA coverage: 69.23076923076923
-@@ com.google.gson.TypeInfoFactory.extractRealTypes,5,5,13,9,69.23076923076923,0,1
+@@ com.google.gson.TypeInfoFactory.extractRealTypes,5,5,13,9,69.23076923076923,0,0
 
 
 #com/google/gson/TypeInfoFactory/extractRealTypes:
-Local DUA-Edge subsumption of method com.google.gson.TypeInfoFactory.extractRealTypes  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method com.google.gson.TypeInfoFactory.extractRealTypes  calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/google/gson/TypeInfoFactory/getIndex:
 ## nodes: 7
@@ -512,11 +512,11 @@ Local DUA-Edge subsumption of method com.google.gson.Pair.hashCode  calculated i
 ## DUAs: 19
 ## Subsumed DUAs: 19
 ## Edge DUA coverage: 100.0
-@@ com.google.gson.Pair.equals,8,10,19,19,100.0,0,0
+@@ com.google.gson.Pair.equals,8,10,19,19,100.0,0,1
 
 
 #com/google/gson/Pair/equals:
-Local DUA-Edge subsumption of method com.google.gson.Pair.equals  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method com.google.gson.Pair.equals  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #com/google/gson/Pair/equal:
 ## nodes: 7
@@ -524,11 +524,11 @@ Local DUA-Edge subsumption of method com.google.gson.Pair.equals  calculated in 
 ## DUAs: 10
 ## Subsumed DUAs: 10
 ## Edge DUA coverage: 100.0
-@@ com.google.gson.Pair.equal,7,9,10,10,100.0,0,0
+@@ com.google.gson.Pair.equal,7,9,10,10,100.0,0,1
 
 
 #com/google/gson/Pair/equal:
-Local DUA-Edge subsumption of method com.google.gson.Pair.equal  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method com.google.gson.Pair.equal  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #com/google/gson/JsonElement/getAsJsonObject:
 ## nodes: 4
@@ -548,11 +548,11 @@ Local DUA-Edge subsumption of method com.google.gson.JsonElement.getAsJsonObject
 ## DUAs: 3
 ## Subsumed DUAs: 3
 ## Edge DUA coverage: 100.0
-@@ com.google.gson.JsonElement.getAsJsonArray,4,4,3,3,100.0,0,0
+@@ com.google.gson.JsonElement.getAsJsonArray,4,4,3,3,100.0,0,1
 
 
 #com/google/gson/JsonElement/getAsJsonArray:
-Local DUA-Edge subsumption of method com.google.gson.JsonElement.getAsJsonArray  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method com.google.gson.JsonElement.getAsJsonArray  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #com/google/gson/JsonElement/getAsJsonPrimitive:
 ## nodes: 4
@@ -560,11 +560,11 @@ Local DUA-Edge subsumption of method com.google.gson.JsonElement.getAsJsonArray 
 ## DUAs: 3
 ## Subsumed DUAs: 3
 ## Edge DUA coverage: 100.0
-@@ com.google.gson.JsonElement.getAsJsonPrimitive,4,4,3,3,100.0,0,1
+@@ com.google.gson.JsonElement.getAsJsonPrimitive,4,4,3,3,100.0,0,0
 
 
 #com/google/gson/JsonElement/getAsJsonPrimitive:
-Local DUA-Edge subsumption of method com.google.gson.JsonElement.getAsJsonPrimitive  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method com.google.gson.JsonElement.getAsJsonPrimitive  calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/google/gson/JsonElement/getAsJsonNull:
 ## nodes: 4
@@ -572,11 +572,11 @@ Local DUA-Edge subsumption of method com.google.gson.JsonElement.getAsJsonPrimit
 ## DUAs: 3
 ## Subsumed DUAs: 3
 ## Edge DUA coverage: 100.0
-@@ com.google.gson.JsonElement.getAsJsonNull,4,4,3,3,100.0,0,0
+@@ com.google.gson.JsonElement.getAsJsonNull,4,4,3,3,100.0,0,1
 
 
 #com/google/gson/JsonElement/getAsJsonNull:
-Local DUA-Edge subsumption of method com.google.gson.JsonElement.getAsJsonNull  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method com.google.gson.JsonElement.getAsJsonNull  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #com/google/gson/SerializedNameAnnotationInterceptingNamingPolicy/translateName:
 ## nodes: 5
@@ -584,11 +584,11 @@ Local DUA-Edge subsumption of method com.google.gson.JsonElement.getAsJsonNull  
 ## DUAs: 7
 ## Subsumed DUAs: 7
 ## Edge DUA coverage: 100.0
-@@ com.google.gson.SerializedNameAnnotationInterceptingNamingPolicy.translateName,5,5,7,7,100.0,0,0
+@@ com.google.gson.SerializedNameAnnotationInterceptingNamingPolicy.translateName,5,5,7,7,100.0,0,1
 
 
 #com/google/gson/SerializedNameAnnotationInterceptingNamingPolicy/translateName:
-Local DUA-Edge subsumption of method com.google.gson.SerializedNameAnnotationInterceptingNamingPolicy.translateName  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method com.google.gson.SerializedNameAnnotationInterceptingNamingPolicy.translateName  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #com/google/gson/TypeInfoMap/<init>:
 ## nodes: 8
@@ -632,11 +632,11 @@ Local DUA-Edge subsumption of method com.google.gson.DefaultTypeAdapters$DoubleS
 ## DUAs: 6
 ## Subsumed DUAs: 6
 ## Edge DUA coverage: 100.0
-@@ com.google.gson.InnerClassExclusionStrategy.isInnerClass,6,7,6,6,100.0,0,1
+@@ com.google.gson.InnerClassExclusionStrategy.isInnerClass,6,7,6,6,100.0,0,0
 
 
 #com/google/gson/InnerClassExclusionStrategy/isInnerClass:
-Local DUA-Edge subsumption of method com.google.gson.InnerClassExclusionStrategy.isInnerClass  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method com.google.gson.InnerClassExclusionStrategy.isInnerClass  calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/google/gson/InnerClassExclusionStrategy/isStatic:
 ## nodes: 5
@@ -644,11 +644,11 @@ Local DUA-Edge subsumption of method com.google.gson.InnerClassExclusionStrategy
 ## DUAs: 2
 ## Subsumed DUAs: 2
 ## Edge DUA coverage: 100.0
-@@ com.google.gson.InnerClassExclusionStrategy.isStatic,5,5,2,2,100.0,0,0
+@@ com.google.gson.InnerClassExclusionStrategy.isStatic,5,5,2,2,100.0,0,1
 
 
 #com/google/gson/InnerClassExclusionStrategy/isStatic:
-Local DUA-Edge subsumption of method com.google.gson.InnerClassExclusionStrategy.isStatic  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method com.google.gson.InnerClassExclusionStrategy.isStatic  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #com/google/gson/LruCache/removeEldestEntry:
 ## nodes: 5
@@ -668,11 +668,11 @@ Local DUA-Edge subsumption of method com.google.gson.LruCache.removeEldestEntry 
 ## DUAs: 10
 ## Subsumed DUAs: 10
 ## Edge DUA coverage: 100.0
-@@ com.google.gson.JsonPrimitive.setValue,9,11,10,10,100.0,0,0
+@@ com.google.gson.JsonPrimitive.setValue,9,11,10,10,100.0,0,1
 
 
 #com/google/gson/JsonPrimitive/setValue:
-Local DUA-Edge subsumption of method com.google.gson.JsonPrimitive.setValue  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method com.google.gson.JsonPrimitive.setValue  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #com/google/gson/JsonPrimitive/getAsBoolean:
 ## nodes: 5
@@ -740,11 +740,11 @@ Local DUA-Edge subsumption of method com.google.gson.JsonPrimitive.getAsDouble  
 ## DUAs: 8
 ## Subsumed DUAs: 8
 ## Edge DUA coverage: 100.0
-@@ com.google.gson.JsonPrimitive.getAsBigDecimal,5,5,8,8,100.0,0,0
+@@ com.google.gson.JsonPrimitive.getAsBigDecimal,5,5,8,8,100.0,0,1
 
 
 #com/google/gson/JsonPrimitive/getAsBigDecimal:
-Local DUA-Edge subsumption of method com.google.gson.JsonPrimitive.getAsBigDecimal  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method com.google.gson.JsonPrimitive.getAsBigDecimal  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #com/google/gson/JsonPrimitive/getAsBigInteger:
 ## nodes: 5
@@ -752,11 +752,11 @@ Local DUA-Edge subsumption of method com.google.gson.JsonPrimitive.getAsBigDecim
 ## DUAs: 8
 ## Subsumed DUAs: 8
 ## Edge DUA coverage: 100.0
-@@ com.google.gson.JsonPrimitive.getAsBigInteger,5,5,8,8,100.0,0,0
+@@ com.google.gson.JsonPrimitive.getAsBigInteger,5,5,8,8,100.0,0,3
 
 
 #com/google/gson/JsonPrimitive/getAsBigInteger:
-Local DUA-Edge subsumption of method com.google.gson.JsonPrimitive.getAsBigInteger  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method com.google.gson.JsonPrimitive.getAsBigInteger  calculated in 0 minutes, 0 seconds, and 3 milliseconds
 
 #com/google/gson/JsonPrimitive/getAsFloat:
 ## nodes: 5
@@ -788,11 +788,11 @@ Local DUA-Edge subsumption of method com.google.gson.JsonPrimitive.getAsLong  ca
 ## DUAs: 3
 ## Subsumed DUAs: 3
 ## Edge DUA coverage: 100.0
-@@ com.google.gson.JsonPrimitive.getAsShort,5,5,3,3,100.0,0,1
+@@ com.google.gson.JsonPrimitive.getAsShort,5,5,3,3,100.0,0,0
 
 
 #com/google/gson/JsonPrimitive/getAsShort:
-Local DUA-Edge subsumption of method com.google.gson.JsonPrimitive.getAsShort  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method com.google.gson.JsonPrimitive.getAsShort  calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/google/gson/JsonPrimitive/getAsInt:
 ## nodes: 5
@@ -812,11 +812,11 @@ Local DUA-Edge subsumption of method com.google.gson.JsonPrimitive.getAsInt  cal
 ## DUAs: 3
 ## Subsumed DUAs: 3
 ## Edge DUA coverage: 100.0
-@@ com.google.gson.JsonPrimitive.getAsByte,5,5,3,3,100.0,0,1
+@@ com.google.gson.JsonPrimitive.getAsByte,5,5,3,3,100.0,0,0
 
 
 #com/google/gson/JsonPrimitive/getAsByte:
-Local DUA-Edge subsumption of method com.google.gson.JsonPrimitive.getAsByte  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method com.google.gson.JsonPrimitive.getAsByte  calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/google/gson/JsonPrimitive/getAsObject:
 ## nodes: 7
@@ -860,11 +860,11 @@ Local DUA-Edge subsumption of method com.google.gson.JsonPrimitive.isPrimitiveOr
 ## DUAs: 12
 ## Subsumed DUAs: 12
 ## Edge DUA coverage: 100.0
-@@ com.google.gson.JsonPrimitive.hashCode,8,10,12,12,100.0,0,1
+@@ com.google.gson.JsonPrimitive.hashCode,8,10,12,12,100.0,0,0
 
 
 #com/google/gson/JsonPrimitive/hashCode:
-Local DUA-Edge subsumption of method com.google.gson.JsonPrimitive.hashCode  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method com.google.gson.JsonPrimitive.hashCode  calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/google/gson/JsonPrimitive/equals:
 ## nodes: 24
@@ -884,11 +884,11 @@ Local DUA-Edge subsumption of method com.google.gson.JsonPrimitive.equals  calcu
 ## DUAs: 16
 ## Subsumed DUAs: 16
 ## Edge DUA coverage: 100.0
-@@ com.google.gson.JsonPrimitive.isIntegral,11,16,16,16,100.0,0,3
+@@ com.google.gson.JsonPrimitive.isIntegral,11,16,16,16,100.0,0,1
 
 
 #com/google/gson/JsonPrimitive/isIntegral:
-Local DUA-Edge subsumption of method com.google.gson.JsonPrimitive.isIntegral  calculated in 0 minutes, 0 seconds, and 3 milliseconds
+Local DUA-Edge subsumption of method com.google.gson.JsonPrimitive.isIntegral  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #com/google/gson/JsonPrimitive/isFloatingPoint:
 ## nodes: 9
@@ -896,11 +896,11 @@ Local DUA-Edge subsumption of method com.google.gson.JsonPrimitive.isIntegral  c
 ## DUAs: 12
 ## Subsumed DUAs: 12
 ## Edge DUA coverage: 100.0
-@@ com.google.gson.JsonPrimitive.isFloatingPoint,9,12,12,12,100.0,0,5
+@@ com.google.gson.JsonPrimitive.isFloatingPoint,9,12,12,12,100.0,0,0
 
 
 #com/google/gson/JsonPrimitive/isFloatingPoint:
-Local DUA-Edge subsumption of method com.google.gson.JsonPrimitive.isFloatingPoint  calculated in 0 minutes, 0 seconds, and 5 milliseconds
+Local DUA-Edge subsumption of method com.google.gson.JsonPrimitive.isFloatingPoint  calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/google/gson/Preconditions/checkNotNull:
 ## nodes: 5
@@ -932,11 +932,11 @@ Local DUA-Edge subsumption of method com.google.gson.Preconditions.checkArgument
 ## DUAs: 3
 ## Subsumed DUAs: 3
 ## Edge DUA coverage: 100.0
-@@ com.google.gson.Preconditions.checkState,4,4,3,3,100.0,0,1
+@@ com.google.gson.Preconditions.checkState,4,4,3,3,100.0,0,0
 
 
 #com/google/gson/Preconditions/checkState:
-Local DUA-Edge subsumption of method com.google.gson.Preconditions.checkState  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method com.google.gson.Preconditions.checkState  calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/google/gson/JsonObjectDeserializationVisitor/visitObjectField:
 ## nodes: 7
@@ -956,11 +956,11 @@ Local DUA-Edge subsumption of method com.google.gson.JsonObjectDeserializationVi
 ## DUAs: 18
 ## Subsumed DUAs: 18
 ## Edge DUA coverage: 100.0
-@@ com.google.gson.JsonObjectDeserializationVisitor.visitArrayField,7,8,18,18,100.0,0,0
+@@ com.google.gson.JsonObjectDeserializationVisitor.visitArrayField,7,8,18,18,100.0,0,1
 
 
 #com/google/gson/JsonObjectDeserializationVisitor/visitArrayField:
-Local DUA-Edge subsumption of method com.google.gson.JsonObjectDeserializationVisitor.visitArrayField  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method com.google.gson.JsonObjectDeserializationVisitor.visitArrayField  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #com/google/gson/JsonObjectDeserializationVisitor/visitFieldUsingCustomHandler:
 ## nodes: 15
@@ -968,11 +968,11 @@ Local DUA-Edge subsumption of method com.google.gson.JsonObjectDeserializationVi
 ## DUAs: 33
 ## Subsumed DUAs: 33
 ## Edge DUA coverage: 100.0
-@@ com.google.gson.JsonObjectDeserializationVisitor.visitFieldUsingCustomHandler,15,21,33,33,100.0,0,1
+@@ com.google.gson.JsonObjectDeserializationVisitor.visitFieldUsingCustomHandler,15,21,33,33,100.0,0,17
 
 
 #com/google/gson/JsonObjectDeserializationVisitor/visitFieldUsingCustomHandler:
-Local DUA-Edge subsumption of method com.google.gson.JsonObjectDeserializationVisitor.visitFieldUsingCustomHandler  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method com.google.gson.JsonObjectDeserializationVisitor.visitFieldUsingCustomHandler  calculated in 0 minutes, 0 seconds, and 17 milliseconds
 
 #com/google/gson/JsonObjectDeserializationVisitor/visitPrimitive:
 ## nodes: 4
@@ -980,11 +980,11 @@ Local DUA-Edge subsumption of method com.google.gson.JsonObjectDeserializationVi
 ## DUAs: 8
 ## Subsumed DUAs: 8
 ## Edge DUA coverage: 100.0
-@@ com.google.gson.JsonObjectDeserializationVisitor.visitPrimitive,4,4,8,8,100.0,0,5
+@@ com.google.gson.JsonObjectDeserializationVisitor.visitPrimitive,4,4,8,8,100.0,0,1
 
 
 #com/google/gson/JsonObjectDeserializationVisitor/visitPrimitive:
-Local DUA-Edge subsumption of method com.google.gson.JsonObjectDeserializationVisitor.visitPrimitive  calculated in 0 minutes, 0 seconds, and 5 milliseconds
+Local DUA-Edge subsumption of method com.google.gson.JsonObjectDeserializationVisitor.visitPrimitive  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #com/google/gson/DefaultTypeAdapters$FloatSerializer/serialize:
 ## nodes: 6
@@ -992,11 +992,11 @@ Local DUA-Edge subsumption of method com.google.gson.JsonObjectDeserializationVi
 ## DUAs: 10
 ## Subsumed DUAs: 10
 ## Edge DUA coverage: 100.0
-@@ com.google.gson.DefaultTypeAdapters$FloatSerializer.serialize,6,8,10,10,100.0,0,2
+@@ com.google.gson.DefaultTypeAdapters$FloatSerializer.serialize,6,8,10,10,100.0,0,0
 
 
 #com/google/gson/DefaultTypeAdapters$FloatSerializer/serialize:
-Local DUA-Edge subsumption of method com.google.gson.DefaultTypeAdapters$FloatSerializer.serialize  calculated in 0 minutes, 0 seconds, and 2 milliseconds
+Local DUA-Edge subsumption of method com.google.gson.DefaultTypeAdapters$FloatSerializer.serialize  calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/google/gson/Escaper/escapeJsonString:
 ## nodes: 18
@@ -1064,11 +1064,11 @@ Local DUA-Edge subsumption of method com.google.gson.JsonArrayDeserializationVis
 ## DUAs: 44
 ## Subsumed DUAs: 35
 ## Edge DUA coverage: 79.54545454545455
-@@ com.google.gson.JsonArrayDeserializationVisitor.visitArray,17,23,44,35,79.54545454545455,0,3
+@@ com.google.gson.JsonArrayDeserializationVisitor.visitArray,17,23,44,35,79.54545454545455,0,1
 
 
 #com/google/gson/JsonArrayDeserializationVisitor/visitArray:
-Local DUA-Edge subsumption of method com.google.gson.JsonArrayDeserializationVisitor.visitArray  calculated in 0 minutes, 0 seconds, and 3 milliseconds
+Local DUA-Edge subsumption of method com.google.gson.JsonArrayDeserializationVisitor.visitArray  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #com/google/gson/ModifyFirstLetterNamingPolicy/translateName:
 ## nodes: 18
@@ -1076,11 +1076,11 @@ Local DUA-Edge subsumption of method com.google.gson.JsonArrayDeserializationVis
 ## DUAs: 56
 ## Subsumed DUAs: 28
 ## Edge DUA coverage: 50.0
-@@ com.google.gson.ModifyFirstLetterNamingPolicy.translateName,18,25,56,28,50.0,0,1
+@@ com.google.gson.ModifyFirstLetterNamingPolicy.translateName,18,25,56,28,50.0,0,2
 
 
 #com/google/gson/ModifyFirstLetterNamingPolicy/translateName:
-Local DUA-Edge subsumption of method com.google.gson.ModifyFirstLetterNamingPolicy.translateName  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method com.google.gson.ModifyFirstLetterNamingPolicy.translateName  calculated in 0 minutes, 0 seconds, and 2 milliseconds
 
 #com/google/gson/ModifyFirstLetterNamingPolicy/modifyString:
 ## nodes: 5
@@ -1088,11 +1088,11 @@ Local DUA-Edge subsumption of method com.google.gson.ModifyFirstLetterNamingPoli
 ## DUAs: 5
 ## Subsumed DUAs: 5
 ## Edge DUA coverage: 100.0
-@@ com.google.gson.ModifyFirstLetterNamingPolicy.modifyString,5,5,5,5,100.0,0,1
+@@ com.google.gson.ModifyFirstLetterNamingPolicy.modifyString,5,5,5,5,100.0,0,0
 
 
 #com/google/gson/ModifyFirstLetterNamingPolicy/modifyString:
-Local DUA-Edge subsumption of method com.google.gson.ModifyFirstLetterNamingPolicy.modifyString  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method com.google.gson.ModifyFirstLetterNamingPolicy.modifyString  calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/google/gson/DefaultTypeAdapters$LocaleTypeAdapter/deserialize:
 ## nodes: 13
@@ -1112,11 +1112,11 @@ Local DUA-Edge subsumption of method com.google.gson.DefaultTypeAdapters$LocaleT
 ## DUAs: 6
 ## Subsumed DUAs: 6
 ## Edge DUA coverage: 100.0
-@@ com.google.gson.SyntheticFieldExclusionStrategy.shouldSkipField,6,7,6,6,100.0,0,1
+@@ com.google.gson.SyntheticFieldExclusionStrategy.shouldSkipField,6,7,6,6,100.0,0,0
 
 
 #com/google/gson/SyntheticFieldExclusionStrategy/shouldSkipField:
-Local DUA-Edge subsumption of method com.google.gson.SyntheticFieldExclusionStrategy.shouldSkipField  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method com.google.gson.SyntheticFieldExclusionStrategy.shouldSkipField  calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/google/gson/JsonDeserializationVisitor/getTarget:
 ## nodes: 4
@@ -1124,11 +1124,11 @@ Local DUA-Edge subsumption of method com.google.gson.SyntheticFieldExclusionStra
 ## DUAs: 8
 ## Subsumed DUAs: 7
 ## Edge DUA coverage: 87.5
-@@ com.google.gson.JsonDeserializationVisitor.getTarget,4,4,8,7,87.5,0,0
+@@ com.google.gson.JsonDeserializationVisitor.getTarget,4,4,8,7,87.5,0,1
 
 
 #com/google/gson/JsonDeserializationVisitor/getTarget:
-Local DUA-Edge subsumption of method com.google.gson.JsonDeserializationVisitor.getTarget  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method com.google.gson.JsonDeserializationVisitor.getTarget  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #com/google/gson/JsonDeserializationVisitor/visitUsingCustomHandler:
 ## nodes: 4
@@ -1136,11 +1136,11 @@ Local DUA-Edge subsumption of method com.google.gson.JsonDeserializationVisitor.
 ## DUAs: 5
 ## Subsumed DUAs: 5
 ## Edge DUA coverage: 100.0
-@@ com.google.gson.JsonDeserializationVisitor.visitUsingCustomHandler,4,4,5,5,100.0,0,0
+@@ com.google.gson.JsonDeserializationVisitor.visitUsingCustomHandler,4,4,5,5,100.0,0,1
 
 
 #com/google/gson/JsonDeserializationVisitor/visitUsingCustomHandler:
-Local DUA-Edge subsumption of method com.google.gson.JsonDeserializationVisitor.visitUsingCustomHandler  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method com.google.gson.JsonDeserializationVisitor.visitUsingCustomHandler  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #com/google/gson/JsonDeserializationVisitor/invokeCustomDeserializer:
 ## nodes: 5
@@ -1148,11 +1148,11 @@ Local DUA-Edge subsumption of method com.google.gson.JsonDeserializationVisitor.
 ## DUAs: 10
 ## Subsumed DUAs: 10
 ## Edge DUA coverage: 100.0
-@@ com.google.gson.JsonDeserializationVisitor.invokeCustomDeserializer,5,6,10,10,100.0,0,1
+@@ com.google.gson.JsonDeserializationVisitor.invokeCustomDeserializer,5,6,10,10,100.0,0,0
 
 
 #com/google/gson/JsonDeserializationVisitor/invokeCustomDeserializer:
-Local DUA-Edge subsumption of method com.google.gson.JsonDeserializationVisitor.invokeCustomDeserializer  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method com.google.gson.JsonDeserializationVisitor.invokeCustomDeserializer  calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/google/gson/Streams/parse:
 ## nodes: 15
@@ -1160,11 +1160,11 @@ Local DUA-Edge subsumption of method com.google.gson.JsonDeserializationVisitor.
 ## DUAs: 32
 ## Subsumed DUAs: 32
 ## Edge DUA coverage: 100.0
-@@ com.google.gson.Streams.parse,15,22,32,32,100.0,0,1
+@@ com.google.gson.Streams.parse,15,22,32,32,100.0,0,3
 
 
 #com/google/gson/Streams/parse:
-Local DUA-Edge subsumption of method com.google.gson.Streams.parse  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method com.google.gson.Streams.parse  calculated in 0 minutes, 0 seconds, and 3 milliseconds
 
 #com/google/gson/Streams/write:
 ## nodes: 29
@@ -1172,11 +1172,11 @@ Local DUA-Edge subsumption of method com.google.gson.Streams.parse  calculated i
 ## DUAs: 51
 ## Subsumed DUAs: 51
 ## Edge DUA coverage: 100.0
-@@ com.google.gson.Streams.write,29,41,51,51,100.0,0,1
+@@ com.google.gson.Streams.write,29,41,51,51,100.0,0,2
 
 
 #com/google/gson/Streams/write:
-Local DUA-Edge subsumption of method com.google.gson.Streams.write  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method com.google.gson.Streams.write  calculated in 0 minutes, 0 seconds, and 2 milliseconds
 
 #com/google/gson/Streams/writerForAppendable:
 ## nodes: 5
@@ -1196,11 +1196,11 @@ Local DUA-Edge subsumption of method com.google.gson.Streams.writerForAppendable
 ## DUAs: 4
 ## Subsumed DUAs: 4
 ## Edge DUA coverage: 100.0
-@@ com.google.gson.ExposeAnnotationDeserializationExclusionStrategy.shouldSkipField,7,8,4,4,100.0,0,1
+@@ com.google.gson.ExposeAnnotationDeserializationExclusionStrategy.shouldSkipField,7,8,4,4,100.0,0,0
 
 
 #com/google/gson/ExposeAnnotationDeserializationExclusionStrategy/shouldSkipField:
-Local DUA-Edge subsumption of method com.google.gson.ExposeAnnotationDeserializationExclusionStrategy.shouldSkipField  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method com.google.gson.ExposeAnnotationDeserializationExclusionStrategy.shouldSkipField  calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/google/gson/ExposeAnnotationSerializationExclusionStrategy/shouldSkipField:
 ## nodes: 7
@@ -1208,11 +1208,11 @@ Local DUA-Edge subsumption of method com.google.gson.ExposeAnnotationDeserializa
 ## DUAs: 4
 ## Subsumed DUAs: 4
 ## Edge DUA coverage: 100.0
-@@ com.google.gson.ExposeAnnotationSerializationExclusionStrategy.shouldSkipField,7,8,4,4,100.0,0,0
+@@ com.google.gson.ExposeAnnotationSerializationExclusionStrategy.shouldSkipField,7,8,4,4,100.0,0,123
 
 
 #com/google/gson/ExposeAnnotationSerializationExclusionStrategy/shouldSkipField:
-Local DUA-Edge subsumption of method com.google.gson.ExposeAnnotationSerializationExclusionStrategy.shouldSkipField  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method com.google.gson.ExposeAnnotationSerializationExclusionStrategy.shouldSkipField  calculated in 0 minutes, 0 seconds, and 123 milliseconds
 
 #com/google/gson/CamelCaseSeparatorNamingPolicy/<init>:
 ## nodes: 5
@@ -1256,11 +1256,11 @@ Local DUA-Edge subsumption of method com.google.gson.ObjectNavigator.accept  cal
 ## DUAs: 6
 ## Subsumed DUAs: 6
 ## Edge DUA coverage: 100.0
-@@ com.google.gson.ObjectNavigator.isPrimitiveOrString,7,9,6,6,100.0,0,1
+@@ com.google.gson.ObjectNavigator.isPrimitiveOrString,7,9,6,6,100.0,0,0
 
 
 #com/google/gson/ObjectNavigator/isPrimitiveOrString:
-Local DUA-Edge subsumption of method com.google.gson.ObjectNavigator.isPrimitiveOrString  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method com.google.gson.ObjectNavigator.isPrimitiveOrString  calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/google/gson/ObjectNavigator/navigateClassFields:
 ## nodes: 12
@@ -1280,11 +1280,11 @@ Local DUA-Edge subsumption of method com.google.gson.ObjectNavigator.navigateCla
 ## DUAs: 14
 ## Subsumed DUAs: 10
 ## Edge DUA coverage: 71.42857142857143
-@@ com.google.gson.ModifierBasedExclusionStrategy.<init>,6,7,14,10,71.42857142857143,0,0
+@@ com.google.gson.ModifierBasedExclusionStrategy.<init>,6,7,14,10,71.42857142857143,0,3
 
 
 #com/google/gson/ModifierBasedExclusionStrategy/<init>:
-Local DUA-Edge subsumption of method com.google.gson.ModifierBasedExclusionStrategy.<init>  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method com.google.gson.ModifierBasedExclusionStrategy.<init>  calculated in 0 minutes, 0 seconds, and 3 milliseconds
 
 #com/google/gson/ModifierBasedExclusionStrategy/shouldSkipField:
 ## nodes: 7
@@ -1292,11 +1292,11 @@ Local DUA-Edge subsumption of method com.google.gson.ModifierBasedExclusionStrat
 ## DUAs: 7
 ## Subsumed DUAs: 7
 ## Edge DUA coverage: 100.0
-@@ com.google.gson.ModifierBasedExclusionStrategy.shouldSkipField,7,8,7,7,100.0,0,0
+@@ com.google.gson.ModifierBasedExclusionStrategy.shouldSkipField,7,8,7,7,100.0,0,1
 
 
 #com/google/gson/ModifierBasedExclusionStrategy/shouldSkipField:
-Local DUA-Edge subsumption of method com.google.gson.ModifierBasedExclusionStrategy.shouldSkipField  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method com.google.gson.ModifierBasedExclusionStrategy.shouldSkipField  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #com/google/gson/DefaultTypeAdapters$MapTypeAdapter/serialize:
 ## nodes: 13
@@ -1304,11 +1304,11 @@ Local DUA-Edge subsumption of method com.google.gson.ModifierBasedExclusionStrat
 ## DUAs: 22
 ## Subsumed DUAs: 14
 ## Edge DUA coverage: 63.63636363636363
-@@ com.google.gson.DefaultTypeAdapters$MapTypeAdapter.serialize,13,16,22,14,63.63636363636363,0,0
+@@ com.google.gson.DefaultTypeAdapters$MapTypeAdapter.serialize,13,16,22,14,63.63636363636363,0,1
 
 
 #com/google/gson/DefaultTypeAdapters$MapTypeAdapter/serialize:
-Local DUA-Edge subsumption of method com.google.gson.DefaultTypeAdapters$MapTypeAdapter.serialize  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method com.google.gson.DefaultTypeAdapters$MapTypeAdapter.serialize  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #com/google/gson/DefaultTypeAdapters$MapTypeAdapter/deserialize:
 ## nodes: 5
@@ -1316,11 +1316,11 @@ Local DUA-Edge subsumption of method com.google.gson.DefaultTypeAdapters$MapType
 ## DUAs: 7
 ## Subsumed DUAs: 7
 ## Edge DUA coverage: 100.0
-@@ com.google.gson.DefaultTypeAdapters$MapTypeAdapter.deserialize,5,5,7,7,100.0,0,1
+@@ com.google.gson.DefaultTypeAdapters$MapTypeAdapter.deserialize,5,5,7,7,100.0,0,0
 
 
 #com/google/gson/DefaultTypeAdapters$MapTypeAdapter/deserialize:
-Local DUA-Edge subsumption of method com.google.gson.DefaultTypeAdapters$MapTypeAdapter.deserialize  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method com.google.gson.DefaultTypeAdapters$MapTypeAdapter.deserialize  calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/google/gson/MemoryRefStack/contains:
 ## nodes: 10
@@ -1340,11 +1340,11 @@ Local DUA-Edge subsumption of method com.google.gson.MemoryRefStack.contains  ca
 ## DUAs: 6
 ## Subsumed DUAs: 6
 ## Edge DUA coverage: 100.0
-@@ com.google.gson.MappedObjectConstructor.construct,4,4,6,6,100.0,0,1
+@@ com.google.gson.MappedObjectConstructor.construct,4,4,6,6,100.0,0,0
 
 
 #com/google/gson/MappedObjectConstructor/construct:
-Local DUA-Edge subsumption of method com.google.gson.MappedObjectConstructor.construct  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method com.google.gson.MappedObjectConstructor.construct  calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/google/gson/MappedObjectConstructor/constructWithNoArgConstructor:
 ## nodes: 4
@@ -1364,11 +1364,11 @@ Local DUA-Edge subsumption of method com.google.gson.MappedObjectConstructor.con
 ## DUAs: 14
 ## Subsumed DUAs: 9
 ## Edge DUA coverage: 64.28571428571429
-@@ com.google.gson.MappedObjectConstructor.getNoArgsConstructor,7,8,14,9,64.28571428571429,0,0
+@@ com.google.gson.MappedObjectConstructor.getNoArgsConstructor,7,8,14,9,64.28571428571429,0,1
 
 
 #com/google/gson/MappedObjectConstructor/getNoArgsConstructor:
-Local DUA-Edge subsumption of method com.google.gson.MappedObjectConstructor.getNoArgsConstructor  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method com.google.gson.MappedObjectConstructor.getNoArgsConstructor  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #com/google/gson/MappedObjectConstructor/register:
 ## nodes: 4
@@ -1376,11 +1376,11 @@ Local DUA-Edge subsumption of method com.google.gson.MappedObjectConstructor.get
 ## DUAs: 13
 ## Subsumed DUAs: 13
 ## Edge DUA coverage: 100.0
-@@ com.google.gson.MappedObjectConstructor.register,4,4,13,13,100.0,0,0
+@@ com.google.gson.MappedObjectConstructor.register,4,4,13,13,100.0,0,1
 
 
 #com/google/gson/MappedObjectConstructor/register:
-Local DUA-Edge subsumption of method com.google.gson.MappedObjectConstructor.register  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method com.google.gson.MappedObjectConstructor.register  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #com/google/gson/JsonFieldNameValidator/validate:
 ## nodes: 7
@@ -1388,11 +1388,11 @@ Local DUA-Edge subsumption of method com.google.gson.MappedObjectConstructor.reg
 ## DUAs: 8
 ## Subsumed DUAs: 8
 ## Edge DUA coverage: 100.0
-@@ com.google.gson.JsonFieldNameValidator.validate,7,8,8,8,100.0,0,0
+@@ com.google.gson.JsonFieldNameValidator.validate,7,8,8,8,100.0,0,1
 
 
 #com/google/gson/JsonFieldNameValidator/validate:
-Local DUA-Edge subsumption of method com.google.gson.JsonFieldNameValidator.validate  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method com.google.gson.JsonFieldNameValidator.validate  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #com/google/gson/JsonSerializationVisitor/start:
 ## nodes: 6
@@ -1436,11 +1436,11 @@ Local DUA-Edge subsumption of method com.google.gson.JsonSerializationVisitor.vi
 ## DUAs: 16
 ## Subsumed DUAs: 16
 ## Edge DUA coverage: 100.0
-@@ com.google.gson.JsonSerializationVisitor.visitArrayField,6,7,16,16,100.0,0,1
+@@ com.google.gson.JsonSerializationVisitor.visitArrayField,6,7,16,16,100.0,0,0
 
 
 #com/google/gson/JsonSerializationVisitor/visitArrayField:
-Local DUA-Edge subsumption of method com.google.gson.JsonSerializationVisitor.visitArrayField  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method com.google.gson.JsonSerializationVisitor.visitArrayField  calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/google/gson/JsonSerializationVisitor/visitObjectField:
 ## nodes: 6
@@ -1472,11 +1472,11 @@ Local DUA-Edge subsumption of method com.google.gson.JsonSerializationVisitor.vi
 ## DUAs: 7
 ## Subsumed DUAs: 7
 ## Edge DUA coverage: 100.0
-@@ com.google.gson.JsonSerializationVisitor.addAsArrayElement,5,5,7,7,100.0,0,1
+@@ com.google.gson.JsonSerializationVisitor.addAsArrayElement,5,5,7,7,100.0,0,0
 
 
 #com/google/gson/JsonSerializationVisitor/addAsArrayElement:
-Local DUA-Edge subsumption of method com.google.gson.JsonSerializationVisitor.addAsArrayElement  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method com.google.gson.JsonSerializationVisitor.addAsArrayElement  calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/google/gson/JsonSerializationVisitor/visitUsingCustomHandler:
 ## nodes: 8
@@ -1484,11 +1484,11 @@ Local DUA-Edge subsumption of method com.google.gson.JsonSerializationVisitor.ad
 ## DUAs: 13
 ## Subsumed DUAs: 13
 ## Edge DUA coverage: 100.0
-@@ com.google.gson.JsonSerializationVisitor.visitUsingCustomHandler,8,10,13,13,100.0,0,0
+@@ com.google.gson.JsonSerializationVisitor.visitUsingCustomHandler,8,10,13,13,100.0,0,3
 
 
 #com/google/gson/JsonSerializationVisitor/visitUsingCustomHandler:
-Local DUA-Edge subsumption of method com.google.gson.JsonSerializationVisitor.visitUsingCustomHandler  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method com.google.gson.JsonSerializationVisitor.visitUsingCustomHandler  calculated in 0 minutes, 0 seconds, and 3 milliseconds
 
 #com/google/gson/JsonSerializationVisitor/findAndInvokeCustomSerializer:
 ## nodes: 7
@@ -1496,11 +1496,11 @@ Local DUA-Edge subsumption of method com.google.gson.JsonSerializationVisitor.vi
 ## DUAs: 12
 ## Subsumed DUAs: 12
 ## Edge DUA coverage: 100.0
-@@ com.google.gson.JsonSerializationVisitor.findAndInvokeCustomSerializer,7,8,12,12,100.0,0,1
+@@ com.google.gson.JsonSerializationVisitor.findAndInvokeCustomSerializer,7,8,12,12,100.0,0,0
 
 
 #com/google/gson/JsonSerializationVisitor/findAndInvokeCustomSerializer:
-Local DUA-Edge subsumption of method com.google.gson.JsonSerializationVisitor.findAndInvokeCustomSerializer  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method com.google.gson.JsonSerializationVisitor.findAndInvokeCustomSerializer  calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/google/gson/JsonSerializationVisitor/visitFieldUsingCustomHandler:
 ## nodes: 8
@@ -1508,11 +1508,11 @@ Local DUA-Edge subsumption of method com.google.gson.JsonSerializationVisitor.fi
 ## DUAs: 16
 ## Subsumed DUAs: 16
 ## Edge DUA coverage: 100.0
-@@ com.google.gson.JsonSerializationVisitor.visitFieldUsingCustomHandler,8,10,16,16,100.0,0,1
+@@ com.google.gson.JsonSerializationVisitor.visitFieldUsingCustomHandler,8,10,16,16,100.0,0,0
 
 
 #com/google/gson/JsonSerializationVisitor/visitFieldUsingCustomHandler:
-Local DUA-Edge subsumption of method com.google.gson.JsonSerializationVisitor.visitFieldUsingCustomHandler  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method com.google.gson.JsonSerializationVisitor.visitFieldUsingCustomHandler  calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/google/gson/JsonSerializationVisitor/isFieldNull:
 ## nodes: 5
@@ -1532,11 +1532,11 @@ Local DUA-Edge subsumption of method com.google.gson.JsonSerializationVisitor.is
 ## DUAs: 4
 ## Subsumed DUAs: 4
 ## Edge DUA coverage: 100.0
-@@ com.google.gson.Primitives.wrap,5,5,4,4,100.0,0,0
+@@ com.google.gson.Primitives.wrap,5,5,4,4,100.0,0,1
 
 
 #com/google/gson/Primitives/wrap:
-Local DUA-Edge subsumption of method com.google.gson.Primitives.wrap  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method com.google.gson.Primitives.wrap  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #com/google/gson/Primitives/unwrap:
 ## nodes: 5
@@ -1544,11 +1544,11 @@ Local DUA-Edge subsumption of method com.google.gson.Primitives.wrap  calculated
 ## DUAs: 4
 ## Subsumed DUAs: 4
 ## Edge DUA coverage: 100.0
-@@ com.google.gson.Primitives.unwrap,5,5,4,4,100.0,0,0
+@@ com.google.gson.Primitives.unwrap,5,5,4,4,100.0,0,1
 
 
 #com/google/gson/Primitives/unwrap:
-Local DUA-Edge subsumption of method com.google.gson.Primitives.unwrap  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method com.google.gson.Primitives.unwrap  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #com/google/gson/JsonSerializationContextDefault/serialize:
 ## nodes: 4
@@ -1556,11 +1556,11 @@ Local DUA-Edge subsumption of method com.google.gson.Primitives.unwrap  calculat
 ## DUAs: 4
 ## Subsumed DUAs: 4
 ## Edge DUA coverage: 100.0
-@@ com.google.gson.JsonSerializationContextDefault.serialize,4,4,4,4,100.0,0,0
+@@ com.google.gson.JsonSerializationContextDefault.serialize,4,4,4,4,100.0,0,1
 
 
 #com/google/gson/JsonSerializationContextDefault/serialize:
-Local DUA-Edge subsumption of method com.google.gson.JsonSerializationContextDefault.serialize  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method com.google.gson.JsonSerializationContextDefault.serialize  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #com/google/gson/CompositionFieldNamingPolicy/<init>:
 ## nodes: 4
@@ -1568,11 +1568,11 @@ Local DUA-Edge subsumption of method com.google.gson.JsonSerializationContextDef
 ## DUAs: 4
 ## Subsumed DUAs: 4
 ## Edge DUA coverage: 100.0
-@@ com.google.gson.CompositionFieldNamingPolicy.<init>,4,4,4,4,100.0,0,0
+@@ com.google.gson.CompositionFieldNamingPolicy.<init>,4,4,4,4,100.0,0,1
 
 
 #com/google/gson/CompositionFieldNamingPolicy/<init>:
-Local DUA-Edge subsumption of method com.google.gson.CompositionFieldNamingPolicy.<init>  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method com.google.gson.CompositionFieldNamingPolicy.<init>  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #com/google/gson/CompositionFieldNamingPolicy/translateName:
 ## nodes: 5
@@ -1604,11 +1604,11 @@ Local DUA-Edge subsumption of method com.google.gson.JsonArray.add  calculated i
 ## DUAs: 6
 ## Subsumed DUAs: 6
 ## Edge DUA coverage: 100.0
-@@ com.google.gson.JsonArray.getAsNumber,4,4,6,6,100.0,0,1
+@@ com.google.gson.JsonArray.getAsNumber,4,4,6,6,100.0,0,0
 
 
 #com/google/gson/JsonArray/getAsNumber:
-Local DUA-Edge subsumption of method com.google.gson.JsonArray.getAsNumber  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method com.google.gson.JsonArray.getAsNumber  calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/google/gson/JsonArray/getAsString:
 ## nodes: 4
@@ -1664,11 +1664,11 @@ Local DUA-Edge subsumption of method com.google.gson.JsonArray.getAsBigInteger  
 ## DUAs: 6
 ## Subsumed DUAs: 6
 ## Edge DUA coverage: 100.0
-@@ com.google.gson.JsonArray.getAsFloat,4,4,6,6,100.0,0,1
+@@ com.google.gson.JsonArray.getAsFloat,4,4,6,6,100.0,0,0
 
 
 #com/google/gson/JsonArray/getAsFloat:
-Local DUA-Edge subsumption of method com.google.gson.JsonArray.getAsFloat  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method com.google.gson.JsonArray.getAsFloat  calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/google/gson/JsonArray/getAsLong:
 ## nodes: 4
@@ -1676,11 +1676,11 @@ Local DUA-Edge subsumption of method com.google.gson.JsonArray.getAsFloat  calcu
 ## DUAs: 6
 ## Subsumed DUAs: 6
 ## Edge DUA coverage: 100.0
-@@ com.google.gson.JsonArray.getAsLong,4,4,6,6,100.0,0,1
+@@ com.google.gson.JsonArray.getAsLong,4,4,6,6,100.0,0,0
 
 
 #com/google/gson/JsonArray/getAsLong:
-Local DUA-Edge subsumption of method com.google.gson.JsonArray.getAsLong  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method com.google.gson.JsonArray.getAsLong  calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/google/gson/JsonArray/getAsInt:
 ## nodes: 4
@@ -1712,11 +1712,11 @@ Local DUA-Edge subsumption of method com.google.gson.JsonArray.getAsByte  calcul
 ## DUAs: 6
 ## Subsumed DUAs: 6
 ## Edge DUA coverage: 100.0
-@@ com.google.gson.JsonArray.getAsCharacter,4,4,6,6,100.0,0,1
+@@ com.google.gson.JsonArray.getAsCharacter,4,4,6,6,100.0,0,0
 
 
 #com/google/gson/JsonArray/getAsCharacter:
-Local DUA-Edge subsumption of method com.google.gson.JsonArray.getAsCharacter  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method com.google.gson.JsonArray.getAsCharacter  calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/google/gson/JsonArray/getAsShort:
 ## nodes: 4
@@ -1760,11 +1760,11 @@ Local DUA-Edge subsumption of method com.google.gson.JsonArray.getAsObject  calc
 ## DUAs: 12
 ## Subsumed DUAs: 9
 ## Edge DUA coverage: 75.0
-@@ com.google.gson.JsonArray.toString,8,9,12,9,75.0,0,0
+@@ com.google.gson.JsonArray.toString,8,9,12,9,75.0,0,1
 
 
 #com/google/gson/JsonArray/toString:
-Local DUA-Edge subsumption of method com.google.gson.JsonArray.toString  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method com.google.gson.JsonArray.toString  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #com/google/gson/DefaultTypeAdapters$CollectionTypeAdapter/serialize:
 ## nodes: 16
@@ -1772,11 +1772,11 @@ Local DUA-Edge subsumption of method com.google.gson.JsonArray.toString  calcula
 ## DUAs: 26
 ## Subsumed DUAs: 16
 ## Edge DUA coverage: 61.53846153846154
-@@ com.google.gson.DefaultTypeAdapters$CollectionTypeAdapter.serialize,16,21,26,16,61.53846153846154,0,1
+@@ com.google.gson.DefaultTypeAdapters$CollectionTypeAdapter.serialize,16,21,26,16,61.53846153846154,0,0
 
 
 #com/google/gson/DefaultTypeAdapters$CollectionTypeAdapter/serialize:
-Local DUA-Edge subsumption of method com.google.gson.DefaultTypeAdapters$CollectionTypeAdapter.serialize  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method com.google.gson.DefaultTypeAdapters$CollectionTypeAdapter.serialize  calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/google/gson/DefaultTypeAdapters$CollectionTypeAdapter/deserialize:
 ## nodes: 11
@@ -1784,11 +1784,11 @@ Local DUA-Edge subsumption of method com.google.gson.DefaultTypeAdapters$Collect
 ## DUAs: 19
 ## Subsumed DUAs: 19
 ## Edge DUA coverage: 100.0
-@@ com.google.gson.DefaultTypeAdapters$CollectionTypeAdapter.deserialize,11,14,19,19,100.0,0,0
+@@ com.google.gson.DefaultTypeAdapters$CollectionTypeAdapter.deserialize,11,14,19,19,100.0,0,1
 
 
 #com/google/gson/DefaultTypeAdapters$CollectionTypeAdapter/deserialize:
-Local DUA-Edge subsumption of method com.google.gson.DefaultTypeAdapters$CollectionTypeAdapter.deserialize  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method com.google.gson.DefaultTypeAdapters$CollectionTypeAdapter.deserialize  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #com/google/gson/AnonymousAndLocalClassExclusionStrategy/isAnonymousOrLocal:
 ## nodes: 7
@@ -1808,11 +1808,11 @@ Local DUA-Edge subsumption of method com.google.gson.AnonymousAndLocalClassExclu
 ## DUAs: 5
 ## Subsumed DUAs: 5
 ## Edge DUA coverage: 100.0
-@@ com.google.gson.DefaultTypeAdapters$DefaultJavaSqlDateTypeAdapter.deserialize,4,4,5,5,100.0,0,1
+@@ com.google.gson.DefaultTypeAdapters$DefaultJavaSqlDateTypeAdapter.deserialize,4,4,5,5,100.0,0,0
 
 
 #com/google/gson/DefaultTypeAdapters$DefaultJavaSqlDateTypeAdapter/deserialize:
-Local DUA-Edge subsumption of method com.google.gson.DefaultTypeAdapters$DefaultJavaSqlDateTypeAdapter.deserialize  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method com.google.gson.DefaultTypeAdapters$DefaultJavaSqlDateTypeAdapter.deserialize  calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/google/gson/ParameterizedTypeImpl/equals:
 ## nodes: 17
@@ -1832,11 +1832,11 @@ Local DUA-Edge subsumption of method com.google.gson.ParameterizedTypeImpl.equal
 ## DUAs: 12
 ## Subsumed DUAs: 12
 ## Edge DUA coverage: 100.0
-@@ com.google.gson.ParameterizedTypeImpl.hashCode,8,9,12,12,100.0,0,0
+@@ com.google.gson.ParameterizedTypeImpl.hashCode,8,9,12,12,100.0,0,1
 
 
 #com/google/gson/ParameterizedTypeImpl/hashCode:
-Local DUA-Edge subsumption of method com.google.gson.ParameterizedTypeImpl.hashCode  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method com.google.gson.ParameterizedTypeImpl.hashCode  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #com/google/gson/GsonBuilder/setExclusionStrategies:
 ## nodes: 5
@@ -1868,11 +1868,11 @@ Local DUA-Edge subsumption of method com.google.gson.GsonBuilder.registerTypeAda
 ## DUAs: 22
 ## Subsumed DUAs: 22
 ## Edge DUA coverage: 100.0
-@@ com.google.gson.GsonBuilder.registerTypeHierarchyAdapter,13,18,22,22,100.0,0,0
+@@ com.google.gson.GsonBuilder.registerTypeHierarchyAdapter,13,18,22,22,100.0,0,1
 
 
 #com/google/gson/GsonBuilder/registerTypeHierarchyAdapter:
-Local DUA-Edge subsumption of method com.google.gson.GsonBuilder.registerTypeHierarchyAdapter  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method com.google.gson.GsonBuilder.registerTypeHierarchyAdapter  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #com/google/gson/GsonBuilder/create:
 ## nodes: 8
@@ -1892,11 +1892,11 @@ Local DUA-Edge subsumption of method com.google.gson.GsonBuilder.create  calcula
 ## DUAs: 29
 ## Subsumed DUAs: 17
 ## Edge DUA coverage: 58.620689655172406
-@@ com.google.gson.GsonBuilder.addTypeAdaptersForDate,13,19,29,17,58.620689655172406,0,0
+@@ com.google.gson.GsonBuilder.addTypeAdaptersForDate,13,19,29,17,58.620689655172406,0,3
 
 
 #com/google/gson/GsonBuilder/addTypeAdaptersForDate:
-Local DUA-Edge subsumption of method com.google.gson.GsonBuilder.addTypeAdaptersForDate  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method com.google.gson.GsonBuilder.addTypeAdaptersForDate  calculated in 0 minutes, 0 seconds, and 3 milliseconds
 
 #com/google/gson/ObjectTypePair/getMatchingHandler:
 ## nodes: 9
@@ -1916,11 +1916,11 @@ Local DUA-Edge subsumption of method com.google.gson.ObjectTypePair.getMatchingH
 ## DUAs: 23
 ## Subsumed DUAs: 23
 ## Edge DUA coverage: 100.0
-@@ com.google.gson.ObjectTypePair.toMoreSpecificType,7,9,23,23,100.0,0,1
+@@ com.google.gson.ObjectTypePair.toMoreSpecificType,7,9,23,23,100.0,0,0
 
 
 #com/google/gson/ObjectTypePair/toMoreSpecificType:
-Local DUA-Edge subsumption of method com.google.gson.ObjectTypePair.toMoreSpecificType  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method com.google.gson.ObjectTypePair.toMoreSpecificType  calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/google/gson/ObjectTypePair/getActualTypeIfMoreSpecific:
 ## nodes: 7
@@ -1928,11 +1928,11 @@ Local DUA-Edge subsumption of method com.google.gson.ObjectTypePair.toMoreSpecif
 ## DUAs: 16
 ## Subsumed DUAs: 10
 ## Edge DUA coverage: 62.5
-@@ com.google.gson.ObjectTypePair.getActualTypeIfMoreSpecific,7,9,16,10,62.5,0,1
+@@ com.google.gson.ObjectTypePair.getActualTypeIfMoreSpecific,7,9,16,10,62.5,0,2
 
 
 #com/google/gson/ObjectTypePair/getActualTypeIfMoreSpecific:
-Local DUA-Edge subsumption of method com.google.gson.ObjectTypePair.getActualTypeIfMoreSpecific  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method com.google.gson.ObjectTypePair.getActualTypeIfMoreSpecific  calculated in 0 minutes, 0 seconds, and 2 milliseconds
 
 #com/google/gson/ObjectTypePair/hashCode:
 ## nodes: 5
@@ -1976,11 +1976,11 @@ Local DUA-Edge subsumption of method com.google.gson.TypeInfoCollection.<init>  
 ## DUAs: 9
 ## Subsumed DUAs: 8
 ## Edge DUA coverage: 88.88888888888889
-@@ com.google.gson.FieldAttributes.getDeclaredType,4,4,9,8,88.88888888888889,0,0
+@@ com.google.gson.FieldAttributes.getDeclaredType,4,4,9,8,88.88888888888889,0,1
 
 
 #com/google/gson/FieldAttributes/getDeclaredType:
-Local DUA-Edge subsumption of method com.google.gson.FieldAttributes.getDeclaredType  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method com.google.gson.FieldAttributes.getDeclaredType  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #com/google/gson/FieldAttributes/getAnnotations:
 ## nodes: 5
@@ -2024,11 +2024,11 @@ Local DUA-Edge subsumption of method com.google.gson.FieldAttributes.getAnnotati
 ## DUAs: 9
 ## Subsumed DUAs: 8
 ## Edge DUA coverage: 88.88888888888889
-@@ com.google.gson.JsonObject.add,7,8,9,8,88.88888888888889,0,0
+@@ com.google.gson.JsonObject.add,7,8,9,8,88.88888888888889,0,1
 
 
 #com/google/gson/JsonObject/add:
-Local DUA-Edge subsumption of method com.google.gson.JsonObject.add  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method com.google.gson.JsonObject.add  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #com/google/gson/JsonObject/createJsonElement:
 ## nodes: 5
@@ -2060,11 +2060,11 @@ Local DUA-Edge subsumption of method com.google.gson.JsonObject.get  calculated 
 ## DUAs: 12
 ## Subsumed DUAs: 9
 ## Edge DUA coverage: 75.0
-@@ com.google.gson.JsonObject.toString,8,9,12,9,75.0,0,1
+@@ com.google.gson.JsonObject.toString,8,9,12,9,75.0,0,0
 
 
 #com/google/gson/JsonObject/toString:
-Local DUA-Edge subsumption of method com.google.gson.JsonObject.toString  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method com.google.gson.JsonObject.toString  calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/google/gson/JsonTreeNavigator/navigate:
 ## nodes: 20
@@ -2096,11 +2096,11 @@ Local DUA-Edge subsumption of method com.google.gson.JsonTreeNavigator.visitChil
 ## DUAs: 26
 ## Subsumed DUAs: 26
 ## Edge DUA coverage: 100.0
-@@ com.google.gson.JsonTreeNavigator.visitChild,9,11,26,26,100.0,0,0
+@@ com.google.gson.JsonTreeNavigator.visitChild,9,11,26,26,100.0,0,1
 
 
 #com/google/gson/JsonTreeNavigator/visitChild:
-Local DUA-Edge subsumption of method com.google.gson.JsonTreeNavigator.visitChild  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method com.google.gson.JsonTreeNavigator.visitChild  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #com/google/gson/ObjectNavigatorFactory/<init>:
 ## nodes: 5
@@ -2180,11 +2180,11 @@ Local DUA-Edge subsumption of method com.google.gson.stream.JsonReader.peek  cal
 ## DUAs: 57
 ## Subsumed DUAs: 57
 ## Edge DUA coverage: 100.0
-@@ com.google.gson.stream.JsonReader.quickPeek,21,34,57,57,100.0,0,0
+@@ com.google.gson.stream.JsonReader.quickPeek,21,34,57,57,100.0,0,1
 
 
 #com/google/gson/stream/JsonReader/quickPeek:
-Local DUA-Edge subsumption of method com.google.gson.stream.JsonReader.quickPeek  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method com.google.gson.stream.JsonReader.quickPeek  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #com/google/gson/stream/JsonReader/consumeNonExecutePrefix:
 ## nodes: 10
@@ -2192,11 +2192,11 @@ Local DUA-Edge subsumption of method com.google.gson.stream.JsonReader.quickPeek
 ## DUAs: 35
 ## Subsumed DUAs: 28
 ## Edge DUA coverage: 80.0
-@@ com.google.gson.stream.JsonReader.consumeNonExecutePrefix,10,13,35,28,80.0,0,0
+@@ com.google.gson.stream.JsonReader.consumeNonExecutePrefix,10,13,35,28,80.0,0,1
 
 
 #com/google/gson/stream/JsonReader/consumeNonExecutePrefix:
-Local DUA-Edge subsumption of method com.google.gson.stream.JsonReader.consumeNonExecutePrefix  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method com.google.gson.stream.JsonReader.consumeNonExecutePrefix  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #com/google/gson/stream/JsonReader/nextName:
 ## nodes: 4
@@ -2204,11 +2204,11 @@ Local DUA-Edge subsumption of method com.google.gson.stream.JsonReader.consumeNo
 ## DUAs: 9
 ## Subsumed DUAs: 9
 ## Edge DUA coverage: 100.0
-@@ com.google.gson.stream.JsonReader.nextName,4,4,9,9,100.0,0,0
+@@ com.google.gson.stream.JsonReader.nextName,4,4,9,9,100.0,0,1
 
 
 #com/google/gson/stream/JsonReader/nextName:
-Local DUA-Edge subsumption of method com.google.gson.stream.JsonReader.nextName  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method com.google.gson.stream.JsonReader.nextName  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #com/google/gson/stream/JsonReader/nextString:
 ## nodes: 6
@@ -2240,11 +2240,11 @@ Local DUA-Edge subsumption of method com.google.gson.stream.JsonReader.nextBoole
 ## DUAs: 18
 ## Subsumed DUAs: 18
 ## Edge DUA coverage: 100.0
-@@ com.google.gson.stream.JsonReader.nextNull,7,9,18,18,100.0,0,0
+@@ com.google.gson.stream.JsonReader.nextNull,7,9,18,18,100.0,0,1
 
 
 #com/google/gson/stream/JsonReader/nextNull:
-Local DUA-Edge subsumption of method com.google.gson.stream.JsonReader.nextNull  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method com.google.gson.stream.JsonReader.nextNull  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #com/google/gson/stream/JsonReader/nextDouble:
 ## nodes: 11
@@ -2300,11 +2300,11 @@ Local DUA-Edge subsumption of method com.google.gson.stream.JsonReader.skipValue
 ## DUAs: 24
 ## Subsumed DUAs: 24
 ## Edge DUA coverage: 100.0
-@@ com.google.gson.stream.JsonReader.nextInArray,13,19,24,24,100.0,0,0
+@@ com.google.gson.stream.JsonReader.nextInArray,13,19,24,24,100.0,0,1
 
 
 #com/google/gson/stream/JsonReader/nextInArray:
-Local DUA-Edge subsumption of method com.google.gson.stream.JsonReader.nextInArray  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method com.google.gson.stream.JsonReader.nextInArray  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #com/google/gson/stream/JsonReader/nextInObject:
 ## nodes: 15
@@ -2312,11 +2312,11 @@ Local DUA-Edge subsumption of method com.google.gson.stream.JsonReader.nextInArr
 ## DUAs: 32
 ## Subsumed DUAs: 30
 ## Edge DUA coverage: 93.75
-@@ com.google.gson.stream.JsonReader.nextInObject,15,21,32,30,93.75,0,0
+@@ com.google.gson.stream.JsonReader.nextInObject,15,21,32,30,93.75,0,1
 
 
 #com/google/gson/stream/JsonReader/nextInObject:
-Local DUA-Edge subsumption of method com.google.gson.stream.JsonReader.nextInObject  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method com.google.gson.stream.JsonReader.nextInObject  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #com/google/gson/stream/JsonReader/objectValue:
 ## nodes: 9
@@ -2375,11 +2375,11 @@ Warning: Method:com.google.gson.stream.JsonReader.skipTo has incoming edges.
 ## DUAs: 76
 ## Subsumed DUAs: 35
 ## Edge DUA coverage: 46.05263157894737
-@@ com.google.gson.stream.JsonReader.nextString,19,26,76,35,46.05263157894737,0,0
+@@ com.google.gson.stream.JsonReader.nextString,19,26,76,35,46.05263157894737,0,1
 
 
 #com/google/gson/stream/JsonReader/nextString:
-Local DUA-Edge subsumption of method com.google.gson.stream.JsonReader.nextString  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method com.google.gson.stream.JsonReader.nextString  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #com/google/gson/stream/JsonReader/nextLiteral:
 ## nodes: 16
@@ -2423,11 +2423,11 @@ Local DUA-Edge subsumption of method com.google.gson.stream.JsonReader.readLiter
 ## DUAs: 19
 ## Subsumed DUAs: 19
 ## Edge DUA coverage: 100.0
-@@ com.google.gson.stream.JsonReader.decodeLiteral,8,10,19,19,100.0,0,1
+@@ com.google.gson.stream.JsonReader.decodeLiteral,8,10,19,19,100.0,0,0
 
 
 #com/google/gson/stream/JsonReader/decodeLiteral:
-Local DUA-Edge subsumption of method com.google.gson.stream.JsonReader.decodeLiteral  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method com.google.gson.stream.JsonReader.decodeLiteral  calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/google/gson/stream/JsonWriter/<init>:
 ## nodes: 4
@@ -2435,11 +2435,11 @@ Local DUA-Edge subsumption of method com.google.gson.stream.JsonReader.decodeLit
 ## DUAs: 4
 ## Subsumed DUAs: 4
 ## Edge DUA coverage: 100.0
-@@ com.google.gson.stream.JsonWriter.<init>,4,4,4,4,100.0,0,0
+@@ com.google.gson.stream.JsonWriter.<init>,4,4,4,4,100.0,0,1
 
 
 #com/google/gson/stream/JsonWriter/<init>:
-Local DUA-Edge subsumption of method com.google.gson.stream.JsonWriter.<init>  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method com.google.gson.stream.JsonWriter.<init>  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #com/google/gson/stream/JsonWriter/setIndent:
 ## nodes: 5
@@ -2519,11 +2519,11 @@ Local DUA-Edge subsumption of method com.google.gson.stream.JsonWriter.value  ca
 ## DUAs: 18
 ## Subsumed DUAs: 18
 ## Edge DUA coverage: 100.0
-@@ com.google.gson.stream.JsonWriter.value,9,13,18,18,100.0,0,1
+@@ com.google.gson.stream.JsonWriter.value,9,13,18,18,100.0,0,0
 
 
 #com/google/gson/stream/JsonWriter/value:
-Local DUA-Edge subsumption of method com.google.gson.stream.JsonWriter.value  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method com.google.gson.stream.JsonWriter.value  calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/google/gson/stream/JsonWriter/close:
 ## nodes: 4
@@ -2543,11 +2543,11 @@ Local DUA-Edge subsumption of method com.google.gson.stream.JsonWriter.close  ca
 ## DUAs: 52
 ## Subsumed DUAs: 47
 ## Edge DUA coverage: 90.38461538461539
-@@ com.google.gson.stream.JsonWriter.string,18,27,52,47,90.38461538461539,0,0
+@@ com.google.gson.stream.JsonWriter.string,18,27,52,47,90.38461538461539,0,4
 
 
 #com/google/gson/stream/JsonWriter/string:
-Local DUA-Edge subsumption of method com.google.gson.stream.JsonWriter.string  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method com.google.gson.stream.JsonWriter.string  calculated in 0 minutes, 0 seconds, and 4 milliseconds
 
 #com/google/gson/stream/JsonWriter/newline:
 ## nodes: 7
@@ -2567,11 +2567,11 @@ Local DUA-Edge subsumption of method com.google.gson.stream.JsonWriter.newline  
 ## DUAs: 14
 ## Subsumed DUAs: 14
 ## Edge DUA coverage: 100.0
-@@ com.google.gson.stream.JsonWriter.beforeName,6,7,14,14,100.0,0,0
+@@ com.google.gson.stream.JsonWriter.beforeName,6,7,14,14,100.0,0,16
 
 
 #com/google/gson/stream/JsonWriter/beforeName:
-Local DUA-Edge subsumption of method com.google.gson.stream.JsonWriter.beforeName  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method com.google.gson.stream.JsonWriter.beforeName  calculated in 0 minutes, 0 seconds, and 16 milliseconds
 
 #com/google/gson/stream/JsonWriter/beforeValue:
 ## nodes: 12
@@ -2651,11 +2651,11 @@ Local DUA-Edge subsumption of method com.google.gson.reflect.TypeToken.isAssigna
 ## DUAs: 71
 ## Subsumed DUAs: 45
 ## Edge DUA coverage: 63.38028169014085
-@@ com.google.gson.reflect.TypeToken.isAssignableFrom,24,33,71,45,63.38028169014085,0,1
+@@ com.google.gson.reflect.TypeToken.isAssignableFrom,24,33,71,45,63.38028169014085,0,0
 
 
 #com/google/gson/reflect/TypeToken/isAssignableFrom:
-Local DUA-Edge subsumption of method com.google.gson.reflect.TypeToken.isAssignableFrom  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method com.google.gson.reflect.TypeToken.isAssignableFrom  calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #com/google/gson/reflect/TypeToken/typeEquals:
 ## nodes: 9
@@ -2716,5 +2716,5 @@ Local DUA-Edge subsumption of method com.google.gson.reflect.TypeToken.toString 
 
 #com/google/gson/reflect/TypeToken/buildUnexpectedTypeError:
 Local DUA-Edge subsumption of method com.google.gson.reflect.TypeToken.buildUnexpectedTypeError  calculated in 0 minutes, 0 seconds, and 0 milliseconds
-226 methods had the edge subsumption relationship calculated in 0 minutes and 0 seconds
-Local DUA-Edge subsumption time (ms):957
+226 methods had the edge subsumption relationship calculated in 0 minutes and 1 seconds
+Local DUA-Edge subsumption time (ms):1602

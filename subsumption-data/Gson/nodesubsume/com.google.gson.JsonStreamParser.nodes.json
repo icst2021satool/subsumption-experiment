@@ -1,0 +1,17 @@
+{
+"Class" : "com.google.gson.JsonStreamParser", 
+"Methods" : [{ "Name" : "next" ,
+"Nodes" : 4,
+"0" : [ 82 ]
+"1" : [ 87 ]
+"2" : [ 83 ]
+"3" : [  ]
+},{ "Name" : "hasNext" ,
+"Nodes" : 5,
+"0" : [ 103,105 ]
+"1" : [ 105 ]
+"2" : [ 105 ]
+"3" : [ 105 ]
+"4" : [  ]
+}]
+}

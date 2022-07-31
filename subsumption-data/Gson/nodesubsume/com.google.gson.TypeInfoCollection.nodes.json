@@ -1,0 +1,10 @@
+{
+"Class" : "com.google.gson.TypeInfoCollection", 
+"Methods" : [{ "Name" : "<init>" ,
+"Nodes" : 4,
+"0" : [ 32,33 ]
+"1" : [ 38,39,40,41 ]
+"2" : [ 34 ]
+"3" : [  ]
+}]
+}

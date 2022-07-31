@@ -1,0 +1,18 @@
+{
+"Class" : "com.google.gson.CircularReferenceException", 
+"Methods" : [{ "Name" : "createDetailedException" ,
+"Duas" : 13,
+"0" :  "(36,(40,41), this)",
+"1" :  "(36,(40,43), this)",
+"2" :  "(36,43, this)",
+"3" :  "(36,41, this)",
+"4" :  "(36,(37,38), offendingField)",
+"5" :  "(36,(37,40), offendingField)",
+"6" :  "(36,38, offendingField)",
+"7" :  "(36,(40,41), this.offendingNode)",
+"8" :  "(36,(40,43), this.offendingNode)",
+"9" :  "(36,41, this.offendingNode)",
+"10" :  "(36,43, msg)",
+"11" :  "(36,41, msg)",
+"12" :  "(36,38, msg)"}]
+}

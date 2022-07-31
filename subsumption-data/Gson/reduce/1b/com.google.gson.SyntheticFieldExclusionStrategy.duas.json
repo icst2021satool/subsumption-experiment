@@ -1,0 +1,11 @@
+{
+"Class" : "com.google.gson.SyntheticFieldExclusionStrategy", 
+"Methods" : [{ "Name" : "shouldSkipField" ,
+"Duas" : 6,
+"0" :  "(41,(41,41), this)",
+"1" :  "(41,(41,41), this)",
+"2" :  "(41,(41,41), f)",
+"3" :  "(41,(41,41), f)",
+"4" :  "(41,(41,41), this.skipSyntheticFields)",
+"5" :  "(41,(41,41), this.skipSyntheticFields)"}]
+}

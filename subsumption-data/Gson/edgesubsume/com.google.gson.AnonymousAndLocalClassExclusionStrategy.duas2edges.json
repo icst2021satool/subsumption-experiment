@@ -1,0 +1,12 @@
+{
+"Class" : "com.google.gson.AnonymousAndLocalClassExclusionStrategy", 
+"Methods" : [{ "Name" : "isAnonymousOrLocal" ,
+"Edges" : 9,
+"Duas" : 6,
+"0" : 0, 
+ "1" : 1, 
+ "2" : 5, 
+ "3" : 6, 
+ "4" : 2, 
+ "5" : 3}]
+}

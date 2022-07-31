@@ -1,0 +1,22 @@
+{
+"Class" : "com.google.gson.TypeInfoArray", 
+"Methods" : [{ "Name" : "<init>" ,
+"Duas" : 12,
+"0" :  "(33,38, this)",
+"1" :  "(33,39, this)",
+"2" :  "(33,39, this.rawClass)",
+"3" :  "(33,39, this.actualType)",
+"4" :  "(34,(35,36), rootComponentType)",
+"5" :  "(34,(35,38), rootComponentType)",
+"6" :  "(34,38, rootComponentType)",
+"7" :  "(34,36, rootComponentType)",
+"8" :  "(36,(35,36), rootComponentType)",
+"9" :  "(36,(35,38), rootComponentType)",
+"10" :  "(36,38, rootComponentType)",
+"11" :  "(36,36, rootComponentType)"},{ "Name" : "extractSecondLevelType" ,
+"Duas" : 4,
+"0" :  "(43,(43,43), actualType)",
+"1" :  "(43,(43,43), actualType)",
+"2" :  "(43,43, actualType)",
+"3" :  "(43,43, rawClass)"}]
+}

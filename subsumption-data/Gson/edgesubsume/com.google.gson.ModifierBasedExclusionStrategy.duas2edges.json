@@ -1,0 +1,22 @@
+{
+"Class" : "com.google.gson.ModifierBasedExclusionStrategy", 
+"Methods" : [{ "Name" : "<init>" ,
+"Edges" : 7,
+"Duas" : 16,
+"1" : 1, 
+ "2" : 2, 
+ "6" : 3, 
+ "7" : 4, 
+ "8" : 3, 
+ "9" : 4, 
+ "12" : 3, 
+ "13" : 4},{ "Name" : "shouldSkipField" ,
+"Edges" : 8,
+"Duas" : 7,
+"0" : 0, 
+ "1" : 1, 
+ "2" : 4, 
+ "3" : 5, 
+ "5" : 0, 
+ "6" : 1}]
+}

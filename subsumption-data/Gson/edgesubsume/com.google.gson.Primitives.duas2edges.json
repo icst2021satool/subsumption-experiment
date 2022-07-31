@@ -1,0 +1,12 @@
+{
+"Class" : "com.google.gson.Primitives", 
+"Methods" : [{ "Name" : "wrap" ,
+"Edges" : 5,
+"Duas" : 4,
+"1" : 0, 
+ "2" : 1},{ "Name" : "unwrap" ,
+"Edges" : 5,
+"Duas" : 4,
+"1" : 1, 
+ "2" : 2}]
+}
