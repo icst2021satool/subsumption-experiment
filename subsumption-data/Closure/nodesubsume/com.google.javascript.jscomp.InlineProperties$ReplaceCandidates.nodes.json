@@ -1,0 +1,23 @@
+{
+"Class" : "com.google.javascript.jscomp.InlineProperties$ReplaceCandidates", 
+"Methods" : [{ "Name" : "visit" ,
+"Nodes" : 10,
+"0" : [ 276 ]
+"1" : [ 291 ]
+"2" : [ 276 ]
+"3" : [ 277,278,279,280 ]
+"4" : [ 280 ]
+"5" : [ 280 ]
+"6" : [ 283,284 ]
+"7" : [ 288,287 ]
+"8" : [ 285 ]
+"9" : [  ]
+},{ "Name" : "isMatchingType" ,
+"Nodes" : 5,
+"0" : [ 294,295,296 ]
+"1" : [ 300 ]
+"2" : [ 296 ]
+"3" : [ 298 ]
+"4" : [  ]
+}]
+}

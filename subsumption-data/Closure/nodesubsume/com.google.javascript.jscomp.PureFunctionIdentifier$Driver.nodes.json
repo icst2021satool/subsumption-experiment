@@ -1,0 +1,13 @@
+{
+"Class" : "com.google.javascript.jscomp.PureFunctionIdentifier$Driver", 
+"Methods" : [{ "Name" : "process" ,
+"Nodes" : 7,
+"0" : [ 1096,1097 ]
+"1" : [ 1104,1105,1103 ]
+"2" : [ 1108,1110,1112 ]
+"3" : [ 1121 ]
+"4" : [ 1114,1119 ]
+"5" : [ 1098,1100,1101,1102 ]
+"6" : [  ]
+}]
+}

@@ -1,0 +1,13 @@
+{
+"Class" : "com.google.javascript.jscomp.AbstractCommandLineRunner$CommandLineConfig", 
+"Methods" : [{ "Name" : "setOutputManifest" ,
+"Nodes" : 7,
+"0" : [ 1955,1956 ]
+"1" : [ 1956 ]
+"2" : [ 1961,1962 ]
+"3" : [ 1956,1957 ]
+"4" : [ 1960 ]
+"5" : [ 1958 ]
+"6" : [  ]
+}]
+}

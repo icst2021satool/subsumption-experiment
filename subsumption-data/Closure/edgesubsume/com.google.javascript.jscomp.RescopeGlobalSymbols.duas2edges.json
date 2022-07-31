@@ -1,0 +1,10 @@
+{
+"Class" : "com.google.javascript.jscomp.RescopeGlobalSymbols", 
+"Methods" : [{ "Name" : "process" ,
+"Edges" : 4,
+"Duas" : 21,
+"0" : 0, 
+ "1" : 1, 
+ "15" : 0, 
+ "16" : 1}]
+}

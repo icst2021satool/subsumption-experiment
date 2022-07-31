@@ -1,0 +1,11 @@
+{
+"Class" : "com.google.javascript.jscomp.TightenTypes$PropertyAssignAction", 
+"Methods" : [{ "Name" : "getAssignments" ,
+"Nodes" : 5,
+"0" : [ 385,380,381,383 ]
+"1" : [ 385 ]
+"2" : [ 388 ]
+"3" : [ 385,386,387 ]
+"4" : [  ]
+}]
+}

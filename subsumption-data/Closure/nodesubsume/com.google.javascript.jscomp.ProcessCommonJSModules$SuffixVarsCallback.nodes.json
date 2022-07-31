@@ -1,0 +1,16 @@
+{
+"Class" : "com.google.javascript.jscomp.ProcessCommonJSModules$SuffixVarsCallback", 
+"Methods" : [{ "Name" : "visit" ,
+"Nodes" : 10,
+"0" : [ 269 ]
+"1" : [ 285 ]
+"2" : [ 270,271 ]
+"3" : [ 274 ]
+"4" : [ 278,279 ]
+"5" : [ 279 ]
+"6" : [ 280,281 ]
+"7" : [ 275,276 ]
+"8" : [ 272 ]
+"9" : [  ]
+}]
+}

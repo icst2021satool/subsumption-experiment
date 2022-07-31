@@ -1,0 +1,25 @@
+{
+"Class" : "com.google.javascript.jscomp.graph.LinkedDirectedGraph$LinkedDirectedGraphNode$NeighborIterator", 
+"Methods" : [{ "Name" : "hasNext" ,
+"Nodes" : 6,
+"0" : [ 408 ]
+"1" : [ 408 ]
+"2" : [ 408 ]
+"3" : [ 408 ]
+"4" : [ 408 ]
+"5" : [  ]
+},{ "Name" : "next" ,
+"Nodes" : 11,
+"0" : [ 413 ]
+"1" : [ 413 ]
+"2" : [ 413,414 ]
+"3" : [ 414 ]
+"4" : [ 416,414,415 ]
+"5" : [ 416 ]
+"6" : [ 416 ]
+"7" : [ 416 ]
+"8" : [ 414 ]
+"9" : [ 413 ]
+"10" : [  ]
+}]
+}

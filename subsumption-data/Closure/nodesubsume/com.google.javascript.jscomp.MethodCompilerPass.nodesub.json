@@ -1,0 +1,29 @@
+{
+"Class" : "com.google.javascript.jscomp.MethodCompilerPass", 
+"Methods" : [{ "Name" : "process" ,
+"Nodes" : 4,
+"0" : [ ],
+"2" : [ 3, 4, 5, 9, 14],
+"1" : [ 0, 1, 2, 7, 8, 10, 11, 12, 13],
+"3" : [ 0, 1, 2, 7, 8, 10, 11, 12, 13],
+"CoveredDUAsByNodes" : 14,
+"Duas" : 15
+},{ "Name" : "addPossibleSignature" ,
+"Nodes" : 5,
+"0" : [ ],
+"1" : [ 0, 2, 5, 8],
+"3" : [ 1, 3, 4, 6, 7],
+"2" : [ ],
+"4" : [ ],
+"CoveredDUAsByNodes" : 9,
+"Duas" : 9
+},{ "Name" : "addSignature" ,
+"Nodes" : 4,
+"0" : [ ],
+"1" : [ 1, 2, 3, 5, 6, 7, 8, 9, 10, 12, 13],
+"2" : [ 0, 4, 11],
+"3" : [ ],
+"CoveredDUAsByNodes" : 14,
+"Duas" : 14
+}]
+}

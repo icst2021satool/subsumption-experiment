@@ -1,0 +1,13 @@
+{
+"Class" : "com.google.javascript.jscomp.Tracer$AtomicTracerStatMap", 
+"Methods" : [{ "Name" : "incrementBy" ,
+"Nodes" : 7,
+"0" : [ 1050,1051 ]
+"1" : [ 1063 ]
+"2" : [ 1067 ]
+"3" : [ 1064,1069 ]
+"4" : [ 1053,1054 ]
+"5" : [ 1056 ]
+"6" : [  ]
+}]
+}

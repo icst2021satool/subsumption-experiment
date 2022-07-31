@@ -1,0 +1,20 @@
+{
+"Class" : "com.google.javascript.jscomp.ProcessCommonJSModules$SuffixVarsCallback", 
+"Methods" : [{ "Name" : "visit" ,
+"Edges" : 14,
+"Duas" : 27,
+"0" : 6, 
+ "1" : 7, 
+ "5" : 1, 
+ "6" : 2, 
+ "12" : 6, 
+ "13" : 7, 
+ "16" : 6, 
+ "17" : 7, 
+ "18" : 11, 
+ "19" : 12, 
+ "23" : 8, 
+ "24" : 9, 
+ "25" : 3, 
+ "26" : 4}]
+}

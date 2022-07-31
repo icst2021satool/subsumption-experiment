@@ -1,0 +1,12 @@
+{
+"Class" : "com.google.debugging.sourcemap.SourceMapGeneratorV2$UsedMappingCheck", 
+"Methods" : [{ "Name" : "visit" ,
+"Edges" : 4,
+"0" : [ 0, 2],
+"1" : [ 1],
+"3" : [ 0, 2],
+"2" : [ ],
+"CoveredDUAsByEdges" : 3,
+"Duas" : 3
+}]
+}

@@ -1,0 +1,16 @@
+{
+"Class" : "com.google.javascript.jscomp.Compiler$8", 
+"Methods" : [{ "Name" : "call" ,
+"Edges" : 11,
+"Duas" : 26,
+"7" : 0, 
+ "8" : 1, 
+ "9" : 2, 
+ "10" : 3, 
+ "13" : 2, 
+ "14" : 3, 
+ "18" : 7, 
+ "19" : 8, 
+ "21" : 2, 
+ "22" : 3}]
+}

@@ -1,0 +1,14 @@
+{
+"Class" : "com.google.javascript.jscomp.DefaultPassConfig$3", 
+"Methods" : [{ "Name" : "create" ,
+"Nodes" : 8,
+"0" : [ 789,790 ]
+"1" : [ 794 ]
+"2" : [ 798 ]
+"3" : [ 802 ]
+"4" : [ 799 ]
+"5" : [ 795 ]
+"6" : [ 791 ]
+"7" : [  ]
+}]
+}

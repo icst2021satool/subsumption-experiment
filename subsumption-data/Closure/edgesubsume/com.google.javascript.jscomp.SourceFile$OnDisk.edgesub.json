@@ -1,0 +1,28 @@
+{
+"Class" : "com.google.javascript.jscomp.SourceFile$OnDisk", 
+"Methods" : [{ "Name" : "<init>" ,
+"Edges" : 4,
+"0" : [ 0, 1, 3],
+"1" : [ 2],
+"2" : [ 0, 1, 3],
+"3" : [ ],
+"CoveredDUAsByEdges" : 4,
+"Duas" : 4
+},{ "Name" : "getCode" ,
+"Edges" : 4,
+"2" : [ 0, 1, 2, 3],
+"3" : [ 4, 5],
+"0" : [ 0, 1, 2, 3],
+"1" : [ ],
+"CoveredDUAsByEdges" : 6,
+"Duas" : 7
+},{ "Name" : "getCodeReader" ,
+"Edges" : 4,
+"2" : [ 0, 3],
+"3" : [ 1, 2, 4],
+"0" : [ 1, 2, 4],
+"1" : [ 0, 3],
+"CoveredDUAsByEdges" : 5,
+"Duas" : 5
+}]
+}

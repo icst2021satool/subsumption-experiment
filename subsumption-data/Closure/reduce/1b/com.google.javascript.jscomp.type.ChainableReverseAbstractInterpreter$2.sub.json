@@ -1,0 +1,10 @@
+{
+"Class" : "com.google.javascript.jscomp.type.ChainableReverseAbstractInterpreter$2", 
+"Methods" : [{ "Name" : "caseEnumElementType" ,
+"Duas" : "8" ,
+"Subsumers" : 3,
+"0" : [ 6, 2, 0], "S0" : [0, 2, 3, 6 ],
+"1" : [ 7, 1], "S1" : [1, 3, 5, 7 ],
+"2" : [ 4], "S2" : [4, 5 ]
+}]
+}

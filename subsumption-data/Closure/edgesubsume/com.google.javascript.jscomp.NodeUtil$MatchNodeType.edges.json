@@ -1,0 +1,11 @@
+{
+"Class" : "com.google.javascript.jscomp.NodeUtil$MatchNodeType", 
+"Methods" : [{ "Name" : "apply" ,
+"Edges" : 5,
+"0" : [ 2,4 ],
+"1" : [ 1,2 ],
+"2" : [ 3,2 ],
+"3" : [ 0,3 ],
+"4" : [ 0,1 ]
+}]
+}

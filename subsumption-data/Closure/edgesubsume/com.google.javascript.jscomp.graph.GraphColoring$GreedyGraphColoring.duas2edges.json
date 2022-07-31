@@ -1,0 +1,14 @@
+{
+"Class" : "com.google.javascript.jscomp.graph.GraphColoring$GreedyGraphColoring", 
+"Methods" : [{ "Name" : "color" ,
+"Edges" : 11,
+"Duas" : 24,
+"4" : 6, 
+ "5" : 7, 
+ "9" : 8, 
+ "10" : 9, 
+ "12" : 0, 
+ "13" : 1, 
+ "16" : 8, 
+ "17" : 9}]
+}

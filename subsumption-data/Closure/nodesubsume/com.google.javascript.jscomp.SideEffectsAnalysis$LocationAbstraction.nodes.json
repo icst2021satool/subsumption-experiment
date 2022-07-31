@@ -1,0 +1,11 @@
+{
+"Class" : "com.google.javascript.jscomp.SideEffectsAnalysis$LocationAbstraction", 
+"Methods" : [{ "Name" : "calculateLocationSummary" ,
+"Nodes" : 5,
+"0" : [ 603,604,606 ]
+"1" : [ 606 ]
+"2" : [ 613 ]
+"3" : [ 609,610,611,606,607 ]
+"4" : [  ]
+}]
+}

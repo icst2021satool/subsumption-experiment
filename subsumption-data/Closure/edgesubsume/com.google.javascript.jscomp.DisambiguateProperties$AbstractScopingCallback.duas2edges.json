@@ -1,0 +1,8 @@
+{
+"Class" : "com.google.javascript.jscomp.DisambiguateProperties$AbstractScopingCallback", 
+"Methods" : [{ "Name" : "enterScope" ,
+"Edges" : 5,
+"Duas" : 9,
+"2" : 0, 
+ "3" : 1}]
+}

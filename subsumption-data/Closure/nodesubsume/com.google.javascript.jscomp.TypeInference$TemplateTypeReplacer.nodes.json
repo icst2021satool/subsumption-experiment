@@ -1,0 +1,11 @@
+{
+"Class" : "com.google.javascript.jscomp.TypeInference$TemplateTypeReplacer", 
+"Methods" : [{ "Name" : "caseTemplateType" ,
+"Nodes" : 5,
+"0" : [ 1168,1166,1167 ]
+"1" : [ 1168 ]
+"2" : [ 1168 ]
+"3" : [ 1168 ]
+"4" : [  ]
+}]
+}

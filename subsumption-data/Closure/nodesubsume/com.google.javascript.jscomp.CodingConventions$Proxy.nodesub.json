@@ -1,0 +1,14 @@
+{
+"Class" : "com.google.javascript.jscomp.CodingConventions$Proxy", 
+"Methods" : [{ "Name" : "isExported" ,
+"Nodes" : 6,
+"0" : [ ],
+"3" : [ 0, 4],
+"4" : [ 0, 3, 4, 7],
+"1" : [ ],
+"2" : [ ],
+"5" : [ ],
+"CoveredDUAsByNodes" : 4,
+"Duas" : 8
+}]
+}

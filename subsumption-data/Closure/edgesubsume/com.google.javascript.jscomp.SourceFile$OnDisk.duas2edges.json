@@ -1,0 +1,16 @@
+{
+"Class" : "com.google.javascript.jscomp.SourceFile$OnDisk", 
+"Methods" : [{ "Name" : "<init>" ,
+"Edges" : 4,
+"Duas" : 4,
+"1" : 0, 
+ "2" : 1},{ "Name" : "getCode" ,
+"Edges" : 4,
+"Duas" : 7,
+"3" : 2, 
+ "4" : 3},{ "Name" : "getCodeReader" ,
+"Edges" : 4,
+"Duas" : 5,
+"0" : 2, 
+ "1" : 3}]
+}

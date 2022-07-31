@@ -1,0 +1,31 @@
+{
+"Class" : "com.google.javascript.jscomp.StrictModeCheck$NonExternChecks", 
+"Methods" : [{ "Name" : "visit" ,
+"Nodes" : 7,
+"0" : [ 231 ]
+"1" : [ 233 ]
+"2" : [ 236 ]
+"3" : [ 234 ]
+"4" : [ 231 ]
+"5" : [ 232 ]
+"6" : [  ]
+},{ "Name" : "checkDeclaration" ,
+"Nodes" : 9,
+"0" : [ 240 ]
+"1" : [ 242 ]
+"2" : [ 244 ]
+"3" : [ 249 ]
+"4" : [ 245 ]
+"5" : [ 246 ]
+"6" : [ 243 ]
+"7" : [ 241 ]
+"8" : [  ]
+},{ "Name" : "checkProperty" ,
+"Nodes" : 5,
+"0" : [ 253 ]
+"1" : [ 258 ]
+"2" : [ 254 ]
+"3" : [ 255 ]
+"4" : [  ]
+}]
+}

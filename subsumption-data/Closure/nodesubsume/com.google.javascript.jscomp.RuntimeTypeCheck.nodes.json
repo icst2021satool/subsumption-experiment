@@ -1,0 +1,11 @@
+{
+"Class" : "com.google.javascript.jscomp.RuntimeTypeCheck", 
+"Methods" : [{ "Name" : "addBoilerplateCode" ,
+"Nodes" : 5,
+"0" : [ 365,366 ]
+"1" : [ 379 ]
+"2" : [ 366 ]
+"3" : [ 368,376,377 ]
+"4" : [  ]
+}]
+}

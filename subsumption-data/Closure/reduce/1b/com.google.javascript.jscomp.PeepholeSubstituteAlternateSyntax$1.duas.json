@@ -1,0 +1,7 @@
+{
+"Class" : "com.google.javascript.jscomp.PeepholeSubstituteAlternateSyntax$1", 
+"Methods" : [{ "Name" : "apply" ,
+"Duas" : 2,
+"0" :  "(60,(60,60), input)",
+"1" :  "(60,(60,60), input)"}]
+}

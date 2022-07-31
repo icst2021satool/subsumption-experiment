@@ -1,0 +1,12 @@
+{
+"Class" : "com.google.javascript.jscomp.UnreachableCodeElimination", 
+"Methods" : [{ "Name" : "exitScope" ,
+"Nodes" : 4,
+"0" : [ ],
+"2" : [ 3, 7],
+"1" : [ 0, 1, 2, 5],
+"3" : [ 0, 1, 2, 5],
+"CoveredDUAsByNodes" : 6,
+"Duas" : 9
+}]
+}

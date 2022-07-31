@@ -1,0 +1,12 @@
+{
+"Class" : "com.google.javascript.jscomp.OptimizeCalls", 
+"Methods" : [{ "Name" : "process" ,
+"Nodes" : 6,
+"0" : [ 53 ]
+"1" : [ 60 ]
+"2" : [ 54,55,56 ]
+"3" : [ 56 ]
+"4" : [ 56,57,58 ]
+"5" : [  ]
+}]
+}

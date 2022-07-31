@@ -1,0 +1,13 @@
+{
+"Class" : "com.google.javascript.jscomp.CodingConvention$Bind", 
+"Methods" : [{ "Name" : "getBoundParameterCount" ,
+"Duas" : 8,
+"0" :  "(275,(275,276), this)",
+"1" :  "(275,(275,278), this)",
+"2" :  "(275,278, this)",
+"3" :  "(275,279, this)",
+"4" :  "(275,(275,276), this.parameters)",
+"5" :  "(275,(275,278), this.parameters)",
+"6" :  "(275,278, this.parameters)",
+"7" :  "(275,279, this.parameters)"}]
+}

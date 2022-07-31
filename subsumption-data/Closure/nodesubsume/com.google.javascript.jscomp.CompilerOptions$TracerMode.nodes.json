@@ -1,0 +1,11 @@
+{
+"Class" : "com.google.javascript.jscomp.CompilerOptions$TracerMode", 
+"Methods" : [{ "Name" : "isOn" ,
+"Nodes" : 5,
+"0" : [ 2082 ]
+"1" : [ 2082 ]
+"2" : [ 2082 ]
+"3" : [ 2082 ]
+"4" : [  ]
+}]
+}

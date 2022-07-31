@@ -1,0 +1,10 @@
+{
+"Class" : "com.google.javascript.jscomp.DefaultPassConfig$16", 
+"Methods" : [{ "Name" : "create" ,
+"Edges" : 7,
+"Duas" : 10,
+"5" : 3, 
+ "6" : 4, 
+ "8" : 1, 
+ "9" : 2}]
+}

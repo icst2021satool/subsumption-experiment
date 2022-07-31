@@ -1,0 +1,19 @@
+{
+"Class" : "com.google.javascript.jscomp.Normalize", 
+"Methods" : [{ "Name" : "reportCodeChange" ,
+"Edges" : 4,
+"0" : [ 0,2 ],
+"1" : [ 0,1 ],
+"2" : [ 2,3 ],
+"3" : [ 1,3 ]
+},{ "Name" : "process" ,
+"Edges" : 7,
+"0" : [ 0,4 ],
+"1" : [ 0,1 ],
+"2" : [ 1,3 ],
+"3" : [ 1,2 ],
+"4" : [ 4,1 ],
+"5" : [ 2,5 ],
+"6" : [ 3,2 ]
+}]
+}

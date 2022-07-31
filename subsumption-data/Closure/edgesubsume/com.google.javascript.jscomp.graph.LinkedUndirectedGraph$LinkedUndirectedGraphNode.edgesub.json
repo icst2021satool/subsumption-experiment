@@ -1,0 +1,13 @@
+{
+"Class" : "com.google.javascript.jscomp.graph.LinkedUndirectedGraph$LinkedUndirectedGraphNode", 
+"Methods" : [{ "Name" : "getLabel" ,
+"Edges" : 5,
+"0" : [ 0, 3],
+"1" : [ 1, 4],
+"4" : [ 1, 2, 4, 5],
+"3" : [ 0, 2, 3, 5],
+"2" : [ 2, 5],
+"CoveredDUAsByEdges" : 6,
+"Duas" : 6
+}]
+}

@@ -1,0 +1,16 @@
+{
+"Class" : "com.google.javascript.jscomp.NameAnalyzer$JsNameRefNode", 
+"Methods" : [{ "Name" : "remove" ,
+"Edges" : 11,
+"Duas" : 27,
+"0" : 3, 
+ "1" : 4, 
+ "2" : 5, 
+ "3" : 6, 
+ "9" : 3, 
+ "10" : 4, 
+ "11" : 5, 
+ "12" : 6, 
+ "23" : 7, 
+ "24" : 8}]
+}

@@ -1,0 +1,14 @@
+{
+"Class" : "com.google.javascript.jscomp.ChainCalls$GatherFunctions", 
+"Methods" : [{ "Name" : "enterScope" ,
+"Edges" : 12,
+"Duas" : 15,
+"6" : 3, 
+ "7" : 4, 
+ "9" : 9, 
+ "10" : 10, 
+ "11" : 5, 
+ "12" : 6, 
+ "13" : 0, 
+ "14" : 1}]
+}

@@ -1,0 +1,11 @@
+{
+"Class" : "com.google.javascript.jscomp.ObjectPropertyStringPreprocess", 
+"Methods" : [{ "Name" : "addExternDeclaration" ,
+"Nodes" : 5,
+"0" : [ 77,78 ]
+"1" : [ 80,79 ]
+"2" : [ 82,83 ]
+"3" : [ 78 ]
+"4" : [  ]
+}]
+}

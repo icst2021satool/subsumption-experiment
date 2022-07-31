@@ -1,0 +1,26 @@
+{
+"Class" : "com.google.javascript.jscomp.Compiler$CodeBuilder", 
+"Methods" : [{ "Name" : "append" ,
+"Nodes" : 8,
+"0" : [ ],
+"1" : [ 4, 11],
+"2" : [ 16, 4, 6, 11],
+"3" : [ 0, 16, 4, 6, 7, 11],
+"5" : [ 16, 2, 4, 6, 8, 10, 11],
+"4" : [ 16, 1, 4, 6, 11],
+"7" : [ 16, 1, 4, 6, 11],
+"6" : [ 17, 3, 4, 5, 9, 11, 15],
+"CoveredDUAsByNodes" : 15,
+"Duas" : 23
+},{ "Name" : "endsWith" ,
+"Nodes" : 6,
+"0" : [ ],
+"3" : [ 0, 4, 8],
+"1" : [ ],
+"4" : [ 0, 2, 4, 6, 8, 10],
+"2" : [ ],
+"5" : [ ],
+"CoveredDUAsByNodes" : 6,
+"Duas" : 12
+}]
+}

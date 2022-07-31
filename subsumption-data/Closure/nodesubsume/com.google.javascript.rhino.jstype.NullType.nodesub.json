@@ -1,0 +1,18 @@
+{
+"Class" : "com.google.javascript.rhino.jstype.NullType", 
+"Methods" : [{ "Name" : "testForEquality" ,
+"Nodes" : 10,
+"0" : [ ],
+"1" : [ 12],
+"3" : [ 0, 12],
+"4" : [ 0, 3, 12],
+"6" : [ 0, 3, 4, 12],
+"7" : [ 0, 3, 4, 7, 10, 12],
+"5" : [ 0, 3, 9, 12],
+"2" : [ 8, 12],
+"8" : [ 11, 13],
+"9" : [ ],
+"CoveredDUAsByNodes" : 10,
+"Duas" : 14
+}]
+}

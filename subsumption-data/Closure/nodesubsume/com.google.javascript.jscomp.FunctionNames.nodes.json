@@ -1,0 +1,20 @@
+{
+"Class" : "com.google.javascript.jscomp.FunctionNames", 
+"Methods" : [{ "Name" : "getFunctionId" ,
+"Nodes" : 4,
+"0" : [ 73,74 ]
+"1" : [ 77 ]
+"2" : [ 75 ]
+"3" : [  ]
+},{ "Name" : "getFunctionName" ,
+"Nodes" : 8,
+"0" : [ 82,83 ]
+"1" : [ 88,89 ]
+"2" : [ 93,94 ]
+"3" : [ 99,103,105,106 ]
+"4" : [ 95 ]
+"5" : [ 90 ]
+"6" : [ 85 ]
+"7" : [  ]
+}]
+}

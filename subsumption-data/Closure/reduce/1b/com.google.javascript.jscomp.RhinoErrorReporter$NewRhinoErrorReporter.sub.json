@@ -1,0 +1,14 @@
+{
+"Class" : "com.google.javascript.jscomp.RhinoErrorReporter$NewRhinoErrorReporter", 
+"Methods" : [{ "Name" : "error" ,
+"Duas" : "13" ,
+"Subsumers" : 2,
+"0" : [ 12, 11, 9, 10, 7, 3, 4], "S0" : [0, 1, 2, 3, 4, 7, 9, 10, 11, 12 ],
+"1" : [ 8, 6, 5], "S1" : [0, 1, 2, 5, 6, 8 ]
+},{ "Name" : "warning" ,
+"Duas" : "13" ,
+"Subsumers" : 2,
+"0" : [ 12, 11, 9, 10, 7, 3, 4], "S0" : [0, 1, 2, 3, 4, 7, 9, 10, 11, 12 ],
+"1" : [ 8, 6, 5], "S1" : [0, 1, 2, 5, 6, 8 ]
+}]
+}

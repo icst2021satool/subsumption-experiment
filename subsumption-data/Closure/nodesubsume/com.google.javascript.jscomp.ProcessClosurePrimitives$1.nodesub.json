@@ -1,0 +1,12 @@
+{
+"Class" : "com.google.javascript.jscomp.ProcessClosurePrimitives$1", 
+"Methods" : [{ "Name" : "get" ,
+"Nodes" : 4,
+"0" : [ ],
+"1" : [ 1, 4, 5, 8],
+"2" : [ 0, 2, 3, 6, 7, 9],
+"3" : [ ],
+"CoveredDUAsByNodes" : 10,
+"Duas" : 10
+}]
+}

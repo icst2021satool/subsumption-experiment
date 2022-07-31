@@ -1,0 +1,16 @@
+{
+"Class" : "com.google.javascript.jscomp.FunctionTypeBuilder$ImplementedTypeValidator", 
+"Methods" : [{ "Name" : "apply" ,
+"Nodes" : 10,
+"0" : [ 172,173 ]
+"1" : [ 176 ]
+"2" : [ 179 ]
+"3" : [ 187 ]
+"4" : [ 180 ]
+"5" : [ 183,184 ]
+"6" : [ 181 ]
+"7" : [ 177,178 ]
+"8" : [ 174,175 ]
+"9" : [  ]
+}]
+}

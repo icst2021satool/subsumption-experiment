@@ -1,0 +1,16 @@
+{
+"Class" : "com.google.javascript.jscomp.Denormalize$StripConstantAnnotations", 
+"Methods" : [{ "Name" : "visit" ,
+"Edges" : 8,
+"4" : [ 0],
+"5" : [ 1, 2],
+"0" : [ 0, 3],
+"1" : [ 2, 4],
+"6" : [ 2, 5],
+"7" : [ 6],
+"2" : [ 2],
+"3" : [ ],
+"CoveredDUAsByEdges" : 7,
+"Duas" : 7
+}]
+}

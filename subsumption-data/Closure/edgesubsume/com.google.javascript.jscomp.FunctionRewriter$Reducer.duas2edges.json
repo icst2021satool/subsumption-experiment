@@ -1,0 +1,8 @@
+{
+"Class" : "com.google.javascript.jscomp.FunctionRewriter$Reducer", 
+"Methods" : [{ "Name" : "buildCallNode" ,
+"Edges" : 4,
+"Duas" : 5,
+"0" : 0, 
+ "1" : 1}]
+}

@@ -1,0 +1,18 @@
+{
+"Class" : "com.google.javascript.jscomp.DefaultPassConfig$60", 
+"Methods" : [{ "Name" : "create" ,
+"Duas" : 13,
+"0" :  "(1665,(1665,1665), this)",
+"1" :  "(1665,(1665,1665), this)",
+"2" :  "(1665,1665, this)",
+"3" :  "(1665,1665, compiler)",
+"4" :  "(1665,(1665,1665), this.this$0)",
+"5" :  "(1665,(1665,1665), this.this$0)",
+"6" :  "(1665,1665, this.this$0)",
+"7" :  "(1665,(1665,1665), this.options)",
+"8" :  "(1665,(1665,1665), this.options)",
+"9" :  "(1665,1665, this.options)",
+"10" :  "(1665,(1665,1665), this.removeUnusedVars)",
+"11" :  "(1665,(1665,1665), this.removeUnusedVars)",
+"12" :  "(1665,1665, this.removeUnusedPrototypePropertiesInExterns)"}]
+}

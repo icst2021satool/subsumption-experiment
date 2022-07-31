@@ -1,0 +1,13 @@
+{
+"Class" : "com.google.javascript.jscomp.FlowSensitiveInlineVariables$Candidate$4", 
+"Methods" : [{ "Name" : "visit" ,
+"Nodes" : 7,
+"0" : [ 486 ]
+"1" : [ 492 ]
+"2" : [ 486 ]
+"3" : [ 486 ]
+"4" : [ 490 ]
+"5" : [ 486 ]
+"6" : [  ]
+}]
+}

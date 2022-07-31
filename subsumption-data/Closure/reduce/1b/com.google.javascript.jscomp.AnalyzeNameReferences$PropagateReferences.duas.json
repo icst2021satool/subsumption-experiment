@@ -1,0 +1,22 @@
+{
+"Class" : "com.google.javascript.jscomp.AnalyzeNameReferences$PropagateReferences", 
+"Methods" : [{ "Name" : "traverseEdge" ,
+"Duas" : 17,
+"0" :  "(72,(76,78), this)",
+"1" :  "(72,(76,80), this)",
+"2" :  "(72,80, edge)",
+"3" :  "(72,(76,78), edge)",
+"4" :  "(72,(76,80), edge)",
+"5" :  "(72,(76,78), this.this$0)",
+"6" :  "(72,(76,80), this.this$0)",
+"7" :  "(72,(74,75), startInfo)",
+"8" :  "(72,(74,83), startInfo)",
+"9" :  "(72,75, startInfo)",
+"10" :  "(73,80, destInfo)",
+"11" :  "(73,78, destInfo)",
+"12" :  "(75,(76,76), startModule)",
+"13" :  "(75,(76,80), startModule)",
+"14" :  "(75,(76,78), startModule)",
+"15" :  "(75,(76,80), startModule)",
+"16" :  "(75,78, startModule)"}]
+}

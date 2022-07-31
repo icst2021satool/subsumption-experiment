@@ -1,0 +1,22 @@
+{
+"Class" : "com.google.javascript.jscomp.CheckUnreachableCode$ReachablePredicate", 
+"Methods" : [{ "Name" : "apply" ,
+"Duas" : 17,
+"0" :  "(95,99, input)",
+"1" :  "(95,99, input.sourceNode)",
+"2" :  "(95,(106,107), UNKNOWN)",
+"3" :  "(95,(106,110), UNKNOWN)",
+"4" :  "(95,(107,107), ON_TRUE)",
+"5" :  "(95,(107,107), ON_TRUE)",
+"6" :  "(95,(96,97), branch)",
+"7" :  "(95,(96,99), branch)",
+"8" :  "(95,(107,107), branch)",
+"9" :  "(95,(107,107), branch)",
+"10" :  "(100,(104,105), condition)",
+"11" :  "(100,(104,110), condition)",
+"12" :  "(100,105, condition)",
+"13" :  "(105,(106,107), val)",
+"14" :  "(105,(106,110), val)",
+"15" :  "(105,(107,107), val)",
+"16" :  "(105,(107,107), val)"}]
+}

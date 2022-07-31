@@ -1,0 +1,8 @@
+{
+"Class" : "com.google.javascript.jscomp.AnalyzeNameReferences", 
+"Methods" : [{ "Name" : "getInfo" ,
+"Edges" : 4,
+"Duas" : 6,
+"2" : 0, 
+ "3" : 1}]
+}

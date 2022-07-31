@@ -1,0 +1,15 @@
+{
+"Class" : "com.google.debugging.sourcemap.SourceMapSection", 
+"Methods" : [{ "Name" : "getSectionUrl" ,
+"Duas" : 10,
+"0" :  "(81,82, this)",
+"1" :  "(81,(81,81), this)",
+"2" :  "(81,(81,82), this)",
+"3" :  "(81,(81,81), $assertionsDisabled)",
+"4" :  "(81,(81,82), $assertionsDisabled)",
+"5" :  "(81,(81,81), this.type)",
+"6" :  "(81,(81,82), this.type)",
+"7" :  "(81,(81,81), URL)",
+"8" :  "(81,(81,82), URL)",
+"9" :  "(81,82, this.value)"}]
+}

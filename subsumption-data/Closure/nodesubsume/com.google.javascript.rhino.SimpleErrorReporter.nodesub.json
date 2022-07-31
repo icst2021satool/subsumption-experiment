@@ -1,0 +1,33 @@
+{
+"Class" : "com.google.javascript.rhino.SimpleErrorReporter", 
+"Methods" : [{ "Name" : "warning" ,
+"Nodes" : 4,
+"0" : [ ],
+"2" : [ 0, 3, 8],
+"1" : [ 2, 4, 5, 6, 7],
+"3" : [ 2, 4, 5, 6, 7],
+"CoveredDUAsByNodes" : 8,
+"Duas" : 12
+},{ "Name" : "error" ,
+"Nodes" : 4,
+"0" : [ ],
+"2" : [ 0, 3, 8],
+"1" : [ 2, 4, 5, 6, 7],
+"3" : [ 2, 4, 5, 6, 7],
+"CoveredDUAsByNodes" : 8,
+"Duas" : 12
+},{ "Name" : "formatDetailedMessage" ,
+"Nodes" : 9,
+"0" : [ ],
+"2" : [ 0],
+"3" : [ 0, 6, 11],
+"7" : [ 0, 16, 2, 4, 6, 11],
+"4" : [ 0, 6, 11],
+"6" : [ 0, 6, 7, 9, 11, 14, 15],
+"5" : [ 0, 6, 11, 12, 13],
+"1" : [ 10],
+"8" : [ ],
+"CoveredDUAsByNodes" : 13,
+"Duas" : 17
+}]
+}

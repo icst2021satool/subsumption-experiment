@@ -1,0 +1,10 @@
+{
+"Class" : "com.google.javascript.jscomp.GlobalVarReferenceMap$GlobalVarRefCleanupPass", 
+"Methods" : [{ "Name" : "hotSwapScript" ,
+"Nodes" : 4,
+"0" : [ 249,250 ]
+"1" : [ 253 ]
+"2" : [ 251 ]
+"3" : [  ]
+}]
+}

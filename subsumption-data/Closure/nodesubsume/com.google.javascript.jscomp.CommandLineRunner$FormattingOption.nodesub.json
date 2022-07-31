@@ -1,0 +1,15 @@
+{
+"Class" : "com.google.javascript.jscomp.CommandLineRunner$FormattingOption", 
+"Methods" : [{ "Name" : "applyToOptions" ,
+"Nodes" : 7,
+"0" : [ ],
+"1" : [ 3, 5, 11],
+"3" : [ 2, 6, 10],
+"4" : [ 1, 7, 9],
+"2" : [ ],
+"5" : [ 0, 4, 8],
+"6" : [ ],
+"CoveredDUAsByNodes" : 12,
+"Duas" : 12
+}]
+}

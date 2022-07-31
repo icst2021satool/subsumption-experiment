@@ -1,0 +1,12 @@
+{
+"Class" : "com.google.javascript.jscomp.ControlFlowAnalysis$AstControlFlowGraph", 
+"Methods" : [{ "Name" : "getOptionalNodeComparator" ,
+"Nodes" : 4,
+"0" : [ ],
+"1" : [ 0, 3],
+"2" : [ 1, 2],
+"3" : [ ],
+"CoveredDUAsByNodes" : 4,
+"Duas" : 4
+}]
+}

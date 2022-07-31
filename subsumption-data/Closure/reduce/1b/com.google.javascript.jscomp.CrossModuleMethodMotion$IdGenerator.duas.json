@@ -1,0 +1,9 @@
+{
+"Class" : "com.google.javascript.jscomp.CrossModuleMethodMotion$IdGenerator", 
+"Methods" : [{ "Name" : "hasGeneratedAnyIds" ,
+"Duas" : 4,
+"0" :  "(210,(210,210), this)",
+"1" :  "(210,(210,210), this)",
+"2" :  "(210,(210,210), this.currentId)",
+"3" :  "(210,(210,210), this.currentId)"}]
+}

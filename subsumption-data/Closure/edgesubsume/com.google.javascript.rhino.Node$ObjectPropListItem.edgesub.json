@@ -1,0 +1,13 @@
+{
+"Class" : "com.google.javascript.rhino.Node$ObjectPropListItem", 
+"Methods" : [{ "Name" : "toString" ,
+"Edges" : 5,
+"0" : [ 0, 3],
+"1" : [ 1, 4],
+"2" : [ 1, 2, 4, 5],
+"4" : [ 0, 2, 3, 5],
+"3" : [ 2, 5],
+"CoveredDUAsByEdges" : 6,
+"Duas" : 6
+}]
+}

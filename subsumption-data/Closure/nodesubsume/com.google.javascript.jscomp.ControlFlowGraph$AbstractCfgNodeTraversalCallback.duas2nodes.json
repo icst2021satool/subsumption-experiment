@@ -1,0 +1,10 @@
+{
+"Class" : "com.google.javascript.jscomp.ControlFlowGraph$AbstractCfgNodeTraversalCallback", 
+"Methods" : [{ "Name" : "shouldTraverse" ,
+"Nodes" : 7,
+"Duas" : 4,
+"0" :  [ 0,1,4 ],
+"1" :  [ 0,1,2 ],
+"2" :  [ 0,5 ],
+"3" :  [ 0,1 ]}]
+}

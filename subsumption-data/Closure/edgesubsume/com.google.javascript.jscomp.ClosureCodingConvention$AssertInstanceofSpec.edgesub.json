@@ -1,0 +1,20 @@
+{
+"Class" : "com.google.javascript.jscomp.ClosureCodingConvention$AssertInstanceofSpec", 
+"Methods" : [{ "Name" : "getAssertedType" ,
+"Edges" : 12,
+"4" : [ 1, 4],
+"5" : [ 0, 2, 3, 5],
+"8" : [ 1, 4, 6, 8],
+"9" : [ 0, 3, 5, 7],
+"10" : [ 1, 4, 6, 8, 9],
+"11" : [ 0, 3, 5, 10],
+"2" : [ 1, 4, 6, 8, 9, 11],
+"3" : [ 0, 3, 5, 12],
+"6" : [ 1, 4, 6, 8, 9, 11, 13, 15],
+"7" : [ 0, 3, 5, 14],
+"0" : [ 0, 3, 5],
+"1" : [ 1, 4, 6, 8, 9, 11, 13, 15],
+"CoveredDUAsByEdges" : 16,
+"Duas" : 16
+}]
+}

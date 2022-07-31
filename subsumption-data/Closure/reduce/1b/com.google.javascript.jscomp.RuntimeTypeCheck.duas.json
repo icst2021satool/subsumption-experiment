@@ -1,0 +1,17 @@
+{
+"Class" : "com.google.javascript.jscomp.RuntimeTypeCheck", 
+"Methods" : [{ "Name" : "addBoilerplateCode" ,
+"Duas" : 12,
+"0" :  "(365,(366,368), this)",
+"1" :  "(365,(366,379), this)",
+"2" :  "(365,368, this)",
+"3" :  "(365,377, this)",
+"4" :  "(365,368, this.compiler)",
+"5" :  "(365,377, this.compiler)",
+"6" :  "(365,(366,368), this.logFunction)",
+"7" :  "(365,(366,379), this.logFunction)",
+"8" :  "(365,368, this.logFunction)",
+"9" :  "(365,(366,366), newNode)",
+"10" :  "(365,(366,379), newNode)",
+"11" :  "(365,376, newNode)"}]
+}

@@ -1,0 +1,14 @@
+{
+"Class" : "com.google.javascript.jscomp.AmbiguateProperties$1", 
+"Methods" : [{ "Name" : "compare" ,
+"Edges" : 4,
+"Duas" : 16,
+"0" : 1, 
+ "1" : 2, 
+ "4" : 1, 
+ "5" : 2, 
+ "8" : 1, 
+ "9" : 2, 
+ "11" : 1, 
+ "12" : 2}]
+}

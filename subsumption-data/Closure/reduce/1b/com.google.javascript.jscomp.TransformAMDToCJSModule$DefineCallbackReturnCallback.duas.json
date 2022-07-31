@@ -1,0 +1,13 @@
+{
+"Class" : "com.google.javascript.jscomp.TransformAMDToCJSModule$DefineCallbackReturnCallback", 
+"Methods" : [{ "Name" : "visit" ,
+"Duas" : 8,
+"0" :  "(270,(270,270), n)",
+"1" :  "(270,(270,278), n)",
+"2" :  "(270,(270,271), n)",
+"3" :  "(270,(270,278), n)",
+"4" :  "(270,271, n)",
+"5" :  "(270,272, n)",
+"6" :  "(270,273, n)",
+"7" :  "(270,273, parent)"}]
+}

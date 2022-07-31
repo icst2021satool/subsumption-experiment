@@ -1,0 +1,13 @@
+{
+"Class" : "com.google.javascript.jscomp.XtbMessageBundle", 
+"Methods" : [{ "Name" : "<init>" ,
+"Nodes" : 5,
+"0" : [ ],
+"1" : [ 6],
+"3" : [ 5],
+"2" : [ 0, 1, 2, 3, 4, 7],
+"4" : [ 0, 1, 2, 3, 4, 7],
+"CoveredDUAsByNodes" : 8,
+"Duas" : 8
+}]
+}

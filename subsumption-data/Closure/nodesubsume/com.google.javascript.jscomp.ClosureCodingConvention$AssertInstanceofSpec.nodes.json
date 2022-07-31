@@ -1,0 +1,14 @@
+{
+"Class" : "com.google.javascript.jscomp.ClosureCodingConvention$AssertInstanceofSpec", 
+"Methods" : [{ "Name" : "getAssertedType" ,
+"Nodes" : 8,
+"0" : [ 453 ]
+"1" : [ 465 ]
+"2" : [ 454,455 ]
+"3" : [ 456,457 ]
+"4" : [ 457 ]
+"5" : [ 457 ]
+"6" : [ 460,461 ]
+"7" : [  ]
+}]
+}

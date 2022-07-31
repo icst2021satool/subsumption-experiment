@@ -1,0 +1,14 @@
+{
+"Class" : "com.google.javascript.jscomp.SideEffectsAnalysis$VariableUseDeclarationMap", 
+"Methods" : [{ "Name" : "mapUses" ,
+"Nodes" : 8,
+"0" : [ 960,962,966,968 ]
+"1" : [ 968 ]
+"2" : [ 979 ]
+"3" : [ 968,969,972 ]
+"4" : [ 972 ]
+"5" : [ 978 ]
+"6" : [ 976,977,972,973 ]
+"7" : [  ]
+}]
+}

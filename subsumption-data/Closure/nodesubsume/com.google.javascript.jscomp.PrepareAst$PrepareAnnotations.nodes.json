@@ -1,0 +1,51 @@
+{
+"Class" : "com.google.javascript.jscomp.PrepareAst$PrepareAnnotations", 
+"Methods" : [{ "Name" : "shouldTraverse" ,
+"Nodes" : 4,
+"0" : [ 126 ]
+"1" : [ 129 ]
+"2" : [ 127 ]
+"3" : [  ]
+},{ "Name" : "visit" ,
+"Nodes" : 5,
+"0" : [ 134 ]
+"1" : [ 140 ]
+"2" : [ 136,137 ]
+"3" : [ 143 ]
+"4" : [  ]
+},{ "Name" : "normalizeObjectLiteralAnnotations" ,
+"Nodes" : 5,
+"0" : [ 146,147 ]
+"1" : [ 148 ]
+"2" : [ 152 ]
+"3" : [ 148,149,150 ]
+"4" : [  ]
+},{ "Name" : "annotateCalls" ,
+"Nodes" : 7,
+"0" : [ 163,164,159 ]
+"1" : [ 170 ]
+"2" : [ 174 ]
+"3" : [ 170 ]
+"4" : [ 172 ]
+"5" : [ 165 ]
+"6" : [  ]
+},{ "Name" : "annotateDispatchers" ,
+"Nodes" : 9,
+"0" : [ 180,181 ]
+"1" : [ 188 ]
+"2" : [ 181 ]
+"3" : [ 183 ]
+"4" : [ 184 ]
+"5" : [ 184 ]
+"6" : [ 184,185 ]
+"7" : [ 184 ]
+"8" : [  ]
+},{ "Name" : "normalizeObjectLiteralKeyAnnotations" ,
+"Nodes" : 5,
+"0" : [ 208,207 ]
+"1" : [ 212 ]
+"2" : [ 208 ]
+"3" : [ 210 ]
+"4" : [  ]
+}]
+}

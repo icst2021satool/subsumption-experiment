@@ -1,0 +1,17 @@
+{
+"Class" : "com.google.javascript.rhino.Node$AncestorIterable$1", 
+"Methods" : [{ "Name" : "hasNext" ,
+"Nodes" : 5,
+"0" : [ 1347 ]
+"1" : [ 1347 ]
+"2" : [ 1347 ]
+"3" : [ 1347 ]
+"4" : [  ]
+},{ "Name" : "next" ,
+"Nodes" : 4,
+"0" : [ 1352 ]
+"1" : [ 1353,1354,1355 ]
+"2" : [ 1352 ]
+"3" : [  ]
+}]
+}

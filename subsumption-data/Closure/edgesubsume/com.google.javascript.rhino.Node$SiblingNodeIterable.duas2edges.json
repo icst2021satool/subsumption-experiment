@@ -1,0 +1,22 @@
+{
+"Class" : "com.google.javascript.rhino.Node$SiblingNodeIterable", 
+"Methods" : [{ "Name" : "iterator" ,
+"Edges" : 4,
+"Duas" : 8,
+"0" : 1, 
+ "1" : 2, 
+ "5" : 1, 
+ "6" : 2},{ "Name" : "hasNext" ,
+"Edges" : 5,
+"Duas" : 4,
+"0" : 1, 
+ "1" : 2, 
+ "2" : 1, 
+ "3" : 2},{ "Name" : "next" ,
+"Edges" : 4,
+"Duas" : 8,
+"0" : 1, 
+ "1" : 2, 
+ "4" : 1, 
+ "5" : 2}]
+}

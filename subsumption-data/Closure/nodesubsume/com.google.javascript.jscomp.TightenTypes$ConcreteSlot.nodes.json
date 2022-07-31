@@ -1,0 +1,11 @@
+{
+"Class" : "com.google.javascript.jscomp.TightenTypes$ConcreteSlot", 
+"Methods" : [{ "Name" : "addConcreteType" ,
+"Nodes" : 5,
+"0" : [ 299,300,301 ]
+"1" : [ 301 ]
+"2" : [ 301 ]
+"3" : [ 301 ]
+"4" : [  ]
+}]
+}

@@ -1,0 +1,16 @@
+{
+"Class" : "com.google.javascript.jscomp.LineNumberCheck", 
+"Methods" : [{ "Name" : "shouldTraverse" ,
+"Duas" : "3" ,
+"Subsumers" : 2,
+"0" : [ 1, 0], "S0" : [0, 1 ],
+"1" : [ 2], "S1" : [2 ]
+},{ "Name" : "visit" ,
+"Duas" : "15" ,
+"Subsumers" : 4,
+"0" : [ 14, 13, 9, 10, 7, 4, 2], "S0" : [0, 2, 4, 6, 7, 9, 10, 11, 13, 14 ],
+"1" : [ 8], "S1" : [0, 6, 8, 11 ],
+"2" : [ 12, 1], "S2" : [1, 6, 12 ],
+"3" : [ 5, 3], "S3" : [3, 5 ]
+}]
+}

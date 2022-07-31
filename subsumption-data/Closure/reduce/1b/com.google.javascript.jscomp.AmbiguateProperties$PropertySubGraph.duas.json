@@ -1,0 +1,13 @@
+{
+"Class" : "com.google.javascript.jscomp.AmbiguateProperties$PropertySubGraph", 
+"Methods" : [{ "Name" : "isIndependentOf" ,
+"Duas" : 8,
+"0" :  "(393,(393,393), this)",
+"1" :  "(393,(393,393), this)",
+"2" :  "(393,(393,393), prop)",
+"3" :  "(393,(393,393), prop)",
+"4" :  "(393,(393,393), this.relatedTypes)",
+"5" :  "(393,(393,393), this.relatedTypes)",
+"6" :  "(393,(393,393), prop.relatedTypes)",
+"7" :  "(393,(393,393), prop.relatedTypes)"}]
+}

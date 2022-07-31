@@ -1,0 +1,19 @@
+{
+"Class" : "com.google.javascript.jscomp.FunctionRewriter$ReturnConstantReducer", 
+"Methods" : [{ "Name" : "reduce" ,
+"Nodes" : 6,
+"0" : [ 364 ]
+"1" : [ 368,369 ]
+"2" : [ 372 ]
+"3" : [ 370 ]
+"4" : [ 365 ]
+"5" : [  ]
+},{ "Name" : "getValueNode" ,
+"Nodes" : 5,
+"0" : [ 384,385 ]
+"1" : [ 389 ]
+"2" : [ 385 ]
+"3" : [ 387 ]
+"4" : [  ]
+}]
+}

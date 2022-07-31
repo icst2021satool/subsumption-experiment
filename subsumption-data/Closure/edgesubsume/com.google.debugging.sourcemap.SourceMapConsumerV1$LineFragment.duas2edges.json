@@ -1,0 +1,14 @@
+{
+"Class" : "com.google.debugging.sourcemap.SourceMapConsumerV1$LineFragment", 
+"Methods" : [{ "Name" : "valueAtColumn" ,
+"Edges" : 9,
+"Duas" : 20,
+"2" : 7, 
+ "3" : 8, 
+ "4" : 5, 
+ "5" : 6, 
+ "10" : 5, 
+ "11" : 6, 
+ "16" : 5, 
+ "17" : 6}]
+}

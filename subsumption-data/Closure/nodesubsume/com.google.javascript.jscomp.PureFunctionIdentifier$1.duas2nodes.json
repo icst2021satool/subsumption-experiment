@@ -1,0 +1,12 @@
+{
+"Class" : "com.google.javascript.jscomp.PureFunctionIdentifier$1", 
+"Methods" : [{ "Name" : "apply" ,
+"Nodes" : 8,
+"Duas" : 6,
+"0" :  [ 0,6 ],
+"1" :  [ 0,5 ],
+"2" :  [ 0,4 ],
+"3" :  [ 0,3 ],
+"4" :  [ 0,2 ],
+"5" :  [ 0,1 ]}]
+}

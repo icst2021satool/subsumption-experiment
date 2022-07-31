@@ -1,0 +1,13 @@
+{
+"Class" : "com.google.javascript.jscomp.graph.Graph$SimpleSubGraph", 
+"Methods" : [{ "Name" : "isIndependentOf" ,
+"Nodes" : 7,
+"0" : [ 316,317 ]
+"1" : [ 317 ]
+"2" : [ 322 ]
+"3" : [ 317,318 ]
+"4" : [ 321 ]
+"5" : [ 319 ]
+"6" : [  ]
+}]
+}

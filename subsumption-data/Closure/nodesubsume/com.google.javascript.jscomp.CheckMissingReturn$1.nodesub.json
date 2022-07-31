@@ -1,0 +1,14 @@
+{
+"Class" : "com.google.javascript.jscomp.CheckMissingReturn$1", 
+"Methods" : [{ "Name" : "apply" ,
+"Nodes" : 6,
+"0" : [ ],
+"3" : [ 0],
+"1" : [ ],
+"4" : [ 0, 2],
+"2" : [ ],
+"5" : [ ],
+"CoveredDUAsByNodes" : 2,
+"Duas" : 4
+}]
+}

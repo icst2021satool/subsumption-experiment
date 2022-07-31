@@ -1,0 +1,19 @@
+{
+"Class" : "com.google.javascript.jscomp.MarkNoSideEffectCalls$SetNoSideEffectCallProperty", 
+"Methods" : [{ "Name" : "visit" ,
+"Nodes" : 13,
+"0" : [ 177 ]
+"1" : [ 181,183 ]
+"2" : [ 187 ]
+"3" : [ 187 ]
+"4" : [ 196,197 ]
+"5" : [ 187,188,189,190 ]
+"6" : [ 194 ]
+"7" : [ 190 ]
+"8" : [ 192 ]
+"9" : [ 184 ]
+"10" : [ 177 ]
+"11" : [ 178 ]
+"12" : [  ]
+}]
+}

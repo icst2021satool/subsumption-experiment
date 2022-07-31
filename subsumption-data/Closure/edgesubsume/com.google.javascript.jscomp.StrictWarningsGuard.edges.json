@@ -1,0 +1,14 @@
+{
+"Class" : "com.google.javascript.jscomp.StrictWarningsGuard", 
+"Methods" : [{ "Name" : "level" ,
+"Edges" : 8,
+"0" : [ 0,5 ],
+"1" : [ 0,1 ],
+"2" : [ 4,3 ],
+"3" : [ 1,4 ],
+"4" : [ 1,2 ],
+"5" : [ 5,6 ],
+"6" : [ 3,6 ],
+"7" : [ 2,3 ]
+}]
+}

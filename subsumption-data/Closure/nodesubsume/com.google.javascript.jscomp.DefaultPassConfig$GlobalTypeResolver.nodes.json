@@ -1,0 +1,11 @@
+{
+"Class" : "com.google.javascript.jscomp.DefaultPassConfig$GlobalTypeResolver", 
+"Methods" : [{ "Name" : "process" ,
+"Nodes" : 5,
+"0" : [ 1256 ]
+"1" : [ 1259 ]
+"2" : [ 1261 ]
+"3" : [ 1257 ]
+"4" : [  ]
+}]
+}

@@ -1,0 +1,13 @@
+{
+"Class" : "com.google.javascript.jscomp.ChainCalls", 
+"Methods" : [{ "Name" : "process" ,
+"Edges" : 5,
+"4" : [ ],
+"1" : [ 0, 1, 2, 4],
+"2" : [ 3],
+"3" : [ 3],
+"0" : [ 0, 1, 2, 4],
+"CoveredDUAsByEdges" : 5,
+"Duas" : 5
+}]
+}

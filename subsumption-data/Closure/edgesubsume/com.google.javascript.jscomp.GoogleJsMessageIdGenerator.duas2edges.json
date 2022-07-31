@@ -1,0 +1,16 @@
+{
+"Class" : "com.google.javascript.jscomp.GoogleJsMessageIdGenerator", 
+"Methods" : [{ "Name" : "generateId" ,
+"Edges" : 17,
+"Duas" : 21,
+"0" : 12, 
+ "1" : 13, 
+ "2" : 5, 
+ "3" : 6, 
+ "8" : 12, 
+ "9" : 13, 
+ "13" : 14, 
+ "14" : 15, 
+ "16" : 0, 
+ "17" : 1}]
+}

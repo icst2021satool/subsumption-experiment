@@ -1,0 +1,10 @@
+{
+"Class" : "com.google.javascript.jscomp.ReplaceIdGenerators$ObfuscatedNameSuppier", 
+"Methods" : [{ "Name" : "getName" ,
+"Nodes" : 4,
+"0" : [ 122,123 ]
+"1" : [ 126 ]
+"2" : [ 124 ]
+"3" : [  ]
+}]
+}

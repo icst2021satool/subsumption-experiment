@@ -1,0 +1,61 @@
+{
+"Class" : "com.google.javascript.jscomp.type.ChainableReverseAbstractInterpreter$RestrictByOneTypeOfResultVisitor", 
+"Methods" : [{ "Name" : "matchesExpectation" ,
+"Duas" : "8" ,
+"Subsumers" : 2,
+"0" : [ 6, 4, 2, 0], "S0" : [0, 2, 4, 6 ],
+"1" : [ 7, 5, 3, 1], "S1" : [1, 3, 5, 7 ]
+},{ "Name" : "caseTopType" ,
+"Duas" : "12" ,
+"Subsumers" : 3,
+"0" : [ 11, 10, 8], "S0" : [0, 2, 3, 5, 6, 8, 10, 11 ],
+"1" : [ 9], "S1" : [0, 2, 3, 5, 6, 7, 9 ],
+"2" : [ 4, 1], "S2" : [1, 4, 7 ]
+},{ "Name" : "caseNoObjectType" ,
+"Duas" : "15" ,
+"Subsumers" : 5,
+"0" : [ 9, 5], "S0" : [0, 4, 5, 7, 9, 13, 14 ],
+"1" : [ 10, 6], "S1" : [0, 4, 6, 7, 10, 13, 14 ],
+"2" : [ 8, 1], "S2" : [1, 4, 8, 13, 14 ],
+"3" : [ 11, 2], "S3" : [2, 4, 11, 13, 14 ],
+"4" : [ 12, 3], "S4" : [3, 4, 12, 13, 14 ]
+},{ "Name" : "caseBooleanType" ,
+"Duas" : "5" ,
+"Subsumers" : 2,
+"0" : [ 0], "S0" : [0, 2, 3, 4 ],
+"1" : [ 1], "S1" : [1, 2, 3, 4 ]
+},{ "Name" : "caseFunctionType" ,
+"Duas" : "3" ,
+"Subsumers" : 2,
+"0" : [ 0], "S0" : [0, 2 ],
+"1" : [ 1], "S1" : [1, 2 ]
+},{ "Name" : "caseNullType" ,
+"Duas" : "5" ,
+"Subsumers" : 2,
+"0" : [ 0], "S0" : [0, 2, 3, 4 ],
+"1" : [ 1], "S1" : [1, 2, 3, 4 ]
+},{ "Name" : "caseNumberType" ,
+"Duas" : "5" ,
+"Subsumers" : 2,
+"0" : [ 0], "S0" : [0, 2, 3, 4 ],
+"1" : [ 1], "S1" : [1, 2, 3, 4 ]
+},{ "Name" : "caseObjectType" ,
+"Duas" : "21" ,
+"Subsumers" : 5,
+"0" : [ 20, 16, 11, 5], "S0" : [0, 4, 5, 11, 12, 14, 15, 16, 20 ],
+"1" : [ 18, 8], "S1" : [0, 4, 6, 8, 10, 12, 14, 15, 17, 18 ],
+"2" : [ 19, 9], "S2" : [0, 4, 6, 9, 10, 12, 14, 15, 17, 19 ],
+"3" : [ 2], "S3" : [1, 2, 7, 13 ],
+"4" : [ 3], "S4" : [1, 3, 7, 13 ]
+},{ "Name" : "caseStringType" ,
+"Duas" : "5" ,
+"Subsumers" : 2,
+"0" : [ 0], "S0" : [0, 2, 3, 4 ],
+"1" : [ 1], "S1" : [1, 2, 3, 4 ]
+},{ "Name" : "caseVoidType" ,
+"Duas" : "5" ,
+"Subsumers" : 2,
+"0" : [ 0], "S0" : [0, 2, 3, 4 ],
+"1" : [ 1], "S1" : [1, 2, 3, 4 ]
+}]
+}

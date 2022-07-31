@@ -1,0 +1,17 @@
+{
+"Class" : "com.google.javascript.jscomp.SideEffectsAnalysis$VariableUseDeclarationMap", 
+"Methods" : [{ "Name" : "mapUses" ,
+"Edges" : 9,
+"6" : [ ],
+"1" : [ 2, 3, 5],
+"2" : [ 4],
+"0" : [ 4],
+"8" : [ 2, 3, 5],
+"3" : [ 0, 1, 2, 3, 5, 6, 7, 9],
+"4" : [ 2, 3, 5, 8],
+"5" : [ 2, 3, 5, 8],
+"7" : [ 0, 1, 2, 3, 5, 6, 7, 9],
+"CoveredDUAsByEdges" : 10,
+"Duas" : 10
+}]
+}

@@ -1,0 +1,13 @@
+{
+"Class" : "com.google.javascript.jscomp.FunctionRewriter$ReductionGatherer", 
+"Methods" : [{ "Name" : "shouldTraverse" ,
+"Nodes" : 7,
+"0" : [ 177 ]
+"1" : [ 177 ]
+"2" : [ 184 ]
+"3" : [ 177,178,179 ]
+"4" : [ 183 ]
+"5" : [ 180,181 ]
+"6" : [  ]
+}]
+}

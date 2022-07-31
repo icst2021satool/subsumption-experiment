@@ -1,0 +1,17 @@
+{
+"Class" : "com.google.javascript.jscomp.MakeDeclaredNamesUnique$WhitelistedRenamer", 
+"Methods" : [{ "Name" : "addDeclaredName" ,
+"Nodes" : 4,
+"0" : [ 605 ]
+"1" : [ 608 ]
+"2" : [ 606 ]
+"3" : [  ]
+},{ "Name" : "getReplacementName" ,
+"Nodes" : 5,
+"0" : [ 611 ]
+"1" : [ 611 ]
+"2" : [ 611 ]
+"3" : [ 611 ]
+"4" : [  ]
+}]
+}

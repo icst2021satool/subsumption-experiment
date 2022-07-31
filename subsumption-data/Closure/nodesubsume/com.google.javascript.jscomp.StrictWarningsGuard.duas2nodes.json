@@ -1,0 +1,13 @@
+{
+"Class" : "com.google.javascript.jscomp.StrictWarningsGuard", 
+"Methods" : [{ "Name" : "level" ,
+"Nodes" : 7,
+"Duas" : 7,
+"0" :  [ 0,5 ],
+"1" :  [ 0,1 ],
+"2" :  [ 0,1,4 ],
+"3" :  [ 0,1,2 ],
+"4" :  [ 0,5 ],
+"5" :  [ 0,1 ],
+"6" :  [ 0,3 ]}]
+}

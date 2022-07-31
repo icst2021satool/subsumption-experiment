@@ -1,0 +1,18 @@
+{
+"Class" : "com.google.javascript.jscomp.AliasKeywords$FindAliasableNodes", 
+"Methods" : [{ "Name" : "visit" ,
+"Nodes" : 6,
+"0" : [ 44,45 ]
+"1" : [ 47 ]
+"2" : [ 50 ]
+"3" : [ 48 ]
+"4" : [ 46 ]
+"5" : [  ]
+},{ "Name" : "visitNameNode" ,
+"Nodes" : 4,
+"0" : [ 66 ]
+"1" : [ 70 ]
+"2" : [ 67 ]
+"3" : [  ]
+}]
+}

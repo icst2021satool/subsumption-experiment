@@ -1,0 +1,16 @@
+{
+"Class" : "com.google.javascript.jscomp.AnalyzePrototypeProperties$NameInfo", 
+"Methods" : [{ "Name" : "markReference" ,
+"Nodes" : 10,
+"0" : [ 790,791 ]
+"1" : [ 796 ]
+"2" : [ 812 ]
+"3" : [ 797,799 ]
+"4" : [ 802 ]
+"5" : [ 807 ]
+"6" : [ 808 ]
+"7" : [ 800 ]
+"8" : [ 792,793 ]
+"9" : [  ]
+}]
+}

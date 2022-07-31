@@ -1,0 +1,29 @@
+{
+"Class" : "com.google.javascript.jscomp.TightenTypes$ConcreteJSTypePair", 
+"Methods" : [{ "Name" : "getJSTypeHashCode" ,
+"Nodes" : 5,
+"0" : [ 1386 ]
+"1" : [ 1386 ]
+"2" : [ 1386 ]
+"3" : [ 1386 ]
+"4" : [  ]
+},{ "Name" : "equalsJSType" ,
+"Nodes" : 8,
+"0" : [ 1390 ]
+"1" : [ 1391 ]
+"2" : [ 1391 ]
+"3" : [ 1391 ]
+"4" : [ 1391 ]
+"5" : [ 1390 ]
+"6" : [ 1393 ]
+"7" : [  ]
+},{ "Name" : "equals" ,
+"Nodes" : 6,
+"0" : [ 1399 ]
+"1" : [ 1406 ]
+"2" : [ 1400,1401 ]
+"3" : [ 1401 ]
+"4" : [ 1403 ]
+"5" : [  ]
+}]
+}

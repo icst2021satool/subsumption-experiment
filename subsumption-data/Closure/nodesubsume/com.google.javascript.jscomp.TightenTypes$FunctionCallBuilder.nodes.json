@@ -1,0 +1,25 @@
+{
+"Class" : "com.google.javascript.jscomp.TightenTypes$FunctionCallBuilder", 
+"Methods" : [{ "Name" : "setIsNewCall" ,
+"Nodes" : 6,
+"0" : [ 412 ]
+"1" : [ 412 ]
+"2" : [ 416,412,415 ]
+"3" : [ 412 ]
+"4" : [ 412 ]
+"5" : [  ]
+},{ "Name" : "setIsCallFunction" ,
+"Nodes" : 5,
+"0" : [ 424 ]
+"1" : [ 424 ]
+"2" : [ 424,427,428 ]
+"3" : [ 424 ]
+"4" : [  ]
+},{ "Name" : "build" ,
+"Nodes" : 4,
+"0" : [ 432 ]
+"1" : [ 435 ]
+"2" : [ 433 ]
+"3" : [  ]
+}]
+}

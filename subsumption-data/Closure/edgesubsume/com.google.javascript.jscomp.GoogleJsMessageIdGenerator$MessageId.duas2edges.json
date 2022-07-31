@@ -1,0 +1,12 @@
+{
+"Class" : "com.google.javascript.jscomp.GoogleJsMessageIdGenerator$MessageId", 
+"Methods" : [{ "Name" : "GenerateId" ,
+"Edges" : 10,
+"Duas" : 11,
+"0" : 4, 
+ "1" : 5, 
+ "2" : 7, 
+ "3" : 8, 
+ "6" : 0, 
+ "7" : 1}]
+}

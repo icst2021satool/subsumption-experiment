@@ -1,0 +1,12 @@
+{
+"Class" : "com.google.javascript.jscomp.graph.GraphColoring$GreedyGraphColoring$1", 
+"Methods" : [{ "Name" : "compare" ,
+"Nodes" : 6,
+"0" : [ 139,141 ]
+"1" : [ 141 ]
+"2" : [ 141 ]
+"3" : [ 141 ]
+"4" : [ 141 ]
+"5" : [  ]
+}]
+}

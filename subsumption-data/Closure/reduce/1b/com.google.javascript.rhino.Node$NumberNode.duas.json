@@ -1,0 +1,19 @@
+{
+"Class" : "com.google.javascript.rhino.Node$NumberNode", 
+"Methods" : [{ "Name" : "isEquivalentTo" ,
+"Duas" : 14,
+"0" :  "(168,170, this)",
+"1" :  "(168,171, node)",
+"2" :  "(168,(169,170), equivalent)",
+"3" :  "(168,(169,177), equivalent)",
+"4" :  "(170,(172,174), thisValue)",
+"5" :  "(170,(172,177), thisValue)",
+"6" :  "(170,(174,174), thisValue)",
+"7" :  "(170,(174,174), thisValue)",
+"8" :  "(170,(174,174), thisValue)",
+"9" :  "(170,(174,174), thisValue)",
+"10" :  "(171,(172,174), thatValue)",
+"11" :  "(171,(172,177), thatValue)",
+"12" :  "(171,(174,174), thatValue)",
+"13" :  "(171,(174,174), thatValue)"}]
+}

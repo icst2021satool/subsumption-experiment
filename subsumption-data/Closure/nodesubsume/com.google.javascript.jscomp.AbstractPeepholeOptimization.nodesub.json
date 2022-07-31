@@ -1,0 +1,30 @@
+{
+"Class" : "com.google.javascript.jscomp.AbstractPeepholeOptimization", 
+"Methods" : [{ "Name" : "isEcmaScript5OrGreater" ,
+"Nodes" : 6,
+"0" : [ ],
+"3" : [ 0, 4],
+"1" : [ ],
+"4" : [ 0, 2, 4, 6],
+"2" : [ ],
+"5" : [ ],
+"CoveredDUAsByNodes" : 4,
+"Duas" : 8
+},{ "Name" : "validateResult" ,
+"Nodes" : 12,
+"0" : [ ],
+"2" : [ 0],
+"3" : [ 0, 3],
+"10" : [ 0, 3, 5],
+"4" : [ 0, 3, 7],
+"5" : [ 0, 3, 7],
+"6" : [ 0, 3, 7, 11],
+"7" : [ 0, 3, 7, 10, 12],
+"8" : [ 0, 3, 7, 10, 12, 14],
+"9" : [ 0, 3, 7, 10, 12, 13],
+"1" : [ 2],
+"11" : [ 2],
+"CoveredDUAsByNodes" : 10,
+"Duas" : 15
+}]
+}

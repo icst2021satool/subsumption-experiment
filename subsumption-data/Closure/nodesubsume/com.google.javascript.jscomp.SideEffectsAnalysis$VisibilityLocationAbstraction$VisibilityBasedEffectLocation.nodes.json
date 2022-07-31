@@ -1,0 +1,18 @@
+{
+"Class" : "com.google.javascript.jscomp.SideEffectsAnalysis$VisibilityLocationAbstraction$VisibilityBasedEffectLocation", 
+"Methods" : [{ "Name" : "intersectsLocation" ,
+"Nodes" : 5,
+"0" : [ 914,908,911 ]
+"1" : [ 914 ]
+"2" : [ 914 ]
+"3" : [ 914 ]
+"4" : [  ]
+},{ "Name" : "isEmpty" ,
+"Nodes" : 5,
+"0" : [ 919 ]
+"1" : [ 919 ]
+"2" : [ 919 ]
+"3" : [ 919 ]
+"4" : [  ]
+}]
+}

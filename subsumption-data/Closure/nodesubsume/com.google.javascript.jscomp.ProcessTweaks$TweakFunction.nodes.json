@@ -1,0 +1,34 @@
+{
+"Class" : "com.google.javascript.jscomp.ProcessTweaks$TweakFunction", 
+"Methods" : [{ "Name" : "isValidNodeType" ,
+"Nodes" : 6,
+"0" : [ 152 ]
+"1" : [ 152 ]
+"2" : [ 152 ]
+"3" : [ 152 ]
+"4" : [ 152 ]
+"5" : [  ]
+},{ "Name" : "isCorrectRegisterFunction" ,
+"Nodes" : 5,
+"0" : [ 156,157 ]
+"1" : [ 157 ]
+"2" : [ 157 ]
+"3" : [ 157 ]
+"4" : [  ]
+},{ "Name" : "isGetterFunction" ,
+"Nodes" : 5,
+"0" : [ 161 ]
+"1" : [ 161 ]
+"2" : [ 161 ]
+"3" : [ 161 ]
+"4" : [  ]
+},{ "Name" : "createDefaultValueNode" ,
+"Nodes" : 6,
+"0" : [ 173 ]
+"1" : [ 179 ]
+"2" : [ 177 ]
+"3" : [ 175 ]
+"4" : [ 181 ]
+"5" : [  ]
+}]
+}

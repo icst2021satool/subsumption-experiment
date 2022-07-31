@@ -1,0 +1,15 @@
+{
+"Class" : "com.google.javascript.jscomp.NodeTraversal$AbstractShallowCallback", 
+"Methods" : [{ "Name" : "shouldTraverse" ,
+"Edges" : 9,
+"0" : [ 3,4 ],
+"1" : [ 3,1 ],
+"2" : [ 2,6 ],
+"3" : [ 0,3 ],
+"4" : [ 0,1 ],
+"5" : [ 1,2 ],
+"6" : [ 5,2 ],
+"7" : [ 4,1 ],
+"8" : [ 4,5 ]
+}]
+}

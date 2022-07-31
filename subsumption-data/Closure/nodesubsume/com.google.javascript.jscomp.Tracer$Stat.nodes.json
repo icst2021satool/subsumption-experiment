@@ -1,0 +1,11 @@
+{
+"Class" : "com.google.javascript.jscomp.Tracer$Stat", 
+"Methods" : [{ "Name" : "getExtraInfo" ,
+"Nodes" : 5,
+"0" : [ 567 ]
+"1" : [ 567 ]
+"2" : [ 567 ]
+"3" : [ 567 ]
+"4" : [  ]
+}]
+}

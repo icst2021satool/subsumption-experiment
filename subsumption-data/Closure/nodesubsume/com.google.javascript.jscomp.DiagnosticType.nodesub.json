@@ -1,0 +1,14 @@
+{
+"Class" : "com.google.javascript.jscomp.DiagnosticType", 
+"Methods" : [{ "Name" : "equals" ,
+"Nodes" : 6,
+"0" : [ ],
+"3" : [ 2],
+"1" : [ ],
+"4" : [ 0, 2, 4, 6],
+"2" : [ ],
+"5" : [ ],
+"CoveredDUAsByNodes" : 4,
+"Duas" : 8
+}]
+}

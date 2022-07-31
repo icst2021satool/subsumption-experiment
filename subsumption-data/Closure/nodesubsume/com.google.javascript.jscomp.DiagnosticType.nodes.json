@@ -1,0 +1,12 @@
+{
+"Class" : "com.google.javascript.jscomp.DiagnosticType", 
+"Methods" : [{ "Name" : "equals" ,
+"Nodes" : 6,
+"0" : [ 115 ]
+"1" : [ 115 ]
+"2" : [ 115 ]
+"3" : [ 115 ]
+"4" : [ 115 ]
+"5" : [  ]
+}]
+}

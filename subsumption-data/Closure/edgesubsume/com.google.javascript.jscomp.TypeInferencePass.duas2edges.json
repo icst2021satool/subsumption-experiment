@@ -1,0 +1,18 @@
+{
+"Class" : "com.google.javascript.jscomp.TypeInferencePass", 
+"Methods" : [{ "Name" : "<init>" ,
+"Edges" : 5,
+"Duas" : 5,
+"2" : 0, 
+ "3" : 1},{ "Name" : "process" ,
+"Edges" : 11,
+"Duas" : 10,
+"1" : 1, 
+ "2" : 2, 
+ "3" : 4, 
+ "4" : 5, 
+ "5" : 7, 
+ "6" : 8, 
+ "8" : 4, 
+ "9" : 5}]
+}

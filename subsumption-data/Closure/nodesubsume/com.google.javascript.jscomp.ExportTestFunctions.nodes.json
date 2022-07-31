@@ -1,0 +1,18 @@
+{
+"Class" : "com.google.javascript.jscomp.ExportTestFunctions", 
+"Methods" : [{ "Name" : "exportTestFunctionAsSymbol" ,
+"Nodes" : 4,
+"0" : [ 121,124,125 ]
+"1" : [ 128,129,133,135,136,137 ]
+"2" : [ 126 ]
+"3" : [  ]
+},{ "Name" : "isTestFunction" ,
+"Nodes" : 6,
+"0" : [ 171 ]
+"1" : [ 171 ]
+"2" : [ 171 ]
+"3" : [ 171 ]
+"4" : [ 171 ]
+"5" : [  ]
+}]
+}

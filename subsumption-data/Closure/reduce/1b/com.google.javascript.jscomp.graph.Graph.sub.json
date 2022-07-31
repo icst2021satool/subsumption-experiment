@@ -1,0 +1,45 @@
+{
+"Class" : "com.google.javascript.jscomp.graph.Graph", 
+"Methods" : [{ "Name" : "connectIfNotFound" ,
+"Duas" : "12" ,
+"Subsumers" : 2,
+"0" : [ 11, 9, 8, 6, 5, 3, 2, 0], "S0" : [0, 2, 3, 5, 6, 8, 9, 11 ],
+"1" : [ 10, 7, 4, 1], "S1" : [1, 4, 7, 10 ]
+},{ "Name" : "hasNode" ,
+"Duas" : "4" ,
+"Subsumers" : 2,
+"0" : [ 2, 0], "S0" : [0, 2 ],
+"1" : [ 3, 1], "S1" : [1, 3 ]
+},{ "Name" : "getNodeOrFail" ,
+"Duas" : "4" ,
+"Subsumers" : 2,
+"0" : [ 1, 0], "S0" : [0, 1 ],
+"1" : [ 3, 2], "S1" : [2, 3 ]
+},{ "Name" : "clearNodeAnnotations" ,
+"Duas" : "3" ,
+"Subsumers" : 1,
+"0" : [ 2, 0], "S0" : [0, 1, 2 ]
+},{ "Name" : "clearEdgeAnnotations" ,
+"Duas" : "3" ,
+"Subsumers" : 1,
+"0" : [ 2, 0], "S0" : [0, 1, 2 ]
+},{ "Name" : "pushNodeAnnotations" ,
+"Duas" : "8" ,
+"Subsumers" : 2,
+"0" : [ 7, 4, 3, 0], "S0" : [0, 2, 3, 4, 7 ],
+"1" : [ 6, 5, 1], "S1" : [1, 2, 5, 6 ]
+},{ "Name" : "pushEdgeAnnotations" ,
+"Duas" : "8" ,
+"Subsumers" : 2,
+"0" : [ 7, 4, 3, 0], "S0" : [0, 2, 3, 4, 7 ],
+"1" : [ 6, 5, 1], "S1" : [1, 2, 5, 6 ]
+},{ "Name" : "pushAnnotations" ,
+"Duas" : "4" ,
+"Subsumers" : 1,
+"0" : [ 3, 1, 0], "S0" : [0, 1, 2, 3 ]
+},{ "Name" : "popAnnotations" ,
+"Duas" : "3" ,
+"Subsumers" : 1,
+"0" : [ 2, 0], "S0" : [0, 1, 2 ]
+}]
+}

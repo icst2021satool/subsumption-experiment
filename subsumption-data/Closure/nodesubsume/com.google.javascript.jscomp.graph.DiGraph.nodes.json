@@ -1,0 +1,20 @@
+{
+"Class" : "com.google.javascript.jscomp.graph.DiGraph", 
+"Methods" : [{ "Name" : "isConnected" ,
+"Nodes" : 6,
+"0" : [ 94 ]
+"1" : [ 94 ]
+"2" : [ 94 ]
+"3" : [ 94 ]
+"4" : [ 94 ]
+"5" : [  ]
+},{ "Name" : "isConnected" ,
+"Nodes" : 6,
+"0" : [ 99 ]
+"1" : [ 99 ]
+"2" : [ 99 ]
+"3" : [ 99 ]
+"4" : [ 99 ]
+"5" : [  ]
+}]
+}

@@ -1,0 +1,22 @@
+{
+"Class" : "com.google.javascript.jscomp.type.ChainableReverseAbstractInterpreter$RestrictByTypeOfResultVisitor", 
+"Methods" : [{ "Name" : "caseUnionType" ,
+"Nodes" : 9,
+"0" : [ 388,389 ]
+"1" : [ 389 ]
+"2" : [ 399 ]
+"3" : [ 389,390,391 ]
+"4" : [ 398 ]
+"5" : [ 392 ]
+"6" : [ 395 ]
+"7" : [ 393 ]
+"8" : [  ]
+},{ "Name" : "caseEnumElementType" ,
+"Nodes" : 5,
+"0" : [ 418,419 ]
+"1" : [ 423 ]
+"2" : [ 419 ]
+"3" : [ 421 ]
+"4" : [  ]
+}]
+}

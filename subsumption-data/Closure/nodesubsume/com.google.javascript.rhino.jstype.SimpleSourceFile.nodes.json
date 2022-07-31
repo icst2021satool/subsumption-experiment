@@ -1,0 +1,10 @@
+{
+"Class" : "com.google.javascript.rhino.jstype.SimpleSourceFile", 
+"Methods" : [{ "Name" : "getLineOffset" ,
+"Nodes" : 4,
+"0" : [ 77 ]
+"1" : [ 81 ]
+"2" : [ 78 ]
+"3" : [  ]
+}]
+}

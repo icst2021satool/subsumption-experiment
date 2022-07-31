@@ -1,0 +1,25 @@
+{
+"Class" : "com.google.javascript.jscomp.ClosureCodeRemoval$RemovableAssignment", 
+"Methods" : [{ "Name" : "<init>" ,
+"Nodes" : 5,
+"0" : [ ],
+"1" : [ 0, 2, 3],
+"3" : [ 0, 2, 3, 4],
+"2" : [ 0, 1, 2, 3, 6],
+"4" : [ 0, 1, 2, 3, 6],
+"CoveredDUAsByNodes" : 6,
+"Duas" : 10
+},{ "Name" : "remove" ,
+"Nodes" : 8,
+"0" : [ ],
+"1" : [ ],
+"2" : [ 0, 3, 8],
+"7" : [ 0, 3, 8],
+"3" : [ 7, 9],
+"4" : [ 4, 5, 7, 9, 11, 12],
+"6" : [ 1, 2, 7, 9, 10, 14],
+"5" : [ 7, 9, 13],
+"CoveredDUAsByNodes" : 14,
+"Duas" : 16
+}]
+}

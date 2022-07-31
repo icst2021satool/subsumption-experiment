@@ -1,0 +1,23 @@
+{
+"Class" : "com.google.javascript.jscomp.RhinoErrorReporter", 
+"Methods" : [{ "Name" : "makeError" ,
+"Duas" : 18,
+"0" :  "(129,136, message)",
+"1" :  "(129,(130,131), message)",
+"2" :  "(129,(130,134), message)",
+"3" :  "(129,131, message)",
+"4" :  "(129,136, sourceName)",
+"5" :  "(129,131, sourceName)",
+"6" :  "(129,136, line)",
+"7" :  "(129,131, line)",
+"8" :  "(129,136, lineOffset)",
+"9" :  "(129,131, lineOffset)",
+"10" :  "(129,136, defaultLevel)",
+"11" :  "(129,136, PARSE_ERROR)",
+"12" :  "(129,(129,129), i$)",
+"13" :  "(129,(129,136), i$)",
+"14" :  "(129,129, i$)",
+"15" :  "(129,(130,131), entry)",
+"16" :  "(129,(130,134), entry)",
+"17" :  "(129,131, entry)"}]
+}

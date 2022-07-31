@@ -1,0 +1,12 @@
+{
+"Class" : "com.google.javascript.jscomp.CheckSideEffects$StripProtection", 
+"Methods" : [{ "Name" : "visit" ,
+"Nodes" : 6,
+"0" : [ 184 ]
+"1" : [ 194 ]
+"2" : [ 185,188 ]
+"3" : [ 188 ]
+"4" : [ 189,190,191 ]
+"5" : [  ]
+}]
+}

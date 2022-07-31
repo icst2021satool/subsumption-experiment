@@ -1,0 +1,13 @@
+{
+"Class" : "com.google.javascript.jscomp.ControlFlowGraph$Branch", 
+"Methods" : [{ "Name" : "isConditional" ,
+"Duas" : 8,
+"0" :  "(130,(130,130), this)",
+"1" :  "(130,(130,130), this)",
+"2" :  "(130,(130,130), this)",
+"3" :  "(130,(130,130), this)",
+"4" :  "(130,(130,130), ON_TRUE)",
+"5" :  "(130,(130,130), ON_TRUE)",
+"6" :  "(130,(130,130), ON_FALSE)",
+"7" :  "(130,(130,130), ON_FALSE)"}]
+}

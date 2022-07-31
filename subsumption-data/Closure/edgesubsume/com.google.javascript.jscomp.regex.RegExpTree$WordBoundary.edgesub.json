@@ -1,0 +1,15 @@
+{
+"Class" : "com.google.javascript.jscomp.regex.RegExpTree$WordBoundary", 
+"Methods" : [{ "Name" : "equals" ,
+"Edges" : 7,
+"5" : [ 2],
+"6" : [ 3],
+"0" : [ 0, 2, 4, 6],
+"1" : [ 1, 5, 7],
+"3" : [ ],
+"2" : [ 0, 2, 4, 6],
+"4" : [ ],
+"CoveredDUAsByEdges" : 8,
+"Duas" : 8
+}]
+}

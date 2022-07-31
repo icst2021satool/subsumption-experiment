@@ -1,0 +1,16 @@
+{
+"Class" : "com.google.javascript.jscomp.type.SemanticReverseAbstractInterpreter$2", 
+"Methods" : [{ "Name" : "apply" ,
+"Duas" : 11,
+"0" :  "(65,(65,65), p)",
+"1" :  "(65,(65,66), p)",
+"2" :  "(65,(65,66), p)",
+"3" :  "(65,(65,68), p)",
+"4" :  "(65,68, p)",
+"5" :  "(65,(65,65), p.typeA)",
+"6" :  "(65,(65,66), p.typeA)",
+"7" :  "(65,68, p.typeA)",
+"8" :  "(65,(65,66), p.typeB)",
+"9" :  "(65,(65,68), p.typeB)",
+"10" :  "(65,68, p.typeB)"}]
+}

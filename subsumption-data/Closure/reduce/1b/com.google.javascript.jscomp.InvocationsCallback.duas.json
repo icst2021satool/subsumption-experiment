@@ -1,0 +1,18 @@
+{
+"Class" : "com.google.javascript.jscomp.InvocationsCallback", 
+"Methods" : [{ "Name" : "visit" ,
+"Duas" : 13,
+"0" :  "(40,57, this)",
+"1" :  "(40,57, t)",
+"2" :  "(40,(40,41), n)",
+"3" :  "(40,(40,44), n)",
+"4" :  "(40,44, n)",
+"5" :  "(40,57, n)",
+"6" :  "(40,57, parent)",
+"7" :  "(44,(46,47), function)",
+"8" :  "(44,(46,50), function)",
+"9" :  "(44,50, function)",
+"10" :  "(50,(53,54), nameNode)",
+"11" :  "(50,(53,57), nameNode)",
+"12" :  "(50,57, nameNode)"}]
+}

@@ -1,0 +1,20 @@
+{
+"Class" : "com.google.javascript.jscomp.NameAnonymousFunctionsMapped$MappedFunctionNamer", 
+"Methods" : [{ "Name" : "getName" ,
+"Edges" : 4,
+"Duas" : 4,
+"0" : 0, 
+ "1" : 1},{ "Name" : "getAlternateName" ,
+"Edges" : 10,
+"Duas" : 24,
+"0" : 0, 
+ "1" : 1, 
+ "7" : 0, 
+ "8" : 1, 
+ "12" : 5, 
+ "13" : 6, 
+ "15" : 3, 
+ "16" : 4, 
+ "18" : 3, 
+ "19" : 4}]
+}

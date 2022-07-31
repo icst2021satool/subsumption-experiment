@@ -1,0 +1,16 @@
+{
+"Class" : "com.google.javascript.jscomp.FunctionTypeBuilder$ExtendedTypeValidator", 
+"Methods" : [{ "Name" : "apply" ,
+"Nodes" : 10,
+"0" : [ 149,150 ]
+"1" : [ 153 ]
+"2" : [ 156 ]
+"3" : [ 164 ]
+"4" : [ 157 ]
+"5" : [ 160,161 ]
+"6" : [ 158 ]
+"7" : [ 154,155 ]
+"8" : [ 151,152 ]
+"9" : [  ]
+}]
+}

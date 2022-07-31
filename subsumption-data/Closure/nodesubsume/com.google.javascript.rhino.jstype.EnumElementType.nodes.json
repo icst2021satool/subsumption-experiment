@@ -1,0 +1,43 @@
+{
+"Class" : "com.google.javascript.rhino.jstype.EnumElementType", 
+"Methods" : [{ "Name" : "getPropertyMap" ,
+"Nodes" : 5,
+"0" : [ 76 ]
+"1" : [ 76 ]
+"2" : [ 76 ]
+"3" : [ 76 ]
+"4" : [  ]
+},{ "Name" : "hashCode" ,
+"Nodes" : 4,
+"0" : [ 138 ]
+"1" : [ 141 ]
+"2" : [ 139 ]
+"3" : [  ]
+},{ "Name" : "toStringHelper" ,
+"Nodes" : 5,
+"0" : [ 147 ]
+"1" : [ 147 ]
+"2" : [ 147 ]
+"3" : [ 147 ]
+"4" : [  ]
+},{ "Name" : "isSubtype" ,
+"Nodes" : 4,
+"0" : [ 164 ]
+"1" : [ 167 ]
+"2" : [ 165 ]
+"3" : [  ]
+},{ "Name" : "getConstructor" ,
+"Nodes" : 5,
+"0" : [ 199 ]
+"1" : [ 199 ]
+"2" : [ 199 ]
+"3" : [ 199 ]
+"4" : [  ]
+},{ "Name" : "meet" ,
+"Nodes" : 4,
+"0" : [ 232,233 ]
+"1" : [ 236 ]
+"2" : [ 234 ]
+"3" : [  ]
+}]
+}

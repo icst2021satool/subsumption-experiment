@@ -1,0 +1,12 @@
+{
+"Class" : "com.google.javascript.jscomp.ReplaceIdGenerators$PseudoNameSuppier", 
+"Methods" : [{ "Name" : "getName" ,
+"Nodes" : 4,
+"0" : [ ],
+"1" : [ 1, 4, 7, 9],
+"2" : [ 0, 2, 3, 5, 6, 8, 10],
+"3" : [ ],
+"CoveredDUAsByNodes" : 11,
+"Duas" : 11
+}]
+}

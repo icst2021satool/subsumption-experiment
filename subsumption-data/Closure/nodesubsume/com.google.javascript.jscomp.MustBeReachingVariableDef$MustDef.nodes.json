@@ -1,0 +1,19 @@
+{
+"Class" : "com.google.javascript.jscomp.MustBeReachingVariableDef$MustDef", 
+"Methods" : [{ "Name" : "<init>" ,
+"Nodes" : 5,
+"0" : [ 121 ]
+"1" : [ 122 ]
+"2" : [ 129 ]
+"3" : [ 128,123,127 ]
+"4" : [  ]
+},{ "Name" : "equals" ,
+"Nodes" : 6,
+"0" : [ 142 ]
+"1" : [ 142 ]
+"2" : [ 142 ]
+"3" : [ 142 ]
+"4" : [ 142 ]
+"5" : [  ]
+}]
+}

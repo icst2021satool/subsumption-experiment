@@ -1,0 +1,11 @@
+{
+"Class" : "com.google.javascript.jscomp.graph.LinkedDirectedGraph$LinkedDirectedGraphEdge", 
+"Methods" : [{ "Name" : "getLabel" ,
+"Nodes" : 5,
+"0" : [ 522 ]
+"1" : [ 522 ]
+"2" : [ 522 ]
+"3" : [ 522 ]
+"4" : [  ]
+}]
+}

@@ -1,0 +1,18 @@
+{
+"Class" : "com.google.javascript.jscomp.PerformanceTracker$CodeSizeEstimatePrinter", 
+"Methods" : [{ "Name" : "append" ,
+"Edges" : 6,
+"Duas" : 15,
+"2" : 0, 
+ "3" : 1, 
+ "8" : 0, 
+ "9" : 1, 
+ "11" : 2, 
+ "12" : 3},{ "Name" : "calcZippedSize" ,
+"Edges" : 4,
+"Duas" : 12,
+"0" : 0, 
+ "1" : 1, 
+ "6" : 0, 
+ "7" : 1}]
+}

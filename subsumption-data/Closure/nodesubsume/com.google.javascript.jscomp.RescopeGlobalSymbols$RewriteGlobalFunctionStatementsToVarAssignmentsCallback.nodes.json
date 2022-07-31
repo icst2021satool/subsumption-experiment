@@ -1,0 +1,13 @@
+{
+"Class" : "com.google.javascript.jscomp.RescopeGlobalSymbols$RewriteGlobalFunctionStatementsToVarAssignmentsCallback", 
+"Methods" : [{ "Name" : "visit" ,
+"Nodes" : 7,
+"0" : [ 117 ]
+"1" : [ 130 ]
+"2" : [ 118,119,120,121,122,123 ]
+"3" : [ 126 ]
+"4" : [ 128 ]
+"5" : [ 124 ]
+"6" : [  ]
+}]
+}

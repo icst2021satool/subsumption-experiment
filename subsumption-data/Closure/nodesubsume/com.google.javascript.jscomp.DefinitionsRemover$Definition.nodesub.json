@@ -1,0 +1,12 @@
+{
+"Class" : "com.google.javascript.jscomp.DefinitionsRemover$Definition", 
+"Methods" : [{ "Name" : "remove" ,
+"Nodes" : 4,
+"0" : [ ],
+"1" : [ 1, 4],
+"2" : [ 0, 2, 3],
+"3" : [ ],
+"CoveredDUAsByNodes" : 5,
+"Duas" : 5
+}]
+}

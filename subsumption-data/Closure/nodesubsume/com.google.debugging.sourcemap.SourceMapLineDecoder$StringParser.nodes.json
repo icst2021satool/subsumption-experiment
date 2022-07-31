@@ -1,0 +1,11 @@
+{
+"Class" : "com.google.debugging.sourcemap.SourceMapLineDecoder$StringParser", 
+"Methods" : [{ "Name" : "hasNext" ,
+"Nodes" : 5,
+"0" : [ 154 ]
+"1" : [ 154 ]
+"2" : [ 154 ]
+"3" : [ 154 ]
+"4" : [  ]
+}]
+}

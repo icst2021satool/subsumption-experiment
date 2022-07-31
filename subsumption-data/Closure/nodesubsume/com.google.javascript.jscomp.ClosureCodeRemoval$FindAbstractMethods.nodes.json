@@ -1,0 +1,13 @@
+{
+"Class" : "com.google.javascript.jscomp.ClosureCodeRemoval$FindAbstractMethods", 
+"Methods" : [{ "Name" : "visit" ,
+"Nodes" : 7,
+"0" : [ 141 ]
+"1" : [ 152 ]
+"2" : [ 145,142,143 ]
+"3" : [ 145 ]
+"4" : [ 145 ]
+"5" : [ 148 ]
+"6" : [  ]
+}]
+}

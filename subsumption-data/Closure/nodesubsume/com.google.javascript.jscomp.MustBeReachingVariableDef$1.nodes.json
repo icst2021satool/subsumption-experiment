@@ -1,0 +1,12 @@
+{
+"Class" : "com.google.javascript.jscomp.MustBeReachingVariableDef$1", 
+"Methods" : [{ "Name" : "visit" ,
+"Nodes" : 6,
+"0" : [ 397 ]
+"1" : [ 405 ]
+"2" : [ 398,399 ]
+"3" : [ 402 ]
+"4" : [ 400 ]
+"5" : [  ]
+}]
+}

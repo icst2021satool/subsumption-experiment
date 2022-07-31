@@ -1,0 +1,13 @@
+{
+"Class" : "com.google.javascript.jscomp.graph.GraphColoring$Color", 
+"Methods" : [{ "Name" : "equals" ,
+"Duas" : 8,
+"0" :  "(97,(100,100), this)",
+"1" :  "(97,(100,100), this)",
+"2" :  "(97,(97,98), other)",
+"3" :  "(97,(97,100), other)",
+"4" :  "(97,(100,100), other)",
+"5" :  "(97,(100,100), other)",
+"6" :  "(97,(100,100), this.value)",
+"7" :  "(97,(100,100), this.value)"}]
+}

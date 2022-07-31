@@ -1,0 +1,10 @@
+{
+"Class" : "com.google.javascript.jscomp.CodingConvention$Bind", 
+"Methods" : [{ "Name" : "getBoundParameterCount" ,
+"Nodes" : 4,
+"0" : [ 275 ]
+"1" : [ 278,279 ]
+"2" : [ 276 ]
+"3" : [  ]
+}]
+}

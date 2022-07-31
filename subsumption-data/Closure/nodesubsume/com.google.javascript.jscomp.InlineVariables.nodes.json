@@ -1,0 +1,12 @@
+{
+"Class" : "com.google.javascript.jscomp.InlineVariables", 
+"Methods" : [{ "Name" : "getFilterForMode" ,
+"Nodes" : 6,
+"0" : [ 90 ]
+"1" : [ 96 ]
+"2" : [ 94 ]
+"3" : [ 92 ]
+"4" : [ 98 ]
+"5" : [  ]
+}]
+}

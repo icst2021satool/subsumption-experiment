@@ -1,0 +1,11 @@
+{
+"Class" : "com.google.javascript.jscomp.NameAnalyzer$PrototypeSetNode", 
+"Methods" : [{ "Name" : "remove" ,
+"Nodes" : 5,
+"0" : [ 360,361 ]
+"1" : [ 366 ]
+"2" : [ 369 ]
+"3" : [ 363 ]
+"4" : [  ]
+}]
+}

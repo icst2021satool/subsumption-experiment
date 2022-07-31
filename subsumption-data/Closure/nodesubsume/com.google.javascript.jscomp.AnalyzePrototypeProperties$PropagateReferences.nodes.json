@@ -1,0 +1,13 @@
+{
+"Class" : "com.google.javascript.jscomp.AnalyzePrototypeProperties$PropagateReferences", 
+"Methods" : [{ "Name" : "traverseEdge" ,
+"Nodes" : 7,
+"0" : [ 524 ]
+"1" : [ 533 ]
+"2" : [ 525,526 ]
+"3" : [ 530 ]
+"4" : [ 526 ]
+"5" : [ 528 ]
+"6" : [  ]
+}]
+}

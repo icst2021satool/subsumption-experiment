@@ -1,0 +1,19 @@
+{
+"Class" : "com.google.javascript.jscomp.CheckRequiresForConstructors", 
+"Methods" : [{ "Name" : "isClassName" ,
+"Duas" : "8" ,
+"Subsumers" : 5,
+"0" : [ 6], "S0" : [0, 2, 4, 6 ],
+"1" : [ 7], "S1" : [0, 2, 4, 7 ],
+"2" : [ 5], "S2" : [0, 2, 5 ],
+"3" : [ 3], "S3" : [0, 3 ],
+"4" : [ 1], "S4" : [1 ]
+},{ "Name" : "getOutermostClassName" ,
+"Duas" : "15" ,
+"Subsumers" : 4,
+"0" : [ 10, 8, 0], "S0" : [0, 1, 2, 4, 6, 8, 10 ],
+"1" : [ 14], "S1" : [1, 2, 4, 6, 7, 9, 11, 13, 14 ],
+"2" : [ 12], "S2" : [1, 2, 3, 4, 6, 7, 9, 12 ],
+"3" : [ 5], "S3" : [3, 5 ]
+}]
+}

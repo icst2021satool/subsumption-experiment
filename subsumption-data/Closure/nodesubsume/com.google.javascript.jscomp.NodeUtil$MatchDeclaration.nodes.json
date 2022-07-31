@@ -1,0 +1,12 @@
+{
+"Class" : "com.google.javascript.jscomp.NodeUtil$MatchDeclaration", 
+"Methods" : [{ "Name" : "apply" ,
+"Nodes" : 6,
+"0" : [ 2623 ]
+"1" : [ 2623 ]
+"2" : [ 2623 ]
+"3" : [ 2623 ]
+"4" : [ 2623 ]
+"5" : [  ]
+}]
+}

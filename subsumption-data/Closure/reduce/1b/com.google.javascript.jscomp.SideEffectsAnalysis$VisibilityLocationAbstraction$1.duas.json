@@ -1,0 +1,14 @@
+{
+"Class" : "com.google.javascript.jscomp.SideEffectsAnalysis$VisibilityLocationAbstraction$1", 
+"Methods" : [{ "Name" : "visit" ,
+"Duas" : 9,
+"0" :  "(785,787, this)",
+"1" :  "(785,(785,785), n)",
+"2" :  "(785,(785,787), n)",
+"3" :  "(785,787, n)",
+"4" :  "(785,(785,785), n)",
+"5" :  "(785,(785,789), n)",
+"6" :  "(785,(785,787), parent)",
+"7" :  "(785,(785,789), parent)",
+"8" :  "(785,787, this.val$references)"}]
+}

@@ -1,0 +1,15 @@
+{
+"Class" : "com.google.javascript.jscomp.graph.StandardUnionFind$1", 
+"Methods" : [{ "Name" : "apply" ,
+"Nodes" : 9,
+"0" : [ 176 ]
+"1" : [ 179,180 ]
+"2" : [ 183,184 ]
+"3" : [ 184 ]
+"4" : [ 184 ]
+"5" : [ 184 ]
+"6" : [ 181 ]
+"7" : [ 177 ]
+"8" : [  ]
+}]
+}

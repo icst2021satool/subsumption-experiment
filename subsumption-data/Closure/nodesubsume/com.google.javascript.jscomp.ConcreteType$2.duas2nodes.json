@@ -1,0 +1,9 @@
+{
+"Class" : "com.google.javascript.jscomp.ConcreteType$2", 
+"Methods" : [{ "Name" : "filter" ,
+"Nodes" : 5,
+"Duas" : 3,
+"0" :  [ 0,3 ],
+"1" :  [ 0,1 ],
+"2" :  [ 0,2 ]}]
+}

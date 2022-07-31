@@ -1,0 +1,26 @@
+{
+"Class" : "com.google.javascript.jscomp.TypeInferencePass", 
+"Methods" : [{ "Name" : "<init>" ,
+"Nodes" : 5,
+"0" : [ ],
+"1" : [ ],
+"2" : [ 3],
+"4" : [ 3],
+"3" : [ 0, 1, 2, 4],
+"CoveredDUAsByNodes" : 5,
+"Duas" : 5
+},{ "Name" : "process" ,
+"Nodes" : 9,
+"0" : [ ],
+"1" : [ 6],
+"7" : [ 5],
+"2" : [ ],
+"5" : [ 1],
+"6" : [ 1, 4, 9],
+"3" : [ ],
+"4" : [ 0, 7],
+"8" : [ 0, 7],
+"CoveredDUAsByNodes" : 7,
+"Duas" : 10
+}]
+}

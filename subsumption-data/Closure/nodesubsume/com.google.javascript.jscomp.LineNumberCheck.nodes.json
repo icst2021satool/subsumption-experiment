@@ -1,0 +1,19 @@
+{
+"Class" : "com.google.javascript.jscomp.LineNumberCheck", 
+"Methods" : [{ "Name" : "shouldTraverse" ,
+"Nodes" : 4,
+"0" : [ 61 ]
+"1" : [ 64 ]
+"2" : [ 62 ]
+"3" : [  ]
+},{ "Name" : "visit" ,
+"Nodes" : 7,
+"0" : [ 69 ]
+"1" : [ 71 ]
+"2" : [ 80 ]
+"3" : [ 72 ]
+"4" : [ 75 ]
+"5" : [ 70 ]
+"6" : [  ]
+}]
+}

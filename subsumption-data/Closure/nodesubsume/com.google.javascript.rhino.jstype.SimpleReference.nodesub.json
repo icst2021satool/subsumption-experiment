@@ -1,0 +1,16 @@
+{
+"Class" : "com.google.javascript.rhino.jstype.SimpleReference", 
+"Methods" : [{ "Name" : "toString" ,
+"Nodes" : 8,
+"0" : [ ],
+"1" : [ 1, 8],
+"6" : [ 0, 7],
+"2" : [ 2, 9],
+"3" : [ 2, 4, 9, 11],
+"5" : [ 2, 3, 9, 10],
+"4" : [ 2, 5, 6, 9, 12, 13, 14],
+"7" : [ 2, 5, 6, 9, 12, 13, 14],
+"CoveredDUAsByNodes" : 15,
+"Duas" : 15
+}]
+}

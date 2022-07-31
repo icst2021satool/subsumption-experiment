@@ -1,0 +1,12 @@
+{
+"Class" : "com.google.javascript.jscomp.StrictWarningsGuard", 
+"Methods" : [{ "Name" : "level" ,
+"Duas" : 7,
+"0" :  "(32,(32,33), error)",
+"1" :  "(32,(32,35), error)",
+"2" :  "(32,(35,35), error)",
+"3" :  "(32,(35,35), error)",
+"4" :  "(32,(32,33), UNRAISABLE_WARNING)",
+"5" :  "(32,(32,35), UNRAISABLE_WARNING)",
+"6" :  "(32,35, ERROR)"}]
+}

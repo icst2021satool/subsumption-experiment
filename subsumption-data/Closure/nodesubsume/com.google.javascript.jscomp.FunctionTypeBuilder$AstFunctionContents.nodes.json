@@ -1,0 +1,38 @@
+{
+"Class" : "com.google.javascript.jscomp.FunctionTypeBuilder$AstFunctionContents", 
+"Methods" : [{ "Name" : "mayHaveSingleThrow" ,
+"Nodes" : 6,
+"0" : [ 874,875 ]
+"1" : [ 875 ]
+"2" : [ 875 ]
+"3" : [ 875 ]
+"4" : [ 875 ]
+"5" : [  ]
+},{ "Name" : "getEscapedVarNames" ,
+"Nodes" : 5,
+"0" : [ 880 ]
+"1" : [ 880 ]
+"2" : [ 880 ]
+"3" : [ 880 ]
+"4" : [  ]
+},{ "Name" : "recordEscapedVarName" ,
+"Nodes" : 4,
+"0" : [ 885 ]
+"1" : [ 888,889 ]
+"2" : [ 886 ]
+"3" : [  ]
+},{ "Name" : "getEscapedQualifiedNames" ,
+"Nodes" : 5,
+"0" : [ 893 ]
+"1" : [ 893 ]
+"2" : [ 893 ]
+"3" : [ 893 ]
+"4" : [  ]
+},{ "Name" : "recordEscapedQualifiedName" ,
+"Nodes" : 4,
+"0" : [ 898 ]
+"1" : [ 901,902 ]
+"2" : [ 899 ]
+"3" : [  ]
+}]
+}

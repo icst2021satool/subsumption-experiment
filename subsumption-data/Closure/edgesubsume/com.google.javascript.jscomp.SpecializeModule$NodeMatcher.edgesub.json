@@ -1,0 +1,15 @@
+{
+"Class" : "com.google.javascript.jscomp.SpecializeModule$NodeMatcher", 
+"Methods" : [{ "Name" : "match" ,
+"Edges" : 7,
+"5" : [ 0, 3, 5, 6, 8],
+"6" : [ 1, 4, 7],
+"3" : [ 0, 3, 5, 6, 8],
+"1" : [ 0, 2, 3, 5, 6, 8, 9, 11, 12, 13, 14],
+"2" : [ ],
+"0" : [ ],
+"4" : [ 0, 2, 3, 5, 6, 8, 9, 11, 12, 13, 14],
+"CoveredDUAsByEdges" : 14,
+"Duas" : 21
+}]
+}

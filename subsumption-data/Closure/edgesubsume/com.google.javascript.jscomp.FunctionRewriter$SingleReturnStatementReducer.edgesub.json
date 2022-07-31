@@ -1,0 +1,15 @@
+{
+"Class" : "com.google.javascript.jscomp.FunctionRewriter$SingleReturnStatementReducer", 
+"Methods" : [{ "Name" : "maybeGetSingleReturnRValue" ,
+"Edges" : 7,
+"3" : [ 0],
+"4" : [ 1, 2],
+"0" : [ 1, 2, 3, 5],
+"1" : [ 1, 2, 4],
+"5" : [ 1, 2, 4],
+"2" : [ 1, 2, 3, 5],
+"6" : [ 0],
+"CoveredDUAsByEdges" : 6,
+"Duas" : 6
+}]
+}

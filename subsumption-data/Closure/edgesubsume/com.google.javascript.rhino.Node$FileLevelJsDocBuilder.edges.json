@@ -1,0 +1,13 @@
+{
+"Class" : "com.google.javascript.rhino.Node$FileLevelJsDocBuilder", 
+"Methods" : [{ "Name" : "append" ,
+"Edges" : 7,
+"0" : [ 4,1 ],
+"1" : [ 0,4 ],
+"2" : [ 0,1 ],
+"3" : [ 3,2 ],
+"4" : [ 1,3 ],
+"5" : [ 1,2 ],
+"6" : [ 2,5 ]
+}]
+}

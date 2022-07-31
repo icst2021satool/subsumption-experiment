@@ -1,0 +1,21 @@
+{
+"Class" : "com.google.javascript.jscomp.VerboseMessageFormatter", 
+"Methods" : [{ "Name" : "format" ,
+"Duas" : 16,
+"0" :  "(43,51, description)",
+"1" :  "(44,(51,51), sourceName)",
+"2" :  "(44,(51,51), sourceName)",
+"3" :  "(44,51, sourceName)",
+"4" :  "(45,(51,51), lineNumber)",
+"5" :  "(45,(51,51), lineNumber)",
+"6" :  "(45,51, lineNumber)",
+"7" :  "(46,(48,49), sourceRegion)",
+"8" :  "(46,(48,51), sourceRegion)",
+"9" :  "(46,49, sourceRegion)",
+"10" :  "(47,(51,51), lineSource)",
+"11" :  "(47,(51,51), lineSource)",
+"12" :  "(47,51, lineSource)",
+"13" :  "(49,(51,51), lineSource)",
+"14" :  "(49,(51,51), lineSource)",
+"15" :  "(49,51, lineSource)"}]
+}

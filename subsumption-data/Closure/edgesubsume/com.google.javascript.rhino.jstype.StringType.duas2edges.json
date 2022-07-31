@@ -1,0 +1,16 @@
+{
+"Class" : "com.google.javascript.rhino.jstype.StringType", 
+"Methods" : [{ "Name" : "testForEquality" ,
+"Edges" : 9,
+"Duas" : 13,
+"0" : 7, 
+ "1" : 8, 
+ "2" : 2, 
+ "3" : 3, 
+ "4" : 7, 
+ "5" : 8, 
+ "6" : 7, 
+ "7" : 8, 
+ "10" : 0, 
+ "11" : 1}]
+}

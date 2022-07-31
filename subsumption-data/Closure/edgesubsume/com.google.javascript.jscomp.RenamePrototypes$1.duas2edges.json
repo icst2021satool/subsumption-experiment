@@ -1,0 +1,10 @@
+{
+"Class" : "com.google.javascript.jscomp.RenamePrototypes$1", 
+"Methods" : [{ "Name" : "compare" ,
+"Edges" : 4,
+"Duas" : 10,
+"4" : 0, 
+ "5" : 1, 
+ "7" : 0, 
+ "8" : 1}]
+}

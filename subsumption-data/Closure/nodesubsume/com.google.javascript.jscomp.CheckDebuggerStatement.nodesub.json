@@ -1,0 +1,12 @@
+{
+"Class" : "com.google.javascript.jscomp.CheckDebuggerStatement", 
+"Methods" : [{ "Name" : "visit" ,
+"Nodes" : 4,
+"0" : [ ],
+"2" : [ 0, 1, 3, 4],
+"1" : [ ],
+"3" : [ ],
+"CoveredDUAsByNodes" : 4,
+"Duas" : 5
+}]
+}

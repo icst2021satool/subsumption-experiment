@@ -1,0 +1,10 @@
+{
+"Class" : "com.google.javascript.jscomp.NameAnalyzer$1", 
+"Methods" : [{ "Name" : "apply" ,
+"Nodes" : 4,
+"0" : [ 736 ]
+"1" : [ 742 ]
+"2" : [ 737 ]
+"3" : [  ]
+}]
+}

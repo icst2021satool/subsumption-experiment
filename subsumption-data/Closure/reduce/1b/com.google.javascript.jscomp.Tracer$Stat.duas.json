@@ -1,0 +1,14 @@
+{
+"Class" : "com.google.javascript.jscomp.Tracer$Stat", 
+"Methods" : [{ "Name" : "getExtraInfo" ,
+"Duas" : 9,
+"0" :  "(567,(567,567), this)",
+"1" :  "(567,(567,567), this)",
+"2" :  "(567,567, this)",
+"3" :  "(567,(567,567), index)",
+"4" :  "(567,(567,567), index)",
+"5" :  "(567,567, index)",
+"6" :  "(567,(567,567), this.extraInfo)",
+"7" :  "(567,(567,567), this.extraInfo)",
+"8" :  "(567,567, this.extraInfo)"}]
+}

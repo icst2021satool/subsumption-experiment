@@ -1,0 +1,14 @@
+{
+"Class" : "com.google.javascript.jscomp.InstrumentFunctions$RemoveCallback", 
+"Methods" : [{ "Name" : "visit" ,
+"Nodes" : 6,
+"0" : [ ],
+"2" : [ 2],
+"3" : [ 0, 2, 4, 6, 7, 11],
+"4" : [ 0, 2, 4, 6, 7, 8, 10, 11],
+"1" : [ ],
+"5" : [ ],
+"CoveredDUAsByNodes" : 8,
+"Duas" : 13
+}]
+}

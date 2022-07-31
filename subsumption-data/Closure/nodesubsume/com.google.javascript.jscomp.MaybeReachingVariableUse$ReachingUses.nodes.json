@@ -1,0 +1,12 @@
+{
+"Class" : "com.google.javascript.jscomp.MaybeReachingVariableUse$ReachingUses", 
+"Methods" : [{ "Name" : "equals" ,
+"Nodes" : 6,
+"0" : [ 103 ]
+"1" : [ 103 ]
+"2" : [ 103 ]
+"3" : [ 103 ]
+"4" : [ 103 ]
+"5" : [  ]
+}]
+}

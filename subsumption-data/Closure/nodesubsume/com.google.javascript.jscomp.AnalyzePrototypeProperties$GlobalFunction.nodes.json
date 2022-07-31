@@ -1,0 +1,26 @@
+{
+"Class" : "com.google.javascript.jscomp.AnalyzePrototypeProperties$GlobalFunction", 
+"Methods" : [{ "Name" : "<init>" ,
+"Nodes" : 6,
+"0" : [ 576,574,575 ]
+"1" : [ 576 ]
+"2" : [ 576,579,580,581,582 ]
+"3" : [ 576 ]
+"4" : [ 576 ]
+"5" : [  ]
+},{ "Name" : "remove" ,
+"Nodes" : 6,
+"0" : [ 592,591 ]
+"1" : [ 593 ]
+"2" : [ 598 ]
+"3" : [ 592 ]
+"4" : [ 595,596 ]
+"5" : [  ]
+},{ "Name" : "getFunctionNode" ,
+"Nodes" : 4,
+"0" : [ 608,606 ]
+"1" : [ 612 ]
+"2" : [ 609 ]
+"3" : [  ]
+}]
+}

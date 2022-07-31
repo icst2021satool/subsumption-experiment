@@ -1,0 +1,9 @@
+{
+"Class" : "com.google.javascript.jscomp.ControlFlowGraph$AbstractCfgNodeTraversalCallback", 
+"Methods" : [{ "Name" : "shouldTraverse" ,
+"Duas" : 4,
+"0" :  "(148,(151,151), n)",
+"1" :  "(148,(151,151), n)",
+"2" :  "(148,(148,149), parent)",
+"3" :  "(148,(148,151), parent)"}]
+}

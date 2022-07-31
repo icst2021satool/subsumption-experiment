@@ -1,0 +1,14 @@
+{
+"Class" : "com.google.javascript.jscomp.parsing.Config", 
+"Methods" : [{ "Name" : "buildAnnotationNames" ,
+"Edges" : 8,
+"0" : [ 3,5 ],
+"1" : [ 3,4 ],
+"2" : [ 1,3 ],
+"3" : [ 1,2 ],
+"4" : [ 5,4 ],
+"5" : [ 0,1 ],
+"6" : [ 4,1 ],
+"7" : [ 2,6 ]
+}]
+}

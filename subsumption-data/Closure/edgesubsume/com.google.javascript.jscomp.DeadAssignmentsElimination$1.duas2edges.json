@@ -1,0 +1,14 @@
+{
+"Class" : "com.google.javascript.jscomp.DeadAssignmentsElimination$1", 
+"Methods" : [{ "Name" : "apply" ,
+"Edges" : 11,
+"Duas" : 8,
+"0" : 3, 
+ "1" : 4, 
+ "2" : 8, 
+ "3" : 9, 
+ "4" : 1, 
+ "5" : 2, 
+ "6" : 6, 
+ "7" : 7}]
+}

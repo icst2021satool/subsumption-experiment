@@ -1,0 +1,31 @@
+{
+"Class" : "com.google.javascript.jscomp.TightenTypes$ConcreteScope", 
+"Methods" : [{ "Name" : "getSlot" ,
+"Nodes" : 6,
+"0" : [ ],
+"1" : [ 8],
+"2" : [ 1, 5, 8],
+"3" : [ 0, 2, 3, 4, 6, 8],
+"4" : [ 7, 9],
+"5" : [ ],
+"CoveredDUAsByNodes" : 10,
+"Duas" : 10
+},{ "Name" : "getTypeOfThis" ,
+"Nodes" : 5,
+"0" : [ ],
+"1" : [ 2],
+"3" : [ 1],
+"2" : [ 0, 3],
+"4" : [ 0, 3],
+"CoveredDUAsByNodes" : 4,
+"Duas" : 4
+},{ "Name" : "initForScopeRoot" ,
+"Nodes" : 4,
+"0" : [ ],
+"2" : [ 2, 6],
+"1" : [ 0, 1, 7, 8],
+"3" : [ 0, 1, 7, 8],
+"CoveredDUAsByNodes" : 6,
+"Duas" : 11
+}]
+}

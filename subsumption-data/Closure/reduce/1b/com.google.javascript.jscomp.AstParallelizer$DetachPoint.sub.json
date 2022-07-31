@@ -1,0 +1,10 @@
+{
+"Class" : "com.google.javascript.jscomp.AstParallelizer$DetachPoint", 
+"Methods" : [{ "Name" : "reattach" ,
+"Duas" : "21" ,
+"Subsumers" : 3,
+"0" : [ 19, 20, 14, 12, 13, 6, 7, 2], "S0" : [0, 2, 6, 7, 8, 12, 13, 14, 19, 20 ],
+"1" : [ 17, 18, 16, 15, 10, 11, 4, 5, 3], "S1" : [0, 3, 4, 5, 8, 10, 11, 15, 16, 17, 18 ],
+"2" : [ 9, 1], "S2" : [1, 9 ]
+}]
+}

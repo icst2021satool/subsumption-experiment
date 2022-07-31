@@ -1,0 +1,14 @@
+{
+"Class" : "com.google.javascript.jscomp.CommandLineRunner$FormattingOption", 
+"Methods" : [{ "Name" : "applyToOptions" ,
+"Edges" : 9,
+"Duas" : 12,
+"0" : 2, 
+ "1" : 3, 
+ "2" : 4, 
+ "3" : 5, 
+ "8" : 2, 
+ "9" : 3, 
+ "10" : 4, 
+ "11" : 5}]
+}

@@ -1,0 +1,11 @@
+{
+"Class" : "com.google.javascript.jscomp.CommandLineRunner$FormattingOption", 
+"Methods" : [{ "Name" : "applyToOptions" ,
+"Duas" : "12" ,
+"Subsumers" : 4,
+"0" : [ 8, 4, 0], "S0" : [0, 4, 8 ],
+"1" : [ 9, 7, 1], "S1" : [1, 7, 9 ],
+"2" : [ 10, 6, 2], "S2" : [2, 6, 10 ],
+"3" : [ 11, 5, 3], "S3" : [3, 5, 11 ]
+}]
+}

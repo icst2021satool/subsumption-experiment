@@ -1,0 +1,15 @@
+{
+"Class" : "com.google.javascript.jscomp.ConvertToDottedProperties", 
+"Methods" : [{ "Name" : "visit" ,
+"Edges" : 12,
+"Duas" : 23,
+"2" : 4, 
+ "3" : 5, 
+ "4" : 6, 
+ "5" : 8, 
+ "6" : 9, 
+ "17" : 2, 
+ "18" : 3, 
+ "19" : 0, 
+ "20" : 1}]
+}

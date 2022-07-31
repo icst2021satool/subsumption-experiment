@@ -1,0 +1,16 @@
+{
+"Class" : "com.google.javascript.jscomp.FunctionRewriter$ReturnConstantReducer", 
+"Methods" : [{ "Name" : "reduce" ,
+"Edges" : 7,
+"Duas" : 11,
+"2" : 1, 
+ "3" : 2, 
+ "8" : 5, 
+ "9" : 6},{ "Name" : "getValueNode" ,
+"Edges" : 6,
+"Duas" : 5,
+"0" : 0, 
+ "1" : 1, 
+ "2" : 4, 
+ "3" : 5}]
+}

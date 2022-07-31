@@ -1,0 +1,8 @@
+{
+"Class" : "com.google.javascript.rhino.jstype.NoType", 
+"Methods" : [{ "Name" : "toStringHelper" ,
+"Edges" : 5,
+"Duas" : 2,
+"0" : 0, 
+ "1" : 1}]
+}

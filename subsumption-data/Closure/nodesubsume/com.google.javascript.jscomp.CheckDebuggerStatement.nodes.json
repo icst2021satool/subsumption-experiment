@@ -1,0 +1,10 @@
+{
+"Class" : "com.google.javascript.jscomp.CheckDebuggerStatement", 
+"Methods" : [{ "Name" : "visit" ,
+"Nodes" : 4,
+"0" : [ 51 ]
+"1" : [ 54 ]
+"2" : [ 52 ]
+"3" : [  ]
+}]
+}

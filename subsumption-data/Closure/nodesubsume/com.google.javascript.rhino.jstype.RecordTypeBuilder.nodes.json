@@ -1,0 +1,23 @@
+{
+"Class" : "com.google.javascript.rhino.jstype.RecordTypeBuilder", 
+"Methods" : [{ "Name" : "setSynthesized" ,
+"Nodes" : 5,
+"0" : [ 64 ]
+"1" : [ 64 ]
+"2" : [ 64,65 ]
+"3" : [ 64 ]
+"4" : [  ]
+},{ "Name" : "addProperty" ,
+"Nodes" : 4,
+"0" : [ 77,78 ]
+"1" : [ 81,82 ]
+"2" : [ 79 ]
+"3" : [  ]
+},{ "Name" : "build" ,
+"Nodes" : 4,
+"0" : [ 91 ]
+"1" : [ 95 ]
+"2" : [ 92 ]
+"3" : [  ]
+}]
+}

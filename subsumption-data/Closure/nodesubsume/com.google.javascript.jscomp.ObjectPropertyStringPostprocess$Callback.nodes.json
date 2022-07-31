@@ -1,0 +1,17 @@
+{
+"Class" : "com.google.javascript.jscomp.ObjectPropertyStringPostprocess$Callback", 
+"Methods" : [{ "Name" : "visit" ,
+"Nodes" : 11,
+"0" : [ 55 ]
+"1" : [ 59,61 ]
+"2" : [ 66,67,68,69 ]
+"3" : [ 77 ]
+"4" : [ 89 ]
+"5" : [ 92,93 ]
+"6" : [ 80,81,82,83,84,85,86 ]
+"7" : [ 72,73,74,75,77 ]
+"8" : [ 63 ]
+"9" : [ 56 ]
+"10" : [  ]
+}]
+}

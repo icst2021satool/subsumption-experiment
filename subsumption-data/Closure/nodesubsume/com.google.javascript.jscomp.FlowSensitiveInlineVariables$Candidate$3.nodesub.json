@@ -1,0 +1,19 @@
+{
+"Class" : "com.google.javascript.jscomp.FlowSensitiveInlineVariables$Candidate$3", 
+"Methods" : [{ "Name" : "visit" ,
+"Nodes" : 11,
+"0" : [ ],
+"1" : [ 8, 9],
+"3" : [ 22, 8, 9],
+"4" : [ 0, 16, 2, 18, 22, 8, 24, 9, 10],
+"2" : [ 8, 9],
+"5" : [ 7],
+"7" : [ 3, 19, 7, 11],
+"8" : [ 3, 19, 5, 21, 7, 11, 13, 15],
+"6" : [ 7],
+"9" : [ 6],
+"10" : [ ],
+"CoveredDUAsByNodes" : 18,
+"Duas" : 26
+}]
+}

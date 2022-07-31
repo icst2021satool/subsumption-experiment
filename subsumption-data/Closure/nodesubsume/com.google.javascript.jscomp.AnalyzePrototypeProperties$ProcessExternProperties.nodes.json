@@ -1,0 +1,10 @@
+{
+"Class" : "com.google.javascript.jscomp.AnalyzePrototypeProperties$ProcessExternProperties", 
+"Methods" : [{ "Name" : "visit" ,
+"Nodes" : 4,
+"0" : [ 513 ]
+"1" : [ 517 ]
+"2" : [ 514 ]
+"3" : [  ]
+}]
+}

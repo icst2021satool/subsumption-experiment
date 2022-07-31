@@ -1,0 +1,16 @@
+{
+"Class" : "com.google.javascript.jscomp.NameAnalyzer$ProcessExternals", 
+"Methods" : [{ "Name" : "visit" ,
+"Edges" : 10,
+"Duas" : 34,
+"6" : 7, 
+ "7" : 8, 
+ "8" : 1, 
+ "9" : 2, 
+ "16" : 4, 
+ "17" : 5, 
+ "22" : 4, 
+ "23" : 5, 
+ "28" : 4, 
+ "29" : 5}]
+}

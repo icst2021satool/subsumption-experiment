@@ -1,0 +1,15 @@
+{
+"Class" : "com.google.javascript.jscomp.regex.RegExpTree$CapturingGroup", 
+"Methods" : [{ "Name" : "equals" ,
+"Edges" : 7,
+"5" : [ 2],
+"6" : [ 3],
+"2" : [ 0, 2, 4, 6],
+"3" : [ 1, 5, 7],
+"1" : [ ],
+"4" : [ 0, 2, 4, 6],
+"0" : [ ],
+"CoveredDUAsByEdges" : 8,
+"Duas" : 8
+}]
+}

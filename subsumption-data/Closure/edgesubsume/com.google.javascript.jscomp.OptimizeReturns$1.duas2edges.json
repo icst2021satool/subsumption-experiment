@@ -1,0 +1,14 @@
+{
+"Class" : "com.google.javascript.jscomp.OptimizeReturns$1", 
+"Methods" : [{ "Name" : "visit" ,
+"Edges" : 12,
+"Duas" : 19,
+"3" : 0, 
+ "4" : 1, 
+ "5" : 4, 
+ "6" : 5, 
+ "14" : 6, 
+ "15" : 7, 
+ "16" : 9, 
+ "17" : 10}]
+}

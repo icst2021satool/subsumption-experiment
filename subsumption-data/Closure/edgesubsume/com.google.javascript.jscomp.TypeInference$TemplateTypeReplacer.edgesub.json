@@ -1,0 +1,13 @@
+{
+"Class" : "com.google.javascript.jscomp.TypeInference$TemplateTypeReplacer", 
+"Methods" : [{ "Name" : "caseTemplateType" ,
+"Edges" : 5,
+"0" : [ 3],
+"1" : [ 4],
+"3" : [ 0, 1, 2, 4, 5],
+"4" : [ 0, 1, 2, 3, 5],
+"2" : [ 0, 1, 2, 5],
+"CoveredDUAsByEdges" : 6,
+"Duas" : 6
+}]
+}

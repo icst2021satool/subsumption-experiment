@@ -1,0 +1,22 @@
+{
+"Class" : "com.google.javascript.jscomp.RescopeGlobalSymbols$RewriteGlobalFunctionStatementsToVarAssignmentsCallback", 
+"Methods" : [{ "Name" : "visit" ,
+"Duas" : 17,
+"0" :  "(117,128, this)",
+"1" :  "(117,(117,118), n)",
+"2" :  "(117,(117,130), n)",
+"3" :  "(117,118, n)",
+"4" :  "(117,119, n)",
+"5" :  "(117,120, n)",
+"6" :  "(117,121, n)",
+"7" :  "(117,122, n)",
+"8" :  "(117,120, parent)",
+"9" :  "(117,126, parent)",
+"10" :  "(117,124, parent)",
+"11" :  "(117,128, this.this$0)",
+"12" :  "(120,(123,124), prev)",
+"13" :  "(120,(123,126), prev)",
+"14" :  "(120,126, prev)",
+"15" :  "(122,126, var)",
+"16" :  "(122,124, var)"}]
+}

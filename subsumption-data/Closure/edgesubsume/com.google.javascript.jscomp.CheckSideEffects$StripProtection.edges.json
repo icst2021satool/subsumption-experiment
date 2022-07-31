@@ -1,0 +1,14 @@
+{
+"Class" : "com.google.javascript.jscomp.CheckSideEffects$StripProtection", 
+"Methods" : [{ "Name" : "visit" ,
+"Edges" : 8,
+"0" : [ 1,5 ],
+"1" : [ 2,3 ],
+"2" : [ 2,1 ],
+"3" : [ 3,4 ],
+"4" : [ 3,1 ],
+"5" : [ 0,2 ],
+"6" : [ 0,1 ],
+"7" : [ 4,1 ]
+}]
+}

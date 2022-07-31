@@ -1,0 +1,13 @@
+{
+"Class" : "com.google.javascript.jscomp.NameAnalyzer$PrototypeSetNode", 
+"Methods" : [{ "Name" : "remove" ,
+"Edges" : 5,
+"1" : [ 1, 4, 5, 8],
+"2" : [ 0, 2, 3, 6, 7],
+"4" : [ 0, 2, 3, 6, 7],
+"0" : [ 1, 4, 5, 8],
+"3" : [ ],
+"CoveredDUAsByEdges" : 9,
+"Duas" : 9
+}]
+}

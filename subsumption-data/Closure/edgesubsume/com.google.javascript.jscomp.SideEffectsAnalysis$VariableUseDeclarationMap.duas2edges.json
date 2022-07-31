@@ -1,0 +1,10 @@
+{
+"Class" : "com.google.javascript.jscomp.SideEffectsAnalysis$VariableUseDeclarationMap", 
+"Methods" : [{ "Name" : "mapUses" ,
+"Edges" : 9,
+"Duas" : 10,
+"3" : 1, 
+ "4" : 2, 
+ "7" : 3, 
+ "8" : 4}]
+}

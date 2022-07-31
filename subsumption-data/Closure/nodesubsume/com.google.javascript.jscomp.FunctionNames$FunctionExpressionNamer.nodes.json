@@ -1,0 +1,14 @@
+{
+"Class" : "com.google.javascript.jscomp.FunctionNames$FunctionExpressionNamer", 
+"Methods" : [{ "Name" : "setFunctionName" ,
+"Nodes" : 8,
+"0" : [ 164,165 ]
+"1" : [ 166 ]
+"2" : [ 167,168 ]
+"3" : [ 166 ]
+"4" : [ 166 ]
+"5" : [ 165 ]
+"6" : [ 165 ]
+"7" : [  ]
+}]
+}

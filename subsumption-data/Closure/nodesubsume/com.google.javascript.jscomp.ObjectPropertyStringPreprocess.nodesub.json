@@ -1,0 +1,13 @@
+{
+"Class" : "com.google.javascript.jscomp.ObjectPropertyStringPreprocess", 
+"Methods" : [{ "Name" : "addExternDeclaration" ,
+"Nodes" : 5,
+"0" : [ ],
+"3" : [ 2],
+"1" : [ 0],
+"2" : [ 1],
+"4" : [ 1],
+"CoveredDUAsByNodes" : 3,
+"Duas" : 8
+}]
+}

@@ -1,0 +1,15 @@
+{
+"Class" : "com.google.javascript.jscomp.LiveVariablesAnalysis$LiveVariableLattice", 
+"Methods" : [{ "Name" : "equals" ,
+"Edges" : 7,
+"5" : [ 2],
+"6" : [ 3],
+"3" : [ 0, 2, 4, 6],
+"4" : [ 1, 5, 7],
+"0" : [ ],
+"2" : [ 0, 2, 4, 6],
+"1" : [ ],
+"CoveredDUAsByEdges" : 8,
+"Duas" : 8
+}]
+}

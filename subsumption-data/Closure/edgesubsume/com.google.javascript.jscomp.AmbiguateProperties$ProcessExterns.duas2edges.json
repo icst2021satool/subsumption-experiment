@@ -1,0 +1,13 @@
+{
+"Class" : "com.google.javascript.jscomp.AmbiguateProperties$ProcessExterns", 
+"Methods" : [{ "Name" : "visit" ,
+"Edges" : 9,
+"Duas" : 17,
+"2" : 0, 
+ "3" : 1, 
+ "4" : 2, 
+ "9" : 5, 
+ "10" : 6, 
+ "13" : 5, 
+ "14" : 6}]
+}

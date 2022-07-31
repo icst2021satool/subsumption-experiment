@@ -1,0 +1,12 @@
+{
+"Class" : "com.google.javascript.jscomp.CodingConvention$AssertionFunctionSpec", 
+"Methods" : [{ "Name" : "getAssertedType" ,
+"Duas" : 7,
+"0" :  "(411,(411,411), this)",
+"1" :  "(411,(411,411), this)",
+"2" :  "(411,411, this)",
+"3" :  "(411,411, registry)",
+"4" :  "(411,(411,411), this.assertedType)",
+"5" :  "(411,(411,411), this.assertedType)",
+"6" :  "(411,411, this.assertedType)"}]
+}

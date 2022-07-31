@@ -1,0 +1,23 @@
+{
+"Class" : "com.google.javascript.jscomp.FieldCleanupPass$QualifiedNameSearchTraversal", 
+"Methods" : [{ "Name" : "visit" ,
+"Nodes" : 10,
+"0" : [ 94 ]
+"1" : [ 103 ]
+"2" : [ 106 ]
+"3" : [ 104 ]
+"4" : [ 94 ]
+"5" : [ 96,97,95 ]
+"6" : [ 99 ]
+"7" : [ 97 ]
+"8" : [ 101 ]
+"9" : [  ]
+},{ "Name" : "removeProperty" ,
+"Nodes" : 5,
+"0" : [ 115,116 ]
+"1" : [ 120 ]
+"2" : [ 116 ]
+"3" : [ 117,118 ]
+"4" : [  ]
+}]
+}

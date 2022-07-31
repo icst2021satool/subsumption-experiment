@@ -1,0 +1,11 @@
+{
+"Class" : "com.google.javascript.rhino.Node$SideEffectFlags", 
+"Methods" : [{ "Name" : "areAllFlagsSet" ,
+"Nodes" : 5,
+"0" : [ 2034 ]
+"1" : [ 2034 ]
+"2" : [ 2034 ]
+"3" : [ 2034 ]
+"4" : [  ]
+}]
+}

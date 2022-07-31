@@ -1,0 +1,15 @@
+{
+"Class" : "com.google.javascript.jscomp.CodingConventions$Proxy", 
+"Methods" : [{ "Name" : "isExported" ,
+"Edges" : 7,
+"5" : [ 0, 4],
+"6" : [ 1, 5],
+"0" : [ 2, 6],
+"1" : [ 0, 3, 4, 7],
+"4" : [ 0, 3, 4, 7],
+"2" : [ ],
+"3" : [ ],
+"CoveredDUAsByEdges" : 8,
+"Duas" : 8
+}]
+}

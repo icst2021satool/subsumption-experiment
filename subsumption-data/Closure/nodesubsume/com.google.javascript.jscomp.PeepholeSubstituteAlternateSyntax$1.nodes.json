@@ -1,0 +1,11 @@
+{
+"Class" : "com.google.javascript.jscomp.PeepholeSubstituteAlternateSyntax$1", 
+"Methods" : [{ "Name" : "apply" ,
+"Nodes" : 5,
+"0" : [ 60 ]
+"1" : [ 60 ]
+"2" : [ 60 ]
+"3" : [ 60 ]
+"4" : [  ]
+}]
+}

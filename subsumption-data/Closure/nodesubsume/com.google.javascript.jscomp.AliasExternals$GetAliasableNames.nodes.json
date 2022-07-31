@@ -1,0 +1,13 @@
+{
+"Class" : "com.google.javascript.jscomp.AliasExternals$GetAliasableNames", 
+"Methods" : [{ "Name" : "visit" ,
+"Nodes" : 7,
+"0" : [ 471 ]
+"1" : [ 474,475 ]
+"2" : [ 475 ]
+"3" : [ 477 ]
+"4" : [ 475 ]
+"5" : [ 480 ]
+"6" : [  ]
+}]
+}

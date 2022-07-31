@@ -1,0 +1,12 @@
+{
+"Class" : "com.google.javascript.jscomp.regex.RegExpTree$Anchor", 
+"Methods" : [{ "Name" : "equals" ,
+"Nodes" : 6,
+"0" : [ 658 ]
+"1" : [ 658 ]
+"2" : [ 658 ]
+"3" : [ 658 ]
+"4" : [ 658 ]
+"5" : [  ]
+}]
+}

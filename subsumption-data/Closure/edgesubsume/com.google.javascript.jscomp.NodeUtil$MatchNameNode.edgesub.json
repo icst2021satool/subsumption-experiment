@@ -1,0 +1,15 @@
+{
+"Class" : "com.google.javascript.jscomp.NodeUtil$MatchNameNode", 
+"Methods" : [{ "Name" : "apply" ,
+"Edges" : 7,
+"2" : [ 2],
+"3" : [ 3],
+"0" : [ 0, 2, 4, 6],
+"1" : [ 1, 5, 7],
+"4" : [ ],
+"6" : [ 0, 2, 4, 6],
+"5" : [ ],
+"CoveredDUAsByEdges" : 8,
+"Duas" : 8
+}]
+}

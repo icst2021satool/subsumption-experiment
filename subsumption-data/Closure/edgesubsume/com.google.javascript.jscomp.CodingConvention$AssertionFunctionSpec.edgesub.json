@@ -1,0 +1,13 @@
+{
+"Class" : "com.google.javascript.jscomp.CodingConvention$AssertionFunctionSpec", 
+"Methods" : [{ "Name" : "getAssertedType" ,
+"Edges" : 5,
+"1" : [ 0, 4],
+"2" : [ 1, 5],
+"4" : [ 1, 2, 3, 5, 6],
+"3" : [ 0, 2, 3, 4, 6],
+"0" : [ 2, 3, 6],
+"CoveredDUAsByEdges" : 7,
+"Duas" : 7
+}]
+}

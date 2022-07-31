@@ -1,0 +1,48 @@
+{
+"Class" : "com.google.javascript.jscomp.FunctionTypeBuilder$AstFunctionContents", 
+"Methods" : [{ "Name" : "mayHaveSingleThrow" ,
+"Nodes" : 6,
+"0" : [ ],
+"3" : [ 0],
+"1" : [ ],
+"4" : [ 0, 2],
+"2" : [ ],
+"5" : [ ],
+"CoveredDUAsByNodes" : 2,
+"Duas" : 4
+},{ "Name" : "getEscapedVarNames" ,
+"Nodes" : 5,
+"0" : [ ],
+"1" : [ 1, 4],
+"3" : [ 0, 3],
+"2" : [ 2, 5],
+"4" : [ 2, 5],
+"CoveredDUAsByNodes" : 6,
+"Duas" : 6
+},{ "Name" : "recordEscapedVarName" ,
+"Nodes" : 4,
+"0" : [ ],
+"2" : [ 0, 3, 5],
+"1" : [ 2, 4],
+"3" : [ 2, 4],
+"CoveredDUAsByNodes" : 5,
+"Duas" : 9
+},{ "Name" : "getEscapedQualifiedNames" ,
+"Nodes" : 5,
+"0" : [ ],
+"1" : [ 1, 4],
+"3" : [ 0, 3],
+"2" : [ 2, 5],
+"4" : [ 2, 5],
+"CoveredDUAsByNodes" : 6,
+"Duas" : 6
+},{ "Name" : "recordEscapedQualifiedName" ,
+"Nodes" : 4,
+"0" : [ ],
+"2" : [ 0, 3, 5],
+"1" : [ 2, 4],
+"3" : [ 2, 4],
+"CoveredDUAsByNodes" : 5,
+"Duas" : 9
+}]
+}

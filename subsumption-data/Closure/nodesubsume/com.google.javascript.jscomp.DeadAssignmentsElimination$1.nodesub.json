@@ -1,0 +1,16 @@
+{
+"Class" : "com.google.javascript.jscomp.DeadAssignmentsElimination$1", 
+"Methods" : [{ "Name" : "apply" ,
+"Nodes" : 8,
+"0" : [ ],
+"6" : [ 0],
+"1" : [ ],
+"4" : [ 2],
+"5" : [ 2, 5],
+"2" : [ ],
+"3" : [ ],
+"7" : [ ],
+"CoveredDUAsByNodes" : 3,
+"Duas" : 8
+}]
+}

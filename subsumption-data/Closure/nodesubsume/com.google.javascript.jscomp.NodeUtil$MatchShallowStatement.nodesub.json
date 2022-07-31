@@ -1,0 +1,17 @@
+{
+"Class" : "com.google.javascript.jscomp.NodeUtil$MatchShallowStatement", 
+"Methods" : [{ "Name" : "apply" ,
+"Nodes" : 9,
+"0" : [ ],
+"3" : [ 0],
+"5" : [ 0, 2],
+"6" : [ 0, 2, 4],
+"7" : [ 0, 2, 4, 6],
+"4" : [ 0],
+"1" : [ ],
+"2" : [ ],
+"8" : [ ],
+"CoveredDUAsByNodes" : 4,
+"Duas" : 10
+}]
+}

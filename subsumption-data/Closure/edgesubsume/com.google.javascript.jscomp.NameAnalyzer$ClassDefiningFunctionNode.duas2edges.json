@@ -1,0 +1,8 @@
+{
+"Class" : "com.google.javascript.jscomp.NameAnalyzer$ClassDefiningFunctionNode", 
+"Methods" : [{ "Name" : "remove" ,
+"Edges" : 5,
+"Duas" : 9,
+"5" : 2, 
+ "6" : 3}]
+}

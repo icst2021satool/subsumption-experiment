@@ -1,0 +1,13 @@
+{
+"Class" : "com.google.javascript.jscomp.CommandLineRunner$FormattingOption", 
+"Methods" : [{ "Name" : "applyToOptions" ,
+"Nodes" : 7,
+"0" : [ 555 ]
+"1" : [ 563,564 ]
+"2" : [ 568 ]
+"3" : [ 560,561 ]
+"4" : [ 557,558 ]
+"5" : [ 566 ]
+"6" : [  ]
+}]
+}

@@ -1,0 +1,23 @@
+{
+"Class" : "com.google.debugging.sourcemap.SourceMapConsumerV1$SourceFile", 
+"Methods" : [{ "Name" : "<init>" ,
+"Nodes" : 6,
+"0" : [ ],
+"3" : [ 0, 2],
+"1" : [ ],
+"4" : [ 0, 2, 4, 6],
+"2" : [ ],
+"5" : [ ],
+"CoveredDUAsByNodes" : 4,
+"Duas" : 8
+},{ "Name" : "getOriginalMapping" ,
+"Nodes" : 5,
+"0" : [ ],
+"1" : [ ],
+"2" : [ 0, 3, 4, 6, 7, 8, 9],
+"4" : [ 0, 3, 4, 6, 7, 8, 9],
+"3" : [ 1, 2, 5, 11, 12, 14, 15],
+"CoveredDUAsByNodes" : 14,
+"Duas" : 22
+}]
+}

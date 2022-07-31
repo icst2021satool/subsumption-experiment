@@ -1,0 +1,9 @@
+{
+"Class" : "com.google.javascript.rhino.jstype.TernaryValue", 
+"Methods" : [{ "Name" : "forBoolean" ,
+"Duas" : 4,
+"0" :  "(202,(202,202), val)",
+"1" :  "(202,(202,202), val)",
+"2" :  "(202,202, FALSE)",
+"3" :  "(202,202, TRUE)"}]
+}

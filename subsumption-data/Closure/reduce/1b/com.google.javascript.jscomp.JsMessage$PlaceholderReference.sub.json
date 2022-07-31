@@ -1,0 +1,11 @@
+{
+"Class" : "com.google.javascript.jscomp.JsMessage$PlaceholderReference", 
+"Methods" : [{ "Name" : "equals" ,
+"Duas" : "12" ,
+"Subsumers" : 4,
+"0" : [ 10, 8, 2], "S0" : [0, 2, 4, 6, 8, 10 ],
+"1" : [ 11, 9, 3], "S1" : [0, 3, 4, 6, 9, 11 ],
+"2" : [ 7], "S2" : [0, 4, 7 ],
+"3" : [ 5, 1], "S3" : [1, 5 ]
+}]
+}

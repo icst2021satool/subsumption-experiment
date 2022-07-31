@@ -1,0 +1,23 @@
+{
+"Class" : "com.google.javascript.jscomp.CallGraph$Callsite", 
+"Methods" : [{ "Name" : "getPossibleTargets" ,
+"Edges" : 7,
+"4" : [ 0, 5],
+"5" : [ 1, 6],
+"3" : [ 1, 6],
+"1" : [ 0, 2, 4, 5, 7, 9],
+"2" : [ 0, 3, 5, 8],
+"6" : [ 0, 3, 5, 8],
+"0" : [ 0, 2, 4, 5, 7, 9],
+"CoveredDUAsByEdges" : 10,
+"Duas" : 10
+},{ "Name" : "addPossibleTarget" ,
+"Edges" : 4,
+"2" : [ 0, 3, 5],
+"3" : [ 1, 2, 4, 6, 7],
+"0" : [ 0, 2, 3, 4, 5],
+"1" : [ 2, 4],
+"CoveredDUAsByEdges" : 8,
+"Duas" : 9
+}]
+}

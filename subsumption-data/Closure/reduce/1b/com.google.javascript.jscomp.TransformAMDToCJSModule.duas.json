@@ -1,0 +1,11 @@
+{
+"Class" : "com.google.javascript.jscomp.TransformAMDToCJSModule", 
+"Methods" : [{ "Name" : "isVirtualModuleName" ,
+"Duas" : 6,
+"0" :  "(72,(72,72), moduleName)",
+"1" :  "(72,(72,72), moduleName)",
+"2" :  "(72,(72,72), moduleName)",
+"3" :  "(72,(72,72), moduleName)",
+"4" :  "(72,(72,72), moduleName)",
+"5" :  "(72,(72,72), moduleName)"}]
+}

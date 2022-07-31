@@ -1,0 +1,10 @@
+{
+"Class" : "com.google.javascript.jscomp.ConcreteType$4", 
+"Methods" : [{ "Name" : "filter" ,
+"Duas" : 5,
+"0" :  "(205,(205,205), type)",
+"1" :  "(205,(205,209), type)",
+"2" :  "(205,(205,207), type)",
+"3" :  "(205,(205,209), type)",
+"4" :  "(205,207, type)"}]
+}

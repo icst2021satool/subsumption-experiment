@@ -1,0 +1,12 @@
+{
+"Class" : "com.google.javascript.jscomp.ShadowVariables", 
+"Methods" : [{ "Name" : "process" ,
+"Duas" : 7,
+"0" :  "(119,(122,123), this)",
+"1" :  "(119,(122,125), this)",
+"2" :  "(119,123, this)",
+"3" :  "(119,(122,123), this.oldPseudoNameMap)",
+"4" :  "(119,(122,125), this.oldPseudoNameMap)",
+"5" :  "(119,123, this.oldPseudoNameMap)",
+"6" :  "(119,123, this.deltaPseudoNameMap)"}]
+}

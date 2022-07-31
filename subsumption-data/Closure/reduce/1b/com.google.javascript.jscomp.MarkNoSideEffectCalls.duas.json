@@ -1,0 +1,14 @@
+{
+"Class" : "com.google.javascript.jscomp.MarkNoSideEffectCalls", 
+"Methods" : [{ "Name" : "definitionTypeContainsFunctionType" ,
+"Duas" : 4,
+"0" :  "(78,(79,80), rhs)",
+"1" :  "(78,(79,83), rhs)",
+"2" :  "(78,(83,96), rhs)",
+"3" :  "(78,(83,94), rhs)"},{ "Name" : "hasNoSideEffectsAnnotation" ,
+"Duas" : 4,
+"0" :  "(105,(106,106), docInfo)",
+"1" :  "(105,(106,106), docInfo)",
+"2" :  "(105,(106,106), docInfo)",
+"3" :  "(105,(106,106), docInfo)"}]
+}

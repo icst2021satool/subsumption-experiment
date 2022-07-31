@@ -1,0 +1,16 @@
+{
+"Class" : "com.google.javascript.jscomp.SideEffectsAnalysis$VisibilityLocationAbstraction$1", 
+"Methods" : [{ "Name" : "visit" ,
+"Edges" : 8,
+"6" : [ 1],
+"7" : [ 0, 2, 3, 8],
+"1" : [ 1, 4],
+"2" : [ 5],
+"3" : [ 0, 3, 6, 8],
+"4" : [ 7],
+"5" : [ 0, 3, 8],
+"0" : [ ],
+"CoveredDUAsByEdges" : 9,
+"Duas" : 9
+}]
+}

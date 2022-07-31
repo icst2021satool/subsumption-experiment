@@ -1,0 +1,12 @@
+{
+"Class" : "com.google.debugging.sourcemap.SourceMapGeneratorFactory", 
+"Methods" : [{ "Name" : "getInstance" ,
+"Nodes" : 6,
+"0" : [ 34 ]
+"1" : [ 41 ]
+"2" : [ 38 ]
+"3" : [ 36 ]
+"4" : [ 43 ]
+"5" : [  ]
+}]
+}

@@ -1,0 +1,54 @@
+{
+"Class" : "com.google.javascript.rhino.jstype.FunctionParamBuilder", 
+"Methods" : [{ "Name" : "addRequiredParams" ,
+"Nodes" : 7,
+"0" : [ 63 ]
+"1" : [ 67 ]
+"2" : [ 67 ]
+"3" : [ 70 ]
+"4" : [ 67,68 ]
+"5" : [ 64 ]
+"6" : [  ]
+},{ "Name" : "addOptionalParams" ,
+"Nodes" : 7,
+"0" : [ 80 ]
+"1" : [ 84 ]
+"2" : [ 84 ]
+"3" : [ 87 ]
+"4" : [ 84,85 ]
+"5" : [ 81 ]
+"6" : [  ]
+},{ "Name" : "addVarArgs" ,
+"Nodes" : 6,
+"0" : [ 95 ]
+"1" : [ 104 ]
+"2" : [ 107,108 ]
+"3" : [ 105 ]
+"4" : [ 96 ]
+"5" : [  ]
+},{ "Name" : "newOptionalParameterFromNode" ,
+"Nodes" : 5,
+"0" : [ 126,127 ]
+"1" : [ 130 ]
+"2" : [ 127 ]
+"3" : [ 128 ]
+"4" : [  ]
+},{ "Name" : "hasOptionalOrVarArgs" ,
+"Nodes" : 7,
+"0" : [ 146,147 ]
+"1" : [ 147 ]
+"2" : [ 147 ]
+"3" : [ 147 ]
+"4" : [ 147 ]
+"5" : [ 147 ]
+"6" : [  ]
+},{ "Name" : "hasVarArgs" ,
+"Nodes" : 6,
+"0" : [ 152,153 ]
+"1" : [ 153 ]
+"2" : [ 153 ]
+"3" : [ 153 ]
+"4" : [ 153 ]
+"5" : [  ]
+}]
+}

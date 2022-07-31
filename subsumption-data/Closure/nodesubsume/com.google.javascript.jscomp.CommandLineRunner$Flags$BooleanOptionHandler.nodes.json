@@ -1,0 +1,15 @@
+{
+"Class" : "com.google.javascript.jscomp.CommandLineRunner$Flags$BooleanOptionHandler", 
+"Methods" : [{ "Name" : "parseArguments" ,
+"Nodes" : 9,
+"0" : [ 464,465,467,462 ]
+"1" : [ 471,472 ]
+"2" : [ 474 ]
+"3" : [ 477,478 ]
+"4" : [ 475 ]
+"5" : [ 480 ]
+"6" : [ 473 ]
+"7" : [ 468,469 ]
+"8" : [  ]
+}]
+}

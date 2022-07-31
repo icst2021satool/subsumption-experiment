@@ -1,0 +1,15 @@
+{
+"Class" : "com.google.javascript.jscomp.SideEffectsAnalysis$VariableUseDeclarationMap", 
+"Methods" : [{ "Name" : "mapUses" ,
+"Duas" : 10,
+"0" :  "(960,976, this)",
+"1" :  "(960,976, this.referencesByNameNode)",
+"2" :  "(962,969, callback)",
+"3" :  "(968,(968,968), i$)",
+"4" :  "(968,(968,979), i$)",
+"5" :  "(968,968, i$)",
+"6" :  "(968,976, variable)",
+"7" :  "(972,(972,972), i$)",
+"8" :  "(972,(972,978), i$)",
+"9" :  "(972,972, i$)"}]
+}

@@ -1,0 +1,11 @@
+{
+"Class" : "com.google.javascript.jscomp.ReplaceIdGenerators$ObfuscatedNameSuppier", 
+"Methods" : [{ "Name" : "getName" ,
+"Duas" : 6,
+"0" :  "(122,124, this)",
+"1" :  "(122,124, this.generator)",
+"2" :  "(122,(123,124), newName)",
+"3" :  "(122,(123,126), newName)",
+"4" :  "(122,126, newName)",
+"5" :  "(124,126, newName)"}]
+}

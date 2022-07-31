@@ -1,0 +1,17 @@
+{
+"Class" : "com.google.javascript.jscomp.SideEffectsAnalysis$DegenerateLocationAbstraction$DegenerateEffectLocation", 
+"Methods" : [{ "Name" : "join" ,
+"Duas" : 4,
+"0" :  "(663,666, this)",
+"1" :  "(663,(663,664), otherLocation)",
+"2" :  "(663,(663,666), otherLocation)",
+"3" :  "(663,664, otherLocation)"},{ "Name" : "intersectsLocation" ,
+"Duas" : 4,
+"0" :  "(672,(672,672), this)",
+"1" :  "(672,(672,672), this)",
+"2" :  "(672,(672,672), otherLocation)",
+"3" :  "(672,(672,672), otherLocation)"},{ "Name" : "isEmpty" ,
+"Duas" : 2,
+"0" :  "(677,(677,677), this)",
+"1" :  "(677,(677,677), this)"}]
+}

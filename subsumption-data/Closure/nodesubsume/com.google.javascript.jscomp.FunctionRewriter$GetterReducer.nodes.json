@@ -1,0 +1,22 @@
+{
+"Class" : "com.google.javascript.jscomp.FunctionRewriter$GetterReducer", 
+"Methods" : [{ "Name" : "reduce" ,
+"Nodes" : 8,
+"0" : [ 417 ]
+"1" : [ 421,422 ]
+"2" : [ 430 ]
+"3" : [ 423 ]
+"4" : [ 428 ]
+"5" : [ 424 ]
+"6" : [ 418 ]
+"7" : [  ]
+},{ "Name" : "getGetPropertyName" ,
+"Nodes" : 6,
+"0" : [ 442,443 ]
+"1" : [ 448 ]
+"2" : [ 443 ]
+"3" : [ 443 ]
+"4" : [ 446 ]
+"5" : [  ]
+}]
+}

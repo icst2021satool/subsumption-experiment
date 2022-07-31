@@ -1,0 +1,20 @@
+{
+"Class" : "com.google.javascript.rhino.jstype.NoObjectType", 
+"Methods" : [{ "Name" : "isSubtype" ,
+"Edges" : 12,
+"Duas" : 10,
+"0" : 6, 
+ "1" : 7, 
+ "2" : 6, 
+ "3" : 7, 
+ "4" : 4, 
+ "5" : 5, 
+ "6" : 8, 
+ "7" : 9, 
+ "8" : 2, 
+ "9" : 3},{ "Name" : "toStringHelper" ,
+"Edges" : 5,
+"Duas" : 2,
+"0" : 1, 
+ "1" : 2}]
+}

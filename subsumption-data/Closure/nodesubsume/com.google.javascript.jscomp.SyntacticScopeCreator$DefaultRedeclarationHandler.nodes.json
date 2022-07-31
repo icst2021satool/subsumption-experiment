@@ -1,0 +1,21 @@
+{
+"Class" : "com.google.javascript.jscomp.SyntacticScopeCreator$DefaultRedeclarationHandler", 
+"Methods" : [{ "Name" : "onRedeclaration" ,
+"Nodes" : 15,
+"0" : [ 195,198 ]
+"1" : [ 218 ]
+"2" : [ 225 ]
+"3" : [ 218 ]
+"4" : [ 221 ]
+"5" : [ 199,200,201 ]
+"6" : [ 209,207 ]
+"7" : [ 218 ]
+"8" : [ 210 ]
+"9" : [ 210 ]
+"10" : [ 210 ]
+"11" : [ 210 ]
+"12" : [ 201 ]
+"13" : [ 204 ]
+"14" : [  ]
+}]
+}

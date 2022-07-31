@@ -1,0 +1,16 @@
+{
+"Class" : "com.google.javascript.jscomp.PrintStreamErrorManager", 
+"Methods" : [{ "Name" : "printSummary" ,
+"Nodes" : 10,
+"0" : [ 67 ]
+"1" : [ 70 ]
+"2" : [ 74 ]
+"3" : [ 78 ]
+"4" : [ 71 ]
+"5" : [ 67 ]
+"6" : [ 67 ]
+"7" : [ 67 ]
+"8" : [ 67 ]
+"9" : [  ]
+}]
+}

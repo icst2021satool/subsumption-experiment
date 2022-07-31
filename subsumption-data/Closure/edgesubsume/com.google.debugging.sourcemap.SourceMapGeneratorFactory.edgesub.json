@@ -1,0 +1,16 @@
+{
+"Class" : "com.google.debugging.sourcemap.SourceMapGeneratorFactory", 
+"Methods" : [{ "Name" : "getInstance" ,
+"Edges" : 8,
+"2" : [ 0, 4],
+"3" : [ 1, 5],
+"4" : [ 2, 6],
+"5" : [ 3, 7],
+"6" : [ 3, 7],
+"0" : [ 2, 6],
+"7" : [ 1, 5],
+"1" : [ 0, 4],
+"CoveredDUAsByEdges" : 8,
+"Duas" : 8
+}]
+}

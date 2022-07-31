@@ -1,0 +1,14 @@
+{
+"Class" : "com.google.javascript.jscomp.DiagnosticType", 
+"Methods" : [{ "Name" : "equals" ,
+"Edges" : 7,
+"Duas" : 8,
+"0" : 5, 
+ "1" : 6, 
+ "2" : 0, 
+ "3" : 1, 
+ "4" : 5, 
+ "5" : 6, 
+ "6" : 5, 
+ "7" : 6}]
+}

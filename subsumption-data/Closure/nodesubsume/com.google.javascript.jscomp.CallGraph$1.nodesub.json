@@ -1,0 +1,16 @@
+{
+"Class" : "com.google.javascript.jscomp.CallGraph$1", 
+"Methods" : [{ "Name" : "apply" ,
+"Nodes" : 8,
+"0" : [ ],
+"5" : [ 10],
+"1" : [ ],
+"2" : [ 1, 6, 13],
+"4" : [ 0, 5, 12],
+"3" : [ ],
+"6" : [ 2, 4, 7, 9, 10, 14],
+"7" : [ ],
+"CoveredDUAsByNodes" : 12,
+"Duas" : 15
+}]
+}

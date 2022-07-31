@@ -1,0 +1,10 @@
+{
+"Class" : "com.google.javascript.jscomp.AbstractCommandLineRunner$CommandLineConfig", 
+"Methods" : [{ "Name" : "setOutputManifest" ,
+"Edges" : 8,
+"Duas" : 11,
+"5" : 0, 
+ "6" : 1, 
+ "8" : 4, 
+ "9" : 5}]
+}

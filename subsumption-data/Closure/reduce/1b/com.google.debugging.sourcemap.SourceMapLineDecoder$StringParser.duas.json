@@ -1,0 +1,11 @@
+{
+"Class" : "com.google.debugging.sourcemap.SourceMapLineDecoder$StringParser", 
+"Methods" : [{ "Name" : "hasNext" ,
+"Duas" : 6,
+"0" :  "(154,(154,154), this)",
+"1" :  "(154,(154,154), this)",
+"2" :  "(154,(154,154), this.content)",
+"3" :  "(154,(154,154), this.content)",
+"4" :  "(154,(154,154), this.current)",
+"5" :  "(154,(154,154), this.current)"}]
+}

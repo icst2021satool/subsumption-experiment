@@ -1,0 +1,12 @@
+{
+"Class" : "com.google.javascript.jscomp.FunctionRewriter$SingleReturnStatementReducer", 
+"Methods" : [{ "Name" : "maybeGetSingleReturnRValue" ,
+"Nodes" : 6,
+"0" : [ 268,269 ]
+"1" : [ 273,274 ]
+"2" : [ 277 ]
+"3" : [ 275 ]
+"4" : [ 270 ]
+"5" : [  ]
+}]
+}

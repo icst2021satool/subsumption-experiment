@@ -1,0 +1,18 @@
+{
+"Class" : "com.google.javascript.jscomp.CompilerOptions$TweakProcessing", 
+"Methods" : [{ "Name" : "isOn" ,
+"Nodes" : 5,
+"0" : [ 2092 ]
+"1" : [ 2092 ]
+"2" : [ 2092 ]
+"3" : [ 2092 ]
+"4" : [  ]
+},{ "Name" : "shouldStrip" ,
+"Nodes" : 5,
+"0" : [ 2096 ]
+"1" : [ 2096 ]
+"2" : [ 2096 ]
+"3" : [ 2096 ]
+"4" : [  ]
+}]
+}

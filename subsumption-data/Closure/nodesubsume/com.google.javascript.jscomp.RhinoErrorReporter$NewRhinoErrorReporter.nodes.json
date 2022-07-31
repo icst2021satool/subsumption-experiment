@@ -1,0 +1,16 @@
+{
+"Class" : "com.google.javascript.jscomp.RhinoErrorReporter$NewRhinoErrorReporter", 
+"Methods" : [{ "Name" : "error" ,
+"Nodes" : 4,
+"0" : [ 184,185,186,187 ]
+"1" : [ 192,191 ]
+"2" : [ 188,189 ]
+"3" : [  ]
+},{ "Name" : "warning" ,
+"Nodes" : 4,
+"0" : [ 203,204,205,206 ]
+"1" : [ 210,211 ]
+"2" : [ 208,207 ]
+"3" : [  ]
+}]
+}

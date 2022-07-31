@@ -1,0 +1,17 @@
+{
+"Class" : "com.google.javascript.jscomp.AnalyzePrototypeProperties$PropagateReferences", 
+"Methods" : [{ "Name" : "traverseEdge" ,
+"Edges" : 9,
+"1" : [ 2, 4],
+"2" : [ 3],
+"0" : [ 3],
+"6" : [ 2, 4, 12],
+"7" : [ 2, 4, 5, 8, 13],
+"4" : [ 0, 16, 2, 4, 6, 9, 10, 12, 14],
+"5" : [ 1, 2, 4, 5, 7, 8, 11, 15],
+"3" : [ 2, 4, 5, 8],
+"8" : [ 0, 16, 2, 4, 6, 9, 10, 12, 14],
+"CoveredDUAsByEdges" : 17,
+"Duas" : 17
+}]
+}

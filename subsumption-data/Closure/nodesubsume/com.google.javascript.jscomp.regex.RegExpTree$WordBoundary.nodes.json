@@ -1,0 +1,12 @@
+{
+"Class" : "com.google.javascript.jscomp.regex.RegExpTree$WordBoundary", 
+"Methods" : [{ "Name" : "equals" ,
+"Nodes" : 6,
+"0" : [ 691 ]
+"1" : [ 691 ]
+"2" : [ 691 ]
+"3" : [ 691 ]
+"4" : [ 691 ]
+"5" : [  ]
+}]
+}

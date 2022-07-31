@@ -1,0 +1,15 @@
+{
+"Class" : "com.google.javascript.jscomp.NameAnalyzer$FindReferences$NodeAccumulator", 
+"Methods" : [{ "Name" : "keepSimplifiedHookExpression" ,
+"Edges" : 7,
+"3" : [ 1, 2, 7, 8],
+"4" : [ 3],
+"6" : [ 1, 2, 7, 8],
+"1" : [ 0, 4, 6, 9],
+"2" : [ 5],
+"0" : [ 0, 4, 6, 9],
+"5" : [ ],
+"CoveredDUAsByEdges" : 10,
+"Duas" : 10
+}]
+}

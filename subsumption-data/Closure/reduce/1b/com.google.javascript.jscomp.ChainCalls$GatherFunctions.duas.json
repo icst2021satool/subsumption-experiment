@@ -1,0 +1,20 @@
+{
+"Class" : "com.google.javascript.jscomp.ChainCalls$GatherFunctions", 
+"Methods" : [{ "Name" : "enterScope" ,
+"Duas" : 15,
+"0" :  "(69,81, this)",
+"1" :  "(69,76, this)",
+"2" :  "(69,81, t)",
+"3" :  "(69,76, t)",
+"4" :  "(69,81, this.this$0)",
+"5" :  "(69,76, this.this$0)",
+"6" :  "(71,(71,71), i$)",
+"7" :  "(71,(71,81), i$)",
+"8" :  "(71,71, i$)",
+"9" :  "(72,(73,73), exitNode)",
+"10" :  "(72,(73,76), exitNode)",
+"11" :  "(72,(73,73), exitNode)",
+"12" :  "(72,(73,76), exitNode)",
+"13" :  "(72,(73,76), exitNode)",
+"14" :  "(72,(73,79), exitNode)"}]
+}

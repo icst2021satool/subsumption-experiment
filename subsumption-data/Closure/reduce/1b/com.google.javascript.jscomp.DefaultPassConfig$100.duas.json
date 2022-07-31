@@ -1,0 +1,10 @@
+{
+"Class" : "com.google.javascript.jscomp.DefaultPassConfig$100", 
+"Methods" : [{ "Name" : "process" ,
+"Duas" : 5,
+"0" :  "(2225,2226, externs)",
+"1" :  "(2225,2226, root)",
+"2" :  "(2225,(2225,2225), i$)",
+"3" :  "(2225,(2225,2228), i$)",
+"4" :  "(2225,2225, i$)"}]
+}

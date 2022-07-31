@@ -1,0 +1,13 @@
+{
+"Class" : "com.google.javascript.jscomp.DisambiguateProperties$FindExternProperties", 
+"Methods" : [{ "Name" : "visit" ,
+"Nodes" : 7,
+"0" : [ 407 ]
+"1" : [ 425 ]
+"2" : [ 408,409,410,411 ]
+"3" : [ 419,414 ]
+"4" : [ 420,421 ]
+"5" : [ 412 ]
+"6" : [  ]
+}]
+}

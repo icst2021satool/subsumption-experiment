@@ -1,0 +1,8 @@
+{
+"Class" : "com.google.javascript.jscomp.InlineObjectLiterals$InliningBehavior$1", 
+"Methods" : [{ "Name" : "visit" ,
+"Edges" : 4,
+"Duas" : 6,
+"1" : 2, 
+ "2" : 3}]
+}

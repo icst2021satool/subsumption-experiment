@@ -1,0 +1,11 @@
+{
+"Class" : "com.google.javascript.jscomp.InlineObjectLiterals$InliningBehavior$1", 
+"Methods" : [{ "Name" : "visit" ,
+"Duas" : 6,
+"0" :  "(119,120, this)",
+"1" :  "(119,(119,120), node)",
+"2" :  "(119,(119,122), node)",
+"3" :  "(119,120, node)",
+"4" :  "(119,120, this.this$1)",
+"5" :  "(119,120, this.val$scope)"}]
+}

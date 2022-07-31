@@ -1,0 +1,17 @@
+{
+"Class" : "com.google.javascript.jscomp.SpecializeModule$1", 
+"Methods" : [{ "Name" : "reportMatch" ,
+"Nodes" : 4,
+"0" : [ 241 ]
+"1" : [ 248 ]
+"2" : [ 242,245 ]
+"3" : [  ]
+},{ "Name" : "shouldTraverse" ,
+"Nodes" : 5,
+"0" : [ 252 ]
+"1" : [ 252 ]
+"2" : [ 252 ]
+"3" : [ 252 ]
+"4" : [  ]
+}]
+}

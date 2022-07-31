@@ -1,0 +1,12 @@
+{
+"Class" : "com.google.javascript.jscomp.ExtractPrototypeMemberDeclarations$PrototypeMemberDeclaration", 
+"Methods" : [{ "Name" : "extractDeclaration" ,
+"Edges" : 4,
+"2" : [ 0],
+"3" : [ 1, 2, 3],
+"0" : [ 1, 2, 3],
+"1" : [ 0],
+"CoveredDUAsByEdges" : 4,
+"Duas" : 4
+}]
+}

@@ -1,0 +1,12 @@
+{
+"Class" : "com.google.javascript.jscomp.Denormalize$StripConstantAnnotations", 
+"Methods" : [{ "Name" : "visit" ,
+"Nodes" : 6,
+"0" : [ 146 ]
+"1" : [ 147 ]
+"2" : [ 149 ]
+"3" : [ 146 ]
+"4" : [ 146 ]
+"5" : [  ]
+}]
+}

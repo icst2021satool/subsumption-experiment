@@ -1,0 +1,17 @@
+{
+"Class" : "com.google.javascript.jscomp.JsMessageExtractor", 
+"Methods" : [{ "Name" : "extractMessages" ,
+"Nodes" : 9,
+"0" : [ ],
+"7" : [ 0, 4, 6],
+"1" : [ 2],
+"2" : [ 2, 5, 8],
+"3" : [ 2, 3, 7, 9],
+"4" : [ 2, 3, 7, 9],
+"5" : [ 2, 3, 7, 9, 10, 15],
+"8" : [ 2],
+"6" : [ 16, 2, 18, 3, 19, 7, 9, 11, 12, 13, 14],
+"CoveredDUAsByNodes" : 18,
+"Duas" : 24
+}]
+}

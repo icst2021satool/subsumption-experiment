@@ -1,0 +1,17 @@
+{
+"Class" : "com.google.javascript.jscomp.CleanupPasses$MemoizedScopeCleanupPass", 
+"Methods" : [{ "Name" : "hotSwapScript" ,
+"Nodes" : 11,
+"0" : [ 112,113 ]
+"1" : [ 128 ]
+"2" : [ 114,115,116 ]
+"3" : [ 116 ]
+"4" : [ 126 ]
+"5" : [ 116,117,118 ]
+"6" : [ 125 ]
+"7" : [ 119,120 ]
+"8" : [ 120 ]
+"9" : [ 122 ]
+"10" : [  ]
+}]
+}

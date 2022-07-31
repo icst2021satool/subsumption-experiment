@@ -1,0 +1,10 @@
+{
+"Class" : "com.google.javascript.jscomp.RenameVars$1", 
+"Methods" : [{ "Name" : "compare" ,
+"Nodes" : 4,
+"0" : [ 302 ]
+"1" : [ 307 ]
+"2" : [ 303 ]
+"3" : [  ]
+}]
+}

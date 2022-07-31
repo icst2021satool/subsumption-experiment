@@ -1,0 +1,13 @@
+{
+"Class" : "com.google.javascript.jscomp.type.ChainableReverseAbstractInterpreter$2", 
+"Methods" : [{ "Name" : "caseEnumElementType" ,
+"Duas" : 8,
+"0" :  "(278,(279,281), enumElementType)",
+"1" :  "(278,(279,283), enumElementType)",
+"2" :  "(278,281, enumElementType)",
+"3" :  "(278,(279,279), type)",
+"4" :  "(278,(279,283), type)",
+"5" :  "(278,283, type)",
+"6" :  "(278,(279,281), type)",
+"7" :  "(278,(279,283), type)"}]
+}

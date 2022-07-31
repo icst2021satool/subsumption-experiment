@@ -1,0 +1,14 @@
+{
+"Class" : "com.google.javascript.jscomp.DisambiguateProperties$AbstractScopingCallback", 
+"Methods" : [{ "Name" : "enterScope" ,
+"Duas" : 9,
+"0" :  "(382,385, this)",
+"1" :  "(382,383, this)",
+"2" :  "(382,(382,383), t)",
+"3" :  "(382,(382,385), t)",
+"4" :  "(382,385, t)",
+"5" :  "(382,385, this.scopes)",
+"6" :  "(382,383, this.scopes)",
+"7" :  "(382,385, this.this$0)",
+"8" :  "(382,383, this.this$0)"}]
+}

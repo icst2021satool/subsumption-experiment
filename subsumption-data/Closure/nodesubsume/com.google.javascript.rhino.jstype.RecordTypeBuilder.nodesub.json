@@ -1,0 +1,29 @@
+{
+"Class" : "com.google.javascript.rhino.jstype.RecordTypeBuilder", 
+"Methods" : [{ "Name" : "setSynthesized" ,
+"Nodes" : 5,
+"0" : [ ],
+"1" : [ 2],
+"3" : [ 1],
+"2" : [ 0],
+"4" : [ 0],
+"CoveredDUAsByNodes" : 3,
+"Duas" : 3
+},{ "Name" : "addProperty" ,
+"Nodes" : 4,
+"0" : [ ],
+"1" : [ 1, 2, 3, 5, 6, 7, 8, 10, 11],
+"2" : [ 0, 4, 9],
+"3" : [ ],
+"CoveredDUAsByNodes" : 12,
+"Duas" : 12
+},{ "Name" : "build" ,
+"Nodes" : 4,
+"0" : [ ],
+"1" : [ 1, 2, 5, 6, 9, 10],
+"2" : [ 0, 3, 4, 7, 8],
+"3" : [ ],
+"CoveredDUAsByNodes" : 11,
+"Duas" : 11
+}]
+}

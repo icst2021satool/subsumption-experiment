@@ -1,0 +1,18 @@
+{
+"Class" : "com.google.javascript.jscomp.RemoveUnusedNames", 
+"Methods" : [{ "Name" : "removeUnusedProperties" ,
+"Edges" : 14,
+"Duas" : 18,
+"0" : 8, 
+ "1" : 9, 
+ "3" : 8, 
+ "4" : 9, 
+ "7" : 5, 
+ "8" : 6, 
+ "12" : 10, 
+ "13" : 11, 
+ "14" : 1, 
+ "15" : 2, 
+ "16" : 12, 
+ "17" : 13}]
+}

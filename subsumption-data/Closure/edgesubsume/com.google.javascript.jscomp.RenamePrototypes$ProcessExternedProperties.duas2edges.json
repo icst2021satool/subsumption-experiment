@@ -1,0 +1,10 @@
+{
+"Class" : "com.google.javascript.jscomp.RenamePrototypes$ProcessExternedProperties", 
+"Methods" : [{ "Name" : "visit" ,
+"Edges" : 6,
+"Duas" : 8,
+"1" : 4, 
+ "2" : 5, 
+ "5" : 2, 
+ "6" : 3}]
+}

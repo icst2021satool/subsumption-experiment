@@ -1,0 +1,26 @@
+{
+"Class" : "com.google.javascript.jscomp.NameAnonymousFunctionsMapped$MappedFunctionNamer", 
+"Methods" : [{ "Name" : "getName" ,
+"Edges" : 4,
+"0" : [ 0, 3],
+"1" : [ 1, 2],
+"2" : [ 1, 2],
+"3" : [ 0, 3],
+"CoveredDUAsByEdges" : 4,
+"Duas" : 4
+},{ "Name" : "getAlternateName" ,
+"Edges" : 10,
+"5" : [ 12],
+"6" : [ 13, 14],
+"0" : [ 0, 4, 6, 7, 11, 12],
+"1" : [ 1, 8, 12],
+"2" : [ 0, 4, 6, 7, 11, 12],
+"3" : [ 3, 10, 12],
+"4" : [ 2, 5, 9, 12],
+"9" : [ 2, 3, 5, 9, 10, 12],
+"8" : [ 2, 5, 9, 12],
+"7" : [ ],
+"CoveredDUAsByEdges" : 15,
+"Duas" : 24
+}]
+}

@@ -1,0 +1,15 @@
+{
+"Class" : "com.google.javascript.jscomp.NameReferenceGraphReport$DiGraphNodeComparator", 
+"Methods" : [{ "Name" : "compare" ,
+"Duas" : 10,
+"0" :  "(298,(301,301), node1)",
+"1" :  "(298,(301,307), node1)",
+"2" :  "(298,(307,308), node1)",
+"3" :  "(298,(307,312), node1)",
+"4" :  "(298,316, node1)",
+"5" :  "(298,(312,313), node2)",
+"6" :  "(298,(312,316), node2)",
+"7" :  "(298,316, node2)",
+"8" :  "(298,(301,303), node2)",
+"9" :  "(298,(301,307), node2)"}]
+}

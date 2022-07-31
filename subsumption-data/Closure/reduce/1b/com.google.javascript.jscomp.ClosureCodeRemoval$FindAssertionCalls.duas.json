@@ -1,0 +1,23 @@
+{
+"Class" : "com.google.javascript.jscomp.ClosureCodeRemoval$FindAssertionCalls", 
+"Methods" : [{ "Name" : "<init>" ,
+"Duas" : 5,
+"0" :  "(162,165, this)",
+"1" :  "(160,165, this.assertionNames)",
+"2" :  "(164,(164,164), i$)",
+"3" :  "(164,(164,167), i$)",
+"4" :  "(164,164, i$)"},{ "Name" : "visit" ,
+"Duas" : 12,
+"0" :  "(172,(174,175), this)",
+"1" :  "(172,(174,178), this)",
+"2" :  "(172,175, this)",
+"3" :  "(172,(172,173), n)",
+"4" :  "(172,(172,178), n)",
+"5" :  "(172,173, n)",
+"6" :  "(172,175, n)",
+"7" :  "(172,(174,175), this.assertionNames)",
+"8" :  "(172,(174,178), this.assertionNames)",
+"9" :  "(172,175, this.this$0)",
+"10" :  "(173,(174,175), fnName)",
+"11" :  "(173,(174,178), fnName)"}]
+}

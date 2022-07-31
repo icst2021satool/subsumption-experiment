@@ -1,0 +1,12 @@
+{
+"Class" : "com.google.javascript.jscomp.InlineCostEstimator$CompiledSizeEstimator", 
+"Methods" : [{ "Name" : "append" ,
+"Edges" : 4,
+"1" : [ 0, 2, 3, 5],
+"2" : [ 1, 4, 6],
+"0" : [ 0, 2, 3, 5],
+"3" : [ ],
+"CoveredDUAsByEdges" : 7,
+"Duas" : 7
+}]
+}

@@ -1,0 +1,12 @@
+{
+"Class" : "com.google.javascript.jscomp.SourceFile$Generated", 
+"Methods" : [{ "Name" : "getCode" ,
+"Edges" : 4,
+"1" : [ 0, 1, 2, 3],
+"2" : [ 4, 5],
+"3" : [ 0, 1, 2, 3],
+"0" : [ ],
+"CoveredDUAsByEdges" : 6,
+"Duas" : 7
+}]
+}

@@ -1,0 +1,12 @@
+{
+"Class" : "com.google.javascript.jscomp.SymbolTable$3", 
+"Methods" : [{ "Name" : "compare" ,
+"Nodes" : 6,
+"0" : [ 1580 ]
+"1" : [ 1580 ]
+"2" : [ 1580,1582 ]
+"3" : [ 1580 ]
+"4" : [ 1580 ]
+"5" : [  ]
+}]
+}

@@ -1,0 +1,14 @@
+{
+"Class" : "com.google.javascript.jscomp.type.SemanticReverseAbstractInterpreter$1", 
+"Methods" : [{ "Name" : "apply" ,
+"Edges" : 6,
+"3" : [ 0, 5],
+"4" : [ 1, 6],
+"0" : [ 2, 8],
+"1" : [ 0, 3, 4, 5, 7, 9, 10],
+"5" : [ 0, 3, 4, 5, 7, 9, 10],
+"2" : [ ],
+"CoveredDUAsByEdges" : 11,
+"Duas" : 11
+}]
+}

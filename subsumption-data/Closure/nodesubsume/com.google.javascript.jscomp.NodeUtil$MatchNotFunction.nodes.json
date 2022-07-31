@@ -1,0 +1,11 @@
+{
+"Class" : "com.google.javascript.jscomp.NodeUtil$MatchNotFunction", 
+"Methods" : [{ "Name" : "apply" ,
+"Nodes" : 5,
+"0" : [ 2633 ]
+"1" : [ 2633 ]
+"2" : [ 2633 ]
+"3" : [ 2633 ]
+"4" : [  ]
+}]
+}

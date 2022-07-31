@@ -1,0 +1,20 @@
+{
+"Class" : "com.google.javascript.rhino.jstype.SimpleReference", 
+"Methods" : [{ "Name" : "toString" ,
+"Duas" : 15,
+"0" :  "(75,(75,75), this)",
+"1" :  "(75,(75,75), this)",
+"2" :  "(75,75, this)",
+"3" :  "(75,(76,76), this)",
+"4" :  "(75,(76,76), this)",
+"5" :  "(75,76, this)",
+"6" :  "(75,77, this)",
+"7" :  "(75,(75,75), this.node)",
+"8" :  "(75,(75,75), this.node)",
+"9" :  "(75,75, this.node)",
+"10" :  "(75,(76,76), this.node)",
+"11" :  "(75,(76,76), this.node)",
+"12" :  "(75,76, this.node)",
+"13" :  "(75,77, this.node)",
+"14" :  "(75,77, sourceName)"}]
+}

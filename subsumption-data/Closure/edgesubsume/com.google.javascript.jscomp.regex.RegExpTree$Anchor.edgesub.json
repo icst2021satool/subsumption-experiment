@@ -1,0 +1,15 @@
+{
+"Class" : "com.google.javascript.jscomp.regex.RegExpTree$Anchor", 
+"Methods" : [{ "Name" : "equals" ,
+"Edges" : 7,
+"1" : [ 2],
+"2" : [ 3],
+"4" : [ 0, 2, 4, 6],
+"5" : [ 1, 5, 7],
+"0" : [ ],
+"6" : [ 0, 2, 4, 6],
+"3" : [ ],
+"CoveredDUAsByEdges" : 8,
+"Duas" : 8
+}]
+}

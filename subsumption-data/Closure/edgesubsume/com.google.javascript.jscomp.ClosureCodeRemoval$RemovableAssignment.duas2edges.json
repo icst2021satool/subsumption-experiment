@@ -1,0 +1,16 @@
+{
+"Class" : "com.google.javascript.jscomp.ClosureCodeRemoval$RemovableAssignment", 
+"Methods" : [{ "Name" : "<init>" ,
+"Edges" : 6,
+"Duas" : 10,
+"4" : 4, 
+ "5" : 5, 
+ "7" : 0, 
+ "8" : 1},{ "Name" : "remove" ,
+"Edges" : 9,
+"Duas" : 16,
+"7" : 6, 
+ "8" : 7, 
+ "10" : 4, 
+ "11" : 5}]
+}

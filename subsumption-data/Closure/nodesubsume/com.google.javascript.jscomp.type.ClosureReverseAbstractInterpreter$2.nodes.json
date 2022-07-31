@@ -1,0 +1,11 @@
+{
+"Class" : "com.google.javascript.jscomp.type.ClosureReverseAbstractInterpreter$2", 
+"Methods" : [{ "Name" : "caseObjectType" ,
+"Nodes" : 5,
+"0" : [ 73 ]
+"1" : [ 73 ]
+"2" : [ 73 ]
+"3" : [ 73 ]
+"4" : [  ]
+}]
+}

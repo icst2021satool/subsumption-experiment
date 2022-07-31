@@ -1,0 +1,16 @@
+{
+"Class" : "com.google.javascript.jscomp.Scope$Arguments", 
+"Methods" : [{ "Name" : "equals" ,
+"Duas" : 11,
+"0" :  "(368,(373,373), this)",
+"1" :  "(368,(373,373), this)",
+"2" :  "(368,(368,369), other)",
+"3" :  "(368,(368,372), other)",
+"4" :  "(368,372, other)",
+"5" :  "(368,(373,373), this.scope)",
+"6" :  "(368,(373,373), this.scope)",
+"7" :  "(372,(373,373), otherVar)",
+"8" :  "(372,(373,373), otherVar)",
+"9" :  "(372,(373,373), otherVar.scope)",
+"10" :  "(372,(373,373), otherVar.scope)"}]
+}

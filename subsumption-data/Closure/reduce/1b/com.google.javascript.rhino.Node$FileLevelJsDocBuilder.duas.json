@@ -1,0 +1,20 @@
+{
+"Class" : "com.google.javascript.rhino.Node$FileLevelJsDocBuilder", 
+"Methods" : [{ "Name" : "append" ,
+"Duas" : 15,
+"0" :  "(1830,1841, this)",
+"1" :  "(1830,1840, fileLevelComment)",
+"2" :  "(1830,1841, this.this$0)",
+"3" :  "(1830,(1831,1834), jsDocInfo)",
+"4" :  "(1830,(1831,1836), jsDocInfo)",
+"5" :  "(1830,1836, jsDocInfo)",
+"6" :  "(1830,1840, jsDocInfo)",
+"7" :  "(1830,1841, jsDocInfo)",
+"8" :  "(1834,1836, jsDocInfo)",
+"9" :  "(1834,1840, jsDocInfo)",
+"10" :  "(1834,1841, jsDocInfo)",
+"11" :  "(1836,(1837,1838), license)",
+"12" :  "(1836,(1837,1840), license)",
+"13" :  "(1836,1840, license)",
+"14" :  "(1838,1840, license)"}]
+}

@@ -1,0 +1,18 @@
+{
+"Class" : "com.google.javascript.jscomp.CheckUnreachableCode", 
+"Methods" : [{ "Name" : "shouldTraverse" ,
+"Edges" : 12,
+"Duas" : 20,
+"3" : 10, 
+ "4" : 11, 
+ "5" : 8, 
+ "6" : 9, 
+ "7" : 6, 
+ "8" : 7, 
+ "11" : 3, 
+ "12" : 4, 
+ "16" : 0, 
+ "17" : 1, 
+ "18" : 3, 
+ "19" : 4}]
+}

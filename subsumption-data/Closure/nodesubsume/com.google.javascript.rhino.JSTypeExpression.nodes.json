@@ -1,0 +1,33 @@
+{
+"Class" : "com.google.javascript.rhino.JSTypeExpression", 
+"Methods" : [{ "Name" : "makeOptionalArg" ,
+"Nodes" : 5,
+"0" : [ 74 ]
+"1" : [ 75 ]
+"2" : [ 74 ]
+"3" : [ 77 ]
+"4" : [  ]
+},{ "Name" : "isOptionalArg" ,
+"Nodes" : 5,
+"0" : [ 86 ]
+"1" : [ 86 ]
+"2" : [ 86 ]
+"3" : [ 86 ]
+"4" : [  ]
+},{ "Name" : "isVarArgs" ,
+"Nodes" : 5,
+"0" : [ 93 ]
+"1" : [ 93 ]
+"2" : [ 93 ]
+"3" : [ 93 ]
+"4" : [  ]
+},{ "Name" : "equals" ,
+"Nodes" : 6,
+"0" : [ 107 ]
+"1" : [ 107 ]
+"2" : [ 107 ]
+"3" : [ 107 ]
+"4" : [ 107 ]
+"5" : [  ]
+}]
+}

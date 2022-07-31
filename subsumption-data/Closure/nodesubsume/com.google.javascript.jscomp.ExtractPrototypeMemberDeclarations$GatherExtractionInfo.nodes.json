@@ -1,0 +1,25 @@
+{
+"Class" : "com.google.javascript.jscomp.ExtractPrototypeMemberDeclarations$GatherExtractionInfo", 
+"Methods" : [{ "Name" : "visit" ,
+"Nodes" : 12,
+"0" : [ 257 ]
+"1" : [ 261 ]
+"2" : [ 261 ]
+"3" : [ 281 ]
+"4" : [ 262,264 ]
+"5" : [ 272,276,270 ]
+"6" : [ 261 ]
+"7" : [ 277,278 ]
+"8" : [ 265 ]
+"9" : [ 257 ]
+"10" : [ 258 ]
+"11" : [  ]
+},{ "Name" : "shouldExtract" ,
+"Nodes" : 5,
+"0" : [ 288 ]
+"1" : [ 288 ]
+"2" : [ 288 ]
+"3" : [ 288 ]
+"4" : [  ]
+}]
+}

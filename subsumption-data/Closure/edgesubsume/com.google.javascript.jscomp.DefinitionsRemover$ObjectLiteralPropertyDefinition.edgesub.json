@@ -1,0 +1,12 @@
+{
+"Class" : "com.google.javascript.jscomp.DefinitionsRemover$ObjectLiteralPropertyDefinition", 
+"Methods" : [{ "Name" : "getLValue" ,
+"Edges" : 4,
+"1" : [ 0, 3],
+"2" : [ 1, 2, 4, 5],
+"0" : [ 1, 2, 4, 5],
+"3" : [ 0, 3],
+"CoveredDUAsByEdges" : 6,
+"Duas" : 6
+}]
+}

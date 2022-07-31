@@ -1,0 +1,11 @@
+{
+"Class" : "com.google.javascript.jscomp.FunctionInjector$CallSiteType$6", 
+"Methods" : [{ "Name" : "prepare" ,
+"Nodes" : 5,
+"0" : [ 384,380,383 ]
+"1" : [ 384 ]
+"2" : [ 384,385,386 ]
+"3" : [ 384 ]
+"4" : [  ]
+}]
+}

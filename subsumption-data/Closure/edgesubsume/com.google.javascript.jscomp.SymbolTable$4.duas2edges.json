@@ -1,0 +1,8 @@
+{
+"Class" : "com.google.javascript.jscomp.SymbolTable$4", 
+"Methods" : [{ "Name" : "compare" ,
+"Edges" : 4,
+"Duas" : 5,
+"2" : 0, 
+ "3" : 1}]
+}

@@ -1,0 +1,11 @@
+{
+"Class" : "com.google.javascript.jscomp.NodeUtil$MatchNodeType", 
+"Methods" : [{ "Name" : "apply" ,
+"Duas" : 6,
+"0" :  "(2612,(2612,2612), this)",
+"1" :  "(2612,(2612,2612), this)",
+"2" :  "(2612,(2612,2612), n)",
+"3" :  "(2612,(2612,2612), n)",
+"4" :  "(2612,(2612,2612), this.type)",
+"5" :  "(2612,(2612,2612), this.type)"}]
+}

@@ -1,0 +1,17 @@
+{
+"Class" : "com.google.javascript.jscomp.AbstractMessageFormatter", 
+"Methods" : [{ "Name" : "getLevelName" ,
+"Nodes" : 5,
+"0" : [ 74 ]
+"1" : [ 76 ]
+"2" : [ 75 ]
+"3" : [ 77 ]
+"4" : [  ]
+},{ "Name" : "maybeColorize" ,
+"Nodes" : 4,
+"0" : [ 82 ]
+"1" : [ 84 ]
+"2" : [ 82 ]
+"3" : [  ]
+}]
+}

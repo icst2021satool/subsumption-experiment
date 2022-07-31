@@ -1,0 +1,12 @@
+{
+"Class" : "com.google.javascript.jscomp.NameAnalyzer$HoistVariableAndFunctionDeclarations", 
+"Methods" : [{ "Name" : "visit" ,
+"Nodes" : 6,
+"0" : [ 604 ]
+"1" : [ 608 ]
+"2" : [ 614 ]
+"3" : [ 609,610,611,612 ]
+"4" : [ 608,605,606,607 ]
+"5" : [  ]
+}]
+}

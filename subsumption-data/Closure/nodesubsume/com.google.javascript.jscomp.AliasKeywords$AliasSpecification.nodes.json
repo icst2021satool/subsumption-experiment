@@ -1,0 +1,18 @@
+{
+"Class" : "com.google.javascript.jscomp.AliasKeywords$AliasSpecification", 
+"Methods" : [{ "Name" : "maybeInsertAliasDeclarationIntoParseTree" ,
+"Nodes" : 4,
+"0" : [ 114 ]
+"1" : [ 119 ]
+"2" : [ 115,116,117 ]
+"3" : [  ]
+},{ "Name" : "doAlias" ,
+"Nodes" : 6,
+"0" : [ 127 ]
+"1" : [ 135 ]
+"2" : [ 128 ]
+"3" : [ 128 ]
+"4" : [ 128,129,130,131,132,133 ]
+"5" : [  ]
+}]
+}

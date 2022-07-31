@@ -1,0 +1,12 @@
+{
+"Class" : "com.google.javascript.jscomp.JsMessageExtractor$ExtractMessagesVisitor", 
+"Methods" : [{ "Name" : "processJsMessage" ,
+"Edges" : 4,
+"0" : [ 0, 1, 3, 4],
+"1" : [ 2],
+"2" : [ 0, 1, 3, 4],
+"3" : [ ],
+"CoveredDUAsByEdges" : 5,
+"Duas" : 5
+}]
+}

@@ -1,0 +1,19 @@
+{
+"Class" : "com.google.javascript.jscomp.ConcreteType$ConcreteUniqueType", 
+"Methods" : [{ "Name" : "<init>" ,
+"Nodes" : 5,
+"0" : [ 656,657,659 ]
+"1" : [ 659 ]
+"2" : [ 659,660 ]
+"3" : [ 659 ]
+"4" : [  ]
+},{ "Name" : "equals" ,
+"Nodes" : 6,
+"0" : [ 663 ]
+"1" : [ 663 ]
+"2" : [ 663 ]
+"3" : [ 663 ]
+"4" : [ 663 ]
+"5" : [  ]
+}]
+}

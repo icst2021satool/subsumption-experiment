@@ -1,0 +1,11 @@
+{
+"Class" : "com.google.javascript.jscomp.SideEffectsAnalysis$2", 
+"Methods" : [{ "Name" : "apply" ,
+"Duas" : 6,
+"0" :  "(302,(304,304), nodeType)",
+"1" :  "(302,(304,304), nodeType)",
+"2" :  "(302,(304,304), nodeType)",
+"3" :  "(302,(304,304), nodeType)",
+"4" :  "(302,(304,304), nodeType)",
+"5" :  "(302,(304,304), nodeType)"}]
+}

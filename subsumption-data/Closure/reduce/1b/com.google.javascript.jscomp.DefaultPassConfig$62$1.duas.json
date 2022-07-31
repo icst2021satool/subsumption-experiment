@@ -1,0 +1,21 @@
+{
+"Class" : "com.google.javascript.jscomp.DefaultPassConfig$62$1", 
+"Methods" : [{ "Name" : "process" ,
+"Duas" : 16,
+"0" :  "(1692,(1705,1706), this)",
+"1" :  "(1692,(1705,1708), this)",
+"2" :  "(1692,(1705,1706), this.this$1)",
+"3" :  "(1692,(1705,1708), this.this$1)",
+"4" :  "(1692,(1705,1706), this.this$0)",
+"5" :  "(1692,(1705,1708), this.this$0)",
+"6" :  "(1692,(1705,1706), this.options)",
+"7" :  "(1692,(1705,1708), this.options)",
+"8" :  "(1692,1698, UTF_8)",
+"9" :  "(1692,(1705,1706), this.smartNameRemoval)",
+"10" :  "(1692,(1705,1708), this.smartNameRemoval)",
+"11" :  "(1692,1706, na)",
+"12" :  "(1692,1698, na)",
+"13" :  "(1695,(1696,1698), reportPath)",
+"14" :  "(1695,(1696,1705), reportPath)",
+"15" :  "(1695,1698, reportPath)"}]
+}

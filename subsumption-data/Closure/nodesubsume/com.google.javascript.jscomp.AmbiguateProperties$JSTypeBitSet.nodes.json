@@ -1,0 +1,11 @@
+{
+"Class" : "com.google.javascript.jscomp.AmbiguateProperties$JSTypeBitSet", 
+"Methods" : [{ "Name" : "toString" ,
+"Nodes" : 5,
+"0" : [ 631,632,633 ]
+"1" : [ 634 ]
+"2" : [ 638 ]
+"3" : [ 635,636 ]
+"4" : [  ]
+}]
+}

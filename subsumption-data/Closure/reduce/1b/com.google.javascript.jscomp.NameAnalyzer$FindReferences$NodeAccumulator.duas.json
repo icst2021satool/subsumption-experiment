@@ -1,0 +1,15 @@
+{
+"Class" : "com.google.javascript.jscomp.NameAnalyzer$FindReferences$NodeAccumulator", 
+"Methods" : [{ "Name" : "keepSimplifiedHookExpression" ,
+"Duas" : 10,
+"0" :  "(1067,1075, this)",
+"1" :  "(1067,1072, this)",
+"2" :  "(1067,(1071,1072), thenHasSideEffects)",
+"3" :  "(1067,(1071,1074), thenHasSideEffects)",
+"4" :  "(1067,(1074,1075), elseHasSideEffects)",
+"5" :  "(1067,(1074,1077), elseHasSideEffects)",
+"6" :  "(1067,1075, this.this$1)",
+"7" :  "(1067,1072, this.this$1)",
+"8" :  "(1068,1072, thenBranch)",
+"9" :  "(1069,1075, elseBranch)"}]
+}

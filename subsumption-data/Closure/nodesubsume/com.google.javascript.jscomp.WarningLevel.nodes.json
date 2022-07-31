@@ -1,0 +1,13 @@
+{
+"Class" : "com.google.javascript.jscomp.WarningLevel", 
+"Methods" : [{ "Name" : "setOptionsForWarningLevel" ,
+"Nodes" : 7,
+"0" : [ 34 ]
+"1" : [ 42,43 ]
+"2" : [ 47 ]
+"3" : [ 39,40 ]
+"4" : [ 36,37 ]
+"5" : [ 45 ]
+"6" : [  ]
+}]
+}

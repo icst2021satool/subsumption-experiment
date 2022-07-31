@@ -1,0 +1,14 @@
+{
+"Class" : "com.google.javascript.jscomp.DefinitionsRemover$VarDefinition", 
+"Methods" : [{ "Name" : "performRemove" ,
+"Nodes" : 8,
+"0" : [ 382,383 ]
+"1" : [ 383 ]
+"2" : [ 385,386,387,383 ]
+"3" : [ 387 ]
+"4" : [ 387,388,389 ]
+"5" : [ 387 ]
+"6" : [ 383 ]
+"7" : [  ]
+}]
+}

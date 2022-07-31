@@ -1,0 +1,11 @@
+{
+"Class" : "com.google.javascript.jscomp.AnalyzeNameReferences", 
+"Methods" : [{ "Name" : "getInfo" ,
+"Duas" : 6,
+"0" :  "(88,91, this)",
+"1" :  "(88,92, name)",
+"2" :  "(89,(90,91), info)",
+"3" :  "(89,(90,94), info)",
+"4" :  "(89,94, info)",
+"5" :  "(91,94, info)"}]
+}

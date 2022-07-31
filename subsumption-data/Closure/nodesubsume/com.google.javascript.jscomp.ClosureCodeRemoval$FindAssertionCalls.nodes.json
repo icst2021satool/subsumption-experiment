@@ -1,0 +1,18 @@
+{
+"Class" : "com.google.javascript.jscomp.ClosureCodeRemoval$FindAssertionCalls", 
+"Methods" : [{ "Name" : "<init>" ,
+"Nodes" : 5,
+"0" : [ 160,162,164 ]
+"1" : [ 164 ]
+"2" : [ 167 ]
+"3" : [ 164,165,166 ]
+"4" : [  ]
+},{ "Name" : "visit" ,
+"Nodes" : 5,
+"0" : [ 172 ]
+"1" : [ 178 ]
+"2" : [ 173,174 ]
+"3" : [ 175 ]
+"4" : [  ]
+}]
+}

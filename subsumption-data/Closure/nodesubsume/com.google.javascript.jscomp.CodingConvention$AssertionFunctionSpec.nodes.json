@@ -1,0 +1,11 @@
+{
+"Class" : "com.google.javascript.jscomp.CodingConvention$AssertionFunctionSpec", 
+"Methods" : [{ "Name" : "getAssertedType" ,
+"Nodes" : 5,
+"0" : [ 411 ]
+"1" : [ 411 ]
+"2" : [ 411 ]
+"3" : [ 411 ]
+"4" : [  ]
+}]
+}

@@ -1,0 +1,16 @@
+{
+"Class" : "com.google.javascript.jscomp.FunctionNames$FunctionListExtractor", 
+"Methods" : [{ "Name" : "visit" ,
+"Duas" : 11,
+"0" :  "(133,139, this)",
+"1" :  "(133,139, this)",
+"2" :  "(133,141, this)",
+"3" :  "(133,137, t)",
+"4" :  "(133,(133,134), n)",
+"5" :  "(133,(133,143), n)",
+"6" :  "(133,134, n)",
+"7" :  "(133,139, n)",
+"8" :  "(133,139, this.nextId)",
+"9" :  "(133,141, this.nextId)",
+"10" :  "(133,139, this.functionMap)"}]
+}

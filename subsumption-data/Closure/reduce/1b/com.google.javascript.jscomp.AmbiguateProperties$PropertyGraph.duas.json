@@ -1,0 +1,14 @@
+{
+"Class" : "com.google.javascript.jscomp.AmbiguateProperties$PropertyGraph", 
+"Methods" : [{ "Name" : "<init>" ,
+"Duas" : 5,
+"0" :  "(344,346, this)",
+"1" :  "(342,346, this.nodes)",
+"2" :  "(345,(345,345), i$)",
+"3" :  "(345,(345,348), i$)",
+"4" :  "(345,345, i$)"},{ "Name" : "clearNodeAnnotations" ,
+"Duas" : 3,
+"0" :  "(367,(367,367), i$)",
+"1" :  "(367,(367,370), i$)",
+"2" :  "(367,367, i$)"}]
+}

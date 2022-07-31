@@ -1,0 +1,15 @@
+{
+"Class" : "com.google.javascript.jscomp.NameAnalyzer$JsName", 
+"Methods" : [{ "Name" : "toString" ,
+"Nodes" : 7,
+"0" : [ ],
+"2" : [ 0, 2, 3, 5, 7, 8],
+"3" : [ 0, 2, 3, 5, 7, 8],
+"1" : [ 6],
+"6" : [ 6],
+"4" : [ 0, 2, 3, 5, 7, 8, 9, 11, 13],
+"5" : [ 0, 2, 3, 5, 7, 8, 9, 10, 11, 13, 14],
+"CoveredDUAsByNodes" : 12,
+"Duas" : 16
+}]
+}

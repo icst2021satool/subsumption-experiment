@@ -1,0 +1,14 @@
+{
+"Class" : "com.google.javascript.jscomp.UnreachableCodeElimination", 
+"Methods" : [{ "Name" : "exitScope" ,
+"Duas" : 9,
+"0" :  "(62,76, this)",
+"1" :  "(62,76, this)",
+"2" :  "(62,76, this.compiler)",
+"3" :  "(62,(73,74), scope)",
+"4" :  "(62,(73,76), scope)",
+"5" :  "(67,76, cfg)",
+"6" :  "(72,76, root)",
+"7" :  "(72,74, root)",
+"8" :  "(74,76, root)"}]
+}

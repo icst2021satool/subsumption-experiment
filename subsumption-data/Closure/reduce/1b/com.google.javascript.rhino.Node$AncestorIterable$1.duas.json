@@ -1,0 +1,16 @@
+{
+"Class" : "com.google.javascript.rhino.Node$AncestorIterable$1", 
+"Methods" : [{ "Name" : "hasNext" ,
+"Duas" : 4,
+"0" :  "(1347,(1347,1347), this)",
+"1" :  "(1347,(1347,1347), this)",
+"2" :  "(1347,(1347,1347), this.this$0)",
+"3" :  "(1347,(1347,1347), this.this$0)"},{ "Name" : "next" ,
+"Duas" : 6,
+"0" :  "(1352,(1352,1352), this)",
+"1" :  "(1352,(1352,1353), this)",
+"2" :  "(1352,1353, this)",
+"3" :  "(1352,1354, this)",
+"4" :  "(1352,1353, this.this$0)",
+"5" :  "(1352,1354, this.this$0)"}]
+}

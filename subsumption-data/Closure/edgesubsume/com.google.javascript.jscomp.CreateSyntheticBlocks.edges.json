@@ -1,0 +1,33 @@
+{
+"Class" : "com.google.javascript.jscomp.CreateSyntheticBlocks", 
+"Methods" : [{ "Name" : "process" ,
+"Edges" : 9,
+"0" : [ 3,5 ],
+"1" : [ 3,4 ],
+"2" : [ 2,3 ],
+"3" : [ 1,6 ],
+"4" : [ 1,2 ],
+"5" : [ 5,3 ],
+"6" : [ 4,7 ],
+"7" : [ 0,1 ],
+"8" : [ 6,1 ]
+},{ "Name" : "moveSiblingExclusive" ,
+"Edges" : 4,
+"0" : [ 1,3 ],
+"1" : [ 0,2 ],
+"2" : [ 0,1 ],
+"3" : [ 2,0 ]
+},{ "Name" : "childAfter" ,
+"Edges" : 4,
+"0" : [ 1,3 ],
+"1" : [ 0,2 ],
+"2" : [ 0,1 ],
+"3" : [ 2,3 ]
+},{ "Name" : "removeChildAfter" ,
+"Edges" : 4,
+"0" : [ 1,3 ],
+"1" : [ 0,2 ],
+"2" : [ 0,1 ],
+"3" : [ 2,3 ]
+}]
+}

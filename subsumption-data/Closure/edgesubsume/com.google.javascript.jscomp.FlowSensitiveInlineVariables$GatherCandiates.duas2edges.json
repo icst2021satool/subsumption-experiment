@@ -1,0 +1,8 @@
+{
+"Class" : "com.google.javascript.jscomp.FlowSensitiveInlineVariables$GatherCandiates", 
+"Methods" : [{ "Name" : "visit" ,
+"Edges" : 4,
+"Duas" : 7,
+"4" : 0, 
+ "5" : 1}]
+}

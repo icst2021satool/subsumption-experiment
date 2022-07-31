@@ -1,0 +1,14 @@
+{
+"Class" : "com.google.javascript.jscomp.TransformAMDToCJSModule$RenameCallback", 
+"Methods" : [{ "Name" : "visit" ,
+"Edges" : 6,
+"Duas" : 14,
+"0" : 0, 
+ "1" : 1, 
+ "4" : 2, 
+ "5" : 3, 
+ "6" : 0, 
+ "7" : 1, 
+ "10" : 0, 
+ "11" : 1}]
+}

@@ -1,0 +1,11 @@
+{
+"Class" : "com.google.javascript.jscomp.AnalyzePrototypeProperties$PropagateReferences", 
+"Methods" : [{ "Name" : "traverseEdge" ,
+"Duas" : "17" ,
+"Subsumers" : 4,
+"0" : [ 16, 14, 10, 9, 6, 0], "S0" : [0, 2, 4, 6, 9, 10, 12, 14, 16 ],
+"1" : [ 15, 11, 7, 1], "S1" : [1, 2, 4, 5, 7, 8, 11, 12, 15 ],
+"2" : [ 13], "S2" : [2, 4, 5, 8, 13 ],
+"3" : [ 3], "S3" : [3 ]
+}]
+}

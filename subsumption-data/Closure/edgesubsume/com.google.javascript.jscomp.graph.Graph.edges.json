@@ -1,0 +1,63 @@
+{
+"Class" : "com.google.javascript.jscomp.graph.Graph", 
+"Methods" : [{ "Name" : "connectIfNotFound" ,
+"Edges" : 4,
+"0" : [ 0,2 ],
+"1" : [ 0,1 ],
+"2" : [ 1,3 ],
+"3" : [ 2,1 ]
+},{ "Name" : "hasNode" ,
+"Edges" : 5,
+"0" : [ 1,2 ],
+"1" : [ 2,4 ],
+"2" : [ 3,2 ],
+"3" : [ 0,3 ],
+"4" : [ 0,1 ]
+},{ "Name" : "getNodeOrFail" ,
+"Edges" : 4,
+"0" : [ 2,3 ],
+"1" : [ 0,2 ],
+"2" : [ 0,1 ],
+"3" : [ 1,3 ]
+},{ "Name" : "clearNodeAnnotations" ,
+"Edges" : 5,
+"0" : [ 2,4 ],
+"1" : [ 1,3 ],
+"2" : [ 1,2 ],
+"3" : [ 0,1 ],
+"4" : [ 3,1 ]
+},{ "Name" : "clearEdgeAnnotations" ,
+"Edges" : 5,
+"0" : [ 2,4 ],
+"1" : [ 1,3 ],
+"2" : [ 1,2 ],
+"3" : [ 0,1 ],
+"4" : [ 3,1 ]
+},{ "Name" : "pushNodeAnnotations" ,
+"Edges" : 4,
+"0" : [ 0,2 ],
+"1" : [ 0,1 ],
+"2" : [ 2,1 ],
+"3" : [ 1,3 ]
+},{ "Name" : "pushEdgeAnnotations" ,
+"Edges" : 4,
+"0" : [ 2,1 ],
+"1" : [ 0,2 ],
+"2" : [ 0,1 ],
+"3" : [ 1,3 ]
+},{ "Name" : "pushAnnotations" ,
+"Edges" : 5,
+"0" : [ 1,3 ],
+"1" : [ 1,2 ],
+"2" : [ 0,1 ],
+"3" : [ 2,4 ],
+"4" : [ 3,1 ]
+},{ "Name" : "popAnnotations" ,
+"Edges" : 5,
+"0" : [ 0,1 ],
+"1" : [ 3,1 ],
+"2" : [ 1,3 ],
+"3" : [ 1,2 ],
+"4" : [ 2,4 ]
+}]
+}

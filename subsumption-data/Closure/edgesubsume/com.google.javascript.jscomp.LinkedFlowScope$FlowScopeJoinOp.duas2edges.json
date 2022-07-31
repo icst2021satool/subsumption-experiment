@@ -1,0 +1,10 @@
+{
+"Class" : "com.google.javascript.jscomp.LinkedFlowScope$FlowScopeJoinOp", 
+"Methods" : [{ "Name" : "apply" ,
+"Edges" : 4,
+"Duas" : 7,
+"0" : 0, 
+ "1" : 1, 
+ "4" : 0, 
+ "5" : 1}]
+}

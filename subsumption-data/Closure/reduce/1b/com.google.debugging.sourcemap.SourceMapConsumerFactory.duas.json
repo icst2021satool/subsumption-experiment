@@ -1,0 +1,18 @@
+{
+"Class" : "com.google.debugging.sourcemap.SourceMapConsumerFactory", 
+"Methods" : [{ "Name" : "parse" ,
+"Duas" : 13,
+"0" :  "(50,(50,51), contents)",
+"1" :  "(50,(50,54), contents)",
+"2" :  "(50,(54,57), contents)",
+"3" :  "(50,(54,80), contents)",
+"4" :  "(50,57, contents)",
+"5" :  "(50,52, contents)",
+"6" :  "(50,68, supplier)",
+"7" :  "(57,68, sourceMapRoot)",
+"8" :  "(57,63, sourceMapRoot)",
+"9" :  "(59,(60,72), version)",
+"10" :  "(59,(60,62), version)",
+"11" :  "(59,(60,67), version)",
+"12" :  "(59,72, version)"}]
+}

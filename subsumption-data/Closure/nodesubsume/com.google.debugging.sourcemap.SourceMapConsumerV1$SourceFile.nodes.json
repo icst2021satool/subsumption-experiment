@@ -1,0 +1,19 @@
+{
+"Class" : "com.google.debugging.sourcemap.SourceMapConsumerV1$SourceFile", 
+"Methods" : [{ "Name" : "<init>" ,
+"Nodes" : 6,
+"0" : [ 483,484,485,486,487,488,489,490,491 ]
+"1" : [ 491 ]
+"2" : [ 491,493 ]
+"3" : [ 491 ]
+"4" : [ 491 ]
+"5" : [  ]
+},{ "Name" : "getOriginalMapping" ,
+"Nodes" : 5,
+"0" : [ 528,530 ]
+"1" : [ 530 ]
+"2" : [ 533,538 ]
+"3" : [ 530,531 ]
+"4" : [  ]
+}]
+}

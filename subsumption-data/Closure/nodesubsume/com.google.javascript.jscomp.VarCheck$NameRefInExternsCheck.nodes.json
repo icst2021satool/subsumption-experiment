@@ -1,0 +1,17 @@
+{
+"Class" : "com.google.javascript.jscomp.VarCheck$NameRefInExternsCheck", 
+"Methods" : [{ "Name" : "visit" ,
+"Nodes" : 11,
+"0" : [ 235 ]
+"1" : [ 263 ]
+"2" : [ 236 ]
+"3" : [ 241 ]
+"4" : [ 243 ]
+"5" : [ 244,245,246 ]
+"6" : [ 250 ]
+"7" : [ 247,248 ]
+"8" : [ 256,257,253,255 ]
+"9" : [ 258 ]
+"10" : [  ]
+}]
+}

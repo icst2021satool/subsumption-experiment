@@ -1,0 +1,18 @@
+{
+"Class" : "com.google.javascript.jscomp.CallGraph$Callsite", 
+"Methods" : [{ "Name" : "getPossibleTargets" ,
+"Nodes" : 6,
+"0" : [ 769 ]
+"1" : [ 776 ]
+"2" : [ 770 ]
+"3" : [ 773 ]
+"4" : [ 771 ]
+"5" : [  ]
+},{ "Name" : "addPossibleTarget" ,
+"Nodes" : 4,
+"0" : [ 785,783 ]
+"1" : [ 788,789 ]
+"2" : [ 786 ]
+"3" : [  ]
+}]
+}

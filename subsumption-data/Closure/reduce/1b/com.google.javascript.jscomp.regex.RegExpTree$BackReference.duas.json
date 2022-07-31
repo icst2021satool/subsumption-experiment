@@ -1,0 +1,20 @@
+{
+"Class" : "com.google.javascript.jscomp.regex.RegExpTree$BackReference", 
+"Methods" : [{ "Name" : "<init>" ,
+"Duas" : 6,
+"0" :  "(703,705, this)",
+"1" :  "(703,(704,704), groupIndex)",
+"2" :  "(703,(704,704), groupIndex)",
+"3" :  "(703,705, groupIndex)",
+"4" :  "(703,(704,704), groupIndex)",
+"5" :  "(703,(704,704), groupIndex)"},{ "Name" : "equals" ,
+"Duas" : 8,
+"0" :  "(725,(725,725), this)",
+"1" :  "(725,(725,725), this)",
+"2" :  "(725,(725,725), o)",
+"3" :  "(725,(725,725), o)",
+"4" :  "(725,(725,725), o)",
+"5" :  "(725,(725,725), o)",
+"6" :  "(725,(725,725), this.groupIndex)",
+"7" :  "(725,(725,725), this.groupIndex)"}]
+}

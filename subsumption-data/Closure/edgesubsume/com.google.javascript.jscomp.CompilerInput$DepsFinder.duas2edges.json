@@ -1,0 +1,22 @@
+{
+"Class" : "com.google.javascript.jscomp.CompilerInput$DepsFinder", 
+"Methods" : [{ "Name" : "visitSubtree" ,
+"Edges" : 21,
+"Duas" : 37,
+"5" : 2, 
+ "6" : 3, 
+ "11" : 10, 
+ "12" : 11, 
+ "13" : 15, 
+ "14" : 16, 
+ "15" : 8, 
+ "16" : 9, 
+ "23" : 19, 
+ "24" : 20, 
+ "26" : 6, 
+ "27" : 7, 
+ "29" : 17, 
+ "30" : 18, 
+ "33" : 17, 
+ "34" : 18}]
+}

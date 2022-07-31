@@ -1,0 +1,10 @@
+{
+"Class" : "com.google.javascript.jscomp.MustBeReachingVariableDef$1", 
+"Methods" : [{ "Name" : "visit" ,
+"Edges" : 7,
+"Duas" : 13,
+"3" : 4, 
+ "4" : 5, 
+ "10" : 0, 
+ "11" : 1}]
+}

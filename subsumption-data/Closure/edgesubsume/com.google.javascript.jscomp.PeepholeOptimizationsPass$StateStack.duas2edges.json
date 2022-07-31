@@ -1,0 +1,12 @@
+{
+"Class" : "com.google.javascript.jscomp.PeepholeOptimizationsPass$StateStack", 
+"Methods" : [{ "Name" : "push" ,
+"Edges" : 5,
+"Duas" : 11,
+"0" : 1, 
+ "1" : 2, 
+ "4" : 1, 
+ "5" : 2, 
+ "8" : 1, 
+ "9" : 2}]
+}

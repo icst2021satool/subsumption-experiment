@@ -1,0 +1,22 @@
+{
+"Class" : "com.google.javascript.jscomp.SourceFile$OnDisk", 
+"Methods" : [{ "Name" : "<init>" ,
+"Nodes" : 4,
+"0" : [ 480,474,477,478,479 ]
+"1" : [ 483 ]
+"2" : [ 481 ]
+"3" : [  ]
+},{ "Name" : "getCode" ,
+"Nodes" : 4,
+"0" : [ 487,489 ]
+"1" : [ 493 ]
+"2" : [ 490,491 ]
+"3" : [  ]
+},{ "Name" : "getCodeReader" ,
+"Nodes" : 4,
+"0" : [ 501 ]
+"1" : [ 505 ]
+"2" : [ 502 ]
+"3" : [  ]
+}]
+}

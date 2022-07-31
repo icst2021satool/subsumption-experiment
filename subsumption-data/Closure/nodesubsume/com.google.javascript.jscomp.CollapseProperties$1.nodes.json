@@ -1,0 +1,10 @@
+{
+"Class" : "com.google.javascript.jscomp.CollapseProperties$1", 
+"Methods" : [{ "Name" : "visit" ,
+"Nodes" : 4,
+"0" : [ 741 ]
+"1" : [ 746 ]
+"2" : [ 742 ]
+"3" : [  ]
+}]
+}

@@ -1,0 +1,20 @@
+{
+"Class" : "com.google.javascript.jscomp.AnalyzePrototypeProperties$GlobalFunction", 
+"Methods" : [{ "Name" : "<init>" ,
+"Edges" : 7,
+"Duas" : 10,
+"6" : 2, 
+ "7" : 3, 
+ "8" : 4, 
+ "9" : 5},{ "Name" : "remove" ,
+"Edges" : 7,
+"Duas" : 9,
+"2" : 2, 
+ "3" : 3, 
+ "5" : 5, 
+ "6" : 6},{ "Name" : "getFunctionNode" ,
+"Edges" : 4,
+"Duas" : 5,
+"2" : 0, 
+ "3" : 1}]
+}

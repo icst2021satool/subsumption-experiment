@@ -1,0 +1,14 @@
+{
+"Class" : "com.google.javascript.rhino.jstype.NoResolvedType", 
+"Methods" : [{ "Name" : "isSubtype" ,
+"Duas" : 6,
+"0" :  "(74,(74,75), this)",
+"1" :  "(74,(74,77), this)",
+"2" :  "(74,(74,75), that)",
+"3" :  "(74,(74,77), that)",
+"4" :  "(74,(77,77), that)",
+"5" :  "(74,(77,77), that)"},{ "Name" : "toStringHelper" ,
+"Duas" : 2,
+"0" :  "(83,(83,83), forAnnotations)",
+"1" :  "(83,(83,83), forAnnotations)"}]
+}

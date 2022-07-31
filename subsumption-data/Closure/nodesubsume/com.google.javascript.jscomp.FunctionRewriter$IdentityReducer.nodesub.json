@@ -1,0 +1,26 @@
+{
+"Class" : "com.google.javascript.jscomp.FunctionRewriter$IdentityReducer", 
+"Methods" : [{ "Name" : "reduce" ,
+"Nodes" : 6,
+"0" : [ ],
+"1" : [ 4],
+"2" : [ 1, 4, 6, 7],
+"3" : [ 0, 2, 4, 5, 8],
+"4" : [ 3, 9],
+"5" : [ ],
+"CoveredDUAsByNodes" : 10,
+"Duas" : 10
+},{ "Name" : "isIdentityFunction" ,
+"Nodes" : 8,
+"0" : [ ],
+"1" : [ 0, 1, 3],
+"3" : [ 0, 1, 3, 6],
+"4" : [ 0, 1, 3, 6, 8],
+"2" : [ 0, 1, 3],
+"5" : [ 0, 1, 3, 4, 6, 8, 10],
+"6" : [ 2],
+"7" : [ ],
+"CoveredDUAsByNodes" : 8,
+"Duas" : 12
+}]
+}

@@ -1,0 +1,13 @@
+{
+"Class" : "com.google.javascript.jscomp.FunctionNames$FunctionExpressionNamer", 
+"Methods" : [{ "Name" : "setFunctionName" ,
+"Duas" : "12" ,
+"Subsumers" : 6,
+"0" : [ 4], "S0" : [0, 4, 5 ],
+"1" : [ 11, 7], "S1" : [0, 3, 5, 7, 11 ],
+"2" : [ 8], "S2" : [1, 8 ],
+"3" : [ 9], "S3" : [1, 9 ],
+"4" : [ 2], "S4" : [2 ],
+"5" : [ 10, 6], "S5" : [3, 6, 10 ]
+}]
+}

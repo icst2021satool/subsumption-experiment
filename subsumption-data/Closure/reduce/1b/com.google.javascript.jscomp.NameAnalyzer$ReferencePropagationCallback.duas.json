@@ -1,0 +1,14 @@
+{
+"Class" : "com.google.javascript.jscomp.NameAnalyzer$ReferencePropagationCallback", 
+"Methods" : [{ "Name" : "traverseEdge" ,
+"Duas" : 9,
+"0" :  "(176,(176,176), from)",
+"1" :  "(176,(176,180), from)",
+"2" :  "(176,(176,177), to)",
+"3" :  "(176,(176,180), to)",
+"4" :  "(176,177, to)",
+"5" :  "(176,(176,176), from.referenced)",
+"6" :  "(176,(176,180), from.referenced)",
+"7" :  "(176,(176,177), to.referenced)",
+"8" :  "(176,(176,180), to.referenced)"}]
+}

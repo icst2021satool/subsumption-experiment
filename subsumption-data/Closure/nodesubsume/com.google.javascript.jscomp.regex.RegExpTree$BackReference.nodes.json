@@ -1,0 +1,20 @@
+{
+"Class" : "com.google.javascript.jscomp.regex.RegExpTree$BackReference", 
+"Methods" : [{ "Name" : "<init>" ,
+"Nodes" : 6,
+"0" : [ 704,703 ]
+"1" : [ 704 ]
+"2" : [ 704,705,706 ]
+"3" : [ 704 ]
+"4" : [ 704 ]
+"5" : [  ]
+},{ "Name" : "equals" ,
+"Nodes" : 6,
+"0" : [ 725 ]
+"1" : [ 725 ]
+"2" : [ 725 ]
+"3" : [ 725 ]
+"4" : [ 725 ]
+"5" : [  ]
+}]
+}

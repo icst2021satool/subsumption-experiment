@@ -1,0 +1,13 @@
+{
+"Class" : "com.google.javascript.jscomp.Scope$Arguments", 
+"Methods" : [{ "Name" : "equals" ,
+"Nodes" : 7,
+"0" : [ 368 ]
+"1" : [ 372,373 ]
+"2" : [ 373 ]
+"3" : [ 373 ]
+"4" : [ 373 ]
+"5" : [ 369 ]
+"6" : [  ]
+}]
+}

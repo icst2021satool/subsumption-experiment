@@ -1,0 +1,31 @@
+{
+"Class" : "com.google.javascript.jscomp.CheckSuspiciousCode", 
+"Methods" : [{ "Name" : "checkMissingSemicolon" ,
+"Nodes" : 6,
+"0" : [ 58 ]
+"1" : [ 70 ]
+"2" : [ 60,61,62,63 ]
+"3" : [ 64 ]
+"4" : [ 73 ]
+"5" : [  ]
+},{ "Name" : "reportIfWasEmpty" ,
+"Nodes" : 5,
+"0" : [ 81,76 ]
+"1" : [ 85 ]
+"2" : [ 81 ]
+"3" : [ 82 ]
+"4" : [  ]
+},{ "Name" : "checkNaN" ,
+"Nodes" : 4,
+"0" : [ 88 ]
+"1" : [ 97,98 ]
+"2" : [ 100 ]
+"3" : [  ]
+},{ "Name" : "reportIfNaN" ,
+"Nodes" : 4,
+"0" : [ 103 ]
+"1" : [ 107 ]
+"2" : [ 104 ]
+"3" : [  ]
+}]
+}

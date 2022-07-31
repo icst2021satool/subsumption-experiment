@@ -1,0 +1,18 @@
+{
+"Class" : "com.google.javascript.jscomp.TightenTypes$NativeCallFunctionCall", 
+"Methods" : [{ "Name" : "getAssignments" ,
+"Edges" : 14,
+"Duas" : 37,
+"0" : 10, 
+ "1" : 11, 
+ "10" : 10, 
+ "11" : 11, 
+ "21" : 4, 
+ "22" : 5, 
+ "24" : 12, 
+ "25" : 13, 
+ "29" : 7, 
+ "30" : 8, 
+ "33" : 7, 
+ "34" : 8}]
+}

@@ -1,0 +1,13 @@
+{
+"Class" : "com.google.javascript.jscomp.AstParallelizer$4", 
+"Methods" : [{ "Name" : "apply" ,
+"Edges" : 5,
+"0" : [ 0],
+"1" : [ 1],
+"2" : [ 1],
+"4" : [ 0],
+"3" : [ ],
+"CoveredDUAsByEdges" : 2,
+"Duas" : 2
+}]
+}

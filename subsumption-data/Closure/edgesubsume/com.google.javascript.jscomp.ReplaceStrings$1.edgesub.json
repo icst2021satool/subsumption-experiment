@@ -1,0 +1,13 @@
+{
+"Class" : "com.google.javascript.jscomp.ReplaceStrings$1", 
+"Methods" : [{ "Name" : "apply" ,
+"Edges" : 5,
+"0" : [ 0, 2],
+"1" : [ 1, 3],
+"4" : [ 1, 3],
+"2" : [ 0, 2],
+"3" : [ ],
+"CoveredDUAsByEdges" : 4,
+"Duas" : 4
+}]
+}

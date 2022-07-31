@@ -1,0 +1,14 @@
+{
+"Class" : "com.google.javascript.jscomp.SymbolTable$3", 
+"Methods" : [{ "Name" : "compare" ,
+"Nodes" : 6,
+"0" : [ ],
+"3" : [ 1],
+"1" : [ ],
+"4" : [ 1, 5],
+"2" : [ 0, 3, 4, 7],
+"5" : [ 0, 3, 4, 7],
+"CoveredDUAsByNodes" : 6,
+"Duas" : 8
+}]
+}

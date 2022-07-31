@@ -1,0 +1,13 @@
+{
+"Class" : "com.google.javascript.jscomp.CompilerOptions$TracerMode", 
+"Methods" : [{ "Name" : "isOn" ,
+"Nodes" : 5,
+"0" : [ ],
+"1" : [ 1, 3],
+"3" : [ 0, 2],
+"2" : [ ],
+"4" : [ ],
+"CoveredDUAsByNodes" : 4,
+"Duas" : 4
+}]
+}

@@ -1,0 +1,20 @@
+{
+"Class" : "com.google.javascript.jscomp.DefaultPassConfig$49", 
+"Methods" : [{ "Name" : "create" ,
+"Duas" : 15,
+"0" :  "(1498,(1498,1499), this)",
+"1" :  "(1498,(1498,1501), this)",
+"2" :  "(1498,1501, this)",
+"3" :  "(1498,1502, this)",
+"4" :  "(1498,1501, compiler)",
+"5" :  "(1498,1499, compiler)",
+"6" :  "(1498,(1498,1499), this.this$0)",
+"7" :  "(1498,(1498,1501), this.this$0)",
+"8" :  "(1498,1501, this.this$0)",
+"9" :  "(1498,1502, this.this$0)",
+"10" :  "(1498,(1498,1499), this.options)",
+"11" :  "(1498,(1498,1501), this.options)",
+"12" :  "(1498,(1498,1499), this.checkTypes)",
+"13" :  "(1498,(1498,1501), this.checkTypes)",
+"14" :  "(1498,1499, TIGHTEN_TYPES_WITHOUT_TYPE_CHECK)"}]
+}

@@ -1,0 +1,10 @@
+{
+"Class" : "com.google.javascript.jscomp.NodeUtil$MatchDeclaration", 
+"Methods" : [{ "Name" : "apply" ,
+"Duas" : "4" ,
+"Subsumers" : 3,
+"0" : [ 2], "S0" : [0, 2 ],
+"1" : [ 3], "S1" : [0, 3 ],
+"2" : [ 1], "S2" : [1 ]
+}]
+}

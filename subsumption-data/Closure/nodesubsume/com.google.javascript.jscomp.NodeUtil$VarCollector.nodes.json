@@ -1,0 +1,13 @@
+{
+"Class" : "com.google.javascript.jscomp.NodeUtil$VarCollector", 
+"Methods" : [{ "Name" : "visit" ,
+"Nodes" : 7,
+"0" : [ 2485 ]
+"1" : [ 2494 ]
+"2" : [ 2486,2487 ]
+"3" : [ 2487 ]
+"4" : [ 2488,2489 ]
+"5" : [ 2490 ]
+"6" : [  ]
+}]
+}

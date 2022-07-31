@@ -1,0 +1,17 @@
+{
+"Class" : "com.google.javascript.jscomp.CommandLineRunner$FormattingOption", 
+"Methods" : [{ "Name" : "applyToOptions" ,
+"Duas" : 12,
+"0" :  "(555,(555,566), this)",
+"1" :  "(555,(555,557), this)",
+"2" :  "(555,(555,560), this)",
+"3" :  "(555,(555,563), this)",
+"4" :  "(555,566, this)",
+"5" :  "(555,563, options)",
+"6" :  "(555,560, options)",
+"7" :  "(555,557, options)",
+"8" :  "(555,(555,566), $SwitchMap$com$google$javascript$jscomp$CommandLineRunner$FormattingOption)",
+"9" :  "(555,(555,557), $SwitchMap$com$google$javascript$jscomp$CommandLineRunner$FormattingOption)",
+"10" :  "(555,(555,560), $SwitchMap$com$google$javascript$jscomp$CommandLineRunner$FormattingOption)",
+"11" :  "(555,(555,563), $SwitchMap$com$google$javascript$jscomp$CommandLineRunner$FormattingOption)"}]
+}

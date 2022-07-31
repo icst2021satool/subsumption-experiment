@@ -1,0 +1,20 @@
+{
+"Class" : "com.google.javascript.jscomp.CompilationLevel", 
+"Methods" : [{ "Name" : "setOptionsForCompilationLevel" ,
+"Nodes" : 7,
+"0" : [ 54 ]
+"1" : [ 62,63 ]
+"2" : [ 67 ]
+"3" : [ 59,60 ]
+"4" : [ 56,57 ]
+"5" : [ 65 ]
+"6" : [  ]
+},{ "Name" : "setTypeBasedOptimizationOptions" ,
+"Nodes" : 5,
+"0" : [ 196 ]
+"1" : [ 198,199,200,201,205,206 ]
+"2" : [ 209 ]
+"3" : [ 213 ]
+"4" : [  ]
+}]
+}

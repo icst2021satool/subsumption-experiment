@@ -1,0 +1,12 @@
+{
+"Class" : "com.google.javascript.jscomp.SideEffectsAnalysis$DegenerateLocationAbstraction", 
+"Methods" : [{ "Name" : "calculateRefSet" ,
+"Edges" : 4,
+"Duas" : 4,
+"0" : 1, 
+ "1" : 2},{ "Name" : "calculateModSet" ,
+"Edges" : 4,
+"Duas" : 4,
+"0" : 1, 
+ "1" : 2}]
+}

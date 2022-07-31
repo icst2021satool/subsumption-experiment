@@ -1,0 +1,24 @@
+{
+"Class" : "com.google.javascript.jscomp.FunctionNames", 
+"Methods" : [{ "Name" : "getFunctionId" ,
+"Nodes" : 4,
+"0" : [ ],
+"1" : [ 1],
+"2" : [ 0, 2, 3],
+"3" : [ ],
+"CoveredDUAsByNodes" : 4,
+"Duas" : 4
+},{ "Name" : "getFunctionName" ,
+"Nodes" : 8,
+"0" : [ ],
+"1" : [ 2, 3, 5],
+"5" : [ 2, 3, 5, 7],
+"2" : [ 2, 3, 4, 5, 6],
+"4" : [ 0, 2, 3, 4, 5, 6, 13, 15],
+"3" : [ 2, 3, 4, 5, 6],
+"6" : [ 1],
+"7" : [ ],
+"CoveredDUAsByNodes" : 10,
+"Duas" : 17
+}]
+}

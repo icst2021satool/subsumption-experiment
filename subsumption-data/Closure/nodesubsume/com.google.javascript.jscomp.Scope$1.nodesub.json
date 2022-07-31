@@ -1,0 +1,16 @@
+{
+"Class" : "com.google.javascript.jscomp.Scope$1", 
+"Methods" : [{ "Name" : "apply" ,
+"Nodes" : 8,
+"0" : [ ],
+"3" : [ 0],
+"4" : [ 0, 2],
+"5" : [ 0, 2, 4],
+"1" : [ ],
+"6" : [ 0, 2, 4, 6],
+"2" : [ ],
+"7" : [ ],
+"CoveredDUAsByNodes" : 4,
+"Duas" : 8
+}]
+}

@@ -1,0 +1,14 @@
+{
+"Class" : "com.google.javascript.jscomp.ObjectPropertyStringPostprocess$Callback", 
+"Methods" : [{ "Name" : "visit" ,
+"Edges" : 14,
+"Duas" : 28,
+"1" : 0, 
+ "2" : 1, 
+ "10" : 9, 
+ "11" : 10, 
+ "24" : 4, 
+ "25" : 5, 
+ "26" : 2, 
+ "27" : 3}]
+}

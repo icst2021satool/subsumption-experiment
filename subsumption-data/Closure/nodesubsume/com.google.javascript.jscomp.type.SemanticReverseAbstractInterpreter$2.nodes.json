@@ -1,0 +1,11 @@
+{
+"Class" : "com.google.javascript.jscomp.type.SemanticReverseAbstractInterpreter$2", 
+"Methods" : [{ "Name" : "apply" ,
+"Nodes" : 5,
+"0" : [ 65 ]
+"1" : [ 66 ]
+"2" : [ 65 ]
+"3" : [ 68 ]
+"4" : [  ]
+}]
+}

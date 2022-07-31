@@ -1,0 +1,29 @@
+{
+"Class" : "com.google.javascript.rhino.jstype.EnumType", 
+"Methods" : [{ "Name" : "testForEquality" ,
+"Nodes" : 7,
+"0" : [ 129,130 ]
+"1" : [ 133 ]
+"2" : [ 133 ]
+"3" : [ 133 ]
+"4" : [ 133 ]
+"5" : [ 131 ]
+"6" : [  ]
+},{ "Name" : "isSubtype" ,
+"Nodes" : 7,
+"0" : [ 138 ]
+"1" : [ 138 ]
+"2" : [ 138 ]
+"3" : [ 138 ]
+"4" : [ 138 ]
+"5" : [ 138 ]
+"6" : [  ]
+},{ "Name" : "toStringHelper" ,
+"Nodes" : 5,
+"0" : [ 145 ]
+"1" : [ 145 ]
+"2" : [ 145 ]
+"3" : [ 145 ]
+"4" : [  ]
+}]
+}

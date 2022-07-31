@@ -1,0 +1,23 @@
+{
+"Class" : "com.google.javascript.jscomp.MethodCompilerPass", 
+"Methods" : [{ "Name" : "process" ,
+"Nodes" : 4,
+"0" : [ 70,71,72,73,75 ]
+"1" : [ 80,81,83,85 ]
+"2" : [ 76 ]
+"3" : [  ]
+},{ "Name" : "addPossibleSignature" ,
+"Nodes" : 5,
+"0" : [ 104 ]
+"1" : [ 108 ]
+"2" : [ 110 ]
+"3" : [ 106 ]
+"4" : [  ]
+},{ "Name" : "addSignature" ,
+"Nodes" : 4,
+"0" : [ 113 ]
+"1" : [ 117,118,119 ]
+"2" : [ 114 ]
+"3" : [  ]
+}]
+}

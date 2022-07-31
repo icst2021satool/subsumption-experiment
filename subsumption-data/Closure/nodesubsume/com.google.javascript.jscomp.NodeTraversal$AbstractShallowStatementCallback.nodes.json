@@ -1,0 +1,13 @@
+{
+"Class" : "com.google.javascript.jscomp.NodeTraversal$AbstractShallowStatementCallback", 
+"Methods" : [{ "Name" : "shouldTraverse" ,
+"Nodes" : 7,
+"0" : [ 179 ]
+"1" : [ 179 ]
+"2" : [ 179 ]
+"3" : [ 179 ]
+"4" : [ 179 ]
+"5" : [ 179 ]
+"6" : [  ]
+}]
+}

@@ -1,0 +1,15 @@
+{
+"Class" : "com.google.javascript.jscomp.MaybeReachingVariableUse$ReachingUses", 
+"Methods" : [{ "Name" : "equals" ,
+"Edges" : 7,
+"5" : [ 2],
+"6" : [ 3],
+"2" : [ 0, 2, 4, 6],
+"3" : [ 1, 5, 7],
+"4" : [ ],
+"0" : [ 0, 2, 4, 6],
+"1" : [ ],
+"CoveredDUAsByEdges" : 8,
+"Duas" : 8
+}]
+}

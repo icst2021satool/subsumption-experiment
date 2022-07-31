@@ -1,0 +1,14 @@
+{
+"Class" : "com.google.javascript.jscomp.CompilerOptions$TweakProcessing", 
+"Methods" : [{ "Name" : "isOn" ,
+"Duas" : 4,
+"0" :  "(2092,(2092,2092), this)",
+"1" :  "(2092,(2092,2092), this)",
+"2" :  "(2092,(2092,2092), OFF)",
+"3" :  "(2092,(2092,2092), OFF)"},{ "Name" : "shouldStrip" ,
+"Duas" : 4,
+"0" :  "(2096,(2096,2096), this)",
+"1" :  "(2096,(2096,2096), this)",
+"2" :  "(2096,(2096,2096), STRIP)",
+"3" :  "(2096,(2096,2096), STRIP)"}]
+}

@@ -1,0 +1,50 @@
+{
+"Class" : "com.google.javascript.jscomp.CallGraph$Function", 
+"Methods" : [{ "Name" : "isMain" ,
+"Edges" : 5,
+"0" : [ 3,2 ],
+"1" : [ 0,3 ],
+"2" : [ 0,1 ],
+"3" : [ 2,4 ],
+"4" : [ 1,2 ]
+},{ "Name" : "getBodyNode" ,
+"Edges" : 4,
+"0" : [ 2,3 ],
+"1" : [ 1,3 ],
+"2" : [ 0,2 ],
+"3" : [ 0,1 ]
+},{ "Name" : "getName" ,
+"Edges" : 4,
+"0" : [ 1,3 ],
+"1" : [ 0,2 ],
+"2" : [ 0,1 ],
+"3" : [ 2,3 ]
+},{ "Name" : "getCallsitesInFunction" ,
+"Edges" : 4,
+"0" : [ 1,3 ],
+"1" : [ 2,3 ],
+"2" : [ 0,2 ],
+"3" : [ 0,1 ]
+},{ "Name" : "addCallsiteInFunction" ,
+"Edges" : 4,
+"0" : [ 1,3 ],
+"1" : [ 0,2 ],
+"2" : [ 0,1 ],
+"3" : [ 2,1 ]
+},{ "Name" : "getCallsitesPossiblyTargetingFunction" ,
+"Edges" : 7,
+"0" : [ 4,5 ],
+"1" : [ 0,2 ],
+"2" : [ 0,1 ],
+"3" : [ 2,4 ],
+"4" : [ 2,3 ],
+"5" : [ 3,5 ],
+"6" : [ 1,5 ]
+},{ "Name" : "addCallsitePossiblyTargetingFunction" ,
+"Edges" : 4,
+"0" : [ 0,2 ],
+"1" : [ 0,1 ],
+"2" : [ 1,3 ],
+"3" : [ 2,1 ]
+}]
+}

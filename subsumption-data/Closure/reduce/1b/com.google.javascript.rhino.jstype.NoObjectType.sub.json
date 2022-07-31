@@ -1,0 +1,17 @@
+{
+"Class" : "com.google.javascript.rhino.jstype.NoObjectType", 
+"Methods" : [{ "Name" : "isSubtype" ,
+"Duas" : "10" ,
+"Subsumers" : 5,
+"0" : [ 2, 0], "S0" : [0, 2 ],
+"1" : [ 8], "S1" : [1, 3, 4, 6, 8 ],
+"2" : [ 9], "S2" : [1, 3, 4, 6, 9 ],
+"3" : [ 7], "S3" : [1, 3, 4, 7 ],
+"4" : [ 5], "S4" : [1, 3, 5 ]
+},{ "Name" : "toStringHelper" ,
+"Duas" : "2" ,
+"Subsumers" : 2,
+"0" : [ 0], "S0" : [0 ],
+"1" : [ 1], "S1" : [1 ]
+}]
+}

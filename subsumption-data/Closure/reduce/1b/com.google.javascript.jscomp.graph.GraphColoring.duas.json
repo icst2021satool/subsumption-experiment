@@ -1,0 +1,14 @@
+{
+"Class" : "com.google.javascript.jscomp.graph.GraphColoring", 
+"Methods" : [{ "Name" : "getPartitionSuperNode" ,
+"Duas" : 9,
+"0" :  "(72,77, this)",
+"1" :  "(72,77, node)",
+"2" :  "(72,78, node)",
+"3" :  "(72,77, this.colorToNodeMap)",
+"4" :  "(74,77, color)",
+"5" :  "(74,77, color.value)",
+"6" :  "(75,(76,77), headNode)",
+"7" :  "(75,(76,80), headNode)",
+"8" :  "(75,80, headNode)"}]
+}

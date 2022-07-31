@@ -1,0 +1,11 @@
+{
+"Class" : "com.google.javascript.jscomp.FlowSensitiveInlineVariables$Candidate$2", 
+"Methods" : [{ "Name" : "apply" ,
+"Nodes" : 5,
+"0" : [ 389 ]
+"1" : [ 389 ]
+"2" : [ 389 ]
+"3" : [ 389 ]
+"4" : [  ]
+}]
+}

@@ -1,0 +1,10 @@
+{
+"Class" : "com.google.javascript.jscomp.SimpleDefinitionFinder$UseSiteGatheringCallback", 
+"Methods" : [{ "Name" : "visit" ,
+"Nodes" : 4,
+"0" : [ 275,276 ]
+"1" : [ 280,282,283,284,287 ]
+"2" : [ 277 ]
+"3" : [  ]
+}]
+}

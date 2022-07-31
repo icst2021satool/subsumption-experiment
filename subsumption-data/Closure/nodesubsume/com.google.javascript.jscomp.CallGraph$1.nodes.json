@@ -1,0 +1,14 @@
+{
+"Class" : "com.google.javascript.jscomp.CallGraph$1", 
+"Methods" : [{ "Name" : "apply" ,
+"Nodes" : 8,
+"0" : [ 195,198 ]
+"1" : [ 201 ]
+"2" : [ 201 ]
+"3" : [ 201 ]
+"4" : [ 201 ]
+"5" : [ 198 ]
+"6" : [ 199 ]
+"7" : [  ]
+}]
+}

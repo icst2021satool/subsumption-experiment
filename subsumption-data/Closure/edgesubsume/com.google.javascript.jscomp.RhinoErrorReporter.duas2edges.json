@@ -1,0 +1,12 @@
+{
+"Class" : "com.google.javascript.jscomp.RhinoErrorReporter", 
+"Methods" : [{ "Name" : "makeError" ,
+"Edges" : 8,
+"Duas" : 18,
+"1" : 2, 
+ "2" : 3, 
+ "12" : 6, 
+ "13" : 7, 
+ "15" : 2, 
+ "16" : 3}]
+}

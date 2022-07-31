@@ -1,0 +1,13 @@
+{
+"Class" : "com.google.debugging.sourcemap.SourceMapGeneratorFactory", 
+"Methods" : [{ "Name" : "getInstance" ,
+"Duas" : 8,
+"0" :  "(34,(34,43), format)",
+"1" :  "(34,(34,36), format)",
+"2" :  "(34,(34,38), format)",
+"3" :  "(34,(34,41), format)",
+"4" :  "(34,(34,43), $SwitchMap$com$google$debugging$sourcemap$SourceMapFormat)",
+"5" :  "(34,(34,36), $SwitchMap$com$google$debugging$sourcemap$SourceMapFormat)",
+"6" :  "(34,(34,38), $SwitchMap$com$google$debugging$sourcemap$SourceMapFormat)",
+"7" :  "(34,(34,41), $SwitchMap$com$google$debugging$sourcemap$SourceMapFormat)"}]
+}

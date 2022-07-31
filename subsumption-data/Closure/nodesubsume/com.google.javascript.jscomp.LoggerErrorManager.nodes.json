@@ -1,0 +1,22 @@
+{
+"Class" : "com.google.javascript.jscomp.LoggerErrorManager", 
+"Methods" : [{ "Name" : "println" ,
+"Nodes" : 5,
+"0" : [ 51 ]
+"1" : [ 56,57 ]
+"2" : [ 53,54 ]
+"3" : [ 61 ]
+"4" : [  ]
+},{ "Name" : "printSummary" ,
+"Nodes" : 9,
+"0" : [ 65 ]
+"1" : [ 65 ]
+"2" : [ 65,67 ]
+"3" : [ 71 ]
+"4" : [ 76 ]
+"5" : [ 72 ]
+"6" : [ 68 ]
+"7" : [ 65 ]
+"8" : [  ]
+}]
+}

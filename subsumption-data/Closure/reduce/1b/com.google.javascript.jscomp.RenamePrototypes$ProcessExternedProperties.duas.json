@@ -1,0 +1,13 @@
+{
+"Class" : "com.google.javascript.jscomp.RenamePrototypes$ProcessExternedProperties", 
+"Methods" : [{ "Name" : "visit" ,
+"Duas" : 8,
+"0" :  "(297,302, this)",
+"1" :  "(297,(297,305), n)",
+"2" :  "(297,(297,300), n)",
+"3" :  "(297,300, n)",
+"4" :  "(297,302, this.this$0)",
+"5" :  "(300,(301,302), dest)",
+"6" :  "(300,(301,305), dest)",
+"7" :  "(300,302, dest)"}]
+}

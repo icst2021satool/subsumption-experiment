@@ -1,0 +1,38 @@
+{
+"Class" : "com.google.javascript.rhino.Node$StringNode", 
+"Methods" : [{ "Name" : "<init>" ,
+"Nodes" : 4,
+"0" : [ ],
+"1" : [ 0, 2, 3],
+"2" : [ 1],
+"3" : [ ],
+"CoveredDUAsByNodes" : 4,
+"Duas" : 4
+},{ "Name" : "<init>" ,
+"Nodes" : 4,
+"0" : [ ],
+"1" : [ 0, 2, 3],
+"2" : [ 1],
+"3" : [ ],
+"CoveredDUAsByNodes" : 4,
+"Duas" : 4
+},{ "Name" : "setString" ,
+"Nodes" : 4,
+"0" : [ ],
+"1" : [ 0, 2, 3],
+"2" : [ 1],
+"3" : [ ],
+"CoveredDUAsByNodes" : 4,
+"Duas" : 4
+},{ "Name" : "isEquivalentTo" ,
+"Nodes" : 6,
+"0" : [ ],
+"3" : [ 0, 4, 8, 10],
+"1" : [ ],
+"4" : [ 0, 2, 4, 6, 8, 10, 12],
+"2" : [ ],
+"5" : [ ],
+"CoveredDUAsByNodes" : 7,
+"Duas" : 14
+}]
+}

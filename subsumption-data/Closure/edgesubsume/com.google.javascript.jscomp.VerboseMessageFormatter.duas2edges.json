@@ -1,0 +1,16 @@
+{
+"Class" : "com.google.javascript.jscomp.VerboseMessageFormatter", 
+"Methods" : [{ "Name" : "format" ,
+"Edges" : 16,
+"Duas" : 16,
+"1" : 7, 
+ "2" : 8, 
+ "4" : 9, 
+ "5" : 10, 
+ "7" : 11, 
+ "8" : 12, 
+ "10" : 14, 
+ "11" : 15, 
+ "13" : 14, 
+ "14" : 15}]
+}

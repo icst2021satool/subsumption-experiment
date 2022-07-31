@@ -1,0 +1,25 @@
+{
+"Class" : "com.google.javascript.jscomp.TightenTypes$ConcreteScope", 
+"Methods" : [{ "Name" : "getSlot" ,
+"Nodes" : 6,
+"0" : [ 200,201 ]
+"1" : [ 203 ]
+"2" : [ 206 ]
+"3" : [ 204 ]
+"4" : [ 202 ]
+"5" : [  ]
+},{ "Name" : "getTypeOfThis" ,
+"Nodes" : 5,
+"0" : [ 217,218 ]
+"1" : [ 218 ]
+"2" : [ 218 ]
+"3" : [ 218 ]
+"4" : [  ]
+},{ "Name" : "initForScopeRoot" ,
+"Nodes" : 4,
+"0" : [ 238,239 ]
+"1" : [ 242,244,245 ]
+"2" : [ 240 ]
+"3" : [  ]
+}]
+}

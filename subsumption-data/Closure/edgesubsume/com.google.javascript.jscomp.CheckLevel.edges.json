@@ -1,0 +1,11 @@
+{
+"Class" : "com.google.javascript.jscomp.CheckLevel", 
+"Methods" : [{ "Name" : "isOn" ,
+"Edges" : 5,
+"0" : [ 3,2 ],
+"1" : [ 2,4 ],
+"2" : [ 1,2 ],
+"3" : [ 0,3 ],
+"4" : [ 0,1 ]
+}]
+}

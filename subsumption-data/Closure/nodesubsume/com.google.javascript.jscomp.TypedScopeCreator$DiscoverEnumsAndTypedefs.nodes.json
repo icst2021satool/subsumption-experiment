@@ -1,0 +1,26 @@
+{
+"Class" : "com.google.javascript.jscomp.TypedScopeCreator$DiscoverEnumsAndTypedefs", 
+"Methods" : [{ "Name" : "visit" ,
+"Nodes" : 10,
+"0" : [ 368,367 ]
+"1" : [ 378,379 ]
+"2" : [ 384 ]
+"3" : [ 380 ]
+"4" : [ 370 ]
+"5" : [ 371 ]
+"6" : [ 376 ]
+"7" : [ 371,372 ]
+"8" : [ 389 ]
+"9" : [  ]
+},{ "Name" : "identifyNameNode" ,
+"Nodes" : 8,
+"0" : [ 393 ]
+"1" : [ 402 ]
+"2" : [ 394 ]
+"3" : [ 395 ]
+"4" : [ 397 ]
+"5" : [ 398 ]
+"6" : [ 396 ]
+"7" : [  ]
+}]
+}

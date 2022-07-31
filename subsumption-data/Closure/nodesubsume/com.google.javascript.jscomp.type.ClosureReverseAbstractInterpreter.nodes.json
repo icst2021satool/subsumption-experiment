@@ -1,0 +1,23 @@
+{
+"Class" : "com.google.javascript.jscomp.type.ClosureReverseAbstractInterpreter", 
+"Methods" : [{ "Name" : "getPreciserScopeKnowingConditionOutcome" ,
+"Nodes" : 11,
+"0" : [ 221 ]
+"1" : [ 239 ]
+"2" : [ 221 ]
+"3" : [ 224,222,223 ]
+"4" : [ 224 ]
+"5" : [ 225,226,227,228 ]
+"6" : [ 228 ]
+"7" : [ 228 ]
+"8" : [ 230,232 ]
+"9" : [ 233 ]
+"10" : [  ]
+},{ "Name" : "restrictParameter" ,
+"Nodes" : 4,
+"0" : [ 247,250 ]
+"1" : [ 255 ]
+"2" : [ 251,252,253 ]
+"3" : [  ]
+}]
+}

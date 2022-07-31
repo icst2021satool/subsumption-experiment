@@ -1,0 +1,11 @@
+{
+"Class" : "com.google.debugging.sourcemap.SourceMapConsumerV3$StringCharIterator", 
+"Methods" : [{ "Name" : "hasNext" ,
+"Nodes" : 5,
+"0" : [ 569 ]
+"1" : [ 569 ]
+"2" : [ 569 ]
+"3" : [ 569 ]
+"4" : [  ]
+}]
+}

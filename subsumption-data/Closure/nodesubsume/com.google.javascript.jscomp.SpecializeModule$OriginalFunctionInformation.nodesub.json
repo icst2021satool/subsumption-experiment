@@ -1,0 +1,37 @@
+{
+"Class" : "com.google.javascript.jscomp.SpecializeModule$OriginalFunctionInformation", 
+"Methods" : [{ "Name" : "<init>" ,
+"Nodes" : 10,
+"0" : [ ],
+"7" : [ 4],
+"8" : [ 4, 9],
+"1" : [ ],
+"2" : [ 0],
+"5" : [ 0, 1, 10],
+"3" : [ 0],
+"6" : [ 0, 1, 6, 10],
+"4" : [ 0, 3],
+"9" : [ 0, 3],
+"CoveredDUAsByNodes" : 7,
+"Duas" : 12
+},{ "Name" : "originalWasDeclaration" ,
+"Nodes" : 6,
+"0" : [ ],
+"3" : [ 0, 4],
+"4" : [ 0, 3, 4, 7],
+"1" : [ ],
+"2" : [ ],
+"5" : [ ],
+"CoveredDUAsByNodes" : 4,
+"Duas" : 8
+},{ "Name" : "generateFixupDefinition" ,
+"Nodes" : 5,
+"0" : [ ],
+"1" : [ 1, 2, 5, 6, 9, 10],
+"3" : [ 0, 3, 4, 7, 8, 13],
+"2" : [ 11, 12],
+"4" : [ 11, 12],
+"CoveredDUAsByNodes" : 14,
+"Duas" : 16
+}]
+}

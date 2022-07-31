@@ -1,0 +1,13 @@
+{
+"Class" : "com.google.javascript.jscomp.TightenTypes$PropertyAssignAction", 
+"Methods" : [{ "Name" : "getAssignments" ,
+"Nodes" : 5,
+"0" : [ ],
+"1" : [ ],
+"2" : [ 1, 4],
+"4" : [ 1, 4],
+"3" : [ 0, 2, 3, 5],
+"CoveredDUAsByNodes" : 6,
+"Duas" : 6
+}]
+}

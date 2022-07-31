@@ -1,0 +1,17 @@
+{
+"Class" : "com.google.javascript.rhino.Node$NumberNode", 
+"Methods" : [{ "Name" : "isEquivalentTo" ,
+"Nodes" : 9,
+"0" : [ ],
+"2" : [ 0, 1, 2],
+"1" : [ ],
+"3" : [ 0, 1, 2, 4, 10],
+"6" : [ 0, 1, 2, 4, 6, 10],
+"7" : [ 0, 1, 2, 4, 6, 9, 10, 13],
+"4" : [ 0, 1, 2, 4, 10],
+"5" : [ 0, 1, 2, 4, 10],
+"8" : [ ],
+"CoveredDUAsByNodes" : 8,
+"Duas" : 14
+}]
+}

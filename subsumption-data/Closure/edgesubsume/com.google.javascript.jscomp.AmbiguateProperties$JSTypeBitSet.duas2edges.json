@@ -1,0 +1,12 @@
+{
+"Class" : "com.google.javascript.jscomp.AmbiguateProperties$JSTypeBitSet", 
+"Methods" : [{ "Name" : "toString" ,
+"Edges" : 5,
+"Duas" : 15,
+"1" : 1, 
+ "2" : 2, 
+ "6" : 1, 
+ "7" : 2, 
+ "13" : 1, 
+ "14" : 2}]
+}

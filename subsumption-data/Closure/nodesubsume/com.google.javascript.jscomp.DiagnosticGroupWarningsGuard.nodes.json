@@ -1,0 +1,29 @@
+{
+"Class" : "com.google.javascript.jscomp.DiagnosticGroupWarningsGuard", 
+"Methods" : [{ "Name" : "level" ,
+"Nodes" : 5,
+"0" : [ 40 ]
+"1" : [ 40 ]
+"2" : [ 40 ]
+"3" : [ 40 ]
+"4" : [  ]
+},{ "Name" : "disables" ,
+"Nodes" : 6,
+"0" : [ 45 ]
+"1" : [ 45 ]
+"2" : [ 45 ]
+"3" : [ 45 ]
+"4" : [ 45 ]
+"5" : [  ]
+},{ "Name" : "enables" ,
+"Nodes" : 8,
+"0" : [ 50 ]
+"1" : [ 58 ]
+"2" : [ 51 ]
+"3" : [ 51 ]
+"4" : [ 51,52 ]
+"5" : [ 55 ]
+"6" : [ 53 ]
+"7" : [  ]
+}]
+}

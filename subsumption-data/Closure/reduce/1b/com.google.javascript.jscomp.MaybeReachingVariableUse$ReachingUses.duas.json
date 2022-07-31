@@ -1,0 +1,13 @@
+{
+"Class" : "com.google.javascript.jscomp.MaybeReachingVariableUse$ReachingUses", 
+"Methods" : [{ "Name" : "equals" ,
+"Duas" : 8,
+"0" :  "(103,(103,103), this)",
+"1" :  "(103,(103,103), this)",
+"2" :  "(103,(103,103), other)",
+"3" :  "(103,(103,103), other)",
+"4" :  "(103,(103,103), other)",
+"5" :  "(103,(103,103), other)",
+"6" :  "(103,(103,103), this.mayUseMap)",
+"7" :  "(103,(103,103), this.mayUseMap)"}]
+}

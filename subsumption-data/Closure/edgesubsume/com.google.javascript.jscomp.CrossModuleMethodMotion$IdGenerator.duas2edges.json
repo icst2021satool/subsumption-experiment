@@ -1,0 +1,10 @@
+{
+"Class" : "com.google.javascript.jscomp.CrossModuleMethodMotion$IdGenerator", 
+"Methods" : [{ "Name" : "hasGeneratedAnyIds" ,
+"Edges" : 5,
+"Duas" : 4,
+"0" : 3, 
+ "1" : 4, 
+ "2" : 3, 
+ "3" : 4}]
+}

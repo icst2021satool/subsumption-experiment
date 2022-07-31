@@ -1,0 +1,11 @@
+{
+"Class" : "com.google.javascript.jscomp.MaybeReachingVariableUse$ReachingUsesJoinOp", 
+"Methods" : [{ "Name" : "apply" ,
+"Nodes" : 5,
+"0" : [ 123,124 ]
+"1" : [ 124 ]
+"2" : [ 127 ]
+"3" : [ 124,125,126 ]
+"4" : [  ]
+}]
+}

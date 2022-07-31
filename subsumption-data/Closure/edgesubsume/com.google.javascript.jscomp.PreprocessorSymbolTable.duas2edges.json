@@ -1,0 +1,12 @@
+{
+"Class" : "com.google.javascript.jscomp.PreprocessorSymbolTable", 
+"Methods" : [{ "Name" : "addReference" ,
+"Edges" : 4,
+"Duas" : 17,
+"0" : 1, 
+ "1" : 2, 
+ "6" : 1, 
+ "7" : 2, 
+ "11" : 1, 
+ "12" : 2}]
+}

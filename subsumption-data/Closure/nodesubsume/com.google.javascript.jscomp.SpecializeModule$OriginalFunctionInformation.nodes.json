@@ -1,0 +1,31 @@
+{
+"Class" : "com.google.javascript.jscomp.SpecializeModule$OriginalFunctionInformation", 
+"Methods" : [{ "Name" : "<init>" ,
+"Nodes" : 10,
+"0" : [ 455,456,458,459,461,463 ]
+"1" : [ 463 ]
+"2" : [ 466,463 ]
+"3" : [ 466 ]
+"4" : [ 466,468 ]
+"5" : [ 466 ]
+"6" : [ 466 ]
+"7" : [ 463 ]
+"8" : [ 463 ]
+"9" : [  ]
+},{ "Name" : "originalWasDeclaration" ,
+"Nodes" : 6,
+"0" : [ 484 ]
+"1" : [ 484 ]
+"2" : [ 484 ]
+"3" : [ 484 ]
+"4" : [ 484 ]
+"5" : [  ]
+},{ "Name" : "generateFixupDefinition" ,
+"Nodes" : 5,
+"0" : [ 507,511 ]
+"1" : [ 518,519 ]
+"2" : [ 523,524,526 ]
+"3" : [ 512 ]
+"4" : [  ]
+}]
+}

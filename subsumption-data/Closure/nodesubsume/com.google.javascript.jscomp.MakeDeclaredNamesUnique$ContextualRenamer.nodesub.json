@@ -1,0 +1,17 @@
+{
+"Class" : "com.google.javascript.jscomp.MakeDeclaredNamesUnique$ContextualRenamer", 
+"Methods" : [{ "Name" : "addDeclaredName" ,
+"Nodes" : 9,
+"0" : [ ],
+"2" : [ 8],
+"3" : [ 1, 17, 8],
+"4" : [ 1, 17, 2, 18, 4, 8, 10, 12],
+"6" : [ 1, 17, 2, 18, 4, 21, 6, 23, 8, 10, 12, 14],
+"5" : [ 1, 17, 2, 18, 4, 20, 5, 8, 10, 12, 13],
+"7" : [ 0, 16, 7, 8, 15],
+"1" : [ ],
+"8" : [ ],
+"CoveredDUAsByNodes" : 19,
+"Duas" : 26
+}]
+}

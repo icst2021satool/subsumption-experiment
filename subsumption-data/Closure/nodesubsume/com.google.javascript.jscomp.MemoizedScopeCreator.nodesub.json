@@ -1,0 +1,36 @@
+{
+"Class" : "com.google.javascript.jscomp.MemoizedScopeCreator", 
+"Methods" : [{ "Name" : "getAllSymbols" ,
+"Nodes" : 5,
+"0" : [ ],
+"1" : [ ],
+"2" : [ 0, 3],
+"4" : [ 0, 3],
+"3" : [ 1, 2, 4],
+"CoveredDUAsByNodes" : 5,
+"Duas" : 5
+},{ "Name" : "createScope" ,
+"Nodes" : 8,
+"0" : [ ],
+"1" : [ 10],
+"2" : [ 5, 10, 12],
+"5" : [ 4, 10, 11],
+"3" : [ 10],
+"6" : [ 0, 1, 2, 3, 6, 7, 8, 9],
+"4" : [ ],
+"7" : [ ],
+"CoveredDUAsByNodes" : 13,
+"Duas" : 15
+},{ "Name" : "removeScopesForScript" ,
+"Nodes" : 7,
+"0" : [ ],
+"1" : [ ],
+"2" : [ 5],
+"6" : [ 5],
+"3" : [ 4, 6],
+"5" : [ 0, 1, 3, 4, 6, 7, 9],
+"4" : [ 4, 6],
+"CoveredDUAsByNodes" : 8,
+"Duas" : 10
+}]
+}

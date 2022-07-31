@@ -1,0 +1,22 @@
+{
+"Class" : "com.google.javascript.jscomp.JsAst", 
+"Methods" : [{ "Name" : "getAstRoot" ,
+"Nodes" : 4,
+"0" : [ ],
+"2" : [ 0, 3, 4, 5, 6, 9, 10],
+"1" : [ 2, 8],
+"3" : [ 2, 8],
+"CoveredDUAsByNodes" : 9,
+"Duas" : 11
+},{ "Name" : "parse" ,
+"Nodes" : 6,
+"0" : [ ],
+"3" : [ 0, 9],
+"4" : [ 0, 4, 6, 7, 9, 11],
+"1" : [ 2],
+"2" : [ 3, 8],
+"5" : [ 3, 8],
+"CoveredDUAsByNodes" : 9,
+"Duas" : 14
+}]
+}

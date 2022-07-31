@@ -1,0 +1,18 @@
+{
+"Class" : "com.google.javascript.rhino.jstype.TernaryValue$3", 
+"Methods" : [{ "Name" : "and" ,
+"Nodes" : 5,
+"0" : [ 134 ]
+"1" : [ 134 ]
+"2" : [ 134 ]
+"3" : [ 134 ]
+"4" : [  ]
+},{ "Name" : "or" ,
+"Nodes" : 5,
+"0" : [ 144 ]
+"1" : [ 144 ]
+"2" : [ 144 ]
+"3" : [ 144 ]
+"4" : [  ]
+}]
+}

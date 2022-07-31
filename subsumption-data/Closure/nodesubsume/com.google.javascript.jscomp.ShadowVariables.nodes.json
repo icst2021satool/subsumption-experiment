@@ -1,0 +1,10 @@
+{
+"Class" : "com.google.javascript.jscomp.ShadowVariables", 
+"Methods" : [{ "Name" : "process" ,
+"Nodes" : 4,
+"0" : [ 119,120,122 ]
+"1" : [ 125 ]
+"2" : [ 123 ]
+"3" : [  ]
+}]
+}

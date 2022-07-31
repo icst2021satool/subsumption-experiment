@@ -1,0 +1,23 @@
+{
+"Class" : "com.google.javascript.rhino.Node$SiblingNodeIterable", 
+"Methods" : [{ "Name" : "iterator" ,
+"Nodes" : 4,
+"0" : [ 1260 ]
+"1" : [ 1270 ]
+"2" : [ 1261,1262 ]
+"3" : [  ]
+},{ "Name" : "hasNext" ,
+"Nodes" : 5,
+"0" : [ 1276 ]
+"1" : [ 1276 ]
+"2" : [ 1276 ]
+"3" : [ 1276 ]
+"4" : [  ]
+},{ "Name" : "next" ,
+"Nodes" : 4,
+"0" : [ 1281 ]
+"1" : [ 1285,1287 ]
+"2" : [ 1282 ]
+"3" : [  ]
+}]
+}

@@ -1,0 +1,14 @@
+{
+"Class" : "com.google.javascript.jscomp.NameAnonymousFunctionsMapped", 
+"Methods" : [{ "Name" : "<init>" ,
+"Edges" : 5,
+"Duas" : 6,
+"3" : 3, 
+ "4" : 4},{ "Name" : "process" ,
+"Edges" : 4,
+"Duas" : 6,
+"0" : 1, 
+ "1" : 2, 
+ "4" : 1, 
+ "5" : 2}]
+}

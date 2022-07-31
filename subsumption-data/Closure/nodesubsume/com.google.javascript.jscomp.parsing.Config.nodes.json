@@ -1,0 +1,13 @@
+{
+"Class" : "com.google.javascript.jscomp.parsing.Config", 
+"Methods" : [{ "Name" : "buildAnnotationNames" ,
+"Nodes" : 7,
+"0" : [ 90,92,93 ]
+"1" : [ 93 ]
+"2" : [ 100 ]
+"3" : [ 93,94 ]
+"4" : [ 99 ]
+"5" : [ 96 ]
+"6" : [  ]
+}]
+}

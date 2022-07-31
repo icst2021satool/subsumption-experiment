@@ -1,0 +1,10 @@
+{
+"Class" : "com.google.javascript.jscomp.FunctionInjector$CallSiteType$5", 
+"Methods" : [{ "Name" : "prepare" ,
+"Edges" : 5,
+"Duas" : 7,
+"0" : 0, 
+ "1" : 1, 
+ "4" : 0, 
+ "5" : 1}]
+}

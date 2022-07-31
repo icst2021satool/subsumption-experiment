@@ -1,0 +1,10 @@
+{
+"Class" : "com.google.javascript.jscomp.LinkedFlowScope$FlowScopeJoinOp", 
+"Methods" : [{ "Name" : "apply" ,
+"Nodes" : 4,
+"0" : [ 247,248,249,250,251 ]
+"1" : [ 254 ]
+"2" : [ 252 ]
+"3" : [  ]
+}]
+}

@@ -1,0 +1,10 @@
+{
+"Class" : "com.google.javascript.jscomp.graph.GraphColoring", 
+"Methods" : [{ "Name" : "getPartitionSuperNode" ,
+"Nodes" : 4,
+"0" : [ 72,74,75,76 ]
+"1" : [ 80 ]
+"2" : [ 77,78 ]
+"3" : [  ]
+}]
+}

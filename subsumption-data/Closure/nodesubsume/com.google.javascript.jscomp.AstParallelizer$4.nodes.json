@@ -1,0 +1,11 @@
+{
+"Class" : "com.google.javascript.jscomp.AstParallelizer$4", 
+"Methods" : [{ "Name" : "apply" ,
+"Nodes" : 5,
+"0" : [ 115 ]
+"1" : [ 115 ]
+"2" : [ 115 ]
+"3" : [ 115 ]
+"4" : [  ]
+}]
+}

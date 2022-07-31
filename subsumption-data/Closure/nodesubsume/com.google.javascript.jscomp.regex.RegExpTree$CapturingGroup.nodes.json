@@ -1,0 +1,12 @@
+{
+"Class" : "com.google.javascript.jscomp.regex.RegExpTree$CapturingGroup", 
+"Methods" : [{ "Name" : "equals" ,
+"Nodes" : 6,
+"0" : [ 1270 ]
+"1" : [ 1270 ]
+"2" : [ 1270 ]
+"3" : [ 1270 ]
+"4" : [ 1270 ]
+"5" : [  ]
+}]
+}

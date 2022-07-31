@@ -1,0 +1,26 @@
+{
+"Class" : "com.google.javascript.jscomp.graph.DiGraph", 
+"Methods" : [{ "Name" : "isConnected" ,
+"Edges" : 7,
+"4" : [ 0, 4, 8],
+"5" : [ 1, 5, 9],
+"0" : [ 2, 6, 10],
+"1" : [ 0, 3, 4, 7, 8, 11],
+"2" : [ 0, 3, 4, 7, 8, 11],
+"6" : [ ],
+"3" : [ ],
+"CoveredDUAsByEdges" : 12,
+"Duas" : 12
+},{ "Name" : "isConnected" ,
+"Edges" : 7,
+"2" : [ 0, 4, 8, 12],
+"3" : [ 1, 5, 9, 13],
+"4" : [ 2, 6, 10, 14],
+"5" : [ 0, 3, 4, 7, 8, 11, 12, 15],
+"6" : [ 0, 3, 4, 7, 8, 11, 12, 15],
+"0" : [ ],
+"1" : [ ],
+"CoveredDUAsByEdges" : 16,
+"Duas" : 16
+}]
+}

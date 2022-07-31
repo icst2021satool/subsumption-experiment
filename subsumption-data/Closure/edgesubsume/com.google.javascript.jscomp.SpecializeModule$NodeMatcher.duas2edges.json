@@ -1,0 +1,16 @@
+{
+"Class" : "com.google.javascript.jscomp.SpecializeModule$NodeMatcher", 
+"Methods" : [{ "Name" : "match" ,
+"Edges" : 7,
+"Duas" : 21,
+"0" : 5, 
+ "1" : 6, 
+ "3" : 5, 
+ "4" : 6, 
+ "6" : 5, 
+ "7" : 6, 
+ "9" : 1, 
+ "10" : 2, 
+ "15" : 1, 
+ "16" : 2}]
+}

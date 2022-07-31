@@ -1,0 +1,23 @@
+{
+"Class" : "com.google.javascript.jscomp.AbstractCompiler$LifeCycleStage", 
+"Methods" : [{ "Name" : "isNormalized" ,
+"Duas" : 8,
+"0" :  "(290,(290,290), this)",
+"1" :  "(290,(290,290), this)",
+"2" :  "(290,(290,290), this)",
+"3" :  "(290,(290,290), this)",
+"4" :  "(290,(290,290), NORMALIZED)",
+"5" :  "(290,(290,290), NORMALIZED)",
+"6" :  "(290,(290,290), NORMALIZED_OBFUSCATED)",
+"7" :  "(290,(290,290), NORMALIZED_OBFUSCATED)"},{ "Name" : "isNormalizedUnobfuscated" ,
+"Duas" : 4,
+"0" :  "(294,(294,294), this)",
+"1" :  "(294,(294,294), this)",
+"2" :  "(294,(294,294), NORMALIZED)",
+"3" :  "(294,(294,294), NORMALIZED)"},{ "Name" : "isNormalizedObfuscated" ,
+"Duas" : 4,
+"0" :  "(298,(298,298), this)",
+"1" :  "(298,(298,298), this)",
+"2" :  "(298,(298,298), NORMALIZED_OBFUSCATED)",
+"3" :  "(298,(298,298), NORMALIZED_OBFUSCATED)"}]
+}

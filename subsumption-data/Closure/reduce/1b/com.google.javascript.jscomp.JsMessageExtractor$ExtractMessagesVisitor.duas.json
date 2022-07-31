@@ -1,0 +1,10 @@
+{
+"Class" : "com.google.javascript.jscomp.JsMessageExtractor$ExtractMessagesVisitor", 
+"Methods" : [{ "Name" : "processJsMessage" ,
+"Duas" : 5,
+"0" :  "(88,89, this)",
+"1" :  "(88,(88,89), message)",
+"2" :  "(88,(88,91), message)",
+"3" :  "(88,89, message)",
+"4" :  "(88,89, this.messages)"}]
+}

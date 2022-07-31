@@ -1,0 +1,10 @@
+{
+"Class" : "com.google.javascript.jscomp.RescopeGlobalSymbols", 
+"Methods" : [{ "Name" : "process" ,
+"Nodes" : 4,
+"0" : [ 82 ]
+"1" : [ 99,101,90,93,95 ]
+"2" : [ 83 ]
+"3" : [  ]
+}]
+}

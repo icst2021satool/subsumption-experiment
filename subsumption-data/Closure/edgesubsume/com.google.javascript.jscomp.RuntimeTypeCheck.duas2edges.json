@@ -1,0 +1,12 @@
+{
+"Class" : "com.google.javascript.jscomp.RuntimeTypeCheck", 
+"Methods" : [{ "Name" : "addBoilerplateCode" ,
+"Edges" : 6,
+"Duas" : 12,
+"0" : 0, 
+ "1" : 1, 
+ "6" : 0, 
+ "7" : 1, 
+ "9" : 2, 
+ "10" : 3}]
+}

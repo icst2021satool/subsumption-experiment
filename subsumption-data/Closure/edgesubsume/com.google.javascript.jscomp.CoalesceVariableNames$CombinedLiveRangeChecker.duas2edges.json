@@ -1,0 +1,22 @@
+{
+"Class" : "com.google.javascript.jscomp.CoalesceVariableNames$CombinedLiveRangeChecker", 
+"Methods" : [{ "Name" : "visit" ,
+"Edges" : 4,
+"Duas" : 12,
+"4" : 2, 
+ "5" : 3},{ "Name" : "connectIfCrossed" ,
+"Edges" : 6,
+"Duas" : 17,
+"0" : 1, 
+ "1" : 2, 
+ "4" : 4, 
+ "5" : 5, 
+ "7" : 1, 
+ "8" : 2, 
+ "10" : 1, 
+ "11" : 2, 
+ "13" : 4, 
+ "14" : 5, 
+ "15" : 4, 
+ "16" : 5}]
+}

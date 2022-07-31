@@ -1,0 +1,22 @@
+{
+"Class" : "com.google.javascript.jscomp.Strings", 
+"Methods" : [{ "Name" : "truncateAtMaxLength" ,
+"Nodes" : 7,
+"0" : [ 48 ]
+"1" : [ 51 ]
+"2" : [ 54 ]
+"3" : [ 51 ]
+"4" : [ 52 ]
+"5" : [ 49 ]
+"6" : [  ]
+},{ "Name" : "unicodePreservingIndex" ,
+"Nodes" : 7,
+"0" : [ 75 ]
+"1" : [ 81 ]
+"2" : [ 75 ]
+"3" : [ 76 ]
+"4" : [ 76 ]
+"5" : [ 78 ]
+"6" : [  ]
+}]
+}

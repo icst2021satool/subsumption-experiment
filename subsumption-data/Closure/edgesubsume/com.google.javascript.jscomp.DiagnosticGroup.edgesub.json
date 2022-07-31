@@ -1,0 +1,42 @@
+{
+"Class" : "com.google.javascript.jscomp.DiagnosticGroup", 
+"Methods" : [{ "Name" : "forType" ,
+"Edges" : 4,
+"2" : [ 0, 3, 4, 5, 8],
+"3" : [ 1, 2, 6, 7],
+"1" : [ 0, 2, 3, 4, 5, 7, 8],
+"0" : [ 2, 7],
+"CoveredDUAsByEdges" : 9,
+"Duas" : 9
+},{ "Name" : "<init>" ,
+"Edges" : 5,
+"0" : [ ],
+"2" : [ 4, 5, 6, 8, 10, 11],
+"3" : [ 0, 1, 2, 3, 7],
+"4" : [ 0, 1, 2, 3, 7],
+"1" : [ 4, 5, 6, 8, 10, 11],
+"CoveredDUAsByEdges" : 11,
+"Duas" : 16
+},{ "Name" : "isSubGroup" ,
+"Edges" : 8,
+"6" : [ ],
+"4" : [ 2, 4],
+"5" : [ 3],
+"7" : [ 3],
+"2" : [ 0, 2, 4, 5],
+"3" : [ 1, 2, 4, 6],
+"1" : [ 1, 2, 4, 6],
+"0" : [ 0, 2, 4, 5],
+"CoveredDUAsByEdges" : 7,
+"Duas" : 7
+},{ "Name" : "toString" ,
+"Edges" : 5,
+"0" : [ 0, 3],
+"1" : [ 1, 4],
+"3" : [ 1, 2, 4, 5],
+"4" : [ 0, 2, 3, 5],
+"2" : [ 2, 5],
+"CoveredDUAsByEdges" : 6,
+"Duas" : 6
+}]
+}

@@ -1,0 +1,13 @@
+{
+"Class" : "com.google.javascript.jscomp.RemoveUnusedVars$Continuation", 
+"Methods" : [{ "Name" : "apply" ,
+"Nodes" : 7,
+"0" : [ 884 ]
+"1" : [ 887 ]
+"2" : [ 888 ]
+"3" : [ 892 ]
+"4" : [ 888,889 ]
+"5" : [ 885 ]
+"6" : [  ]
+}]
+}

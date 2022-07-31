@@ -1,0 +1,15 @@
+{
+"Class" : "com.google.javascript.jscomp.ReorderConstantExpression", 
+"Methods" : [{ "Name" : "optimizeSubtree" ,
+"Nodes" : 9,
+"0" : [ 35 ]
+"1" : [ 38 ]
+"2" : [ 56 ]
+"3" : [ 38 ]
+"4" : [ 42 ]
+"5" : [ 48,49,51,52,53 ]
+"6" : [ 43,44 ]
+"7" : [ 35 ]
+"8" : [  ]
+}]
+}

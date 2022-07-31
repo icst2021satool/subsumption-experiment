@@ -1,0 +1,14 @@
+{
+"Class" : "com.google.javascript.jscomp.NameAnalyzer$ClassDefiningFunctionNode", 
+"Methods" : [{ "Name" : "remove" ,
+"Duas" : 9,
+"0" :  "(427,432, this)",
+"1" :  "(427,430, this)",
+"2" :  "(427,432, this.node)",
+"3" :  "(427,432, this.this$0)",
+"4" :  "(427,430, this.this$0)",
+"5" :  "(428,(429,430), parent)",
+"6" :  "(428,(429,432), parent)",
+"7" :  "(428,432, parent)",
+"8" :  "(428,430, parent)"}]
+}

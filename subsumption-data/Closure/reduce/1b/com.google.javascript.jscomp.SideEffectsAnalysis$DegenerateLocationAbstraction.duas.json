@@ -1,0 +1,14 @@
+{
+"Class" : "com.google.javascript.jscomp.SideEffectsAnalysis$DegenerateLocationAbstraction", 
+"Methods" : [{ "Name" : "calculateRefSet" ,
+"Duas" : 4,
+"0" :  "(645,(645,646), node)",
+"1" :  "(645,(645,648), node)",
+"2" :  "(645,646, EVERY_LOCATION)",
+"3" :  "(645,648, NO_LOCATION)"},{ "Name" : "calculateModSet" ,
+"Duas" : 4,
+"0" :  "(653,(653,654), node)",
+"1" :  "(653,(653,656), node)",
+"2" :  "(653,654, EVERY_LOCATION)",
+"3" :  "(653,656, NO_LOCATION)"}]
+}

@@ -1,0 +1,17 @@
+{
+"Class" : "com.google.javascript.jscomp.TightenTypes$NativeCallFunctionCall", 
+"Methods" : [{ "Name" : "getAssignments" ,
+"Nodes" : 11,
+"0" : [ 566 ]
+"1" : [ 566 ]
+"2" : [ 566,569,571 ]
+"3" : [ 577,575 ]
+"4" : [ 578 ]
+"5" : [ 582 ]
+"6" : [ 579,580 ]
+"7" : [ 571 ]
+"8" : [ 573 ]
+"9" : [ 566 ]
+"10" : [  ]
+}]
+}

@@ -1,0 +1,31 @@
+{
+"Class" : "com.google.javascript.rhino.jstype.Property", 
+"Methods" : [{ "Name" : "getSourceFile" ,
+"Edges" : 5,
+"0" : [ 0, 3],
+"1" : [ 1, 4],
+"4" : [ 1, 2, 4, 5],
+"3" : [ 0, 2, 3, 5],
+"2" : [ 2, 5],
+"CoveredDUAsByEdges" : 6,
+"Duas" : 6
+},{ "Name" : "getDeclaration" ,
+"Edges" : 5,
+"0" : [ 0, 3],
+"1" : [ 1, 4],
+"2" : [ 1, 2, 4],
+"3" : [ 0, 2, 3],
+"4" : [ 2],
+"CoveredDUAsByEdges" : 5,
+"Duas" : 5
+},{ "Name" : "isFromExterns" ,
+"Edges" : 5,
+"3" : [ 0, 3],
+"4" : [ 1, 4],
+"1" : [ 1, 2, 4, 5],
+"0" : [ 0, 2, 3, 5],
+"2" : [ 2, 5],
+"CoveredDUAsByEdges" : 6,
+"Duas" : 6
+}]
+}

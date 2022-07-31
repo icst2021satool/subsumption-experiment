@@ -1,0 +1,22 @@
+{
+"Class" : "com.google.javascript.jscomp.ExternExportsPass$PropertyExport", 
+"Methods" : [{ "Name" : "getExportedPath" ,
+"Edges" : 11,
+"Duas" : 35,
+"1" : 0, 
+ "2" : 1, 
+ "6" : 0, 
+ "7" : 1, 
+ "12" : 3, 
+ "13" : 4, 
+ "15" : 9, 
+ "16" : 10, 
+ "19" : 3, 
+ "20" : 4, 
+ "22" : 0, 
+ "23" : 1, 
+ "28" : 9, 
+ "29" : 10, 
+ "32" : 3, 
+ "33" : 4}]
+}

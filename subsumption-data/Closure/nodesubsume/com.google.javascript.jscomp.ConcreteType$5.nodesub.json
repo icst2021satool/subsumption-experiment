@@ -1,0 +1,14 @@
+{
+"Class" : "com.google.javascript.jscomp.ConcreteType$5", 
+"Methods" : [{ "Name" : "filter" ,
+"Nodes" : 6,
+"0" : [ ],
+"3" : [ 0],
+"1" : [ ],
+"4" : [ 0, 3],
+"2" : [ 2],
+"5" : [ 2],
+"CoveredDUAsByNodes" : 3,
+"Duas" : 5
+}]
+}

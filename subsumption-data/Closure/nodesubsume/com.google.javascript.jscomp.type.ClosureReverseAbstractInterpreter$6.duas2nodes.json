@@ -1,0 +1,18 @@
+{
+"Class" : "com.google.javascript.jscomp.type.ClosureReverseAbstractInterpreter$6", 
+"Methods" : [{ "Name" : "apply" ,
+"Nodes" : 10,
+"Duas" : 12,
+"0" :  [ 0,3 ],
+"1" :  [ 0,7 ],
+"2" :  [ 0,5 ],
+"3" :  [ 0,1 ],
+"4" :  [ 0,1,4 ],
+"5" :  [ 0,1,2 ],
+"6" :  [ 0,3 ],
+"7" :  [ 0,5,8 ],
+"8" :  [ 0,5,6 ],
+"9" :  [ 0,3 ],
+"10" :  [ 0,7 ],
+"11" :  [ 0,7 ]}]
+}

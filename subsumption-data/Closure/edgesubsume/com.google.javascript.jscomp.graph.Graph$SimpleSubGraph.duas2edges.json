@@ -1,0 +1,16 @@
+{
+"Class" : "com.google.javascript.jscomp.graph.Graph$SimpleSubGraph", 
+"Methods" : [{ "Name" : "isIndependentOf" ,
+"Edges" : 8,
+"Duas" : 11,
+"0" : 5, 
+ "1" : 6, 
+ "2" : 5, 
+ "3" : 6, 
+ "4" : 5, 
+ "5" : 6, 
+ "6" : 0, 
+ "7" : 1, 
+ "9" : 5, 
+ "10" : 6}]
+}

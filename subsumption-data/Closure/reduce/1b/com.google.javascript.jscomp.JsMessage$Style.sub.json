@@ -1,0 +1,10 @@
+{
+"Class" : "com.google.javascript.jscomp.JsMessage$Style", 
+"Methods" : [{ "Name" : "getFromParams" ,
+"Duas" : "7" ,
+"Subsumers" : 3,
+"0" : [ 2], "S0" : [0, 2, 4, 5 ],
+"1" : [ 3], "S1" : [0, 3, 4, 5 ],
+"2" : [ 6, 1], "S2" : [1, 6 ]
+}]
+}

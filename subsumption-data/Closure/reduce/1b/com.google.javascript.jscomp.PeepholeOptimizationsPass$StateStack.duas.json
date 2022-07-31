@@ -1,0 +1,16 @@
+{
+"Class" : "com.google.javascript.jscomp.PeepholeOptimizationsPass$StateStack", 
+"Methods" : [{ "Name" : "push" ,
+"Duas" : 11,
+"0" :  "(71,(72,73), this)",
+"1" :  "(71,(72,75), this)",
+"2" :  "(71,75, this)",
+"3" :  "(71,73, this)",
+"4" :  "(71,(72,73), this.states)",
+"5" :  "(71,(72,75), this.states)",
+"6" :  "(71,75, this.states)",
+"7" :  "(71,73, this.states)",
+"8" :  "(71,(72,73), this.currentDepth)",
+"9" :  "(71,(72,75), this.currentDepth)",
+"10" :  "(71,75, this.currentDepth)"}]
+}

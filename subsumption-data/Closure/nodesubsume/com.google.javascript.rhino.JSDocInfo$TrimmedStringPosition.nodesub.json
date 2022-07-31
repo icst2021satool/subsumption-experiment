@@ -1,0 +1,14 @@
+{
+"Class" : "com.google.javascript.rhino.JSDocInfo$TrimmedStringPosition", 
+"Methods" : [{ "Name" : "setItem" ,
+"Nodes" : 6,
+"0" : [ ],
+"3" : [ 1],
+"1" : [ ],
+"4" : [ 1, 4],
+"2" : [ 0, 3],
+"5" : [ 0, 3],
+"CoveredDUAsByNodes" : 4,
+"Duas" : 6
+}]
+}

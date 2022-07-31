@@ -1,0 +1,16 @@
+{
+"Class" : "com.google.javascript.jscomp.IgnoreCajaProperties$Traversal", 
+"Methods" : [{ "Name" : "visit" ,
+"Edges" : 10,
+"0" : [ 1,7 ],
+"1" : [ 6,5 ],
+"2" : [ 0,2 ],
+"3" : [ 0,1 ],
+"4" : [ 5,1 ],
+"5" : [ 3,6 ],
+"6" : [ 3,4 ],
+"7" : [ 4,5 ],
+"8" : [ 2,3 ],
+"9" : [ 2,1 ]
+}]
+}

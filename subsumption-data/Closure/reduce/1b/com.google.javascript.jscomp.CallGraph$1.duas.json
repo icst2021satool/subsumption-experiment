@@ -1,0 +1,20 @@
+{
+"Class" : "com.google.javascript.jscomp.CallGraph$1", 
+"Methods" : [{ "Name" : "apply" ,
+"Duas" : 15,
+"0" :  "(195,(201,201), this)",
+"1" :  "(195,(201,201), this)",
+"2" :  "(195,(198,199), this)",
+"3" :  "(195,(198,201), this)",
+"4" :  "(195,199, this)",
+"5" :  "(195,(201,201), this.val$desiredName)",
+"6" :  "(195,(201,201), this.val$desiredName)",
+"7" :  "(195,(198,199), this.val$desiredName)",
+"8" :  "(195,(198,201), this.val$desiredName)",
+"9" :  "(195,199, this.val$desiredName)",
+"10" :  "(195,(198,198), functionName)",
+"11" :  "(195,(198,201), functionName)",
+"12" :  "(195,(201,201), functionName)",
+"13" :  "(195,(201,201), functionName)",
+"14" :  "(195,199, functionName)"}]
+}

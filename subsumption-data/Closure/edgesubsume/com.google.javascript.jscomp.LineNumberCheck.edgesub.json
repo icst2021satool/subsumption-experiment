@@ -1,0 +1,25 @@
+{
+"Class" : "com.google.javascript.jscomp.LineNumberCheck", 
+"Methods" : [{ "Name" : "shouldTraverse" ,
+"Edges" : 4,
+"1" : [ 0, 1],
+"2" : [ 2],
+"0" : [ 0, 1],
+"3" : [ ],
+"CoveredDUAsByEdges" : 3,
+"Duas" : 3
+},{ "Name" : "visit" ,
+"Edges" : 9,
+"2" : [ 3, 5],
+"3" : [ 6],
+"5" : [ 0, 6, 11],
+"6" : [ 1, 12],
+"7" : [ 0, 2, 4, 6, 7, 9, 10, 11, 13, 14],
+"8" : [ 8],
+"0" : [ 0, 2, 4, 6, 7, 9, 10, 11, 13, 14],
+"1" : [ 3, 5],
+"4" : [ ],
+"CoveredDUAsByEdges" : 15,
+"Duas" : 15
+}]
+}

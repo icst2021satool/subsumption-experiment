@@ -1,0 +1,14 @@
+{
+"Class" : "com.google.javascript.rhino.Node$NodeMismatch", 
+"Methods" : [{ "Name" : "equals" ,
+"Nodes" : 8,
+"0" : [ 2133 ]
+"1" : [ 2137 ]
+"2" : [ 2134,2135 ]
+"3" : [ 2135 ]
+"4" : [ 2135 ]
+"5" : [ 2135 ]
+"6" : [ 2135 ]
+"7" : [  ]
+}]
+}

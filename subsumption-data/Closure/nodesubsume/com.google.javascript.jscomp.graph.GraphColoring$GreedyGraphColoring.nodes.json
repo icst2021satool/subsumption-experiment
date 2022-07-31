@@ -1,0 +1,15 @@
+{
+"Class" : "com.google.javascript.jscomp.graph.GraphColoring$GreedyGraphColoring", 
+"Methods" : [{ "Name" : "color" ,
+"Nodes" : 9,
+"0" : [ 132,148,133,136 ]
+"1" : [ 150,151,152 ]
+"2" : [ 152 ]
+"3" : [ 160,161 ]
+"4" : [ 163,164,165 ]
+"5" : [ 153,154 ]
+"6" : [ 159 ]
+"7" : [ 155,156,157 ]
+"8" : [  ]
+}]
+}

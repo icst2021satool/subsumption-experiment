@@ -1,0 +1,17 @@
+{
+"Class" : "com.google.javascript.jscomp.TransformAMDToCJSModule", 
+"Methods" : [{ "Name" : "isVirtualModuleName" ,
+"Edges" : 9,
+"0" : [ 0],
+"1" : [ 1],
+"2" : [ 0, 2],
+"3" : [ 3],
+"5" : [ 4],
+"6" : [ 0, 2, 5],
+"4" : [ 0, 2, 5],
+"7" : [ ],
+"8" : [ ],
+"CoveredDUAsByEdges" : 6,
+"Duas" : 6
+}]
+}

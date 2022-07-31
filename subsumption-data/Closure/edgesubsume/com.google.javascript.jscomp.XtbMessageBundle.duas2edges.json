@@ -1,0 +1,8 @@
+{
+"Class" : "com.google.javascript.jscomp.XtbMessageBundle", 
+"Methods" : [{ "Name" : "<init>" ,
+"Edges" : 5,
+"Duas" : 8,
+"5" : 1, 
+ "6" : 2}]
+}

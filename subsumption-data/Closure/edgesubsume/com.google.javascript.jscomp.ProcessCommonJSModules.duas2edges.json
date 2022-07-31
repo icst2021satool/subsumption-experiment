@@ -1,0 +1,22 @@
+{
+"Class" : "com.google.javascript.jscomp.ProcessCommonJSModules", 
+"Methods" : [{ "Name" : "<init>" ,
+"Edges" : 5,
+"Duas" : 6,
+"2" : 0, 
+ "3" : 1},{ "Name" : "toModuleName" ,
+"Edges" : 6,
+"Duas" : 8,
+"0" : 4, 
+ "1" : 5, 
+ "3" : 0, 
+ "4" : 1},{ "Name" : "normalizeSourceName" ,
+"Edges" : 4,
+"Duas" : 11,
+"0" : 2, 
+ "1" : 3, 
+ "3" : 2, 
+ "4" : 3, 
+ "6" : 2, 
+ "7" : 3}]
+}

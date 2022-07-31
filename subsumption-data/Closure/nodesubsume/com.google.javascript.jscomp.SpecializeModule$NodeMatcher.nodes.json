@@ -1,0 +1,12 @@
+{
+"Class" : "com.google.javascript.jscomp.SpecializeModule$NodeMatcher", 
+"Methods" : [{ "Name" : "match" ,
+"Nodes" : 6,
+"0" : [ 400,402 ]
+"1" : [ 413 ]
+"2" : [ 403,404 ]
+"3" : [ 406 ]
+"4" : [ 407,408,409 ]
+"5" : [  ]
+}]
+}

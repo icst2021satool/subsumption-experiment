@@ -1,0 +1,9 @@
+{
+"Class" : "com.google.javascript.jscomp.UnreachableCodeElimination", 
+"Methods" : [{ "Name" : "exitScope" ,
+"Duas" : "9" ,
+"Subsumers" : 2,
+"0" : [ 8, 7, 3], "S0" : [0, 1, 2, 3, 5, 7, 8 ],
+"1" : [ 6, 4], "S1" : [0, 1, 2, 4, 5, 6 ]
+}]
+}

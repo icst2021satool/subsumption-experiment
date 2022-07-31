@@ -1,0 +1,11 @@
+{
+"Class" : "com.google.javascript.jscomp.ChainCalls", 
+"Methods" : [{ "Name" : "process" ,
+"Nodes" : 5,
+"0" : [ 49,50,52,54 ]
+"1" : [ 54 ]
+"2" : [ 61 ]
+"3" : [ 54,55,56,57,59,60 ]
+"4" : [  ]
+}]
+}

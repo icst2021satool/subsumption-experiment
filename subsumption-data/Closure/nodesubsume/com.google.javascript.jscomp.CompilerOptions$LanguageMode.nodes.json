@@ -1,0 +1,17 @@
+{
+"Class" : "com.google.javascript.jscomp.CompilerOptions$LanguageMode", 
+"Methods" : [{ "Name" : "fromString" ,
+"Nodes" : 11,
+"0" : [ 2038 ]
+"1" : [ 2040 ]
+"2" : [ 2038 ]
+"3" : [ 2041 ]
+"4" : [ 2043 ]
+"5" : [ 2041 ]
+"6" : [ 2044 ]
+"7" : [ 2046 ]
+"8" : [ 2044 ]
+"9" : [ 2048 ]
+"10" : [  ]
+}]
+}

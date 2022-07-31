@@ -1,0 +1,21 @@
+{
+"Class" : "com.google.javascript.jscomp.AbstractCommandLineRunner$RunTimeStats", 
+"Methods" : [{ "Name" : "recordEndRun" ,
+"Edges" : 4,
+"1" : [ 0, 2, 3, 4, 6, 8],
+"2" : [ 1, 5, 7],
+"3" : [ 0, 2, 3, 4, 6, 8],
+"0" : [ ],
+"CoveredDUAsByEdges" : 9,
+"Duas" : 9
+},{ "Name" : "outputBestPhaseOrdering" ,
+"Edges" : 5,
+"3" : [ ],
+"1" : [ 0, 1, 2, 3, 4, 6],
+"2" : [ 5],
+"0" : [ 5],
+"4" : [ 0, 1, 2, 3, 4, 6],
+"CoveredDUAsByEdges" : 7,
+"Duas" : 9
+}]
+}

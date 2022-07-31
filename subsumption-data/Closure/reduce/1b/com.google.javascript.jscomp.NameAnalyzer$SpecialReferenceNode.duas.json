@@ -1,0 +1,11 @@
+{
+"Class" : "com.google.javascript.jscomp.NameAnalyzer$SpecialReferenceNode", 
+"Methods" : [{ "Name" : "getGramps" ,
+"Duas" : 6,
+"0" :  "(403,(403,403), this)",
+"1" :  "(403,(403,403), this)",
+"2" :  "(403,403, this)",
+"3" :  "(403,(403,403), this.node)",
+"4" :  "(403,(403,403), this.node)",
+"5" :  "(403,403, this.node)"}]
+}

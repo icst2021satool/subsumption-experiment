@@ -1,0 +1,11 @@
+{
+"Class" : "com.google.javascript.jscomp.GoogleJsMessageIdGenerator$MessageId", 
+"Methods" : [{ "Name" : "GenerateId" ,
+"Duas" : "11" ,
+"Subsumers" : 4,
+"0" : [ 6], "S0" : [0, 2, 4, 6, 8, 9, 10 ],
+"1" : [ 7], "S1" : [0, 2, 4, 7, 8, 9, 10 ],
+"2" : [ 3], "S2" : [0, 3, 5 ],
+"3" : [ 1], "S3" : [1, 5 ]
+}]
+}

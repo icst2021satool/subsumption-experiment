@@ -1,0 +1,18 @@
+{
+"Class" : "com.google.javascript.jscomp.NameReferenceGraphReport$DiGraphNodeComparator", 
+"Methods" : [{ "Name" : "compare" ,
+"Edges" : 12,
+"0" : [ 4,8 ],
+"1" : [ 2,4 ],
+"2" : [ 2,3 ],
+"3" : [ 7,8 ],
+"4" : [ 0,6 ],
+"5" : [ 0,1 ],
+"6" : [ 6,7 ],
+"7" : [ 6,1 ],
+"8" : [ 3,8 ],
+"9" : [ 1,5 ],
+"10" : [ 1,2 ],
+"11" : [ 5,8 ]
+}]
+}

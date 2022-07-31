@@ -1,0 +1,10 @@
+{
+"Class" : "com.google.debugging.sourcemap.SourceMapGeneratorV2$UsedMappingCheck", 
+"Methods" : [{ "Name" : "visit" ,
+"Edges" : 4,
+"0" : [ 0,2 ],
+"1" : [ 0,1 ],
+"2" : [ 1,3 ],
+"3" : [ 2,1 ]
+}]
+}

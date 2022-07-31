@@ -1,0 +1,9 @@
+{
+"Class" : "com.google.javascript.jscomp.ExternExportsPass$SymbolExport", 
+"Methods" : [{ "Name" : "<init>" ,
+"Duas" : 4,
+"0" :  "(364,370, symbolName)",
+"1" :  "(367,(369,370), qualifiedName)",
+"2" :  "(367,(369,372), qualifiedName)",
+"3" :  "(367,370, qualifiedName)"}]
+}

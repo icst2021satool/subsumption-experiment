@@ -1,0 +1,9 @@
+{
+"Class" : "com.google.javascript.jscomp.CheckLevel", 
+"Methods" : [{ "Name" : "isOn" ,
+"Duas" : 4,
+"0" :  "(30,(30,30), this)",
+"1" :  "(30,(30,30), this)",
+"2" :  "(30,(30,30), OFF)",
+"3" :  "(30,(30,30), OFF)"}]
+}

@@ -1,0 +1,10 @@
+{
+"Class" : "com.google.javascript.jscomp.FunctionRewriter$EmptyFunctionReducer", 
+"Methods" : [{ "Name" : "reduce" ,
+"Nodes" : 4,
+"0" : [ 249 ]
+"1" : [ 252 ]
+"2" : [ 250 ]
+"3" : [  ]
+}]
+}

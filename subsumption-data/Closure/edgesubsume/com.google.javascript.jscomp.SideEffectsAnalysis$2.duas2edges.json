@@ -1,0 +1,12 @@
+{
+"Class" : "com.google.javascript.jscomp.SideEffectsAnalysis$2", 
+"Methods" : [{ "Name" : "apply" ,
+"Edges" : 9,
+"Duas" : 6,
+"0" : 4, 
+ "1" : 5, 
+ "2" : 0, 
+ "3" : 1, 
+ "4" : 6, 
+ "5" : 7}]
+}

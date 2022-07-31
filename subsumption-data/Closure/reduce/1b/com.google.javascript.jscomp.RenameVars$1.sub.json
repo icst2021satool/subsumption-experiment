@@ -1,0 +1,9 @@
+{
+"Class" : "com.google.javascript.jscomp.RenameVars$1", 
+"Methods" : [{ "Name" : "compare" ,
+"Duas" : "14" ,
+"Subsumers" : 2,
+"0" : [ 13, 11, 10, 8, 7, 4, 3, 0], "S0" : [0, 3, 4, 7, 8, 10, 11, 13 ],
+"1" : [ 12, 9, 6, 5, 2, 1], "S1" : [1, 2, 5, 6, 9, 12 ]
+}]
+}

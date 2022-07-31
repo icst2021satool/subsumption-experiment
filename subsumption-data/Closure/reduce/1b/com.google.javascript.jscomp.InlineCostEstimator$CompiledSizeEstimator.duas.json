@@ -1,0 +1,12 @@
+{
+"Class" : "com.google.javascript.jscomp.InlineCostEstimator$CompiledSizeEstimator", 
+"Methods" : [{ "Name" : "append" ,
+"Duas" : 7,
+"0" :  "(86,(88,89), this)",
+"1" :  "(86,(88,91), this)",
+"2" :  "(86,89, this)",
+"3" :  "(86,(88,89), this.maxCost)",
+"4" :  "(86,(88,91), this.maxCost)",
+"5" :  "(87,(88,89), this.cost)",
+"6" :  "(87,(88,91), this.cost)"}]
+}

@@ -1,0 +1,26 @@
+{
+"Class" : "com.google.javascript.jscomp.type.SemanticReverseAbstractInterpreter$RestrictByFalseInstanceOfResultVisitor", 
+"Methods" : [{ "Name" : "caseObjectType" ,
+"Nodes" : 8,
+"0" : [ ],
+"1" : [ 1, 2, 8, 9],
+"2" : [ 1, 2, 8, 9, 11],
+"3" : [ 1, 2, 8, 9, 10],
+"4" : [ 1, 2, 4, 5, 8, 9, 10, 13],
+"5" : [ 1, 2, 3, 8, 9, 10, 12],
+"6" : [ 0, 6, 7],
+"7" : [ ],
+"CoveredDUAsByNodes" : 14,
+"Duas" : 14
+},{ "Name" : "caseUnionType" ,
+"Nodes" : 6,
+"0" : [ ],
+"1" : [ 1, 2, 6, 7],
+"2" : [ 1, 2, 6, 7, 9],
+"3" : [ 1, 2, 3, 6, 7, 8, 10],
+"4" : [ 0, 4, 5],
+"5" : [ ],
+"CoveredDUAsByNodes" : 11,
+"Duas" : 11
+}]
+}

@@ -1,0 +1,56 @@
+{
+"Class" : "com.google.javascript.jscomp.InlineFunctions$FunctionState", 
+"Methods" : [{ "Name" : "hasExistingFunctionDefinition" ,
+"Duas" : "4" ,
+"Subsumers" : 2,
+"0" : [ 2, 0], "S0" : [0, 2 ],
+"1" : [ 3, 1], "S1" : [1, 3 ]
+},{ "Name" : "removeBlockInliningReferences" ,
+"Duas" : "8" ,
+"Subsumers" : 2,
+"0" : [ 6, 5, 0], "S0" : [0, 2, 3, 4, 5, 6 ],
+"1" : [ 7, 1], "S1" : [1, 2, 3, 4, 7 ]
+},{ "Name" : "hasBlockInliningReferences" ,
+"Duas" : "9" ,
+"Subsumers" : 3,
+"0" : [ 7, 5, 0], "S0" : [0, 2, 4, 5, 7 ],
+"1" : [ 8, 6, 1], "S1" : [1, 2, 4, 6, 8 ],
+"2" : [ 3], "S2" : [3 ]
+},{ "Name" : "setFn" ,
+"Duas" : "6" ,
+"Subsumers" : 2,
+"0" : [ 4, 0], "S0" : [0, 2, 3, 4 ],
+"1" : [ 5, 1], "S1" : [1, 2, 3, 5 ]
+},{ "Name" : "getSafeFnNode" ,
+"Duas" : "7" ,
+"Subsumers" : 2,
+"0" : [ 3, 0], "S0" : [0, 2, 3, 5, 6 ],
+"1" : [ 4, 1], "S1" : [1, 2, 4, 5, 6 ]
+},{ "Name" : "setInline" ,
+"Duas" : "4" ,
+"Subsumers" : 2,
+"0" : [ 2, 0, 1], "S0" : [0, 1, 2 ],
+"1" : [ 3], "S1" : [3 ]
+},{ "Name" : "hasReferences" ,
+"Duas" : "8" ,
+"Subsumers" : 3,
+"0" : [ 6, 2], "S0" : [0, 2, 4, 6 ],
+"1" : [ 7, 3], "S1" : [0, 3, 4, 7 ],
+"2" : [ 5, 1], "S2" : [1, 5 ]
+},{ "Name" : "getReferencesInternal" ,
+"Duas" : "6" ,
+"Subsumers" : 2,
+"0" : [ 3, 0], "S0" : [0, 3 ],
+"1" : [ 5, 4, 2, 1], "S1" : [1, 2, 4, 5 ]
+},{ "Name" : "addReference" ,
+"Duas" : "10" ,
+"Subsumers" : 2,
+"0" : [ 9, 5, 3, 0], "S0" : [0, 2, 3, 4, 5, 8, 9 ],
+"1" : [ 7, 6, 1], "S1" : [1, 2, 4, 6, 7, 8 ]
+},{ "Name" : "getNamesToAlias" ,
+"Duas" : "6" ,
+"Subsumers" : 2,
+"0" : [ 3, 0], "S0" : [0, 3 ],
+"1" : [ 5, 4, 2, 1], "S1" : [1, 2, 4, 5 ]
+}]
+}

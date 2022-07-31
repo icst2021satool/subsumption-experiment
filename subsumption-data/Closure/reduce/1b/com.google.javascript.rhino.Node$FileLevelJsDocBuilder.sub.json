@@ -1,0 +1,11 @@
+{
+"Class" : "com.google.javascript.rhino.Node$FileLevelJsDocBuilder", 
+"Methods" : [{ "Name" : "append" ,
+"Duas" : "15" ,
+"Subsumers" : 4,
+"0" : [ 9, 10, 8, 3], "S0" : [0, 1, 2, 3, 8, 9, 10 ],
+"1" : [ 6, 7, 5, 4], "S1" : [0, 1, 2, 4, 5, 6, 7 ],
+"2" : [ 14, 11], "S2" : [0, 1, 2, 11, 14 ],
+"3" : [ 13, 12], "S3" : [0, 1, 2, 12, 13 ]
+}]
+}

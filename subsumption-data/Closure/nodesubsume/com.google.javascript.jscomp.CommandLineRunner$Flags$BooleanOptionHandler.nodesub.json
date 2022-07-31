@@ -1,0 +1,17 @@
+{
+"Class" : "com.google.javascript.jscomp.CommandLineRunner$Flags$BooleanOptionHandler", 
+"Methods" : [{ "Name" : "parseArguments" ,
+"Nodes" : 9,
+"0" : [ ],
+"1" : [ 13, 14],
+"2" : [ 16, 9, 13, 14],
+"3" : [ 0, 16, 18, 4, 9, 11, 13, 14],
+"4" : [ 16, 1, 17, 5, 9, 10, 13, 14],
+"6" : [ 2, 6, 8, 13, 14, 15],
+"5" : [ 13, 14],
+"7" : [ 3, 7, 12],
+"8" : [ ],
+"CoveredDUAsByNodes" : 19,
+"Duas" : 19
+}]
+}

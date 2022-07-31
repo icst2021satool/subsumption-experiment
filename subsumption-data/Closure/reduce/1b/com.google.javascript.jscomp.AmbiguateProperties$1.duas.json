@@ -1,0 +1,21 @@
+{
+"Class" : "com.google.javascript.jscomp.AmbiguateProperties$1", 
+"Methods" : [{ "Name" : "compare" ,
+"Duas" : 16,
+"0" :  "(105,(105,106), p1)",
+"1" :  "(105,(105,108), p1)",
+"2" :  "(105,108, p1)",
+"3" :  "(105,106, p1)",
+"4" :  "(105,(105,106), p2)",
+"5" :  "(105,(105,108), p2)",
+"6" :  "(105,108, p2)",
+"7" :  "(105,106, p2)",
+"8" :  "(105,(105,106), p2.numOccurrences)",
+"9" :  "(105,(105,108), p2.numOccurrences)",
+"10" :  "(105,106, p2.numOccurrences)",
+"11" :  "(105,(105,106), p1.numOccurrences)",
+"12" :  "(105,(105,108), p1.numOccurrences)",
+"13" :  "(105,106, p1.numOccurrences)",
+"14" :  "(105,108, p1.oldName)",
+"15" :  "(105,108, p2.oldName)"}]
+}

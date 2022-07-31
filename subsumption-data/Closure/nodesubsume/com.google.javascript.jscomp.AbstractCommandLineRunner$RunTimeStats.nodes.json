@@ -1,0 +1,17 @@
+{
+"Class" : "com.google.javascript.jscomp.AbstractCommandLineRunner$RunTimeStats", 
+"Methods" : [{ "Name" : "recordEndRun" ,
+"Nodes" : 4,
+"0" : [ 1557,1558,1559,1560 ]
+"1" : [ 1564 ]
+"2" : [ 1561,1562 ]
+"3" : [  ]
+},{ "Name" : "outputBestPhaseOrdering" ,
+"Nodes" : 5,
+"0" : [ 1571,1572,1574,1575 ]
+"1" : [ 1575 ]
+"2" : [ 1582,1583 ]
+"3" : [ 1575,1576,1578,1579 ]
+"4" : [  ]
+}]
+}

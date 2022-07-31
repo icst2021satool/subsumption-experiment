@@ -1,0 +1,24 @@
+{
+"Class" : "com.google.javascript.jscomp.Normalize$FindExposeAnnotations", 
+"Methods" : [{ "Name" : "visit" ,
+"Nodes" : 10,
+"0" : [ 168 ]
+"1" : [ 174 ]
+"2" : [ 177 ]
+"3" : [ 174 ]
+"4" : [ 175 ]
+"5" : [ 169,170,171 ]
+"6" : [ 174 ]
+"7" : [ 171 ]
+"8" : [ 172 ]
+"9" : [  ]
+},{ "Name" : "isMarkedExpose" ,
+"Nodes" : 6,
+"0" : [ 180,181 ]
+"1" : [ 181 ]
+"2" : [ 181 ]
+"3" : [ 181 ]
+"4" : [ 181 ]
+"5" : [  ]
+}]
+}

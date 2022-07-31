@@ -1,0 +1,21 @@
+{
+"Class" : "com.google.debugging.sourcemap.SourceMapGeneratorV2$MappingWriter", 
+"Methods" : [{ "Name" : "appendMappingTo" ,
+"Nodes" : 6,
+"0" : [ 499,501,502,504,505 ]
+"1" : [ 512,513,515,508,510 ]
+"2" : [ 520,521 ]
+"3" : [ 516,517 ]
+"4" : [ 506 ]
+"5" : [  ]
+},{ "Name" : "appendMappings" ,
+"Nodes" : 7,
+"0" : [ 527 ]
+"1" : [ 527 ]
+"2" : [ 532 ]
+"3" : [ 528,527 ]
+"4" : [ 531 ]
+"5" : [ 529 ]
+"6" : [  ]
+}]
+}

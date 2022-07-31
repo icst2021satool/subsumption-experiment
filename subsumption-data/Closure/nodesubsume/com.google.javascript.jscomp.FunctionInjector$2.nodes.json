@@ -1,0 +1,16 @@
+{
+"Class" : "com.google.javascript.jscomp.FunctionInjector$2", 
+"Methods" : [{ "Name" : "apply" ,
+"Nodes" : 10,
+"0" : [ 640 ]
+"1" : [ 643 ]
+"2" : [ 646 ]
+"3" : [ 643 ]
+"4" : [ 644 ]
+"5" : [ 644 ]
+"6" : [ 644 ]
+"7" : [ 644 ]
+"8" : [ 641 ]
+"9" : [  ]
+}]
+}

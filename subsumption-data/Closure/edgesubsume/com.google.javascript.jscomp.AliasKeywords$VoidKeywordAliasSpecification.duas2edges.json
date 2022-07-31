@@ -1,0 +1,10 @@
+{
+"Class" : "com.google.javascript.jscomp.AliasKeywords$VoidKeywordAliasSpecification", 
+"Methods" : [{ "Name" : "visit" ,
+"Edges" : 6,
+"Duas" : 7,
+"3" : 0, 
+ "4" : 1, 
+ "5" : 4, 
+ "6" : 5}]
+}

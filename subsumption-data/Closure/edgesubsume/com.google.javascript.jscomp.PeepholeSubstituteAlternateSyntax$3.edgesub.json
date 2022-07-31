@@ -1,0 +1,15 @@
+{
+"Class" : "com.google.javascript.jscomp.PeepholeSubstituteAlternateSyntax$3", 
+"Methods" : [{ "Name" : "apply" ,
+"Edges" : 7,
+"0" : [ 0],
+"1" : [ 1],
+"4" : [ 0, 2],
+"5" : [ 3],
+"2" : [ ],
+"6" : [ 0, 2],
+"3" : [ ],
+"CoveredDUAsByEdges" : 4,
+"Duas" : 4
+}]
+}

@@ -1,0 +1,12 @@
+{
+"Class" : "com.google.javascript.jscomp.InvocationsCallback", 
+"Methods" : [{ "Name" : "visit" ,
+"Edges" : 10,
+"Duas" : 13,
+"2" : 0, 
+ "3" : 1, 
+ "7" : 2, 
+ "8" : 3, 
+ "10" : 4, 
+ "11" : 5}]
+}

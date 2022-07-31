@@ -1,0 +1,12 @@
+{
+"Class" : "com.google.javascript.jscomp.ComposeWarningsGuard$GuardComparator", 
+"Methods" : [{ "Name" : "compare" ,
+"Nodes" : 4,
+"0" : [ ],
+"1" : [ 0, 1, 2, 3, 5],
+"2" : [ 4, 6],
+"3" : [ ],
+"CoveredDUAsByNodes" : 7,
+"Duas" : 7
+}]
+}

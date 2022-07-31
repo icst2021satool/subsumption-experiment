@@ -1,0 +1,15 @@
+{
+"Class" : "com.google.javascript.jscomp.OptimizeReturns$1", 
+"Methods" : [{ "Name" : "visit" ,
+"Nodes" : 9,
+"0" : [ 137 ]
+"1" : [ 150 ]
+"2" : [ 137 ]
+"3" : [ 138,140 ]
+"4" : [ 144,143 ]
+"5" : [ 148 ]
+"6" : [ 145 ]
+"7" : [ 141 ]
+"8" : [  ]
+}]
+}
