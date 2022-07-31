@@ -1,0 +1,16 @@
+{
+"Class" : "org.apache.sysds.hops.rewrite.RewriteTransientWriteParentHandling", 
+"Methods" : [{ "Name" : "rewriteHopDAGs" ,
+"Duas" : "3" ,
+"Subsumers" : 1,
+"0" : [ 2, 0], "S0" : [0, 1, 2 ]
+},{ "Name" : "rule_RehangTransientWriteParents" ,
+"Duas" : "17" ,
+"Subsumers" : 5,
+"0" : [ 14, 0], "S0" : [0, 1, 3, 5, 7, 8, 9, 10, 11, 13, 14, 15 ],
+"1" : [ 12], "S1" : [1, 3, 5, 7, 8, 9, 10, 11, 12, 13, 15 ],
+"2" : [ 6], "S2" : [1, 3, 6, 15 ],
+"3" : [ 16, 4], "S3" : [1, 4, 16 ],
+"4" : [ 2], "S4" : [2 ]
+}]
+}

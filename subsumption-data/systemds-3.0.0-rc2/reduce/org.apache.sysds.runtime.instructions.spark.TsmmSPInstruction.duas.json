@@ -1,0 +1,13 @@
+{
+"Class" : "org.apache.sysds.runtime.instructions.spark.TsmmSPInstruction", 
+"Methods" : [{ "Name" : "parseInstruction" ,
+"Duas" : 8,
+"0" :  "(47,55, str)",
+"1" :  "(47,52, parts)",
+"2" :  "(47,53, parts)",
+"3" :  "(47,54, parts)",
+"4" :  "(48,(50,51), opcode)",
+"5" :  "(48,(50,52), opcode)",
+"6" :  "(48,55, opcode)",
+"7" :  "(48,51, opcode)"}]
+}

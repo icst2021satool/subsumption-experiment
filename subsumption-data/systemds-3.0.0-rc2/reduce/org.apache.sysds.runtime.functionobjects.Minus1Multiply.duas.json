@@ -1,0 +1,15 @@
+{
+"Class" : "org.apache.sysds.runtime.functionobjects.Minus1Multiply", 
+"Methods" : [{ "Name" : "getMinus1MultiplyFnObject" ,
+"Duas" : 4,
+"0" :  "(33,(33,34), singleObj)",
+"1" :  "(33,(33,35), singleObj)",
+"2" :  "(33,35, singleObj)",
+"3" :  "(34,35, singleObj)"},{ "Name" : "execute" ,
+"Duas" : 5,
+"0" :  "(46,50, in1)",
+"1" :  "(46,50, in2)",
+"2" :  "(46,(47,48), dval)",
+"3" :  "(46,(47,50), dval)",
+"4" :  "(46,48, dval)"}]
+}

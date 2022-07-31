@@ -1,0 +1,14 @@
+{
+"Class" : "org.apache.sysds.runtime.controlprogram.paramserv.homomorphicEncryption.SEALClient", 
+"Methods" : [{ "Name" : "encrypt" ,
+"Duas" : 9,
+"0" :  "(67,75, this)",
+"1" :  "(67,75, plaintext)",
+"2" :  "(67,75, this.ctx)",
+"3" :  "(67,(68,69), mb)",
+"4" :  "(67,(68,72), mb)",
+"5" :  "(67,72, mb)",
+"6" :  "(67,74, mb)",
+"7" :  "(67,69, mb)",
+"8" :  "(67,70, mb)"}]
+}

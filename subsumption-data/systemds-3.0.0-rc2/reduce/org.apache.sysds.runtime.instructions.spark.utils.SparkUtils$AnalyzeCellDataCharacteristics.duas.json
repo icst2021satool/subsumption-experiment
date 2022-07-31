@@ -1,0 +1,9 @@
+{
+"Class" : "org.apache.sysds.runtime.instructions.spark.utils.SparkUtils$AnalyzeCellDataCharacteristics", 
+"Methods" : [{ "Name" : "call" ,
+"Duas" : 4,
+"0" :  "(313,(315,315), arg0)",
+"1" :  "(313,(315,315), arg0)",
+"2" :  "(313,316, rix)",
+"3" :  "(314,316, cix)"}]
+}

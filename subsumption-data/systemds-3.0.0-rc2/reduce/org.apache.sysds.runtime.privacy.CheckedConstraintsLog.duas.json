@@ -1,0 +1,13 @@
+{
+"Class" : "org.apache.sysds.runtime.privacy.CheckedConstraintsLog", 
+"Methods" : [{ "Name" : "addCheckedConstraints" ,
+"Duas" : 3,
+"0" :  "(49,(49,50), checkedConstraints)",
+"1" :  "(49,(49,53), checkedConstraints)",
+"2" :  "(49,50, checkedConstraints)"},{ "Name" : "addLoadedConstraint" ,
+"Duas" : 4,
+"0" :  "(60,(60,61), level)",
+"1" :  "(60,(60,62), level)",
+"2" :  "(60,61, level)",
+"3" :  "(60,61, loadedConstraintsTotal)"}]
+}

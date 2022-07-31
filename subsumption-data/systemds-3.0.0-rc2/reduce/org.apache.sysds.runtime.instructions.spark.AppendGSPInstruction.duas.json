@@ -1,0 +1,16 @@
+{
+"Class" : "org.apache.sysds.runtime.instructions.spark.AppendGSPInstruction", 
+"Methods" : [{ "Name" : "parseInstruction" ,
+"Duas" : 11,
+"0" :  "(53,68, str)",
+"1" :  "(53,65, str)",
+"2" :  "(56,(64,65), opcode)",
+"3" :  "(56,(64,67), opcode)",
+"4" :  "(56,68, opcode)",
+"5" :  "(57,68, in1)",
+"6" :  "(58,68, in2)",
+"7" :  "(59,68, in3)",
+"8" :  "(60,68, in4)",
+"9" :  "(61,68, out)",
+"10" :  "(62,68, cbind)"}]
+}

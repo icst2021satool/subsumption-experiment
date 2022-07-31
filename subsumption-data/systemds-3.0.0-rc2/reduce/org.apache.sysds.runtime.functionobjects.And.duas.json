@@ -1,0 +1,19 @@
+{
+"Class" : "org.apache.sysds.runtime.functionobjects.And", 
+"Methods" : [{ "Name" : "getAndFnObject" ,
+"Duas" : 4,
+"0" :  "(33,(33,34), singleObj)",
+"1" :  "(33,(33,35), singleObj)",
+"2" :  "(33,35, singleObj)",
+"3" :  "(34,35, singleObj)"},{ "Name" : "execute" ,
+"Duas" : 4,
+"0" :  "(40,(40,40), in1)",
+"1" :  "(40,(40,40), in1)",
+"2" :  "(40,(40,40), in2)",
+"3" :  "(40,(40,40), in2)"},{ "Name" : "execute" ,
+"Duas" : 4,
+"0" :  "(45,(45,45), in1)",
+"1" :  "(45,(45,45), in1)",
+"2" :  "(45,(45,45), in2)",
+"3" :  "(45,(45,45), in2)"}]
+}

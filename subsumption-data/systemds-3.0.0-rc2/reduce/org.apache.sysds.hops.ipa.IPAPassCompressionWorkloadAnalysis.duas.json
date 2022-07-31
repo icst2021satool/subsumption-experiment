@@ -1,0 +1,23 @@
+{
+"Class" : "org.apache.sysds.hops.ipa.IPAPassCompressionWorkloadAnalysis", 
+"Methods" : [{ "Name" : "isApplicable" ,
+"Duas" : 2,
+"0" :  "(45,(45,45), WORKLOAD)",
+"1" :  "(45,(45,45), WORKLOAD)"},{ "Name" : "rewriteProgram" ,
+"Duas" : 15,
+"0" :  "(53,(66,67), LOG)",
+"1" :  "(53,(66,68), LOG)",
+"2" :  "(53,(68,69), LOG)",
+"3" :  "(53,(68,70), LOG)",
+"4" :  "(53,69, LOG)",
+"5" :  "(53,67, LOG)",
+"6" :  "(56,(72,72), map)",
+"7" :  "(56,(72,72), map)",
+"8" :  "(60,69, tree)",
+"9" :  "(60,67, tree)",
+"10" :  "(60,65, tree)",
+"11" :  "(61,69, b)",
+"12" :  "(61,67, b)",
+"13" :  "(62,(64,65), shouldCompress)",
+"14" :  "(62,(64,66), shouldCompress)"}]
+}

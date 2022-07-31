@@ -1,0 +1,10 @@
+{
+"Class" : "org.apache.sysds.runtime.controlprogram.paramserv.FederatedPSControlThread$SetupHEFederatedWorker", 
+"Methods" : [{ "Name" : "execute" ,
+"Duas" : 5,
+"0" :  "(306,317, SUCCESS)",
+"1" :  "(310,317, partial_pubkey)",
+"2" :  "(312,(313,314), res)",
+"3" :  "(312,(313,317), res)",
+"4" :  "(312,314, res)"}]
+}

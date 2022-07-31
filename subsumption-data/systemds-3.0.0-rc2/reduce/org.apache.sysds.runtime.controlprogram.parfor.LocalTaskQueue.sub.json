@@ -1,0 +1,14 @@
+{
+"Class" : "org.apache.sysds.runtime.controlprogram.parfor.LocalTaskQueue", 
+"Methods" : [{ "Name" : "enqueueTask" ,
+"Duas" : "10" ,
+"Subsumers" : 0 
+},{ "Name" : "dequeueTask" ,
+"Duas" : "13" ,
+"Subsumers" : 0 
+},{ "Name" : "toString" ,
+"Duas" : "10" ,
+"Subsumers" : 1,
+"0" : [ 8, 9], "S0" : [0, 1, 2, 3, 4, 5, 6, 7, 8, 9 ]
+}]
+}

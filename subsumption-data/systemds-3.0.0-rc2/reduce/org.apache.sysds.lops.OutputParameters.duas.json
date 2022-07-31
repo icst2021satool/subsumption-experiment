@@ -1,0 +1,21 @@
+{
+"Class" : "org.apache.sysds.lops.OutputParameters", 
+"Methods" : [{ "Name" : "setDimensions" ,
+"Duas" : 16,
+"0" :  "(72,(78,78), this)",
+"1" :  "(72,(78,79), this)",
+"2" :  "(72,79, this)",
+"3" :  "(72,(78,79), this)",
+"4" :  "(72,(78,81), this)",
+"5" :  "(72,(81,82), this)",
+"6" :  "(72,(81,85), this)",
+"7" :  "(72,85, this)",
+"8" :  "(72,82, this)",
+"9" :  "(75,(78,78), this._blocksize)",
+"10" :  "(75,(78,79), this._blocksize)",
+"11" :  "(75,(78,79), this._blocksize)",
+"12" :  "(75,(78,81), this._blocksize)",
+"13" :  "(75,(81,82), this._blocksize)",
+"14" :  "(75,(81,85), this._blocksize)",
+"15" :  "(75,85, this._blocksize)"}]
+}

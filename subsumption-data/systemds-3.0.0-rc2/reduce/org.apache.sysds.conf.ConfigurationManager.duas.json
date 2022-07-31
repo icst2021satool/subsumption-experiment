@@ -1,0 +1,12 @@
+{
+"Class" : "org.apache.sysds.conf.ConfigurationManager", 
+"Methods" : [{ "Name" : "getCompilerConfigFlag" ,
+"Duas" : 4,
+"0" :  "(149,150, key)",
+"1" :  "(149,(150,150), cconf)",
+"2" :  "(149,(150,150), cconf)",
+"3" :  "(149,150, cconf)"},{ "Name" : "isCodegenEnabled" ,
+"Duas" : 2,
+"0" :  "(197,(198,198), CODEGEN_ENABLED)",
+"1" :  "(197,(198,198), CODEGEN_ENABLED)"}]
+}

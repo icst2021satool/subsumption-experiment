@@ -1,0 +1,13 @@
+{
+"Class" : "org.apache.sysds.runtime.lineage.LineageCacheConfig$LineageCacheStatus", 
+"Methods" : [{ "Name" : "canEvict" ,
+"Duas" : 8,
+"0" :  "(132,(132,132), this)",
+"1" :  "(132,(132,132), this)",
+"2" :  "(132,(132,132), this)",
+"3" :  "(132,(132,132), this)",
+"4" :  "(132,(132,132), CACHED)",
+"5" :  "(132,(132,132), CACHED)",
+"6" :  "(132,(132,132), RELOADED)",
+"7" :  "(132,(132,132), RELOADED)"}]
+}

@@ -1,0 +1,12 @@
+{
+"Class" : "org.apache.sysds.runtime.compress.cost.DistinctCostEstimator", 
+"Methods" : [{ "Name" : "getCostSafe" ,
+"Duas" : 7,
+"0" :  "(46,(47,47), this)",
+"1" :  "(46,(47,47), this)",
+"2" :  "(46,(47,47), this.largestDistinct)",
+"3" :  "(46,(47,47), this.largestDistinct)",
+"4" :  "(46,(47,47), nVals)",
+"5" :  "(46,(47,47), nVals)",
+"6" :  "(46,47, nVals)"}]
+}

@@ -1,0 +1,14 @@
+{
+"Class" : "org.apache.sysds.parser.dml.DmlParser$PowerExpressionContext", 
+"Methods" : [{ "Name" : "enterRule" ,
+"Duas" : 4,
+"0" :  "(2131,2131, this)",
+"1" :  "(2131,(2131,2131), listener)",
+"2" :  "(2131,(2131,2132), listener)",
+"3" :  "(2131,2131, listener)"},{ "Name" : "exitRule" ,
+"Duas" : 4,
+"0" :  "(2135,2135, this)",
+"1" :  "(2135,(2135,2135), listener)",
+"2" :  "(2135,(2135,2136), listener)",
+"3" :  "(2135,2135, listener)"}]
+}

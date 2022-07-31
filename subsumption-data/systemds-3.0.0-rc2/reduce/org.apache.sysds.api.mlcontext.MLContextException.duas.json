@@ -1,0 +1,20 @@
+{
+"Class" : "org.apache.sysds.api.mlcontext.MLContextException", 
+"Methods" : [{ "Name" : "<init>" ,
+"Duas" : 8,
+"0" :  "(59,59, this)",
+"1" :  "(59,30, this)",
+"2" :  "(59,60, this)",
+"3" :  "(59,59, message)",
+"4" :  "(59,(59,59), suppressStacktrace)",
+"5" :  "(59,(59,59), suppressStacktrace)",
+"6" :  "(59,59, suppressStacktrace)",
+"7" :  "(59,60, suppressStacktrace)"},{ "Name" : "toString" ,
+"Duas" : 6,
+"0" :  "(65,(65,66), this)",
+"1" :  "(65,(65,67), this)",
+"2" :  "(65,67, this)",
+"3" :  "(65,66, this)",
+"4" :  "(65,(65,66), this.suppressStacktrace)",
+"5" :  "(65,(65,67), this.suppressStacktrace)"}]
+}

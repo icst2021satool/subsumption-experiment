@@ -1,0 +1,10 @@
+{
+"Class" : "org.apache.sysds.parser.ParForStatementBlock$ResultVar", 
+"Methods" : [{ "Name" : "equals" ,
+"Duas" : 5,
+"0" :  "(1843,1845, this)",
+"1" :  "(1843,(1843,1844), that)",
+"2" :  "(1843,(1843,1844), that)",
+"3" :  "(1843,1844, that)",
+"4" :  "(1843,1845, this._name)"}]
+}

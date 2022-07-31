@@ -1,0 +1,13 @@
+{
+"Class" : "org.apache.sysds.lops.MapMultChain$ChainType", 
+"Methods" : [{ "Name" : "isWeighted" ,
+"Duas" : 8,
+"0" :  "(40,(40,40), this)",
+"1" :  "(40,(40,40), this)",
+"2" :  "(40,(40,40), this)",
+"3" :  "(40,(40,40), this)",
+"4" :  "(40,(40,40), XtwXv)",
+"5" :  "(40,(40,40), XtwXv)",
+"6" :  "(40,(40,40), XtXvy)",
+"7" :  "(40,(40,40), XtXvy)"}]
+}

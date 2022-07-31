@@ -1,0 +1,23 @@
+{
+"Class" : "org.apache.sysds.runtime.io.TensorReaderBinaryBlockParallel$ReadFileTask", 
+"Methods" : [{ "Name" : "call" ,
+"Duas" : 18,
+"0" :  "(93,102, this)",
+"1" :  "(93,104, this)",
+"2" :  "(93,105, this)",
+"3" :  "(93,102, this._dims)",
+"4" :  "(93,104, this._blen)",
+"5" :  "(93,105, this._dest)",
+"6" :  "(93,(99,100), value)",
+"7" :  "(93,(99,107), value)",
+"8" :  "(93,(100,101), value)",
+"9" :  "(93,(100,102), value)",
+"10" :  "(93,104, value)",
+"11" :  "(93,105, value)",
+"12" :  "(94,(99,100), key)",
+"13" :  "(94,(99,107), key)",
+"14" :  "(94,104, key)",
+"15" :  "(96,(99,100), reader)",
+"16" :  "(96,(99,107), reader)",
+"17" :  "(96,107, reader)"}]
+}

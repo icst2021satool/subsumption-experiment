@@ -1,0 +1,8 @@
+{
+"Class" : "org.apache.sysds.runtime.controlprogram.parfor.DataPartitionerRemoteSparkReducer", 
+"Methods" : [{ "Name" : "call" ,
+"Duas" : "5" ,
+"Subsumers" : 1,
+"0" : [ 4, 2, 0], "S0" : [0, 1, 2, 3, 4 ]
+}]
+}

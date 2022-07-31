@@ -1,0 +1,21 @@
+{
+"Class" : "org.apache.sysds.runtime.transform.encode.ColumnEncoderDummycode$DummycodeSparseApplyTask", 
+"Methods" : [{ "Name" : "call" ,
+"Duas" : 16,
+"0" :  "(287,(288,289), this)",
+"1" :  "(287,(288,290), this)",
+"2" :  "(287,290, this)",
+"3" :  "(287,(287,287), STATISTICS)",
+"4" :  "(287,(287,287), STATISTICS)",
+"5" :  "(287,(291,292), STATISTICS)",
+"6" :  "(287,(291,293), STATISTICS)",
+"7" :  "(287,(288,289), this._out)",
+"8" :  "(287,(288,290), this._out)",
+"9" :  "(287,290, this._out)",
+"10" :  "(287,290, this._encoder)",
+"11" :  "(287,290, this._input)",
+"12" :  "(287,290, this._outputCol)",
+"13" :  "(287,290, this._startRow)",
+"14" :  "(287,290, this._blk)",
+"15" :  "(287,292, t0)"}]
+}

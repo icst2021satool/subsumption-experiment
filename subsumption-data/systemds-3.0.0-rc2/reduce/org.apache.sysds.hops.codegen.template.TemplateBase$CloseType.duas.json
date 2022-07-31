@@ -1,0 +1,22 @@
+{
+"Class" : "org.apache.sysds.hops.codegen.template.TemplateBase$CloseType", 
+"Methods" : [{ "Name" : "isClosed" ,
+"Duas" : 8,
+"0" :  "(50,(50,50), this)",
+"1" :  "(50,(50,50), this)",
+"2" :  "(50,(50,50), this)",
+"3" :  "(50,(50,50), this)",
+"4" :  "(50,(50,50), CLOSED_VALID)",
+"5" :  "(50,(50,50), CLOSED_VALID)",
+"6" :  "(50,(50,50), CLOSED_INVALID)",
+"7" :  "(50,(50,50), CLOSED_INVALID)"},{ "Name" : "isValid" ,
+"Duas" : 8,
+"0" :  "(53,(53,53), this)",
+"1" :  "(53,(53,53), this)",
+"2" :  "(53,(53,53), this)",
+"3" :  "(53,(53,53), this)",
+"4" :  "(53,(53,53), CLOSED_VALID)",
+"5" :  "(53,(53,53), CLOSED_VALID)",
+"6" :  "(53,(53,53), OPEN_VALID)",
+"7" :  "(53,(53,53), OPEN_VALID)"}]
+}

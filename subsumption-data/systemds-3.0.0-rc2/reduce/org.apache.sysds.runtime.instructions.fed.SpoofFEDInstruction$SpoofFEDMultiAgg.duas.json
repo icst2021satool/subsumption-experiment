@@ -1,0 +1,21 @@
+{
+"Class" : "org.apache.sysds.runtime.instructions.fed.SpoofFEDInstruction$SpoofFEDMultiAgg", 
+"Methods" : [{ "Name" : "aggResult" ,
+"Duas" : 16,
+"0" :  "(383,388, this)",
+"1" :  "(383,388, ec)",
+"2" :  "(383,388, this._output)",
+"3" :  "(383,(385,386), partRes)",
+"4" :  "(383,(385,388), partRes)",
+"5" :  "(383,388, partRes)",
+"6" :  "(383,386, partRes)",
+"7" :  "(384,386, aggOps)",
+"8" :  "(385,(385,386), counter)",
+"9" :  "(385,(385,388), counter)",
+"10" :  "(385,386, counter)",
+"11" :  "(385,385, counter)",
+"12" :  "(385,(385,386), counter)",
+"13" :  "(385,(385,388), counter)",
+"14" :  "(385,386, counter)",
+"15" :  "(385,385, counter)"}]
+}

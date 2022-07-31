@@ -1,0 +1,16 @@
+{
+"Class" : "org.apache.sysds.hops.codegen.opt.PlanSelectionFuseCostBasedV2$CostVector", 
+"Methods" : [{ "Name" : "getMaxInputSizeHopID" ,
+"Duas" : "10" ,
+"Subsumers" : 4,
+"0" : [ 0], "S0" : [0 ],
+"1" : [ 8], "S1" : [1, 3, 5, 6, 7, 8 ],
+"2" : [ 9], "S2" : [1, 3, 4, 5, 6, 7, 9 ],
+"3" : [ 2], "S3" : [2, 4 ]
+},{ "Name" : "lambda$getSideInputSize$1" ,
+"Duas" : "4" ,
+"Subsumers" : 2,
+"0" : [ 2, 0], "S0" : [0, 2 ],
+"1" : [ 3, 1], "S1" : [1, 3 ]
+}]
+}

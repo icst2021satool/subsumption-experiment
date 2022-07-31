@@ -1,0 +1,10 @@
+{
+"Class" : "org.apache.sysds.runtime.instructions.spark.MatrixIndexingSPInstruction$SliceBlockPartitionFunction$SliceBlockPartitionIterator", 
+"Methods" : [{ "Name" : "computeNext" ,
+"Duas" : "5" ,
+"Subsumers" : 3,
+"0" : [ 3], "S0" : [0, 3 ],
+"1" : [ 4], "S1" : [0, 2, 4 ],
+"2" : [ 1], "S2" : [1, 2 ]
+}]
+}

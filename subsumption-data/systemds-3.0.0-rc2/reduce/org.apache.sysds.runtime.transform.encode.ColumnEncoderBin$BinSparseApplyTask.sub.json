@@ -1,0 +1,12 @@
+{
+"Class" : "org.apache.sysds.runtime.transform.encode.ColumnEncoderBin$BinSparseApplyTask", 
+"Methods" : [{ "Name" : "call" ,
+"Duas" : "16" ,
+"Subsumers" : 5,
+"0" : [ 7, 0], "S0" : [0, 7 ],
+"1" : [ 15, 5], "S1" : [1, 2, 5, 8, 9, 10, 11, 12, 13, 14, 15 ],
+"2" : [ 6], "S2" : [1, 2, 6, 8, 9, 10, 11, 12, 13, 14 ],
+"3" : [ 3], "S3" : [3 ],
+"4" : [ 4], "S4" : [4 ]
+}]
+}

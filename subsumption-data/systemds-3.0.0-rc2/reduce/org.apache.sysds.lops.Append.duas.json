@@ -1,0 +1,14 @@
+{
+"Class" : "org.apache.sysds.lops.Append", 
+"Methods" : [{ "Name" : "getInstructions" ,
+"Duas" : 9,
+"0" :  "(62,(70,71), this)",
+"1" :  "(62,(70,72), this)",
+"2" :  "(62,71, this)",
+"3" :  "(62,(70,71), FED)",
+"4" :  "(62,(70,72), FED)",
+"5" :  "(62,71, this._fedOutput)",
+"6" :  "(62,72, ret)",
+"7" :  "(62,71, ret)",
+"8" :  "(71,72, ret)"}]
+}

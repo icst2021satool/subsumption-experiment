@@ -1,0 +1,9 @@
+{
+"Class" : "org.apache.sysds.runtime.iogen.GenerateReader", 
+"Methods" : [{ "Name" : "<init>" ,
+"Duas" : 4,
+"0" :  "(46,(48,48), sampleProperties)",
+"1" :  "(46,(48,49), sampleProperties)",
+"2" :  "(46,50, sampleProperties)",
+"3" :  "(46,49, sampleProperties)"}]
+}

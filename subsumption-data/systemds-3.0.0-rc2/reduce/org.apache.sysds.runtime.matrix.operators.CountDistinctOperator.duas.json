@@ -1,0 +1,18 @@
+{
+"Class" : "org.apache.sysds.runtime.matrix.operators.CountDistinctOperator", 
+"Methods" : [{ "Name" : "<init>" ,
+"Duas" : 13,
+"0" :  "(37,43, this)",
+"1" :  "(37,48, this)",
+"2" :  "(37,40, this)",
+"3" :  "(37,(38,46), opType)",
+"4" :  "(37,(38,40), opType)",
+"5" :  "(37,(38,43), opType)",
+"6" :  "(37,46, opType)",
+"7" :  "(37,(38,46), $SwitchMap$org$apache$sysds$runtime$instructions$cp$AggregateUnaryCPInstruction$AUType)",
+"8" :  "(37,(38,40), $SwitchMap$org$apache$sysds$runtime$instructions$cp$AggregateUnaryCPInstruction$AUType)",
+"9" :  "(37,(38,43), $SwitchMap$org$apache$sysds$runtime$instructions$cp$AggregateUnaryCPInstruction$AUType)",
+"10" :  "(37,40, COUNT)",
+"11" :  "(37,43, KMV)",
+"12" :  "(37,48, LinearHash)"}]
+}

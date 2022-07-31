@@ -1,0 +1,17 @@
+{
+"Class" : "org.apache.sysds.runtime.controlprogram.parfor.opt.OptNode$NodeType", 
+"Methods" : [{ "Name" : "isLoop" ,
+"Duas" : 12,
+"0" :  "(52,(52,52), this)",
+"1" :  "(52,(52,52), this)",
+"2" :  "(52,(52,52), this)",
+"3" :  "(52,(52,52), this)",
+"4" :  "(52,(52,52), this)",
+"5" :  "(52,(52,52), this)",
+"6" :  "(52,(52,52), WHILE)",
+"7" :  "(52,(52,52), WHILE)",
+"8" :  "(52,(52,52), FOR)",
+"9" :  "(52,(52,52), FOR)",
+"10" :  "(52,(52,52), PARFOR)",
+"11" :  "(52,(52,52), PARFOR)"}]
+}

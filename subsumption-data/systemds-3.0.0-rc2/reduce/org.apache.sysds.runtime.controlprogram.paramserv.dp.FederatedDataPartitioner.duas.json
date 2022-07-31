@@ -1,0 +1,23 @@
+{
+"Class" : "org.apache.sysds.runtime.controlprogram.paramserv.dp.FederatedDataPartitioner", 
+"Methods" : [{ "Name" : "<init>" ,
+"Duas" : 18,
+"0" :  "(30,46, this)",
+"1" :  "(30,43, this)",
+"2" :  "(30,40, this)",
+"3" :  "(30,37, this)",
+"4" :  "(30,34, this)",
+"5" :  "(30,(32,49), scheme)",
+"6" :  "(30,(32,34), scheme)",
+"7" :  "(30,(32,37), scheme)",
+"8" :  "(30,(32,40), scheme)",
+"9" :  "(30,(32,43), scheme)",
+"10" :  "(30,(32,46), scheme)",
+"11" :  "(30,49, scheme)",
+"12" :  "(30,(32,49), $SwitchMap$org$apache$sysds$parser$Statement$FederatedPSScheme)",
+"13" :  "(30,(32,34), $SwitchMap$org$apache$sysds$parser$Statement$FederatedPSScheme)",
+"14" :  "(30,(32,37), $SwitchMap$org$apache$sysds$parser$Statement$FederatedPSScheme)",
+"15" :  "(30,(32,40), $SwitchMap$org$apache$sysds$parser$Statement$FederatedPSScheme)",
+"16" :  "(30,(32,43), $SwitchMap$org$apache$sysds$parser$Statement$FederatedPSScheme)",
+"17" :  "(30,(32,46), $SwitchMap$org$apache$sysds$parser$Statement$FederatedPSScheme)"}]
+}

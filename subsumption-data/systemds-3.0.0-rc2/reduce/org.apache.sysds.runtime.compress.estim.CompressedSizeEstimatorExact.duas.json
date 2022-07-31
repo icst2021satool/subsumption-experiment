@@ -1,0 +1,12 @@
+{
+"Class" : "org.apache.sysds.runtime.compress.estim.CompressedSizeEstimatorExact", 
+"Methods" : [{ "Name" : "getColGroupInfo" ,
+"Duas" : 7,
+"0" :  "(38,41, this)",
+"1" :  "(38,40, this)",
+"2" :  "(38,41, colIndexes)",
+"3" :  "(38,40, colIndexes)",
+"4" :  "(38,(39,40), map)",
+"5" :  "(38,(39,41), map)",
+"6" :  "(38,41, map)"}]
+}

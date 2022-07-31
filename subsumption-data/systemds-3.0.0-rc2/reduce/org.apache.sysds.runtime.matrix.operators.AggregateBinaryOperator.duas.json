@@ -1,0 +1,20 @@
+{
+"Class" : "org.apache.sysds.runtime.matrix.operators.AggregateBinaryOperator", 
+"Methods" : [{ "Name" : "<init>" ,
+"Duas" : 15,
+"0" :  "(40,40, this)",
+"1" :  "(40,41, this)",
+"2" :  "(40,42, this)",
+"3" :  "(40,43, this)",
+"4" :  "(40,(40,40), inner)",
+"5" :  "(40,(40,40), inner)",
+"6" :  "(40,41, inner)",
+"7" :  "(40,42, outer)",
+"8" :  "(40,(40,40), outer)",
+"9" :  "(40,(40,40), outer)",
+"10" :  "(40,43, numThreads)",
+"11" :  "(40,(40,40), outer.increOp)",
+"12" :  "(40,(40,40), outer.increOp)",
+"13" :  "(40,(40,40), outer.fn)",
+"14" :  "(40,(40,40), outer.fn)"}]
+}

@@ -1,0 +1,15 @@
+{
+"Class" : "org.apache.sysds.runtime.functionobjects.Plus", 
+"Methods" : [{ "Name" : "getPlusFnObject" ,
+"Duas" : 4,
+"0" :  "(35,(35,36), singleObj)",
+"1" :  "(35,(35,37), singleObj)",
+"2" :  "(35,37, singleObj)",
+"3" :  "(36,37, singleObj)"},{ "Name" : "execute" ,
+"Duas" : 5,
+"0" :  "(48,52, in1)",
+"1" :  "(48,52, in2)",
+"2" :  "(48,(49,50), dval)",
+"3" :  "(48,(49,52), dval)",
+"4" :  "(48,50, dval)"}]
+}

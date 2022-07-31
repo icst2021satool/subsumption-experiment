@@ -1,0 +1,19 @@
+{
+"Class" : "org.apache.sysds.parser.dml.DmlPreprocessor", 
+"Methods" : [{ "Name" : "validateFunctionName" ,
+"Duas" : 14,
+"0" :  "(115,(115,116), this)",
+"1" :  "(115,(115,119), this)",
+"2" :  "(115,119, this)",
+"3" :  "(115,116, this)",
+"4" :  "(115,(115,116), name)",
+"5" :  "(115,(115,119), name)",
+"6" :  "(115,119, name)",
+"7" :  "(115,116, name)",
+"8" :  "(115,119, ctx)",
+"9" :  "(115,(115,116), this.functions)",
+"10" :  "(115,(115,119), this.functions)",
+"11" :  "(115,116, this.functions)",
+"12" :  "(115,119, this.errorListener)",
+"13" :  "(115,119, ctx.start)"}]
+}

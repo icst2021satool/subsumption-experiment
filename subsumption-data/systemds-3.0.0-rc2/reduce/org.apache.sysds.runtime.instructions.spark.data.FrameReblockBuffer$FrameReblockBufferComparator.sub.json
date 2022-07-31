@@ -1,0 +1,14 @@
+{
+"Class" : "org.apache.sysds.runtime.instructions.spark.data.FrameReblockBuffer$FrameReblockBufferComparator", 
+"Methods" : [{ "Name" : "compare" ,
+"Duas" : "20" ,
+"Subsumers" : 7,
+"0" : [ 18, 8], "S0" : [0, 2, 8, 10, 12, 18 ],
+"1" : [ 19, 9], "S1" : [0, 2, 9, 10, 12, 19 ],
+"2" : [ 13, 3], "S2" : [0, 3, 10, 13 ],
+"3" : [ 16, 6], "S3" : [0, 4, 6, 10, 14, 16 ],
+"4" : [ 17, 7], "S4" : [0, 4, 7, 10, 14, 17 ],
+"5" : [ 15, 5], "S5" : [0, 5, 10, 15 ],
+"6" : [ 11, 1], "S6" : [1, 11 ]
+}]
+}

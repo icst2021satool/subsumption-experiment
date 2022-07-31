@@ -1,0 +1,17 @@
+{
+"Class" : "org.apache.sysds.runtime.matrix.data.DoublePrecisionCudaSupportFunctions", 
+"Methods" : [{ "Name" : "deviceToHost" ,
+"Duas" : 12,
+"0" :  "(164,169, gCtx)",
+"1" :  "(164,(164,165), src)",
+"2" :  "(164,(164,166), src)",
+"3" :  "(164,171, src)",
+"4" :  "(164,169, src)",
+"5" :  "(164,(166,167), dest)",
+"6" :  "(164,(166,168), dest)",
+"7" :  "(164,171, dest)",
+"8" :  "(164,169, dest)",
+"9" :  "(164,(168,169), LOG)",
+"10" :  "(164,(168,171), LOG)",
+"11" :  "(164,169, LOG)"}]
+}

@@ -1,0 +1,17 @@
+{
+"Class" : "org.apache.sysds.runtime.instructions.spark.CumulativeOffsetSPInstruction$RDDCumSplitLookupFunction", 
+"Methods" : [{ "Name" : "call" ,
+"Duas" : 12,
+"0" :  "(194,203, this)",
+"1" :  "(194,202, this)",
+"2" :  "(194,202, this._initValue)",
+"3" :  "(194,203, this._pbc)",
+"4" :  "(194,(202,202), ixIn)",
+"5" :  "(194,(202,203), ixIn)",
+"6" :  "(194,203, ixIn)",
+"7" :  "(194,204, ixIn)",
+"8" :  "(195,204, blkIn)",
+"9" :  "(195,202, blkIn)",
+"10" :  "(198,203, brix)",
+"11" :  "(199,203, rix)"}]
+}

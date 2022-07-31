@@ -1,0 +1,9 @@
+{
+"Class" : "org.apache.sysds.hops.codegen.SpoofCompiler$GeneratorAPI", 
+"Methods" : [{ "Name" : "isJava" ,
+"Duas" : 4,
+"0" :  "(154,(154,154), this)",
+"1" :  "(154,(154,154), this)",
+"2" :  "(154,(154,154), JAVA)",
+"3" :  "(154,(154,154), JAVA)"}]
+}

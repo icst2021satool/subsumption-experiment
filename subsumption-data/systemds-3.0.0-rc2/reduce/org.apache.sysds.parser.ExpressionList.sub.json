@@ -1,0 +1,20 @@
+{
+"Class" : "org.apache.sysds.parser.ExpressionList", 
+"Methods" : [{ "Name" : "validateExpression" ,
+"Duas" : "3" ,
+"Subsumers" : 1,
+"0" : [ 2, 1, 0], "S0" : [0, 1, 2 ]
+},{ "Name" : "variablesRead" ,
+"Duas" : "2" ,
+"Subsumers" : 1,
+"0" : [ 1], "S0" : [0, 1 ]
+},{ "Name" : "variablesUpdated" ,
+"Duas" : "2" ,
+"Subsumers" : 1,
+"0" : [ 1], "S0" : [0, 1 ]
+},{ "Name" : "toString" ,
+"Duas" : "3" ,
+"Subsumers" : 1,
+"0" : [ 2], "S0" : [0, 1, 2 ]
+}]
+}

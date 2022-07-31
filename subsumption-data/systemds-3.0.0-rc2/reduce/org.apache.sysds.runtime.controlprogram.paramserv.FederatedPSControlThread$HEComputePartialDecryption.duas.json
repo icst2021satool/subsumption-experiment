@@ -1,0 +1,16 @@
+{
+"Class" : "org.apache.sysds.runtime.controlprogram.paramserv.FederatedPSControlThread$HEComputePartialDecryption", 
+"Methods" : [{ "Name" : "execute" ,
+"Duas" : 11,
+"0" :  "(751,752, this)",
+"1" :  "(751,753, this)",
+"2" :  "(751,753, ec)",
+"3" :  "(751,(751,751), STATISTICS)",
+"4" :  "(751,(751,751), STATISTICS)",
+"5" :  "(751,752, this._encrypted_sum)",
+"6" :  "(751,759, SUCCESS)",
+"7" :  "(751,(756,757), tPartialDecrypt)",
+"8" :  "(751,(756,759), tPartialDecrypt)",
+"9" :  "(751,757, tPartialDecrypt)",
+"10" :  "(752,759, result)"}]
+}

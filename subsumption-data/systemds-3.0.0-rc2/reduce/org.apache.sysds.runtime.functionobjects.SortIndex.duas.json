@@ -1,0 +1,12 @@
+{
+"Class" : "org.apache.sysds.runtime.functionobjects.SortIndex", 
+"Methods" : [{ "Name" : "computeDimension" ,
+"Duas" : 7,
+"0" :  "(65,(65,65), this)",
+"1" :  "(65,(65,65), this)",
+"2" :  "(65,65, row)",
+"3" :  "(65,65, col)",
+"4" :  "(65,65, retDim)",
+"5" :  "(65,(65,65), this._ixreturn)",
+"6" :  "(65,(65,65), this._ixreturn)"}]
+}

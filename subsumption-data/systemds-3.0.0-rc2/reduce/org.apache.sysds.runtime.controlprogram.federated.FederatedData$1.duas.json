@@ -1,0 +1,23 @@
+{
+"Class" : "org.apache.sysds.runtime.controlprogram.federated.FederatedData$1", 
+"Methods" : [{ "Name" : "initChannel" ,
+"Duas" : 18,
+"0" :  "(210,(212,213), this)",
+"1" :  "(210,(212,214), this)",
+"2" :  "(210,(214,215), this)",
+"3" :  "(210,(214,216), this)",
+"4" :  "(210,216, this)",
+"5" :  "(210,215, this)",
+"6" :  "(210,213, this)",
+"7" :  "(210,213, ch)",
+"8" :  "(210,(212,213), this.val$ssl)",
+"9" :  "(210,(212,214), this.val$ssl)",
+"10" :  "(210,213, this.val$address)",
+"11" :  "(210,(214,215), this.val$timeout)",
+"12" :  "(210,(214,216), this.val$timeout)",
+"13" :  "(210,215, this.val$timeout)",
+"14" :  "(210,216, this.val$handler)",
+"15" :  "(210,216, cp)",
+"16" :  "(210,215, cp)",
+"17" :  "(210,213, cp)"}]
+}

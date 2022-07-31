@@ -1,0 +1,23 @@
+{
+"Class" : "org.apache.sysds.runtime.instructions.gpu.GPUInstruction", 
+"Methods" : [{ "Name" : "preprocessInstruction" ,
+"Duas" : 6,
+"0" :  "(206,210, ec)",
+"1" :  "(206,(208,210), tmp)",
+"2" :  "(206,(208,213), tmp)",
+"3" :  "(206,213, tmp)",
+"4" :  "(206,210, tmp)",
+"5" :  "(211,213, tmp)"},{ "Name" : "postprocessInstruction" ,
+"Duas" : 11,
+"0" :  "(221,231, this)",
+"1" :  "(221,227, this)",
+"2" :  "(221,231, ec)",
+"3" :  "(221,225, ec)",
+"4" :  "(221,(221,222), SYNCHRONIZE_GPU)",
+"5" :  "(221,(221,224), SYNCHRONIZE_GPU)",
+"6" :  "(221,(224,225), LOG)",
+"7" :  "(221,(224,231), LOG)",
+"8" :  "(225,(226,227), gpuCtx)",
+"9" :  "(225,(226,226), gpuCtx)",
+"10" :  "(225,227, gpuCtx)"}]
+}

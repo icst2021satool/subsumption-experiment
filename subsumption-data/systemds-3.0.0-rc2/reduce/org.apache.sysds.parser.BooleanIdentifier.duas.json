@@ -1,0 +1,7 @@
+{
+"Class" : "org.apache.sysds.parser.BooleanIdentifier", 
+"Methods" : [{ "Name" : "getLongValue" ,
+"Duas" : 2,
+"0" :  "(82,(82,82), this)",
+"1" :  "(82,(82,82), this)"}]
+}

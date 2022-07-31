@@ -1,0 +1,16 @@
+{
+"Class" : "org.apache.sysds.runtime.io.TensorWriterFactory", 
+"Methods" : [{ "Name" : "createTensorWriter" ,
+"Duas" : 11,
+"0" :  "(28,(29,30), fmt)",
+"1" :  "(28,(29,32), fmt)",
+"2" :  "(28,(32,33), fmt)",
+"3" :  "(28,(32,36), fmt)",
+"4" :  "(28,36, fmt)",
+"5" :  "(28,(29,30), TEXT)",
+"6" :  "(28,(29,32), TEXT)",
+"7" :  "(28,(32,33), BINARY)",
+"8" :  "(28,(32,36), BINARY)",
+"9" :  "(30,38, writer)",
+"10" :  "(33,38, writer)"}]
+}

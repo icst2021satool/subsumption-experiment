@@ -1,0 +1,22 @@
+{
+"Class" : "org.apache.sysds.lops.LopProperties", 
+"Methods" : [{ "Name" : "setLevel" ,
+"Duas" : 17,
+"0" :  "(81,94, this)",
+"1" :  "(81,(82,82), inputs)",
+"2" :  "(81,(82,83), inputs)",
+"3" :  "(81,(82,83), inputs)",
+"4" :  "(81,(82,86), inputs)",
+"5" :  "(81,86, inputs)",
+"6" :  "(81,92, tmplevel)",
+"7" :  "(81,(87,88), tmplevel)",
+"8" :  "(81,(87,90), tmplevel)",
+"9" :  "(83,94, tmplevel)",
+"10" :  "(86,(87,88), in)",
+"11" :  "(86,(87,90), in)",
+"12" :  "(86,88, in)",
+"13" :  "(88,92, tmplevel)",
+"14" :  "(88,(87,88), tmplevel)",
+"15" :  "(88,(87,90), tmplevel)",
+"16" :  "(92,94, tmplevel)"}]
+}

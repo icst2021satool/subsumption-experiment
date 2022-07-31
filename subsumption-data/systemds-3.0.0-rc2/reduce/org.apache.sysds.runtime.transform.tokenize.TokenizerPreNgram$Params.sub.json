@@ -1,0 +1,13 @@
+{
+"Class" : "org.apache.sysds.runtime.transform.tokenize.TokenizerPreNgram$Params", 
+"Methods" : [{ "Name" : "<init>" ,
+"Duas" : "12" ,
+"Subsumers" : 6,
+"0" : [ 8, 6, 0], "S0" : [0, 4, 6, 8 ],
+"1" : [ 11, 9, 1], "S1" : [1, 2, 9, 11 ],
+"2" : [ 10], "S2" : [2, 10 ],
+"3" : [ 3], "S3" : [3 ],
+"4" : [ 7], "S4" : [4, 7 ],
+"5" : [ 5], "S5" : [5 ]
+}]
+}

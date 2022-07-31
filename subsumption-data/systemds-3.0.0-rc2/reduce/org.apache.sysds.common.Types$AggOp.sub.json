@@ -1,0 +1,11 @@
+{
+"Class" : "org.apache.sysds.common.Types$AggOp", 
+"Methods" : [{ "Name" : "toString" ,
+"Duas" : "9" ,
+"Subsumers" : 4,
+"0" : [ 5, 4, 0], "S0" : [0, 4, 5 ],
+"1" : [ 6, 1], "S1" : [1, 6 ],
+"2" : [ 7, 2], "S2" : [2, 7 ],
+"3" : [ 8, 3], "S3" : [3, 8 ]
+}]
+}

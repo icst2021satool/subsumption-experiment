@@ -1,0 +1,9 @@
+{
+"Class" : "org.apache.sysds.runtime.instructions.cp.DoubleObject", 
+"Methods" : [{ "Name" : "getBooleanValue" ,
+"Duas" : 4,
+"0" :  "(38,(38,38), this)",
+"1" :  "(38,(38,38), this)",
+"2" :  "(38,(38,38), this._value)",
+"3" :  "(38,(38,38), this._value)"}]
+}

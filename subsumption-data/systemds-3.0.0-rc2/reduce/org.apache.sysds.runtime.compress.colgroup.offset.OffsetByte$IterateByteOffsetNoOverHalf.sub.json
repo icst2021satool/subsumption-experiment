@@ -1,0 +1,7 @@
+{
+"Class" : "org.apache.sysds.runtime.compress.colgroup.offset.OffsetByte$IterateByteOffsetNoOverHalf", 
+"Methods" : [{ "Name" : "skipTo" ,
+"Duas" : "23" ,
+"Subsumers" : 0 
+}]
+}

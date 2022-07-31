@@ -1,0 +1,12 @@
+{
+"Class" : "org.apache.sysds.runtime.instructions.spark.CpmmSPInstruction$CpmmIndexFunction", 
+"Methods" : [{ "Name" : "call" ,
+"Duas" : 7,
+"0" :  "(179,(180,180), this)",
+"1" :  "(179,(180,180), this)",
+"2" :  "(179,180, arg0)",
+"3" :  "(179,(180,180), this._left)",
+"4" :  "(179,(180,180), this._left)",
+"5" :  "(179,180, arg0._1)",
+"6" :  "(179,181, value)"}]
+}

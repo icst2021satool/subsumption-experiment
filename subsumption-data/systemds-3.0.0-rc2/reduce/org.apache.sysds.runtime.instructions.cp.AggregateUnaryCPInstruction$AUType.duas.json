@@ -1,0 +1,9 @@
+{
+"Class" : "org.apache.sysds.runtime.instructions.cp.AggregateUnaryCPInstruction$AUType", 
+"Methods" : [{ "Name" : "isMeta" ,
+"Duas" : 4,
+"0" :  "(56,(56,56), this)",
+"1" :  "(56,(56,56), this)",
+"2" :  "(56,(56,56), DEFAULT)",
+"3" :  "(56,(56,56), DEFAULT)"}]
+}

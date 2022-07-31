@@ -1,0 +1,10 @@
+{
+"Class" : "org.apache.sysds.runtime.instructions.spark.MatrixAppendMSPInstruction$MapSideAppendPartitionFunction", 
+"Methods" : [{ "Name" : "<init>" ,
+"Duas" : 5,
+"0" :  "(186,191, this)",
+"1" :  "(186,(192,192), cbind)",
+"2" :  "(186,(192,192), cbind)",
+"3" :  "(186,191, offset)",
+"4" :  "(186,191, blen)"}]
+}

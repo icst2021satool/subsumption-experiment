@@ -1,0 +1,19 @@
+{
+"Class" : "org.apache.sysds.api.mlcontext.ProjectInfo", 
+"Methods" : [{ "Name" : "getProjectInfo" ,
+"Duas" : 4,
+"0" :  "(46,(46,47), projectInfo)",
+"1" :  "(46,(46,49), projectInfo)",
+"2" :  "(46,49, projectInfo)",
+"3" :  "(47,49, projectInfo)"},{ "Name" : "<init>" ,
+"Duas" : 4,
+"0" :  "(52,60, this)",
+"1" :  "(54,62, systemDsJar)",
+"2" :  "(56,59, mainAttributes)",
+"3" :  "(57,60, this.properties)"},{ "Name" : "toString" ,
+"Duas" : 4,
+"0" :  "(69,72, this)",
+"1" :  "(69,72, this.properties)",
+"2" :  "(69,74, sb)",
+"3" :  "(69,72, sb)"}]
+}

@@ -1,0 +1,23 @@
+{
+"Class" : "org.apache.sysds.runtime.instructions.cp.StringObject", 
+"Methods" : [{ "Name" : "getBooleanValue" ,
+"Duas" : 8,
+"0" :  "(41,(41,41), this)",
+"1" :  "(41,(41,42), this)",
+"2" :  "(41,(42,42), this)",
+"3" :  "(41,(42,42), this)",
+"4" :  "(41,(41,41), this._value)",
+"5" :  "(41,(41,42), this._value)",
+"6" :  "(41,(42,42), this._value)",
+"7" :  "(41,(42,42), this._value)"},{ "Name" : "getLongValue" ,
+"Duas" : 2,
+"0" :  "(47,(47,47), this)",
+"1" :  "(47,(47,47), this)"},{ "Name" : "getDoubleValue" ,
+"Duas" : 2,
+"0" :  "(52,(52,52), this)",
+"1" :  "(52,(52,52), this)"},{ "Name" : "checkMaxStringLength" ,
+"Duas" : 3,
+"0" :  "(71,(71,72), len)",
+"1" :  "(71,(71,75), len)",
+"2" :  "(71,72, len)"}]
+}

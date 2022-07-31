@@ -1,0 +1,15 @@
+{
+"Class" : "org.apache.sysds.runtime.functionobjects.Not", 
+"Methods" : [{ "Name" : "getNotFnObject" ,
+"Duas" : 4,
+"0" :  "(33,(33,34), singleObj)",
+"1" :  "(33,(33,35), singleObj)",
+"2" :  "(33,35, singleObj)",
+"3" :  "(34,35, singleObj)"},{ "Name" : "execute" ,
+"Duas" : 2,
+"0" :  "(40,(40,40), in)",
+"1" :  "(40,(40,40), in)"},{ "Name" : "execute" ,
+"Duas" : 2,
+"0" :  "(45,(45,45), in)",
+"1" :  "(45,(45,45), in)"}]
+}

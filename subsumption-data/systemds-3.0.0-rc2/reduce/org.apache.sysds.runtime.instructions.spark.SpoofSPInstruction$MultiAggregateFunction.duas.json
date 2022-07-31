@@ -1,0 +1,23 @@
+{
+"Class" : "org.apache.sysds.runtime.instructions.spark.SpoofSPInstruction$MultiAggregateFunction", 
+"Methods" : [{ "Name" : "call" ,
+"Duas" : 18,
+"0" :  "(533,(533,534), this)",
+"1" :  "(533,(533,539), this)",
+"2" :  "(533,539, this)",
+"3" :  "(533,541, this)",
+"4" :  "(533,542, this)",
+"5" :  "(533,534, this)",
+"6" :  "(533,535, this)",
+"7" :  "(533,539, arg)",
+"8" :  "(533,541, arg)",
+"9" :  "(533,544, arg)",
+"10" :  "(533,(533,534), this._op)",
+"11" :  "(533,(533,539), this._op)",
+"12" :  "(533,542, this._op)",
+"13" :  "(533,534, this._className)",
+"14" :  "(533,534, this._classBytes)",
+"15" :  "(533,541, this._blen)",
+"16" :  "(533,542, this._scalars)",
+"17" :  "(535,542, this._op)"}]
+}

@@ -1,0 +1,9 @@
+{
+"Class" : "org.apache.sysds.runtime.functionobjects.PlusMultiply", 
+"Methods" : [{ "Name" : "getFnObject" ,
+"Duas" : 4,
+"0" :  "(42,(42,43), singleObj)",
+"1" :  "(42,(42,44), singleObj)",
+"2" :  "(42,44, singleObj)",
+"3" :  "(43,44, singleObj)"}]
+}

@@ -1,0 +1,22 @@
+{
+"Class" : "org.apache.sysds.api.jmlc.ResultVariables", 
+"Methods" : [{ "Name" : "getMatrixBlock" ,
+"Duas" : "7" ,
+"Subsumers" : 3,
+"0" : [ 4, 0], "S0" : [0, 3, 4 ],
+"1" : [ 2, 1], "S1" : [1, 2 ],
+"2" : [ 6, 5], "S2" : [3, 5, 6 ]
+},{ "Name" : "getFrameBlock" ,
+"Duas" : "7" ,
+"Subsumers" : 3,
+"0" : [ 4, 0], "S0" : [0, 3, 4 ],
+"1" : [ 2, 1], "S1" : [1, 2 ],
+"2" : [ 6, 5], "S2" : [3, 5, 6 ]
+},{ "Name" : "getScalarObject" ,
+"Duas" : "7" ,
+"Subsumers" : 3,
+"0" : [ 4, 0], "S0" : [0, 3, 4 ],
+"1" : [ 2, 1], "S1" : [1, 2 ],
+"2" : [ 6, 5], "S2" : [3, 5, 6 ]
+}]
+}

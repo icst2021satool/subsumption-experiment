@@ -1,0 +1,17 @@
+{
+"Class" : "org.apache.sysds.runtime.transform.encode.ColumnEncoderRecode$RecodeSparseApplyTask", 
+"Methods" : [{ "Name" : "call" ,
+"Duas" : "16" ,
+"Subsumers" : 5,
+"0" : [ 7, 0], "S0" : [0, 7 ],
+"1" : [ 15, 5], "S1" : [1, 2, 5, 8, 9, 10, 11, 12, 13, 14, 15 ],
+"2" : [ 6], "S2" : [1, 2, 6, 8, 9, 10, 11, 12, 13, 14 ],
+"3" : [ 3], "S3" : [3 ],
+"4" : [ 4], "S4" : [4 ]
+},{ "Name" : "toString" ,
+"Duas" : "9" ,
+"Subsumers" : 2,
+"0" : [ 8, 7, 5, 3, 2, 0], "S0" : [0, 2, 3, 5, 7, 8 ],
+"1" : [ 6, 4, 1], "S1" : [1, 4, 6 ]
+}]
+}

@@ -1,0 +1,19 @@
+{
+"Class" : "org.apache.sysds.runtime.io.FileFormatPropertiesLIBSVM", 
+"Methods" : [{ "Name" : "<init>" ,
+"Duas" : 4,
+"0" :  "(36,42, this)",
+"1" :  "(36,(41,42), LOG)",
+"2" :  "(36,(41,43), LOG)",
+"3" :  "(36,42, LOG)"},{ "Name" : "<init>" ,
+"Duas" : 4,
+"0" :  "(46,50, this)",
+"1" :  "(46,(49,50), LOG)",
+"2" :  "(46,(49,51), LOG)",
+"3" :  "(46,50, LOG)"},{ "Name" : "<init>" ,
+"Duas" : 4,
+"0" :  "(54,59, this)",
+"1" :  "(54,(58,59), LOG)",
+"2" :  "(54,(58,60), LOG)",
+"3" :  "(54,59, LOG)"}]
+}

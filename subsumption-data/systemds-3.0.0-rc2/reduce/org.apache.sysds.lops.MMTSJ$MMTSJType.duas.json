@@ -1,0 +1,14 @@
+{
+"Class" : "org.apache.sysds.lops.MMTSJ$MMTSJType", 
+"Methods" : [{ "Name" : "isLeft" ,
+"Duas" : 4,
+"0" :  "(42,(42,42), this)",
+"1" :  "(42,(42,42), this)",
+"2" :  "(42,(42,42), LEFT)",
+"3" :  "(42,(42,42), LEFT)"},{ "Name" : "isRight" ,
+"Duas" : 4,
+"0" :  "(45,(45,45), this)",
+"1" :  "(45,(45,45), this)",
+"2" :  "(45,(45,45), RIGHT)",
+"3" :  "(45,(45,45), RIGHT)"}]
+}

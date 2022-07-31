@@ -1,0 +1,28 @@
+{
+"Class" : "org.apache.sysds.runtime.controlprogram.paramserv.SparkPSWorker", 
+"Methods" : [{ "Name" : "configureWorker" ,
+"Duas" : "21" ,
+"Subsumers" : 1,
+"0" : [ 19, 20, 17, 18, 16, 15, 14, 13, 12, 11, 10, 8, 9, 0, 1, 2, 3, 4, 5, 6, 7], "S0" : [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20 ]
+},{ "Name" : "accLocalModelUpdateTime" ,
+"Duas" : "5" ,
+"Subsumers" : 2,
+"0" : [ 4, 3, 1, 0], "S0" : [0, 1, 3, 4 ],
+"1" : [ 2], "S1" : [2 ]
+},{ "Name" : "accBatchIndexingTime" ,
+"Duas" : "5" ,
+"Subsumers" : 2,
+"0" : [ 4, 3, 1, 0], "S0" : [0, 1, 3, 4 ],
+"1" : [ 2], "S1" : [2 ]
+},{ "Name" : "accGradientComputeTime" ,
+"Duas" : "5" ,
+"Subsumers" : 2,
+"0" : [ 4, 3, 1, 0], "S0" : [0, 1, 3, 4 ],
+"1" : [ 2], "S1" : [2 ]
+},{ "Name" : "accSetupTime" ,
+"Duas" : "5" ,
+"Subsumers" : 2,
+"0" : [ 4, 3, 1, 0], "S0" : [0, 1, 3, 4 ],
+"1" : [ 2], "S1" : [2 ]
+}]
+}

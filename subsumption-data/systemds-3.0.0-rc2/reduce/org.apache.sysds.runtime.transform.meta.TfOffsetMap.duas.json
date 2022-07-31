@@ -1,0 +1,17 @@
+{
+"Class" : "org.apache.sysds.runtime.transform.meta.TfOffsetMap", 
+"Methods" : [{ "Name" : "<init>" ,
+"Duas" : 12,
+"0" :  "(38,45, this)",
+"1" :  "(38,51, this)",
+"2" :  "(38,48, this)",
+"3" :  "(40,47, tmap)",
+"4" :  "(40,42, tmap)",
+"5" :  "(45,48, this._map)",
+"6" :  "(46,51, shift)",
+"7" :  "(46,48, shift)",
+"8" :  "(46,49, shift)",
+"9" :  "(49,51, shift)",
+"10" :  "(49,48, shift)",
+"11" :  "(49,49, shift)"}]
+}

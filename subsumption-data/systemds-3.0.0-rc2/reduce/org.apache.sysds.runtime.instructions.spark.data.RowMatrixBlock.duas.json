@@ -1,0 +1,18 @@
+{
+"Class" : "org.apache.sysds.runtime.instructions.spark.data.RowMatrixBlock", 
+"Methods" : [{ "Name" : "readExternal" ,
+"Duas" : 6,
+"0" :  "(78,86, this)",
+"1" :  "(78,(80,82), is)",
+"2" :  "(78,(80,86), is)",
+"3" :  "(78,82, is)",
+"4" :  "(78,86, dis)",
+"5" :  "(83,86, dis)"},{ "Name" : "writeExternal" ,
+"Duas" : 6,
+"0" :  "(100,109, this)",
+"1" :  "(100,104, this)",
+"2" :  "(100,(100,102), os)",
+"3" :  "(100,(100,109), os)",
+"4" :  "(100,109, os)",
+"5" :  "(100,102, os)"}]
+}

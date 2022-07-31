@@ -1,0 +1,14 @@
+{
+"Class" : "org.apache.sysds.runtime.instructions.cp.DeCompressionCPInstruction", 
+"Methods" : [{ "Name" : "processInstruction" ,
+"Duas" : 9,
+"0" :  "(46,52, this)",
+"1" :  "(46,53, this)",
+"2" :  "(46,52, ec)",
+"3" :  "(46,53, ec)",
+"4" :  "(46,52, this.input1)",
+"5" :  "(46,53, this.output)",
+"6" :  "(46,(48,49), in)",
+"7" :  "(46,(48,49), in)",
+"8" :  "(46,49, in)"}]
+}

@@ -1,0 +1,14 @@
+{
+"Class" : "org.apache.sysds.parser.dml.DmlParser$AccumulatorAssignmentStatementContext", 
+"Methods" : [{ "Name" : "enterRule" ,
+"Duas" : 4,
+"0" :  "(464,464, this)",
+"1" :  "(464,(464,464), listener)",
+"2" :  "(464,(464,465), listener)",
+"3" :  "(464,464, listener)"},{ "Name" : "exitRule" ,
+"Duas" : 4,
+"0" :  "(468,468, this)",
+"1" :  "(468,(468,468), listener)",
+"2" :  "(468,(468,469), listener)",
+"3" :  "(468,468, listener)"}]
+}

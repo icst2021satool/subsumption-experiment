@@ -1,0 +1,9 @@
+{
+"Class" : "org.apache.sysds.runtime.instructions.spark.functions.FilterDiagMatrixBlocksFunction", 
+"Methods" : [{ "Name" : "call" ,
+"Duas" : "2" ,
+"Subsumers" : 2,
+"0" : [ 0], "S0" : [0 ],
+"1" : [ 1], "S1" : [1 ]
+}]
+}

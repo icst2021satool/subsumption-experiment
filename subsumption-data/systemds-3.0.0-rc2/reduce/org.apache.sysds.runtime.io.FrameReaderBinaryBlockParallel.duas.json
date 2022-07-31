@@ -1,0 +1,13 @@
+{
+"Class" : "org.apache.sysds.runtime.io.FrameReaderBinaryBlockParallel", 
+"Methods" : [{ "Name" : "readBinaryBlockFrameFromHDFS" ,
+"Duas" : 8,
+"0" :  "(48,56, this)",
+"1" :  "(48,56, job)",
+"2" :  "(48,56, fs)",
+"3" :  "(48,56, dest)",
+"4" :  "(53,59, pool)",
+"5" :  "(53,60, pool)",
+"6" :  "(54,59, tasks)",
+"7" :  "(54,56, tasks)"}]
+}

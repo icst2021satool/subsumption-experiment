@@ -1,0 +1,17 @@
+{
+"Class" : "org.apache.sysds.hops.ipa.IPAPassRewriteFederatedPlan", 
+"Methods" : [{ "Name" : "isApplicable" ,
+"Duas" : 4,
+"0" :  "(44,(46,46), FEDERATED_COMPILATION)",
+"1" :  "(44,(46,47), FEDERATED_COMPILATION)",
+"2" :  "(45,(47,47), planner)",
+"3" :  "(45,(47,47), planner)"},{ "Name" : "rewriteProgram" ,
+"Duas" : 7,
+"0" :  "(62,69, prog)",
+"1" :  "(62,69, fgraph)",
+"2" :  "(62,69, fcallSizes)",
+"3" :  "(62,66, COMPILE_COST_BASED)",
+"4" :  "(63,(64,65), splanner)",
+"5" :  "(63,(64,66), splanner)",
+"6" :  "(63,66, splanner)"}]
+}

@@ -1,0 +1,14 @@
+{
+"Class" : "org.apache.sysds.lops.Compression", 
+"Methods" : [{ "Name" : "getInstructions" ,
+"Duas" : 9,
+"0" :  "(58,(66,67), this)",
+"1" :  "(58,(66,71), this)",
+"2" :  "(58,68, this)",
+"3" :  "(58,(66,67), this._singletonLookupKey)",
+"4" :  "(58,(66,71), this._singletonLookupKey)",
+"5" :  "(58,68, this._singletonLookupKey)",
+"6" :  "(58,71, sb)",
+"7" :  "(58,67, sb)",
+"8" :  "(58,68, sb)"}]
+}

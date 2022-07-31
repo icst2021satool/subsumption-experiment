@@ -1,0 +1,14 @@
+{
+"Class" : "org.apache.sysds.parser.dml.DmlParser$BooleanOrExpressionContext", 
+"Methods" : [{ "Name" : "enterRule" ,
+"Duas" : 4,
+"0" :  "(2374,2374, this)",
+"1" :  "(2374,(2374,2374), listener)",
+"2" :  "(2374,(2374,2375), listener)",
+"3" :  "(2374,2374, listener)"},{ "Name" : "exitRule" ,
+"Duas" : 4,
+"0" :  "(2378,2378, this)",
+"1" :  "(2378,(2378,2378), listener)",
+"2" :  "(2378,(2378,2379), listener)",
+"3" :  "(2378,2378, listener)"}]
+}

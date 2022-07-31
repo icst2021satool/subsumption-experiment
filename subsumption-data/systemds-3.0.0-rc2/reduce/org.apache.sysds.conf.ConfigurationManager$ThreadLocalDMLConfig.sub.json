@@ -1,0 +1,9 @@
+{
+"Class" : "org.apache.sysds.conf.ConfigurationManager$ThreadLocalDMLConfig", 
+"Methods" : [{ "Name" : "initialValue" ,
+"Duas" : "3" ,
+"Subsumers" : 2,
+"0" : [ 2, 0], "S0" : [0, 2 ],
+"1" : [ 1], "S1" : [1 ]
+}]
+}

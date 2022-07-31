@@ -1,0 +1,9 @@
+{
+"Class" : "org.apache.sysds.runtime.functionobjects.KahanPlusSq", 
+"Methods" : [{ "Name" : "getKahanPlusSqFnObject" ,
+"Duas" : 4,
+"0" :  "(47,(47,48), singleObj)",
+"1" :  "(47,(47,49), singleObj)",
+"2" :  "(47,49, singleObj)",
+"3" :  "(48,49, singleObj)"}]
+}

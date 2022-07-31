@@ -1,0 +1,21 @@
+{
+"Class" : "org.apache.sysds.runtime.transform.encode.ColumnEncoderBin$BinSparseApplyTask", 
+"Methods" : [{ "Name" : "call" ,
+"Duas" : 16,
+"0" :  "(406,(407,408), this)",
+"1" :  "(406,(407,409), this)",
+"2" :  "(406,409, this)",
+"3" :  "(406,(406,406), STATISTICS)",
+"4" :  "(406,(406,406), STATISTICS)",
+"5" :  "(406,(410,411), STATISTICS)",
+"6" :  "(406,(410,412), STATISTICS)",
+"7" :  "(406,(407,408), this._out)",
+"8" :  "(406,(407,409), this._out)",
+"9" :  "(406,409, this._out)",
+"10" :  "(406,409, this._encoder)",
+"11" :  "(406,409, this._input)",
+"12" :  "(406,409, this._outputCol)",
+"13" :  "(406,409, this._startRow)",
+"14" :  "(406,409, this._blk)",
+"15" :  "(406,411, t0)"}]
+}

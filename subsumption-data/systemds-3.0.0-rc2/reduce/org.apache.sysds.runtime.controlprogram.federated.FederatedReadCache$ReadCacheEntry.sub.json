@@ -1,0 +1,12 @@
+{
+"Class" : "org.apache.sysds.runtime.controlprogram.federated.FederatedReadCache$ReadCacheEntry", 
+"Methods" : [{ "Name" : "get" ,
+"Duas" : "20" ,
+"Subsumers" : 0 
+},{ "Name" : "setValue" ,
+"Duas" : "7" ,
+"Subsumers" : 2,
+"0" : [ 5, 0], "S0" : [0, 5 ],
+"1" : [ 6, 4, 2, 3, 1], "S1" : [1, 2, 3, 4, 6 ]
+}]
+}

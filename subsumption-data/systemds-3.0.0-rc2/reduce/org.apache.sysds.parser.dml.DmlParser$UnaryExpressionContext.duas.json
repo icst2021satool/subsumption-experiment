@@ -1,0 +1,14 @@
+{
+"Class" : "org.apache.sysds.parser.dml.DmlParser$UnaryExpressionContext", 
+"Methods" : [{ "Name" : "enterRule" ,
+"Duas" : 4,
+"0" :  "(2218,2218, this)",
+"1" :  "(2218,(2218,2218), listener)",
+"2" :  "(2218,(2218,2219), listener)",
+"3" :  "(2218,2218, listener)"},{ "Name" : "exitRule" ,
+"Duas" : 4,
+"0" :  "(2222,2222, this)",
+"1" :  "(2222,(2222,2222), listener)",
+"2" :  "(2222,(2222,2223), listener)",
+"3" :  "(2222,2222, listener)"}]
+}

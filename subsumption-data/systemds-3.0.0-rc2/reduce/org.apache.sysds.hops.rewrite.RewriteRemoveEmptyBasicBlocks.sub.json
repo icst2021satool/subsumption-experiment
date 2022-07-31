@@ -1,0 +1,13 @@
+{
+"Class" : "org.apache.sysds.hops.rewrite.RewriteRemoveEmptyBasicBlocks", 
+"Methods" : [{ "Name" : "rewriteStatementBlock" ,
+"Duas" : "13" ,
+"Subsumers" : 6,
+"0" : [ 6], "S0" : [0, 3, 6, 12 ],
+"1" : [ 7], "S1" : [0, 2, 3, 7, 11, 12 ],
+"2" : [ 4], "S2" : [0, 4, 12 ],
+"3" : [ 10, 8, 5], "S3" : [0, 5, 8, 10, 12 ],
+"4" : [ 9], "S4" : [0, 9, 12 ],
+"5" : [ 1], "S5" : [1, 2, 11, 12 ]
+}]
+}

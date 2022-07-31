@@ -1,0 +1,9 @@
+{
+"Class" : "org.apache.sysds.runtime.matrix.data.LibMatrixDatagen$RandTask", 
+"Methods" : [{ "Name" : "call" ,
+"Duas" : "10" ,
+"Subsumers" : 2,
+"0" : [ 4, 0], "S0" : [0, 2, 3, 4, 6, 7, 8, 9 ],
+"1" : [ 5, 1], "S1" : [1, 2, 3, 5, 6, 7, 8, 9 ]
+}]
+}

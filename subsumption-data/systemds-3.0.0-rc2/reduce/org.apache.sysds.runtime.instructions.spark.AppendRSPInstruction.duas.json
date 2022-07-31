@@ -1,0 +1,22 @@
+{
+"Class" : "org.apache.sysds.runtime.instructions.spark.AppendRSPInstruction", 
+"Methods" : [{ "Name" : "parseInstruction" ,
+"Duas" : 17,
+"0" :  "(38,57, str)",
+"1" :  "(38,52, str)",
+"2" :  "(38,48, str)",
+"3" :  "(41,(47,48), opcode)",
+"4" :  "(41,(47,50), opcode)",
+"5" :  "(41,57, opcode)",
+"6" :  "(41,52, opcode)",
+"7" :  "(42,(50,51), in1)",
+"8" :  "(42,(50,56), in1)",
+"9" :  "(42,57, in1)",
+"10" :  "(42,52, in1)",
+"11" :  "(43,57, in2)",
+"12" :  "(43,52, in2)",
+"13" :  "(44,57, out)",
+"14" :  "(44,52, out)",
+"15" :  "(45,57, cbind)",
+"16" :  "(45,52, cbind)"}]
+}

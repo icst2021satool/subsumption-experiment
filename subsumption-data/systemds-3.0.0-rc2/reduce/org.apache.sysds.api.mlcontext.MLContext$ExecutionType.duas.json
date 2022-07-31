@@ -1,0 +1,14 @@
+{
+"Class" : "org.apache.sysds.api.mlcontext.MLContext$ExecutionType", 
+"Methods" : [{ "Name" : "getExecMode" ,
+"Duas" : 9,
+"0" :  "(182,(182,189), this)",
+"1" :  "(182,(182,184), this)",
+"2" :  "(182,(182,186), this)",
+"3" :  "(182,(182,189), $SwitchMap$org$apache$sysds$api$mlcontext$MLContext$ExecutionType)",
+"4" :  "(182,(182,184), $SwitchMap$org$apache$sysds$api$mlcontext$MLContext$ExecutionType)",
+"5" :  "(182,(182,186), $SwitchMap$org$apache$sysds$api$mlcontext$MLContext$ExecutionType)",
+"6" :  "(182,184, SINGLE_NODE)",
+"7" :  "(182,186, SPARK)",
+"8" :  "(182,189, HYBRID)"}]
+}

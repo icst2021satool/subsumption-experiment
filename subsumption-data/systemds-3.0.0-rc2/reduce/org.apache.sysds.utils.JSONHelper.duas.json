@@ -1,0 +1,15 @@
+{
+"Class" : "org.apache.sysds.utils.JSONHelper", 
+"Methods" : [{ "Name" : "get" ,
+"Duas" : 6,
+"0" :  "(30,(32,33), jsonObject)",
+"1" :  "(30,(32,37), jsonObject)",
+"2" :  "(30,33, jsonObject)",
+"3" :  "(30,33, key)",
+"4" :  "(30,39, result)",
+"5" :  "(33,39, result)"},{ "Name" : "parse" ,
+"Duas" : 3,
+"0" :  "(44,(44,45), reader)",
+"1" :  "(44,(44,48), reader)",
+"2" :  "(44,45, reader)"}]
+}

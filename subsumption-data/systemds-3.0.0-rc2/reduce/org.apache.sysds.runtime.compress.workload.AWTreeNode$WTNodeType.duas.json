@@ -1,0 +1,17 @@
+{
+"Class" : "org.apache.sysds.runtime.compress.workload.AWTreeNode$WTNodeType", 
+"Methods" : [{ "Name" : "isLoop" ,
+"Duas" : 12,
+"0" :  "(44,(44,44), this)",
+"1" :  "(44,(44,44), this)",
+"2" :  "(44,(44,44), this)",
+"3" :  "(44,(44,44), this)",
+"4" :  "(44,(44,44), this)",
+"5" :  "(44,(44,44), this)",
+"6" :  "(44,(44,44), WHILE)",
+"7" :  "(44,(44,44), WHILE)",
+"8" :  "(44,(44,44), FOR)",
+"9" :  "(44,(44,44), FOR)",
+"10" :  "(44,(44,44), PARFOR)",
+"11" :  "(44,(44,44), PARFOR)"}]
+}

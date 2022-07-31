@@ -1,0 +1,11 @@
+{
+"Class" : "org.apache.sysds.runtime.instructions.spark.utils.RDDAggregateUtils$MergeSumBlockValueFunction", 
+"Methods" : [{ "Name" : "call" ,
+"Duas" : "21" ,
+"Subsumers" : 4,
+"0" : [ 19, 20, 14, 8], "S0" : [0, 1, 2, 3, 6, 7, 8, 10, 11, 12, 13, 14, 15, 19, 20 ],
+"1" : [ 9], "S1" : [0, 1, 2, 3, 6, 7, 9, 10, 11, 12, 13, 15, 17, 18 ],
+"2" : [ 16], "S2" : [0, 1, 2, 3, 6, 7, 10, 11, 12, 13, 16, 17, 18 ],
+"3" : [ 5, 4], "S3" : [4, 5 ]
+}]
+}

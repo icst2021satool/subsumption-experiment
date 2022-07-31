@@ -1,0 +1,17 @@
+{
+"Class" : "org.apache.sysds.runtime.lineage.BooleanArray32", 
+"Methods" : [{ "Name" : "get" ,
+"Duas" : 6,
+"0" :  "(30,(30,30), this)",
+"1" :  "(30,(30,30), this)",
+"2" :  "(30,(30,30), pos)",
+"3" :  "(30,(30,30), pos)",
+"4" :  "(30,(30,30), this._value)",
+"5" :  "(30,(30,30), this._value)"},{ "Name" : "set" ,
+"Duas" : 5,
+"0" :  "(34,35, this)",
+"1" :  "(34,(35,35), value)",
+"2" :  "(34,(35,35), value)",
+"3" :  "(34,35, this._value)",
+"4" :  "(34,35, mask)"}]
+}

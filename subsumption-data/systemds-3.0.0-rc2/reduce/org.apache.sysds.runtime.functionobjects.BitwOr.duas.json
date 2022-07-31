@@ -1,0 +1,9 @@
+{
+"Class" : "org.apache.sysds.runtime.functionobjects.BitwOr", 
+"Methods" : [{ "Name" : "getBitwOrFnObject" ,
+"Duas" : 4,
+"0" :  "(35,(35,36), singleObj)",
+"1" :  "(35,(35,37), singleObj)",
+"2" :  "(35,37, singleObj)",
+"3" :  "(36,37, singleObj)"}]
+}

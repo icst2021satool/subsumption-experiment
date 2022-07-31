@@ -1,0 +1,12 @@
+{
+"Class" : "org.apache.sysds.runtime.matrix.data.LibMatrixBincell$BinaryAccessType", 
+"Methods" : [{ "Name" : "isMatrixVector" ,
+"Duas" : "16" ,
+"Subsumers" : 5,
+"0" : [ 14, 6], "S0" : [0, 2, 4, 6, 8, 10, 12, 14 ],
+"1" : [ 15, 7], "S1" : [0, 2, 4, 7, 8, 10, 12, 15 ],
+"2" : [ 13, 5], "S2" : [0, 2, 5, 8, 10, 13 ],
+"3" : [ 11, 3], "S3" : [0, 3, 8, 11 ],
+"4" : [ 9, 1], "S4" : [1, 9 ]
+}]
+}

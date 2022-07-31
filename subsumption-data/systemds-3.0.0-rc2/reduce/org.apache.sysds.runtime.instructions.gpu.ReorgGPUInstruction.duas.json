@@ -1,0 +1,12 @@
+{
+"Class" : "org.apache.sysds.runtime.instructions.gpu.ReorgGPUInstruction", 
+"Methods" : [{ "Name" : "parseInstruction" ,
+"Duas" : 7,
+"0" :  "(55,63, str)",
+"1" :  "(55,61, str)",
+"2" :  "(57,(60,61), opcode)",
+"3" :  "(57,(60,63), opcode)",
+"4" :  "(57,63, opcode)",
+"5" :  "(58,63, in)",
+"6" :  "(59,63, out)"}]
+}

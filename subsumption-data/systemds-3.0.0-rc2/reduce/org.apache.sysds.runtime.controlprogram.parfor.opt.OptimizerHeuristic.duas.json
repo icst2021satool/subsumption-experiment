@@ -1,0 +1,9 @@
+{
+"Class" : "org.apache.sysds.runtime.controlprogram.parfor.opt.OptimizerHeuristic", 
+"Methods" : [{ "Name" : "isLargeProblem" ,
+"Duas" : 4,
+"0" :  "(60,(65,65), M)",
+"1" :  "(60,(65,65), M)",
+"2" :  "(64,(65,65), T)",
+"3" :  "(64,(65,65), T)"}]
+}

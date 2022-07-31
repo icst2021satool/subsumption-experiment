@@ -1,0 +1,13 @@
+{
+"Class" : "org.apache.sysds.runtime.controlprogram.caching.CacheMaintenanceService", 
+"Methods" : [{ "Name" : "<init>" ,
+"Duas" : 3,
+"0" :  "(33,(35,36), this)",
+"1" :  "(33,(35,37), this)",
+"2" :  "(33,36, this)"},{ "Name" : "close" ,
+"Duas" : 4,
+"0" :  "(63,(63,64), this)",
+"1" :  "(63,(63,65), this)",
+"2" :  "(63,64, this)",
+"3" :  "(63,64, this._pool)"}]
+}

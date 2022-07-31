@@ -1,0 +1,17 @@
+{
+"Class" : "org.apache.sysds.runtime.controlprogram.parfor.util.IDSequence", 
+"Methods" : [{ "Name" : "getNextID" ,
+"Duas" : 12,
+"0" :  "(55,(56,57), this)",
+"1" :  "(55,(56,61), this)",
+"2" :  "(55,(57,58), this)",
+"3" :  "(55,(57,59), this)",
+"4" :  "(55,59, this)",
+"5" :  "(55,(56,57), this._cycleLen)",
+"6" :  "(55,(56,61), this._cycleLen)",
+"7" :  "(55,(57,58), this._cyclic)",
+"8" :  "(55,(57,59), this._cyclic)",
+"9" :  "(55,(56,57), val)",
+"10" :  "(55,(56,61), val)",
+"11" :  "(55,61, val)"}]
+}

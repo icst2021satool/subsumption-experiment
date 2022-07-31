@@ -1,0 +1,13 @@
+{
+"Class" : "org.apache.sysds.runtime.io.FrameReaderTextCellParallel", 
+"Methods" : [{ "Name" : "readTextCellFrameFromHDFS" ,
+"Duas" : 8,
+"0" :  "(52,65, this)",
+"1" :  "(52,65, job)",
+"2" :  "(52,65, dest)",
+"3" :  "(55,65, informat)",
+"4" :  "(61,68, pool)",
+"5" :  "(61,69, pool)",
+"6" :  "(63,68, tasks)",
+"7" :  "(63,65, tasks)"}]
+}

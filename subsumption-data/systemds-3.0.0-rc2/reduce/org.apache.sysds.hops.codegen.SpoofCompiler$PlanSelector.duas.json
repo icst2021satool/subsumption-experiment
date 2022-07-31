@@ -1,0 +1,22 @@
+{
+"Class" : "org.apache.sysds.hops.codegen.SpoofCompiler$PlanSelector", 
+"Methods" : [{ "Name" : "isHeuristic" ,
+"Duas" : 8,
+"0" :  "(170,(170,170), this)",
+"1" :  "(170,(170,170), this)",
+"2" :  "(170,(170,170), this)",
+"3" :  "(170,(170,170), this)",
+"4" :  "(170,(170,170), FUSE_ALL)",
+"5" :  "(170,(170,170), FUSE_ALL)",
+"6" :  "(170,(170,170), FUSE_NO_REDUNDANCY)",
+"7" :  "(170,(170,170), FUSE_NO_REDUNDANCY)"},{ "Name" : "isCostBased" ,
+"Duas" : 8,
+"0" :  "(174,(174,174), this)",
+"1" :  "(174,(174,174), this)",
+"2" :  "(174,(174,174), this)",
+"3" :  "(174,(174,174), this)",
+"4" :  "(174,(174,174), FUSE_COST_BASED_V2)",
+"5" :  "(174,(174,174), FUSE_COST_BASED_V2)",
+"6" :  "(174,(174,174), FUSE_COST_BASED)",
+"7" :  "(174,(174,174), FUSE_COST_BASED)"}]
+}

@@ -1,0 +1,9 @@
+{
+"Class" : "org.apache.sysds.lops.WeightedCrossEntropy$WCeMMType", 
+"Methods" : [{ "Name" : "hasFourInputs" ,
+"Duas" : 4,
+"0" :  "(39,(39,39), this)",
+"1" :  "(39,(39,39), this)",
+"2" :  "(39,(39,39), BASIC_EPS)",
+"3" :  "(39,(39,39), BASIC_EPS)"}]
+}

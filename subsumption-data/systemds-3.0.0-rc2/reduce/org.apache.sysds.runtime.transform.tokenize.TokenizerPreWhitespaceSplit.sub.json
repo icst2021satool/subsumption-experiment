@@ -1,0 +1,12 @@
+{
+"Class" : "org.apache.sysds.runtime.transform.tokenize.TokenizerPreWhitespaceSplit", 
+"Methods" : [{ "Name" : "splitToTokens" ,
+"Duas" : "5" ,
+"Subsumers" : 1,
+"0" : [ 4], "S0" : [0, 1, 2, 3, 4 ]
+},{ "Name" : "lambda$tokenizePre$0" ,
+"Duas" : "6" ,
+"Subsumers" : 1,
+"0" : [ 5, 2], "S0" : [0, 1, 2, 3, 4, 5 ]
+}]
+}

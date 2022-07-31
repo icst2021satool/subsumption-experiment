@@ -1,0 +1,18 @@
+{
+"Class" : "org.apache.sysds.runtime.instructions.fed.ParameterizedBuiltinFEDInstruction$GetFrameCharacteristics", 
+"Methods" : [{ "Name" : "execute" ,
+"Duas" : 13,
+"0" :  "(929,932, SUCCESS)",
+"1" :  "(929,(930,930), fb)",
+"2" :  "(929,(930,930), fb)",
+"3" :  "(929,930, fb)",
+"4" :  "(929,(931,931), fb)",
+"5" :  "(929,(931,931), fb)",
+"6" :  "(929,931, fb)",
+"7" :  "(929,932, fb)",
+"8" :  "(929,(931,931), fb)",
+"9" :  "(929,(931,931), fb)",
+"10" :  "(929,(930,930), fb)",
+"11" :  "(929,(930,930), fb)",
+"12" :  "(930,932, r)"}]
+}

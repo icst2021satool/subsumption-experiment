@@ -1,0 +1,10 @@
+{
+"Class" : "org.apache.sysds.runtime.instructions.spark.utils.RDDSortUtils$IndexComparator2", 
+"Methods" : [{ "Name" : "compare" ,
+"Duas" : "11" ,
+"Subsumers" : 3,
+"0" : [ 4, 0], "S0" : [0, 4, 8, 10 ],
+"1" : [ 5, 1], "S1" : [1, 5, 8, 10 ],
+"2" : [ 9, 7, 6, 3, 2], "S2" : [2, 3, 6, 7, 9 ]
+}]
+}

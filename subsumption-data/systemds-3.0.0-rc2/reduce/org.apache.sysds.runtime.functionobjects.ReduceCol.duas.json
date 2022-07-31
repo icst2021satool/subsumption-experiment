@@ -1,0 +1,9 @@
+{
+"Class" : "org.apache.sysds.runtime.functionobjects.ReduceCol", 
+"Methods" : [{ "Name" : "getReduceColFnObject" ,
+"Duas" : 4,
+"0" :  "(39,(39,40), singleObj)",
+"1" :  "(39,(39,41), singleObj)",
+"2" :  "(39,41, singleObj)",
+"3" :  "(40,41, singleObj)"}]
+}

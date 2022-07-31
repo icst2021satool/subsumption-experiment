@@ -1,0 +1,13 @@
+{
+"Class" : "org.apache.sysds.runtime.instructions.spark.QuantilePickSPInstruction$SumWeightsFunction", 
+"Methods" : [{ "Name" : "call" ,
+"Duas" : 8,
+"0" :  "(318,323, v1)",
+"1" :  "(318,(319,320), v2)",
+"2" :  "(318,(319,323), v2)",
+"3" :  "(318,320, v2)",
+"4" :  "(318,323, sum)",
+"5" :  "(318,320, sum)",
+"6" :  "(320,323, sum)",
+"7" :  "(320,320, sum)"}]
+}

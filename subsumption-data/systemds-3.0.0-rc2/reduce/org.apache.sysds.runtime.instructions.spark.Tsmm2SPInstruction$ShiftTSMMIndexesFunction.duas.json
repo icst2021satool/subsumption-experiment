@@ -1,0 +1,13 @@
+{
+"Class" : "org.apache.sysds.runtime.instructions.spark.Tsmm2SPInstruction$ShiftTSMMIndexesFunction", 
+"Methods" : [{ "Name" : "call" ,
+"Duas" : 8,
+"0" :  "(246,(246,247), this)",
+"1" :  "(246,(246,249), this)",
+"2" :  "(246,249, arg0)",
+"3" :  "(246,249, arg0)",
+"4" :  "(246,247, arg0)",
+"5" :  "(246,247, arg0)",
+"6" :  "(246,(246,247), this._type)",
+"7" :  "(246,(246,249), this._type)"}]
+}

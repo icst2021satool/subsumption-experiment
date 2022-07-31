@@ -1,0 +1,14 @@
+{
+"Class" : "org.apache.sysds.parser.Statement$PSUpdateType", 
+"Methods" : [{ "Name" : "isBSP" ,
+"Duas" : 4,
+"0" :  "(87,(87,87), this)",
+"1" :  "(87,(87,87), this)",
+"2" :  "(87,(87,87), BSP)",
+"3" :  "(87,(87,87), BSP)"},{ "Name" : "isASP" ,
+"Duas" : 4,
+"0" :  "(90,(90,90), this)",
+"1" :  "(90,(90,90), this)",
+"2" :  "(90,(90,90), ASP)",
+"3" :  "(90,(90,90), ASP)"}]
+}

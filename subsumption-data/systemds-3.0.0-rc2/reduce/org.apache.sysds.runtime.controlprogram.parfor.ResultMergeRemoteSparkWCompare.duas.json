@@ -1,0 +1,13 @@
+{
+"Class" : "org.apache.sysds.runtime.controlprogram.parfor.ResultMergeRemoteSparkWCompare", 
+"Methods" : [{ "Name" : "call" ,
+"Duas" : 8,
+"0" :  "(46,56, this)",
+"1" :  "(46,59, ixin)",
+"2" :  "(47,(55,56), din)",
+"3" :  "(47,(55,59), din)",
+"4" :  "(47,56, din)",
+"5" :  "(51,56, compare)",
+"6" :  "(54,59, out)",
+"7" :  "(54,56, out)"}]
+}

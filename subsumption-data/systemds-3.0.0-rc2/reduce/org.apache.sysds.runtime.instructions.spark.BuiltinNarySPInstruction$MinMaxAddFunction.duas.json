@@ -1,0 +1,9 @@
+{
+"Class" : "org.apache.sysds.runtime.instructions.spark.BuiltinNarySPInstruction$MinMaxAddFunction", 
+"Methods" : [{ "Name" : "<init>" ,
+"Duas" : 4,
+"0" :  "(192,196, this)",
+"1" :  "(192,(194,195), opcode)",
+"2" :  "(192,(194,196), opcode)",
+"3" :  "(192,196, opcode)"}]
+}

@@ -1,0 +1,15 @@
+{
+"Class" : "org.apache.sysds.runtime.instructions.gpu.context.ExecutionConfig", 
+"Methods" : [{ "Name" : "getConfigForSimpleVectorOperations" ,
+"Duas" : 3,
+"0" :  "(117,(117,118), numCells)",
+"1" :  "(117,(117,119), numCells)",
+"2" :  "(117,121, numCells)"},{ "Name" : "getMaxBlockDim" ,
+"Duas" : 6,
+"0" :  "(148,151, deviceNumber)",
+"1" :  "(148,155, deviceNumber)",
+"2" :  "(148,155, maxBlockDimForDevice)",
+"3" :  "(148,(149,150), ret)",
+"4" :  "(148,(149,158), ret)",
+"5" :  "(148,158, ret)"}]
+}

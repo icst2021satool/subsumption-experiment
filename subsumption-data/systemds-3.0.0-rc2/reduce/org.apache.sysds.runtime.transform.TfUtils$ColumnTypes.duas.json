@@ -1,0 +1,16 @@
+{
+"Class" : "org.apache.sysds.runtime.transform.TfUtils$ColumnTypes", 
+"Methods" : [{ "Name" : "toID" ,
+"Duas" : 11,
+"0" :  "(36,(36,43), this)",
+"1" :  "(36,(36,37), this)",
+"2" :  "(36,(36,38), this)",
+"3" :  "(36,(36,39), this)",
+"4" :  "(36,(36,41), this)",
+"5" :  "(36,43, this)",
+"6" :  "(36,(36,43), $SwitchMap$org$apache$sysds$runtime$transform$TfUtils$ColumnTypes)",
+"7" :  "(36,(36,37), $SwitchMap$org$apache$sysds$runtime$transform$TfUtils$ColumnTypes)",
+"8" :  "(36,(36,38), $SwitchMap$org$apache$sysds$runtime$transform$TfUtils$ColumnTypes)",
+"9" :  "(36,(36,39), $SwitchMap$org$apache$sysds$runtime$transform$TfUtils$ColumnTypes)",
+"10" :  "(36,(36,41), $SwitchMap$org$apache$sysds$runtime$transform$TfUtils$ColumnTypes)"}]
+}

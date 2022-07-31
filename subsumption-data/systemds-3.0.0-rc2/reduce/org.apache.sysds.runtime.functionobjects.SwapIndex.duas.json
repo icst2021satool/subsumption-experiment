@@ -1,0 +1,9 @@
+{
+"Class" : "org.apache.sysds.runtime.functionobjects.SwapIndex", 
+"Methods" : [{ "Name" : "getSwapIndexFnObject" ,
+"Duas" : 4,
+"0" :  "(38,(38,39), singleObj)",
+"1" :  "(38,(38,40), singleObj)",
+"2" :  "(38,40, singleObj)",
+"3" :  "(39,40, singleObj)"}]
+}

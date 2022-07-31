@@ -1,0 +1,23 @@
+{
+"Class" : "org.apache.sysds.runtime.instructions.spark.CumulativeOffsetSPInstruction$RDDCumOffsetFunction", 
+"Methods" : [{ "Name" : "call" ,
+"Duas" : 18,
+"0" :  "(223,(228,228), this)",
+"1" :  "(223,(228,228), this)",
+"2" :  "(223,(231,231), this)",
+"3" :  "(223,(231,231), this)",
+"4" :  "(223,231, this)",
+"5" :  "(223,(228,228), this._cumsumprod)",
+"6" :  "(223,(228,228), this._cumsumprod)",
+"7" :  "(223,(231,231), CUMSUM)",
+"8" :  "(223,(231,231), CUMSUM)",
+"9" :  "(223,(231,231), this._uop)",
+"10" :  "(223,(231,231), this._uop)",
+"11" :  "(223,231, this._uop)",
+"12" :  "(223,(231,231), this.fn)",
+"13" :  "(223,(231,231), this.fn)",
+"14" :  "(223,228, dblkIn)",
+"15" :  "(223,231, dblkIn)",
+"16" :  "(224,231, oblkIn)",
+"17" :  "(228,231, blkOut)"}]
+}

@@ -1,0 +1,20 @@
+{
+"Class" : "org.apache.sysds.runtime.codegen.SpoofOperator$SideInput", 
+"Methods" : [{ "Name" : "pos" ,
+"Duas" : 7,
+"0" :  "(245,(245,245), this)",
+"1" :  "(245,(245,245), this)",
+"2" :  "(245,245, this)",
+"3" :  "(245,245, r)",
+"4" :  "(245,(245,245), this.ddat)",
+"5" :  "(245,(245,245), this.ddat)",
+"6" :  "(245,245, this.clen)"},{ "Name" : "values" ,
+"Duas" : 7,
+"0" :  "(248,(248,248), this)",
+"1" :  "(248,(248,248), this)",
+"2" :  "(248,248, this)",
+"3" :  "(248,248, r)",
+"4" :  "(248,(248,248), this.ddat)",
+"5" :  "(248,(248,248), this.ddat)",
+"6" :  "(248,248, this.ddat)"}]
+}

@@ -1,0 +1,7 @@
+{
+"Class" : "org.apache.sysds.runtime.instructions.cp.TriggerBroadcastTask", 
+"Methods" : [{ "Name" : "run" ,
+"Duas" : 2,
+"0" :  "(40,(48,49), STATISTICS)",
+"1" :  "(40,(48,51), STATISTICS)"}]
+}

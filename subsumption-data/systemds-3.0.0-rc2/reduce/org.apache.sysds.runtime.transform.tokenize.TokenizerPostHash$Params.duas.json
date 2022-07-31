@@ -1,0 +1,11 @@
+{
+"Class" : "org.apache.sysds.runtime.transform.tokenize.TokenizerPostHash$Params", 
+"Methods" : [{ "Name" : "<init>" ,
+"Duas" : 6,
+"0" :  "(50,52, this)",
+"1" :  "(50,(51,51), json)",
+"2" :  "(50,(51,54), json)",
+"3" :  "(50,(51,52), json)",
+"4" :  "(50,(51,54), json)",
+"5" :  "(50,52, json)"}]
+}

@@ -1,0 +1,20 @@
+{
+"Class" : "org.apache.sysds.runtime.controlprogram.paramserv.dp.ReplicateToMaxFederatedScheme$replicateDataOnFederatedWorker", 
+"Methods" : [{ "Name" : "execute" ,
+"Duas" : 15,
+"0" :  "(104,(108,109), this)",
+"1" :  "(104,(108,116), this)",
+"2" :  "(104,109, this)",
+"3" :  "(104,111, this)",
+"4" :  "(104,(108,109), this._max_rows)",
+"5" :  "(104,(108,116), this._max_rows)",
+"6" :  "(104,109, this._max_rows)",
+"7" :  "(104,111, this._seed)",
+"8" :  "(104,116, SUCCESS)",
+"9" :  "(104,(108,109), features)",
+"10" :  "(104,(108,116), features)",
+"11" :  "(104,109, features)",
+"12" :  "(104,111, features)",
+"13" :  "(104,112, features)",
+"14" :  "(105,113, labels)"}]
+}

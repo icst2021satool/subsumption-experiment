@@ -1,0 +1,9 @@
+{
+"Class" : "org.apache.sysds.runtime.functionobjects.Power", 
+"Methods" : [{ "Name" : "getPowerFnObject" ,
+"Duas" : 4,
+"0" :  "(36,(36,37), singleObj)",
+"1" :  "(36,(36,38), singleObj)",
+"2" :  "(36,38, singleObj)",
+"3" :  "(37,38, singleObj)"}]
+}

@@ -1,0 +1,19 @@
+{
+"Class" : "org.apache.sysds.runtime.controlprogram.paramserv.FederatedPSControlThread$HEComputeGradientsForNBatches", 
+"Methods" : [{ "Name" : "execute" ,
+"Duas" : 14,
+"0" :  "(701,718, ec)",
+"1" :  "(701,(714,714), STATISTICS)",
+"2" :  "(701,(714,714), STATISTICS)",
+"3" :  "(701,731, tTotal)",
+"4" :  "(706,(708,709), res)",
+"5" :  "(706,(708,714), res)",
+"6" :  "(706,716, res)",
+"7" :  "(706,724, res)",
+"8" :  "(706,732, res)",
+"9" :  "(706,736, res)",
+"10" :  "(706,709, res)",
+"11" :  "(714,(726,727), tEncrypt)",
+"12" :  "(714,(726,731), tEncrypt)",
+"13" :  "(714,727, tEncrypt)"}]
+}

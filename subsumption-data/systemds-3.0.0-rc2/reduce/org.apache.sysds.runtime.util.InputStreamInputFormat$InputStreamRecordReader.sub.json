@@ -1,0 +1,11 @@
+{
+"Class" : "org.apache.sysds.runtime.util.InputStreamInputFormat$InputStreamRecordReader", 
+"Methods" : [{ "Name" : "next" ,
+"Duas" : "6" ,
+"Subsumers" : 4,
+"0" : [ 5, 1, 0], "S0" : [0, 1, 5 ],
+"1" : [ 2], "S1" : [2 ],
+"2" : [ 3], "S2" : [3 ],
+"3" : [ 4], "S3" : [4 ]
+}]
+}

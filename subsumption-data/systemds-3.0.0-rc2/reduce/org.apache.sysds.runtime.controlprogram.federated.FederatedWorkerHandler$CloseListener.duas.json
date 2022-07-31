@@ -1,0 +1,11 @@
+{
+"Class" : "org.apache.sysds.runtime.controlprogram.federated.FederatedWorkerHandler$CloseListener", 
+"Methods" : [{ "Name" : "operationComplete" ,
+"Duas" : 6,
+"0" :  "(637,(637,638), channelFuture)",
+"1" :  "(637,(637,643), channelFuture)",
+"2" :  "(637,644, channelFuture)",
+"3" :  "(637,640, channelFuture)",
+"4" :  "(637,638, LOG)",
+"5" :  "(637,639, ERROR)"}]
+}

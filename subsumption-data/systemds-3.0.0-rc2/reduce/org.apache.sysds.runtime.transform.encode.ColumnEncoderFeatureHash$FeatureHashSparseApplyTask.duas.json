@@ -1,0 +1,21 @@
+{
+"Class" : "org.apache.sysds.runtime.transform.encode.ColumnEncoderFeatureHash$FeatureHashSparseApplyTask", 
+"Methods" : [{ "Name" : "call" ,
+"Duas" : 16,
+"0" :  "(172,(172,173), this)",
+"1" :  "(172,(172,174), this)",
+"2" :  "(172,175, this)",
+"3" :  "(172,(172,173), this._out)",
+"4" :  "(172,(172,174), this._out)",
+"5" :  "(172,175, this._out)",
+"6" :  "(172,(174,174), STATISTICS)",
+"7" :  "(172,(174,174), STATISTICS)",
+"8" :  "(172,(176,177), STATISTICS)",
+"9" :  "(172,(176,178), STATISTICS)",
+"10" :  "(172,175, this._encoder)",
+"11" :  "(172,175, this._input)",
+"12" :  "(172,175, this._outputCol)",
+"13" :  "(172,175, this._startRow)",
+"14" :  "(172,175, this._blk)",
+"15" :  "(174,177, t0)"}]
+}

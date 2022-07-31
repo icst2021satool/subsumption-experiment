@@ -1,0 +1,14 @@
+{
+"Class" : "org.apache.sysds.runtime.instructions.cp.MMTSJCPInstruction", 
+"Methods" : [{ "Name" : "parseInstruction" ,
+"Duas" : 9,
+"0" :  "(41,53, str)",
+"1" :  "(41,51, str)",
+"2" :  "(44,(50,51), opcode)",
+"3" :  "(44,(50,53), opcode)",
+"4" :  "(44,53, opcode)",
+"5" :  "(45,53, in1)",
+"6" :  "(46,53, out)",
+"7" :  "(47,53, titype)",
+"8" :  "(48,53, k)"}]
+}

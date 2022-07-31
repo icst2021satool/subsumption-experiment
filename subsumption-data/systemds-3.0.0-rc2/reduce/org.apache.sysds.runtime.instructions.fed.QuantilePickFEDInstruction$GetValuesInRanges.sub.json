@@ -1,0 +1,10 @@
+{
+"Class" : "org.apache.sysds.runtime.instructions.fed.QuantilePickFEDInstruction$GetValuesInRanges", 
+"Methods" : [{ "Name" : "execute" ,
+"Duas" : "15" ,
+"Subsumers" : 3,
+"0" : [ 14, 12, 9, 7, 4], "S0" : [0, 1, 2, 3, 4, 5, 7, 9, 10, 12, 14 ],
+"1" : [ 13, 8], "S1" : [0, 1, 2, 3, 5, 8, 10, 13 ],
+"2" : [ 11, 6], "S2" : [0, 1, 2, 3, 6, 11 ]
+}]
+}

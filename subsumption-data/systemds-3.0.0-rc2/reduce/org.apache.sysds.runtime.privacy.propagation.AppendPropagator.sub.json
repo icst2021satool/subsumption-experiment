@@ -1,0 +1,18 @@
+{
+"Class" : "org.apache.sysds.runtime.privacy.propagation.AppendPropagator", 
+"Methods" : [{ "Name" : "propagateInput1Constraint" ,
+"Duas" : "18" ,
+"Subsumers" : 4,
+"0" : [ 16, 17, 15, 10, 9, 5, 6, 7, 0], "S0" : [0, 5, 6, 7, 9, 10, 15, 16, 17 ],
+"1" : [ 11, 1], "S1" : [1, 11 ],
+"2" : [ 14, 12, 8, 4, 2], "S2" : [2, 4, 8, 12, 14 ],
+"3" : [ 13, 3], "S3" : [3, 13 ]
+},{ "Name" : "propagateInput2Constraint" ,
+"Duas" : "18" ,
+"Subsumers" : 4,
+"0" : [ 16, 17, 15, 10, 9, 5, 6, 7, 0], "S0" : [0, 5, 6, 7, 9, 10, 15, 16, 17 ],
+"1" : [ 11, 1], "S1" : [1, 11 ],
+"2" : [ 14, 12, 8, 4, 2], "S2" : [2, 4, 8, 12, 14 ],
+"3" : [ 13, 3], "S3" : [3, 13 ]
+}]
+}

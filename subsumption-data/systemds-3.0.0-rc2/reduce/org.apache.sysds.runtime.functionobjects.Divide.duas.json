@@ -1,0 +1,9 @@
+{
+"Class" : "org.apache.sysds.runtime.functionobjects.Divide", 
+"Methods" : [{ "Name" : "getDivideFnObject" ,
+"Duas" : 4,
+"0" :  "(33,(33,34), singleObj)",
+"1" :  "(33,(33,35), singleObj)",
+"2" :  "(33,35, singleObj)",
+"3" :  "(34,35, singleObj)"}]
+}

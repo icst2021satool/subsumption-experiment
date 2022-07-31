@@ -1,0 +1,14 @@
+{
+"Class" : "org.apache.sysds.runtime.functionobjects.Power2", 
+"Methods" : [{ "Name" : "getPower2FnObject" ,
+"Duas" : 4,
+"0" :  "(35,(35,36), singleObj)",
+"1" :  "(35,(35,37), singleObj)",
+"2" :  "(35,37, singleObj)",
+"3" :  "(36,37, singleObj)"},{ "Name" : "execute" ,
+"Duas" : 4,
+"0" :  "(53,57, in1)",
+"1" :  "(53,(54,55), dval)",
+"2" :  "(53,(54,57), dval)",
+"3" :  "(53,55, dval)"}]
+}

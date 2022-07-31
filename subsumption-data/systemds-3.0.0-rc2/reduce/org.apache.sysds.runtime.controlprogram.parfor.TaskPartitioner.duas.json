@@ -1,0 +1,18 @@
+{
+"Class" : "org.apache.sysds.runtime.controlprogram.parfor.TaskPartitioner", 
+"Methods" : [{ "Name" : "normalizePredicate" ,
+"Duas" : 13,
+"0" :  "(85,(85,86), this)",
+"1" :  "(85,(85,88), this)",
+"2" :  "(85,88, this)",
+"3" :  "(85,89, this)",
+"4" :  "(85,90, this)",
+"5" :  "(85,92, this)",
+"6" :  "(85,93, this)",
+"7" :  "(85,94, this)",
+"8" :  "(85,(85,86), this._incrVal)",
+"9" :  "(85,(85,88), this._incrVal)",
+"10" :  "(85,90, this._incrVal)",
+"11" :  "(85,88, this._fromVal)",
+"12" :  "(85,89, this._toVal)"}]
+}

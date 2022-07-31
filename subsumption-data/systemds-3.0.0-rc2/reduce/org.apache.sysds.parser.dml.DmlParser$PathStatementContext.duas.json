@@ -1,0 +1,14 @@
+{
+"Class" : "org.apache.sysds.parser.dml.DmlParser$PathStatementContext", 
+"Methods" : [{ "Name" : "enterRule" ,
+"Duas" : 4,
+"0" :  "(388,388, this)",
+"1" :  "(388,(388,388), listener)",
+"2" :  "(388,(388,389), listener)",
+"3" :  "(388,388, listener)"},{ "Name" : "exitRule" ,
+"Duas" : 4,
+"0" :  "(392,392, this)",
+"1" :  "(392,(392,392), listener)",
+"2" :  "(392,(392,393), listener)",
+"3" :  "(392,392, listener)"}]
+}

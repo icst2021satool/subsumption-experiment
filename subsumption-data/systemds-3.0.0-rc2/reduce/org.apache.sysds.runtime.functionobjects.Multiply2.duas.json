@@ -1,0 +1,14 @@
+{
+"Class" : "org.apache.sysds.runtime.functionobjects.Multiply2", 
+"Methods" : [{ "Name" : "getMultiply2FnObject" ,
+"Duas" : 4,
+"0" :  "(33,(33,34), singleObj)",
+"1" :  "(33,(33,35), singleObj)",
+"2" :  "(33,35, singleObj)",
+"3" :  "(34,35, singleObj)"},{ "Name" : "execute" ,
+"Duas" : 4,
+"0" :  "(51,55, in1)",
+"1" :  "(51,(52,53), dval)",
+"2" :  "(51,(52,55), dval)",
+"3" :  "(51,53, dval)"}]
+}

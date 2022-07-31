@@ -1,0 +1,9 @@
+{
+"Class" : "org.apache.sysds.runtime.io.TensorReaderTextCellParallel", 
+"Methods" : [{ "Name" : "readTextCellTensorFromHDFS" ,
+"Duas" : "19" ,
+"Subsumers" : 2,
+"0" : [ 15, 14, 13, 7, 4], "S0" : [0, 1, 2, 3, 4, 7, 8, 9, 10, 11, 13, 14, 15, 18 ],
+"1" : [ 17, 16, 12, 6, 5], "S1" : [0, 1, 2, 3, 5, 6, 8, 9, 10, 11, 12, 16, 17, 18 ]
+}]
+}

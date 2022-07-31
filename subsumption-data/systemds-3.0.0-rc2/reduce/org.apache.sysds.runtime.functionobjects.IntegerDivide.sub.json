@@ -1,0 +1,15 @@
+{
+"Class" : "org.apache.sysds.runtime.functionobjects.IntegerDivide", 
+"Methods" : [{ "Name" : "getFnObject" ,
+"Duas" : "4" ,
+"Subsumers" : 2,
+"0" : [ 3, 0], "S0" : [0, 3 ],
+"1" : [ 2, 1], "S1" : [1, 2 ]
+},{ "Name" : "executeIntDiv" ,
+"Duas" : "6" ,
+"Subsumers" : 3,
+"0" : [ 3], "S0" : [0, 2, 3 ],
+"1" : [ 5, 4], "S1" : [0, 4, 5 ],
+"2" : [ 1], "S2" : [1, 2 ]
+}]
+}

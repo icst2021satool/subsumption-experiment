@@ -1,0 +1,12 @@
+{
+"Class" : "org.apache.sysds.runtime.instructions.cp.PrefetchCPInstruction", 
+"Methods" : [{ "Name" : "processInstruction" ,
+"Duas" : 7,
+"0" :  "(46,54, this)",
+"1" :  "(46,54, ec)",
+"2" :  "(46,54, this.output)",
+"3" :  "(46,(52,53), triggerRemoteOPsPool)",
+"4" :  "(46,(52,54), triggerRemoteOPsPool)",
+"5" :  "(46,54, triggerRemoteOPsPool)",
+"6" :  "(53,54, triggerRemoteOPsPool)"}]
+}

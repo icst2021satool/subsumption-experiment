@@ -1,0 +1,21 @@
+{
+"Class" : "org.apache.sysds.runtime.controlprogram.paramserv.rpc.PSRpcCall", 
+"Methods" : [{ "Name" : "deserialize" ,
+"Duas" : 4,
+"0" :  "(60,65, this)",
+"1" :  "(60,(64,65), dis)",
+"2" :  "(60,(64,66), dis)",
+"3" :  "(60,65, dis)"},{ "Name" : "serialize" ,
+"Duas" : 8,
+"0" :  "(70,(74,75), this)",
+"1" :  "(70,(74,76), this)",
+"2" :  "(70,75, this)",
+"3" :  "(70,(74,75), this._data)",
+"4" :  "(70,(74,76), this._data)",
+"5" :  "(70,75, this._data)",
+"6" :  "(71,76, dos)",
+"7" :  "(71,75, dos)"},{ "Name" : "validateMethod" ,
+"Duas" : 2,
+"0" :  "(80,(80,85), method)",
+"1" :  "(80,(80,83), method)"}]
+}

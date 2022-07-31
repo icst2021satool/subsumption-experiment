@@ -1,0 +1,15 @@
+{
+"Class" : "org.apache.sysds.runtime.instructions.spark.functions.MatrixMatrixBinaryOpFunction", 
+"Methods" : [{ "Name" : "call" ,
+"Duas" : 10,
+"0" :  "(41,46, this)",
+"1" :  "(41,44, this)",
+"2" :  "(41,46, this._bop)",
+"3" :  "(41,44, this._bop)",
+"4" :  "(41,46, left)",
+"5" :  "(41,44, left)",
+"6" :  "(42,(43,44), right)",
+"7" :  "(42,(43,46), right)",
+"8" :  "(42,46, right)",
+"9" :  "(42,44, right)"}]
+}

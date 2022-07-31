@@ -1,0 +1,10 @@
+{
+"Class" : "org.apache.sysds.runtime.compress.workload.Op", 
+"Methods" : [{ "Name" : "<init>" ,
+"Duas" : 5,
+"0" :  "(34,(37,38), this)",
+"1" :  "(34,(37,39), this)",
+"2" :  "(34,38, this)",
+"3" :  "(36,(37,38), this._dim)",
+"4" :  "(36,(37,39), this._dim)"}]
+}

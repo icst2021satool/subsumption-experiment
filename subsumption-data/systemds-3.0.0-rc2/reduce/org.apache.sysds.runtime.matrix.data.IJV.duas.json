@@ -1,0 +1,11 @@
+{
+"Class" : "org.apache.sysds.runtime.matrix.data.IJV", 
+"Methods" : [{ "Name" : "onDiag" ,
+"Duas" : 6,
+"0" :  "(56,(56,56), this)",
+"1" :  "(56,(56,56), this)",
+"2" :  "(56,(56,56), this._j)",
+"3" :  "(56,(56,56), this._j)",
+"4" :  "(56,(56,56), this._i)",
+"5" :  "(56,(56,56), this._i)"}]
+}

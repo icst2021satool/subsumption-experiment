@@ -1,0 +1,11 @@
+{
+"Class" : "org.apache.sysds.runtime.matrix.data.DoublePrecisionCudaSupportFunctions", 
+"Methods" : [{ "Name" : "deviceToHost" ,
+"Duas" : "12" ,
+"Subsumers" : 4,
+"0" : [ 11, 9, 8, 4, 0], "S0" : [0, 2, 3, 4, 6, 7, 8, 9, 11 ],
+"1" : [ 1], "S1" : [1 ],
+"2" : [ 10], "S2" : [2, 3, 6, 7, 10 ],
+"3" : [ 5], "S3" : [2, 5 ]
+}]
+}

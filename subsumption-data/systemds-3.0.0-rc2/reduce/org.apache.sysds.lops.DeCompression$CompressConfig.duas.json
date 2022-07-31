@@ -1,0 +1,13 @@
+{
+"Class" : "org.apache.sysds.lops.DeCompression$CompressConfig", 
+"Methods" : [{ "Name" : "isEnabled" ,
+"Duas" : 8,
+"0" :  "(35,(35,35), this)",
+"1" :  "(35,(35,35), this)",
+"2" :  "(35,(35,35), this)",
+"3" :  "(35,(35,35), this)",
+"4" :  "(35,(35,35), TRUE)",
+"5" :  "(35,(35,35), TRUE)",
+"6" :  "(35,(35,35), AUTO)",
+"7" :  "(35,(35,35), AUTO)"}]
+}

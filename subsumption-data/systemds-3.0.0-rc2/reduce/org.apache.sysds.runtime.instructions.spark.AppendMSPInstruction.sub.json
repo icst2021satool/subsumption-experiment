@@ -1,0 +1,10 @@
+{
+"Class" : "org.apache.sysds.runtime.instructions.spark.AppendMSPInstruction", 
+"Methods" : [{ "Name" : "parseInstruction" ,
+"Duas" : "19" ,
+"Subsumers" : 3,
+"0" : [ 17, 15, 13, 11, 9, 8, 5, 0], "S0" : [0, 4, 5, 8, 9, 11, 13, 15, 17 ],
+"1" : [ 18, 16, 14, 12, 10, 7, 6, 1], "S1" : [1, 4, 6, 7, 10, 12, 14, 16, 18 ],
+"2" : [ 3, 2], "S2" : [2, 3 ]
+}]
+}

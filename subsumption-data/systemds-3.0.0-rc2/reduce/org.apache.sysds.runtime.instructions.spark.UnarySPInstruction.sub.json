@@ -1,0 +1,11 @@
+{
+"Class" : "org.apache.sysds.runtime.instructions.spark.UnarySPInstruction", 
+"Methods" : [{ "Name" : "parse" ,
+"Duas" : "18" ,
+"Subsumers" : 4,
+"0" : [ 7, 0], "S0" : [0, 7 ],
+"1" : [ 11, 12, 13, 10, 6, 4, 1], "S1" : [1, 4, 6, 10, 11, 12, 13, 17 ],
+"2" : [ 14, 15, 9, 5, 2], "S2" : [2, 5, 9, 14, 15, 17 ],
+"3" : [ 16, 8, 3], "S3" : [3, 8, 16, 17 ]
+}]
+}

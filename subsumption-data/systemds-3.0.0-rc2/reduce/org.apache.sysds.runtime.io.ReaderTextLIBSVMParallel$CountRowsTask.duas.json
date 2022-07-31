@@ -1,0 +1,15 @@
+{
+"Class" : "org.apache.sysds.runtime.io.ReaderTextLIBSVMParallel$CountRowsTask", 
+"Methods" : [{ "Name" : "call" ,
+"Duas" : 10,
+"0" :  "(258,265, this)",
+"1" :  "(258,265, this._nrows)",
+"2" :  "(258,(264,265), reader)",
+"3" :  "(258,(264,274), reader)",
+"4" :  "(258,274, reader)",
+"5" :  "(259,(264,265), key)",
+"6" :  "(259,(264,274), key)",
+"7" :  "(260,(264,265), oneLine)",
+"8" :  "(260,(264,274), oneLine)",
+"9" :  "(265,265, this._nrows)"}]
+}

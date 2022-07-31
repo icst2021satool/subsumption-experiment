@@ -1,0 +1,8 @@
+{
+"Class" : "org.apache.sysds.runtime.compress.lib.CLALibScalar$ScalarTask", 
+"Methods" : [{ "Name" : "call" ,
+"Duas" : "4" ,
+"Subsumers" : 1,
+"0" : [ 3, 1, 0], "S0" : [0, 1, 2, 3 ]
+}]
+}

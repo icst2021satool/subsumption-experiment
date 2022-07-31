@@ -1,0 +1,22 @@
+{
+"Class" : "org.apache.sysds.runtime.transform.encode.ColumnEncoderRecode$RecodePartialBuildTask", 
+"Methods" : [{ "Name" : "call" ,
+"Duas" : 17,
+"0" :  "(420,422, this)",
+"1" :  "(420,423, this)",
+"2" :  "(420,423, this)",
+"3" :  "(420,424, this)",
+"4" :  "(420,(420,420), STATISTICS)",
+"5" :  "(420,(420,420), STATISTICS)",
+"6" :  "(420,(426,427), STATISTICS)",
+"7" :  "(420,(426,429), STATISTICS)",
+"8" :  "(420,422, this._input)",
+"9" :  "(420,422, this._colID)",
+"10" :  "(420,422, this._startRow)",
+"11" :  "(420,424, this._startRow)",
+"12" :  "(420,422, this._blockSize)",
+"13" :  "(420,423, this._partialMaps)",
+"14" :  "(420,423, this._partialMaps)",
+"15" :  "(420,424, this._partialMaps)",
+"16" :  "(420,427, t0)"}]
+}

@@ -1,0 +1,17 @@
+{
+"Class" : "org.apache.sysds.runtime.functionobjects.BitwShiftL", 
+"Methods" : [{ "Name" : "getBitwShiftLFnObject" ,
+"Duas" : 4,
+"0" :  "(35,(35,36), singleObj)",
+"1" :  "(35,(35,37), singleObj)",
+"2" :  "(35,37, singleObj)",
+"3" :  "(36,37, singleObj)"},{ "Name" : "execute" ,
+"Duas" : 3,
+"0" :  "(42,(43,43), ret)",
+"1" :  "(42,(43,43), ret)",
+"2" :  "(42,43, ret)"},{ "Name" : "execute" ,
+"Duas" : 3,
+"0" :  "(51,(52,52), ret)",
+"1" :  "(51,(52,52), ret)",
+"2" :  "(51,52, ret)"}]
+}

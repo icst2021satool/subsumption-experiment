@@ -1,0 +1,8 @@
+{
+"Class" : "org.apache.sysds.conf.ConfigurationManager$ThreadLocalCompilerConfig", 
+"Methods" : [{ "Name" : "initialValue" ,
+"Duas" : 3,
+"0" :  "(238,(238,239), _cconf)",
+"1" :  "(238,(238,240), _cconf)",
+"2" :  "(238,239, _cconf)"}]
+}

@@ -1,0 +1,15 @@
+{
+"Class" : "org.apache.sysds.runtime.matrix.data.LibMatrixDatagen$RandTask", 
+"Methods" : [{ "Name" : "call" ,
+"Duas" : 10,
+"0" :  "(644,(652,652), this)",
+"1" :  "(644,(652,653), this)",
+"2" :  "(644,652, this)",
+"3" :  "(644,652, this._out)",
+"4" :  "(644,(652,652), this._rgen)",
+"5" :  "(644,(652,653), this._rgen)",
+"6" :  "(648,652, rl)",
+"7" :  "(649,652, ru)",
+"8" :  "(650,652, cl)",
+"9" :  "(651,652, cu)"}]
+}

@@ -1,0 +1,9 @@
+{
+"Class" : "org.apache.sysds.runtime.compress.estim.CompressedSizeEstimatorExact", 
+"Methods" : [{ "Name" : "getColGroupInfo" ,
+"Duas" : "7" ,
+"Subsumers" : 2,
+"0" : [ 6, 5, 2, 0], "S0" : [0, 2, 5, 6 ],
+"1" : [ 4, 3, 1], "S1" : [1, 3, 4 ]
+}]
+}

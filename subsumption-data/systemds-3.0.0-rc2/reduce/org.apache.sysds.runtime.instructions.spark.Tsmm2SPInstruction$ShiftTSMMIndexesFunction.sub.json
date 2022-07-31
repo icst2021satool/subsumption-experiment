@@ -1,0 +1,9 @@
+{
+"Class" : "org.apache.sysds.runtime.instructions.spark.Tsmm2SPInstruction$ShiftTSMMIndexesFunction", 
+"Methods" : [{ "Name" : "call" ,
+"Duas" : "8" ,
+"Subsumers" : 2,
+"0" : [ 6, 4, 5, 0], "S0" : [0, 4, 5, 6 ],
+"1" : [ 7, 2, 3, 1], "S1" : [1, 2, 3, 7 ]
+}]
+}

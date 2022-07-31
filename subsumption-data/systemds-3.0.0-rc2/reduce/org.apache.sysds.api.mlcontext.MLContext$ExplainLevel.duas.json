@@ -1,0 +1,23 @@
+{
+"Class" : "org.apache.sysds.api.mlcontext.MLContext$ExplainLevel", 
+"Methods" : [{ "Name" : "getExplainType" ,
+"Duas" : 18,
+"0" :  "(150,(150,162), this)",
+"1" :  "(150,(150,152), this)",
+"2" :  "(150,(150,154), this)",
+"3" :  "(150,(150,156), this)",
+"4" :  "(150,(150,158), this)",
+"5" :  "(150,(150,160), this)",
+"6" :  "(150,(150,162), $SwitchMap$org$apache$sysds$api$mlcontext$MLContext$ExplainLevel)",
+"7" :  "(150,(150,152), $SwitchMap$org$apache$sysds$api$mlcontext$MLContext$ExplainLevel)",
+"8" :  "(150,(150,154), $SwitchMap$org$apache$sysds$api$mlcontext$MLContext$ExplainLevel)",
+"9" :  "(150,(150,156), $SwitchMap$org$apache$sysds$api$mlcontext$MLContext$ExplainLevel)",
+"10" :  "(150,(150,158), $SwitchMap$org$apache$sysds$api$mlcontext$MLContext$ExplainLevel)",
+"11" :  "(150,(150,160), $SwitchMap$org$apache$sysds$api$mlcontext$MLContext$ExplainLevel)",
+"12" :  "(150,152, NONE)",
+"13" :  "(150,154, HOPS)",
+"14" :  "(150,162, HOPS)",
+"15" :  "(150,156, RUNTIME)",
+"16" :  "(150,158, RECOMPILE_HOPS)",
+"17" :  "(150,160, RECOMPILE_RUNTIME)"}]
+}

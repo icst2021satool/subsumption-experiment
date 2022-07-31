@@ -1,0 +1,9 @@
+{
+"Class" : "org.apache.sysds.runtime.io.BinaryBlockSerialization", 
+"Methods" : [{ "Name" : "accept" ,
+"Duas" : 4,
+"0" :  "(45,(47,50), arg0)",
+"1" :  "(45,(47,53), arg0)",
+"2" :  "(45,53, ret)",
+"3" :  "(50,53, ret)"}]
+}

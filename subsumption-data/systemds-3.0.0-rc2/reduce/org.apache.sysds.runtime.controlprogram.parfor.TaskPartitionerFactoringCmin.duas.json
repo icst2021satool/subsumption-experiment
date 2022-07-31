@@ -1,0 +1,15 @@
+{
+"Class" : "org.apache.sysds.runtime.controlprogram.parfor.TaskPartitionerFactoringCmin", 
+"Methods" : [{ "Name" : "determineNextBatchSize" ,
+"Duas" : 10,
+"0" :  "(42,(45,46), this)",
+"1" :  "(42,(45,48), this)",
+"2" :  "(42,46, this)",
+"3" :  "(42,(45,46), this._constraint)",
+"4" :  "(42,(45,48), this._constraint)",
+"5" :  "(42,46, this._constraint)",
+"6" :  "(43,(45,46), K)",
+"7" :  "(43,(45,48), K)",
+"8" :  "(43,48, K)",
+"9" :  "(46,48, K)"}]
+}

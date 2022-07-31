@@ -1,0 +1,22 @@
+{
+"Class" : "org.apache.sysds.common.Types$OpOp3", 
+"Methods" : [{ "Name" : "toString" ,
+"Duas" : 11,
+"0" :  "(417,(417,422), this)",
+"1" :  "(417,(417,418), this)",
+"2" :  "(417,(417,419), this)",
+"3" :  "(417,(417,420), this)",
+"4" :  "(417,(417,421), this)",
+"5" :  "(417,422, this)",
+"6" :  "(417,(417,422), $SwitchMap$org$apache$sysds$common$Types$OpOp3)",
+"7" :  "(417,(417,418), $SwitchMap$org$apache$sysds$common$Types$OpOp3)",
+"8" :  "(417,(417,419), $SwitchMap$org$apache$sysds$common$Types$OpOp3)",
+"9" :  "(417,(417,420), $SwitchMap$org$apache$sysds$common$Types$OpOp3)",
+"10" :  "(417,(417,421), $SwitchMap$org$apache$sysds$common$Types$OpOp3)"},{ "Name" : "valueOfByOpcode" ,
+"Duas" : 5,
+"0" :  "(427,432, opcode)",
+"1" :  "(427,428, MOMENT)",
+"2" :  "(427,429, PLUS_MULT)",
+"3" :  "(427,430, MINUS_MULT)",
+"4" :  "(427,431, MAP)"}]
+}

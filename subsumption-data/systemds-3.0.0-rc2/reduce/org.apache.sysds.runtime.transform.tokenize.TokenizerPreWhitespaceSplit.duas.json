@@ -1,0 +1,17 @@
+{
+"Class" : "org.apache.sysds.runtime.transform.tokenize.TokenizerPreWhitespaceSplit", 
+"Methods" : [{ "Name" : "splitToTokens" ,
+"Duas" : 5,
+"0" :  "(60,64, text)",
+"1" :  "(60,68, tokenList)",
+"2" :  "(60,66, tokenList)",
+"3" :  "(62,64, curIndex)",
+"4" :  "(65,64, curIndex)"},{ "Name" : "lambda$tokenizePre$0" ,
+"Duas" : 6,
+"0" :  "(78,86, this)",
+"1" :  "(78,87, documentsToTokenList)",
+"2" :  "(78,81, s)",
+"3" :  "(78,86, text)",
+"4" :  "(79,87, keys)",
+"5" :  "(79,82, keys)"}]
+}

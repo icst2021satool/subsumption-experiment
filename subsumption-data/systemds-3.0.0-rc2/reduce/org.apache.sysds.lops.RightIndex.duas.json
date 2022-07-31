@@ -1,0 +1,19 @@
+{
+"Class" : "org.apache.sysds.lops.RightIndex", 
+"Methods" : [{ "Name" : "getOpcode" ,
+"Duas" : 4,
+"0" :  "(80,(80,81), this)",
+"1" :  "(80,(80,83), this)",
+"2" :  "(80,(80,81), this.forLeftIndexing)",
+"3" :  "(80,(80,83), this.forLeftIndexing)"},{ "Name" : "getInstructions" ,
+"Duas" : 9,
+"0" :  "(93,(121,122), this)",
+"1" :  "(93,(121,126), this)",
+"2" :  "(93,123, this)",
+"3" :  "(93,(121,122), SPARK)",
+"4" :  "(93,(121,126), SPARK)",
+"5" :  "(93,123, this._aggtype)",
+"6" :  "(93,126, sb)",
+"7" :  "(93,122, sb)",
+"8" :  "(93,123, sb)"}]
+}

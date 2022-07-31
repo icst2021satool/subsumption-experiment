@@ -1,0 +1,18 @@
+{
+"Class" : "org.apache.sysds.runtime.instructions.fed.ReorgFEDInstruction$Rdiag", 
+"Methods" : [{ "Name" : "execute" ,
+"Duas" : 13,
+"0" :  "(310,(314,315), this)",
+"1" :  "(310,(314,316), this)",
+"2" :  "(310,316, this)",
+"3" :  "(310,317, this)",
+"4" :  "(310,321, this)",
+"5" :  "(310,321, ec)",
+"6" :  "(310,(314,315), this._rowFed)",
+"7" :  "(310,(314,316), this._rowFed)",
+"8" :  "(310,316, this._slice)",
+"9" :  "(310,317, this._r_op)",
+"10" :  "(310,321, this._outputID)",
+"11" :  "(310,323, SUCCESS)",
+"12" :  "(310,316, mb)"}]
+}

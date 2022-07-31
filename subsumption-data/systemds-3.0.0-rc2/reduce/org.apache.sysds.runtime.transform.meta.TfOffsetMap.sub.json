@@ -1,0 +1,10 @@
+{
+"Class" : "org.apache.sysds.runtime.transform.meta.TfOffsetMap", 
+"Methods" : [{ "Name" : "<init>" ,
+"Duas" : "12" ,
+"Subsumers" : 3,
+"0" : [ 10, 11], "S0" : [0, 1, 2, 3, 5, 7, 8, 9, 10, 11 ],
+"1" : [ 4], "S1" : [0, 1, 3, 4 ],
+"2" : [ 6], "S2" : [0, 1, 3, 6 ]
+}]
+}

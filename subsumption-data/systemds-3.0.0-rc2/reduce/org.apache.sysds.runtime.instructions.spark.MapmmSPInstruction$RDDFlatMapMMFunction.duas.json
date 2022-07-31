@@ -1,0 +1,19 @@
+{
+"Class" : "org.apache.sysds.runtime.instructions.spark.MapmmSPInstruction$RDDFlatMapMMFunction", 
+"Methods" : [{ "Name" : "call" ,
+"Duas" : 14,
+"0" :  "(423,(426,428), this)",
+"1" :  "(423,(426,435), this)",
+"2" :  "(423,435, this)",
+"3" :  "(423,428, this)",
+"4" :  "(423,(426,428), LEFT)",
+"5" :  "(423,(426,435), LEFT)",
+"6" :  "(423,(426,428), this._type)",
+"7" :  "(423,(426,435), this._type)",
+"8" :  "(423,435, this._pbc)",
+"9" :  "(423,428, this._pbc)",
+"10" :  "(423,435, ixIn)",
+"11" :  "(423,428, ixIn)",
+"12" :  "(424,435, blkIn)",
+"13" :  "(424,428, blkIn)"}]
+}

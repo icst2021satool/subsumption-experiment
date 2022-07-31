@@ -1,0 +1,10 @@
+{
+"Class" : "org.apache.sysds.hops.codegen.cplan.CodeTemplate", 
+"Methods" : [{ "Name" : "getTemplate" ,
+"Duas" : "6" ,
+"Subsumers" : 3,
+"0" : [ 0], "S0" : [0 ],
+"1" : [ 5, 4, 1], "S1" : [1, 4, 5 ],
+"2" : [ 3, 2], "S2" : [2, 3 ]
+}]
+}

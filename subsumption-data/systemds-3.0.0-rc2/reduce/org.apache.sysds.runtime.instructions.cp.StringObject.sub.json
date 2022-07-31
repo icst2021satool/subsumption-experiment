@@ -1,0 +1,25 @@
+{
+"Class" : "org.apache.sysds.runtime.instructions.cp.StringObject", 
+"Methods" : [{ "Name" : "getBooleanValue" ,
+"Duas" : "8" ,
+"Subsumers" : 3,
+"0" : [ 6, 2], "S0" : [0, 2, 4, 6 ],
+"1" : [ 7, 3], "S1" : [0, 3, 4, 7 ],
+"2" : [ 5, 1], "S2" : [1, 5 ]
+},{ "Name" : "getLongValue" ,
+"Duas" : "2" ,
+"Subsumers" : 2,
+"0" : [ 0], "S0" : [0 ],
+"1" : [ 1], "S1" : [1 ]
+},{ "Name" : "getDoubleValue" ,
+"Duas" : "2" ,
+"Subsumers" : 2,
+"0" : [ 0], "S0" : [0 ],
+"1" : [ 1], "S1" : [1 ]
+},{ "Name" : "checkMaxStringLength" ,
+"Duas" : "3" ,
+"Subsumers" : 2,
+"0" : [ 2, 0], "S0" : [0, 2 ],
+"1" : [ 1], "S1" : [1 ]
+}]
+}

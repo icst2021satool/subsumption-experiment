@@ -1,0 +1,10 @@
+{
+"Class" : "org.apache.sysds.lops.GroupedAggregateM", 
+"Methods" : [{ "Name" : "<init>" ,
+"Duas" : 5,
+"0" :  "(52,55, this)",
+"1" :  "(52,(55,55), partitioned)",
+"2" :  "(52,(55,55), partitioned)",
+"3" :  "(52,55, RIGHT)",
+"4" :  "(52,55, RIGHT_PART)"}]
+}

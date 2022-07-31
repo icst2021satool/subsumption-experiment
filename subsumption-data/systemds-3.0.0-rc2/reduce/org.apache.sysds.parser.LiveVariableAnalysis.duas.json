@@ -1,0 +1,16 @@
+{
+"Class" : "org.apache.sysds.parser.LiveVariableAnalysis", 
+"Methods" : [{ "Name" : "updateLiveVariables" ,
+"Duas" : 11,
+"0" :  "(97,(98,99), origVars)",
+"1" :  "(97,(98,104), origVars)",
+"2" :  "(97,101, origVars)",
+"3" :  "(97,99, newVars)",
+"4" :  "(97,(98,99), var)",
+"5" :  "(97,(98,104), var)",
+"6" :  "(97,99, var)",
+"7" :  "(97,101, var)",
+"8" :  "(99,(100,101), varId)",
+"9" :  "(99,(100,104), varId)",
+"10" :  "(99,101, varId)"}]
+}

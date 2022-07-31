@@ -1,0 +1,22 @@
+{
+"Class" : "org.apache.sysds.hops.fedplanner.FTypes$FederatedPlanner", 
+"Methods" : [{ "Name" : "getPlanner" ,
+"Duas" : 8,
+"0" :  "(31,(31,41), this)",
+"1" :  "(31,(31,33), this)",
+"2" :  "(31,(31,35), this)",
+"3" :  "(31,(31,37), this)",
+"4" :  "(31,(31,41), $SwitchMap$org$apache$sysds$hops$fedplanner$FTypes$FederatedPlanner)",
+"5" :  "(31,(31,33), $SwitchMap$org$apache$sysds$hops$fedplanner$FTypes$FederatedPlanner)",
+"6" :  "(31,(31,35), $SwitchMap$org$apache$sysds$hops$fedplanner$FTypes$FederatedPlanner)",
+"7" :  "(31,(31,37), $SwitchMap$org$apache$sysds$hops$fedplanner$FTypes$FederatedPlanner)"},{ "Name" : "isCompiled" ,
+"Duas" : 8,
+"0" :  "(45,(45,45), this)",
+"1" :  "(45,(45,45), this)",
+"2" :  "(45,(45,45), this)",
+"3" :  "(45,(45,45), this)",
+"4" :  "(45,(45,45), NONE)",
+"5" :  "(45,(45,45), NONE)",
+"6" :  "(45,(45,45), RUNTIME)",
+"7" :  "(45,(45,45), RUNTIME)"}]
+}

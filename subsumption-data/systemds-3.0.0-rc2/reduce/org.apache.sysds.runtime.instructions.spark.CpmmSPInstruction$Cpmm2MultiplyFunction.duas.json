@@ -1,0 +1,19 @@
+{
+"Class" : "org.apache.sysds.runtime.instructions.spark.CpmmSPInstruction$Cpmm2MultiplyFunction", 
+"Methods" : [{ "Name" : "call" ,
+"Duas" : 14,
+"0" :  "(222,(222,223), this)",
+"1" :  "(222,(222,227), this)",
+"2" :  "(222,228, this)",
+"3" :  "(222,230, this)",
+"4" :  "(222,223, this)",
+"5" :  "(222,224, this)",
+"6" :  "(222,227, arg0)",
+"7" :  "(222,228, arg0)",
+"8" :  "(222,(222,223), this._op)",
+"9" :  "(222,(222,227), this._op)",
+"10" :  "(222,230, this._op)",
+"11" :  "(222,228, this._rop)",
+"12" :  "(223,230, this._op)",
+"13" :  "(224,228, this._rop)"}]
+}

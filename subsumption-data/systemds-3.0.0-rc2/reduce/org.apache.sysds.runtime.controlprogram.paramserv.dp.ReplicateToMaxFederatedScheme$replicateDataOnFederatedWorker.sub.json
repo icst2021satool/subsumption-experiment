@@ -1,0 +1,9 @@
+{
+"Class" : "org.apache.sysds.runtime.controlprogram.paramserv.dp.ReplicateToMaxFederatedScheme$replicateDataOnFederatedWorker", 
+"Methods" : [{ "Name" : "execute" ,
+"Duas" : "15" ,
+"Subsumers" : 2,
+"0" : [ 14, 11, 12, 13, 9, 7, 6, 4, 2, 3, 0], "S0" : [0, 2, 3, 4, 6, 7, 8, 9, 11, 12, 13, 14 ],
+"1" : [ 10, 5, 1], "S1" : [1, 5, 8, 10 ]
+}]
+}

@@ -1,0 +1,10 @@
+{
+"Class" : "org.apache.sysds.runtime.instructions.cp.Data", 
+"Methods" : [{ "Name" : "setPrivacyConstraints" ,
+"Duas" : 5,
+"0" :  "(63,(64,65), pc)",
+"1" :  "(63,(64,66), pc)",
+"2" :  "(63,65, pc)",
+"3" :  "(63,(64,64), CHECK_PRIVACY)",
+"4" :  "(63,(64,66), CHECK_PRIVACY)"}]
+}

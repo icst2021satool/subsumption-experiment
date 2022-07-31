@@ -1,0 +1,14 @@
+{
+"Class" : "org.apache.sysds.runtime.compress.workload.WTreeRoot", 
+"Methods" : [{ "Name" : "explain" ,
+"Duas" : 9,
+"0" :  "(59,(66,67), this)",
+"1" :  "(59,(66,69), this)",
+"2" :  "(59,67, this)",
+"3" :  "(59,68, level)",
+"4" :  "(59,(66,67), this._children)",
+"5" :  "(59,(66,69), this._children)",
+"6" :  "(59,67, this._children)",
+"7" :  "(59,69, sb)",
+"8" :  "(59,68, sb)"}]
+}

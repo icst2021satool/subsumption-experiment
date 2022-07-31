@@ -1,0 +1,19 @@
+{
+"Class" : "org.apache.sysds.utils.GPUStatistics", 
+"Methods" : [{ "Name" : "getStringForCPMiscTimesPerInstruction" ,
+"Duas" : 14,
+"0" :  "(153,165, instructionName)",
+"1" :  "(153,165, _cpInstMiscCount)",
+"2" :  "(153,176, sb)",
+"3" :  "(153,171, sb)",
+"4" :  "(153,173, sb)",
+"5" :  "(154,(155,156), miscTimerMap)",
+"6" :  "(154,(155,176), miscTimerMap)",
+"7" :  "(154,156, miscTimerMap)",
+"8" :  "(164,(166,167), miscTimeIter)",
+"9" :  "(164,(166,176), miscTimeIter)",
+"10" :  "(164,167, miscTimeIter)",
+"11" :  "(164,(172,173), miscTimeIter)",
+"12" :  "(164,(172,174), miscTimeIter)",
+"13" :  "(165,170, miscCountMap)"}]
+}

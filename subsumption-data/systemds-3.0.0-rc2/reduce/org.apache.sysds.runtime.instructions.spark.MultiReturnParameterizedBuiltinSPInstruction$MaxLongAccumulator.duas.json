@@ -1,0 +1,9 @@
+{
+"Class" : "org.apache.sysds.runtime.instructions.spark.MultiReturnParameterizedBuiltinSPInstruction$MaxLongAccumulator", 
+"Methods" : [{ "Name" : "isZero" ,
+"Duas" : 4,
+"0" :  "(204,(204,204), this)",
+"1" :  "(204,(204,204), this)",
+"2" :  "(204,(204,204), this._value)",
+"3" :  "(204,(204,204), this._value)"}]
+}

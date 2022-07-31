@@ -1,0 +1,14 @@
+{
+"Class" : "org.apache.sysds.parser.dml.DmlParser$RelationalExpressionContext", 
+"Methods" : [{ "Name" : "enterRule" ,
+"Duas" : 4,
+"0" :  "(2095,2095, this)",
+"1" :  "(2095,(2095,2095), listener)",
+"2" :  "(2095,(2095,2096), listener)",
+"3" :  "(2095,2095, listener)"},{ "Name" : "exitRule" ,
+"Duas" : 4,
+"0" :  "(2099,2099, this)",
+"1" :  "(2099,(2099,2099), listener)",
+"2" :  "(2099,(2099,2100), listener)",
+"3" :  "(2099,2099, listener)"}]
+}

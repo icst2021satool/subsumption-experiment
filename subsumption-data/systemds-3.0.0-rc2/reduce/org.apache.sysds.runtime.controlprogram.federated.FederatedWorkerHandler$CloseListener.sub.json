@@ -1,0 +1,9 @@
+{
+"Class" : "org.apache.sysds.runtime.controlprogram.federated.FederatedWorkerHandler$CloseListener", 
+"Methods" : [{ "Name" : "operationComplete" ,
+"Duas" : "6" ,
+"Subsumers" : 2,
+"0" : [ 5, 4, 3, 0], "S0" : [0, 3, 4, 5 ],
+"1" : [ 2, 1], "S1" : [1, 2 ]
+}]
+}

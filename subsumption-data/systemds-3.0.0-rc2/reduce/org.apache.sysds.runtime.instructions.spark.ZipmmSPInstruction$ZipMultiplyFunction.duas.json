@@ -1,0 +1,20 @@
+{
+"Class" : "org.apache.sysds.runtime.instructions.spark.ZipmmSPInstruction$ZipMultiplyFunction", 
+"Methods" : [{ "Name" : "call" ,
+"Duas" : 15,
+"0" :  "(118,(118,118), this)",
+"1" :  "(118,(118,118), this)",
+"2" :  "(118,(119,119), this)",
+"3" :  "(118,(119,119), this)",
+"4" :  "(118,122, this)",
+"5" :  "(118,125, this)",
+"6" :  "(118,118, arg0)",
+"7" :  "(118,119, arg0)",
+"8" :  "(118,(118,118), this._tRewrite)",
+"9" :  "(118,(118,118), this._tRewrite)",
+"10" :  "(118,(119,119), this._tRewrite)",
+"11" :  "(118,(119,119), this._tRewrite)",
+"12" :  "(118,122, this._rop)",
+"13" :  "(118,125, this._abop)",
+"14" :  "(118,125, in1)"}]
+}

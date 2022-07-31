@@ -1,0 +1,15 @@
+{
+"Class" : "org.apache.sysds.runtime.io.hdf5.H5SymbolTableEntry", 
+"Methods" : [{ "Name" : "toBuffer" ,
+"Duas" : 10,
+"0" :  "(54,(61,64), this)",
+"1" :  "(54,(61,69), this)",
+"2" :  "(54,64, this)",
+"3" :  "(54,67, this)",
+"4" :  "(54,64, bb)",
+"5" :  "(54,67, bb)",
+"6" :  "(54,(61,64), this.cacheType)",
+"7" :  "(54,(61,69), this.cacheType)",
+"8" :  "(54,64, this.bTreeAddress)",
+"9" :  "(54,67, this.nameHeapAddress)"}]
+}

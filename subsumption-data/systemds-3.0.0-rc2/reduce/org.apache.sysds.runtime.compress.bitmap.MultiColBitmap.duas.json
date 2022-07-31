@@ -1,0 +1,13 @@
+{
+"Class" : "org.apache.sysds.runtime.compress.bitmap.MultiColBitmap", 
+"Methods" : [{ "Name" : "getNumNonZerosInOffset" ,
+"Duas" : 6,
+"0" :  "(60,63, nz)",
+"1" :  "(60,62, nz)",
+"2" :  "(61,(62,62), v)",
+"3" :  "(61,(62,62), v)",
+"4" :  "(62,63, nz)",
+"5" :  "(62,62, nz)"},{ "Name" : "addToString" ,
+"Duas" : 1,
+"0" :  "(80,82, sb)"}]
+}

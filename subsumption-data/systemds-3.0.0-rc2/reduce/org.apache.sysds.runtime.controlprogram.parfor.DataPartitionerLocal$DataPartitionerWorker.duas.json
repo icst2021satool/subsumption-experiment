@@ -1,0 +1,23 @@
+{
+"Class" : "org.apache.sysds.runtime.controlprogram.parfor.DataPartitionerLocal$DataPartitionerWorker", 
+"Methods" : [{ "Name" : "run" ,
+"Duas" : 18,
+"0" :  "(516,(516,518), this)",
+"1" :  "(516,(516,525), this)",
+"2" :  "(516,518, this)",
+"3" :  "(516,519, this)",
+"4" :  "(516,(516,518), this._end)",
+"5" :  "(516,(516,525), this._end)",
+"6" :  "(516,518, this._fnamesPartitions)",
+"7" :  "(516,519, this._job)",
+"8" :  "(516,519, this._fnameNew)",
+"9" :  "(516,519, this._fnameStaging)",
+"10" :  "(516,(516,518), i)",
+"11" :  "(516,(516,525), i)",
+"12" :  "(516,518, i)",
+"13" :  "(516,516, i)",
+"14" :  "(516,(516,518), i)",
+"15" :  "(516,(516,525), i)",
+"16" :  "(516,518, i)",
+"17" :  "(516,516, i)"}]
+}

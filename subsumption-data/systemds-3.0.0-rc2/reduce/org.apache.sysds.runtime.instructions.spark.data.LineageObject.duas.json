@@ -1,0 +1,9 @@
+{
+"Class" : "org.apache.sysds.runtime.instructions.spark.data.LineageObject", 
+"Methods" : [{ "Name" : "hasBackReference" ,
+"Duas" : 4,
+"0" :  "(50,(50,50), this)",
+"1" :  "(50,(50,50), this)",
+"2" :  "(50,(50,50), this._cd)",
+"3" :  "(50,(50,50), this._cd)"}]
+}

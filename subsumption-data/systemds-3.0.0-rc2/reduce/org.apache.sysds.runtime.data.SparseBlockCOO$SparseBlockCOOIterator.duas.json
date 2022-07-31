@@ -1,0 +1,11 @@
+{
+"Class" : "org.apache.sysds.runtime.data.SparseBlockCOO$SparseBlockCOOIterator", 
+"Methods" : [{ "Name" : "hasNext" ,
+"Duas" : 6,
+"0" :  "(713,(713,713), this)",
+"1" :  "(713,(713,713), this)",
+"2" :  "(713,(713,713), this._len)",
+"3" :  "(713,(713,713), this._len)",
+"4" :  "(713,(713,713), this._pos)",
+"5" :  "(713,(713,713), this._pos)"}]
+}

@@ -1,0 +1,17 @@
+{
+"Class" : "org.apache.sysds.runtime.controlprogram.ParForProgramBlock$PResultMerge", 
+"Methods" : [{ "Name" : "isLocal" ,
+"Duas" : 12,
+"0" :  "(273,(273,273), this)",
+"1" :  "(273,(273,273), this)",
+"2" :  "(273,(273,273), this)",
+"3" :  "(273,(273,273), this)",
+"4" :  "(273,(273,273), this)",
+"5" :  "(273,(273,273), this)",
+"6" :  "(273,(273,273), LOCAL_MEM)",
+"7" :  "(273,(273,273), LOCAL_MEM)",
+"8" :  "(273,(273,273), LOCAL_FILE)",
+"9" :  "(273,(273,273), LOCAL_FILE)",
+"10" :  "(273,(273,273), LOCAL_AUTOMATIC)",
+"11" :  "(273,(273,273), LOCAL_AUTOMATIC)"}]
+}

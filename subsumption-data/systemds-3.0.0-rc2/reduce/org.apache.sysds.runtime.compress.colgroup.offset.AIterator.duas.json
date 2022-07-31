@@ -1,0 +1,16 @@
+{
+"Class" : "org.apache.sysds.runtime.compress.colgroup.offset.AIterator", 
+"Methods" : [{ "Name" : "isNotOver" ,
+"Duas" : 6,
+"0" :  "(68,(68,68), this)",
+"1" :  "(68,(68,68), this)",
+"2" :  "(68,(68,68), ub)",
+"3" :  "(68,(68,68), ub)",
+"4" :  "(68,(68,68), this.offset)",
+"5" :  "(68,(68,68), this.offset)"},{ "Name" : "equals" ,
+"Duas" : 4,
+"0" :  "(110,(110,110), this)",
+"1" :  "(110,(110,110), this)",
+"2" :  "(110,(110,110), o)",
+"3" :  "(110,(110,110), o)"}]
+}

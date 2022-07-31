@@ -1,0 +1,12 @@
+{
+"Class" : "org.apache.sysds.runtime.instructions.spark.functions.RecomputeNnzFunction", 
+"Methods" : [{ "Name" : "call" ,
+"Duas" : 7,
+"0" :  "(34,(35,36), iter)",
+"1" :  "(34,(35,37), iter)",
+"2" :  "(34,36, iter)",
+"3" :  "(34,37, nnz)",
+"4" :  "(34,36, nnz)",
+"5" :  "(36,37, nnz)",
+"6" :  "(36,36, nnz)"}]
+}

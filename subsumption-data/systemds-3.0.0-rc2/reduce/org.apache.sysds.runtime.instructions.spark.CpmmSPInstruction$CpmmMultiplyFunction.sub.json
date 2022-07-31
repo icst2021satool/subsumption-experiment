@@ -1,0 +1,9 @@
+{
+"Class" : "org.apache.sysds.runtime.instructions.spark.CpmmSPInstruction$CpmmMultiplyFunction", 
+"Methods" : [{ "Name" : "call" ,
+"Duas" : "11" ,
+"Subsumers" : 2,
+"0" : [ 10, 7, 3, 0], "S0" : [0, 2, 3, 4, 5, 6, 7, 10 ],
+"1" : [ 9, 8, 1], "S1" : [1, 2, 4, 5, 6, 8, 9 ]
+}]
+}

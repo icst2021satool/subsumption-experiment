@@ -1,0 +1,23 @@
+{
+"Class" : "org.apache.sysds.runtime.instructions.spark.MapmmSPInstruction$RDDMapMMFunction2", 
+"Methods" : [{ "Name" : "call" ,
+"Duas" : 18,
+"0" :  "(317,(320,323), this)",
+"1" :  "(317,(320,332), this)",
+"2" :  "(317,332, this)",
+"3" :  "(317,335, this)",
+"4" :  "(317,323, this)",
+"5" :  "(317,326, this)",
+"6" :  "(317,(320,323), LEFT)",
+"7" :  "(317,(320,332), LEFT)",
+"8" :  "(317,(320,323), this._type)",
+"9" :  "(317,(320,332), this._type)",
+"10" :  "(317,332, this._pbc)",
+"11" :  "(317,323, this._pbc)",
+"12" :  "(317,335, this._op)",
+"13" :  "(317,326, this._op)",
+"14" :  "(317,332, ixIn)",
+"15" :  "(317,323, ixIn)",
+"16" :  "(318,335, blkIn)",
+"17" :  "(318,326, blkIn)"}]
+}

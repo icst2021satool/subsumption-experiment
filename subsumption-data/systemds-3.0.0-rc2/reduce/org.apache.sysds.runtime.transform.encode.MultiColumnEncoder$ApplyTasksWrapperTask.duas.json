@@ -1,0 +1,10 @@
+{
+"Class" : "org.apache.sysds.runtime.transform.encode.MultiColumnEncoder$ApplyTasksWrapperTask", 
+"Methods" : [{ "Name" : "call" ,
+"Duas" : 5,
+"0" :  "(1121,(1121,1122), this)",
+"1" :  "(1121,(1121,1124), this)",
+"2" :  "(1121,1124, this)",
+"3" :  "(1121,(1121,1122), this._offset)",
+"4" :  "(1121,(1121,1124), this._offset)"}]
+}

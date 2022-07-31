@@ -1,0 +1,15 @@
+{
+"Class" : "org.apache.sysds.runtime.instructions.spark.ParameterizedBuiltinSPInstruction$RDDTransformApplyFunction", 
+"Methods" : [{ "Name" : "call" ,
+"Duas" : 10,
+"0" :  "(873,(881,882), this)",
+"1" :  "(873,(881,886), this)",
+"2" :  "(873,882, this)",
+"3" :  "(873,(881,882), this._omap)",
+"4" :  "(873,(881,886), this._omap)",
+"5" :  "(873,882, this._omap)",
+"6" :  "(873,886, key)",
+"7" :  "(873,882, key)",
+"8" :  "(878,886, tmp)",
+"9" :  "(882,886, key)"}]
+}

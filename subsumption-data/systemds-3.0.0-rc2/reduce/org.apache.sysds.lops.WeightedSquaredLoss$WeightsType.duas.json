@@ -1,0 +1,13 @@
+{
+"Class" : "org.apache.sysds.lops.WeightedSquaredLoss$WeightsType", 
+"Methods" : [{ "Name" : "hasFourInputs" ,
+"Duas" : 8,
+"0" :  "(41,(41,41), this)",
+"1" :  "(41,(41,41), this)",
+"2" :  "(41,(41,41), this)",
+"3" :  "(41,(41,41), this)",
+"4" :  "(41,(41,41), POST)",
+"5" :  "(41,(41,41), POST)",
+"6" :  "(41,(41,41), PRE)",
+"7" :  "(41,(41,41), PRE)"}]
+}

@@ -1,0 +1,9 @@
+{
+"Class" : "org.apache.sysds.runtime.controlprogram.caching.MatrixObject$UpdateType", 
+"Methods" : [{ "Name" : "isInPlace" ,
+"Duas" : 4,
+"0" :  "(75,(75,75), this)",
+"1" :  "(75,(75,75), this)",
+"2" :  "(75,(75,75), COPY)",
+"3" :  "(75,(75,75), COPY)"}]
+}

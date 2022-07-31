@@ -1,0 +1,22 @@
+{
+"Class" : "org.apache.sysds.runtime.controlprogram.federated.monitoring.services.WorkerService", 
+"Methods" : [{ "Name" : "getAll" ,
+"Duas" : 4,
+"0" :  "(78,85, _entityRepository)",
+"1" :  "(78,85, WORKER_STATS)",
+"2" :  "(79,92, workersResult)",
+"3" :  "(79,89, workersResult)"},{ "Name" : "updateCachedWorkers" ,
+"Duas" : 6,
+"0" :  "(96,99, this)",
+"1" :  "(96,105, _cachedWorkers)",
+"2" :  "(96,(98,99), workersBaseModel)",
+"3" :  "(96,(98,102), workersBaseModel)",
+"4" :  "(96,102, workersBaseModel)",
+"5" :  "(99,102, workersBaseModel)"},{ "Name" : "lambda$syncWorkerStatisticsWithDB$0" ,
+"Duas" : 5,
+"0" :  "(112,119, _entityRepository)",
+"1" :  "(112,119, WORKER_STATS)",
+"2" :  "(116,(118,119), stats)",
+"3" :  "(116,(118,121), stats)",
+"4" :  "(116,119, stats)"}]
+}

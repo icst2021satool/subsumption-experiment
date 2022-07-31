@@ -1,0 +1,9 @@
+{
+"Class" : "org.apache.sysds.hops.recompile.Recompiler$ResetType", 
+"Methods" : [{ "Name" : "isReset" ,
+"Duas" : 4,
+"0" :  "(139,(139,139), this)",
+"1" :  "(139,(139,139), this)",
+"2" :  "(139,(139,139), NO_RESET)",
+"3" :  "(139,(139,139), NO_RESET)"}]
+}

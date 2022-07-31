@@ -1,0 +1,17 @@
+{
+"Class" : "org.apache.sysds.runtime.instructions.spark.functions.OuterVectorBinaryOpFunction$OuterVectorBinaryOpIterator", 
+"Methods" : [{ "Name" : "hasNext" ,
+"Duas" : 12,
+"0" :  "(69,(69,69), this)",
+"1" :  "(69,(69,70), this)",
+"2" :  "(69,(70,70), this)",
+"3" :  "(69,(70,70), this)",
+"4" :  "(69,(69,69), this._currBlk)",
+"5" :  "(69,(69,70), this._currBlk)",
+"6" :  "(69,(70,70), this.this$0)",
+"7" :  "(69,(70,70), this.this$0)",
+"8" :  "(69,(70,70), this._pmV)",
+"9" :  "(69,(70,70), this._pmV)",
+"10" :  "(69,(70,70), this._currPos)",
+"11" :  "(69,(70,70), this._currPos)"}]
+}

@@ -1,0 +1,11 @@
+{
+"Class" : "org.apache.sysds.hops.codegen.SpoofCompiler$PlanCachePolicy", 
+"Methods" : [{ "Name" : "get" ,
+"Duas" : 6,
+"0" :  "(185,(185,185), planCache)",
+"1" :  "(185,(185,185), planCache)",
+"2" :  "(185,(185,185), compileLiterals)",
+"3" :  "(185,(185,185), compileLiterals)",
+"4" :  "(185,185, CSLH)",
+"5" :  "(185,185, CONSTANT)"}]
+}

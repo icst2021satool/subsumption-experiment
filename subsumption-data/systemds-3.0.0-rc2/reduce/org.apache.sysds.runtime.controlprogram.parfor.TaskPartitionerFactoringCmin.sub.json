@@ -1,0 +1,9 @@
+{
+"Class" : "org.apache.sysds.runtime.controlprogram.parfor.TaskPartitionerFactoringCmin", 
+"Methods" : [{ "Name" : "determineNextBatchSize" ,
+"Duas" : "10" ,
+"Subsumers" : 2,
+"0" : [ 9, 6, 5, 3, 2, 0], "S0" : [0, 2, 3, 5, 6, 9 ],
+"1" : [ 8, 7, 4, 1], "S1" : [1, 4, 7, 8 ]
+}]
+}

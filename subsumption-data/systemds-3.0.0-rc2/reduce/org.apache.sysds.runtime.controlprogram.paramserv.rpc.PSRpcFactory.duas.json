@@ -1,0 +1,12 @@
+{
+"Class" : "org.apache.sysds.runtime.controlprogram.paramserv.rpc.PSRpcFactory", 
+"Methods" : [{ "Name" : "createSparkPSProxy" ,
+"Duas" : 7,
+"0" :  "(61,(61,62), conf)",
+"1" :  "(61,(61,63), conf)",
+"2" :  "(61,63, conf)",
+"3" :  "(61,64, conf)",
+"4" :  "(61,65, conf)",
+"5" :  "(61,66, port)",
+"6" :  "(61,66, aRPC)"}]
+}

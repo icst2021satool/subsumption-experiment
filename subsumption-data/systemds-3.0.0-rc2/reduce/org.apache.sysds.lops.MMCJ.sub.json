@@ -1,0 +1,9 @@
+{
+"Class" : "org.apache.sysds.lops.MMCJ", 
+"Methods" : [{ "Name" : "getInstructions" ,
+"Duas" : "15" ,
+"Subsumers" : 2,
+"0" : [ 12, 13, 14, 8, 7, 5, 3, 4, 0], "S0" : [0, 3, 4, 5, 7, 8, 11, 12, 13, 14 ],
+"1" : [ 10, 9, 6, 2, 1], "S1" : [1, 2, 6, 9, 10, 11 ]
+}]
+}

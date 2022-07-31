@@ -1,0 +1,23 @@
+{
+"Class" : "org.apache.sysds.runtime.instructions.gpu.context.UnifiedMemoryAllocator", 
+"Methods" : [{ "Name" : "allocate" ,
+"Duas" : 3,
+"0" :  "(46,(47,48), status)",
+"1" :  "(46,(47,51), status)",
+"2" :  "(46,48, status)"},{ "Name" : "free" ,
+"Duas" : 3,
+"0" :  "(61,(62,63), status)",
+"1" :  "(61,(62,65), status)",
+"2" :  "(61,63, status)"},{ "Name" : "getAvailableMemory" ,
+"Duas" : 10,
+"0" :  "(88,(88,88), maxAvailableMemory)",
+"1" :  "(88,(88,89), maxAvailableMemory)",
+"2" :  "(88,95, maxAvailableMemory)",
+"3" :  "(88,(88,89), gpuUtilizationFactor)",
+"4" :  "(88,(88,95), gpuUtilizationFactor)",
+"5" :  "(88,92, GPU_MEMORY_UTILIZATION_FACTOR)",
+"6" :  "(88,93, GPU_MEMORY_UTILIZATION_FACTOR)",
+"7" :  "(88,(88,89), GPU_MEMORY_UTILIZATION_FACTOR)",
+"8" :  "(88,(88,95), GPU_MEMORY_UTILIZATION_FACTOR)",
+"9" :  "(92,95, maxAvailableMemory)"}]
+}

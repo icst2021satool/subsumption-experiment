@@ -1,0 +1,23 @@
+{
+"Class" : "org.apache.sysds.runtime.instructions.fed.FEDInstruction$FederatedOutput", 
+"Methods" : [{ "Name" : "isForcedFederated" ,
+"Duas" : 4,
+"0" :  "(66,(66,66), this)",
+"1" :  "(66,(66,66), this)",
+"2" :  "(66,(66,66), FOUT)",
+"3" :  "(66,(66,66), FOUT)"},{ "Name" : "isForcedLocal" ,
+"Duas" : 4,
+"0" :  "(69,(69,69), this)",
+"1" :  "(69,(69,69), this)",
+"2" :  "(69,(69,69), LOUT)",
+"3" :  "(69,(69,69), LOUT)"},{ "Name" : "isForced" ,
+"Duas" : 8,
+"0" :  "(72,(72,72), this)",
+"1" :  "(72,(72,72), this)",
+"2" :  "(72,(72,72), this)",
+"3" :  "(72,(72,72), this)",
+"4" :  "(72,(72,72), FOUT)",
+"5" :  "(72,(72,72), FOUT)",
+"6" :  "(72,(72,72), LOUT)",
+"7" :  "(72,(72,72), LOUT)"}]
+}

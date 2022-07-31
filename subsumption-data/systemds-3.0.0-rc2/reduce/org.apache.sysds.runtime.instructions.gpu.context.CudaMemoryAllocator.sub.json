@@ -1,0 +1,19 @@
+{
+"Class" : "org.apache.sysds.runtime.instructions.gpu.context.CudaMemoryAllocator", 
+"Methods" : [{ "Name" : "allocate" ,
+"Duas" : "3" ,
+"Subsumers" : 2,
+"0" : [ 2, 0], "S0" : [0, 2 ],
+"1" : [ 1], "S1" : [1 ]
+},{ "Name" : "free" ,
+"Duas" : "3" ,
+"Subsumers" : 2,
+"0" : [ 2, 0], "S0" : [0, 2 ],
+"1" : [ 1], "S1" : [1 ]
+},{ "Name" : "canAllocate" ,
+"Duas" : "4" ,
+"Subsumers" : 2,
+"0" : [ 2, 0], "S0" : [0, 2 ],
+"1" : [ 3, 1], "S1" : [1, 3 ]
+}]
+}

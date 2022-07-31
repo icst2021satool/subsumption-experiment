@@ -1,0 +1,14 @@
+{
+"Class" : "org.apache.sysds.runtime.io.ReaderTextCellParallel$CellBuffer", 
+"Methods" : [{ "Name" : "addCell" ,
+"Duas" : "13" ,
+"Subsumers" : 2,
+"0" : [ 12, 11, 10, 9, 8, 7, 5, 4, 0, 1, 2, 3], "S0" : [0, 1, 2, 3, 4, 5, 7, 8, 9, 10, 11, 12 ],
+"1" : [ 6], "S1" : [6 ]
+},{ "Name" : "flushCellBufferToMatrixBlock" ,
+"Duas" : "18" ,
+"Subsumers" : 2,
+"0" : [ 16, 17, 14], "S0" : [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 12, 13, 14, 15, 16, 17 ],
+"1" : [ 11], "S1" : [1, 2, 6, 11 ]
+}]
+}

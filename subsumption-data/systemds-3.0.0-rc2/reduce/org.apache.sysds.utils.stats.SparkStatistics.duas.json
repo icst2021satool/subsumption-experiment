@@ -1,0 +1,22 @@
+{
+"Class" : "org.apache.sysds.utils.stats.SparkStatistics", 
+"Methods" : [{ "Name" : "createdSparkContext" ,
+"Duas" : 2,
+"0" :  "(39,(39,39), ctxCreateTime)",
+"1" :  "(39,(39,39), ctxCreateTime)"},{ "Name" : "displayStatistics" ,
+"Duas" : 14,
+"0" :  "(104,107, ctxCreateTime)",
+"1" :  "(104,109, parallelizeCount)",
+"2" :  "(104,110, broadcastCount)",
+"3" :  "(104,110, collectCount)",
+"4" :  "(104,113, parallelizeTime)",
+"5" :  "(104,114, broadcastTime)",
+"6" :  "(104,115, collectTime)",
+"7" :  "(104,(116,117), ASYNC_TRIGGER_RDD_OPERATIONS)",
+"8" :  "(104,(116,119), ASYNC_TRIGGER_RDD_OPERATIONS)",
+"9" :  "(104,106, sb)",
+"10" :  "(104,108, sb)",
+"11" :  "(104,111, sb)",
+"12" :  "(104,119, sb)",
+"13" :  "(104,117, sb)"}]
+}

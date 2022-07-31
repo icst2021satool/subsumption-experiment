@@ -1,0 +1,19 @@
+{
+"Class" : "org.apache.sysds.runtime.data.DenseBlockInt32", 
+"Methods" : [{ "Name" : "isNumeric" ,
+"Duas" : "4" ,
+"Subsumers" : 2,
+"0" : [ 2, 0], "S0" : [0, 2 ],
+"1" : [ 3, 1], "S1" : [1, 3 ]
+},{ "Name" : "capacity" ,
+"Duas" : "6" ,
+"Subsumers" : 2,
+"0" : [ 3, 0], "S0" : [0, 2, 3, 5 ],
+"1" : [ 4, 1], "S1" : [1, 2, 4, 5 ]
+},{ "Name" : "values" ,
+"Duas" : "15" ,
+"Subsumers" : 2,
+"0" : [ 13, 14, 11], "S0" : [0, 1, 2, 3, 4, 5, 6, 7, 9, 10, 11, 12, 13, 14 ],
+"1" : [ 8], "S1" : [2, 6, 8 ]
+}]
+}

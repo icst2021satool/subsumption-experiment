@@ -1,0 +1,11 @@
+{
+"Class" : "org.apache.sysds.hops.codegen.cplan.CodeTemplate", 
+"Methods" : [{ "Name" : "getTemplate" ,
+"Duas" : 6,
+"0" :  "(52,62, templateFileName)",
+"1" :  "(52,(53,54), templateFileName)",
+"2" :  "(52,(53,57), templateFileName)",
+"3" :  "(52,58, templateFileName)",
+"4" :  "(52,55, templateFileName)",
+"5" :  "(55,58, templateFileName)"}]
+}

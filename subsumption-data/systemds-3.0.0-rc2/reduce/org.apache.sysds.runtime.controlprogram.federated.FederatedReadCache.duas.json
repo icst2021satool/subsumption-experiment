@@ -1,0 +1,22 @@
+{
+"Class" : "org.apache.sysds.runtime.controlprogram.federated.FederatedReadCache", 
+"Methods" : [{ "Name" : "get" ,
+"Duas" : 8,
+"0" :  "(46,47, this)",
+"1" :  "(46,47, fname)",
+"2" :  "(46,(46,47), putPlaceholder)",
+"3" :  "(46,(46,47), putPlaceholder)",
+"4" :  "(46,47, this._rmap)",
+"5" :  "(47,(48,48), tmp)",
+"6" :  "(47,(48,48), tmp)",
+"7" :  "(47,48, tmp)"},{ "Name" : "setData" ,
+"Duas" : 4,
+"0" :  "(58,62, data)",
+"1" :  "(59,(60,61), rce)",
+"2" :  "(59,(60,62), rce)",
+"3" :  "(59,62, rce)"},{ "Name" : "setInvalid" ,
+"Duas" : 3,
+"0" :  "(73,(74,75), rce)",
+"1" :  "(73,(74,76), rce)",
+"2" :  "(73,76, rce)"}]
+}

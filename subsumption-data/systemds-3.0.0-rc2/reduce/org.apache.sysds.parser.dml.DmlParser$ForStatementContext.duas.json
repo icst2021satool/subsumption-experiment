@@ -1,0 +1,14 @@
+{
+"Class" : "org.apache.sysds.parser.dml.DmlParser$ForStatementContext", 
+"Methods" : [{ "Name" : "enterRule" ,
+"Duas" : 4,
+"0" :  "(444,444, this)",
+"1" :  "(444,(444,444), listener)",
+"2" :  "(444,(444,445), listener)",
+"3" :  "(444,444, listener)"},{ "Name" : "exitRule" ,
+"Duas" : 4,
+"0" :  "(448,448, this)",
+"1" :  "(448,(448,448), listener)",
+"2" :  "(448,(448,449), listener)",
+"3" :  "(448,448, listener)"}]
+}

@@ -1,0 +1,22 @@
+{
+"Class" : "org.apache.sysds.runtime.instructions.spark.RmmSPInstruction", 
+"Methods" : [{ "Name" : "parseInstruction" ,
+"Duas" : 8,
+"0" :  "(57,65, str)",
+"1" :  "(57,61, parts)",
+"2" :  "(57,62, parts)",
+"3" :  "(57,63, parts)",
+"4" :  "(58,(60,61), opcode)",
+"5" :  "(58,(60,68), opcode)",
+"6" :  "(58,68, opcode)",
+"7" :  "(58,65, opcode)"},{ "Name" : "getNumJoinPartitions" ,
+"Duas" : 8,
+"0" :  "(107,(107,107), mc1)",
+"1" :  "(107,(107,108), mc1)",
+"2" :  "(107,112, mc1)",
+"3" :  "(107,114, mc1)",
+"4" :  "(107,112, mc2)",
+"5" :  "(107,114, mc2)",
+"6" :  "(107,(107,108), mc2)",
+"7" :  "(107,(107,110), mc2)"}]
+}

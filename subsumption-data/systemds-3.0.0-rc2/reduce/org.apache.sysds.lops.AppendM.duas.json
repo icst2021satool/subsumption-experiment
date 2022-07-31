@@ -1,0 +1,10 @@
+{
+"Class" : "org.apache.sysds.lops.AppendM", 
+"Methods" : [{ "Name" : "getBroadcastInput" ,
+"Duas" : 5,
+"0" :  "(60,(60,61), this)",
+"1" :  "(60,(60,62), this)",
+"2" :  "(60,62, this)",
+"3" :  "(60,(60,61), SPARK)",
+"4" :  "(60,(60,62), SPARK)"}]
+}

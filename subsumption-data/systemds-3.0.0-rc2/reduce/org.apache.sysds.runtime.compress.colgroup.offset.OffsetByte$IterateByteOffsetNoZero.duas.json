@@ -1,0 +1,22 @@
+{
+"Class" : "org.apache.sysds.runtime.compress.colgroup.offset.OffsetByte$IterateByteOffsetNoZero", 
+"Methods" : [{ "Name" : "skipTo" ,
+"Duas" : 17,
+"0" :  "(278,(278,278), this)",
+"1" :  "(278,(278,281), this)",
+"2" :  "(278,281, this)",
+"3" :  "(278,(278,279), this)",
+"4" :  "(278,(278,281), this)",
+"5" :  "(278,279, this)",
+"6" :  "(278,(278,278), idx)",
+"7" :  "(278,(278,281), idx)",
+"8" :  "(278,(278,278), this.offset)",
+"9" :  "(278,(278,281), this.offset)",
+"10" :  "(278,281, this.offset)",
+"11" :  "(278,(278,279), this.this$0)",
+"12" :  "(278,(278,281), this.this$0)",
+"13" :  "(278,(278,279), this.offsets)",
+"14" :  "(278,(278,281), this.offsets)",
+"15" :  "(278,(278,279), this.index)",
+"16" :  "(278,(278,281), this.index)"}]
+}

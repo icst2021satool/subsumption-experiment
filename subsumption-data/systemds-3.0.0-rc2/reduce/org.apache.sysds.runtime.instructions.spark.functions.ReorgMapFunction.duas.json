@@ -1,0 +1,16 @@
+{
+"Class" : "org.apache.sysds.runtime.instructions.spark.functions.ReorgMapFunction", 
+"Methods" : [{ "Name" : "<init>" ,
+"Duas" : 11,
+"0" :  "(40,45, this)",
+"1" :  "(40,50, this)",
+"2" :  "(40,50, this)",
+"3" :  "(40,42, this)",
+"4" :  "(40,(41,42), opcode)",
+"5" :  "(40,(41,44), opcode)",
+"6" :  "(40,(44,45), opcode)",
+"7" :  "(40,(44,48), opcode)",
+"8" :  "(40,48, opcode)",
+"9" :  "(42,50, this._indexFnObject)",
+"10" :  "(45,50, this._indexFnObject)"}]
+}

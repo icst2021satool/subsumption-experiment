@@ -1,0 +1,11 @@
+{
+"Class" : "org.apache.sysds.runtime.instructions.spark.utils.RDDAggregateUtils$AggregateSingleTensorBlockFunction", 
+"Methods" : [{ "Name" : "call" ,
+"Duas" : "21" ,
+"Subsumers" : 4,
+"0" : [ 20, 18, 16, 13, 3, 0], "S0" : [0, 2, 3, 5, 6, 7, 10, 11, 13, 16, 18, 20 ],
+"1" : [ 19, 17, 15, 14, 1], "S1" : [1, 2, 5, 6, 7, 10, 11, 14, 15, 17, 19 ],
+"2" : [ 12, 4], "S2" : [4, 12 ],
+"3" : [ 9, 8], "S3" : [5, 8, 9 ]
+}]
+}

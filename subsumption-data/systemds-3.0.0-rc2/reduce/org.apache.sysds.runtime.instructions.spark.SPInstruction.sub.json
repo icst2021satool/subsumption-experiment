@@ -1,0 +1,9 @@
+{
+"Class" : "org.apache.sysds.runtime.instructions.spark.SPInstruction", 
+"Methods" : [{ "Name" : "preprocessInstruction" ,
+"Duas" : "7" ,
+"Subsumers" : 2,
+"0" : [ 6, 5, 2, 1], "S0" : [0, 1, 2, 5, 6 ],
+"1" : [ 4, 3], "S1" : [0, 3, 4 ]
+}]
+}

@@ -1,0 +1,9 @@
+{
+"Class" : "org.apache.sysds.runtime.io.FileFormatProperties", 
+"Methods" : [{ "Name" : "knownBlocksize" ,
+"Duas" : 4,
+"0" :  "(40,(40,40), this)",
+"1" :  "(40,(40,40), this)",
+"2" :  "(40,(40,40), this._blen)",
+"3" :  "(40,(40,40), this._blen)"}]
+}

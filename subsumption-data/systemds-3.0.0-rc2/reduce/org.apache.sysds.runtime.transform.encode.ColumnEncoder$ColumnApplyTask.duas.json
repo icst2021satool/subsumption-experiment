@@ -1,0 +1,18 @@
+{
+"Class" : "org.apache.sysds.runtime.transform.encode.ColumnEncoder$ColumnApplyTask", 
+"Methods" : [{ "Name" : "call" ,
+"Duas" : 13,
+"0" :  "(443,444, this)",
+"1" :  "(443,(443,443), this)",
+"2" :  "(443,(443,444), this)",
+"3" :  "(443,(443,443), $assertionsDisabled)",
+"4" :  "(443,(443,444), $assertionsDisabled)",
+"5" :  "(443,444, this._outputCol)",
+"6" :  "(443,(443,443), this._outputCol)",
+"7" :  "(443,(443,444), this._outputCol)",
+"8" :  "(443,444, this._encoder)",
+"9" :  "(443,444, this._input)",
+"10" :  "(443,444, this._out)",
+"11" :  "(443,444, this._startRow)",
+"12" :  "(443,444, this._blk)"}]
+}

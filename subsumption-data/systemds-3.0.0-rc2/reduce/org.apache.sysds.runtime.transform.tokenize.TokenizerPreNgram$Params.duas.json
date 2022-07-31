@@ -1,0 +1,17 @@
+{
+"Class" : "org.apache.sysds.runtime.transform.tokenize.TokenizerPreNgram$Params", 
+"Methods" : [{ "Name" : "<init>" ,
+"Duas" : 12,
+"0" :  "(44,49, this)",
+"1" :  "(44,46, this)",
+"2" :  "(44,(45,45), json)",
+"3" :  "(44,(45,48), json)",
+"4" :  "(44,(48,48), json)",
+"5" :  "(44,(48,51), json)",
+"6" :  "(44,(48,49), json)",
+"7" :  "(44,(48,51), json)",
+"8" :  "(44,49, json)",
+"9" :  "(44,(45,46), json)",
+"10" :  "(44,(45,48), json)",
+"11" :  "(44,46, json)"}]
+}

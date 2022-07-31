@@ -1,0 +1,10 @@
+{
+"Class" : "org.apache.sysds.runtime.instructions.fed.ParameterizedBuiltinFEDInstruction$GetMatrixCharacteristics", 
+"Methods" : [{ "Name" : "execute" ,
+"Duas" : 5,
+"0" :  "(908,910, SUCCESS)",
+"1" :  "(908,(909,909), mb)",
+"2" :  "(908,(909,909), mb)",
+"3" :  "(908,909, mb)",
+"4" :  "(908,909, mb)"}]
+}

@@ -1,0 +1,13 @@
+{
+"Class" : "org.apache.sysds.runtime.instructions.spark.RandSPInstruction$TrimSample", 
+"Methods" : [{ "Name" : "call" ,
+"Duas" : 8,
+"0" :  "(870,(870,870), this)",
+"1" :  "(870,(870,870), this)",
+"2" :  "(870,(870,870), v1)",
+"3" :  "(870,(870,870), v1)",
+"4" :  "(870,(870,870), v1._2)",
+"5" :  "(870,(870,870), v1._2)",
+"6" :  "(870,(870,870), this._max)",
+"7" :  "(870,(870,870), this._max)"}]
+}

@@ -1,0 +1,15 @@
+{
+"Class" : "org.apache.sysds.hops.HopsException", 
+"Methods" : [{ "Name" : "check" ,
+"Duas" : 4,
+"0" :  "(54,(54,55), condition)",
+"1" :  "(54,(54,56), condition)",
+"2" :  "(54,55, message)",
+"3" :  "(54,55, objects)"},{ "Name" : "check" ,
+"Duas" : 5,
+"0" :  "(65,(65,66), condition)",
+"1" :  "(65,(65,67), condition)",
+"2" :  "(65,66, hop)",
+"3" :  "(65,66, message)",
+"4" :  "(65,66, objects)"}]
+}

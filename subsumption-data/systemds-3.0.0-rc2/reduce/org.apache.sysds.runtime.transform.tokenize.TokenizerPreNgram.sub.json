@@ -1,0 +1,17 @@
+{
+"Class" : "org.apache.sysds.runtime.transform.tokenize.TokenizerPreNgram", 
+"Methods" : [{ "Name" : "wordTokenToNgrams" ,
+"Duas" : "22" ,
+"Subsumers" : 2,
+"0" : [ 19, 20, 21, 17], "S0" : [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 14, 15, 16, 17, 18, 19, 20, 21 ],
+"1" : [ 13], "S1" : [7, 11, 13 ]
+},{ "Name" : "wordTokenListToNgrams" ,
+"Duas" : "3" ,
+"Subsumers" : 1,
+"0" : [ 2, 0], "S0" : [0, 1, 2 ]
+},{ "Name" : "tokenizePre" ,
+"Duas" : "3" ,
+"Subsumers" : 1,
+"0" : [ 2, 0], "S0" : [0, 1, 2 ]
+}]
+}

@@ -1,0 +1,15 @@
+{
+"Class" : "org.apache.sysds.runtime.controlprogram.ParForProgramBlock$PDataPartitionFormat", 
+"Methods" : [{ "Name" : "parsePDataPartitionFormat" ,
+"Duas" : "22" ,
+"Subsumers" : 8,
+"0" : [ 14, 0], "S0" : [0, 14 ],
+"1" : [ 15, 2], "S1" : [1, 2, 15 ],
+"2" : [ 16, 4], "S2" : [1, 3, 4, 16 ],
+"3" : [ 17, 6], "S3" : [1, 3, 5, 6, 17 ],
+"4" : [ 18, 8], "S4" : [1, 3, 5, 7, 8, 18 ],
+"5" : [ 19, 10], "S5" : [1, 3, 5, 7, 9, 10, 19 ],
+"6" : [ 20, 12], "S6" : [1, 3, 5, 7, 9, 11, 12, 20 ],
+"7" : [ 21, 13], "S7" : [1, 3, 5, 7, 9, 11, 13, 21 ]
+}]
+}

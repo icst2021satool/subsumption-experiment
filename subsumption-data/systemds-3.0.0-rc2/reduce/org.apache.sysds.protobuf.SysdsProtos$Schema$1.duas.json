@@ -1,0 +1,9 @@
+{
+"Class" : "org.apache.sysds.protobuf.SysdsProtos$Schema$1", 
+"Methods" : [{ "Name" : "convert" ,
+"Duas" : 4,
+"0" :  "(2342,2343, UNRECOGNIZED)",
+"1" :  "(2342,(2343,2343), result)",
+"2" :  "(2342,(2343,2343), result)",
+"3" :  "(2342,2343, result)"}]
+}

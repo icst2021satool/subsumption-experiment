@@ -1,0 +1,12 @@
+{
+"Class" : "org.apache.sysds.runtime.instructions.cp.BroadcastCPInstruction", 
+"Methods" : [{ "Name" : "processInstruction" ,
+"Duas" : 7,
+"0" :  "(45,49, this)",
+"1" :  "(45,49, ec)",
+"2" :  "(45,49, this.output)",
+"3" :  "(45,(47,48), triggerRemoteOPsPool)",
+"4" :  "(45,(47,49), triggerRemoteOPsPool)",
+"5" :  "(45,49, triggerRemoteOPsPool)",
+"6" :  "(48,49, triggerRemoteOPsPool)"}]
+}

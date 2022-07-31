@@ -1,0 +1,11 @@
+{
+"Class" : "org.apache.sysds.runtime.controlprogram.federated.FederatedData$1", 
+"Methods" : [{ "Name" : "initChannel" ,
+"Duas" : "18" ,
+"Subsumers" : 4,
+"0" : [ 17, 10, 8, 7, 6, 0], "S0" : [0, 4, 6, 7, 8, 10, 14, 15, 17 ],
+"1" : [ 9, 1], "S1" : [1, 4, 9, 14, 15 ],
+"2" : [ 16, 13, 11, 5, 2], "S2" : [2, 4, 5, 11, 13, 14, 15, 16 ],
+"3" : [ 12, 3], "S3" : [3, 4, 12, 14, 15 ]
+}]
+}

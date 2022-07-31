@@ -1,0 +1,18 @@
+{
+"Class" : "org.apache.sysds.parser.ExpressionList", 
+"Methods" : [{ "Name" : "validateExpression" ,
+"Duas" : 3,
+"0" :  "(54,55, ids)",
+"1" :  "(54,55, currConstVars)",
+"2" :  "(54,55, conditional)"},{ "Name" : "variablesRead" ,
+"Duas" : 2,
+"0" :  "(66,70, result)",
+"1" :  "(66,68, result)"},{ "Name" : "variablesUpdated" ,
+"Duas" : 2,
+"0" :  "(75,79, result)",
+"1" :  "(75,77, result)"},{ "Name" : "toString" ,
+"Duas" : 3,
+"0" :  "(84,90, sb)",
+"1" :  "(84,91, sb)",
+"2" :  "(84,88, sb)"}]
+}

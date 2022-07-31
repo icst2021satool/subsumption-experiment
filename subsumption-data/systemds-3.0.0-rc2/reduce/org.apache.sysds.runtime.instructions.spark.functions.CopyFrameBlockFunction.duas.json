@@ -1,0 +1,11 @@
+{
+"Class" : "org.apache.sysds.runtime.instructions.spark.functions.CopyFrameBlockFunction", 
+"Methods" : [{ "Name" : "call" ,
+"Duas" : 6,
+"0" :  "(47,(47,48), this)",
+"1" :  "(47,(47,50), this)",
+"2" :  "(47,50, arg0)",
+"3" :  "(47,48, arg0)",
+"4" :  "(47,(47,48), this._deepCopy)",
+"5" :  "(47,(47,50), this._deepCopy)"}]
+}

@@ -1,0 +1,12 @@
+{
+"Class" : "org.apache.sysds.runtime.controlprogram.federated.monitoring.controllers.WorkerController", 
+"Methods" : [{ "Name" : "get" ,
+"Duas" : 3,
+"0" :  "(60,(62,63), result)",
+"1" :  "(60,(62,66), result)",
+"2" :  "(60,66, result)"},{ "Name" : "getAll" ,
+"Duas" : 3,
+"0" :  "(71,(73,74), workers)",
+"1" :  "(71,(73,77), workers)",
+"2" :  "(71,77, workers)"}]
+}

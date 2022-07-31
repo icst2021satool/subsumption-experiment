@@ -1,0 +1,9 @@
+{
+"Class" : "org.apache.sysds.runtime.functionobjects.CTable$MergePartialCTMaps", 
+"Methods" : [{ "Name" : "mergeToFinal" ,
+"Duas" : 4,
+"0" :  "(269,272, finalMap)",
+"1" :  "(269,(270,271), iter)",
+"2" :  "(269,(270,274), iter)",
+"3" :  "(269,271, iter)"}]
+}

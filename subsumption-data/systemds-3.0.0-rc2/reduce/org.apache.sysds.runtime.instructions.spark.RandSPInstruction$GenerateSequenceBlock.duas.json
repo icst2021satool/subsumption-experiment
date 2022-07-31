@@ -1,0 +1,23 @@
+{
+"Class" : "org.apache.sysds.runtime.instructions.spark.RandSPInstruction$GenerateSequenceBlock", 
+"Methods" : [{ "Name" : "call" ,
+"Duas" : 18,
+"0" :  "(1165,(1165,1166), this)",
+"1" :  "(1165,(1165,1167), this)",
+"2" :  "(1165,1167, this)",
+"3" :  "(1165,1168, this)",
+"4" :  "(1165,1169, this)",
+"5" :  "(1165,1172, this)",
+"6" :  "(1165,1167, seq_from)",
+"7" :  "(1165,1168, seq_from)",
+"8" :  "(1165,1172, seq_from)",
+"9" :  "(1165,(1165,1166), this._seq_incr)",
+"10" :  "(1165,(1165,1167), this._seq_incr)",
+"11" :  "(1165,1167, this._seq_incr)",
+"12" :  "(1165,1168, this._seq_incr)",
+"13" :  "(1165,1172, this._seq_incr)",
+"14" :  "(1165,1167, this._global_seq_end)",
+"15" :  "(1165,1167, this._blen)",
+"16" :  "(1165,1169, this._blen)",
+"17" :  "(1165,1168, this._global_seq_start)"}]
+}

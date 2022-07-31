@@ -1,0 +1,15 @@
+{
+"Class" : "org.apache.sysds.runtime.controlprogram.parfor.TaskPartitionerFactoringCmax", 
+"Methods" : [{ "Name" : "determineNextBatchSize" ,
+"Duas" : 10,
+"0" :  "(43,(46,47), this)",
+"1" :  "(43,(46,49), this)",
+"2" :  "(43,47, this)",
+"3" :  "(43,(46,47), this._constraint)",
+"4" :  "(43,(46,49), this._constraint)",
+"5" :  "(43,47, this._constraint)",
+"6" :  "(44,(46,47), K)",
+"7" :  "(44,(46,49), K)",
+"8" :  "(44,49, K)",
+"9" :  "(47,49, K)"}]
+}

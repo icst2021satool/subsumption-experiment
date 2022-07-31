@@ -1,0 +1,9 @@
+{
+"Class" : "org.apache.sysds.runtime.instructions.cp.IntObject", 
+"Methods" : [{ "Name" : "getBooleanValue" ,
+"Duas" : 4,
+"0" :  "(39,(39,39), this)",
+"1" :  "(39,(39,39), this)",
+"2" :  "(39,(39,39), this._value)",
+"3" :  "(39,(39,39), this._value)"}]
+}

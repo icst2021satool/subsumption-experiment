@@ -1,0 +1,9 @@
+{
+"Class" : "org.apache.sysds.runtime.instructions.cp.BroadcastCPInstruction", 
+"Methods" : [{ "Name" : "processInstruction" ,
+"Duas" : "7" ,
+"Subsumers" : 2,
+"0" : [ 6, 3], "S0" : [0, 1, 2, 3, 6 ],
+"1" : [ 5, 4], "S1" : [0, 1, 2, 4, 5 ]
+}]
+}

@@ -1,0 +1,14 @@
+{
+"Class" : "org.apache.sysds.runtime.instructions.cp.BooleanObject", 
+"Methods" : [{ "Name" : "getLongValue" ,
+"Duas" : 4,
+"0" :  "(43,(43,43), this)",
+"1" :  "(43,(43,43), this)",
+"2" :  "(43,(43,43), this._value)",
+"3" :  "(43,(43,43), this._value)"},{ "Name" : "getDoubleValue" ,
+"Duas" : 4,
+"0" :  "(48,(48,48), this)",
+"1" :  "(48,(48,48), this)",
+"2" :  "(48,(48,48), this._value)",
+"3" :  "(48,(48,48), this._value)"}]
+}

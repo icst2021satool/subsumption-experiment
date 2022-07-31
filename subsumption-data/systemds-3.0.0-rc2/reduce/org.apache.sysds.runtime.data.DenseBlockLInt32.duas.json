@@ -1,0 +1,21 @@
+{
+"Class" : "org.apache.sysds.runtime.data.DenseBlockLInt32", 
+"Methods" : [{ "Name" : "isNumeric" ,
+"Duas" : 4,
+"0" :  "(63,(63,63), vt)",
+"1" :  "(63,(63,63), vt)",
+"2" :  "(63,(63,63), INT32)",
+"3" :  "(63,(63,63), INT32)"},{ "Name" : "isContiguous" ,
+"Duas" : 4,
+"0" :  "(68,(68,68), this)",
+"1" :  "(68,(68,68), this)",
+"2" :  "(68,(68,68), this._blocks)",
+"3" :  "(68,(68,68), this._blocks)"},{ "Name" : "capacity" ,
+"Duas" : 6,
+"0" :  "(78,(78,78), this)",
+"1" :  "(78,(78,78), this)",
+"2" :  "(78,78, this)",
+"3" :  "(78,(78,78), this._blocks)",
+"4" :  "(78,(78,78), this._blocks)",
+"5" :  "(78,78, this._blocks)"}]
+}

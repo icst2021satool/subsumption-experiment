@@ -1,0 +1,21 @@
+{
+"Class" : "org.apache.sysds.runtime.instructions.spark.utils.RDDConverterUtils$BinaryCellToBinaryBlockFunction", 
+"Methods" : [{ "Name" : "call" ,
+"Duas" : 16,
+"0" :  "(612,634, this)",
+"1" :  "(612,627, this)",
+"2" :  "(612,(615,618), arg0)",
+"3" :  "(612,(615,634), arg0)",
+"4" :  "(612,618, arg0)",
+"5" :  "(612,634, ret)",
+"6" :  "(612,636, ret)",
+"7" :  "(612,627, ret)",
+"8" :  "(613,634, rbuff)",
+"9" :  "(613,(626,627), rbuff)",
+"10" :  "(613,(626,630), rbuff)",
+"11" :  "(613,630, rbuff)",
+"12" :  "(613,627, rbuff)",
+"13" :  "(621,630, row)",
+"14" :  "(622,630, col)",
+"15" :  "(623,630, val)"}]
+}

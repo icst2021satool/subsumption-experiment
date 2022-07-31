@@ -1,0 +1,7 @@
+{
+"Class" : "org.apache.sysds.runtime.instructions.spark.functions.FilterNonEmptyBlocksFunction2", 
+"Methods" : [{ "Name" : "call" ,
+"Duas" : 2,
+"0" :  "(31,(31,31), arg0)",
+"1" :  "(31,(31,31), arg0)"}]
+}

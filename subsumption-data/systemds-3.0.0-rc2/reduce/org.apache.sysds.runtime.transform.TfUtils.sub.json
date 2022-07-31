@@ -1,0 +1,22 @@
+{
+"Class" : "org.apache.sysds.runtime.transform.TfUtils", 
+"Methods" : [{ "Name" : "isNA" ,
+"Duas" : "7" ,
+"Subsumers" : 3,
+"0" : [ 0], "S0" : [0 ],
+"1" : [ 5, 3], "S1" : [1, 2, 3, 5 ],
+"2" : [ 6, 4], "S2" : [1, 2, 4, 6 ]
+},{ "Name" : "sanitizeSpaces" ,
+"Duas" : "5" ,
+"Subsumers" : 3,
+"0" : [ 3], "S0" : [0, 2, 3 ],
+"1" : [ 4], "S1" : [0, 2, 4 ],
+"2" : [ 1], "S2" : [1, 2 ]
+},{ "Name" : "desanitizeSpaces" ,
+"Duas" : "5" ,
+"Subsumers" : 3,
+"0" : [ 3], "S0" : [0, 2, 3 ],
+"1" : [ 4], "S1" : [0, 2, 4 ],
+"2" : [ 1], "S2" : [1, 2 ]
+}]
+}

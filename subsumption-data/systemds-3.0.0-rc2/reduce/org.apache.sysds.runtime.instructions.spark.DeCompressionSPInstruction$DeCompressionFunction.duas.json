@@ -1,0 +1,9 @@
+{
+"Class" : "org.apache.sysds.runtime.instructions.spark.DeCompressionSPInstruction$DeCompressionFunction", 
+"Methods" : [{ "Name" : "call" ,
+"Duas" : 4,
+"0" :  "(74,(74,75), arg0)",
+"1" :  "(74,(74,77), arg0)",
+"2" :  "(74,78, arg0)",
+"3" :  "(74,75, arg0)"}]
+}

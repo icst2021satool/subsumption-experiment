@@ -1,0 +1,19 @@
+{
+"Class" : "org.apache.sysds.common.Types$ReOrgOp", 
+"Methods" : [{ "Name" : "toString" ,
+"Duas" : 9,
+"0" :  "(466,(466,470), this)",
+"1" :  "(466,(466,467), this)",
+"2" :  "(466,(466,468), this)",
+"3" :  "(466,(466,469), this)",
+"4" :  "(466,470, this)",
+"5" :  "(466,(466,470), $SwitchMap$org$apache$sysds$common$Types$ReOrgOp)",
+"6" :  "(466,(466,467), $SwitchMap$org$apache$sysds$common$Types$ReOrgOp)",
+"7" :  "(466,(466,468), $SwitchMap$org$apache$sysds$common$Types$ReOrgOp)",
+"8" :  "(466,(466,469), $SwitchMap$org$apache$sysds$common$Types$ReOrgOp)"},{ "Name" : "valueOfByOpcode" ,
+"Duas" : 4,
+"0" :  "(475,479, opcode)",
+"1" :  "(475,476, DIAG)",
+"2" :  "(475,477, TRANS)",
+"3" :  "(475,478, RESHAPE)"}]
+}

@@ -1,0 +1,9 @@
+{
+"Class" : "org.apache.sysds.runtime.controlprogram.paramserv.dp.SubsampleToMinFederatedScheme$subsampleDataOnFederatedWorker", 
+"Methods" : [{ "Name" : "execute" ,
+"Duas" : "13" ,
+"Subsumers" : 2,
+"0" : [ 12, 10, 11, 8, 6, 5, 3, 2, 0], "S0" : [0, 2, 3, 5, 6, 7, 8, 10, 11, 12 ],
+"1" : [ 9, 4, 1], "S1" : [1, 4, 7, 9 ]
+}]
+}

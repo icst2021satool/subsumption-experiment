@@ -1,0 +1,9 @@
+{
+"Class" : "org.apache.sysds.hops.codegen.opt.PlanSelectionFuseAll", 
+"Methods" : [{ "Name" : "selectPlans" ,
+"Duas" : 4,
+"0" :  "(43,47, this)",
+"1" :  "(43,44, this)",
+"2" :  "(43,48, memo)",
+"3" :  "(43,44, memo)"}]
+}

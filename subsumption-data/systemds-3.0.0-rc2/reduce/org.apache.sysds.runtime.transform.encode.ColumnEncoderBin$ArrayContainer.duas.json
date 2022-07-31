@@ -1,0 +1,17 @@
+{
+"Class" : "org.apache.sysds.runtime.transform.encode.ColumnEncoderBin$ArrayContainer", 
+"Methods" : [{ "Name" : "compareTo" ,
+"Duas" : 12,
+"0" :  "(549,(549,549), this)",
+"1" :  "(549,(549,549), this)",
+"2" :  "(549,(549,549), o)",
+"3" :  "(549,(549,549), o)",
+"4" :  "(549,(549,549), this.arr)",
+"5" :  "(549,(549,549), this.arr)",
+"6" :  "(549,(549,549), this.index)",
+"7" :  "(549,(549,549), this.index)",
+"8" :  "(549,(549,549), o.arr)",
+"9" :  "(549,(549,549), o.arr)",
+"10" :  "(549,(549,549), o.index)",
+"11" :  "(549,(549,549), o.index)"}]
+}

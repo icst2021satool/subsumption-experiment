@@ -1,0 +1,20 @@
+{
+"Class" : "org.apache.sysds.runtime.controlprogram.paramserv.dp.LocalDataPartitioner", 
+"Methods" : [{ "Name" : "<init>" ,
+"Duas" : 15,
+"0" :  "(30,42, this)",
+"1" :  "(30,39, this)",
+"2" :  "(30,36, this)",
+"3" :  "(30,33, this)",
+"4" :  "(30,(31,45), scheme)",
+"5" :  "(30,(31,33), scheme)",
+"6" :  "(30,(31,36), scheme)",
+"7" :  "(30,(31,39), scheme)",
+"8" :  "(30,(31,42), scheme)",
+"9" :  "(30,45, scheme)",
+"10" :  "(30,(31,45), $SwitchMap$org$apache$sysds$parser$Statement$PSScheme)",
+"11" :  "(30,(31,33), $SwitchMap$org$apache$sysds$parser$Statement$PSScheme)",
+"12" :  "(30,(31,36), $SwitchMap$org$apache$sysds$parser$Statement$PSScheme)",
+"13" :  "(30,(31,39), $SwitchMap$org$apache$sysds$parser$Statement$PSScheme)",
+"14" :  "(30,(31,42), $SwitchMap$org$apache$sysds$parser$Statement$PSScheme)"}]
+}

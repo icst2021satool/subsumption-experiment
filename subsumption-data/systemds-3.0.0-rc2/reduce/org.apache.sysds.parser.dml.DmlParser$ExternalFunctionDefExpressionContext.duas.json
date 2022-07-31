@@ -1,0 +1,14 @@
+{
+"Class" : "org.apache.sysds.parser.dml.DmlParser$ExternalFunctionDefExpressionContext", 
+"Methods" : [{ "Name" : "enterRule" ,
+"Duas" : 4,
+"0" :  "(1505,1505, this)",
+"1" :  "(1505,(1505,1505), listener)",
+"2" :  "(1505,(1505,1506), listener)",
+"3" :  "(1505,1505, listener)"},{ "Name" : "exitRule" ,
+"Duas" : 4,
+"0" :  "(1509,1509, this)",
+"1" :  "(1509,(1509,1509), listener)",
+"2" :  "(1509,(1509,1510), listener)",
+"3" :  "(1509,1509, listener)"}]
+}

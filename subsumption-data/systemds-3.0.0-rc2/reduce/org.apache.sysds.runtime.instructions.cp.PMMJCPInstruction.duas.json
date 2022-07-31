@@ -1,0 +1,15 @@
+{
+"Class" : "org.apache.sysds.runtime.instructions.cp.PMMJCPInstruction", 
+"Methods" : [{ "Name" : "parseInstruction" ,
+"Duas" : 10,
+"0" :  "(39,50, str)",
+"1" :  "(39,48, str)",
+"2" :  "(41,(47,48), opcode)",
+"3" :  "(41,(47,50), opcode)",
+"4" :  "(41,50, opcode)",
+"5" :  "(42,50, in1)",
+"6" :  "(43,50, in2)",
+"7" :  "(44,50, in3)",
+"8" :  "(45,50, out)",
+"9" :  "(46,50, k)"}]
+}

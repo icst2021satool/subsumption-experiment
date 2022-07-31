@@ -1,0 +1,10 @@
+{
+"Class" : "org.apache.sysds.runtime.controlprogram.paramserv.dp.DCLocalScheme", 
+"Methods" : [{ "Name" : "partition" ,
+"Duas" : "20" ,
+"Subsumers" : 3,
+"0" : [ 8, 0], "S0" : [0, 8 ],
+"1" : [ 18, 19, 16], "S1" : [1, 2, 3, 4, 5, 6, 7, 9, 10, 11, 12, 14, 15, 16, 17, 18, 19 ],
+"2" : [ 13], "S2" : [1, 2, 3, 5, 9, 13 ]
+}]
+}

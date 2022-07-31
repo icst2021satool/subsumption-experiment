@@ -1,0 +1,36 @@
+{
+"Class" : "org.apache.sysds.runtime.transform.decode.DecoderComposite", 
+"Methods" : [{ "Name" : "decode" ,
+"Duas" : "5" ,
+"Subsumers" : 2,
+"0" : [ 4], "S0" : [0, 2, 3, 4 ],
+"1" : [ 1], "S1" : [1 ]
+},{ "Name" : "subRangeDecoder" ,
+"Duas" : "12" ,
+"Subsumers" : 2,
+"0" : [ 11, 9, 8], "S0" : [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 11 ],
+"1" : [ 10], "S1" : [0, 1, 2, 3, 4, 5, 6, 7, 10 ]
+},{ "Name" : "updateIndexRanges" ,
+"Duas" : "2" ,
+"Subsumers" : 1,
+"0" : [ 1, 0], "S0" : [0, 1 ]
+},{ "Name" : "initMetaData" ,
+"Duas" : "1" ,
+"Subsumers" : 1,
+"0" : [ 0], "S0" : [0 ]
+},{ "Name" : "writeExternal" ,
+"Duas" : "11" ,
+"Subsumers" : 3,
+"0" : [ 8, 0], "S0" : [0, 2, 3, 4, 7, 8, 10 ],
+"1" : [ 9, 1], "S1" : [1, 2, 3, 4, 7, 9, 10 ],
+"2" : [ 5, 6], "S2" : [2, 3, 4, 5, 6, 7, 10 ]
+},{ "Name" : "readExternal" ,
+"Duas" : "19" ,
+"Subsumers" : 5,
+"0" : [ 18, 16], "S0" : [0, 1, 2, 3, 4, 5, 12, 13, 15, 16, 17, 18 ],
+"1" : [ 11, 7], "S1" : [0, 5, 7, 8, 11 ],
+"2" : [ 9], "S2" : [0, 5, 9 ],
+"3" : [ 14], "S3" : [0, 5, 14 ],
+"4" : [ 10, 6], "S4" : [6, 8, 10 ]
+}]
+}

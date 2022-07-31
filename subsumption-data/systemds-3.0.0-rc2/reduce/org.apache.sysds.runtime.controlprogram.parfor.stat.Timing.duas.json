@@ -1,0 +1,16 @@
+{
+"Class" : "org.apache.sysds.runtime.controlprogram.parfor.stat.Timing", 
+"Methods" : [{ "Name" : "<init>" ,
+"Duas" : 3,
+"0" :  "(35,38, this)",
+"1" :  "(35,(37,38), start)",
+"2" :  "(35,(37,39), start)"},{ "Name" : "stop" ,
+"Duas" : 7,
+"0" :  "(55,(55,56), this)",
+"1" :  "(55,(55,58), this)",
+"2" :  "(55,59, this)",
+"3" :  "(55,62, this)",
+"4" :  "(55,(55,56), this._start)",
+"5" :  "(55,(55,58), this._start)",
+"6" :  "(55,59, this._start)"}]
+}

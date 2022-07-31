@@ -1,0 +1,11 @@
+{
+"Class" : "org.apache.sysds.runtime.matrix.data.FrameBlock$RowIterator", 
+"Methods" : [{ "Name" : "hasNext" ,
+"Duas" : 6,
+"0" :  "(1566,(1566,1566), this)",
+"1" :  "(1566,(1566,1566), this)",
+"2" :  "(1566,(1566,1566), this._maxPos)",
+"3" :  "(1566,(1566,1566), this._maxPos)",
+"4" :  "(1566,(1566,1566), this._curPos)",
+"5" :  "(1566,(1566,1566), this._curPos)"}]
+}

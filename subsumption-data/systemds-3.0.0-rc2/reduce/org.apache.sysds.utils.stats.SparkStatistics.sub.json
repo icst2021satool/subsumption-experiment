@@ -1,0 +1,14 @@
+{
+"Class" : "org.apache.sysds.utils.stats.SparkStatistics", 
+"Methods" : [{ "Name" : "createdSparkContext" ,
+"Duas" : "2" ,
+"Subsumers" : 2,
+"0" : [ 0], "S0" : [0 ],
+"1" : [ 1], "S1" : [1 ]
+},{ "Name" : "displayStatistics" ,
+"Duas" : "14" ,
+"Subsumers" : 2,
+"0" : [ 13, 7], "S0" : [0, 1, 2, 3, 4, 5, 6, 7, 9, 10, 11, 12, 13 ],
+"1" : [ 8], "S1" : [0, 1, 2, 3, 4, 5, 6, 8, 9, 10, 11, 12 ]
+}]
+}

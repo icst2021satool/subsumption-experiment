@@ -1,0 +1,11 @@
+{
+"Class" : "org.apache.sysds.runtime.instructions.spark.utils.FrameRDDAggregateUtils$MergeBlocksFunction", 
+"Methods" : [{ "Name" : "call" ,
+"Duas" : "17" ,
+"Subsumers" : 4,
+"0" : [ 15, 8, 0], "S0" : [0, 2, 6, 7, 8, 9, 13, 14, 15 ],
+"1" : [ 16, 1], "S1" : [1, 2, 6, 7, 9, 13, 14, 16 ],
+"2" : [ 12, 5], "S2" : [2, 4, 5, 9, 11, 12 ],
+"3" : [ 10, 3], "S3" : [3, 4, 10, 11 ]
+}]
+}
