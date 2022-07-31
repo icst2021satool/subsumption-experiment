@@ -3,51 +3,51 @@ DUA-DUA subsumption
 
 
 #org/apache/commons/codec/net/RFC1522Codec/encodeText:
-Method encodeText reduced in 0 minutes and 0 seconds. Total em milliseconds 13
+Method encodeText reduced in 0 minutes and 0 seconds. Total em milliseconds 9
 ## nodes: 4
 ## edges: 4
 ## duas: 5
 ## Unconstrained duas: 2
 ## Reduction nodes: 2
-@@ org.apache.commons.codec.net.RFC1522Codec.encodeText,4,4,5,2,2,40.0,40.0,0,13
+@@ org.apache.commons.codec.net.RFC1522Codec.encodeText,4,4,5,2,2,40.0,40.0,0,9
 
-org.apache.commons.codec.net.RFC1522Codec.encodeText;5;2;2;13;
+org.apache.commons.codec.net.RFC1522Codec.encodeText;5;2;2;9;
 
 
 #org/apache/commons/codec/net/RFC1522Codec/decodeText:
-Method decodeText reduced in 0 minutes and 0 seconds. Total em milliseconds 52
+Method decodeText reduced in 0 minutes and 0 seconds. Total em milliseconds 36
 ## nodes: 17
 ## edges: 25
 ## duas: 38
 ## Unconstrained duas: 10
 ## Reduction nodes: 18
-@@ org.apache.commons.codec.net.RFC1522Codec.decodeText,17,25,38,10,18,26.31578947368421,47.368421052631575,0,52
+@@ org.apache.commons.codec.net.RFC1522Codec.decodeText,17,25,38,10,18,26.31578947368421,47.368421052631575,0,36
 
-org.apache.commons.codec.net.RFC1522Codec.decodeText;38;10;18;52;
+org.apache.commons.codec.net.RFC1522Codec.decodeText;38;10;18;36;
 
 
 #org/apache/commons/codec/net/QuotedPrintableCodec/encodeQuotedPrintable:
-Method encodeQuotedPrintable reduced in 0 minutes and 0 seconds. Total em milliseconds 43
+Method encodeQuotedPrintable reduced in 0 minutes and 0 seconds. Total em milliseconds 36
 ## nodes: 14
 ## edges: 18
 ## duas: 34
 ## Unconstrained duas: 11
 ## Reduction nodes: 19
-@@ org.apache.commons.codec.net.QuotedPrintableCodec.encodeQuotedPrintable,14,18,34,11,19,32.35294117647059,55.88235294117647,0,43
+@@ org.apache.commons.codec.net.QuotedPrintableCodec.encodeQuotedPrintable,14,18,34,11,19,32.35294117647059,55.88235294117647,0,36
 
-org.apache.commons.codec.net.QuotedPrintableCodec.encodeQuotedPrintable;34;11;19;43;
+org.apache.commons.codec.net.QuotedPrintableCodec.encodeQuotedPrintable;34;11;19;36;
 
 
 #org/apache/commons/codec/net/QuotedPrintableCodec/decodeQuotedPrintable:
-Method decodeQuotedPrintable reduced in 0 minutes and 0 seconds. Total em milliseconds 24
+Method decodeQuotedPrintable reduced in 0 minutes and 0 seconds. Total em milliseconds 21
 ## nodes: 13
 ## edges: 17
 ## duas: 29
 ## Unconstrained duas: 10
 ## Reduction nodes: 17
-@@ org.apache.commons.codec.net.QuotedPrintableCodec.decodeQuotedPrintable,13,17,29,10,17,34.48275862068966,58.620689655172406,0,24
+@@ org.apache.commons.codec.net.QuotedPrintableCodec.decodeQuotedPrintable,13,17,29,10,17,34.48275862068966,58.620689655172406,0,21
 
-org.apache.commons.codec.net.QuotedPrintableCodec.decodeQuotedPrintable;29;10;17;24;
+org.apache.commons.codec.net.QuotedPrintableCodec.decodeQuotedPrintable;29;10;17;21;
 
 
 #org/apache/commons/codec/net/QuotedPrintableCodec/encode:
@@ -63,27 +63,27 @@ org.apache.commons.codec.net.QuotedPrintableCodec.encode;4;2;2;1;
 
 
 #org/apache/commons/codec/net/QuotedPrintableCodec/decode:
-Method decode reduced in 0 minutes and 0 seconds. Total em milliseconds 1
+Method decode reduced in 0 minutes and 0 seconds. Total em milliseconds 0
 ## nodes: 4
 ## edges: 4
 ## duas: 5
 ## Unconstrained duas: 2
 ## Reduction nodes: 2
-@@ org.apache.commons.codec.net.QuotedPrintableCodec.decode,4,4,5,2,2,40.0,40.0,0,1
+@@ org.apache.commons.codec.net.QuotedPrintableCodec.decode,4,4,5,2,2,40.0,40.0,0,0
 
-org.apache.commons.codec.net.QuotedPrintableCodec.decode;5;2;2;1;
+org.apache.commons.codec.net.QuotedPrintableCodec.decode;5;2;2;0;
 
 
 #org/apache/commons/codec/net/QuotedPrintableCodec/decode:
-Method decode reduced in 0 minutes and 0 seconds. Total em milliseconds 1
+Method decode reduced in 0 minutes and 0 seconds. Total em milliseconds 0
 ## nodes: 4
 ## edges: 4
 ## duas: 4
 ## Unconstrained duas: 2
 ## Reduction nodes: 2
-@@ org.apache.commons.codec.net.QuotedPrintableCodec.decode,4,4,4,2,2,50.0,50.0,0,1
+@@ org.apache.commons.codec.net.QuotedPrintableCodec.decode,4,4,4,2,2,50.0,50.0,0,0
 
-org.apache.commons.codec.net.QuotedPrintableCodec.decode;4;2;2;1;
+org.apache.commons.codec.net.QuotedPrintableCodec.decode;4;2;2;0;
 
 
 #org/apache/commons/codec/net/QuotedPrintableCodec/encode:
@@ -99,15 +99,15 @@ org.apache.commons.codec.net.QuotedPrintableCodec.encode;11;4;6;2;
 
 
 #org/apache/commons/codec/net/QuotedPrintableCodec/decode:
-Method decode reduced in 0 minutes and 0 seconds. Total em milliseconds 1
+Method decode reduced in 0 minutes and 0 seconds. Total em milliseconds 2
 ## nodes: 8
 ## edges: 10
 ## duas: 11
 ## Unconstrained duas: 4
 ## Reduction nodes: 6
-@@ org.apache.commons.codec.net.QuotedPrintableCodec.decode,8,10,11,4,6,36.36363636363637,54.54545454545454,0,1
+@@ org.apache.commons.codec.net.QuotedPrintableCodec.decode,8,10,11,4,6,36.36363636363637,54.54545454545454,0,2
 
-org.apache.commons.codec.net.QuotedPrintableCodec.decode;11;4;6;1;
+org.apache.commons.codec.net.QuotedPrintableCodec.decode;11;4;6;2;
 
 
 #org/apache/commons/codec/net/QuotedPrintableCodec/encode:
@@ -135,39 +135,39 @@ org.apache.commons.codec.net.QCodec.doEncoding;26;7;13;6;
 
 
 #org/apache/commons/codec/net/QCodec/doDecoding:
-Method doDecoding reduced in 0 minutes and 0 seconds. Total em milliseconds 20
+Method doDecoding reduced in 0 minutes and 0 seconds. Total em milliseconds 14
 ## nodes: 17
 ## edges: 22
 ## duas: 43
 ## Unconstrained duas: 15
 ## Reduction nodes: 27
-@@ org.apache.commons.codec.net.QCodec.doDecoding,17,22,43,15,27,34.883720930232556,62.7906976744186,0,20
+@@ org.apache.commons.codec.net.QCodec.doDecoding,17,22,43,15,27,34.883720930232556,62.7906976744186,0,14
 
-org.apache.commons.codec.net.QCodec.doDecoding;43;15;27;20;
-
-
-#org/apache/commons/codec/net/QCodec/encode:
-Method encode reduced in 0 minutes and 0 seconds. Total em milliseconds 1
-## nodes: 4
-## edges: 4
-## duas: 5
-## Unconstrained duas: 2
-## Reduction nodes: 2
-@@ org.apache.commons.codec.net.QCodec.encode,4,4,5,2,2,40.0,40.0,0,1
-
-org.apache.commons.codec.net.QCodec.encode;5;2;2;1;
+org.apache.commons.codec.net.QCodec.doDecoding;43;15;27;14;
 
 
 #org/apache/commons/codec/net/QCodec/encode:
 Method encode reduced in 0 minutes and 0 seconds. Total em milliseconds 0
 ## nodes: 4
 ## edges: 4
+## duas: 5
+## Unconstrained duas: 2
+## Reduction nodes: 2
+@@ org.apache.commons.codec.net.QCodec.encode,4,4,5,2,2,40.0,40.0,0,0
+
+org.apache.commons.codec.net.QCodec.encode;5;2;2;0;
+
+
+#org/apache/commons/codec/net/QCodec/encode:
+Method encode reduced in 0 minutes and 0 seconds. Total em milliseconds 1
+## nodes: 4
+## edges: 4
 ## duas: 4
 ## Unconstrained duas: 2
 ## Reduction nodes: 2
-@@ org.apache.commons.codec.net.QCodec.encode,4,4,4,2,2,50.0,50.0,0,0
+@@ org.apache.commons.codec.net.QCodec.encode,4,4,4,2,2,50.0,50.0,0,1
 
-org.apache.commons.codec.net.QCodec.encode;4;2;2;0;
+org.apache.commons.codec.net.QCodec.encode;4;2;2;1;
 
 
 #org/apache/commons/codec/net/QCodec/decode:
@@ -207,15 +207,15 @@ org.apache.commons.codec.net.QCodec.decode;7;3;4;1;
 
 
 #org/apache/commons/codec/net/BCodec/doEncoding:
-Method doEncoding reduced in 0 minutes and 0 seconds. Total em milliseconds 1
+Method doEncoding reduced in 0 minutes and 0 seconds. Total em milliseconds 0
 ## nodes: 4
 ## edges: 4
 ## duas: 3
 ## Unconstrained duas: 2
 ## Reduction nodes: 2
-@@ org.apache.commons.codec.net.BCodec.doEncoding,4,4,3,2,2,66.66666666666666,66.66666666666666,0,1
+@@ org.apache.commons.codec.net.BCodec.doEncoding,4,4,3,2,2,66.66666666666666,66.66666666666666,0,0
 
-org.apache.commons.codec.net.BCodec.doEncoding;3;2;2;1;
+org.apache.commons.codec.net.BCodec.doEncoding;3;2;2;0;
 
 
 #org/apache/commons/codec/net/BCodec/doDecoding:
@@ -231,15 +231,15 @@ org.apache.commons.codec.net.BCodec.doDecoding;3;2;2;1;
 
 
 #org/apache/commons/codec/net/BCodec/encode:
-Method encode reduced in 0 minutes and 0 seconds. Total em milliseconds 1
+Method encode reduced in 0 minutes and 0 seconds. Total em milliseconds 0
 ## nodes: 4
 ## edges: 4
 ## duas: 5
 ## Unconstrained duas: 2
 ## Reduction nodes: 2
-@@ org.apache.commons.codec.net.BCodec.encode,4,4,5,2,2,40.0,40.0,0,1
+@@ org.apache.commons.codec.net.BCodec.encode,4,4,5,2,2,40.0,40.0,0,0
 
-org.apache.commons.codec.net.BCodec.encode;5;2;2;1;
+org.apache.commons.codec.net.BCodec.encode;5;2;2;0;
 
 
 #org/apache/commons/codec/net/BCodec/encode:
@@ -291,27 +291,27 @@ org.apache.commons.codec.net.BCodec.decode;7;3;4;1;
 
 
 #org/apache/commons/codec/net/URLCodec/encodeUrl:
-Method encodeUrl reduced in 0 minutes and 0 seconds. Total em milliseconds 20
+Method encodeUrl reduced in 0 minutes and 0 seconds. Total em milliseconds 21
 ## nodes: 16
 ## edges: 21
 ## duas: 39
 ## Unconstrained duas: 13
 ## Reduction nodes: 24
-@@ org.apache.commons.codec.net.URLCodec.encodeUrl,16,21,39,13,24,33.33333333333333,61.53846153846154,0,20
+@@ org.apache.commons.codec.net.URLCodec.encodeUrl,16,21,39,13,24,33.33333333333333,61.53846153846154,0,21
 
-org.apache.commons.codec.net.URLCodec.encodeUrl;39;13;24;20;
+org.apache.commons.codec.net.URLCodec.encodeUrl;39;13;24;21;
 
 
 #org/apache/commons/codec/net/URLCodec/decodeUrl:
-Method decodeUrl reduced in 0 minutes and 0 seconds. Total em milliseconds 25
+Method decodeUrl reduced in 0 minutes and 0 seconds. Total em milliseconds 14
 ## nodes: 15
 ## edges: 20
 ## duas: 32
 ## Unconstrained duas: 12
 ## Reduction nodes: 19
-@@ org.apache.commons.codec.net.URLCodec.decodeUrl,15,20,32,12,19,37.5,59.375,0,25
+@@ org.apache.commons.codec.net.URLCodec.decodeUrl,15,20,32,12,19,37.5,59.375,0,14
 
-org.apache.commons.codec.net.URLCodec.decodeUrl;32;12;19;25;
+org.apache.commons.codec.net.URLCodec.decodeUrl;32;12;19;14;
 
 
 #org/apache/commons/codec/net/URLCodec/encode:
@@ -327,51 +327,51 @@ org.apache.commons.codec.net.URLCodec.encode;5;2;2;0;
 
 
 #org/apache/commons/codec/net/URLCodec/encode:
-Method encode reduced in 0 minutes and 0 seconds. Total em milliseconds 0
+Method encode reduced in 0 minutes and 0 seconds. Total em milliseconds 1
 ## nodes: 4
 ## edges: 4
 ## duas: 4
 ## Unconstrained duas: 2
 ## Reduction nodes: 2
-@@ org.apache.commons.codec.net.URLCodec.encode,4,4,4,2,2,50.0,50.0,0,0
+@@ org.apache.commons.codec.net.URLCodec.encode,4,4,4,2,2,50.0,50.0,0,1
 
-org.apache.commons.codec.net.URLCodec.encode;4;2;2;0;
+org.apache.commons.codec.net.URLCodec.encode;4;2;2;1;
 
 
 #org/apache/commons/codec/net/URLCodec/decode:
-Method decode reduced in 0 minutes and 0 seconds. Total em milliseconds 0
+Method decode reduced in 0 minutes and 0 seconds. Total em milliseconds 1
 ## nodes: 4
 ## edges: 4
 ## duas: 5
 ## Unconstrained duas: 2
 ## Reduction nodes: 2
-@@ org.apache.commons.codec.net.URLCodec.decode,4,4,5,2,2,40.0,40.0,0,0
+@@ org.apache.commons.codec.net.URLCodec.decode,4,4,5,2,2,40.0,40.0,0,1
 
-org.apache.commons.codec.net.URLCodec.decode;5;2;2;0;
+org.apache.commons.codec.net.URLCodec.decode;5;2;2;1;
 
 
 #org/apache/commons/codec/net/URLCodec/decode:
-Method decode reduced in 0 minutes and 0 seconds. Total em milliseconds 0
+Method decode reduced in 0 minutes and 0 seconds. Total em milliseconds 1
 ## nodes: 4
 ## edges: 4
 ## duas: 4
 ## Unconstrained duas: 2
 ## Reduction nodes: 2
-@@ org.apache.commons.codec.net.URLCodec.decode,4,4,4,2,2,50.0,50.0,0,0
+@@ org.apache.commons.codec.net.URLCodec.decode,4,4,4,2,2,50.0,50.0,0,1
 
-org.apache.commons.codec.net.URLCodec.decode;4;2;2;0;
+org.apache.commons.codec.net.URLCodec.decode;4;2;2;1;
 
 
 #org/apache/commons/codec/net/URLCodec/encode:
-Method encode reduced in 0 minutes and 0 seconds. Total em milliseconds 0
+Method encode reduced in 0 minutes and 0 seconds. Total em milliseconds 1
 ## nodes: 8
 ## edges: 10
 ## duas: 11
 ## Unconstrained duas: 4
 ## Reduction nodes: 6
-@@ org.apache.commons.codec.net.URLCodec.encode,8,10,11,4,6,36.36363636363637,54.54545454545454,0,0
+@@ org.apache.commons.codec.net.URLCodec.encode,8,10,11,4,6,36.36363636363637,54.54545454545454,0,1
 
-org.apache.commons.codec.net.URLCodec.encode;11;4;6;0;
+org.apache.commons.codec.net.URLCodec.encode;11;4;6;1;
 
 
 #org/apache/commons/codec/net/URLCodec/decode:
@@ -387,111 +387,111 @@ org.apache.commons.codec.net.URLCodec.decode;11;4;6;1;
 
 
 #org/apache/commons/codec/digest/DigestUtils/digest:
-Method digest reduced in 0 minutes and 0 seconds. Total em milliseconds 5
+Method digest reduced in 0 minutes and 0 seconds. Total em milliseconds 9
 ## nodes: 5
 ## edges: 5
 ## duas: 10
 ## Unconstrained duas: 2
 ## Reduction nodes: 4
-@@ org.apache.commons.codec.digest.DigestUtils.digest,5,5,10,2,4,20.0,40.0,0,5
+@@ org.apache.commons.codec.digest.DigestUtils.digest,5,5,10,2,4,20.0,40.0,0,9
 
-org.apache.commons.codec.digest.DigestUtils.digest;10;2;4;5;
+org.apache.commons.codec.digest.DigestUtils.digest;10;2;4;9;
 
 
 #org/apache/commons/codec/language/SoundexUtils/clean:
-Method clean reduced in 0 minutes and 0 seconds. Total em milliseconds 18
+Method clean reduced in 0 minutes and 0 seconds. Total em milliseconds 6
 ## nodes: 12
 ## edges: 16
 ## duas: 37
 ## Unconstrained duas: 11
 ## Reduction nodes: 21
-@@ org.apache.commons.codec.language.SoundexUtils.clean,12,16,37,11,21,29.72972972972973,56.75675675675676,0,18
+@@ org.apache.commons.codec.language.SoundexUtils.clean,12,16,37,11,21,29.72972972972973,56.75675675675676,0,6
 
-org.apache.commons.codec.language.SoundexUtils.clean;37;11;21;18;
+org.apache.commons.codec.language.SoundexUtils.clean;37;11;21;6;
 
 
 #org/apache/commons/codec/language/SoundexUtils/differenceEncoded:
-Method differenceEncoded reduced in 0 minutes and 0 seconds. Total em milliseconds 5
+Method differenceEncoded reduced in 0 minutes and 0 seconds. Total em milliseconds 4
 ## nodes: 10
 ## edges: 13
 ## duas: 26
 ## Unconstrained duas: 7
 ## Reduction nodes: 15
-@@ org.apache.commons.codec.language.SoundexUtils.differenceEncoded,10,13,26,7,15,26.923076923076923,57.692307692307686,0,5
+@@ org.apache.commons.codec.language.SoundexUtils.differenceEncoded,10,13,26,7,15,26.923076923076923,57.692307692307686,0,4
 
-org.apache.commons.codec.language.SoundexUtils.differenceEncoded;26;7;15;5;
+org.apache.commons.codec.language.SoundexUtils.differenceEncoded;26;7;15;4;
 
 
 #org/apache/commons/codec/language/Caverphone/caverphone:
-Method caverphone reduced in 0 minutes and 0 seconds. Total em milliseconds 0
+Method caverphone reduced in 0 minutes and 0 seconds. Total em milliseconds 1
 ## nodes: 5
 ## edges: 6
 ## duas: 5
 ## Unconstrained duas: 3
 ## Reduction nodes: 4
-@@ org.apache.commons.codec.language.Caverphone.caverphone,5,6,5,3,4,60.0,80.0,0,0
+@@ org.apache.commons.codec.language.Caverphone.caverphone,5,6,5,3,4,60.0,80.0,0,1
 
-org.apache.commons.codec.language.Caverphone.caverphone;5;3;4;0;
+org.apache.commons.codec.language.Caverphone.caverphone;5;3;4;1;
 
 
 #org/apache/commons/codec/language/Caverphone/encode:
-Method encode reduced in 0 minutes and 0 seconds. Total em milliseconds 0
+Method encode reduced in 0 minutes and 0 seconds. Total em milliseconds 1
 ## nodes: 4
 ## edges: 4
 ## duas: 4
 ## Unconstrained duas: 2
 ## Reduction nodes: 2
-@@ org.apache.commons.codec.language.Caverphone.encode,4,4,4,2,2,50.0,50.0,0,0
+@@ org.apache.commons.codec.language.Caverphone.encode,4,4,4,2,2,50.0,50.0,0,1
 
-org.apache.commons.codec.language.Caverphone.encode;4;2;2;0;
+org.apache.commons.codec.language.Caverphone.encode;4;2;2;1;
 
 
 #org/apache/commons/codec/language/Metaphone/metaphone:
-Method metaphone reduced in 0 minutes and 2 seconds. Total em milliseconds 2,905
+Method metaphone reduced in 0 minutes and 2 seconds. Total em milliseconds 2,125
 ## nodes: 116
 ## edges: 193
 ## duas: 550
 ## Unconstrained duas: 224
 ## Reduction nodes: 411
-@@ org.apache.commons.codec.language.Metaphone.metaphone,116,193,550,224,411,40.72727272727273,74.72727272727273,2,2905
+@@ org.apache.commons.codec.language.Metaphone.metaphone,116,193,550,224,411,40.72727272727273,74.72727272727273,2,2125
 
-org.apache.commons.codec.language.Metaphone.metaphone;550;224;411;2905;
+org.apache.commons.codec.language.Metaphone.metaphone;550;224;411;2125;
 
 
 #org/apache/commons/codec/language/Metaphone/isVowel:
-Method isVowel reduced in 0 minutes and 0 seconds. Total em milliseconds 1
+Method isVowel reduced in 0 minutes and 0 seconds. Total em milliseconds 0
 ## nodes: 5
 ## edges: 5
 ## duas: 4
 ## Unconstrained duas: 2
 ## Reduction nodes: 2
-@@ org.apache.commons.codec.language.Metaphone.isVowel,5,5,4,2,2,50.0,50.0,0,1
+@@ org.apache.commons.codec.language.Metaphone.isVowel,5,5,4,2,2,50.0,50.0,0,0
 
-org.apache.commons.codec.language.Metaphone.isVowel;4;2;2;1;
+org.apache.commons.codec.language.Metaphone.isVowel;4;2;2;0;
 
 
 #org/apache/commons/codec/language/Metaphone/isPreviousChar:
-Method isPreviousChar reduced in 0 minutes and 0 seconds. Total em milliseconds 1
+Method isPreviousChar reduced in 0 minutes and 0 seconds. Total em milliseconds 2
 ## nodes: 8
 ## edges: 10
 ## duas: 14
 ## Unconstrained duas: 4
 ## Reduction nodes: 7
-@@ org.apache.commons.codec.language.Metaphone.isPreviousChar,8,10,14,4,7,28.57142857142857,50.0,0,1
+@@ org.apache.commons.codec.language.Metaphone.isPreviousChar,8,10,14,4,7,28.57142857142857,50.0,0,2
 
-org.apache.commons.codec.language.Metaphone.isPreviousChar;14;4;7;1;
+org.apache.commons.codec.language.Metaphone.isPreviousChar;14;4;7;2;
 
 
 #org/apache/commons/codec/language/Metaphone/isNextChar:
-Method isNextChar reduced in 0 minutes and 0 seconds. Total em milliseconds 1
+Method isNextChar reduced in 0 minutes and 0 seconds. Total em milliseconds 2
 ## nodes: 8
 ## edges: 10
 ## duas: 14
 ## Unconstrained duas: 4
 ## Reduction nodes: 7
-@@ org.apache.commons.codec.language.Metaphone.isNextChar,8,10,14,4,7,28.57142857142857,50.0,0,1
+@@ org.apache.commons.codec.language.Metaphone.isNextChar,8,10,14,4,7,28.57142857142857,50.0,0,2
 
-org.apache.commons.codec.language.Metaphone.isNextChar;14;4;7;1;
+org.apache.commons.codec.language.Metaphone.isNextChar;14;4;7;2;
 
 
 #org/apache/commons/codec/language/Metaphone/regionMatch:
@@ -507,51 +507,51 @@ org.apache.commons.codec.language.Metaphone.regionMatch;13;3;5;1;
 
 
 #org/apache/commons/codec/language/Metaphone/isLastChar:
-Method isLastChar reduced in 0 minutes and 0 seconds. Total em milliseconds 1
+Method isLastChar reduced in 0 minutes and 0 seconds. Total em milliseconds 0
 ## nodes: 5
 ## edges: 5
 ## duas: 4
 ## Unconstrained duas: 2
 ## Reduction nodes: 2
-@@ org.apache.commons.codec.language.Metaphone.isLastChar,5,5,4,2,2,50.0,50.0,0,1
+@@ org.apache.commons.codec.language.Metaphone.isLastChar,5,5,4,2,2,50.0,50.0,0,0
 
-org.apache.commons.codec.language.Metaphone.isLastChar;4;2;2;1;
+org.apache.commons.codec.language.Metaphone.isLastChar;4;2;2;0;
 
 
 #org/apache/commons/codec/language/Metaphone/encode:
-Method encode reduced in 0 minutes and 0 seconds. Total em milliseconds 0
-## nodes: 4
-## edges: 4
-## duas: 4
-## Unconstrained duas: 2
-## Reduction nodes: 2
-@@ org.apache.commons.codec.language.Metaphone.encode,4,4,4,2,2,50.0,50.0,0,0
-
-org.apache.commons.codec.language.Metaphone.encode;4;2;2;0;
-
-
-#org/apache/commons/codec/language/DoubleMetaphone/doubleMetaphone:
-Method doubleMetaphone reduced in 0 minutes and 3 seconds. Total em milliseconds 3,336
-## nodes: 59
-## edges: 93
-## duas: 1724
-## Unconstrained duas: 806
-## Reduction nodes: 1047
-@@ org.apache.commons.codec.language.DoubleMetaphone.doubleMetaphone,59,93,1724,806,1047,46.75174013921114,60.730858468677496,3,3336
-
-org.apache.commons.codec.language.DoubleMetaphone.doubleMetaphone;1724;806;1047;3336;
-
-
-#org/apache/commons/codec/language/DoubleMetaphone/encode:
 Method encode reduced in 0 minutes and 0 seconds. Total em milliseconds 1
 ## nodes: 4
 ## edges: 4
 ## duas: 4
 ## Unconstrained duas: 2
 ## Reduction nodes: 2
-@@ org.apache.commons.codec.language.DoubleMetaphone.encode,4,4,4,2,2,50.0,50.0,0,1
+@@ org.apache.commons.codec.language.Metaphone.encode,4,4,4,2,2,50.0,50.0,0,1
 
-org.apache.commons.codec.language.DoubleMetaphone.encode;4;2;2;1;
+org.apache.commons.codec.language.Metaphone.encode;4;2;2;1;
+
+
+#org/apache/commons/codec/language/DoubleMetaphone/doubleMetaphone:
+Method doubleMetaphone reduced in 0 minutes and 3 seconds. Total em milliseconds 3,472
+## nodes: 59
+## edges: 93
+## duas: 1724
+## Unconstrained duas: 806
+## Reduction nodes: 1047
+@@ org.apache.commons.codec.language.DoubleMetaphone.doubleMetaphone,59,93,1724,806,1047,46.75174013921114,60.730858468677496,3,3472
+
+org.apache.commons.codec.language.DoubleMetaphone.doubleMetaphone;1724;806;1047;3472;
+
+
+#org/apache/commons/codec/language/DoubleMetaphone/encode:
+Method encode reduced in 0 minutes and 0 seconds. Total em milliseconds 0
+## nodes: 4
+## edges: 4
+## duas: 4
+## Unconstrained duas: 2
+## Reduction nodes: 2
+@@ org.apache.commons.codec.language.DoubleMetaphone.encode,4,4,4,2,2,50.0,50.0,0,0
+
+org.apache.commons.codec.language.DoubleMetaphone.encode;4;2;2;0;
 
 
 #org/apache/commons/codec/language/DoubleMetaphone/handleAEIOUY:
@@ -591,15 +591,15 @@ org.apache.commons.codec.language.DoubleMetaphone.handleCC;27;7;12;2;
 
 
 #org/apache/commons/codec/language/DoubleMetaphone/handleCH:
-Method handleCH reduced in 0 minutes and 0 seconds. Total em milliseconds 2
+Method handleCH reduced in 0 minutes and 0 seconds. Total em milliseconds 1
 ## nodes: 14
 ## edges: 19
 ## duas: 32
 ## Unconstrained duas: 8
 ## Reduction nodes: 12
-@@ org.apache.commons.codec.language.DoubleMetaphone.handleCH,14,19,32,8,12,25.0,37.5,0,2
+@@ org.apache.commons.codec.language.DoubleMetaphone.handleCH,14,19,32,8,12,25.0,37.5,0,1
 
-org.apache.commons.codec.language.DoubleMetaphone.handleCH;32;8;12;2;
+org.apache.commons.codec.language.DoubleMetaphone.handleCH;32;8;12;1;
 
 
 #org/apache/commons/codec/language/DoubleMetaphone/handleD:
@@ -615,15 +615,15 @@ org.apache.commons.codec.language.DoubleMetaphone.handleD;24;4;6;1;
 
 
 #org/apache/commons/codec/language/DoubleMetaphone/handleG:
-Method handleG reduced in 0 minutes and 0 seconds. Total em milliseconds 17
+Method handleG reduced in 0 minutes and 0 seconds. Total em milliseconds 16
 ## nodes: 41
 ## edges: 65
 ## duas: 128
 ## Unconstrained duas: 32
 ## Reduction nodes: 54
-@@ org.apache.commons.codec.language.DoubleMetaphone.handleG,41,65,128,32,54,25.0,42.1875,0,17
+@@ org.apache.commons.codec.language.DoubleMetaphone.handleG,41,65,128,32,54,25.0,42.1875,0,16
 
-org.apache.commons.codec.language.DoubleMetaphone.handleG;128;32;54;17;
+org.apache.commons.codec.language.DoubleMetaphone.handleG;128;32;54;16;
 
 
 #org/apache/commons/codec/language/DoubleMetaphone/handleGH:
@@ -639,51 +639,51 @@ org.apache.commons.codec.language.DoubleMetaphone.handleGH;67;21;32;6;
 
 
 #org/apache/commons/codec/language/DoubleMetaphone/handleH:
-Method handleH reduced in 0 minutes and 0 seconds. Total em milliseconds 2
+Method handleH reduced in 0 minutes and 0 seconds. Total em milliseconds 1
 ## nodes: 7
 ## edges: 9
 ## duas: 19
 ## Unconstrained duas: 5
 ## Reduction nodes: 7
-@@ org.apache.commons.codec.language.DoubleMetaphone.handleH,7,9,19,5,7,26.31578947368421,36.84210526315789,0,2
+@@ org.apache.commons.codec.language.DoubleMetaphone.handleH,7,9,19,5,7,26.31578947368421,36.84210526315789,0,1
 
-org.apache.commons.codec.language.DoubleMetaphone.handleH;19;5;7;2;
+org.apache.commons.codec.language.DoubleMetaphone.handleH;19;5;7;1;
 
 
 #org/apache/commons/codec/language/DoubleMetaphone/handleJ:
-Method handleJ reduced in 0 minutes and 0 seconds. Total em milliseconds 7
+Method handleJ reduced in 0 minutes and 0 seconds. Total em milliseconds 5
 ## nodes: 27
 ## edges: 42
 ## duas: 76
 ## Unconstrained duas: 22
 ## Reduction nodes: 35
-@@ org.apache.commons.codec.language.DoubleMetaphone.handleJ,27,42,76,22,35,28.947368421052634,46.05263157894737,0,7
+@@ org.apache.commons.codec.language.DoubleMetaphone.handleJ,27,42,76,22,35,28.947368421052634,46.05263157894737,0,5
 
-org.apache.commons.codec.language.DoubleMetaphone.handleJ;76;22;35;7;
+org.apache.commons.codec.language.DoubleMetaphone.handleJ;76;22;35;5;
 
 
 #org/apache/commons/codec/language/DoubleMetaphone/handleL:
-Method handleL reduced in 0 minutes and 0 seconds. Total em milliseconds 1
+Method handleL reduced in 0 minutes and 0 seconds. Total em milliseconds 0
 ## nodes: 7
 ## edges: 8
 ## duas: 17
 ## Unconstrained duas: 3
 ## Reduction nodes: 4
-@@ org.apache.commons.codec.language.DoubleMetaphone.handleL,7,8,17,3,4,17.647058823529413,23.52941176470588,0,1
+@@ org.apache.commons.codec.language.DoubleMetaphone.handleL,7,8,17,3,4,17.647058823529413,23.52941176470588,0,0
 
-org.apache.commons.codec.language.DoubleMetaphone.handleL;17;3;4;1;
+org.apache.commons.codec.language.DoubleMetaphone.handleL;17;3;4;0;
 
 
 #org/apache/commons/codec/language/DoubleMetaphone/handleP:
-Method handleP reduced in 0 minutes and 0 seconds. Total em milliseconds 0
+Method handleP reduced in 0 minutes and 0 seconds. Total em milliseconds 1
 ## nodes: 8
 ## edges: 9
 ## duas: 16
 ## Unconstrained duas: 3
 ## Reduction nodes: 4
-@@ org.apache.commons.codec.language.DoubleMetaphone.handleP,8,9,16,3,4,18.75,25.0,0,0
+@@ org.apache.commons.codec.language.DoubleMetaphone.handleP,8,9,16,3,4,18.75,25.0,0,1
 
-org.apache.commons.codec.language.DoubleMetaphone.handleP;16;3;4;0;
+org.apache.commons.codec.language.DoubleMetaphone.handleP;16;3;4;1;
 
 
 #org/apache/commons/codec/language/DoubleMetaphone/handleR:
@@ -699,15 +699,15 @@ org.apache.commons.codec.language.DoubleMetaphone.handleR;23;7;12;1;
 
 
 #org/apache/commons/codec/language/DoubleMetaphone/handleS:
-Method handleS reduced in 0 minutes and 0 seconds. Total em milliseconds 12
+Method handleS reduced in 0 minutes and 0 seconds. Total em milliseconds 7
 ## nodes: 35
 ## edges: 50
 ## duas: 83
 ## Unconstrained duas: 22
 ## Reduction nodes: 35
-@@ org.apache.commons.codec.language.DoubleMetaphone.handleS,35,50,83,22,35,26.506024096385545,42.168674698795186,0,12
+@@ org.apache.commons.codec.language.DoubleMetaphone.handleS,35,50,83,22,35,26.506024096385545,42.168674698795186,0,7
 
-org.apache.commons.codec.language.DoubleMetaphone.handleS;83;22;35;12;
+org.apache.commons.codec.language.DoubleMetaphone.handleS;83;22;35;7;
 
 
 #org/apache/commons/codec/language/DoubleMetaphone/handleSC:
@@ -723,39 +723,39 @@ org.apache.commons.codec.language.DoubleMetaphone.handleSC;35;8;16;2;
 
 
 #org/apache/commons/codec/language/DoubleMetaphone/handleT:
-Method handleT reduced in 0 minutes and 0 seconds. Total em milliseconds 2
+Method handleT reduced in 0 minutes and 0 seconds. Total em milliseconds 3
 ## nodes: 18
 ## edges: 25
 ## duas: 41
 ## Unconstrained duas: 10
 ## Reduction nodes: 18
-@@ org.apache.commons.codec.language.DoubleMetaphone.handleT,18,25,41,10,18,24.390243902439025,43.90243902439025,0,2
+@@ org.apache.commons.codec.language.DoubleMetaphone.handleT,18,25,41,10,18,24.390243902439025,43.90243902439025,0,3
 
-org.apache.commons.codec.language.DoubleMetaphone.handleT;41;10;18;2;
+org.apache.commons.codec.language.DoubleMetaphone.handleT;41;10;18;3;
 
 
 #org/apache/commons/codec/language/DoubleMetaphone/handleW:
-Method handleW reduced in 0 minutes and 0 seconds. Total em milliseconds 3
+Method handleW reduced in 0 minutes and 0 seconds. Total em milliseconds 4
 ## nodes: 19
 ## edges: 28
 ## duas: 57
 ## Unconstrained duas: 14
 ## Reduction nodes: 22
-@@ org.apache.commons.codec.language.DoubleMetaphone.handleW,19,28,57,14,22,24.561403508771928,38.59649122807017,0,3
+@@ org.apache.commons.codec.language.DoubleMetaphone.handleW,19,28,57,14,22,24.561403508771928,38.59649122807017,0,4
 
-org.apache.commons.codec.language.DoubleMetaphone.handleW;57;14;22;3;
+org.apache.commons.codec.language.DoubleMetaphone.handleW;57;14;22;4;
 
 
 #org/apache/commons/codec/language/DoubleMetaphone/handleX:
-Method handleX reduced in 0 minutes and 0 seconds. Total em milliseconds 1
+Method handleX reduced in 0 minutes and 0 seconds. Total em milliseconds 2
 ## nodes: 12
 ## edges: 16
 ## duas: 24
 ## Unconstrained duas: 7
 ## Reduction nodes: 11
-@@ org.apache.commons.codec.language.DoubleMetaphone.handleX,12,16,24,7,11,29.166666666666668,45.83333333333333,0,1
+@@ org.apache.commons.codec.language.DoubleMetaphone.handleX,12,16,24,7,11,29.166666666666668,45.83333333333333,0,2
 
-org.apache.commons.codec.language.DoubleMetaphone.handleX;24;7;11;1;
+org.apache.commons.codec.language.DoubleMetaphone.handleX;24;7;11;2;
 
 
 #org/apache/commons/codec/language/DoubleMetaphone/handleZ:
@@ -795,51 +795,51 @@ org.apache.commons.codec.language.DoubleMetaphone.conditionCH0;12;6;8;1;
 
 
 #org/apache/commons/codec/language/DoubleMetaphone/conditionCH1:
-Method conditionCH1 reduced in 0 minutes and 0 seconds. Total em milliseconds 2
+Method conditionCH1 reduced in 0 minutes and 0 seconds. Total em milliseconds 1
 ## nodes: 12
 ## edges: 19
 ## duas: 28
 ## Unconstrained duas: 10
 ## Reduction nodes: 16
-@@ org.apache.commons.codec.language.DoubleMetaphone.conditionCH1,12,19,28,10,16,35.714285714285715,57.14285714285714,0,2
+@@ org.apache.commons.codec.language.DoubleMetaphone.conditionCH1,12,19,28,10,16,35.714285714285715,57.14285714285714,0,1
 
-org.apache.commons.codec.language.DoubleMetaphone.conditionCH1;28;10;16;2;
+org.apache.commons.codec.language.DoubleMetaphone.conditionCH1;28;10;16;1;
 
 
 #org/apache/commons/codec/language/DoubleMetaphone/conditionL0:
-Method conditionL0 reduced in 0 minutes and 0 seconds. Total em milliseconds 1
+Method conditionL0 reduced in 0 minutes and 0 seconds. Total em milliseconds 0
 ## nodes: 9
 ## edges: 13
 ## duas: 18
 ## Unconstrained duas: 8
 ## Reduction nodes: 10
-@@ org.apache.commons.codec.language.DoubleMetaphone.conditionL0,9,13,18,8,10,44.44444444444444,55.55555555555556,0,1
+@@ org.apache.commons.codec.language.DoubleMetaphone.conditionL0,9,13,18,8,10,44.44444444444444,55.55555555555556,0,0
 
-org.apache.commons.codec.language.DoubleMetaphone.conditionL0;18;8;10;1;
+org.apache.commons.codec.language.DoubleMetaphone.conditionL0;18;8;10;0;
 
 
 #org/apache/commons/codec/language/DoubleMetaphone/conditionM0:
-Method conditionM0 reduced in 0 minutes and 0 seconds. Total em milliseconds 0
+Method conditionM0 reduced in 0 minutes and 0 seconds. Total em milliseconds 1
 ## nodes: 9
 ## edges: 12
 ## duas: 18
 ## Unconstrained duas: 5
 ## Reduction nodes: 8
-@@ org.apache.commons.codec.language.DoubleMetaphone.conditionM0,9,12,18,5,8,27.77777777777778,44.44444444444444,0,0
+@@ org.apache.commons.codec.language.DoubleMetaphone.conditionM0,9,12,18,5,8,27.77777777777778,44.44444444444444,0,1
 
-org.apache.commons.codec.language.DoubleMetaphone.conditionM0;18;5;8;0;
+org.apache.commons.codec.language.DoubleMetaphone.conditionM0;18;5;8;1;
 
 
 #org/apache/commons/codec/language/DoubleMetaphone/isSlavoGermanic:
-Method isSlavoGermanic reduced in 0 minutes and 0 seconds. Total em milliseconds 1
+Method isSlavoGermanic reduced in 0 minutes and 0 seconds. Total em milliseconds 0
 ## nodes: 8
 ## edges: 11
 ## duas: 8
 ## Unconstrained duas: 5
 ## Reduction nodes: 8
-@@ org.apache.commons.codec.language.DoubleMetaphone.isSlavoGermanic,8,11,8,5,8,62.5,100.0,0,1
+@@ org.apache.commons.codec.language.DoubleMetaphone.isSlavoGermanic,8,11,8,5,8,62.5,100.0,0,0
 
-org.apache.commons.codec.language.DoubleMetaphone.isSlavoGermanic;8;5;8;1;
+org.apache.commons.codec.language.DoubleMetaphone.isSlavoGermanic;8;5;8;0;
 
 
 #org/apache/commons/codec/language/DoubleMetaphone/isVowel:
@@ -927,15 +927,15 @@ org.apache.commons.codec.language.DoubleMetaphone$DoubleMetaphoneResult.appendAl
 
 
 #org/apache/commons/codec/language/DoubleMetaphone$DoubleMetaphoneResult/appendPrimary:
-Method appendPrimary reduced in 0 minutes and 0 seconds. Total em milliseconds 1
+Method appendPrimary reduced in 0 minutes and 0 seconds. Total em milliseconds 0
 ## nodes: 5
 ## edges: 5
 ## duas: 11
 ## Unconstrained duas: 2
 ## Reduction nodes: 2
-@@ org.apache.commons.codec.language.DoubleMetaphone$DoubleMetaphoneResult.appendPrimary,5,5,11,2,2,18.181818181818183,18.181818181818183,0,1
+@@ org.apache.commons.codec.language.DoubleMetaphone$DoubleMetaphoneResult.appendPrimary,5,5,11,2,2,18.181818181818183,18.181818181818183,0,0
 
-org.apache.commons.codec.language.DoubleMetaphone$DoubleMetaphoneResult.appendPrimary;11;2;2;1;
+org.apache.commons.codec.language.DoubleMetaphone$DoubleMetaphoneResult.appendPrimary;11;2;2;0;
 
 
 #org/apache/commons/codec/language/DoubleMetaphone$DoubleMetaphoneResult/appendAlternate:
@@ -951,15 +951,15 @@ org.apache.commons.codec.language.DoubleMetaphone$DoubleMetaphoneResult.appendAl
 
 
 #org/apache/commons/codec/language/DoubleMetaphone$DoubleMetaphoneResult/isComplete:
-Method isComplete reduced in 0 minutes and 0 seconds. Total em milliseconds 0
+Method isComplete reduced in 0 minutes and 0 seconds. Total em milliseconds 1
 ## nodes: 6
 ## edges: 7
 ## duas: 12
 ## Unconstrained duas: 3
 ## Reduction nodes: 4
-@@ org.apache.commons.codec.language.DoubleMetaphone$DoubleMetaphoneResult.isComplete,6,7,12,3,4,25.0,33.33333333333333,0,0
+@@ org.apache.commons.codec.language.DoubleMetaphone$DoubleMetaphoneResult.isComplete,6,7,12,3,4,25.0,33.33333333333333,0,1
 
-org.apache.commons.codec.language.DoubleMetaphone$DoubleMetaphoneResult.isComplete;12;3;4;0;
+org.apache.commons.codec.language.DoubleMetaphone$DoubleMetaphoneResult.isComplete;12;3;4;1;
 
 
 #org/apache/commons/codec/language/RefinedSoundex/encode:
@@ -987,75 +987,75 @@ org.apache.commons.codec.language.RefinedSoundex.getMappingCode;5;2;2;0;
 
 
 #org/apache/commons/codec/language/RefinedSoundex/soundex:
-Method soundex reduced in 0 minutes and 0 seconds. Total em milliseconds 4
+Method soundex reduced in 0 minutes and 0 seconds. Total em milliseconds 5
 ## nodes: 14
 ## edges: 18
 ## duas: 31
 ## Unconstrained duas: 8
 ## Reduction nodes: 14
-@@ org.apache.commons.codec.language.RefinedSoundex.soundex,14,18,31,8,14,25.806451612903224,45.16129032258064,0,4
+@@ org.apache.commons.codec.language.RefinedSoundex.soundex,14,18,31,8,14,25.806451612903224,45.16129032258064,0,5
 
-org.apache.commons.codec.language.RefinedSoundex.soundex;31;8;14;4;
+org.apache.commons.codec.language.RefinedSoundex.soundex;31;8;14;5;
 
 
 #org/apache/commons/codec/language/Soundex/encode:
-Method encode reduced in 0 minutes and 0 seconds. Total em milliseconds 0
+Method encode reduced in 0 minutes and 0 seconds. Total em milliseconds 1
 ## nodes: 4
 ## edges: 4
 ## duas: 4
 ## Unconstrained duas: 2
 ## Reduction nodes: 2
-@@ org.apache.commons.codec.language.Soundex.encode,4,4,4,2,2,50.0,50.0,0,0
+@@ org.apache.commons.codec.language.Soundex.encode,4,4,4,2,2,50.0,50.0,0,1
 
-org.apache.commons.codec.language.Soundex.encode;4;2;2;0;
+org.apache.commons.codec.language.Soundex.encode;4;2;2;1;
 
 
 #org/apache/commons/codec/language/Soundex/getMappingCode:
-Method getMappingCode reduced in 0 minutes and 0 seconds. Total em milliseconds 2
+Method getMappingCode reduced in 0 minutes and 0 seconds. Total em milliseconds 1
 ## nodes: 10
 ## edges: 16
 ## duas: 22
 ## Unconstrained duas: 9
 ## Reduction nodes: 16
-@@ org.apache.commons.codec.language.Soundex.getMappingCode,10,16,22,9,16,40.909090909090914,72.72727272727273,0,2
+@@ org.apache.commons.codec.language.Soundex.getMappingCode,10,16,22,9,16,40.909090909090914,72.72727272727273,0,1
 
-org.apache.commons.codec.language.Soundex.getMappingCode;22;9;16;2;
+org.apache.commons.codec.language.Soundex.getMappingCode;22;9;16;1;
 
 
 #org/apache/commons/codec/language/Soundex/map:
-Method map reduced in 0 minutes and 0 seconds. Total em milliseconds 0
+Method map reduced in 0 minutes and 0 seconds. Total em milliseconds 1
 ## nodes: 5
 ## edges: 6
 ## duas: 9
 ## Unconstrained duas: 3
 ## Reduction nodes: 5
-@@ org.apache.commons.codec.language.Soundex.map,5,6,9,3,5,33.33333333333333,55.55555555555556,0,0
+@@ org.apache.commons.codec.language.Soundex.map,5,6,9,3,5,33.33333333333333,55.55555555555556,0,1
 
-org.apache.commons.codec.language.Soundex.map;9;3;5;0;
+org.apache.commons.codec.language.Soundex.map;9;3;5;1;
 
 
 #org/apache/commons/codec/language/Soundex/soundex:
-Method soundex reduced in 0 minutes and 0 seconds. Total em milliseconds 11
+Method soundex reduced in 0 minutes and 0 seconds. Total em milliseconds 6
 ## nodes: 14
 ## edges: 20
 ## duas: 40
 ## Unconstrained duas: 12
 ## Reduction nodes: 26
-@@ org.apache.commons.codec.language.Soundex.soundex,14,20,40,12,26,30.0,65.0,0,11
+@@ org.apache.commons.codec.language.Soundex.soundex,14,20,40,12,26,30.0,65.0,0,6
 
-org.apache.commons.codec.language.Soundex.soundex;40;12;26;11;
+org.apache.commons.codec.language.Soundex.soundex;40;12;26;6;
 
 
 #org/apache/commons/codec/binary/BinaryCodec/encode:
-Method encode reduced in 0 minutes and 0 seconds. Total em milliseconds 1
+Method encode reduced in 0 minutes and 0 seconds. Total em milliseconds 0
 ## nodes: 4
 ## edges: 4
 ## duas: 3
 ## Unconstrained duas: 2
 ## Reduction nodes: 2
-@@ org.apache.commons.codec.binary.BinaryCodec.encode,4,4,3,2,2,66.66666666666666,66.66666666666666,0,1
+@@ org.apache.commons.codec.binary.BinaryCodec.encode,4,4,3,2,2,66.66666666666666,66.66666666666666,0,0
 
-org.apache.commons.codec.binary.BinaryCodec.encode;3;2;2;1;
+org.apache.commons.codec.binary.BinaryCodec.encode;3;2;2;0;
 
 
 #org/apache/commons/codec/binary/BinaryCodec/decode:
@@ -1083,18 +1083,6 @@ org.apache.commons.codec.binary.BinaryCodec.toByteArray;4;2;2;0;
 
 
 #org/apache/commons/codec/binary/BinaryCodec/fromAscii:
-Method fromAscii reduced in 0 minutes and 0 seconds. Total em milliseconds 5
-## nodes: 13
-## edges: 17
-## duas: 41
-## Unconstrained duas: 12
-## Reduction nodes: 21
-@@ org.apache.commons.codec.binary.BinaryCodec.fromAscii,13,17,41,12,21,29.268292682926827,51.21951219512195,0,5
-
-org.apache.commons.codec.binary.BinaryCodec.fromAscii;41;12;21;5;
-
-
-#org/apache/commons/codec/binary/BinaryCodec/fromAscii:
 Method fromAscii reduced in 0 minutes and 0 seconds. Total em milliseconds 6
 ## nodes: 13
 ## edges: 17
@@ -1106,28 +1094,40 @@ Method fromAscii reduced in 0 minutes and 0 seconds. Total em milliseconds 6
 org.apache.commons.codec.binary.BinaryCodec.fromAscii;41;12;21;6;
 
 
+#org/apache/commons/codec/binary/BinaryCodec/fromAscii:
+Method fromAscii reduced in 0 minutes and 0 seconds. Total em milliseconds 7
+## nodes: 13
+## edges: 17
+## duas: 41
+## Unconstrained duas: 12
+## Reduction nodes: 21
+@@ org.apache.commons.codec.binary.BinaryCodec.fromAscii,13,17,41,12,21,29.268292682926827,51.21951219512195,0,7
+
+org.apache.commons.codec.binary.BinaryCodec.fromAscii;41;12;21;7;
+
+
 #org/apache/commons/codec/binary/BinaryCodec/toAsciiBytes:
-Method toAsciiBytes reduced in 0 minutes and 0 seconds. Total em milliseconds 5
+Method toAsciiBytes reduced in 0 minutes and 0 seconds. Total em milliseconds 8
 ## nodes: 14
 ## edges: 18
 ## duas: 47
 ## Unconstrained duas: 12
 ## Reduction nodes: 21
-@@ org.apache.commons.codec.binary.BinaryCodec.toAsciiBytes,14,18,47,12,21,25.53191489361702,44.680851063829785,0,5
+@@ org.apache.commons.codec.binary.BinaryCodec.toAsciiBytes,14,18,47,12,21,25.53191489361702,44.680851063829785,0,8
 
-org.apache.commons.codec.binary.BinaryCodec.toAsciiBytes;47;12;21;5;
+org.apache.commons.codec.binary.BinaryCodec.toAsciiBytes;47;12;21;8;
 
 
 #org/apache/commons/codec/binary/BinaryCodec/toAsciiChars:
-Method toAsciiChars reduced in 0 minutes and 0 seconds. Total em milliseconds 16
+Method toAsciiChars reduced in 0 minutes and 0 seconds. Total em milliseconds 7
 ## nodes: 14
 ## edges: 18
 ## duas: 47
 ## Unconstrained duas: 12
 ## Reduction nodes: 21
-@@ org.apache.commons.codec.binary.BinaryCodec.toAsciiChars,14,18,47,12,21,25.53191489361702,44.680851063829785,0,16
+@@ org.apache.commons.codec.binary.BinaryCodec.toAsciiChars,14,18,47,12,21,25.53191489361702,44.680851063829785,0,7
 
-org.apache.commons.codec.binary.BinaryCodec.toAsciiChars;47;12;21;16;
+org.apache.commons.codec.binary.BinaryCodec.toAsciiChars;47;12;21;7;
 
 
 #org/apache/commons/codec/binary/Hex/decodeHex:
@@ -1155,27 +1155,27 @@ org.apache.commons.codec.binary.Hex.toDigit;5;2;2;0;
 
 
 #org/apache/commons/codec/binary/Hex/encodeHex:
-Method encodeHex reduced in 0 minutes and 0 seconds. Total em milliseconds 2
+Method encodeHex reduced in 0 minutes and 0 seconds. Total em milliseconds 0
 ## nodes: 5
 ## edges: 5
 ## duas: 14
 ## Unconstrained duas: 2
 ## Reduction nodes: 4
-@@ org.apache.commons.codec.binary.Hex.encodeHex,5,5,14,2,4,14.285714285714285,28.57142857142857,0,2
+@@ org.apache.commons.codec.binary.Hex.encodeHex,5,5,14,2,4,14.285714285714285,28.57142857142857,0,0
 
-org.apache.commons.codec.binary.Hex.encodeHex;14;2;4;2;
+org.apache.commons.codec.binary.Hex.encodeHex;14;2;4;0;
 
 
 #org/apache/commons/codec/binary/Hex/decode:
-Method decode reduced in 0 minutes and 0 seconds. Total em milliseconds 2
+Method decode reduced in 0 minutes and 0 seconds. Total em milliseconds 0
 ## nodes: 5
 ## edges: 5
 ## duas: 3
 ## Unconstrained duas: 2
 ## Reduction nodes: 3
-@@ org.apache.commons.codec.binary.Hex.decode,5,5,3,2,3,66.66666666666666,100.0,0,2
+@@ org.apache.commons.codec.binary.Hex.decode,5,5,3,2,3,66.66666666666666,100.0,0,0
 
-org.apache.commons.codec.binary.Hex.decode;3;2;3;2;
+org.apache.commons.codec.binary.Hex.decode;3;2;3;0;
 
 
 #org/apache/commons/codec/binary/Hex/encode:
@@ -1203,75 +1203,75 @@ org.apache.commons.codec.binary.Base64.isBase64;8;4;6;1;
 
 
 #org/apache/commons/codec/binary/Base64/isArrayByteBase64:
-Method isArrayByteBase64 reduced in 0 minutes and 0 seconds. Total em milliseconds 3
+Method isArrayByteBase64 reduced in 0 minutes and 0 seconds. Total em milliseconds 2
 ## nodes: 9
 ## edges: 11
 ## duas: 16
 ## Unconstrained duas: 6
 ## Reduction nodes: 12
-@@ org.apache.commons.codec.binary.Base64.isArrayByteBase64,9,11,16,6,12,37.5,75.0,0,3
+@@ org.apache.commons.codec.binary.Base64.isArrayByteBase64,9,11,16,6,12,37.5,75.0,0,2
 
-org.apache.commons.codec.binary.Base64.isArrayByteBase64;16;6;12;3;
+org.apache.commons.codec.binary.Base64.isArrayByteBase64;16;6;12;2;
 
 
 #org/apache/commons/codec/binary/Base64/decode:
-Method decode reduced in 0 minutes and 0 seconds. Total em milliseconds 0
+Method decode reduced in 0 minutes and 0 seconds. Total em milliseconds 1
 ## nodes: 4
 ## edges: 4
 ## duas: 4
 ## Unconstrained duas: 2
 ## Reduction nodes: 2
-@@ org.apache.commons.codec.binary.Base64.decode,4,4,4,2,2,50.0,50.0,0,0
+@@ org.apache.commons.codec.binary.Base64.decode,4,4,4,2,2,50.0,50.0,0,1
 
-org.apache.commons.codec.binary.Base64.decode;4;2;2;0;
+org.apache.commons.codec.binary.Base64.decode;4;2;2;1;
 
 
 #org/apache/commons/codec/binary/Base64/encodeBase64:
-Method encodeBase64 reduced in 0 minutes and 0 seconds. Total em milliseconds 66
+Method encodeBase64 reduced in 0 minutes and 0 seconds. Total em milliseconds 32
 ## nodes: 43
 ## edges: 59
 ## duas: 109
 ## Unconstrained duas: 42
 ## Reduction nodes: 60
-@@ org.apache.commons.codec.binary.Base64.encodeBase64,43,59,109,42,60,38.53211009174312,55.04587155963303,0,66
+@@ org.apache.commons.codec.binary.Base64.encodeBase64,43,59,109,42,60,38.53211009174312,55.04587155963303,0,32
 
-org.apache.commons.codec.binary.Base64.encodeBase64;109;42;60;66;
+org.apache.commons.codec.binary.Base64.encodeBase64;109;42;60;32;
 
 
 #org/apache/commons/codec/binary/Base64/decodeBase64:
-Method decodeBase64 reduced in 0 minutes and 0 seconds. Total em milliseconds 17
+Method decodeBase64 reduced in 0 minutes and 0 seconds. Total em milliseconds 12
 ## nodes: 18
 ## edges: 25
 ## duas: 59
 ## Unconstrained duas: 15
 ## Reduction nodes: 26
-@@ org.apache.commons.codec.binary.Base64.decodeBase64,18,25,59,15,26,25.423728813559322,44.06779661016949,0,17
+@@ org.apache.commons.codec.binary.Base64.decodeBase64,18,25,59,15,26,25.423728813559322,44.06779661016949,0,12
 
-org.apache.commons.codec.binary.Base64.decodeBase64;59;15;26;17;
+org.apache.commons.codec.binary.Base64.decodeBase64;59;15;26;12;
 
 
 #org/apache/commons/codec/binary/Base64/discardWhitespace:
-Method discardWhitespace reduced in 0 minutes and 0 seconds. Total em milliseconds 3
+Method discardWhitespace reduced in 0 minutes and 0 seconds. Total em milliseconds 2
 ## nodes: 8
 ## edges: 9
 ## duas: 23
 ## Unconstrained duas: 5
 ## Reduction nodes: 12
-@@ org.apache.commons.codec.binary.Base64.discardWhitespace,8,9,23,5,12,21.73913043478261,52.17391304347826,0,3
+@@ org.apache.commons.codec.binary.Base64.discardWhitespace,8,9,23,5,12,21.73913043478261,52.17391304347826,0,2
 
-org.apache.commons.codec.binary.Base64.discardWhitespace;23;5;12;3;
+org.apache.commons.codec.binary.Base64.discardWhitespace;23;5;12;2;
 
 
 #org/apache/commons/codec/binary/Base64/discardNonBase64:
-Method discardNonBase64 reduced in 0 minutes and 0 seconds. Total em milliseconds 3
+Method discardNonBase64 reduced in 0 minutes and 0 seconds. Total em milliseconds 2
 ## nodes: 7
 ## edges: 8
 ## duas: 23
 ## Unconstrained duas: 5
 ## Reduction nodes: 12
-@@ org.apache.commons.codec.binary.Base64.discardNonBase64,7,8,23,5,12,21.73913043478261,52.17391304347826,0,3
+@@ org.apache.commons.codec.binary.Base64.discardNonBase64,7,8,23,5,12,21.73913043478261,52.17391304347826,0,2
 
-org.apache.commons.codec.binary.Base64.discardNonBase64;23;5;12;3;
+org.apache.commons.codec.binary.Base64.discardNonBase64;23;5;12;2;
 
 
 #org/apache/commons/codec/binary/Base64/encode:
@@ -1309,5 +1309,5 @@ Method toIntegerBytes reduced in 0 minutes and 0 seconds. Total em milliseconds 
 
 org.apache.commons.codec.binary.Base64.toIntegerBytes;17;5;7;1;
 
-109 methods analyzed in 0 minutes and 7 seconds
-Unconstrained DUAs time (ms):7409
+109 methods analyzed in 0 minutes and 6 seconds
+Unconstrained DUAs time (ms):6564

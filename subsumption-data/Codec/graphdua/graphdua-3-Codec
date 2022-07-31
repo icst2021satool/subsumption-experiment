@@ -1,0 +1,555 @@
+@@ Method, Nodes, Nduas, Time_s, Time_ms
+
+Failed to analyze: /Users/marcoschaim/experimentos/subsumption-experiment/scripts/../subsumption-data/Codec/graphdua
+Failed to analyze: /Users/marcoschaim/experimentos/subsumption-experiment/scripts/../subsumption-data/Codec/graphdua
+
+#org/apache/commons/codec/net/RFC1522Codec/encodeText:
+Method org.apache.commons.codec.net.RFC1522Codec.encodeText graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.codec.net.RFC1522Codec.encodeText,4,5,0,5
+
+
+#org/apache/commons/codec/net/RFC1522Codec/decodeText:
+Method org.apache.commons.codec.net.RFC1522Codec.decodeText graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.codec.net.RFC1522Codec.decodeText,17,38,0,16
+
+Failed to analyze: /Users/marcoschaim/experimentos/subsumption-experiment/scripts/../subsumption-data/Codec/graphdua
+
+#org/apache/commons/codec/net/QuotedPrintableCodec/encodeQuotedPrintable:
+Method org.apache.commons.codec.net.QuotedPrintableCodec.encodeQuotedPrintable graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.codec.net.QuotedPrintableCodec.encodeQuotedPrintable,14,34,0,15
+
+
+#org/apache/commons/codec/net/QuotedPrintableCodec/decodeQuotedPrintable:
+Method org.apache.commons.codec.net.QuotedPrintableCodec.decodeQuotedPrintable graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.codec.net.QuotedPrintableCodec.decodeQuotedPrintable,13,29,0,8
+
+
+#org/apache/commons/codec/net/QuotedPrintableCodec/encode:
+Method org.apache.commons.codec.net.QuotedPrintableCodec.encode graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.codec.net.QuotedPrintableCodec.encode,4,4,0,0
+
+
+#org/apache/commons/codec/net/QuotedPrintableCodec/decode:
+Method org.apache.commons.codec.net.QuotedPrintableCodec.decode graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.codec.net.QuotedPrintableCodec.decode,4,5,0,0
+
+
+#org/apache/commons/codec/net/QuotedPrintableCodec/decode:
+Method org.apache.commons.codec.net.QuotedPrintableCodec.decode graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.codec.net.QuotedPrintableCodec.decode,4,4,0,0
+
+
+#org/apache/commons/codec/net/QuotedPrintableCodec/encode:
+Method org.apache.commons.codec.net.QuotedPrintableCodec.encode graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.codec.net.QuotedPrintableCodec.encode,8,11,0,2
+
+
+#org/apache/commons/codec/net/QuotedPrintableCodec/decode:
+Method org.apache.commons.codec.net.QuotedPrintableCodec.decode graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.codec.net.QuotedPrintableCodec.decode,8,11,0,1
+
+
+#org/apache/commons/codec/net/QuotedPrintableCodec/encode:
+Method org.apache.commons.codec.net.QuotedPrintableCodec.encode graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.codec.net.QuotedPrintableCodec.encode,4,5,0,0
+
+
+#org/apache/commons/codec/net/QCodec/doEncoding:
+Method org.apache.commons.codec.net.QCodec.doEncoding graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.codec.net.QCodec.doEncoding,10,26,0,4
+
+
+#org/apache/commons/codec/net/QCodec/doDecoding:
+Method org.apache.commons.codec.net.QCodec.doDecoding graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.codec.net.QCodec.doDecoding,17,43,0,6
+
+
+#org/apache/commons/codec/net/QCodec/encode:
+Method org.apache.commons.codec.net.QCodec.encode graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.codec.net.QCodec.encode,4,5,0,0
+
+
+#org/apache/commons/codec/net/QCodec/encode:
+Method org.apache.commons.codec.net.QCodec.encode graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.codec.net.QCodec.encode,4,4,0,0
+
+
+#org/apache/commons/codec/net/QCodec/decode:
+Method org.apache.commons.codec.net.QCodec.decode graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.codec.net.QCodec.decode,4,4,0,0
+
+
+#org/apache/commons/codec/net/QCodec/encode:
+Method org.apache.commons.codec.net.QCodec.encode graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.codec.net.QCodec.encode,6,7,0,0
+
+
+#org/apache/commons/codec/net/QCodec/decode:
+Method org.apache.commons.codec.net.QCodec.decode graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.codec.net.QCodec.decode,6,7,0,0
+
+
+#org/apache/commons/codec/net/BCodec/doEncoding:
+Method org.apache.commons.codec.net.BCodec.doEncoding graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.codec.net.BCodec.doEncoding,4,3,0,0
+
+
+#org/apache/commons/codec/net/BCodec/doDecoding:
+Method org.apache.commons.codec.net.BCodec.doDecoding graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.codec.net.BCodec.doDecoding,4,3,0,1
+
+
+#org/apache/commons/codec/net/BCodec/encode:
+Method org.apache.commons.codec.net.BCodec.encode graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.codec.net.BCodec.encode,4,5,0,0
+
+
+#org/apache/commons/codec/net/BCodec/encode:
+Method org.apache.commons.codec.net.BCodec.encode graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.codec.net.BCodec.encode,4,4,0,0
+
+
+#org/apache/commons/codec/net/BCodec/decode:
+Method org.apache.commons.codec.net.BCodec.decode graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.codec.net.BCodec.decode,4,4,0,0
+
+
+#org/apache/commons/codec/net/BCodec/encode:
+Method org.apache.commons.codec.net.BCodec.encode graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.codec.net.BCodec.encode,6,7,0,1
+
+
+#org/apache/commons/codec/net/BCodec/decode:
+Method org.apache.commons.codec.net.BCodec.decode graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.codec.net.BCodec.decode,6,7,0,1
+
+
+#org/apache/commons/codec/net/URLCodec/encodeUrl:
+Method org.apache.commons.codec.net.URLCodec.encodeUrl graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.codec.net.URLCodec.encodeUrl,16,39,0,9
+
+
+#org/apache/commons/codec/net/URLCodec/decodeUrl:
+Method org.apache.commons.codec.net.URLCodec.decodeUrl graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.codec.net.URLCodec.decodeUrl,15,32,0,7
+
+
+#org/apache/commons/codec/net/URLCodec/encode:
+Method org.apache.commons.codec.net.URLCodec.encode graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.codec.net.URLCodec.encode,4,5,0,0
+
+
+#org/apache/commons/codec/net/URLCodec/encode:
+Method org.apache.commons.codec.net.URLCodec.encode graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.codec.net.URLCodec.encode,4,4,0,1
+
+
+#org/apache/commons/codec/net/URLCodec/decode:
+Method org.apache.commons.codec.net.URLCodec.decode graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.codec.net.URLCodec.decode,4,5,0,0
+
+
+#org/apache/commons/codec/net/URLCodec/decode:
+Method org.apache.commons.codec.net.URLCodec.decode graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.codec.net.URLCodec.decode,4,4,0,1
+
+
+#org/apache/commons/codec/net/URLCodec/encode:
+Method org.apache.commons.codec.net.URLCodec.encode graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.codec.net.URLCodec.encode,8,11,0,1
+
+
+#org/apache/commons/codec/net/URLCodec/decode:
+Method org.apache.commons.codec.net.URLCodec.decode graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.codec.net.URLCodec.decode,8,11,0,1
+
+Failed to analyze: /Users/marcoschaim/experimentos/subsumption-experiment/scripts/../subsumption-data/Codec/graphdua
+
+#org/apache/commons/codec/digest/DigestUtils/digest:
+Method org.apache.commons.codec.digest.DigestUtils.digest graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.codec.digest.DigestUtils.digest,5,10,0,1
+
+
+#org/apache/commons/codec/language/SoundexUtils/clean:
+Method org.apache.commons.codec.language.SoundexUtils.clean graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.codec.language.SoundexUtils.clean,12,37,0,4
+
+
+#org/apache/commons/codec/language/SoundexUtils/differenceEncoded:
+Method org.apache.commons.codec.language.SoundexUtils.differenceEncoded graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.codec.language.SoundexUtils.differenceEncoded,10,26,0,3
+
+
+#org/apache/commons/codec/language/Caverphone/caverphone:
+Method org.apache.commons.codec.language.Caverphone.caverphone graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.codec.language.Caverphone.caverphone,5,5,0,0
+
+
+#org/apache/commons/codec/language/Caverphone/encode:
+Method org.apache.commons.codec.language.Caverphone.encode graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.codec.language.Caverphone.encode,4,4,0,0
+
+
+#org/apache/commons/codec/language/Metaphone/metaphone:
+Method org.apache.commons.codec.language.Metaphone.metaphone graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.codec.language.Metaphone.metaphone,116,550,0,579
+
+
+#org/apache/commons/codec/language/Metaphone/isVowel:
+Method org.apache.commons.codec.language.Metaphone.isVowel graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.codec.language.Metaphone.isVowel,5,4,0,0
+
+
+#org/apache/commons/codec/language/Metaphone/isPreviousChar:
+Method org.apache.commons.codec.language.Metaphone.isPreviousChar graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.codec.language.Metaphone.isPreviousChar,8,14,0,1
+
+
+#org/apache/commons/codec/language/Metaphone/isNextChar:
+Method org.apache.commons.codec.language.Metaphone.isNextChar graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.codec.language.Metaphone.isNextChar,8,14,0,0
+
+
+#org/apache/commons/codec/language/Metaphone/regionMatch:
+Method org.apache.commons.codec.language.Metaphone.regionMatch graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.codec.language.Metaphone.regionMatch,5,13,0,0
+
+
+#org/apache/commons/codec/language/Metaphone/isLastChar:
+Method org.apache.commons.codec.language.Metaphone.isLastChar graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.codec.language.Metaphone.isLastChar,5,4,0,0
+
+
+#org/apache/commons/codec/language/Metaphone/encode:
+Method org.apache.commons.codec.language.Metaphone.encode graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.codec.language.Metaphone.encode,4,4,0,4
+
+
+#org/apache/commons/codec/language/DoubleMetaphone/doubleMetaphone:
+Method org.apache.commons.codec.language.DoubleMetaphone.doubleMetaphone graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.codec.language.DoubleMetaphone.doubleMetaphone,59,1724,0,813
+
+
+#org/apache/commons/codec/language/DoubleMetaphone/encode:
+Method org.apache.commons.codec.language.DoubleMetaphone.encode graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.codec.language.DoubleMetaphone.encode,4,4,0,0
+
+
+#org/apache/commons/codec/language/DoubleMetaphone/handleAEIOUY:
+Method org.apache.commons.codec.language.DoubleMetaphone.handleAEIOUY graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.codec.language.DoubleMetaphone.handleAEIOUY,4,4,0,0
+
+
+#org/apache/commons/codec/language/DoubleMetaphone/handleC:
+Method org.apache.commons.codec.language.DoubleMetaphone.handleC graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.codec.language.DoubleMetaphone.handleC,31,97,0,6
+
+
+#org/apache/commons/codec/language/DoubleMetaphone/handleCC:
+Method org.apache.commons.codec.language.DoubleMetaphone.handleCC graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.codec.language.DoubleMetaphone.handleCC,11,27,0,1
+
+
+#org/apache/commons/codec/language/DoubleMetaphone/handleCH:
+Method org.apache.commons.codec.language.DoubleMetaphone.handleCH graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.codec.language.DoubleMetaphone.handleCH,14,32,0,1
+
+
+#org/apache/commons/codec/language/DoubleMetaphone/handleD:
+Method org.apache.commons.codec.language.DoubleMetaphone.handleD graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.codec.language.DoubleMetaphone.handleD,9,24,0,0
+
+
+#org/apache/commons/codec/language/DoubleMetaphone/handleG:
+Method org.apache.commons.codec.language.DoubleMetaphone.handleG graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.codec.language.DoubleMetaphone.handleG,41,128,0,8
+
+
+#org/apache/commons/codec/language/DoubleMetaphone/handleGH:
+Method org.apache.commons.codec.language.DoubleMetaphone.handleGH graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.codec.language.DoubleMetaphone.handleGH,25,67,0,3
+
+
+#org/apache/commons/codec/language/DoubleMetaphone/handleH:
+Method org.apache.commons.codec.language.DoubleMetaphone.handleH graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.codec.language.DoubleMetaphone.handleH,7,19,0,0
+
+
+#org/apache/commons/codec/language/DoubleMetaphone/handleJ:
+Method org.apache.commons.codec.language.DoubleMetaphone.handleJ graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.codec.language.DoubleMetaphone.handleJ,27,76,0,3
+
+
+#org/apache/commons/codec/language/DoubleMetaphone/handleL:
+Method org.apache.commons.codec.language.DoubleMetaphone.handleL graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.codec.language.DoubleMetaphone.handleL,7,17,0,0
+
+
+#org/apache/commons/codec/language/DoubleMetaphone/handleP:
+Method org.apache.commons.codec.language.DoubleMetaphone.handleP graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.codec.language.DoubleMetaphone.handleP,8,16,0,1
+
+
+#org/apache/commons/codec/language/DoubleMetaphone/handleR:
+Method org.apache.commons.codec.language.DoubleMetaphone.handleR graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.codec.language.DoubleMetaphone.handleR,11,23,0,1
+
+
+#org/apache/commons/codec/language/DoubleMetaphone/handleS:
+Method org.apache.commons.codec.language.DoubleMetaphone.handleS graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.codec.language.DoubleMetaphone.handleS,35,83,0,5
+
+
+#org/apache/commons/codec/language/DoubleMetaphone/handleSC:
+Method org.apache.commons.codec.language.DoubleMetaphone.handleSC graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.codec.language.DoubleMetaphone.handleSC,15,35,0,1
+
+
+#org/apache/commons/codec/language/DoubleMetaphone/handleT:
+Method org.apache.commons.codec.language.DoubleMetaphone.handleT graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.codec.language.DoubleMetaphone.handleT,18,41,0,2
+
+
+#org/apache/commons/codec/language/DoubleMetaphone/handleW:
+Method org.apache.commons.codec.language.DoubleMetaphone.handleW graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.codec.language.DoubleMetaphone.handleW,19,57,0,1
+
+
+#org/apache/commons/codec/language/DoubleMetaphone/handleX:
+Method org.apache.commons.codec.language.DoubleMetaphone.handleX graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.codec.language.DoubleMetaphone.handleX,12,24,0,0
+
+
+#org/apache/commons/codec/language/DoubleMetaphone/handleZ:
+Method org.apache.commons.codec.language.DoubleMetaphone.handleZ graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.codec.language.DoubleMetaphone.handleZ,14,33,0,1
+
+
+#org/apache/commons/codec/language/DoubleMetaphone/conditionC0:
+Method org.apache.commons.codec.language.DoubleMetaphone.conditionC0 graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.codec.language.DoubleMetaphone.conditionC0,15,27,0,1
+
+
+#org/apache/commons/codec/language/DoubleMetaphone/conditionCH0:
+Method org.apache.commons.codec.language.DoubleMetaphone.conditionCH0 graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.codec.language.DoubleMetaphone.conditionCH0,9,12,0,0
+
+
+#org/apache/commons/codec/language/DoubleMetaphone/conditionCH1:
+Method org.apache.commons.codec.language.DoubleMetaphone.conditionCH1 graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.codec.language.DoubleMetaphone.conditionCH1,12,28,0,1
+
+
+#org/apache/commons/codec/language/DoubleMetaphone/conditionL0:
+Method org.apache.commons.codec.language.DoubleMetaphone.conditionL0 graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.codec.language.DoubleMetaphone.conditionL0,9,18,0,0
+
+
+#org/apache/commons/codec/language/DoubleMetaphone/conditionM0:
+Method org.apache.commons.codec.language.DoubleMetaphone.conditionM0 graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.codec.language.DoubleMetaphone.conditionM0,9,18,0,1
+
+
+#org/apache/commons/codec/language/DoubleMetaphone/isSlavoGermanic:
+Method org.apache.commons.codec.language.DoubleMetaphone.isSlavoGermanic graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.codec.language.DoubleMetaphone.isSlavoGermanic,8,8,0,0
+
+
+#org/apache/commons/codec/language/DoubleMetaphone/isVowel:
+Method org.apache.commons.codec.language.DoubleMetaphone.isVowel graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.codec.language.DoubleMetaphone.isVowel,5,2,0,0
+
+
+#org/apache/commons/codec/language/DoubleMetaphone/isSilentStart:
+Method org.apache.commons.codec.language.DoubleMetaphone.isSilentStart graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.codec.language.DoubleMetaphone.isSilentStart,7,18,0,1
+
+
+#org/apache/commons/codec/language/DoubleMetaphone/cleanInput:
+Method org.apache.commons.codec.language.DoubleMetaphone.cleanInput graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.codec.language.DoubleMetaphone.cleanInput,6,7,0,0
+
+
+#org/apache/commons/codec/language/DoubleMetaphone/charAt:
+Method org.apache.commons.codec.language.DoubleMetaphone.charAt graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.codec.language.DoubleMetaphone.charAt,5,8,0,0
+
+
+#org/apache/commons/codec/language/DoubleMetaphone/contains:
+Method org.apache.commons.codec.language.DoubleMetaphone.contains graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.codec.language.DoubleMetaphone.contains,9,29,0,1
+
+Failed to analyze: /Users/marcoschaim/experimentos/subsumption-experiment/scripts/../subsumption-data/Codec/graphdua
+
+#org/apache/commons/codec/language/DoubleMetaphone$DoubleMetaphoneResult/appendPrimary:
+Method org.apache.commons.codec.language.DoubleMetaphone$DoubleMetaphoneResult.appendPrimary graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.codec.language.DoubleMetaphone$DoubleMetaphoneResult.appendPrimary,4,9,0,0
+
+
+#org/apache/commons/codec/language/DoubleMetaphone$DoubleMetaphoneResult/appendAlternate:
+Method org.apache.commons.codec.language.DoubleMetaphone$DoubleMetaphoneResult.appendAlternate graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.codec.language.DoubleMetaphone$DoubleMetaphoneResult.appendAlternate,4,9,0,0
+
+
+#org/apache/commons/codec/language/DoubleMetaphone$DoubleMetaphoneResult/appendPrimary:
+Method org.apache.commons.codec.language.DoubleMetaphone$DoubleMetaphoneResult.appendPrimary graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.codec.language.DoubleMetaphone$DoubleMetaphoneResult.appendPrimary,5,11,0,0
+
+
+#org/apache/commons/codec/language/DoubleMetaphone$DoubleMetaphoneResult/appendAlternate:
+Method org.apache.commons.codec.language.DoubleMetaphone$DoubleMetaphoneResult.appendAlternate graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.codec.language.DoubleMetaphone$DoubleMetaphoneResult.appendAlternate,5,11,0,0
+
+
+#org/apache/commons/codec/language/DoubleMetaphone$DoubleMetaphoneResult/isComplete:
+Method org.apache.commons.codec.language.DoubleMetaphone$DoubleMetaphoneResult.isComplete graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.codec.language.DoubleMetaphone$DoubleMetaphoneResult.isComplete,6,12,0,0
+
+
+#org/apache/commons/codec/language/RefinedSoundex/encode:
+Method org.apache.commons.codec.language.RefinedSoundex.encode graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.codec.language.RefinedSoundex.encode,4,4,0,0
+
+
+#org/apache/commons/codec/language/RefinedSoundex/getMappingCode:
+Method org.apache.commons.codec.language.RefinedSoundex.getMappingCode graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.codec.language.RefinedSoundex.getMappingCode,4,5,0,0
+
+
+#org/apache/commons/codec/language/RefinedSoundex/soundex:
+Method org.apache.commons.codec.language.RefinedSoundex.soundex graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.codec.language.RefinedSoundex.soundex,14,31,0,2
+
+
+#org/apache/commons/codec/language/Soundex/encode:
+Method org.apache.commons.codec.language.Soundex.encode graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.codec.language.Soundex.encode,4,4,0,0
+
+
+#org/apache/commons/codec/language/Soundex/getMappingCode:
+Method org.apache.commons.codec.language.Soundex.getMappingCode graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.codec.language.Soundex.getMappingCode,10,22,0,1
+
+
+#org/apache/commons/codec/language/Soundex/map:
+Method org.apache.commons.codec.language.Soundex.map graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.codec.language.Soundex.map,5,9,0,0
+
+
+#org/apache/commons/codec/language/Soundex/soundex:
+Method org.apache.commons.codec.language.Soundex.soundex graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.codec.language.Soundex.soundex,14,40,0,2
+
+
+#org/apache/commons/codec/binary/BinaryCodec/encode:
+Method org.apache.commons.codec.binary.BinaryCodec.encode graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.codec.binary.BinaryCodec.encode,4,3,0,0
+
+
+#org/apache/commons/codec/binary/BinaryCodec/decode:
+Method org.apache.commons.codec.binary.BinaryCodec.decode graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.codec.binary.BinaryCodec.decode,10,12,0,0
+
+
+#org/apache/commons/codec/binary/BinaryCodec/toByteArray:
+Method org.apache.commons.codec.binary.BinaryCodec.toByteArray graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.codec.binary.BinaryCodec.toByteArray,4,4,0,0
+
+
+#org/apache/commons/codec/binary/BinaryCodec/fromAscii:
+Method org.apache.commons.codec.binary.BinaryCodec.fromAscii graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.codec.binary.BinaryCodec.fromAscii,13,41,0,2
+
+
+#org/apache/commons/codec/binary/BinaryCodec/fromAscii:
+Method org.apache.commons.codec.binary.BinaryCodec.fromAscii graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.codec.binary.BinaryCodec.fromAscii,13,41,0,3
+
+
+#org/apache/commons/codec/binary/BinaryCodec/toAsciiBytes:
+Method org.apache.commons.codec.binary.BinaryCodec.toAsciiBytes graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.codec.binary.BinaryCodec.toAsciiBytes,14,47,0,2
+
+
+#org/apache/commons/codec/binary/BinaryCodec/toAsciiChars:
+Method org.apache.commons.codec.binary.BinaryCodec.toAsciiChars graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.codec.binary.BinaryCodec.toAsciiChars,14,47,0,2
+
+Failed to analyze: /Users/marcoschaim/experimentos/subsumption-experiment/scripts/../subsumption-data/Codec/graphdua
+
+#org/apache/commons/codec/binary/Hex/decodeHex:
+Method org.apache.commons.codec.binary.Hex.decodeHex graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.codec.binary.Hex.decodeHex,7,16,0,1
+
+
+#org/apache/commons/codec/binary/Hex/toDigit:
+Method org.apache.commons.codec.binary.Hex.toDigit graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.codec.binary.Hex.toDigit,4,5,0,0
+
+
+#org/apache/commons/codec/binary/Hex/encodeHex:
+Method org.apache.commons.codec.binary.Hex.encodeHex graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.codec.binary.Hex.encodeHex,5,14,0,0
+
+
+#org/apache/commons/codec/binary/Hex/decode:
+Method org.apache.commons.codec.binary.Hex.decode graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.codec.binary.Hex.decode,5,3,0,0
+
+
+#org/apache/commons/codec/binary/Hex/encode:
+Method org.apache.commons.codec.binary.Hex.encode graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.codec.binary.Hex.encode,5,3,0,0
+
+
+#org/apache/commons/codec/binary/Base64/isBase64:
+Method org.apache.commons.codec.binary.Base64.isBase64 graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.codec.binary.Base64.isBase64,7,8,0,0
+
+
+#org/apache/commons/codec/binary/Base64/isArrayByteBase64:
+Method org.apache.commons.codec.binary.Base64.isArrayByteBase64 graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.codec.binary.Base64.isArrayByteBase64,9,16,0,2
+
+
+#org/apache/commons/codec/binary/Base64/decode:
+Method org.apache.commons.codec.binary.Base64.decode graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.codec.binary.Base64.decode,4,4,0,0
+
+
+#org/apache/commons/codec/binary/Base64/encodeBase64:
+Method org.apache.commons.codec.binary.Base64.encodeBase64 graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.codec.binary.Base64.encodeBase64,43,109,0,13
+
+
+#org/apache/commons/codec/binary/Base64/decodeBase64:
+Method org.apache.commons.codec.binary.Base64.decodeBase64 graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.codec.binary.Base64.decodeBase64,18,59,0,3
+
+
+#org/apache/commons/codec/binary/Base64/discardWhitespace:
+Method org.apache.commons.codec.binary.Base64.discardWhitespace graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.codec.binary.Base64.discardWhitespace,8,23,0,1
+
+
+#org/apache/commons/codec/binary/Base64/discardNonBase64:
+Method org.apache.commons.codec.binary.Base64.discardNonBase64 graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.codec.binary.Base64.discardNonBase64,7,23,0,1
+
+
+#org/apache/commons/codec/binary/Base64/encode:
+Method org.apache.commons.codec.binary.Base64.encode graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.codec.binary.Base64.encode,4,4,0,0
+
+
+#org/apache/commons/codec/binary/Base64/encodeInteger:
+Method org.apache.commons.codec.binary.Base64.encodeInteger graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.codec.binary.Base64.encodeInteger,4,3,0,1
+
+
+#org/apache/commons/codec/binary/Base64/toIntegerBytes:
+Method org.apache.commons.codec.binary.Base64.toIntegerBytes graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.codec.binary.Base64.toIntegerBytes,7,17,0,0
+
+109 methods have their graphdua generated in 0 minutes and 2 seconds
+Graphduas time (ms):2064

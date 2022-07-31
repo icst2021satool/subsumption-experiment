@@ -1,0 +1,10 @@
+{
+"Class" : "org.apache.commons.codec.digest.DigestUtils", 
+"Methods" : [{ "Name" : "digest" ,
+"Edges" : 5,
+"Duas" : 11,
+"5" : 1, 
+ "6" : 2, 
+ "8" : 1, 
+ "9" : 2}]
+}

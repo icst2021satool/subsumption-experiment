@@ -1,0 +1,38 @@
+{
+"Class" : "org.apache.commons.codec.language.DoubleMetaphone$DoubleMetaphoneResult", 
+"Methods" : [{ "Name" : "appendPrimary" ,
+"Nodes" : 4,
+"0" : [ 1052 ]
+"1" : [ 1055 ]
+"2" : [ 1053 ]
+"3" : [  ]
+},{ "Name" : "appendAlternate" ,
+"Nodes" : 4,
+"0" : [ 1058 ]
+"1" : [ 1061 ]
+"2" : [ 1059 ]
+"3" : [  ]
+},{ "Name" : "appendPrimary" ,
+"Nodes" : 5,
+"0" : [ 1074,1075 ]
+"1" : [ 1078 ]
+"2" : [ 1080 ]
+"3" : [ 1076 ]
+"4" : [  ]
+},{ "Name" : "appendAlternate" ,
+"Nodes" : 5,
+"0" : [ 1083,1084 ]
+"1" : [ 1087 ]
+"2" : [ 1089 ]
+"3" : [ 1085 ]
+"4" : [  ]
+},{ "Name" : "isComplete" ,
+"Nodes" : 6,
+"0" : [ 1100 ]
+"1" : [ 1100 ]
+"2" : [ 1100 ]
+"3" : [ 1100 ]
+"4" : [ 1100 ]
+"5" : [  ]
+}]
+}

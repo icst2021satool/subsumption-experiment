@@ -1,0 +1,48 @@
+{
+"Class" : "org.apache.commons.codec.language.DoubleMetaphone$DoubleMetaphoneResult", 
+"Methods" : [{ "Name" : "appendPrimary" ,
+"Nodes" : 4,
+"0" : [ ],
+"2" : [ 0, 2, 3, 4, 6, 8],
+"1" : [ ],
+"3" : [ ],
+"CoveredDUAsByNodes" : 6,
+"Duas" : 9
+},{ "Name" : "appendAlternate" ,
+"Nodes" : 4,
+"0" : [ ],
+"2" : [ 0, 2, 3, 4, 6, 8],
+"1" : [ ],
+"3" : [ ],
+"CoveredDUAsByNodes" : 6,
+"Duas" : 9
+},{ "Name" : "appendPrimary" ,
+"Nodes" : 5,
+"0" : [ ],
+"1" : [ 0, 3, 4, 6, 9, 10],
+"3" : [ 1, 2, 5, 7, 8],
+"2" : [ ],
+"4" : [ ],
+"CoveredDUAsByNodes" : 11,
+"Duas" : 11
+},{ "Name" : "appendAlternate" ,
+"Nodes" : 5,
+"0" : [ ],
+"1" : [ 0, 3, 4, 6, 9, 10],
+"3" : [ 1, 2, 5, 7, 8],
+"2" : [ ],
+"4" : [ ],
+"CoveredDUAsByNodes" : 11,
+"Duas" : 11
+},{ "Name" : "isComplete" ,
+"Nodes" : 6,
+"0" : [ ],
+"3" : [ 0, 4, 8],
+"1" : [ ],
+"4" : [ 0, 2, 4, 6, 8, 10],
+"2" : [ ],
+"5" : [ ],
+"CoveredDUAsByNodes" : 6,
+"Duas" : 12
+}]
+}
