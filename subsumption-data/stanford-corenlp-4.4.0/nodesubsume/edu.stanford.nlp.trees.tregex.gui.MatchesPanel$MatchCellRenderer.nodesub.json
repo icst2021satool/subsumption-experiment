@@ -1,0 +1,14 @@
+{
+"Class" : "edu.stanford.nlp.trees.tregex.gui.MatchesPanel$MatchCellRenderer", 
+"Methods" : [{ "Name" : "getListCellRendererComponent" ,
+"Nodes" : 6,
+"0" : [ ],
+"3" : [ 3],
+"4" : [ 2, 3, 6, 9],
+"1" : [ 0, 5, 7],
+"2" : [ 8],
+"5" : [ 8],
+"CoveredDUAsByNodes" : 8,
+"Duas" : 10
+}]
+}

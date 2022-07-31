@@ -1,0 +1,10 @@
+{
+"Class" : "edu.stanford.nlp.parser.nndep.demo.DependencyParserCoreNLPDemo", 
+"Methods" : [{ "Name" : "main" ,
+"Duas" : "8" ,
+"Subsumers" : 3,
+"0" : [ 6, 2, 0], "S0" : [0, 2, 6 ],
+"1" : [ 7, 1], "S1" : [1, 7 ],
+"2" : [ 5, 4, 3], "S2" : [3, 4, 5 ]
+}]
+}

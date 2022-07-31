@@ -1,0 +1,13 @@
+{
+"Class" : "edu.stanford.nlp.ling.tokensregex.types.ValueFunctions$20", 
+"Methods" : [{ "Name" : "apply" ,
+"Duas" : 8,
+"0" :  "(585,592, env)",
+"1" :  "(585,(585,585), in)",
+"2" :  "(585,(585,586), in)",
+"3" :  "(585,586, in)",
+"4" :  "(585,587, in)",
+"5" :  "(587,592, func)",
+"6" :  "(588,594, res)",
+"7" :  "(588,592, res)"}]
+}

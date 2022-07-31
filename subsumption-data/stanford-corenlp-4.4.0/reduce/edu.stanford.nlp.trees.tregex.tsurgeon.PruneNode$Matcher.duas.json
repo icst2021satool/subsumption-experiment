@@ -1,0 +1,16 @@
+{
+"Class" : "edu.stanford.nlp.trees.tregex.tsurgeon.PruneNode$Matcher", 
+"Methods" : [{ "Name" : "evaluate" ,
+"Duas" : 11,
+"0" :  "(34,40, tree)",
+"1" :  "(34,36, tree)",
+"2" :  "(34,(37,38), tree)",
+"3" :  "(34,(37,35), tree)",
+"4" :  "(34,36, tregex)",
+"5" :  "(34,(40,40), prunedWholeTree)",
+"6" :  "(34,(40,40), prunedWholeTree)",
+"7" :  "(36,(37,38), nodeToPrune)",
+"8" :  "(36,(37,35), nodeToPrune)",
+"9" :  "(38,(40,40), prunedWholeTree)",
+"10" :  "(38,(40,40), prunedWholeTree)"}]
+}

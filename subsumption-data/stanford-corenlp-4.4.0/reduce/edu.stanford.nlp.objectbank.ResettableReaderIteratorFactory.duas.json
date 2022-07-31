@@ -1,0 +1,17 @@
+{
+"Class" : "edu.stanford.nlp.objectbank.ResettableReaderIteratorFactory", 
+"Methods" : [{ "Name" : "iterator" ,
+"Duas" : 12,
+"0" :  "(79,97, this)",
+"1" :  "(79,98, this)",
+"2" :  "(79,90, this)",
+"3" :  "(79,90, this.enc)",
+"4" :  "(79,97, newCollection)",
+"5" :  "(79,94, newCollection)",
+"6" :  "(79,92, newCollection)",
+"7" :  "(80,(81,82), o)",
+"8" :  "(80,(81,94), o)",
+"9" :  "(80,94, o)",
+"10" :  "(80,82, o)",
+"11" :  "(80,90, o)"}]
+}

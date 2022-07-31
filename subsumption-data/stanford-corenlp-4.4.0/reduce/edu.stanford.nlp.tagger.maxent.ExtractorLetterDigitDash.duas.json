@@ -1,0 +1,11 @@
+{
+"Class" : "edu.stanford.nlp.tagger.maxent.ExtractorLetterDigitDash", 
+"Methods" : [{ "Name" : "extract" ,
+"Duas" : 6,
+"0" :  "(800,(801,801), s)",
+"1" :  "(800,(801,804), s)",
+"2" :  "(800,(801,801), s)",
+"3" :  "(800,(801,804), s)",
+"4" :  "(800,(801,802), s)",
+"5" :  "(800,(801,804), s)"}]
+}

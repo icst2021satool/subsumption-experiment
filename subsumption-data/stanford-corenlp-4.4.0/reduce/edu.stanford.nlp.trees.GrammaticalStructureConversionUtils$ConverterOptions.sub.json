@@ -1,0 +1,15 @@
+{
+"Class" : "edu.stanford.nlp.trees.GrammaticalStructureConversionUtils$ConverterOptions", 
+"Methods" : [{ "Name" : "initializeNameMap" ,
+"Duas" : "10" ,
+"Subsumers" : 2,
+"0" : [ 9, 7, 6, 3, 2], "S0" : [0, 1, 2, 3, 5, 6, 7, 9 ],
+"1" : [ 8, 4], "S1" : [0, 1, 4, 5, 8 ]
+},{ "Name" : "getConverterOptions" ,
+"Duas" : "9" ,
+"Subsumers" : 3,
+"0" : [ 5, 0], "S0" : [0, 5 ],
+"1" : [ 6], "S1" : [1, 2, 3, 4, 6, 8 ],
+"2" : [ 7], "S2" : [1, 2, 3, 4, 7, 8 ]
+}]
+}

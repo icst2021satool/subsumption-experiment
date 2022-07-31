@@ -1,0 +1,17 @@
+{
+"Class" : "edu.stanford.nlp.international.arabic.pipeline.DecimatedArabicDataset", 
+"Methods" : [{ "Name" : "build" ,
+"Nodes" : 9,
+"0" : [ ],
+"1" : [ 1, 17],
+"6" : [ 1, 17, 2, 18, 20, 13, 14],
+"7" : [ 0, 16, 21, 15],
+"2" : [ 4, 23],
+"3" : [ 4, 23],
+"4" : [ 32, 33, 4, 5, 6, 7, 23, 24, 31],
+"8" : [ 32, 33, 4, 5, 6, 7, 23, 24, 31],
+"5" : [ 4, 8, 9, 10, 11, 12, 23, 25, 26, 27, 28, 29, 30],
+"CoveredDUAsByNodes" : 31,
+"Duas" : 35
+}]
+}

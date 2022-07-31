@@ -1,0 +1,16 @@
+{
+"Class" : "edu.stanford.nlp.parser.lexparser.AbstractTreebankParserParams$UntypedDependencyTyper", 
+"Methods" : [{ "Name" : "makeDependency" ,
+"Nodes" : 8,
+"0" : [ ],
+"1" : [ 1, 8, 11],
+"6" : [ 0, 7, 10],
+"2" : [ 2, 3, 9, 12],
+"3" : [ 2, 3, 4, 9, 12, 14],
+"5" : [ 2, 3, 6, 9, 12, 13],
+"4" : [ 2, 3, 5, 9, 12],
+"7" : [ 2, 3, 5, 9, 12],
+"CoveredDUAsByNodes" : 15,
+"Duas" : 15
+}]
+}

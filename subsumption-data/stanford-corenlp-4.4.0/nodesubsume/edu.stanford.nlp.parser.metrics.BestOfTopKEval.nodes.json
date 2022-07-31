@@ -1,0 +1,14 @@
+{
+"Class" : "edu.stanford.nlp.parser.metrics.BestOfTopKEval", 
+"Methods" : [{ "Name" : "evaluate" ,
+"Nodes" : 8,
+"0" : [ 34,35,36 ],
+"1" : [ 36 ],
+"2" : [ 45,46 ],
+"3" : [ 36,37,38,39 ],
+"4" : [ 40,41 ],
+"5" : [ 43 ],
+"6" : [ 39 ],
+"7" : [  ]
+}]
+}

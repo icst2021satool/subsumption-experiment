@@ -1,0 +1,15 @@
+{
+"Class" : "edu.stanford.nlp.ling.tokensregex.ComplexNodePattern$StringAnnotationRegexPattern", 
+"Methods" : [{ "Name" : "match" ,
+"Duas" : "5" ,
+"Subsumers" : 2,
+"0" : [ 4, 3, 2, 0], "S0" : [0, 2, 3, 4 ],
+"1" : [ 1], "S1" : [1 ]
+},{ "Name" : "matchWithResult" ,
+"Duas" : "8" ,
+"Subsumers" : 3,
+"0" : [ 7, 5], "S0" : [0, 2, 3, 4, 5, 7 ],
+"1" : [ 6], "S1" : [0, 2, 3, 4, 6 ],
+"2" : [ 1], "S2" : [1 ]
+}]
+}

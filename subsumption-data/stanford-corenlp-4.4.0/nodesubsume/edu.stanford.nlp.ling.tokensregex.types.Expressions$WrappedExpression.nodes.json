@@ -1,0 +1,24 @@
+{
+"Class" : "edu.stanford.nlp.ling.tokensregex.types.Expressions$WrappedExpression", 
+"Methods" : [{ "Name" : "equals" ,
+"Nodes" : 11,
+"0" : [ 248 ],
+"1" : [ 249 ],
+"2" : [ 251,253 ],
+"3" : [ 253 ],
+"4" : [ 255 ],
+"5" : [ 253 ],
+"6" : [ 253 ],
+"7" : [ 253 ],
+"8" : [ 249 ],
+"9" : [ 248 ],
+"10" : [  ]
+},{ "Name" : "hashCode" ,
+"Nodes" : 5,
+"0" : [ 260 ],
+"1" : [ 260 ],
+"2" : [ 260 ],
+"3" : [ 260 ],
+"4" : [  ]
+}]
+}

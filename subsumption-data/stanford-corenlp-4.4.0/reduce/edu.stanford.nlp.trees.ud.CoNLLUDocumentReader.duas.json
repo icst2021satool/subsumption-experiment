@@ -1,0 +1,9 @@
+{
+"Class" : "edu.stanford.nlp.trees.ud.CoNLLUDocumentReader", 
+"Methods" : [{ "Name" : "lambda$static$0" ,
+"Duas" : 4,
+"0" :  "(56,(56,56), i1)",
+"1" :  "(56,(56,56), i1)",
+"2" :  "(56,(57,57), i2)",
+"3" :  "(56,(57,57), i2)"}]
+}

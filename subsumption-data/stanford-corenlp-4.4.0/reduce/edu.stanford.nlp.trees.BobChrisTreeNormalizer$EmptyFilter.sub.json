@@ -1,0 +1,13 @@
+{
+"Class" : "edu.stanford.nlp.trees.BobChrisTreeNormalizer$EmptyFilter", 
+"Methods" : [{ "Name" : "test" ,
+"Duas" : "10" ,
+"Subsumers" : 6,
+"0" : [ 4], "S0" : [0, 2, 4, 6, 8 ],
+"1" : [ 5], "S1" : [0, 2, 5, 6, 8 ],
+"2" : [ 3], "S2" : [0, 3, 6, 8 ],
+"3" : [ 1], "S3" : [1, 6, 8 ],
+"4" : [ 9], "S4" : [6, 9 ],
+"5" : [ 7], "S5" : [7 ]
+}]
+}

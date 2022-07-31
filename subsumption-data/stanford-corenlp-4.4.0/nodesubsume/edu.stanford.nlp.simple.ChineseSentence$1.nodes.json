@@ -1,0 +1,12 @@
+{
+"Class" : "edu.stanford.nlp.simple.ChineseSentence$1", 
+"Methods" : [{ "Name" : "<init>" ,
+"Nodes" : 6,
+"0" : [ 20,21,22,23 ],
+"1" : [ 25,26,27,28,29,30,31 ],
+"2" : [ 23 ],
+"3" : [ 23 ],
+"4" : [ 23 ],
+"5" : [  ]
+}]
+}

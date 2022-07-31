@@ -1,0 +1,14 @@
+{
+"Class" : "edu.stanford.nlp.trees.tregex.gui.PreferencesPanel$1", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Nodes" : 6,
+"0" : [ ],
+"1" : [ 0, 23, 12],
+"2" : [ 0, 1, 2, 3, 4, 5, 8, 9, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 23, 24, 26, 27],
+"3" : [ 0, 6, 10, 12, 23, 25],
+"4" : [ 7, 11, 22],
+"5" : [ ],
+"CoveredDUAsByNodes" : 28,
+"Duas" : 28
+}]
+}

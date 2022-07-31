@@ -1,0 +1,12 @@
+{
+"Class" : "edu.stanford.nlp.trees.international.pennchinese.ChineseGrammaticalStructureFactory", 
+"Methods" : [{ "Name" : "newGrammaticalStructure" ,
+"Duas" : "20" ,
+"Subsumers" : 5,
+"0" : [ 18, 10, 6], "S0" : [0, 6, 10, 11, 18 ],
+"1" : [ 19, 7], "S1" : [0, 7, 11, 19 ],
+"2" : [ 12, 1], "S2" : [1, 12 ],
+"3" : [ 15, 14, 9, 5, 2], "S3" : [2, 5, 9, 14, 15 ],
+"4" : [ 17, 16, 13, 8, 4, 3], "S4" : [3, 4, 8, 13, 16, 17 ]
+}]
+}

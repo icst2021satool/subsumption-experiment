@@ -1,0 +1,12 @@
+{
+"Class" : "edu.stanford.nlp.semgraph.SemanticGraphEdge$SemanticGraphEdgeTargetComparator", 
+"Methods" : [{ "Name" : "compare" ,
+"Nodes" : 6,
+"0" : [ 112,113 ],
+"1" : [ 116,117 ],
+"2" : [ 120 ],
+"3" : [ 118 ],
+"4" : [ 114 ],
+"5" : [  ]
+}]
+}

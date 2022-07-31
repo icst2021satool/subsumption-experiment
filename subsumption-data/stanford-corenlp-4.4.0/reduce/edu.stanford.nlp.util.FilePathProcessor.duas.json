@@ -1,0 +1,17 @@
+{
+"Class" : "edu.stanford.nlp.util.FilePathProcessor", 
+"Methods" : [{ "Name" : "processPath" ,
+"Duas" : 12,
+"0" :  "(72,(72,74), path)",
+"1" :  "(72,(72,84), path)",
+"2" :  "(72,84, path)",
+"3" :  "(72,74, path)",
+"4" :  "(72,76, path)",
+"5" :  "(72,74, filter)",
+"6" :  "(72,79, filter)",
+"7" :  "(72,84, processor)",
+"8" :  "(72,79, processor)",
+"9" :  "(74,(75,76), directoryListing)",
+"10" :  "(74,(75,78), directoryListing)",
+"11" :  "(74,78, directoryListing)"}]
+}

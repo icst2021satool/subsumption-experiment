@@ -1,0 +1,9 @@
+{
+"Class" : "edu.stanford.nlp.semgraph.semgrex.GraphRelation$EQUALS", 
+"Methods" : [{ "Name" : "satisfies" ,
+"Duas" : 4,
+"0" :  "(780,(780,781), l1)",
+"1" :  "(780,(780,783), l1)",
+"2" :  "(780,(780,781), l2)",
+"3" :  "(780,(780,783), l2)"}]
+}

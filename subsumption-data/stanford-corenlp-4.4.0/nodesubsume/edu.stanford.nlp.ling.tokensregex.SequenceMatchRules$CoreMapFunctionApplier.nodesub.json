@@ -1,0 +1,22 @@
+{
+"Class" : "edu.stanford.nlp.ling.tokensregex.SequenceMatchRules$CoreMapFunctionApplier", 
+"Methods" : [{ "Name" : "<init>" ,
+"Nodes" : 4,
+"0" : [ ],
+"1" : [ 0, 1, 2, 4, 5],
+"2" : [ 3],
+"3" : [ ],
+"CoveredDUAsByNodes" : 6,
+"Duas" : 6
+},{ "Name" : "apply" ,
+"Nodes" : 6,
+"0" : [ ],
+"4" : [ 0, 7, 9, 10, 15],
+"1" : [ 16, 17, 2, 3, 8],
+"3" : [ 16, 17, 2, 3, 4, 6, 8, 12, 14],
+"2" : [ 16, 17, 2, 3, 8],
+"5" : [ 16, 17, 2, 3, 8],
+"CoveredDUAsByNodes" : 14,
+"Duas" : 18
+}]
+}

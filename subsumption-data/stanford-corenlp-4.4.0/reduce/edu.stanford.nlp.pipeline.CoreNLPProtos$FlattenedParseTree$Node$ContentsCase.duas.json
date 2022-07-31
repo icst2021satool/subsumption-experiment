@@ -1,0 +1,14 @@
+{
+"Class" : "edu.stanford.nlp.pipeline.CoreNLPProtos$FlattenedParseTree$Node$ContentsCase", 
+"Methods" : [{ "Name" : "forNumber" ,
+"Duas" : 9,
+"0" :  "(-1,(-1,-1), value)",
+"1" :  "(-1,(-1,-1), value)",
+"2" :  "(-1,(-1,-1), value)",
+"3" :  "(-1,(-1,-1), value)",
+"4" :  "(-1,(-1,-1), value)",
+"5" :  "(-1,-1, OPENNODE)",
+"6" :  "(-1,-1, CLOSENODE)",
+"7" :  "(-1,-1, VALUE)",
+"8" :  "(-1,-1, CONTENTS_NOT_SET)"}]
+}

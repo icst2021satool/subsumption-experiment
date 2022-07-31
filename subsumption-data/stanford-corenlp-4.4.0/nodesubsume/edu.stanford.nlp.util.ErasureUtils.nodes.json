@@ -1,0 +1,10 @@
+{
+"Class" : "edu.stanford.nlp.util.ErasureUtils", 
+"Methods" : [{ "Name" : "mkT2DArray" ,
+"Nodes" : 4,
+"0" : [ 49 ],
+"1" : [ 51 ],
+"2" : [ 50 ],
+"3" : [  ]
+}]
+}

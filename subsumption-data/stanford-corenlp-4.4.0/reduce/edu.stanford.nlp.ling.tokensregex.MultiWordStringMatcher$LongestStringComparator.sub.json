@@ -1,0 +1,10 @@
+{
+"Class" : "edu.stanford.nlp.ling.tokensregex.MultiWordStringMatcher$LongestStringComparator", 
+"Methods" : [{ "Name" : "compare" ,
+"Duas" : "10" ,
+"Subsumers" : 3,
+"0" : [ 6, 2, 1, 0], "S0" : [0, 1, 2, 6 ],
+"1" : [ 8, 4], "S1" : [3, 4, 7, 8 ],
+"2" : [ 9, 5], "S2" : [3, 5, 7, 9 ]
+}]
+}

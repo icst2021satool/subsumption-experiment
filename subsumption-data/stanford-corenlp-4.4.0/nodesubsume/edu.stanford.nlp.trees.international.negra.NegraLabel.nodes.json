@@ -1,0 +1,12 @@
+{
+"Class" : "edu.stanford.nlp.trees.international.negra.NegraLabel", 
+"Methods" : [{ "Name" : "toString" ,
+"Nodes" : 6,
+"0" : [ 112,111 ],
+"1" : [ 115 ],
+"2" : [ 118 ],
+"3" : [ 116 ],
+"4" : [ 113 ],
+"5" : [  ]
+}]
+}

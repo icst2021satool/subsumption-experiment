@@ -1,0 +1,10 @@
+{
+"Class" : "edu.stanford.nlp.util.logging.BooleanLogRecordHandler", 
+"Methods" : [{ "Name" : "handle" ,
+"Nodes" : 4,
+"0" : [ 20,21 ],
+"1" : [ 26 ],
+"2" : [ 22,23,24 ],
+"3" : [  ]
+}]
+}

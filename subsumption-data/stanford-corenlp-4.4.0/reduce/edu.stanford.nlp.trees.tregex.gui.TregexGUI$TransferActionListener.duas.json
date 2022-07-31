@@ -1,0 +1,23 @@
+{
+"Class" : "edu.stanford.nlp.trees.tregex.gui.TregexGUI$TransferActionListener", 
+"Methods" : [{ "Name" : "propertyChange" ,
+"Duas" : 5,
+"0" :  "(548,552, this)",
+"1" :  "(548,550, this)",
+"2" :  "(548,(549,550), o)",
+"3" :  "(548,(549,552), o)",
+"4" :  "(548,550, o)"},{ "Name" : "actionPerformed" ,
+"Duas" : 12,
+"0" :  "(558,(558,559), this)",
+"1" :  "(558,(558,560), this)",
+"2" :  "(558,561, this)",
+"3" :  "(558,563, this)",
+"4" :  "(558,560, e)",
+"5" :  "(558,(558,559), this.focusOwner)",
+"6" :  "(558,(558,560), this.focusOwner)",
+"7" :  "(558,561, this.focusOwner)",
+"8" :  "(558,563, this.focusOwner)",
+"9" :  "(561,(562,563), a)",
+"10" :  "(561,(562,567), a)",
+"11" :  "(561,563, a)"}]
+}

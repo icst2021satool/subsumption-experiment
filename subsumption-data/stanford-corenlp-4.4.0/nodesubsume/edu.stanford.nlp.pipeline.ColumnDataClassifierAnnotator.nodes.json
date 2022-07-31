@@ -1,0 +1,18 @@
+{
+"Class" : "edu.stanford.nlp.pipeline.ColumnDataClassifierAnnotator", 
+"Methods" : [{ "Name" : "annotate" ,
+"Nodes" : 12,
+"0" : [ 47 ],
+"1" : [ 49,50 ],
+"2" : [ 54,55 ],
+"3" : [ 58,59,61 ],
+"4" : [ 65 ],
+"5" : [ 67 ],
+"6" : [ 66 ],
+"7" : [ 62,63 ],
+"8" : [ 56 ],
+"9" : [ 51 ],
+"10" : [ 48 ],
+"11" : [  ]
+}]
+}

@@ -1,0 +1,19 @@
+{
+"Class" : "edu.stanford.nlp.quoteattribution.Sieves.MSSieves.MajoritySpeakerSieve", 
+"Methods" : [{ "Name" : "getTopSpeakerList" ,
+"Nodes" : 5,
+"Duas" : 4,
+"0" :  [ 0,3 ],
+"1" :  [ 0,3 ],
+"2" :  [ 0,2 ],
+"3" :  [ 0,3 ]},{ "Name" : "doMentionToSpeaker" ,
+"Nodes" : 7,
+"Duas" : 7,
+"0" :  [ 0,5 ],
+"1" :  [ 0,5 ],
+"2" :  [ 0,5 ],
+"3" :  [ 3,5 ],
+"4" :  [ 3,4 ],
+"5" :  [ 3,5 ],
+"6" :  [ 3,5 ]}]
+}

@@ -1,0 +1,10 @@
+{
+"Class" : "edu.stanford.nlp.tagger.maxent.ExtractorDash", 
+"Methods" : [{ "Name" : "extract" ,
+"Nodes" : 4,
+"0" : [ 1210,1211 ],
+"1" : [ 1214 ],
+"2" : [ 1212 ],
+"3" : [  ]
+}]
+}

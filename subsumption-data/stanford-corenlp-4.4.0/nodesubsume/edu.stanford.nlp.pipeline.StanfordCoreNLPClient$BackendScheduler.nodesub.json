@@ -1,0 +1,17 @@
+{
+"Class" : "edu.stanford.nlp.pipeline.StanfordCoreNLPClient$BackendScheduler", 
+"Methods" : [{ "Name" : "run" ,
+"Nodes" : 11,
+"CoveredDUAsByNodes" : -1,
+"Duas" : 32
+},{ "Name" : "lambda$run$0" ,
+"Nodes" : 5,
+"0" : [ ],
+"2" : [ 0, 10],
+"3" : [ 0, 4, 6, 8, 10, 12, 14],
+"1" : [ 2, 3, 7, 15],
+"4" : [ 2, 3, 7, 15],
+"CoveredDUAsByNodes" : 11,
+"Duas" : 16
+}]
+}

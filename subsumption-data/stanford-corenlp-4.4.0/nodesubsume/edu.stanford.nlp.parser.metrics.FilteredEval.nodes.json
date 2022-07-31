@@ -1,0 +1,10 @@
+{
+"Class" : "edu.stanford.nlp.parser.metrics.FilteredEval", 
+"Methods" : [{ "Name" : "makeObjects" ,
+"Nodes" : 4,
+"0" : [ 34,35 ],
+"1" : [ 38 ],
+"2" : [ 36 ],
+"3" : [  ]
+}]
+}

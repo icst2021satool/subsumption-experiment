@@ -1,0 +1,12 @@
+{
+"Class" : "edu.stanford.nlp.time.TimeFormatter$ApplyActionWrapper", 
+"Methods" : [{ "Name" : "apply" ,
+"Nodes" : 4,
+"0" : [ ],
+"2" : [ 0, 2, 3, 5, 6, 8],
+"1" : [ 7],
+"3" : [ 7],
+"CoveredDUAsByNodes" : 7,
+"Duas" : 9
+}]
+}

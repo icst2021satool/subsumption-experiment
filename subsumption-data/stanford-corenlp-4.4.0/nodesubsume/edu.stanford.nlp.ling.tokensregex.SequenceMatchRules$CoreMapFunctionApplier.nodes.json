@@ -1,0 +1,18 @@
+{
+"Class" : "edu.stanford.nlp.ling.tokensregex.SequenceMatchRules$CoreMapFunctionApplier", 
+"Methods" : [{ "Name" : "<init>" ,
+"Nodes" : 4,
+"0" : [ 1165,1166,1167 ],
+"1" : [ 1170,1171,1172 ],
+"2" : [ 1168 ],
+"3" : [  ]
+},{ "Name" : "apply" ,
+"Nodes" : 6,
+"0" : [ 1176 ],
+"1" : [ 1180,1181,1183 ],
+"2" : [ 1181 ],
+"3" : [ 1184 ],
+"4" : [ 1177 ],
+"5" : [  ]
+}]
+}

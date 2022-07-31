@@ -1,0 +1,11 @@
+{
+"Class" : "edu.stanford.nlp.naturalli.RelationTripleSegmenter$2", 
+"Methods" : [{ "Name" : "<init>" ,
+"Nodes" : 5,
+"0" : [ 66,67 ],
+"1" : [ 67 ],
+"2" : [ 74 ],
+"3" : [ 67,68,69,70,71,72,73 ],
+"4" : [  ]
+}]
+}

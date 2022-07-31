@@ -1,0 +1,18 @@
+{
+"Class" : "edu.stanford.nlp.coref.neural.NeuralCorefProperties", 
+"Methods" : [{ "Name" : "modelPath" ,
+"Duas" : 7,
+"0" :  "(19,(20,20), props)",
+"1" :  "(19,(20,20), props)",
+"2" :  "(19,(21,21), props)",
+"3" :  "(19,(21,21), props)",
+"4" :  "(19,22, props)",
+"5" :  "(19,(20,20), CHINESE)",
+"6" :  "(19,(20,20), CHINESE)"},{ "Name" : "pretrainedEmbeddingsPath" ,
+"Duas" : 5,
+"0" :  "(26,(27,27), props)",
+"1" :  "(26,(27,27), props)",
+"2" :  "(26,29, props)",
+"3" :  "(26,(27,27), CHINESE)",
+"4" :  "(26,(27,27), CHINESE)"}]
+}

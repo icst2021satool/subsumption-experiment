@@ -1,0 +1,11 @@
+{
+"Class" : "edu.stanford.nlp.tagger.maxent.documentation.TaggerDemo2", 
+"Methods" : [{ "Name" : "main" ,
+"Duas" : "14" ,
+"Subsumers" : 4,
+"0" : [ 4, 0], "S0" : [0, 4 ],
+"1" : [ 10, 7], "S1" : [1, 2, 3, 5, 6, 7, 8, 10 ],
+"2" : [ 13, 11, 9], "S2" : [1, 2, 3, 5, 6, 8, 9, 11, 13 ],
+"3" : [ 12], "S3" : [1, 2, 3, 5, 6, 8, 12 ]
+}]
+}

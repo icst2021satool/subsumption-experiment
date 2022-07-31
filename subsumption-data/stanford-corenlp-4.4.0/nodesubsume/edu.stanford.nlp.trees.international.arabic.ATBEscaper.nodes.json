@@ -1,0 +1,11 @@
+{
+"Class" : "edu.stanford.nlp.trees.international.arabic.ATBEscaper", 
+"Methods" : [{ "Name" : "apply" ,
+"Nodes" : 5,
+"0" : [ 20,21 ],
+"1" : [ 21 ],
+"2" : [ 24 ],
+"3" : [ 21,22,23 ],
+"4" : [  ]
+}]
+}

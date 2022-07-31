@@ -1,0 +1,11 @@
+{
+"Class" : "edu.stanford.nlp.pipeline.StanfordCoreNLPServer$FileHandler", 
+"Methods" : [{ "Name" : "<init>" ,
+"Duas" : 6,
+"0" :  "(751,755, this)",
+"1" :  "(751,755, contentType)",
+"2" :  "(752,(754,754), r)",
+"3" :  "(752,(754,755), r)",
+"4" :  "(752,754, r)",
+"5" :  "(752,754, r)"}]
+}

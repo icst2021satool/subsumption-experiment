@@ -1,0 +1,16 @@
+{
+"Class" : "edu.stanford.nlp.util.FilteredIterator", 
+"Methods" : [{ "Name" : "advanceCandidate" ,
+"Duas" : "9" ,
+"Subsumers" : 2,
+"0" : [ 6, 4, 5, 0], "S0" : [0, 4, 5, 6 ],
+"1" : [ 8, 7, 2, 3, 1], "S1" : [1, 2, 3, 7, 8 ]
+},{ "Name" : "skipUnacceptableCandidates" ,
+"Duas" : "5" ,
+"Subsumers" : 0 
+},{ "Name" : "main" ,
+"Duas" : "4" ,
+"Subsumers" : 1,
+"0" : [ 3, 1, 0], "S0" : [0, 1, 2, 3 ]
+}]
+}

@@ -1,0 +1,19 @@
+{
+"Class" : "edu.stanford.nlp.pipeline.Annotation", 
+"Methods" : [{ "Name" : "<init>" ,
+"Duas" : 14,
+"0" :  "(93,110, this)",
+"1" :  "(93,111, this)",
+"2" :  "(95,110, tokens)",
+"3" :  "(95,99, tokens)",
+"4" :  "(96,111, text)",
+"5" :  "(96,(104,105), text)",
+"6" :  "(96,(104,107), text)",
+"7" :  "(96,107, text)",
+"8" :  "(96,105, text)",
+"9" :  "(96,101, text)",
+"10" :  "(97,(100,101), sentence)",
+"11" :  "(97,(100,104), sentence)",
+"12" :  "(97,101, sentence)",
+"13" :  "(98,107, sentenceTokens)"}]
+}

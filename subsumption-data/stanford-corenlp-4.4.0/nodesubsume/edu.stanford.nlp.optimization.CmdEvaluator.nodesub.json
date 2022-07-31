@@ -1,0 +1,23 @@
+{
+"Class" : "edu.stanford.nlp.optimization.CmdEvaluator", 
+"Methods" : [{ "Name" : "getCmd" ,
+"Nodes" : 4,
+"0" : [ ],
+"1" : [ 1, 2, 3],
+"2" : [ 0],
+"3" : [ ],
+"CoveredDUAsByNodes" : 4,
+"Duas" : 4
+},{ "Name" : "evaluateCmd" ,
+"Nodes" : 7,
+"0" : [ ],
+"1" : [ 1, 7, 10, 13],
+"5" : [ 0, 8, 9],
+"2" : [ 2],
+"4" : [ 2, 3, 5, 6, 11],
+"3" : [ 2],
+"6" : [ 2],
+"CoveredDUAsByNodes" : 12,
+"Duas" : 22
+}]
+}

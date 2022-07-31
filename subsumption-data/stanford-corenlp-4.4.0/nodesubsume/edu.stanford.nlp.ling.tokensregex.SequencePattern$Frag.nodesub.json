@@ -1,0 +1,38 @@
+{
+"Class" : "edu.stanford.nlp.ling.tokensregex.SequencePattern$Frag", 
+"Methods" : [{ "Name" : "add" ,
+"Nodes" : 4,
+"0" : [ ],
+"2" : [ 0, 3, 5],
+"1" : [ 2, 4],
+"3" : [ 2, 4],
+"CoveredDUAsByNodes" : 5,
+"Duas" : 9
+},{ "Name" : "add" ,
+"Nodes" : 4,
+"0" : [ ],
+"2" : [ 0, 3, 5],
+"1" : [ 2, 4],
+"3" : [ 2, 4],
+"CoveredDUAsByNodes" : 5,
+"Duas" : 9
+},{ "Name" : "connect" ,
+"Nodes" : 5,
+"0" : [ ],
+"1" : [ ],
+"2" : [ 0, 1, 4],
+"4" : [ 0, 1, 4],
+"3" : [ 2, 3],
+"CoveredDUAsByNodes" : 5,
+"Duas" : 5
+},{ "Name" : "connect" ,
+"Nodes" : 5,
+"0" : [ ],
+"1" : [ ],
+"2" : [ 0, 1, 2],
+"4" : [ 0, 1, 2],
+"3" : [ 3],
+"CoveredDUAsByNodes" : 4,
+"Duas" : 4
+}]
+}

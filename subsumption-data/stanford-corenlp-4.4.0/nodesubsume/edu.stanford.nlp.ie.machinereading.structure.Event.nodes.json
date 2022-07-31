@@ -1,0 +1,17 @@
+{
+"Class" : "edu.stanford.nlp.ie.machinereading.structure.Event", 
+"Methods" : [{ "Name" : "addEntity" ,
+"Nodes" : 4,
+"0" : [ 19,20 ],
+"1" : [ 24,25 ],
+"2" : [ 21,22 ],
+"3" : [  ]
+},{ "Name" : "getEventMentions" ,
+"Nodes" : 5,
+"0" : [ 28,29 ],
+"1" : [ 29 ],
+"2" : [ 29 ],
+"3" : [ 29 ],
+"4" : [  ]
+}]
+}

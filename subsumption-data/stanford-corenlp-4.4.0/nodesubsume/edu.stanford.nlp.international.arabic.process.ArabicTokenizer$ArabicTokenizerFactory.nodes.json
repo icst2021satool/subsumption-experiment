@@ -1,0 +1,11 @@
+{
+"Class" : "edu.stanford.nlp.international.arabic.process.ArabicTokenizer$ArabicTokenizerFactory", 
+"Methods" : [{ "Name" : "setOptions" ,
+"Nodes" : 5,
+"0" : [ 117,118 ],
+"1" : [ 118 ],
+"2" : [ 121 ],
+"3" : [ 118,119 ],
+"4" : [  ]
+}]
+}

@@ -1,0 +1,12 @@
+{
+"Class" : "edu.stanford.nlp.trees.tregex.gui.TregexGUI$2", 
+"Methods" : [{ "Name" : "run" ,
+"Nodes" : 6,
+"0" : [ 491,492,493 ],
+"1" : [ 496 ],
+"2" : [ 500 ],
+"3" : [ 497,498 ],
+"4" : [ 494 ],
+"5" : [  ]
+}]
+}

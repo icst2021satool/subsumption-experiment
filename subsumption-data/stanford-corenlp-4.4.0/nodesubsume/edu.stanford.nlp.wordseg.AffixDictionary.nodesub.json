@@ -1,0 +1,21 @@
+{
+"Class" : "edu.stanford.nlp.wordseg.AffixDictionary", 
+"Methods" : [{ "Name" : "readDict" ,
+"Nodes" : 5,
+"0" : [ ],
+"1" : [ 4],
+"2" : [ 0, 1, 2, 4, 6, 7],
+"4" : [ 0, 1, 2, 4, 6, 7],
+"3" : [ 3, 4, 5, 8],
+"CoveredDUAsByNodes" : 9,
+"Duas" : 9
+},{ "Name" : "getInDict" ,
+"Nodes" : 4,
+"0" : [ ],
+"1" : [ 1, 3],
+"2" : [ 0, 2],
+"3" : [ ],
+"CoveredDUAsByNodes" : 4,
+"Duas" : 4
+}]
+}

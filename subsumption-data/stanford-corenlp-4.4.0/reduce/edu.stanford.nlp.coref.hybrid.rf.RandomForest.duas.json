@@ -1,0 +1,12 @@
+{
+"Class" : "edu.stanford.nlp.coref.hybrid.rf.RandomForest", 
+"Methods" : [{ "Name" : "probabilityOfTrue" ,
+"Duas" : 7,
+"0" :  "(24,28, this)",
+"1" :  "(24,26, features)",
+"2" :  "(24,28, this.trees)",
+"3" :  "(24,28, probTrue)",
+"4" :  "(24,26, probTrue)",
+"5" :  "(26,28, probTrue)",
+"6" :  "(26,26, probTrue)"}]
+}

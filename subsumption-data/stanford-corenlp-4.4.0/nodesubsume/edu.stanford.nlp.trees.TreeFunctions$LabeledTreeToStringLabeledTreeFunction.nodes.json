@@ -1,0 +1,17 @@
+{
+"Class" : "edu.stanford.nlp.trees.TreeFunctions$LabeledTreeToStringLabeledTreeFunction", 
+"Methods" : [{ "Name" : "helper" ,
+"Nodes" : 11,
+"0" : [ 38 ],
+"1" : [ 41 ],
+"2" : [ 44 ],
+"3" : [ 48,49,47 ],
+"4" : [ 49 ],
+"5" : [ 52 ],
+"6" : [ 49,50 ],
+"7" : [ 45 ],
+"8" : [ 42 ],
+"9" : [ 39 ],
+"10" : [  ]
+}]
+}

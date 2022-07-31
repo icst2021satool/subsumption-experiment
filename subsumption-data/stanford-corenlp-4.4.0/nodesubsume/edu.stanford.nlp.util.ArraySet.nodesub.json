@@ -1,0 +1,21 @@
+{
+"Class" : "edu.stanford.nlp.util.ArraySet", 
+"Methods" : [{ "Name" : "<init>" ,
+"Nodes" : 5,
+"0" : [ ],
+"1" : [ ],
+"2" : [ ],
+"4" : [ ],
+"3" : [ 0],
+"CoveredDUAsByNodes" : 1,
+"Duas" : 1
+},{ "Name" : "add" ,
+"Nodes" : 4,
+"0" : [ ],
+"1" : [ 1, 2, 4, 5, 7, 8],
+"2" : [ 0, 3, 6],
+"3" : [ ],
+"CoveredDUAsByNodes" : 9,
+"Duas" : 9
+}]
+}

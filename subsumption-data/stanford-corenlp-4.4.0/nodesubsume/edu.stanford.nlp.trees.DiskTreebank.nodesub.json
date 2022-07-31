@@ -1,0 +1,22 @@
+{
+"Class" : "edu.stanford.nlp.trees.DiskTreebank", 
+"Methods" : [{ "Name" : "loadPath" ,
+"Nodes" : 5,
+"0" : [ ],
+"1" : [ 0, 4, 5, 10],
+"3" : [ 1, 2, 3, 6, 7, 8, 9],
+"2" : [ ],
+"4" : [ ],
+"CoveredDUAsByNodes" : 11,
+"Duas" : 11
+},{ "Name" : "apply" ,
+"Nodes" : 5,
+"0" : [ ],
+"1" : [ ],
+"2" : [ ],
+"4" : [ ],
+"3" : [ 0],
+"CoveredDUAsByNodes" : 1,
+"Duas" : 1
+}]
+}

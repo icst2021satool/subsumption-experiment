@@ -1,0 +1,10 @@
+{
+"Class" : "edu.stanford.nlp.simple.GermanSentence$2", 
+"Methods" : [{ "Name" : "<init>" ,
+"Duas" : "10" ,
+"Subsumers" : 3,
+"0" : [ 8], "S0" : [0, 1, 2, 3, 4, 5, 6, 8 ],
+"1" : [ 9], "S1" : [0, 1, 2, 3, 4, 5, 6, 9 ],
+"2" : [ 7], "S2" : [0, 1, 2, 3, 4, 5, 7 ]
+}]
+}

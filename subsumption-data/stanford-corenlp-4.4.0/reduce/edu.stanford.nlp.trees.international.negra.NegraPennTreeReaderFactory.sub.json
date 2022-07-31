@@ -1,0 +1,14 @@
+{
+"Class" : "edu.stanford.nlp.trees.international.negra.NegraPennTreeReaderFactory", 
+"Methods" : [{ "Name" : "newTreeReader" ,
+"Duas" : "8" ,
+"Subsumers" : 2,
+"0" : [ 7, 4, 0], "S0" : [0, 2, 3, 4, 6, 7 ],
+"1" : [ 5, 1], "S1" : [1, 2, 3, 5, 6 ]
+},{ "Name" : "main" ,
+"Duas" : "9" ,
+"Subsumers" : 2,
+"0" : [ 3, 0], "S0" : [0, 3 ],
+"1" : [ 8, 5], "S1" : [1, 2, 4, 5, 6, 7, 8 ]
+}]
+}

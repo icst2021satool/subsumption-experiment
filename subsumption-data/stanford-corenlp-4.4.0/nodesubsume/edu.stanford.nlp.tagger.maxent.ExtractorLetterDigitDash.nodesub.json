@@ -1,0 +1,14 @@
+{
+"Class" : "edu.stanford.nlp.tagger.maxent.ExtractorLetterDigitDash", 
+"Methods" : [{ "Name" : "extract" ,
+"Nodes" : 6,
+"0" : [ ],
+"2" : [ 0],
+"3" : [ 0, 2],
+"1" : [ ],
+"4" : [ 0, 2, 4],
+"5" : [ ],
+"CoveredDUAsByNodes" : 3,
+"Duas" : 6
+}]
+}

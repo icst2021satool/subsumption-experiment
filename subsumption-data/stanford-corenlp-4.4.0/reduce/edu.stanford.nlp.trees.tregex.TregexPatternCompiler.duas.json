@@ -1,0 +1,14 @@
+{
+"Class" : "edu.stanford.nlp.trees.tregex.TregexPatternCompiler", 
+"Methods" : [{ "Name" : "compile" ,
+"Duas" : 9,
+"0" :  "(133,138, this)",
+"1" :  "(133,138, tregex)",
+"2" :  "(133,146, tregex)",
+"3" :  "(133,134, tregex)",
+"4" :  "(133,138, this.basicCatFunction)",
+"5" :  "(133,138, this.headFinder)",
+"6" :  "(134,138, tregex)",
+"7" :  "(134,146, tregex)",
+"8" :  "(134,134, tregex)"}]
+}

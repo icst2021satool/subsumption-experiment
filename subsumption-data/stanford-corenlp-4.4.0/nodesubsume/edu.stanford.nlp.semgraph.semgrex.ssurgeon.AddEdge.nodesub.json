@@ -1,0 +1,16 @@
+{
+"Class" : "edu.stanford.nlp.semgraph.semgrex.ssurgeon.AddEdge", 
+"Methods" : [{ "Name" : "evaluate" ,
+"Nodes" : 8,
+"0" : [ ],
+"2" : [ 18],
+"6" : [ 1, 18, 7, 10, 13],
+"3" : [ 18],
+"5" : [ 17, 18, 3, 6, 14],
+"4" : [ 0, 16, 18, 5, 8, 9, 12],
+"1" : [ ],
+"7" : [ ],
+"CoveredDUAsByNodes" : 15,
+"Duas" : 20
+}]
+}

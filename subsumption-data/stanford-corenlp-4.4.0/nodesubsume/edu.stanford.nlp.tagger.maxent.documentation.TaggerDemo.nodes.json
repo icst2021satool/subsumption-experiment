@@ -1,0 +1,13 @@
+{
+"Class" : "edu.stanford.nlp.tagger.maxent.documentation.TaggerDemo", 
+"Methods" : [{ "Name" : "main" ,
+"Nodes" : 7,
+"0" : [ 21 ],
+"1" : [ 25,26,27 ],
+"2" : [ 27 ],
+"3" : [ 31 ],
+"4" : [ 27,28,29,30 ],
+"5" : [ 22,23 ],
+"6" : [  ]
+}]
+}

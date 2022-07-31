@@ -1,0 +1,9 @@
+{
+"Class" : "edu.stanford.nlp.process.WordSegmentingTokenizer$WordSegmentingTokenizerFactory", 
+"Methods" : [{ "Name" : "getTokenizer" ,
+"Duas" : "10" ,
+"Subsumers" : 2,
+"0" : [ 9, 6, 5, 3, 1], "S0" : [0, 1, 2, 3, 5, 6, 7, 9 ],
+"1" : [ 8, 4], "S1" : [0, 2, 4, 7, 8 ]
+}]
+}

@@ -1,0 +1,15 @@
+{
+"Class" : "edu.stanford.nlp.parser.lexparser.BiLexPCFGParser$N5BiLexPCFGParser", 
+"Methods" : [{ "Name" : "relaxTempHook" ,
+"Nodes" : 7,
+"0" : [ ],
+"2" : [ 0, 19, 15],
+"3" : [ 0, 18, 3, 19, 4, 5, 22, 23, 26, 15],
+"5" : [ 0, 3, 4, 5, 6, 8, 9, 10, 11, 12, 13, 14, 15, 18, 19, 22, 23, 24, 26, 27, 28, 29, 31],
+"4" : [ 0, 3, 4, 5, 15, 18, 19, 22, 23, 26],
+"1" : [ ],
+"6" : [ ],
+"CoveredDUAsByNodes" : 23,
+"Duas" : 32
+}]
+}

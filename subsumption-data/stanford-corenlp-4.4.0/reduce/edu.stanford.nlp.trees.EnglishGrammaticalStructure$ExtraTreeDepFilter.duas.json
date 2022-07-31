@@ -1,0 +1,11 @@
+{
+"Class" : "edu.stanford.nlp.trees.EnglishGrammaticalStructure$ExtraTreeDepFilter", 
+"Methods" : [{ "Name" : "test" ,
+"Duas" : 6,
+"0" :  "(111,(111,111), d)",
+"1" :  "(111,(111,111), d)",
+"2" :  "(111,(111,111), d)",
+"3" :  "(111,(111,111), d)",
+"4" :  "(111,(111,111), RELATIVE)",
+"5" :  "(111,(111,111), RELATIVE)"}]
+}

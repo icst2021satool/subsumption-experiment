@@ -1,0 +1,19 @@
+{
+"Class" : "edu.stanford.nlp.trees.tregex.Relation$21$1", 
+"Methods" : [{ "Name" : "initialize" ,
+"Duas" : 14,
+"0" :  "(981,(981,982), this)",
+"1" :  "(981,(981,987), this)",
+"2" :  "(981,982, this)",
+"3" :  "(981,(983,984), this)",
+"4" :  "(981,(983,987), this)",
+"5" :  "(981,984, this)",
+"6" :  "(981,(981,982), this.val$matcher)",
+"7" :  "(981,(981,987), this.val$matcher)",
+"8" :  "(981,982, this.val$matcher)",
+"9" :  "(981,(981,982), this.val$t)",
+"10" :  "(981,(981,987), this.val$t)",
+"11" :  "(981,982, this.val$t)",
+"12" :  "(982,(983,984), this.next)",
+"13" :  "(982,(983,987), this.next)"}]
+}

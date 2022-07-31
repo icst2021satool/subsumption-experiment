@@ -1,0 +1,15 @@
+{
+"Class" : "edu.stanford.nlp.ling.tokensregex.SequencePattern$SeqEndState", 
+"Methods" : [{ "Name" : "match" ,
+"Duas" : 10,
+"0" :  "(1971,1974, this)",
+"1" :  "(1971,1974, bid)",
+"2" :  "(1971,(1972,1974), matchedStates)",
+"3" :  "(1971,(1972,1977), matchedStates)",
+"4" :  "(1971,1974, matchedStates)",
+"5" :  "(1971,(1971,1972), consume)",
+"6" :  "(1971,(1971,1977), consume)",
+"7" :  "(1971,1974, consume)",
+"8" :  "(1971,(1972,1974), matchedStates.curPosition)",
+"9" :  "(1971,(1972,1977), matchedStates.curPosition)"}]
+}

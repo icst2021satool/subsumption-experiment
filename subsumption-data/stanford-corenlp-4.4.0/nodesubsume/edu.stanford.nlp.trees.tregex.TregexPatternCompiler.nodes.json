@@ -1,0 +1,11 @@
+{
+"Class" : "edu.stanford.nlp.trees.tregex.TregexPatternCompiler", 
+"Methods" : [{ "Name" : "compile" ,
+"Nodes" : 5,
+"0" : [ 133 ],
+"1" : [ 133 ],
+"2" : [ 145,146,147,138,140 ],
+"3" : [ 133,134,135 ],
+"4" : [  ]
+}]
+}

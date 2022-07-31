@@ -1,0 +1,7 @@
+{
+"Class" : "edu.stanford.nlp.tagger.maxent.ExtractorCNumber", 
+"Methods" : [{ "Name" : "extract" ,
+"Duas" : 2,
+"0" :  "(1189,(1190,1191), s)",
+"1" :  "(1189,(1190,1193), s)"}]
+}

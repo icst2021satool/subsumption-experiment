@@ -1,0 +1,17 @@
+{
+"Class" : "edu.stanford.nlp.trees.BobChrisTreeNormalizer", 
+"Methods" : [{ "Name" : "cleanUpLabel" ,
+"Nodes" : 5,
+"0" : [ 88 ],
+"1" : [ 89 ],
+"2" : [ 88 ],
+"3" : [ 92 ],
+"4" : [  ]
+},{ "Name" : "normalizeWholeTree" ,
+"Nodes" : 4,
+"0" : [ 106,107 ],
+"1" : [ 110 ],
+"2" : [ 108 ],
+"3" : [  ]
+}]
+}

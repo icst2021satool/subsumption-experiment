@@ -1,0 +1,19 @@
+{
+"Class" : "edu.stanford.nlp.ie.KBPRelationExtractor$Accuracy$PerRelationStat", 
+"Methods" : [{ "Name" : "f1" ,
+"Nodes" : 5,
+"0" : [ 428 ],
+"1" : [ 431 ],
+"2" : [ 428 ],
+"3" : [ 429 ],
+"4" : [  ]
+},{ "Name" : "compareTo" ,
+"Nodes" : 6,
+"0" : [ 437 ],
+"1" : [ 439 ],
+"2" : [ 442 ],
+"3" : [ 440 ],
+"4" : [ 438 ],
+"5" : [  ]
+}]
+}

@@ -1,0 +1,10 @@
+{
+"Class" : "edu.stanford.nlp.ling.tokensregex.NodePattern", 
+"Methods" : [{ "Name" : "matchWithResult" ,
+"Nodes" : 4,
+"0" : [ 36 ],
+"1" : [ 37 ],
+"2" : [ 36 ],
+"3" : [  ]
+}]
+}

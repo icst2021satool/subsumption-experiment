@@ -1,0 +1,11 @@
+{
+"Class" : "edu.stanford.nlp.ling.tokensregex.SequenceMatchRules$StringMatchResultExtractor", 
+"Methods" : [{ "Name" : "apply" ,
+"Duas" : "18" ,
+"Subsumers" : 4,
+"0" : [ 12, 10, 8, 7, 5, 0], "S0" : [0, 5, 7, 8, 10, 12 ],
+"1" : [ 9, 1], "S1" : [1, 9 ],
+"2" : [ 17, 15, 13, 11, 6, 4, 2], "S2" : [2, 4, 6, 11, 13, 15, 17 ],
+"3" : [ 16, 14, 3], "S3" : [3, 14, 16 ]
+}]
+}

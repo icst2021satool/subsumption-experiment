@@ -1,0 +1,12 @@
+{
+"Class" : "edu.stanford.nlp.parser.lexparser.GermanUnknownWordModel", 
+"Methods" : [{ "Name" : "score" ,
+"Duas" : 7,
+"0" :  "(62,73, this)",
+"1" :  "(62,73, itw)",
+"2" :  "(62,(64,66), word)",
+"3" :  "(62,(64,73), word)",
+"4" :  "(62,73, word)",
+"5" :  "(62,(66,67), tag)",
+"6" :  "(62,(66,70), tag)"}]
+}

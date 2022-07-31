@@ -1,0 +1,35 @@
+{
+"Class" : "edu.stanford.nlp.util.ProcessProtobufRequest", 
+"Methods" : [{ "Name" : "processMultipleInputs" ,
+"Nodes" : 6,
+"0" : [ ],
+"1" : [ 1],
+"2" : [ 0, 1, 2, 3, 4, 7, 8, 9],
+"4" : [ 1, 5, 6],
+"3" : [ 1],
+"5" : [ 1],
+"CoveredDUAsByNodes" : 10,
+"Duas" : 12
+},{ "Name" : "process" ,
+"Nodes" : 7,
+"0" : [ ],
+"3" : [ 2],
+"5" : [ 2, 4],
+"1" : [ 0, 8, 10],
+"4" : [ 1, 2, 9, 11],
+"2" : [ ],
+"6" : [ ],
+"CoveredDUAsByNodes" : 8,
+"Duas" : 12
+},{ "Name" : "lambda$leftoverArgs$0" ,
+"Nodes" : 6,
+"0" : [ ],
+"3" : [ 0],
+"1" : [ ],
+"4" : [ 0, 2],
+"2" : [ ],
+"5" : [ ],
+"CoveredDUAsByNodes" : 2,
+"Duas" : 4
+}]
+}

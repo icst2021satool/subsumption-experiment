@@ -1,0 +1,17 @@
+{
+"Class" : "edu.stanford.nlp.ie.PresetSequenceClassifier", 
+"Methods" : [{ "Name" : "<init>" ,
+"Duas" : 10,
+"0" :  "(20,(21,22), this)",
+"1" :  "(20,(21,24), this)",
+"2" :  "(20,24, this)",
+"3" :  "(20,22, this)",
+"4" :  "(20,(21,22), this.classIndex)",
+"5" :  "(20,(21,24), this.classIndex)",
+"6" :  "(20,24, this.classIndex)",
+"7" :  "(20,24, this.flags)",
+"8" :  "(20,24, this.backgroundSymbol)",
+"9" :  "(22,24, this.classIndex)"},{ "Name" : "classify" ,
+"Duas" : 1,
+"0" :  "(53,57, document)"}]
+}

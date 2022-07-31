@@ -1,0 +1,13 @@
+{
+"Class" : "edu.stanford.nlp.trees.international.pennchinese.ChineseEscaper", 
+"Methods" : [{ "Name" : "apply" ,
+"Nodes" : 7,
+"0" : [ 36,37 ],
+"1" : [ 37 ],
+"2" : [ 49 ],
+"3" : [ 37,38,39,41 ],
+"4" : [ 48,46,47 ],
+"5" : [ 43 ],
+"6" : [  ]
+}]
+}

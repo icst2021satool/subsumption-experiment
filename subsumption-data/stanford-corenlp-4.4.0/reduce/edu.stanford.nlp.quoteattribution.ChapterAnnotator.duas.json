@@ -1,0 +1,23 @@
+{
+"Class" : "edu.stanford.nlp.quoteattribution.ChapterAnnotator", 
+"Methods" : [{ "Name" : "annotate" ,
+"Duas" : 18,
+"0" :  "(29,(36,38), this)",
+"1" :  "(29,(36,40), this)",
+"2" :  "(29,(36,38), this.CHAPTER_BREAK)",
+"3" :  "(29,(36,40), this.CHAPTER_BREAK)",
+"4" :  "(29,41, sentenceToChapter)",
+"5" :  "(32,40, chapterNum)",
+"6" :  "(32,41, chapterNum)",
+"7" :  "(32,38, chapterNum)",
+"8" :  "(33,41, sentenceIndex)",
+"9" :  "(33,42, sentenceIndex)",
+"10" :  "(34,(36,38), sentence)",
+"11" :  "(34,(36,40), sentence)",
+"12" :  "(34,40, sentence)",
+"13" :  "(38,40, chapterNum)",
+"14" :  "(38,41, chapterNum)",
+"15" :  "(38,38, chapterNum)",
+"16" :  "(42,41, sentenceIndex)",
+"17" :  "(42,42, sentenceIndex)"}]
+}

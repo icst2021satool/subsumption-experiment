@@ -1,0 +1,18 @@
+{
+"Class" : "edu.stanford.nlp.util.LeastRecentlyUsedCache", 
+"Methods" : [{ "Name" : "getOrDefault" ,
+"Nodes" : 4,
+"0" : [ 92,93 ],
+"1" : [ 97,98,99 ],
+"2" : [ 94 ],
+"3" : [  ]
+},{ "Name" : "add" ,
+"Nodes" : 6,
+"0" : [ 103,104 ],
+"1" : [ 107,108,109 ],
+"2" : [ 113 ],
+"3" : [ 110,111 ],
+"4" : [ 105 ],
+"5" : [  ]
+}]
+}

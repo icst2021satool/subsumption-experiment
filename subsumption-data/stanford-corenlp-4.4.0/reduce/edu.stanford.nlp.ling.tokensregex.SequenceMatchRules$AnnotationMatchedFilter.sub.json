@@ -1,0 +1,10 @@
+{
+"Class" : "edu.stanford.nlp.ling.tokensregex.SequenceMatchRules$AnnotationMatchedFilter", 
+"Methods" : [{ "Name" : "test" ,
+"Duas" : "7" ,
+"Subsumers" : 3,
+"0" : [ 6, 2, 1, 0], "S0" : [0, 1, 2, 3, 6 ],
+"1" : [ 5], "S1" : [3, 5 ],
+"2" : [ 4], "S2" : [4 ]
+}]
+}

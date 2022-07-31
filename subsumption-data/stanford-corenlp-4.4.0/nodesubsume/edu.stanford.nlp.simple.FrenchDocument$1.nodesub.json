@@ -1,0 +1,14 @@
+{
+"Class" : "edu.stanford.nlp.simple.FrenchDocument$1", 
+"Methods" : [{ "Name" : "<init>" ,
+"Nodes" : 6,
+"0" : [ ],
+"2" : [ 2],
+"3" : [ 2, 4],
+"4" : [ 2, 5],
+"1" : [ 0, 1],
+"5" : [ 0, 1],
+"CoveredDUAsByNodes" : 5,
+"Duas" : 6
+}]
+}

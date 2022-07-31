@@ -1,0 +1,16 @@
+{
+"Class" : "edu.stanford.nlp.semgraph.semgrex.GraphRelation$GOVERNER", 
+"Methods" : [{ "Name" : "satisfies" ,
+"Nodes" : 8,
+"0" : [ ],
+"1" : [ ],
+"2" : [ ],
+"3" : [ ],
+"5" : [ 0, 4, 6],
+"4" : [ ],
+"6" : [ 0, 2, 4, 6, 8],
+"7" : [ ],
+"CoveredDUAsByNodes" : 5,
+"Duas" : 10
+}]
+}

@@ -1,0 +1,22 @@
+{
+"Class" : "edu.stanford.nlp.util.MutableDouble", 
+"Methods" : [{ "Name" : "equals" ,
+"Duas" : 8,
+"0" :  "(36,(36,36), this)",
+"1" :  "(36,(36,36), this)",
+"2" :  "(36,(36,36), obj)",
+"3" :  "(36,(36,36), obj)",
+"4" :  "(36,(36,36), obj)",
+"5" :  "(36,(36,36), obj)",
+"6" :  "(36,(36,36), this.d)",
+"7" :  "(36,(36,36), this.d)"},{ "Name" : "compareTo" ,
+"Duas" : 8,
+"0" :  "(60,(62,62), thisVal)",
+"1" :  "(60,(62,62), thisVal)",
+"2" :  "(60,(62,62), thisVal)",
+"3" :  "(60,(62,62), thisVal)",
+"4" :  "(61,(62,62), anotherVal)",
+"5" :  "(61,(62,62), anotherVal)",
+"6" :  "(61,(62,62), anotherVal)",
+"7" :  "(61,(62,62), anotherVal)"}]
+}

@@ -1,0 +1,15 @@
+{
+"Class" : "edu.stanford.nlp.trees.TransformingTreebank", 
+"Methods" : [{ "Name" : "apply" ,
+"Nodes" : 7,
+"0" : [ ],
+"1" : [ ],
+"2" : [ ],
+"6" : [ ],
+"3" : [ ],
+"5" : [ 0, 2, 4, 6, 8],
+"4" : [ 3],
+"CoveredDUAsByNodes" : 6,
+"Duas" : 10
+}]
+}

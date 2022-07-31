@@ -1,0 +1,12 @@
+{
+"Class" : "edu.stanford.nlp.coref.hybrid.demo.ChineseHcorefDemo", 
+"Methods" : [{ "Name" : "main" ,
+"Duas" : 7,
+"0" :  "(31,67, out)",
+"1" :  "(31,58, out)",
+"2" :  "(31,59, out)",
+"3" :  "(31,61, out)",
+"4" :  "(31,55, out)",
+"5" :  "(31,66, startTime)",
+"6" :  "(47,57, document)"}]
+}

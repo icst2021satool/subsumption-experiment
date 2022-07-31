@@ -1,0 +1,33 @@
+{
+"Class" : "edu.stanford.nlp.util.Interner", 
+"Methods" : [{ "Name" : "intern" ,
+"Nodes" : 4,
+"0" : [ ],
+"2" : [ 0, 1, 2, 3, 4],
+"1" : [ ],
+"3" : [ ],
+"CoveredDUAsByNodes" : 5,
+"Duas" : 8
+},{ "Name" : "internAll" ,
+"Nodes" : 5,
+"0" : [ ],
+"1" : [ ],
+"2" : [ 1],
+"4" : [ 1],
+"3" : [ 0, 2],
+"CoveredDUAsByNodes" : 3,
+"Duas" : 3
+},{ "Name" : "main" ,
+"Nodes" : 8,
+"0" : [ ],
+"1" : [ ],
+"2" : [ ],
+"7" : [ ],
+"3" : [ ],
+"4" : [ 2],
+"6" : [ 1],
+"5" : [ 0],
+"CoveredDUAsByNodes" : 3,
+"Duas" : 3
+}]
+}

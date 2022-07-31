@@ -1,0 +1,13 @@
+{
+"Class" : "edu.stanford.nlp.trees.tregex.tsurgeon.DeleteNode$Matcher", 
+"Methods" : [{ "Name" : "evaluate" ,
+"Nodes" : 7,
+"0" : [ 34,35 ],
+"1" : [ 35 ],
+"2" : [ 43 ],
+"3" : [ 35,36,37 ],
+"4" : [ 35,40,41 ],
+"5" : [ 38 ],
+"6" : [  ]
+}]
+}

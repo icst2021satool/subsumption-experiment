@@ -1,0 +1,21 @@
+{
+"Class" : "edu.stanford.nlp.time.TimeFormatter$DateTimeFieldComponent", 
+"Methods" : [{ "Name" : "updateTemporal" ,
+"Duas" : 16,
+"0" :  "(285,287, this)",
+"1" :  "(285,293, this)",
+"2" :  "(285,296, t)",
+"3" :  "(285,291, t)",
+"4" :  "(285,(286,286), fieldValueStr)",
+"5" :  "(285,(286,296), fieldValueStr)",
+"6" :  "(285,287, fieldValueStr)",
+"7" :  "(285,293, fieldValueStr)",
+"8" :  "(285,293, this.fieldType)",
+"9" :  "(285,(286,287), dt)",
+"10" :  "(285,(286,296), dt)",
+"11" :  "(285,290, dt)",
+"12" :  "(287,(288,289), v)",
+"13" :  "(287,(288,293), v)",
+"14" :  "(287,290, v)",
+"15" :  "(291,296, t)"}]
+}

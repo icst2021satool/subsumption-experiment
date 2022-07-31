@@ -1,0 +1,14 @@
+{
+"Class" : "edu.stanford.nlp.trees.treebank.DuplicateTreeStringFilter", 
+"Methods" : [{ "Name" : "test" ,
+"Duas" : 9,
+"0" :  "(23,(24,25), this)",
+"1" :  "(23,(24,27), this)",
+"2" :  "(23,27, this)",
+"3" :  "(23,(24,25), this.alreadySeen)",
+"4" :  "(23,(24,27), this.alreadySeen)",
+"5" :  "(23,27, this.alreadySeen)",
+"6" :  "(23,(24,25), treeString)",
+"7" :  "(23,(24,27), treeString)",
+"8" :  "(23,27, treeString)"}]
+}

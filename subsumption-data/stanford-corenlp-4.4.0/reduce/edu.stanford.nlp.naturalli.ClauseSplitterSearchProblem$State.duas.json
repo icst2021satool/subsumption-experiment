@@ -1,0 +1,17 @@
+{
+"Class" : "edu.stanford.nlp.naturalli.ClauseSplitterSearchProblem$State", 
+"Methods" : [{ "Name" : "withIsDone" ,
+"Duas" : 12,
+"0" :  "(178,181, this)",
+"1" :  "(178,185, this)",
+"2" :  "(178,179, this)",
+"3" :  "(178,(178,179), argmax)",
+"4" :  "(178,(178,180), argmax)",
+"5" :  "(178,(180,181), argmax)",
+"6" :  "(178,(180,183), argmax)",
+"7" :  "(178,183, argmax)",
+"8" :  "(178,(178,179), CLAUSE_SPLIT)",
+"9" :  "(178,(178,180), CLAUSE_SPLIT)",
+"10" :  "(178,(180,181), CLAUSE_INTERM)",
+"11" :  "(178,(180,183), CLAUSE_INTERM)"}]
+}

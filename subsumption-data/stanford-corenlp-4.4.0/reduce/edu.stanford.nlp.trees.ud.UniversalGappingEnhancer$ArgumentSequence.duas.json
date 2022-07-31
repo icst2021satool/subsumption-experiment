@@ -1,0 +1,14 @@
+{
+"Class" : "edu.stanford.nlp.trees.ud.UniversalGappingEnhancer$ArgumentSequence", 
+"Methods" : [{ "Name" : "getAverageEmbeddings" ,
+"Duas" : 9,
+"0" :  "(51,60, this)",
+"1" :  "(51,60, this.sequence)",
+"2" :  "(52,60, totalVector)",
+"3" :  "(52,57, totalVector)",
+"4" :  "(54,(56,57), vector)",
+"5" :  "(54,(56,59), vector)",
+"6" :  "(54,57, vector)",
+"7" :  "(57,60, totalVector)",
+"8" :  "(57,57, totalVector)"}]
+}

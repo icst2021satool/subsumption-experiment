@@ -1,0 +1,15 @@
+{
+"Class" : "edu.stanford.nlp.time.GenericTimeExpressionPatterns$MatchedExpressionValueTypeMatchNodePattern", 
+"Methods" : [{ "Name" : "match" ,
+"Nodes" : 7,
+"0" : [ ],
+"1" : [ 2],
+"5" : [ 1],
+"2" : [ 3],
+"3" : [ 3, 6],
+"4" : [ 0, 3, 4, 5, 7],
+"6" : [ 3],
+"CoveredDUAsByNodes" : 8,
+"Duas" : 8
+}]
+}

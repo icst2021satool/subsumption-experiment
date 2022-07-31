@@ -1,0 +1,26 @@
+{
+"Class" : "edu.stanford.nlp.parser.metrics.Evalb$CBEval", 
+"Methods" : [{ "Name" : "checkCrossing" ,
+"Nodes" : 9,
+"0" : [ ],
+"1" : [ ],
+"2" : [ ],
+"4" : [ 2, 5],
+"3" : [ 0, 1, 6, 7],
+"8" : [ 0, 1, 6, 7],
+"5" : [ ],
+"7" : [ 3, 11, 12],
+"6" : [ ],
+"CoveredDUAsByNodes" : 9,
+"Duas" : 18
+},{ "Name" : "evaluate" ,
+"Nodes" : 5,
+"0" : [ ],
+"2" : [ 3],
+"3" : [ 0, 2, 3, 5, 6, 8, 9, 10],
+"1" : [ ],
+"4" : [ ],
+"CoveredDUAsByNodes" : 8,
+"Duas" : 11
+}]
+}

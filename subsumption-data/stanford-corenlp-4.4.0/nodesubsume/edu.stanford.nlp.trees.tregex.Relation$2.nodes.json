@@ -1,0 +1,11 @@
+{
+"Class" : "edu.stanford.nlp.trees.tregex.Relation$2", 
+"Methods" : [{ "Name" : "satisfies" ,
+"Nodes" : 5,
+"0" : [ 292 ],
+"1" : [ 292 ],
+"2" : [ 292 ],
+"3" : [ 292 ],
+"4" : [  ]
+}]
+}

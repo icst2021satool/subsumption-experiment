@@ -1,0 +1,13 @@
+{
+"Class" : "edu.stanford.nlp.parser.lexparser.ChineseLexicon", 
+"Methods" : [{ "Name" : "score" ,
+"Nodes" : 7,
+"0" : [ 44,45 ],
+"1" : [ 45 ],
+"2" : [ 45,47 ],
+"3" : [ 54,56 ],
+"4" : [ 48 ],
+"5" : [ 45 ],
+"6" : [  ]
+}]
+}

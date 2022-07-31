@@ -1,0 +1,20 @@
+{
+"Class" : "edu.stanford.nlp.pipeline.StanfordCoreNLPServer$ReadyHandler", 
+"Methods" : [{ "Name" : "handle" ,
+"Duas" : 15,
+"0" :  "(682,(685,686), this)",
+"1" :  "(682,(685,689), this)",
+"2" :  "(682,689, this)",
+"3" :  "(682,692, httpExchange)",
+"4" :  "(682,693, httpExchange)",
+"5" :  "(682,694, httpExchange)",
+"6" :  "(682,(685,686), this.serverReady)",
+"7" :  "(682,(685,689), this.serverReady)",
+"8" :  "(682,689, this.startTime)",
+"9" :  "(686,692, response)",
+"10" :  "(686,693, response)",
+"11" :  "(687,692, status)",
+"12" :  "(689,692, response)",
+"13" :  "(689,693, response)",
+"14" :  "(690,692, status)"}]
+}

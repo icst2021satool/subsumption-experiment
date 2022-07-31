@@ -1,0 +1,11 @@
+{
+"Class" : "edu.stanford.nlp.patterns.TextAnnotationPatternsInterface", 
+"Methods" : [{ "Name" : "main" ,
+"Nodes" : 3,
+"0" : [ ],
+"1" : [ 0, 1],
+"2" : [ 0, 1],
+"CoveredDUAsByNodes" : 2,
+"Duas" : 3
+}]
+}

@@ -1,0 +1,10 @@
+{
+"Class" : "edu.stanford.nlp.ling.tokensregex.SequenceMatchRules$FilterExtractRule", 
+"Methods" : [{ "Name" : "extract" ,
+"Nodes" : 4,
+"0" : [ 805 ],
+"1" : [ 808 ],
+"2" : [ 806 ],
+"3" : [  ]
+}]
+}

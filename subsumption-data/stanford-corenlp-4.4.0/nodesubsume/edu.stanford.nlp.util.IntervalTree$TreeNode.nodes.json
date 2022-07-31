@@ -1,0 +1,11 @@
+{
+"Class" : "edu.stanford.nlp.util.IntervalTree$TreeNode", 
+"Methods" : [{ "Name" : "isEmpty" ,
+"Nodes" : 5,
+"0" : [ 33 ],
+"1" : [ 33 ],
+"2" : [ 33 ],
+"3" : [ 33 ],
+"4" : [  ]
+}]
+}

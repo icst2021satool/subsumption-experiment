@@ -1,0 +1,13 @@
+{
+"Class" : "edu.stanford.nlp.process.AbstractListProcessor", 
+"Methods" : [{ "Name" : "processLists" ,
+"Nodes" : 5,
+"0" : [ ],
+"1" : [ ],
+"2" : [ 1],
+"4" : [ 1],
+"3" : [ 0, 2],
+"CoveredDUAsByNodes" : 3,
+"Duas" : 3
+}]
+}

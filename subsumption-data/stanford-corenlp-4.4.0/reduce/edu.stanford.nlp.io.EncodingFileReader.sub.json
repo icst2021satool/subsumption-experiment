@@ -1,0 +1,14 @@
+{
+"Class" : "edu.stanford.nlp.io.EncodingFileReader", 
+"Methods" : [{ "Name" : "<init>" ,
+"Duas" : "4" ,
+"Subsumers" : 2,
+"0" : [ 1], "S0" : [0, 1, 3 ],
+"1" : [ 2], "S1" : [0, 2, 3 ]
+},{ "Name" : "<init>" ,
+"Duas" : "4" ,
+"Subsumers" : 2,
+"0" : [ 1], "S0" : [0, 1, 3 ],
+"1" : [ 2], "S1" : [0, 2, 3 ]
+}]
+}

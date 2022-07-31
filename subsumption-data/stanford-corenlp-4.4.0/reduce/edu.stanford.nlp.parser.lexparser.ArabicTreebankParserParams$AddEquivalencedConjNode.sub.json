@@ -1,0 +1,11 @@
+{
+"Class" : "edu.stanford.nlp.parser.lexparser.ArabicTreebankParserParams$AddEquivalencedConjNode", 
+"Methods" : [{ "Name" : "apply" ,
+"Duas" : "18" ,
+"Subsumers" : 4,
+"0" : [ 15, 8, 1], "S0" : [0, 1, 7, 8, 15 ],
+"1" : [ 16, 10, 3], "S1" : [0, 2, 3, 7, 9, 10, 16 ],
+"2" : [ 17, 12, 5], "S2" : [0, 2, 4, 5, 7, 9, 11, 12, 17 ],
+"3" : [ 14, 13, 6], "S3" : [0, 2, 4, 6, 7, 9, 11, 13, 14 ]
+}]
+}

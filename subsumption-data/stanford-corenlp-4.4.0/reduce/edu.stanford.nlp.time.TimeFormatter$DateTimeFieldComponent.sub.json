@@ -1,0 +1,11 @@
+{
+"Class" : "edu.stanford.nlp.time.TimeFormatter$DateTimeFieldComponent", 
+"Methods" : [{ "Name" : "updateTemporal" ,
+"Duas" : "16" ,
+"Subsumers" : 4,
+"0" : [ 13, 8, 7, 1], "S0" : [0, 1, 4, 6, 7, 8, 9, 13 ],
+"1" : [ 15, 14, 12, 11, 3], "S1" : [0, 3, 4, 6, 9, 11, 12, 14, 15 ],
+"2" : [ 5], "S2" : [2, 5 ],
+"3" : [ 10], "S3" : [2, 4, 10 ]
+}]
+}

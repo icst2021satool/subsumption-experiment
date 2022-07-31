@@ -1,0 +1,12 @@
+{
+"Class" : "edu.stanford.nlp.ie.machinereading.domains.ace.reader.AceEntity", 
+"Methods" : [{ "Name" : "toXml" ,
+"Duas" : 7,
+"0" :  "(47,60, offset)",
+"1" :  "(47,56, offset)",
+"2" :  "(47,60, buffer)",
+"3" :  "(47,61, buffer)",
+"4" :  "(47,62, buffer)",
+"5" :  "(47,56, buffer)",
+"6" :  "(47,57, buffer)"}]
+}

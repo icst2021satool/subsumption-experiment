@@ -1,0 +1,14 @@
+{
+"Class" : "edu.stanford.nlp.trees.tregex.tsurgeon.PruneNode", 
+"Methods" : [{ "Name" : "pruneHelper" ,
+"Nodes" : 6,
+"0" : [ ],
+"1" : [ 1, 2, 6, 7, 8],
+"2" : [ 1, 2, 3, 6, 7, 8, 10],
+"3" : [ 1, 2, 4, 6, 7, 8, 9, 11],
+"4" : [ 0, 5],
+"5" : [ ],
+"CoveredDUAsByNodes" : 12,
+"Duas" : 12
+}]
+}

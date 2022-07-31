@@ -1,0 +1,17 @@
+{
+"Class" : "edu.stanford.nlp.quoteattribution.Sieves.QMSieves.SupervisedSieve", 
+"Methods" : [{ "Name" : "doQuoteToMention" ,
+"Duas" : 12,
+"0" :  "(30,(30,31), this)",
+"1" :  "(30,(30,33), this)",
+"2" :  "(30,33, this)",
+"3" :  "(30,34, this)",
+"4" :  "(30,33, doc)",
+"5" :  "(30,34, doc)",
+"6" :  "(30,(30,31), this.quotesClassifier)",
+"7" :  "(30,(30,33), this.quotesClassifier)",
+"8" :  "(30,34, this.quotesClassifier)",
+"9" :  "(30,33, this.characterMap)",
+"10" :  "(30,33, this.pronounCorefMap)",
+"11" :  "(30,33, this.animacySet)"}]
+}

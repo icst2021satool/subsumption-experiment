@@ -1,0 +1,13 @@
+{
+"Class" : "edu.stanford.nlp.stats.EquivalenceClassEval$Eval$CollectionContainsChecker", 
+"Methods" : [{ "Name" : "contained" ,
+"Nodes" : 7,
+"0" : [ 514 ],
+"1" : [ 514 ],
+"2" : [ 519 ],
+"3" : [ 514,515 ],
+"4" : [ 518 ],
+"5" : [ 516 ],
+"6" : [  ]
+}]
+}

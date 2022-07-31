@@ -1,0 +1,19 @@
+{
+"Class" : "edu.stanford.nlp.trees.BobChrisTreeNormalizer", 
+"Methods" : [{ "Name" : "cleanUpLabel" ,
+"Duas" : 7,
+"0" :  "(88,92, this)",
+"1" :  "(88,(88,88), label)",
+"2" :  "(88,(88,89), label)",
+"3" :  "(88,(88,89), label)",
+"4" :  "(88,(88,92), label)",
+"5" :  "(88,92, label)",
+"6" :  "(88,92, this.tlp)"},{ "Name" : "normalizeWholeTree" ,
+"Duas" : 6,
+"0" :  "(106,110, this)",
+"1" :  "(106,110, tf)",
+"2" :  "(106,110, this.aOverAFilter)",
+"3" :  "(106,(107,108), middle)",
+"4" :  "(106,(107,110), middle)",
+"5" :  "(106,110, middle)"}]
+}

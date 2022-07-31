@@ -1,0 +1,16 @@
+{
+"Class" : "edu.stanford.nlp.pipeline.CoreMapAttributeAggregator$ConcatListAggregator", 
+"Methods" : [{ "Name" : "aggregate" ,
+"Duas" : 11,
+"0" :  "(86,89, key)",
+"1" :  "(86,(86,86), in)",
+"2" :  "(86,(86,87), in)",
+"3" :  "(86,88, in)",
+"4" :  "(87,96, res)",
+"5" :  "(87,92, res)",
+"6" :  "(89,(90,91), obj)",
+"7" :  "(89,(90,95), obj)",
+"8" :  "(89,(91,92), obj)",
+"9" :  "(89,(91,95), obj)",
+"10" :  "(89,92, obj)"}]
+}

@@ -1,0 +1,12 @@
+{
+"Class" : "edu.stanford.nlp.util.RegexStringFilter", 
+"Methods" : [{ "Name" : "equals" ,
+"Nodes" : 6,
+"0" : [ 30 ],
+"1" : [ 33 ],
+"2" : [ 36 ],
+"3" : [ 34 ],
+"4" : [ 31 ],
+"5" : [  ]
+}]
+}

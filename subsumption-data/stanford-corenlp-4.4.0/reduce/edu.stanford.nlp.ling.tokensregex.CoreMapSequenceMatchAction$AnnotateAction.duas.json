@@ -1,0 +1,15 @@
+{
+"Class" : "edu.stanford.nlp.ling.tokensregex.CoreMapSequenceMatchAction$AnnotateAction", 
+"Methods" : [{ "Name" : "apply" ,
+"Duas" : 10,
+"0" :  "(28,32, this)",
+"1" :  "(28,35, matchResult)",
+"2" :  "(28,29, matchResult)",
+"3" :  "(28,31, matchResult)",
+"4" :  "(28,32, matchResult)",
+"5" :  "(28,32, this.attributes)",
+"6" :  "(28,31, group)",
+"7" :  "(29,(30,31), groupStart)",
+"8" :  "(29,(30,28), groupStart)",
+"9" :  "(29,32, groupStart)"}]
+}

@@ -1,0 +1,16 @@
+{
+"Class" : "edu.stanford.nlp.parser.lexparser.ItalianTreebankParserParams", 
+"Methods" : [{ "Name" : "treeReaderFactory" ,
+"Duas" : 8,
+"0" :  "(95,(95,96), this)",
+"1" :  "(95,(95,98), this)",
+"2" :  "(95,98, this)",
+"3" :  "(95,96, this)",
+"4" :  "(95,(95,96), this.normalizer)",
+"5" :  "(95,(95,98), this.normalizer)",
+"6" :  "(95,98, this.normalizer)",
+"7" :  "(96,98, this.normalizer)"},{ "Name" : "defaultTestSentence" ,
+"Duas" : 2,
+"0" :  "(111,116, ret)",
+"1" :  "(111,114, ret)"}]
+}

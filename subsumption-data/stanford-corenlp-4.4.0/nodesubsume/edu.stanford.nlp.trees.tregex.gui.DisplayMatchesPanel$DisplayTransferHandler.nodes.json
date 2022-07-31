@@ -1,0 +1,10 @@
+{
+"Class" : "edu.stanford.nlp.trees.tregex.gui.DisplayMatchesPanel$DisplayTransferHandler", 
+"Methods" : [{ "Name" : "exportString" ,
+"Nodes" : 4,
+"0" : [ 128 ],
+"1" : [ 132 ],
+"2" : [ 129,130 ],
+"3" : [  ]
+}]
+}

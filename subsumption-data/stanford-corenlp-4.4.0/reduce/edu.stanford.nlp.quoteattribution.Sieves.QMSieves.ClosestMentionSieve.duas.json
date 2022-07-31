@@ -1,0 +1,19 @@
+{
+"Class" : "edu.stanford.nlp.quoteattribution.Sieves.QMSieves.ClosestMentionSieve", 
+"Methods" : [{ "Name" : "getClosestMention" ,
+"Duas" : 6,
+"0" :  "(27,32, closestBackward)",
+"1" :  "(28,34, closestForward)",
+"2" :  "(29,(31,32), backDistance)",
+"3" :  "(29,(31,34), backDistance)",
+"4" :  "(30,(31,32), forwardDistance)",
+"5" :  "(30,(31,34), forwardDistance)"},{ "Name" : "doQuoteToMention" ,
+"Duas" : 7,
+"0" :  "(39,43, this)",
+"1" :  "(39,44, this)",
+"2" :  "(39,44, this.sieveName)",
+"3" :  "(40,(42,43), quote)",
+"4" :  "(40,(42,46), quote)",
+"5" :  "(40,43, quote)",
+"6" :  "(40,44, quote)"}]
+}

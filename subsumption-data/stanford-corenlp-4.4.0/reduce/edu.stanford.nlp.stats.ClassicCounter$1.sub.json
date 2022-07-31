@@ -1,0 +1,10 @@
+{
+"Class" : "edu.stanford.nlp.stats.ClassicCounter$1", 
+"Methods" : [{ "Name" : "contains" ,
+"Duas" : "9" ,
+"Subsumers" : 3,
+"0" : [ 7, 5, 0], "S0" : [0, 2, 4, 5, 7 ],
+"1" : [ 8, 6, 1], "S1" : [1, 2, 4, 6, 8 ],
+"2" : [ 3], "S2" : [3 ]
+}]
+}

@@ -1,0 +1,9 @@
+{
+"Class" : "edu.stanford.nlp.classify.LinearClassifierFactory$LinearClassifierCreator", 
+"Methods" : [{ "Name" : "createLinearClassifier" ,
+"Duas" : "16" ,
+"Subsumers" : 2,
+"0" : [ 14, 9, 7, 6, 4, 0], "S0" : [0, 3, 4, 6, 7, 9, 11, 13, 14 ],
+"1" : [ 15, 12, 10, 8, 5, 2, 1], "S1" : [1, 2, 3, 5, 8, 10, 11, 12, 13, 15 ]
+}]
+}

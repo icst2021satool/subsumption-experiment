@@ -1,0 +1,9 @@
+{
+"Class" : "edu.stanford.nlp.trees.RightHeadFinder", 
+"Methods" : [{ "Name" : "determineHead" ,
+"Duas" : 4,
+"0" :  "(21,(21,22), t)",
+"1" :  "(21,(21,24), t)",
+"2" :  "(21,24, t)",
+"3" :  "(21,25, t)"}]
+}

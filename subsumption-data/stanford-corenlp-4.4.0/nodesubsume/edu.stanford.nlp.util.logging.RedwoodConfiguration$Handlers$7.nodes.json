@@ -1,0 +1,18 @@
+{
+"Class" : "edu.stanford.nlp.util.logging.RedwoodConfiguration$Handlers$7", 
+"Methods" : [{ "Name" : "buildChain" ,
+"Nodes" : 5,
+"0" : [ 352,351 ],
+"1" : [ 355 ],
+"2" : [ 357 ],
+"3" : [ 353 ],
+"4" : [  ]
+},{ "Name" : "apply" ,
+"Nodes" : 5,
+"0" : [ 361 ],
+"1" : [ 364 ],
+"2" : [ 366 ],
+"3" : [ 362 ],
+"4" : [  ]
+}]
+}

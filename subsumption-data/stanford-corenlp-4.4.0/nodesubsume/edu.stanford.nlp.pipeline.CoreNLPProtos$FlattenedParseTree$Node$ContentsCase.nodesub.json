@@ -1,0 +1,15 @@
+{
+"Class" : "edu.stanford.nlp.pipeline.CoreNLPProtos$FlattenedParseTree$Node$ContentsCase", 
+"Methods" : [{ "Name" : "forNumber" ,
+"Nodes" : 7,
+"0" : [ ],
+"1" : [ 4, 7],
+"2" : [ 3, 6],
+"3" : [ 2, 5],
+"4" : [ 1, 8],
+"5" : [ 0],
+"6" : [ ],
+"CoveredDUAsByNodes" : 9,
+"Duas" : 9
+}]
+}

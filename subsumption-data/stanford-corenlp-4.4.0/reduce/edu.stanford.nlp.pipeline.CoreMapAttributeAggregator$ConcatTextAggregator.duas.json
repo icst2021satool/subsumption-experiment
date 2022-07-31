@@ -1,0 +1,9 @@
+{
+"Class" : "edu.stanford.nlp.pipeline.CoreMapAttributeAggregator$ConcatTextAggregator", 
+"Methods" : [{ "Name" : "aggregate" ,
+"Duas" : 4,
+"0" :  "(158,159, key)",
+"1" :  "(158,(158,158), in)",
+"2" :  "(158,(158,159), in)",
+"3" :  "(158,159, in)"}]
+}

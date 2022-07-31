@@ -1,0 +1,12 @@
+{
+"Class" : "edu.stanford.nlp.semgraph.semgrex.GraphRelation$SIBLING_RELATION", 
+"Methods" : [{ "Name" : "satisfies" ,
+"Nodes" : 6,
+"0" : [ 821,822,823 ],
+"1" : [ 828 ],
+"2" : [ 823,824 ],
+"3" : [ 824,825 ],
+"4" : [ 826 ],
+"5" : [  ]
+}]
+}

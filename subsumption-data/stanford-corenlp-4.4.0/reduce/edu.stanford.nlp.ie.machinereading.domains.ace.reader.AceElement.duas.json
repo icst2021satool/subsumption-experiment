@@ -1,0 +1,14 @@
+{
+"Class" : "edu.stanford.nlp.ie.machinereading.domains.ace.reader.AceElement", 
+"Methods" : [{ "Name" : "appendOffset" ,
+"Duas" : 9,
+"0" :  "(19,20, builder)",
+"1" :  "(19,(19,20), offset)",
+"2" :  "(19,(19,22), offset)",
+"3" :  "(19,(19,20), i)",
+"4" :  "(19,(19,22), i)",
+"5" :  "(19,19, i)",
+"6" :  "(19,(19,20), i)",
+"7" :  "(19,(19,22), i)",
+"8" :  "(19,19, i)"}]
+}

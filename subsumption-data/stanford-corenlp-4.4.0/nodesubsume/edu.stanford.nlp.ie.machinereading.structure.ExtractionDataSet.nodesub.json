@@ -1,0 +1,22 @@
+{
+"Class" : "edu.stanford.nlp.ie.machinereading.structure.ExtractionDataSet", 
+"Methods" : [{ "Name" : "<init>" ,
+"Nodes" : 5,
+"0" : [ ],
+"1" : [ ],
+"2" : [ ],
+"4" : [ ],
+"3" : [ 0, 1],
+"CoveredDUAsByNodes" : 2,
+"Duas" : 2
+},{ "Name" : "addSentences" ,
+"Nodes" : 5,
+"0" : [ ],
+"1" : [ ],
+"2" : [ ],
+"4" : [ ],
+"3" : [ 0],
+"CoveredDUAsByNodes" : 1,
+"Duas" : 1
+}]
+}

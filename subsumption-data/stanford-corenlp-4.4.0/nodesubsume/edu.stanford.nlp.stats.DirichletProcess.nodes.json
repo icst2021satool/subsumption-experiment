@@ -1,0 +1,24 @@
+{
+"Class" : "edu.stanford.nlp.stats.DirichletProcess", 
+"Methods" : [{ "Name" : "drawSample" ,
+"Nodes" : 4,
+"0" : [ 24,25 ],
+"1" : [ 28,29 ],
+"2" : [ 26 ],
+"3" : [  ]
+},{ "Name" : "numOccurances" ,
+"Nodes" : 4,
+"0" : [ 33 ],
+"1" : [ 36 ],
+"2" : [ 34 ],
+"3" : [  ]
+},{ "Name" : "probabilityOf" ,
+"Nodes" : 6,
+"0" : [ 40 ],
+"1" : [ 44 ],
+"2" : [ 47 ],
+"3" : [ 45 ],
+"4" : [ 41 ],
+"5" : [  ]
+}]
+}

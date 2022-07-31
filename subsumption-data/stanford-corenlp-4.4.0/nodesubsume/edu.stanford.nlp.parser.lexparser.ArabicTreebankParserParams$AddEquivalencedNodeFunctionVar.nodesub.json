@@ -1,0 +1,14 @@
+{
+"Class" : "edu.stanford.nlp.parser.lexparser.ArabicTreebankParserParams$AddEquivalencedNodeFunctionVar", 
+"Methods" : [{ "Name" : "apply" ,
+"Nodes" : 6,
+"0" : [ ],
+"2" : [ 2],
+"3" : [ 2, 4],
+"4" : [ 2, 4, 7],
+"1" : [ 0, 1],
+"5" : [ ],
+"CoveredDUAsByNodes" : 5,
+"Duas" : 8
+}]
+}

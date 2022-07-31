@@ -1,0 +1,64 @@
+{
+"Class" : "edu.stanford.nlp.neural.rnn.RNNCoreAnnotations", 
+"Methods" : [{ "Name" : "getNodeVector" ,
+"Nodes" : 4,
+"0" : [ 38,39 ],
+"1" : [ 42 ],
+"2" : [ 40 ],
+"3" : [  ]
+},{ "Name" : "getPredictions" ,
+"Nodes" : 4,
+"0" : [ 58,59 ],
+"1" : [ 62 ],
+"2" : [ 60 ],
+"3" : [  ]
+},{ "Name" : "getPredictionsAsStringList" ,
+"Nodes" : 5,
+"0" : [ 66,67,68 ],
+"1" : [ 68 ],
+"2" : [ 71 ],
+"3" : [ 68,69 ],
+"4" : [  ]
+},{ "Name" : "getPredictedClass" ,
+"Nodes" : 7,
+"0" : [ 105 ],
+"1" : [ 108,109 ],
+"2" : [ 109 ],
+"3" : [ 109 ],
+"4" : [ 109 ],
+"5" : [ 106 ],
+"6" : [  ]
+},{ "Name" : "getPredictedClassProb" ,
+"Nodes" : 6,
+"0" : [ 118 ],
+"1" : [ 121,122,123 ],
+"2" : [ 126 ],
+"3" : [ 124 ],
+"4" : [ 119 ],
+"5" : [  ]
+},{ "Name" : "getGoldClass" ,
+"Nodes" : 4,
+"0" : [ 142,143 ],
+"1" : [ 146 ],
+"2" : [ 144 ],
+"3" : [  ]
+},{ "Name" : "setGoldClass" ,
+"Nodes" : 4,
+"0" : [ 150,151 ],
+"1" : [ 154,155 ],
+"2" : [ 152 ],
+"3" : [  ]
+},{ "Name" : "getPredictionError" ,
+"Nodes" : 4,
+"0" : [ 165,166 ],
+"1" : [ 169 ],
+"2" : [ 167 ],
+"3" : [  ]
+},{ "Name" : "setPredictionError" ,
+"Nodes" : 4,
+"0" : [ 173,174 ],
+"1" : [ 177,178 ],
+"2" : [ 175 ],
+"3" : [  ]
+}]
+}

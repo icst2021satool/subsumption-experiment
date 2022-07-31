@@ -1,0 +1,14 @@
+{
+"Class" : "edu.stanford.nlp.trees.tregex.tsurgeon.AdjoinToFootNode$Matcher", 
+"Methods" : [{ "Name" : "evaluate" ,
+"Nodes" : 6,
+"0" : [ ],
+"1" : [ 16, 17, 9, 12],
+"2" : [ 0, 2, 3, 6, 7, 8, 9, 10, 12, 13, 16, 17, 18, 20],
+"3" : [ 4, 5, 9, 11, 12, 14, 16, 17, 19, 21],
+"4" : [ 1, 15],
+"5" : [ ],
+"CoveredDUAsByNodes" : 22,
+"Duas" : 22
+}]
+}

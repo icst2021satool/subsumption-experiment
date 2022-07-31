@@ -1,0 +1,21 @@
+{
+"Class" : "edu.stanford.nlp.semgraph.semgrex.GraphRelation$ALIGNMENT", 
+"Methods" : [{ "Name" : "satisfies" ,
+"Duas" : 16,
+"0" :  "(114,(114,114), this)",
+"1" :  "(114,(114,115), this)",
+"2" :  "(114,(115,116), this)",
+"3" :  "(114,(115,118), this)",
+"4" :  "(114,118, this)",
+"5" :  "(114,116, this)",
+"6" :  "(114,118, l1)",
+"7" :  "(114,116, l1)",
+"8" :  "(114,118, l2)",
+"9" :  "(114,116, l2)",
+"10" :  "(114,(114,114), this.alignment)",
+"11" :  "(114,(114,115), this.alignment)",
+"12" :  "(114,118, this.alignment)",
+"13" :  "(114,116, this.alignment)",
+"14" :  "(114,(115,116), this.hypToText)",
+"15" :  "(114,(115,118), this.hypToText)"}]
+}

@@ -1,0 +1,22 @@
+{
+"Class" : "edu.stanford.nlp.loglinear.benchmarks.GamePlayerBenchmark$SampleState", 
+"Methods" : [{ "Name" : "push" ,
+"Nodes" : 5,
+"0" : [ ],
+"2" : [ 8],
+"1" : [ 0, 16, 1, 17, 4, 5, 10, 13],
+"3" : [ 2, 6, 8, 11, 14],
+"4" : [ ],
+"CoveredDUAsByNodes" : 13,
+"Duas" : 18
+},{ "Name" : "pop" ,
+"Nodes" : 5,
+"0" : [ ],
+"2" : [ 8],
+"1" : [ 0, 16, 1, 4, 5, 10, 13],
+"3" : [ 2, 6, 8, 11, 14],
+"4" : [ ],
+"CoveredDUAsByNodes" : 12,
+"Duas" : 17
+}]
+}

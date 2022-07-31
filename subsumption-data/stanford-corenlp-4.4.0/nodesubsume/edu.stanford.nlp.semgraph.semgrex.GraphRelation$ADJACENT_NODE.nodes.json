@@ -1,0 +1,10 @@
+{
+"Class" : "edu.stanford.nlp.semgraph.semgrex.GraphRelation$ADJACENT_NODE", 
+"Methods" : [{ "Name" : "satisfies" ,
+"Nodes" : 4,
+"0" : [ 931 ],
+"1" : [ 934 ],
+"2" : [ 932 ],
+"3" : [  ]
+}]
+}

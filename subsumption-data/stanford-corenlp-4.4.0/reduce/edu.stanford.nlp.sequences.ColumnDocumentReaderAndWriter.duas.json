@@ -1,0 +1,7 @@
+{
+"Class" : "edu.stanford.nlp.sequences.ColumnDocumentReaderAndWriter", 
+"Methods" : [{ "Name" : "printAnswers" ,
+"Duas" : 2,
+"0" :  "(111,121, out)",
+"1" :  "(111,118, out)"}]
+}

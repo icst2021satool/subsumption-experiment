@@ -1,0 +1,11 @@
+{
+"Class" : "edu.stanford.nlp.util.concurrent.ConcurrentHashIndex$2", 
+"Methods" : [{ "Name" : "hasNext" ,
+"Nodes" : 5,
+"0" : [ 208 ],
+"1" : [ 208 ],
+"2" : [ 208 ],
+"3" : [ 208 ],
+"4" : [  ]
+}]
+}

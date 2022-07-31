@@ -1,0 +1,26 @@
+{
+"Class" : "edu.stanford.nlp.ling.tokensregex.ComplexNodePattern$AbstractStringAnnotationPattern", 
+"Methods" : [{ "Name" : "ignoreCase" ,
+"Nodes" : 5,
+"0" : [ 292 ],
+"1" : [ 292 ],
+"2" : [ 292 ],
+"3" : [ 292 ],
+"4" : [  ]
+},{ "Name" : "normalize" ,
+"Nodes" : 5,
+"0" : [ 296 ],
+"1" : [ 296 ],
+"2" : [ 296 ],
+"3" : [ 296 ],
+"4" : [  ]
+},{ "Name" : "getNormalized" ,
+"Nodes" : 6,
+"0" : [ 300 ],
+"1" : [ 303 ],
+"2" : [ 306 ],
+"3" : [ 304 ],
+"4" : [ 301 ],
+"5" : [  ]
+}]
+}

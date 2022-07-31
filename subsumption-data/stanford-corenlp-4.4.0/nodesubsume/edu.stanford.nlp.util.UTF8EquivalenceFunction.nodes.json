@@ -1,0 +1,13 @@
+{
+"Class" : "edu.stanford.nlp.util.UTF8EquivalenceFunction", 
+"Methods" : [{ "Name" : "apply" ,
+"Nodes" : 7,
+"0" : [ 24 ],
+"1" : [ 26 ],
+"2" : [ 27 ],
+"3" : [ 26 ],
+"4" : [ 29 ],
+"5" : [ 25 ],
+"6" : [  ]
+}]
+}

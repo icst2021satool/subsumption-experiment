@@ -1,0 +1,14 @@
+{
+"Class" : "edu.stanford.nlp.util.DataFilePaths", 
+"Methods" : [{ "Name" : "convert" ,
+"Duas" : 9,
+"0" :  "(38,(38,39), path)",
+"1" :  "(38,(38,40), path)",
+"2" :  "(38,(40,41), path)",
+"3" :  "(38,(40,42), path)",
+"4" :  "(38,42, path)",
+"5" :  "(38,41, path)",
+"6" :  "(38,39, path)",
+"7" :  "(38,39, NLP_DATA_HOME)",
+"8" :  "(38,41, JAVANLP_HOME)"}]
+}

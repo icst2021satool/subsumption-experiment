@@ -1,0 +1,13 @@
+{
+"Class" : "edu.stanford.nlp.process.StoplistFilter", 
+"Methods" : [{ "Name" : "processDocument" ,
+"Nodes" : 7,
+"0" : [ 46,47 ],
+"1" : [ 47 ],
+"2" : [ 52 ],
+"3" : [ 48,47 ],
+"4" : [ 51 ],
+"5" : [ 49 ],
+"6" : [  ]
+}]
+}

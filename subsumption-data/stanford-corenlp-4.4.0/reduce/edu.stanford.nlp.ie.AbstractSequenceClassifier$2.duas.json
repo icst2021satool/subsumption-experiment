@@ -1,0 +1,15 @@
+{
+"Class" : "edu.stanford.nlp.ie.AbstractSequenceClassifier$2", 
+"Methods" : [{ "Name" : "process" ,
+"Duas" : 10,
+"0" :  "(1179,(1182,1182), this)",
+"1" :  "(1179,(1182,1183), this)",
+"2" :  "(1179,(1182,1182), this.this$0)",
+"3" :  "(1179,(1182,1183), this.this$0)",
+"4" :  "(1179,(1182,1182), this.flags)",
+"5" :  "(1179,(1182,1183), this.flags)",
+"6" :  "(1179,(1182,1182), this.verboseMode)",
+"7" :  "(1179,(1182,1183), this.verboseMode)",
+"8" :  "(1179,1183, doc)",
+"9" :  "(1181,1182, completedNo)"}]
+}

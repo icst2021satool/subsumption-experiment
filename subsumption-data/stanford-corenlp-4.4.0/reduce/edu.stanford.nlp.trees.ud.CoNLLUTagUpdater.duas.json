@@ -1,0 +1,10 @@
+{
+"Class" : "edu.stanford.nlp.trees.ud.CoNLLUTagUpdater", 
+"Methods" : [{ "Name" : "main" ,
+"Duas" : 5,
+"0" :  "(15,33, err)",
+"1" :  "(15,31, out)",
+"2" :  "(18,30, writer)",
+"3" :  "(24,28, maxentTagger)",
+"4" :  "(25,30, doc)"}]
+}

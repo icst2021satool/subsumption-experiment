@@ -1,0 +1,17 @@
+{
+"Class" : "edu.stanford.nlp.classify.CrossValidator$CrossValidationIterator", 
+"Methods" : [{ "Name" : "hasNext" ,
+"Nodes" : 5,
+"0" : [ 66 ],
+"1" : [ 66 ],
+"2" : [ 66 ],
+"3" : [ 66 ],
+"4" : [  ]
+},{ "Name" : "next" ,
+"Nodes" : 4,
+"0" : [ 75 ],
+"1" : [ 81,76,77,79 ],
+"2" : [ 75 ],
+"3" : [  ]
+}]
+}

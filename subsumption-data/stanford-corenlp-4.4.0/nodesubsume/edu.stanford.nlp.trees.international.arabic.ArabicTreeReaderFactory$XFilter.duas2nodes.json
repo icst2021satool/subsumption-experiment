@@ -1,0 +1,10 @@
+{
+"Class" : "edu.stanford.nlp.trees.international.arabic.ArabicTreeReaderFactory$XFilter", 
+"Methods" : [{ "Name" : "test" ,
+"Nodes" : 6,
+"Duas" : 4,
+"0" :  [ 0,3 ],
+"1" :  [ 0,1 ],
+"2" :  [ 0,3,1 ],
+"3" :  [ 0,3,4 ]}]
+}

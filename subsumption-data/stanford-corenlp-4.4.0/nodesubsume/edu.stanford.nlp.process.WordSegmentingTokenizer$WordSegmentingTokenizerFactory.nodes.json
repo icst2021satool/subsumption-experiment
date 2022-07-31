@@ -1,0 +1,10 @@
+{
+"Class" : "edu.stanford.nlp.process.WordSegmentingTokenizer$WordSegmentingTokenizerFactory", 
+"Methods" : [{ "Name" : "getTokenizer" ,
+"Nodes" : 4,
+"0" : [ 83,84 ],
+"1" : [ 89 ],
+"2" : [ 85,86 ],
+"3" : [  ]
+}]
+}

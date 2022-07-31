@@ -1,0 +1,17 @@
+{
+"Class" : "edu.stanford.nlp.parser.lexparser.TregexPoweredTreebankParserParams$AnnotateHeadFunction", 
+"Methods" : [{ "Name" : "apply" ,
+"Duas" : 12,
+"0" :  "(260,(270,270), this)",
+"1" :  "(260,(270,271), this)",
+"2" :  "(260,(270,270), this.lowerCase)",
+"3" :  "(260,(270,271), this.lowerCase)",
+"4" :  "(262,(263,264), head)",
+"5" :  "(262,(263,266), head)",
+"6" :  "(262,266, head)",
+"7" :  "(267,(269,270), headValue)",
+"8" :  "(267,(269,273), headValue)",
+"9" :  "(267,271, headValue)",
+"10" :  "(267,270, headValue)",
+"11" :  "(270,271, headValue)"}]
+}

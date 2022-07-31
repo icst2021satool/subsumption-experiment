@@ -1,0 +1,28 @@
+{
+"Class" : "edu.stanford.nlp.tagger.maxent.ExtractorsConjunction", 
+"Methods" : [{ "Name" : "<init>" ,
+"Nodes" : 10,
+"0" : [ ],
+"7" : [ 2],
+"1" : [ ],
+"8" : [ 2, 8],
+"2" : [ 0],
+"5" : [ 0, 4],
+"6" : [ 0, 4, 7],
+"3" : [ 0],
+"4" : [ 0, 1],
+"9" : [ 0, 1],
+"CoveredDUAsByNodes" : 6,
+"Duas" : 10
+},{ "Name" : "extract" ,
+"Nodes" : 6,
+"0" : [ ],
+"1" : [ 0, 1, 2, 3, 5],
+"2" : [ 0, 1, 2, 3, 5, 6, 8, 9],
+"3" : [ 0, 1, 2, 3, 5, 7],
+"4" : [ 4],
+"5" : [ ],
+"CoveredDUAsByNodes" : 10,
+"Duas" : 10
+}]
+}

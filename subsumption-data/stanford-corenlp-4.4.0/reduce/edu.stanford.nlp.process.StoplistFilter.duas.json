@@ -1,0 +1,14 @@
+{
+"Class" : "edu.stanford.nlp.process.StoplistFilter", 
+"Methods" : [{ "Name" : "processDocument" ,
+"Duas" : 9,
+"0" :  "(46,(48,49), this)",
+"1" :  "(46,(48,51), this)",
+"2" :  "(46,(48,49), this.stoplist)",
+"3" :  "(46,(48,51), this.stoplist)",
+"4" :  "(46,52, out)",
+"5" :  "(46,49, out)",
+"6" :  "(47,(48,49), w)",
+"7" :  "(47,(48,51), w)",
+"8" :  "(47,49, w)"}]
+}

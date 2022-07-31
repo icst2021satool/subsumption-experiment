@@ -1,0 +1,19 @@
+{
+"Class" : "edu.stanford.nlp.trees.LabeledScoredTreeNode", 
+"Methods" : [{ "Name" : "setChildren" ,
+"Duas" : "6" ,
+"Subsumers" : 2,
+"0" : [ 4, 3, 0], "S0" : [0, 3, 4 ],
+"1" : [ 5, 2, 1], "S1" : [1, 2, 5 ]
+},{ "Name" : "treeFactory" ,
+"Duas" : "3" ,
+"Subsumers" : 2,
+"0" : [ 0], "S0" : [0, 2 ],
+"1" : [ 1], "S1" : [1, 2 ]
+},{ "Name" : "nodeString" ,
+"Duas" : "9" ,
+"Subsumers" : 2,
+"0" : [ 8, 6, 5, 3, 2, 0], "S0" : [0, 2, 3, 5, 6, 7, 8 ],
+"1" : [ 4, 1], "S1" : [1, 4, 7 ]
+}]
+}

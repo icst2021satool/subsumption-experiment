@@ -1,0 +1,7 @@
+{
+"Class" : "edu.stanford.nlp.sequences.ColumnTabDocumentReaderWriter$ColumnDocBufferedGetNextTokens", 
+"Methods" : [{ "Name" : "getNext" ,
+"Duas" : 2,
+"0" :  "(199,(201,201), m)",
+"1" :  "(199,(201,201), m)"}]
+}

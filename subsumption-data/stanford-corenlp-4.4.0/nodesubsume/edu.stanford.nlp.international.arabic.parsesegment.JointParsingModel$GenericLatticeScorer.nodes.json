@@ -1,0 +1,27 @@
+{
+"Class" : "edu.stanford.nlp.international.arabic.parsesegment.JointParsingModel$GenericLatticeScorer", 
+"Methods" : [{ "Name" : "convertItemSpan" ,
+"Nodes" : 5,
+"0" : [ 330 ],
+"1" : [ 331 ],
+"2" : [ 330 ],
+"3" : [ 333,334,335 ],
+"4" : [  ]
+},{ "Name" : "oPossible" ,
+"Nodes" : 6,
+"0" : [ 360,362 ],
+"1" : [ 362 ],
+"2" : [ 362 ],
+"3" : [ 362 ],
+"4" : [ 362 ],
+"5" : [  ]
+},{ "Name" : "iPossible" ,
+"Nodes" : 6,
+"0" : [ 369,367 ],
+"1" : [ 369 ],
+"2" : [ 369 ],
+"3" : [ 369 ],
+"4" : [ 369 ],
+"5" : [  ]
+}]
+}

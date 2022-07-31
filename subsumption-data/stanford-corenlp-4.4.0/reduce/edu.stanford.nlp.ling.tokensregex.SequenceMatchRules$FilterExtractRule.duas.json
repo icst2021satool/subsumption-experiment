@@ -1,0 +1,15 @@
+{
+"Class" : "edu.stanford.nlp.ling.tokensregex.SequenceMatchRules$FilterExtractRule", 
+"Methods" : [{ "Name" : "extract" ,
+"Duas" : 10,
+"0" :  "(805,(805,806), this)",
+"1" :  "(805,(805,808), this)",
+"2" :  "(805,806, this)",
+"3" :  "(805,(805,806), in)",
+"4" :  "(805,(805,808), in)",
+"5" :  "(805,806, in)",
+"6" :  "(805,806, out)",
+"7" :  "(805,(805,806), this.filter)",
+"8" :  "(805,(805,808), this.filter)",
+"9" :  "(805,806, this.rule)"}]
+}

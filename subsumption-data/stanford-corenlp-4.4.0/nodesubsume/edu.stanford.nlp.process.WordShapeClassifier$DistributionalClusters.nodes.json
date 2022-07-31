@@ -1,0 +1,16 @@
+{
+"Class" : "edu.stanford.nlp.process.WordShapeClassifier$DistributionalClusters", 
+"Methods" : [{ "Name" : "loadWordClusters" ,
+"Nodes" : 10,
+"0" : [ 917,918,919 ],
+"1" : [ 930 ],
+"2" : [ 930 ],
+"3" : [ 938,939 ],
+"4" : [ 930,931,932,934,935,936 ],
+"5" : [ 920 ],
+"6" : [ 920 ],
+"7" : [ 927 ],
+"8" : [ 920,921,922,924,925,926,927 ],
+"9" : [  ]
+}]
+}

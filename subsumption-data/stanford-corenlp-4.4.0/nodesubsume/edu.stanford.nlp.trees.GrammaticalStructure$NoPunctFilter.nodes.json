@@ -1,0 +1,12 @@
+{
+"Class" : "edu.stanford.nlp.trees.GrammaticalStructure$NoPunctFilter", 
+"Methods" : [{ "Name" : "test" ,
+"Nodes" : 6,
+"0" : [ 629 ],
+"1" : [ 632,633 ],
+"2" : [ 636 ],
+"3" : [ 634 ],
+"4" : [ 630 ],
+"5" : [  ]
+}]
+}

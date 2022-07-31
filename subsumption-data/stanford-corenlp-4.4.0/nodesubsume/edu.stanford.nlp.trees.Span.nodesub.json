@@ -1,0 +1,14 @@
+{
+"Class" : "edu.stanford.nlp.trees.Span", 
+"Methods" : [{ "Name" : "equals" ,
+"Nodes" : 6,
+"0" : [ ],
+"3" : [ 0, 4],
+"1" : [ ],
+"4" : [ 0, 2, 4, 6],
+"2" : [ ],
+"5" : [ ],
+"CoveredDUAsByNodes" : 4,
+"Duas" : 8
+}]
+}

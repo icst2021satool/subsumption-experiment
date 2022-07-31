@@ -1,0 +1,18 @@
+{
+"Class" : "edu.stanford.nlp.time.SUTime$StandardTemporalType", 
+"Methods" : [{ "Name" : "createTemporal" ,
+"Duas" : 5,
+"0" :  "(949,951, this)",
+"1" :  "(949,(950,951), t)",
+"2" :  "(949,(950,953), t)",
+"3" :  "(949,953, t)",
+"4" :  "(949,951, t)"},{ "Name" : "create" ,
+"Duas" : 7,
+"0" :  "(957,964, temporalType)",
+"1" :  "(958,964, label)",
+"2" :  "(959,964, modifier)",
+"3" :  "(960,(961,962), temporal)",
+"4" :  "(960,(961,964), temporal)",
+"5" :  "(960,964, temporal)",
+"6" :  "(962,964, temporal)"}]
+}

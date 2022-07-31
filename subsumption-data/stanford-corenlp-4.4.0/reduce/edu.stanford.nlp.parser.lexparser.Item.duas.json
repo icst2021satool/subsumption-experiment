@@ -1,0 +1,14 @@
+{
+"Class" : "edu.stanford.nlp.parser.lexparser.Item", 
+"Methods" : [{ "Name" : "score" ,
+"Duas" : 9,
+"0" :  "(40,(40,41), this)",
+"1" :  "(40,(40,43), this)",
+"2" :  "(40,43, this)",
+"3" :  "(40,41, this)",
+"4" :  "(40,(40,41), this.exhaustiveTest)",
+"5" :  "(40,(40,43), this.exhaustiveTest)",
+"6" :  "(40,43, this.iScore)",
+"7" :  "(40,41, this.iScore)",
+"8" :  "(40,43, this.oScore)"}]
+}

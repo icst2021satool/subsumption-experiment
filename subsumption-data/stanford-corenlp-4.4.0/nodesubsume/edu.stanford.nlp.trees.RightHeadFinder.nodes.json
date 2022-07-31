@@ -1,0 +1,10 @@
+{
+"Class" : "edu.stanford.nlp.trees.RightHeadFinder", 
+"Methods" : [{ "Name" : "determineHead" ,
+"Nodes" : 4,
+"0" : [ 21 ],
+"1" : [ 24,25 ],
+"2" : [ 22 ],
+"3" : [  ]
+}]
+}

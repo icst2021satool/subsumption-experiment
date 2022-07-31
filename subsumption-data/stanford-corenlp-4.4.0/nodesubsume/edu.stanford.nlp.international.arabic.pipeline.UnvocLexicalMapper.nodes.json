@@ -1,0 +1,10 @@
+{
+"Class" : "edu.stanford.nlp.international.arabic.pipeline.UnvocLexicalMapper", 
+"Methods" : [{ "Name" : "map" ,
+"Nodes" : 4,
+"0" : [ 20,22 ],
+"1" : [ 25 ],
+"2" : [ 23 ],
+"3" : [  ]
+}]
+}

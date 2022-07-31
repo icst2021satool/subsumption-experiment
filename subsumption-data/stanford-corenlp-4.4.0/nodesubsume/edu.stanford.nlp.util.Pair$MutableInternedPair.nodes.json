@@ -1,0 +1,12 @@
+{
+"Class" : "edu.stanford.nlp.util.Pair$MutableInternedPair", 
+"Methods" : [{ "Name" : "internStrings" ,
+"Nodes" : 6,
+"0" : [ 220 ],
+"1" : [ 223 ],
+"2" : [ 226 ],
+"3" : [ 224 ],
+"4" : [ 221 ],
+"5" : [  ]
+}]
+}

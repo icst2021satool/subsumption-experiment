@@ -1,0 +1,12 @@
+{
+"Class" : "edu.stanford.nlp.semgraph.semgrex.GraphRelation$EQUALS$1", 
+"Methods" : [{ "Name" : "advance" ,
+"Nodes" : 6,
+"0" : [ 793 ],
+"1" : [ 797 ],
+"2" : [ 801,802,803 ],
+"3" : [ 798,799 ],
+"4" : [ 794,795 ],
+"5" : [  ]
+}]
+}

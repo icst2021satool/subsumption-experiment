@@ -1,0 +1,30 @@
+{
+"Class" : "edu.stanford.nlp.international.french.scripts.MungeTreesWithMorfetteAnalyses$MorfetteFileIterator", 
+"Methods" : [{ "Name" : "primeNext" ,
+"Nodes" : 11,
+"0" : [ 53 ],
+"1" : [ 54 ],
+"2" : [ 79 ],
+"3" : [ 88,89 ],
+"4" : [ 80,81 ],
+"5" : [ 55,56 ],
+"6" : [ 60,61 ],
+"7" : [ 67,68,69,70,54,71,72,73,74,75 ],
+"8" : [ 64,65,62,63 ],
+"9" : [ 57,58 ],
+"10" : [  ]
+},{ "Name" : "hasNext" ,
+"Nodes" : 5,
+"0" : [ 93 ],
+"1" : [ 93 ],
+"2" : [ 93 ],
+"3" : [ 93 ],
+"4" : [  ]
+},{ "Name" : "next" ,
+"Nodes" : 4,
+"0" : [ 98 ],
+"1" : [ 103 ],
+"2" : [ 99,100,101 ],
+"3" : [  ]
+}]
+}

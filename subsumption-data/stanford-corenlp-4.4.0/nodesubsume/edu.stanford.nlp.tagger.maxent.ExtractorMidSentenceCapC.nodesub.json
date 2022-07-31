@@ -1,0 +1,17 @@
+{
+"Class" : "edu.stanford.nlp.tagger.maxent.ExtractorMidSentenceCapC", 
+"Methods" : [{ "Name" : "extract" ,
+"Nodes" : 9,
+"0" : [ ],
+"2" : [ 8],
+"3" : [ 3, 4, 8, 11],
+"4" : [ 3, 4, 8, 11, 13],
+"5" : [ 3, 4, 8, 11, 12, 14],
+"6" : [ 16, 1, 17, 2, 3, 4, 6, 7, 8, 11, 12, 14],
+"7" : [ 0, 3, 4, 5, 8, 11, 12, 14, 15],
+"1" : [ ],
+"8" : [ ],
+"CoveredDUAsByNodes" : 16,
+"Duas" : 18
+}]
+}

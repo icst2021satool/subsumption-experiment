@@ -1,0 +1,10 @@
+{
+"Class" : "edu.stanford.nlp.util.ThreeDimensionalCollectionValuedMap", 
+"Methods" : [{ "Name" : "getTwoDimensionalCollectionValuedMap" ,
+"Nodes" : 4,
+"0" : [ 32,33 ],
+"1" : [ 37 ],
+"2" : [ 34,35 ],
+"3" : [  ]
+}]
+}

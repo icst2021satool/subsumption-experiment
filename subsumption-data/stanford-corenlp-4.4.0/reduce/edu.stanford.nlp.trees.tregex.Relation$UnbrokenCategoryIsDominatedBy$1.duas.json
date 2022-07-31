@@ -1,0 +1,15 @@
+{
+"Class" : "edu.stanford.nlp.trees.tregex.Relation$UnbrokenCategoryIsDominatedBy$1", 
+"Methods" : [{ "Name" : "advance" ,
+"Duas" : 10,
+"0" :  "(1794,(1794,1795), this)",
+"1" :  "(1794,(1794,1797), this)",
+"2" :  "(1794,1797, this)",
+"3" :  "(1794,1795, this)",
+"4" :  "(1794,(1794,1795), this.this$0)",
+"5" :  "(1794,(1794,1797), this.this$0)",
+"6" :  "(1794,(1794,1795), this.next)",
+"7" :  "(1794,(1794,1797), this.next)",
+"8" :  "(1794,1795, this.next)",
+"9" :  "(1794,1795, this.val$matcher)"}]
+}

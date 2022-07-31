@@ -1,0 +1,16 @@
+{
+"Class" : "edu.stanford.nlp.examples.TokensRegexExample", 
+"Methods" : [{ "Name" : "main" ,
+"Duas" : 11,
+"0" :  "(12,27, out)",
+"1" :  "(12,22, props)",
+"2" :  "(12,23, props)",
+"3" :  "(15,(16,17), rules)",
+"4" :  "(15,(16,19), rules)",
+"5" :  "(15,(19,20), rules)",
+"6" :  "(15,(19,22), rules)",
+"7" :  "(15,22, rules)",
+"8" :  "(17,(19,20), rules)",
+"9" :  "(17,(19,22), rules)",
+"10" :  "(17,22, rules)"}]
+}

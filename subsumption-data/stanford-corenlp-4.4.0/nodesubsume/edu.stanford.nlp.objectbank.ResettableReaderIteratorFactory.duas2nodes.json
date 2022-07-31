@@ -1,0 +1,18 @@
+{
+"Class" : "edu.stanford.nlp.objectbank.ResettableReaderIteratorFactory", 
+"Methods" : [{ "Name" : "iterator" ,
+"Nodes" : 8,
+"Duas" : 12,
+"0" :  [ 0,2 ],
+"1" :  [ 0,2 ],
+"2" :  [ 0,6 ],
+"3" :  [ 0,6 ],
+"4" :  [ 0,2 ],
+"5" :  [ 0,4 ],
+"6" :  [ 0,6 ],
+"7" :  [ 3,6 ],
+"8" :  [ 3,4 ],
+"9" :  [ 3,4 ],
+"10" :  [ 3,6 ],
+"11" :  [ 3,6 ]}]
+}

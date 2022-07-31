@@ -1,0 +1,17 @@
+{
+"Class" : "edu.stanford.nlp.parser.lexparser.HungarianTreebankParserParams", 
+"Methods" : [{ "Name" : "treeReaderFactory" ,
+"Nodes" : 4,
+"0" : [ 101 ],
+"1" : [ 104 ],
+"2" : [ 102 ],
+"3" : [  ]
+},{ "Name" : "defaultTestSentence" ,
+"Nodes" : 5,
+"0" : [ 117,118,119 ],
+"1" : [ 119 ],
+"2" : [ 122 ],
+"3" : [ 119,120 ],
+"4" : [  ]
+}]
+}

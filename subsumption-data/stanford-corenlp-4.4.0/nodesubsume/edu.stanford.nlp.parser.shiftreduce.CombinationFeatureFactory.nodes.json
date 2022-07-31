@@ -1,0 +1,11 @@
+{
+"Class" : "edu.stanford.nlp.parser.shiftreduce.CombinationFeatureFactory", 
+"Methods" : [{ "Name" : "featurize" ,
+"Nodes" : 5,
+"0" : [ 19 ],
+"1" : [ 19 ],
+"2" : [ 22 ],
+"3" : [ 19,20 ],
+"4" : [  ]
+}]
+}

@@ -1,0 +1,22 @@
+{
+"Class" : "edu.stanford.nlp.ling.WordTagFactory", 
+"Methods" : [{ "Name" : "newLabel" ,
+"Nodes" : 4,
+"0" : [ 62 ],
+"1" : [ 65 ],
+"2" : [ 63 ],
+"3" : [  ]
+},{ "Name" : "newLabelFromString" ,
+"Nodes" : 4,
+"0" : [ 83,84 ],
+"1" : [ 87 ],
+"2" : [ 85 ],
+"3" : [  ]
+},{ "Name" : "newLabel" ,
+"Nodes" : 4,
+"0" : [ 102 ],
+"1" : [ 105 ],
+"2" : [ 103 ],
+"3" : [  ]
+}]
+}

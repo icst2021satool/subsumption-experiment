@@ -1,0 +1,15 @@
+{
+"Class" : "edu.stanford.nlp.trees.tregex.Relation$24", 
+"Methods" : [{ "Name" : "satisfies" ,
+"Nodes" : 7,
+"0" : [ ],
+"2" : [ 4],
+"3" : [ 4, 7, 8],
+"4" : [ 0, 2, 3, 4, 7, 8, 9, 10, 12, 13],
+"5" : [ 1, 4, 7, 8, 11],
+"1" : [ ],
+"6" : [ ],
+"CoveredDUAsByNodes" : 12,
+"Duas" : 14
+}]
+}

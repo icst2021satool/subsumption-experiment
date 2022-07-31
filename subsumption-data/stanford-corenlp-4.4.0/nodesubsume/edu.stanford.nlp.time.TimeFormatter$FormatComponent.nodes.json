@@ -1,0 +1,21 @@
+{
+"Class" : "edu.stanford.nlp.time.TimeFormatter$FormatComponent", 
+"Methods" : [{ "Name" : "appendQuantifier" ,
+"Nodes" : 5,
+"0" : [ 250 ],
+"1" : [ 253 ],
+"2" : [ 255 ],
+"3" : [ 251 ],
+"4" : [  ]
+},{ "Name" : "appendRegex" ,
+"Nodes" : 8,
+"0" : [ 258 ],
+"1" : [ 261,262 ],
+"2" : [ 265 ],
+"3" : [ 268 ],
+"4" : [ 266 ],
+"5" : [ 263 ],
+"6" : [ 259 ],
+"7" : [  ]
+}]
+}

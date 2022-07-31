@@ -1,0 +1,11 @@
+{
+"Class" : "edu.stanford.nlp.optimization.ScaledSGDMinimizer$lagrange", 
+"Methods" : [{ "Name" : "applyAsDouble" ,
+"Nodes" : 5,
+"0" : [ 324,325 ],
+"1" : [ 325 ],
+"2" : [ 330,331 ],
+"3" : [ 325,326,327 ],
+"4" : [  ]
+}]
+}

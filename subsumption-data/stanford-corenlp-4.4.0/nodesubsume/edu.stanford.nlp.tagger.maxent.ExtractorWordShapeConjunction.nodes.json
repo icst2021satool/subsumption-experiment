@@ -1,0 +1,13 @@
+{
+"Class" : "edu.stanford.nlp.tagger.maxent.ExtractorWordShapeConjunction", 
+"Methods" : [{ "Name" : "extract" ,
+"Nodes" : 7,
+"0" : [ 769,770 ],
+"1" : [ 770 ],
+"2" : [ 777 ],
+"3" : [ 771,772,773 ],
+"4" : [ 770 ],
+"5" : [ 774 ],
+"6" : [  ]
+}]
+}

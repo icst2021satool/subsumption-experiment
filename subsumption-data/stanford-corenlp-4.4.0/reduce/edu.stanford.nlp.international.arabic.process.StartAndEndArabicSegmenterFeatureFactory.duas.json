@@ -1,0 +1,20 @@
+{
+"Class" : "edu.stanford.nlp.international.arabic.process.StartAndEndArabicSegmenterFeatureFactory", 
+"Methods" : [{ "Name" : "featuresCpC" ,
+"Duas" : 15,
+"0" :  "(27,45, features)",
+"1" :  "(27,41, features)",
+"2" :  "(27,38, features)",
+"3" :  "(29,(34,35), c)",
+"4" :  "(29,(34,45), c)",
+"5" :  "(29,35, c)",
+"6" :  "(29,36, c)",
+"7" :  "(29,(37,38), c)",
+"8" :  "(29,(37,40), c)",
+"9" :  "(29,(40,41), c)",
+"10" :  "(29,(40,45), c)",
+"11" :  "(35,41, start)",
+"12" :  "(35,38, start)",
+"13" :  "(36,41, end)",
+"14" :  "(36,38, end)"}]
+}

@@ -1,0 +1,12 @@
+{
+"Class" : "edu.stanford.nlp.patterns.DataInstance", 
+"Methods" : [{ "Name" : "getNewInstance" ,
+"Nodes" : 6,
+"0" : [ 24 ],
+"1" : [ 26 ],
+"2" : [ 29 ],
+"3" : [ 27 ],
+"4" : [ 25 ],
+"5" : [  ]
+}]
+}

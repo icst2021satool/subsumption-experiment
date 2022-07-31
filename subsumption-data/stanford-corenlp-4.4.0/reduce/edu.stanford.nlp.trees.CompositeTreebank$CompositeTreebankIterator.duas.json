@@ -1,0 +1,21 @@
+{
+"Class" : "edu.stanford.nlp.trees.CompositeTreebank$CompositeTreebankIterator", 
+"Methods" : [{ "Name" : "hasNext" ,
+"Duas" : 8,
+"0" :  "(56,(56,56), this)",
+"1" :  "(56,(56,56), this)",
+"2" :  "(56,(56,56), this)",
+"3" :  "(56,(56,56), this)",
+"4" :  "(56,(56,56), this.it1)",
+"5" :  "(56,(56,56), this.it1)",
+"6" :  "(56,(56,56), this.it2)",
+"7" :  "(56,(56,56), this.it2)"},{ "Name" : "next" ,
+"Duas" : 7,
+"0" :  "(60,(60,60), this)",
+"1" :  "(60,(60,60), this)",
+"2" :  "(60,60, this)",
+"3" :  "(60,(60,60), this.it1)",
+"4" :  "(60,(60,60), this.it1)",
+"5" :  "(60,60, this.it1)",
+"6" :  "(60,60, this.it2)"}]
+}

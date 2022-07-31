@@ -1,0 +1,12 @@
+{
+"Class" : "edu.stanford.nlp.pipeline.CoreMapAttributeAggregator$2", 
+"Methods" : [{ "Name" : "aggregate" ,
+"Nodes" : 6,
+"0" : [ 46 ],
+"1" : [ 47 ],
+"2" : [ 51 ],
+"3" : [ 48,49,47 ],
+"4" : [ 46 ],
+"5" : [  ]
+}]
+}

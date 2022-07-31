@@ -1,0 +1,13 @@
+{
+"Class" : "edu.stanford.nlp.parser.lexparser.ChineseTreebankParserParams$1", 
+"Methods" : [{ "Name" : "formResult" ,
+"Nodes" : 7,
+"0" : [ 1195,1196,1197 ],
+"1" : [ 1200,1202 ],
+"2" : [ 1202 ],
+"3" : [ 1205 ],
+"4" : [ 1202,1203,1204 ],
+"5" : [ 1198 ],
+"6" : [  ]
+}]
+}

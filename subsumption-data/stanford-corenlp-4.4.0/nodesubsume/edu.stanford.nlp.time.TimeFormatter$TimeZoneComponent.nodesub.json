@@ -1,0 +1,38 @@
+{
+"Class" : "edu.stanford.nlp.time.TimeFormatter$TimeZoneComponent", 
+"Methods" : [{ "Name" : "<init>" ,
+"Nodes" : 4,
+"0" : [ ],
+"2" : [ 0, 1],
+"1" : [ ],
+"3" : [ ],
+"CoveredDUAsByNodes" : 2,
+"Duas" : 3
+},{ "Name" : "updateTimeZoneNames" ,
+"Nodes" : 5,
+"0" : [ ],
+"1" : [ ],
+"2" : [ 0, 1, 2, 7, 8, 9, 14, 15],
+"4" : [ 0, 1, 2, 7, 8, 9, 14, 15],
+"3" : [ 16, 17, 18, 3, 19, 4, 5, 6, 10, 11, 12, 13],
+"CoveredDUAsByNodes" : 20,
+"Duas" : 20
+},{ "Name" : "parseDateTimeZone" ,
+"Nodes" : 5,
+"0" : [ ],
+"2" : [ 0],
+"3" : [ 0, 3, 4],
+"1" : [ ],
+"4" : [ ],
+"CoveredDUAsByNodes" : 3,
+"Duas" : 5
+},{ "Name" : "updateTemporal" ,
+"Nodes" : 4,
+"0" : [ ],
+"1" : [ 1, 4],
+"2" : [ 0, 2, 3, 5],
+"3" : [ ],
+"CoveredDUAsByNodes" : 6,
+"Duas" : 6
+}]
+}

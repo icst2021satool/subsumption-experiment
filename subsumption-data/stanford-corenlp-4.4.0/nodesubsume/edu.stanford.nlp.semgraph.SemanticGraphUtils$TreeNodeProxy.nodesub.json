@@ -1,0 +1,15 @@
+{
+"Class" : "edu.stanford.nlp.semgraph.SemanticGraphUtils$TreeNodeProxy", 
+"Methods" : [{ "Name" : "create" ,
+"Nodes" : 7,
+"0" : [ ],
+"1" : [ 1, 2],
+"2" : [ 1, 2],
+"4" : [ 1, 2, 3, 5, 8],
+"5" : [ 0, 4, 6, 9],
+"3" : [ 7],
+"6" : [ 7],
+"CoveredDUAsByNodes" : 10,
+"Duas" : 10
+}]
+}

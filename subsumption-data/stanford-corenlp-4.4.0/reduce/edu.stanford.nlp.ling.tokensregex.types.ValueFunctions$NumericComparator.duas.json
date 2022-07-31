@@ -1,0 +1,13 @@
+{
+"Class" : "edu.stanford.nlp.ling.tokensregex.types.ValueFunctions$NumericComparator", 
+"Methods" : [{ "Name" : "compare" ,
+"Duas" : 8,
+"0" :  "(721,(721,721), o1)",
+"1" :  "(721,(721,724), o1)",
+"2" :  "(721,724, o1)",
+"3" :  "(721,722, o1)",
+"4" :  "(721,724, o2)",
+"5" :  "(721,(721,722), o2)",
+"6" :  "(721,(721,724), o2)",
+"7" :  "(721,722, o2)"}]
+}

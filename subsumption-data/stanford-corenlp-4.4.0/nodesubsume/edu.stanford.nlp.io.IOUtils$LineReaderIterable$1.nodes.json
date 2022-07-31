@@ -1,0 +1,17 @@
+{
+"Class" : "edu.stanford.nlp.io.IOUtils$LineReaderIterable$1", 
+"Methods" : [{ "Name" : "hasNext" ,
+"Nodes" : 5,
+"0" : [ 895 ],
+"1" : [ 895 ],
+"2" : [ 895 ],
+"3" : [ 895 ],
+"4" : [  ]
+},{ "Name" : "next" ,
+"Nodes" : 4,
+"0" : [ 900,901 ],
+"1" : [ 904,905 ],
+"2" : [ 902 ],
+"3" : [  ]
+}]
+}

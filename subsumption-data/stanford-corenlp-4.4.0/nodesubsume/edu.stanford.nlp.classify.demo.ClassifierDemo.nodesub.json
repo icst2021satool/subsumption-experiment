@@ -1,0 +1,33 @@
+{
+"Class" : "edu.stanford.nlp.classify.demo.ClassifierDemo", 
+"Methods" : [{ "Name" : "main" ,
+"Nodes" : 7,
+"0" : [ ],
+"5" : [ 0, 2, 7],
+"1" : [ 8, 9, 10],
+"2" : [ 8, 9, 10],
+"3" : [ 19, 8, 9, 10, 11, 12, 13],
+"6" : [ 19, 8, 9, 10, 11, 12, 13],
+"4" : [ 20, 21, 22, 8, 9, 10, 14],
+"CoveredDUAsByNodes" : 14,
+"Duas" : 23
+},{ "Name" : "demonstrateSerialization" ,
+"Nodes" : 5,
+"0" : [ ],
+"1" : [ ],
+"2" : [ ],
+"4" : [ ],
+"3" : [ 0, 1, 2, 3, 4, 5, 6, 7],
+"CoveredDUAsByNodes" : 8,
+"Duas" : 8
+},{ "Name" : "demonstrateSerializationColumnDataClassifier" ,
+"Nodes" : 5,
+"0" : [ ],
+"1" : [ ],
+"2" : [ ],
+"4" : [ ],
+"3" : [ 0, 1, 2, 3, 4, 5, 6, 7],
+"CoveredDUAsByNodes" : 8,
+"Duas" : 8
+}]
+}

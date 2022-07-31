@@ -1,0 +1,11 @@
+{
+"Class" : "edu.stanford.nlp.ling.tokensregex.ComplexNodePattern$IntegerAnnotationPattern", 
+"Methods" : [{ "Name" : "match" ,
+"Duas" : 6,
+"0" :  "(459,(459,459), this)",
+"1" :  "(459,(459,459), this)",
+"2" :  "(459,(459,459), node)",
+"3" :  "(459,(459,459), node)",
+"4" :  "(459,(459,459), this.value)",
+"5" :  "(459,(459,459), this.value)"}]
+}

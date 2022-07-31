@@ -1,0 +1,10 @@
+{
+"Class" : "edu.stanford.nlp.parser.lexparser.LatticeEdge", 
+"Methods" : [{ "Name" : "toString" ,
+"Nodes" : 4,
+"0" : [ 37,38,39,40 ],
+"1" : [ 42 ],
+"2" : [ 41 ],
+"3" : [  ]
+}]
+}

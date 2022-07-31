@@ -1,0 +1,7 @@
+{
+"Class" : "edu.stanford.nlp.ling.tokensregex.types.ValueFunctions$10", 
+"Methods" : [{ "Name" : "compute" ,
+"Duas" : 2,
+"0" :  "(344,(345,345), b)",
+"1" :  "(344,(345,344), b)"}]
+}

@@ -1,0 +1,11 @@
+{
+"Class" : "edu.stanford.nlp.trees.GrammaticalStructureConversionUtils$LazyLoadTreesByParsing", 
+"Methods" : [{ "Name" : "iterator" ,
+"Nodes" : 5,
+"0" : [ 931 ],
+"1" : [ 935,938 ],
+"2" : [ 941 ],
+"3" : [ 932 ],
+"4" : [  ]
+}]
+}

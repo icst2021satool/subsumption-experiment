@@ -1,0 +1,19 @@
+{
+"Class" : "edu.stanford.nlp.ling.AnnotationLookup", 
+"Methods" : [{ "Name" : "toCoreKey" ,
+"Nodes" : 7,
+"0" : [ 135 ],
+"1" : [ 135 ],
+"2" : [ 140 ],
+"3" : [ 135,136 ],
+"4" : [ 135 ],
+"5" : [ 137 ],
+"6" : [  ]
+},{ "Name" : "getValueType" ,
+"Nodes" : 4,
+"0" : [ 154,155 ],
+"1" : [ 163 ],
+"2" : [ 160,161,157 ],
+"3" : [  ]
+}]
+}

@@ -1,0 +1,9 @@
+{
+"Class" : "edu.stanford.nlp.coref.hybrid.rf.DecisionTreeNode", 
+"Methods" : [{ "Name" : "isLeaf" ,
+"Duas" : 4,
+"0" :  "(31,(31,31), this)",
+"1" :  "(31,(31,31), this)",
+"2" :  "(31,(31,31), this.children)",
+"3" :  "(31,(31,31), this.children)"}]
+}

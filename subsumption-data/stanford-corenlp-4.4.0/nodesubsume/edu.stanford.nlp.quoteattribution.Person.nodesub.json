@@ -1,0 +1,18 @@
+{
+"Class" : "edu.stanford.nlp.quoteattribution.Person", 
+"Methods" : [{ "Name" : "<init>" ,
+"Nodes" : 10,
+"0" : [ ],
+"1" : [ 8],
+"2" : [ 0, 16, 8, 10],
+"7" : [ 4, 8, 9, 15],
+"8" : [ 5, 7, 14],
+"3" : [ ],
+"4" : [ 1, 12],
+"6" : [ 3, 11, 13],
+"5" : [ 2, 6],
+"9" : [ 2, 6],
+"CoveredDUAsByNodes" : 17,
+"Duas" : 19
+}]
+}

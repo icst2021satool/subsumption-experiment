@@ -1,0 +1,15 @@
+{
+"Class" : "edu.stanford.nlp.tagger.maxent.ExtractorDistsimConjunction", 
+"Methods" : [{ "Name" : "extract" ,
+"Nodes" : 7,
+"0" : [ ],
+"1" : [ ],
+"2" : [ 1, 8, 12],
+"6" : [ 1, 8, 12],
+"3" : [ 0, 17, 2, 5, 6, 7, 11, 13, 15],
+"5" : [ 0, 17, 2, 3, 5, 6, 7, 9, 11, 13, 14, 15],
+"4" : [ 0, 17, 2, 20, 5, 6, 7, 11, 13, 15],
+"CoveredDUAsByNodes" : 16,
+"Duas" : 27
+}]
+}

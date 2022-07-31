@@ -1,0 +1,10 @@
+{
+"Class" : "edu.stanford.nlp.ling.tokensregex.NodePattern", 
+"Methods" : [{ "Name" : "matchWithResult" ,
+"Duas" : 5,
+"0" :  "(36,(36,36), this)",
+"1" :  "(36,(36,37), this)",
+"2" :  "(36,(36,36), node)",
+"3" :  "(36,(36,37), node)",
+"4" :  "(36,36, TRUE)"}]
+}

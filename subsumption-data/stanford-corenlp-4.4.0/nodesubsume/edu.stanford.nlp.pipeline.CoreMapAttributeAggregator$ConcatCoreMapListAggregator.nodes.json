@@ -1,0 +1,19 @@
+{
+"Class" : "edu.stanford.nlp.pipeline.CoreMapAttributeAggregator$ConcatCoreMapListAggregator", 
+"Methods" : [{ "Name" : "aggregate" ,
+"Nodes" : 13,
+"0" : [ 109 ],
+"1" : [ 110,111 ],
+"2" : [ 111 ],
+"3" : [ 124 ],
+"4" : [ 112,113,114,111 ],
+"5" : [ 120 ],
+"6" : [ 123 ],
+"7" : [ 120 ],
+"8" : [ 121 ],
+"9" : [ 115 ],
+"10" : [ 116,117 ],
+"11" : [ 109 ],
+"12" : [  ]
+}]
+}

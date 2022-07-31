@@ -1,0 +1,11 @@
+{
+"Class" : "edu.stanford.nlp.naturalli.ForwardEntailer", 
+"Methods" : [{ "Name" : "apply" ,
+"Duas" : "10" ,
+"Subsumers" : 4,
+"0" : [ 5, 4, 3, 2, 1, 0], "S0" : [0, 1, 2, 3, 4, 5 ],
+"1" : [ 8], "S1" : [6, 8 ],
+"2" : [ 9], "S2" : [6, 9 ],
+"3" : [ 7], "S3" : [7 ]
+}]
+}

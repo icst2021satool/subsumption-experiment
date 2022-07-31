@@ -1,0 +1,8 @@
+{
+"Class" : "edu.stanford.nlp.trees.international.arabic.ArabicHeadFinder$TagSet", 
+"Methods" : [{ "Name" : "tagSet" ,
+"Duas" : 3,
+"0" :  "(74,80, str)",
+"1" :  "(74,76, BIES_COLLAPSED)",
+"2" :  "(74,78, ORIGINAL)"}]
+}

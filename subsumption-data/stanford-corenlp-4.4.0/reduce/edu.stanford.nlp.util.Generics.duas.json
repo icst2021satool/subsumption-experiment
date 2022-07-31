@@ -1,0 +1,22 @@
+{
+"Class" : "edu.stanford.nlp.util.Generics", 
+"Methods" : [{ "Name" : "getHashSetClass" ,
+"Duas" : 3,
+"0" :  "(105,(105,106), HASH_SET_CLASSNAME)",
+"1" :  "(105,(105,108), HASH_SET_CLASSNAME)",
+"2" :  "(105,108, HASH_SET_CLASSNAME)"},{ "Name" : "newHashSet" ,
+"Duas" : 4,
+"0" :  "(143,147, initialCapacity)",
+"1" :  "(143,(143,144), HASH_SET_SIZE_CONSTRUCTOR)",
+"2" :  "(143,(143,147), HASH_SET_SIZE_CONSTRUCTOR)",
+"3" :  "(143,147, HASH_SET_SIZE_CONSTRUCTOR)"},{ "Name" : "getHashMapClass" ,
+"Duas" : 3,
+"0" :  "(169,(169,170), HASH_MAP_CLASSNAME)",
+"1" :  "(169,(169,172), HASH_MAP_CLASSNAME)",
+"2" :  "(169,172, HASH_MAP_CLASSNAME)"},{ "Name" : "newHashMap" ,
+"Duas" : 4,
+"0" :  "(208,212, initialCapacity)",
+"1" :  "(208,(208,209), HASH_MAP_SIZE_CONSTRUCTOR)",
+"2" :  "(208,(208,212), HASH_MAP_SIZE_CONSTRUCTOR)",
+"3" :  "(208,212, HASH_MAP_SIZE_CONSTRUCTOR)"}]
+}

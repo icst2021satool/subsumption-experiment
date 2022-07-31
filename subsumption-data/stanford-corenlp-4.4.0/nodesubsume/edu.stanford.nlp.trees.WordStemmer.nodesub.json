@@ -1,0 +1,26 @@
+{
+"Class" : "edu.stanford.nlp.trees.WordStemmer", 
+"Methods" : [{ "Name" : "processTree" ,
+"Nodes" : 9,
+"0" : [ ],
+"7" : [ 0, 6],
+"1" : [ ],
+"2" : [ 3, 4],
+"3" : [ 3, 4],
+"5" : [ 3, 4, 9],
+"6" : [ 2, 5, 10],
+"4" : [ ],
+"8" : [ ],
+"CoveredDUAsByNodes" : 8,
+"Duas" : 13
+},{ "Name" : "main" ,
+"Nodes" : 5,
+"0" : [ ],
+"1" : [ ],
+"2" : [ ],
+"4" : [ ],
+"3" : [ 0, 1],
+"CoveredDUAsByNodes" : 2,
+"Duas" : 2
+}]
+}

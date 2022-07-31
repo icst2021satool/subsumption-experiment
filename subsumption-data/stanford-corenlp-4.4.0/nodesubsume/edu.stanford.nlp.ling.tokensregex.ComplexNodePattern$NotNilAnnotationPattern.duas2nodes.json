@@ -1,0 +1,8 @@
+{
+"Class" : "edu.stanford.nlp.ling.tokensregex.ComplexNodePattern$NotNilAnnotationPattern", 
+"Methods" : [{ "Name" : "match" ,
+"Nodes" : 5,
+"Duas" : 2,
+"0" :  [ 0,3 ],
+"1" :  [ 0,1 ]}]
+}

@@ -1,0 +1,13 @@
+{
+"Class" : "edu.stanford.nlp.parser.lexparser.CNFTransformers", 
+"Methods" : [{ "Name" : "main" ,
+"Nodes" : 5,
+"0" : [ ],
+"1" : [ ],
+"2" : [ ],
+"4" : [ ],
+"3" : [ 0, 1, 2, 3],
+"CoveredDUAsByNodes" : 4,
+"Duas" : 4
+}]
+}

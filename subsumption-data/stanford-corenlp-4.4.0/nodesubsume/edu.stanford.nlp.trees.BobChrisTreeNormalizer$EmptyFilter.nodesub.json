@@ -1,0 +1,17 @@
+{
+"Class" : "edu.stanford.nlp.trees.BobChrisTreeNormalizer$EmptyFilter", 
+"Methods" : [{ "Name" : "test" ,
+"Nodes" : 9,
+"0" : [ ],
+"3" : [ 6],
+"4" : [ 6, 8],
+"5" : [ 0, 6, 8],
+"6" : [ 0, 2, 6, 8],
+"7" : [ 0, 2, 5, 6, 8],
+"1" : [ ],
+"2" : [ ],
+"8" : [ ],
+"CoveredDUAsByNodes" : 5,
+"Duas" : 10
+}]
+}

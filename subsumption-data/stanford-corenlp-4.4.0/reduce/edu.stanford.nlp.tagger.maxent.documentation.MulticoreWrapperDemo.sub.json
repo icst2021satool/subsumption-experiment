@@ -1,0 +1,11 @@
+{
+"Class" : "edu.stanford.nlp.tagger.maxent.documentation.MulticoreWrapperDemo", 
+"Methods" : [{ "Name" : "main" ,
+"Duas" : "19" ,
+"Subsumers" : 4,
+"0" : [ 3, 0], "S0" : [0, 2, 3, 4, 7, 9, 15, 17 ],
+"1" : [ 1], "S1" : [1, 2, 4, 7, 9, 15, 17 ],
+"2" : [ 10, 8, 5], "S2" : [2, 4, 5, 7, 8, 9, 10, 15, 17 ],
+"3" : [ 14, 12, 6], "S3" : [2, 4, 6, 7, 9, 11, 12, 13, 14, 15, 16, 17, 18 ]
+}]
+}

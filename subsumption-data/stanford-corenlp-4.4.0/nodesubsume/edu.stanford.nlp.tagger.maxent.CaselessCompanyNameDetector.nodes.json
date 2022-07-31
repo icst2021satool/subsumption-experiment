@@ -1,0 +1,20 @@
+{
+"Class" : "edu.stanford.nlp.tagger.maxent.CaselessCompanyNameDetector", 
+"Methods" : [{ "Name" : "<init>" ,
+"Nodes" : 5,
+"0" : [ 741,742,743,744 ],
+"1" : [ 744 ],
+"2" : [ 747 ],
+"3" : [ 744,745,746 ],
+"4" : [  ]
+},{ "Name" : "extract" ,
+"Nodes" : 7,
+"0" : [ 755 ],
+"1" : [ 755 ],
+"2" : [ 761 ],
+"3" : [ 756,757 ],
+"4" : [ 755 ],
+"5" : [ 758 ],
+"6" : [  ]
+}]
+}

@@ -1,0 +1,11 @@
+{
+"Class" : "edu.stanford.nlp.trees.international.french.FrenchTreeNormalizer$1", 
+"Methods" : [{ "Name" : "test" ,
+"Duas" : 6,
+"0" :  "(48,(48,48), tree)",
+"1" :  "(48,(48,51), tree)",
+"2" :  "(48,(48,48), tree)",
+"3" :  "(48,(48,49), tree)",
+"4" :  "(48,(48,49), tree)",
+"5" :  "(48,(48,51), tree)"}]
+}

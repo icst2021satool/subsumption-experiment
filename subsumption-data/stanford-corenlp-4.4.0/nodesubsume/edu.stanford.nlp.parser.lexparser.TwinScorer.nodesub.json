@@ -1,0 +1,34 @@
+{
+"Class" : "edu.stanford.nlp.parser.lexparser.TwinScorer", 
+"Methods" : [{ "Name" : "oPossible" ,
+"Nodes" : 6,
+"0" : [ ],
+"3" : [ 0, 4, 8],
+"1" : [ ],
+"4" : [ 0, 2, 4, 6, 8, 10],
+"2" : [ ],
+"5" : [ ],
+"CoveredDUAsByNodes" : 6,
+"Duas" : 12
+},{ "Name" : "iPossible" ,
+"Nodes" : 6,
+"0" : [ ],
+"3" : [ 0, 4, 8],
+"1" : [ ],
+"4" : [ 0, 2, 4, 6, 8, 10],
+"2" : [ ],
+"5" : [ ],
+"CoveredDUAsByNodes" : 6,
+"Duas" : 12
+},{ "Name" : "parse" ,
+"Nodes" : 6,
+"0" : [ ],
+"3" : [ 0],
+"1" : [ ],
+"4" : [ 0, 2],
+"2" : [ ],
+"5" : [ ],
+"CoveredDUAsByNodes" : 2,
+"Duas" : 4
+}]
+}

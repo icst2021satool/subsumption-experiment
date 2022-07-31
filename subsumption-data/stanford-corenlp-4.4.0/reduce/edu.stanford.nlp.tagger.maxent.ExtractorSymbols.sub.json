@@ -1,0 +1,9 @@
+{
+"Class" : "edu.stanford.nlp.tagger.maxent.ExtractorSymbols", 
+"Methods" : [{ "Name" : "extract" ,
+"Duas" : "2" ,
+"Subsumers" : 2,
+"0" : [ 0], "S0" : [0 ],
+"1" : [ 1], "S1" : [1 ]
+}]
+}

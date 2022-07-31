@@ -1,0 +1,14 @@
+{
+"Class" : "edu.stanford.nlp.optimization.HybridMinimizer", 
+"Methods" : [{ "Name" : "setEvaluators" ,
+"Nodes" : 6,
+"0" : [ ],
+"4" : [ 0, 5, 7, 9, 10, 12],
+"1" : [ ],
+"3" : [ 2, 4, 6, 8, 13, 15],
+"2" : [ ],
+"5" : [ ],
+"CoveredDUAsByNodes" : 12,
+"Duas" : 16
+}]
+}

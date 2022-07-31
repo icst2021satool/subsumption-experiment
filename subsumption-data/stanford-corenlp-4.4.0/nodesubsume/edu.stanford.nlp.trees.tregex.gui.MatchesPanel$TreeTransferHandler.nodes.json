@@ -1,0 +1,17 @@
+{
+"Class" : "edu.stanford.nlp.trees.tregex.gui.MatchesPanel$TreeTransferHandler", 
+"Methods" : [{ "Name" : "exportString" ,
+"Nodes" : 11,
+"0" : [ 403,404,405,406 ],
+"1" : [ 406 ],
+"2" : [ 418 ],
+"3" : [ 406,407,408,409 ],
+"4" : [ 410 ],
+"5" : [ 417 ],
+"6" : [ 409 ],
+"7" : [ 413 ],
+"8" : [ 413 ],
+"9" : [ 413,414 ],
+"10" : [  ]
+}]
+}

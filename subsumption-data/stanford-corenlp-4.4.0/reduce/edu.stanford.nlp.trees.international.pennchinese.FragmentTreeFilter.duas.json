@@ -1,0 +1,9 @@
+{
+"Class" : "edu.stanford.nlp.trees.international.pennchinese.FragmentTreeFilter", 
+"Methods" : [{ "Name" : "test" ,
+"Duas" : 4,
+"0" :  "(46,(47,48), tree)",
+"1" :  "(46,(47,46), tree)",
+"2" :  "(46,(47,48), pattern)",
+"3" :  "(46,(47,46), pattern)"}]
+}

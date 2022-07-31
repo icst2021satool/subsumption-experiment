@@ -1,0 +1,14 @@
+{
+"Class" : "edu.stanford.nlp.util.XMLUtils$SAXErrorHandler", 
+"Methods" : [{ "Name" : "makeBetterErrorString" ,
+"Nodes" : 8,
+"0" : [ 1238,1239,1240,1241 ],
+"1" : [ 1244,1245,1246,1247 ],
+"2" : [ 1249 ],
+"3" : [ 1252,1253 ],
+"4" : [ 1250 ],
+"5" : [ 1248 ],
+"6" : [ 1242 ],
+"7" : [  ]
+}]
+}

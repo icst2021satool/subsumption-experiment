@@ -1,0 +1,12 @@
+{
+"Class" : "edu.stanford.nlp.io.IOUtils$GetLinesIterable", 
+"Methods" : [{ "Name" : "getStream" ,
+"Nodes" : 6,
+"0" : [ 764 ],
+"1" : [ 766 ],
+"2" : [ 769 ],
+"3" : [ 767 ],
+"4" : [ 765 ],
+"5" : [  ]
+}]
+}

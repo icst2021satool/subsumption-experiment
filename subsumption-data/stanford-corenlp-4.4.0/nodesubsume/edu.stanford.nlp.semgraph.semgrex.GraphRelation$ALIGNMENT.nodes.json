@@ -1,0 +1,12 @@
+{
+"Class" : "edu.stanford.nlp.semgraph.semgrex.GraphRelation$ALIGNMENT", 
+"Methods" : [{ "Name" : "satisfies" ,
+"Nodes" : 6,
+"0" : [ 114 ],
+"1" : [ 115 ],
+"2" : [ 118 ],
+"3" : [ 116 ],
+"4" : [ 114 ],
+"5" : [  ]
+}]
+}

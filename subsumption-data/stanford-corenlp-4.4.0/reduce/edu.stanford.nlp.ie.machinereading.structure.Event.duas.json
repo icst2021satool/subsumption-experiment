@@ -1,0 +1,17 @@
+{
+"Class" : "edu.stanford.nlp.ie.machinereading.structure.Event", 
+"Methods" : [{ "Name" : "addEntity" ,
+"Duas" : 8,
+"0" :  "(19,22, this)",
+"1" :  "(19,22, event)",
+"2" :  "(19,24, em)",
+"3" :  "(19,22, this.eventToEventMentions)",
+"4" :  "(19,(20,21), mentions)",
+"5" :  "(19,(20,24), mentions)",
+"6" :  "(19,24, mentions)",
+"7" :  "(21,24, mentions)"},{ "Name" : "getEventMentions" ,
+"Duas" : 3,
+"0" :  "(28,(29,29), retVal)",
+"1" :  "(28,(29,29), retVal)",
+"2" :  "(28,29, retVal)"}]
+}

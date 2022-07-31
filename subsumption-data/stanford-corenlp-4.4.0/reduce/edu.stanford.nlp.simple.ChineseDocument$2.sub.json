@@ -1,0 +1,10 @@
+{
+"Class" : "edu.stanford.nlp.simple.ChineseDocument$2", 
+"Methods" : [{ "Name" : "<init>" ,
+"Duas" : "7" ,
+"Subsumers" : 3,
+"0" : [ 5], "S0" : [0, 1, 2, 3, 5 ],
+"1" : [ 6], "S1" : [0, 1, 2, 3, 6 ],
+"2" : [ 4], "S2" : [0, 1, 2, 4 ]
+}]
+}

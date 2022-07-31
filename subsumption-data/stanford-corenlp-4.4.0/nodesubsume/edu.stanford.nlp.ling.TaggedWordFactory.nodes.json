@@ -1,0 +1,16 @@
+{
+"Class" : "edu.stanford.nlp.ling.TaggedWordFactory", 
+"Methods" : [{ "Name" : "newLabel" ,
+"Nodes" : 4,
+"0" : [ 61 ],
+"1" : [ 64 ],
+"2" : [ 62 ],
+"3" : [  ]
+},{ "Name" : "newLabelFromString" ,
+"Nodes" : 4,
+"0" : [ 81,82 ],
+"1" : [ 85 ],
+"2" : [ 83 ],
+"3" : [  ]
+}]
+}

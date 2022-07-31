@@ -1,0 +1,21 @@
+{
+"Class" : "edu.stanford.nlp.parser.lexparser.ExhaustivePCFGParser$Vertex", 
+"Methods" : [{ "Name" : "equals" ,
+"Nodes" : 9,
+"0" : [ 1905 ],
+"1" : [ 1906,1907 ],
+"2" : [ 1907 ],
+"3" : [ 1907 ],
+"4" : [ 1907 ],
+"5" : [ 1907 ],
+"6" : [ 1907 ],
+"7" : [ 1905 ],
+"8" : [  ]
+},{ "Name" : "hashCode" ,
+"Nodes" : 4,
+"0" : [ 1913 ],
+"1" : [ 1916 ],
+"2" : [ 1914 ],
+"3" : [  ]
+}]
+}

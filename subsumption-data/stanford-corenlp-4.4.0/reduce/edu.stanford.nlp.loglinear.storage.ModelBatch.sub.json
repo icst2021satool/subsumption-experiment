@@ -1,0 +1,15 @@
+{
+"Class" : "edu.stanford.nlp.loglinear.storage.ModelBatch", 
+"Methods" : [{ "Name" : "readFrom" ,
+"Duas" : "6" ,
+"Subsumers" : 0 
+},{ "Name" : "writeToStream" ,
+"Duas" : "1" ,
+"Subsumers" : 1,
+"0" : [ 0], "S0" : [0 ]
+},{ "Name" : "writeToStreamWithoutFactors" ,
+"Duas" : "2" ,
+"Subsumers" : 1,
+"0" : [ 1, 0], "S0" : [0, 1 ]
+}]
+}

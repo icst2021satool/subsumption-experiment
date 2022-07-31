@@ -1,0 +1,11 @@
+{
+"Class" : "edu.stanford.nlp.trees.tregex.tsurgeon.AdjoinNode", 
+"Methods" : [{ "Name" : "<init>" ,
+"Nodes" : 5,
+"0" : [ 21,22 ],
+"1" : [ 23 ],
+"2" : [ 22 ],
+"3" : [ 25,26 ],
+"4" : [  ]
+}]
+}

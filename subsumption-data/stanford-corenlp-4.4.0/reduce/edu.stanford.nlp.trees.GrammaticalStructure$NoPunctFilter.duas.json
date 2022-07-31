@@ -1,0 +1,13 @@
+{
+"Class" : "edu.stanford.nlp.trees.GrammaticalStructure$NoPunctFilter", 
+"Methods" : [{ "Name" : "test" ,
+"Duas" : 8,
+"0" :  "(629,636, this)",
+"1" :  "(629,(629,630), d)",
+"2" :  "(629,(629,632), d)",
+"3" :  "(629,632, d)",
+"4" :  "(629,636, this.npf)",
+"5" :  "(632,(633,634), lab)",
+"6" :  "(632,(633,636), lab)",
+"7" :  "(632,636, lab)"}]
+}

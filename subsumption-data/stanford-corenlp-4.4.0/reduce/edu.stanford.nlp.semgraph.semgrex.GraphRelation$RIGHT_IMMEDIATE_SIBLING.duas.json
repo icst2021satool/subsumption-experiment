@@ -1,0 +1,9 @@
+{
+"Class" : "edu.stanford.nlp.semgraph.semgrex.GraphRelation$RIGHT_IMMEDIATE_SIBLING", 
+"Methods" : [{ "Name" : "satisfiesOrder" ,
+"Duas" : 4,
+"0" :  "(877,(877,877), l1)",
+"1" :  "(877,(877,877), l1)",
+"2" :  "(877,(877,877), l2)",
+"3" :  "(877,(877,877), l2)"}]
+}

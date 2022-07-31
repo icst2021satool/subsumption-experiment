@@ -1,0 +1,20 @@
+{
+"Class" : "edu.stanford.nlp.classify.SVMLightClassifier", 
+"Methods" : [{ "Name" : "logProbabilityOf" ,
+"Nodes" : 4,
+"0" : [ ],
+"1" : [ 1, 2, 3, 4, 6, 7],
+"2" : [ 0, 5],
+"3" : [ ],
+"CoveredDUAsByNodes" : 8,
+"Duas" : 8
+},{ "Name" : "logProbabilityOf" ,
+"Nodes" : 4,
+"0" : [ ],
+"1" : [ 1, 2, 3, 4, 6, 7],
+"2" : [ 0, 5],
+"3" : [ ],
+"CoveredDUAsByNodes" : 8,
+"Duas" : 8
+}]
+}

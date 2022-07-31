@@ -1,0 +1,22 @@
+{
+"Class" : "edu.stanford.nlp.classify.LinearClassifierFactory$LinearClassifierCreator", 
+"Methods" : [{ "Name" : "createLinearClassifier" ,
+"Nodes" : 5,
+"Duas" : 16,
+"0" :  [ 0,3 ],
+"1" :  [ 0,1 ],
+"2" :  [ 0,1 ],
+"3" :  [ 0,2 ],
+"4" :  [ 0,3 ],
+"5" :  [ 0,1 ],
+"6" :  [ 0,3 ],
+"7" :  [ 0,3 ],
+"8" :  [ 0,1 ],
+"9" :  [ 0,3 ],
+"10" :  [ 0,1 ],
+"11" :  [ 0,2 ],
+"12" :  [ 0,1 ],
+"13" :  [ 0,2 ],
+"14" :  [ 3,2 ],
+"15" :  [ 1,2 ]}]
+}

@@ -1,0 +1,11 @@
+{
+"Class" : "edu.stanford.nlp.tagger.maxent.ExtractorFrames$ExtractorTwoWords", 
+"Methods" : [{ "Name" : "<init>" ,
+"Nodes" : 5,
+"0" : [ 397,398 ],
+"1" : [ 402,403 ],
+"2" : [ 405 ],
+"3" : [ 400,399 ],
+"4" : [  ]
+}]
+}

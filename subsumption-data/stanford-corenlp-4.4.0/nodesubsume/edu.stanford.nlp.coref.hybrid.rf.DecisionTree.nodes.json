@@ -1,0 +1,14 @@
+{
+"Class" : "edu.stanford.nlp.coref.hybrid.rf.DecisionTree", 
+"Methods" : [{ "Name" : "probabilityOfTrue" ,
+"Nodes" : 8,
+"0" : [ 24 ],
+"1" : [ 26 ],
+"2" : [ 31 ],
+"3" : [ 27,28 ],
+"4" : [ 28 ],
+"5" : [ 28,29 ],
+"6" : [ 28 ],
+"7" : [  ]
+}]
+}

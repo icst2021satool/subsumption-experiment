@@ -1,0 +1,11 @@
+{
+"Class" : "edu.stanford.nlp.trees.UniversalEnglishGrammaticalStructure$ExtraTreeDepFilter", 
+"Methods" : [{ "Name" : "test" ,
+"Duas" : "10" ,
+"Subsumers" : 4,
+"0" : [ 8, 4], "S0" : [0, 2, 4, 6, 8 ],
+"1" : [ 9, 5], "S1" : [0, 2, 5, 6, 9 ],
+"2" : [ 7, 3], "S2" : [0, 3, 7 ],
+"3" : [ 1], "S3" : [1 ]
+}]
+}

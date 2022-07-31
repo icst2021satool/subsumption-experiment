@@ -1,0 +1,18 @@
+{
+"Class" : "edu.stanford.nlp.loglinear.benchmarks.GamePlayerBenchmark$SampleState", 
+"Methods" : [{ "Name" : "push" ,
+"Nodes" : 5,
+"0" : [ 244 ],
+"1" : [ 245,246,247 ],
+"2" : [ 244 ],
+"3" : [ 244 ],
+"4" : [  ]
+},{ "Name" : "pop" ,
+"Nodes" : 5,
+"0" : [ 255 ],
+"1" : [ 256,257,258 ],
+"2" : [ 255 ],
+"3" : [ 255 ],
+"4" : [  ]
+}]
+}

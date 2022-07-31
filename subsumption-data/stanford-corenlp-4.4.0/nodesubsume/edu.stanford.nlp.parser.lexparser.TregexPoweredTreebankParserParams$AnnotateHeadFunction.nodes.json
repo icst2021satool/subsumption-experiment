@@ -1,0 +1,14 @@
+{
+"Class" : "edu.stanford.nlp.parser.lexparser.TregexPoweredTreebankParserParams$AnnotateHeadFunction", 
+"Methods" : [{ "Name" : "apply" ,
+"Nodes" : 8,
+"0" : [ 260,262,263 ],
+"1" : [ 266,267,269 ],
+"2" : [ 273 ],
+"3" : [ 270 ],
+"4" : [ 271 ],
+"5" : [ 270 ],
+"6" : [ 264 ],
+"7" : [  ]
+}]
+}

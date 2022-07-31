@@ -1,0 +1,14 @@
+{
+"Class" : "edu.stanford.nlp.io.IOUtils$LineReaderIterable$1", 
+"Methods" : [{ "Name" : "hasNext" ,
+"Duas" : 4,
+"0" :  "(895,(895,895), this)",
+"1" :  "(895,(895,895), this)",
+"2" :  "(895,(895,895), this.next)",
+"3" :  "(895,(895,895), this.next)"},{ "Name" : "next" ,
+"Duas" : 4,
+"0" :  "(900,904, this)",
+"1" :  "(900,(901,902), nextLine)",
+"2" :  "(900,(901,904), nextLine)",
+"3" :  "(900,905, nextLine)"}]
+}

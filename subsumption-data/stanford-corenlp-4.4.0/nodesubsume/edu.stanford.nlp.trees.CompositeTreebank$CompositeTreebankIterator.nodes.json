@@ -1,0 +1,19 @@
+{
+"Class" : "edu.stanford.nlp.trees.CompositeTreebank$CompositeTreebankIterator", 
+"Methods" : [{ "Name" : "hasNext" ,
+"Nodes" : 6,
+"0" : [ 56 ],
+"1" : [ 56 ],
+"2" : [ 56 ],
+"3" : [ 56 ],
+"4" : [ 56 ],
+"5" : [  ]
+},{ "Name" : "next" ,
+"Nodes" : 5,
+"0" : [ 60 ],
+"1" : [ 60 ],
+"2" : [ 60,61 ],
+"3" : [ 60 ],
+"4" : [  ]
+}]
+}

@@ -1,0 +1,8 @@
+{
+"Class" : "edu.stanford.nlp.tagger.maxent.ExtractorNonAlphanumeric", 
+"Methods" : [{ "Name" : "extract" ,
+"Nodes" : 4,
+"Duas" : 2,
+"0" :  [ 0,2 ],
+"1" :  [ 0,1 ]}]
+}

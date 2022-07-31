@@ -1,0 +1,22 @@
+{
+"Class" : "edu.stanford.nlp.util.logging.FilterHandler", 
+"Methods" : [{ "Name" : "propagateRecord" ,
+"Nodes" : 14,
+"0" : [ ],
+"1" : [ ],
+"2" : [ ],
+"3" : [ 1, 8],
+"5" : [ 0, 7],
+"4" : [ ],
+"6" : [ 6],
+"11" : [ 6, 13],
+"7" : [ 6],
+"9" : [ 6, 15],
+"8" : [ 6],
+"10" : [ 2, 6, 9, 15],
+"12" : [ 4, 6, 11, 13],
+"13" : [ ],
+"CoveredDUAsByNodes" : 11,
+"Duas" : 17
+}]
+}

@@ -1,0 +1,9 @@
+{
+"Class" : "edu.stanford.nlp.patterns.TextAnnotationPatternsInterface", 
+"Methods" : [{ "Name" : "main" ,
+"Nodes" : 3,
+"0" : [ 193,194,195 ],
+"1" : [ 198 ],
+"2" : [  ]
+}]
+}

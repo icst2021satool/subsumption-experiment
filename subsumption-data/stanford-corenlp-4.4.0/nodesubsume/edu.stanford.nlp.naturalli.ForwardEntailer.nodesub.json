@@ -1,0 +1,16 @@
+{
+"Class" : "edu.stanford.nlp.naturalli.ForwardEntailer", 
+"Methods" : [{ "Name" : "apply" ,
+"Nodes" : 8,
+"0" : [ ],
+"1" : [ ],
+"2" : [ 0, 1, 2, 3, 4, 5],
+"3" : [ ],
+"5" : [ 6],
+"4" : [ ],
+"6" : [ 6, 8],
+"7" : [ ],
+"CoveredDUAsByNodes" : 8,
+"Duas" : 10
+}]
+}

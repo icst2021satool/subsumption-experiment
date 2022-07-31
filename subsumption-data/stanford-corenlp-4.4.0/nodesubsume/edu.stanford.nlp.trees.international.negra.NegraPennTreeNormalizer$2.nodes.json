@@ -1,0 +1,15 @@
+{
+"Class" : "edu.stanford.nlp.trees.international.negra.NegraPennTreeNormalizer$2", 
+"Methods" : [{ "Name" : "test" ,
+"Nodes" : 9,
+"0" : [ 59 ],
+"1" : [ 60 ],
+"2" : [ 59 ],
+"3" : [ 59 ],
+"4" : [ 61 ],
+"5" : [ 63 ],
+"6" : [ 61 ],
+"7" : [ 62 ],
+"8" : [  ]
+}]
+}

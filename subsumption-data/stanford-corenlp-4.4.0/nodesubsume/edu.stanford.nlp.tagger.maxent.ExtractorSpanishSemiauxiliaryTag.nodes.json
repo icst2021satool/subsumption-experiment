@@ -1,0 +1,11 @@
+{
+"Class" : "edu.stanford.nlp.tagger.maxent.ExtractorSpanishSemiauxiliaryTag", 
+"Methods" : [{ "Name" : "extract" ,
+"Nodes" : 5,
+"0" : [ 832,831 ],
+"1" : [ 832 ],
+"2" : [ 832 ],
+"3" : [ 832 ],
+"4" : [  ]
+}]
+}

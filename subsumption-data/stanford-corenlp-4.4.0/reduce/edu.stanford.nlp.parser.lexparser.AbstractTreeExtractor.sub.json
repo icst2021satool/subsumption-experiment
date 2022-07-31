@@ -1,0 +1,21 @@
+{
+"Class" : "edu.stanford.nlp.parser.lexparser.AbstractTreeExtractor", 
+"Methods" : [{ "Name" : "tallyLocalTree" ,
+"Duas" : "13" ,
+"Subsumers" : 3,
+"0" : [ 10, 7, 6, 0], "S0" : [0, 4, 6, 7, 10 ],
+"1" : [ 11, 8, 5, 1], "S1" : [1, 4, 5, 8, 11 ],
+"2" : [ 12, 9, 3, 2], "S2" : [2, 3, 9, 12 ]
+},{ "Name" : "tallyTree" ,
+"Duas" : "2" ,
+"Subsumers" : 1,
+"0" : [ 1, 0], "S0" : [0, 1 ]
+},{ "Name" : "tallyTrees" ,
+"Duas" : "2" ,
+"Subsumers" : 1,
+"0" : [ 1, 0], "S0" : [0, 1 ]
+},{ "Name" : "tallyTreeIterator" ,
+"Duas" : "6" ,
+"Subsumers" : 0 
+}]
+}

@@ -1,0 +1,24 @@
+{
+"Class" : "edu.stanford.nlp.trees.LabeledScoredTreeNode", 
+"Methods" : [{ "Name" : "setChildren" ,
+"Nodes" : 5,
+"0" : [ 99 ],
+"1" : [ 102 ],
+"2" : [ 104 ],
+"3" : [ 100 ],
+"4" : [  ]
+},{ "Name" : "treeFactory" ,
+"Nodes" : 5,
+"0" : [ 158 ],
+"1" : [ 158 ],
+"2" : [ 158,159 ],
+"3" : [ 158 ],
+"4" : [  ]
+},{ "Name" : "nodeString" ,
+"Nodes" : 4,
+"0" : [ 196,197,198 ],
+"1" : [ 201 ],
+"2" : [ 199 ],
+"3" : [  ]
+}]
+}

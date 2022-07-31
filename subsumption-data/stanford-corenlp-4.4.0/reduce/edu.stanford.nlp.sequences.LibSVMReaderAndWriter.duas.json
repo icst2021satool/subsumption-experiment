@@ -1,0 +1,7 @@
+{
+"Class" : "edu.stanford.nlp.sequences.LibSVMReaderAndWriter", 
+"Methods" : [{ "Name" : "printAnswers" ,
+"Duas" : 2,
+"0" :  "(76,81, out)",
+"1" :  "(76,79, out)"}]
+}

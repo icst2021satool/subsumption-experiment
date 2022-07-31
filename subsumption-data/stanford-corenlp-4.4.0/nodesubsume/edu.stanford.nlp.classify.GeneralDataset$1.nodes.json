@@ -1,0 +1,17 @@
+{
+"Class" : "edu.stanford.nlp.classify.GeneralDataset$1", 
+"Methods" : [{ "Name" : "hasNext" ,
+"Nodes" : 5,
+"0" : [ 600 ],
+"1" : [ 600 ],
+"2" : [ 600 ],
+"3" : [ 600 ],
+"4" : [  ]
+},{ "Name" : "next" ,
+"Nodes" : 4,
+"0" : [ 604 ],
+"1" : [ 607 ],
+"2" : [ 605 ],
+"3" : [  ]
+}]
+}

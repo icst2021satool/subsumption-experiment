@@ -1,0 +1,12 @@
+{
+"Class" : "edu.stanford.nlp.process.stattok.BuildMultiWordRules", 
+"Methods" : [{ "Name" : "main" ,
+"Nodes" : 6,
+"0" : [ 21,22,23,25 ],
+"1" : [ 30 ],
+"2" : [ 35,36,37 ],
+"3" : [ 32,31 ],
+"4" : [ 26,27 ],
+"5" : [  ]
+}]
+}

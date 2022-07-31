@@ -1,0 +1,10 @@
+{
+"Class" : "edu.stanford.nlp.process.AmericanizeFunction", 
+"Methods" : [{ "Name" : "apply" ,
+"Nodes" : 4,
+"0" : [ 9 ],
+"1" : [ 12 ],
+"2" : [ 10 ],
+"3" : [  ]
+}]
+}

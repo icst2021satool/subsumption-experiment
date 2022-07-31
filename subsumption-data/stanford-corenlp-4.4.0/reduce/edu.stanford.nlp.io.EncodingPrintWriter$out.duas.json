@@ -1,0 +1,16 @@
+{
+"Class" : "edu.stanford.nlp.io.EncodingPrintWriter$out", 
+"Methods" : [{ "Name" : "setupOutWriter" ,
+"Duas" : 11,
+"0" :  "(87,(87,88), encoding)",
+"1" :  "(87,(87,90), encoding)",
+"2" :  "(87,92, encoding)",
+"3" :  "(87,93, encoding)",
+"4" :  "(87,(90,92), encoding)",
+"5" :  "(87,(90,100), encoding)",
+"6" :  "(87,92, out)",
+"7" :  "(88,92, encoding)",
+"8" :  "(88,93, encoding)",
+"9" :  "(88,(90,92), encoding)",
+"10" :  "(88,(90,100), encoding)"}]
+}

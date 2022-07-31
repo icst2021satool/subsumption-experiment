@@ -1,0 +1,13 @@
+{
+"Class" : "edu.stanford.nlp.parser.lexparser.MLEDependencyGrammarExtractor", 
+"Methods" : [{ "Name" : "tallyRoot" ,
+"Duas" : 3,
+"0" :  "(52,54, this)",
+"1" :  "(52,54, weight)",
+"2" :  "(52,54, this.dependencyCounter)"},{ "Name" : "formResult" ,
+"Duas" : 4,
+"0" :  "(60,63, this)",
+"1" :  "(60,63, this.dependencyCounter)",
+"2" :  "(61,65, dg)",
+"3" :  "(61,63, dg)"}]
+}

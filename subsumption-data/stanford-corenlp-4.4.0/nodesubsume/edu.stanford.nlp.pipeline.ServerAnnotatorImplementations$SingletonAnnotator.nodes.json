@@ -1,0 +1,16 @@
+{
+"Class" : "edu.stanford.nlp.pipeline.ServerAnnotatorImplementations$SingletonAnnotator", 
+"Methods" : [{ "Name" : "<init>" ,
+"Nodes" : 10,
+"0" : [ 72,73,74 ],
+"1" : [ 74 ],
+"2" : [ 80 ],
+"3" : [ 84,85 ],
+"4" : [ 88 ],
+"5" : [ 90,91 ],
+"6" : [ 86 ],
+"7" : [ 81,82 ],
+"8" : [ 74,75,76,77,78,79 ],
+"9" : [  ]
+}]
+}

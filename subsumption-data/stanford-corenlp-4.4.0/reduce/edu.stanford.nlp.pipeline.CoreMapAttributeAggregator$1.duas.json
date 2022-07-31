@@ -1,0 +1,12 @@
+{
+"Class" : "edu.stanford.nlp.pipeline.CoreMapAttributeAggregator$1", 
+"Methods" : [{ "Name" : "aggregate" ,
+"Duas" : 7,
+"0" :  "(33,35, key)",
+"1" :  "(33,(33,33), in)",
+"2" :  "(33,(33,34), in)",
+"3" :  "(33,34, in)",
+"4" :  "(35,(36,37), obj)",
+"5" :  "(35,(36,39), obj)",
+"6" :  "(35,37, obj)"}]
+}

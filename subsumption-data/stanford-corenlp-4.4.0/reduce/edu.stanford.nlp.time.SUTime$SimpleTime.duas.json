@@ -1,0 +1,12 @@
+{
+"Class" : "edu.stanford.nlp.time.SUTime$SimpleTime", 
+"Methods" : [{ "Name" : "toFormattedString" ,
+"Duas" : 7,
+"0" :  "(1720,(1720,1721), this)",
+"1" :  "(1720,(1720,1723), this)",
+"2" :  "(1720,1726, this)",
+"3" :  "(1720,1721, this)",
+"4" :  "(1720,(1723,1724), flags)",
+"5" :  "(1720,(1723,1726), flags)",
+"6" :  "(1720,1726, this.label)"}]
+}

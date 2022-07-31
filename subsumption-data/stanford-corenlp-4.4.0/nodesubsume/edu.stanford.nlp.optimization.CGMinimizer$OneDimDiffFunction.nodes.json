@@ -1,0 +1,18 @@
+{
+"Class" : "edu.stanford.nlp.optimization.CGMinimizer$OneDimDiffFunction", 
+"Methods" : [{ "Name" : "vectorOf" ,
+"Nodes" : 5,
+"0" : [ 152 ],
+"1" : [ 152 ],
+"2" : [ 157 ],
+"3" : [ 152,153 ],
+"4" : [  ]
+},{ "Name" : "derivativeAt" ,
+"Nodes" : 5,
+"0" : [ 165,166,167 ],
+"1" : [ 167 ],
+"2" : [ 170 ],
+"3" : [ 167,168 ],
+"4" : [  ]
+}]
+}

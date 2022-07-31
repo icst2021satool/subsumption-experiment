@@ -1,0 +1,18 @@
+{
+"Class" : "edu.stanford.nlp.trees.GrammaticalStructureConversionUtils$LazyLoadTreesByParsing", 
+"Methods" : [{ "Name" : "iterator" ,
+"Duas" : 13,
+"0" :  "(931,(931,932), this)",
+"1" :  "(931,(931,935), this)",
+"2" :  "(931,935, this)",
+"3" :  "(931,935, this)",
+"4" :  "(931,941, this)",
+"5" :  "(931,932, this)",
+"6" :  "(931,(931,932), this.reader)",
+"7" :  "(931,(931,935), this.reader)",
+"8" :  "(931,932, this.reader)",
+"9" :  "(931,935, this.filename)",
+"10" :  "(931,935, this.encoding)",
+"11" :  "(932,941, iReader)",
+"12" :  "(935,941, iReader)"}]
+}

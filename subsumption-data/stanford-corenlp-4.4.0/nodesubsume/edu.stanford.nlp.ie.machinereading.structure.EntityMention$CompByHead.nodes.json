@@ -1,0 +1,16 @@
+{
+"Class" : "edu.stanford.nlp.ie.machinereading.structure.EntityMention$CompByHead", 
+"Methods" : [{ "Name" : "compare" ,
+"Nodes" : 10,
+"0" : [ 257 ],
+"1" : [ 259 ],
+"2" : [ 261 ],
+"3" : [ 263 ],
+"4" : [ 266 ],
+"5" : [ 264 ],
+"6" : [ 262 ],
+"7" : [ 260 ],
+"8" : [ 258 ],
+"9" : [  ]
+}]
+}

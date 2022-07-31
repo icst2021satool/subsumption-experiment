@@ -1,0 +1,15 @@
+{
+"Class" : "edu.stanford.nlp.ling.tokensregex.SequenceMatchRules$BasicSequenceExtractRule", 
+"Methods" : [{ "Name" : "extract" ,
+"Nodes" : 7,
+"0" : [ ],
+"1" : [ ],
+"2" : [ 3],
+"6" : [ 3],
+"3" : [ 0, 2, 4, 6, 9, 11],
+"5" : [ 0, 1, 2, 4, 5, 6, 7, 9, 11, 14],
+"4" : [ 0, 2, 4, 6, 9, 11, 12],
+"CoveredDUAsByNodes" : 12,
+"Duas" : 22
+}]
+}

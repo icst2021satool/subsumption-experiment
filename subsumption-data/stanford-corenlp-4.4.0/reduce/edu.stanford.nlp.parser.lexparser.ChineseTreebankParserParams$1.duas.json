@@ -1,0 +1,18 @@
+{
+"Class" : "edu.stanford.nlp.parser.lexparser.ChineseTreebankParserParams$1", 
+"Methods" : [{ "Name" : "formResult" ,
+"Duas" : 13,
+"0" :  "(1195,(1197,1198), this)",
+"1" :  "(1195,(1197,1200), this)",
+"2" :  "(1195,1200, this)",
+"3" :  "(1195,1202, this)",
+"4" :  "(1195,1203, this)",
+"5" :  "(1195,(1197,1198), this.this$0)",
+"6" :  "(1195,(1197,1200), this.this$0)",
+"7" :  "(1195,1200, this.this$0)",
+"8" :  "(1195,1202, this.dependencyCounter)",
+"9" :  "(1195,1203, this.dependencyCounter)",
+"10" :  "(1196,1200, dg)",
+"11" :  "(1196,1205, dg)",
+"12" :  "(1196,1203, dg)"}]
+}

@@ -1,0 +1,22 @@
+{
+"Class" : "edu.stanford.nlp.sequences.PlainTextDocumentReaderAndWriter$OutputStyle", 
+"Methods" : [{ "Name" : "fromShortName" ,
+"Nodes" : 4,
+"0" : [ ],
+"1" : [ 2, 3],
+"2" : [ 0, 1],
+"3" : [ ],
+"CoveredDUAsByNodes" : 4,
+"Duas" : 4
+},{ "Name" : "defaultToPreserveSpacing" ,
+"Nodes" : 6,
+"0" : [ ],
+"3" : [ 0, 4, 6],
+"4" : [ 0, 3, 4, 6, 9, 11],
+"1" : [ ],
+"2" : [ ],
+"5" : [ ],
+"CoveredDUAsByNodes" : 6,
+"Duas" : 12
+}]
+}

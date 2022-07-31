@@ -1,0 +1,21 @@
+{
+"Class" : "edu.stanford.nlp.trees.international.arabic.ArabicTreeNormalizer$ArabicEmptyFilter", 
+"Methods" : [{ "Name" : "test" ,
+"Nodes" : 13,
+"0" : [ ],
+"6" : [ 0],
+"11" : [ 0, 8],
+"7" : [ 0],
+"9" : [ 0, 10],
+"10" : [ 0, 10, 12],
+"1" : [ ],
+"3" : [ 2],
+"4" : [ 2, 4],
+"2" : [ ],
+"5" : [ 2, 4, 6],
+"8" : [ 0],
+"12" : [ ],
+"CoveredDUAsByNodes" : 7,
+"Duas" : 18
+}]
+}

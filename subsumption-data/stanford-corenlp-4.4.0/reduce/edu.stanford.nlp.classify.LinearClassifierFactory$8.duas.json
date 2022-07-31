@@ -1,0 +1,11 @@
+{
+"Class" : "edu.stanford.nlp.classify.LinearClassifierFactory$8", 
+"Methods" : [{ "Name" : "create" ,
+"Duas" : 6,
+"0" :  "(385,(387,388), this)",
+"1" :  "(385,(387,390), this)",
+"2" :  "(385,(387,388), this.this$0)",
+"3" :  "(385,(387,390), this.this$0)",
+"4" :  "(385,390, sgdToQNMinimizer)",
+"5" :  "(385,388, sgdToQNMinimizer)"}]
+}

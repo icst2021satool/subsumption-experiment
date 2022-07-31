@@ -1,0 +1,14 @@
+{
+"Class" : "edu.stanford.nlp.trees.international.pennchinese.ChineseEscaper", 
+"Methods" : [{ "Name" : "apply" ,
+"Nodes" : 7,
+"Duas" : 8,
+"0" :  [ 0,3 ],
+"1" :  [ 0,2 ],
+"2" :  [ 3,4 ],
+"3" :  [ 3,4 ],
+"4" :  [ 3,5 ],
+"5" :  [ 3,4 ],
+"6" :  [ 3,5 ],
+"7" :  [ 5,4 ]}]
+}

@@ -1,0 +1,19 @@
+{
+"Class" : "edu.stanford.nlp.ling.tokensregex.ComplexNodePattern$StringAnnotationPattern", 
+"Methods" : [{ "Name" : "match" ,
+"Duas" : 14,
+"0" :  "(327,(327,328), this)",
+"1" :  "(327,(327,330), this)",
+"2" :  "(327,(330,331), this)",
+"3" :  "(327,(330,333), this)",
+"4" :  "(327,333, this)",
+"5" :  "(327,331, this)",
+"6" :  "(327,328, this)",
+"7" :  "(327,333, str)",
+"8" :  "(327,331, str)",
+"9" :  "(327,328, str)",
+"10" :  "(327,333, this.target)",
+"11" :  "(327,331, this.target)",
+"12" :  "(328,333, str)",
+"13" :  "(328,331, str)"}]
+}

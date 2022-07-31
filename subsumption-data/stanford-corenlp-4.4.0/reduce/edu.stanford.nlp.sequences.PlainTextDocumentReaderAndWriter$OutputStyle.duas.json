@@ -1,0 +1,22 @@
+{
+"Class" : "edu.stanford.nlp.sequences.PlainTextDocumentReaderAndWriter$OutputStyle", 
+"Methods" : [{ "Name" : "fromShortName" ,
+"Duas" : 4,
+"0" :  "(71,73, name)",
+"1" :  "(71,(72,73), result)",
+"2" :  "(71,(72,74), result)",
+"3" :  "(71,74, result)"},{ "Name" : "defaultToPreserveSpacing" ,
+"Duas" : 12,
+"0" :  "(78,(78,78), str)",
+"1" :  "(78,(78,78), str)",
+"2" :  "(78,(78,78), str)",
+"3" :  "(78,(78,78), str)",
+"4" :  "(78,(78,78), XML)",
+"5" :  "(78,(78,78), XML)",
+"6" :  "(78,(78,78), XML.shortName)",
+"7" :  "(78,(78,78), XML.shortName)",
+"8" :  "(78,(78,78), INLINE_XML)",
+"9" :  "(78,(78,78), INLINE_XML)",
+"10" :  "(78,(78,78), INLINE_XML.shortName)",
+"11" :  "(78,(78,78), INLINE_XML.shortName)"}]
+}

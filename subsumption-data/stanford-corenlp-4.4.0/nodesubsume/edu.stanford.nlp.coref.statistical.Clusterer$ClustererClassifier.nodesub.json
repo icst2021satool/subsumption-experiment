@@ -1,0 +1,24 @@
+{
+"Class" : "edu.stanford.nlp.coref.statistical.Clusterer$ClustererClassifier", 
+"Methods" : [{ "Name" : "bestAction" ,
+"Nodes" : 5,
+"0" : [ ],
+"1" : [ 1, 3, 6, 9],
+"3" : [ 0, 2, 5, 8],
+"2" : [ 4, 7, 10],
+"4" : [ 4, 7, 10],
+"CoveredDUAsByNodes" : 11,
+"Duas" : 11
+},{ "Name" : "learn" ,
+"Nodes" : 7,
+"0" : [ ],
+"5" : [ 2, 4, 8, 9],
+"1" : [ ],
+"2" : [ ],
+"3" : [ 0, 19],
+"6" : [ 0, 19],
+"4" : [ 20],
+"CoveredDUAsByNodes" : 7,
+"Duas" : 21
+}]
+}

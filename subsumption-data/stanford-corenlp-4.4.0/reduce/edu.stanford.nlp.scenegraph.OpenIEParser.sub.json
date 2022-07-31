@@ -1,0 +1,8 @@
+{
+"Class" : "edu.stanford.nlp.scenegraph.OpenIEParser", 
+"Methods" : [{ "Name" : "main" ,
+"Duas" : "9" ,
+"Subsumers" : 1,
+"0" : [ 8, 5, 3, 0, 1, 2], "S0" : [0, 1, 2, 3, 4, 5, 6, 7, 8 ]
+}]
+}

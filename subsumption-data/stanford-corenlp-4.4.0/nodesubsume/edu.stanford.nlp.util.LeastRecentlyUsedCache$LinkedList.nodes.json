@@ -1,0 +1,10 @@
+{
+"Class" : "edu.stanford.nlp.util.LeastRecentlyUsedCache$LinkedList", 
+"Methods" : [{ "Name" : "pop" ,
+"Nodes" : 4,
+"0" : [ 59 ],
+"1" : [ 64,62,63 ],
+"2" : [ 60 ],
+"3" : [  ]
+}]
+}

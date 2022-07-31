@@ -1,0 +1,15 @@
+{
+"Class" : "edu.stanford.nlp.trees.tregex.gui.MatchesPanel$TreeTransferHandler", 
+"Methods" : [{ "Name" : "exportString" ,
+"Duas" : 10,
+"0" :  "(405,418, sb)",
+"1" :  "(405,410, sb)",
+"2" :  "(405,414, sb)",
+"3" :  "(406,410, val)",
+"4" :  "(406,414, val)",
+"5" :  "(408,(409,409), highlights)",
+"6" :  "(408,(409,410), highlights)",
+"7" :  "(408,(409,410), highlights)",
+"8" :  "(408,(409,413), highlights)",
+"9" :  "(408,413, highlights)"}]
+}

@@ -1,0 +1,19 @@
+{
+"Class" : "edu.stanford.nlp.time.GenericTimeExpressionPatterns$2", 
+"Methods" : [{ "Name" : "checkArgs" ,
+"Nodes" : 7,
+"0" : [ 215 ],
+"1" : [ 218 ],
+"2" : [ 219 ],
+"3" : [ 218 ],
+"4" : [ 221 ],
+"5" : [ 216 ],
+"6" : [  ]
+},{ "Name" : "apply" ,
+"Nodes" : 4,
+"0" : [ 224 ],
+"1" : [ 228 ],
+"2" : [ 225,226 ],
+"3" : [  ]
+}]
+}

@@ -1,0 +1,10 @@
+{
+"Class" : "edu.stanford.nlp.trees.tregex.Relation$16", 
+"Methods" : [{ "Name" : "satisfies" ,
+"Duas" : "13" ,
+"Subsumers" : 3,
+"0" : [ 8, 2], "S0" : [0, 2, 5, 8 ],
+"1" : [ 12, 10, 11, 9, 7, 4, 3], "S1" : [0, 3, 4, 5, 7, 9, 10, 11, 12 ],
+"2" : [ 6, 1], "S2" : [1, 6 ]
+}]
+}

@@ -1,0 +1,8 @@
+{
+"Class" : "edu.stanford.nlp.patterns.TextAnnotationPatternsInterface", 
+"Methods" : [{ "Name" : "main" ,
+"Duas" : 3,
+"0" :  "(194,198, clientNumber)",
+"1" :  "(195,198, listener)",
+"2" :  "(198,198, clientNumber)"}]
+}

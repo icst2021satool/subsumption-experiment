@@ -1,0 +1,13 @@
+{
+"Class" : "edu.stanford.nlp.ling.tokensregex.SequenceMatchAction$SeriesAction", 
+"Methods" : [{ "Name" : "apply" ,
+"Nodes" : 5,
+"0" : [ ],
+"1" : [ ],
+"2" : [ ],
+"4" : [ ],
+"3" : [ 0, 2],
+"CoveredDUAsByNodes" : 2,
+"Duas" : 5
+}]
+}

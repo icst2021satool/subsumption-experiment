@@ -1,0 +1,20 @@
+{
+"Class" : "edu.stanford.nlp.util.MemoryMonitor$PeakMemoryMonitor", 
+"Methods" : [{ "Name" : "run" ,
+"Duas" : 15,
+"0" :  "(281,285, this)",
+"1" :  "(281,(286,287), this)",
+"2" :  "(281,(286,292), this)",
+"3" :  "(281,292, this)",
+"4" :  "(281,287, this)",
+"5" :  "(281,288, this)",
+"6" :  "(281,(286,287), this.timer)",
+"7" :  "(281,(286,292), this.timer)",
+"8" :  "(281,288, this.timer)",
+"9" :  "(281,285, this.peak)",
+"10" :  "(281,(286,287), this.logFrequency)",
+"11" :  "(281,(286,292), this.logFrequency)",
+"12" :  "(281,292, this.pollFrequency)",
+"13" :  "(281,285, runtime)",
+"14" :  "(285,285, this.peak)"}]
+}

@@ -1,0 +1,17 @@
+{
+"Class" : "edu.stanford.nlp.util.ConcatenationIterator", 
+"Methods" : [{ "Name" : "current" ,
+"Nodes" : 4,
+"0" : [ 19 ],
+"1" : [ 22 ],
+"2" : [ 20 ],
+"3" : [  ]
+},{ "Name" : "main" ,
+"Nodes" : 5,
+"0" : [ 43,44,45 ],
+"1" : [ 46 ],
+"2" : [ 49 ],
+"3" : [ 47 ],
+"4" : [  ]
+}]
+}

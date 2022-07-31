@@ -1,0 +1,10 @@
+{
+"Class" : "edu.stanford.nlp.trees.BasicCategoryTreeTransformer", 
+"Methods" : [{ "Name" : "transformNonterminalLabel" ,
+"Duas" : 5,
+"0" :  "(22,25, this)",
+"1" :  "(22,(22,23), tree)",
+"2" :  "(22,(22,25), tree)",
+"3" :  "(22,25, tree)",
+"4" :  "(22,25, this.tlp)"}]
+}

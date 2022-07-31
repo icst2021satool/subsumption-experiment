@@ -1,0 +1,22 @@
+{
+"Class" : "edu.stanford.nlp.ling.tokensregex.CoreMapExpressionExtractor$Stage", 
+"Methods" : [{ "Name" : "addRule" ,
+"Nodes" : 6,
+"0" : [ 86 ],
+"1" : [ 89,90 ],
+"2" : [ 93,94 ],
+"3" : [ 91 ],
+"4" : [ 87 ],
+"5" : [  ]
+},{ "Name" : "addFilterRule" ,
+"Nodes" : 8,
+"0" : [ 107 ],
+"1" : [ 111 ],
+"2" : [ 114 ],
+"3" : [ 116 ],
+"4" : [ 118 ],
+"5" : [ 112 ],
+"6" : [ 108,109 ],
+"7" : [  ]
+}]
+}

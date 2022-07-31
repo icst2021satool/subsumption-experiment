@@ -1,0 +1,16 @@
+{
+"Class" : "edu.stanford.nlp.pipeline.CoreMapAggregator", 
+"Methods" : [{ "Name" : "merge" ,
+"Duas" : 11,
+"0" :  "(36,(37,38), this)",
+"1" :  "(36,(37,40), this)",
+"2" :  "(36,38, this)",
+"3" :  "(36,38, in)",
+"4" :  "(36,38, start)",
+"5" :  "(36,38, end)",
+"6" :  "(36,(37,38), this.mergedKey)",
+"7" :  "(36,(37,40), this.mergedKey)",
+"8" :  "(36,38, this.mergedKey)",
+"9" :  "(36,40, merged)",
+"10" :  "(36,38, merged)"}]
+}

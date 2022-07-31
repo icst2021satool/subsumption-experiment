@@ -1,0 +1,18 @@
+{
+"Class" : "edu.stanford.nlp.process.StopList", 
+"Methods" : [{ "Name" : "<init>" ,
+"Nodes" : 5,
+"0" : [ 37,38,41 ],
+"1" : [ 43 ],
+"2" : [ 50,51 ],
+"3" : [ 44 ],
+"4" : [  ]
+},{ "Name" : "addGenericWords" ,
+"Nodes" : 5,
+"0" : [ 57,58 ],
+"1" : [ 58 ],
+"2" : [ 61 ],
+"3" : [ 58,59 ],
+"4" : [  ]
+}]
+}

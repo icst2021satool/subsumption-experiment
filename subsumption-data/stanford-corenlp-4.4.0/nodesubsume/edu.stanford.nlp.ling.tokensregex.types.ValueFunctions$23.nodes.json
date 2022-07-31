@@ -1,0 +1,11 @@
+{
+"Class" : "edu.stanford.nlp.ling.tokensregex.types.ValueFunctions$23", 
+"Methods" : [{ "Name" : "apply" ,
+"Nodes" : 5,
+"0" : [ 643 ],
+"1" : [ 643 ],
+"2" : [ 643 ],
+"3" : [ 644,645,646,647,648,649 ],
+"4" : [  ]
+}]
+}

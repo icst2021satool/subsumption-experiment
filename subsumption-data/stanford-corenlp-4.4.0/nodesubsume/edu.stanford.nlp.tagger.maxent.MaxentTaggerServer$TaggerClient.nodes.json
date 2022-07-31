@@ -1,0 +1,17 @@
+{
+"Class" : "edu.stanford.nlp.tagger.maxent.MaxentTaggerServer$TaggerClient", 
+"Methods" : [{ "Name" : "communicateWithMaxentTaggerServer" ,
+"Nodes" : 11,
+"0" : [ 197 ],
+"1" : [ 201,203 ],
+"2" : [ 205 ],
+"3" : [ 232,233 ],
+"4" : [ 205 ],
+"5" : [ 208,209,210,211,213,216,207 ],
+"6" : [ 217 ],
+"7" : [ 230,220,221 ],
+"8" : [ 218 ],
+"9" : [ 198 ],
+"10" : [  ]
+}]
+}

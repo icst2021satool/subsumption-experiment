@@ -1,0 +1,20 @@
+{
+"Class" : "edu.stanford.nlp.ling.WordLemmaTagFactory", 
+"Methods" : [{ "Name" : "newLabel" ,
+"Nodes" : 6,
+"0" : [ 64 ],
+"1" : [ 66 ],
+"2" : [ 69 ],
+"3" : [ 67 ],
+"4" : [ 65 ],
+"5" : [  ]
+},{ "Name" : "newLabelFromString" ,
+"Nodes" : 6,
+"0" : [ 91,92,93 ],
+"1" : [ 95 ],
+"2" : [ 98 ],
+"3" : [ 96 ],
+"4" : [ 94 ],
+"5" : [  ]
+}]
+}

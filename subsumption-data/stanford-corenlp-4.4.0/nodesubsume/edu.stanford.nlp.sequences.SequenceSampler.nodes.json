@@ -1,0 +1,14 @@
+{
+"Class" : "edu.stanford.nlp.sequences.SequenceSampler", 
+"Methods" : [{ "Name" : "bestSequence" ,
+"Nodes" : 8,
+"0" : [ 24,26 ],
+"1" : [ 26 ],
+"2" : [ 36 ],
+"3" : [ 27,28 ],
+"4" : [ 28 ],
+"5" : [ 32,33,26,31 ],
+"6" : [ 28,29 ],
+"7" : [  ]
+}]
+}

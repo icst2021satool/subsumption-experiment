@@ -1,0 +1,25 @@
+{
+"Class" : "edu.stanford.nlp.patterns.ConstantsAndVariables$ScorePhraseMeasures", 
+"Methods" : [{ "Name" : "create" ,
+"Nodes" : 4,
+"0" : [ 574 ],
+"1" : [ 577 ],
+"2" : [ 575 ],
+"3" : [  ]
+},{ "Name" : "equals" ,
+"Nodes" : 7,
+"0" : [ 591 ],
+"1" : [ 592 ],
+"2" : [ 592 ],
+"3" : [ 592 ],
+"4" : [ 592 ],
+"5" : [ 591 ],
+"6" : [  ]
+},{ "Name" : "compareTo" ,
+"Nodes" : 4,
+"0" : [ 612 ],
+"1" : [ 614 ],
+"2" : [ 613 ],
+"3" : [  ]
+}]
+}

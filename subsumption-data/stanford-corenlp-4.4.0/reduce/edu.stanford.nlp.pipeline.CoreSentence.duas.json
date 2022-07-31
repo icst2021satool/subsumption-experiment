@@ -1,0 +1,21 @@
+{
+"Class" : "edu.stanford.nlp.pipeline.CoreSentence", 
+"Methods" : [{ "Name" : "wrapEntityMentions" ,
+"Duas" : 6,
+"0" :  "(45,(45,46), this)",
+"1" :  "(45,(45,49), this)",
+"2" :  "(45,47, this)",
+"3" :  "(45,(45,46), this.sentenceCoreMap)",
+"4" :  "(45,(45,49), this.sentenceCoreMap)",
+"5" :  "(45,47, this.sentenceCoreMap)"},{ "Name" : "tregexResultTrees" ,
+"Duas" : 9,
+"0" :  "(104,(104,105), this)",
+"1" :  "(104,(104,108), this)",
+"2" :  "(104,109, this)",
+"3" :  "(104,109, p)",
+"4" :  "(108,113, results)",
+"5" :  "(108,111, results)",
+"6" :  "(109,(110,111), matcher)",
+"7" :  "(109,(110,113), matcher)",
+"8" :  "(109,111, matcher)"}]
+}

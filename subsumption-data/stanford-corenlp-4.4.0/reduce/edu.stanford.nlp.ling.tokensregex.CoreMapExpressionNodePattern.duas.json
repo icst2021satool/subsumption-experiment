@@ -1,0 +1,8 @@
+{
+"Class" : "edu.stanford.nlp.ling.tokensregex.CoreMapExpressionNodePattern", 
+"Methods" : [{ "Name" : "match" ,
+"Duas" : 3,
+"0" :  "(37,(38,38), matched)",
+"1" :  "(37,(38,38), matched)",
+"2" :  "(37,38, matched)"}]
+}

@@ -1,0 +1,10 @@
+{
+"Class" : "edu.stanford.nlp.ling.StringLabel", 
+"Methods" : [{ "Name" : "<init>" ,
+"Duas" : 5,
+"0" :  "(63,67, this)",
+"1" :  "(63,68, this)",
+"2" :  "(63,(65,66), label)",
+"3" :  "(63,(65,70), label)",
+"4" :  "(63,66, label)"}]
+}

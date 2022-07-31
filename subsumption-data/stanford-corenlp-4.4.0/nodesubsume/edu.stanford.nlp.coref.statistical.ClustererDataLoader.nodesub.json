@@ -1,0 +1,13 @@
+{
+"Class" : "edu.stanford.nlp.coref.statistical.ClustererDataLoader", 
+"Methods" : [{ "Name" : "loadDocuments" ,
+"Nodes" : 5,
+"0" : [ ],
+"1" : [ ],
+"2" : [ 0, 1, 2, 3, 4, 5, 6],
+"4" : [ 0, 1, 2, 3, 4, 5, 6],
+"3" : [ 7],
+"CoveredDUAsByNodes" : 8,
+"Duas" : 8
+}]
+}

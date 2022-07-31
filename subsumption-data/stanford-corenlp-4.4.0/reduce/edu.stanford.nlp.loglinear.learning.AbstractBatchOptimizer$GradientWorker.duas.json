@@ -1,0 +1,22 @@
+{
+"Class" : "edu.stanford.nlp.loglinear.learning.AbstractBatchOptimizer$GradientWorker", 
+"Methods" : [{ "Name" : "run" ,
+"Duas" : 17,
+"0" :  "(204,212, this)",
+"1" :  "(204,214, this)",
+"2" :  "(204,215, this)",
+"3" :  "(204,207, this)",
+"4" :  "(204,(209,209), this)",
+"5" :  "(204,(209,210), this)",
+"6" :  "(204,214, this.jvmThreadId)",
+"7" :  "(204,207, this.localLogLikelihood)",
+"8" :  "(204,207, this.fn)",
+"9" :  "(204,207, this.weights)",
+"10" :  "(204,207, this.localDerivative)",
+"11" :  "(204,(209,209), this.mainWorker)",
+"12" :  "(204,(209,210), this.mainWorker)",
+"13" :  "(204,(209,209), this.isFinished)",
+"14" :  "(204,(209,210), this.isFinished)",
+"15" :  "(204,215, startTime)",
+"16" :  "(207,207, this.localLogLikelihood)"}]
+}

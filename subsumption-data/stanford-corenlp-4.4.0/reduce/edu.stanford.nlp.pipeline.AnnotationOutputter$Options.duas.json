@@ -1,0 +1,11 @@
+{
+"Class" : "edu.stanford.nlp.pipeline.AnnotationOutputter$Options", 
+"Methods" : [{ "Name" : "getKeysToPrint" ,
+"Duas" : 6,
+"0" :  "(105,(105,106), columns)",
+"1" :  "(105,(105,108), columns)",
+"2" :  "(105,108, columns)",
+"3" :  "(106,108, columns)",
+"4" :  "(109,113, keyList)",
+"5" :  "(109,111, keyList)"}]
+}

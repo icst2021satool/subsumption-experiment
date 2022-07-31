@@ -1,0 +1,10 @@
+{
+"Class" : "edu.stanford.nlp.util.DeltaMap$1$1NullingIterator", 
+"Methods" : [{ "Name" : "next" ,
+"Nodes" : 4,
+"0" : [ 224,222,223 ],
+"1" : [ 227 ],
+"2" : [ 225 ],
+"3" : [  ]
+}]
+}

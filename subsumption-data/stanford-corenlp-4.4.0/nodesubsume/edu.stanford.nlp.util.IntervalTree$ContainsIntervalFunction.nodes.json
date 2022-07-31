@@ -1,0 +1,10 @@
+{
+"Class" : "edu.stanford.nlp.util.IntervalTree$ContainsIntervalFunction", 
+"Methods" : [{ "Name" : "test" ,
+"Nodes" : 4,
+"0" : [ 724 ],
+"1" : [ 727 ],
+"2" : [ 725 ],
+"3" : [  ]
+}]
+}

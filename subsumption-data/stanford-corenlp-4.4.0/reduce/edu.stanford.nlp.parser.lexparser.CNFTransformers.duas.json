@@ -1,0 +1,9 @@
+{
+"Class" : "edu.stanford.nlp.parser.lexparser.CNFTransformers", 
+"Methods" : [{ "Name" : "main" ,
+"Duas" : 4,
+"0" :  "(98,103, out)",
+"1" :  "(98,105, out)",
+"2" :  "(98,108, out)",
+"3" :  "(98,111, out)"}]
+}

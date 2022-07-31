@@ -1,0 +1,24 @@
+{
+"Class" : "edu.stanford.nlp.util.FilteredIterator", 
+"Methods" : [{ "Name" : "advanceCandidate" ,
+"Nodes" : 4,
+"0" : [ 24 ],
+"1" : [ 29,30,31 ],
+"2" : [ 25,26,27 ],
+"3" : [  ]
+},{ "Name" : "skipUnacceptableCandidates" ,
+"Nodes" : 5,
+"0" : [ 42 ],
+"1" : [ 45 ],
+"2" : [ 42 ],
+"3" : [ 43 ],
+"4" : [  ]
+},{ "Name" : "main" ,
+"Nodes" : 5,
+"0" : [ 70,71 ],
+"1" : [ 78 ],
+"2" : [ 81 ],
+"3" : [ 79 ],
+"4" : [  ]
+}]
+}

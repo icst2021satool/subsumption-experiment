@@ -1,0 +1,13 @@
+{
+"Class" : "edu.stanford.nlp.trees.GrammaticalStructureConversionUtils$LazyLoadTreesByParsing", 
+"Methods" : [{ "Name" : "iterator" ,
+"Nodes" : 5,
+"0" : [ ],
+"1" : [ 1, 2, 3, 7, 9, 10],
+"3" : [ 0, 5, 6, 8],
+"2" : [ 4],
+"4" : [ 4],
+"CoveredDUAsByNodes" : 11,
+"Duas" : 13
+}]
+}

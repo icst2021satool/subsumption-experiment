@@ -1,0 +1,14 @@
+{
+"Class" : "edu.stanford.nlp.optimization.InefficientSGDMinimizer$1", 
+"Methods" : [{ "Name" : "derivativeAt" ,
+"Duas" : "15" ,
+"Subsumers" : 2,
+"0" : [ 13, 14, 11], "S0" : [0, 1, 2, 3, 4, 5, 6, 7, 9, 10, 11, 12, 13, 14 ],
+"1" : [ 8], "S1" : [0, 4, 8 ]
+},{ "Name" : "valuePow" ,
+"Duas" : "16" ,
+"Subsumers" : 2,
+"0" : [ 14, 15, 12, 11], "S0" : [0, 1, 2, 3, 5, 6, 8, 9, 10, 11, 12, 13, 14, 15 ],
+"1" : [ 7, 4], "S1" : [2, 4, 7 ]
+}]
+}

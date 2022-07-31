@@ -1,0 +1,15 @@
+{
+"Class" : "edu.stanford.nlp.trees.ud.UniversalGappingEnhancer$ArgumentSequence", 
+"Methods" : [{ "Name" : "getAverageEmbeddings" ,
+"Nodes" : 7,
+"Duas" : 9,
+"0" :  [ 0,2 ],
+"1" :  [ 0,2 ],
+"2" :  [ 0,2 ],
+"3" :  [ 0,5 ],
+"4" :  [ 3,5 ],
+"5" :  [ 3,4 ],
+"6" :  [ 3,5 ],
+"7" :  [ 5,2 ],
+"8" :  [ 5 ]}]
+}

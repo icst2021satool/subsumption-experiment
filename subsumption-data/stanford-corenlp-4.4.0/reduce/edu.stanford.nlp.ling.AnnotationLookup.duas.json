@@ -1,0 +1,18 @@
+{
+"Class" : "edu.stanford.nlp.ling.AnnotationLookup", 
+"Methods" : [{ "Name" : "toCoreKey" ,
+"Duas" : 5,
+"0" :  "(135,(136,137), stringKey)",
+"1" :  "(135,(136,135), stringKey)",
+"2" :  "(135,(136,137), lookup)",
+"3" :  "(135,(136,135), lookup)",
+"4" :  "(135,137, lookup)"},{ "Name" : "getValueType" ,
+"Duas" : 7,
+"0" :  "(154,157, key)",
+"1" :  "(154,161, key)",
+"2" :  "(154,161, valueCache)",
+"3" :  "(154,(155,157), type)",
+"4" :  "(154,(155,163), type)",
+"5" :  "(154,163, type)",
+"6" :  "(157,163, type)"}]
+}

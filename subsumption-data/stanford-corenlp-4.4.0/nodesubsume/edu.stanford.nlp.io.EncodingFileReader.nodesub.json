@@ -1,0 +1,22 @@
+{
+"Class" : "edu.stanford.nlp.io.EncodingFileReader", 
+"Methods" : [{ "Name" : "<init>" ,
+"Nodes" : 5,
+"0" : [ ],
+"1" : [ 2],
+"3" : [ 1],
+"2" : [ 0, 3],
+"4" : [ 0, 3],
+"CoveredDUAsByNodes" : 4,
+"Duas" : 4
+},{ "Name" : "<init>" ,
+"Nodes" : 5,
+"0" : [ ],
+"1" : [ 2],
+"3" : [ 1],
+"2" : [ 0, 3],
+"4" : [ 0, 3],
+"CoveredDUAsByNodes" : 4,
+"Duas" : 4
+}]
+}

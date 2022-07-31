@@ -1,0 +1,23 @@
+{
+"Class" : "edu.stanford.nlp.trees.international.negra.NegraPennTreeReaderFactory", 
+"Methods" : [{ "Name" : "newTreeReader" ,
+"Duas" : 8,
+"0" :  "(44,(45,46), this)",
+"1" :  "(44,(45,48), this)",
+"2" :  "(44,48, in)",
+"3" :  "(44,48, in)",
+"4" :  "(44,(45,46), this.treeNormalizerInsertNPinPP)",
+"5" :  "(44,(45,48), this.treeNormalizerInsertNPinPP)",
+"6" :  "(44,48, tn)",
+"7" :  "(44,46, tn)"},{ "Name" : "main" ,
+"Duas" : 9,
+"0" :  "(56,(56,57), args)",
+"1" :  "(56,(56,61), args)",
+"2" :  "(56,65, args)",
+"3" :  "(56,57, out)",
+"4" :  "(65,67, tr)",
+"5" :  "(65,(67,68), tr)",
+"6" :  "(65,(67,71), tr)",
+"7" :  "(65,71, tr)",
+"8" :  "(67,68, t)"}]
+}

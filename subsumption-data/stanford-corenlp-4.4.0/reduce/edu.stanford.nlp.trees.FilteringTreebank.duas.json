@@ -1,0 +1,13 @@
+{
+"Class" : "edu.stanford.nlp.trees.FilteringTreebank", 
+"Methods" : [{ "Name" : "apply" ,
+"Duas" : 8,
+"0" :  "(57,(58,60), this)",
+"1" :  "(57,(58,62), this)",
+"2" :  "(57,64, tv)",
+"3" :  "(57,(58,60), this.filter)",
+"4" :  "(57,(58,62), this.filter)",
+"5" :  "(57,(58,60), t)",
+"6" :  "(57,(58,62), t)",
+"7" :  "(57,62, t)"}]
+}

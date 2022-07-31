@@ -1,0 +1,20 @@
+{
+"Class" : "edu.stanford.nlp.trees.tregex.tsurgeon.FetchNode$Matcher", 
+"Methods" : [{ "Name" : "evaluate" ,
+"Duas" : 15,
+"0" :  "(36,41, this)",
+"1" :  "(36,38, this)",
+"2" :  "(36,38, tregex)",
+"3" :  "(36,41, this.this$0)",
+"4" :  "(36,38, this.this$0)",
+"5" :  "(36,41, this.label)",
+"6" :  "(36,38, this.label)",
+"7" :  "(36,(37,38), result)",
+"8" :  "(36,(37,40), result)",
+"9" :  "(36,(40,41), result)",
+"10" :  "(36,(40,44), result)",
+"11" :  "(36,44, result)",
+"12" :  "(38,(40,41), result)",
+"13" :  "(38,(40,44), result)",
+"14" :  "(38,44, result)"}]
+}

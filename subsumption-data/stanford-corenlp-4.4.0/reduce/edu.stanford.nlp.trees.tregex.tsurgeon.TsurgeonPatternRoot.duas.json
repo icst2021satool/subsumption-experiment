@@ -1,0 +1,12 @@
+{
+"Class" : "edu.stanford.nlp.trees.tregex.tsurgeon.TsurgeonPatternRoot", 
+"Methods" : [{ "Name" : "matcher" ,
+"Duas" : 7,
+"0" :  "(35,(36,37), this)",
+"1" :  "(35,(36,39), this)",
+"2" :  "(35,39, this)",
+"3" :  "(35,(36,37), this.coindexes)",
+"4" :  "(35,(36,39), this.coindexes)",
+"5" :  "(35,39, coindexer)",
+"6" :  "(37,39, coindexer)"}]
+}

@@ -1,0 +1,10 @@
+{
+"Class" : "edu.stanford.nlp.tagger.maxent.CTBunkDictDetector", 
+"Methods" : [{ "Name" : "extract" ,
+"Nodes" : 4,
+"0" : [ 1584,1586 ],
+"1" : [ 1588 ],
+"2" : [ 1587 ],
+"3" : [  ]
+}]
+}

@@ -1,0 +1,8 @@
+{
+"Class" : "edu.stanford.nlp.ling.tokensregex.ComplexNodePattern$SequenceRegexPattern", 
+"Methods" : [{ "Name" : "matchWithResult" ,
+"Duas" : 3,
+"0" :  "(233,(234,235), m)",
+"1" :  "(233,(234,237), m)",
+"2" :  "(233,235, m)"}]
+}

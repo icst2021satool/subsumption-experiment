@@ -1,0 +1,11 @@
+{
+"Class" : "edu.stanford.nlp.ling.tokensregex.TokenSequencePattern", 
+"Methods" : [{ "Name" : "compile" ,
+"Nodes" : 5,
+"Duas" : 5,
+"0" :  [ 0,3 ],
+"1" :  [ 0,2 ],
+"2" :  [ 0,3 ],
+"3" :  [ 0,2 ],
+"4" :  [ 0,3 ]}]
+}

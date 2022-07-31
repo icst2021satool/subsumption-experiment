@@ -1,0 +1,12 @@
+{
+"Class" : "edu.stanford.nlp.time.SUTime$SimpleTime", 
+"Methods" : [{ "Name" : "toFormattedString" ,
+"Nodes" : 6,
+"0" : [ 1720 ],
+"1" : [ 1723 ],
+"2" : [ 1726 ],
+"3" : [ 1724 ],
+"4" : [ 1721 ],
+"5" : [  ]
+}]
+}

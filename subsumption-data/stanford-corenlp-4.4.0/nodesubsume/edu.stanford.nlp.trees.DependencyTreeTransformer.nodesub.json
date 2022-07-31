@@ -1,0 +1,35 @@
+{
+"Class" : "edu.stanford.nlp.trees.DependencyTreeTransformer", 
+"Methods" : [{ "Name" : "cleanUpRoot" ,
+"Nodes" : 5,
+"0" : [ ],
+"2" : [ 0],
+"3" : [ 0, 3, 4],
+"1" : [ ],
+"4" : [ ],
+"CoveredDUAsByNodes" : 3,
+"Duas" : 5
+},{ "Name" : "cleanUpLabel" ,
+"Nodes" : 8,
+"0" : [ ],
+"1" : [ 0, 2, 3, 4, 5, 6, 7, 8],
+"2" : [ 0, 2, 3, 4, 5, 6, 7, 8, 10],
+"4" : [ 0, 2, 3, 4, 5, 6, 7, 8, 10, 11, 14],
+"5" : [ 0, 2, 3, 4, 5, 6, 7, 8, 9, 15],
+"3" : [ 0, 2, 3, 4, 5, 6, 7, 8],
+"6" : [ 1],
+"7" : [ ],
+"CoveredDUAsByNodes" : 14,
+"Duas" : 18
+},{ "Name" : "stripTag" ,
+"Nodes" : 6,
+"0" : [ ],
+"2" : [ 0, 2, 4, 5, 6],
+"3" : [ 0, 2, 4, 5, 6],
+"1" : [ ],
+"5" : [ ],
+"4" : [ 0, 1, 2, 4, 5, 6],
+"CoveredDUAsByNodes" : 6,
+"Duas" : 7
+}]
+}

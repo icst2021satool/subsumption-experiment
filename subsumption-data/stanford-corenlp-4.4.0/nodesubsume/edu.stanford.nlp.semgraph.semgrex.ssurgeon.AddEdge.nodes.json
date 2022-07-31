@@ -1,0 +1,14 @@
+{
+"Class" : "edu.stanford.nlp.semgraph.semgrex.ssurgeon.AddEdge", 
+"Methods" : [{ "Name" : "evaluate" ,
+"Nodes" : 8,
+"0" : [ 72,73,74,75 ],
+"1" : [ 84 ],
+"2" : [ 78 ],
+"3" : [ 80 ],
+"4" : [ 82 ],
+"5" : [ 81 ],
+"6" : [ 79 ],
+"7" : [  ]
+}]
+}

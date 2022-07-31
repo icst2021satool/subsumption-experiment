@@ -1,0 +1,9 @@
+{
+"Class" : "edu.stanford.nlp.trees.RightHeadFinder", 
+"Methods" : [{ "Name" : "determineHead" ,
+"Duas" : "4" ,
+"Subsumers" : 2,
+"0" : [ 0], "S0" : [0 ],
+"1" : [ 2, 3, 1], "S1" : [1, 2, 3 ]
+}]
+}

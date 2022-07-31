@@ -1,0 +1,10 @@
+{
+"Class" : "edu.stanford.nlp.loglinear.learning.AbstractBatchOptimizer$GradientWorker", 
+"Methods" : [{ "Name" : "run" ,
+"Duas" : "17" ,
+"Subsumers" : 3,
+"0" : [ 15, 6, 0, 1, 2], "S0" : [0, 1, 2, 6, 15 ],
+"1" : [ 13, 11, 4], "S1" : [3, 4, 7, 8, 9, 10, 11, 13 ],
+"2" : [ 16], "S2" : [3, 5, 7, 8, 9, 10, 12, 14, 16 ]
+}]
+}

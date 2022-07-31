@@ -1,0 +1,25 @@
+{
+"Class" : "edu.stanford.nlp.patterns.surface.PatternsForEachToken", 
+"Methods" : [{ "Name" : "updatePatterns" ,
+"Nodes" : 7,
+"0" : [ ],
+"1" : [ ],
+"2" : [ 0, 1, 3],
+"6" : [ 0, 1, 3],
+"3" : [ 2],
+"5" : [ 2, 6],
+"4" : [ 2, 4, 5],
+"CoveredDUAsByNodes" : 7,
+"Duas" : 10
+},{ "Name" : "getPatternsInstance" ,
+"Nodes" : 6,
+"0" : [ ],
+"1" : [ 0, 6, 10],
+"2" : [ 1, 5, 9],
+"3" : [ 2, 4, 8],
+"4" : [ ],
+"5" : [ ],
+"CoveredDUAsByNodes" : 9,
+"Duas" : 15
+}]
+}

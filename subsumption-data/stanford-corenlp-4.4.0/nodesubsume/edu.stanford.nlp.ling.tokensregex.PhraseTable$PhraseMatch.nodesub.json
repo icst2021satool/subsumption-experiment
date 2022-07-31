@@ -1,0 +1,12 @@
+{
+"Class" : "edu.stanford.nlp.ling.tokensregex.PhraseTable$PhraseMatch", 
+"Methods" : [{ "Name" : "getInterval" ,
+"Nodes" : 4,
+"0" : [ ],
+"2" : [ 0, 3, 4, 7, 8],
+"1" : [ 2],
+"3" : [ 2],
+"CoveredDUAsByNodes" : 6,
+"Duas" : 10
+}]
+}

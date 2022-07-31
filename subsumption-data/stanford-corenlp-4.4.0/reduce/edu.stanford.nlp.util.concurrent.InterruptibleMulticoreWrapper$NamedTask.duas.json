@@ -1,0 +1,9 @@
+{
+"Class" : "edu.stanford.nlp.util.concurrent.InterruptibleMulticoreWrapper$NamedTask", 
+"Methods" : [{ "Name" : "<init>" ,
+"Duas" : 4,
+"0" :  "(142,148, this)",
+"1" :  "(142,(143,144), c)",
+"2" :  "(142,(143,147), c)",
+"3" :  "(142,147, c)"}]
+}

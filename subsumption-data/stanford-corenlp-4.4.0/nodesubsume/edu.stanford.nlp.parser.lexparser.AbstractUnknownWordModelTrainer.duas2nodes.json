@@ -1,0 +1,16 @@
+{
+"Class" : "edu.stanford.nlp.parser.lexparser.AbstractUnknownWordModelTrainer", 
+"Methods" : [{ "Name" : "train" ,
+"Nodes" : 5,
+"Duas" : 2,
+"0" :  [ 0,3 ],
+"1" :  [ 0,3 ]},{ "Name" : "train" ,
+"Nodes" : 5,
+"Duas" : 6,
+"0" :  [ 0,3 ],
+"1" :  [ 0,3 ],
+"2" :  [ 0,3 ],
+"3" :  [ 0,3 ],
+"4" :  [ 3 ],
+"5" :  [ 3 ]}]
+}

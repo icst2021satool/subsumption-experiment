@@ -1,0 +1,13 @@
+{
+"Class" : "edu.stanford.nlp.util.logging.LogFilter$HasChannel", 
+"Methods" : [{ "Name" : "matches" ,
+"Nodes" : 7,
+"0" : [ 26 ],
+"1" : [ 26 ],
+"2" : [ 31 ],
+"3" : [ 26,27 ],
+"4" : [ 26 ],
+"5" : [ 28 ],
+"6" : [  ]
+}]
+}

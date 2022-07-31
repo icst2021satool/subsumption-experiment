@@ -1,0 +1,11 @@
+{
+"Class" : "edu.stanford.nlp.util.logging.LogFilter$HasChannel", 
+"Methods" : [{ "Name" : "matches" ,
+"Duas" : 6,
+"0" :  "(26,(27,28), this)",
+"1" :  "(26,(27,26), this)",
+"2" :  "(26,(27,28), this.matchingChannel)",
+"3" :  "(26,(27,26), this.matchingChannel)",
+"4" :  "(26,(27,28), tag)",
+"5" :  "(26,(27,26), tag)"}]
+}

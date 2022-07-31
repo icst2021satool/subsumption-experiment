@@ -1,0 +1,13 @@
+{
+"Class" : "edu.stanford.nlp.trees.FilteringTreebank", 
+"Methods" : [{ "Name" : "apply" ,
+"Nodes" : 7,
+"0" : [ 57 ],
+"1" : [ 57 ],
+"2" : [ 66 ],
+"3" : [ 57,58 ],
+"4" : [ 64,65,62 ],
+"5" : [ 60 ],
+"6" : [  ]
+}]
+}

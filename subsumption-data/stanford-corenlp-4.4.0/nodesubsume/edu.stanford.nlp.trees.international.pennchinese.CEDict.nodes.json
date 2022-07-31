@@ -1,0 +1,14 @@
+{
+"Class" : "edu.stanford.nlp.trees.international.pennchinese.CEDict", 
+"Methods" : [{ "Name" : "path" ,
+"Nodes" : 8,
+"0" : [ 11,12 ],
+"1" : [ 16,15 ],
+"2" : [ 19,20,21 ],
+"3" : [ 24 ],
+"4" : [ 22 ],
+"5" : [ 17 ],
+"6" : [ 13 ],
+"7" : [  ]
+}]
+}

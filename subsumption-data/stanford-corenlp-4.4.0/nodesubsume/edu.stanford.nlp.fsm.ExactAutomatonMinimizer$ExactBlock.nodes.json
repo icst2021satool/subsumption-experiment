@@ -1,0 +1,10 @@
+{
+"Class" : "edu.stanford.nlp.fsm.ExactAutomatonMinimizer$ExactBlock", 
+"Methods" : [{ "Name" : "<init>" ,
+"Nodes" : 4,
+"0" : [ 225,226 ],
+"1" : [ 229,230 ],
+"2" : [ 227 ],
+"3" : [  ]
+}]
+}

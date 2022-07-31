@@ -1,0 +1,12 @@
+{
+"Class" : "edu.stanford.nlp.util.Iterables$5$1", 
+"Methods" : [{ "Name" : "hasNext" ,
+"Nodes" : 5,
+"CoveredDUAsByNodes" : -1,
+"Duas" : 22
+},{ "Name" : "next" ,
+"Nodes" : 5,
+"CoveredDUAsByNodes" : -1,
+"Duas" : 22
+}]
+}

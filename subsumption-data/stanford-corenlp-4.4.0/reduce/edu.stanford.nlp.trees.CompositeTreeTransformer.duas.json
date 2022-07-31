@@ -1,0 +1,9 @@
+{
+"Class" : "edu.stanford.nlp.trees.CompositeTreeTransformer", 
+"Methods" : [{ "Name" : "transformTree" ,
+"Duas" : 4,
+"0" :  "(29,32, t)",
+"1" :  "(29,30, t)",
+"2" :  "(30,32, t)",
+"3" :  "(30,30, t)"}]
+}

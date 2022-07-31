@@ -1,0 +1,14 @@
+{
+"Class" : "edu.stanford.nlp.simple.ChineseDocument$2", 
+"Methods" : [{ "Name" : "<init>" ,
+"Nodes" : 6,
+"0" : [ ],
+"2" : [ 3],
+"3" : [ 3, 5],
+"4" : [ 3, 6],
+"1" : [ 0, 1, 2],
+"5" : [ 0, 1, 2],
+"CoveredDUAsByNodes" : 6,
+"Duas" : 7
+}]
+}

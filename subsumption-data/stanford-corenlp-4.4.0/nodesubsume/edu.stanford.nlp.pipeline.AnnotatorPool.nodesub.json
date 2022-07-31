@@ -1,0 +1,32 @@
+{
+"Class" : "edu.stanford.nlp.pipeline.AnnotatorPool", 
+"Methods" : [{ "Name" : "register" ,
+"Nodes" : 7,
+"0" : [ ],
+"5" : [ 11],
+"1" : [ ],
+"4" : [ 16, 2, 19, 5, 8, 13],
+"2" : [ 0, 1, 3, 4, 7, 15],
+"3" : [ ],
+"6" : [ ],
+"CoveredDUAsByNodes" : 13,
+"Duas" : 23
+},{ "Name" : "clear" ,
+"Nodes" : 5,
+"0" : [ ],
+"1" : [ ],
+"2" : [ ],
+"4" : [ ],
+"3" : [ 0, 1],
+"CoveredDUAsByNodes" : 2,
+"Duas" : 2
+},{ "Name" : "get" ,
+"Nodes" : 4,
+"0" : [ ],
+"1" : [ 0, 2],
+"2" : [ 1, 3, 4],
+"3" : [ ],
+"CoveredDUAsByNodes" : 5,
+"Duas" : 5
+}]
+}

@@ -1,0 +1,16 @@
+{
+"Class" : "edu.stanford.nlp.io.EncodingPrintWriter$err", 
+"Methods" : [{ "Name" : "setupErrWriter" ,
+"Duas" : 11,
+"0" :  "(42,(42,43), encoding)",
+"1" :  "(42,(42,45), encoding)",
+"2" :  "(42,47, encoding)",
+"3" :  "(42,48, encoding)",
+"4" :  "(42,(45,47), encoding)",
+"5" :  "(42,(45,55), encoding)",
+"6" :  "(42,47, err)",
+"7" :  "(43,47, encoding)",
+"8" :  "(43,48, encoding)",
+"9" :  "(43,(45,47), encoding)",
+"10" :  "(43,(45,55), encoding)"}]
+}

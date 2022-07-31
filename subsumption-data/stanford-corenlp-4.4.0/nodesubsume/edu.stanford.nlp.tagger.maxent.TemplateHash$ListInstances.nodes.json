@@ -1,0 +1,11 @@
+{
+"Class" : "edu.stanford.nlp.tagger.maxent.TemplateHash$ListInstances", 
+"Methods" : [{ "Name" : "getInstances" ,
+"Nodes" : 5,
+"0" : [ 215,216,217,218 ],
+"1" : [ 218 ],
+"2" : [ 221 ],
+"3" : [ 218,219 ],
+"4" : [  ]
+}]
+}

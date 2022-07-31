@@ -1,0 +1,11 @@
+{
+"Class" : "edu.stanford.nlp.trees.international.arabic.ArabicTreebankTokenizer", 
+"Methods" : [{ "Name" : "getNext" ,
+"Duas" : "31" ,
+"Subsumers" : 0 
+},{ "Name" : "main" ,
+"Duas" : "4" ,
+"Subsumers" : 1,
+"0" : [ 3, 1, 0], "S0" : [0, 1, 2, 3 ]
+}]
+}

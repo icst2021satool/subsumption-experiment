@@ -1,0 +1,28 @@
+{
+"Class" : "edu.stanford.nlp.util.OneToOneMap", 
+"Methods" : [{ "Name" : "put" ,
+"Nodes" : 4,
+"0" : [ ],
+"1" : [ 0, 1, 2, 3, 4, 5, 6, 7, 9, 11],
+"2" : [ 8, 10],
+"3" : [ ],
+"CoveredDUAsByNodes" : 12,
+"Duas" : 12
+},{ "Name" : "removeLeftAsKey" ,
+"Nodes" : 4,
+"0" : [ ],
+"2" : [ 0, 1, 2, 5],
+"1" : [ 4],
+"3" : [ 4],
+"CoveredDUAsByNodes" : 5,
+"Duas" : 6
+},{ "Name" : "removeRightAsKey" ,
+"Nodes" : 4,
+"0" : [ ],
+"2" : [ 0, 1, 2, 5],
+"1" : [ 4],
+"3" : [ 4],
+"CoveredDUAsByNodes" : 5,
+"Duas" : 6
+}]
+}

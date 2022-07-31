@@ -1,0 +1,13 @@
+{
+"Class" : "edu.stanford.nlp.naturalli.ClauseSplitterSearchProblem$State", 
+"Methods" : [{ "Name" : "withIsDone" ,
+"Nodes" : 7,
+"0" : [ 178 ],
+"1" : [ 180 ],
+"2" : [ 183 ],
+"3" : [ 181 ],
+"4" : [ 185 ],
+"5" : [ 179 ],
+"6" : [  ]
+}]
+}

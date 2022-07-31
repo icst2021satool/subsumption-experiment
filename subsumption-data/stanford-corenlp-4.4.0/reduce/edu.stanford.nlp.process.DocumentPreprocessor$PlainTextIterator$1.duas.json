@@ -1,0 +1,9 @@
+{
+"Class" : "edu.stanford.nlp.process.DocumentPreprocessor$PlainTextIterator$1", 
+"Methods" : [{ "Name" : "apply" ,
+"Duas" : 4,
+"0" :  "(286,290, in)",
+"1" :  "(286,(287,288), splits)",
+"2" :  "(286,(287,290), splits)",
+"3" :  "(286,288, splits)"}]
+}

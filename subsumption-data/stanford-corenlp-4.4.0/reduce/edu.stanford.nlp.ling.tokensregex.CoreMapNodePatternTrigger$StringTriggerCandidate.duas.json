@@ -1,0 +1,16 @@
+{
+"Class" : "edu.stanford.nlp.ling.tokensregex.CoreMapNodePatternTrigger$StringTriggerCandidate", 
+"Methods" : [{ "Name" : "<init>" ,
+"Duas" : 11,
+"0" :  "(76,81, this)",
+"1" :  "(76,83, this)",
+"2" :  "(76,(81,81), key)",
+"3" :  "(76,(81,81), key)",
+"4" :  "(76,(81,81), key)",
+"5" :  "(76,(81,81), key)",
+"6" :  "(76,(83,83), value)",
+"7" :  "(76,(83,83), value)",
+"8" :  "(76,83, value)",
+"9" :  "(76,(83,83), value)",
+"10" :  "(76,(83,83), value)"}]
+}

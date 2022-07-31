@@ -1,0 +1,9 @@
+{
+"Class" : "edu.stanford.nlp.semgraph.semgrex.ssurgeon.RemoveNamedEdge", 
+"Methods" : [{ "Name" : "evaluate" ,
+"Duas" : 4,
+"0" :  "(51,57, sg)",
+"1" :  "(54,(56,57), edge)",
+"2" :  "(54,(56,59), edge)",
+"3" :  "(54,57, edge)"}]
+}

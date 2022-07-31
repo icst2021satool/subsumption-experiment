@@ -1,0 +1,14 @@
+{
+"Class" : "edu.stanford.nlp.trees.UniversalPOSMapper", 
+"Methods" : [{ "Name" : "mapTree" ,
+"Nodes" : 6,
+"0" : [ ],
+"4" : [ 2],
+"1" : [ ],
+"2" : [ 0, 5, 6],
+"3" : [ 1, 4],
+"5" : [ ],
+"CoveredDUAsByNodes" : 6,
+"Duas" : 7
+}]
+}

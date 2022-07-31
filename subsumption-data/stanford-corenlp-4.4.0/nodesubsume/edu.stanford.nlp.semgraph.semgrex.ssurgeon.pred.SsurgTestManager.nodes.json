@@ -1,0 +1,10 @@
+{
+"Class" : "edu.stanford.nlp.semgraph.semgrex.ssurgeon.pred.SsurgTestManager", 
+"Methods" : [{ "Name" : "inst" ,
+"Nodes" : 4,
+"0" : [ 28 ],
+"1" : [ 30 ],
+"2" : [ 29 ],
+"3" : [  ]
+}]
+}

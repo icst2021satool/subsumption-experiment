@@ -1,0 +1,8 @@
+{
+"Class" : "edu.stanford.nlp.patterns.dep.ApplyDepPatterns$2", 
+"Methods" : [{ "Name" : "apply" ,
+"Nodes" : 5,
+"Duas" : 2,
+"0" :  [ 0,2 ],
+"1" :  [ 0,3 ]}]
+}

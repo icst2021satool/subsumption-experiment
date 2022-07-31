@@ -1,0 +1,15 @@
+{
+"Class" : "edu.stanford.nlp.trees.tregex.gui.MatchesPanel$MatchCellRenderer", 
+"Methods" : [{ "Name" : "getListCellRendererComponent" ,
+"Duas" : 10,
+"0" :  "(382,386, this)",
+"1" :  "(382,(385,386), isSelected)",
+"2" :  "(382,(385,388), isSelected)",
+"3" :  "(382,(385,385), cellHasFocus)",
+"4" :  "(382,(385,386), cellHasFocus)",
+"5" :  "(382,386, this.this$0)",
+"6" :  "(382,388, WHITE)",
+"7" :  "(382,386, l)",
+"8" :  "(382,390, l)",
+"9" :  "(382,388, l)"}]
+}

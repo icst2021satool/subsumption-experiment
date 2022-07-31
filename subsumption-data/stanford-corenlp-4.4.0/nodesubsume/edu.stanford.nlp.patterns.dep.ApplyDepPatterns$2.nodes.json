@@ -1,0 +1,11 @@
+{
+"Class" : "edu.stanford.nlp.patterns.dep.ApplyDepPatterns$2", 
+"Methods" : [{ "Name" : "apply" ,
+"Nodes" : 5,
+"0" : [ 210,211,212,213,214 ],
+"1" : [ 214 ],
+"2" : [ 217 ],
+"3" : [ 214,215,216 ],
+"4" : [  ]
+}]
+}

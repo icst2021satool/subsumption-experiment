@@ -1,0 +1,18 @@
+{
+"Class" : "edu.stanford.nlp.trees.FilteringTreebank$FilteringTreebankIterator", 
+"Methods" : [{ "Name" : "hasNext" ,
+"Nodes" : 5,
+"0" : [ 89 ],
+"1" : [ 89 ],
+"2" : [ 89 ],
+"3" : [ 89 ],
+"4" : [  ]
+},{ "Name" : "primeNext" ,
+"Nodes" : 5,
+"0" : [ 99 ],
+"1" : [ 105,106 ],
+"2" : [ 100,101 ],
+"3" : [ 102 ],
+"4" : [  ]
+}]
+}

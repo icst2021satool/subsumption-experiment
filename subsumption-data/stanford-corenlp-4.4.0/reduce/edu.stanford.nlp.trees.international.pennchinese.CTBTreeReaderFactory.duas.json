@@ -1,0 +1,17 @@
+{
+"Class" : "edu.stanford.nlp.trees.international.pennchinese.CTBTreeReaderFactory", 
+"Methods" : [{ "Name" : "newTreeReader" ,
+"Duas" : 12,
+"0" :  "(45,(45,46), this)",
+"1" :  "(45,(45,48), this)",
+"2" :  "(45,48, this)",
+"3" :  "(45,46, this)",
+"4" :  "(45,48, in)",
+"5" :  "(45,48, in)",
+"6" :  "(45,46, in)",
+"7" :  "(45,46, in)",
+"8" :  "(45,(45,46), this.discardFrags)",
+"9" :  "(45,(45,48), this.discardFrags)",
+"10" :  "(45,48, this.tn)",
+"11" :  "(45,46, this.tn)"}]
+}

@@ -1,0 +1,33 @@
+{
+"Class" : "edu.stanford.nlp.international.spanish.pipeline.AnCoraProcessor$RightOfExclusiveFilter", 
+"Methods" : [{ "Name" : "test" ,
+"Nodes" : 7,
+"0" : [ 273 ],
+"1" : [ 276,277 ],
+"2" : [ 277 ],
+"3" : [ 277 ],
+"4" : [ 277 ],
+"5" : [ 274 ],
+"6" : [  ]
+},{ "Name" : "getFollowingTerminal" ,
+"Nodes" : 4,
+"0" : [ 284,285 ],
+"1" : [ 287 ],
+"2" : [ 286 ],
+"3" : [  ]
+},{ "Name" : "getRightSiblingOrRightAncestor" ,
+"Nodes" : 6,
+"0" : [ 297,298 ],
+"1" : [ 300,301 ],
+"2" : [ 305 ],
+"3" : [ 303 ],
+"4" : [ 298 ],
+"5" : [  ]
+},{ "Name" : "getLeftmostDescendant" ,
+"Nodes" : 4,
+"0" : [ 309 ],
+"1" : [ 310 ],
+"2" : [ 309 ],
+"3" : [  ]
+}]
+}

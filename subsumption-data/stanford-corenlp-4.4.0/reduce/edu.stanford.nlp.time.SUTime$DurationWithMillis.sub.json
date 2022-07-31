@@ -1,0 +1,20 @@
+{
+"Class" : "edu.stanford.nlp.time.SUTime$DurationWithMillis", 
+"Methods" : [{ "Name" : "multiplyBy" ,
+"Duas" : "6" ,
+"Subsumers" : 2,
+"0" : [ 5, 4, 3, 0], "S0" : [0, 3, 4, 5 ],
+"1" : [ 2, 1], "S1" : [1, 2 ]
+},{ "Name" : "divideBy" ,
+"Duas" : "6" ,
+"Subsumers" : 2,
+"0" : [ 5, 4, 3, 0], "S0" : [0, 3, 4, 5 ],
+"1" : [ 2, 1], "S1" : [1, 2 ]
+},{ "Name" : "add" ,
+"Duas" : "10" ,
+"Subsumers" : 3,
+"0" : [ 7, 4, 0], "S0" : [0, 3, 4, 7 ],
+"1" : [ 9, 8, 2, 1], "S1" : [1, 2, 8, 9 ],
+"2" : [ 6, 5], "S2" : [3, 5, 6 ]
+}]
+}

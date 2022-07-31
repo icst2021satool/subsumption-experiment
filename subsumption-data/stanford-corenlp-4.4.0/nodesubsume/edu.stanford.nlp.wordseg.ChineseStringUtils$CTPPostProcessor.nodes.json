@@ -1,0 +1,10 @@
+{
+"Class" : "edu.stanford.nlp.wordseg.ChineseStringUtils$CTPPostProcessor", 
+"Methods" : [{ "Name" : "postProcessingAnswer" ,
+"Nodes" : 4,
+"0" : [ 258,259,260 ],
+"1" : [ 263,264,265,266,267 ],
+"2" : [ 261 ],
+"3" : [  ]
+}]
+}

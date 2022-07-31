@@ -1,0 +1,11 @@
+{
+"Class" : "edu.stanford.nlp.tagger.maxent.CWordBooleanExtractor", 
+"Methods" : [{ "Name" : "extract" ,
+"Nodes" : 5,
+"0" : [ 1605,1606 ],
+"1" : [ 1606 ],
+"2" : [ 1606 ],
+"3" : [ 1606 ],
+"4" : [  ]
+}]
+}

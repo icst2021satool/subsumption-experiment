@@ -1,0 +1,17 @@
+{
+"Class" : "edu.stanford.nlp.semgraph.semgrex.GraphRelation$SearchNodeIterator", 
+"Methods" : [{ "Name" : "hasNext" ,
+"Duas" : 4,
+"0" :  "(1115,(1115,1115), this)",
+"1" :  "(1115,(1115,1115), this)",
+"2" :  "(1115,(1115,1115), this.next)",
+"3" :  "(1115,(1115,1115), this.next)"},{ "Name" : "next" ,
+"Duas" : 7,
+"0" :  "(1119,(1119,1120), this)",
+"1" :  "(1119,(1119,1122), this)",
+"2" :  "(1119,1122, this)",
+"3" :  "(1119,1123, this)",
+"4" :  "(1119,(1119,1120), this.next)",
+"5" :  "(1119,(1119,1122), this.next)",
+"6" :  "(1119,1122, this.next)"}]
+}

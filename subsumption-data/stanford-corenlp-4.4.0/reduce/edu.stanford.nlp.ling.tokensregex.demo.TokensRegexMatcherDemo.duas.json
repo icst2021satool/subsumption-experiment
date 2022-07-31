@@ -1,0 +1,23 @@
+{
+"Class" : "edu.stanford.nlp.ling.tokensregex.demo.TokensRegexMatcherDemo", 
+"Methods" : [{ "Name" : "main" ,
+"Duas" : 18,
+"0" :  "(24,42, out)",
+"1" :  "(24,43, out)",
+"2" :  "(24,48, out)",
+"3" :  "(24,53, out)",
+"4" :  "(24,54, out)",
+"5" :  "(24,55, out)",
+"6" :  "(24,56, out)",
+"7" :  "(24,45, out)",
+"8" :  "(24,46, out)",
+"9" :  "(28,40, sentences)",
+"10" :  "(30,37, tokenSequencePatterns)",
+"11" :  "(30,35, tokenSequencePatterns)",
+"12" :  "(37,50, multiMatcher)",
+"13" :  "(39,42, i)",
+"14" :  "(41,50, tokens)",
+"15" :  "(42,42, i)",
+"16" :  "(51,53, j)",
+"17" :  "(53,53, j)"}]
+}

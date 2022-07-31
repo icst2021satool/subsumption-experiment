@@ -1,0 +1,10 @@
+{
+"Class" : "edu.stanford.nlp.trees.tregex.gui.InputPanel$2", 
+"Methods" : [{ "Name" : "run" ,
+"Nodes" : 4,
+"0" : [ 610,611,615,616 ],
+"1" : [ 626,631 ],
+"2" : [ 618 ],
+"3" : [  ]
+}]
+}

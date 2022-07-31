@@ -1,0 +1,13 @@
+{
+"Class" : "edu.stanford.nlp.parser.nndep.demo.DependencyParserCoreNLPDemo", 
+"Methods" : [{ "Name" : "main" ,
+"Duas" : 8,
+"0" :  "(32,(32,33), args)",
+"1" :  "(32,(32,35), args)",
+"2" :  "(32,33, args)",
+"3" :  "(32,50, eolChar)",
+"4" :  "(32,50, LIST)",
+"5" :  "(32,50, log)",
+"6" :  "(33,37, text)",
+"7" :  "(35,37, text)"}]
+}

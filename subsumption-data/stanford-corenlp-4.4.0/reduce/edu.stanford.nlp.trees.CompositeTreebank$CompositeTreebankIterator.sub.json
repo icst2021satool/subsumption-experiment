@@ -1,0 +1,15 @@
+{
+"Class" : "edu.stanford.nlp.trees.CompositeTreebank$CompositeTreebankIterator", 
+"Methods" : [{ "Name" : "hasNext" ,
+"Duas" : "8" ,
+"Subsumers" : 3,
+"0" : [ 6, 2], "S0" : [0, 2, 4, 6 ],
+"1" : [ 7, 3], "S1" : [0, 3, 4, 7 ],
+"2" : [ 5, 1], "S2" : [1, 5 ]
+},{ "Name" : "next" ,
+"Duas" : "7" ,
+"Subsumers" : 2,
+"0" : [ 3, 0], "S0" : [0, 2, 3, 5, 6 ],
+"1" : [ 4, 1], "S1" : [1, 2, 4, 5, 6 ]
+}]
+}

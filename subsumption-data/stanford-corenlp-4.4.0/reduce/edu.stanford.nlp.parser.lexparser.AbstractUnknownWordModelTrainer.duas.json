@@ -1,0 +1,14 @@
+{
+"Class" : "edu.stanford.nlp.parser.lexparser.AbstractUnknownWordModelTrainer", 
+"Methods" : [{ "Name" : "train" ,
+"Duas" : 2,
+"0" :  "(44,45, this)",
+"1" :  "(44,45, weight)"},{ "Name" : "train" ,
+"Duas" : 6,
+"0" :  "(52,56, this)",
+"1" :  "(52,56, weight)",
+"2" :  "(53,56, loc)",
+"3" :  "(53,57, loc)",
+"4" :  "(57,56, loc)",
+"5" :  "(57,57, loc)"}]
+}

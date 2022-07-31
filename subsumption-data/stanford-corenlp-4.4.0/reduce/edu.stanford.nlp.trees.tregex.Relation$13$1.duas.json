@@ -1,0 +1,12 @@
+{
+"Class" : "edu.stanford.nlp.trees.tregex.Relation$13$1", 
+"Methods" : [{ "Name" : "advance" ,
+"Duas" : 7,
+"0" :  "(690,(690,691), this)",
+"1" :  "(690,(690,693), this)",
+"2" :  "(690,693, this)",
+"3" :  "(690,691, this)",
+"4" :  "(690,(690,691), this.next)",
+"5" :  "(690,(690,693), this.next)",
+"6" :  "(690,693, this.next)"}]
+}

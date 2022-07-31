@@ -1,0 +1,20 @@
+{
+"Class" : "edu.stanford.nlp.semgraph.semgrex.GraphRelation$EQUALS$1", 
+"Methods" : [{ "Name" : "advance" ,
+"Duas" : 15,
+"0" :  "(793,(793,794), this)",
+"1" :  "(793,(793,797), this)",
+"2" :  "(793,(797,798), this)",
+"3" :  "(793,(797,801), this)",
+"4" :  "(793,801, this)",
+"5" :  "(793,802, this)",
+"6" :  "(793,798, this)",
+"7" :  "(793,794, this)",
+"8" :  "(793,(793,794), this.val$node)",
+"9" :  "(793,(793,797), this.val$node)",
+"10" :  "(793,802, this.val$node)",
+"11" :  "(793,(793,794), NO_WORD)",
+"12" :  "(793,(793,797), NO_WORD)",
+"13" :  "(793,(797,798), this.alreadyIterated)",
+"14" :  "(793,(797,801), this.alreadyIterated)"}]
+}

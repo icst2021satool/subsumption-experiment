@@ -1,0 +1,17 @@
+{
+"Class" : "edu.stanford.nlp.parser.shiftreduce.DistsimFeatureFactory", 
+"Methods" : [{ "Name" : "addDistsimFeatures" ,
+"Duas" : 12,
+"0" :  "(26,33, this)",
+"1" :  "(26,35, features)",
+"2" :  "(26,36, features)",
+"3" :  "(26,(26,27), label)",
+"4" :  "(26,(26,30), label)",
+"5" :  "(26,30, label)",
+"6" :  "(26,31, label)",
+"7" :  "(26,35, featureName)",
+"8" :  "(26,36, featureName)",
+"9" :  "(26,30, HEADWORD)",
+"10" :  "(26,31, HEADTAG)",
+"11" :  "(26,33, this.distsim)"}]
+}

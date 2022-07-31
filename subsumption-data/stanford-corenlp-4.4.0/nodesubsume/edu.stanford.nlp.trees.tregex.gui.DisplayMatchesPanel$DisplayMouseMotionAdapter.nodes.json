@@ -1,0 +1,20 @@
+{
+"Class" : "edu.stanford.nlp.trees.tregex.gui.DisplayMatchesPanel$DisplayMouseMotionAdapter", 
+"Methods" : [{ "Name" : "mousePressed" ,
+"Nodes" : 4,
+"0" : [ 444 ],
+"1" : [ 445,446,447 ],
+"2" : [ 444 ],
+"3" : [  ]
+},{ "Name" : "mouseDragged" ,
+"Nodes" : 8,
+"0" : [ 451 ],
+"1" : [ 453 ],
+"2" : [ 469 ],
+"3" : [ 454,456,457,460 ],
+"4" : [ 464,465,466,462 ],
+"5" : [ 460 ],
+"6" : [ 451 ],
+"7" : [  ]
+}]
+}

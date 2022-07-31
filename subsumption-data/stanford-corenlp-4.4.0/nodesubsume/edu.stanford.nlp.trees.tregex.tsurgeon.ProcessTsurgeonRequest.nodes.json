@@ -1,0 +1,18 @@
+{
+"Class" : "edu.stanford.nlp.trees.tregex.tsurgeon.ProcessTsurgeonRequest", 
+"Methods" : [{ "Name" : "parseOperations" ,
+"Nodes" : 5,
+"0" : [ 36,38,39 ],
+"1" : [ 39 ],
+"2" : [ 45 ],
+"3" : [ 39,40,41,42,43,44 ],
+"4" : [  ]
+},{ "Name" : "processRequest" ,
+"Nodes" : 5,
+"0" : [ 54,55,57,58,59 ],
+"1" : [ 59 ],
+"2" : [ 63 ],
+"3" : [ 59,60,61,62 ],
+"4" : [  ]
+}]
+}

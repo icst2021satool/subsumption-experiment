@@ -1,0 +1,10 @@
+{
+"Class" : "edu.stanford.nlp.parser.lexparser.AbstractTreebankParserParams$AnnotatePunctuationFunction", 
+"Methods" : [{ "Name" : "apply" ,
+"Duas" : 5,
+"0" :  "(675,678, this)",
+"1" :  "(675,678, this.annotationMark)",
+"2" :  "(676,(678,678), punctClass)",
+"3" :  "(676,(678,678), punctClass)",
+"4" :  "(676,678, punctClass)"}]
+}

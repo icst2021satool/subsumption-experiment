@@ -1,0 +1,20 @@
+{
+"Class" : "edu.stanford.nlp.parser.lexparser.FrenchTreebankParserParams$AddPOSSequenceFunction", 
+"Methods" : [{ "Name" : "apply" ,
+"Nodes" : 14,
+"0" : [ 481 ],
+"1" : [ 484,485,486 ],
+"2" : [ 486 ],
+"3" : [ 493 ],
+"4" : [ 496 ],
+"5" : [ 494 ],
+"6" : [ 486,487 ],
+"7" : [ 489 ],
+"8" : [ 489 ],
+"9" : [ 486,489,490 ],
+"10" : [ 489 ],
+"11" : [ 488 ],
+"12" : [ 482 ],
+"13" : [  ]
+}]
+}

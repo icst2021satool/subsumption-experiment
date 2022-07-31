@@ -1,0 +1,12 @@
+{
+"Class" : "edu.stanford.nlp.pipeline.WebServiceAnnotator$RunningProcess", 
+"Methods" : [{ "Name" : "lambda$new$0" ,
+"Duas" : 7,
+"0" :  "(95,(98,99), this)",
+"1" :  "(95,(98,101), this)",
+"2" :  "(95,101, this)",
+"3" :  "(95,99, this)",
+"4" :  "(95,(98,99), this.process)",
+"5" :  "(95,(98,101), this.process)",
+"6" :  "(95,99, this.process)"}]
+}

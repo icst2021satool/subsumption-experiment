@@ -1,0 +1,18 @@
+{
+"Class" : "edu.stanford.nlp.ling.tokensregex.SequenceMatchRules$TextPatternExtractRuleCreator", 
+"Methods" : [{ "Name" : "create" ,
+"Nodes" : 4,
+"0" : [ 660,661 ],
+"1" : [ 662,663,664 ],
+"2" : [ 661 ],
+"3" : [  ]
+},{ "Name" : "create" ,
+"Nodes" : 6,
+"0" : [ 669,670 ],
+"1" : [ 671 ],
+"2" : [ 672,673,674,675,676 ],
+"3" : [ 671 ],
+"4" : [ 670 ],
+"5" : [  ]
+}]
+}

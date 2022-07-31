@@ -1,0 +1,12 @@
+{
+"Class" : "edu.stanford.nlp.trees.tregex.gui.MatchesPanel$MatchCellRenderer", 
+"Methods" : [{ "Name" : "getListCellRendererComponent" ,
+"Nodes" : 6,
+"0" : [ 384,385,382,383 ],
+"1" : [ 386 ],
+"2" : [ 390 ],
+"3" : [ 385 ],
+"4" : [ 388 ],
+"5" : [  ]
+}]
+}

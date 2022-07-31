@@ -1,0 +1,10 @@
+{
+"Class" : "edu.stanford.nlp.parser.dvparser.DVModelReranker$Query", 
+"Methods" : [{ "Name" : "score" ,
+"Nodes" : 4,
+"0" : [ 56,57,58 ],
+"1" : [ 64,62,63 ],
+"2" : [ 59,60 ],
+"3" : [  ]
+}]
+}

@@ -1,0 +1,14 @@
+{
+"Class" : "edu.stanford.nlp.optimization.StochasticCalculateMethods", 
+"Methods" : [{ "Name" : "parseMethod" ,
+"Duas" : 9,
+"0" :  "(45,(45,46), method)",
+"1" :  "(45,(45,47), method)",
+"2" :  "(45,(47,48), method)",
+"3" :  "(45,(47,49), method)",
+"4" :  "(45,(49,50), method)",
+"5" :  "(45,(49,52), method)",
+"6" :  "(45,46, AlgorithmicDifferentiation)",
+"7" :  "(45,48, IncorporatedFiniteDifference)",
+"8" :  "(45,50, ExternalFiniteDifference)"}]
+}

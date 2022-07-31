@@ -1,0 +1,22 @@
+{
+"Class" : "edu.stanford.nlp.util.logging.FilterHandler", 
+"Methods" : [{ "Name" : "propagateRecord" ,
+"Duas" : 17,
+"0" :  "(24,(34,34), this)",
+"1" :  "(24,(34,34), this)",
+"2" :  "(24,(29,30), this)",
+"3" :  "(24,(29,32), this)",
+"4" :  "(24,(26,27), this)",
+"5" :  "(24,(26,29), this)",
+"6" :  "(24,25, record)",
+"7" :  "(24,(34,34), this.disjunctiveMode)",
+"8" :  "(24,(34,34), this.disjunctiveMode)",
+"9" :  "(24,(29,30), this.disjunctiveMode)",
+"10" :  "(24,(29,32), this.disjunctiveMode)",
+"11" :  "(24,(26,27), this.disjunctiveMode)",
+"12" :  "(24,(26,29), this.disjunctiveMode)",
+"13" :  "(25,(26,26), match)",
+"14" :  "(25,(26,29), match)",
+"15" :  "(25,(29,29), match)",
+"16" :  "(25,(29,32), match)"}]
+}

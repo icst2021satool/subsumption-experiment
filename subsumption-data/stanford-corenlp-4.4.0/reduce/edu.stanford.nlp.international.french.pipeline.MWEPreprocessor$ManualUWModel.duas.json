@@ -1,0 +1,22 @@
+{
+"Class" : "edu.stanford.nlp.international.french.pipeline.MWEPreprocessor$ManualUWModel", 
+"Methods" : [{ "Name" : "getTag" ,
+"Duas" : 17,
+"0" :  "(68,(68,69), word)",
+"1" :  "(68,(68,70), word)",
+"2" :  "(68,(70,71), word)",
+"3" :  "(68,(70,72), word)",
+"4" :  "(68,(72,73), word)",
+"5" :  "(68,(72,74), word)",
+"6" :  "(68,(74,75), word)",
+"7" :  "(68,(74,77), word)",
+"8" :  "(68,77, word)",
+"9" :  "(68,(68,69), digit)",
+"10" :  "(68,(68,70), digit)",
+"11" :  "(68,(70,71), nouns)",
+"12" :  "(68,(70,72), nouns)",
+"13" :  "(68,(72,73), adjectives)",
+"14" :  "(68,(72,74), adjectives)",
+"15" :  "(68,(74,75), preps)",
+"16" :  "(68,(74,77), preps)"}]
+}

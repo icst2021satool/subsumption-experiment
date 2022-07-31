@@ -1,0 +1,12 @@
+{
+"Class" : "edu.stanford.nlp.semgraph.semgrex.ssurgeon.SsurgeonEdit", 
+"Methods" : [{ "Name" : "getNamedNode" ,
+"Duas" : 7,
+"0" :  "(39,(40,41), this)",
+"1" :  "(39,(40,42), this)",
+"2" :  "(39,41, this)",
+"3" :  "(39,41, nodeName)",
+"4" :  "(39,(40,40), ret)",
+"5" :  "(39,(40,42), ret)",
+"6" :  "(39,42, ret)"}]
+}

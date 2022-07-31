@@ -1,0 +1,10 @@
+{
+"Class" : "edu.stanford.nlp.process.LowercaseAndAmericanizeFunction", 
+"Methods" : [{ "Name" : "apply" ,
+"Nodes" : 4,
+"0" : [ 10 ],
+"1" : [ 13 ],
+"2" : [ 11 ],
+"3" : [  ]
+}]
+}

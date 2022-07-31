@@ -1,0 +1,21 @@
+{
+"Class" : "edu.stanford.nlp.patterns.surface.PatternsForEachToken", 
+"Methods" : [{ "Name" : "updatePatterns" ,
+"Nodes" : 7,
+"0" : [ 38 ],
+"1" : [ 38 ],
+"2" : [ 44,45,46 ],
+"3" : [ 38,39,40 ],
+"4" : [ 42,43 ],
+"5" : [ 41 ],
+"6" : [  ]
+},{ "Name" : "getPatternsInstance" ,
+"Nodes" : 6,
+"0" : [ 54,55,56 ],
+"1" : [ 68,69,70 ],
+"2" : [ 62,63 ],
+"3" : [ 58,59 ],
+"4" : [ 80 ],
+"5" : [  ]
+}]
+}

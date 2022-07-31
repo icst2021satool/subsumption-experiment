@@ -1,0 +1,20 @@
+{
+"Class" : "edu.stanford.nlp.ling.WordTagFactory", 
+"Methods" : [{ "Name" : "newLabel" ,
+"Duas" : 4,
+"0" :  "(62,65, labelStr)",
+"1" :  "(62,63, labelStr)",
+"2" :  "(62,(62,63), options)",
+"3" :  "(62,(62,65), options)"},{ "Name" : "newLabelFromString" ,
+"Duas" : 5,
+"0" :  "(83,87, word)",
+"1" :  "(83,85, word)",
+"2" :  "(83,(84,85), where)",
+"3" :  "(83,(84,87), where)",
+"4" :  "(83,85, where)"},{ "Name" : "newLabel" ,
+"Duas" : 4,
+"0" :  "(102,(102,103), oldLabel)",
+"1" :  "(102,(102,105), oldLabel)",
+"2" :  "(102,105, oldLabel)",
+"3" :  "(102,103, oldLabel)"}]
+}

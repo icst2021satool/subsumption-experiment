@@ -1,0 +1,17 @@
+{
+"Class" : "edu.stanford.nlp.ie.machinereading.structure.Relation", 
+"Methods" : [{ "Name" : "addRelation" ,
+"Duas" : 8,
+"0" :  "(19,23, this)",
+"1" :  "(19,23, relation)",
+"2" :  "(19,25, rm)",
+"3" :  "(19,23, this.relationToRelationMentions)",
+"4" :  "(20,(21,22), mentions)",
+"5" :  "(20,(21,25), mentions)",
+"6" :  "(20,25, mentions)",
+"7" :  "(22,25, mentions)"},{ "Name" : "getRelationMentions" ,
+"Duas" : 3,
+"0" :  "(30,(31,31), retVal)",
+"1" :  "(30,(31,31), retVal)",
+"2" :  "(30,31, retVal)"}]
+}

@@ -1,0 +1,31 @@
+{
+"Class" : "edu.stanford.nlp.ling.tokensregex.types.ValueFunctions$NumericFunction", 
+"Methods" : [{ "Name" : "checkArgs" ,
+"Nodes" : 11,
+"0" : [ ],
+"8" : [ 0, 7],
+"1" : [ 4],
+"2" : [ 4],
+"3" : [ 4],
+"4" : [ 4],
+"6" : [ 4, 11],
+"7" : [ 4, 11, 14],
+"5" : [ 4],
+"9" : [ 0, 2, 5, 7, 9],
+"10" : [ ],
+"CoveredDUAsByNodes" : 8,
+"Duas" : 15
+},{ "Name" : "apply" ,
+"Nodes" : 8,
+"0" : [ ],
+"5" : [ 0, 14],
+"1" : [ 7],
+"2" : [ 7],
+"3" : [ 2, 3, 19, 20, 7, 9],
+"4" : [ 21, 22, 7, 8, 24, 25, 10],
+"6" : [ 0, 16, 18, 4, 6, 11, 13, 14],
+"7" : [ ],
+"CoveredDUAsByNodes" : 20,
+"Duas" : 30
+}]
+}

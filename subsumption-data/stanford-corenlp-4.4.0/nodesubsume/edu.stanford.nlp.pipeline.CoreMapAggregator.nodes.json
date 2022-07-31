@@ -1,0 +1,10 @@
+{
+"Class" : "edu.stanford.nlp.pipeline.CoreMapAggregator", 
+"Methods" : [{ "Name" : "merge" ,
+"Nodes" : 4,
+"0" : [ 36,37 ],
+"1" : [ 40 ],
+"2" : [ 38 ],
+"3" : [  ]
+}]
+}

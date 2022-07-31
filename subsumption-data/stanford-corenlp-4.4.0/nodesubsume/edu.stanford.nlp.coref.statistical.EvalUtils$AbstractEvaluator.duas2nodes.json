@@ -1,0 +1,22 @@
+{
+"Class" : "edu.stanford.nlp.coref.statistical.EvalUtils$AbstractEvaluator", 
+"Methods" : [{ "Name" : "getRecall" ,
+"Nodes" : 5,
+"Duas" : 7,
+"0" :  [ 0,3 ],
+"1" :  [ 0,1 ],
+"2" :  [ 0,2 ],
+"3" :  [ 0,3 ],
+"4" :  [ 0,1 ],
+"5" :  [ 0,2 ],
+"6" :  [ 0,2 ]},{ "Name" : "getPrecision" ,
+"Nodes" : 5,
+"Duas" : 7,
+"0" :  [ 0,3 ],
+"1" :  [ 0,1 ],
+"2" :  [ 0,2 ],
+"3" :  [ 0,3 ],
+"4" :  [ 0,1 ],
+"5" :  [ 0,2 ],
+"6" :  [ 0,2 ]}]
+}

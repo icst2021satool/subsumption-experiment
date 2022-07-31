@@ -1,0 +1,12 @@
+{
+"Class" : "edu.stanford.nlp.io.FileFilters$NegationFileFilter", 
+"Methods" : [{ "Name" : "accept" ,
+"Nodes" : 5,
+"Duas" : 6,
+"0" :  [ 0,3 ],
+"1" :  [ 0,1 ],
+"2" :  [ 0,3 ],
+"3" :  [ 0,1 ],
+"4" :  [ 0,3 ],
+"5" :  [ 0,1 ]}]
+}

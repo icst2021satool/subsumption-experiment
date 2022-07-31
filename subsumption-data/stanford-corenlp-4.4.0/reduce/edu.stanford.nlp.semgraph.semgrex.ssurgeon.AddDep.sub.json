@@ -1,0 +1,14 @@
+{
+"Class" : "edu.stanford.nlp.semgraph.semgrex.ssurgeon.AddDep", 
+"Methods" : [{ "Name" : "fromCheapString" ,
+"Duas" : "12" ,
+"Subsumers" : 2,
+"0" : [ 11, 8, 6], "S0" : [0, 1, 2, 3, 4, 5, 6, 8, 9, 11 ],
+"1" : [ 10, 7], "S1" : [0, 1, 2, 3, 4, 5, 7, 9, 10 ]
+},{ "Name" : "nullShield" ,
+"Duas" : "3" ,
+"Subsumers" : 2,
+"0" : [ 0], "S0" : [0, 2 ],
+"1" : [ 1], "S1" : [1, 2 ]
+}]
+}

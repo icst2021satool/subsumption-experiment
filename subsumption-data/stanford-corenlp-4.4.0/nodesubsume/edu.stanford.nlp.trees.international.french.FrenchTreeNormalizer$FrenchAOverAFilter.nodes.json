@@ -1,0 +1,19 @@
+{
+"Class" : "edu.stanford.nlp.trees.international.french.FrenchTreeNormalizer$FrenchAOverAFilter", 
+"Methods" : [{ "Name" : "test" ,
+"Nodes" : 13,
+"0" : [ 173 ],
+"1" : [ 176 ],
+"2" : [ 177 ],
+"3" : [ 176 ],
+"4" : [ 179 ],
+"5" : [ 179 ],
+"6" : [ 179 ],
+"7" : [ 179 ],
+"8" : [ 179 ],
+"9" : [ 179 ],
+"10" : [ 173 ],
+"11" : [ 174 ],
+"12" : [  ]
+}]
+}

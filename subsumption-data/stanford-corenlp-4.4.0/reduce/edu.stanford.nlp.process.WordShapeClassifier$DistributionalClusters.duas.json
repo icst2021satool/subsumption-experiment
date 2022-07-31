@@ -1,0 +1,12 @@
+{
+"Class" : "edu.stanford.nlp.process.WordShapeClassifier$DistributionalClusters", 
+"Methods" : [{ "Name" : "loadWordClusters" ,
+"Duas" : 7,
+"0" :  "(917,930, file)",
+"1" :  "(917,920, file)",
+"2" :  "(917,(919,920), format)",
+"3" :  "(917,(919,930), format)",
+"4" :  "(918,939, lexicon)",
+"5" :  "(918,935, lexicon)",
+"6" :  "(918,926, lexicon)"}]
+}

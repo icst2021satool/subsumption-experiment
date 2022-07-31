@@ -1,0 +1,24 @@
+{
+"Class" : "edu.stanford.nlp.ling.tokensregex.ComplexNodePattern$NumericAnnotationPattern", 
+"Methods" : [{ "Name" : "match" ,
+"Nodes" : 6,
+"0" : [ 392 ],
+"1" : [ 394 ],
+"2" : [ 397 ],
+"3" : [ 395 ],
+"4" : [ 393 ],
+"5" : [  ]
+},{ "Name" : "match" ,
+"Nodes" : 4,
+"0" : [ 402 ],
+"1" : [ 405 ],
+"2" : [ 403 ],
+"3" : [  ]
+},{ "Name" : "match" ,
+"Nodes" : 4,
+"0" : [ 410 ],
+"1" : [ 417 ],
+"2" : [ 412,413 ],
+"3" : [  ]
+}]
+}

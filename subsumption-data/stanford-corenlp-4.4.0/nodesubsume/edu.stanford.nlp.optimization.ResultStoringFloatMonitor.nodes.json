@@ -1,0 +1,17 @@
+{
+"Class" : "edu.stanford.nlp.optimization.ResultStoringFloatMonitor", 
+"Methods" : [{ "Name" : "<init>" ,
+"Nodes" : 5,
+"0" : [ 19,23,24 ],
+"1" : [ 27 ],
+"2" : [ 29,30 ],
+"3" : [ 25 ],
+"4" : [  ]
+},{ "Name" : "valueAt" ,
+"Nodes" : 4,
+"0" : [ 33 ],
+"1" : [ 45 ],
+"2" : [ 34,36,37,38,42,43 ],
+"3" : [  ]
+}]
+}

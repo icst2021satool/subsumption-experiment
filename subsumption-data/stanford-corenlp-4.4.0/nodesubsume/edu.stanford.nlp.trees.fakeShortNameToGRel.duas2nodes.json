@@ -1,0 +1,16 @@
+{
+"Class" : "edu.stanford.nlp.trees.fakeShortNameToGRel", 
+"Methods" : [{ "Name" : "containsKey" ,
+"Nodes" : 4,
+"Duas" : 2,
+"0" :  [ 0,2 ],
+"1" :  [ 0,1 ]},{ "Name" : "get" ,
+"Nodes" : 4,
+"Duas" : 6,
+"0" :  [ 0,1 ],
+"1" :  [ 0,2 ],
+"2" :  [ 0,1 ],
+"3" :  [ 0,1 ],
+"4" :  [ 0,1 ],
+"5" :  [ 0,1 ]}]
+}

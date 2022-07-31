@@ -1,0 +1,10 @@
+{
+"Class" : "edu.stanford.nlp.ling.tokensregex.ComplexNodePattern$SequenceRegexPattern", 
+"Methods" : [{ "Name" : "matchWithResult" ,
+"Nodes" : 4,
+"0" : [ 233,234 ],
+"1" : [ 237 ],
+"2" : [ 235 ],
+"3" : [  ]
+}]
+}

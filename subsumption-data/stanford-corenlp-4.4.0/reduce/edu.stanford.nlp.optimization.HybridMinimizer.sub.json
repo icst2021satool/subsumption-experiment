@@ -1,0 +1,11 @@
+{
+"Class" : "edu.stanford.nlp.optimization.HybridMinimizer", 
+"Methods" : [{ "Name" : "setEvaluators" ,
+"Duas" : "16" ,
+"Subsumers" : 4,
+"0" : [ 12, 10, 9, 7, 5, 0], "S0" : [0, 5, 7, 9, 10, 12 ],
+"1" : [ 11, 1], "S1" : [1, 11 ],
+"2" : [ 15, 13, 8, 6, 4, 2], "S2" : [2, 4, 6, 8, 13, 15 ],
+"3" : [ 14, 3], "S3" : [3, 14 ]
+}]
+}

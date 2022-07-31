@@ -1,0 +1,14 @@
+{
+"Class" : "edu.stanford.nlp.pipeline.CoreSentence", 
+"Methods" : [{ "Name" : "wrapEntityMentions" ,
+"Duas" : "6" ,
+"Subsumers" : 2,
+"0" : [ 5, 3, 2, 0], "S0" : [0, 2, 3, 5 ],
+"1" : [ 4, 1], "S1" : [1, 4 ]
+},{ "Name" : "tregexResultTrees" ,
+"Duas" : "9" ,
+"Subsumers" : 2,
+"0" : [ 0], "S0" : [0 ],
+"1" : [ 8, 6, 5], "S1" : [1, 2, 3, 4, 5, 6, 7, 8 ]
+}]
+}

@@ -1,0 +1,7 @@
+{
+"Class" : "edu.stanford.nlp.sequences.MalletReaderAndWriter", 
+"Methods" : [{ "Name" : "printAnswers" ,
+"Duas" : 2,
+"0" :  "(80,85, out)",
+"1" :  "(80,83, out)"}]
+}

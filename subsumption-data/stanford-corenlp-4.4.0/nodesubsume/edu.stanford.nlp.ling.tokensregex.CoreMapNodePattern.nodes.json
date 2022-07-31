@@ -1,0 +1,11 @@
+{
+"Class" : "edu.stanford.nlp.ling.tokensregex.CoreMapNodePattern", 
+"Methods" : [{ "Name" : "valueOf" ,
+"Nodes" : 5,
+"0" : [ 50,51 ],
+"1" : [ 51 ],
+"2" : [ 51,52,53 ],
+"3" : [ 51 ],
+"4" : [  ]
+}]
+}

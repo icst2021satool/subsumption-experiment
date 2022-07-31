@@ -1,0 +1,8 @@
+{
+"Class" : "edu.stanford.nlp.trees.international.arabic.ArabicTreebankLanguagePack", 
+"Methods" : [{ "Name" : "main" ,
+"Duas" : "2" ,
+"Subsumers" : 1,
+"0" : [ 1, 0], "S0" : [0, 1 ]
+}]
+}

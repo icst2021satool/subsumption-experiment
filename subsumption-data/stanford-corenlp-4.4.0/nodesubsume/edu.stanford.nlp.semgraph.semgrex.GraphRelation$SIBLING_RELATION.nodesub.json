@@ -1,0 +1,14 @@
+{
+"Class" : "edu.stanford.nlp.semgraph.semgrex.GraphRelation$SIBLING_RELATION", 
+"Methods" : [{ "Name" : "satisfies" ,
+"Nodes" : 6,
+"0" : [ ],
+"2" : [ 6],
+"3" : [ 6, 8, 10],
+"1" : [ ],
+"4" : [ 0, 2, 4, 6, 8, 10],
+"5" : [ ],
+"CoveredDUAsByNodes" : 6,
+"Duas" : 12
+}]
+}

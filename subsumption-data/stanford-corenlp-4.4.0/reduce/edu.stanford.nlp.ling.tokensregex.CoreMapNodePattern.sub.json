@@ -1,0 +1,9 @@
+{
+"Class" : "edu.stanford.nlp.ling.tokensregex.CoreMapNodePattern", 
+"Methods" : [{ "Name" : "valueOf" ,
+"Duas" : "5" ,
+"Subsumers" : 2,
+"0" : [ 0], "S0" : [0, 2, 3, 4 ],
+"1" : [ 1], "S1" : [1, 2, 3, 4 ]
+}]
+}

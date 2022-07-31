@@ -1,0 +1,26 @@
+{
+"Class" : "edu.stanford.nlp.trees.tregex.tsurgeon.TsurgeonPattern", 
+"Methods" : [{ "Name" : "setRoot" ,
+"Nodes" : 5,
+"0" : [ ],
+"1" : [ ],
+"2" : [ ],
+"4" : [ ],
+"3" : [ 0],
+"CoveredDUAsByNodes" : 1,
+"Duas" : 1
+},{ "Name" : "toString" ,
+"Nodes" : 9,
+"0" : [ ],
+"2" : [ 0, 7, 15],
+"3" : [ 0, 7, 15],
+"4" : [ 0, 16, 3, 7, 10, 15],
+"1" : [ 14],
+"8" : [ 14],
+"5" : [ 0, 17, 2, 19, 4, 21, 7, 9, 11, 15],
+"7" : [ 0, 2, 4, 5, 7, 9, 11, 12, 15, 17, 18, 19, 21],
+"6" : [ 0, 2, 4, 7, 9, 11, 15, 17, 19, 21, 24],
+"CoveredDUAsByNodes" : 18,
+"Duas" : 31
+}]
+}

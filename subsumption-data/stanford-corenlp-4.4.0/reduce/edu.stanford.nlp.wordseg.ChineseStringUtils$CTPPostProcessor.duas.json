@@ -1,0 +1,15 @@
+{
+"Class" : "edu.stanford.nlp.wordseg.ChineseStringUtils$CTPPostProcessor", 
+"Methods" : [{ "Name" : "postProcessingAnswer" ,
+"Duas" : 10,
+"0" :  "(258,263, this)",
+"1" :  "(258,264, this)",
+"2" :  "(258,(260,261), suppressMidDotPostprocessing)",
+"3" :  "(258,(260,263), suppressMidDotPostprocessing)",
+"4" :  "(258,263, numPat)",
+"5" :  "(258,264, numPat)",
+"6" :  "(258,265, numPat)",
+"7" :  "(259,263, ans)",
+"8" :  "(259,261, ans)",
+"9" :  "(261,263, ans)"}]
+}

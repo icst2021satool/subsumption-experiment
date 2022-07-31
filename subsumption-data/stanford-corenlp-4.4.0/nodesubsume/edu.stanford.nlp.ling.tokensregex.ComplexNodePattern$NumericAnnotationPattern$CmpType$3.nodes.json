@@ -1,0 +1,11 @@
+{
+"Class" : "edu.stanford.nlp.ling.tokensregex.ComplexNodePattern$NumericAnnotationPattern$CmpType$3", 
+"Methods" : [{ "Name" : "accept" ,
+"Nodes" : 5,
+"0" : [ 375 ],
+"1" : [ 375 ],
+"2" : [ 375 ],
+"3" : [ 375 ],
+"4" : [  ]
+}]
+}

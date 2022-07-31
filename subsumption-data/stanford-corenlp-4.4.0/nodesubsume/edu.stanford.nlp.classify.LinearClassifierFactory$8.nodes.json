@@ -1,0 +1,10 @@
+{
+"Class" : "edu.stanford.nlp.classify.LinearClassifierFactory$8", 
+"Methods" : [{ "Name" : "create" ,
+"Nodes" : 4,
+"0" : [ 385,387 ],
+"1" : [ 390 ],
+"2" : [ 388 ],
+"3" : [  ]
+}]
+}

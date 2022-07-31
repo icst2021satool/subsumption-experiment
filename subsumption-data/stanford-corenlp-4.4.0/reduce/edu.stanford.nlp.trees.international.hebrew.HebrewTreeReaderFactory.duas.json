@@ -1,0 +1,20 @@
+{
+"Class" : "edu.stanford.nlp.trees.international.hebrew.HebrewTreeReaderFactory", 
+"Methods" : [{ "Name" : "main" ,
+"Duas" : 15,
+"0" :  "(35,(35,36), args)",
+"1" :  "(35,(35,40), args)",
+"2" :  "(35,41, args)",
+"3" :  "(35,52, err)",
+"4" :  "(35,36, err)",
+"5" :  "(35,49, out)",
+"6" :  "(45,48, tr)",
+"7" :  "(45,(48,49), tr)",
+"8" :  "(45,(48,51), tr)",
+"9" :  "(45,51, tr)",
+"10" :  "(47,52, numTrees)",
+"11" :  "(47,48, numTrees)",
+"12" :  "(48,49, t)",
+"13" :  "(48,52, numTrees)",
+"14" :  "(48,48, numTrees)"}]
+}

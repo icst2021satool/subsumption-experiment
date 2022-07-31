@@ -1,0 +1,38 @@
+{
+"Class" : "edu.stanford.nlp.time.TimeFormatter$FormatterBuilder", 
+"Methods" : [{ "Name" : "toTextRegex" ,
+"Nodes" : 5,
+"0" : [ ],
+"1" : [ ],
+"2" : [ 0, 1],
+"4" : [ 0, 1],
+"3" : [ 2],
+"CoveredDUAsByNodes" : 3,
+"Duas" : 3
+},{ "Name" : "appendComponent" ,
+"Nodes" : 4,
+"0" : [ ],
+"2" : [ 1, 2, 4, 5, 7],
+"1" : [ 0, 3, 8],
+"3" : [ 0, 3, 8],
+"CoveredDUAsByNodes" : 8,
+"Duas" : 9
+},{ "Name" : "appendHourOfDay" ,
+"Nodes" : 5,
+"0" : [ ],
+"1" : [ 1, 2, 3, 6, 7, 11, 12],
+"3" : [ 0, 4, 5, 8, 9, 10, 13],
+"2" : [ ],
+"4" : [ ],
+"CoveredDUAsByNodes" : 14,
+"Duas" : 14
+},{ "Name" : "appendQuantifier" ,
+"Nodes" : 4,
+"0" : [ ],
+"1" : [ 1, 3, 6],
+"2" : [ 0, 2, 4, 5, 7],
+"3" : [ ],
+"CoveredDUAsByNodes" : 8,
+"Duas" : 8
+}]
+}

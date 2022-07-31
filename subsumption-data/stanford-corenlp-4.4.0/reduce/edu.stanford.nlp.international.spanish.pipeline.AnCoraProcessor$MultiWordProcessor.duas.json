@@ -1,0 +1,18 @@
+{
+"Class" : "edu.stanford.nlp.international.spanish.pipeline.AnCoraProcessor$MultiWordProcessor", 
+"Methods" : [{ "Name" : "process" ,
+"Duas" : 13,
+"0" :  "(360,368, this)",
+"1" :  "(360,371, this)",
+"2" :  "(360,373, this)",
+"3" :  "(360,368, this.this$0)",
+"4" :  "(360,373, this.this$0)",
+"5" :  "(360,368, this.ner)",
+"6" :  "(360,371, this.tn)",
+"7" :  "(360,373, this.tn)",
+"8" :  "(360,371, this.tf)",
+"9" :  "(360,373, this.tf)",
+"10" :  "(360,378, ret)",
+"11" :  "(360,375, ret)",
+"12" :  "(363,371, expander)"}]
+}

@@ -1,0 +1,18 @@
+{
+"Class" : "edu.stanford.nlp.semgraph.semgrex.ssurgeon.SetRoots", 
+"Methods" : [{ "Name" : "evaluate" ,
+"Nodes" : 5,
+"0" : [ 24,25 ],
+"1" : [ 25 ],
+"2" : [ 27,28 ],
+"3" : [ 25,26 ],
+"4" : [  ]
+},{ "Name" : "toEditString" ,
+"Nodes" : 5,
+"0" : [ 32,33,34 ],
+"1" : [ 34 ],
+"2" : [ 38 ],
+"3" : [ 34,35,36,37 ],
+"4" : [  ]
+}]
+}

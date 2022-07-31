@@ -1,0 +1,17 @@
+{
+"Class" : "edu.stanford.nlp.util.Filters$CollectionAcceptFilter", 
+"Methods" : [{ "Name" : "test" ,
+"Duas" : 12,
+"0" :  "(132,(132,133), this)",
+"1" :  "(132,(132,135), this)",
+"2" :  "(132,(135,135), this)",
+"3" :  "(132,(135,135), this)",
+"4" :  "(132,133, this)",
+"5" :  "(132,(132,133), obj)",
+"6" :  "(132,(132,135), obj)",
+"7" :  "(132,(132,133), this.args)",
+"8" :  "(132,(132,135), this.args)",
+"9" :  "(132,(135,135), this.judgment)",
+"10" :  "(132,(135,135), this.judgment)",
+"11" :  "(132,133, this.judgment)"}]
+}

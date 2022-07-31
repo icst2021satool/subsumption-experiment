@@ -1,0 +1,11 @@
+{
+"Class" : "edu.stanford.nlp.ling.tokensregex.MultiPatternMatcher$BasicSequencePatternTrigger", 
+"Methods" : [{ "Name" : "apply" ,
+"Nodes" : 7,
+"Duas" : 5,
+"0" :  [ 0,4 ],
+"1" :  [ 0,4 ],
+"2" :  [ 0,2 ],
+"3" :  [ 0,4 ],
+"4" :  [ 3,4 ]}]
+}

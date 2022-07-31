@@ -1,0 +1,15 @@
+{
+"Class" : "edu.stanford.nlp.util.concurrent.ConcurrentHashCounter$2", 
+"Methods" : [{ "Name" : "isEmpty" ,
+"Duas" : "4" ,
+"Subsumers" : 2,
+"0" : [ 2, 0], "S0" : [0, 2 ],
+"1" : [ 3, 1], "S1" : [1, 3 ]
+},{ "Name" : "contains" ,
+"Duas" : "9" ,
+"Subsumers" : 3,
+"0" : [ 7, 5], "S0" : [0, 1, 3, 4, 5, 7 ],
+"1" : [ 8, 6], "S1" : [0, 1, 3, 4, 6, 8 ],
+"2" : [ 2], "S2" : [2 ]
+}]
+}

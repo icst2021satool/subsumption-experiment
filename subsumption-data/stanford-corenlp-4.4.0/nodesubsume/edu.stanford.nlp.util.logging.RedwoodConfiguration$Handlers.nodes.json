@@ -1,0 +1,11 @@
+{
+"Class" : "edu.stanford.nlp.util.logging.RedwoodConfiguration$Handlers", 
+"Methods" : [{ "Name" : "lambda$branch$5" ,
+"Nodes" : 5,
+"0" : [ 337 ],
+"1" : [ 337 ],
+"2" : [ 340 ],
+"3" : [ 337,338 ],
+"4" : [  ]
+}]
+}

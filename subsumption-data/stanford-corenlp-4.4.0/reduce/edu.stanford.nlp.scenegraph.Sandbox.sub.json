@@ -1,0 +1,10 @@
+{
+"Class" : "edu.stanford.nlp.scenegraph.Sandbox", 
+"Methods" : [{ "Name" : "printMostDiscriminativeSyntacticPatterns" ,
+"Duas" : "19" ,
+"Subsumers" : 3,
+"0" : [ 17, 14, 11, 8, 5], "S0" : [0, 1, 2, 3, 4, 5, 7, 8, 9, 11, 14, 16, 17 ],
+"1" : [ 18, 13, 12, 10, 6], "S1" : [0, 1, 2, 3, 4, 6, 7, 9, 10, 12, 13, 16, 18 ],
+"2" : [ 15], "S2" : [0, 1, 2, 3, 4, 7, 9, 15 ]
+}]
+}

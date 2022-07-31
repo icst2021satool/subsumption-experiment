@@ -1,0 +1,16 @@
+{
+"Class" : "edu.stanford.nlp.trees.tregex.tsurgeon.PruneNode$Matcher", 
+"Methods" : [{ "Name" : "evaluate" ,
+"Nodes" : 10,
+"0" : [ 34,35 ],
+"1" : [ 35 ],
+"2" : [ 40 ],
+"3" : [ 40 ],
+"4" : [ 40 ],
+"5" : [ 40 ],
+"6" : [ 35,36,37 ],
+"7" : [ 35 ],
+"8" : [ 38 ],
+"9" : [  ]
+}]
+}

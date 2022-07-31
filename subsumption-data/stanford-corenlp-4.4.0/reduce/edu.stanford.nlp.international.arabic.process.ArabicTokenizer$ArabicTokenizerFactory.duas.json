@@ -1,0 +1,7 @@
+{
+"Class" : "edu.stanford.nlp.international.arabic.process.ArabicTokenizer$ArabicTokenizerFactory", 
+"Methods" : [{ "Name" : "setOptions" ,
+"Duas" : 2,
+"0" :  "(117,119, this)",
+"1" :  "(117,119, this.lexerProperties)"}]
+}

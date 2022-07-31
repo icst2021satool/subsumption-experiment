@@ -1,0 +1,11 @@
+{
+"Class" : "edu.stanford.nlp.sequences.SequenceGibbsSampler$1", 
+"Methods" : [{ "Name" : "process" ,
+"Nodes" : 5,
+"0" : [ 272,273,274 ],
+"1" : [ 274 ],
+"2" : [ 279 ],
+"3" : [ 274,275,277,278 ],
+"4" : [  ]
+}]
+}

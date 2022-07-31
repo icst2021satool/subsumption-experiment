@@ -1,0 +1,24 @@
+{
+"Class" : "edu.stanford.nlp.patterns.ScorePhrasesLearnFeatWt$PhrasePair", 
+"Methods" : [{ "Name" : "<init>" ,
+"Nodes" : 5,
+"0" : [ ],
+"1" : [ 0, 1, 6, 7, 11, 12],
+"3" : [ 3, 4, 5, 9, 10, 14],
+"2" : [ 2, 8, 13],
+"4" : [ 2, 8, 13],
+"CoveredDUAsByNodes" : 15,
+"Duas" : 15
+},{ "Name" : "equals" ,
+"Nodes" : 7,
+"0" : [ ],
+"1" : [ 5, 6],
+"3" : [ 0, 5, 6, 7],
+"2" : [ 5, 6],
+"4" : [ 0, 2, 5, 6, 7, 9],
+"5" : [ 4],
+"6" : [ ],
+"CoveredDUAsByNodes" : 7,
+"Duas" : 11
+}]
+}

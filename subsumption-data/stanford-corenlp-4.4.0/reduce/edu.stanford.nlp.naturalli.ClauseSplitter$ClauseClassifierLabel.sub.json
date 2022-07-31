@@ -1,0 +1,11 @@
+{
+"Class" : "edu.stanford.nlp.naturalli.ClauseSplitter$ClauseClassifierLabel", 
+"Methods" : [{ "Name" : "fromIndex" ,
+"Duas" : "8" ,
+"Subsumers" : 4,
+"0" : [ 4, 0], "S0" : [0, 4 ],
+"1" : [ 5, 1], "S1" : [1, 5 ],
+"2" : [ 6, 2], "S2" : [2, 6 ],
+"3" : [ 7, 3], "S3" : [3, 7 ]
+}]
+}

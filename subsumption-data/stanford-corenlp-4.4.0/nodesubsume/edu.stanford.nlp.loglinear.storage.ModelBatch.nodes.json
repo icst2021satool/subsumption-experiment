@@ -1,0 +1,24 @@
+{
+"Class" : "edu.stanford.nlp.loglinear.storage.ModelBatch", 
+"Methods" : [{ "Name" : "readFrom" ,
+"Nodes" : 4,
+"0" : [ 90 ],
+"1" : [ 94 ],
+"2" : [ 91,92 ],
+"3" : [  ]
+},{ "Name" : "writeToStream" ,
+"Nodes" : 5,
+"0" : [ 131 ],
+"1" : [ 131 ],
+"2" : [ 134 ],
+"3" : [ 131,132,133 ],
+"4" : [  ]
+},{ "Name" : "writeToStreamWithoutFactors" ,
+"Nodes" : 5,
+"0" : [ 144,145 ],
+"1" : [ 145 ],
+"2" : [ 151 ],
+"3" : [ 145,146,147,148,149,150 ],
+"4" : [  ]
+}]
+}

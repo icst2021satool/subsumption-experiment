@@ -1,0 +1,14 @@
+{
+"Class" : "edu.stanford.nlp.trees.international.pennchinese.FragDiscardingPennTreeReader", 
+"Methods" : [{ "Name" : "readTree" ,
+"Nodes" : 6,
+"0" : [ ],
+"1" : [ ],
+"3" : [ 1],
+"2" : [ ],
+"5" : [ ],
+"4" : [ 0, 1, 4],
+"CoveredDUAsByNodes" : 3,
+"Duas" : 11
+}]
+}

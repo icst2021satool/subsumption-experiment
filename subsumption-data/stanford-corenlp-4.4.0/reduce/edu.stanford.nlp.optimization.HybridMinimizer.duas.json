@@ -1,0 +1,21 @@
+{
+"Class" : "edu.stanford.nlp.optimization.HybridMinimizer", 
+"Methods" : [{ "Name" : "setEvaluators" ,
+"Duas" : 16,
+"0" :  "(30,(30,31), this)",
+"1" :  "(30,(30,33), this)",
+"2" :  "(30,(33,34), this)",
+"3" :  "(30,(33,36), this)",
+"4" :  "(30,34, this)",
+"5" :  "(30,31, this)",
+"6" :  "(30,34, iters)",
+"7" :  "(30,31, iters)",
+"8" :  "(30,34, evaluators)",
+"9" :  "(30,31, evaluators)",
+"10" :  "(30,(30,31), this.firstMinimizer)",
+"11" :  "(30,(30,33), this.firstMinimizer)",
+"12" :  "(30,31, this.firstMinimizer)",
+"13" :  "(30,(33,34), this.secondMinimizer)",
+"14" :  "(30,(33,36), this.secondMinimizer)",
+"15" :  "(30,34, this.secondMinimizer)"}]
+}

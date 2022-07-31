@@ -1,0 +1,11 @@
+{
+"Class" : "edu.stanford.nlp.parser.shiftreduce.IdleTransition", 
+"Methods" : [{ "Name" : "equals" ,
+"Duas" : 6,
+"0" :  "(33,(33,34), this)",
+"1" :  "(33,(33,36), this)",
+"2" :  "(33,(33,34), o)",
+"3" :  "(33,(33,36), o)",
+"4" :  "(33,(36,37), o)",
+"5" :  "(33,(36,39), o)"}]
+}

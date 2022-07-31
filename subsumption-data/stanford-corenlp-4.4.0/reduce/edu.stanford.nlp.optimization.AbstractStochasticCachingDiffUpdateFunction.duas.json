@@ -1,0 +1,19 @@
+{
+"Class" : "edu.stanford.nlp.optimization.AbstractStochasticCachingDiffUpdateFunction", 
+"Methods" : [{ "Name" : "getSample" ,
+"Duas" : 14,
+"0" :  "(25,27, this)",
+"1" :  "(25,(26,27), sampleSize)",
+"2" :  "(25,(26,29), sampleSize)",
+"3" :  "(25,27, this.randGenerator)",
+"4" :  "(25,29, sample)",
+"5" :  "(25,27, sample)",
+"6" :  "(26,(26,27), i)",
+"7" :  "(26,(26,29), i)",
+"8" :  "(26,27, i)",
+"9" :  "(26,26, i)",
+"10" :  "(26,(26,27), i)",
+"11" :  "(26,(26,29), i)",
+"12" :  "(26,27, i)",
+"13" :  "(26,26, i)"}]
+}

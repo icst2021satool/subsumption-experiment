@@ -1,0 +1,14 @@
+{
+"Class" : "edu.stanford.nlp.ling.tokensregex.SequencePattern$GroupEndState", 
+"Methods" : [{ "Name" : "match" ,
+"Nodes" : 8,
+"0" : [ 1678 ],
+"1" : [ 1678 ],
+"2" : [ 1678,1679 ],
+"3" : [ 1683 ],
+"4" : [ 1685 ],
+"5" : [ 1681 ],
+"6" : [ 1678 ],
+"7" : [  ]
+}]
+}

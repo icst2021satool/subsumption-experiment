@@ -1,0 +1,17 @@
+{
+"Class" : "edu.stanford.nlp.trees.international.pennchinese.CTBErrorCorrectingTreeNormalizer$ChineseEmptyFilter", 
+"Methods" : [{ "Name" : "test" ,
+"Nodes" : 11,
+"0" : [ 115,116,117 ],
+"1" : [ 126 ],
+"2" : [ 117 ],
+"3" : [ 117,119 ],
+"4" : [ 119 ],
+"5" : [ 119 ],
+"6" : [ 119 ],
+"7" : [ 121 ],
+"8" : [ 124 ],
+"9" : [ 122 ],
+"10" : [  ]
+}]
+}

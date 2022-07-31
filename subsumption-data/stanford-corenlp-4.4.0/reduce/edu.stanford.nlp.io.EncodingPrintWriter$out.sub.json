@@ -1,0 +1,11 @@
+{
+"Class" : "edu.stanford.nlp.io.EncodingPrintWriter$out", 
+"Methods" : [{ "Name" : "setupOutWriter" ,
+"Duas" : "11" ,
+"Subsumers" : 4,
+"0" : [ 9], "S0" : [0, 6, 7, 8, 9 ],
+"1" : [ 10], "S1" : [0, 10 ],
+"2" : [ 4], "S2" : [1, 2, 3, 4, 6 ],
+"3" : [ 5], "S3" : [1, 5 ]
+}]
+}

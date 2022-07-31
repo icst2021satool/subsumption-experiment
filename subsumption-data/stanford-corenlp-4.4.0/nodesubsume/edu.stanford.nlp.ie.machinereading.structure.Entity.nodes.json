@@ -1,0 +1,17 @@
+{
+"Class" : "edu.stanford.nlp.ie.machinereading.structure.Entity", 
+"Methods" : [{ "Name" : "addEntity" ,
+"Nodes" : 4,
+"0" : [ 25,26 ],
+"1" : [ 30,31 ],
+"2" : [ 27,28 ],
+"3" : [  ]
+},{ "Name" : "getEntityMentions" ,
+"Nodes" : 5,
+"0" : [ 34,35 ],
+"1" : [ 35 ],
+"2" : [ 35 ],
+"3" : [ 35 ],
+"4" : [  ]
+}]
+}

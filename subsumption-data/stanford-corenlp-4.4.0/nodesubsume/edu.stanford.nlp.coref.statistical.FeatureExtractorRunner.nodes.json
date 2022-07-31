@@ -1,0 +1,10 @@
+{
+"Class" : "edu.stanford.nlp.coref.statistical.FeatureExtractorRunner", 
+"Methods" : [{ "Name" : "process" ,
+"Nodes" : 4,
+"0" : [ 38 ],
+"1" : [ 41 ],
+"2" : [ 39 ],
+"3" : [  ]
+}]
+}

@@ -1,0 +1,19 @@
+{
+"Class" : "edu.stanford.nlp.pipeline.CoreSentence", 
+"Methods" : [{ "Name" : "wrapEntityMentions" ,
+"Nodes" : 4,
+"0" : [ 45 ],
+"1" : [ 49 ],
+"2" : [ 46,47 ],
+"3" : [  ]
+},{ "Name" : "tregexResultTrees" ,
+"Nodes" : 7,
+"0" : [ 104 ],
+"1" : [ 108,109 ],
+"2" : [ 110 ],
+"3" : [ 113 ],
+"4" : [ 111 ],
+"5" : [ 105 ],
+"6" : [  ]
+}]
+}

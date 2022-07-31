@@ -1,0 +1,8 @@
+{
+"Class" : "edu.stanford.nlp.process.LowercaseFunction", 
+"Methods" : [{ "Name" : "apply" ,
+"Duas" : 3,
+"0" :  "(11,(11,12), input)",
+"1" :  "(11,(11,14), input)",
+"2" :  "(11,14, input)"}]
+}

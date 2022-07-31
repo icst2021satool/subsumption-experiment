@@ -1,0 +1,15 @@
+{
+"Class" : "edu.stanford.nlp.trees.international.arabic.ArabicHeadFinder", 
+"Methods" : [{ "Name" : "findMarkedHead" ,
+"Duas" : 10,
+"0" :  "(179,(183,184), this)",
+"1" :  "(179,(183,182), this)",
+"2" :  "(179,181, t)",
+"3" :  "(179,(183,184), this.predPattern)",
+"4" :  "(179,(183,182), this.predPattern)",
+"5" :  "(179,(180,181), cat)",
+"6" :  "(179,(180,188), cat)",
+"7" :  "(182,(183,184), kid)",
+"8" :  "(182,(183,182), kid)",
+"9" :  "(182,184, kid)"}]
+}

@@ -1,0 +1,16 @@
+{
+"Class" : "edu.stanford.nlp.trees.GrammaticalStructure$NoPunctTypedDependencyFilter", 
+"Methods" : [{ "Name" : "test" ,
+"Nodes" : 10,
+"0" : [ 655 ],
+"1" : [ 657,658 ],
+"2" : [ 660 ],
+"3" : [ 660 ],
+"4" : [ 660 ],
+"5" : [ 660 ],
+"6" : [ 660 ],
+"7" : [ 658 ],
+"8" : [ 655 ],
+"9" : [  ]
+}]
+}

@@ -1,0 +1,9 @@
+{
+"Class" : "edu.stanford.nlp.ui.JarFileChooser$1", 
+"Methods" : [{ "Name" : "mouseClicked" ,
+"Duas" : 4,
+"0" :  "(70,72, this)",
+"1" :  "(70,(70,72), e)",
+"2" :  "(70,(70,74), e)",
+"3" :  "(70,72, this.val$dialog)"}]
+}

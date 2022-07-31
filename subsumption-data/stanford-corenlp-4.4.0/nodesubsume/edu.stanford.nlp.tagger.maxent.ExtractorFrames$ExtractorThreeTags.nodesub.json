@@ -1,0 +1,32 @@
+{
+"Class" : "edu.stanford.nlp.tagger.maxent.ExtractorFrames$ExtractorThreeTags", 
+"Methods" : [{ "Name" : "<init>" ,
+"Nodes" : 8,
+"0" : [ ],
+"6" : [ 3, 19, 9, 10],
+"1" : [ ],
+"5" : [ 20, 23],
+"2" : [ ],
+"4" : [ ],
+"3" : [ 0, 1, 2],
+"7" : [ 0, 1, 2],
+"CoveredDUAsByNodes" : 9,
+"Duas" : 42
+},{ "Name" : "rightContext" ,
+"Nodes" : 4,
+"0" : [ ],
+"1" : [ 1, 4],
+"2" : [ 0, 2, 3, 5],
+"3" : [ ],
+"CoveredDUAsByNodes" : 6,
+"Duas" : 6
+},{ "Name" : "leftContext" ,
+"Nodes" : 4,
+"0" : [ ],
+"1" : [ 1, 4],
+"2" : [ 0, 2, 3, 5],
+"3" : [ ],
+"CoveredDUAsByNodes" : 6,
+"Duas" : 6
+}]
+}

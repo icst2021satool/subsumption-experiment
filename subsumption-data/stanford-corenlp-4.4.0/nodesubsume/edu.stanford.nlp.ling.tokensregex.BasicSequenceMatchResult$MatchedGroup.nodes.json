@@ -1,0 +1,11 @@
+{
+"Class" : "edu.stanford.nlp.ling.tokensregex.BasicSequenceMatchResult$MatchedGroup", 
+"Methods" : [{ "Name" : "matchLength" ,
+"Nodes" : 5,
+"0" : [ 366 ],
+"1" : [ 369 ],
+"2" : [ 366 ],
+"3" : [ 367 ],
+"4" : [  ]
+}]
+}

@@ -1,0 +1,10 @@
+{
+"Class" : "edu.stanford.nlp.util.concurrent.AtomicDouble", 
+"Methods" : [{ "Name" : "getAndAdd" ,
+"Duas" : "9" ,
+"Subsumers" : 0 
+},{ "Name" : "addAndGet" ,
+"Duas" : "9" ,
+"Subsumers" : 0 
+}]
+}

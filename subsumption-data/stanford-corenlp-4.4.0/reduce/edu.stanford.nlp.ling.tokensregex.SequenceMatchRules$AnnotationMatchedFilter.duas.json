@@ -1,0 +1,12 @@
+{
+"Class" : "edu.stanford.nlp.ling.tokensregex.SequenceMatchRules$AnnotationMatchedFilter", 
+"Methods" : [{ "Name" : "test" ,
+"Duas" : 7,
+"0" :  "(693,699, this)",
+"1" :  "(693,699, me)",
+"2" :  "(693,699, this.extractor)",
+"3" :  "(694,(695,696), v)",
+"4" :  "(694,(695,704), v)",
+"5" :  "(694,(696,697), v)",
+"6" :  "(694,(696,699), v)"}]
+}

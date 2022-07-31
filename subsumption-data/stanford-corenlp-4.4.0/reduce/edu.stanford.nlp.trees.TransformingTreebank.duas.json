@@ -1,0 +1,15 @@
+{
+"Class" : "edu.stanford.nlp.trees.TransformingTreebank", 
+"Methods" : [{ "Name" : "apply" ,
+"Duas" : 10,
+"0" :  "(102,(105,106), this)",
+"1" :  "(102,(105,109), this)",
+"2" :  "(102,106, this)",
+"3" :  "(102,109, tv)",
+"4" :  "(102,(105,106), this.transformer)",
+"5" :  "(102,(105,109), this.transformer)",
+"6" :  "(102,106, this.transformer)",
+"7" :  "(104,109, tmpT)",
+"8" :  "(104,106, tmpT)",
+"9" :  "(106,109, tmpT)"}]
+}

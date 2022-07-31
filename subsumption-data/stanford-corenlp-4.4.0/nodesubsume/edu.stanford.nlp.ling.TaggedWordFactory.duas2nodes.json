@@ -1,0 +1,17 @@
+{
+"Class" : "edu.stanford.nlp.ling.TaggedWordFactory", 
+"Methods" : [{ "Name" : "newLabel" ,
+"Nodes" : 4,
+"Duas" : 4,
+"0" :  [ 0,1 ],
+"1" :  [ 0,2 ],
+"2" :  [ 0,2 ],
+"3" :  [ 0,1 ]},{ "Name" : "newLabelFromString" ,
+"Nodes" : 4,
+"Duas" : 5,
+"0" :  [ 0,1 ],
+"1" :  [ 0,2 ],
+"2" :  [ 0,2 ],
+"3" :  [ 0,1 ],
+"4" :  [ 0,2 ]}]
+}

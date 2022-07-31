@@ -1,0 +1,9 @@
+{
+"Class" : "edu.stanford.nlp.parser.nndep.CoNLLUTagUpdater", 
+"Methods" : [{ "Name" : "main" ,
+"Duas" : "4" ,
+"Subsumers" : 2,
+"0" : [ 3, 0], "S0" : [0, 2, 3 ],
+"1" : [ 1], "S1" : [1, 2 ]
+}]
+}

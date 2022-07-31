@@ -1,0 +1,9 @@
+{
+"Class" : "edu.stanford.nlp.trees.fakeShortNameToGRel$1", 
+"Methods" : [{ "Name" : "equals" ,
+"Duas" : 4,
+"0" :  "(509,510, this)",
+"1" :  "(509,(509,510), o)",
+"2" :  "(509,(509,512), o)",
+"3" :  "(509,510, o)"}]
+}

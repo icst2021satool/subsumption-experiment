@@ -1,0 +1,20 @@
+{
+"Class" : "edu.stanford.nlp.trees.treebank.EnglishPTBTreebankCorrector", 
+"Methods" : [{ "Name" : "<init>" ,
+"Duas" : "17" ,
+"Subsumers" : 3,
+"0" : [ 15, 12, 10, 1, 0], "S0" : [0, 1, 2, 3, 4, 5, 6, 8, 9, 10, 12, 14, 15 ],
+"1" : [ 16, 13, 7], "S1" : [2, 3, 4, 5, 6, 7, 8, 9, 13, 14, 16 ],
+"2" : [ 11], "S2" : [2, 3, 4, 5, 6, 8, 9, 11, 14 ]
+},{ "Name" : "transformTrees" ,
+"Duas" : "4" ,
+"Subsumers" : 1,
+"0" : [ 3, 1, 0], "S0" : [0, 1, 2, 3 ]
+},{ "Name" : "continuing" ,
+"Duas" : "4" ,
+"Subsumers" : 3,
+"0" : [ 2], "S0" : [0, 2 ],
+"1" : [ 3], "S1" : [0, 3 ],
+"2" : [ 1], "S2" : [1 ]
+}]
+}

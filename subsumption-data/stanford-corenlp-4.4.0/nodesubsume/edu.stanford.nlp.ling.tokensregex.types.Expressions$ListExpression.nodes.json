@@ -1,0 +1,17 @@
+{
+"Class" : "edu.stanford.nlp.ling.tokensregex.types.Expressions$ListExpression", 
+"Methods" : [{ "Name" : "addAll" ,
+"Nodes" : 4,
+"0" : [ 834 ],
+"1" : [ 837 ],
+"2" : [ 835 ],
+"3" : [  ]
+},{ "Name" : "evaluate" ,
+"Nodes" : 5,
+"0" : [ 844,845 ],
+"1" : [ 845 ],
+"2" : [ 848 ],
+"3" : [ 845,846,847 ],
+"4" : [  ]
+}]
+}

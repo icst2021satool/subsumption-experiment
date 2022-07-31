@@ -1,0 +1,16 @@
+{
+"Class" : "edu.stanford.nlp.coref.neural.NeuralCorefProperties", 
+"Methods" : [{ "Name" : "modelPath" ,
+"Duas" : "7" ,
+"Subsumers" : 4,
+"0" : [ 5, 0], "S0" : [0, 4, 5 ],
+"1" : [ 6, 1], "S1" : [1, 4, 6 ],
+"2" : [ 2], "S2" : [2, 4 ],
+"3" : [ 3], "S3" : [3, 4 ]
+},{ "Name" : "pretrainedEmbeddingsPath" ,
+"Duas" : "5" ,
+"Subsumers" : 2,
+"0" : [ 3, 0], "S0" : [0, 2, 3 ],
+"1" : [ 4, 1], "S1" : [1, 2, 4 ]
+}]
+}

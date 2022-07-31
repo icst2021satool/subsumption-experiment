@@ -1,0 +1,13 @@
+{
+"Class" : "edu.stanford.nlp.trees.Dependencies$DependentPuncTagRejectFilter", 
+"Methods" : [{ "Name" : "test" ,
+"Nodes" : 6,
+"Duas" : 7,
+"0" :  [ 0,2 ],
+"1" :  [ 0,4 ],
+"2" :  [ 0,1 ],
+"3" :  [ 0,1,3 ],
+"4" :  [ 0,1,2 ],
+"5" :  [ 0,2 ],
+"6" :  [ 0,2 ]}]
+}

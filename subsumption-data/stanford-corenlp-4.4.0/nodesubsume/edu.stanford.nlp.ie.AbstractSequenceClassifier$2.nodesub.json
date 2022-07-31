@@ -1,0 +1,12 @@
+{
+"Class" : "edu.stanford.nlp.ie.AbstractSequenceClassifier$2", 
+"Methods" : [{ "Name" : "process" ,
+"Nodes" : 4,
+"0" : [ ],
+"2" : [ 0, 2, 4, 6, 9],
+"1" : [ 8],
+"3" : [ 8],
+"CoveredDUAsByNodes" : 6,
+"Duas" : 10
+}]
+}

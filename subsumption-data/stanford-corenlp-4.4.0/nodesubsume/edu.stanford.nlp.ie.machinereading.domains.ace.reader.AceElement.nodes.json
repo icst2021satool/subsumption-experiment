@@ -1,0 +1,11 @@
+{
+"Class" : "edu.stanford.nlp.ie.machinereading.domains.ace.reader.AceElement", 
+"Methods" : [{ "Name" : "appendOffset" ,
+"Nodes" : 5,
+"0" : [ 19 ],
+"1" : [ 19 ],
+"2" : [ 22 ],
+"3" : [ 19,20 ],
+"4" : [  ]
+}]
+}

@@ -1,0 +1,15 @@
+{
+"Class" : "edu.stanford.nlp.tagger.maxent.CaselessCompanyNameDetector", 
+"Methods" : [{ "Name" : "<init>" ,
+"Duas" : "2" ,
+"Subsumers" : 1,
+"0" : [ 1, 0], "S0" : [0, 1 ]
+},{ "Name" : "extract" ,
+"Duas" : "14" ,
+"Subsumers" : 4,
+"0" : [ 8, 0], "S0" : [0, 2, 3, 4, 6, 8 ],
+"1" : [ 13], "S1" : [1, 2, 3, 4, 6, 7, 9, 10, 12, 13 ],
+"2" : [ 11], "S2" : [1, 2, 3, 4, 6, 7, 9, 11 ],
+"3" : [ 5], "S3" : [5 ]
+}]
+}

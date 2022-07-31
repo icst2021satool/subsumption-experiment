@@ -1,0 +1,13 @@
+{
+"Class" : "edu.stanford.nlp.coref.statistical.ClustererDataLoader", 
+"Methods" : [{ "Name" : "loadDocuments" ,
+"Duas" : 8,
+"0" :  "(78,106, maxDocs)",
+"1" :  "(79,106, labeledPairs)",
+"2" :  "(81,106, mentionTypes)",
+"3" :  "(83,106, goldClusters)",
+"4" :  "(85,106, classificationScores)",
+"5" :  "(89,106, rankingScores)",
+"6" :  "(97,106, anaphoricityScores)",
+"7" :  "(97,103, anaphoricityScores)"}]
+}

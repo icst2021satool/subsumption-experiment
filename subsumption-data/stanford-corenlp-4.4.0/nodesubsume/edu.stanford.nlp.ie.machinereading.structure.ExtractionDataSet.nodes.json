@@ -1,0 +1,18 @@
+{
+"Class" : "edu.stanford.nlp.ie.machinereading.structure.ExtractionDataSet", 
+"Methods" : [{ "Name" : "<init>" ,
+"Nodes" : 5,
+"0" : [ 29,30,31 ],
+"1" : [ 31 ],
+"2" : [ 37 ],
+"3" : [ 34,35,36,31 ],
+"4" : [  ]
+},{ "Name" : "addSentences" ,
+"Nodes" : 5,
+"0" : [ 48 ],
+"1" : [ 48 ],
+"2" : [ 51 ],
+"3" : [ 48,49,50 ],
+"4" : [  ]
+}]
+}

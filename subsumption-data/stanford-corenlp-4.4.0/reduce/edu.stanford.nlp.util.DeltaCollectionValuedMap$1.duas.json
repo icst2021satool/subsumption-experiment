@@ -1,0 +1,19 @@
+{
+"Class" : "edu.stanford.nlp.util.DeltaCollectionValuedMap$1", 
+"Methods" : [{ "Name" : "size" ,
+"Duas" : 4,
+"0" :  "(233,237, size)",
+"1" :  "(233,235, size)",
+"2" :  "(235,237, size)",
+"3" :  "(235,235, size)"},{ "Name" : "lambda$iterator$1" ,
+"Duas" : 2,
+"0" :  "(224,(224,224), e)",
+"1" :  "(224,(224,224), e)"},{ "Name" : "lambda$iterator$0" ,
+"Duas" : 6,
+"0" :  "(220,(220,220), this)",
+"1" :  "(220,(220,220), this)",
+"2" :  "(220,(220,220), e)",
+"3" :  "(220,(220,220), e)",
+"4" :  "(220,(220,220), this.this$0)",
+"5" :  "(220,(220,220), this.this$0)"}]
+}

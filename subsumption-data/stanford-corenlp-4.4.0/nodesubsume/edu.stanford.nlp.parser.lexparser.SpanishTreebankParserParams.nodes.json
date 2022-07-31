@@ -1,0 +1,17 @@
+{
+"Class" : "edu.stanford.nlp.parser.lexparser.SpanishTreebankParserParams", 
+"Methods" : [{ "Name" : "lex" ,
+"Nodes" : 4,
+"0" : [ 252 ],
+"1" : [ 256 ],
+"2" : [ 253 ],
+"3" : [  ]
+},{ "Name" : "setOptionFlag" ,
+"Nodes" : 5,
+"0" : [ 298 ],
+"1" : [ 311 ],
+"2" : [ 298 ],
+"3" : [ 307,308,300,301,303 ],
+"4" : [  ]
+}]
+}

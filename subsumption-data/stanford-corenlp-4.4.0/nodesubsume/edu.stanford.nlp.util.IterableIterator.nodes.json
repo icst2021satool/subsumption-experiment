@@ -1,0 +1,20 @@
+{
+"Class" : "edu.stanford.nlp.util.IterableIterator", 
+"Methods" : [{ "Name" : "iterator" ,
+"Nodes" : 6,
+"0" : [ 37 ],
+"1" : [ 39 ],
+"2" : [ 42 ],
+"3" : [ 40 ],
+"4" : [ 38 ],
+"5" : [  ]
+},{ "Name" : "spliterator" ,
+"Nodes" : 6,
+"0" : [ 48 ],
+"1" : [ 50 ],
+"2" : [ 53 ],
+"3" : [ 51 ],
+"4" : [ 49 ],
+"5" : [  ]
+}]
+}

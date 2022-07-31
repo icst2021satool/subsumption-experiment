@@ -1,0 +1,13 @@
+{
+"Class" : "edu.stanford.nlp.ie.machinereading.domains.ace.reader.RobustTokenizer$AbbreviationMap", 
+"Methods" : [{ "Name" : "normalizeCase" ,
+"Nodes" : 7,
+"0" : [ 597 ],
+"1" : [ 598,599 ],
+"2" : [ 599 ],
+"3" : [ 600 ],
+"4" : [ 599 ],
+"5" : [ 597 ],
+"6" : [  ]
+}]
+}

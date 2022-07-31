@@ -1,0 +1,9 @@
+{
+"Class" : "edu.stanford.nlp.tagger.maxent.ExtractorWordShapeClassifier", 
+"Methods" : [{ "Name" : "isLocal" ,
+"Duas" : 4,
+"0" :  "(742,(742,742), this)",
+"1" :  "(742,(742,742), this)",
+"2" :  "(742,(742,742), this.position)",
+"3" :  "(742,(742,742), this.position)"}]
+}

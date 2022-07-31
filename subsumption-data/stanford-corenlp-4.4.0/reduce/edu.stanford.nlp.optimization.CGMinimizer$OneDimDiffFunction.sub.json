@@ -1,0 +1,14 @@
+{
+"Class" : "edu.stanford.nlp.optimization.CGMinimizer$OneDimDiffFunction", 
+"Methods" : [{ "Name" : "vectorOf" ,
+"Duas" : "19" ,
+"Subsumers" : 2,
+"0" : [ 17, 18, 15], "S0" : [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 13, 14, 15, 16, 17, 18 ],
+"1" : [ 12], "S1" : [1, 2, 6, 9, 12 ]
+},{ "Name" : "derivativeAt" ,
+"Duas" : "17" ,
+"Subsumers" : 2,
+"0" : [ 15, 16, 13, 12], "S0" : [0, 1, 2, 3, 4, 6, 7, 9, 10, 11, 12, 13, 14, 15, 16 ],
+"1" : [ 8, 5], "S1" : [3, 5, 8 ]
+}]
+}

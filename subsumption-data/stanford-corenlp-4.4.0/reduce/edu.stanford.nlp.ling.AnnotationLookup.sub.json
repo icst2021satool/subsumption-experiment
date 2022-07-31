@@ -1,0 +1,14 @@
+{
+"Class" : "edu.stanford.nlp.ling.AnnotationLookup", 
+"Methods" : [{ "Name" : "toCoreKey" ,
+"Duas" : "5" ,
+"Subsumers" : 2,
+"0" : [ 4, 2, 0], "S0" : [0, 2, 4 ],
+"1" : [ 3, 1], "S1" : [1, 3 ]
+},{ "Name" : "getValueType" ,
+"Duas" : "7" ,
+"Subsumers" : 2,
+"0" : [ 6, 3, 2, 0, 1], "S0" : [0, 1, 2, 3, 6 ],
+"1" : [ 5, 4], "S1" : [4, 5 ]
+}]
+}

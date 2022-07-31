@@ -1,0 +1,14 @@
+{
+"Class" : "edu.stanford.nlp.pipeline.CoreDocument", 
+"Methods" : [{ "Name" : "wrapAnnotations" ,
+"Nodes" : 8,
+"0" : [ 33 ],
+"1" : [ 43 ],
+"2" : [ 34,36 ],
+"3" : [ 40 ],
+"4" : [ 41 ],
+"5" : [ 36 ],
+"6" : [ 37 ],
+"7" : [  ]
+}]
+}

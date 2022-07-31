@@ -1,0 +1,17 @@
+{
+"Class" : "edu.stanford.nlp.ie.machinereading.structure.Span$1", 
+"Methods" : [{ "Name" : "hasNext" ,
+"Nodes" : 5,
+"0" : [ 175 ],
+"1" : [ 175 ],
+"2" : [ 175 ],
+"3" : [ 175 ],
+"4" : [  ]
+},{ "Name" : "next" ,
+"Nodes" : 4,
+"0" : [ 179 ],
+"1" : [ 180,181 ],
+"2" : [ 179 ],
+"3" : [  ]
+}]
+}

@@ -1,0 +1,10 @@
+{
+"Class" : "edu.stanford.nlp.parser.lexparser.Item", 
+"Methods" : [{ "Name" : "score" ,
+"Nodes" : 4,
+"0" : [ 40 ],
+"1" : [ 43 ],
+"2" : [ 41 ],
+"3" : [  ]
+}]
+}

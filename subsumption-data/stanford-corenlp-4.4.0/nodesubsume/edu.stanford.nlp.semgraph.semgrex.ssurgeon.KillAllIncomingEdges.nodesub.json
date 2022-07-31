@@ -1,0 +1,13 @@
+{
+"Class" : "edu.stanford.nlp.semgraph.semgrex.ssurgeon.KillAllIncomingEdges", 
+"Methods" : [{ "Name" : "evaluate" ,
+"Nodes" : 5,
+"0" : [ ],
+"1" : [ ],
+"2" : [ ],
+"4" : [ ],
+"3" : [ 0],
+"CoveredDUAsByNodes" : 1,
+"Duas" : 1
+}]
+}

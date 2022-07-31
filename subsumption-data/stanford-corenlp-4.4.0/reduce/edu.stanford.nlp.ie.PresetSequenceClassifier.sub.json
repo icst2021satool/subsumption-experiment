@@ -1,0 +1,13 @@
+{
+"Class" : "edu.stanford.nlp.ie.PresetSequenceClassifier", 
+"Methods" : [{ "Name" : "<init>" ,
+"Duas" : "10" ,
+"Subsumers" : 2,
+"0" : [ 9, 4, 3, 0], "S0" : [0, 2, 3, 4, 7, 8, 9 ],
+"1" : [ 6, 5, 1], "S1" : [1, 2, 5, 6, 7, 8 ]
+},{ "Name" : "classify" ,
+"Duas" : "1" ,
+"Subsumers" : 1,
+"0" : [ 0], "S0" : [0 ]
+}]
+}

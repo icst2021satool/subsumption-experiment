@@ -1,0 +1,17 @@
+{
+"Class" : "edu.stanford.nlp.io.IOUtils$GetLinesIterable", 
+"Methods" : [{ "Name" : "getStream" ,
+"Duas" : 12,
+"0" :  "(764,(764,765), this)",
+"1" :  "(764,(764,766), this)",
+"2" :  "(764,(766,767), this)",
+"3" :  "(764,(766,769), this)",
+"4" :  "(764,767, this)",
+"5" :  "(764,765, this)",
+"6" :  "(764,(764,765), this.file)",
+"7" :  "(764,(764,766), this.file)",
+"8" :  "(764,765, this.file)",
+"9" :  "(764,(766,767), this.path)",
+"10" :  "(764,(766,769), this.path)",
+"11" :  "(764,767, this.path)"}]
+}

@@ -1,0 +1,10 @@
+{
+"Class" : "edu.stanford.nlp.tagger.maxent.ASBCunkDetector", 
+"Methods" : [{ "Name" : "extract" ,
+"Nodes" : 4,
+"0" : [ 1558,1560 ],
+"1" : [ 1562 ],
+"2" : [ 1561 ],
+"3" : [  ]
+}]
+}

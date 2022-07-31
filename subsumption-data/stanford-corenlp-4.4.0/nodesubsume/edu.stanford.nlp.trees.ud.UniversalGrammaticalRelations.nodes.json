@@ -1,0 +1,10 @@
+{
+"Class" : "edu.stanford.nlp.trees.ud.UniversalGrammaticalRelations", 
+"Methods" : [{ "Name" : "getSpecificReln" ,
+"Nodes" : 4,
+"0" : [ 202 ],
+"1" : [ 208 ],
+"2" : [ 203,204,205 ],
+"3" : [  ]
+}]
+}

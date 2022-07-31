@@ -1,0 +1,22 @@
+{
+"Class" : "edu.stanford.nlp.classify.SemiSupervisedLogConditionalObjectiveFunction", 
+"Methods" : [{ "Name" : "calculate" ,
+"Nodes" : 9,
+"0" : [ 34 ],
+"1" : [ 38,40,41,43 ],
+"2" : [ 43 ],
+"3" : [ 47 ],
+"4" : [ 49 ],
+"5" : [ 48 ],
+"6" : [ 43,44 ],
+"7" : [ 35 ],
+"8" : [  ]
+},{ "Name" : "<init>" ,
+"Nodes" : 5,
+"0" : [ 51,19,52,53,54,55,56 ],
+"1" : [ 57 ],
+"2" : [ 56 ],
+"3" : [ 58 ],
+"4" : [  ]
+}]
+}

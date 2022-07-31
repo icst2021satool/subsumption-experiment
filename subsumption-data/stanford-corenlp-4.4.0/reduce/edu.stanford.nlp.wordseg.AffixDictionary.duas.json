@@ -1,0 +1,19 @@
+{
+"Class" : "edu.stanford.nlp.wordseg.AffixDictionary", 
+"Methods" : [{ "Name" : "readDict" ,
+"Duas" : 9,
+"0" :  "(33,54, filename)",
+"1" :  "(33,54, logger)",
+"2" :  "(33,55, a)",
+"3" :  "(33,47, a)",
+"4" :  "(42,45, aDetectorReader)",
+"5" :  "(42,(45,47), aDetectorReader)",
+"6" :  "(42,(45,49), aDetectorReader)",
+"7" :  "(42,49, aDetectorReader)",
+"8" :  "(45,47, aDetectorLine)"},{ "Name" : "getInDict" ,
+"Duas" : 4,
+"0" :  "(60,(60,61), this)",
+"1" :  "(60,(60,62), this)",
+"2" :  "(60,(60,61), a1)",
+"3" :  "(60,(60,62), a1)"}]
+}

@@ -1,0 +1,9 @@
+{
+"Class" : "edu.stanford.nlp.tagger.maxent.ExtractorDistsim", 
+"Methods" : [{ "Name" : "isLocal" ,
+"Duas" : 4,
+"0" :  "(25,(25,25), this)",
+"1" :  "(25,(25,25), this)",
+"2" :  "(25,(25,25), this.position)",
+"3" :  "(25,(25,25), this.position)"}]
+}

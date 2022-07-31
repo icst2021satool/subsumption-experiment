@@ -1,0 +1,12 @@
+{
+"Class" : "edu.stanford.nlp.pipeline.CoreNLPProtos$DependencyEnhancerRequest$RefCase", 
+"Methods" : [{ "Name" : "forNumber" ,
+"Duas" : 7,
+"0" :  "(-1,(-1,-1), value)",
+"1" :  "(-1,(-1,-1), value)",
+"2" :  "(-1,(-1,-1), value)",
+"3" :  "(-1,(-1,-1), value)",
+"4" :  "(-1,-1, LANGUAGE)",
+"5" :  "(-1,-1, RELATIVEPRONOUNS)",
+"6" :  "(-1,-1, REF_NOT_SET)"}]
+}

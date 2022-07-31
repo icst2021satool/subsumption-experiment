@@ -1,0 +1,12 @@
+{
+"Class" : "edu.stanford.nlp.trees.international.pennchinese.FragDiscardingPennTreeReader", 
+"Methods" : [{ "Name" : "readTree" ,
+"Nodes" : 6,
+"0" : [ 33 ],
+"1" : [ 34 ],
+"2" : [ 41 ],
+"3" : [ 34 ],
+"4" : [ 39 ],
+"5" : [  ]
+}]
+}

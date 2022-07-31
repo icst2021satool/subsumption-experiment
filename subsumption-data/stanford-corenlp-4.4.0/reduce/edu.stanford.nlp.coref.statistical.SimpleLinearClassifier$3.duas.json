@@ -1,0 +1,11 @@
+{
+"Class" : "edu.stanford.nlp.coref.statistical.SimpleLinearClassifier$3", 
+"Methods" : [{ "Name" : "derivative" ,
+"Duas" : 6,
+"0" :  "(189,(189,189), this)",
+"1" :  "(189,(189,189), this)",
+"2" :  "(189,(189,189), product)",
+"3" :  "(189,(189,189), product)",
+"4" :  "(189,(189,189), this.val$h)",
+"5" :  "(189,(189,189), this.val$h)"}]
+}

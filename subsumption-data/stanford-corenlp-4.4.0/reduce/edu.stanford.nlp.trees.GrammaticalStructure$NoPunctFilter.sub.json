@@ -1,0 +1,10 @@
+{
+"Class" : "edu.stanford.nlp.trees.GrammaticalStructure$NoPunctFilter", 
+"Methods" : [{ "Name" : "test" ,
+"Duas" : "8" ,
+"Subsumers" : 3,
+"0" : [ 7, 6, 4, 0], "S0" : [0, 2, 3, 4, 6, 7 ],
+"1" : [ 1], "S1" : [1 ],
+"2" : [ 5], "S2" : [2, 3, 5 ]
+}]
+}

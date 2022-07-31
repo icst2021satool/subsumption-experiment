@@ -1,0 +1,13 @@
+{
+"Class" : "edu.stanford.nlp.parser.metrics.Evalb$F1Comparator", 
+"Methods" : [{ "Name" : "compare" ,
+"Duas" : 8,
+"0" :  "(330,(333,334), firstF1)",
+"1" :  "(330,(333,335), firstF1)",
+"2" :  "(330,(335,336), firstF1)",
+"3" :  "(330,(335,338), firstF1)",
+"4" :  "(331,(333,334), secondF1)",
+"5" :  "(331,(333,335), secondF1)",
+"6" :  "(331,(335,336), secondF1)",
+"7" :  "(331,(335,338), secondF1)"}]
+}

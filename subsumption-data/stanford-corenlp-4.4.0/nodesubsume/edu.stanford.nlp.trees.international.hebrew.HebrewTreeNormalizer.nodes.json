@@ -1,0 +1,17 @@
+{
+"Class" : "edu.stanford.nlp.trees.international.hebrew.HebrewTreeNormalizer", 
+"Methods" : [{ "Name" : "normalizeWholeTree" ,
+"Nodes" : 11,
+"0" : [ 41 ],
+"1" : [ 46 ],
+"2" : [ 49 ],
+"3" : [ 52 ],
+"4" : [ 49 ],
+"5" : [ 50 ],
+"6" : [ 46 ],
+"7" : [ 46 ],
+"8" : [ 47 ],
+"9" : [ 46 ],
+"10" : [  ]
+}]
+}

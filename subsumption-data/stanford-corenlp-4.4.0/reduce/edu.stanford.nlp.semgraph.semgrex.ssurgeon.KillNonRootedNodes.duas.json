@@ -1,0 +1,10 @@
+{
+"Class" : "edu.stanford.nlp.semgraph.semgrex.ssurgeon.KillNonRootedNodes", 
+"Methods" : [{ "Name" : "evaluate" ,
+"Duas" : 5,
+"0" :  "(22,24, sg)",
+"1" :  "(22,26, sg)",
+"2" :  "(23,26, node)",
+"3" :  "(24,(25,26), rootPath)",
+"4" :  "(24,(25,28), rootPath)"}]
+}

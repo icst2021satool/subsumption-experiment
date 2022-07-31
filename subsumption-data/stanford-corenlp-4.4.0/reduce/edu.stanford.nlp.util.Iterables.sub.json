@@ -1,0 +1,21 @@
+{
+"Class" : "edu.stanford.nlp.util.Iterables", 
+"Methods" : [{ "Name" : "chain" ,
+"Duas" : "2" ,
+"Subsumers" : 1,
+"0" : [ 1], "S0" : [0, 1 ]
+},{ "Name" : "toString" ,
+"Duas" : "9" ,
+"Subsumers" : 2,
+"0" : [ 7, 3, 0], "S0" : [0, 1, 2, 3, 4, 5, 6, 7 ],
+"1" : [ 8], "S1" : [1, 2, 4, 5, 6, 8 ]
+},{ "Name" : "sample" ,
+"Duas" : "16" ,
+"Subsumers" : 2,
+"0" : [ 14, 15, 12], "S0" : [0, 1, 2, 3, 4, 5, 6, 7, 8, 10, 11, 12, 13, 14, 15 ],
+"1" : [ 9], "S1" : [0, 2, 3, 4, 5, 6, 9 ]
+},{ "Name" : "addAll" ,
+"Duas" : "5" ,
+"Subsumers" : 0 
+}]
+}

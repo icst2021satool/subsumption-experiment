@@ -1,0 +1,11 @@
+{
+"Class" : "edu.stanford.nlp.ie.machinereading.domains.ace.reader.RobustTokenizer$AbbreviationMap", 
+"Methods" : [{ "Name" : "normalizeCase" ,
+"Duas" : 6,
+"0" :  "(597,(597,597), caseInsensitive)",
+"1" :  "(597,(597,598), caseInsensitive)",
+"2" :  "(597,599, words)",
+"3" :  "(597,597, words)",
+"4" :  "(598,600, normWords)",
+"5" :  "(598,599, normWords)"}]
+}

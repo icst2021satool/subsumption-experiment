@@ -1,0 +1,25 @@
+{
+"Class" : "edu.stanford.nlp.tagger.maxent.AmbiguityClasses", 
+"Methods" : [{ "Name" : "add" ,
+"Nodes" : 4,
+"0" : [ ],
+"1" : [ 1, 2, 3, 6, 7, 8, 11, 12, 13],
+"2" : [ 0, 4, 5, 9, 10, 14],
+"3" : [ ],
+"CoveredDUAsByNodes" : 15,
+"Duas" : 15
+},{ "Name" : "getClass" ,
+"Nodes" : 9,
+"0" : [ ],
+"1" : [ 2],
+"2" : [ 2, 4, 9],
+"3" : [ 2, 4, 6, 9, 11, 14],
+"5" : [ 2, 4, 5, 9, 10, 13],
+"4" : [ 0, 2, 4, 7, 9, 12, 15],
+"6" : [ 2, 3, 8],
+"7" : [ 1],
+"8" : [ ],
+"CoveredDUAsByNodes" : 16,
+"Duas" : 16
+}]
+}

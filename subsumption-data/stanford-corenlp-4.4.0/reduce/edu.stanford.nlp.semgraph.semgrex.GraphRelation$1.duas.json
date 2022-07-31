@@ -1,0 +1,9 @@
+{
+"Class" : "edu.stanford.nlp.semgraph.semgrex.GraphRelation$1", 
+"Methods" : [{ "Name" : "satisfies" ,
+"Duas" : 4,
+"0" :  "(183,(183,183), l1)",
+"1" :  "(183,(183,183), l1)",
+"2" :  "(183,(183,183), l2)",
+"3" :  "(183,(183,183), l2)"}]
+}

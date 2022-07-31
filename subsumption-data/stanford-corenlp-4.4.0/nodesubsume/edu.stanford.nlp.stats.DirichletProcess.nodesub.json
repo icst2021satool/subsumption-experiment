@@ -1,0 +1,30 @@
+{
+"Class" : "edu.stanford.nlp.stats.DirichletProcess", 
+"Methods" : [{ "Name" : "drawSample" ,
+"Nodes" : 4,
+"0" : [ ],
+"2" : [ 1, 2, 4, 5],
+"1" : [ 0, 3],
+"3" : [ 0, 3],
+"CoveredDUAsByNodes" : 6,
+"Duas" : 11
+},{ "Name" : "numOccurances" ,
+"Nodes" : 4,
+"0" : [ ],
+"1" : [ 0, 2, 3, 4],
+"2" : [ 1],
+"3" : [ ],
+"CoveredDUAsByNodes" : 5,
+"Duas" : 5
+},{ "Name" : "probabilityOf" ,
+"Nodes" : 6,
+"0" : [ ],
+"1" : [ 4],
+"2" : [ 1, 4, 6, 9],
+"3" : [ 0, 2, 4, 5, 7, 8, 10],
+"4" : [ 3],
+"5" : [ ],
+"CoveredDUAsByNodes" : 11,
+"Duas" : 11
+}]
+}

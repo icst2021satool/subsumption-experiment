@@ -1,0 +1,15 @@
+{
+"Class" : "edu.stanford.nlp.coref.neural.NeuralCorefModel", 
+"Methods" : [{ "Name" : "score" ,
+"Nodes" : 7,
+"0" : [ ],
+"1" : [ ],
+"2" : [ 3],
+"6" : [ 3],
+"3" : [ 1, 2, 4, 7, 9],
+"5" : [ 1, 2, 4, 5, 7, 9, 15],
+"4" : [ 1, 2, 4, 7, 9, 12],
+"CoveredDUAsByNodes" : 9,
+"Duas" : 24
+}]
+}

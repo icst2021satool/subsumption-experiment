@@ -1,0 +1,15 @@
+{
+"Class" : "edu.stanford.nlp.naturalli.ForwardEntailer", 
+"Methods" : [{ "Name" : "apply" ,
+"Duas" : 10,
+"0" :  "(73,79, this)",
+"1" :  "(73,79, parseTree)",
+"2" :  "(73,79, truthOfPremise)",
+"3" :  "(73,79, this.maxResults)",
+"4" :  "(73,79, this.maxTicks)",
+"5" :  "(73,79, this.weights)",
+"6" :  "(74,(75,75), token)",
+"7" :  "(74,(75,78), token)",
+"8" :  "(74,(75,76), token)",
+"9" :  "(74,(75,78), token)"}]
+}

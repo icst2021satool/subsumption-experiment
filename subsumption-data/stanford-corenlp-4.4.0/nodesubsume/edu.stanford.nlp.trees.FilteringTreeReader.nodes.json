@@ -1,0 +1,10 @@
+{
+"Class" : "edu.stanford.nlp.trees.FilteringTreeReader", 
+"Methods" : [{ "Name" : "readTree" ,
+"Nodes" : 4,
+"0" : [ 34,35 ],
+"1" : [ 36 ],
+"2" : [ 35 ],
+"3" : [  ]
+}]
+}

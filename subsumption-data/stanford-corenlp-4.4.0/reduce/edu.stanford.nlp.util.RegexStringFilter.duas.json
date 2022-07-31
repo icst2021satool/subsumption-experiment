@@ -1,0 +1,14 @@
+{
+"Class" : "edu.stanford.nlp.util.RegexStringFilter", 
+"Methods" : [{ "Name" : "equals" ,
+"Duas" : 9,
+"0" :  "(30,(30,31), this)",
+"1" :  "(30,(30,33), this)",
+"2" :  "(30,36, this)",
+"3" :  "(30,(30,31), other)",
+"4" :  "(30,(30,33), other)",
+"5" :  "(30,(33,34), other)",
+"6" :  "(30,(33,36), other)",
+"7" :  "(30,36, other)",
+"8" :  "(30,36, this.pattern)"}]
+}

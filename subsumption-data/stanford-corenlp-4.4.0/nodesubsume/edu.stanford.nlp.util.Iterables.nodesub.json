@@ -1,0 +1,36 @@
+{
+"Class" : "edu.stanford.nlp.util.Iterables", 
+"Methods" : [{ "Name" : "chain" ,
+"Nodes" : 5,
+"0" : [ ],
+"1" : [ ],
+"2" : [ 0],
+"4" : [ 0],
+"3" : [ 1],
+"CoveredDUAsByNodes" : 2,
+"Duas" : 2
+},{ "Name" : "toString" ,
+"Nodes" : 6,
+"0" : [ ],
+"1" : [ ],
+"2" : [ 1, 5],
+"5" : [ 1, 5],
+"3" : [ 2, 4, 6],
+"4" : [ 0, 2, 3, 4, 6, 7],
+"CoveredDUAsByNodes" : 8,
+"Duas" : 9
+},{ "Name" : "sample" ,
+"Nodes" : 5,
+"0" : [ ],
+"1" : [ ],
+"2" : [ 0, 2, 3, 4, 5, 6],
+"4" : [ 0, 2, 3, 4, 5, 6],
+"3" : [ 1, 7, 8, 10, 11],
+"CoveredDUAsByNodes" : 11,
+"Duas" : 16
+},{ "Name" : "addAll" ,
+"Nodes" : 4,
+"CoveredDUAsByNodes" : -1,
+"Duas" : 5
+}]
+}

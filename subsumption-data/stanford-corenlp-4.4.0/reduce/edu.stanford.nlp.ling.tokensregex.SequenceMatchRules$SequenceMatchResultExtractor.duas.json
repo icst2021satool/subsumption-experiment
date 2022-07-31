@@ -1,0 +1,23 @@
+{
+"Class" : "edu.stanford.nlp.ling.tokensregex.SequenceMatchRules$SequenceMatchResultExtractor", 
+"Methods" : [{ "Name" : "apply" ,
+"Duas" : 18,
+"0" :  "(756,(757,758), this)",
+"1" :  "(756,(757,760), this)",
+"2" :  "(756,(760,761), this)",
+"3" :  "(756,(760,763), this)",
+"4" :  "(756,761, this)",
+"5" :  "(756,758, this)",
+"6" :  "(756,761, matchResult)",
+"7" :  "(756,758, matchResult)",
+"8" :  "(756,(757,758), this.action)",
+"9" :  "(756,(757,760), this.action)",
+"10" :  "(756,758, this.action)",
+"11" :  "(756,761, this.env)",
+"12" :  "(756,758, this.env)",
+"13" :  "(756,(760,761), this.result)",
+"14" :  "(756,(760,763), this.result)",
+"15" :  "(756,761, this.result)",
+"16" :  "(756,763, v)",
+"17" :  "(761,763, v)"}]
+}

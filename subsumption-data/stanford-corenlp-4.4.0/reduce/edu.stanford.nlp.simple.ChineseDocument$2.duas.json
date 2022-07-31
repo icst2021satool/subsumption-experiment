@@ -1,0 +1,12 @@
+{
+"Class" : "edu.stanford.nlp.simple.ChineseDocument$2", 
+"Methods" : [{ "Name" : "<init>" ,
+"Duas" : 7,
+"0" :  "(33,39, this)",
+"1" :  "(33,40, this)",
+"2" :  "(33,41, this)",
+"3" :  "(34,(36,36), is)",
+"4" :  "(34,(36,38), is)",
+"5" :  "(34,36, is)",
+"6" :  "(34,36, is)"}]
+}

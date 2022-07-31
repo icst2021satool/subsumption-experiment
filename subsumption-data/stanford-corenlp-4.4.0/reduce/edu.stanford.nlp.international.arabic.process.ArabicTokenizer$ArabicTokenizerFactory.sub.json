@@ -1,0 +1,8 @@
+{
+"Class" : "edu.stanford.nlp.international.arabic.process.ArabicTokenizer$ArabicTokenizerFactory", 
+"Methods" : [{ "Name" : "setOptions" ,
+"Duas" : "2" ,
+"Subsumers" : 1,
+"0" : [ 1, 0], "S0" : [0, 1 ]
+}]
+}

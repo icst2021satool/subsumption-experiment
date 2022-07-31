@@ -1,0 +1,16 @@
+{
+"Class" : "edu.stanford.nlp.trees.international.arabic.ArabicHeadFinder$TagSet", 
+"Methods" : [{ "Name" : "tagSet" ,
+"Nodes" : 10,
+"0" : [ 74 ],
+"1" : [ 74 ],
+"2" : [ 74 ],
+"3" : [ 74 ],
+"4" : [ 74 ],
+"5" : [ 74 ],
+"6" : [ 78 ],
+"7" : [ 76 ],
+"8" : [ 80 ],
+"9" : [  ]
+}]
+}

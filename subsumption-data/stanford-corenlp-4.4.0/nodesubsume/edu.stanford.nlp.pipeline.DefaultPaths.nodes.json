@@ -1,0 +1,11 @@
+{
+"Class" : "edu.stanford.nlp.pipeline.DefaultPaths", 
+"Methods" : [{ "Name" : "main" ,
+"Nodes" : 5,
+"0" : [ 79 ],
+"1" : [ 79 ],
+"2" : [ 82 ],
+"3" : [ 80,79 ],
+"4" : [  ]
+}]
+}

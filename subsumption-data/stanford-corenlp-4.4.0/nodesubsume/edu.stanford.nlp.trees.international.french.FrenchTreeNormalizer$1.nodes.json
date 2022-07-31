@@ -1,0 +1,12 @@
+{
+"Class" : "edu.stanford.nlp.trees.international.french.FrenchTreeNormalizer$1", 
+"Methods" : [{ "Name" : "test" ,
+"Nodes" : 6,
+"0" : [ 48 ],
+"1" : [ 51 ],
+"2" : [ 48 ],
+"3" : [ 49 ],
+"4" : [ 48 ],
+"5" : [  ]
+}]
+}

@@ -1,0 +1,8 @@
+{
+"Class" : "edu.stanford.nlp.process.WordSegmentingTokenizer", 
+"Methods" : [{ "Name" : "getNext" ,
+"Nodes" : 12,
+"CoveredDUAsByNodes" : -1,
+"Duas" : 26
+}]
+}

@@ -1,0 +1,9 @@
+{
+"Class" : "edu.stanford.nlp.stats.Counters$NaturalComparator", 
+"Methods" : [{ "Name" : "compare" ,
+"Duas" : 4,
+"0" :  "(2962,(2962,2963), o1)",
+"1" :  "(2962,(2962,2965), o1)",
+"2" :  "(2962,2963, o1)",
+"3" :  "(2962,2963, o2)"}]
+}

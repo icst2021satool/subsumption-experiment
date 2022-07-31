@@ -1,0 +1,9 @@
+{
+"Class" : "edu.stanford.nlp.tagger.maxent.CWordBooleanExtractor", 
+"Methods" : [{ "Name" : "extract" ,
+"Duas" : 4,
+"0" :  "(1605,(1606,1606), this)",
+"1" :  "(1605,(1606,1606), this)",
+"2" :  "(1605,(1606,1606), cword)",
+"3" :  "(1605,(1606,1606), cword)"}]
+}

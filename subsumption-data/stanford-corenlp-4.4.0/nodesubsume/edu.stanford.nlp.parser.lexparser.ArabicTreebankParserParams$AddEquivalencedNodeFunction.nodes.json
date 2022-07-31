@@ -1,0 +1,12 @@
+{
+"Class" : "edu.stanford.nlp.parser.lexparser.ArabicTreebankParserParams$AddEquivalencedNodeFunction", 
+"Methods" : [{ "Name" : "apply" ,
+"Nodes" : 6,
+"0" : [ 555,556 ],
+"1" : [ 558 ],
+"2" : [ 561 ],
+"3" : [ 559 ],
+"4" : [ 557 ],
+"5" : [  ]
+}]
+}

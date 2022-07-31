@@ -1,0 +1,13 @@
+{
+"Class" : "edu.stanford.nlp.ling.tokensregex.SequencePattern$ConjEndState", 
+"Methods" : [{ "Name" : "match" ,
+"Nodes" : 7,
+"0" : [ 1917 ],
+"1" : [ 1923,1924 ],
+"2" : [ 1932 ],
+"3" : [ 1925,1926,1927 ],
+"4" : [ 1928,1929 ],
+"5" : [ 1918 ],
+"6" : [  ]
+}]
+}

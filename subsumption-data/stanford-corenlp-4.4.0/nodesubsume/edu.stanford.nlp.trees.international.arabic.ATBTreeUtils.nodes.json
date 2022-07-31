@@ -1,0 +1,26 @@
+{
+"Class" : "edu.stanford.nlp.trees.international.arabic.ATBTreeUtils", 
+"Methods" : [{ "Name" : "escape" ,
+"Nodes" : 4,
+"0" : [ 52 ],
+"1" : [ 55,56,57,59 ],
+"2" : [ 52 ],
+"3" : [  ]
+},{ "Name" : "unEscape" ,
+"Nodes" : 4,
+"0" : [ 69 ],
+"1" : [ 72,73,74,76 ],
+"2" : [ 69 ],
+"3" : [  ]
+},{ "Name" : "taggedStringFromTree" ,
+"Nodes" : 8,
+"0" : [ 104,105,106 ],
+"1" : [ 106 ],
+"2" : [ 111 ],
+"3" : [ 106,107 ],
+"4" : [ 107 ],
+"5" : [ 107,108,109,110 ],
+"6" : [ 107 ],
+"7" : [  ]
+}]
+}

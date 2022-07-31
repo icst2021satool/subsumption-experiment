@@ -1,0 +1,9 @@
+{
+"Class" : "edu.stanford.nlp.util.ErasureUtils", 
+"Methods" : [{ "Name" : "mkT2DArray" ,
+"Duas" : 4,
+"0" :  "(49,51, klass)",
+"1" :  "(49,(49,50), dim)",
+"2" :  "(49,(49,51), dim)",
+"3" :  "(49,51, dim)"}]
+}

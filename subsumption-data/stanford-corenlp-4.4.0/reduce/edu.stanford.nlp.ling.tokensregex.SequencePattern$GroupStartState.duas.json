@@ -1,0 +1,19 @@
+{
+"Class" : "edu.stanford.nlp.ling.tokensregex.SequencePattern$GroupStartState", 
+"Methods" : [{ "Name" : "match" ,
+"Duas" : 14,
+"0" :  "(1649,1655, this)",
+"1" :  "(1649,1651, this)",
+"2" :  "(1649,1652, this)",
+"3" :  "(1649,1655, bid)",
+"4" :  "(1649,1651, bid)",
+"5" :  "(1649,1652, bid)",
+"6" :  "(1649,1655, matchedStates)",
+"7" :  "(1649,1651, matchedStates)",
+"8" :  "(1649,1652, matchedStates)",
+"9" :  "(1649,(1649,1651), consume)",
+"10" :  "(1649,(1649,1655), consume)",
+"11" :  "(1649,1652, consume)",
+"12" :  "(1649,1652, prevState)",
+"13" :  "(1649,1651, this.captureGroupId)"}]
+}

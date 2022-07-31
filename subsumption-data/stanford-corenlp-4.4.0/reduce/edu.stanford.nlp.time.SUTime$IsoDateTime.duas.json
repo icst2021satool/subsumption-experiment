@@ -1,0 +1,9 @@
+{
+"Class" : "edu.stanford.nlp.time.SUTime$IsoDateTime", 
+"Methods" : [{ "Name" : "hasTime" ,
+"Duas" : 4,
+"0" :  "(3553,(3553,3553), this)",
+"1" :  "(3553,(3553,3553), this)",
+"2" :  "(3553,(3553,3553), this.time)",
+"3" :  "(3553,(3553,3553), this.time)"}]
+}

@@ -1,0 +1,15 @@
+{
+"Class" : "edu.stanford.nlp.ling.tokensregex.types.Expressions$CaseExpression", 
+"Methods" : [{ "Name" : "<init>" ,
+"Nodes" : 7,
+"0" : [ ],
+"1" : [ 0, 4, 5, 7],
+"2" : [ 0, 4, 5, 7],
+"3" : [ 0, 4, 5, 7],
+"4" : [ 0, 1, 2, 4, 5, 6, 7, 8, 9, 11, 12],
+"5" : [ 3],
+"6" : [ ],
+"CoveredDUAsByNodes" : 12,
+"Duas" : 18
+}]
+}

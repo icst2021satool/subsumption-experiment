@@ -1,0 +1,16 @@
+{
+"Class" : "edu.stanford.nlp.classify.WeightedRVFDataset", 
+"Methods" : [{ "Name" : "getWeights" ,
+"Nodes" : 4,
+"0" : [ 43 ],
+"1" : [ 46 ],
+"2" : [ 44 ],
+"3" : [  ]
+},{ "Name" : "addWeight" ,
+"Nodes" : 4,
+"0" : [ 56 ],
+"1" : [ 65,63 ],
+"2" : [ 57,58,59,60,61 ],
+"3" : [  ]
+}]
+}

@@ -1,0 +1,10 @@
+{
+"Class" : "edu.stanford.nlp.trees.international.pennchinese.CTBTreeReaderFactory", 
+"Methods" : [{ "Name" : "newTreeReader" ,
+"Nodes" : 4,
+"0" : [ 45 ],
+"1" : [ 48 ],
+"2" : [ 46 ],
+"3" : [  ]
+}]
+}

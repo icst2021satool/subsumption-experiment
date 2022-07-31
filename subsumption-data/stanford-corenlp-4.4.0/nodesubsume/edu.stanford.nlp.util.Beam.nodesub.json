@@ -1,0 +1,24 @@
+{
+"Class" : "edu.stanford.nlp.util.Beam", 
+"Methods" : [{ "Name" : "asSortedList" ,
+"Nodes" : 5,
+"0" : [ ],
+"1" : [ ],
+"2" : [ 0, 3],
+"4" : [ 0, 3],
+"3" : [ 1, 2, 4],
+"CoveredDUAsByNodes" : 5,
+"Duas" : 5
+},{ "Name" : "add" ,
+"Nodes" : 7,
+"0" : [ ],
+"1" : [ ],
+"2" : [ 1],
+"6" : [ 1],
+"3" : [ 0, 2, 5],
+"5" : [ 0, 2, 3, 5, 7],
+"4" : [ 0, 2, 5],
+"CoveredDUAsByNodes" : 6,
+"Duas" : 10
+}]
+}

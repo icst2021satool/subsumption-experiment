@@ -1,0 +1,15 @@
+{
+"Class" : "edu.stanford.nlp.process.CoreLabelTokenFactory", 
+"Methods" : [{ "Name" : "makeToken" ,
+"Nodes" : 7,
+"0" : [ ],
+"1" : [ 1, 11],
+"5" : [ 0, 10],
+"2" : [ 4, 5, 6],
+"4" : [ 16, 2, 4, 5, 6, 7, 8, 9, 12, 15],
+"3" : [ 4, 5, 6, 14],
+"6" : [ 4, 5, 6, 14],
+"CoveredDUAsByNodes" : 15,
+"Duas" : 17
+}]
+}

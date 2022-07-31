@@ -1,0 +1,14 @@
+{
+"Class" : "edu.stanford.nlp.trees.tregex.tsurgeon.CoindexationGenerator", 
+"Methods" : [{ "Name" : "setLastIndex" ,
+"Nodes" : 8,
+"0" : [ 23,24 ],
+"1" : [ 24 ],
+"2" : [ 42 ],
+"3" : [ 24,25,26 ],
+"4" : [ 41 ],
+"5" : [ 27,28 ],
+"6" : [ 37,38,29,31 ],
+"7" : [  ]
+}]
+}

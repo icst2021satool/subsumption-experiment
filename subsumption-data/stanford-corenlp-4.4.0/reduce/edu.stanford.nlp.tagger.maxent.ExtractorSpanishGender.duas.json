@@ -1,0 +1,9 @@
+{
+"Class" : "edu.stanford.nlp.tagger.maxent.ExtractorSpanishGender", 
+"Methods" : [{ "Name" : "extract" ,
+"Duas" : 4,
+"0" :  "(1681,(1682,1683), cword)",
+"1" :  "(1681,(1682,1684), cword)",
+"2" :  "(1681,(1684,1685), cword)",
+"3" :  "(1681,(1684,1687), cword)"}]
+}

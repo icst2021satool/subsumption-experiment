@@ -1,0 +1,17 @@
+{
+"Class" : "edu.stanford.nlp.tagger.maxent.ExtractorFrames$ExtractorTwoWords", 
+"Methods" : [{ "Name" : "<init>" ,
+"Duas" : 12,
+"0" :  "(397,402, this)",
+"1" :  "(397,403, this)",
+"2" :  "(397,399, this)",
+"3" :  "(397,400, this)",
+"4" :  "(397,(398,399), position1)",
+"5" :  "(397,(398,402), position1)",
+"6" :  "(397,403, position1)",
+"7" :  "(397,399, position1)",
+"8" :  "(397,(398,399), position2)",
+"9" :  "(397,(398,402), position2)",
+"10" :  "(397,402, position2)",
+"11" :  "(397,400, position2)"}]
+}

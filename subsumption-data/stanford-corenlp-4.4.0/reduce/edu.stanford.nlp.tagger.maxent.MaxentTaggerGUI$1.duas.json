@@ -1,0 +1,13 @@
+{
+"Class" : "edu.stanford.nlp.tagger.maxent.MaxentTaggerGUI$1", 
+"Methods" : [{ "Name" : "run" ,
+"Duas" : 8,
+"0" :  "(84,(84,85), this)",
+"1" :  "(84,(84,87), this)",
+"2" :  "(84,85, this)",
+"3" :  "(84,(84,85), this.val$args)",
+"4" :  "(84,(84,87), this.val$args)",
+"5" :  "(84,85, this.val$args)",
+"6" :  "(85,89, file)",
+"7" :  "(87,89, file)"}]
+}

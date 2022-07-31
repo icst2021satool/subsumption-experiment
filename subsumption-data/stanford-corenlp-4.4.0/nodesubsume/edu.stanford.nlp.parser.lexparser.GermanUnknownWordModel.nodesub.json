@@ -1,0 +1,14 @@
+{
+"Class" : "edu.stanford.nlp.parser.lexparser.GermanUnknownWordModel", 
+"Methods" : [{ "Name" : "score" ,
+"Nodes" : 6,
+"0" : [ ],
+"1" : [ 0, 1, 3, 4],
+"2" : [ 2],
+"3" : [ 2, 6],
+"4" : [ 2, 5],
+"5" : [ ],
+"CoveredDUAsByNodes" : 7,
+"Duas" : 7
+}]
+}

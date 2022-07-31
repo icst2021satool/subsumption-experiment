@@ -1,0 +1,14 @@
+{
+"Class" : "edu.stanford.nlp.semgraph.SemanticGraphUtils$IndexedWordProxy", 
+"Methods" : [{ "Name" : "create" ,
+"Nodes" : 8,
+"0" : [ 1244,1245 ],
+"1" : [ 1250 ],
+"2" : [ 1252 ],
+"3" : [ 1246 ],
+"4" : [ 1246 ],
+"5" : [ 1246 ],
+"6" : [ 1246,1247 ],
+"7" : [  ]
+}]
+}

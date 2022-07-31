@@ -1,0 +1,12 @@
+{
+"Class" : "edu.stanford.nlp.scenegraph.SceneGraphAttribute", 
+"Methods" : [{ "Name" : "equals" ,
+"Duas" : 7,
+"0" :  "(32,42, this)",
+"1" :  "(32,(32,33), o)",
+"2" :  "(32,(32,36), o)",
+"3" :  "(32,(36,37), o)",
+"4" :  "(32,(36,40), o)",
+"5" :  "(32,40, o)",
+"6" :  "(32,42, this.attribute)"}]
+}

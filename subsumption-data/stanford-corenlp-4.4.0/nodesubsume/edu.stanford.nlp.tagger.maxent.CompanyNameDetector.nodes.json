@@ -1,0 +1,15 @@
+{
+"Class" : "edu.stanford.nlp.tagger.maxent.CompanyNameDetector", 
+"Methods" : [{ "Name" : "extract" ,
+"Nodes" : 9,
+"0" : [ 716,717 ],
+"1" : [ 720 ],
+"2" : [ 720 ],
+"3" : [ 726 ],
+"4" : [ 721,722 ],
+"5" : [ 720 ],
+"6" : [ 723 ],
+"7" : [ 718 ],
+"8" : [  ]
+}]
+}

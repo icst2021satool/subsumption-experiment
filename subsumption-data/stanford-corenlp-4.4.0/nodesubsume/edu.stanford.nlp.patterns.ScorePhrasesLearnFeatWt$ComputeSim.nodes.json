@@ -1,0 +1,10 @@
+{
+"Class" : "edu.stanford.nlp.patterns.ScorePhrasesLearnFeatWt$ComputeSim", 
+"Methods" : [{ "Name" : "call" ,
+"Nodes" : 4,
+"0" : [ 435 ],
+"1" : [ 442 ],
+"2" : [ 436,437,438 ],
+"3" : [  ]
+}]
+}

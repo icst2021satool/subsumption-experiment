@@ -1,0 +1,11 @@
+{
+"Class" : "edu.stanford.nlp.tagger.maxent.ExtractorDistsim", 
+"Methods" : [{ "Name" : "isLocal" ,
+"Nodes" : 5,
+"0" : [ 25 ],
+"1" : [ 25 ],
+"2" : [ 25 ],
+"3" : [ 25 ],
+"4" : [  ]
+}]
+}

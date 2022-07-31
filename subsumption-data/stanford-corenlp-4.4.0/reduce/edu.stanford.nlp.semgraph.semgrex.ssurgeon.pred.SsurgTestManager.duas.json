@@ -1,0 +1,9 @@
+{
+"Class" : "edu.stanford.nlp.semgraph.semgrex.ssurgeon.pred.SsurgTestManager", 
+"Methods" : [{ "Name" : "inst" ,
+"Duas" : 4,
+"0" :  "(28,(28,29), instance)",
+"1" :  "(28,(28,30), instance)",
+"2" :  "(28,30, instance)",
+"3" :  "(29,30, instance)"}]
+}

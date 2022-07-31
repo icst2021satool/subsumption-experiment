@@ -1,0 +1,32 @@
+{
+"Class" : "edu.stanford.nlp.ie.machinereading.domains.ace.reader.AceEventMention", 
+"Methods" : [{ "Name" : "getMinTokenStart" ,
+"Nodes" : 10,
+"0" : [ ],
+"1" : [ ],
+"2" : [ ],
+"3" : [ ],
+"4" : [ 0, 1],
+"9" : [ ],
+"5" : [ ],
+"6" : [ 8],
+"8" : [ 9],
+"7" : [ ],
+"CoveredDUAsByNodes" : 4,
+"Duas" : 22
+},{ "Name" : "getMaxTokenEnd" ,
+"Nodes" : 10,
+"0" : [ ],
+"1" : [ ],
+"2" : [ ],
+"3" : [ ],
+"4" : [ 0, 1],
+"9" : [ ],
+"5" : [ ],
+"6" : [ 8],
+"8" : [ 9],
+"7" : [ ],
+"CoveredDUAsByNodes" : 4,
+"Duas" : 22
+}]
+}

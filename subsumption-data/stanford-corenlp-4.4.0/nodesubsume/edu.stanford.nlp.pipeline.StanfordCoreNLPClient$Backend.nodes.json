@@ -1,0 +1,17 @@
+{
+"Class" : "edu.stanford.nlp.pipeline.StanfordCoreNLPClient$Backend", 
+"Methods" : [{ "Name" : "equals" ,
+"Nodes" : 11,
+"0" : [ 68 ],
+"1" : [ 69 ],
+"2" : [ 70,71 ],
+"3" : [ 71 ],
+"4" : [ 71 ],
+"5" : [ 71 ],
+"6" : [ 71 ],
+"7" : [ 71 ],
+"8" : [ 69 ],
+"9" : [ 68 ],
+"10" : [  ]
+}]
+}

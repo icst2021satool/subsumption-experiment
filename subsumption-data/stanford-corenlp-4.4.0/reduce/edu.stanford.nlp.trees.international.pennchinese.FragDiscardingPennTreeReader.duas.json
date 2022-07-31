@@ -1,0 +1,16 @@
+{
+"Class" : "edu.stanford.nlp.trees.international.pennchinese.FragDiscardingPennTreeReader", 
+"Methods" : [{ "Name" : "readTree" ,
+"Duas" : 11,
+"0" :  "(33,39, this)",
+"1" :  "(33,(34,34), tr)",
+"2" :  "(33,(34,41), tr)",
+"3" :  "(33,41, tr)",
+"4" :  "(33,(34,39), tr)",
+"5" :  "(33,(34,41), tr)",
+"6" :  "(39,(34,34), tr)",
+"7" :  "(39,(34,41), tr)",
+"8" :  "(39,41, tr)",
+"9" :  "(39,(34,39), tr)",
+"10" :  "(39,(34,41), tr)"}]
+}

@@ -1,0 +1,17 @@
+{
+"Class" : "edu.stanford.nlp.ie.machinereading.structure.Span$1", 
+"Methods" : [{ "Name" : "hasNext" ,
+"Duas" : 6,
+"0" :  "(175,(175,175), this)",
+"1" :  "(175,(175,175), this)",
+"2" :  "(175,(175,175), this.this$0)",
+"3" :  "(175,(175,175), this.this$0)",
+"4" :  "(175,(175,175), this.nextIndex)",
+"5" :  "(175,(175,175), this.nextIndex)"},{ "Name" : "next" ,
+"Duas" : 5,
+"0" :  "(179,(179,179), this)",
+"1" :  "(179,(179,180), this)",
+"2" :  "(179,180, this)",
+"3" :  "(179,181, this)",
+"4" :  "(179,180, this.nextIndex)"}]
+}

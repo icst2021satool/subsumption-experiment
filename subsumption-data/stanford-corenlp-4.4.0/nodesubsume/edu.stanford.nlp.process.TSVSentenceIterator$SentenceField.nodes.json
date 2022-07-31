@@ -1,0 +1,10 @@
+{
+"Class" : "edu.stanford.nlp.process.TSVSentenceIterator$SentenceField", 
+"Methods" : [{ "Name" : "isToken" ,
+"Nodes" : 4,
+"0" : [ 47 ],
+"1" : [ 52 ],
+"2" : [ 54 ],
+"3" : [  ]
+}]
+}

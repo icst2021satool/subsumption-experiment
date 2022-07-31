@@ -1,0 +1,17 @@
+{
+"Class" : "edu.stanford.nlp.sentiment.SimpleSentiment$SentimentDatum", 
+"Methods" : [{ "Name" : "asCoreMap" ,
+"Nodes" : 11,
+"0" : [ 85 ],
+"1" : [ 106 ],
+"2" : [ 108,109 ],
+"3" : [ 86 ],
+"4" : [ 100,101 ],
+"5" : [ 97,98 ],
+"6" : [ 94,95 ],
+"7" : [ 91,92 ],
+"8" : [ 88,89 ],
+"9" : [ 103 ],
+"10" : [  ]
+}]
+}

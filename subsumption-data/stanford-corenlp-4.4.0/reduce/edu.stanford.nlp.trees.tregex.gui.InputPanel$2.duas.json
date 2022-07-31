@@ -1,0 +1,11 @@
+{
+"Class" : "edu.stanford.nlp.trees.tregex.gui.InputPanel$2", 
+"Methods" : [{ "Name" : "run" ,
+"Duas" : 6,
+"0" :  "(610,626, this)",
+"1" :  "(610,618, this)",
+"2" :  "(610,618, text)",
+"3" :  "(615,(616,618), visitor)",
+"4" :  "(615,(616,626), visitor)",
+"5" :  "(615,618, visitor)"}]
+}

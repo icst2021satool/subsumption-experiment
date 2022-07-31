@@ -1,0 +1,10 @@
+{
+"Class" : "edu.stanford.nlp.tagger.maxent.ExtractorSpanishGender", 
+"Methods" : [{ "Name" : "extract" ,
+"Duas" : "4" ,
+"Subsumers" : 3,
+"0" : [ 0], "S0" : [0 ],
+"1" : [ 2], "S1" : [1, 2 ],
+"2" : [ 3], "S2" : [1, 3 ]
+}]
+}

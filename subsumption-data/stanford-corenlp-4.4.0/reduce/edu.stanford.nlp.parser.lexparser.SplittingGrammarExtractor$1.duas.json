@@ -1,0 +1,9 @@
+{
+"Class" : "edu.stanford.nlp.parser.lexparser.SplittingGrammarExtractor$1", 
+"Methods" : [{ "Name" : "equals" ,
+"Duas" : 4,
+"0" :  "(1151,(1151,1151), this)",
+"1" :  "(1151,(1151,1151), this)",
+"2" :  "(1151,(1151,1151), o)",
+"3" :  "(1151,(1151,1151), o)"}]
+}

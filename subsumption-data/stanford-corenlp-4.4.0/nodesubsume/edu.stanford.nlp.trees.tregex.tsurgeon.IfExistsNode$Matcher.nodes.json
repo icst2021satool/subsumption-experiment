@@ -1,0 +1,15 @@
+{
+"Class" : "edu.stanford.nlp.trees.tregex.tsurgeon.IfExistsNode$Matcher", 
+"Methods" : [{ "Name" : "evaluate" ,
+"Nodes" : 9,
+"0" : [ 37 ],
+"1" : [ 37 ],
+"2" : [ 37 ],
+"3" : [ 42 ],
+"4" : [ 38 ],
+"5" : [ 38 ],
+"6" : [ 38,39 ],
+"7" : [ 37 ],
+"8" : [  ]
+}]
+}

@@ -1,0 +1,15 @@
+{
+"Class" : "edu.stanford.nlp.ling.tokensregex.types.ValueFunctions$4", 
+"Methods" : [{ "Name" : "compute" ,
+"Nodes" : 7,
+"0" : [ ],
+"2" : [ 0],
+"1" : [ 2],
+"3" : [ 0, 3],
+"4" : [ 0, 3, 6, 7],
+"5" : [ 0, 3, 5, 8],
+"6" : [ ],
+"CoveredDUAsByNodes" : 7,
+"Duas" : 9
+}]
+}

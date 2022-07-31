@@ -1,0 +1,10 @@
+{
+"Class" : "edu.stanford.nlp.trees.ud.CoNLLUDocumentReader", 
+"Methods" : [{ "Name" : "lambda$static$0" ,
+"Nodes" : 7,
+"Duas" : 4,
+"0" :  [ 0,5 ],
+"1" :  [ 0,1 ],
+"2" :  [ 0,1,4 ],
+"3" :  [ 0,1,2 ]}]
+}

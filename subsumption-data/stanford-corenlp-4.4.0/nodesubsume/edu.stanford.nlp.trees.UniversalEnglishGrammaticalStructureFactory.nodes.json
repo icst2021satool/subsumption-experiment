@@ -1,0 +1,13 @@
+{
+"Class" : "edu.stanford.nlp.trees.UniversalEnglishGrammaticalStructureFactory", 
+"Methods" : [{ "Name" : "newGrammaticalStructure" ,
+"Nodes" : 7,
+"0" : [ 25 ],
+"1" : [ 27 ],
+"2" : [ 30 ],
+"3" : [ 28 ],
+"4" : [ 25 ],
+"5" : [ 26 ],
+"6" : [  ]
+}]
+}

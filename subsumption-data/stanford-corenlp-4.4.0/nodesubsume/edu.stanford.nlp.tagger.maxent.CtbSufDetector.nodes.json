@@ -1,0 +1,11 @@
+{
+"Class" : "edu.stanford.nlp.tagger.maxent.CtbSufDetector", 
+"Methods" : [{ "Name" : "extract" ,
+"Nodes" : 5,
+"0" : [ 1488,1490 ],
+"1" : [ 1492 ],
+"2" : [ 1490 ],
+"3" : [ 1491 ],
+"4" : [  ]
+}]
+}

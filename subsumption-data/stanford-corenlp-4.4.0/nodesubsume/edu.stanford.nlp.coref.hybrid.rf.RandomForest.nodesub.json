@@ -1,0 +1,13 @@
+{
+"Class" : "edu.stanford.nlp.coref.hybrid.rf.RandomForest", 
+"Methods" : [{ "Name" : "probabilityOfTrue" ,
+"Nodes" : 5,
+"0" : [ ],
+"1" : [ ],
+"2" : [ 0, 2],
+"4" : [ 0, 2],
+"3" : [ 1, 4],
+"CoveredDUAsByNodes" : 4,
+"Duas" : 7
+}]
+}

@@ -1,0 +1,24 @@
+{
+"Class" : "edu.stanford.nlp.parser.shiftreduce.TransitionTypeEval", 
+"Methods" : [{ "Name" : "evaluate" ,
+"Nodes" : 7,
+"0" : [ ],
+"1" : [ 2, 3],
+"2" : [ 2, 3],
+"3" : [ 2, 3],
+"4" : [ 0, 2, 3, 4],
+"5" : [ 1],
+"6" : [ ],
+"CoveredDUAsByNodes" : 5,
+"Duas" : 5
+},{ "Name" : "display" ,
+"Nodes" : 5,
+"0" : [ ],
+"1" : [ ],
+"2" : [ ],
+"4" : [ ],
+"3" : [ 0, 1, 2],
+"CoveredDUAsByNodes" : 3,
+"Duas" : 3
+}]
+}

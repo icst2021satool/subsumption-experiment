@@ -1,0 +1,13 @@
+{
+"Class" : "edu.stanford.nlp.trees.international.pennchinese.UniversalChineseGrammaticalStructureFactory", 
+"Methods" : [{ "Name" : "newGrammaticalStructure" ,
+"Nodes" : 7,
+"0" : [ 28 ],
+"1" : [ 30 ],
+"2" : [ 33 ],
+"3" : [ 31 ],
+"4" : [ 28 ],
+"5" : [ 29 ],
+"6" : [  ]
+}]
+}

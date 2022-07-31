@@ -1,0 +1,15 @@
+{
+"Class" : "edu.stanford.nlp.trees.tregex.tsurgeon.AdjoinNode$Matcher", 
+"Methods" : [{ "Name" : "evaluate" ,
+"Duas" : 10,
+"0" :  "(45,56, tree)",
+"1" :  "(45,54, targetNode)",
+"2" :  "(46,(51,52), parent)",
+"3" :  "(46,(51,54), parent)",
+"4" :  "(46,54, parent)",
+"5" :  "(46,55, parent)",
+"6" :  "(48,55, ft)",
+"7" :  "(48,52, ft)",
+"8" :  "(48,55, ft.tree)",
+"9" :  "(48,52, ft.tree)"}]
+}

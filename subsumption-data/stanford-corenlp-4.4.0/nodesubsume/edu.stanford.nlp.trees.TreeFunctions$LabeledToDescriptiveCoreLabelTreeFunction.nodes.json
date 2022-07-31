@@ -1,0 +1,17 @@
+{
+"Class" : "edu.stanford.nlp.trees.TreeFunctions$LabeledToDescriptiveCoreLabelTreeFunction", 
+"Methods" : [{ "Name" : "apply" ,
+"Nodes" : 11,
+"0" : [ 122 ],
+"1" : [ 124 ],
+"2" : [ 126 ],
+"3" : [ 130,131,132 ],
+"4" : [ 132 ],
+"5" : [ 135 ],
+"6" : [ 132,133 ],
+"7" : [ 128,127 ],
+"8" : [ 125 ],
+"9" : [ 123 ],
+"10" : [  ]
+}]
+}

@@ -1,0 +1,12 @@
+{
+"Class" : "edu.stanford.nlp.util.logging.Color", 
+"Methods" : [{ "Name" : "apply" ,
+"Nodes" : 4,
+"0" : [ ],
+"1" : [ 1, 4],
+"2" : [ 0, 2, 3, 5],
+"3" : [ ],
+"CoveredDUAsByNodes" : 6,
+"Duas" : 6
+}]
+}

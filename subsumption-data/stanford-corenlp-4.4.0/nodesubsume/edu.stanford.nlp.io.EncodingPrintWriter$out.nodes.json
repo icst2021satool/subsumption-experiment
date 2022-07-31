@@ -1,0 +1,13 @@
+{
+"Class" : "edu.stanford.nlp.io.EncodingPrintWriter$out", 
+"Methods" : [{ "Name" : "setupOutWriter" ,
+"Nodes" : 7,
+"0" : [ 87 ],
+"1" : [ 90 ],
+"2" : [ 98,92,93 ],
+"3" : [ 100 ],
+"4" : [ 90 ],
+"5" : [ 88 ],
+"6" : [  ]
+}]
+}

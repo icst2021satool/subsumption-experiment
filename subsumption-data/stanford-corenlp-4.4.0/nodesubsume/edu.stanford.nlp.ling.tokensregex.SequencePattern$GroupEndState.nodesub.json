@@ -1,0 +1,16 @@
+{
+"Class" : "edu.stanford.nlp.ling.tokensregex.SequencePattern$GroupEndState", 
+"Methods" : [{ "Name" : "match" ,
+"Nodes" : 8,
+"0" : [ ],
+"1" : [ 15],
+"6" : [ 14],
+"2" : [ 16, 3, 7],
+"3" : [ 0, 16, 18, 3, 4, 21, 7, 8, 12],
+"5" : [ 16, 2, 3, 19, 20, 6, 22, 7, 10, 11],
+"4" : [ 16, 1, 17, 3, 5, 7, 9, 13],
+"7" : [ 16, 1, 17, 3, 5, 7, 9, 13],
+"CoveredDUAsByNodes" : 23,
+"Duas" : 23
+}]
+}

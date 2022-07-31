@@ -1,0 +1,13 @@
+{
+"Class" : "edu.stanford.nlp.coref.hybrid.demo.ChineseHcorefDemo", 
+"Methods" : [{ "Name" : "main" ,
+"Nodes" : 11,
+"Duas" : 7,
+"0" :  [ 0,4 ],
+"1" :  [ 0,5 ],
+"2" :  [ 0,5 ],
+"3" :  [ 0,8 ],
+"4" :  [ 0,9 ],
+"5" :  [ 0,4 ],
+"6" :  [ 0,2 ]}]
+}

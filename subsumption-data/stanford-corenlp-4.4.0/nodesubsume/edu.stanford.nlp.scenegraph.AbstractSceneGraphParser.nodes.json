@@ -1,0 +1,16 @@
+{
+"Class" : "edu.stanford.nlp.scenegraph.AbstractSceneGraphParser", 
+"Methods" : [{ "Name" : "parse" ,
+"Nodes" : 4,
+"0" : [ 18 ],
+"1" : [ 22 ],
+"2" : [ 18,19,20 ],
+"3" : [  ]
+},{ "Name" : "parse" ,
+"Nodes" : 4,
+"0" : [ 41 ],
+"1" : [ 48,45,46 ],
+"2" : [ 42 ],
+"3" : [  ]
+}]
+}

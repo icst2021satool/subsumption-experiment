@@ -1,0 +1,11 @@
+{
+"Class" : "edu.stanford.nlp.ling.tokensregex.types.ValueFunctions$3", 
+"Methods" : [{ "Name" : "compute" ,
+"Duas" : 6,
+"0" :  "(220,(220,220), in)",
+"1" :  "(220,(220,223), in)",
+"2" :  "(220,223, in)",
+"3" :  "(220,(220,221), in)",
+"4" :  "(220,(220,223), in)",
+"5" :  "(220,221, in)"}]
+}

@@ -1,0 +1,15 @@
+{
+"Class" : "edu.stanford.nlp.util.concurrent.MulticoreWrapper$QueueItem", 
+"Methods" : [{ "Name" : "equals" ,
+"Nodes" : 9,
+"0" : [ 289 ],
+"1" : [ 290 ],
+"2" : [ 291,292 ],
+"3" : [ 292 ],
+"4" : [ 292 ],
+"5" : [ 292 ],
+"6" : [ 290 ],
+"7" : [ 289 ],
+"8" : [  ]
+}]
+}

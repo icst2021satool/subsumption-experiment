@@ -1,0 +1,10 @@
+{
+"Class" : "edu.stanford.nlp.parser.lexparser.GermanUnknownWordModelTrainer", 
+"Methods" : [{ "Name" : "buildUWM" ,
+"Nodes" : 4,
+"0" : [ 11,12 ],
+"1" : [ 15 ],
+"2" : [ 13 ],
+"3" : [  ]
+}]
+}

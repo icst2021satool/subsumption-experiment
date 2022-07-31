@@ -1,0 +1,24 @@
+{
+"Class" : "edu.stanford.nlp.ling.WordLemmaTagFactory", 
+"Methods" : [{ "Name" : "newLabel" ,
+"Nodes" : 6,
+"0" : [ ],
+"1" : [ 4],
+"2" : [ 0, 4, 6],
+"3" : [ 1, 4, 5],
+"4" : [ 2, 3],
+"5" : [ ],
+"CoveredDUAsByNodes" : 7,
+"Duas" : 7
+},{ "Name" : "newLabelFromString" ,
+"Nodes" : 6,
+"0" : [ ],
+"1" : [ 4],
+"2" : [ 0, 4, 6, 7, 10, 11],
+"3" : [ 1, 4, 5, 8, 9],
+"4" : [ 2, 3],
+"5" : [ ],
+"CoveredDUAsByNodes" : 12,
+"Duas" : 12
+}]
+}

@@ -1,0 +1,11 @@
+{
+"Class" : "edu.stanford.nlp.trees.tregex.tsurgeon.InsertNode$Matcher", 
+"Methods" : [{ "Name" : "evaluate" ,
+"Nodes" : 5,
+"0" : [ 55,56,57 ],
+"1" : [ 57 ],
+"2" : [ 57,58,59 ],
+"3" : [ 57 ],
+"4" : [  ]
+}]
+}

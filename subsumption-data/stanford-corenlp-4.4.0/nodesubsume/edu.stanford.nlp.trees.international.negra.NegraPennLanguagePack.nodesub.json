@@ -1,0 +1,36 @@
+{
+"Class" : "edu.stanford.nlp.trees.international.negra.NegraPennLanguagePack", 
+"Methods" : [{ "Name" : "basicCategory" ,
+"Nodes" : 5,
+"0" : [ ],
+"1" : [ 1, 2, 4, 7],
+"3" : [ 0, 3, 5, 6],
+"2" : [ ],
+"4" : [ ],
+"CoveredDUAsByNodes" : 8,
+"Duas" : 10
+},{ "Name" : "stripGF" ,
+"Nodes" : 7,
+"0" : [ ],
+"1" : [ 0, 2, 3, 8],
+"3" : [ 0, 2, 3, 8, 9],
+"4" : [ 0, 2, 3, 5, 7, 8, 9, 11, 13],
+"2" : [ 0, 2, 3, 8],
+"5" : [ 1],
+"6" : [ ],
+"CoveredDUAsByNodes" : 10,
+"Duas" : 15
+},{ "Name" : "containsKeptGF" ,
+"Nodes" : 8,
+"0" : [ ],
+"1" : [ ],
+"2" : [ ],
+"3" : [ ],
+"5" : [ 0, 4, 10],
+"4" : [ ],
+"6" : [ 0, 2, 4, 6, 8, 10, 12],
+"7" : [ ],
+"CoveredDUAsByNodes" : 7,
+"Duas" : 14
+}]
+}

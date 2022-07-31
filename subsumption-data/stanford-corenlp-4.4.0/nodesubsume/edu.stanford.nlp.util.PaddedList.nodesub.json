@@ -1,0 +1,23 @@
+{
+"Class" : "edu.stanford.nlp.util.PaddedList", 
+"Methods" : [{ "Name" : "get" ,
+"Nodes" : 5,
+"0" : [ ],
+"2" : [ 4],
+"3" : [ 2, 3, 4, 7, 8, 10],
+"1" : [ 0, 9],
+"4" : [ ],
+"CoveredDUAsByNodes" : 8,
+"Duas" : 11
+},{ "Name" : "sameInnerList" ,
+"Nodes" : 6,
+"0" : [ ],
+"3" : [ 2],
+"1" : [ ],
+"4" : [ 0, 2, 4, 6, 8],
+"2" : [ ],
+"5" : [ ],
+"CoveredDUAsByNodes" : 5,
+"Duas" : 10
+}]
+}

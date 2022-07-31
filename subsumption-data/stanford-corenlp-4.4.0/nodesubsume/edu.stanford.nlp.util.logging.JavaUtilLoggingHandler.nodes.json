@@ -1,0 +1,14 @@
+{
+"Class" : "edu.stanford.nlp.util.logging.JavaUtilLoggingHandler", 
+"Methods" : [{ "Name" : "print" ,
+"Nodes" : 8,
+"0" : [ 19,22,25 ],
+"1" : [ 40 ],
+"2" : [ 37,38 ],
+"3" : [ 33,34 ],
+"4" : [ 30,31 ],
+"5" : [ 27,28 ],
+"6" : [ 45 ],
+"7" : [  ]
+}]
+}

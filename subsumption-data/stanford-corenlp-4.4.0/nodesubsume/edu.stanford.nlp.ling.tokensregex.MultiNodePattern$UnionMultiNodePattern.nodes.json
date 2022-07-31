@@ -1,0 +1,20 @@
+{
+"Class" : "edu.stanford.nlp.ling.tokensregex.MultiNodePattern$UnionMultiNodePattern", 
+"Methods" : [{ "Name" : "match" ,
+"Nodes" : 14,
+"0" : [ 87,88 ],
+"1" : [ 88 ],
+"2" : [ 102 ],
+"3" : [ 88,89,90 ],
+"4" : [ 101 ],
+"5" : [ 90 ],
+"6" : [ 91 ],
+"7" : [ 94 ],
+"8" : [ 94 ],
+"9" : [ 94,95 ],
+"10" : [ 98 ],
+"11" : [ 96 ],
+"12" : [ 92 ],
+"13" : [  ]
+}]
+}

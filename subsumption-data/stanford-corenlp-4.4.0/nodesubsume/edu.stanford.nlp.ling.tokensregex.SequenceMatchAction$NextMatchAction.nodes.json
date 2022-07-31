@@ -1,0 +1,12 @@
+{
+"Class" : "edu.stanford.nlp.ling.tokensregex.SequenceMatchAction$NextMatchAction", 
+"Methods" : [{ "Name" : "apply" ,
+"Nodes" : 6,
+"0" : [ 44 ],
+"1" : [ 52 ],
+"2" : [ 45,46 ],
+"3" : [ 49 ],
+"4" : [ 47 ],
+"5" : [  ]
+}]
+}

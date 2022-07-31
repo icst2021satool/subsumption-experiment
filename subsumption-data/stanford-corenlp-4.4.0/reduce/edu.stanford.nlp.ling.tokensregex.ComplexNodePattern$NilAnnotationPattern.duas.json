@@ -1,0 +1,7 @@
+{
+"Class" : "edu.stanford.nlp.ling.tokensregex.ComplexNodePattern$NilAnnotationPattern", 
+"Methods" : [{ "Name" : "match" ,
+"Duas" : 2,
+"0" :  "(197,(197,197), obj)",
+"1" :  "(197,(197,197), obj)"}]
+}

@@ -1,0 +1,23 @@
+{
+"Class" : "edu.stanford.nlp.coref.statistical.EvalUtils$MUCEvaluator", 
+"Methods" : [{ "Name" : "getScore" ,
+"Duas" : 18,
+"0" :  "(154,162, mentionToGold)",
+"1" :  "(154,172, tp)",
+"2" :  "(154,159, tp)",
+"3" :  "(155,172, predictedPositive)",
+"4" :  "(155,158, predictedPositive)",
+"5" :  "(158,172, predictedPositive)",
+"6" :  "(158,158, predictedPositive)",
+"7" :  "(159,169, tp)",
+"8" :  "(159,164, tp)",
+"9" :  "(160,169, linked)",
+"10" :  "(160,166, linked)",
+"11" :  "(162,(163,164), g)",
+"12" :  "(162,(163,166), g)",
+"13" :  "(162,166, g)",
+"14" :  "(164,169, tp)",
+"15" :  "(164,164, tp)",
+"16" :  "(169,172, tp)",
+"17" :  "(169,159, tp)"}]
+}

@@ -1,0 +1,17 @@
+{
+"Class" : "edu.stanford.nlp.ling.tokensregex.SequencePattern$BackRefPatternExpr", 
+"Methods" : [{ "Name" : "<init>" ,
+"Nodes" : 4,
+"0" : [ 555,556 ],
+"1" : [ 557,558,559 ],
+"2" : [ 556 ],
+"3" : [  ]
+},{ "Name" : "toString" ,
+"Nodes" : 5,
+"0" : [ 587,588 ],
+"1" : [ 591 ],
+"2" : [ 593,594 ],
+"3" : [ 589 ],
+"4" : [  ]
+}]
+}

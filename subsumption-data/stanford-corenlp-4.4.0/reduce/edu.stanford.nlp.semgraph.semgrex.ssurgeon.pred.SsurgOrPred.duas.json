@@ -1,0 +1,14 @@
+{
+"Class" : "edu.stanford.nlp.semgraph.semgrex.ssurgeon.pred.SsurgOrPred", 
+"Methods" : [{ "Name" : "test" ,
+"Duas" : 4,
+"0" :  "(16,(17,18), matcher)",
+"1" :  "(16,(17,19), matcher)",
+"2" :  "(16,(17,18), term)",
+"3" :  "(16,(17,19), term)"},{ "Name" : "toString" ,
+"Duas" : 4,
+"0" :  "(25,31, buf)",
+"1" :  "(25,32, buf)",
+"2" :  "(25,28, buf)",
+"3" :  "(25,29, buf)"}]
+}

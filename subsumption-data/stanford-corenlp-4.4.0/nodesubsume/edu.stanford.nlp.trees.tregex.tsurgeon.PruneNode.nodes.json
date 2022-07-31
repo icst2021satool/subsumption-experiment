@@ -1,0 +1,12 @@
+{
+"Class" : "edu.stanford.nlp.trees.tregex.tsurgeon.PruneNode", 
+"Methods" : [{ "Name" : "pruneHelper" ,
+"Nodes" : 6,
+"0" : [ 45 ],
+"1" : [ 48,49,47 ],
+"2" : [ 51 ],
+"3" : [ 50 ],
+"4" : [ 46 ],
+"5" : [  ]
+}]
+}

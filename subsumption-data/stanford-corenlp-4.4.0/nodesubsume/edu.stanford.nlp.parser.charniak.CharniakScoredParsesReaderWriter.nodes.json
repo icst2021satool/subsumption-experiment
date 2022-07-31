@@ -1,0 +1,31 @@
+{
+"Class" : "edu.stanford.nlp.parser.charniak.CharniakScoredParsesReaderWriter", 
+"Methods" : [{ "Name" : "stringToParses" ,
+"Nodes" : 5,
+"0" : [ 81,82,83,84,85 ],
+"1" : [ 88,89 ],
+"2" : [ 85 ],
+"3" : [ 86 ],
+"4" : [  ]
+},{ "Name" : "parsesToString" ,
+"Nodes" : 4,
+"0" : [ 104 ],
+"1" : [ 105,106,107,108,109 ],
+"2" : [ 104 ],
+"3" : [  ]
+},{ "Name" : "printScoredTrees" ,
+"Nodes" : 5,
+"0" : [ 119,120,121 ],
+"1" : [ 121 ],
+"2" : [ 128,129,125 ],
+"3" : [ 121,122,123,124 ],
+"4" : [  ]
+},{ "Name" : "printScoredTrees" ,
+"Nodes" : 5,
+"0" : [ 139,140 ],
+"1" : [ 140 ],
+"2" : [ 144 ],
+"3" : [ 140,141,142,143 ],
+"4" : [  ]
+}]
+}

@@ -1,0 +1,13 @@
+{
+"Class" : "edu.stanford.nlp.pipeline.StanfordCoreNLPServer$ShutdownHandler", 
+"Methods" : [{ "Name" : "handle" ,
+"Nodes" : 7,
+"0" : [ 725,726,727,728,729 ],
+"1" : [ 736,733,734,735 ],
+"2" : [ 739 ],
+"3" : [ 737 ],
+"4" : [ 729 ],
+"5" : [ 730,731 ],
+"6" : [  ]
+}]
+}

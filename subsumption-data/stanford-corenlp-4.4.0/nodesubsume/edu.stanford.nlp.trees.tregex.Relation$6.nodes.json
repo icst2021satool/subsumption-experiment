@@ -1,0 +1,13 @@
+{
+"Class" : "edu.stanford.nlp.trees.tregex.Relation$6", 
+"Methods" : [{ "Name" : "satisfies" ,
+"Nodes" : 7,
+"0" : [ 393,394 ],
+"1" : [ 394 ],
+"2" : [ 399 ],
+"3" : [ 394,395 ],
+"4" : [ 394 ],
+"5" : [ 396 ],
+"6" : [  ]
+}]
+}

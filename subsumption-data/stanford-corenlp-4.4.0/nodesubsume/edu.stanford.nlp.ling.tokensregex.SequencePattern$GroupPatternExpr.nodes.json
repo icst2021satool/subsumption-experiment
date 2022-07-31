@@ -1,0 +1,24 @@
+{
+"Class" : "edu.stanford.nlp.ling.tokensregex.SequencePattern$GroupPatternExpr", 
+"Methods" : [{ "Name" : "assignGroupIds" ,
+"Nodes" : 4,
+"0" : [ 682,683 ],
+"1" : [ 687 ],
+"2" : [ 684,685 ],
+"3" : [  ]
+},{ "Name" : "updateBindings" ,
+"Nodes" : 4,
+"0" : [ 691 ],
+"1" : [ 694,695 ],
+"2" : [ 692 ],
+"3" : [  ]
+},{ "Name" : "toString" ,
+"Nodes" : 6,
+"0" : [ 714,715,716 ],
+"1" : [ 718 ],
+"2" : [ 721,722,723 ],
+"3" : [ 719 ],
+"4" : [ 717 ],
+"5" : [  ]
+}]
+}

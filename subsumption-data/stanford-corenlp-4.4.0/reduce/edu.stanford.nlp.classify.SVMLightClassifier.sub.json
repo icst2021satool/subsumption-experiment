@@ -1,0 +1,14 @@
+{
+"Class" : "edu.stanford.nlp.classify.SVMLightClassifier", 
+"Methods" : [{ "Name" : "logProbabilityOf" ,
+"Duas" : "8" ,
+"Subsumers" : 2,
+"0" : [ 5, 0], "S0" : [0, 5 ],
+"1" : [ 7, 6, 4, 2, 3, 1], "S1" : [1, 2, 3, 4, 6, 7 ]
+},{ "Name" : "logProbabilityOf" ,
+"Duas" : "8" ,
+"Subsumers" : 2,
+"0" : [ 5, 0], "S0" : [0, 5 ],
+"1" : [ 7, 6, 4, 2, 3, 1], "S1" : [1, 2, 3, 4, 6, 7 ]
+}]
+}

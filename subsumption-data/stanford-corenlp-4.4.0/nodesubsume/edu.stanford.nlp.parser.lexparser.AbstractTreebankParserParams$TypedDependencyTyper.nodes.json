@@ -1,0 +1,14 @@
+{
+"Class" : "edu.stanford.nlp.parser.lexparser.AbstractTreebankParserParams$TypedDependencyTyper", 
+"Methods" : [{ "Name" : "makeDependency" ,
+"Nodes" : 8,
+"0" : [ 491,492,493,494 ],
+"1" : [ 494 ],
+"2" : [ 496,497,498,499,500,494,495 ],
+"3" : [ 503 ],
+"4" : [ 504 ],
+"5" : [ 501 ],
+"6" : [ 494 ],
+"7" : [  ]
+}]
+}

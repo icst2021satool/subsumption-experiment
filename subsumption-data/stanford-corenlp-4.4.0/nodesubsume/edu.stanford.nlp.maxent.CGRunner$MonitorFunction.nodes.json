@@ -1,0 +1,11 @@
+{
+"Class" : "edu.stanford.nlp.maxent.CGRunner$MonitorFunction", 
+"Methods" : [{ "Name" : "valueAt" ,
+"Nodes" : 5,
+"0" : [ 307,309,310,316 ],
+"1" : [ 321,319 ],
+"2" : [ 316 ],
+"3" : [ 317 ],
+"4" : [  ]
+}]
+}

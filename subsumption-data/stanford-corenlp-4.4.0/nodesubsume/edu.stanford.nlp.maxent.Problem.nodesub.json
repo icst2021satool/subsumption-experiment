@@ -1,0 +1,22 @@
+{
+"Class" : "edu.stanford.nlp.maxent.Problem", 
+"Methods" : [{ "Name" : "print" ,
+"Nodes" : 5,
+"0" : [ ],
+"1" : [ ],
+"2" : [ 1, 4],
+"4" : [ 1, 4],
+"3" : [ 0, 2, 3, 5, 6, 8, 9],
+"CoveredDUAsByNodes" : 9,
+"Duas" : 14
+},{ "Name" : "print" ,
+"Nodes" : 5,
+"0" : [ ],
+"1" : [ ],
+"2" : [ 1, 4],
+"4" : [ 1, 4],
+"3" : [ 0, 2, 3, 5, 6, 7, 9, 10],
+"CoveredDUAsByNodes" : 10,
+"Duas" : 15
+}]
+}

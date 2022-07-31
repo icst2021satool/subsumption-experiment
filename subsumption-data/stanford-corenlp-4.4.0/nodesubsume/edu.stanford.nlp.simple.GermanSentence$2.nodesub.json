@@ -1,0 +1,14 @@
+{
+"Class" : "edu.stanford.nlp.simple.GermanSentence$2", 
+"Methods" : [{ "Name" : "<init>" ,
+"Nodes" : 6,
+"0" : [ ],
+"2" : [ 6],
+"3" : [ 6, 8],
+"4" : [ 6, 9],
+"1" : [ 0, 1, 2, 3, 4, 5],
+"5" : [ 0, 1, 2, 3, 4, 5],
+"CoveredDUAsByNodes" : 9,
+"Duas" : 10
+}]
+}

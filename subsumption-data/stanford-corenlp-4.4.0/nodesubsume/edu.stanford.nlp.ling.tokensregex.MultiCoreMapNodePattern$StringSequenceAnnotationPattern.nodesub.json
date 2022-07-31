@@ -1,0 +1,37 @@
+{
+"Class" : "edu.stanford.nlp.ling.tokensregex.MultiCoreMapNodePattern$StringSequenceAnnotationPattern", 
+"Methods" : [{ "Name" : "<init>" ,
+"Nodes" : 8,
+"0" : [ ],
+"1" : [ ],
+"2" : [ ],
+"7" : [ ],
+"3" : [ 0, 10],
+"6" : [ 0, 1, 10],
+"4" : [ 0, 3, 10, 11],
+"5" : [ 0, 10],
+"CoveredDUAsByNodes" : 5,
+"Duas" : 18
+},{ "Name" : "<init>" ,
+"Nodes" : 8,
+"0" : [ ],
+"1" : [ ],
+"2" : [ ],
+"7" : [ ],
+"3" : [ 0, 6, 11],
+"6" : [ 0, 1, 6, 11],
+"4" : [ 0, 3, 6, 11, 12],
+"5" : [ 0, 6, 11],
+"CoveredDUAsByNodes" : 6,
+"Duas" : 19
+},{ "Name" : "match" ,
+"Nodes" : 5,
+"0" : [ ],
+"1" : [ ],
+"2" : [ 0],
+"4" : [ 0],
+"3" : [ 1],
+"CoveredDUAsByNodes" : 2,
+"Duas" : 2
+}]
+}

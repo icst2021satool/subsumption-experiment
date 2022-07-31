@@ -1,0 +1,17 @@
+{
+"Class" : "edu.stanford.nlp.sequences.ColumnTabDocumentReaderWriter$BufferedReaderIterator", 
+"Methods" : [{ "Name" : "hasNext" ,
+"Nodes" : 5,
+"0" : [ 176 ],
+"1" : [ 176 ],
+"2" : [ 176 ],
+"3" : [ 176 ],
+"4" : [  ]
+},{ "Name" : "next" ,
+"Nodes" : 4,
+"0" : [ 180 ],
+"1" : [ 183,184,185 ],
+"2" : [ 181 ],
+"3" : [  ]
+}]
+}

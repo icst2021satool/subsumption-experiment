@@ -1,0 +1,13 @@
+{
+"Class" : "edu.stanford.nlp.international.spanish.pipeline.MultiWordPreprocessor$POSTieBreaker", 
+"Methods" : [{ "Name" : "compare" ,
+"Duas" : 8,
+"0" :  "(485,(489,489), firstIsNoun)",
+"1" :  "(485,(489,491), firstIsNoun)",
+"2" :  "(485,(491,492), firstIsNoun)",
+"3" :  "(485,(491,495), firstIsNoun)",
+"4" :  "(486,(491,491), secondIsNoun)",
+"5" :  "(486,(491,495), secondIsNoun)",
+"6" :  "(486,(489,490), secondIsNoun)",
+"7" :  "(486,(489,491), secondIsNoun)"}]
+}

@@ -1,0 +1,17 @@
+{
+"Class" : "edu.stanford.nlp.maxent.CGRunner$MonitorFunction", 
+"Methods" : [{ "Name" : "valueAt" ,
+"Duas" : 12,
+"0" :  "(307,(316,316), this)",
+"1" :  "(307,(316,319), this)",
+"2" :  "(307,319, this)",
+"3" :  "(307,(316,317), this)",
+"4" :  "(307,(316,319), this)",
+"5" :  "(307,317, this)",
+"6" :  "(307,(316,316), this.iterations)",
+"7" :  "(307,(316,319), this.iterations)",
+"8" :  "(307,319, this.iterations)",
+"9" :  "(307,(316,317), this.iterations)",
+"10" :  "(307,(316,319), this.iterations)",
+"11" :  "(307,317, this.model)"}]
+}

@@ -1,0 +1,10 @@
+{
+"Class" : "edu.stanford.nlp.ling.tokensregex.SequencePattern$SeqEndState", 
+"Methods" : [{ "Name" : "match" ,
+"Duas" : "10" ,
+"Subsumers" : 3,
+"0" : [ 8, 7, 4, 2, 1, 0], "S0" : [0, 1, 2, 4, 5, 7, 8 ],
+"1" : [ 9, 3], "S1" : [3, 5, 9 ],
+"2" : [ 6], "S2" : [6 ]
+}]
+}

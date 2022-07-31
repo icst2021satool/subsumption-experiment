@@ -1,0 +1,15 @@
+{
+"Class" : "edu.stanford.nlp.util.logging.RepeatedRecordHandler$ExactRepeatSemantics", 
+"Methods" : [{ "Name" : "equals" ,
+"Nodes" : 9,
+"0" : [ 259 ],
+"1" : [ 261 ],
+"2" : [ 259 ],
+"3" : [ 259 ],
+"4" : [ 259 ],
+"5" : [ 259,261 ],
+"6" : [ 261 ],
+"7" : [ 259 ],
+"8" : [  ]
+}]
+}

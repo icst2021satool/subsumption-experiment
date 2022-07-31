@@ -1,0 +1,18 @@
+{
+"Class" : "edu.stanford.nlp.pipeline.TokensRegexNERAnnotator$Entry", 
+"Methods" : [{ "Name" : "<init>" ,
+"Nodes" : 5,
+"0" : [ 571,572,573,574,575 ],
+"1" : [ 575 ],
+"2" : [ 579,580,581,582,583 ],
+"3" : [ 577,575 ],
+"4" : [  ]
+},{ "Name" : "toString" ,
+"Nodes" : 5,
+"0" : [ 590 ],
+"1" : [ 590 ],
+"2" : [ 590,591 ],
+"3" : [ 590 ],
+"4" : [  ]
+}]
+}

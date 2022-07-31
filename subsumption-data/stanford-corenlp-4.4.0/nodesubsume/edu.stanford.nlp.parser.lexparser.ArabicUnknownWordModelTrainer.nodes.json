@@ -1,0 +1,21 @@
+{
+"Class" : "edu.stanford.nlp.parser.lexparser.ArabicUnknownWordModelTrainer", 
+"Methods" : [{ "Name" : "train" ,
+"Nodes" : 5,
+"0" : [ 64,57,58,59,60,61,62 ],
+"1" : [ 87 ],
+"2" : [ 67 ],
+"3" : [ 80,81,82,83,84,69,70,79 ],
+"4" : [  ]
+},{ "Name" : "finishTraining" ,
+"Nodes" : 8,
+"0" : [ 93 ],
+"1" : [ 109 ],
+"2" : [ 94,95 ],
+"3" : [ 95 ],
+"4" : [ 96 ],
+"5" : [ 95 ],
+"6" : [ 97,98,99,100 ],
+"7" : [  ]
+}]
+}

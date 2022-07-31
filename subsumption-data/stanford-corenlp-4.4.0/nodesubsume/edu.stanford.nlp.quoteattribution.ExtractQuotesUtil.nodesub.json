@@ -1,0 +1,16 @@
+{
+"Class" : "edu.stanford.nlp.quoteattribution.ExtractQuotesUtil", 
+"Methods" : [{ "Name" : "rangeContains" ,
+"Nodes" : 8,
+"0" : [ ],
+"6" : [ 0, 16, 20, 8],
+"1" : [ ],
+"4" : [ 2, 22, 10, 28],
+"2" : [ ],
+"5" : [ ],
+"3" : [ ],
+"7" : [ ],
+"CoveredDUAsByNodes" : 8,
+"Duas" : 32
+}]
+}

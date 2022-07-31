@@ -1,0 +1,13 @@
+{
+"Class" : "edu.stanford.nlp.parser.nndep.DependencyParserCache", 
+"Methods" : [{ "Name" : "loadFromModelFile" ,
+"Nodes" : 5,
+"0" : [ ],
+"2" : [ 3, 5],
+"1" : [ 0, 1, 2],
+"3" : [ 3, 5, 6, 8],
+"4" : [ ],
+"CoveredDUAsByNodes" : 7,
+"Duas" : 9
+}]
+}

@@ -1,0 +1,8 @@
+{
+"Class" : "edu.stanford.nlp.parser.lexparser.CNFTransformers", 
+"Methods" : [{ "Name" : "main" ,
+"Duas" : "4" ,
+"Subsumers" : 1,
+"0" : [ 0, 1, 2, 3], "S0" : [0, 1, 2, 3 ]
+}]
+}

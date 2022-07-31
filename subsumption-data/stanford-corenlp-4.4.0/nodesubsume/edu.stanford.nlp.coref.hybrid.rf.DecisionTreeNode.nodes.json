@@ -1,0 +1,11 @@
+{
+"Class" : "edu.stanford.nlp.coref.hybrid.rf.DecisionTreeNode", 
+"Methods" : [{ "Name" : "isLeaf" ,
+"Nodes" : 5,
+"0" : [ 31 ],
+"1" : [ 31 ],
+"2" : [ 31 ],
+"3" : [ 31 ],
+"4" : [  ]
+}]
+}

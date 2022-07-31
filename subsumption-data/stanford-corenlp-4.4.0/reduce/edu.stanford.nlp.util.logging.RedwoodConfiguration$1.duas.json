@@ -1,0 +1,11 @@
+{
+"Class" : "edu.stanford.nlp.util.logging.RedwoodConfiguration$1", 
+"Methods" : [{ "Name" : "matches" ,
+"Duas" : 6,
+"0" :  "(98,(99,100), this)",
+"1" :  "(98,(99,98), this)",
+"2" :  "(98,(99,100), this.matchAgainst)",
+"3" :  "(98,(99,98), this.matchAgainst)",
+"4" :  "(98,(99,100), channel)",
+"5" :  "(98,(99,98), channel)"}]
+}

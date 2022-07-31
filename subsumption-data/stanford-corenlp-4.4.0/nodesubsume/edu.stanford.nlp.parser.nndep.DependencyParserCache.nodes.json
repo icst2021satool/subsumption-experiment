@@ -1,0 +1,11 @@
+{
+"Class" : "edu.stanford.nlp.parser.nndep.DependencyParserCache", 
+"Methods" : [{ "Name" : "loadFromModelFile" ,
+"Nodes" : 5,
+"0" : [ 65,67,68,69 ],
+"1" : [ 76,77,78 ],
+"2" : [ 70,71 ],
+"3" : [ 72 ],
+"4" : [  ]
+}]
+}

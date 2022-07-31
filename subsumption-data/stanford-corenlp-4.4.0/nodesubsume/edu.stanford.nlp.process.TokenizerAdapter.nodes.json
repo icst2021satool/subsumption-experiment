@@ -1,0 +1,19 @@
+{
+"Class" : "edu.stanford.nlp.process.TokenizerAdapter", 
+"Methods" : [{ "Name" : "getNext" ,
+"Nodes" : 7,
+"0" : [ 44,45 ],
+"1" : [ 47 ],
+"2" : [ 49 ],
+"3" : [ 53 ],
+"4" : [ 51 ],
+"5" : [ 55,56 ],
+"6" : [  ]
+},{ "Name" : "setEolString" ,
+"Nodes" : 4,
+"0" : [ 74 ],
+"1" : [ 77,78 ],
+"2" : [ 75 ],
+"3" : [  ]
+}]
+}

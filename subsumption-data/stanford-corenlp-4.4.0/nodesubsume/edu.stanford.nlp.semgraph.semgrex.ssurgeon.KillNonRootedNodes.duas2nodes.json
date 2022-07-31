@@ -1,0 +1,11 @@
+{
+"Class" : "edu.stanford.nlp.semgraph.semgrex.ssurgeon.KillNonRootedNodes", 
+"Methods" : [{ "Name" : "evaluate" ,
+"Nodes" : 7,
+"Duas" : 5,
+"0" :  [ 0,3 ],
+"1" :  [ 0,5 ],
+"2" :  [ 3,5 ],
+"3" :  [ 3,5 ],
+"4" :  [ 3,4 ]}]
+}

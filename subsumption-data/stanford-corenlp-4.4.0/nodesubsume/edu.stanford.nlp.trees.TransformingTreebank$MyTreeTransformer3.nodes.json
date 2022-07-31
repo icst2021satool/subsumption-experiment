@@ -1,0 +1,13 @@
+{
+"Class" : "edu.stanford.nlp.trees.TransformingTreebank$MyTreeTransformer3", 
+"Methods" : [{ "Name" : "transformTree" ,
+"Nodes" : 7,
+"0" : [ 245,246 ],
+"1" : [ 246 ],
+"2" : [ 254 ],
+"3" : [ 246,247 ],
+"4" : [ 250,251,252,253 ],
+"5" : [ 248 ],
+"6" : [  ]
+}]
+}

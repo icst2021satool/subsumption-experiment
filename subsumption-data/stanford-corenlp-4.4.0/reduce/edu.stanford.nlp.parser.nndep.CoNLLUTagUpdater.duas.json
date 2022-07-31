@@ -1,0 +1,9 @@
+{
+"Class" : "edu.stanford.nlp.parser.nndep.CoNLLUTagUpdater", 
+"Methods" : [{ "Name" : "main" ,
+"Duas" : 4,
+"0" :  "(20,37, outputPath)",
+"1" :  "(22,29, maxentTagger)",
+"2" :  "(25,36, annotations)",
+"3" :  "(35,37, conLLUOutputter)"}]
+}

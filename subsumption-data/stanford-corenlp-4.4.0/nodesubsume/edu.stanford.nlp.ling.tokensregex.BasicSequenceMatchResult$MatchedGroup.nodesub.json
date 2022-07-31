@@ -1,0 +1,13 @@
+{
+"Class" : "edu.stanford.nlp.ling.tokensregex.BasicSequenceMatchResult$MatchedGroup", 
+"Methods" : [{ "Name" : "matchLength" ,
+"Nodes" : 5,
+"0" : [ ],
+"2" : [ 0, 5],
+"1" : [ ],
+"3" : [ 0, 2, 4, 5, 7, 8, 10],
+"4" : [ ],
+"CoveredDUAsByNodes" : 7,
+"Duas" : 11
+}]
+}

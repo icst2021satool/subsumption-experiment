@@ -1,0 +1,10 @@
+{
+"Class" : "edu.stanford.nlp.trees.international.arabic.ArabicHeadFinder$TagSet", 
+"Methods" : [{ "Name" : "tagSet" ,
+"Duas" : "3" ,
+"Subsumers" : 3,
+"0" : [ 0], "S0" : [0 ],
+"1" : [ 1], "S1" : [1 ],
+"2" : [ 2], "S2" : [2 ]
+}]
+}

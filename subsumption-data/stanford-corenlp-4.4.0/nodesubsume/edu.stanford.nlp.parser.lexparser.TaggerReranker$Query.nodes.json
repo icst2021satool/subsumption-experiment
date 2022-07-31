@@ -1,0 +1,13 @@
+{
+"Class" : "edu.stanford.nlp.parser.lexparser.TaggerReranker$Query", 
+"Methods" : [{ "Name" : "score" ,
+"Nodes" : 7,
+"0" : [ 48,45,46,47 ],
+"1" : [ 48 ],
+"2" : [ 55 ],
+"3" : [ 49,50 ],
+"4" : [ 48 ],
+"5" : [ 51 ],
+"6" : [  ]
+}]
+}

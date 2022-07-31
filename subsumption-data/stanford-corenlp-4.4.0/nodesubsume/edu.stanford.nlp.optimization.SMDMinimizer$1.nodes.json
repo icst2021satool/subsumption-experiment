@@ -1,0 +1,18 @@
+{
+"Class" : "edu.stanford.nlp.optimization.SMDMinimizer$1", 
+"Methods" : [{ "Name" : "derivativeAt" ,
+"Nodes" : 5,
+"0" : [ 197,198,199 ],
+"1" : [ 199 ],
+"2" : [ 202 ],
+"3" : [ 199,200 ],
+"4" : [  ]
+},{ "Name" : "valuePow" ,
+"Nodes" : 5,
+"0" : [ 211,212 ],
+"1" : [ 212 ],
+"2" : [ 215 ],
+"3" : [ 212,213 ],
+"4" : [  ]
+}]
+}

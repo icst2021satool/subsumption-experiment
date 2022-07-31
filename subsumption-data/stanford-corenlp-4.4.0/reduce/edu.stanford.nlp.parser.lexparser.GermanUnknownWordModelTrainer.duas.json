@@ -1,0 +1,22 @@
+{
+"Class" : "edu.stanford.nlp.parser.lexparser.GermanUnknownWordModelTrainer", 
+"Methods" : [{ "Name" : "buildUWM" ,
+"Duas" : 17,
+"0" :  "(11,(12,13), this)",
+"1" :  "(11,(12,15), this)",
+"2" :  "(11,15, this)",
+"3" :  "(11,13, this)",
+"4" :  "(11,(12,13), this.useGT)",
+"5" :  "(11,(12,15), this.useGT)",
+"6" :  "(11,13, this.unknownGTTrainer)",
+"7" :  "(11,13, this.unknownGT)",
+"8" :  "(11,15, this.op)",
+"9" :  "(11,15, this.lex)",
+"10" :  "(11,15, this.wordIndex)",
+"11" :  "(11,15, this.tagIndex)",
+"12" :  "(11,15, this.unSeenCounter)",
+"13" :  "(11,15, this.tagHash)",
+"14" :  "(11,15, this.seenEnd)",
+"15" :  "(11,15, unknownGT)",
+"16" :  "(13,15, unknownGT)"}]
+}

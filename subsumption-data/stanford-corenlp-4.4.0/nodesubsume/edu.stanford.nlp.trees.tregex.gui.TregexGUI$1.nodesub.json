@@ -1,0 +1,16 @@
+{
+"Class" : "edu.stanford.nlp.trees.tregex.gui.TregexGUI$1", 
+"Methods" : [{ "Name" : "run" ,
+"Nodes" : 8,
+"0" : [ ],
+"1" : [ 1],
+"5" : [ 1],
+"6" : [ 0, 2],
+"2" : [ ],
+"4" : [ ],
+"3" : [ ],
+"7" : [ ],
+"CoveredDUAsByNodes" : 3,
+"Duas" : 15
+}]
+}

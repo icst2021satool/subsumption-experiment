@@ -1,0 +1,8 @@
+{
+"Class" : "edu.stanford.nlp.process.AbstractListProcessor", 
+"Methods" : [{ "Name" : "processLists" ,
+"Duas" : 3,
+"0" :  "(38,40, this)",
+"1" :  "(38,43, result)",
+"2" :  "(38,41, result)"}]
+}

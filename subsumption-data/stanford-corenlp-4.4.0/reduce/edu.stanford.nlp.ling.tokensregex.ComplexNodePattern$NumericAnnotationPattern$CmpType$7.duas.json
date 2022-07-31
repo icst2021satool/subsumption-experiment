@@ -1,0 +1,9 @@
+{
+"Class" : "edu.stanford.nlp.ling.tokensregex.ComplexNodePattern$NumericAnnotationPattern$CmpType$7", 
+"Methods" : [{ "Name" : "accept" ,
+"Duas" : 4,
+"0" :  "(379,(379,379), v1)",
+"1" :  "(379,(379,379), v1)",
+"2" :  "(379,(379,379), v2)",
+"3" :  "(379,(379,379), v2)"}]
+}

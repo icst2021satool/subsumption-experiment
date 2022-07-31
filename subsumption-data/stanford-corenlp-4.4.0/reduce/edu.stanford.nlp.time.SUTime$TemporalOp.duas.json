@@ -1,0 +1,10 @@
+{
+"Class" : "edu.stanford.nlp.time.SUTime$TemporalOp", 
+"Methods" : [{ "Name" : "apply" ,
+"Duas" : 5,
+"0" :  "(1384,1387, this)",
+"1" :  "(1384,1385, this)",
+"2" :  "(1384,(1384,1385), args)",
+"3" :  "(1384,(1384,1387), args)",
+"4" :  "(1384,1385, args)"}]
+}

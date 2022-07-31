@@ -1,0 +1,22 @@
+{
+"Class" : "edu.stanford.nlp.util.DeltaIndex$1", 
+"Methods" : [{ "Name" : "hasNext" ,
+"Duas" : 8,
+"0" :  "(202,(202,202), this)",
+"1" :  "(202,(202,202), this)",
+"2" :  "(202,(202,202), this)",
+"3" :  "(202,(202,202), this)",
+"4" :  "(202,(202,202), this.backingIterator)",
+"5" :  "(202,(202,202), this.backingIterator)",
+"6" :  "(202,(202,202), this.spilloverIterator)",
+"7" :  "(202,(202,202), this.spilloverIterator)"},{ "Name" : "next" ,
+"Duas" : 8,
+"0" :  "(207,(207,208), this)",
+"1" :  "(207,(207,210), this)",
+"2" :  "(207,210, this)",
+"3" :  "(207,208, this)",
+"4" :  "(207,(207,208), this.backingIterator)",
+"5" :  "(207,(207,210), this.backingIterator)",
+"6" :  "(207,208, this.backingIterator)",
+"7" :  "(207,210, this.spilloverIterator)"}]
+}

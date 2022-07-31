@@ -1,0 +1,22 @@
+{
+"Class" : "edu.stanford.nlp.pipeline.CoreNLPProtos$NaturalLogicRelation", 
+"Methods" : [{ "Name" : "forNumber" ,
+"Nodes" : 10,
+"0" : [ 413 ],
+"1" : [ 420 ],
+"2" : [ 419 ],
+"3" : [ 418 ],
+"4" : [ 417 ],
+"5" : [ 416 ],
+"6" : [ 415 ],
+"7" : [ 414 ],
+"8" : [ 421 ],
+"9" : [  ]
+},{ "Name" : "valueOf" ,
+"Nodes" : 4,
+"0" : [ 454 ],
+"1" : [ 458 ],
+"2" : [ 455 ],
+"3" : [  ]
+}]
+}

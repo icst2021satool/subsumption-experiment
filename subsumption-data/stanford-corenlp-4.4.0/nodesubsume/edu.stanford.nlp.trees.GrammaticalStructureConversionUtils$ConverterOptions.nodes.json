@@ -1,0 +1,22 @@
+{
+"Class" : "edu.stanford.nlp.trees.GrammaticalStructureConversionUtils$ConverterOptions", 
+"Methods" : [{ "Name" : "initializeNameMap" ,
+"Nodes" : 7,
+"0" : [ 476,477 ],
+"1" : [ 477 ],
+"2" : [ 483 ],
+"3" : [ 477,478 ],
+"4" : [ 481,477 ],
+"5" : [ 479 ],
+"6" : [  ]
+},{ "Name" : "getConverterOptions" ,
+"Nodes" : 7,
+"0" : [ 487 ],
+"1" : [ 488,489 ],
+"2" : [ 489 ],
+"3" : [ 489 ],
+"4" : [ 489 ],
+"5" : [ 487 ],
+"6" : [  ]
+}]
+}

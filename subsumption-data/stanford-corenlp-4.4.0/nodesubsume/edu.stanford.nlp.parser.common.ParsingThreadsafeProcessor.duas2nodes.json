@@ -1,0 +1,17 @@
+{
+"Class" : "edu.stanford.nlp.parser.common.ParsingThreadsafeProcessor", 
+"Methods" : [{ "Name" : "process" ,
+"Nodes" : 5,
+"Duas" : 11,
+"0" :  [ 0,3 ],
+"1" :  [ 0,1 ],
+"2" :  [ 0,3 ],
+"3" :  [ 0,1 ],
+"4" :  [ 0,3 ],
+"5" :  [ 0,3 ],
+"6" :  [ 0,1 ],
+"7" :  [ 0,3 ],
+"8" :  [ 0,1 ],
+"9" :  [ 0,2 ],
+"10" :  [ 0,3 ]}]
+}

@@ -1,0 +1,20 @@
+{
+"Class" : "edu.stanford.nlp.trees.tregex.Relation$17$1", 
+"Methods" : [{ "Name" : "initialize" ,
+"Duas" : 7,
+"0" :  "(839,(840,841), this)",
+"1" :  "(839,(840,844), this)",
+"2" :  "(839,841, this)",
+"3" :  "(839,842, this)",
+"4" :  "(839,(840,841), this.parent)",
+"5" :  "(839,(840,844), this.parent)",
+"6" :  "(839,841, this.parent)"},{ "Name" : "advance" ,
+"Duas" : 7,
+"0" :  "(848,(849,850), this)",
+"1" :  "(848,(849,852), this)",
+"2" :  "(848,850, this)",
+"3" :  "(848,(849,850), this.val$t)",
+"4" :  "(848,(849,852), this.val$t)",
+"5" :  "(848,(849,850), this.next)",
+"6" :  "(848,(849,852), this.next)"}]
+}

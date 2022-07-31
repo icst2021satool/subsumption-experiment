@@ -1,0 +1,10 @@
+{
+"Class" : "edu.stanford.nlp.classify.ClassifierExample", 
+"Methods" : [{ "Name" : "makeStopLights" ,
+"Duas" : 5,
+"0" :  "(30,(36,36), ns)",
+"1" :  "(30,(36,36), ns)",
+"2" :  "(30,(36,36), ew)",
+"3" :  "(30,(36,36), ew)",
+"4" :  "(30,37, features)"}]
+}

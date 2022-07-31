@@ -1,0 +1,12 @@
+{
+"Class" : "edu.stanford.nlp.examples.TokensRegexExample", 
+"Methods" : [{ "Name" : "main" ,
+"Duas" : "11" ,
+"Subsumers" : 5,
+"0" : [ 0], "S0" : [0, 1, 2 ],
+"1" : [ 7, 6], "S1" : [1, 2, 4, 6, 7 ],
+"2" : [ 10, 9], "S2" : [1, 2, 3, 9, 10 ],
+"3" : [ 8], "S3" : [3, 8 ],
+"4" : [ 5], "S4" : [4, 5 ]
+}]
+}

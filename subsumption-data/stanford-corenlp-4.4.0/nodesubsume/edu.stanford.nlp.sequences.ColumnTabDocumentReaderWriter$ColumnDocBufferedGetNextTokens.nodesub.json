@@ -1,0 +1,13 @@
+{
+"Class" : "edu.stanford.nlp.sequences.ColumnTabDocumentReaderWriter$ColumnDocBufferedGetNextTokens", 
+"Methods" : [{ "Name" : "getNext" ,
+"Nodes" : 5,
+"0" : [ ],
+"1" : [ 1],
+"3" : [ 0],
+"2" : [ ],
+"4" : [ ],
+"CoveredDUAsByNodes" : 2,
+"Duas" : 2
+}]
+}

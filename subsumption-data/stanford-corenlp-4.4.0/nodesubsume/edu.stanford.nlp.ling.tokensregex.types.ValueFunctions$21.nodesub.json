@@ -1,0 +1,15 @@
+{
+"Class" : "edu.stanford.nlp.ling.tokensregex.types.ValueFunctions$21", 
+"Methods" : [{ "Name" : "apply" ,
+"Nodes" : 7,
+"0" : [ ],
+"1" : [ 1, 2, 3],
+"2" : [ 1, 2, 3],
+"3" : [ 1, 2, 3, 5],
+"4" : [ 1, 2, 3, 4, 6],
+"5" : [ 0],
+"6" : [ ],
+"CoveredDUAsByNodes" : 7,
+"Duas" : 7
+}]
+}

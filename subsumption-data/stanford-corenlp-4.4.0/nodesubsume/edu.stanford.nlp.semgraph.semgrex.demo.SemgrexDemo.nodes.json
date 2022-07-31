@@ -1,0 +1,11 @@
+{
+"Class" : "edu.stanford.nlp.semgraph.semgrex.demo.SemgrexDemo", 
+"Methods" : [{ "Name" : "main" ,
+"Nodes" : 5,
+"0" : [ 48,49,37,41,42,28,44,46,31 ],
+"1" : [ 52 ],
+"2" : [ 55 ],
+"3" : [ 53 ],
+"4" : [  ]
+}]
+}

@@ -1,0 +1,11 @@
+{
+"Class" : "edu.stanford.nlp.util.Filters$RandomFilter", 
+"Methods" : [{ "Name" : "test" ,
+"Duas" : 6,
+"0" :  "(314,(314,314), this)",
+"1" :  "(314,(314,314), this)",
+"2" :  "(314,(314,314), this.random)",
+"3" :  "(314,(314,314), this.random)",
+"4" :  "(314,(314,314), this.fraction)",
+"5" :  "(314,(314,314), this.fraction)"}]
+}

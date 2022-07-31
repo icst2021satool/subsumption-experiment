@@ -1,0 +1,11 @@
+{
+"Class" : "edu.stanford.nlp.ling.tokensregex.types.ValueFunctions$6", 
+"Methods" : [{ "Name" : "compute" ,
+"Duas" : 6,
+"0" :  "(255,(255,255), in)",
+"1" :  "(255,(255,258), in)",
+"2" :  "(255,258, in)",
+"3" :  "(255,(255,256), in)",
+"4" :  "(255,(255,258), in)",
+"5" :  "(255,256, in)"}]
+}

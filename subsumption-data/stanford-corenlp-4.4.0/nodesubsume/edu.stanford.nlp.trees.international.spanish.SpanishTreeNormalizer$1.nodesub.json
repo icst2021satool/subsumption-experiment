@@ -1,0 +1,16 @@
+{
+"Class" : "edu.stanford.nlp.trees.international.spanish.SpanishTreeNormalizer$1", 
+"Methods" : [{ "Name" : "transformTree" ,
+"Nodes" : 8,
+"0" : [ ],
+"1" : [ 1, 2],
+"2" : [ 1, 2, 8],
+"4" : [ 1, 2, 4, 8, 9],
+"3" : [ 1, 2, 3, 8],
+"5" : [ 1, 2, 5, 7],
+"6" : [ 0, 6],
+"7" : [ ],
+"CoveredDUAsByNodes" : 10,
+"Duas" : 11
+}]
+}

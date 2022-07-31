@@ -1,0 +1,14 @@
+{
+"Class" : "edu.stanford.nlp.trees.fakeShortNameToGRel", 
+"Methods" : [{ "Name" : "containsKey" ,
+"Duas" : 2,
+"0" :  "(484,(484,485), o)",
+"1" :  "(484,(484,487), o)"},{ "Name" : "get" ,
+"Duas" : 6,
+"0" :  "(500,504, this)",
+"1" :  "(500,(500,501), key)",
+"2" :  "(500,(500,503), key)",
+"3" :  "(500,503, key)",
+"4" :  "(500,504, Any)",
+"5" :  "(500,504, DEPENDENT)"}]
+}

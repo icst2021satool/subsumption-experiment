@@ -1,0 +1,11 @@
+{
+"Class" : "edu.stanford.nlp.optimization.AbstractStochasticCachingDiffUpdateFunction", 
+"Methods" : [{ "Name" : "getSample" ,
+"Nodes" : 5,
+"0" : [ 25,26 ],
+"1" : [ 26 ],
+"2" : [ 29 ],
+"3" : [ 26,27 ],
+"4" : [  ]
+}]
+}

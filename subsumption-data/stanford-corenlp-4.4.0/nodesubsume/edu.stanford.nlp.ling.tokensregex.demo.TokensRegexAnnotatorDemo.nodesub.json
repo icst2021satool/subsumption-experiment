@@ -1,0 +1,25 @@
+{
+"Class" : "edu.stanford.nlp.ling.tokensregex.demo.TokensRegexAnnotatorDemo", 
+"Methods" : [{ "Name" : "main" ,
+"Nodes" : 17,
+"0" : [ ],
+"1" : [ 1],
+"15" : [ 0, 8],
+"2" : [ ],
+"3" : [ 3, 9],
+"14" : [ 2, 7],
+"4" : [ ],
+"5" : [ 5],
+"13" : [ 4, 6],
+"6" : [ 24],
+"7" : [ 24],
+"8" : [ 24],
+"16" : [ 24],
+"9" : [ 24],
+"10" : [ 24],
+"11" : [ 24],
+"12" : [ 24],
+"CoveredDUAsByNodes" : 11,
+"Duas" : 31
+}]
+}

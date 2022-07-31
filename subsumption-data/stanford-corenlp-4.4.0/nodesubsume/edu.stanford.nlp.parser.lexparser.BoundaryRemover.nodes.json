@@ -1,0 +1,11 @@
+{
+"Class" : "edu.stanford.nlp.parser.lexparser.BoundaryRemover", 
+"Methods" : [{ "Name" : "transformTree" ,
+"Nodes" : 5,
+"0" : [ 24,25 ],
+"1" : [ 27,28,29 ],
+"2" : [ 25,26 ],
+"3" : [ 31 ],
+"4" : [  ]
+}]
+}

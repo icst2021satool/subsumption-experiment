@@ -1,0 +1,13 @@
+{
+"Class" : "edu.stanford.nlp.international.arabic.process.StartAndEndArabicSegmenterFeatureFactory", 
+"Methods" : [{ "Name" : "featuresCpC" ,
+"Nodes" : 7,
+"0" : [ 34,27,29 ],
+"1" : [ 45 ],
+"2" : [ 35,36,37 ],
+"3" : [ 40 ],
+"4" : [ 41 ],
+"5" : [ 38 ],
+"6" : [  ]
+}]
+}

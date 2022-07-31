@@ -1,0 +1,15 @@
+{
+"Class" : "edu.stanford.nlp.stats.Distribution$DynamicDistribution", 
+"Methods" : [{ "Name" : "sampleFrom" ,
+"Nodes" : 7,
+"Duas" : 9,
+"0" :  [ 0,2 ],
+"1" :  [ 0,3 ],
+"2" :  [ 0,2 ],
+"3" :  [ 0,3 ],
+"4" :  [ 3,5 ],
+"5" :  [ 3,5 ],
+"6" :  [ 3,4 ],
+"7" :  [ 3,2 ],
+"8" :  [ 3 ]}]
+}

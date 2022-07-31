@@ -1,0 +1,10 @@
+{
+"Class" : "edu.stanford.nlp.io.FileFilters$ConjunctionFileFilter", 
+"Methods" : [{ "Name" : "accept" ,
+"Duas" : "12" ,
+"Subsumers" : 3,
+"0" : [ 10, 6, 2], "S0" : [0, 2, 4, 6, 8, 10 ],
+"1" : [ 11, 7, 3], "S1" : [0, 3, 4, 7, 8, 11 ],
+"2" : [ 9, 5, 1], "S2" : [1, 5, 9 ]
+}]
+}

@@ -1,0 +1,14 @@
+{
+"Class" : "edu.stanford.nlp.process.stattok.BuildMultiWordRules", 
+"Methods" : [{ "Name" : "main" ,
+"Nodes" : 6,
+"Duas" : 8,
+"0" :  [ 0,3 ],
+"1" :  [ 0,4 ],
+"2" :  [ 0,4 ],
+"3" :  [ 0,1 ],
+"4" :  [ 0,2 ],
+"5" :  [ 0,1,3 ],
+"6" :  [ 0,1,2 ],
+"7" :  [ 0,2 ]}]
+}

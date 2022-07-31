@@ -1,0 +1,22 @@
+{
+"Class" : "edu.stanford.nlp.fsm.TransducerGraph$NormalizingGraphProcessor", 
+"Methods" : [{ "Name" : "processGraph" ,
+"Duas" : 17,
+"0" :  "(522,(526,527), this)",
+"1" :  "(522,(526,529), this)",
+"2" :  "(522,(526,527), this.forward)",
+"3" :  "(522,(526,529), this.forward)",
+"4" :  "(522,541, g)",
+"5" :  "(522,529, g)",
+"6" :  "(522,527, g)",
+"7" :  "(524,529, node)",
+"8" :  "(524,527, node)",
+"9" :  "(527,533, myArcs)",
+"10" :  "(527,537, myArcs)",
+"11" :  "(529,533, myArcs)",
+"12" :  "(529,537, myArcs)",
+"13" :  "(532,538, total)",
+"14" :  "(532,534, total)",
+"15" :  "(534,538, total)",
+"16" :  "(534,534, total)"}]
+}

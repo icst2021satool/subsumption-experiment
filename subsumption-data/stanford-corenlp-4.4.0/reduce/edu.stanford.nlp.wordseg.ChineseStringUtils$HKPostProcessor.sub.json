@@ -1,0 +1,9 @@
+{
+"Class" : "edu.stanford.nlp.wordseg.ChineseStringUtils$HKPostProcessor", 
+"Methods" : [{ "Name" : "postProcessingAnswer" ,
+"Duas" : "19" ,
+"Subsumers" : 2,
+"0" : [ 16, 17, 18, 14, 13], "S0" : [0, 2, 3, 4, 5, 6, 7, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18 ],
+"1" : [ 8, 1], "S1" : [1, 4, 8 ]
+}]
+}

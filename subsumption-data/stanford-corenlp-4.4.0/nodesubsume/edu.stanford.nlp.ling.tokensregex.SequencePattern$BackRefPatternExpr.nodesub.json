@@ -1,0 +1,21 @@
+{
+"Class" : "edu.stanford.nlp.ling.tokensregex.SequencePattern$BackRefPatternExpr", 
+"Methods" : [{ "Name" : "<init>" ,
+"Nodes" : 4,
+"0" : [ ],
+"1" : [ 0, 1, 2, 4, 5],
+"2" : [ 3, 6],
+"3" : [ ],
+"CoveredDUAsByNodes" : 7,
+"Duas" : 7
+},{ "Name" : "toString" ,
+"Nodes" : 5,
+"0" : [ ],
+"1" : [ 1, 5, 8],
+"3" : [ 0, 3, 4, 6, 11],
+"2" : [ 2, 7, 9, 10],
+"4" : [ 2, 7, 9, 10],
+"CoveredDUAsByNodes" : 12,
+"Duas" : 12
+}]
+}

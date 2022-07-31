@@ -1,0 +1,15 @@
+{
+"Class" : "edu.stanford.nlp.ling.TaggedWordFactory", 
+"Methods" : [{ "Name" : "newLabel" ,
+"Duas" : 4,
+"0" :  "(61,64, labelStr)",
+"1" :  "(61,62, labelStr)",
+"2" :  "(61,(61,62), options)",
+"3" :  "(61,(61,64), options)"},{ "Name" : "newLabelFromString" ,
+"Duas" : 5,
+"0" :  "(81,85, word)",
+"1" :  "(81,83, word)",
+"2" :  "(81,(82,83), where)",
+"3" :  "(81,(82,85), where)",
+"4" :  "(81,83, where)"}]
+}

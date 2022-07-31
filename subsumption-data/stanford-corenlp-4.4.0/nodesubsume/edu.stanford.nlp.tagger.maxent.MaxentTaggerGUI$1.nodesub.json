@@ -1,0 +1,13 @@
+{
+"Class" : "edu.stanford.nlp.tagger.maxent.MaxentTaggerGUI$1", 
+"Methods" : [{ "Name" : "run" ,
+"Nodes" : 5,
+"0" : [ ],
+"1" : [ 1, 4],
+"3" : [ 0, 2, 3, 5],
+"2" : [ ],
+"4" : [ ],
+"CoveredDUAsByNodes" : 6,
+"Duas" : 8
+}]
+}

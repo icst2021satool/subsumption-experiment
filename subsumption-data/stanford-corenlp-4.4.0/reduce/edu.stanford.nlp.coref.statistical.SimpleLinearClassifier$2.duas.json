@@ -1,0 +1,17 @@
+{
+"Class" : "edu.stanford.nlp.coref.statistical.SimpleLinearClassifier$2", 
+"Methods" : [{ "Name" : "derivative" ,
+"Duas" : 12,
+"0" :  "(164,(165,165), this)",
+"1" :  "(164,(165,165), this)",
+"2" :  "(164,165, this)",
+"3" :  "(164,165, label)",
+"4" :  "(164,(165,165), this.val$gamma)",
+"5" :  "(164,(165,165), this.val$gamma)",
+"6" :  "(164,165, this.val$gamma)",
+"7" :  "(164,(165,165), mistake)",
+"8" :  "(164,(165,165), mistake)",
+"9" :  "(164,(165,165), mistake)",
+"10" :  "(164,(165,165), mistake)",
+"11" :  "(164,165, mistake)"}]
+}

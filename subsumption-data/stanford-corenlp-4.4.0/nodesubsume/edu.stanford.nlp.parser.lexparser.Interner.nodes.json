@@ -1,0 +1,10 @@
+{
+"Class" : "edu.stanford.nlp.parser.lexparser.Interner", 
+"Methods" : [{ "Name" : "intern" ,
+"Nodes" : 4,
+"0" : [ 13,14 ],
+"1" : [ 18 ],
+"2" : [ 16,15 ],
+"3" : [  ]
+}]
+}

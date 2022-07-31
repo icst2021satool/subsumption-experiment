@@ -1,0 +1,14 @@
+{
+"Class" : "edu.stanford.nlp.trees.tregex.tsurgeon.InsertNode$Matcher", 
+"Methods" : [{ "Name" : "evaluate" ,
+"Duas" : 9,
+"0" :  "(55,(57,57), this)",
+"1" :  "(55,(57,57), this)",
+"2" :  "(55,59, tree)",
+"3" :  "(55,(57,57), this.this$0)",
+"4" :  "(55,(57,57), this.this$0)",
+"5" :  "(55,(57,57), this.needsCopy)",
+"6" :  "(55,(57,57), this.needsCopy)",
+"7" :  "(55,57, nodeToInsert)",
+"8" :  "(56,57, position)"}]
+}

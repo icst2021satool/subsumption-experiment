@@ -1,0 +1,11 @@
+{
+"Class" : "edu.stanford.nlp.coref.statistical.Clusterer$MergeKey", 
+"Methods" : [{ "Name" : "equals" ,
+"Duas" : 6,
+"0" :  "(468,(468,468), this)",
+"1" :  "(468,(468,468), this)",
+"2" :  "(468,(468,468), o)",
+"3" :  "(468,(468,468), o)",
+"4" :  "(468,(468,468), this.hash)",
+"5" :  "(468,(468,468), this.hash)"}]
+}

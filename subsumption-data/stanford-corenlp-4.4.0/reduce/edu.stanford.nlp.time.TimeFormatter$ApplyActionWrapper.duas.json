@@ -1,0 +1,14 @@
+{
+"Class" : "edu.stanford.nlp.time.TimeFormatter$ApplyActionWrapper", 
+"Methods" : [{ "Name" : "apply" ,
+"Duas" : 9,
+"0" :  "(99,(100,101), this)",
+"1" :  "(99,(100,103), this)",
+"2" :  "(99,101, this)",
+"3" :  "(99,(100,101), this.action)",
+"4" :  "(99,(100,103), this.action)",
+"5" :  "(99,101, this.action)",
+"6" :  "(99,101, this.env)",
+"7" :  "(99,103, v)",
+"8" :  "(99,101, v)"}]
+}

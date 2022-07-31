@@ -1,0 +1,13 @@
+{
+"Class" : "edu.stanford.nlp.pipeline.AnnotationPipeline$1", 
+"Methods" : [{ "Name" : "next" ,
+"Duas" : 8,
+"0" :  "(144,(144,145), this)",
+"1" :  "(144,(144,147), this)",
+"2" :  "(144,147, this)",
+"3" :  "(144,148, this)",
+"4" :  "(144,(144,145), this.val$iter)",
+"5" :  "(144,(144,147), this.val$iter)",
+"6" :  "(144,147, this.val$iter)",
+"7" :  "(144,148, this.val$callback)"}]
+}

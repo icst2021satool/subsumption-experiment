@@ -1,0 +1,14 @@
+{
+"Class" : "edu.stanford.nlp.semgraph.semgrex.GraphRelation$GOVERNER", 
+"Methods" : [{ "Name" : "satisfies" ,
+"Nodes" : 8,
+"0" : [ 246,247 ],
+"1" : [ 247 ],
+"2" : [ 253 ],
+"3" : [ 247,248 ],
+"4" : [ 252 ],
+"5" : [ 248,249 ],
+"6" : [ 250 ],
+"7" : [  ]
+}]
+}

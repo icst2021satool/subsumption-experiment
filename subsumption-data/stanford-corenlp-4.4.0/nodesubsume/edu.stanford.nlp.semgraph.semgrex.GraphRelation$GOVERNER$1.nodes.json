@@ -1,0 +1,16 @@
+{
+"Class" : "edu.stanford.nlp.semgraph.semgrex.GraphRelation$GOVERNER$1", 
+"Methods" : [{ "Name" : "advance" ,
+"Nodes" : 10,
+"0" : [ 263 ],
+"1" : [ 267 ],
+"2" : [ 270 ],
+"3" : [ 279,280 ],
+"4" : [ 272,273,271 ],
+"5" : [ 276,277 ],
+"6" : [ 274 ],
+"7" : [ 268 ],
+"8" : [ 264,265 ],
+"9" : [  ]
+}]
+}

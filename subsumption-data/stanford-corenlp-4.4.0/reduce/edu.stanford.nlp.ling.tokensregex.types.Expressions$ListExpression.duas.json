@@ -1,0 +1,17 @@
+{
+"Class" : "edu.stanford.nlp.ling.tokensregex.types.Expressions$ListExpression", 
+"Methods" : [{ "Name" : "addAll" ,
+"Duas" : 5,
+"0" :  "(834,835, this)",
+"1" :  "(834,(834,835), exprs)",
+"2" :  "(834,(834,837), exprs)",
+"3" :  "(834,835, exprs)",
+"4" :  "(834,835, this.exprs)"},{ "Name" : "evaluate" ,
+"Duas" : 6,
+"0" :  "(844,848, this)",
+"1" :  "(844,846, env)",
+"2" :  "(844,846, args)",
+"3" :  "(844,848, this.typename)",
+"4" :  "(844,848, values)",
+"5" :  "(844,846, values)"}]
+}

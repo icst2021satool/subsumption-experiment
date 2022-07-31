@@ -1,0 +1,10 @@
+{
+"Class" : "edu.stanford.nlp.semgraph.semgrex.NodeAttributes", 
+"Methods" : [{ "Name" : "setAttribute" ,
+"Nodes" : 4,
+"0" : [ 46 ],
+"1" : [ 49,50 ],
+"2" : [ 47 ],
+"3" : [  ]
+}]
+}

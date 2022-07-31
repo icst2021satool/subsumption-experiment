@@ -1,0 +1,10 @@
+{
+"Class" : "edu.stanford.nlp.trees.international.arabic.ArabicHeadFinder", 
+"Methods" : [{ "Name" : "findMarkedHead" ,
+"Duas" : "10" ,
+"Subsumers" : 3,
+"0" : [ 9, 7, 3, 0], "S0" : [0, 2, 3, 5, 7, 9 ],
+"1" : [ 8, 4, 1], "S1" : [1, 2, 4, 5, 8 ],
+"2" : [ 6], "S2" : [6 ]
+}]
+}

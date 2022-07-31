@@ -1,0 +1,16 @@
+{
+"Class" : "edu.stanford.nlp.trees.tregex.tsurgeon.DeleteNode$Matcher", 
+"Methods" : [{ "Name" : "evaluate" ,
+"Duas" : 11,
+"0" :  "(34,36, tree)",
+"1" :  "(34,(37,38), tree)",
+"2" :  "(34,(37,40), tree)",
+"3" :  "(34,40, tree)",
+"4" :  "(34,36, tregex)",
+"5" :  "(34,43, result)",
+"6" :  "(36,(37,38), nodeToDelete)",
+"7" :  "(36,(37,40), nodeToDelete)",
+"8" :  "(36,40, nodeToDelete)",
+"9" :  "(36,41, nodeToDelete)",
+"10" :  "(38,43, result)"}]
+}

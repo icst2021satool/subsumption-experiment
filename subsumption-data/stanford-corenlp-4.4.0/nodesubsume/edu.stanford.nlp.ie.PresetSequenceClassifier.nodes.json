@@ -1,0 +1,17 @@
+{
+"Class" : "edu.stanford.nlp.ie.PresetSequenceClassifier", 
+"Methods" : [{ "Name" : "<init>" ,
+"Nodes" : 4,
+"0" : [ 20,21 ],
+"1" : [ 24,25 ],
+"2" : [ 22 ],
+"3" : [  ]
+},{ "Name" : "classify" ,
+"Nodes" : 5,
+"0" : [ 53 ],
+"1" : [ 53 ],
+"2" : [ 57 ],
+"3" : [ 53,54,55,56 ],
+"4" : [  ]
+}]
+}

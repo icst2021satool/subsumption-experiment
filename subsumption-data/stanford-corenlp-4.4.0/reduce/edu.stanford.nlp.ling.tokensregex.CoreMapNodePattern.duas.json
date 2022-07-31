@@ -1,0 +1,10 @@
+{
+"Class" : "edu.stanford.nlp.ling.tokensregex.CoreMapNodePattern", 
+"Methods" : [{ "Name" : "valueOf" ,
+"Duas" : 5,
+"0" :  "(50,(51,51), env)",
+"1" :  "(50,(51,51), env)",
+"2" :  "(50,51, textAnnotationPattern)",
+"3" :  "(50,51, p)",
+"4" :  "(50,53, p)"}]
+}

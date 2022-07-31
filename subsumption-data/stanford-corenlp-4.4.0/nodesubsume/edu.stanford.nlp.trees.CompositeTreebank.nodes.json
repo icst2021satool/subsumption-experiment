@@ -1,0 +1,11 @@
+{
+"Class" : "edu.stanford.nlp.trees.CompositeTreebank", 
+"Methods" : [{ "Name" : "apply" ,
+"Nodes" : 5,
+"0" : [ 33 ],
+"1" : [ 33 ],
+"2" : [ 36 ],
+"3" : [ 33,34,35 ],
+"4" : [  ]
+}]
+}

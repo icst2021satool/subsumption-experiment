@@ -1,0 +1,16 @@
+{
+"Class" : "edu.stanford.nlp.time.SUTime$StandardTemporalType", 
+"Methods" : [{ "Name" : "createTemporal" ,
+"Nodes" : 4,
+"0" : [ 949,950 ],
+"1" : [ 953 ],
+"2" : [ 951 ],
+"3" : [  ]
+},{ "Name" : "create" ,
+"Nodes" : 4,
+"0" : [ 960,961,957,958,959 ],
+"1" : [ 964 ],
+"2" : [ 962 ],
+"3" : [  ]
+}]
+}

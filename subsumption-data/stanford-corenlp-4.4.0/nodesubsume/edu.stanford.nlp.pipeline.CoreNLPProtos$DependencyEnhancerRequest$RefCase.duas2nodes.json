@@ -1,0 +1,13 @@
+{
+"Class" : "edu.stanford.nlp.pipeline.CoreNLPProtos$DependencyEnhancerRequest$RefCase", 
+"Methods" : [{ "Name" : "forNumber" ,
+"Nodes" : 6,
+"Duas" : 7,
+"0" :  [ 0,4 ],
+"1" :  [ 0,3 ],
+"2" :  [ 0,2 ],
+"3" :  [ 0,1 ],
+"4" :  [ 0,2 ],
+"5" :  [ 0,1 ],
+"6" :  [ 0,3 ]}]
+}

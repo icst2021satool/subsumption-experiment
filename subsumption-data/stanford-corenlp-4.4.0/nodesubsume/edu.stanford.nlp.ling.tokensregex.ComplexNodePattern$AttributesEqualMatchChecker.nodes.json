@@ -1,0 +1,16 @@
+{
+"Class" : "edu.stanford.nlp.ling.tokensregex.ComplexNodePattern$AttributesEqualMatchChecker", 
+"Methods" : [{ "Name" : "matches" ,
+"Nodes" : 10,
+"0" : [ 433 ],
+"1" : [ 433 ],
+"2" : [ 444 ],
+"3" : [ 433,434,435,436 ],
+"4" : [ 441 ],
+"5" : [ 443 ],
+"6" : [ 441 ],
+"7" : [ 437 ],
+"8" : [ 438 ],
+"9" : [  ]
+}]
+}

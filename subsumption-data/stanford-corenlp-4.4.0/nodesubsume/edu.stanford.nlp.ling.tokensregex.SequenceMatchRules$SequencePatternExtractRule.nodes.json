@@ -1,0 +1,23 @@
+{
+"Class" : "edu.stanford.nlp.ling.tokensregex.SequenceMatchRules$SequencePatternExtractRule", 
+"Methods" : [{ "Name" : "extract" ,
+"Nodes" : 9,
+"0" : [ 992 ],
+"1" : [ 993,994,995 ],
+"2" : [ 998 ],
+"3" : [ 999 ],
+"4" : [ 1004 ],
+"5" : [ 1000,1001 ],
+"6" : [ 996 ],
+"7" : [ 992 ],
+"8" : [  ]
+},{ "Name" : "apply" ,
+"Nodes" : 6,
+"0" : [ 1009 ],
+"1" : [ 1010,1011,1012 ],
+"2" : [ 1015 ],
+"3" : [ 1013 ],
+"4" : [ 1009 ],
+"5" : [  ]
+}]
+}

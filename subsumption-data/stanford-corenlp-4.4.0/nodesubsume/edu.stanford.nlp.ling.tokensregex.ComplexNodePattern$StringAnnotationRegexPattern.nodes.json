@@ -1,0 +1,18 @@
+{
+"Class" : "edu.stanford.nlp.ling.tokensregex.ComplexNodePattern$StringAnnotationRegexPattern", 
+"Methods" : [{ "Name" : "match" ,
+"Nodes" : 4,
+"0" : [ 266 ],
+"1" : [ 269 ],
+"2" : [ 267 ],
+"3" : [  ]
+},{ "Name" : "matchWithResult" ,
+"Nodes" : 6,
+"0" : [ 274 ],
+"1" : [ 275,276 ],
+"2" : [ 279 ],
+"3" : [ 277 ],
+"4" : [ 274 ],
+"5" : [  ]
+}]
+}

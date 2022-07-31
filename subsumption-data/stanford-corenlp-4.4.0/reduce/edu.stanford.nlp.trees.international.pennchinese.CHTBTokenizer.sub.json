@@ -1,0 +1,13 @@
+{
+"Class" : "edu.stanford.nlp.trees.international.pennchinese.CHTBTokenizer", 
+"Methods" : [{ "Name" : "getNext" ,
+"Duas" : "8" ,
+"Subsumers" : 0 
+},{ "Name" : "main" ,
+"Duas" : "9" ,
+"Subsumers" : 3,
+"0" : [ 4, 0], "S0" : [0, 2, 3, 4, 7 ],
+"1" : [ 1], "S1" : [1, 2, 3, 7 ],
+"2" : [ 8, 6, 5], "S2" : [2, 3, 5, 6, 7, 8 ]
+}]
+}

@@ -1,0 +1,12 @@
+{
+"Class" : "edu.stanford.nlp.trees.international.hebrew.HebrewTreeNormalizer$HebrewEmptyFilter", 
+"Methods" : [{ "Name" : "test" ,
+"Nodes" : 6,
+"0" : [ 35 ],
+"1" : [ 35 ],
+"2" : [ 35 ],
+"3" : [ 35 ],
+"4" : [ 35 ],
+"5" : [  ]
+}]
+}

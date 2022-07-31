@@ -1,0 +1,14 @@
+{
+"Class" : "edu.stanford.nlp.loglinear.learning.AbstractBatchOptimizer$Constraint", 
+"Methods" : [{ "Name" : "applyToWeights" ,
+"Duas" : "13" ,
+"Subsumers" : 2,
+"0" : [ 11, 10, 9, 6, 5, 3, 0], "S0" : [0, 3, 5, 6, 9, 10, 11 ],
+"1" : [ 12, 8, 7, 4, 2, 1], "S1" : [1, 2, 4, 7, 8, 12 ]
+},{ "Name" : "applyToDerivative" ,
+"Duas" : "11" ,
+"Subsumers" : 2,
+"0" : [ 10, 9, 6, 5, 3, 0], "S0" : [0, 3, 5, 6, 9, 10 ],
+"1" : [ 8, 7, 4, 2, 1], "S1" : [1, 2, 4, 7, 8 ]
+}]
+}

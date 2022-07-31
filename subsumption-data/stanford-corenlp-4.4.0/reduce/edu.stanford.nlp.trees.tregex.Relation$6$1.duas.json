@@ -1,0 +1,17 @@
+{
+"Class" : "edu.stanford.nlp.trees.tregex.Relation$6$1", 
+"Methods" : [{ "Name" : "advance" ,
+"Duas" : 12,
+"0" :  "(415,(415,416), this)",
+"1" :  "(415,(415,419), this)",
+"2" :  "(415,419, this)",
+"3" :  "(415,416, this)",
+"4" :  "(415,417, this)",
+"5" :  "(415,(415,416), this.val$t)",
+"6" :  "(415,(415,419), this.val$t)",
+"7" :  "(415,416, this.val$t)",
+"8" :  "(415,(415,416), this.nextNum)",
+"9" :  "(415,(415,419), this.nextNum)",
+"10" :  "(415,416, this.nextNum)",
+"11" :  "(415,417, this.nextNum)"}]
+}

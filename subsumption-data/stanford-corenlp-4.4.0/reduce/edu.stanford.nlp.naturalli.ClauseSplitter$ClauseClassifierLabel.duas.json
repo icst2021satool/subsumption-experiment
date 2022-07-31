@@ -1,0 +1,13 @@
+{
+"Class" : "edu.stanford.nlp.naturalli.ClauseSplitter$ClauseClassifierLabel", 
+"Methods" : [{ "Name" : "fromIndex" ,
+"Duas" : 8,
+"0" :  "(55,(55,63), index)",
+"1" :  "(55,(55,57), index)",
+"2" :  "(55,(55,59), index)",
+"3" :  "(55,(55,61), index)",
+"4" :  "(55,63, index)",
+"5" :  "(55,57, NOT_A_CLAUSE)",
+"6" :  "(55,59, CLAUSE_INTERM)",
+"7" :  "(55,61, CLAUSE_SPLIT)"}]
+}

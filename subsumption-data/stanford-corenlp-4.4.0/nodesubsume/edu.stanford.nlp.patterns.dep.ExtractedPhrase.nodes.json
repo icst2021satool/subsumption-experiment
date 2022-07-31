@@ -1,0 +1,14 @@
+{
+"Class" : "edu.stanford.nlp.patterns.dep.ExtractedPhrase", 
+"Methods" : [{ "Name" : "equals" ,
+"Nodes" : 8,
+"0" : [ 92 ],
+"1" : [ 93,95 ],
+"2" : [ 98 ],
+"3" : [ 95 ],
+"4" : [ 95 ],
+"5" : [ 96 ],
+"6" : [ 92 ],
+"7" : [  ]
+}]
+}

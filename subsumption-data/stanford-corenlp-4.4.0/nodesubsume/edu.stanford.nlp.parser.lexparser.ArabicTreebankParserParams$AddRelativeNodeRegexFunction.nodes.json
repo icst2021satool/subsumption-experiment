@@ -1,0 +1,16 @@
+{
+"Class" : "edu.stanford.nlp.parser.lexparser.ArabicTreebankParserParams$AddRelativeNodeRegexFunction", 
+"Methods" : [{ "Name" : "apply" ,
+"Nodes" : 10,
+"0" : [ 512,511 ],
+"1" : [ 519 ],
+"2" : [ 529 ],
+"3" : [ 519 ],
+"4" : [ 520,521,522 ],
+"5" : [ 525 ],
+"6" : [ 523 ],
+"7" : [ 513,514 ],
+"8" : [ 515 ],
+"9" : [  ]
+}]
+}

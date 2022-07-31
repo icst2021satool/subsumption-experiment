@@ -1,0 +1,8 @@
+{
+"Class" : "edu.stanford.nlp.trees.LeftHeadFinder", 
+"Methods" : [{ "Name" : "determineHead" ,
+"Duas" : 3,
+"0" :  "(18,(18,19), t)",
+"1" :  "(18,(18,21), t)",
+"2" :  "(18,21, t)"}]
+}

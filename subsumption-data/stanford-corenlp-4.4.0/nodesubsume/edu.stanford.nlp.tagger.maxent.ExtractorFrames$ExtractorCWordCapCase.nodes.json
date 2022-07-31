@@ -1,0 +1,10 @@
+{
+"Class" : "edu.stanford.nlp.tagger.maxent.ExtractorFrames$ExtractorCWordCapCase", 
+"Methods" : [{ "Name" : "extract" ,
+"Nodes" : 4,
+"0" : [ 368,366,367 ],
+"1" : [ 371 ],
+"2" : [ 369 ],
+"3" : [  ]
+}]
+}

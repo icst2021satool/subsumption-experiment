@@ -1,0 +1,10 @@
+{
+"Class" : "edu.stanford.nlp.trees.tregex.TregexPattern$TRegexTreeReaderFactory$1", 
+"Methods" : [{ "Name" : "normalizeNonterminal" ,
+"Nodes" : 4,
+"0" : [ 958 ],
+"1" : [ 961 ],
+"2" : [ 959 ],
+"3" : [  ]
+}]
+}

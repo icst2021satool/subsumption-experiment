@@ -1,0 +1,31 @@
+{
+"Class" : "edu.stanford.nlp.ie.machinereading.domains.ace.reader.AceRelationMention", 
+"Methods" : [{ "Name" : "getFirstArg" ,
+"Nodes" : 4,
+"0" : [ ],
+"1" : [ 1, 2],
+"2" : [ 0, 3],
+"3" : [ ],
+"CoveredDUAsByNodes" : 4,
+"Duas" : 4
+},{ "Name" : "getLastArg" ,
+"Nodes" : 4,
+"0" : [ ],
+"1" : [ 1, 2],
+"2" : [ 0, 3],
+"3" : [ ],
+"CoveredDUAsByNodes" : 4,
+"Duas" : 4
+},{ "Name" : "toXml" ,
+"Nodes" : 7,
+"0" : [ ],
+"5" : [ 0, 5, 26, 12, 14],
+"1" : [ 16, 17, 2, 18, 3, 4, 6, 15],
+"2" : [ 2, 3, 4, 6, 7, 8, 15, 16, 17, 18, 19, 20, 28, 29, 31],
+"4" : [ 32, 2, 3, 4, 6, 10, 11, 15, 16, 17, 18, 24, 25, 27, 30],
+"3" : [ 2, 3, 4, 6, 9, 15, 16, 17, 18, 21, 22, 23],
+"6" : [ 2, 3, 4, 6, 9, 15, 16, 17, 18, 21, 22, 23],
+"CoveredDUAsByNodes" : 31,
+"Duas" : 33
+}]
+}

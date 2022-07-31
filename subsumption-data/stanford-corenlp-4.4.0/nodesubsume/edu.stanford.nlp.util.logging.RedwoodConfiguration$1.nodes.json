@@ -1,0 +1,13 @@
+{
+"Class" : "edu.stanford.nlp.util.logging.RedwoodConfiguration$1", 
+"Methods" : [{ "Name" : "matches" ,
+"Nodes" : 7,
+"0" : [ 98 ],
+"1" : [ 98 ],
+"2" : [ 103 ],
+"3" : [ 98,99 ],
+"4" : [ 98 ],
+"5" : [ 100 ],
+"6" : [  ]
+}]
+}

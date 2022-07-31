@@ -1,0 +1,23 @@
+{
+"Class" : "edu.stanford.nlp.io.ui.OpenPageDialog", 
+"Methods" : [{ "Name" : "browseFiles" ,
+"Nodes" : 4,
+"0" : [ 60,61,62 ],
+"1" : [ 66 ],
+"2" : [ 64,63 ],
+"3" : [  ]
+},{ "Name" : "enableOpenButton" ,
+"Nodes" : 5,
+"0" : [ 75 ],
+"1" : [ 75 ],
+"2" : [ 75,76 ],
+"3" : [ 75 ],
+"4" : [  ]
+},{ "Name" : "urlTextFieldActionPerformed" ,
+"Nodes" : 4,
+"0" : [ 157 ],
+"1" : [ 160 ],
+"2" : [ 158 ],
+"3" : [  ]
+}]
+}

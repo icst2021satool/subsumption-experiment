@@ -1,0 +1,9 @@
+{
+"Class" : "edu.stanford.nlp.international.spanish.pipeline.MultiWordTreeExpander", 
+"Methods" : [{ "Name" : "expandPhrases" ,
+"Nodes" : 3,
+"0" : [ 486,487,488 ],
+"1" : [ 497,499,491,494 ],
+"2" : [  ]
+}]
+}

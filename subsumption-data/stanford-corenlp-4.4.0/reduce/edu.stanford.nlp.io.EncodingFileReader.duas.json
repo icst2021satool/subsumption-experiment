@@ -1,0 +1,14 @@
+{
+"Class" : "edu.stanford.nlp.io.EncodingFileReader", 
+"Methods" : [{ "Name" : "<init>" ,
+"Duas" : 4,
+"0" :  "(46,46, this)",
+"1" :  "(46,(46,46), encoding)",
+"2" :  "(46,(46,46), encoding)",
+"3" :  "(46,46, encoding)"},{ "Name" : "<init>" ,
+"Duas" : 4,
+"0" :  "(78,78, this)",
+"1" :  "(78,(78,78), encoding)",
+"2" :  "(78,(78,78), encoding)",
+"3" :  "(78,78, encoding)"}]
+}

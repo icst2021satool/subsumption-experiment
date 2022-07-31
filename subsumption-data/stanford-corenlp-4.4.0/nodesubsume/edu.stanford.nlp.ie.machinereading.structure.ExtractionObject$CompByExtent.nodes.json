@@ -1,0 +1,12 @@
+{
+"Class" : "edu.stanford.nlp.ie.machinereading.structure.ExtractionObject$CompByExtent", 
+"Methods" : [{ "Name" : "compare" ,
+"Nodes" : 6,
+"0" : [ 123 ],
+"1" : [ 125 ],
+"2" : [ 127 ],
+"3" : [ 126 ],
+"4" : [ 124 ],
+"5" : [  ]
+}]
+}

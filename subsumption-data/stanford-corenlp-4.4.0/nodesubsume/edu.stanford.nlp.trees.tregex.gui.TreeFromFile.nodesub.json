@@ -1,0 +1,31 @@
+{
+"Class" : "edu.stanford.nlp.trees.tregex.gui.TreeFromFile", 
+"Methods" : [{ "Name" : "<init>" ,
+"Nodes" : 7,
+"0" : [ ],
+"2" : [ 0, 1, 12, 14, 15],
+"3" : [ 0, 1, 17, 2, 12, 14, 15],
+"4" : [ 0, 1, 17, 2, 4, 20, 12, 14, 15],
+"5" : [ 0, 1, 2, 4, 6, 8, 9, 10, 11, 12, 14, 15, 16, 17, 19, 20, 22, 24],
+"1" : [ ],
+"6" : [ ],
+"CoveredDUAsByNodes" : 18,
+"Duas" : 25
+},{ "Name" : "getLabel" ,
+"Nodes" : 4,
+"0" : [ ],
+"2" : [ 0, 3, 4, 5, 6],
+"1" : [ 2],
+"3" : [ 2],
+"CoveredDUAsByNodes" : 6,
+"Duas" : 10
+},{ "Name" : "toString" ,
+"Nodes" : 4,
+"0" : [ ],
+"2" : [ 0, 3, 4],
+"1" : [ 2],
+"3" : [ 2],
+"CoveredDUAsByNodes" : 4,
+"Duas" : 8
+}]
+}

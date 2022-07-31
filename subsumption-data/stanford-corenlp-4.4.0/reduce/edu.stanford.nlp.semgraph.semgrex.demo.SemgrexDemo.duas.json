@@ -1,0 +1,9 @@
+{
+"Class" : "edu.stanford.nlp.semgraph.semgrex.demo.SemgrexDemo", 
+"Methods" : [{ "Name" : "main" ,
+"Duas" : 4,
+"0" :  "(28,53, log)",
+"1" :  "(49,(52,53), matcher)",
+"2" :  "(49,(52,55), matcher)",
+"3" :  "(49,53, matcher)"}]
+}

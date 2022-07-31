@@ -1,0 +1,14 @@
+{
+"Class" : "edu.stanford.nlp.ling.tokensregex.SequenceMatchRules$SequenceMatchedExpressionExtractor", 
+"Methods" : [{ "Name" : "apply" ,
+"Nodes" : 8,
+"0" : [ 1143,1144 ],
+"1" : [ 1147 ],
+"2" : [ 1150 ],
+"3" : [ 1154 ],
+"4" : [ 1152 ],
+"5" : [ 1148 ],
+"6" : [ 1145 ],
+"7" : [  ]
+}]
+}

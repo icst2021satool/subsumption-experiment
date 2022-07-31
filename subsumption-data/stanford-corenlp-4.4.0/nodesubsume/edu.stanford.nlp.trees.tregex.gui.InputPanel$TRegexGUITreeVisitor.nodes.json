@@ -1,0 +1,15 @@
+{
+"Class" : "edu.stanford.nlp.trees.tregex.gui.InputPanel$TRegexGUITreeVisitor", 
+"Methods" : [{ "Name" : "visitTree" ,
+"Nodes" : 9,
+"0" : [ 884,885,886 ],
+"1" : [ 887 ],
+"2" : [ 894 ],
+"3" : [ 900 ],
+"4" : [ 896,897,898,895 ],
+"5" : [ 888,890 ],
+"6" : [ 891,892,893 ],
+"7" : [ 890 ],
+"8" : [  ]
+}]
+}

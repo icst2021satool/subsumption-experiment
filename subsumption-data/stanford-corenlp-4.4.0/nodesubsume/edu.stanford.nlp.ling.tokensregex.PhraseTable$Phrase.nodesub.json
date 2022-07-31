@@ -1,0 +1,31 @@
+{
+"Class" : "edu.stanford.nlp.ling.tokensregex.PhraseTable$Phrase", 
+"Methods" : [{ "Name" : "isLonger" ,
+"Nodes" : 7,
+"0" : [ ],
+"3" : [ 0, 6],
+"5" : [ 0, 2, 6, 8],
+"4" : [ 0, 6],
+"1" : [ ],
+"2" : [ ],
+"6" : [ ],
+"CoveredDUAsByNodes" : 4,
+"Duas" : 12
+},{ "Name" : "addForm" ,
+"Nodes" : 4,
+"0" : [ ],
+"2" : [ 0, 3, 4, 6, 9],
+"1" : [ 2, 5],
+"3" : [ 2, 5],
+"CoveredDUAsByNodes" : 7,
+"Duas" : 11
+},{ "Name" : "getAlternateForms" ,
+"Nodes" : 4,
+"0" : [ ],
+"1" : [ 1, 2, 5, 6],
+"2" : [ 0, 3, 4, 7],
+"3" : [ ],
+"CoveredDUAsByNodes" : 8,
+"Duas" : 8
+}]
+}

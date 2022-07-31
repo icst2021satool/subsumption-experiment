@@ -1,0 +1,19 @@
+{
+"Class" : "edu.stanford.nlp.parser.dvparser.DVModelReranker$Query", 
+"Methods" : [{ "Name" : "score" ,
+"Duas" : 14,
+"0" :  "(56,(58,59), this)",
+"1" :  "(56,(58,62), this)",
+"2" :  "(56,62, this)",
+"3" :  "(56,63, this)",
+"4" :  "(56,63, tree)",
+"5" :  "(56,(58,59), this.this$0)",
+"6" :  "(56,(58,62), this.this$0)",
+"7" :  "(56,62, this.scorer)",
+"8" :  "(56,63, this.deepTrees)",
+"9" :  "(56,62, nodeVectors)",
+"10" :  "(56,63, nodeVectors)",
+"11" :  "(57,62, transformedTree)",
+"12" :  "(57,59, transformedTree)",
+"13" :  "(57,60, transformedTree)"}]
+}

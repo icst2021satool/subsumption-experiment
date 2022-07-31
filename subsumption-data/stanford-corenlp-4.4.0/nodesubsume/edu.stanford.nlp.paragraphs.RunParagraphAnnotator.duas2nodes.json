@@ -1,0 +1,8 @@
+{
+"Class" : "edu.stanford.nlp.paragraphs.RunParagraphAnnotator", 
+"Methods" : [{ "Name" : "runTest" ,
+"Nodes" : 5,
+"Duas" : 2,
+"0" :  [ 0,3 ],
+"1" :  [ 0,3 ]}]
+}

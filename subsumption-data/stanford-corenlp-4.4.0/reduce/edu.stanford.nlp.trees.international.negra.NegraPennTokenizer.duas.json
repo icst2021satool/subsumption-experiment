@@ -1,0 +1,9 @@
+{
+"Class" : "edu.stanford.nlp.trees.international.negra.NegraPennTokenizer", 
+"Methods" : [{ "Name" : "main" ,
+"Duas" : 4,
+"0" :  "(26,31, out)",
+"1" :  "(27,(29,30), st)",
+"2" :  "(27,(29,33), st)",
+"3" :  "(27,30, st)"}]
+}

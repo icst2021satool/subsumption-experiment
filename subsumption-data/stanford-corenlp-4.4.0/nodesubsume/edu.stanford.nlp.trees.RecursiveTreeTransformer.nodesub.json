@@ -1,0 +1,29 @@
+{
+"Class" : "edu.stanford.nlp.trees.RecursiveTreeTransformer", 
+"Methods" : [{ "Name" : "transformHelper" ,
+"Nodes" : 4,
+"0" : [ ],
+"1" : [ 0, 3, 4],
+"2" : [ 1, 2, 5],
+"3" : [ ],
+"CoveredDUAsByNodes" : 6,
+"Duas" : 6
+},{ "Name" : "transformNonterminal" ,
+"Nodes" : 5,
+"0" : [ ],
+"1" : [ ],
+"2" : [ 0, 2, 3],
+"4" : [ 0, 2, 3],
+"3" : [ 1, 4],
+"CoveredDUAsByNodes" : 5,
+"Duas" : 5
+},{ "Name" : "transformLabel" ,
+"Nodes" : 4,
+"0" : [ ],
+"1" : [ 1, 2],
+"2" : [ 0],
+"3" : [ ],
+"CoveredDUAsByNodes" : 3,
+"Duas" : 3
+}]
+}

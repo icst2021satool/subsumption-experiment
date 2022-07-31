@@ -1,0 +1,10 @@
+{
+"Class" : "edu.stanford.nlp.process.TransformXML$NoEscapingSAXInterface", 
+"Methods" : [{ "Name" : "processText" ,
+"Nodes" : 4,
+"0" : [ 188 ],
+"1" : [ 193 ],
+"2" : [ 189,190,191 ],
+"3" : [  ]
+}]
+}

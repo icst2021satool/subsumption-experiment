@@ -1,0 +1,12 @@
+{
+"Class" : "edu.stanford.nlp.process.CodepointCoreLabelProcessor", 
+"Methods" : [{ "Name" : "process" ,
+"Nodes" : 5,
+"Duas" : 3,
+"0" :  [ 0,2 ],
+"1" :  [ 0,3 ],
+"2" :  [ 3 ]},{ "Name" : "restore" ,
+"Nodes" : 5,
+"Duas" : 1,
+"0" :  [ 0,2 ]}]
+}

@@ -1,0 +1,29 @@
+{
+"Class" : "edu.stanford.nlp.util.FiveDimensionalMap", 
+"Methods" : [{ "Name" : "getFourDimensionalMap" ,
+"Duas" : "7" ,
+"Subsumers" : 2,
+"0" : [ 6, 3, 2, 1, 0], "S0" : [0, 1, 2, 3, 6 ],
+"1" : [ 5, 4], "S1" : [4, 5 ]
+},{ "Name" : "values" ,
+"Duas" : "2" ,
+"Subsumers" : 1,
+"0" : [ 1], "S0" : [0, 1 ]
+},{ "Name" : "secondKeySet" ,
+"Duas" : "3" ,
+"Subsumers" : 1,
+"0" : [ 2, 0], "S0" : [0, 1, 2 ]
+},{ "Name" : "thirdKeySet" ,
+"Duas" : "5" ,
+"Subsumers" : 1,
+"0" : [ 4, 3], "S0" : [0, 1, 2, 3, 4 ]
+},{ "Name" : "fourthKeySet" ,
+"Duas" : "6" ,
+"Subsumers" : 1,
+"0" : [ 5, 3], "S0" : [0, 1, 2, 3, 4, 5 ]
+},{ "Name" : "fifthKeySet" ,
+"Duas" : "7" ,
+"Subsumers" : 1,
+"0" : [ 6, 3], "S0" : [0, 1, 2, 3, 4, 5, 6 ]
+}]
+}

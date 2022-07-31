@@ -1,0 +1,14 @@
+{
+"Class" : "edu.stanford.nlp.ie.crf.CRFLogConditionalObjectiveFunction$ExpectationThreadsafeProcessor", 
+"Methods" : [{ "Name" : "process" ,
+"Nodes" : 8,
+"0" : [ 315 ],
+"1" : [ 315 ],
+"2" : [ 315,316,317,318,319 ],
+"3" : [ 319 ],
+"4" : [ 322 ],
+"5" : [ 320,319 ],
+"6" : [ 315 ],
+"7" : [  ]
+}]
+}

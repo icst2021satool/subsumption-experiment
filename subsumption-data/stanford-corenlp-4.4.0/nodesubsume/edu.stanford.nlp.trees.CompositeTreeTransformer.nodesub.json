@@ -1,0 +1,13 @@
+{
+"Class" : "edu.stanford.nlp.trees.CompositeTreeTransformer", 
+"Methods" : [{ "Name" : "transformTree" ,
+"Nodes" : 5,
+"0" : [ ],
+"1" : [ ],
+"2" : [ ],
+"4" : [ ],
+"3" : [ 1],
+"CoveredDUAsByNodes" : 1,
+"Duas" : 4
+}]
+}

@@ -1,0 +1,22 @@
+{
+"Class" : "edu.stanford.nlp.util.OneToOneMap", 
+"Methods" : [{ "Name" : "put" ,
+"Nodes" : 4,
+"0" : [ 55,56,59 ],
+"1" : [ 64,62,63 ],
+"2" : [ 60 ],
+"3" : [  ]
+},{ "Name" : "removeLeftAsKey" ,
+"Nodes" : 4,
+"0" : [ 84,86 ],
+"1" : [ 89 ],
+"2" : [ 87 ],
+"3" : [  ]
+},{ "Name" : "removeRightAsKey" ,
+"Nodes" : 4,
+"0" : [ 96,98 ],
+"1" : [ 101 ],
+"2" : [ 99 ],
+"3" : [  ]
+}]
+}

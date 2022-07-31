@@ -1,0 +1,12 @@
+{
+"Class" : "edu.stanford.nlp.trees.tregex.gui.PreferencesPanel$1", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Nodes" : 6,
+"0" : [ 219,220 ],
+"1" : [ 225,226 ],
+"2" : [ 240,257,243,259,244,232,233,234,236,238,239 ],
+"3" : [ 227,228 ],
+"4" : [ 221,222 ],
+"5" : [  ]
+}]
+}

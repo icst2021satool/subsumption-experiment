@@ -1,0 +1,13 @@
+{
+"Class" : "edu.stanford.nlp.international.spanish.pipeline.AnCoraProcessor$MultiWordProcessor", 
+"Methods" : [{ "Name" : "process" ,
+"Nodes" : 5,
+"0" : [ ],
+"1" : [ ],
+"2" : [ 10],
+"4" : [ 10],
+"3" : [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 11, 12],
+"CoveredDUAsByNodes" : 13,
+"Duas" : 13
+}]
+}

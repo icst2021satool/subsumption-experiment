@@ -1,0 +1,21 @@
+{
+"Class" : "edu.stanford.nlp.pipeline.TaggedTextOutputter", 
+"Methods" : [{ "Name" : "print" ,
+"Duas" : 16,
+"0" :  "(31,45, pw)",
+"1" :  "(31,46, pw)",
+"2" :  "(31,(32,33), sentences)",
+"3" :  "(31,(32,49), sentences)",
+"4" :  "(31,33, sentences)",
+"5" :  "(34,45, sentenceToWrite)",
+"6" :  "(34,(36,37), sentenceToWrite)",
+"7" :  "(34,(36,39), sentenceToWrite)",
+"8" :  "(34,39, sentenceToWrite)",
+"9" :  "(34,42, sentenceToWrite)",
+"10" :  "(34,37, sentenceToWrite)",
+"11" :  "(35,39, token)",
+"12" :  "(35,40, token)",
+"13" :  "(40,(41,42), tag)",
+"14" :  "(40,(41,44), tag)",
+"15" :  "(40,42, tag)"}]
+}

@@ -1,0 +1,13 @@
+{
+"Class" : "edu.stanford.nlp.pipeline.StanfordCoreNLPClient$BackendScheduler", 
+"Methods" : [{ "Name" : "run" ,
+"Duas" : "32" ,
+"Subsumers" : 0 
+},{ "Name" : "lambda$run$0" ,
+"Duas" : "16" ,
+"Subsumers" : 3,
+"0" : [ 14, 12, 8, 6, 4], "S0" : [0, 2, 3, 4, 6, 7, 8, 10, 12, 14, 15 ],
+"1" : [ 13, 9, 5], "S1" : [0, 2, 3, 5, 7, 9, 10, 13, 15 ],
+"2" : [ 11, 1], "S2" : [1, 2, 3, 7, 11, 15 ]
+}]
+}

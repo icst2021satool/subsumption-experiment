@@ -1,0 +1,18 @@
+{
+"Class" : "edu.stanford.nlp.util.ConcatenationIterator", 
+"Methods" : [{ "Name" : "current" ,
+"Duas" : 8,
+"0" :  "(19,(19,20), this)",
+"1" :  "(19,(19,22), this)",
+"2" :  "(19,22, this)",
+"3" :  "(19,20, this)",
+"4" :  "(19,(19,20), this.first)",
+"5" :  "(19,(19,22), this.first)",
+"6" :  "(19,20, this.first)",
+"7" :  "(19,22, this.second)"},{ "Name" : "main" ,
+"Duas" : 4,
+"0" :  "(43,47, out)",
+"1" :  "(45,(46,47), i)",
+"2" :  "(45,(46,49), i)",
+"3" :  "(45,47, i)"}]
+}

@@ -1,0 +1,16 @@
+{
+"Class" : "edu.stanford.nlp.trees.Dependencies$DependentPuncWordRejectFilter", 
+"Methods" : [{ "Name" : "test" ,
+"Nodes" : 8,
+"0" : [ ],
+"1" : [ 2],
+"5" : [ 2, 3, 6],
+"2" : [ 2],
+"4" : [ 2, 5],
+"3" : [ 0, 2, 7],
+"6" : [ 1],
+"7" : [ ],
+"CoveredDUAsByNodes" : 7,
+"Duas" : 15
+}]
+}

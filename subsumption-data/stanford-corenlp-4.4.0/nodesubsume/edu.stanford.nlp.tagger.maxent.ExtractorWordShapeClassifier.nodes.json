@@ -1,0 +1,11 @@
+{
+"Class" : "edu.stanford.nlp.tagger.maxent.ExtractorWordShapeClassifier", 
+"Methods" : [{ "Name" : "isLocal" ,
+"Nodes" : 5,
+"0" : [ 742 ],
+"1" : [ 742 ],
+"2" : [ 742 ],
+"3" : [ 742 ],
+"4" : [  ]
+}]
+}

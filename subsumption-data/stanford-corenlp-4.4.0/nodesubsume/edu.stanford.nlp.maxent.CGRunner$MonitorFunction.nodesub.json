@@ -1,0 +1,13 @@
+{
+"Class" : "edu.stanford.nlp.maxent.CGRunner$MonitorFunction", 
+"Methods" : [{ "Name" : "valueAt" ,
+"Nodes" : 5,
+"0" : [ ],
+"2" : [ 0, 6],
+"3" : [ 0, 3, 5, 6, 9, 11],
+"1" : [ 2, 8],
+"4" : [ 2, 8],
+"CoveredDUAsByNodes" : 8,
+"Duas" : 12
+}]
+}

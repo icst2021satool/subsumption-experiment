@@ -1,0 +1,9 @@
+{
+"Class" : "edu.stanford.nlp.util.Filters$DisjFilter", 
+"Methods" : [{ "Name" : "test" ,
+"Duas" : 4,
+"0" :  "(208,(209,209), obj)",
+"1" :  "(208,(209,210), obj)",
+"2" :  "(208,(209,209), f)",
+"3" :  "(208,(209,210), f)"}]
+}

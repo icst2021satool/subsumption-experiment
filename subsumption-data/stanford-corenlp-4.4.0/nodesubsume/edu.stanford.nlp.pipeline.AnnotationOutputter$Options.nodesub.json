@@ -1,0 +1,15 @@
+{
+"Class" : "edu.stanford.nlp.pipeline.AnnotationOutputter$Options", 
+"Methods" : [{ "Name" : "getKeysToPrint" ,
+"Nodes" : 7,
+"0" : [ ],
+"5" : [ 0],
+"1" : [ ],
+"2" : [ ],
+"3" : [ 4],
+"6" : [ 4],
+"4" : [ 5],
+"CoveredDUAsByNodes" : 3,
+"Duas" : 6
+}]
+}

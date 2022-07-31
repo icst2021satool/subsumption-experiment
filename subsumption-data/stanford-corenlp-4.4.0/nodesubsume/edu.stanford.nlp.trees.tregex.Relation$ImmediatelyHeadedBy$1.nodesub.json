@@ -1,0 +1,14 @@
+{
+"Class" : "edu.stanford.nlp.trees.tregex.Relation$ImmediatelyHeadedBy$1", 
+"Methods" : [{ "Name" : "initialize" ,
+"Nodes" : 6,
+"0" : [ ],
+"2" : [ 0, 6],
+"3" : [ 0, 3, 4, 6, 8, 11, 13],
+"4" : [ 0, 2, 5, 6, 9, 10, 12],
+"1" : [ ],
+"5" : [ ],
+"CoveredDUAsByNodes" : 12,
+"Duas" : 14
+}]
+}

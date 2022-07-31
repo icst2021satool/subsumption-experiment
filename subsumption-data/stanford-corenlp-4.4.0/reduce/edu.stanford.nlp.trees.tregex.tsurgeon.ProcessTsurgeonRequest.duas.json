@@ -1,0 +1,12 @@
+{
+"Class" : "edu.stanford.nlp.trees.tregex.tsurgeon.ProcessTsurgeonRequest", 
+"Methods" : [{ "Name" : "parseOperations" ,
+"Duas" : 3,
+"0" :  "(36,45, operations)",
+"1" :  "(36,43, operations)",
+"2" :  "(38,40, compiler)"},{ "Name" : "processRequest" ,
+"Duas" : 3,
+"0" :  "(55,63, responseBuilder)",
+"1" :  "(55,61, responseBuilder)",
+"2" :  "(57,60, operations)"}]
+}

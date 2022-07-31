@@ -1,0 +1,13 @@
+{
+"Class" : "edu.stanford.nlp.parser.lexparser.Interner", 
+"Methods" : [{ "Name" : "intern" ,
+"Duas" : 8,
+"0" :  "(13,16, this)",
+"1" :  "(13,15, o)",
+"2" :  "(13,16, o)",
+"3" :  "(13,16, this.oToO)",
+"4" :  "(13,(14,15), i)",
+"5" :  "(13,(14,18), i)",
+"6" :  "(13,18, i)",
+"7" :  "(15,18, i)"}]
+}

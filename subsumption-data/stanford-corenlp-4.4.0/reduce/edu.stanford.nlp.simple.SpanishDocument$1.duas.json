@@ -1,0 +1,11 @@
+{
+"Class" : "edu.stanford.nlp.simple.SpanishDocument$1", 
+"Methods" : [{ "Name" : "<init>" ,
+"Duas" : 6,
+"0" :  "(24,30, this)",
+"1" :  "(24,31, this)",
+"2" :  "(25,(27,27), is)",
+"3" :  "(25,(27,29), is)",
+"4" :  "(25,27, is)",
+"5" :  "(25,27, is)"}]
+}

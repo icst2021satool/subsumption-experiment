@@ -1,0 +1,23 @@
+{
+"Class" : "edu.stanford.nlp.parser.lexparser.ArabicTreebankParserParams$AddEquivalencedConjNode", 
+"Methods" : [{ "Name" : "apply" ,
+"Duas" : 18,
+"0" :  "(672,682, this)",
+"1" :  "(672,(675,676), nnTagClass)",
+"2" :  "(672,(675,677), nnTagClass)",
+"3" :  "(672,(677,678), jjTagClass)",
+"4" :  "(672,(677,679), jjTagClass)",
+"5" :  "(672,(679,680), vbTagClass)",
+"6" :  "(672,(679,682), vbTagClass)",
+"7" :  "(672,682, this.annotationMark)",
+"8" :  "(673,(675,676), eqClass)",
+"9" :  "(673,(675,677), eqClass)",
+"10" :  "(673,(677,678), eqClass)",
+"11" :  "(673,(677,679), eqClass)",
+"12" :  "(673,(679,680), eqClass)",
+"13" :  "(673,(679,682), eqClass)",
+"14" :  "(673,682, eqClass)",
+"15" :  "(676,682, eqClass)",
+"16" :  "(678,682, eqClass)",
+"17" :  "(680,682, eqClass)"}]
+}

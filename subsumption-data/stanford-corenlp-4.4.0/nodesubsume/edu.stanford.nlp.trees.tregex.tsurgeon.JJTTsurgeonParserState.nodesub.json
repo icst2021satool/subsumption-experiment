@@ -1,0 +1,37 @@
+{
+"Class" : "edu.stanford.nlp.trees.tregex.tsurgeon.JJTTsurgeonParserState", 
+"Methods" : [{ "Name" : "popNode" ,
+"Nodes" : 4,
+"0" : [ ],
+"2" : [ 0, 3, 4, 6, 8],
+"1" : [ 2, 7],
+"3" : [ 2, 7],
+"CoveredDUAsByNodes" : 7,
+"Duas" : 10
+},{ "Name" : "clearNodeScope" ,
+"Nodes" : 4,
+"CoveredDUAsByNodes" : -1,
+"Duas" : 9
+},{ "Name" : "closeNodeScope" ,
+"Nodes" : 5,
+"0" : [ ],
+"1" : [ 7],
+"2" : [ 0, 1, 3, 4, 7, 9],
+"4" : [ 0, 1, 3, 4, 7, 9],
+"3" : [ 2, 5, 6, 7, 8, 10],
+"CoveredDUAsByNodes" : 11,
+"Duas" : 12
+},{ "Name" : "closeNodeScope" ,
+"Nodes" : 8,
+"0" : [ ],
+"1" : [ 0, 1, 12, 13],
+"3" : [ 2, 3, 11, 14],
+"4" : [ 2, 3, 11, 14, 15],
+"5" : [ 17, 2, 3, 4, 5, 7, 8, 11, 14, 15],
+"2" : [ ],
+"7" : [ ],
+"6" : [ 16, 2, 18, 3, 6, 9, 10, 11, 14, 15],
+"CoveredDUAsByNodes" : 19,
+"Duas" : 20
+}]
+}

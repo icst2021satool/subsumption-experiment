@@ -1,0 +1,13 @@
+{
+"Class" : "edu.stanford.nlp.ie.AbstractSequenceClassifier$1", 
+"Methods" : [{ "Name" : "drawSample" ,
+"Nodes" : 5,
+"0" : [ ],
+"1" : [ ],
+"2" : [ 6],
+"4" : [ 6],
+"3" : [ 0, 1, 2, 3, 4, 5, 7, 8],
+"CoveredDUAsByNodes" : 9,
+"Duas" : 10
+}]
+}

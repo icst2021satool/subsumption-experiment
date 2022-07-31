@@ -1,0 +1,16 @@
+{
+"Class" : "edu.stanford.nlp.semgraph.semgrex.ssurgeon.DeleteGraphFromNode", 
+"Methods" : [{ "Name" : "crawl" ,
+"Duas" : "16" ,
+"Subsumers" : 4,
+"0" : [ 15, 13, 6, 4, 2], "S0" : [0, 1, 2, 4, 6, 13, 15 ],
+"1" : [ 12, 10, 9, 7, 3], "S1" : [0, 1, 3, 7, 9, 10, 12 ],
+"2" : [ 14, 5], "S2" : [0, 1, 5, 14 ],
+"3" : [ 11, 8], "S3" : [0, 1, 8, 11 ]
+},{ "Name" : "evaluate" ,
+"Duas" : "8" ,
+"Subsumers" : 2,
+"0" : [ 4], "S0" : [0, 2, 3, 4, 5, 7 ],
+"1" : [ 6, 1], "S1" : [1, 6 ]
+}]
+}

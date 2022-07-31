@@ -1,0 +1,11 @@
+{
+"Class" : "edu.stanford.nlp.simple.Sentence$1", 
+"Methods" : [{ "Name" : "<init>" ,
+"Duas" : 6,
+"0" :  "(247,(249,250), this)",
+"1" :  "(247,(249,252), this)",
+"2" :  "(247,250, this)",
+"3" :  "(247,(249,250), this.val$sentence)",
+"4" :  "(247,(249,252), this.val$sentence)",
+"5" :  "(247,250, this.val$sentence)"}]
+}

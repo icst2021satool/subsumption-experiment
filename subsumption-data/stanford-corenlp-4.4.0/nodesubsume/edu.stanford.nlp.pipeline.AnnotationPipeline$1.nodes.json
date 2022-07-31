@@ -1,0 +1,10 @@
+{
+"Class" : "edu.stanford.nlp.pipeline.AnnotationPipeline$1", 
+"Methods" : [{ "Name" : "next" ,
+"Nodes" : 4,
+"0" : [ 144 ],
+"1" : [ 147,148 ],
+"2" : [ 145 ],
+"3" : [  ]
+}]
+}

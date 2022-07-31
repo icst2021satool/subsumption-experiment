@@ -1,0 +1,10 @@
+{
+"Class" : "edu.stanford.nlp.trees.TransformingTreebank$TransformingTreebankIterator", 
+"Methods" : [{ "Name" : "next" ,
+"Nodes" : 4,
+"0" : [ 192,194 ],
+"1" : [ 198 ],
+"2" : [ 195 ],
+"3" : [  ]
+}]
+}

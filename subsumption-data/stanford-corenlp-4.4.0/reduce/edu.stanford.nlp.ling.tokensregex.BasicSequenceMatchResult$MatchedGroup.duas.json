@@ -1,0 +1,16 @@
+{
+"Class" : "edu.stanford.nlp.ling.tokensregex.BasicSequenceMatchResult$MatchedGroup", 
+"Methods" : [{ "Name" : "matchLength" ,
+"Duas" : 11,
+"0" :  "(366,(366,366), this)",
+"1" :  "(366,(366,369), this)",
+"2" :  "(366,(366,367), this)",
+"3" :  "(366,(366,369), this)",
+"4" :  "(366,367, this)",
+"5" :  "(366,(366,366), this.matchBegin)",
+"6" :  "(366,(366,369), this.matchBegin)",
+"7" :  "(366,367, this.matchBegin)",
+"8" :  "(366,(366,367), this.matchEnd)",
+"9" :  "(366,(366,369), this.matchEnd)",
+"10" :  "(366,367, this.matchEnd)"}]
+}

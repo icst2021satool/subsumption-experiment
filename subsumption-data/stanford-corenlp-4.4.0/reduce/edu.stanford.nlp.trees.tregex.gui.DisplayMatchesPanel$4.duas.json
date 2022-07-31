@@ -1,0 +1,10 @@
+{
+"Class" : "edu.stanford.nlp.trees.tregex.gui.DisplayMatchesPanel$4", 
+"Methods" : [{ "Name" : "maybeShowPopup" ,
+"Duas" : 5,
+"0" :  "(407,408, this)",
+"1" :  "(407,(407,408), e)",
+"2" :  "(407,(407,409), e)",
+"3" :  "(407,408, e)",
+"4" :  "(407,408, this.val$treePopup)"}]
+}

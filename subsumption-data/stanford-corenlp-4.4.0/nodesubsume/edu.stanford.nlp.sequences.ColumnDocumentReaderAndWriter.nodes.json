@@ -1,0 +1,11 @@
+{
+"Class" : "edu.stanford.nlp.sequences.ColumnDocumentReaderAndWriter", 
+"Methods" : [{ "Name" : "printAnswers" ,
+"Nodes" : 5,
+"0" : [ 111 ],
+"1" : [ 111 ],
+"2" : [ 121,122 ],
+"3" : [ 112,113,118,120,111 ],
+"4" : [  ]
+}]
+}

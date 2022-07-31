@@ -1,0 +1,19 @@
+{
+"Class" : "edu.stanford.nlp.ling.tokensregex.ComplexNodePattern$StringAnnotationRegexPattern", 
+"Methods" : [{ "Name" : "match" ,
+"Duas" : 5,
+"0" :  "(266,269, this)",
+"1" :  "(266,(266,267), str)",
+"2" :  "(266,(266,269), str)",
+"3" :  "(266,269, str)",
+"4" :  "(266,269, this.pattern)"},{ "Name" : "matchWithResult" ,
+"Duas" : 8,
+"0" :  "(274,275, this)",
+"1" :  "(274,(274,274), str)",
+"2" :  "(274,(274,275), str)",
+"3" :  "(274,275, str)",
+"4" :  "(274,275, this.pattern)",
+"5" :  "(275,(276,277), m)",
+"6" :  "(275,(276,279), m)",
+"7" :  "(275,277, m)"}]
+}

@@ -1,0 +1,18 @@
+{
+"Class" : "edu.stanford.nlp.international.arabic.pipeline.TaggedArabicDataset$ArabicTreeTaggedNormalizer", 
+"Methods" : [{ "Name" : "visitTree" ,
+"Nodes" : 12,
+"0" : [ 87 ],
+"1" : [ 87 ],
+"2" : [ 87 ],
+"3" : [ 89,91 ],
+"4" : [ 91 ],
+"5" : [ 97,99 ],
+"6" : [ 102 ],
+"7" : [ 100 ],
+"8" : [ 91,92 ],
+"9" : [ 95 ],
+"10" : [ 93 ],
+"11" : [  ]
+}]
+}

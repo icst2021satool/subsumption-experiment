@@ -1,0 +1,8 @@
+{
+"Class" : "edu.stanford.nlp.semgraph.semgrex.Token", 
+"Methods" : [{ "Name" : "newToken" ,
+"Nodes" : 2,
+"CoveredDUAsByNodes" : -1,
+"Duas" : 1
+}]
+}

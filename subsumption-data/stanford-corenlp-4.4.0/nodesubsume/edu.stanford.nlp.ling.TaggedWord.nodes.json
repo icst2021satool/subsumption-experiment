@@ -1,0 +1,17 @@
+{
+"Class" : "edu.stanford.nlp.ling.TaggedWord", 
+"Methods" : [{ "Name" : "<init>" ,
+"Nodes" : 4,
+"0" : [ 51,52 ],
+"1" : [ 55 ],
+"2" : [ 53 ],
+"3" : [  ]
+},{ "Name" : "setFromString" ,
+"Nodes" : 5,
+"0" : [ 104,105 ],
+"1" : [ 109,110 ],
+"2" : [ 112 ],
+"3" : [ 106,107 ],
+"4" : [  ]
+}]
+}

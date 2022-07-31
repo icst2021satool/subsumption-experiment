@@ -1,0 +1,17 @@
+{
+"Class" : "edu.stanford.nlp.wordseg.AffixDictionary", 
+"Methods" : [{ "Name" : "readDict" ,
+"Nodes" : 5,
+"0" : [ 33,42 ],
+"1" : [ 45 ],
+"2" : [ 49,52,54,55 ],
+"3" : [ 47 ],
+"4" : [  ]
+},{ "Name" : "getInDict" ,
+"Nodes" : 4,
+"0" : [ 60 ],
+"1" : [ 62 ],
+"2" : [ 61 ],
+"3" : [  ]
+}]
+}

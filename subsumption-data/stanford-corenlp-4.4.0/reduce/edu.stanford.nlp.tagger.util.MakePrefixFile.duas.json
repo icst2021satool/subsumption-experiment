@@ -1,0 +1,13 @@
+{
+"Class" : "edu.stanford.nlp.tagger.util.MakePrefixFile", 
+"Methods" : [{ "Name" : "main" ,
+"Duas" : 8,
+"0" :  "(35,46, out)",
+"1" :  "(35,48, out)",
+"2" :  "(38,(47,48), fullSentence)",
+"3" :  "(38,(47,50), fullSentence)",
+"4" :  "(40,45, random)",
+"5" :  "(41,46, tagSeparator)",
+"6" :  "(41,48, tagSeparator)",
+"7" :  "(44,48, sentence)"}]
+}

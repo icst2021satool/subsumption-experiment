@@ -1,0 +1,18 @@
+{
+"Class" : "edu.stanford.nlp.optimization.InefficientSGDMinimizer$1", 
+"Methods" : [{ "Name" : "derivativeAt" ,
+"Nodes" : 5,
+"0" : [ 123,124 ],
+"1" : [ 124 ],
+"2" : [ 127 ],
+"3" : [ 124,125 ],
+"4" : [  ]
+},{ "Name" : "valuePow" ,
+"Nodes" : 5,
+"0" : [ 136,137 ],
+"1" : [ 137 ],
+"2" : [ 140 ],
+"3" : [ 137,138 ],
+"4" : [  ]
+}]
+}

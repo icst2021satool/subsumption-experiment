@@ -1,0 +1,12 @@
+{
+"Class" : "edu.stanford.nlp.optimization.HybridMinimizer", 
+"Methods" : [{ "Name" : "setEvaluators" ,
+"Nodes" : 6,
+"0" : [ 30 ],
+"1" : [ 33 ],
+"2" : [ 36 ],
+"3" : [ 34 ],
+"4" : [ 31 ],
+"5" : [  ]
+}]
+}

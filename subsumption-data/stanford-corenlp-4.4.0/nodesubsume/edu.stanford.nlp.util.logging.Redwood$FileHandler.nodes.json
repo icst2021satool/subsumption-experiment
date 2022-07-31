@@ -1,0 +1,11 @@
+{
+"Class" : "edu.stanford.nlp.util.logging.Redwood$FileHandler", 
+"Methods" : [{ "Name" : "print" ,
+"Nodes" : 5,
+"0" : [ 945 ],
+"1" : [ 945 ],
+"2" : [ 945,946,947 ],
+"3" : [ 945 ],
+"4" : [  ]
+}]
+}

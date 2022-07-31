@@ -1,0 +1,14 @@
+{
+"Class" : "edu.stanford.nlp.semgraph.semgrex.ssurgeon.SetRoots", 
+"Methods" : [{ "Name" : "evaluate" ,
+"Duas" : 5,
+"0" :  "(24,26, this)",
+"1" :  "(24,27, sg)",
+"2" :  "(24,26, sm)",
+"3" :  "(24,27, newRoots)",
+"4" :  "(24,26, newRoots)"},{ "Name" : "toEditString" ,
+"Duas" : 3,
+"0" :  "(32,38, buf)",
+"1" :  "(32,35, buf)",
+"2" :  "(32,36, buf)"}]
+}

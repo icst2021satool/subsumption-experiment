@@ -1,0 +1,15 @@
+{
+"Class" : "edu.stanford.nlp.parser.lexparser.AbstractTreebankParserParams$RemoveGFSubcategoryStripper", 
+"Methods" : [{ "Name" : "transformTree" ,
+"Nodes" : 9,
+"0" : [ 113,114 ],
+"1" : [ 119,120,121,122,123,124 ],
+"2" : [ 124 ],
+"3" : [ 129,130,131 ],
+"4" : [ 138,139,140 ],
+"5" : [ 132,133,134,136 ],
+"6" : [ 124,125,126,127 ],
+"7" : [ 115,116,117 ],
+"8" : [  ]
+}]
+}

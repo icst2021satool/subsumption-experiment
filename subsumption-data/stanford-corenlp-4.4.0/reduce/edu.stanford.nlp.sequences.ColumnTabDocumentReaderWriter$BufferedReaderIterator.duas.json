@@ -1,0 +1,18 @@
+{
+"Class" : "edu.stanford.nlp.sequences.ColumnTabDocumentReaderWriter$BufferedReaderIterator", 
+"Methods" : [{ "Name" : "hasNext" ,
+"Duas" : 4,
+"0" :  "(176,(176,176), this)",
+"1" :  "(176,(176,176), this)",
+"2" :  "(176,(176,176), this.nextItem)",
+"3" :  "(176,(176,176), this.nextItem)"},{ "Name" : "next" ,
+"Duas" : 8,
+"0" :  "(180,(180,181), this)",
+"1" :  "(180,(180,183), this)",
+"2" :  "(180,183, this)",
+"3" :  "(180,184, this)",
+"4" :  "(180,(180,181), this.nextItem)",
+"5" :  "(180,(180,183), this.nextItem)",
+"6" :  "(180,183, this.nextItem)",
+"7" :  "(180,184, this.getNextFunc)"}]
+}

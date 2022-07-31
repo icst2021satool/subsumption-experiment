@@ -1,0 +1,9 @@
+{
+"Class" : "edu.stanford.nlp.ling.tokensregex.types.ValueFunctions$20", 
+"Methods" : [{ "Name" : "apply" ,
+"Duas" : "8" ,
+"Subsumers" : 2,
+"0" : [ 7, 5, 0], "S0" : [0, 2, 3, 4, 5, 6, 7 ],
+"1" : [ 1], "S1" : [1 ]
+}]
+}

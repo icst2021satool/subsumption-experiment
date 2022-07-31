@@ -1,0 +1,16 @@
+{
+"Class" : "edu.stanford.nlp.ie.crf.LinearCliquePotentialFunction", 
+"Methods" : [{ "Name" : "computeCliquePotential" ,
+"Nodes" : 10,
+"0" : [ 24,25 ],
+"1" : [ 25 ],
+"2" : [ 32 ],
+"3" : [ 26 ],
+"4" : [ 26 ],
+"5" : [ 26,27 ],
+"6" : [ 25,30 ],
+"7" : [ 28 ],
+"8" : [ 26 ],
+"9" : [  ]
+}]
+}

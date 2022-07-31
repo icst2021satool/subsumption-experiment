@@ -1,0 +1,12 @@
+{
+"Class" : "edu.stanford.nlp.naturalli.ClauseSplitter$ClauseClassifierLabel", 
+"Methods" : [{ "Name" : "fromIndex" ,
+"Nodes" : 6,
+"0" : [ 55 ],
+"1" : [ 61 ],
+"2" : [ 59 ],
+"3" : [ 57 ],
+"4" : [ 63 ],
+"5" : [  ]
+}]
+}

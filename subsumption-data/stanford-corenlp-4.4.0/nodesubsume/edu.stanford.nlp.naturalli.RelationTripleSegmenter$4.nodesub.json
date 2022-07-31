@@ -1,0 +1,16 @@
+{
+"Class" : "edu.stanford.nlp.naturalli.RelationTripleSegmenter$4", 
+"Methods" : [{ "Name" : "<init>" ,
+"Nodes" : 8,
+"0" : [ ],
+"1" : [ 1, 2, 3, 10],
+"6" : [ 0, 8, 9],
+"2" : [ ],
+"3" : [ 5, 6, 12],
+"5" : [ 4, 7, 11],
+"4" : [ ],
+"7" : [ ],
+"CoveredDUAsByNodes" : 13,
+"Duas" : 13
+}]
+}

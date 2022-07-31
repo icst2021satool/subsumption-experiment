@@ -1,0 +1,13 @@
+{
+"Class" : "edu.stanford.nlp.parser.lexparser.ArabicTreebankParserParams$AddEquivalencedNodeFunctionVar", 
+"Methods" : [{ "Name" : "apply" ,
+"Duas" : 8,
+"0" :  "(585,588, this)",
+"1" :  "(585,588, this.annotationMark)",
+"2" :  "(585,(587,587), node)",
+"3" :  "(585,(587,588), node)",
+"4" :  "(585,(587,587), node)",
+"5" :  "(585,(587,588), node)",
+"6" :  "(585,(587,588), node)",
+"7" :  "(585,(587,590), node)"}]
+}

@@ -1,0 +1,22 @@
+{
+"Class" : "edu.stanford.nlp.util.logging.RedwoodConfiguration$Handlers$7", 
+"Methods" : [{ "Name" : "buildChain" ,
+"Nodes" : 5,
+"0" : [ ],
+"1" : [ 0, 2, 5, 8, 10, 11],
+"3" : [ 1, 3, 4, 6, 7, 9, 13],
+"2" : [ 12],
+"4" : [ 12],
+"CoveredDUAsByNodes" : 14,
+"Duas" : 14
+},{ "Name" : "apply" ,
+"Nodes" : 5,
+"0" : [ ],
+"1" : [ 1, 2, 4, 6, 9, 10],
+"3" : [ 0, 3, 5, 7, 8, 11],
+"2" : [ ],
+"4" : [ ],
+"CoveredDUAsByNodes" : 12,
+"Duas" : 12
+}]
+}

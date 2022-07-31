@@ -1,0 +1,17 @@
+{
+"Class" : "edu.stanford.nlp.util.Filters$CategoricalFilter", 
+"Methods" : [{ "Name" : "equals" ,
+"Duas" : 12,
+"0" :  "(73,(73,74), this)",
+"1" :  "(73,(73,76), this)",
+"2" :  "(73,(79,79), this)",
+"3" :  "(73,(79,79), this)",
+"4" :  "(73,(73,74), other)",
+"5" :  "(73,(73,76), other)",
+"6" :  "(73,(76,77), other)",
+"7" :  "(73,(76,79), other)",
+"8" :  "(73,(79,79), other)",
+"9" :  "(73,(79,79), other)",
+"10" :  "(73,(79,79), this.judgment)",
+"11" :  "(73,(79,79), this.judgment)"}]
+}

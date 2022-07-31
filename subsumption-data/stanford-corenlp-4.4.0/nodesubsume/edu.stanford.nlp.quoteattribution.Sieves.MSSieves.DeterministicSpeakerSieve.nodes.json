@@ -1,0 +1,21 @@
+{
+"Class" : "edu.stanford.nlp.quoteattribution.Sieves.MSSieves.DeterministicSpeakerSieve", 
+"Methods" : [{ "Name" : "doMentionToSpeaker" ,
+"Nodes" : 15,
+"0" : [ 28,29 ],
+"1" : [ 29 ],
+"2" : [ 54 ],
+"3" : [ 29,30,31 ],
+"4" : [ 35,36,37,38,39 ],
+"5" : [ 39 ],
+"6" : [ 42,43 ],
+"7" : [ 46 ],
+"8" : [ 53 ],
+"9" : [ 48,47 ],
+"10" : [ 49,50 ],
+"11" : [ 44,45 ],
+"12" : [ 39,40 ],
+"13" : [ 32 ],
+"14" : [  ]
+}]
+}

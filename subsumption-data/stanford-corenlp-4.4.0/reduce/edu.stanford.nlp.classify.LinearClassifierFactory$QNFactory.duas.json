@@ -1,0 +1,11 @@
+{
+"Class" : "edu.stanford.nlp.classify.LinearClassifierFactory$QNFactory", 
+"Methods" : [{ "Name" : "create" ,
+"Duas" : 6,
+"0" :  "(102,(103,104), this)",
+"1" :  "(102,(103,106), this)",
+"2" :  "(102,(103,104), this.this$0)",
+"3" :  "(102,(103,106), this.this$0)",
+"4" :  "(102,106, qnMinimizer)",
+"5" :  "(102,104, qnMinimizer)"}]
+}

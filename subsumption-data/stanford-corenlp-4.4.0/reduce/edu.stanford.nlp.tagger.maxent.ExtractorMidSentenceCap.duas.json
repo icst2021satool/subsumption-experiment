@@ -1,0 +1,13 @@
+{
+"Class" : "edu.stanford.nlp.tagger.maxent.ExtractorMidSentenceCap", 
+"Methods" : [{ "Name" : "extract" ,
+"Duas" : 8,
+"0" :  "(999,1004, h)",
+"1" :  "(999,1004, pH)",
+"2" :  "(999,(1001,1001), prevTag)",
+"3" :  "(999,(1001,1002), prevTag)",
+"4" :  "(999,(1001,1002), prevTag)",
+"5" :  "(999,(1001,1004), prevTag)",
+"6" :  "(1004,(1005,1006), s)",
+"7" :  "(1004,(1005,1008), s)"}]
+}

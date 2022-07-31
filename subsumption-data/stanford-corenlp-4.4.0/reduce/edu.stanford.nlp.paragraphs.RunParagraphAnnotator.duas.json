@@ -1,0 +1,7 @@
+{
+"Class" : "edu.stanford.nlp.paragraphs.RunParagraphAnnotator", 
+"Methods" : [{ "Name" : "runTest" ,
+"Duas" : 2,
+"0" :  "(29,43, out)",
+"1" :  "(29,44, out)"}]
+}

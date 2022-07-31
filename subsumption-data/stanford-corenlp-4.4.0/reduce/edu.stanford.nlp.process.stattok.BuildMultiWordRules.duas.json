@@ -1,0 +1,13 @@
+{
+"Class" : "edu.stanford.nlp.process.stattok.BuildMultiWordRules", 
+"Methods" : [{ "Name" : "main" ,
+"Duas" : 8,
+"0" :  "(21,31, logger)",
+"1" :  "(21,26, logger)",
+"2" :  "(22,(25,26), trainFile)",
+"3" :  "(22,(25,30), trainFile)",
+"4" :  "(22,35, trainFile)",
+"5" :  "(23,(30,31), multiWordRulesFile)",
+"6" :  "(23,(30,35), multiWordRulesFile)",
+"7" :  "(23,36, multiWordRulesFile)"}]
+}

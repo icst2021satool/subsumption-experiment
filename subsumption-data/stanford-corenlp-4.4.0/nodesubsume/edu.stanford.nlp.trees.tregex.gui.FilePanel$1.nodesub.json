@@ -1,0 +1,21 @@
+{
+"Class" : "edu.stanford.nlp.trees.tregex.gui.FilePanel$1", 
+"Methods" : [{ "Name" : "mouseClicked" ,
+"Nodes" : 13,
+"0" : [ ],
+"10" : [ ],
+"11" : [ 4],
+"1" : [ ],
+"2" : [ ],
+"4" : [ 0, 2],
+"9" : [ 0, 2, 5],
+"5" : [ 0, 2],
+"6" : [ 0, 2, 8],
+"8" : [ 0, 2, 7],
+"7" : [ 0, 2, 9],
+"3" : [ ],
+"12" : [ ],
+"CoveredDUAsByNodes" : 7,
+"Duas" : 12
+}]
+}

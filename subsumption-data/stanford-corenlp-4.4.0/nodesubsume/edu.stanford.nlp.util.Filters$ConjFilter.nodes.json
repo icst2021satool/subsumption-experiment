@@ -1,0 +1,13 @@
+{
+"Class" : "edu.stanford.nlp.util.Filters$ConjFilter", 
+"Methods" : [{ "Name" : "test" ,
+"Nodes" : 7,
+"0" : [ 239 ],
+"1" : [ 239 ],
+"2" : [ 242 ],
+"3" : [ 240,239 ],
+"4" : [ 241 ],
+"5" : [ 240 ],
+"6" : [  ]
+}]
+}

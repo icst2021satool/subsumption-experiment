@@ -1,0 +1,22 @@
+{
+"Class" : "edu.stanford.nlp.util.MutableInteger", 
+"Methods" : [{ "Name" : "equals" ,
+"Duas" : 8,
+"0" :  "(35,(36,36), this)",
+"1" :  "(35,(36,36), this)",
+"2" :  "(35,(35,36), obj)",
+"3" :  "(35,(35,38), obj)",
+"4" :  "(35,(36,36), obj)",
+"5" :  "(35,(36,36), obj)",
+"6" :  "(35,(36,36), this.i)",
+"7" :  "(35,(36,36), this.i)"},{ "Name" : "compareTo" ,
+"Duas" : 8,
+"0" :  "(62,(64,64), thisVal)",
+"1" :  "(62,(64,64), thisVal)",
+"2" :  "(62,(64,64), thisVal)",
+"3" :  "(62,(64,64), thisVal)",
+"4" :  "(63,(64,64), anotherVal)",
+"5" :  "(63,(64,64), anotherVal)",
+"6" :  "(63,(64,64), anotherVal)",
+"7" :  "(63,(64,64), anotherVal)"}]
+}

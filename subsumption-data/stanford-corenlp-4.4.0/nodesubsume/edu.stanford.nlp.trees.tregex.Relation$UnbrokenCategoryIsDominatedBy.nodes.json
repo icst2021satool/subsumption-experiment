@@ -1,0 +1,14 @@
+{
+"Class" : "edu.stanford.nlp.trees.tregex.Relation$UnbrokenCategoryIsDominatedBy", 
+"Methods" : [{ "Name" : "equals" ,
+"Nodes" : 8,
+"0" : [ 1805 ],
+"1" : [ 1808 ],
+"2" : [ 1811 ],
+"3" : [ 1815,1817 ],
+"4" : [ 1812 ],
+"5" : [ 1809 ],
+"6" : [ 1806 ],
+"7" : [  ]
+}]
+}

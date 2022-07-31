@@ -1,0 +1,20 @@
+{
+"Class" : "edu.stanford.nlp.trees.international.arabic.ATBTreeUtils", 
+"Methods" : [{ "Name" : "escape" ,
+"Duas" : 3,
+"0" :  "(52,(52,52), s)",
+"1" :  "(52,(52,55), s)",
+"2" :  "(52,55, s)"},{ "Name" : "unEscape" ,
+"Duas" : 3,
+"0" :  "(69,(69,69), s)",
+"1" :  "(69,(69,72), s)",
+"2" :  "(69,72, s)"},{ "Name" : "taggedStringFromTree" ,
+"Duas" : 7,
+"0" :  "(104,(107,107), removeEscaping)",
+"1" :  "(104,(107,107), removeEscaping)",
+"2" :  "(104,111, separator)",
+"3" :  "(105,111, taggedSentence)",
+"4" :  "(106,107, token)",
+"5" :  "(106,108, token)",
+"6" :  "(106,109, token)"}]
+}

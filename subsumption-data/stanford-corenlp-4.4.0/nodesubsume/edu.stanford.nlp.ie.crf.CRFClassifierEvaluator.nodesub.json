@@ -1,0 +1,35 @@
+{
+"Class" : "edu.stanford.nlp.ie.crf.CRFClassifierEvaluator", 
+"Methods" : [{ "Name" : "setEvalCmd" ,
+"Nodes" : 5,
+"0" : [ ],
+"2" : [ 0, 3, 7, 10],
+"3" : [ 0, 3, 4, 6, 7, 10, 11],
+"1" : [ 2],
+"4" : [ 2],
+"CoveredDUAsByNodes" : 8,
+"Duas" : 15
+},{ "Name" : "interpretCmdOutput" ,
+"Nodes" : 9,
+"0" : [ ],
+"1" : [ ],
+"5" : [ 2, 9],
+"6" : [ 2, 8, 9, 13, 14],
+"7" : [ 2, 7, 9],
+"2" : [ ],
+"3" : [ 0, 1, 5, 22],
+"4" : [ 4, 21, 6, 23],
+"8" : [ ],
+"CoveredDUAsByNodes" : 14,
+"Duas" : 24
+},{ "Name" : "evaluate" ,
+"Nodes" : 5,
+"0" : [ ],
+"1" : [ 1, 2, 5, 6, 7, 8],
+"3" : [ 0, 3, 4],
+"2" : [ ],
+"4" : [ ],
+"CoveredDUAsByNodes" : 9,
+"Duas" : 11
+}]
+}

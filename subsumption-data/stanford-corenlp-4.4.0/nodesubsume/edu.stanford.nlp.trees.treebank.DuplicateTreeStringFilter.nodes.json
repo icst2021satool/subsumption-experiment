@@ -1,0 +1,10 @@
+{
+"Class" : "edu.stanford.nlp.trees.treebank.DuplicateTreeStringFilter", 
+"Methods" : [{ "Name" : "test" ,
+"Nodes" : 4,
+"0" : [ 23,24 ],
+"1" : [ 27,28 ],
+"2" : [ 25 ],
+"3" : [  ]
+}]
+}

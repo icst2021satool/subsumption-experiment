@@ -1,0 +1,20 @@
+{
+"Class" : "edu.stanford.nlp.coref.statistical.EvalUtils$AbstractEvaluator", 
+"Methods" : [{ "Name" : "getRecall" ,
+"Duas" : 7,
+"0" :  "(105,(105,105), this)",
+"1" :  "(105,(105,105), this)",
+"2" :  "(105,105, this)",
+"3" :  "(105,(105,105), this.pNum)",
+"4" :  "(105,(105,105), this.pNum)",
+"5" :  "(105,105, this.pNum)",
+"6" :  "(105,105, this.pDen)"},{ "Name" : "getPrecision" ,
+"Duas" : 7,
+"0" :  "(109,(109,109), this)",
+"1" :  "(109,(109,109), this)",
+"2" :  "(109,109, this)",
+"3" :  "(109,(109,109), this.rNum)",
+"4" :  "(109,(109,109), this.rNum)",
+"5" :  "(109,109, this.rNum)",
+"6" :  "(109,109, this.rDen)"}]
+}

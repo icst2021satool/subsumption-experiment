@@ -1,0 +1,11 @@
+{
+"Class" : "edu.stanford.nlp.util.logging.Color", 
+"Methods" : [{ "Name" : "apply" ,
+"Duas" : 6,
+"0" :  "(23,24, this)",
+"1" :  "(23,26, toColor)",
+"2" :  "(23,24, toColor)",
+"3" :  "(23,(23,24), supportsAnsi)",
+"4" :  "(23,(23,26), supportsAnsi)",
+"5" :  "(23,24, this.ansiCode)"}]
+}

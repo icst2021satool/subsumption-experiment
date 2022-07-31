@@ -1,0 +1,10 @@
+{
+"Class" : "edu.stanford.nlp.time.SUTime$SimpleTime", 
+"Methods" : [{ "Name" : "toFormattedString" ,
+"Duas" : "7" ,
+"Subsumers" : 3,
+"0" : [ 3, 0], "S0" : [0, 3 ],
+"1" : [ 6, 5, 2], "S1" : [1, 2, 5, 6 ],
+"2" : [ 4], "S2" : [1, 4 ]
+}]
+}

@@ -1,0 +1,20 @@
+{
+"Class" : "edu.stanford.nlp.trees.tregex.gui.TregexGUI$1", 
+"Methods" : [{ "Name" : "run" ,
+"Duas" : 15,
+"0" :  "(470,(472,473), fonts)",
+"1" :  "(470,(472,474), fonts)",
+"2" :  "(470,473, fonts)",
+"3" :  "(471,(478,479), fontName)",
+"4" :  "(471,(478,482), fontName)",
+"5" :  "(471,479, fontName)",
+"6" :  "(471,480, fontName)",
+"7" :  "(473,(478,479), fontName)",
+"8" :  "(473,(478,482), fontName)",
+"9" :  "(473,479, fontName)",
+"10" :  "(473,480, fontName)",
+"11" :  "(475,(478,479), fontName)",
+"12" :  "(475,(478,482), fontName)",
+"13" :  "(475,479, fontName)",
+"14" :  "(475,480, fontName)"}]
+}

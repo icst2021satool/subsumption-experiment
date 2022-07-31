@@ -1,0 +1,14 @@
+{
+"Class" : "edu.stanford.nlp.trees.TreeLengthComparator", 
+"Methods" : [{ "Name" : "compare" ,
+"Nodes" : 8,
+"0" : [ 25 ],
+"1" : [ 28,29,30 ],
+"2" : [ 32 ],
+"3" : [ 35 ],
+"4" : [ 33 ],
+"5" : [ 31 ],
+"6" : [ 26 ],
+"7" : [  ]
+}]
+}

@@ -1,0 +1,13 @@
+{
+"Class" : "edu.stanford.nlp.semgraph.SemanticGraphUtils$IndexedWordProxy", 
+"Methods" : [{ "Name" : "create" ,
+"Duas" : 8,
+"0" :  "(1244,(1245,1246), node)",
+"1" :  "(1244,(1245,1250), node)",
+"2" :  "(1244,1250, node)",
+"3" :  "(1244,1246, node)",
+"4" :  "(1244,1247, node)",
+"5" :  "(1244,1250, ret)",
+"6" :  "(1244,1252, ret)",
+"7" :  "(1244,1247, ret)"}]
+}

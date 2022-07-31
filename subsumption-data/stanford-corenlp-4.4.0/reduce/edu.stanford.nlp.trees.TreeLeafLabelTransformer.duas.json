@@ -1,0 +1,8 @@
+{
+"Class" : "edu.stanford.nlp.trees.TreeLeafLabelTransformer", 
+"Methods" : [{ "Name" : "transformTree" ,
+"Duas" : 3,
+"0" :  "(19,21, this)",
+"1" :  "(19,23, tree)",
+"2" :  "(19,21, this.transform)"}]
+}

@@ -1,0 +1,17 @@
+{
+"Class" : "edu.stanford.nlp.ling.tokensregex.SequenceMatchRules$AnnotationExtractRuleCreator", 
+"Methods" : [{ "Name" : "create" ,
+"Duas" : 5,
+"0" :  "(404,(409,410), env)",
+"1" :  "(404,(409,412), env)",
+"2" :  "(404,410, env)",
+"3" :  "(404,412, r)",
+"4" :  "(404,410, r)"},{ "Name" : "create" ,
+"Duas" : 6,
+"0" :  "(417,419, env)",
+"1" :  "(417,(418,419), attributes)",
+"2" :  "(417,(418,421), attributes)",
+"3" :  "(417,419, attributes)",
+"4" :  "(417,421, r)",
+"5" :  "(417,419, r)"}]
+}

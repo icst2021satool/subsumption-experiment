@@ -1,0 +1,16 @@
+{
+"Class" : "edu.stanford.nlp.util.SystemUtils$WriterThread", 
+"Methods" : [{ "Name" : "run" ,
+"Duas" : 11,
+"0" :  "(108,111, this)",
+"1" :  "(108,115, this)",
+"2" :  "(108,116, this)",
+"3" :  "(108,111, this.reader)",
+"4" :  "(108,115, this.writer)",
+"5" :  "(108,116, this.writer)",
+"6" :  "(108,111, buffer)",
+"7" :  "(108,115, buffer)",
+"8" :  "(111,(112,113), read)",
+"9" :  "(111,(112,115), read)",
+"10" :  "(111,115, read)"}]
+}

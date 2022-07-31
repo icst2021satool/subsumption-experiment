@@ -1,0 +1,9 @@
+{
+"Class" : "edu.stanford.nlp.trees.tregex.Relation$1", 
+"Methods" : [{ "Name" : "satisfies" ,
+"Duas" : 4,
+"0" :  "(271,(271,271), t1)",
+"1" :  "(271,(271,271), t1)",
+"2" :  "(271,(271,271), t2)",
+"3" :  "(271,(271,271), t2)"}]
+}

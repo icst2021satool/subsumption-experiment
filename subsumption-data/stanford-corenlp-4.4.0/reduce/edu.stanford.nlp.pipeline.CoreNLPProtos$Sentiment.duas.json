@@ -1,0 +1,21 @@
+{
+"Class" : "edu.stanford.nlp.pipeline.CoreNLPProtos$Sentiment", 
+"Methods" : [{ "Name" : "forNumber" ,
+"Duas" : 11,
+"0" :  "(270,(270,276), value)",
+"1" :  "(270,(270,271), value)",
+"2" :  "(270,(270,272), value)",
+"3" :  "(270,(270,273), value)",
+"4" :  "(270,(270,274), value)",
+"5" :  "(270,(270,275), value)",
+"6" :  "(270,271, STRONG_NEGATIVE)",
+"7" :  "(270,272, WEAK_NEGATIVE)",
+"8" :  "(270,273, NEUTRAL)",
+"9" :  "(270,274, WEAK_POSITIVE)",
+"10" :  "(270,275, STRONG_POSITIVE)"},{ "Name" : "valueOf" ,
+"Duas" : 4,
+"0" :  "(309,(309,310), desc)",
+"1" :  "(309,(309,313), desc)",
+"2" :  "(309,313, desc)",
+"3" :  "(309,313, VALUES)"}]
+}

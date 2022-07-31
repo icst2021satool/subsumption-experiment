@@ -1,0 +1,11 @@
+{
+"Class" : "edu.stanford.nlp.ling.tokensregex.SequenceMatchAction$NextMatchAction", 
+"Methods" : [{ "Name" : "apply" ,
+"Duas" : 6,
+"0" :  "(44,(44,45), seqMatchResult)",
+"1" :  "(44,(44,52), seqMatchResult)",
+"2" :  "(44,45, seqMatchResult)",
+"3" :  "(45,(46,47), matcher)",
+"4" :  "(45,(46,49), matcher)",
+"5" :  "(45,47, matcher)"}]
+}

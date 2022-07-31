@@ -1,0 +1,11 @@
+{
+"Class" : "edu.stanford.nlp.pipeline.StanfordCoreNLPServer$ReadyHandler", 
+"Methods" : [{ "Name" : "handle" ,
+"Nodes" : 5,
+"0" : [ 682,685 ],
+"1" : [ 689,690 ],
+"2" : [ 692,693,694,695 ],
+"3" : [ 686,687 ],
+"4" : [  ]
+}]
+}

@@ -1,0 +1,10 @@
+{
+"Class" : "edu.stanford.nlp.trees.BasicCategoryTreeTransformer", 
+"Methods" : [{ "Name" : "transformNonterminalLabel" ,
+"Nodes" : 4,
+"0" : [ 22 ],
+"1" : [ 25 ],
+"2" : [ 23 ],
+"3" : [  ]
+}]
+}

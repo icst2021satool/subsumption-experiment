@@ -1,0 +1,11 @@
+{
+"Class" : "edu.stanford.nlp.ling.tokensregex.ComplexNodePattern$StringInSetAnnotationPattern", 
+"Methods" : [{ "Name" : "<init>" ,
+"Nodes" : 5,
+"0" : [ 345,346,348,349 ],
+"1" : [ 349 ],
+"2" : [ 352 ],
+"3" : [ 349,350,351 ],
+"4" : [  ]
+}]
+}

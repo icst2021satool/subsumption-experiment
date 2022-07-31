@@ -1,0 +1,21 @@
+{
+"Class" : "edu.stanford.nlp.trees.tregex.gui.FilePanel", 
+"Methods" : [{ "Name" : "getInstance" ,
+"Nodes" : 4,
+"0" : [ 62 ],
+"1" : [ 65 ],
+"2" : [ 63 ],
+"3" : [  ]
+},{ "Name" : "setActiveTreebanksFromParent" ,
+"Nodes" : 9,
+"0" : [ 144,145 ],
+"1" : [ 145 ],
+"2" : [ 154 ],
+"3" : [ 146,147 ],
+"4" : [ 151 ],
+"5" : [ 145 ],
+"6" : [ 148 ],
+"7" : [ 149 ],
+"8" : [  ]
+}]
+}

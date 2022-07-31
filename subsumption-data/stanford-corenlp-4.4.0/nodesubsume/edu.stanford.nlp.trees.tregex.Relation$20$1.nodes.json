@@ -1,0 +1,14 @@
+{
+"Class" : "edu.stanford.nlp.trees.tregex.Relation$20$1", 
+"Methods" : [{ "Name" : "initialize" ,
+"Nodes" : 8,
+"0" : [ 951 ],
+"1" : [ 961 ],
+"2" : [ 952,953 ],
+"3" : [ 954 ],
+"4" : [ 957 ],
+"5" : [ 958 ],
+"6" : [ 955 ],
+"7" : [  ]
+}]
+}

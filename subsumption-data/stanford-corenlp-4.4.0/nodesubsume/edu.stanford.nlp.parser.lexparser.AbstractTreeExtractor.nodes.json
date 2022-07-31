@@ -1,0 +1,33 @@
+{
+"Class" : "edu.stanford.nlp.parser.lexparser.AbstractTreeExtractor", 
+"Methods" : [{ "Name" : "tallyLocalTree" ,
+"Nodes" : 7,
+"0" : [ 44 ],
+"1" : [ 47 ],
+"2" : [ 52 ],
+"3" : [ 54 ],
+"4" : [ 49 ],
+"5" : [ 46 ],
+"6" : [  ]
+},{ "Name" : "tallyTree" ,
+"Nodes" : 5,
+"0" : [ 57,58 ],
+"1" : [ 58 ],
+"2" : [ 61 ],
+"3" : [ 58,59,60 ],
+"4" : [  ]
+},{ "Name" : "tallyTrees" ,
+"Nodes" : 5,
+"0" : [ 64 ],
+"1" : [ 64 ],
+"2" : [ 67 ],
+"3" : [ 64,65,66 ],
+"4" : [  ]
+},{ "Name" : "tallyTreeIterator" ,
+"Nodes" : 4,
+"0" : [ 71 ],
+"1" : [ 82 ],
+"2" : [ 80,81,72,74,79 ],
+"3" : [  ]
+}]
+}

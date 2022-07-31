@@ -1,0 +1,10 @@
+{
+"Class" : "edu.stanford.nlp.trees.TransformingTreebank$MyTreeTransformer", 
+"Methods" : [{ "Name" : "transformTree" ,
+"Duas" : 5,
+"0" :  "(211,220, treeCopy)",
+"1" :  "(212,(213,214), subtree)",
+"2" :  "(212,(213,216), subtree)",
+"3" :  "(212,216, subtree)",
+"4" :  "(212,217, subtree)"}]
+}

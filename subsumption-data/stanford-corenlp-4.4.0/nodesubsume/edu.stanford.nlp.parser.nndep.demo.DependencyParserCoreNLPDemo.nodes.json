@@ -1,0 +1,14 @@
+{
+"Class" : "edu.stanford.nlp.parser.nndep.demo.DependencyParserCoreNLPDemo", 
+"Methods" : [{ "Name" : "main" ,
+"Nodes" : 8,
+"0" : [ 32 ],
+"1" : [ 35 ],
+"2" : [ 48,37,39,44,46 ],
+"3" : [ 48 ],
+"4" : [ 52 ],
+"5" : [ 48,49,50,51 ],
+"6" : [ 33 ],
+"7" : [  ]
+}]
+}

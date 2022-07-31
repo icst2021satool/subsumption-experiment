@@ -1,0 +1,13 @@
+{
+"Class" : "edu.stanford.nlp.semgraph.semgrex.ssurgeon.SsurgeonEdit", 
+"Methods" : [{ "Name" : "getNamedNode" ,
+"Nodes" : 5,
+"0" : [ ],
+"2" : [ 4],
+"1" : [ 6],
+"3" : [ 0, 2, 3, 4],
+"4" : [ ],
+"CoveredDUAsByNodes" : 5,
+"Duas" : 7
+}]
+}

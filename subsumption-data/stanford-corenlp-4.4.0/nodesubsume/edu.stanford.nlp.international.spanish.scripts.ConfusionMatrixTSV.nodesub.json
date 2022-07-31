@@ -1,0 +1,18 @@
+{
+"Class" : "edu.stanford.nlp.international.spanish.scripts.ConfusionMatrixTSV", 
+"Methods" : [{ "Name" : "main" ,
+"Nodes" : 10,
+"0" : [ ],
+"8" : [ 0, 4],
+"1" : [ 2],
+"2" : [ 2],
+"3" : [ 2, 5, 6],
+"9" : [ 2, 5, 6],
+"4" : [ 2, 9, 11],
+"5" : [ 2, 7, 9, 11, 13, 14],
+"7" : [ 2, 3, 9, 11, 12],
+"6" : [ 2, 8, 9, 11],
+"CoveredDUAsByNodes" : 13,
+"Duas" : 18
+}]
+}

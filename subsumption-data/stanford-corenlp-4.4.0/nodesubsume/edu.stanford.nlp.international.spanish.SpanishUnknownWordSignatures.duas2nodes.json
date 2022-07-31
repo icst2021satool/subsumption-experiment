@@ -1,0 +1,20 @@
+{
+"Class" : "edu.stanford.nlp.international.spanish.SpanishUnknownWordSignatures", 
+"Methods" : [{ "Name" : "conditionalSuffix" ,
+"Nodes" : 5,
+"Duas" : 2,
+"0" :  [ 0,3 ],
+"1" :  [ 0,1 ]},{ "Name" : "imperfectSuffix" ,
+"Nodes" : 5,
+"Duas" : 2,
+"0" :  [ 0,3 ],
+"1" :  [ 0,1 ]},{ "Name" : "infinitiveSuffix" ,
+"Nodes" : 5,
+"Duas" : 2,
+"0" :  [ 0,3 ],
+"1" :  [ 0,1 ]},{ "Name" : "adverbSuffix" ,
+"Nodes" : 5,
+"Duas" : 2,
+"0" :  [ 0,3 ],
+"1" :  [ 0,1 ]}]
+}

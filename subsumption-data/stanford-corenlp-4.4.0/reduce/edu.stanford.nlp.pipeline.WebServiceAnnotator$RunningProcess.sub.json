@@ -1,0 +1,9 @@
+{
+"Class" : "edu.stanford.nlp.pipeline.WebServiceAnnotator$RunningProcess", 
+"Methods" : [{ "Name" : "lambda$new$0" ,
+"Duas" : "7" ,
+"Subsumers" : 2,
+"0" : [ 6, 4, 3, 0], "S0" : [0, 2, 3, 4, 6 ],
+"1" : [ 5, 1], "S1" : [1, 2, 5 ]
+}]
+}

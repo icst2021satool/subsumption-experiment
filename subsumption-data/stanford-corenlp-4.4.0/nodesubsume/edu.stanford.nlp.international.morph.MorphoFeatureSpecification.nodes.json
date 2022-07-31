@@ -1,0 +1,13 @@
+{
+"Class" : "edu.stanford.nlp.international.morph.MorphoFeatureSpecification", 
+"Methods" : [{ "Name" : "splitMorphString" ,
+"Nodes" : 7,
+"0" : [ 58 ],
+"1" : [ 59 ],
+"2" : [ 58 ],
+"3" : [ 61,62 ],
+"4" : [ 65 ],
+"5" : [ 63 ],
+"6" : [  ]
+}]
+}

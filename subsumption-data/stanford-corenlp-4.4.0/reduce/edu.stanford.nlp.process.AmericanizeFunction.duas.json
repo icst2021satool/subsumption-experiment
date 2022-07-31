@@ -1,0 +1,8 @@
+{
+"Class" : "edu.stanford.nlp.process.AmericanizeFunction", 
+"Methods" : [{ "Name" : "apply" ,
+"Duas" : 3,
+"0" :  "(9,(9,10), input)",
+"1" :  "(9,(9,12), input)",
+"2" :  "(9,12, input)"}]
+}

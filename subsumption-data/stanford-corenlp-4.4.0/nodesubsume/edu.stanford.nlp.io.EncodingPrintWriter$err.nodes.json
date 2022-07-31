@@ -1,0 +1,13 @@
+{
+"Class" : "edu.stanford.nlp.io.EncodingPrintWriter$err", 
+"Methods" : [{ "Name" : "setupErrWriter" ,
+"Nodes" : 7,
+"0" : [ 42 ],
+"1" : [ 45 ],
+"2" : [ 48,53,47 ],
+"3" : [ 55 ],
+"4" : [ 45 ],
+"5" : [ 43 ],
+"6" : [  ]
+}]
+}

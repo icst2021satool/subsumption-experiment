@@ -1,0 +1,19 @@
+{
+"Class" : "edu.stanford.nlp.trees.international.pennchinese.CTBErrorCorrectingTreeNormalizer$ChineseEmptyFilter", 
+"Methods" : [{ "Name" : "test" ,
+"Nodes" : 11,
+"0" : [ ],
+"2" : [ 7],
+"3" : [ 7, 9],
+"4" : [ 7, 9, 11],
+"5" : [ 0, 7, 9, 11],
+"6" : [ 0, 3, 7, 9, 11],
+"1" : [ ],
+"7" : [ 0, 3, 5, 7, 9, 11],
+"9" : [ 0, 2, 3, 5, 7, 9, 11, 13, 15],
+"8" : [ 0, 3, 5, 7, 9, 11],
+"10" : [ ],
+"CoveredDUAsByNodes" : 9,
+"Duas" : 16
+}]
+}

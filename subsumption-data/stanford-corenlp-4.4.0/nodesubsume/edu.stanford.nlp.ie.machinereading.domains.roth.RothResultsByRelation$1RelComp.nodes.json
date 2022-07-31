@@ -1,0 +1,18 @@
+{
+"Class" : "edu.stanford.nlp.ie.machinereading.domains.roth.RothResultsByRelation$1RelComp", 
+"Methods" : [{ "Name" : "compare" ,
+"Nodes" : 12,
+"0" : [ 96,97,99,100,103,104,105,90,106,91,107 ],
+"1" : [ 111 ],
+"2" : [ 113 ],
+"3" : [ 115 ],
+"4" : [ 117 ],
+"5" : [ 120 ],
+"6" : [ 118 ],
+"7" : [ 116 ],
+"8" : [ 114 ],
+"9" : [ 112 ],
+"10" : [ 108 ],
+"11" : [  ]
+}]
+}

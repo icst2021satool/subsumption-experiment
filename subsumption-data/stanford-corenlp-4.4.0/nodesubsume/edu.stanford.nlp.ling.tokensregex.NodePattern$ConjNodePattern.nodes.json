@@ -1,0 +1,13 @@
+{
+"Class" : "edu.stanford.nlp.ling.tokensregex.NodePattern$ConjNodePattern", 
+"Methods" : [{ "Name" : "match" ,
+"Nodes" : 7,
+"0" : [ 115,116 ],
+"1" : [ 116 ],
+"2" : [ 122 ],
+"3" : [ 116,117 ],
+"4" : [ 121 ],
+"5" : [ 118,119 ],
+"6" : [  ]
+}]
+}

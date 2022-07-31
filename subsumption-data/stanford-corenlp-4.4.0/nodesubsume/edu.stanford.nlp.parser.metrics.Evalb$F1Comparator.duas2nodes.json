@@ -1,0 +1,14 @@
+{
+"Class" : "edu.stanford.nlp.parser.metrics.Evalb$F1Comparator", 
+"Methods" : [{ "Name" : "compare" ,
+"Nodes" : 6,
+"Duas" : 8,
+"0" :  [ 0,4 ],
+"1" :  [ 0,1 ],
+"2" :  [ 0,1,3 ],
+"3" :  [ 0,1,2 ],
+"4" :  [ 0,4 ],
+"5" :  [ 0,1 ],
+"6" :  [ 0,1,3 ],
+"7" :  [ 0,1,2 ]}]
+}

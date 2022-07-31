@@ -1,0 +1,10 @@
+{
+"Class" : "edu.stanford.nlp.ling.StringLabel", 
+"Methods" : [{ "Name" : "<init>" ,
+"Nodes" : 4,
+"0" : [ 64,65,19,24,63 ],
+"1" : [ 70 ],
+"2" : [ 66,67,68 ],
+"3" : [  ]
+}]
+}

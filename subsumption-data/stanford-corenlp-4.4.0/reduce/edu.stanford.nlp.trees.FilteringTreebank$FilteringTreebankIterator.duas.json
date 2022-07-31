@@ -1,0 +1,23 @@
+{
+"Class" : "edu.stanford.nlp.trees.FilteringTreebank$FilteringTreebankIterator", 
+"Methods" : [{ "Name" : "hasNext" ,
+"Duas" : 4,
+"0" :  "(89,(89,89), this)",
+"1" :  "(89,(89,89), this)",
+"2" :  "(89,(89,89), this.next)",
+"3" :  "(89,(89,89), this.next)"},{ "Name" : "primeNext" ,
+"Duas" : 13,
+"0" :  "(99,(99,100), this)",
+"1" :  "(99,(99,105), this)",
+"2" :  "(99,105, this)",
+"3" :  "(99,100, this)",
+"4" :  "(99,(101,102), this)",
+"5" :  "(99,(101,99), this)",
+"6" :  "(99,(99,100), this.iter)",
+"7" :  "(99,(99,105), this.iter)",
+"8" :  "(99,100, this.iter)",
+"9" :  "(99,(101,102), this.filter)",
+"10" :  "(99,(101,99), this.filter)",
+"11" :  "(100,(101,102), this.next)",
+"12" :  "(100,(101,99), this.next)"}]
+}

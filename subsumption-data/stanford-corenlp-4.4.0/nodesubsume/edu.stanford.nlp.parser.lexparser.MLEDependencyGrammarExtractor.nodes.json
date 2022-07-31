@@ -1,0 +1,18 @@
+{
+"Class" : "edu.stanford.nlp.parser.lexparser.MLEDependencyGrammarExtractor", 
+"Methods" : [{ "Name" : "tallyRoot" ,
+"Nodes" : 5,
+"0" : [ 52,53 ],
+"1" : [ 53 ],
+"2" : [ 56 ],
+"3" : [ 53,54,55 ],
+"4" : [  ]
+},{ "Name" : "formResult" ,
+"Nodes" : 5,
+"0" : [ 60,61,62 ],
+"1" : [ 62 ],
+"2" : [ 65 ],
+"3" : [ 64,62,63 ],
+"4" : [  ]
+}]
+}

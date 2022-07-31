@@ -1,0 +1,15 @@
+{
+"Class" : "edu.stanford.nlp.ling.tokensregex.types.Expressions$IfExpression", 
+"Methods" : [{ "Name" : "evaluate" ,
+"Duas" : 10,
+"0" :  "(741,746, this)",
+"1" :  "(741,744, this)",
+"2" :  "(741,746, env)",
+"3" :  "(741,744, env)",
+"4" :  "(741,746, args)",
+"5" :  "(741,744, args)",
+"6" :  "(741,744, this.trueExpr)",
+"7" :  "(741,746, this.falseExpr)",
+"8" :  "(742,(743,744), cond)",
+"9" :  "(742,(743,746), cond)"}]
+}

@@ -1,0 +1,21 @@
+{
+"Class" : "edu.stanford.nlp.optimization.AbstractCachingDiffFloatFunction", 
+"Methods" : [{ "Name" : "ensure" ,
+"Nodes" : 8,
+"0" : [ 38 ],
+"1" : [ 41 ],
+"2" : [ 44 ],
+"3" : [ 48,49,47 ],
+"4" : [ 45 ],
+"5" : [ 42 ],
+"6" : [ 39 ],
+"7" : [  ]
+},{ "Name" : "norm2" ,
+"Nodes" : 5,
+"0" : [ 58,59 ],
+"1" : [ 59 ],
+"2" : [ 62 ],
+"3" : [ 59,60 ],
+"4" : [  ]
+}]
+}

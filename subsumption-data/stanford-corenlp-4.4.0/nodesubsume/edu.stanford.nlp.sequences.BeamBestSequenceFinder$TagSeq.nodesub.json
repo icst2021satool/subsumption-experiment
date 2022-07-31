@@ -1,0 +1,26 @@
+{
+"Class" : "edu.stanford.nlp.sequences.BeamBestSequenceFinder$TagSeq", 
+"Methods" : [{ "Name" : "tmpTags" ,
+"Nodes" : 9,
+"0" : [ ],
+"7" : [ ],
+"1" : [ 5],
+"2" : [ 0, 1, 8],
+"3" : [ 0, 1, 8],
+"5" : [ 0, 1, 8, 9],
+"4" : [ 0, 1, 8],
+"8" : [ 0, 1, 8],
+"6" : [ 0, 1, 2, 4, 8, 9, 11, 12, 13, 14, 15],
+"CoveredDUAsByNodes" : 12,
+"Duas" : 27
+},{ "Name" : "tags" ,
+"Nodes" : 5,
+"0" : [ ],
+"1" : [ ],
+"2" : [ 0],
+"4" : [ 0],
+"3" : [ 1, 2, 3, 4, 6, 7, 8],
+"CoveredDUAsByNodes" : 8,
+"Duas" : 17
+}]
+}

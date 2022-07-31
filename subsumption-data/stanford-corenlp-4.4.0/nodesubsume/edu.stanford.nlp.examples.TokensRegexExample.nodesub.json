@@ -1,0 +1,17 @@
+{
+"Class" : "edu.stanford.nlp.examples.TokensRegexExample", 
+"Methods" : [{ "Name" : "main" ,
+"Nodes" : 9,
+"0" : [ ],
+"7" : [ 3],
+"1" : [ ],
+"2" : [ 1, 2],
+"3" : [ 1, 2],
+"4" : [ 1, 2],
+"5" : [ 0, 1, 2],
+"6" : [ ],
+"8" : [ ],
+"CoveredDUAsByNodes" : 4,
+"Duas" : 11
+}]
+}

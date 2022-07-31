@@ -1,0 +1,10 @@
+{
+"Class" : "edu.stanford.nlp.trees.tregex.tsurgeon.TsurgeonPatternRoot", 
+"Methods" : [{ "Name" : "matcher" ,
+"Nodes" : 4,
+"0" : [ 35,36 ],
+"1" : [ 39 ],
+"2" : [ 37 ],
+"3" : [  ]
+}]
+}

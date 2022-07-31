@@ -1,0 +1,9 @@
+{
+"Class" : "edu.stanford.nlp.coref.statistical.Clusterer$Cluster", 
+"Methods" : [{ "Name" : "getMentionHash" ,
+"Duas" : "7" ,
+"Subsumers" : 2,
+"0" : [ 6, 3, 2, 1, 0], "S0" : [0, 1, 2, 3, 6 ],
+"1" : [ 5, 4], "S1" : [4, 5 ]
+}]
+}

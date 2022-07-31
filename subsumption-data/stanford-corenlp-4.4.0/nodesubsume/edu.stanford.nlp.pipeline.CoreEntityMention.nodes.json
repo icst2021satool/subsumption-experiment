@@ -1,0 +1,11 @@
+{
+"Class" : "edu.stanford.nlp.pipeline.CoreEntityMention", 
+"Methods" : [{ "Name" : "canonicalEntityMention" ,
+"Nodes" : 5,
+"0" : [ 67,68,69,70 ],
+"1" : [ 72 ],
+"2" : [ 70 ],
+"3" : [ 70,71 ],
+"4" : [  ]
+}]
+}

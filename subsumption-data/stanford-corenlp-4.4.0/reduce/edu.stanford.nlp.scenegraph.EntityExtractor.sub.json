@@ -1,0 +1,12 @@
+{
+"Class" : "edu.stanford.nlp.scenegraph.EntityExtractor", 
+"Methods" : [{ "Name" : "extractEntities" ,
+"Duas" : "5" ,
+"Subsumers" : 1,
+"0" : [ 4, 2, 1], "S0" : [0, 1, 2, 3, 4 ]
+},{ "Name" : "extractAttributes" ,
+"Duas" : "6" ,
+"Subsumers" : 1,
+"0" : [ 5, 3, 2], "S0" : [0, 1, 2, 3, 4, 5 ]
+}]
+}

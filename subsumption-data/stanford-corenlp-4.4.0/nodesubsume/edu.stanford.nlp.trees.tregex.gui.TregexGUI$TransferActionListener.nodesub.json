@@ -1,0 +1,23 @@
+{
+"Class" : "edu.stanford.nlp.trees.tregex.gui.TregexGUI$TransferActionListener", 
+"Methods" : [{ "Name" : "propertyChange" ,
+"Nodes" : 5,
+"0" : [ ],
+"1" : [ 0, 3],
+"3" : [ 1, 2, 4],
+"2" : [ ],
+"4" : [ ],
+"CoveredDUAsByNodes" : 5,
+"Duas" : 5
+},{ "Name" : "actionPerformed" ,
+"Nodes" : 6,
+"0" : [ ],
+"1" : [ 1, 2, 4, 6, 7],
+"3" : [ 1, 2, 3, 4, 6, 7, 8, 9, 11],
+"2" : [ 1, 2, 4, 6, 7],
+"4" : [ 0, 5],
+"5" : [ ],
+"CoveredDUAsByNodes" : 11,
+"Duas" : 12
+}]
+}

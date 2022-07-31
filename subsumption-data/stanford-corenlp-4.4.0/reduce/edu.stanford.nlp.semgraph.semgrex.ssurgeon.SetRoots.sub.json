@@ -1,0 +1,12 @@
+{
+"Class" : "edu.stanford.nlp.semgraph.semgrex.ssurgeon.SetRoots", 
+"Methods" : [{ "Name" : "evaluate" ,
+"Duas" : "5" ,
+"Subsumers" : 1,
+"0" : [ 4, 2, 0], "S0" : [0, 1, 2, 3, 4 ]
+},{ "Name" : "toEditString" ,
+"Duas" : "3" ,
+"Subsumers" : 1,
+"0" : [ 1, 2], "S0" : [0, 1, 2 ]
+}]
+}

@@ -1,0 +1,14 @@
+{
+"Class" : "edu.stanford.nlp.scenegraph.OpenIEParser", 
+"Methods" : [{ "Name" : "main" ,
+"Duas" : 9,
+"0" :  "(76,83, out)",
+"1" :  "(76,85, out)",
+"2" :  "(76,86, out)",
+"3" :  "(76,82, parser)",
+"4" :  "(79,81, scanner)",
+"5" :  "(79,(81,82), scanner)",
+"6" :  "(79,(81,90), scanner)",
+"7" :  "(79,90, scanner)",
+"8" :  "(81,82, line)"}]
+}

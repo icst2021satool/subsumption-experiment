@@ -1,0 +1,11 @@
+{
+"Class" : "edu.stanford.nlp.ling.tokensregex.types.ValueFunctions$22", 
+"Methods" : [{ "Name" : "apply" ,
+"Duas" : "11" ,
+"Subsumers" : 4,
+"0" : [ 2], "S0" : [0, 2, 6 ],
+"1" : [ 9], "S1" : [0, 3, 4, 5, 7, 8, 9 ],
+"2" : [ 10], "S2" : [0, 3, 4, 5, 7, 8, 10 ],
+"3" : [ 1], "S3" : [1, 6 ]
+}]
+}

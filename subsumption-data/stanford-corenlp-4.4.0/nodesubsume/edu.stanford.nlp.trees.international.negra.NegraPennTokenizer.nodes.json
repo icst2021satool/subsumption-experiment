@@ -1,0 +1,11 @@
+{
+"Class" : "edu.stanford.nlp.trees.international.negra.NegraPennTokenizer", 
+"Methods" : [{ "Name" : "main" ,
+"Nodes" : 5,
+"0" : [ 26,27 ],
+"1" : [ 29 ],
+"2" : [ 33 ],
+"3" : [ 32,30,31 ],
+"4" : [  ]
+}]
+}

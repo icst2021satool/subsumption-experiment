@@ -1,0 +1,13 @@
+{
+"Class" : "edu.stanford.nlp.stats.EquivalenceClassEval$Eval$CollectionContainsChecker", 
+"Methods" : [{ "Name" : "contained" ,
+"Duas" : 8,
+"0" :  "(514,(515,516), this)",
+"1" :  "(514,(515,518), this)",
+"2" :  "(514,(515,516), obj)",
+"3" :  "(514,(515,518), obj)",
+"4" :  "(514,(515,516), this.e)",
+"5" :  "(514,(515,518), this.e)",
+"6" :  "(514,(515,516), o)",
+"7" :  "(514,(515,518), o)"}]
+}

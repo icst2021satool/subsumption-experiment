@@ -1,0 +1,12 @@
+{
+"Class" : "edu.stanford.nlp.semgraph.semgrex.NodeAttributes", 
+"Methods" : [{ "Name" : "setAttribute" ,
+"Nodes" : 4,
+"0" : [ ],
+"1" : [ 1, 2, 4, 5, 7, 9, 10],
+"2" : [ 0, 3, 6, 8],
+"3" : [ ],
+"CoveredDUAsByNodes" : 11,
+"Duas" : 11
+}]
+}

@@ -1,0 +1,39 @@
+{
+"Class" : "edu.stanford.nlp.parser.charniak.CharniakScoredParsesReaderWriter", 
+"Methods" : [{ "Name" : "stringToParses" ,
+"Nodes" : 5,
+"0" : [ ],
+"2" : [ 2],
+"3" : [ 2, 4, 6],
+"1" : [ 0],
+"4" : [ 0],
+"CoveredDUAsByNodes" : 4,
+"Duas" : 8
+},{ "Name" : "parsesToString" ,
+"Nodes" : 4,
+"0" : [ ],
+"1" : [ 1, 2],
+"2" : [ 0],
+"3" : [ ],
+"CoveredDUAsByNodes" : 3,
+"Duas" : 3
+},{ "Name" : "printScoredTrees" ,
+"Nodes" : 5,
+"0" : [ ],
+"1" : [ ],
+"2" : [ 0],
+"4" : [ 0],
+"3" : [ 1, 2, 3],
+"CoveredDUAsByNodes" : 4,
+"Duas" : 6
+},{ "Name" : "printScoredTrees" ,
+"Nodes" : 5,
+"0" : [ ],
+"1" : [ ],
+"2" : [ ],
+"4" : [ ],
+"3" : [ 0, 1],
+"CoveredDUAsByNodes" : 2,
+"Duas" : 2
+}]
+}

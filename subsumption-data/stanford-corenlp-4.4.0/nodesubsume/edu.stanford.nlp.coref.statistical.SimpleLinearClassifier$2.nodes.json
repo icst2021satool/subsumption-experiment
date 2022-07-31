@@ -1,0 +1,13 @@
+{
+"Class" : "edu.stanford.nlp.coref.statistical.SimpleLinearClassifier$2", 
+"Methods" : [{ "Name" : "derivative" ,
+"Nodes" : 7,
+"0" : [ 164,165 ],
+"1" : [ 165 ],
+"2" : [ 165 ],
+"3" : [ 165 ],
+"4" : [ 165 ],
+"5" : [ 165 ],
+"6" : [  ]
+}]
+}

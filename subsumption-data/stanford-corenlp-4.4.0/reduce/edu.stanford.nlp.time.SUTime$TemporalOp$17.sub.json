@@ -1,0 +1,11 @@
+{
+"Class" : "edu.stanford.nlp.time.SUTime$TemporalOp$17", 
+"Methods" : [{ "Name" : "apply" ,
+"Duas" : "9" ,
+"Subsumers" : 4,
+"0" : [ 3], "S0" : [0, 3 ],
+"1" : [ 5], "S1" : [0, 2, 5 ],
+"2" : [ 7], "S2" : [0, 2, 4, 7 ],
+"3" : [ 8, 6, 1], "S3" : [1, 2, 4, 6, 8 ]
+}]
+}

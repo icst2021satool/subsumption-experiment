@@ -1,0 +1,10 @@
+{
+"Class" : "edu.stanford.nlp.trees.tregex.tsurgeon.AdjoinNode$Matcher", 
+"Methods" : [{ "Name" : "evaluate" ,
+"Nodes" : 4,
+"0" : [ 48,49,51,45,46 ],
+"1" : [ 54,55,56 ],
+"2" : [ 52 ],
+"3" : [  ]
+}]
+}

@@ -1,0 +1,21 @@
+{
+"Class" : "edu.stanford.nlp.classify.LinearClassifierFactory$LinearClassifierCreator", 
+"Methods" : [{ "Name" : "createLinearClassifier" ,
+"Duas" : 16,
+"0" :  "(1022,(1022,1023), this)",
+"1" :  "(1022,(1022,1025), this)",
+"2" :  "(1022,1025, this)",
+"3" :  "(1022,1027, this)",
+"4" :  "(1022,1023, this)",
+"5" :  "(1022,1025, weights)",
+"6" :  "(1022,1023, weights)",
+"7" :  "(1022,(1022,1023), this.objective)",
+"8" :  "(1022,(1022,1025), this.objective)",
+"9" :  "(1022,1023, this.objective)",
+"10" :  "(1022,1025, this.featureIndex)",
+"11" :  "(1022,1027, this.featureIndex)",
+"12" :  "(1022,1025, this.labelIndex)",
+"13" :  "(1022,1027, this.labelIndex)",
+"14" :  "(1023,1027, weights2D)",
+"15" :  "(1025,1027, weights2D)"}]
+}

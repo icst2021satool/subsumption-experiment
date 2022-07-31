@@ -1,0 +1,13 @@
+{
+"Class" : "edu.stanford.nlp.ling.tokensregex.CoreMapSequenceMatchAction$AnnotateAction", 
+"Methods" : [{ "Name" : "apply" ,
+"Nodes" : 7,
+"0" : [ 28 ],
+"1" : [ 28 ],
+"2" : [ 35 ],
+"3" : [ 28,29,30 ],
+"4" : [ 28 ],
+"5" : [ 32,31 ],
+"6" : [  ]
+}]
+}

@@ -1,0 +1,11 @@
+{
+"Class" : "edu.stanford.nlp.trees.international.pennchinese.CEDict", 
+"Methods" : [{ "Name" : "path" ,
+"Duas" : "7" ,
+"Subsumers" : 4,
+"0" : [ 0], "S0" : [0 ],
+"1" : [ 2], "S1" : [1, 2 ],
+"2" : [ 6, 4], "S2" : [1, 3, 4, 6 ],
+"3" : [ 5], "S3" : [1, 3, 5 ]
+}]
+}

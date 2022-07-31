@@ -1,0 +1,10 @@
+{
+"Class" : "edu.stanford.nlp.pipeline.AnnotationOutputter$Options", 
+"Methods" : [{ "Name" : "getKeysToPrint" ,
+"Duas" : "6" ,
+"Subsumers" : 3,
+"0" : [ 3, 0], "S0" : [0, 3, 4 ],
+"1" : [ 2, 1], "S1" : [1, 2, 4 ],
+"2" : [ 5], "S2" : [4, 5 ]
+}]
+}

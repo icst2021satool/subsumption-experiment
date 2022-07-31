@@ -1,0 +1,11 @@
+{
+"Class" : "edu.stanford.nlp.pipeline.CoreMapAttributeAggregator$ConcatListAggregator", 
+"Methods" : [{ "Name" : "aggregate" ,
+"Duas" : "11" ,
+"Subsumers" : 4,
+"0" : [ 10, 8, 5], "S0" : [0, 2, 3, 4, 5, 6, 8, 10 ],
+"1" : [ 9], "S1" : [0, 2, 3, 4, 6, 9 ],
+"2" : [ 7], "S2" : [0, 2, 3, 4, 7 ],
+"3" : [ 1], "S3" : [1 ]
+}]
+}

@@ -1,0 +1,16 @@
+{
+"Class" : "edu.stanford.nlp.ling.tokensregex.SequenceMatchRules$MultiSequencePatternExtractRule", 
+"Methods" : [{ "Name" : "extract" ,
+"Duas" : "10" ,
+"Subsumers" : 3,
+"0" : [ 9, 7, 5, 1], "S0" : [0, 1, 3, 4, 5, 6, 7, 9 ],
+"1" : [ 8], "S1" : [0, 3, 4, 6, 8 ],
+"2" : [ 2], "S2" : [2 ]
+},{ "Name" : "apply" ,
+"Duas" : "10" ,
+"Subsumers" : 3,
+"0" : [ 9, 7, 6, 1], "S0" : [0, 1, 3, 4, 5, 6, 7, 9 ],
+"1" : [ 8], "S1" : [0, 3, 4, 5, 8 ],
+"2" : [ 2], "S2" : [2 ]
+}]
+}

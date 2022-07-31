@@ -1,0 +1,19 @@
+{
+"Class" : "edu.stanford.nlp.ie.qe.Unit", 
+"Methods" : [{ "Name" : "formatInDefaultUnit" ,
+"Duas" : 14,
+"0" :  "(40,(40,40), this)",
+"1" :  "(40,(40,43), this)",
+"2" :  "(40,43, this)",
+"3" :  "(40,(40,41), this)",
+"4" :  "(40,(40,43), this)",
+"5" :  "(40,41, this)",
+"6" :  "(40,43, amount)",
+"7" :  "(40,41, amount)",
+"8" :  "(40,(40,40), this.defaultUnit)",
+"9" :  "(40,(40,43), this.defaultUnit)",
+"10" :  "(40,(40,41), this.defaultUnit)",
+"11" :  "(40,(40,43), this.defaultUnit)",
+"12" :  "(40,41, this.defaultUnit)",
+"13" :  "(40,41, this.defaultUnitScale)"}]
+}

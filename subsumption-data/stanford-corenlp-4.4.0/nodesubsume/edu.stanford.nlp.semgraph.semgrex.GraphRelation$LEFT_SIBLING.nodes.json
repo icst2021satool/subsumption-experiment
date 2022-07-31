@@ -1,0 +1,11 @@
+{
+"Class" : "edu.stanford.nlp.semgraph.semgrex.GraphRelation$LEFT_SIBLING", 
+"Methods" : [{ "Name" : "satisfiesOrder" ,
+"Nodes" : 5,
+"0" : [ 916 ],
+"1" : [ 916 ],
+"2" : [ 916 ],
+"3" : [ 916 ],
+"4" : [  ]
+}]
+}

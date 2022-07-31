@@ -1,0 +1,20 @@
+{
+"Class" : "edu.stanford.nlp.semgraph.semgrex.ssurgeon.pred.SsurgAndPred", 
+"Methods" : [{ "Name" : "test" ,
+"Nodes" : 7,
+"0" : [ 17 ],
+"1" : [ 17 ],
+"2" : [ 21 ],
+"3" : [ 17,18 ],
+"4" : [ 20 ],
+"5" : [ 19 ],
+"6" : [  ]
+},{ "Name" : "toString" ,
+"Nodes" : 5,
+"0" : [ 26,27,28 ],
+"1" : [ 28 ],
+"2" : [ 32,33 ],
+"3" : [ 28,29,30,31 ],
+"4" : [  ]
+}]
+}

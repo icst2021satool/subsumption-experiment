@@ -1,0 +1,11 @@
+{
+"Class" : "edu.stanford.nlp.time.SUTimeMain$TimebankTimex", 
+"Methods" : [{ "Name" : "<init>" ,
+"Duas" : 6,
+"0" :  "(184,190, this)",
+"1" :  "(184,(189,189), timexId)",
+"2" :  "(184,(189,192), timexId)",
+"3" :  "(184,(189,190), timexId)",
+"4" :  "(184,(189,192), timexId)",
+"5" :  "(184,190, timexId)"}]
+}

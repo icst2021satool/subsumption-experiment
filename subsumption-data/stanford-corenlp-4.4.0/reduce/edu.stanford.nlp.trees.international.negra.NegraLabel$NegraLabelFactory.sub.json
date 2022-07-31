@@ -1,0 +1,9 @@
+{
+"Class" : "edu.stanford.nlp.trees.international.negra.NegraLabel$NegraLabelFactory", 
+"Methods" : [{ "Name" : "newLabel" ,
+"Duas" : "7" ,
+"Subsumers" : 2,
+"0" : [ 5], "S0" : [0, 3, 4, 5 ],
+"1" : [ 6, 2, 1], "S1" : [1, 2, 6 ]
+}]
+}

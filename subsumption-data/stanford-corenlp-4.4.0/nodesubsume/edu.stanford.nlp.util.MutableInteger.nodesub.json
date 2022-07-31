@@ -1,0 +1,26 @@
+{
+"Class" : "edu.stanford.nlp.util.MutableInteger", 
+"Methods" : [{ "Name" : "equals" ,
+"Nodes" : 7,
+"0" : [ ],
+"1" : [ 3],
+"2" : [ 2],
+"3" : [ 1, 2, 5, 7],
+"5" : [ 0, 2, 4, 6],
+"4" : [ 2],
+"6" : [ ],
+"CoveredDUAsByNodes" : 8,
+"Duas" : 8
+},{ "Name" : "compareTo" ,
+"Nodes" : 7,
+"0" : [ ],
+"1" : [ 1, 5],
+"2" : [ 1, 3, 5, 7],
+"4" : [ 1, 2, 5, 6],
+"5" : [ 0, 4],
+"3" : [ ],
+"6" : [ ],
+"CoveredDUAsByNodes" : 8,
+"Duas" : 8
+}]
+}

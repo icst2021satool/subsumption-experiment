@@ -1,0 +1,17 @@
+{
+"Class" : "edu.stanford.nlp.ie.machinereading.structure.Relation", 
+"Methods" : [{ "Name" : "addRelation" ,
+"Nodes" : 4,
+"0" : [ 19,20,21 ],
+"1" : [ 25,26 ],
+"2" : [ 22,23 ],
+"3" : [  ]
+},{ "Name" : "getRelationMentions" ,
+"Nodes" : 5,
+"0" : [ 29,30,31 ],
+"1" : [ 31 ],
+"2" : [ 31 ],
+"3" : [ 31 ],
+"4" : [  ]
+}]
+}

@@ -1,0 +1,7 @@
+{
+"Class" : "edu.stanford.nlp.tagger.maxent.ExtractorSpanishAuxiliaryTag", 
+"Methods" : [{ "Name" : "extract" ,
+"Duas" : 2,
+"0" :  "(805,(806,806), tag)",
+"1" :  "(805,(806,806), tag)"}]
+}

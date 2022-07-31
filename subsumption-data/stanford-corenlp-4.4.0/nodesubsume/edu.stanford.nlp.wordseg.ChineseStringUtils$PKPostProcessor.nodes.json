@@ -1,0 +1,12 @@
+{
+"Class" : "edu.stanford.nlp.wordseg.ChineseStringUtils$PKPostProcessor", 
+"Methods" : [{ "Name" : "postProcessingAnswer" ,
+"Nodes" : 6,
+"0" : [ 215,216 ],
+"1" : [ 240,238 ],
+"2" : [ 224,225,229,230,232,221,222,223 ],
+"3" : [ 232 ],
+"4" : [ 232,233,234,235 ],
+"5" : [  ]
+}]
+}

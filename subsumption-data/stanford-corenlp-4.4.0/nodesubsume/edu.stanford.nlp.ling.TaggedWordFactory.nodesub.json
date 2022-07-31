@@ -1,0 +1,20 @@
+{
+"Class" : "edu.stanford.nlp.ling.TaggedWordFactory", 
+"Methods" : [{ "Name" : "newLabel" ,
+"Nodes" : 4,
+"0" : [ ],
+"1" : [ 0, 3],
+"2" : [ 1, 2],
+"3" : [ ],
+"CoveredDUAsByNodes" : 4,
+"Duas" : 4
+},{ "Name" : "newLabelFromString" ,
+"Nodes" : 4,
+"0" : [ ],
+"1" : [ 0, 3],
+"2" : [ 1, 2, 4],
+"3" : [ ],
+"CoveredDUAsByNodes" : 5,
+"Duas" : 5
+}]
+}

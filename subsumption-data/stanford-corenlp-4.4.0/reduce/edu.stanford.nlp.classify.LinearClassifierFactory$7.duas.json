@@ -1,0 +1,15 @@
+{
+"Class" : "edu.stanford.nlp.classify.LinearClassifierFactory$7", 
+"Methods" : [{ "Name" : "create" ,
+"Duas" : 10,
+"0" :  "(367,(369,370), this)",
+"1" :  "(367,(369,373), this)",
+"2" :  "(367,373, this)",
+"3" :  "(367,373, this.val$SGDPasses)",
+"4" :  "(367,(369,370), this.this$0)",
+"5" :  "(367,(369,373), this.this$0)",
+"6" :  "(367,373, firstMinimizer)",
+"7" :  "(367,370, firstMinimizer)",
+"8" :  "(368,373, secondMinimizer)",
+"9" :  "(368,371, secondMinimizer)"}]
+}

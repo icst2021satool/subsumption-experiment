@@ -1,0 +1,8 @@
+{
+"Class" : "edu.stanford.nlp.international.spanish.pipeline.MultiWordTreeExpander", 
+"Methods" : [{ "Name" : "expandPhrases" ,
+"Nodes" : 3,
+"CoveredDUAsByNodes" : -1,
+"Duas" : 11
+}]
+}

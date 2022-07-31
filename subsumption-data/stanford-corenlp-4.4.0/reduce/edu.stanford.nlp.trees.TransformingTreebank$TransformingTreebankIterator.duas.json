@@ -1,0 +1,14 @@
+{
+"Class" : "edu.stanford.nlp.trees.TransformingTreebank$TransformingTreebankIterator", 
+"Methods" : [{ "Name" : "next" ,
+"Duas" : 9,
+"0" :  "(192,(194,195), this)",
+"1" :  "(192,(194,198), this)",
+"2" :  "(192,195, this)",
+"3" :  "(192,(194,195), this.transformer)",
+"4" :  "(192,(194,198), this.transformer)",
+"5" :  "(192,195, this.transformer)",
+"6" :  "(192,198, ret)",
+"7" :  "(192,195, ret)",
+"8" :  "(195,198, ret)"}]
+}

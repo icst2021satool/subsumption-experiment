@@ -1,0 +1,16 @@
+{
+"Class" : "edu.stanford.nlp.ling.tokensregex.SequenceMatchRules$AnnotationExtractRuleCreator", 
+"Methods" : [{ "Name" : "create" ,
+"Nodes" : 4,
+"0" : [ 404,405,406,407,408,409 ],
+"1" : [ 412 ],
+"2" : [ 410 ],
+"3" : [  ]
+},{ "Name" : "create" ,
+"Nodes" : 4,
+"0" : [ 417,418 ],
+"1" : [ 421 ],
+"2" : [ 419 ],
+"3" : [  ]
+}]
+}

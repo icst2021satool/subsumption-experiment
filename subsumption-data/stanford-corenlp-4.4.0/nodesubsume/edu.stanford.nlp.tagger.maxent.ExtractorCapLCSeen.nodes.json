@@ -1,0 +1,12 @@
+{
+"Class" : "edu.stanford.nlp.tagger.maxent.ExtractorCapLCSeen", 
+"Methods" : [{ "Name" : "extract" ,
+"Nodes" : 6,
+"0" : [ 967,968 ],
+"1" : [ 972,973 ],
+"2" : [ 976 ],
+"3" : [ 974 ],
+"4" : [ 969 ],
+"5" : [  ]
+}]
+}

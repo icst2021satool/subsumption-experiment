@@ -1,0 +1,10 @@
+{
+"Class" : "edu.stanford.nlp.time.TimeFormatter$TimeZoneIdComponent", 
+"Methods" : [{ "Name" : "updateTemporal" ,
+"Duas" : 5,
+"0" :  "(603,607, t)",
+"1" :  "(603,605, t)",
+"2" :  "(603,(603,604), fieldValueStr)",
+"3" :  "(603,(603,607), fieldValueStr)",
+"4" :  "(603,604, fieldValueStr)"}]
+}

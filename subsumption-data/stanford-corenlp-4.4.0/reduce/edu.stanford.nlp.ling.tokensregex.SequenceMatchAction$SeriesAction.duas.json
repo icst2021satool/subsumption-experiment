@@ -1,0 +1,10 @@
+{
+"Class" : "edu.stanford.nlp.ling.tokensregex.SequenceMatchAction$SeriesAction", 
+"Methods" : [{ "Name" : "apply" ,
+"Duas" : 5,
+"0" :  "(89,91, groups)",
+"1" :  "(89,93, res)",
+"2" :  "(89,91, res)",
+"3" :  "(91,93, res)",
+"4" :  "(91,91, res)"}]
+}

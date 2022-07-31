@@ -1,0 +1,12 @@
+{
+"Class" : "edu.stanford.nlp.trees.international.negra.NegraLabel$NegraLabelFactory", 
+"Methods" : [{ "Name" : "newLabel" ,
+"Duas" : 7,
+"0" :  "(60,(60,61), oldLabel)",
+"1" :  "(60,(60,67), oldLabel)",
+"2" :  "(60,67, oldLabel)",
+"3" :  "(60,61, oldLabel)",
+"4" :  "(62,69, result)",
+"5" :  "(62,64, result)",
+"6" :  "(67,69, result)"}]
+}

@@ -1,0 +1,13 @@
+{
+"Class" : "edu.stanford.nlp.coref.neural.NeuralCorefModel", 
+"Methods" : [{ "Name" : "score" ,
+"Nodes" : 7,
+"0" : [ 119 ],
+"1" : [ 119 ],
+"2" : [ 125 ],
+"3" : [ 120,121 ],
+"4" : [ 119 ],
+"5" : [ 122 ],
+"6" : [  ]
+}]
+}

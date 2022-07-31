@@ -1,0 +1,8 @@
+{
+"Class" : "edu.stanford.nlp.process.LowercaseAndAmericanizeFunction", 
+"Methods" : [{ "Name" : "apply" ,
+"Duas" : 3,
+"0" :  "(10,(10,11), input)",
+"1" :  "(10,(10,13), input)",
+"2" :  "(10,13, input)"}]
+}

@@ -1,0 +1,17 @@
+{
+"Class" : "edu.stanford.nlp.trees.tregex.Relation$SearchNodeIterator", 
+"Methods" : [{ "Name" : "hasNext" ,
+"Nodes" : 5,
+"0" : [ 245 ],
+"1" : [ 245 ],
+"2" : [ 245 ],
+"3" : [ 245 ],
+"4" : [  ]
+},{ "Name" : "next" ,
+"Nodes" : 4,
+"0" : [ 250 ],
+"1" : [ 253,254,255 ],
+"2" : [ 251 ],
+"3" : [  ]
+}]
+}

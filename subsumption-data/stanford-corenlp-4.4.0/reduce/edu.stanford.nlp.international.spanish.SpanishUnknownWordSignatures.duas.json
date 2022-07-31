@@ -1,0 +1,16 @@
+{
+"Class" : "edu.stanford.nlp.international.spanish.SpanishUnknownWordSignatures", 
+"Methods" : [{ "Name" : "conditionalSuffix" ,
+"Duas" : 2,
+"0" :  "(88,(88,88), s)",
+"1" :  "(88,(88,88), s)"},{ "Name" : "imperfectSuffix" ,
+"Duas" : 2,
+"0" :  "(92,(92,92), s)",
+"1" :  "(92,(92,92), s)"},{ "Name" : "infinitiveSuffix" ,
+"Duas" : 2,
+"0" :  "(96,(96,96), s)",
+"1" :  "(96,(96,96), s)"},{ "Name" : "adverbSuffix" ,
+"Duas" : 2,
+"0" :  "(100,(100,100), s)",
+"1" :  "(100,(100,100), s)"}]
+}

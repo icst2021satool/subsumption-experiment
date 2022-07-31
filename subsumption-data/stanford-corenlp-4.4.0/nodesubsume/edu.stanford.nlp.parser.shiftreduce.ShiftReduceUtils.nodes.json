@@ -1,0 +1,56 @@
+{
+"Class" : "edu.stanford.nlp.parser.shiftreduce.ShiftReduceUtils", 
+"Methods" : [{ "Name" : "getBinarySide" ,
+"Nodes" : 6,
+"0" : [ 16 ],
+"1" : [ 19,20,21 ],
+"2" : [ 24 ],
+"3" : [ 22 ],
+"4" : [ 17 ],
+"5" : [  ]
+},{ "Name" : "isEquivalentCategory" ,
+"Nodes" : 6,
+"0" : [ 34 ],
+"1" : [ 35 ],
+"2" : [ 36 ],
+"3" : [ 35 ],
+"4" : [ 34 ],
+"5" : [  ]
+},{ "Name" : "leftIndex" ,
+"Nodes" : 4,
+"0" : [ 48 ],
+"1" : [ 53 ],
+"2" : [ 49,50 ],
+"3" : [  ]
+},{ "Name" : "rightIndex" ,
+"Nodes" : 4,
+"0" : [ 58 ],
+"1" : [ 63 ],
+"2" : [ 59,60 ],
+"3" : [  ]
+},{ "Name" : "constraintMatchesTreeTop" ,
+"Nodes" : 6,
+"0" : [ 71 ],
+"1" : [ 73 ],
+"2" : [ 76 ],
+"3" : [ 74 ],
+"4" : [ 72 ],
+"5" : [  ]
+},{ "Name" : "findStateOnAgenda" ,
+"Nodes" : 7,
+"0" : [ 85 ],
+"1" : [ 85 ],
+"2" : [ 90 ],
+"3" : [ 85,86 ],
+"4" : [ 89 ],
+"5" : [ 87 ],
+"6" : [  ]
+},{ "Name" : "transitionShortName" ,
+"Nodes" : 5,
+"0" : [ 96,97,98,95 ],
+"1" : [ 101 ],
+"2" : [ 98 ],
+"3" : [ 99 ],
+"4" : [  ]
+}]
+}

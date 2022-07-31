@@ -1,0 +1,19 @@
+{
+"Class" : "edu.stanford.nlp.trees.international.pennchinese.CHTBTokenizer", 
+"Methods" : [{ "Name" : "getNext" ,
+"Nodes" : 6,
+"CoveredDUAsByNodes" : -1,
+"Duas" : 8
+},{ "Name" : "main" ,
+"Nodes" : 7,
+"0" : [ ],
+"5" : [ 0, 4],
+"1" : [ 2, 3],
+"2" : [ 2, 3],
+"3" : [ 2, 3, 7],
+"6" : [ 2, 3, 7],
+"4" : [ 2, 3, 5, 6, 8],
+"CoveredDUAsByNodes" : 8,
+"Duas" : 9
+}]
+}

@@ -1,0 +1,11 @@
+{
+"Class" : "edu.stanford.nlp.trees.tregex.Relation$14$1", 
+"Methods" : [{ "Name" : "advance" ,
+"Nodes" : 5,
+"0" : [ 721,722,723 ],
+"1" : [ 726 ],
+"2" : [ 723 ],
+"3" : [ 724 ],
+"4" : [  ]
+}]
+}

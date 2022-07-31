@@ -1,0 +1,15 @@
+{
+"Class" : "edu.stanford.nlp.trees.tregex.tsurgeon.CoindexationGenerator", 
+"Methods" : [{ "Name" : "setLastIndex" ,
+"Duas" : 10,
+"0" :  "(23,38, this)",
+"1" :  "(23,27, coindexationPattern)",
+"2" :  "(23,38, this.lastIndex)",
+"3" :  "(25,(26,27), value)",
+"4" :  "(25,(26,41), value)",
+"5" :  "(25,27, value)",
+"6" :  "(27,(28,29), m)",
+"7" :  "(27,(28,41), m)",
+"8" :  "(27,31, m)",
+"9" :  "(38,38, this.lastIndex)"}]
+}

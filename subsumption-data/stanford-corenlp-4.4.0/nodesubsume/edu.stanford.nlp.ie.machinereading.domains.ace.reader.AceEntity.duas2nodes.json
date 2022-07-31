@@ -1,0 +1,13 @@
+{
+"Class" : "edu.stanford.nlp.ie.machinereading.domains.ace.reader.AceEntity", 
+"Methods" : [{ "Name" : "toXml" ,
+"Nodes" : 5,
+"Duas" : 7,
+"0" :  [ 0,2 ],
+"1" :  [ 0,3 ],
+"2" :  [ 0,2 ],
+"3" :  [ 0,2 ],
+"4" :  [ 0,2 ],
+"5" :  [ 0,3 ],
+"6" :  [ 0,3 ]}]
+}

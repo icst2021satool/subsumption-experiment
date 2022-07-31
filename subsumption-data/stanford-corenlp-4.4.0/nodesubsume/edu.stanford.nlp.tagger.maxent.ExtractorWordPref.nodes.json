@@ -1,0 +1,17 @@
+{
+"Class" : "edu.stanford.nlp.tagger.maxent.ExtractorWordPref", 
+"Methods" : [{ "Name" : "extract" ,
+"Nodes" : 4,
+"0" : [ 1271,1272 ],
+"1" : [ 1275 ],
+"2" : [ 1273 ],
+"3" : [  ]
+},{ "Name" : "isLocal" ,
+"Nodes" : 5,
+"0" : [ 1286 ],
+"1" : [ 1286 ],
+"2" : [ 1286 ],
+"3" : [ 1286 ],
+"4" : [  ]
+}]
+}

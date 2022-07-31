@@ -1,0 +1,10 @@
+{
+"Class" : "edu.stanford.nlp.tagger.maxent.ExtractorFrames$ExtractorCWordCapCase", 
+"Methods" : [{ "Name" : "extract" ,
+"Duas" : 5,
+"0" :  "(366,(368,369), cw)",
+"1" :  "(366,(368,371), cw)",
+"2" :  "(366,371, cw)",
+"3" :  "(367,(368,369), lk)",
+"4" :  "(367,(368,371), lk)"}]
+}

@@ -1,0 +1,12 @@
+{
+"Class" : "edu.stanford.nlp.pipeline.StanfordCoreNLPServer$2", 
+"Methods" : [{ "Name" : "checkCredentials" ,
+"Nodes" : 6,
+"0" : [ 1513 ],
+"1" : [ 1513 ],
+"2" : [ 1513 ],
+"3" : [ 1513 ],
+"4" : [ 1513 ],
+"5" : [  ]
+}]
+}

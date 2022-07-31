@@ -1,0 +1,15 @@
+{
+"Class" : "edu.stanford.nlp.international.morph.MorphoFeatureSpecification", 
+"Methods" : [{ "Name" : "splitMorphString" ,
+"Duas" : 10,
+"0" :  "(58,59, word)",
+"1" :  "(58,(58,58), morphStr)",
+"2" :  "(58,(58,59), morphStr)",
+"3" :  "(58,(58,59), morphStr)",
+"4" :  "(58,(58,61), morphStr)",
+"5" :  "(58,61, morphStr)",
+"6" :  "(58,63, morphStr)",
+"7" :  "(61,(62,63), toks)",
+"8" :  "(61,(62,65), toks)",
+"9" :  "(61,65, toks)"}]
+}

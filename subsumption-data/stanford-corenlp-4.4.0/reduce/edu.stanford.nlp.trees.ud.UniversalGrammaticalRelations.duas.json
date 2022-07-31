@@ -1,0 +1,16 @@
+{
+"Class" : "edu.stanford.nlp.trees.ud.UniversalGrammaticalRelations", 
+"Methods" : [{ "Name" : "getSpecificReln" ,
+"Duas" : 11,
+"0" :  "(202,(202,203), existingRelations)",
+"1" :  "(202,(202,208), existingRelations)",
+"2" :  "(202,208, existingRelations)",
+"3" :  "(202,205, existingRelations)",
+"4" :  "(202,(202,203), subtype)",
+"5" :  "(202,(202,208), subtype)",
+"6" :  "(202,208, subtype)",
+"7" :  "(202,204, subtype)",
+"8" :  "(202,205, subtype)",
+"9" :  "(202,204, parentRelation)",
+"10" :  "(202,204, Any)"}]
+}

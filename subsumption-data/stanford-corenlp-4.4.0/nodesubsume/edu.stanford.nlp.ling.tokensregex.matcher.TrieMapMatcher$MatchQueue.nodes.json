@@ -1,0 +1,12 @@
+{
+"Class" : "edu.stanford.nlp.ling.tokensregex.matcher.TrieMapMatcher$MatchQueue", 
+"Methods" : [{ "Name" : "add" ,
+"Nodes" : 6,
+"0" : [ 588,589 ],
+"1" : [ 595,596,597 ],
+"2" : [ 590,591 ],
+"3" : [ 591 ],
+"4" : [ 592,593,591 ],
+"5" : [  ]
+}]
+}

@@ -1,0 +1,10 @@
+{
+"Class" : "edu.stanford.nlp.ling.tokensregex.SequenceMatchAction$NextMatchAction", 
+"Methods" : [{ "Name" : "apply" ,
+"Duas" : "6" ,
+"Subsumers" : 3,
+"0" : [ 5, 3], "S0" : [0, 2, 3, 5 ],
+"1" : [ 4], "S1" : [0, 2, 4 ],
+"2" : [ 1], "S2" : [1 ]
+}]
+}

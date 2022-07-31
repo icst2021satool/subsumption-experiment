@@ -1,0 +1,11 @@
+{
+"Class" : "edu.stanford.nlp.ling.tokensregex.NodePattern$NegateNodePattern", 
+"Methods" : [{ "Name" : "match" ,
+"Duas" : 6,
+"0" :  "(93,(93,93), this)",
+"1" :  "(93,(93,93), this)",
+"2" :  "(93,(93,93), node)",
+"3" :  "(93,(93,93), node)",
+"4" :  "(93,(93,93), this.p)",
+"5" :  "(93,(93,93), this.p)"}]
+}

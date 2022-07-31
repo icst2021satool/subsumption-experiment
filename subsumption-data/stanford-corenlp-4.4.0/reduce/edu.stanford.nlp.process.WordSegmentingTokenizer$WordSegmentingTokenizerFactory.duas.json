@@ -1,0 +1,15 @@
+{
+"Class" : "edu.stanford.nlp.process.WordSegmentingTokenizer$WordSegmentingTokenizerFactory", 
+"Methods" : [{ "Name" : "getTokenizer" ,
+"Duas" : 10,
+"0" :  "(83,89, this)",
+"1" :  "(83,86, this)",
+"2" :  "(83,89, r)",
+"3" :  "(83,(84,85), extraOptions)",
+"4" :  "(83,(84,89), extraOptions)",
+"5" :  "(83,85, extraOptions)",
+"6" :  "(83,86, this.tokenizeNLs)",
+"7" :  "(83,89, this.segmenter)",
+"8" :  "(83,89, tokenizeNewlines)",
+"9" :  "(86,89, tokenizeNewlines)"}]
+}

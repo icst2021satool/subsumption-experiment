@@ -1,0 +1,14 @@
+{
+"Class" : "edu.stanford.nlp.ie.machinereading.ResultsPrinter$1CompareSentences", 
+"Methods" : [{ "Name" : "compare" ,
+"Nodes" : 6,
+"0" : [ ],
+"2" : [ 2],
+"3" : [ 2, 7],
+"1" : [ 0, 1],
+"4" : [ 2, 4, 6, 7, 9, 11],
+"5" : [ ],
+"CoveredDUAsByNodes" : 8,
+"Duas" : 12
+}]
+}

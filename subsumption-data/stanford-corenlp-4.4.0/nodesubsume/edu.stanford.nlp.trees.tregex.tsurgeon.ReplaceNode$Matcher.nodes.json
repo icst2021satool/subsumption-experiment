@@ -1,0 +1,15 @@
+{
+"Class" : "edu.stanford.nlp.trees.tregex.tsurgeon.ReplaceNode$Matcher", 
+"Methods" : [{ "Name" : "evaluate" ,
+"Nodes" : 9,
+"0" : [ 38,39 ],
+"1" : [ 48,45,46,47 ],
+"2" : [ 48 ],
+"3" : [ 52 ],
+"4" : [ 48,49,50 ],
+"5" : [ 40 ],
+"6" : [ 43 ],
+"7" : [ 41 ],
+"8" : [  ]
+}]
+}

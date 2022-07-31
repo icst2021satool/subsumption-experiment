@@ -1,0 +1,10 @@
+{
+"Class" : "edu.stanford.nlp.quoteattribution.Sieves.QMSieves.SupervisedSieve", 
+"Methods" : [{ "Name" : "doQuoteToMention" ,
+"Nodes" : 4,
+"0" : [ 30 ],
+"1" : [ 33,34,35 ],
+"2" : [ 31 ],
+"3" : [  ]
+}]
+}

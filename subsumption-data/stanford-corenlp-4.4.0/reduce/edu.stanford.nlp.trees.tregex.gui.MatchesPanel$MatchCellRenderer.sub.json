@@ -1,0 +1,10 @@
+{
+"Class" : "edu.stanford.nlp.trees.tregex.gui.MatchesPanel$MatchCellRenderer", 
+"Methods" : [{ "Name" : "getListCellRendererComponent" ,
+"Duas" : "10" ,
+"Subsumers" : 3,
+"0" : [ 1], "S0" : [0, 1, 3, 5, 7, 8 ],
+"1" : [ 4], "S1" : [0, 4, 5, 7, 8 ],
+"2" : [ 9, 6, 2], "S2" : [2, 3, 6, 8, 9 ]
+}]
+}

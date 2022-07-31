@@ -1,0 +1,15 @@
+{
+"Class" : "edu.stanford.nlp.tagger.maxent.ExtractorMidSentenceCapC", 
+"Methods" : [{ "Name" : "extract" ,
+"Nodes" : 9,
+"0" : [ 1080,1082 ],
+"1" : [ 1083 ],
+"2" : [ 1082 ],
+"3" : [ 1085,1086 ],
+"4" : [ 1093 ],
+"5" : [ 1088,1087 ],
+"6" : [ 1091 ],
+"7" : [ 1089 ],
+"8" : [  ]
+}]
+}

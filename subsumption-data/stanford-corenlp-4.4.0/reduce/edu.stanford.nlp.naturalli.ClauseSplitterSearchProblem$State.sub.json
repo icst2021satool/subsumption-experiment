@@ -1,0 +1,10 @@
+{
+"Class" : "edu.stanford.nlp.naturalli.ClauseSplitterSearchProblem$State", 
+"Methods" : [{ "Name" : "withIsDone" ,
+"Duas" : "12" ,
+"Subsumers" : 3,
+"0" : [ 10, 5, 0], "S0" : [0, 1, 4, 5, 9, 10 ],
+"1" : [ 8, 3, 2], "S1" : [1, 2, 3, 8 ],
+"2" : [ 11, 7, 6], "S2" : [4, 6, 7, 9, 11 ]
+}]
+}

@@ -1,0 +1,12 @@
+{
+"Class" : "edu.stanford.nlp.util.logging.Redwood$FileHandler", 
+"Methods" : [{ "Name" : "print" ,
+"Duas" : 7,
+"0" :  "(945,945, this)",
+"1" :  "(945,946, this)",
+"2" :  "(945,(945,945), line)",
+"3" :  "(945,(945,945), line)",
+"4" :  "(945,945, line)",
+"5" :  "(945,945, this.printWriter)",
+"6" :  "(945,946, this.printWriter)"}]
+}

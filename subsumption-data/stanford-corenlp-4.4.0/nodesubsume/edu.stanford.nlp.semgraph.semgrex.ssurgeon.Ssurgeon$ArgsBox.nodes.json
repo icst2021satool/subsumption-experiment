@@ -1,0 +1,17 @@
+{
+"Class" : "edu.stanford.nlp.semgraph.semgrex.ssurgeon.Ssurgeon$ArgsBox", 
+"Methods" : [{ "Name" : "init" ,
+"Nodes" : 4,
+"0" : [ 742,743 ],
+"1" : [ 745 ],
+"2" : [ 744 ],
+"3" : [  ]
+},{ "Name" : "toString" ,
+"Nodes" : 5,
+"0" : [ 752,749,750,751 ],
+"1" : [ 757 ],
+"2" : [ 753,754 ],
+"3" : [ 755 ],
+"4" : [  ]
+}]
+}

@@ -1,0 +1,9 @@
+{
+"Class" : "edu.stanford.nlp.fsm.ExactAutomatonMinimizer$ExactBlock", 
+"Methods" : [{ "Name" : "<init>" ,
+"Duas" : 4,
+"0" :  "(225,229, this)",
+"1" :  "(225,(226,227), members)",
+"2" :  "(225,(226,229), members)",
+"3" :  "(225,229, members)"}]
+}

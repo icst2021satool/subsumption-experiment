@@ -1,0 +1,21 @@
+{
+"Class" : "edu.stanford.nlp.ie.PresetSequenceClassifier", 
+"Methods" : [{ "Name" : "<init>" ,
+"Nodes" : 4,
+"0" : [ ],
+"2" : [ 0, 3, 4],
+"1" : [ 2, 7, 8],
+"3" : [ 2, 7, 8],
+"CoveredDUAsByNodes" : 6,
+"Duas" : 10
+},{ "Name" : "classify" ,
+"Nodes" : 5,
+"0" : [ ],
+"1" : [ ],
+"2" : [ 0],
+"4" : [ 0],
+"3" : [ ],
+"CoveredDUAsByNodes" : 1,
+"Duas" : 1
+}]
+}

@@ -1,0 +1,15 @@
+{
+"Class" : "edu.stanford.nlp.trees.tregex.tsurgeon.TsurgeonPatternRoot$Matcher", 
+"Methods" : [{ "Name" : "evaluate" ,
+"Nodes" : 9,
+"0" : [ 59 ],
+"1" : [ 62 ],
+"2" : [ 62 ],
+"3" : [ 68 ],
+"4" : [ 64,62,63 ],
+"5" : [ 62 ],
+"6" : [ 65 ],
+"7" : [ 60 ],
+"8" : [  ]
+}]
+}

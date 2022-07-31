@@ -1,0 +1,9 @@
+{
+"Class" : "edu.stanford.nlp.trees.tregex.tsurgeon.CoindexNodes$Matcher", 
+"Methods" : [{ "Name" : "evaluate" ,
+"Duas" : 4,
+"0" :  "(37,42, tree)",
+"1" :  "(37,39, tree)",
+"2" :  "(37,39, tregex)",
+"3" :  "(37,40, newIndex)"}]
+}

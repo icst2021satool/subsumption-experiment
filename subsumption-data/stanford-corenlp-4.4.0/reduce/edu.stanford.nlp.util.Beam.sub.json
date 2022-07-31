@@ -1,0 +1,14 @@
+{
+"Class" : "edu.stanford.nlp.util.Beam", 
+"Methods" : [{ "Name" : "asSortedList" ,
+"Duas" : "5" ,
+"Subsumers" : 1,
+"0" : [ 4, 2, 1], "S0" : [0, 1, 2, 3, 4 ]
+},{ "Name" : "add" ,
+"Duas" : "10" ,
+"Subsumers" : 3,
+"0" : [ 9, 7, 3], "S0" : [0, 1, 2, 3, 5, 7, 9 ],
+"1" : [ 8, 4], "S1" : [0, 1, 2, 4, 5, 8 ],
+"2" : [ 6], "S2" : [1, 6 ]
+}]
+}

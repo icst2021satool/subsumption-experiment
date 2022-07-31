@@ -1,0 +1,23 @@
+{
+"Class" : "edu.stanford.nlp.trees.tregex.tsurgeon.TsurgeonMatcher", 
+"Methods" : [{ "Name" : "<init>" ,
+"Duas" : 18,
+"0" :  "(37,43, this)",
+"1" :  "(37,(42,43), pattern)",
+"2" :  "(37,(42,45), pattern)",
+"3" :  "(37,43, pattern)",
+"4" :  "(37,43, newNodeNames)",
+"5" :  "(37,43, coindexer)",
+"6" :  "(37,(42,43), pattern.children)",
+"7" :  "(37,(42,45), pattern.children)",
+"8" :  "(37,43, pattern.children)",
+"9" :  "(41,43, this.childMatcher)",
+"10" :  "(42,(42,43), i)",
+"11" :  "(42,(42,45), i)",
+"12" :  "(42,43, i)",
+"13" :  "(42,42, i)",
+"14" :  "(42,(42,43), i)",
+"15" :  "(42,(42,45), i)",
+"16" :  "(42,43, i)",
+"17" :  "(42,42, i)"}]
+}

@@ -1,0 +1,20 @@
+{
+"Class" : "edu.stanford.nlp.trees.OrderedCombinationTreeNormalizer", 
+"Methods" : [{ "Name" : "normalizeNonterminal" ,
+"Duas" : 4,
+"0" :  "(40,43, category)",
+"1" :  "(40,41, category)",
+"2" :  "(41,43, category)",
+"3" :  "(41,41, category)"},{ "Name" : "normalizeTerminal" ,
+"Duas" : 4,
+"0" :  "(48,51, leaf)",
+"1" :  "(48,49, leaf)",
+"2" :  "(49,51, leaf)",
+"3" :  "(49,49, leaf)"},{ "Name" : "normalizeWholeTree" ,
+"Duas" : 5,
+"0" :  "(56,59, tree)",
+"1" :  "(56,57, tree)",
+"2" :  "(56,57, tf)",
+"3" :  "(57,59, tree)",
+"4" :  "(57,57, tree)"}]
+}

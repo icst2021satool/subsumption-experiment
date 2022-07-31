@@ -1,0 +1,15 @@
+{
+"Class" : "edu.stanford.nlp.ling.tokensregex.types.ValueFunctions$NamedValueFunction", 
+"Methods" : [{ "Name" : "getParamDesc" ,
+"Duas" : "9" ,
+"Subsumers" : 3,
+"0" : [ 7, 6, 0], "S0" : [0, 4, 6, 7 ],
+"1" : [ 8, 5, 1], "S1" : [1, 4, 5, 8 ],
+"2" : [ 3, 2], "S2" : [2, 3 ]
+},{ "Name" : "toString" ,
+"Duas" : "9" ,
+"Subsumers" : 2,
+"0" : [ 8, 7, 4, 3, 0], "S0" : [0, 2, 3, 4, 7, 8 ],
+"1" : [ 6, 5, 1], "S1" : [1, 2, 5, 6 ]
+}]
+}

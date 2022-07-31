@@ -1,0 +1,12 @@
+{
+"Class" : "edu.stanford.nlp.parser.lexparser.LatticeEdge", 
+"Methods" : [{ "Name" : "toString" ,
+"Nodes" : 4,
+"0" : [ ],
+"2" : [ 0, 2, 3, 5, 7],
+"1" : [ 6],
+"3" : [ 6],
+"CoveredDUAsByNodes" : 6,
+"Duas" : 8
+}]
+}

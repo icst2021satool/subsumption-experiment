@@ -1,0 +1,14 @@
+{
+"Class" : "edu.stanford.nlp.ie.machinereading.domains.roth.RothEntityExtractor", 
+"Methods" : [{ "Name" : "getEntityTypeForTag" ,
+"Duas" : 9,
+"0" :  "(30,(31,32), this)",
+"1" :  "(30,(31,34), this)",
+"2" :  "(30,32, this)",
+"3" :  "(30,(31,32), this.entityTagForNer)",
+"4" :  "(30,(31,34), this.entityTagForNer)",
+"5" :  "(30,32, this.entityTagForNer)",
+"6" :  "(30,(31,32), ner)",
+"7" :  "(30,(31,34), ner)",
+"8" :  "(30,32, ner)"}]
+}

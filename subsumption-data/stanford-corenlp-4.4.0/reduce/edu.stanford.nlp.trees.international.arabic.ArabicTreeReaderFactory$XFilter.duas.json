@@ -1,0 +1,9 @@
+{
+"Class" : "edu.stanford.nlp.trees.international.arabic.ArabicTreeReaderFactory$XFilter", 
+"Methods" : [{ "Name" : "test" ,
+"Duas" : 4,
+"0" :  "(74,(74,74), t)",
+"1" :  "(74,(74,74), t)",
+"2" :  "(74,(74,74), t)",
+"3" :  "(74,(74,74), t)"}]
+}

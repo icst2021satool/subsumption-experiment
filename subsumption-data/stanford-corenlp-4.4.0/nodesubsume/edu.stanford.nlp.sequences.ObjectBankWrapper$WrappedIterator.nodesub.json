@@ -1,0 +1,19 @@
+{
+"Class" : "edu.stanford.nlp.sequences.ObjectBankWrapper$WrappedIterator", 
+"Methods" : [{ "Name" : "primeNextHelper" ,
+"Nodes" : 6,
+"CoveredDUAsByNodes" : -1,
+"Duas" : 17
+},{ "Name" : "hasNext" ,
+"Nodes" : 7,
+"0" : [ ],
+"3" : [ 0, 6],
+"5" : [ 0, 2, 6, 8],
+"4" : [ 0, 6],
+"1" : [ ],
+"2" : [ ],
+"6" : [ ],
+"CoveredDUAsByNodes" : 4,
+"Duas" : 12
+}]
+}

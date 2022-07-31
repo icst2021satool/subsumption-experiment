@@ -1,0 +1,19 @@
+{
+"Class" : "edu.stanford.nlp.coref.statistical.EvalUtils$MUCEvaluator", 
+"Methods" : [{ "Name" : "getScore" ,
+"Nodes" : 11,
+"0" : [ ],
+"1" : [ ],
+"2" : [ ],
+"10" : [ ],
+"3" : [ 2, 4],
+"4" : [ 2, 4],
+"5" : [ 2, 4, 9],
+"6" : [ 0, 2, 4],
+"7" : [ 0, 2, 4, 10, 12, 13],
+"9" : [ 0, 2, 4, 8, 11],
+"8" : [ 0, 2, 4],
+"CoveredDUAsByNodes" : 9,
+"Duas" : 18
+}]
+}

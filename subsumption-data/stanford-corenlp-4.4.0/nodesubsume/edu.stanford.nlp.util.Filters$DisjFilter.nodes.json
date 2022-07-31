@@ -1,0 +1,13 @@
+{
+"Class" : "edu.stanford.nlp.util.Filters$DisjFilter", 
+"Methods" : [{ "Name" : "test" ,
+"Nodes" : 7,
+"0" : [ 208 ],
+"1" : [ 208 ],
+"2" : [ 211 ],
+"3" : [ 208,209 ],
+"4" : [ 210 ],
+"5" : [ 209 ],
+"6" : [  ]
+}]
+}

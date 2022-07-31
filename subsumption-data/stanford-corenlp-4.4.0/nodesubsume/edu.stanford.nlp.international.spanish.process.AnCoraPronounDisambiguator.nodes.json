@@ -1,0 +1,19 @@
+{
+"Class" : "edu.stanford.nlp.international.spanish.process.AnCoraPronounDisambiguator", 
+"Methods" : [{ "Name" : "disambiguatePersonalPronoun" ,
+"Nodes" : 13,
+"0" : [ 359,360,361 ],
+"1" : [ 364 ],
+"2" : [ 368,367 ],
+"3" : [ 370 ],
+"4" : [ 373,374 ],
+"5" : [ 378,381 ],
+"6" : [ 375 ],
+"7" : [ 371 ],
+"8" : [ 369 ],
+"9" : [ 364 ],
+"10" : [ 365 ],
+"11" : [ 362 ],
+"12" : [  ]
+}]
+}

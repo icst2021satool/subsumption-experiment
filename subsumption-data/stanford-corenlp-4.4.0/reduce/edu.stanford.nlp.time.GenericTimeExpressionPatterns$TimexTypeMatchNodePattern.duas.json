@@ -1,0 +1,13 @@
+{
+"Class" : "edu.stanford.nlp.time.GenericTimeExpressionPatterns$TimexTypeMatchNodePattern", 
+"Methods" : [{ "Name" : "match" ,
+"Duas" : 8,
+"0" :  "(44,47, this)",
+"1" :  "(44,(44,45), te)",
+"2" :  "(44,(44,50), te)",
+"3" :  "(44,45, te)",
+"4" :  "(44,47, this.type)",
+"5" :  "(45,(46,47), t)",
+"6" :  "(45,(46,50), t)",
+"7" :  "(45,47, t)"}]
+}

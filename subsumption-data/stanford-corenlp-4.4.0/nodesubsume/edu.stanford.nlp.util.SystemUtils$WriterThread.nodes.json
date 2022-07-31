@@ -1,0 +1,11 @@
+{
+"Class" : "edu.stanford.nlp.util.SystemUtils$WriterThread", 
+"Methods" : [{ "Name" : "run" ,
+"Nodes" : 5,
+"0" : [ 108 ],
+"1" : [ 112,111 ],
+"2" : [ 115,116,119,120 ],
+"3" : [ 113,122 ],
+"4" : [  ]
+}]
+}

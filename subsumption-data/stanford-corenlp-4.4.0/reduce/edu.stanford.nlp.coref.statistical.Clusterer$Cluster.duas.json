@@ -1,0 +1,12 @@
+{
+"Class" : "edu.stanford.nlp.coref.statistical.Clusterer$Cluster", 
+"Methods" : [{ "Name" : "getMentionHash" ,
+"Duas" : 7,
+"0" :  "(504,508, MENTION_HASHES)",
+"1" :  "(504,507, RANDOM)",
+"2" :  "(504,508, pair)",
+"3" :  "(505,(506,507), hash)",
+"4" :  "(505,(506,510), hash)",
+"5" :  "(505,510, hash)",
+"6" :  "(507,510, hash)"}]
+}

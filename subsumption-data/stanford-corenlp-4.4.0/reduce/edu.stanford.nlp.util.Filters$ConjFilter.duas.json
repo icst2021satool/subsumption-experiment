@@ -1,0 +1,9 @@
+{
+"Class" : "edu.stanford.nlp.util.Filters$ConjFilter", 
+"Methods" : [{ "Name" : "test" ,
+"Duas" : 4,
+"0" :  "(239,(240,240), obj)",
+"1" :  "(239,(240,241), obj)",
+"2" :  "(239,(240,240), f)",
+"3" :  "(239,(240,241), f)"}]
+}

@@ -1,0 +1,21 @@
+{
+"Class" : "edu.stanford.nlp.parser.lexparser.FrenchUnknownWordModelTrainer", 
+"Methods" : [{ "Name" : "train" ,
+"Nodes" : 5,
+"0" : [ 48,41,42,43,44,45,46 ],
+"1" : [ 63 ],
+"2" : [ 51 ],
+"3" : [ 53,54,55,56,57,58,59,60 ],
+"4" : [  ]
+},{ "Name" : "finishTraining" ,
+"Nodes" : 8,
+"0" : [ 68 ],
+"1" : [ 82 ],
+"2" : [ 69,70,71,72 ],
+"3" : [ 72 ],
+"4" : [ 73 ],
+"5" : [ 72 ],
+"6" : [ 74,75,76,77 ],
+"7" : [  ]
+}]
+}

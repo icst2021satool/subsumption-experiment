@@ -1,0 +1,22 @@
+{
+"Class" : "edu.stanford.nlp.ling.tokensregex.types.Expressions$RegexMatchResultVarExpression", 
+"Methods" : [{ "Name" : "valueOf" ,
+"Nodes" : 4,
+"0" : [ 653 ],
+"1" : [ 657 ],
+"2" : [ 654,655 ],
+"3" : [  ]
+},{ "Name" : "evaluate" ,
+"Nodes" : 10,
+"0" : [ 661 ],
+"1" : [ 674 ],
+"2" : [ 661 ],
+"3" : [ 662 ],
+"4" : [ 663,664,665 ],
+"5" : [ 667 ],
+"6" : [ 670 ],
+"7" : [ 668 ],
+"8" : [ 666 ],
+"9" : [  ]
+}]
+}

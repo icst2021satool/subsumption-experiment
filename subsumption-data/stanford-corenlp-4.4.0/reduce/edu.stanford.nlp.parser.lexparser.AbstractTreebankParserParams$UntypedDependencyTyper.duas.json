@@ -1,0 +1,20 @@
+{
+"Class" : "edu.stanford.nlp.parser.lexparser.AbstractTreebankParserParams$UntypedDependencyTyper", 
+"Methods" : [{ "Name" : "makeDependency" ,
+"Duas" : 15,
+"0" :  "(444,(447,447), root)",
+"1" :  "(444,(447,447), root)",
+"2" :  "(444,448, result)",
+"3" :  "(444,449, result)",
+"4" :  "(444,453, result)",
+"5" :  "(444,454, result)",
+"6" :  "(444,451, result)",
+"7" :  "(445,(447,447), headTerm)",
+"8" :  "(445,(447,447), headTerm)",
+"9" :  "(445,448, headTerm)",
+"10" :  "(446,(447,447), depTerm)",
+"11" :  "(446,(447,447), depTerm)",
+"12" :  "(446,449, depTerm)",
+"13" :  "(447,(450,451), headLeft)",
+"14" :  "(447,(450,453), headLeft)"}]
+}

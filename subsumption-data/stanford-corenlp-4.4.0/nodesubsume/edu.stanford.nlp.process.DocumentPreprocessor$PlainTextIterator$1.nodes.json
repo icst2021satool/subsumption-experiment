@@ -1,0 +1,10 @@
+{
+"Class" : "edu.stanford.nlp.process.DocumentPreprocessor$PlainTextIterator$1", 
+"Methods" : [{ "Name" : "apply" ,
+"Nodes" : 4,
+"0" : [ 286,287 ],
+"1" : [ 290 ],
+"2" : [ 288 ],
+"3" : [  ]
+}]
+}

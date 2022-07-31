@@ -1,0 +1,10 @@
+{
+"Class" : "edu.stanford.nlp.parser.lexparser.HungarianTreebankParserParams$HungarianSubcategoryStripper", 
+"Methods" : [{ "Name" : "normalizeNonterminal" ,
+"Nodes" : 4,
+"0" : [ 80,81,82 ],
+"1" : [ 87,88,90 ],
+"2" : [ 83 ],
+"3" : [  ]
+}]
+}

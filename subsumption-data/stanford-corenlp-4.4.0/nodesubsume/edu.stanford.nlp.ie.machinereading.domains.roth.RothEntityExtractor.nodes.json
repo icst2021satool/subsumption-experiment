@@ -1,0 +1,10 @@
+{
+"Class" : "edu.stanford.nlp.ie.machinereading.domains.roth.RothEntityExtractor", 
+"Methods" : [{ "Name" : "getEntityTypeForTag" ,
+"Nodes" : 4,
+"0" : [ 30,31 ],
+"1" : [ 34 ],
+"2" : [ 32 ],
+"3" : [  ]
+}]
+}

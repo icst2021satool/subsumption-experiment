@@ -1,0 +1,15 @@
+{
+"Class" : "edu.stanford.nlp.quoteattribution.ChapterAnnotator", 
+"Methods" : [{ "Name" : "annotate" ,
+"Nodes" : 7,
+"0" : [ ],
+"1" : [ ],
+"2" : [ ],
+"6" : [ ],
+"3" : [ ],
+"5" : [ 0, 2, 7, 10],
+"4" : [ 4, 8, 9, 12],
+"CoveredDUAsByNodes" : 8,
+"Duas" : 18
+}]
+}

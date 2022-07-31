@@ -1,0 +1,14 @@
+{
+"Class" : "edu.stanford.nlp.process.TransformXML$NoEscapingSAXInterface", 
+"Methods" : [{ "Name" : "processText" ,
+"Duas" : 9,
+"0" :  "(188,189, this)",
+"1" :  "(188,190, this)",
+"2" :  "(188,191, this)",
+"3" :  "(188,(188,189), text)",
+"4" :  "(188,(188,193), text)",
+"5" :  "(188,189, text)",
+"6" :  "(188,189, this.function)",
+"7" :  "(188,190, this.outWriter)",
+"8" :  "(188,191, this.outWriter)"}]
+}

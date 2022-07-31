@@ -1,0 +1,19 @@
+{
+"Class" : "edu.stanford.nlp.patterns.dep.DepPattern", 
+"Methods" : [{ "Name" : "getRelevantWords" ,
+"Duas" : 2,
+"0" :  "(43,46, relwordsThisPat)",
+"1" :  "(43,45, relwordsThisPat)"},{ "Name" : "toString" ,
+"Duas" : 6,
+"0" :  "(67,(67,68), this)",
+"1" :  "(67,(67,70), this)",
+"2" :  "(67,70, this)",
+"3" :  "(67,(67,68), this.relations)",
+"4" :  "(67,(67,70), this.relations)",
+"5" :  "(67,70, this.relations)"},{ "Name" : "equals" ,
+"Duas" : 4,
+"0" :  "(83,85, this)",
+"1" :  "(83,(83,84), p)",
+"2" :  "(83,(83,85), p)",
+"3" :  "(83,85, p)"}]
+}

@@ -1,0 +1,12 @@
+{
+"Class" : "edu.stanford.nlp.trees.SimpleTree", 
+"Methods" : [{ "Name" : "setChildren" ,
+"Duas" : 7,
+"0" :  "(76,80, this)",
+"1" :  "(76,78, this)",
+"2" :  "(76,(76,77), children)",
+"3" :  "(76,(76,80), children)",
+"4" :  "(76,80, children)",
+"5" :  "(76,77, log)",
+"6" :  "(76,78, EMPTY_TREE_ARRAY)"}]
+}

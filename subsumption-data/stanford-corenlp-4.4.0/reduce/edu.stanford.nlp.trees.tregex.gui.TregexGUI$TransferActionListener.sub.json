@@ -1,0 +1,15 @@
+{
+"Class" : "edu.stanford.nlp.trees.tregex.gui.TregexGUI$TransferActionListener", 
+"Methods" : [{ "Name" : "propertyChange" ,
+"Duas" : "5" ,
+"Subsumers" : 2,
+"0" : [ 3, 0], "S0" : [0, 3 ],
+"1" : [ 4, 2, 1], "S1" : [1, 2, 4 ]
+},{ "Name" : "actionPerformed" ,
+"Duas" : "12" ,
+"Subsumers" : 3,
+"0" : [ 5, 0], "S0" : [0, 5 ],
+"1" : [ 11, 9, 8, 3], "S1" : [1, 2, 3, 4, 6, 7, 8, 9, 11 ],
+"2" : [ 10], "S2" : [1, 2, 4, 6, 7, 10 ]
+}]
+}

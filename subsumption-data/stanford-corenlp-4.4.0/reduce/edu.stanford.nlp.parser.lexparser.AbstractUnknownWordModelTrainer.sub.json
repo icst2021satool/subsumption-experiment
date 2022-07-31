@@ -1,0 +1,12 @@
+{
+"Class" : "edu.stanford.nlp.parser.lexparser.AbstractUnknownWordModelTrainer", 
+"Methods" : [{ "Name" : "train" ,
+"Duas" : "2" ,
+"Subsumers" : 1,
+"0" : [ 1, 0], "S0" : [0, 1 ]
+},{ "Name" : "train" ,
+"Duas" : "6" ,
+"Subsumers" : 1,
+"0" : [ 4, 5], "S0" : [0, 1, 2, 3, 4, 5 ]
+}]
+}

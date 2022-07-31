@@ -1,0 +1,9 @@
+{
+"Class" : "edu.stanford.nlp.trees.SimpleTree", 
+"Methods" : [{ "Name" : "setChildren" ,
+"Duas" : "7" ,
+"Subsumers" : 2,
+"0" : [ 4, 3, 0], "S0" : [0, 3, 4 ],
+"1" : [ 6, 5, 2, 1], "S1" : [1, 2, 5, 6 ]
+}]
+}
