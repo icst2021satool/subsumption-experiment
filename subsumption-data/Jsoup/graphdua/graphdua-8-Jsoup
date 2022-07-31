@@ -1,0 +1,694 @@
+@@ Method, Nodes, Nduas, Time_s, Time_ms
+
+
+#org/jsoup/DataUtil/load:
+Method org.jsoup.DataUtil.load graphduas were calculated in 0 minutes and 0 seconds
+@@ org.jsoup.DataUtil.load,11,18,0,12
+
+
+#org/jsoup/DataUtil/readInputStream:
+Method org.jsoup.DataUtil.readInputStream graphduas were calculated in 0 minutes and 0 seconds
+@@ org.jsoup.DataUtil.readInputStream,6,10,0,3
+
+
+#org/jsoup/nodes/Attributes/get:
+Method org.jsoup.nodes.Attributes.get graphduas were calculated in 0 minutes and 0 seconds
+@@ org.jsoup.nodes.Attributes.get,5,3,0,0
+
+
+#org/jsoup/nodes/Attributes/asList:
+Method org.jsoup.nodes.Attributes.asList graphduas were calculated in 0 minutes and 0 seconds
+@@ org.jsoup.nodes.Attributes.asList,5,5,0,1
+
+
+#org/jsoup/nodes/Attributes/html:
+Method org.jsoup.nodes.Attributes.html graphduas were calculated in 0 minutes and 0 seconds
+@@ org.jsoup.nodes.Attributes.html,5,5,0,1
+
+
+#org/jsoup/nodes/Attributes/equals:
+Method org.jsoup.nodes.Attributes.equals graphduas were calculated in 0 minutes and 0 seconds
+@@ org.jsoup.nodes.Attributes.equals,11,23,0,6
+
+
+#org/jsoup/nodes/Attributes/hashCode:
+Method org.jsoup.nodes.Attributes.hashCode graphduas were calculated in 0 minutes and 0 seconds
+@@ org.jsoup.nodes.Attributes.hashCode,5,6,0,1
+
+
+#org/jsoup/nodes/Evaluator$IndexGreaterThan/matches:
+Method org.jsoup.nodes.Evaluator$IndexGreaterThan.matches graphduas were calculated in 0 minutes and 0 seconds
+@@ org.jsoup.nodes.Evaluator$IndexGreaterThan.matches,5,6,0,0
+
+
+#org/jsoup/nodes/TextNode/outerHtml:
+Method org.jsoup.nodes.TextNode.outerHtml graphduas were calculated in 0 minutes and 0 seconds
+@@ org.jsoup.nodes.TextNode.outerHtml,10,22,0,5
+
+
+#org/jsoup/nodes/TextNode/lastCharIsWhitespace:
+Method org.jsoup.nodes.TextNode.lastCharIsWhitespace graphduas were calculated in 0 minutes and 0 seconds
+@@ org.jsoup.nodes.TextNode.lastCharIsWhitespace,7,6,0,1
+
+
+#org/jsoup/nodes/Element/id:
+Method org.jsoup.nodes.Element.id graphduas were calculated in 0 minutes and 0 seconds
+@@ org.jsoup.nodes.Element.id,5,3,0,1
+
+
+#org/jsoup/nodes/Element/children:
+Method org.jsoup.nodes.Element.children graphduas were calculated in 0 minutes and 0 seconds
+@@ org.jsoup.nodes.Element.children,7,8,0,3
+
+
+#org/jsoup/nodes/Element/append:
+Method org.jsoup.nodes.Element.append graphduas were calculated in 0 minutes and 0 seconds
+@@ org.jsoup.nodes.Element.append,5,5,0,1
+
+
+#org/jsoup/nodes/Element/prepend:
+Method org.jsoup.nodes.Element.prepend graphduas were calculated in 0 minutes and 0 seconds
+@@ org.jsoup.nodes.Element.prepend,5,9,0,1
+
+
+#org/jsoup/nodes/Element/wrap:
+Method org.jsoup.nodes.Element.wrap graphduas were calculated in 0 minutes and 0 seconds
+@@ org.jsoup.nodes.Element.wrap,8,18,0,3
+
+
+#org/jsoup/nodes/Element/getDeepChild:
+Method org.jsoup.nodes.Element.getDeepChild graphduas were calculated in 0 minutes and 0 seconds
+@@ org.jsoup.nodes.Element.getDeepChild,4,5,0,1
+
+
+#org/jsoup/nodes/Element/nextElementSibling:
+Method org.jsoup.nodes.Element.nextElementSibling graphduas were calculated in 0 minutes and 0 seconds
+@@ org.jsoup.nodes.Element.nextElementSibling,4,6,0,1
+
+
+#org/jsoup/nodes/Element/previousElementSibling:
+Method org.jsoup.nodes.Element.previousElementSibling graphduas were calculated in 0 minutes and 0 seconds
+@@ org.jsoup.nodes.Element.previousElementSibling,4,4,0,1
+
+
+#org/jsoup/nodes/Element/firstElementSibling:
+Method org.jsoup.nodes.Element.firstElementSibling graphduas were calculated in 0 minutes and 0 seconds
+@@ org.jsoup.nodes.Element.firstElementSibling,5,3,0,0
+
+
+#org/jsoup/nodes/Element/elementSiblingIndex:
+Method org.jsoup.nodes.Element.elementSiblingIndex graphduas were calculated in 0 minutes and 0 seconds
+@@ org.jsoup.nodes.Element.elementSiblingIndex,4,3,0,0
+
+
+#org/jsoup/nodes/Element/lastElementSibling:
+Method org.jsoup.nodes.Element.lastElementSibling graphduas were calculated in 0 minutes and 0 seconds
+@@ org.jsoup.nodes.Element.lastElementSibling,5,3,0,1
+
+
+#org/jsoup/nodes/Element/getElementById:
+Method org.jsoup.nodes.Element.getElementById graphduas were calculated in 0 minutes and 0 seconds
+@@ org.jsoup.nodes.Element.getElementById,4,3,0,1
+
+
+#org/jsoup/nodes/Element/text:
+Method org.jsoup.nodes.Element.text graphduas were calculated in 0 minutes and 0 seconds
+@@ org.jsoup.nodes.Element.text,16,28,0,9
+
+
+#org/jsoup/nodes/Element/preserveWhitespace:
+Method org.jsoup.nodes.Element.preserveWhitespace graphduas were calculated in 0 minutes and 0 seconds
+@@ org.jsoup.nodes.Element.preserveWhitespace,7,8,0,1
+
+
+#org/jsoup/nodes/Element/hasText:
+Method org.jsoup.nodes.Element.hasText graphduas were calculated in 0 minutes and 0 seconds
+@@ org.jsoup.nodes.Element.hasText,12,13,0,3
+
+
+#org/jsoup/nodes/Element/data:
+Method org.jsoup.nodes.Element.data graphduas were calculated in 0 minutes and 0 seconds
+@@ org.jsoup.nodes.Element.data,9,12,0,3
+
+
+#org/jsoup/nodes/Element/className:
+Method org.jsoup.nodes.Element.className graphduas were calculated in 0 minutes and 0 seconds
+@@ org.jsoup.nodes.Element.className,5,6,0,1
+
+
+#org/jsoup/nodes/Element/classNames:
+Method org.jsoup.nodes.Element.classNames graphduas were calculated in 0 minutes and 0 seconds
+@@ org.jsoup.nodes.Element.classNames,4,8,0,1
+
+
+#org/jsoup/nodes/Element/toggleClass:
+Method org.jsoup.nodes.Element.toggleClass graphduas were calculated in 0 minutes and 0 seconds
+@@ org.jsoup.nodes.Element.toggleClass,5,10,0,0
+
+
+#org/jsoup/nodes/Element/val:
+Method org.jsoup.nodes.Element.val graphduas were calculated in 0 minutes and 0 seconds
+@@ org.jsoup.nodes.Element.val,4,4,0,0
+
+
+#org/jsoup/nodes/Element/val:
+Method org.jsoup.nodes.Element.val graphduas were calculated in 0 minutes and 0 seconds
+@@ org.jsoup.nodes.Element.val,5,7,0,1
+
+
+#org/jsoup/nodes/Element/outerHtml:
+Method org.jsoup.nodes.Element.outerHtml graphduas were calculated in 0 minutes and 0 seconds
+@@ org.jsoup.nodes.Element.outerHtml,13,32,0,4
+
+
+#org/jsoup/nodes/Element/html:
+Method org.jsoup.nodes.Element.html graphduas were calculated in 0 minutes and 0 seconds
+@@ org.jsoup.nodes.Element.html,5,4,0,0
+
+
+#org/jsoup/nodes/Element/equals:
+Method org.jsoup.nodes.Element.equals graphduas were calculated in 0 minutes and 0 seconds
+@@ org.jsoup.nodes.Element.equals,13,27,0,3
+
+
+#org/jsoup/nodes/Element/hashCode:
+Method org.jsoup.nodes.Element.hashCode graphduas were calculated in 0 minutes and 0 seconds
+@@ org.jsoup.nodes.Element.hashCode,5,5,0,1
+
+
+#org/jsoup/nodes/Evaluator$IndexLessThan/matches:
+Method org.jsoup.nodes.Evaluator$IndexLessThan.matches graphduas were calculated in 0 minutes and 0 seconds
+@@ org.jsoup.nodes.Evaluator$IndexLessThan.matches,5,6,0,1
+
+
+#org/jsoup/nodes/XmlDeclaration/outerHtml:
+Method org.jsoup.nodes.XmlDeclaration.outerHtml graphduas were calculated in 0 minutes and 0 seconds
+@@ org.jsoup.nodes.XmlDeclaration.outerHtml,5,6,0,0
+
+
+#org/jsoup/nodes/Evaluator$AttributeWithValueNot/matches:
+Method org.jsoup.nodes.Evaluator$AttributeWithValueNot.matches graphduas were calculated in 0 minutes and 0 seconds
+@@ org.jsoup.nodes.Evaluator$AttributeWithValueNot.matches,5,8,0,1
+
+
+#org/jsoup/nodes/Evaluator$IndexEquals/matches:
+Method org.jsoup.nodes.Evaluator$IndexEquals.matches graphduas were calculated in 0 minutes and 0 seconds
+@@ org.jsoup.nodes.Evaluator$IndexEquals.matches,5,6,0,4
+
+
+#org/jsoup/nodes/Document/title:
+Method org.jsoup.nodes.Document.title graphduas were calculated in 0 minutes and 0 seconds
+@@ org.jsoup.nodes.Document.title,5,3,0,1
+
+
+#org/jsoup/nodes/Document/title:
+Method org.jsoup.nodes.Document.title graphduas were calculated in 0 minutes and 0 seconds
+@@ org.jsoup.nodes.Document.title,5,6,0,0
+
+
+#org/jsoup/nodes/Document/normalise:
+Method org.jsoup.nodes.Document.normalise graphduas were calculated in 0 minutes and 0 seconds
+@@ org.jsoup.nodes.Document.normalise,8,10,0,1
+
+
+#org/jsoup/nodes/Document/normalise:
+Method org.jsoup.nodes.Document.normalise graphduas were calculated in 0 minutes and 0 seconds
+@@ org.jsoup.nodes.Document.normalise,11,16,0,3
+
+
+#org/jsoup/nodes/Attribute/equals:
+Method org.jsoup.nodes.Attribute.equals graphduas were calculated in 0 minutes and 0 seconds
+@@ org.jsoup.nodes.Attribute.equals,16,39,0,5
+
+
+#org/jsoup/nodes/Attribute/hashCode:
+Method org.jsoup.nodes.Attribute.hashCode graphduas were calculated in 0 minutes and 0 seconds
+@@ org.jsoup.nodes.Attribute.hashCode,8,11,0,0
+
+
+#org/jsoup/nodes/Node/attr:
+Method org.jsoup.nodes.Node.attr graphduas were calculated in 0 minutes and 0 seconds
+@@ org.jsoup.nodes.Node.attr,6,11,0,0
+
+
+#org/jsoup/nodes/Node/absUrl:
+Method org.jsoup.nodes.Node.absUrl graphduas were calculated in 0 minutes and 0 seconds
+@@ org.jsoup.nodes.Node.absUrl,4,7,0,0
+
+
+#org/jsoup/nodes/Node/setParentNode:
+Method org.jsoup.nodes.Node.setParentNode graphduas were calculated in 0 minutes and 0 seconds
+@@ org.jsoup.nodes.Node.setParentNode,4,6,0,0
+
+
+#org/jsoup/nodes/Node/replaceChild:
+Method org.jsoup.nodes.Node.replaceChild graphduas were calculated in 0 minutes and 0 seconds
+@@ org.jsoup.nodes.Node.replaceChild,7,17,0,1
+
+
+#org/jsoup/nodes/Node/removeChild:
+Method org.jsoup.nodes.Node.removeChild graphduas were calculated in 0 minutes and 0 seconds
+@@ org.jsoup.nodes.Node.removeChild,5,9,0,0
+
+
+#org/jsoup/nodes/Node/addChild:
+Method org.jsoup.nodes.Node.addChild graphduas were calculated in 0 minutes and 0 seconds
+@@ org.jsoup.nodes.Node.addChild,4,9,0,0
+
+
+#org/jsoup/nodes/Node/nodeDepth:
+Method org.jsoup.nodes.Node.nodeDepth graphduas were calculated in 0 minutes and 0 seconds
+@@ org.jsoup.nodes.Node.nodeDepth,4,6,0,0
+
+
+#org/jsoup/nodes/Node/nextSibling:
+Method org.jsoup.nodes.Node.nextSibling graphduas were calculated in 0 minutes and 0 seconds
+@@ org.jsoup.nodes.Node.nextSibling,4,6,0,1
+
+
+#org/jsoup/nodes/Node/previousSibling:
+Method org.jsoup.nodes.Node.previousSibling graphduas were calculated in 0 minutes and 0 seconds
+@@ org.jsoup.nodes.Node.previousSibling,4,4,0,0
+
+
+#org/jsoup/nodes/Node/indexInList:
+Method org.jsoup.nodes.Node.indexInList graphduas were calculated in 0 minutes and 0 seconds
+@@ org.jsoup.nodes.Node.indexInList,7,17,0,2
+
+
+#org/jsoup/nodes/Node/equals:
+Method org.jsoup.nodes.Node.equals graphduas were calculated in 0 minutes and 0 seconds
+@@ org.jsoup.nodes.Node.equals,4,4,0,1
+
+
+#org/jsoup/nodes/Node/hashCode:
+Method org.jsoup.nodes.Node.hashCode graphduas were calculated in 0 minutes and 0 seconds
+@@ org.jsoup.nodes.Node.hashCode,8,11,0,1
+
+
+#org/jsoup/parser/TokenQueue/<init>:
+Method org.jsoup.parser.TokenQueue.<init> graphduas were calculated in 0 minutes and 0 seconds
+@@ org.jsoup.parser.TokenQueue.<init>,5,11,0,1
+
+
+#org/jsoup/parser/TokenQueue/addFirst:
+Method org.jsoup.parser.TokenQueue.addFirst graphduas were calculated in 0 minutes and 0 seconds
+@@ org.jsoup.parser.TokenQueue.addFirst,5,8,0,1
+
+
+#org/jsoup/parser/TokenQueue/matches:
+Method org.jsoup.parser.TokenQueue.matches graphduas were calculated in 0 minutes and 0 seconds
+@@ org.jsoup.parser.TokenQueue.matches,9,26,0,3
+
+
+#org/jsoup/parser/TokenQueue/matchesAny:
+Method org.jsoup.parser.TokenQueue.matchesAny graphduas were calculated in 0 minutes and 0 seconds
+@@ org.jsoup.parser.TokenQueue.matchesAny,7,15,0,2
+
+
+#org/jsoup/parser/TokenQueue/matchChomp:
+Method org.jsoup.parser.TokenQueue.matchChomp graphduas were calculated in 0 minutes and 0 seconds
+@@ org.jsoup.parser.TokenQueue.matchChomp,4,6,0,0
+
+
+#org/jsoup/parser/TokenQueue/matchesWhitespace:
+Method org.jsoup.parser.TokenQueue.matchesWhitespace graphduas were calculated in 0 minutes and 0 seconds
+@@ org.jsoup.parser.TokenQueue.matchesWhitespace,6,8,0,0
+
+
+#org/jsoup/parser/TokenQueue/matchesWord:
+Method org.jsoup.parser.TokenQueue.matchesWord graphduas were calculated in 0 minutes and 0 seconds
+@@ org.jsoup.parser.TokenQueue.matchesWord,6,8,0,0
+
+
+#org/jsoup/parser/TokenQueue/consume:
+Method org.jsoup.parser.TokenQueue.consume graphduas were calculated in 0 minutes and 0 seconds
+@@ org.jsoup.parser.TokenQueue.consume,9,20,0,1
+
+
+#org/jsoup/parser/TokenQueue/consumeToAny:
+Method org.jsoup.parser.TokenQueue.consumeToAny graphduas were calculated in 0 minutes and 0 seconds
+@@ org.jsoup.parser.TokenQueue.consumeToAny,6,11,0,1
+
+
+#org/jsoup/parser/TokenQueue/consumeWhitespace:
+Method org.jsoup.parser.TokenQueue.consumeWhitespace graphduas were calculated in 0 minutes and 0 seconds
+@@ org.jsoup.parser.TokenQueue.consumeWhitespace,6,11,0,0
+
+
+#org/jsoup/parser/TokenQueue/consumeWord:
+Method org.jsoup.parser.TokenQueue.consumeWord graphduas were calculated in 0 minutes and 0 seconds
+@@ org.jsoup.parser.TokenQueue.consumeWord,6,12,0,1
+
+
+#org/jsoup/parser/TokenQueue/consumeCssIdentifier:
+Method org.jsoup.parser.TokenQueue.consumeCssIdentifier graphduas were calculated in 0 minutes and 0 seconds
+@@ org.jsoup.parser.TokenQueue.consumeCssIdentifier,8,20,0,2
+
+
+#org/jsoup/parser/TokenQueue/consumeAttributeKey:
+Method org.jsoup.parser.TokenQueue.consumeAttributeKey graphduas were calculated in 0 minutes and 0 seconds
+@@ org.jsoup.parser.TokenQueue.consumeAttributeKey,7,14,0,1
+
+
+#org/jsoup/parser/TokenQueue/remainder:
+Method org.jsoup.parser.TokenQueue.remainder graphduas were calculated in 0 minutes and 0 seconds
+@@ org.jsoup.parser.TokenQueue.remainder,5,7,0,1
+
+
+#org/jsoup/parser/Tag/valueOf:
+Method org.jsoup.parser.Tag.valueOf graphduas were calculated in 0 minutes and 0 seconds
+@@ org.jsoup.parser.Tag.valueOf,4,7,0,0
+
+
+#org/jsoup/parser/Tag/canContain:
+Method org.jsoup.parser.Tag.canContain graphduas were calculated in 0 minutes and 0 seconds
+@@ org.jsoup.parser.Tag.canContain,31,82,0,9
+
+
+#org/jsoup/parser/Tag/isInline:
+Method org.jsoup.parser.Tag.isInline graphduas were calculated in 0 minutes and 0 seconds
+@@ org.jsoup.parser.Tag.isInline,5,4,0,1
+
+
+#org/jsoup/parser/Tag/isData:
+Method org.jsoup.parser.Tag.isData graphduas were calculated in 0 minutes and 0 seconds
+@@ org.jsoup.parser.Tag.isData,6,6,0,0
+
+
+#org/jsoup/parser/Tag/getImplicitParent:
+Method org.jsoup.parser.Tag.getImplicitParent graphduas were calculated in 0 minutes and 0 seconds
+@@ org.jsoup.parser.Tag.getImplicitParent,5,6,0,0
+
+
+#org/jsoup/parser/Tag/isValidParent:
+Method org.jsoup.parser.Tag.isValidParent graphduas were calculated in 0 minutes and 0 seconds
+@@ org.jsoup.parser.Tag.isValidParent,9,13,0,1
+
+
+#org/jsoup/parser/Tag/equals:
+Method org.jsoup.parser.Tag.equals graphduas were calculated in 0 minutes and 0 seconds
+@@ org.jsoup.parser.Tag.equals,22,67,0,4
+
+
+#org/jsoup/parser/Tag/hashCode:
+Method org.jsoup.parser.Tag.hashCode graphduas were calculated in 0 minutes and 0 seconds
+@@ org.jsoup.parser.Tag.hashCode,20,31,0,1
+
+
+#org/jsoup/parser/Tag/setAncestor:
+Method org.jsoup.parser.Tag.setAncestor graphduas were calculated in 0 minutes and 0 seconds
+@@ org.jsoup.parser.Tag.setAncestor,7,17,0,0
+
+
+#org/jsoup/parser/Parser/<init>:
+Method org.jsoup.parser.Parser.<init> graphduas were calculated in 0 minutes and 0 seconds
+@@ org.jsoup.parser.Parser.<init>,5,8,0,0
+
+
+#org/jsoup/parser/Parser/parse:
+Method org.jsoup.parser.Parser.parse graphduas were calculated in 0 minutes and 0 seconds
+@@ org.jsoup.parser.Parser.parse,15,36,0,4
+
+
+#org/jsoup/parser/Parser/parseComment:
+Method org.jsoup.parser.Parser.parseComment graphduas were calculated in 0 minutes and 0 seconds
+@@ org.jsoup.parser.Parser.parseComment,4,7,0,1
+
+
+#org/jsoup/parser/Parser/parseEndTag:
+Method org.jsoup.parser.Parser.parseEndTag graphduas were calculated in 0 minutes and 0 seconds
+@@ org.jsoup.parser.Parser.parseEndTag,4,4,0,0
+
+
+#org/jsoup/parser/Parser/parseStartTag:
+Method org.jsoup.parser.Parser.parseStartTag graphduas were calculated in 0 minutes and 0 seconds
+@@ org.jsoup.parser.Parser.parseStartTag,22,61,0,3
+
+
+#org/jsoup/parser/Parser/parseAttribute:
+Method org.jsoup.parser.Parser.parseAttribute graphduas were calculated in 0 minutes and 0 seconds
+@@ org.jsoup.parser.Parser.parseAttribute,16,45,0,3
+
+
+#org/jsoup/parser/Parser/addChildToParent:
+Method org.jsoup.parser.Parser.addChildToParent graphduas were calculated in 0 minutes and 0 seconds
+@@ org.jsoup.parser.Parser.addChildToParent,10,30,0,1
+
+
+#org/jsoup/parser/Parser/stackHasValidParent:
+Method org.jsoup.parser.Parser.stackHasValidParent graphduas were calculated in 0 minutes and 0 seconds
+@@ org.jsoup.parser.Parser.stackHasValidParent,10,24,0,1
+
+
+#org/jsoup/parser/Parser/popStackToSuitableContainer:
+Method org.jsoup.parser.Parser.popStackToSuitableContainer graphduas were calculated in 0 minutes and 0 seconds
+@@ org.jsoup.parser.Parser.popStackToSuitableContainer,6,11,0,1
+
+
+#org/jsoup/parser/Parser/popStackToClose:
+Method org.jsoup.parser.Parser.popStackToClose graphduas were calculated in 0 minutes and 0 seconds
+@@ org.jsoup.parser.Parser.popStackToClose,14,43,0,4
+
+
+#org/jsoup/safety/Whitelist$TypedValue/hashCode:
+Method org.jsoup.safety.Whitelist$TypedValue.hashCode graphduas were calculated in 0 minutes and 0 seconds
+@@ org.jsoup.safety.Whitelist$TypedValue.hashCode,5,7,0,0
+
+
+#org/jsoup/safety/Whitelist$TypedValue/equals:
+Method org.jsoup.safety.Whitelist$TypedValue.equals graphduas were calculated in 0 minutes and 0 seconds
+@@ org.jsoup.safety.Whitelist$TypedValue.equals,13,27,0,1
+
+
+#org/jsoup/safety/Whitelist/addTags:
+Method org.jsoup.safety.Whitelist.addTags graphduas were calculated in 0 minutes and 0 seconds
+@@ org.jsoup.safety.Whitelist.addTags,5,12,0,1
+
+
+#org/jsoup/safety/Whitelist/addAttributes:
+Method org.jsoup.safety.Whitelist.addAttributes graphduas were calculated in 0 minutes and 0 seconds
+@@ org.jsoup.safety.Whitelist.addAttributes,8,25,0,1
+
+
+#org/jsoup/safety/Whitelist/addEnforcedAttribute:
+Method org.jsoup.safety.Whitelist.addEnforcedAttribute graphduas were calculated in 0 minutes and 0 seconds
+@@ org.jsoup.safety.Whitelist.addEnforcedAttribute,5,17,0,0
+
+
+#org/jsoup/safety/Whitelist/addProtocols:
+Method org.jsoup.safety.Whitelist.addProtocols graphduas were calculated in 0 minutes and 0 seconds
+@@ org.jsoup.safety.Whitelist.addProtocols,11,37,0,1
+
+
+#org/jsoup/safety/Whitelist/isSafeAttribute:
+Method org.jsoup.safety.Whitelist.isSafeAttribute graphduas were calculated in 0 minutes and 0 seconds
+@@ org.jsoup.safety.Whitelist.isSafeAttribute,16,45,0,1
+
+
+#org/jsoup/safety/Whitelist/testValidProtocol:
+Method org.jsoup.safety.Whitelist.testValidProtocol graphduas were calculated in 0 minutes and 0 seconds
+@@ org.jsoup.safety.Whitelist.testValidProtocol,7,7,0,4
+
+
+#org/jsoup/safety/Whitelist/getEnforcedAttributes:
+Method org.jsoup.safety.Whitelist.getEnforcedAttributes graphduas were calculated in 0 minutes and 0 seconds
+@@ org.jsoup.safety.Whitelist.getEnforcedAttributes,6,14,0,0
+
+
+#org/jsoup/safety/Cleaner/isValid:
+Method org.jsoup.safety.Cleaner.isValid graphduas were calculated in 0 minutes and 0 seconds
+@@ org.jsoup.safety.Cleaner.isValid,5,2,0,0
+
+
+#org/jsoup/safety/Cleaner/copySafeNodes:
+Method org.jsoup.safety.Cleaner.copySafeNodes graphduas were calculated in 0 minutes and 0 seconds
+@@ org.jsoup.safety.Cleaner.copySafeNodes,12,31,0,4
+
+
+#org/jsoup/safety/Cleaner/createSafeElement:
+Method org.jsoup.safety.Cleaner.createSafeElement graphduas were calculated in 0 minutes and 0 seconds
+@@ org.jsoup.safety.Cleaner.createSafeElement,8,24,0,1
+
+
+#org/jsoup/examples/ListLinks/main:
+Method org.jsoup.examples.ListLinks.main graphduas were calculated in 0 minutes and 0 seconds
+@@ org.jsoup.examples.ListLinks.main,17,18,0,1
+
+
+#org/jsoup/examples/ListLinks/trim:
+Method org.jsoup.examples.ListLinks.trim graphduas were calculated in 0 minutes and 0 seconds
+@@ org.jsoup.examples.ListLinks.trim,4,7,0,0
+
+
+#org/jsoup/select/Collector/accumulateMatches:
+Method org.jsoup.select.Collector.accumulateMatches graphduas were calculated in 0 minutes and 0 seconds
+@@ org.jsoup.select.Collector.accumulateMatches,7,12,0,0
+
+
+#org/jsoup/select/Selector/select:
+Method org.jsoup.select.Selector.select graphduas were calculated in 0 minutes and 0 seconds
+@@ org.jsoup.select.Selector.select,5,6,0,1
+
+
+#org/jsoup/select/Selector/select:
+Method org.jsoup.select.Selector.select graphduas were calculated in 0 minutes and 0 seconds
+@@ org.jsoup.select.Selector.select,15,44,0,4
+
+
+#org/jsoup/select/Selector/combinator:
+Method org.jsoup.select.Selector.combinator graphduas were calculated in 0 minutes and 0 seconds
+@@ org.jsoup.select.Selector.combinator,11,29,0,1
+
+
+#org/jsoup/select/Selector/findElements:
+Method org.jsoup.select.Selector.findElements graphduas were calculated in 0 minutes and 0 seconds
+@@ org.jsoup.select.Selector.findElements,18,42,0,2
+
+
+#org/jsoup/select/Selector/byId:
+Method org.jsoup.select.Selector.byId graphduas were calculated in 0 minutes and 0 seconds
+@@ org.jsoup.select.Selector.byId,4,5,0,1
+
+
+#org/jsoup/select/Selector/byAttribute:
+Method org.jsoup.select.Selector.byAttribute graphduas were calculated in 0 minutes and 0 seconds
+@@ org.jsoup.select.Selector.byAttribute,14,49,0,2
+
+
+#org/jsoup/select/Selector/filterForChildren:
+Method org.jsoup.select.Selector.filterForChildren graphduas were calculated in 0 minutes and 0 seconds
+@@ org.jsoup.select.Selector.filterForChildren,11,16,0,1
+
+
+#org/jsoup/select/Selector/filterForDescendants:
+Method org.jsoup.select.Selector.filterForDescendants graphduas were calculated in 0 minutes and 0 seconds
+@@ org.jsoup.select.Selector.filterForDescendants,12,16,0,1
+
+
+#org/jsoup/select/Selector/filterForAdjacentSiblings:
+Method org.jsoup.select.Selector.filterForAdjacentSiblings graphduas were calculated in 0 minutes and 0 seconds
+@@ org.jsoup.select.Selector.filterForAdjacentSiblings,13,21,0,3
+
+
+#org/jsoup/select/Selector/filterForGeneralSiblings:
+Method org.jsoup.select.Selector.filterForGeneralSiblings graphduas were calculated in 0 minutes and 0 seconds
+@@ org.jsoup.select.Selector.filterForGeneralSiblings,12,20,0,2
+
+
+#org/jsoup/select/Selector/filterForSelf:
+Method org.jsoup.select.Selector.filterForSelf graphduas were calculated in 0 minutes and 0 seconds
+@@ org.jsoup.select.Selector.filterForSelf,10,14,0,1
+
+
+#org/jsoup/select/Elements/attr:
+Method org.jsoup.select.Elements.attr graphduas were calculated in 0 minutes and 0 seconds
+@@ org.jsoup.select.Elements.attr,7,9,0,0
+
+
+#org/jsoup/select/Elements/hasAttr:
+Method org.jsoup.select.Elements.hasAttr graphduas were calculated in 0 minutes and 0 seconds
+@@ org.jsoup.select.Elements.hasAttr,7,7,0,0
+
+
+#org/jsoup/select/Elements/attr:
+Method org.jsoup.select.Elements.attr graphduas were calculated in 0 minutes and 0 seconds
+@@ org.jsoup.select.Elements.attr,5,6,0,1
+
+
+#org/jsoup/select/Elements/removeAttr:
+Method org.jsoup.select.Elements.removeAttr graphduas were calculated in 0 minutes and 0 seconds
+@@ org.jsoup.select.Elements.removeAttr,5,5,0,0
+
+
+#org/jsoup/select/Elements/addClass:
+Method org.jsoup.select.Elements.addClass graphduas were calculated in 0 minutes and 0 seconds
+@@ org.jsoup.select.Elements.addClass,5,5,0,0
+
+
+#org/jsoup/select/Elements/removeClass:
+Method org.jsoup.select.Elements.removeClass graphduas were calculated in 0 minutes and 0 seconds
+@@ org.jsoup.select.Elements.removeClass,5,5,0,0
+
+
+#org/jsoup/select/Elements/toggleClass:
+Method org.jsoup.select.Elements.toggleClass graphduas were calculated in 0 minutes and 0 seconds
+@@ org.jsoup.select.Elements.toggleClass,5,5,0,0
+
+
+#org/jsoup/select/Elements/hasClass:
+Method org.jsoup.select.Elements.hasClass graphduas were calculated in 0 minutes and 0 seconds
+@@ org.jsoup.select.Elements.hasClass,7,7,0,1
+
+
+#org/jsoup/select/Elements/val:
+Method org.jsoup.select.Elements.val graphduas were calculated in 0 minutes and 0 seconds
+@@ org.jsoup.select.Elements.val,4,3,0,0
+
+
+#org/jsoup/select/Elements/val:
+Method org.jsoup.select.Elements.val graphduas were calculated in 0 minutes and 0 seconds
+@@ org.jsoup.select.Elements.val,5,5,0,0
+
+
+#org/jsoup/select/Elements/text:
+Method org.jsoup.select.Elements.text graphduas were calculated in 0 minutes and 0 seconds
+@@ org.jsoup.select.Elements.text,7,9,0,0
+
+
+#org/jsoup/select/Elements/hasText:
+Method org.jsoup.select.Elements.hasText graphduas were calculated in 0 minutes and 0 seconds
+@@ org.jsoup.select.Elements.hasText,7,5,0,0
+
+
+#org/jsoup/select/Elements/html:
+Method org.jsoup.select.Elements.html graphduas were calculated in 0 minutes and 0 seconds
+@@ org.jsoup.select.Elements.html,7,9,0,0
+
+
+#org/jsoup/select/Elements/outerHtml:
+Method org.jsoup.select.Elements.outerHtml graphduas were calculated in 0 minutes and 0 seconds
+@@ org.jsoup.select.Elements.outerHtml,7,9,0,0
+
+
+#org/jsoup/select/Elements/html:
+Method org.jsoup.select.Elements.html graphduas were calculated in 0 minutes and 0 seconds
+@@ org.jsoup.select.Elements.html,5,5,0,0
+
+
+#org/jsoup/select/Elements/prepend:
+Method org.jsoup.select.Elements.prepend graphduas were calculated in 0 minutes and 0 seconds
+@@ org.jsoup.select.Elements.prepend,5,5,0,0
+
+
+#org/jsoup/select/Elements/append:
+Method org.jsoup.select.Elements.append graphduas were calculated in 0 minutes and 0 seconds
+@@ org.jsoup.select.Elements.append,5,5,0,0
+
+
+#org/jsoup/select/Elements/wrap:
+Method org.jsoup.select.Elements.wrap graphduas were calculated in 0 minutes and 0 seconds
+@@ org.jsoup.select.Elements.wrap,5,5,0,0
+
+
+#org/jsoup/select/Elements/eq:
+Method org.jsoup.select.Elements.eq graphduas were calculated in 0 minutes and 0 seconds
+@@ org.jsoup.select.Elements.eq,4,8,0,0
+
+
+#org/jsoup/select/Elements/is:
+Method org.jsoup.select.Elements.is graphduas were calculated in 0 minutes and 0 seconds
+@@ org.jsoup.select.Elements.is,5,2,0,0
+
+
+#org/jsoup/select/Elements/first:
+Method org.jsoup.select.Elements.first graphduas were calculated in 0 minutes and 0 seconds
+@@ org.jsoup.select.Elements.first,5,6,0,0
+
+
+#org/jsoup/select/Elements/last:
+Method org.jsoup.select.Elements.last graphduas were calculated in 0 minutes and 0 seconds
+@@ org.jsoup.select.Elements.last,5,6,0,0
+
+138 methods have their graphdua generated in 0 minutes and 0 seconds
+Graphduas time (ms):592

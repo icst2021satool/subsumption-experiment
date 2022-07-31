@@ -3,15 +3,15 @@ DUA-DUA subsumption
 
 
 #org/jsoup/DataUtil/load:
-Method load reduced in 0 minutes and 0 seconds. Total em milliseconds 29
+Method load reduced in 0 minutes and 0 seconds. Total em milliseconds 26
 ## nodes: 11
 ## edges: 15
 ## duas: 18
 ## Unconstrained duas: 7
 ## Reduction nodes: 12
-@@ org.jsoup.DataUtil.load,11,15,18,7,12,38.88888888888889,66.66666666666666,0,29
+@@ org.jsoup.DataUtil.load,11,15,18,7,12,38.88888888888889,66.66666666666666,0,26
 
-org.jsoup.DataUtil.load;18;7;12;29;
+org.jsoup.DataUtil.load;18;7;12;26;
 
 
 #org/jsoup/DataUtil/readInputStream:
@@ -63,51 +63,51 @@ org.jsoup.nodes.Attributes.html;5;1;2;2;
 
 
 #org/jsoup/nodes/Attributes/equals:
-Method equals reduced in 0 minutes and 0 seconds. Total em milliseconds 12
+Method equals reduced in 0 minutes and 0 seconds. Total em milliseconds 11
 ## nodes: 11
 ## edges: 15
 ## duas: 23
 ## Unconstrained duas: 6
 ## Reduction nodes: 10
-@@ org.jsoup.nodes.Attributes.equals,11,15,23,6,10,26.08695652173913,43.47826086956522,0,12
+@@ org.jsoup.nodes.Attributes.equals,11,15,23,6,10,26.08695652173913,43.47826086956522,0,11
 
-org.jsoup.nodes.Attributes.equals;23;6;10;12;
+org.jsoup.nodes.Attributes.equals;23;6;10;11;
 
 
 #org/jsoup/nodes/Attributes/hashCode:
-Method hashCode reduced in 0 minutes and 0 seconds. Total em milliseconds 3
+Method hashCode reduced in 0 minutes and 0 seconds. Total em milliseconds 2
 ## nodes: 5
 ## edges: 5
 ## duas: 6
 ## Unconstrained duas: 2
 ## Reduction nodes: 3
-@@ org.jsoup.nodes.Attributes.hashCode,5,5,6,2,3,33.33333333333333,50.0,0,3
+@@ org.jsoup.nodes.Attributes.hashCode,5,5,6,2,3,33.33333333333333,50.0,0,2
 
-org.jsoup.nodes.Attributes.hashCode;6;2;3;3;
+org.jsoup.nodes.Attributes.hashCode;6;2;3;2;
 
 
 #org/jsoup/nodes/Evaluator$IndexGreaterThan/matches:
-Method matches reduced in 0 minutes and 0 seconds. Total em milliseconds 3
+Method matches reduced in 0 minutes and 0 seconds. Total em milliseconds 1
 ## nodes: 5
 ## edges: 5
 ## duas: 6
 ## Unconstrained duas: 2
 ## Reduction nodes: 2
-@@ org.jsoup.nodes.Evaluator$IndexGreaterThan.matches,5,5,6,2,2,33.33333333333333,33.33333333333333,0,3
+@@ org.jsoup.nodes.Evaluator$IndexGreaterThan.matches,5,5,6,2,2,33.33333333333333,33.33333333333333,0,1
 
-org.jsoup.nodes.Evaluator$IndexGreaterThan.matches;6;2;2;3;
+org.jsoup.nodes.Evaluator$IndexGreaterThan.matches;6;2;2;1;
 
 
 #org/jsoup/nodes/TextNode/outerHtml:
-Method outerHtml reduced in 0 minutes and 0 seconds. Total em milliseconds 13
+Method outerHtml reduced in 0 minutes and 0 seconds. Total em milliseconds 11
 ## nodes: 10
 ## edges: 15
 ## duas: 22
 ## Unconstrained duas: 8
 ## Reduction nodes: 14
-@@ org.jsoup.nodes.TextNode.outerHtml,10,15,22,8,14,36.36363636363637,63.63636363636363,0,13
+@@ org.jsoup.nodes.TextNode.outerHtml,10,15,22,8,14,36.36363636363637,63.63636363636363,0,11
 
-org.jsoup.nodes.TextNode.outerHtml;22;8;14;13;
+org.jsoup.nodes.TextNode.outerHtml;22;8;14;11;
 
 
 #org/jsoup/nodes/TextNode/lastCharIsWhitespace:
@@ -123,27 +123,27 @@ org.jsoup.nodes.TextNode.lastCharIsWhitespace;6;3;4;2;
 
 
 #org/jsoup/nodes/Element/id:
-Method id reduced in 0 minutes and 0 seconds. Total em milliseconds 1
+Method id reduced in 0 minutes and 0 seconds. Total em milliseconds 0
 ## nodes: 5
 ## edges: 5
 ## duas: 3
 ## Unconstrained duas: 2
 ## Reduction nodes: 3
-@@ org.jsoup.nodes.Element.id,5,5,3,2,3,66.66666666666666,100.0,0,1
+@@ org.jsoup.nodes.Element.id,5,5,3,2,3,66.66666666666666,100.0,0,0
 
-org.jsoup.nodes.Element.id;3;2;3;1;
+org.jsoup.nodes.Element.id;3;2;3;0;
 
 
 #org/jsoup/nodes/Element/children:
-Method children reduced in 0 minutes and 0 seconds. Total em milliseconds 5
+Method children reduced in 0 minutes and 0 seconds. Total em milliseconds 4
 ## nodes: 7
 ## edges: 8
 ## duas: 8
 ## Unconstrained duas: 2
 ## Reduction nodes: 4
-@@ org.jsoup.nodes.Element.children,7,8,8,2,4,25.0,50.0,0,5
+@@ org.jsoup.nodes.Element.children,7,8,8,2,4,25.0,50.0,0,4
 
-org.jsoup.nodes.Element.children;8;2;4;5;
+org.jsoup.nodes.Element.children;8;2;4;4;
 
 
 #org/jsoup/nodes/Element/append:
@@ -183,39 +183,39 @@ org.jsoup.nodes.Element.wrap;18;4;7;7;
 
 
 #org/jsoup/nodes/Element/getDeepChild:
-Method getDeepChild reduced in 0 minutes and 0 seconds. Total em milliseconds 0
+Method getDeepChild reduced in 0 minutes and 0 seconds. Total em milliseconds 2
 ## nodes: 4
 ## edges: 4
 ## duas: 5
 ## Unconstrained duas: 2
 ## Reduction nodes: 2
-@@ org.jsoup.nodes.Element.getDeepChild,4,4,5,2,2,40.0,40.0,0,0
+@@ org.jsoup.nodes.Element.getDeepChild,4,4,5,2,2,40.0,40.0,0,2
 
-org.jsoup.nodes.Element.getDeepChild;5;2;2;0;
+org.jsoup.nodes.Element.getDeepChild;5;2;2;2;
 
 
 #org/jsoup/nodes/Element/nextElementSibling:
-Method nextElementSibling reduced in 0 minutes and 0 seconds. Total em milliseconds 2
+Method nextElementSibling reduced in 0 minutes and 0 seconds. Total em milliseconds 1
 ## nodes: 4
 ## edges: 4
 ## duas: 6
 ## Unconstrained duas: 2
 ## Reduction nodes: 2
-@@ org.jsoup.nodes.Element.nextElementSibling,4,4,6,2,2,33.33333333333333,33.33333333333333,0,2
+@@ org.jsoup.nodes.Element.nextElementSibling,4,4,6,2,2,33.33333333333333,33.33333333333333,0,1
 
-org.jsoup.nodes.Element.nextElementSibling;6;2;2;2;
+org.jsoup.nodes.Element.nextElementSibling;6;2;2;1;
 
 
 #org/jsoup/nodes/Element/previousElementSibling:
-Method previousElementSibling reduced in 0 minutes and 0 seconds. Total em milliseconds 2
+Method previousElementSibling reduced in 0 minutes and 0 seconds. Total em milliseconds 1
 ## nodes: 4
 ## edges: 4
 ## duas: 4
 ## Unconstrained duas: 2
 ## Reduction nodes: 2
-@@ org.jsoup.nodes.Element.previousElementSibling,4,4,4,2,2,50.0,50.0,0,2
+@@ org.jsoup.nodes.Element.previousElementSibling,4,4,4,2,2,50.0,50.0,0,1
 
-org.jsoup.nodes.Element.previousElementSibling;4;2;2;2;
+org.jsoup.nodes.Element.previousElementSibling;4;2;2;1;
 
 
 #org/jsoup/nodes/Element/firstElementSibling:
@@ -267,15 +267,15 @@ org.jsoup.nodes.Element.getElementById;3;2;2;0;
 
 
 #org/jsoup/nodes/Element/text:
-Method text reduced in 0 minutes and 0 seconds. Total em milliseconds 38
+Method text reduced in 0 minutes and 0 seconds. Total em milliseconds 24
 ## nodes: 16
 ## edges: 23
 ## duas: 28
 ## Unconstrained duas: 8
 ## Reduction nodes: 16
-@@ org.jsoup.nodes.Element.text,16,23,28,8,16,28.57142857142857,57.14285714285714,0,38
+@@ org.jsoup.nodes.Element.text,16,23,28,8,16,28.57142857142857,57.14285714285714,0,24
 
-org.jsoup.nodes.Element.text;28;8;16;38;
+org.jsoup.nodes.Element.text;28;8;16;24;
 
 
 #org/jsoup/nodes/Element/preserveWhitespace:
@@ -291,15 +291,15 @@ org.jsoup.nodes.Element.preserveWhitespace;8;4;6;2;
 
 
 #org/jsoup/nodes/Element/hasText:
-Method hasText reduced in 0 minutes and 0 seconds. Total em milliseconds 3
+Method hasText reduced in 0 minutes and 0 seconds. Total em milliseconds 5
 ## nodes: 12
 ## edges: 16
 ## duas: 13
 ## Unconstrained duas: 6
 ## Reduction nodes: 10
-@@ org.jsoup.nodes.Element.hasText,12,16,13,6,10,46.15384615384615,76.92307692307693,0,3
+@@ org.jsoup.nodes.Element.hasText,12,16,13,6,10,46.15384615384615,76.92307692307693,0,5
 
-org.jsoup.nodes.Element.hasText;13;6;10;3;
+org.jsoup.nodes.Element.hasText;13;6;10;5;
 
 
 #org/jsoup/nodes/Element/data:
@@ -315,15 +315,15 @@ org.jsoup.nodes.Element.data;12;3;6;4;
 
 
 #org/jsoup/nodes/Element/className:
-Method className reduced in 0 minutes and 0 seconds. Total em milliseconds 1
+Method className reduced in 0 minutes and 0 seconds. Total em milliseconds 0
 ## nodes: 5
 ## edges: 5
 ## duas: 6
 ## Unconstrained duas: 2
 ## Reduction nodes: 3
-@@ org.jsoup.nodes.Element.className,5,5,6,2,3,33.33333333333333,50.0,0,1
+@@ org.jsoup.nodes.Element.className,5,5,6,2,3,33.33333333333333,50.0,0,0
 
-org.jsoup.nodes.Element.className;6;2;3;1;
+org.jsoup.nodes.Element.className;6;2;3;0;
 
 
 #org/jsoup/nodes/Element/classNames:
@@ -339,51 +339,51 @@ org.jsoup.nodes.Element.classNames;8;2;3;1;
 
 
 #org/jsoup/nodes/Element/toggleClass:
-Method toggleClass reduced in 0 minutes and 0 seconds. Total em milliseconds 1
+Method toggleClass reduced in 0 minutes and 0 seconds. Total em milliseconds 0
 ## nodes: 5
 ## edges: 5
 ## duas: 10
 ## Unconstrained duas: 2
 ## Reduction nodes: 3
-@@ org.jsoup.nodes.Element.toggleClass,5,5,10,2,3,20.0,30.0,0,1
+@@ org.jsoup.nodes.Element.toggleClass,5,5,10,2,3,20.0,30.0,0,0
 
-org.jsoup.nodes.Element.toggleClass;10;2;3;1;
+org.jsoup.nodes.Element.toggleClass;10;2;3;0;
 
 
 #org/jsoup/nodes/Element/val:
-Method val reduced in 0 minutes and 0 seconds. Total em milliseconds 0
+Method val reduced in 0 minutes and 0 seconds. Total em milliseconds 1
 ## nodes: 4
 ## edges: 4
 ## duas: 4
 ## Unconstrained duas: 2
 ## Reduction nodes: 2
-@@ org.jsoup.nodes.Element.val,4,4,4,2,2,50.0,50.0,0,0
+@@ org.jsoup.nodes.Element.val,4,4,4,2,2,50.0,50.0,0,1
 
-org.jsoup.nodes.Element.val;4;2;2;0;
+org.jsoup.nodes.Element.val;4;2;2;1;
 
 
 #org/jsoup/nodes/Element/val:
-Method val reduced in 0 minutes and 0 seconds. Total em milliseconds 1
+Method val reduced in 0 minutes and 0 seconds. Total em milliseconds 5
 ## nodes: 5
 ## edges: 5
 ## duas: 7
 ## Unconstrained duas: 2
 ## Reduction nodes: 3
-@@ org.jsoup.nodes.Element.val,5,5,7,2,3,28.57142857142857,42.857142857142854,0,1
+@@ org.jsoup.nodes.Element.val,5,5,7,2,3,28.57142857142857,42.857142857142854,0,5
 
-org.jsoup.nodes.Element.val;7;2;3;1;
+org.jsoup.nodes.Element.val;7;2;3;5;
 
 
 #org/jsoup/nodes/Element/outerHtml:
-Method outerHtml reduced in 0 minutes and 0 seconds. Total em milliseconds 8
+Method outerHtml reduced in 0 minutes and 0 seconds. Total em milliseconds 7
 ## nodes: 13
 ## edges: 19
 ## duas: 32
 ## Unconstrained duas: 10
 ## Reduction nodes: 17
-@@ org.jsoup.nodes.Element.outerHtml,13,19,32,10,17,31.25,53.125,0,8
+@@ org.jsoup.nodes.Element.outerHtml,13,19,32,10,17,31.25,53.125,0,7
 
-org.jsoup.nodes.Element.outerHtml;32;10;17;8;
+org.jsoup.nodes.Element.outerHtml;32;10;17;7;
 
 
 #org/jsoup/nodes/Element/html:
@@ -399,51 +399,51 @@ org.jsoup.nodes.Element.html;4;1;2;1;
 
 
 #org/jsoup/nodes/Element/equals:
-Method equals reduced in 0 minutes and 0 seconds. Total em milliseconds 5
+Method equals reduced in 0 minutes and 0 seconds. Total em milliseconds 6
 ## nodes: 13
 ## edges: 18
 ## duas: 27
 ## Unconstrained duas: 7
 ## Reduction nodes: 12
-@@ org.jsoup.nodes.Element.equals,13,18,27,7,12,25.925925925925924,44.44444444444444,0,5
+@@ org.jsoup.nodes.Element.equals,13,18,27,7,12,25.925925925925924,44.44444444444444,0,6
 
-org.jsoup.nodes.Element.equals;27;7;12;5;
+org.jsoup.nodes.Element.equals;27;7;12;6;
 
 
 #org/jsoup/nodes/Element/hashCode:
-Method hashCode reduced in 0 minutes and 0 seconds. Total em milliseconds 0
+Method hashCode reduced in 0 minutes and 0 seconds. Total em milliseconds 1
 ## nodes: 5
 ## edges: 5
 ## duas: 5
 ## Unconstrained duas: 2
 ## Reduction nodes: 3
-@@ org.jsoup.nodes.Element.hashCode,5,5,5,2,3,40.0,60.0,0,0
+@@ org.jsoup.nodes.Element.hashCode,5,5,5,2,3,40.0,60.0,0,1
 
-org.jsoup.nodes.Element.hashCode;5;2;3;0;
+org.jsoup.nodes.Element.hashCode;5;2;3;1;
 
 
 #org/jsoup/nodes/Evaluator$IndexLessThan/matches:
-Method matches reduced in 0 minutes and 0 seconds. Total em milliseconds 1
+Method matches reduced in 0 minutes and 0 seconds. Total em milliseconds 0
 ## nodes: 5
 ## edges: 5
 ## duas: 6
 ## Unconstrained duas: 2
 ## Reduction nodes: 2
-@@ org.jsoup.nodes.Evaluator$IndexLessThan.matches,5,5,6,2,2,33.33333333333333,33.33333333333333,0,1
+@@ org.jsoup.nodes.Evaluator$IndexLessThan.matches,5,5,6,2,2,33.33333333333333,33.33333333333333,0,0
 
-org.jsoup.nodes.Evaluator$IndexLessThan.matches;6;2;2;1;
+org.jsoup.nodes.Evaluator$IndexLessThan.matches;6;2;2;0;
 
 
 #org/jsoup/nodes/XmlDeclaration/outerHtml:
-Method outerHtml reduced in 0 minutes and 0 seconds. Total em milliseconds 0
+Method outerHtml reduced in 0 minutes and 0 seconds. Total em milliseconds 1
 ## nodes: 5
 ## edges: 5
 ## duas: 6
 ## Unconstrained duas: 2
 ## Reduction nodes: 3
-@@ org.jsoup.nodes.XmlDeclaration.outerHtml,5,5,6,2,3,33.33333333333333,50.0,0,0
+@@ org.jsoup.nodes.XmlDeclaration.outerHtml,5,5,6,2,3,33.33333333333333,50.0,0,1
 
-org.jsoup.nodes.XmlDeclaration.outerHtml;6;2;3;0;
+org.jsoup.nodes.XmlDeclaration.outerHtml;6;2;3;1;
 
 
 #org/jsoup/nodes/Evaluator$AttributeWithValueNot/matches:
@@ -471,39 +471,39 @@ org.jsoup.nodes.Evaluator$IndexEquals.matches;6;2;2;0;
 
 
 #org/jsoup/nodes/Document/title:
-Method title reduced in 0 minutes and 0 seconds. Total em milliseconds 0
+Method title reduced in 0 minutes and 0 seconds. Total em milliseconds 1
 ## nodes: 5
 ## edges: 5
 ## duas: 3
 ## Unconstrained duas: 2
 ## Reduction nodes: 3
-@@ org.jsoup.nodes.Document.title,5,5,3,2,3,66.66666666666666,100.0,0,0
+@@ org.jsoup.nodes.Document.title,5,5,3,2,3,66.66666666666666,100.0,0,1
 
-org.jsoup.nodes.Document.title;3;2;3;0;
+org.jsoup.nodes.Document.title;3;2;3;1;
 
 
 #org/jsoup/nodes/Document/title:
-Method title reduced in 0 minutes and 0 seconds. Total em milliseconds 0
+Method title reduced in 0 minutes and 0 seconds. Total em milliseconds 1
 ## nodes: 5
 ## edges: 5
 ## duas: 6
 ## Unconstrained duas: 2
 ## Reduction nodes: 2
-@@ org.jsoup.nodes.Document.title,5,5,6,2,2,33.33333333333333,33.33333333333333,0,0
+@@ org.jsoup.nodes.Document.title,5,5,6,2,2,33.33333333333333,33.33333333333333,0,1
 
-org.jsoup.nodes.Document.title;6;2;2;0;
+org.jsoup.nodes.Document.title;6;2;2;1;
 
 
 #org/jsoup/nodes/Document/normalise:
-Method normalise reduced in 0 minutes and 0 seconds. Total em milliseconds 3
+Method normalise reduced in 0 minutes and 0 seconds. Total em milliseconds 1
 ## nodes: 8
 ## edges: 10
 ## duas: 10
 ## Unconstrained duas: 6
 ## Reduction nodes: 7
-@@ org.jsoup.nodes.Document.normalise,8,10,10,6,7,60.0,70.0,0,3
+@@ org.jsoup.nodes.Document.normalise,8,10,10,6,7,60.0,70.0,0,1
 
-org.jsoup.nodes.Document.normalise;10;6;7;3;
+org.jsoup.nodes.Document.normalise;10;6;7;1;
 
 
 #org/jsoup/nodes/Document/normalise:
@@ -531,15 +531,15 @@ org.jsoup.nodes.Attribute.equals;39;10;16;10;
 
 
 #org/jsoup/nodes/Attribute/hashCode:
-Method hashCode reduced in 0 minutes and 0 seconds. Total em milliseconds 2
+Method hashCode reduced in 0 minutes and 0 seconds. Total em milliseconds 1
 ## nodes: 8
 ## edges: 9
 ## duas: 11
 ## Unconstrained duas: 4
 ## Reduction nodes: 5
-@@ org.jsoup.nodes.Attribute.hashCode,8,9,11,4,5,36.36363636363637,45.45454545454545,0,2
+@@ org.jsoup.nodes.Attribute.hashCode,8,9,11,4,5,36.36363636363637,45.45454545454545,0,1
 
-org.jsoup.nodes.Attribute.hashCode;11;4;5;2;
+org.jsoup.nodes.Attribute.hashCode;11;4;5;1;
 
 
 #org/jsoup/nodes/Node/attr:
@@ -555,15 +555,15 @@ org.jsoup.nodes.Node.attr;11;3;4;0;
 
 
 #org/jsoup/nodes/Node/absUrl:
-Method absUrl reduced in 0 minutes and 0 seconds. Total em milliseconds 0
+Method absUrl reduced in 0 minutes and 0 seconds. Total em milliseconds 1
 ## nodes: 4
 ## edges: 4
 ## duas: 7
 ## Unconstrained duas: 2
 ## Reduction nodes: 2
-@@ org.jsoup.nodes.Node.absUrl,4,4,7,2,2,28.57142857142857,28.57142857142857,0,0
+@@ org.jsoup.nodes.Node.absUrl,4,4,7,2,2,28.57142857142857,28.57142857142857,0,1
 
-org.jsoup.nodes.Node.absUrl;7;2;2;0;
+org.jsoup.nodes.Node.absUrl;7;2;2;1;
 
 
 #org/jsoup/nodes/Node/setParentNode:
@@ -591,15 +591,15 @@ org.jsoup.nodes.Node.replaceChild;17;4;5;2;
 
 
 #org/jsoup/nodes/Node/removeChild:
-Method removeChild reduced in 0 minutes and 0 seconds. Total em milliseconds 1
+Method removeChild reduced in 0 minutes and 0 seconds. Total em milliseconds 2
 ## nodes: 5
 ## edges: 5
 ## duas: 9
 ## Unconstrained duas: 2
 ## Reduction nodes: 3
-@@ org.jsoup.nodes.Node.removeChild,5,5,9,2,3,22.22222222222222,33.33333333333333,0,1
+@@ org.jsoup.nodes.Node.removeChild,5,5,9,2,3,22.22222222222222,33.33333333333333,0,2
 
-org.jsoup.nodes.Node.removeChild;9;2;3;1;
+org.jsoup.nodes.Node.removeChild;9;2;3;2;
 
 
 #org/jsoup/nodes/Node/addChild:
@@ -639,15 +639,15 @@ org.jsoup.nodes.Node.nextSibling;6;2;2;0;
 
 
 #org/jsoup/nodes/Node/previousSibling:
-Method previousSibling reduced in 0 minutes and 0 seconds. Total em milliseconds 0
+Method previousSibling reduced in 0 minutes and 0 seconds. Total em milliseconds 1
 ## nodes: 4
 ## edges: 4
 ## duas: 4
 ## Unconstrained duas: 2
 ## Reduction nodes: 2
-@@ org.jsoup.nodes.Node.previousSibling,4,4,4,2,2,50.0,50.0,0,0
+@@ org.jsoup.nodes.Node.previousSibling,4,4,4,2,2,50.0,50.0,0,1
 
-org.jsoup.nodes.Node.previousSibling;4;2;2;0;
+org.jsoup.nodes.Node.previousSibling;4;2;2;1;
 
 
 #org/jsoup/nodes/Node/indexInList:
@@ -699,27 +699,27 @@ org.jsoup.parser.TokenQueue.<init>;11;2;4;2;
 
 
 #org/jsoup/parser/TokenQueue/addFirst:
-Method addFirst reduced in 0 minutes and 0 seconds. Total em milliseconds 1
+Method addFirst reduced in 0 minutes and 0 seconds. Total em milliseconds 2
 ## nodes: 5
 ## edges: 5
 ## duas: 8
 ## Unconstrained duas: 2
 ## Reduction nodes: 3
-@@ org.jsoup.parser.TokenQueue.addFirst,5,5,8,2,3,25.0,37.5,0,1
+@@ org.jsoup.parser.TokenQueue.addFirst,5,5,8,2,3,25.0,37.5,0,2
 
-org.jsoup.parser.TokenQueue.addFirst;8;2;3;1;
+org.jsoup.parser.TokenQueue.addFirst;8;2;3;2;
 
 
 #org/jsoup/parser/TokenQueue/matches:
-Method matches reduced in 0 minutes and 0 seconds. Total em milliseconds 14
+Method matches reduced in 0 minutes and 0 seconds. Total em milliseconds 4
 ## nodes: 9
 ## edges: 11
 ## duas: 26
 ## Unconstrained duas: 5
 ## Reduction nodes: 10
-@@ org.jsoup.parser.TokenQueue.matches,9,11,26,5,10,19.230769230769234,38.46153846153847,0,14
+@@ org.jsoup.parser.TokenQueue.matches,9,11,26,5,10,19.230769230769234,38.46153846153847,0,4
 
-org.jsoup.parser.TokenQueue.matches;26;5;10;14;
+org.jsoup.parser.TokenQueue.matches;26;5;10;4;
 
 
 #org/jsoup/parser/TokenQueue/matchesAny:
@@ -735,39 +735,39 @@ org.jsoup.parser.TokenQueue.matchesAny;15;4;8;3;
 
 
 #org/jsoup/parser/TokenQueue/matchChomp:
-Method matchChomp reduced in 0 minutes and 0 seconds. Total em milliseconds 1
+Method matchChomp reduced in 0 minutes and 0 seconds. Total em milliseconds 0
 ## nodes: 4
 ## edges: 4
 ## duas: 6
 ## Unconstrained duas: 2
 ## Reduction nodes: 2
-@@ org.jsoup.parser.TokenQueue.matchChomp,4,4,6,2,2,33.33333333333333,33.33333333333333,0,1
+@@ org.jsoup.parser.TokenQueue.matchChomp,4,4,6,2,2,33.33333333333333,33.33333333333333,0,0
 
-org.jsoup.parser.TokenQueue.matchChomp;6;2;2;1;
+org.jsoup.parser.TokenQueue.matchChomp;6;2;2;0;
 
 
 #org/jsoup/parser/TokenQueue/matchesWhitespace:
-Method matchesWhitespace reduced in 0 minutes and 0 seconds. Total em milliseconds 0
+Method matchesWhitespace reduced in 0 minutes and 0 seconds. Total em milliseconds 1
 ## nodes: 6
 ## edges: 7
 ## duas: 8
 ## Unconstrained duas: 3
 ## Reduction nodes: 4
-@@ org.jsoup.parser.TokenQueue.matchesWhitespace,6,7,8,3,4,37.5,50.0,0,0
+@@ org.jsoup.parser.TokenQueue.matchesWhitespace,6,7,8,3,4,37.5,50.0,0,1
 
-org.jsoup.parser.TokenQueue.matchesWhitespace;8;3;4;0;
+org.jsoup.parser.TokenQueue.matchesWhitespace;8;3;4;1;
 
 
 #org/jsoup/parser/TokenQueue/matchesWord:
-Method matchesWord reduced in 0 minutes and 0 seconds. Total em milliseconds 1
+Method matchesWord reduced in 0 minutes and 0 seconds. Total em milliseconds 0
 ## nodes: 6
 ## edges: 7
 ## duas: 8
 ## Unconstrained duas: 3
 ## Reduction nodes: 4
-@@ org.jsoup.parser.TokenQueue.matchesWord,6,7,8,3,4,37.5,50.0,0,1
+@@ org.jsoup.parser.TokenQueue.matchesWord,6,7,8,3,4,37.5,50.0,0,0
 
-org.jsoup.parser.TokenQueue.matchesWord;8;3;4;1;
+org.jsoup.parser.TokenQueue.matchesWord;8;3;4;0;
 
 
 #org/jsoup/parser/TokenQueue/consume:
@@ -795,51 +795,51 @@ org.jsoup.parser.TokenQueue.consumeToAny;11;3;5;2;
 
 
 #org/jsoup/parser/TokenQueue/consumeWhitespace:
-Method consumeWhitespace reduced in 0 minutes and 0 seconds. Total em milliseconds 6
+Method consumeWhitespace reduced in 0 minutes and 0 seconds. Total em milliseconds 1
 ## nodes: 6
 ## edges: 7
 ## duas: 11
 ## Unconstrained duas: 4
 ## Reduction nodes: 5
-@@ org.jsoup.parser.TokenQueue.consumeWhitespace,6,7,11,4,5,36.36363636363637,45.45454545454545,0,6
+@@ org.jsoup.parser.TokenQueue.consumeWhitespace,6,7,11,4,5,36.36363636363637,45.45454545454545,0,1
 
-org.jsoup.parser.TokenQueue.consumeWhitespace;11;4;5;6;
+org.jsoup.parser.TokenQueue.consumeWhitespace;11;4;5;1;
 
 
 #org/jsoup/parser/TokenQueue/consumeWord:
-Method consumeWord reduced in 0 minutes and 0 seconds. Total em milliseconds 2
+Method consumeWord reduced in 0 minutes and 0 seconds. Total em milliseconds 1
 ## nodes: 6
 ## edges: 7
 ## duas: 12
 ## Unconstrained duas: 3
 ## Reduction nodes: 5
-@@ org.jsoup.parser.TokenQueue.consumeWord,6,7,12,3,5,25.0,41.66666666666667,0,2
+@@ org.jsoup.parser.TokenQueue.consumeWord,6,7,12,3,5,25.0,41.66666666666667,0,1
 
-org.jsoup.parser.TokenQueue.consumeWord;12;3;5;2;
+org.jsoup.parser.TokenQueue.consumeWord;12;3;5;1;
 
 
 #org/jsoup/parser/TokenQueue/consumeCssIdentifier:
-Method consumeCssIdentifier reduced in 0 minutes and 0 seconds. Total em milliseconds 4
+Method consumeCssIdentifier reduced in 0 minutes and 0 seconds. Total em milliseconds 5
 ## nodes: 8
 ## edges: 11
 ## duas: 20
 ## Unconstrained duas: 9
 ## Reduction nodes: 16
-@@ org.jsoup.parser.TokenQueue.consumeCssIdentifier,8,11,20,9,16,45.0,80.0,0,4
+@@ org.jsoup.parser.TokenQueue.consumeCssIdentifier,8,11,20,9,16,45.0,80.0,0,5
 
-org.jsoup.parser.TokenQueue.consumeCssIdentifier;20;9;16;4;
+org.jsoup.parser.TokenQueue.consumeCssIdentifier;20;9;16;5;
 
 
 #org/jsoup/parser/TokenQueue/consumeAttributeKey:
-Method consumeAttributeKey reduced in 0 minutes and 0 seconds. Total em milliseconds 3
+Method consumeAttributeKey reduced in 0 minutes and 0 seconds. Total em milliseconds 2
 ## nodes: 7
 ## edges: 9
 ## duas: 14
 ## Unconstrained duas: 4
 ## Reduction nodes: 8
-@@ org.jsoup.parser.TokenQueue.consumeAttributeKey,7,9,14,4,8,28.57142857142857,57.14285714285714,0,3
+@@ org.jsoup.parser.TokenQueue.consumeAttributeKey,7,9,14,4,8,28.57142857142857,57.14285714285714,0,2
 
-org.jsoup.parser.TokenQueue.consumeAttributeKey;14;4;8;3;
+org.jsoup.parser.TokenQueue.consumeAttributeKey;14;4;8;2;
 
 
 #org/jsoup/parser/TokenQueue/remainder:
@@ -867,51 +867,51 @@ org.jsoup.parser.Tag.valueOf;7;2;2;1;
 
 
 #org/jsoup/parser/Tag/canContain:
-Method canContain reduced in 0 minutes and 0 seconds. Total em milliseconds 32
+Method canContain reduced in 0 minutes and 0 seconds. Total em milliseconds 23
 ## nodes: 31
 ## edges: 51
 ## duas: 82
 ## Unconstrained duas: 26
 ## Reduction nodes: 42
-@@ org.jsoup.parser.Tag.canContain,31,51,82,26,42,31.70731707317073,51.21951219512195,0,32
+@@ org.jsoup.parser.Tag.canContain,31,51,82,26,42,31.70731707317073,51.21951219512195,0,23
 
-org.jsoup.parser.Tag.canContain;82;26;42;32;
+org.jsoup.parser.Tag.canContain;82;26;42;23;
 
 
 #org/jsoup/parser/Tag/isInline:
-Method isInline reduced in 0 minutes and 0 seconds. Total em milliseconds 1
+Method isInline reduced in 0 minutes and 0 seconds. Total em milliseconds 0
 ## nodes: 5
 ## edges: 5
 ## duas: 4
 ## Unconstrained duas: 2
 ## Reduction nodes: 2
-@@ org.jsoup.parser.Tag.isInline,5,5,4,2,2,50.0,50.0,0,1
+@@ org.jsoup.parser.Tag.isInline,5,5,4,2,2,50.0,50.0,0,0
 
-org.jsoup.parser.Tag.isInline;4;2;2;1;
+org.jsoup.parser.Tag.isInline;4;2;2;0;
 
 
 #org/jsoup/parser/Tag/isData:
-Method isData reduced in 0 minutes and 0 seconds. Total em milliseconds 0
+Method isData reduced in 0 minutes and 0 seconds. Total em milliseconds 1
 ## nodes: 6
 ## edges: 7
 ## duas: 6
 ## Unconstrained duas: 3
 ## Reduction nodes: 4
-@@ org.jsoup.parser.Tag.isData,6,7,6,3,4,50.0,66.66666666666666,0,0
+@@ org.jsoup.parser.Tag.isData,6,7,6,3,4,50.0,66.66666666666666,0,1
 
-org.jsoup.parser.Tag.isData;6;3;4;0;
+org.jsoup.parser.Tag.isData;6;3;4;1;
 
 
 #org/jsoup/parser/Tag/getImplicitParent:
-Method getImplicitParent reduced in 0 minutes and 0 seconds. Total em milliseconds 1
+Method getImplicitParent reduced in 0 minutes and 0 seconds. Total em milliseconds 0
 ## nodes: 5
 ## edges: 5
 ## duas: 6
 ## Unconstrained duas: 2
 ## Reduction nodes: 3
-@@ org.jsoup.parser.Tag.getImplicitParent,5,5,6,2,3,33.33333333333333,50.0,0,1
+@@ org.jsoup.parser.Tag.getImplicitParent,5,5,6,2,3,33.33333333333333,50.0,0,0
 
-org.jsoup.parser.Tag.getImplicitParent;6;2;3;1;
+org.jsoup.parser.Tag.getImplicitParent;6;2;3;0;
 
 
 #org/jsoup/parser/Tag/isValidParent:
@@ -927,39 +927,39 @@ org.jsoup.parser.Tag.isValidParent;13;4;6;1;
 
 
 #org/jsoup/parser/Tag/equals:
-Method equals reduced in 0 minutes and 0 seconds. Total em milliseconds 10
+Method equals reduced in 0 minutes and 0 seconds. Total em milliseconds 12
 ## nodes: 22
 ## edges: 32
 ## duas: 67
 ## Unconstrained duas: 12
 ## Reduction nodes: 22
-@@ org.jsoup.parser.Tag.equals,22,32,67,12,22,17.91044776119403,32.83582089552239,0,10
+@@ org.jsoup.parser.Tag.equals,22,32,67,12,22,17.91044776119403,32.83582089552239,0,12
 
-org.jsoup.parser.Tag.equals;67;12;22;10;
+org.jsoup.parser.Tag.equals;67;12;22;12;
 
 
 #org/jsoup/parser/Tag/hashCode:
-Method hashCode reduced in 0 minutes and 0 seconds. Total em milliseconds 10
+Method hashCode reduced in 0 minutes and 0 seconds. Total em milliseconds 7
 ## nodes: 20
 ## edges: 25
 ## duas: 31
 ## Unconstrained duas: 12
 ## Reduction nodes: 13
-@@ org.jsoup.parser.Tag.hashCode,20,25,31,12,13,38.70967741935484,41.935483870967744,0,10
+@@ org.jsoup.parser.Tag.hashCode,20,25,31,12,13,38.70967741935484,41.935483870967744,0,7
 
-org.jsoup.parser.Tag.hashCode;31;12;13;10;
+org.jsoup.parser.Tag.hashCode;31;12;13;7;
 
 
 #org/jsoup/parser/Tag/setAncestor:
-Method setAncestor reduced in 0 minutes and 0 seconds. Total em milliseconds 1
+Method setAncestor reduced in 0 minutes and 0 seconds. Total em milliseconds 2
 ## nodes: 7
 ## edges: 8
 ## duas: 17
 ## Unconstrained duas: 3
 ## Reduction nodes: 6
-@@ org.jsoup.parser.Tag.setAncestor,7,8,17,3,6,17.647058823529413,35.294117647058826,0,1
+@@ org.jsoup.parser.Tag.setAncestor,7,8,17,3,6,17.647058823529413,35.294117647058826,0,2
 
-org.jsoup.parser.Tag.setAncestor;17;3;6;1;
+org.jsoup.parser.Tag.setAncestor;17;3;6;2;
 
 
 #org/jsoup/parser/Parser/<init>:
@@ -1000,64 +1000,64 @@ org.jsoup.parser.Parser.parseEndTag;4;2;2;0;
 
 
 #org/jsoup/parser/Parser/parseStartTag:
-Method parseStartTag reduced in 0 minutes and 0 seconds. Total em milliseconds 20
+Method parseStartTag reduced in 0 minutes and 0 seconds. Total em milliseconds 21
 ## nodes: 22
 ## edges: 31
 ## duas: 61
 ## Unconstrained duas: 14
 ## Reduction nodes: 21
-@@ org.jsoup.parser.Parser.parseStartTag,22,31,61,14,21,22.950819672131146,34.42622950819672,0,20
+@@ org.jsoup.parser.Parser.parseStartTag,22,31,61,14,21,22.950819672131146,34.42622950819672,0,21
 
-org.jsoup.parser.Parser.parseStartTag;61;14;21;20;
+org.jsoup.parser.Parser.parseStartTag;61;14;21;21;
 
 
 #org/jsoup/parser/Parser/parseAttribute:
-Method parseAttribute reduced in 0 minutes and 0 seconds. Total em milliseconds 7
+Method parseAttribute reduced in 0 minutes and 0 seconds. Total em milliseconds 8
 ## nodes: 16
 ## edges: 22
 ## duas: 45
 ## Unconstrained duas: 9
 ## Reduction nodes: 18
-@@ org.jsoup.parser.Parser.parseAttribute,16,22,45,9,18,20.0,40.0,0,7
+@@ org.jsoup.parser.Parser.parseAttribute,16,22,45,9,18,20.0,40.0,0,8
 
-org.jsoup.parser.Parser.parseAttribute;45;9;18;7;
+org.jsoup.parser.Parser.parseAttribute;45;9;18;8;
 
 
 #org/jsoup/parser/Parser/addChildToParent:
-Method addChildToParent reduced in 0 minutes and 0 seconds. Total em milliseconds 2
+Method addChildToParent reduced in 0 minutes and 0 seconds. Total em milliseconds 3
 ## nodes: 10
 ## edges: 13
 ## duas: 30
 ## Unconstrained duas: 6
 ## Reduction nodes: 8
-@@ org.jsoup.parser.Parser.addChildToParent,10,13,30,6,8,20.0,26.666666666666668,0,2
+@@ org.jsoup.parser.Parser.addChildToParent,10,13,30,6,8,20.0,26.666666666666668,0,3
 
-org.jsoup.parser.Parser.addChildToParent;30;6;8;2;
+org.jsoup.parser.Parser.addChildToParent;30;6;8;3;
 
 
 #org/jsoup/parser/Parser/stackHasValidParent:
-Method stackHasValidParent reduced in 0 minutes and 0 seconds. Total em milliseconds 2
+Method stackHasValidParent reduced in 0 minutes and 0 seconds. Total em milliseconds 3
 ## nodes: 10
 ## edges: 13
 ## duas: 24
 ## Unconstrained duas: 7
 ## Reduction nodes: 12
-@@ org.jsoup.parser.Parser.stackHasValidParent,10,13,24,7,12,29.166666666666668,50.0,0,2
+@@ org.jsoup.parser.Parser.stackHasValidParent,10,13,24,7,12,29.166666666666668,50.0,0,3
 
-org.jsoup.parser.Parser.stackHasValidParent;24;7;12;2;
+org.jsoup.parser.Parser.stackHasValidParent;24;7;12;3;
 
 Warning: Method:org.jsoup.parser.Parser.popStackToSuitableContainer has incoming edges.
 
 #org/jsoup/parser/Parser/popStackToClose:
-Method popStackToClose reduced in 0 minutes and 0 seconds. Total em milliseconds 10
+Method popStackToClose reduced in 0 minutes and 0 seconds. Total em milliseconds 11
 ## nodes: 14
 ## edges: 19
 ## duas: 43
 ## Unconstrained duas: 11
 ## Reduction nodes: 23
-@@ org.jsoup.parser.Parser.popStackToClose,14,19,43,11,23,25.581395348837212,53.48837209302325,0,10
+@@ org.jsoup.parser.Parser.popStackToClose,14,19,43,11,23,25.581395348837212,53.48837209302325,0,11
 
-org.jsoup.parser.Parser.popStackToClose;43;11;23;10;
+org.jsoup.parser.Parser.popStackToClose;43;11;23;11;
 
 
 #org/jsoup/safety/Whitelist$TypedValue/hashCode:
@@ -1073,15 +1073,15 @@ org.jsoup.safety.Whitelist$TypedValue.hashCode;7;2;3;1;
 
 
 #org/jsoup/safety/Whitelist$TypedValue/equals:
-Method equals reduced in 0 minutes and 0 seconds. Total em milliseconds 2
+Method equals reduced in 0 minutes and 0 seconds. Total em milliseconds 6
 ## nodes: 13
 ## edges: 18
 ## duas: 27
 ## Unconstrained duas: 7
 ## Reduction nodes: 12
-@@ org.jsoup.safety.Whitelist$TypedValue.equals,13,18,27,7,12,25.925925925925924,44.44444444444444,0,2
+@@ org.jsoup.safety.Whitelist$TypedValue.equals,13,18,27,7,12,25.925925925925924,44.44444444444444,0,6
 
-org.jsoup.safety.Whitelist$TypedValue.equals;27;7;12;2;
+org.jsoup.safety.Whitelist$TypedValue.equals;27;7;12;6;
 
 
 #org/jsoup/safety/Whitelist/addTags:
@@ -1121,27 +1121,27 @@ org.jsoup.safety.Whitelist.addEnforcedAttribute;17;2;3;2;
 
 
 #org/jsoup/safety/Whitelist/addProtocols:
-Method addProtocols reduced in 0 minutes and 0 seconds. Total em milliseconds 4
+Method addProtocols reduced in 0 minutes and 0 seconds. Total em milliseconds 7
 ## nodes: 11
 ## edges: 13
 ## duas: 37
 ## Unconstrained duas: 8
 ## Reduction nodes: 14
-@@ org.jsoup.safety.Whitelist.addProtocols,11,13,37,8,14,21.62162162162162,37.83783783783784,0,4
+@@ org.jsoup.safety.Whitelist.addProtocols,11,13,37,8,14,21.62162162162162,37.83783783783784,0,7
 
-org.jsoup.safety.Whitelist.addProtocols;37;8;14;4;
+org.jsoup.safety.Whitelist.addProtocols;37;8;14;7;
 
 
 #org/jsoup/safety/Whitelist/isSafeAttribute:
-Method isSafeAttribute reduced in 0 minutes and 0 seconds. Total em milliseconds 2
+Method isSafeAttribute reduced in 0 minutes and 0 seconds. Total em milliseconds 5
 ## nodes: 16
 ## edges: 22
 ## duas: 45
 ## Unconstrained duas: 8
 ## Reduction nodes: 14
-@@ org.jsoup.safety.Whitelist.isSafeAttribute,16,22,45,8,14,17.77777777777778,31.11111111111111,0,2
+@@ org.jsoup.safety.Whitelist.isSafeAttribute,16,22,45,8,14,17.77777777777778,31.11111111111111,0,5
 
-org.jsoup.safety.Whitelist.isSafeAttribute;45;8;14;2;
+org.jsoup.safety.Whitelist.isSafeAttribute;45;8;14;5;
 
 
 #org/jsoup/safety/Whitelist/testValidProtocol:
@@ -1157,15 +1157,15 @@ org.jsoup.safety.Whitelist.testValidProtocol;7;3;4;1;
 
 
 #org/jsoup/safety/Whitelist/getEnforcedAttributes:
-Method getEnforcedAttributes reduced in 0 minutes and 0 seconds. Total em milliseconds 2
+Method getEnforcedAttributes reduced in 0 minutes and 0 seconds. Total em milliseconds 1
 ## nodes: 6
 ## edges: 7
 ## duas: 14
 ## Unconstrained duas: 2
 ## Reduction nodes: 4
-@@ org.jsoup.safety.Whitelist.getEnforcedAttributes,6,7,14,2,4,14.285714285714285,28.57142857142857,0,2
+@@ org.jsoup.safety.Whitelist.getEnforcedAttributes,6,7,14,2,4,14.285714285714285,28.57142857142857,0,1
 
-org.jsoup.safety.Whitelist.getEnforcedAttributes;14;2;4;2;
+org.jsoup.safety.Whitelist.getEnforcedAttributes;14;2;4;1;
 
 
 #org/jsoup/safety/Cleaner/isValid:
@@ -1193,27 +1193,27 @@ org.jsoup.safety.Cleaner.copySafeNodes;31;11;17;8;
 
 
 #org/jsoup/safety/Cleaner/createSafeElement:
-Method createSafeElement reduced in 0 minutes and 0 seconds. Total em milliseconds 2
+Method createSafeElement reduced in 0 minutes and 0 seconds. Total em milliseconds 3
 ## nodes: 8
 ## edges: 9
 ## duas: 24
 ## Unconstrained duas: 3
 ## Reduction nodes: 6
-@@ org.jsoup.safety.Cleaner.createSafeElement,8,9,24,3,6,12.5,25.0,0,2
+@@ org.jsoup.safety.Cleaner.createSafeElement,8,9,24,3,6,12.5,25.0,0,3
 
-org.jsoup.safety.Cleaner.createSafeElement;24;3;6;2;
+org.jsoup.safety.Cleaner.createSafeElement;24;3;6;3;
 
 
 #org/jsoup/examples/ListLinks/main:
-Method main reduced in 0 minutes and 0 seconds. Total em milliseconds 2
+Method main reduced in 0 minutes and 0 seconds. Total em milliseconds 4
 ## nodes: 17
 ## edges: 21
 ## duas: 18
 ## Unconstrained duas: 6
 ## Reduction nodes: 8
-@@ org.jsoup.examples.ListLinks.main,17,21,18,6,8,33.33333333333333,44.44444444444444,0,2
+@@ org.jsoup.examples.ListLinks.main,17,21,18,6,8,33.33333333333333,44.44444444444444,0,4
 
-org.jsoup.examples.ListLinks.main;18;6;8;2;
+org.jsoup.examples.ListLinks.main;18;6;8;4;
 
 
 #org/jsoup/examples/ListLinks/trim:
@@ -1253,27 +1253,27 @@ org.jsoup.select.Selector.select;6;1;2;0;
 
 
 #org/jsoup/select/Selector/select:
-Method select reduced in 0 minutes and 0 seconds. Total em milliseconds 15
+Method select reduced in 0 minutes and 0 seconds. Total em milliseconds 14
 ## nodes: 15
 ## edges: 20
 ## duas: 44
 ## Unconstrained duas: 6
 ## Reduction nodes: 11
-@@ org.jsoup.select.Selector.select,15,20,44,6,11,13.636363636363635,25.0,0,15
+@@ org.jsoup.select.Selector.select,15,20,44,6,11,13.636363636363635,25.0,0,14
 
-org.jsoup.select.Selector.select;44;6;11;15;
+org.jsoup.select.Selector.select;44;6;11;14;
 
 
 #org/jsoup/select/Selector/combinator:
-Method combinator reduced in 0 minutes and 0 seconds. Total em milliseconds 2
+Method combinator reduced in 0 minutes and 0 seconds. Total em milliseconds 1
 ## nodes: 11
 ## edges: 14
 ## duas: 29
 ## Unconstrained duas: 5
 ## Reduction nodes: 9
-@@ org.jsoup.select.Selector.combinator,11,14,29,5,9,17.24137931034483,31.03448275862069,0,2
+@@ org.jsoup.select.Selector.combinator,11,14,29,5,9,17.24137931034483,31.03448275862069,0,1
 
-org.jsoup.select.Selector.combinator;29;5;9;2;
+org.jsoup.select.Selector.combinator;29;5;9;1;
 
 
 #org/jsoup/select/Selector/findElements:
@@ -1289,15 +1289,15 @@ org.jsoup.select.Selector.findElements;42;9;16;2;
 
 
 #org/jsoup/select/Selector/byId:
-Method byId reduced in 0 minutes and 0 seconds. Total em milliseconds 1
+Method byId reduced in 0 minutes and 0 seconds. Total em milliseconds 0
 ## nodes: 4
 ## edges: 4
 ## duas: 5
 ## Unconstrained duas: 2
 ## Reduction nodes: 3
-@@ org.jsoup.select.Selector.byId,4,4,5,2,3,40.0,60.0,0,1
+@@ org.jsoup.select.Selector.byId,4,4,5,2,3,40.0,60.0,0,0
 
-org.jsoup.select.Selector.byId;5;2;3;1;
+org.jsoup.select.Selector.byId;5;2;3;0;
 
 
 #org/jsoup/select/Selector/byAttribute:
@@ -1325,63 +1325,63 @@ org.jsoup.select.Selector.filterForChildren;16;4;8;4;
 
 
 #org/jsoup/select/Selector/filterForDescendants:
-Method filterForDescendants reduced in 0 minutes and 0 seconds. Total em milliseconds 5
+Method filterForDescendants reduced in 0 minutes and 0 seconds. Total em milliseconds 4
 ## nodes: 12
 ## edges: 15
 ## duas: 16
 ## Unconstrained duas: 4
 ## Reduction nodes: 8
-@@ org.jsoup.select.Selector.filterForDescendants,12,15,16,4,8,25.0,50.0,0,5
+@@ org.jsoup.select.Selector.filterForDescendants,12,15,16,4,8,25.0,50.0,0,4
 
-org.jsoup.select.Selector.filterForDescendants;16;4;8;5;
+org.jsoup.select.Selector.filterForDescendants;16;4;8;4;
 
 
 #org/jsoup/select/Selector/filterForAdjacentSiblings:
-Method filterForAdjacentSiblings reduced in 0 minutes and 0 seconds. Total em milliseconds 5
+Method filterForAdjacentSiblings reduced in 0 minutes and 0 seconds. Total em milliseconds 7
 ## nodes: 13
 ## edges: 17
 ## duas: 21
 ## Unconstrained duas: 5
 ## Reduction nodes: 10
-@@ org.jsoup.select.Selector.filterForAdjacentSiblings,13,17,21,5,10,23.809523809523807,47.61904761904761,0,5
+@@ org.jsoup.select.Selector.filterForAdjacentSiblings,13,17,21,5,10,23.809523809523807,47.61904761904761,0,7
 
-org.jsoup.select.Selector.filterForAdjacentSiblings;21;5;10;5;
+org.jsoup.select.Selector.filterForAdjacentSiblings;21;5;10;7;
 
 
 #org/jsoup/select/Selector/filterForGeneralSiblings:
-Method filterForGeneralSiblings reduced in 0 minutes and 0 seconds. Total em milliseconds 7
+Method filterForGeneralSiblings reduced in 0 minutes and 0 seconds. Total em milliseconds 6
 ## nodes: 12
 ## edges: 15
 ## duas: 20
 ## Unconstrained duas: 4
 ## Reduction nodes: 8
-@@ org.jsoup.select.Selector.filterForGeneralSiblings,12,15,20,4,8,20.0,40.0,0,7
+@@ org.jsoup.select.Selector.filterForGeneralSiblings,12,15,20,4,8,20.0,40.0,0,6
 
-org.jsoup.select.Selector.filterForGeneralSiblings;20;4;8;7;
+org.jsoup.select.Selector.filterForGeneralSiblings;20;4;8;6;
 
 
 #org/jsoup/select/Selector/filterForSelf:
-Method filterForSelf reduced in 0 minutes and 0 seconds. Total em milliseconds 3
+Method filterForSelf reduced in 0 minutes and 0 seconds. Total em milliseconds 1
 ## nodes: 10
 ## edges: 12
 ## duas: 14
 ## Unconstrained duas: 3
 ## Reduction nodes: 6
-@@ org.jsoup.select.Selector.filterForSelf,10,12,14,3,6,21.428571428571427,42.857142857142854,0,3
+@@ org.jsoup.select.Selector.filterForSelf,10,12,14,3,6,21.428571428571427,42.857142857142854,0,1
 
-org.jsoup.select.Selector.filterForSelf;14;3;6;3;
+org.jsoup.select.Selector.filterForSelf;14;3;6;1;
 
 
 #org/jsoup/select/Elements/attr:
-Method attr reduced in 0 minutes and 0 seconds. Total em milliseconds 2
+Method attr reduced in 0 minutes and 0 seconds. Total em milliseconds 1
 ## nodes: 7
 ## edges: 8
 ## duas: 9
 ## Unconstrained duas: 3
 ## Reduction nodes: 4
-@@ org.jsoup.select.Elements.attr,7,8,9,3,4,33.33333333333333,44.44444444444444,0,2
+@@ org.jsoup.select.Elements.attr,7,8,9,3,4,33.33333333333333,44.44444444444444,0,1
 
-org.jsoup.select.Elements.attr;9;3;4;2;
+org.jsoup.select.Elements.attr;9;3;4;1;
 
 
 #org/jsoup/select/Elements/hasAttr:
@@ -1421,15 +1421,15 @@ org.jsoup.select.Elements.removeAttr;5;1;2;0;
 
 
 #org/jsoup/select/Elements/addClass:
-Method addClass reduced in 0 minutes and 0 seconds. Total em milliseconds 1
+Method addClass reduced in 0 minutes and 0 seconds. Total em milliseconds 0
 ## nodes: 5
 ## edges: 5
 ## duas: 5
 ## Unconstrained duas: 1
 ## Reduction nodes: 2
-@@ org.jsoup.select.Elements.addClass,5,5,5,1,2,20.0,40.0,0,1
+@@ org.jsoup.select.Elements.addClass,5,5,5,1,2,20.0,40.0,0,0
 
-org.jsoup.select.Elements.addClass;5;1;2;1;
+org.jsoup.select.Elements.addClass;5;1;2;0;
 
 
 #org/jsoup/select/Elements/removeClass:
@@ -1445,15 +1445,15 @@ org.jsoup.select.Elements.removeClass;5;1;2;0;
 
 
 #org/jsoup/select/Elements/toggleClass:
-Method toggleClass reduced in 0 minutes and 0 seconds. Total em milliseconds 0
+Method toggleClass reduced in 0 minutes and 0 seconds. Total em milliseconds 1
 ## nodes: 5
 ## edges: 5
 ## duas: 5
 ## Unconstrained duas: 1
 ## Reduction nodes: 2
-@@ org.jsoup.select.Elements.toggleClass,5,5,5,1,2,20.0,40.0,0,0
+@@ org.jsoup.select.Elements.toggleClass,5,5,5,1,2,20.0,40.0,0,1
 
-org.jsoup.select.Elements.toggleClass;5;1;2;0;
+org.jsoup.select.Elements.toggleClass;5;1;2;1;
 
 
 #org/jsoup/select/Elements/hasClass:
@@ -1529,27 +1529,27 @@ org.jsoup.select.Elements.html;9;2;4;1;
 
 
 #org/jsoup/select/Elements/outerHtml:
-Method outerHtml reduced in 0 minutes and 0 seconds. Total em milliseconds 0
+Method outerHtml reduced in 0 minutes and 0 seconds. Total em milliseconds 1
 ## nodes: 7
 ## edges: 8
 ## duas: 9
 ## Unconstrained duas: 2
 ## Reduction nodes: 4
-@@ org.jsoup.select.Elements.outerHtml,7,8,9,2,4,22.22222222222222,44.44444444444444,0,0
+@@ org.jsoup.select.Elements.outerHtml,7,8,9,2,4,22.22222222222222,44.44444444444444,0,1
 
-org.jsoup.select.Elements.outerHtml;9;2;4;0;
+org.jsoup.select.Elements.outerHtml;9;2;4;1;
 
 
 #org/jsoup/select/Elements/html:
-Method html reduced in 0 minutes and 0 seconds. Total em milliseconds 0
+Method html reduced in 0 minutes and 0 seconds. Total em milliseconds 1
 ## nodes: 5
 ## edges: 5
 ## duas: 5
 ## Unconstrained duas: 1
 ## Reduction nodes: 2
-@@ org.jsoup.select.Elements.html,5,5,5,1,2,20.0,40.0,0,0
+@@ org.jsoup.select.Elements.html,5,5,5,1,2,20.0,40.0,0,1
 
-org.jsoup.select.Elements.html;5;1;2;0;
+org.jsoup.select.Elements.html;5;1;2;1;
 
 
 #org/jsoup/select/Elements/prepend:
@@ -1565,15 +1565,15 @@ org.jsoup.select.Elements.prepend;5;1;2;0;
 
 
 #org/jsoup/select/Elements/append:
-Method append reduced in 0 minutes and 0 seconds. Total em milliseconds 0
+Method append reduced in 0 minutes and 0 seconds. Total em milliseconds 1
 ## nodes: 5
 ## edges: 5
 ## duas: 5
 ## Unconstrained duas: 1
 ## Reduction nodes: 2
-@@ org.jsoup.select.Elements.append,5,5,5,1,2,20.0,40.0,0,0
+@@ org.jsoup.select.Elements.append,5,5,5,1,2,20.0,40.0,0,1
 
-org.jsoup.select.Elements.append;5;1;2;0;
+org.jsoup.select.Elements.append;5;1;2;1;
 
 
 #org/jsoup/select/Elements/wrap:
@@ -1613,27 +1613,27 @@ org.jsoup.select.Elements.is;2;2;2;0;
 
 
 #org/jsoup/select/Elements/first:
-Method first reduced in 0 minutes and 0 seconds. Total em milliseconds 1
+Method first reduced in 0 minutes and 0 seconds. Total em milliseconds 0
 ## nodes: 5
 ## edges: 5
 ## duas: 6
 ## Unconstrained duas: 2
 ## Reduction nodes: 3
-@@ org.jsoup.select.Elements.first,5,5,6,2,3,33.33333333333333,50.0,0,1
+@@ org.jsoup.select.Elements.first,5,5,6,2,3,33.33333333333333,50.0,0,0
 
-org.jsoup.select.Elements.first;6;2;3;1;
+org.jsoup.select.Elements.first;6;2;3;0;
 
 
 #org/jsoup/select/Elements/last:
-Method last reduced in 0 minutes and 0 seconds. Total em milliseconds 1
+Method last reduced in 0 minutes and 0 seconds. Total em milliseconds 0
 ## nodes: 5
 ## edges: 5
 ## duas: 6
 ## Unconstrained duas: 2
 ## Reduction nodes: 3
-@@ org.jsoup.select.Elements.last,5,5,6,2,3,33.33333333333333,50.0,0,1
+@@ org.jsoup.select.Elements.last,5,5,6,2,3,33.33333333333333,50.0,0,0
 
-org.jsoup.select.Elements.last;6;2;3;1;
+org.jsoup.select.Elements.last;6;2;3;0;
 
 136 methods analyzed in 0 minutes and 0 seconds
-Unconstrained DUAs time (ms):980
+Unconstrained DUAs time (ms):973

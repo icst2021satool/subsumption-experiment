@@ -1,0 +1,11 @@
+{
+"Class" : "org.jsoup.nodes.XmlDeclaration", 
+"Methods" : [{ "Name" : "outerHtml" ,
+"Duas" : 6,
+"0" :  "(36,(36,36), this)",
+"1" :  "(36,(36,36), this)",
+"2" :  "(36,36, this)",
+"3" :  "(36,36, accum)",
+"4" :  "(36,(36,36), this.isProcessingInstruction)",
+"5" :  "(36,(36,36), this.isProcessingInstruction)"}]
+}

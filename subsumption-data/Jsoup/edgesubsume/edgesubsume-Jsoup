@@ -8,11 +8,11 @@
 ## DUAs: 18
 ## Subsumed DUAs: 18
 ## Edge DUA coverage: 100.0
-@@ org.jsoup.DataUtil.load,11,15,18,18,100.0,0,7
+@@ org.jsoup.DataUtil.load,11,15,18,18,100.0,0,12
 
 
 #org/jsoup/DataUtil/load:
-Local DUA-Edge subsumption of method org.jsoup.DataUtil.load  calculated in 0 minutes, 0 seconds, and 7 milliseconds
+Local DUA-Edge subsumption of method org.jsoup.DataUtil.load  calculated in 0 minutes, 0 seconds, and 12 milliseconds
 
 #org/jsoup/DataUtil/readInputStream:
 ## nodes: 6
@@ -32,11 +32,11 @@ Local DUA-Edge subsumption of method org.jsoup.DataUtil.readInputStream  calcula
 ## DUAs: 3
 ## Subsumed DUAs: 3
 ## Edge DUA coverage: 100.0
-@@ org.jsoup.nodes.Attributes.get,5,5,3,3,100.0,0,0
+@@ org.jsoup.nodes.Attributes.get,5,5,3,3,100.0,0,1
 
 
 #org/jsoup/nodes/Attributes/get:
-Local DUA-Edge subsumption of method org.jsoup.nodes.Attributes.get  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method org.jsoup.nodes.Attributes.get  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #org/jsoup/nodes/Attributes/asList:
 ## nodes: 5
@@ -44,11 +44,11 @@ Local DUA-Edge subsumption of method org.jsoup.nodes.Attributes.get  calculated 
 ## DUAs: 5
 ## Subsumed DUAs: 5
 ## Edge DUA coverage: 100.0
-@@ org.jsoup.nodes.Attributes.asList,5,5,5,5,100.0,0,1
+@@ org.jsoup.nodes.Attributes.asList,5,5,5,5,100.0,0,0
 
 
 #org/jsoup/nodes/Attributes/asList:
-Local DUA-Edge subsumption of method org.jsoup.nodes.Attributes.asList  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method org.jsoup.nodes.Attributes.asList  calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #org/jsoup/nodes/Attributes/html:
 ## nodes: 5
@@ -56,11 +56,11 @@ Local DUA-Edge subsumption of method org.jsoup.nodes.Attributes.asList  calculat
 ## DUAs: 5
 ## Subsumed DUAs: 5
 ## Edge DUA coverage: 100.0
-@@ org.jsoup.nodes.Attributes.html,5,5,5,5,100.0,0,1
+@@ org.jsoup.nodes.Attributes.html,5,5,5,5,100.0,0,2
 
 
 #org/jsoup/nodes/Attributes/html:
-Local DUA-Edge subsumption of method org.jsoup.nodes.Attributes.html  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method org.jsoup.nodes.Attributes.html  calculated in 0 minutes, 0 seconds, and 2 milliseconds
 
 #org/jsoup/nodes/Attributes/equals:
 ## nodes: 11
@@ -68,11 +68,11 @@ Local DUA-Edge subsumption of method org.jsoup.nodes.Attributes.html  calculated
 ## DUAs: 23
 ## Subsumed DUAs: 23
 ## Edge DUA coverage: 100.0
-@@ org.jsoup.nodes.Attributes.equals,11,15,23,23,100.0,0,1
+@@ org.jsoup.nodes.Attributes.equals,11,15,23,23,100.0,0,2
 
 
 #org/jsoup/nodes/Attributes/equals:
-Local DUA-Edge subsumption of method org.jsoup.nodes.Attributes.equals  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method org.jsoup.nodes.Attributes.equals  calculated in 0 minutes, 0 seconds, and 2 milliseconds
 
 #org/jsoup/nodes/Attributes/hashCode:
 ## nodes: 5
@@ -80,11 +80,11 @@ Local DUA-Edge subsumption of method org.jsoup.nodes.Attributes.equals  calculat
 ## DUAs: 6
 ## Subsumed DUAs: 6
 ## Edge DUA coverage: 100.0
-@@ org.jsoup.nodes.Attributes.hashCode,5,5,6,6,100.0,0,0
+@@ org.jsoup.nodes.Attributes.hashCode,5,5,6,6,100.0,0,1
 
 
 #org/jsoup/nodes/Attributes/hashCode:
-Local DUA-Edge subsumption of method org.jsoup.nodes.Attributes.hashCode  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method org.jsoup.nodes.Attributes.hashCode  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #org/jsoup/nodes/Evaluator$IndexGreaterThan/matches:
 ## nodes: 5
@@ -92,11 +92,11 @@ Local DUA-Edge subsumption of method org.jsoup.nodes.Attributes.hashCode  calcul
 ## DUAs: 6
 ## Subsumed DUAs: 6
 ## Edge DUA coverage: 100.0
-@@ org.jsoup.nodes.Evaluator$IndexGreaterThan.matches,5,5,6,6,100.0,0,1
+@@ org.jsoup.nodes.Evaluator$IndexGreaterThan.matches,5,5,6,6,100.0,0,0
 
 
 #org/jsoup/nodes/Evaluator$IndexGreaterThan/matches:
-Local DUA-Edge subsumption of method org.jsoup.nodes.Evaluator$IndexGreaterThan.matches  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method org.jsoup.nodes.Evaluator$IndexGreaterThan.matches  calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #org/jsoup/nodes/TextNode/outerHtml:
 ## nodes: 10
@@ -104,11 +104,11 @@ Local DUA-Edge subsumption of method org.jsoup.nodes.Evaluator$IndexGreaterThan.
 ## DUAs: 22
 ## Subsumed DUAs: 20
 ## Edge DUA coverage: 90.9090909090909
-@@ org.jsoup.nodes.TextNode.outerHtml,10,15,22,20,90.9090909090909,0,1
+@@ org.jsoup.nodes.TextNode.outerHtml,10,15,22,20,90.9090909090909,0,2
 
 
 #org/jsoup/nodes/TextNode/outerHtml:
-Local DUA-Edge subsumption of method org.jsoup.nodes.TextNode.outerHtml  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method org.jsoup.nodes.TextNode.outerHtml  calculated in 0 minutes, 0 seconds, and 2 milliseconds
 
 #org/jsoup/nodes/TextNode/lastCharIsWhitespace:
 ## nodes: 7
@@ -116,11 +116,11 @@ Local DUA-Edge subsumption of method org.jsoup.nodes.TextNode.outerHtml  calcula
 ## DUAs: 6
 ## Subsumed DUAs: 6
 ## Edge DUA coverage: 100.0
-@@ org.jsoup.nodes.TextNode.lastCharIsWhitespace,7,8,6,6,100.0,0,0
+@@ org.jsoup.nodes.TextNode.lastCharIsWhitespace,7,8,6,6,100.0,0,2
 
 
 #org/jsoup/nodes/TextNode/lastCharIsWhitespace:
-Local DUA-Edge subsumption of method org.jsoup.nodes.TextNode.lastCharIsWhitespace  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method org.jsoup.nodes.TextNode.lastCharIsWhitespace  calculated in 0 minutes, 0 seconds, and 2 milliseconds
 
 #org/jsoup/nodes/Element/id:
 ## nodes: 5
@@ -128,11 +128,11 @@ Local DUA-Edge subsumption of method org.jsoup.nodes.TextNode.lastCharIsWhitespa
 ## DUAs: 3
 ## Subsumed DUAs: 3
 ## Edge DUA coverage: 100.0
-@@ org.jsoup.nodes.Element.id,5,5,3,3,100.0,0,1
+@@ org.jsoup.nodes.Element.id,5,5,3,3,100.0,0,0
 
 
 #org/jsoup/nodes/Element/id:
-Local DUA-Edge subsumption of method org.jsoup.nodes.Element.id  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method org.jsoup.nodes.Element.id  calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #org/jsoup/nodes/Element/children:
 ## nodes: 7
@@ -164,11 +164,11 @@ Local DUA-Edge subsumption of method org.jsoup.nodes.Element.append  calculated 
 ## DUAs: 9
 ## Subsumed DUAs: 5
 ## Edge DUA coverage: 55.55555555555556
-@@ org.jsoup.nodes.Element.prepend,5,5,9,5,55.55555555555556,0,0
+@@ org.jsoup.nodes.Element.prepend,5,5,9,5,55.55555555555556,0,1
 
 
 #org/jsoup/nodes/Element/prepend:
-Local DUA-Edge subsumption of method org.jsoup.nodes.Element.prepend  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method org.jsoup.nodes.Element.prepend  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #org/jsoup/nodes/Element/wrap:
 ## nodes: 8
@@ -176,11 +176,11 @@ Local DUA-Edge subsumption of method org.jsoup.nodes.Element.prepend  calculated
 ## DUAs: 18
 ## Subsumed DUAs: 14
 ## Edge DUA coverage: 77.77777777777779
-@@ org.jsoup.nodes.Element.wrap,8,10,18,14,77.77777777777779,0,0
+@@ org.jsoup.nodes.Element.wrap,8,10,18,14,77.77777777777779,0,4
 
 
 #org/jsoup/nodes/Element/wrap:
-Local DUA-Edge subsumption of method org.jsoup.nodes.Element.wrap  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method org.jsoup.nodes.Element.wrap  calculated in 0 minutes, 0 seconds, and 4 milliseconds
 
 #org/jsoup/nodes/Element/getDeepChild:
 ## nodes: 4
@@ -200,11 +200,11 @@ Local DUA-Edge subsumption of method org.jsoup.nodes.Element.getDeepChild  calcu
 ## DUAs: 6
 ## Subsumed DUAs: 6
 ## Edge DUA coverage: 100.0
-@@ org.jsoup.nodes.Element.nextElementSibling,4,4,6,6,100.0,0,0
+@@ org.jsoup.nodes.Element.nextElementSibling,4,4,6,6,100.0,0,1
 
 
 #org/jsoup/nodes/Element/nextElementSibling:
-Local DUA-Edge subsumption of method org.jsoup.nodes.Element.nextElementSibling  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method org.jsoup.nodes.Element.nextElementSibling  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #org/jsoup/nodes/Element/previousElementSibling:
 ## nodes: 4
@@ -212,11 +212,11 @@ Local DUA-Edge subsumption of method org.jsoup.nodes.Element.nextElementSibling 
 ## DUAs: 4
 ## Subsumed DUAs: 4
 ## Edge DUA coverage: 100.0
-@@ org.jsoup.nodes.Element.previousElementSibling,4,4,4,4,100.0,0,0
+@@ org.jsoup.nodes.Element.previousElementSibling,4,4,4,4,100.0,0,1
 
 
 #org/jsoup/nodes/Element/previousElementSibling:
-Local DUA-Edge subsumption of method org.jsoup.nodes.Element.previousElementSibling  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method org.jsoup.nodes.Element.previousElementSibling  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #org/jsoup/nodes/Element/firstElementSibling:
 ## nodes: 5
@@ -248,11 +248,11 @@ Local DUA-Edge subsumption of method org.jsoup.nodes.Element.elementSiblingIndex
 ## DUAs: 3
 ## Subsumed DUAs: 3
 ## Edge DUA coverage: 100.0
-@@ org.jsoup.nodes.Element.lastElementSibling,5,5,3,3,100.0,0,0
+@@ org.jsoup.nodes.Element.lastElementSibling,5,5,3,3,100.0,0,1
 
 
 #org/jsoup/nodes/Element/lastElementSibling:
-Local DUA-Edge subsumption of method org.jsoup.nodes.Element.lastElementSibling  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method org.jsoup.nodes.Element.lastElementSibling  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #org/jsoup/nodes/Element/getElementById:
 ## nodes: 4
@@ -260,11 +260,11 @@ Local DUA-Edge subsumption of method org.jsoup.nodes.Element.lastElementSibling 
 ## DUAs: 3
 ## Subsumed DUAs: 3
 ## Edge DUA coverage: 100.0
-@@ org.jsoup.nodes.Element.getElementById,4,4,3,3,100.0,0,0
+@@ org.jsoup.nodes.Element.getElementById,4,4,3,3,100.0,0,1
 
 
 #org/jsoup/nodes/Element/getElementById:
-Local DUA-Edge subsumption of method org.jsoup.nodes.Element.getElementById  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method org.jsoup.nodes.Element.getElementById  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #org/jsoup/nodes/Element/text:
 ## nodes: 16
@@ -284,11 +284,11 @@ Local DUA-Edge subsumption of method org.jsoup.nodes.Element.text  calculated in
 ## DUAs: 8
 ## Subsumed DUAs: 8
 ## Edge DUA coverage: 100.0
-@@ org.jsoup.nodes.Element.preserveWhitespace,7,9,8,8,100.0,0,1
+@@ org.jsoup.nodes.Element.preserveWhitespace,7,9,8,8,100.0,0,0
 
 
 #org/jsoup/nodes/Element/preserveWhitespace:
-Local DUA-Edge subsumption of method org.jsoup.nodes.Element.preserveWhitespace  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method org.jsoup.nodes.Element.preserveWhitespace  calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #org/jsoup/nodes/Element/hasText:
 ## nodes: 12
@@ -344,11 +344,11 @@ Local DUA-Edge subsumption of method org.jsoup.nodes.Element.classNames  calcula
 ## DUAs: 10
 ## Subsumed DUAs: 10
 ## Edge DUA coverage: 100.0
-@@ org.jsoup.nodes.Element.toggleClass,5,5,10,10,100.0,0,1
+@@ org.jsoup.nodes.Element.toggleClass,5,5,10,10,100.0,0,0
 
 
 #org/jsoup/nodes/Element/toggleClass:
-Local DUA-Edge subsumption of method org.jsoup.nodes.Element.toggleClass  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method org.jsoup.nodes.Element.toggleClass  calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #org/jsoup/nodes/Element/val:
 ## nodes: 4
@@ -356,11 +356,11 @@ Local DUA-Edge subsumption of method org.jsoup.nodes.Element.toggleClass  calcul
 ## DUAs: 4
 ## Subsumed DUAs: 4
 ## Edge DUA coverage: 100.0
-@@ org.jsoup.nodes.Element.val,4,4,4,4,100.0,0,0
+@@ org.jsoup.nodes.Element.val,4,4,4,4,100.0,0,1
 
 
 #org/jsoup/nodes/Element/val:
-Local DUA-Edge subsumption of method org.jsoup.nodes.Element.val  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method org.jsoup.nodes.Element.val  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #org/jsoup/nodes/Element/val:
 ## nodes: 5
@@ -380,11 +380,11 @@ Local DUA-Edge subsumption of method org.jsoup.nodes.Element.val  calculated in 
 ## DUAs: 32
 ## Subsumed DUAs: 32
 ## Edge DUA coverage: 100.0
-@@ org.jsoup.nodes.Element.outerHtml,13,19,32,32,100.0,0,1
+@@ org.jsoup.nodes.Element.outerHtml,13,19,32,32,100.0,0,0
 
 
 #org/jsoup/nodes/Element/outerHtml:
-Local DUA-Edge subsumption of method org.jsoup.nodes.Element.outerHtml  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method org.jsoup.nodes.Element.outerHtml  calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #org/jsoup/nodes/Element/html:
 ## nodes: 5
@@ -392,11 +392,11 @@ Local DUA-Edge subsumption of method org.jsoup.nodes.Element.outerHtml  calculat
 ## DUAs: 4
 ## Subsumed DUAs: 4
 ## Edge DUA coverage: 100.0
-@@ org.jsoup.nodes.Element.html,5,5,4,4,100.0,0,0
+@@ org.jsoup.nodes.Element.html,5,5,4,4,100.0,0,3
 
 
 #org/jsoup/nodes/Element/html:
-Local DUA-Edge subsumption of method org.jsoup.nodes.Element.html  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method org.jsoup.nodes.Element.html  calculated in 0 minutes, 0 seconds, and 3 milliseconds
 
 #org/jsoup/nodes/Element/equals:
 ## nodes: 13
@@ -404,11 +404,11 @@ Local DUA-Edge subsumption of method org.jsoup.nodes.Element.html  calculated in
 ## DUAs: 27
 ## Subsumed DUAs: 27
 ## Edge DUA coverage: 100.0
-@@ org.jsoup.nodes.Element.equals,13,18,27,27,100.0,0,2
+@@ org.jsoup.nodes.Element.equals,13,18,27,27,100.0,0,1
 
 
 #org/jsoup/nodes/Element/equals:
-Local DUA-Edge subsumption of method org.jsoup.nodes.Element.equals  calculated in 0 minutes, 0 seconds, and 2 milliseconds
+Local DUA-Edge subsumption of method org.jsoup.nodes.Element.equals  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #org/jsoup/nodes/Element/hashCode:
 ## nodes: 5
@@ -416,11 +416,11 @@ Local DUA-Edge subsumption of method org.jsoup.nodes.Element.equals  calculated 
 ## DUAs: 5
 ## Subsumed DUAs: 5
 ## Edge DUA coverage: 100.0
-@@ org.jsoup.nodes.Element.hashCode,5,5,5,5,100.0,0,1
+@@ org.jsoup.nodes.Element.hashCode,5,5,5,5,100.0,0,0
 
 
 #org/jsoup/nodes/Element/hashCode:
-Local DUA-Edge subsumption of method org.jsoup.nodes.Element.hashCode  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method org.jsoup.nodes.Element.hashCode  calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #org/jsoup/nodes/Evaluator$IndexLessThan/matches:
 ## nodes: 5
@@ -428,11 +428,11 @@ Local DUA-Edge subsumption of method org.jsoup.nodes.Element.hashCode  calculate
 ## DUAs: 6
 ## Subsumed DUAs: 6
 ## Edge DUA coverage: 100.0
-@@ org.jsoup.nodes.Evaluator$IndexLessThan.matches,5,5,6,6,100.0,0,0
+@@ org.jsoup.nodes.Evaluator$IndexLessThan.matches,5,5,6,6,100.0,0,1
 
 
 #org/jsoup/nodes/Evaluator$IndexLessThan/matches:
-Local DUA-Edge subsumption of method org.jsoup.nodes.Evaluator$IndexLessThan.matches  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method org.jsoup.nodes.Evaluator$IndexLessThan.matches  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #org/jsoup/nodes/XmlDeclaration/outerHtml:
 ## nodes: 5
@@ -440,11 +440,11 @@ Local DUA-Edge subsumption of method org.jsoup.nodes.Evaluator$IndexLessThan.mat
 ## DUAs: 6
 ## Subsumed DUAs: 6
 ## Edge DUA coverage: 100.0
-@@ org.jsoup.nodes.XmlDeclaration.outerHtml,5,5,6,6,100.0,0,2
+@@ org.jsoup.nodes.XmlDeclaration.outerHtml,5,5,6,6,100.0,0,1
 
 
 #org/jsoup/nodes/XmlDeclaration/outerHtml:
-Local DUA-Edge subsumption of method org.jsoup.nodes.XmlDeclaration.outerHtml  calculated in 0 minutes, 0 seconds, and 2 milliseconds
+Local DUA-Edge subsumption of method org.jsoup.nodes.XmlDeclaration.outerHtml  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #org/jsoup/nodes/Evaluator$AttributeWithValueNot/matches:
 ## nodes: 5
@@ -452,11 +452,11 @@ Local DUA-Edge subsumption of method org.jsoup.nodes.XmlDeclaration.outerHtml  c
 ## DUAs: 8
 ## Subsumed DUAs: 8
 ## Edge DUA coverage: 100.0
-@@ org.jsoup.nodes.Evaluator$AttributeWithValueNot.matches,5,5,8,8,100.0,0,0
+@@ org.jsoup.nodes.Evaluator$AttributeWithValueNot.matches,5,5,8,8,100.0,0,4
 
 
 #org/jsoup/nodes/Evaluator$AttributeWithValueNot/matches:
-Local DUA-Edge subsumption of method org.jsoup.nodes.Evaluator$AttributeWithValueNot.matches  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method org.jsoup.nodes.Evaluator$AttributeWithValueNot.matches  calculated in 0 minutes, 0 seconds, and 4 milliseconds
 
 #org/jsoup/nodes/Evaluator$IndexEquals/matches:
 ## nodes: 5
@@ -476,11 +476,11 @@ Local DUA-Edge subsumption of method org.jsoup.nodes.Evaluator$IndexEquals.match
 ## DUAs: 3
 ## Subsumed DUAs: 3
 ## Edge DUA coverage: 100.0
-@@ org.jsoup.nodes.Document.title,5,5,3,3,100.0,0,0
+@@ org.jsoup.nodes.Document.title,5,5,3,3,100.0,0,1
 
 
 #org/jsoup/nodes/Document/title:
-Local DUA-Edge subsumption of method org.jsoup.nodes.Document.title  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method org.jsoup.nodes.Document.title  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #org/jsoup/nodes/Document/title:
 ## nodes: 5
@@ -500,11 +500,11 @@ Local DUA-Edge subsumption of method org.jsoup.nodes.Document.title  calculated 
 ## DUAs: 10
 ## Subsumed DUAs: 10
 ## Edge DUA coverage: 100.0
-@@ org.jsoup.nodes.Document.normalise,8,10,10,10,100.0,0,0
+@@ org.jsoup.nodes.Document.normalise,8,10,10,10,100.0,0,1
 
 
 #org/jsoup/nodes/Document/normalise:
-Local DUA-Edge subsumption of method org.jsoup.nodes.Document.normalise  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method org.jsoup.nodes.Document.normalise  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #org/jsoup/nodes/Document/normalise:
 ## nodes: 11
@@ -524,11 +524,11 @@ Local DUA-Edge subsumption of method org.jsoup.nodes.Document.normalise  calcula
 ## DUAs: 39
 ## Subsumed DUAs: 39
 ## Edge DUA coverage: 100.0
-@@ org.jsoup.nodes.Attribute.equals,16,23,39,39,100.0,0,1
+@@ org.jsoup.nodes.Attribute.equals,16,23,39,39,100.0,0,2
 
 
 #org/jsoup/nodes/Attribute/equals:
-Local DUA-Edge subsumption of method org.jsoup.nodes.Attribute.equals  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method org.jsoup.nodes.Attribute.equals  calculated in 0 minutes, 0 seconds, and 2 milliseconds
 
 #org/jsoup/nodes/Attribute/hashCode:
 ## nodes: 8
@@ -536,11 +536,11 @@ Local DUA-Edge subsumption of method org.jsoup.nodes.Attribute.equals  calculate
 ## DUAs: 11
 ## Subsumed DUAs: 11
 ## Edge DUA coverage: 100.0
-@@ org.jsoup.nodes.Attribute.hashCode,8,9,11,11,100.0,0,0
+@@ org.jsoup.nodes.Attribute.hashCode,8,9,11,11,100.0,0,1
 
 
 #org/jsoup/nodes/Attribute/hashCode:
-Local DUA-Edge subsumption of method org.jsoup.nodes.Attribute.hashCode  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method org.jsoup.nodes.Attribute.hashCode  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #org/jsoup/nodes/Node/attr:
 ## nodes: 6
@@ -572,11 +572,11 @@ Local DUA-Edge subsumption of method org.jsoup.nodes.Node.absUrl  calculated in 
 ## DUAs: 6
 ## Subsumed DUAs: 6
 ## Edge DUA coverage: 100.0
-@@ org.jsoup.nodes.Node.setParentNode,4,4,6,6,100.0,0,1
+@@ org.jsoup.nodes.Node.setParentNode,4,4,6,6,100.0,0,0
 
 
 #org/jsoup/nodes/Node/setParentNode:
-Local DUA-Edge subsumption of method org.jsoup.nodes.Node.setParentNode  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method org.jsoup.nodes.Node.setParentNode  calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #org/jsoup/nodes/Node/replaceChild:
 ## nodes: 7
@@ -656,11 +656,11 @@ Local DUA-Edge subsumption of method org.jsoup.nodes.Node.previousSibling  calcu
 ## DUAs: 17
 ## Subsumed DUAs: 10
 ## Edge DUA coverage: 58.82352941176471
-@@ org.jsoup.nodes.Node.indexInList,7,8,17,10,58.82352941176471,0,1
+@@ org.jsoup.nodes.Node.indexInList,7,8,17,10,58.82352941176471,0,0
 
 
 #org/jsoup/nodes/Node/indexInList:
-Local DUA-Edge subsumption of method org.jsoup.nodes.Node.indexInList  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method org.jsoup.nodes.Node.indexInList  calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #org/jsoup/nodes/Node/equals:
 ## nodes: 4
@@ -680,11 +680,11 @@ Local DUA-Edge subsumption of method org.jsoup.nodes.Node.equals  calculated in 
 ## DUAs: 11
 ## Subsumed DUAs: 11
 ## Edge DUA coverage: 100.0
-@@ org.jsoup.nodes.Node.hashCode,8,9,11,11,100.0,0,1
+@@ org.jsoup.nodes.Node.hashCode,8,9,11,11,100.0,0,2
 
 
 #org/jsoup/nodes/Node/hashCode:
-Local DUA-Edge subsumption of method org.jsoup.nodes.Node.hashCode  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method org.jsoup.nodes.Node.hashCode  calculated in 0 minutes, 0 seconds, and 2 milliseconds
 
 #org/jsoup/parser/TokenQueue/<init>:
 ## nodes: 5
@@ -740,11 +740,11 @@ Local DUA-Edge subsumption of method org.jsoup.parser.TokenQueue.matchesAny  cal
 ## DUAs: 6
 ## Subsumed DUAs: 6
 ## Edge DUA coverage: 100.0
-@@ org.jsoup.parser.TokenQueue.matchChomp,4,4,6,6,100.0,0,1
+@@ org.jsoup.parser.TokenQueue.matchChomp,4,4,6,6,100.0,0,0
 
 
 #org/jsoup/parser/TokenQueue/matchChomp:
-Local DUA-Edge subsumption of method org.jsoup.parser.TokenQueue.matchChomp  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method org.jsoup.parser.TokenQueue.matchChomp  calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #org/jsoup/parser/TokenQueue/matchesWhitespace:
 ## nodes: 6
@@ -764,11 +764,11 @@ Local DUA-Edge subsumption of method org.jsoup.parser.TokenQueue.matchesWhitespa
 ## DUAs: 8
 ## Subsumed DUAs: 8
 ## Edge DUA coverage: 100.0
-@@ org.jsoup.parser.TokenQueue.matchesWord,6,7,8,8,100.0,0,0
+@@ org.jsoup.parser.TokenQueue.matchesWord,6,7,8,8,100.0,0,1
 
 
 #org/jsoup/parser/TokenQueue/matchesWord:
-Local DUA-Edge subsumption of method org.jsoup.parser.TokenQueue.matchesWord  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method org.jsoup.parser.TokenQueue.matchesWord  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #org/jsoup/parser/TokenQueue/consume:
 ## nodes: 9
@@ -824,11 +824,11 @@ Local DUA-Edge subsumption of method org.jsoup.parser.TokenQueue.consumeWord  ca
 ## DUAs: 20
 ## Subsumed DUAs: 8
 ## Edge DUA coverage: 40.0
-@@ org.jsoup.parser.TokenQueue.consumeCssIdentifier,8,11,20,8,40.0,0,2
+@@ org.jsoup.parser.TokenQueue.consumeCssIdentifier,8,11,20,8,40.0,0,1
 
 
 #org/jsoup/parser/TokenQueue/consumeCssIdentifier:
-Local DUA-Edge subsumption of method org.jsoup.parser.TokenQueue.consumeCssIdentifier  calculated in 0 minutes, 0 seconds, and 2 milliseconds
+Local DUA-Edge subsumption of method org.jsoup.parser.TokenQueue.consumeCssIdentifier  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #org/jsoup/parser/TokenQueue/consumeAttributeKey:
 ## nodes: 7
@@ -836,11 +836,11 @@ Local DUA-Edge subsumption of method org.jsoup.parser.TokenQueue.consumeCssIdent
 ## DUAs: 14
 ## Subsumed DUAs: 14
 ## Edge DUA coverage: 100.0
-@@ org.jsoup.parser.TokenQueue.consumeAttributeKey,7,9,14,14,100.0,0,1
+@@ org.jsoup.parser.TokenQueue.consumeAttributeKey,7,9,14,14,100.0,0,10
 
 
 #org/jsoup/parser/TokenQueue/consumeAttributeKey:
-Local DUA-Edge subsumption of method org.jsoup.parser.TokenQueue.consumeAttributeKey  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method org.jsoup.parser.TokenQueue.consumeAttributeKey  calculated in 0 minutes, 0 seconds, and 10 milliseconds
 
 #org/jsoup/parser/TokenQueue/remainder:
 ## nodes: 5
@@ -848,11 +848,11 @@ Local DUA-Edge subsumption of method org.jsoup.parser.TokenQueue.consumeAttribut
 ## DUAs: 7
 ## Subsumed DUAs: 7
 ## Edge DUA coverage: 100.0
-@@ org.jsoup.parser.TokenQueue.remainder,5,5,7,7,100.0,0,0
+@@ org.jsoup.parser.TokenQueue.remainder,5,5,7,7,100.0,0,1
 
 
 #org/jsoup/parser/TokenQueue/remainder:
-Local DUA-Edge subsumption of method org.jsoup.parser.TokenQueue.remainder  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method org.jsoup.parser.TokenQueue.remainder  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #org/jsoup/parser/Tag/valueOf:
 ## nodes: 4
@@ -872,11 +872,11 @@ Local DUA-Edge subsumption of method org.jsoup.parser.Tag.valueOf  calculated in
 ## DUAs: 82
 ## Subsumed DUAs: 82
 ## Edge DUA coverage: 100.0
-@@ org.jsoup.parser.Tag.canContain,31,51,82,82,100.0,0,2
+@@ org.jsoup.parser.Tag.canContain,31,51,82,82,100.0,0,4
 
 
 #org/jsoup/parser/Tag/canContain:
-Local DUA-Edge subsumption of method org.jsoup.parser.Tag.canContain  calculated in 0 minutes, 0 seconds, and 2 milliseconds
+Local DUA-Edge subsumption of method org.jsoup.parser.Tag.canContain  calculated in 0 minutes, 0 seconds, and 4 milliseconds
 
 #org/jsoup/parser/Tag/isInline:
 ## nodes: 5
@@ -920,11 +920,11 @@ Local DUA-Edge subsumption of method org.jsoup.parser.Tag.getImplicitParent  cal
 ## DUAs: 13
 ## Subsumed DUAs: 13
 ## Edge DUA coverage: 100.0
-@@ org.jsoup.parser.Tag.isValidParent,9,11,13,13,100.0,0,0
+@@ org.jsoup.parser.Tag.isValidParent,9,11,13,13,100.0,0,3
 
 
 #org/jsoup/parser/Tag/isValidParent:
-Local DUA-Edge subsumption of method org.jsoup.parser.Tag.isValidParent  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method org.jsoup.parser.Tag.isValidParent  calculated in 0 minutes, 0 seconds, and 3 milliseconds
 
 #org/jsoup/parser/Tag/equals:
 ## nodes: 22
@@ -932,11 +932,11 @@ Local DUA-Edge subsumption of method org.jsoup.parser.Tag.isValidParent  calcula
 ## DUAs: 67
 ## Subsumed DUAs: 67
 ## Edge DUA coverage: 100.0
-@@ org.jsoup.parser.Tag.equals,22,32,67,67,100.0,0,2
+@@ org.jsoup.parser.Tag.equals,22,32,67,67,100.0,0,5
 
 
 #org/jsoup/parser/Tag/equals:
-Local DUA-Edge subsumption of method org.jsoup.parser.Tag.equals  calculated in 0 minutes, 0 seconds, and 2 milliseconds
+Local DUA-Edge subsumption of method org.jsoup.parser.Tag.equals  calculated in 0 minutes, 0 seconds, and 5 milliseconds
 
 #org/jsoup/parser/Tag/hashCode:
 ## nodes: 20
@@ -944,11 +944,11 @@ Local DUA-Edge subsumption of method org.jsoup.parser.Tag.equals  calculated in 
 ## DUAs: 31
 ## Subsumed DUAs: 31
 ## Edge DUA coverage: 100.0
-@@ org.jsoup.parser.Tag.hashCode,20,25,31,31,100.0,0,1
+@@ org.jsoup.parser.Tag.hashCode,20,25,31,31,100.0,0,2
 
 
 #org/jsoup/parser/Tag/hashCode:
-Local DUA-Edge subsumption of method org.jsoup.parser.Tag.hashCode  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method org.jsoup.parser.Tag.hashCode  calculated in 0 minutes, 0 seconds, and 2 milliseconds
 
 #org/jsoup/parser/Tag/setAncestor:
 ## nodes: 7
@@ -981,11 +981,11 @@ Warning: Method:org.jsoup.parser.Parser.parse has incoming edges.
 ## DUAs: 7
 ## Subsumed DUAs: 6
 ## Edge DUA coverage: 85.71428571428571
-@@ org.jsoup.parser.Parser.parseComment,4,4,7,6,85.71428571428571,0,1
+@@ org.jsoup.parser.Parser.parseComment,4,4,7,6,85.71428571428571,0,0
 
 
 #org/jsoup/parser/Parser/parseComment:
-Local DUA-Edge subsumption of method org.jsoup.parser.Parser.parseComment  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method org.jsoup.parser.Parser.parseComment  calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #org/jsoup/parser/Parser/parseEndTag:
 ## nodes: 4
@@ -1017,11 +1017,11 @@ Local DUA-Edge subsumption of method org.jsoup.parser.Parser.parseStartTag  calc
 ## DUAs: 45
 ## Subsumed DUAs: 41
 ## Edge DUA coverage: 91.11111111111111
-@@ org.jsoup.parser.Parser.parseAttribute,16,22,45,41,91.11111111111111,0,0
+@@ org.jsoup.parser.Parser.parseAttribute,16,22,45,41,91.11111111111111,0,1
 
 
 #org/jsoup/parser/Parser/parseAttribute:
-Local DUA-Edge subsumption of method org.jsoup.parser.Parser.parseAttribute  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method org.jsoup.parser.Parser.parseAttribute  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #org/jsoup/parser/Parser/addChildToParent:
 ## nodes: 10
@@ -1029,11 +1029,11 @@ Local DUA-Edge subsumption of method org.jsoup.parser.Parser.parseAttribute  cal
 ## DUAs: 30
 ## Subsumed DUAs: 30
 ## Edge DUA coverage: 100.0
-@@ org.jsoup.parser.Parser.addChildToParent,10,13,30,30,100.0,0,1
+@@ org.jsoup.parser.Parser.addChildToParent,10,13,30,30,100.0,0,2
 
 
 #org/jsoup/parser/Parser/addChildToParent:
-Local DUA-Edge subsumption of method org.jsoup.parser.Parser.addChildToParent  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method org.jsoup.parser.Parser.addChildToParent  calculated in 0 minutes, 0 seconds, and 2 milliseconds
 
 #org/jsoup/parser/Parser/stackHasValidParent:
 ## nodes: 10
@@ -1054,11 +1054,11 @@ Warning: Method:org.jsoup.parser.Parser.popStackToSuitableContainer has incoming
 ## DUAs: 43
 ## Subsumed DUAs: 23
 ## Edge DUA coverage: 53.48837209302325
-@@ org.jsoup.parser.Parser.popStackToClose,14,19,43,23,53.48837209302325,0,0
+@@ org.jsoup.parser.Parser.popStackToClose,14,19,43,23,53.48837209302325,0,1
 
 
 #org/jsoup/parser/Parser/popStackToClose:
-Local DUA-Edge subsumption of method org.jsoup.parser.Parser.popStackToClose  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method org.jsoup.parser.Parser.popStackToClose  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #org/jsoup/safety/Whitelist$TypedValue/hashCode:
 ## nodes: 5
@@ -1066,11 +1066,11 @@ Local DUA-Edge subsumption of method org.jsoup.parser.Parser.popStackToClose  ca
 ## DUAs: 7
 ## Subsumed DUAs: 7
 ## Edge DUA coverage: 100.0
-@@ org.jsoup.safety.Whitelist$TypedValue.hashCode,5,5,7,7,100.0,0,1
+@@ org.jsoup.safety.Whitelist$TypedValue.hashCode,5,5,7,7,100.0,0,0
 
 
 #org/jsoup/safety/Whitelist$TypedValue/hashCode:
-Local DUA-Edge subsumption of method org.jsoup.safety.Whitelist$TypedValue.hashCode  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method org.jsoup.safety.Whitelist$TypedValue.hashCode  calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #org/jsoup/safety/Whitelist$TypedValue/equals:
 ## nodes: 13
@@ -1102,11 +1102,11 @@ Local DUA-Edge subsumption of method org.jsoup.safety.Whitelist.addTags  calcula
 ## DUAs: 25
 ## Subsumed DUAs: 21
 ## Edge DUA coverage: 84.0
-@@ org.jsoup.safety.Whitelist.addAttributes,8,9,25,21,84.0,0,1
+@@ org.jsoup.safety.Whitelist.addAttributes,8,9,25,21,84.0,0,0
 
 
 #org/jsoup/safety/Whitelist/addAttributes:
-Local DUA-Edge subsumption of method org.jsoup.safety.Whitelist.addAttributes  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method org.jsoup.safety.Whitelist.addAttributes  calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #org/jsoup/safety/Whitelist/addEnforcedAttribute:
 ## nodes: 5
@@ -1138,11 +1138,11 @@ Local DUA-Edge subsumption of method org.jsoup.safety.Whitelist.addProtocols  ca
 ## DUAs: 45
 ## Subsumed DUAs: 45
 ## Edge DUA coverage: 100.0
-@@ org.jsoup.safety.Whitelist.isSafeAttribute,16,22,45,45,100.0,0,1
+@@ org.jsoup.safety.Whitelist.isSafeAttribute,16,22,45,45,100.0,0,2
 
 
 #org/jsoup/safety/Whitelist/isSafeAttribute:
-Local DUA-Edge subsumption of method org.jsoup.safety.Whitelist.isSafeAttribute  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method org.jsoup.safety.Whitelist.isSafeAttribute  calculated in 0 minutes, 0 seconds, and 2 milliseconds
 
 #org/jsoup/safety/Whitelist/testValidProtocol:
 ## nodes: 7
@@ -1162,11 +1162,11 @@ Local DUA-Edge subsumption of method org.jsoup.safety.Whitelist.testValidProtoco
 ## DUAs: 14
 ## Subsumed DUAs: 14
 ## Edge DUA coverage: 100.0
-@@ org.jsoup.safety.Whitelist.getEnforcedAttributes,6,7,14,14,100.0,0,0
+@@ org.jsoup.safety.Whitelist.getEnforcedAttributes,6,7,14,14,100.0,0,1
 
 
 #org/jsoup/safety/Whitelist/getEnforcedAttributes:
-Local DUA-Edge subsumption of method org.jsoup.safety.Whitelist.getEnforcedAttributes  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method org.jsoup.safety.Whitelist.getEnforcedAttributes  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #org/jsoup/safety/Cleaner/isValid:
 ## nodes: 5
@@ -1174,11 +1174,11 @@ Local DUA-Edge subsumption of method org.jsoup.safety.Whitelist.getEnforcedAttri
 ## DUAs: 2
 ## Subsumed DUAs: 2
 ## Edge DUA coverage: 100.0
-@@ org.jsoup.safety.Cleaner.isValid,5,5,2,2,100.0,0,0
+@@ org.jsoup.safety.Cleaner.isValid,5,5,2,2,100.0,0,1
 
 
 #org/jsoup/safety/Cleaner/isValid:
-Local DUA-Edge subsumption of method org.jsoup.safety.Cleaner.isValid  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method org.jsoup.safety.Cleaner.isValid  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #org/jsoup/safety/Cleaner/copySafeNodes:
 ## nodes: 12
@@ -1210,11 +1210,11 @@ Local DUA-Edge subsumption of method org.jsoup.safety.Cleaner.createSafeElement 
 ## DUAs: 18
 ## Subsumed DUAs: 18
 ## Edge DUA coverage: 100.0
-@@ org.jsoup.examples.ListLinks.main,17,21,18,18,100.0,0,1
+@@ org.jsoup.examples.ListLinks.main,17,21,18,18,100.0,0,0
 
 
 #org/jsoup/examples/ListLinks/main:
-Local DUA-Edge subsumption of method org.jsoup.examples.ListLinks.main  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method org.jsoup.examples.ListLinks.main  calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #org/jsoup/examples/ListLinks/trim:
 ## nodes: 4
@@ -1234,11 +1234,11 @@ Local DUA-Edge subsumption of method org.jsoup.examples.ListLinks.trim  calculat
 ## DUAs: 12
 ## Subsumed DUAs: 12
 ## Edge DUA coverage: 100.0
-@@ org.jsoup.select.Collector.accumulateMatches,7,8,12,12,100.0,0,0
+@@ org.jsoup.select.Collector.accumulateMatches,7,8,12,12,100.0,0,1
 
 
 #org/jsoup/select/Collector/accumulateMatches:
-Local DUA-Edge subsumption of method org.jsoup.select.Collector.accumulateMatches  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method org.jsoup.select.Collector.accumulateMatches  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #org/jsoup/select/Selector/select:
 ## nodes: 5
@@ -1246,11 +1246,11 @@ Local DUA-Edge subsumption of method org.jsoup.select.Collector.accumulateMatche
 ## DUAs: 6
 ## Subsumed DUAs: 6
 ## Edge DUA coverage: 100.0
-@@ org.jsoup.select.Selector.select,5,5,6,6,100.0,0,0
+@@ org.jsoup.select.Selector.select,5,5,6,6,100.0,0,1
 
 
 #org/jsoup/select/Selector/select:
-Local DUA-Edge subsumption of method org.jsoup.select.Selector.select  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method org.jsoup.select.Selector.select  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #org/jsoup/select/Selector/select:
 ## nodes: 15
@@ -1354,11 +1354,11 @@ Local DUA-Edge subsumption of method org.jsoup.select.Selector.filterForAdjacent
 ## DUAs: 20
 ## Subsumed DUAs: 20
 ## Edge DUA coverage: 100.0
-@@ org.jsoup.select.Selector.filterForGeneralSiblings,12,15,20,20,100.0,0,0
+@@ org.jsoup.select.Selector.filterForGeneralSiblings,12,15,20,20,100.0,0,2
 
 
 #org/jsoup/select/Selector/filterForGeneralSiblings:
-Local DUA-Edge subsumption of method org.jsoup.select.Selector.filterForGeneralSiblings  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method org.jsoup.select.Selector.filterForGeneralSiblings  calculated in 0 minutes, 0 seconds, and 2 milliseconds
 
 #org/jsoup/select/Selector/filterForSelf:
 ## nodes: 10
@@ -1366,11 +1366,11 @@ Local DUA-Edge subsumption of method org.jsoup.select.Selector.filterForGeneralS
 ## DUAs: 14
 ## Subsumed DUAs: 14
 ## Edge DUA coverage: 100.0
-@@ org.jsoup.select.Selector.filterForSelf,10,12,14,14,100.0,0,1
+@@ org.jsoup.select.Selector.filterForSelf,10,12,14,14,100.0,0,3
 
 
 #org/jsoup/select/Selector/filterForSelf:
-Local DUA-Edge subsumption of method org.jsoup.select.Selector.filterForSelf  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method org.jsoup.select.Selector.filterForSelf  calculated in 0 minutes, 0 seconds, and 3 milliseconds
 
 #org/jsoup/select/Elements/attr:
 ## nodes: 7
@@ -1378,11 +1378,11 @@ Local DUA-Edge subsumption of method org.jsoup.select.Selector.filterForSelf  ca
 ## DUAs: 9
 ## Subsumed DUAs: 9
 ## Edge DUA coverage: 100.0
-@@ org.jsoup.select.Elements.attr,7,8,9,9,100.0,0,1
+@@ org.jsoup.select.Elements.attr,7,8,9,9,100.0,0,0
 
 
 #org/jsoup/select/Elements/attr:
-Local DUA-Edge subsumption of method org.jsoup.select.Elements.attr  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method org.jsoup.select.Elements.attr  calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #org/jsoup/select/Elements/hasAttr:
 ## nodes: 7
@@ -1390,11 +1390,11 @@ Local DUA-Edge subsumption of method org.jsoup.select.Elements.attr  calculated 
 ## DUAs: 7
 ## Subsumed DUAs: 7
 ## Edge DUA coverage: 100.0
-@@ org.jsoup.select.Elements.hasAttr,7,8,7,7,100.0,0,1
+@@ org.jsoup.select.Elements.hasAttr,7,8,7,7,100.0,0,0
 
 
 #org/jsoup/select/Elements/hasAttr:
-Local DUA-Edge subsumption of method org.jsoup.select.Elements.hasAttr  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method org.jsoup.select.Elements.hasAttr  calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #org/jsoup/select/Elements/attr:
 ## nodes: 5
@@ -1402,11 +1402,11 @@ Local DUA-Edge subsumption of method org.jsoup.select.Elements.hasAttr  calculat
 ## DUAs: 6
 ## Subsumed DUAs: 6
 ## Edge DUA coverage: 100.0
-@@ org.jsoup.select.Elements.attr,5,5,6,6,100.0,0,0
+@@ org.jsoup.select.Elements.attr,5,5,6,6,100.0,0,1
 
 
 #org/jsoup/select/Elements/attr:
-Local DUA-Edge subsumption of method org.jsoup.select.Elements.attr  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method org.jsoup.select.Elements.attr  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #org/jsoup/select/Elements/removeAttr:
 ## nodes: 5
@@ -1414,11 +1414,11 @@ Local DUA-Edge subsumption of method org.jsoup.select.Elements.attr  calculated 
 ## DUAs: 5
 ## Subsumed DUAs: 5
 ## Edge DUA coverage: 100.0
-@@ org.jsoup.select.Elements.removeAttr,5,5,5,5,100.0,0,0
+@@ org.jsoup.select.Elements.removeAttr,5,5,5,5,100.0,0,1
 
 
 #org/jsoup/select/Elements/removeAttr:
-Local DUA-Edge subsumption of method org.jsoup.select.Elements.removeAttr  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method org.jsoup.select.Elements.removeAttr  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #org/jsoup/select/Elements/addClass:
 ## nodes: 5
@@ -1510,11 +1510,11 @@ Local DUA-Edge subsumption of method org.jsoup.select.Elements.text  calculated 
 ## DUAs: 5
 ## Subsumed DUAs: 5
 ## Edge DUA coverage: 100.0
-@@ org.jsoup.select.Elements.hasText,7,8,5,5,100.0,0,1
+@@ org.jsoup.select.Elements.hasText,7,8,5,5,100.0,0,0
 
 
 #org/jsoup/select/Elements/hasText:
-Local DUA-Edge subsumption of method org.jsoup.select.Elements.hasText  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method org.jsoup.select.Elements.hasText  calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #org/jsoup/select/Elements/html:
 ## nodes: 7
@@ -1522,11 +1522,11 @@ Local DUA-Edge subsumption of method org.jsoup.select.Elements.hasText  calculat
 ## DUAs: 9
 ## Subsumed DUAs: 9
 ## Edge DUA coverage: 100.0
-@@ org.jsoup.select.Elements.html,7,8,9,9,100.0,0,0
+@@ org.jsoup.select.Elements.html,7,8,9,9,100.0,0,1
 
 
 #org/jsoup/select/Elements/html:
-Local DUA-Edge subsumption of method org.jsoup.select.Elements.html  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method org.jsoup.select.Elements.html  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #org/jsoup/select/Elements/outerHtml:
 ## nodes: 7
@@ -1534,11 +1534,11 @@ Local DUA-Edge subsumption of method org.jsoup.select.Elements.html  calculated 
 ## DUAs: 9
 ## Subsumed DUAs: 9
 ## Edge DUA coverage: 100.0
-@@ org.jsoup.select.Elements.outerHtml,7,8,9,9,100.0,0,2
+@@ org.jsoup.select.Elements.outerHtml,7,8,9,9,100.0,0,0
 
 
 #org/jsoup/select/Elements/outerHtml:
-Local DUA-Edge subsumption of method org.jsoup.select.Elements.outerHtml  calculated in 0 minutes, 0 seconds, and 2 milliseconds
+Local DUA-Edge subsumption of method org.jsoup.select.Elements.outerHtml  calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #org/jsoup/select/Elements/html:
 ## nodes: 5
@@ -1582,11 +1582,11 @@ Local DUA-Edge subsumption of method org.jsoup.select.Elements.append  calculate
 ## DUAs: 5
 ## Subsumed DUAs: 5
 ## Edge DUA coverage: 100.0
-@@ org.jsoup.select.Elements.wrap,5,5,5,5,100.0,0,0
+@@ org.jsoup.select.Elements.wrap,5,5,5,5,100.0,0,1
 
 
 #org/jsoup/select/Elements/wrap:
-Local DUA-Edge subsumption of method org.jsoup.select.Elements.wrap  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method org.jsoup.select.Elements.wrap  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #org/jsoup/select/Elements/eq:
 ## nodes: 4
@@ -1618,11 +1618,11 @@ Local DUA-Edge subsumption of method org.jsoup.select.Elements.is  calculated in
 ## DUAs: 6
 ## Subsumed DUAs: 6
 ## Edge DUA coverage: 100.0
-@@ org.jsoup.select.Elements.first,5,5,6,6,100.0,0,0
+@@ org.jsoup.select.Elements.first,5,5,6,6,100.0,0,1
 
 
 #org/jsoup/select/Elements/first:
-Local DUA-Edge subsumption of method org.jsoup.select.Elements.first  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method org.jsoup.select.Elements.first  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #org/jsoup/select/Elements/last:
 ## nodes: 5
@@ -1630,10 +1630,10 @@ Local DUA-Edge subsumption of method org.jsoup.select.Elements.first  calculated
 ## DUAs: 6
 ## Subsumed DUAs: 6
 ## Edge DUA coverage: 100.0
-@@ org.jsoup.select.Elements.last,5,5,6,6,100.0,0,0
+@@ org.jsoup.select.Elements.last,5,5,6,6,100.0,0,1
 
 
 #org/jsoup/select/Elements/last:
-Local DUA-Edge subsumption of method org.jsoup.select.Elements.last  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method org.jsoup.select.Elements.last  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 136 methods had the edge subsumption relationship calculated in 0 minutes and 0 seconds
-Local DUA-Edge subsumption time (ms):659
+Local DUA-Edge subsumption time (ms):986

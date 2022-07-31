@@ -1,0 +1,11 @@
+{
+"Class" : "org.jsoup.nodes.Evaluator$IndexEquals", 
+"Methods" : [{ "Name" : "matches" ,
+"Duas" : 6,
+"0" :  "(159,(159,159), this)",
+"1" :  "(159,(159,159), this)",
+"2" :  "(159,(159,159), element)",
+"3" :  "(159,(159,159), element)",
+"4" :  "(159,(159,159), this.index)",
+"5" :  "(159,(159,159), this.index)"}]
+}
