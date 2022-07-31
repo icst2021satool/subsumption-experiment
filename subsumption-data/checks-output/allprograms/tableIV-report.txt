@@ -1,0 +1,56 @@
+[1] "/Users/marcoschaim/experimentos/subsumption-experiment/subsumption-data/checks-output/allprograms"
+[1] 1
+[1] "/Users/marcoschaim/experimentos/subsumption-experiment/subsumption-data/checks-output/allprograms"
+[1] "/Users/marcoschaim/experimentos/subsumption-experiment/subsumption-data/checks-output/allprograms"
+[1] "/Users/marcoschaim/experimentos/subsumption-experiment/subsumption-data/checks-output/allprograms/tableIV.csv"
+         Program   DUAs DUA.Node DUA.Edge Unc.DUAs  t.Node  t.Edge t.Unc.DUAs
+1            Csv    929     57.3     70.3     31.5   331.3   323.6      664.0
+2           Cli    1291     69.6     83.0     29.4   426.4   426.6      877.0
+3         Codec    4446     38.0     48.4     37.9   640.1   634.8     6268.0
+4         Jsoup    1866     80.0     92.9     26.8   582.7   567.3      828.1
+5         J-Xml    3402     75.7     87.9     26.5   686.2   665.8     1187.5
+6      Compress    6286     58.7     67.0     28.3  1109.5  1182.2     5801.6
+7          Gson    3281     76.6     88.4     29.7   767.1   741.9     1140.3
+8       Mockito    4236     74.6     90.0     32.1  1104.2  1047.9     1482.0
+9        J-Core   17653     59.5     72.7     28.1  1484.0  1469.2     6199.1
+10       JxPath   20178     66.9     84.4     29.7  1685.0  1661.8     6201.6
+11        Lang    22290     62.8     73.9     32.0  1996.5  1937.8     5717.0
+12         Time   18160     69.2     80.9     31.1  2101.5  2046.9     5143.0
+13  Collections   16937     68.8     81.9     30.0  2107.3  2028.8     4319.1
+14   J-DataBind   31797     73.8     85.6     26.4  2845.2  2774.8     6963.8
+15         Math   87603     57.9     64.2     25.3 11625.4 11220.4   100184.0
+16    Chart       81847     72.8     82.2     24.5  6131.7  5776.9    17165.8
+17      Closure   78068     67.9     83.7     31.8  6106.6  5817.2    31206.8
+18        Elki   180675     63.4     72.4     24.9 12544.0 12367.6    39454.3
+19    SystemDS   255382     66.0     79.6     26.5 14012.5 13943.9    42679.6
+20         Weka  337063     59.9     70.9     27.4 19647.2 19164.1    84613.3
+21     CoreNLP   255382     54.6     65.2     36.7 32163.9 30831.3  1114919.0
+   Program               DUAs           DUA.Node        DUA.Edge   
+ Length:21          Min.   :   929   Min.   :38.00   Min.   :48.4  
+ Class :character   1st Qu.:  4236   1st Qu.:59.50   1st Qu.:70.9  
+ Mode  :character   Median : 18160   Median :66.90   Median :80.9  
+                    Mean   : 68037   Mean   :65.43   Mean   :77.4  
+                    3rd Qu.: 81847   3rd Qu.:72.80   3rd Qu.:84.4  
+                    Max.   :337063   Max.   :80.00   Max.   :92.9  
+    Unc.DUAs         t.Node            t.Edge          t.Unc.DUAs     
+ Min.   :24.50   Min.   :  331.3   Min.   :  323.6   Min.   :    664  
+ 1st Qu.:26.50   1st Qu.:  767.1   1st Qu.:  741.9   1st Qu.:   1482  
+ Median :29.40   Median : 1996.5   Median : 1937.8   Median :   6199  
+ Mean   :29.36   Mean   : 5719.0   Mean   : 5553.8   Mean   :  70620  
+ 3rd Qu.:31.50   3rd Qu.: 6131.7   3rd Qu.: 5817.2   3rd Qu.:  31207  
+ Max.   :37.90   Max.   :32163.9   Max.   :30831.3   Max.   :1114919  
+[1] "Std Duas"
+[1] "Std Duas"
+[1] 100723
+[1] "Std Dua-node"
+[1] 9.531796
+[1] "Std Dua-edge"
+[1] 10.72886
+[1] "Std unc-Duas"
+[1] 3.561668
+[1] "Std t-node"
+[1] 8148.5
+[1] "Std t-edge"
+[1] 7873.256
+[1] "Std t-Unc-Duas"
+[1] 240877.6
