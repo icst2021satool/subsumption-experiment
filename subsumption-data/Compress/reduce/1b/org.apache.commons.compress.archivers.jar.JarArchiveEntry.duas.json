@@ -1,0 +1,13 @@
+{
+"Class" : "org.apache.commons.compress.archivers.jar.JarArchiveEntry", 
+"Methods" : [{ "Name" : "getCertificates" ,
+"Duas" : 8,
+"0" :  "(57,(57,58), this)",
+"1" :  "(57,(57,62), this)",
+"2" :  "(57,58, this)",
+"3" :  "(57,59, this)",
+"4" :  "(57,(57,58), this.certificates)",
+"5" :  "(57,(57,62), this.certificates)",
+"6" :  "(57,58, this.certificates)",
+"7" :  "(57,59, this.certificates)"}]
+}

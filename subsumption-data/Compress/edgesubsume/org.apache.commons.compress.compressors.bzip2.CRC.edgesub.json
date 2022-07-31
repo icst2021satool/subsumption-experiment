@@ -1,0 +1,25 @@
+{
+"Class" : "org.apache.commons.compress.compressors.bzip2.CRC", 
+"Methods" : [{ "Name" : "updateCRC" ,
+"Edges" : 4,
+"2" : [ 3, 6],
+"3" : [ 0, 1, 2, 4, 5],
+"0" : [ 0, 1, 2, 3, 6],
+"1" : [ 0, 1, 2],
+"CoveredDUAsByEdges" : 7,
+"Duas" : 8
+},{ "Name" : "updateCRC" ,
+"Edges" : 9,
+"0" : [ 2],
+"1" : [ 1, 2, 5, 7],
+"2" : [ 0, 2, 8],
+"4" : [ 0, 2, 8],
+"6" : [ 1, 2, 5, 7, 10],
+"7" : [ 1, 2, 5, 7, 11],
+"8" : [ 1, 2, 3, 5, 6, 7, 11, 12],
+"3" : [ 1, 2, 3, 5, 6, 7, 10, 12],
+"5" : [ 1, 2, 3, 5, 6, 7, 12],
+"CoveredDUAsByEdges" : 11,
+"Duas" : 16
+}]
+}

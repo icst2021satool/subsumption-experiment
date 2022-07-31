@@ -1,0 +1,16 @@
+{
+"Class" : "org.apache.commons.compress.archivers.zip.ZipUtil", 
+"Methods" : [{ "Name" : "toDosTime" ,
+"Duas" : 6,
+"0" :  "(46,51, DOS_TIME_MIN)",
+"1" :  "(46,53, time)",
+"2" :  "(46,54, time)",
+"3" :  "(49,(50,51), year)",
+"4" :  "(49,(50,53), year)",
+"5" :  "(49,54, year)"},{ "Name" : "adjustToLong" ,
+"Duas" : 4,
+"0" :  "(71,(71,72), i)",
+"1" :  "(71,(71,74), i)",
+"2" :  "(71,74, i)",
+"3" :  "(71,72, i)"}]
+}

@@ -1,0 +1,10 @@
+{
+"Class" : "org.apache.commons.compress.archivers.jar.JarArchiveOutputStream", 
+"Methods" : [{ "Name" : "putNextEntry" ,
+"Nodes" : 4,
+"0" : [ 42 ]
+"1" : [ 46,47 ]
+"2" : [ 43,44 ]
+"3" : [  ]
+}]
+}

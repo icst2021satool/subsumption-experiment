@@ -1,0 +1,30 @@
+{
+"Class" : "org.apache.commons.compress.archivers.zip.AbstractUnicodeExtraField", 
+"Methods" : [{ "Name" : "assembleData" ,
+"Nodes" : 4,
+"0" : [ 76 ]
+"1" : [ 80,82,83,84,85 ]
+"2" : [ 77 ]
+"3" : [  ]
+},{ "Name" : "getCentralDirectoryData" ,
+"Nodes" : 4,
+"0" : [ 120 ]
+"1" : [ 123 ]
+"2" : [ 121 ]
+"3" : [  ]
+},{ "Name" : "getCentralDirectoryLength" ,
+"Nodes" : 4,
+"0" : [ 127 ]
+"1" : [ 130 ]
+"2" : [ 128 ]
+"3" : [  ]
+},{ "Name" : "parseFromLocalFileData" ,
+"Nodes" : 6,
+"0" : [ 144 ]
+"1" : [ 149,151 ]
+"2" : [ 160,156,157,158,159 ]
+"3" : [ 152 ]
+"4" : [ 145 ]
+"5" : [  ]
+}]
+}

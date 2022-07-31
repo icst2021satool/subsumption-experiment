@@ -1,0 +1,20 @@
+{
+"Class" : "org.apache.commons.compress.archivers.zip.FallbackZipEncoding", 
+"Methods" : [{ "Name" : "encode" ,
+"Nodes" : 4,
+"0" : [ ],
+"1" : [ 1, 2, 3, 6, 7],
+"2" : [ 0, 4, 5],
+"3" : [ ],
+"CoveredDUAsByNodes" : 8,
+"Duas" : 8
+},{ "Name" : "decode" ,
+"Nodes" : 4,
+"0" : [ ],
+"1" : [ 1, 2, 3, 6, 7],
+"2" : [ 0, 4, 5],
+"3" : [ ],
+"CoveredDUAsByNodes" : 8,
+"Duas" : 8
+}]
+}

@@ -1,0 +1,23 @@
+{
+"Class" : "org.apache.commons.compress.changes.Change", 
+"Methods" : [{ "Name" : "<init>" ,
+"Duas" : 7,
+"0" :  "(41,45, this)",
+"1" :  "(41,46, this)",
+"2" :  "(41,47, this)",
+"3" :  "(41,48, this)",
+"4" :  "(41,(42,43), pFilename)",
+"5" :  "(41,(42,45), pFilename)",
+"6" :  "(41,45, pFilename)"},{ "Name" : "<init>" ,
+"Duas" : 10,
+"0" :  "(60,64, this)",
+"1" :  "(60,65, this)",
+"2" :  "(60,66, this)",
+"3" :  "(60,67, this)",
+"4" :  "(60,(61,61), pEntry)",
+"5" :  "(60,(61,62), pEntry)",
+"6" :  "(60,64, pEntry)",
+"7" :  "(60,(61,62), pInput)",
+"8" :  "(60,(61,64), pInput)",
+"9" :  "(60,65, pInput)"}]
+}

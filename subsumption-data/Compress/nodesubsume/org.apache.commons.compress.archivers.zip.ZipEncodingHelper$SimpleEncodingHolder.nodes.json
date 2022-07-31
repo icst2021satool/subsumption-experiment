@@ -1,0 +1,10 @@
+{
+"Class" : "org.apache.commons.compress.archivers.zip.ZipEncodingHelper$SimpleEncodingHolder", 
+"Methods" : [{ "Name" : "getEncoding" ,
+"Nodes" : 4,
+"0" : [ 58 ]
+"1" : [ 61 ]
+"2" : [ 59 ]
+"3" : [  ]
+}]
+}

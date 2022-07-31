@@ -1,0 +1,16 @@
+{
+"Class" : "org.apache.commons.compress.archivers.zip.FallbackZipEncoding", 
+"Methods" : [{ "Name" : "encode" ,
+"Edges" : 4,
+"Duas" : 8,
+"0" : 1, 
+ "1" : 2, 
+ "5" : 1, 
+ "6" : 2},{ "Name" : "decode" ,
+"Edges" : 4,
+"Duas" : 8,
+"0" : 1, 
+ "1" : 2, 
+ "5" : 1, 
+ "6" : 2}]
+}

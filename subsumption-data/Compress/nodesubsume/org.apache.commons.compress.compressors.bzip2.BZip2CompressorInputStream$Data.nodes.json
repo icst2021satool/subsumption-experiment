@@ -1,0 +1,11 @@
+{
+"Class" : "org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream$Data", 
+"Methods" : [{ "Name" : "initTT" ,
+"Nodes" : 5,
+"0" : [ 965,959 ]
+"1" : [ 966 ]
+"2" : [ 969 ]
+"3" : [ 965 ]
+"4" : [  ]
+}]
+}

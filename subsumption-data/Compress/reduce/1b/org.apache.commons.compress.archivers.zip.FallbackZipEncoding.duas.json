@@ -1,0 +1,22 @@
+{
+"Class" : "org.apache.commons.compress.archivers.zip.FallbackZipEncoding", 
+"Methods" : [{ "Name" : "encode" ,
+"Duas" : 8,
+"0" :  "(76,(76,77), this)",
+"1" :  "(76,(76,79), this)",
+"2" :  "(76,79, this)",
+"3" :  "(76,79, name)",
+"4" :  "(76,77, name)",
+"5" :  "(76,(76,77), this.charset)",
+"6" :  "(76,(76,79), this.charset)",
+"7" :  "(76,79, this.charset)"},{ "Name" : "decode" ,
+"Duas" : 8,
+"0" :  "(88,(88,89), this)",
+"1" :  "(88,(88,91), this)",
+"2" :  "(88,91, this)",
+"3" :  "(88,91, data)",
+"4" :  "(88,89, data)",
+"5" :  "(88,(88,89), this.charset)",
+"6" :  "(88,(88,91), this.charset)",
+"7" :  "(88,91, this.charset)"}]
+}

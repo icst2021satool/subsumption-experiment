@@ -1,0 +1,1111 @@
+@@ Method, Nodes, Nduas, Time_s, Time_ms
+
+
+#org/apache/commons/compress/changes/Change/<init>:
+Method org.apache.commons.compress.changes.Change.<init> graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.changes.Change.<init>,4,4,0,5
+
+
+#org/apache/commons/compress/changes/Change/<init>:
+Method org.apache.commons.compress.changes.Change.<init> graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.changes.Change.<init>,5,7,0,1
+
+
+#org/apache/commons/compress/changes/ChangeSet/perform:
+Method org.apache.commons.compress.changes.ChangeSet.perform graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.changes.ChangeSet.perform,19,39,0,41
+
+
+#org/apache/commons/compress/changes/ChangeSet/addDeletion:
+Method org.apache.commons.compress.changes.ChangeSet.addDeletion graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.changes.ChangeSet.addDeletion,15,32,0,9
+
+
+#org/apache/commons/compress/changes/ChangeSet/isDeletedLater:
+Method org.apache.commons.compress.changes.ChangeSet.isDeletedLater graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.changes.ChangeSet.isDeletedLater,10,18,0,3
+
+
+#org/apache/commons/compress/archivers/ArchiveStreamFactory/createArchiveInputStream:
+Method org.apache.commons.compress.archivers.ArchiveStreamFactory.createArchiveInputStream graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.archivers.ArchiveStreamFactory.createArchiveInputStream,15,20,0,3
+
+
+#org/apache/commons/compress/archivers/ArchiveStreamFactory/createArchiveOutputStream:
+Method org.apache.commons.compress.archivers.ArchiveStreamFactory.createArchiveOutputStream graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.archivers.ArchiveStreamFactory.createArchiveOutputStream,15,20,0,2
+
+
+#org/apache/commons/compress/archivers/ArchiveStreamFactory/createArchiveInputStream:
+Method org.apache.commons.compress.archivers.ArchiveStreamFactory.createArchiveInputStream graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.archivers.ArchiveStreamFactory.createArchiveInputStream,16,30,0,3
+
+
+#org/apache/commons/compress/archivers/jar/JarArchiveEntry/getCertificates:
+Method org.apache.commons.compress.archivers.jar.JarArchiveEntry.getCertificates graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.archivers.jar.JarArchiveEntry.getCertificates,4,6,0,1
+
+
+#org/apache/commons/compress/archivers/jar/JarArchiveOutputStream/putNextEntry:
+Method org.apache.commons.compress.archivers.jar.JarArchiveOutputStream.putNextEntry graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.archivers.jar.JarArchiveOutputStream.putNextEntry,4,8,0,0
+
+
+#org/apache/commons/compress/archivers/jar/JarArchiveInputStream/getNextJarEntry:
+Method org.apache.commons.compress.archivers.jar.JarArchiveInputStream.getNextJarEntry graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.archivers.jar.JarArchiveInputStream.getNextJarEntry,5,3,0,0
+
+
+#org/apache/commons/compress/archivers/zip/ZipEncodingHelper/growBuffer:
+Method org.apache.commons.compress.archivers.zip.ZipEncodingHelper.growBuffer graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.archivers.zip.ZipEncodingHelper.growBuffer,5,6,0,0
+
+
+#org/apache/commons/compress/archivers/zip/ZipEncodingHelper/getZipEncoding:
+Method org.apache.commons.compress.archivers.zip.ZipEncodingHelper.getZipEncoding graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.archivers.zip.ZipEncodingHelper.getZipEncoding,8,11,0,1
+
+
+#org/apache/commons/compress/archivers/zip/ZipEncodingHelper/isUTF8:
+Method org.apache.commons.compress.archivers.zip.ZipEncodingHelper.isUTF8 graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.archivers.zip.ZipEncodingHelper.isUTF8,8,10,0,1
+
+
+#org/apache/commons/compress/archivers/zip/ZipShort/equals:
+Method org.apache.commons.compress.archivers.zip.ZipShort.equals graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.archivers.zip.ZipShort.equals,8,10,0,8
+
+
+#org/apache/commons/compress/archivers/zip/ZipEncodingHelper$SimpleEncodingHolder/getEncoding:
+Method org.apache.commons.compress.archivers.zip.ZipEncodingHelper$SimpleEncodingHolder.getEncoding graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.archivers.zip.ZipEncodingHelper$SimpleEncodingHolder.getEncoding,4,9,0,0
+
+
+#org/apache/commons/compress/archivers/zip/NioZipEncoding/encode:
+Method org.apache.commons.compress.archivers.zip.NioZipEncoding.encode graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.archivers.zip.NioZipEncoding.encode,17,49,0,13
+
+
+#org/apache/commons/compress/archivers/zip/ZipArchiveEntry/<init>:
+Method org.apache.commons.compress.archivers.zip.ZipArchiveEntry.<init> graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.archivers.zip.ZipArchiveEntry.<init>,5,5,0,1
+
+
+#org/apache/commons/compress/archivers/zip/ZipArchiveEntry/clone:
+Method org.apache.commons.compress.archivers.zip.ZipArchiveEntry.clone graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.archivers.zip.ZipArchiveEntry.clone,5,7,0,0
+
+
+#org/apache/commons/compress/archivers/zip/ZipArchiveEntry/setUnixMode:
+Method org.apache.commons.compress.archivers.zip.ZipArchiveEntry.setUnixMode graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.archivers.zip.ZipArchiveEntry.setUnixMode,8,6,0,1
+
+
+#org/apache/commons/compress/archivers/zip/ZipArchiveEntry/getUnixMode:
+Method org.apache.commons.compress.archivers.zip.ZipArchiveEntry.getUnixMode graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.archivers.zip.ZipArchiveEntry.getUnixMode,5,5,0,0
+
+
+#org/apache/commons/compress/archivers/zip/ZipArchiveEntry/setExtraFields:
+Method org.apache.commons.compress.archivers.zip.ZipArchiveEntry.setExtraFields graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.archivers.zip.ZipArchiveEntry.setExtraFields,5,12,0,1
+
+
+#org/apache/commons/compress/archivers/zip/ZipArchiveEntry/getExtraFields:
+Method org.apache.commons.compress.archivers.zip.ZipArchiveEntry.getExtraFields graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.archivers.zip.ZipArchiveEntry.getExtraFields,4,6,0,1
+
+
+#org/apache/commons/compress/archivers/zip/ZipArchiveEntry/addExtraField:
+Method org.apache.commons.compress.archivers.zip.ZipArchiveEntry.addExtraField graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.archivers.zip.ZipArchiveEntry.addExtraField,4,9,0,0
+
+
+#org/apache/commons/compress/archivers/zip/ZipArchiveEntry/addAsFirstExtraField:
+Method org.apache.commons.compress.archivers.zip.ZipArchiveEntry.addAsFirstExtraField graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.archivers.zip.ZipArchiveEntry.addAsFirstExtraField,4,7,0,1
+
+
+#org/apache/commons/compress/archivers/zip/ZipArchiveEntry/removeExtraField:
+Method org.apache.commons.compress.archivers.zip.ZipArchiveEntry.removeExtraField graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.archivers.zip.ZipArchiveEntry.removeExtraField,6,11,0,1
+
+
+#org/apache/commons/compress/archivers/zip/ZipArchiveEntry/getExtraField:
+Method org.apache.commons.compress.archivers.zip.ZipArchiveEntry.getExtraField graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.archivers.zip.ZipArchiveEntry.getExtraField,4,7,0,0
+
+
+#org/apache/commons/compress/archivers/zip/ZipArchiveEntry/getLocalFileDataExtra:
+Method org.apache.commons.compress.archivers.zip.ZipArchiveEntry.getLocalFileDataExtra graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.archivers.zip.ZipArchiveEntry.getLocalFileDataExtra,5,3,0,0
+
+
+#org/apache/commons/compress/archivers/zip/ZipArchiveEntry/getName:
+Method org.apache.commons.compress.archivers.zip.ZipArchiveEntry.getName graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.archivers.zip.ZipArchiveEntry.getName,5,6,0,0
+
+
+#org/apache/commons/compress/archivers/zip/ZipArchiveEntry/mergeExtraFields:
+Method org.apache.commons.compress.archivers.zip.ZipArchiveEntry.mergeExtraFields graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.archivers.zip.ZipArchiveEntry.mergeExtraFields,13,35,0,5
+
+
+#org/apache/commons/compress/archivers/zip/ExtraFieldUtils/createExtraField:
+Method org.apache.commons.compress.archivers.zip.ExtraFieldUtils.createExtraField graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.archivers.zip.ExtraFieldUtils.createExtraField,4,4,0,0
+
+
+#org/apache/commons/compress/archivers/zip/ExtraFieldUtils/parse:
+Method org.apache.commons.compress.archivers.zip.ExtraFieldUtils.parse graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.archivers.zip.ExtraFieldUtils.parse,10,38,0,6
+
+
+#org/apache/commons/compress/archivers/zip/ExtraFieldUtils/mergeLocalFileDataData:
+Method org.apache.commons.compress.archivers.zip.ExtraFieldUtils.mergeLocalFileDataData graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.archivers.zip.ExtraFieldUtils.mergeLocalFileDataData,8,26,0,3
+
+
+#org/apache/commons/compress/archivers/zip/ExtraFieldUtils/mergeCentralDirectoryData:
+Method org.apache.commons.compress.archivers.zip.ExtraFieldUtils.mergeCentralDirectoryData graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.archivers.zip.ExtraFieldUtils.mergeCentralDirectoryData,8,26,0,5
+
+
+#org/apache/commons/compress/archivers/zip/ZipUtil/toDosTime:
+Method org.apache.commons.compress.archivers.zip.ZipUtil.toDosTime graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.archivers.zip.ZipUtil.toDosTime,4,5,0,1
+
+
+#org/apache/commons/compress/archivers/zip/ZipUtil/adjustToLong:
+Method org.apache.commons.compress.archivers.zip.ZipUtil.adjustToLong graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.archivers.zip.ZipUtil.adjustToLong,4,4,0,0
+
+
+#org/apache/commons/compress/archivers/zip/ZipFile/<init>:
+Method org.apache.commons.compress.archivers.zip.ZipFile.<init> graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.archivers.zip.ZipFile.<init>,4,4,0,0
+
+
+#org/apache/commons/compress/archivers/zip/ZipFile/closeQuietly:
+Method org.apache.commons.compress.archivers.zip.ZipFile.closeQuietly graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.archivers.zip.ZipFile.closeQuietly,4,3,0,0
+
+
+#org/apache/commons/compress/archivers/zip/ZipFile/getInputStream:
+Method org.apache.commons.compress.archivers.zip.ZipFile.getInputStream graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.archivers.zip.ZipFile.getInputStream,7,11,0,1
+
+
+#org/apache/commons/compress/archivers/zip/ZipFile/populateFromCentralDirectory:
+Method org.apache.commons.compress.archivers.zip.ZipFile.populateFromCentralDirectory graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.archivers.zip.ZipFile.populateFromCentralDirectory,16,40,0,3
+
+
+#org/apache/commons/compress/archivers/zip/ZipFile/positionAtCentralDirectory:
+Method org.apache.commons.compress.archivers.zip.ZipFile.positionAtCentralDirectory graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.archivers.zip.ZipFile.positionAtCentralDirectory,14,52,0,6
+
+
+#org/apache/commons/compress/archivers/zip/ZipFile/resolveLocalFileHeaderData:
+Method org.apache.commons.compress.archivers.zip.ZipFile.resolveLocalFileHeaderData graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.archivers.zip.ZipFile.resolveLocalFileHeaderData,12,33,0,4
+
+
+#org/apache/commons/compress/archivers/zip/ZipFile/startsWithLocalFileHeader:
+Method org.apache.commons.compress.archivers.zip.ZipFile.startsWithLocalFileHeader graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.archivers.zip.ZipFile.startsWithLocalFileHeader,7,16,0,1
+
+
+#org/apache/commons/compress/archivers/zip/ZipFile/setNameAndCommentFromExtraFields:
+Method org.apache.commons.compress.archivers.zip.ZipFile.setNameAndCommentFromExtraFields graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.archivers.zip.ZipFile.setNameAndCommentFromExtraFields,9,23,0,0
+
+
+#org/apache/commons/compress/archivers/zip/ZipFile/getUnicodeStringIfOriginalMatches:
+Method org.apache.commons.compress.archivers.zip.ZipFile.getUnicodeStringIfOriginalMatches graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.archivers.zip.ZipFile.getUnicodeStringIfOriginalMatches,5,9,0,0
+
+
+#org/apache/commons/compress/archivers/zip/Simple8BitZipEncoding/<init>:
+Method org.apache.commons.compress.archivers.zip.Simple8BitZipEncoding.<init> graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.archivers.zip.Simple8BitZipEncoding.<init>,5,17,0,1
+
+
+#org/apache/commons/compress/archivers/zip/Simple8BitZipEncoding/decodeByte:
+Method org.apache.commons.compress.archivers.zip.Simple8BitZipEncoding.decodeByte graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.archivers.zip.Simple8BitZipEncoding.decodeByte,4,6,0,0
+
+
+#org/apache/commons/compress/archivers/zip/Simple8BitZipEncoding/canEncodeChar:
+Method org.apache.commons.compress.archivers.zip.Simple8BitZipEncoding.canEncodeChar graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.archivers.zip.Simple8BitZipEncoding.canEncodeChar,8,8,0,0
+
+
+#org/apache/commons/compress/archivers/zip/Simple8BitZipEncoding/pushEncodedChar:
+Method org.apache.commons.compress.archivers.zip.Simple8BitZipEncoding.pushEncodedChar graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.archivers.zip.Simple8BitZipEncoding.pushEncodedChar,7,13,0,1
+
+
+#org/apache/commons/compress/archivers/zip/Simple8BitZipEncoding/encodeHighChar:
+Method org.apache.commons.compress.archivers.zip.Simple8BitZipEncoding.encodeHighChar graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.archivers.zip.Simple8BitZipEncoding.encodeHighChar,14,48,0,4
+
+
+#org/apache/commons/compress/archivers/zip/Simple8BitZipEncoding/canEncode:
+Method org.apache.commons.compress.archivers.zip.Simple8BitZipEncoding.canEncode graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.archivers.zip.Simple8BitZipEncoding.canEncode,7,15,0,1
+
+
+#org/apache/commons/compress/archivers/zip/Simple8BitZipEncoding/encode:
+Method org.apache.commons.compress.archivers.zip.Simple8BitZipEncoding.encode graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.archivers.zip.Simple8BitZipEncoding.encode,9,30,0,2
+
+
+#org/apache/commons/compress/archivers/zip/Simple8BitZipEncoding/decode:
+Method org.apache.commons.compress.archivers.zip.Simple8BitZipEncoding.decode graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.archivers.zip.Simple8BitZipEncoding.decode,5,12,0,0
+
+
+#org/apache/commons/compress/archivers/zip/JarMarker/parseFromLocalFileData:
+Method org.apache.commons.compress.archivers.zip.JarMarker.parseFromLocalFileData graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.archivers.zip.JarMarker.parseFromLocalFileData,4,2,0,0
+
+
+#org/apache/commons/compress/archivers/zip/ZipFile$BoundedInputStream/read:
+Method org.apache.commons.compress.archivers.zip.ZipFile$BoundedInputStream.read graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.archivers.zip.ZipFile$BoundedInputStream.read,6,12,0,0
+
+
+#org/apache/commons/compress/archivers/zip/ZipFile$BoundedInputStream/read:
+Method org.apache.commons.compress.archivers.zip.ZipFile$BoundedInputStream.read graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.archivers.zip.ZipFile$BoundedInputStream.read,12,35,0,1
+
+
+#org/apache/commons/compress/archivers/zip/UnrecognizedExtraField/getCentralDirectoryLength:
+Method org.apache.commons.compress.archivers.zip.UnrecognizedExtraField.getCentralDirectoryLength graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.archivers.zip.UnrecognizedExtraField.getCentralDirectoryLength,4,7,0,1
+
+
+#org/apache/commons/compress/archivers/zip/UnrecognizedExtraField/getCentralDirectoryData:
+Method org.apache.commons.compress.archivers.zip.UnrecognizedExtraField.getCentralDirectoryData graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.archivers.zip.UnrecognizedExtraField.getCentralDirectoryData,4,7,0,0
+
+
+#org/apache/commons/compress/archivers/zip/UnrecognizedExtraField/parseFromCentralDirectoryData:
+Method org.apache.commons.compress.archivers.zip.UnrecognizedExtraField.parseFromCentralDirectoryData graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.archivers.zip.UnrecognizedExtraField.parseFromCentralDirectoryData,4,6,0,0
+
+
+#org/apache/commons/compress/archivers/zip/UnrecognizedExtraField/copy:
+Method org.apache.commons.compress.archivers.zip.UnrecognizedExtraField.copy graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.archivers.zip.UnrecognizedExtraField.copy,4,3,0,0
+
+
+#org/apache/commons/compress/archivers/zip/AbstractUnicodeExtraField/assembleData:
+Method org.apache.commons.compress.archivers.zip.AbstractUnicodeExtraField.assembleData graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.archivers.zip.AbstractUnicodeExtraField.assembleData,4,7,0,1
+
+
+#org/apache/commons/compress/archivers/zip/AbstractUnicodeExtraField/getCentralDirectoryData:
+Method org.apache.commons.compress.archivers.zip.AbstractUnicodeExtraField.getCentralDirectoryData graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.archivers.zip.AbstractUnicodeExtraField.getCentralDirectoryData,4,7,0,0
+
+
+#org/apache/commons/compress/archivers/zip/AbstractUnicodeExtraField/getCentralDirectoryLength:
+Method org.apache.commons.compress.archivers.zip.AbstractUnicodeExtraField.getCentralDirectoryLength graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.archivers.zip.AbstractUnicodeExtraField.getCentralDirectoryLength,4,7,0,1
+
+
+#org/apache/commons/compress/archivers/zip/AbstractUnicodeExtraField/parseFromLocalFileData:
+Method org.apache.commons.compress.archivers.zip.AbstractUnicodeExtraField.parseFromLocalFileData graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.archivers.zip.AbstractUnicodeExtraField.parseFromLocalFileData,6,11,0,5
+
+
+#org/apache/commons/compress/archivers/zip/ZipArchiveOutputStream/isSeekable:
+Method org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream.isSeekable graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream.isSeekable,5,4,0,0
+
+
+#org/apache/commons/compress/archivers/zip/ZipArchiveOutputStream/setUseLanguageEncodingFlag:
+Method org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream.setUseLanguageEncodingFlag graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream.setUseLanguageEncodingFlag,6,7,0,0
+
+
+#org/apache/commons/compress/archivers/zip/ZipArchiveOutputStream/finish:
+Method org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream.finish graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream.finish,5,9,0,0
+
+
+#org/apache/commons/compress/archivers/zip/ZipArchiveOutputStream/closeEntry:
+Method org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream.closeEntry graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream.closeEntry,17,62,0,3
+
+
+#org/apache/commons/compress/archivers/zip/ZipArchiveOutputStream/putNextEntry:
+Method org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream.putNextEntry graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream.putNextEntry,16,44,0,2
+
+
+#org/apache/commons/compress/archivers/zip/ZipArchiveOutputStream/setLevel:
+Method org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream.setLevel graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream.setLevel,8,13,0,0
+
+
+#org/apache/commons/compress/archivers/zip/ZipArchiveOutputStream/write:
+Method org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream.write graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream.write,14,51,0,2
+
+
+#org/apache/commons/compress/archivers/zip/ZipArchiveOutputStream/close:
+Method org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream.close graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream.close,6,12,0,0
+
+
+#org/apache/commons/compress/archivers/zip/ZipArchiveOutputStream/flush:
+Method org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream.flush graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream.flush,4,6,0,0
+
+
+#org/apache/commons/compress/archivers/zip/ZipArchiveOutputStream/deflate:
+Method org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream.deflate graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream.deflate,4,5,0,0
+
+
+#org/apache/commons/compress/archivers/zip/ZipArchiveOutputStream/writeLocalFileHeader:
+Method org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream.writeLocalFileHeader graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream.writeLocalFileHeader,23,77,0,7
+
+
+#org/apache/commons/compress/archivers/zip/ZipArchiveOutputStream/writeDataDescriptor:
+Method org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream.writeDataDescriptor graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream.writeDataDescriptor,5,10,0,0
+
+
+#org/apache/commons/compress/archivers/zip/ZipArchiveOutputStream/writeCentralFileHeader:
+Method org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream.writeCentralFileHeader graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream.writeCentralFileHeader,12,37,0,2
+
+
+#org/apache/commons/compress/archivers/zip/ZipArchiveOutputStream/writeOut:
+Method org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream.writeOut graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream.writeOut,5,14,0,1
+
+
+#org/apache/commons/compress/archivers/zip/ZipArchiveOutputStream/deflateUntilInputIsNeeded:
+Method org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream.deflateUntilInputIsNeeded graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream.deflateUntilInputIsNeeded,4,5,0,0
+
+
+#org/apache/commons/compress/archivers/zip/ZipArchiveOutputStream/writeVersionNeededToExtractAndGeneralPurposeBits:
+Method org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream.writeVersionNeededToExtractAndGeneralPurposeBits graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream.writeVersionNeededToExtractAndGeneralPurposeBits,9,18,0,1
+
+
+#org/apache/commons/compress/archivers/zip/FallbackZipEncoding/encode:
+Method org.apache.commons.compress.archivers.zip.FallbackZipEncoding.encode graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.archivers.zip.FallbackZipEncoding.encode,4,8,0,0
+
+
+#org/apache/commons/compress/archivers/zip/FallbackZipEncoding/decode:
+Method org.apache.commons.compress.archivers.zip.FallbackZipEncoding.decode graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.archivers.zip.FallbackZipEncoding.decode,4,8,0,0
+
+
+#org/apache/commons/compress/archivers/zip/ZipArchiveInputStream/getNextZipEntry:
+Method org.apache.commons.compress.archivers.zip.ZipArchiveInputStream.getNextZipEntry graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.archivers.zip.ZipArchiveInputStream.getNextZipEntry,4,3,0,0
+
+
+#org/apache/commons/compress/archivers/zip/ZipArchiveInputStream/matches:
+Method org.apache.commons.compress.archivers.zip.ZipArchiveInputStream.matches graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.archivers.zip.ZipArchiveInputStream.matches,9,20,0,1
+
+
+#org/apache/commons/compress/archivers/zip/ZipLong/equals:
+Method org.apache.commons.compress.archivers.zip.ZipLong.equals graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.archivers.zip.ZipLong.equals,8,10,0,1
+
+
+#org/apache/commons/compress/archivers/zip/AsiExtraField/isLink:
+Method org.apache.commons.compress.archivers.zip.AsiExtraField.isLink graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.archivers.zip.AsiExtraField.isLink,5,2,0,0
+
+
+#org/apache/commons/compress/archivers/zip/AsiExtraField/isDirectory:
+Method org.apache.commons.compress.archivers.zip.AsiExtraField.isDirectory graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.archivers.zip.AsiExtraField.isDirectory,6,6,0,0
+
+
+#org/apache/commons/compress/archivers/zip/AsiExtraField/parseFromLocalFileData:
+Method org.apache.commons.compress.archivers.zip.AsiExtraField.parseFromLocalFileData graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.archivers.zip.AsiExtraField.parseFromLocalFileData,10,18,0,1
+
+
+#org/apache/commons/compress/archivers/zip/AsiExtraField/getMode:
+Method org.apache.commons.compress.archivers.zip.AsiExtraField.getMode graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.archivers.zip.AsiExtraField.getMode,6,8,0,0
+
+
+#org/apache/commons/compress/archivers/ar/ArArchiveInputStream/getNextArEntry:
+Method org.apache.commons.compress.archivers.ar.ArArchiveInputStream.getNextArEntry graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.archivers.ar.ArArchiveInputStream.getNextArEntry,21,58,0,5
+
+
+#org/apache/commons/compress/archivers/ar/ArArchiveInputStream/matches:
+Method org.apache.commons.compress.archivers.ar.ArArchiveInputStream.matches graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.archivers.ar.ArArchiveInputStream.matches,20,18,0,1
+
+
+#org/apache/commons/compress/archivers/ar/ArArchiveOutputStream/closeArchiveEntry:
+Method org.apache.commons.compress.archivers.ar.ArArchiveOutputStream.closeArchiveEntry graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.archivers.ar.ArArchiveOutputStream.closeArchiveEntry,4,7,0,0
+
+
+#org/apache/commons/compress/archivers/ar/ArArchiveOutputStream/putArchiveEntry:
+Method org.apache.commons.compress.archivers.ar.ArArchiveOutputStream.putArchiveEntry graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.archivers.ar.ArArchiveOutputStream.putArchiveEntry,7,20,0,0
+
+
+#org/apache/commons/compress/archivers/ar/ArArchiveOutputStream/fill:
+Method org.apache.commons.compress.archivers.ar.ArArchiveOutputStream.fill graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.archivers.ar.ArArchiveOutputStream.fill,6,13,0,0
+
+
+#org/apache/commons/compress/archivers/ar/ArArchiveOutputStream/writeEntryHeader:
+Method org.apache.commons.compress.archivers.ar.ArArchiveOutputStream.writeEntryHeader graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.archivers.ar.ArArchiveOutputStream.writeEntryHeader,14,35,0,1
+
+
+#org/apache/commons/compress/archivers/tar/TarArchiveEntry/<init>:
+Method org.apache.commons.compress.archivers.tar.TarArchiveEntry.<init> graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.archivers.tar.TarArchiveEntry.<init>,4,6,0,0
+
+
+#org/apache/commons/compress/archivers/tar/TarArchiveEntry/<init>:
+Method org.apache.commons.compress.archivers.tar.TarArchiveEntry.<init> graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.archivers.tar.TarArchiveEntry.<init>,8,6,0,1
+
+
+#org/apache/commons/compress/archivers/tar/TarArchiveEntry/<init>:
+Method org.apache.commons.compress.archivers.tar.TarArchiveEntry.<init> graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.archivers.tar.TarArchiveEntry.<init>,8,19,0,1
+
+
+#org/apache/commons/compress/archivers/tar/TarArchiveEntry/equals:
+Method org.apache.commons.compress.archivers.tar.TarArchiveEntry.equals graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.archivers.tar.TarArchiveEntry.equals,5,8,0,0
+
+
+#org/apache/commons/compress/archivers/tar/TarArchiveEntry/isGNULongNameEntry:
+Method org.apache.commons.compress.archivers.tar.TarArchiveEntry.isGNULongNameEntry graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.archivers.tar.TarArchiveEntry.isGNULongNameEntry,6,8,0,1
+
+
+#org/apache/commons/compress/archivers/tar/TarArchiveEntry/isDirectory:
+Method org.apache.commons.compress.archivers.tar.TarArchiveEntry.isDirectory graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.archivers.tar.TarArchiveEntry.isDirectory,8,12,0,0
+
+
+#org/apache/commons/compress/archivers/tar/TarArchiveEntry/getDirectoryEntries:
+Method org.apache.commons.compress.archivers.tar.TarArchiveEntry.getDirectoryEntries graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.archivers.tar.TarArchiveEntry.getDirectoryEntries,8,23,0,1
+
+
+#org/apache/commons/compress/archivers/tar/TarArchiveEntry/writeEntryHeader:
+Method org.apache.commons.compress.archivers.tar.TarArchiveEntry.writeEntryHeader graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.archivers.tar.TarArchiveEntry.writeEntryHeader,8,31,0,1
+
+
+#org/apache/commons/compress/archivers/tar/TarArchiveEntry/normalizeFileName:
+Method org.apache.commons.compress.archivers.tar.TarArchiveEntry.normalizeFileName graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.archivers.tar.TarArchiveEntry.normalizeFileName,18,37,0,2
+
+
+#org/apache/commons/compress/archivers/tar/TarUtils/parseOctal:
+Method org.apache.commons.compress.archivers.tar.TarUtils.parseOctal graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.archivers.tar.TarUtils.parseOctal,14,43,0,5
+
+
+#org/apache/commons/compress/archivers/tar/TarUtils/parseName:
+Method org.apache.commons.compress.archivers.tar.TarUtils.parseName graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.archivers.tar.TarUtils.parseName,7,17,0,1
+
+
+#org/apache/commons/compress/archivers/tar/TarUtils/getNameBytes:
+Method org.apache.commons.compress.archivers.tar.TarUtils.getNameBytes graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.archivers.tar.TarUtils.getNameBytes,8,32,0,4
+
+
+#org/apache/commons/compress/archivers/tar/TarUtils/getOctalBytes:
+Method org.apache.commons.compress.archivers.tar.TarUtils.getOctalBytes graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.archivers.tar.TarUtils.getOctalBytes,10,36,0,2
+
+
+#org/apache/commons/compress/archivers/tar/TarUtils/computeCheckSum:
+Method org.apache.commons.compress.archivers.tar.TarUtils.computeCheckSum graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.archivers.tar.TarUtils.computeCheckSum,5,13,0,0
+
+
+#org/apache/commons/compress/archivers/tar/TarArchiveOutputStream/close:
+Method org.apache.commons.compress.archivers.tar.TarArchiveOutputStream.close graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.archivers.tar.TarArchiveOutputStream.close,4,7,0,0
+
+
+#org/apache/commons/compress/archivers/tar/TarArchiveOutputStream/putNextEntry:
+Method org.apache.commons.compress.archivers.tar.TarArchiveOutputStream.putNextEntry graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.archivers.tar.TarArchiveOutputStream.putNextEntry,10,24,0,1
+
+
+#org/apache/commons/compress/archivers/tar/TarArchiveOutputStream/closeEntry:
+Method org.apache.commons.compress.archivers.tar.TarArchiveOutputStream.closeEntry graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.archivers.tar.TarArchiveOutputStream.closeEntry,9,36,0,1
+
+
+#org/apache/commons/compress/archivers/tar/TarArchiveOutputStream/write:
+Method org.apache.commons.compress.archivers.tar.TarArchiveOutputStream.write graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.archivers.tar.TarArchiveOutputStream.write,12,88,0,5
+
+
+#org/apache/commons/compress/archivers/tar/TarArchiveOutputStream/writeEOFRecord:
+Method org.apache.commons.compress.archivers.tar.TarArchiveOutputStream.writeEOFRecord graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.archivers.tar.TarArchiveOutputStream.writeEOFRecord,5,15,0,0
+
+
+#org/apache/commons/compress/archivers/tar/TarArchiveInputStream/available:
+Method org.apache.commons.compress.archivers.tar.TarArchiveInputStream.available graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.archivers.tar.TarArchiveInputStream.available,4,9,0,0
+
+
+#org/apache/commons/compress/archivers/tar/TarArchiveInputStream/skip:
+Method org.apache.commons.compress.archivers.tar.TarArchiveInputStream.skip graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.archivers.tar.TarArchiveInputStream.skip,10,22,0,2
+
+
+#org/apache/commons/compress/archivers/tar/TarArchiveInputStream/getNextTarEntry:
+Method org.apache.commons.compress.archivers.tar.TarArchiveInputStream.getNextTarEntry graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.archivers.tar.TarArchiveInputStream.getNextTarEntry,36,116,0,13
+
+
+#org/apache/commons/compress/archivers/tar/TarArchiveInputStream/read:
+Method org.apache.commons.compress.archivers.tar.TarArchiveInputStream.read graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.archivers.tar.TarArchiveInputStream.read,5,4,0,0
+
+
+#org/apache/commons/compress/archivers/tar/TarArchiveInputStream/read:
+Method org.apache.commons.compress.archivers.tar.TarArchiveInputStream.read graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.archivers.tar.TarArchiveInputStream.read,21,106,0,8
+
+
+#org/apache/commons/compress/archivers/tar/TarArchiveInputStream/copyEntryContents:
+Method org.apache.commons.compress.archivers.tar.TarArchiveInputStream.copyEntryContents graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.archivers.tar.TarArchiveInputStream.copyEntryContents,5,7,0,0
+
+
+#org/apache/commons/compress/archivers/tar/TarArchiveInputStream/matches:
+Method org.apache.commons.compress.archivers.tar.TarArchiveInputStream.matches graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.archivers.tar.TarArchiveInputStream.matches,20,18,0,1
+
+
+#org/apache/commons/compress/archivers/tar/TarBuffer/initialize:
+Method org.apache.commons.compress.archivers.tar.TarBuffer.initialize graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.archivers.tar.TarBuffer.initialize,5,7,0,0
+
+
+#org/apache/commons/compress/archivers/tar/TarBuffer/isEOFRecord:
+Method org.apache.commons.compress.archivers.tar.TarBuffer.isEOFRecord graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.archivers.tar.TarBuffer.isEOFRecord,7,14,0,0
+
+
+#org/apache/commons/compress/archivers/tar/TarBuffer/skipRecord:
+Method org.apache.commons.compress.archivers.tar.TarBuffer.skipRecord graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.archivers.tar.TarBuffer.skipRecord,9,22,0,0
+
+
+#org/apache/commons/compress/archivers/tar/TarBuffer/readRecord:
+Method org.apache.commons.compress.archivers.tar.TarBuffer.readRecord graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.archivers.tar.TarBuffer.readRecord,9,24,0,1
+
+
+#org/apache/commons/compress/archivers/tar/TarBuffer/readBlock:
+Method org.apache.commons.compress.archivers.tar.TarBuffer.readBlock graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.archivers.tar.TarBuffer.readBlock,16,57,0,5
+
+
+#org/apache/commons/compress/archivers/tar/TarBuffer/writeRecord:
+Method org.apache.commons.compress.archivers.tar.TarBuffer.writeRecord graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.archivers.tar.TarBuffer.writeRecord,10,33,0,4
+
+
+#org/apache/commons/compress/archivers/tar/TarBuffer/writeRecord:
+Method org.apache.commons.compress.archivers.tar.TarBuffer.writeRecord graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.archivers.tar.TarBuffer.writeRecord,10,37,0,1
+
+
+#org/apache/commons/compress/archivers/tar/TarBuffer/writeBlock:
+Method org.apache.commons.compress.archivers.tar.TarBuffer.writeBlock graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.archivers.tar.TarBuffer.writeBlock,6,16,0,1
+
+
+#org/apache/commons/compress/archivers/tar/TarBuffer/flushBlock:
+Method org.apache.commons.compress.archivers.tar.TarBuffer.flushBlock graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.archivers.tar.TarBuffer.flushBlock,8,14,0,0
+
+
+#org/apache/commons/compress/archivers/tar/TarBuffer/close:
+Method org.apache.commons.compress.archivers.tar.TarBuffer.close graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.archivers.tar.TarBuffer.close,11,36,0,1
+
+
+#org/apache/commons/compress/archivers/cpio/CpioArchiveOutputStream/ensureOpen:
+Method org.apache.commons.compress.archivers.cpio.CpioArchiveOutputStream.ensureOpen graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.archivers.cpio.CpioArchiveOutputStream.ensureOpen,4,4,0,0
+
+
+#org/apache/commons/compress/archivers/cpio/CpioArchiveOutputStream/setFormat:
+Method org.apache.commons.compress.archivers.cpio.CpioArchiveOutputStream.setFormat graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.archivers.cpio.CpioArchiveOutputStream.setFormat,4,4,0,0
+
+
+#org/apache/commons/compress/archivers/cpio/CpioArchiveOutputStream/putNextEntry:
+Method org.apache.commons.compress.archivers.cpio.CpioArchiveOutputStream.putNextEntry graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.archivers.cpio.CpioArchiveOutputStream.putNextEntry,10,22,0,1
+
+
+#org/apache/commons/compress/archivers/cpio/CpioArchiveOutputStream/writeHeader:
+Method org.apache.commons.compress.archivers.cpio.CpioArchiveOutputStream.writeHeader graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.archivers.cpio.CpioArchiveOutputStream.writeHeader,7,16,0,1
+
+
+#org/apache/commons/compress/archivers/cpio/CpioArchiveOutputStream/closeArchiveEntry:
+Method org.apache.commons.compress.archivers.cpio.CpioArchiveOutputStream.closeArchiveEntry graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.archivers.cpio.CpioArchiveOutputStream.closeArchiveEntry,11,32,0,1
+
+
+#org/apache/commons/compress/archivers/cpio/CpioArchiveOutputStream/write:
+Method org.apache.commons.compress.archivers.cpio.CpioArchiveOutputStream.write graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.archivers.cpio.CpioArchiveOutputStream.write,16,46,0,2
+
+
+#org/apache/commons/compress/archivers/cpio/CpioArchiveOutputStream/finish:
+Method org.apache.commons.compress.archivers.cpio.CpioArchiveOutputStream.finish graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.archivers.cpio.CpioArchiveOutputStream.finish,6,11,0,0
+
+
+#org/apache/commons/compress/archivers/cpio/CpioArchiveOutputStream/close:
+Method org.apache.commons.compress.archivers.cpio.CpioArchiveOutputStream.close graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.archivers.cpio.CpioArchiveOutputStream.close,4,5,0,0
+
+
+#org/apache/commons/compress/archivers/cpio/CpioArchiveOutputStream/pad:
+Method org.apache.commons.compress.archivers.cpio.CpioArchiveOutputStream.pad graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.archivers.cpio.CpioArchiveOutputStream.pad,4,6,0,1
+
+
+#org/apache/commons/compress/archivers/cpio/CpioArchiveOutputStream/writeAsciiLong:
+Method org.apache.commons.compress.archivers.cpio.CpioArchiveOutputStream.writeAsciiLong graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.archivers.cpio.CpioArchiveOutputStream.writeAsciiLong,13,32,0,1
+
+
+#org/apache/commons/compress/archivers/cpio/CpioUtil/byteArray2long:
+Method org.apache.commons.compress.archivers.cpio.CpioUtil.byteArray2long graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.archivers.cpio.CpioUtil.byteArray2long,11,27,0,2
+
+
+#org/apache/commons/compress/archivers/cpio/CpioUtil/long2byteArray:
+Method org.apache.commons.compress.archivers.cpio.CpioUtil.long2byteArray graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.archivers.cpio.CpioUtil.long2byteArray,12,27,0,1
+
+
+#org/apache/commons/compress/archivers/cpio/CpioArchiveInputStream/available:
+Method org.apache.commons.compress.archivers.cpio.CpioArchiveInputStream.available graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.archivers.cpio.CpioArchiveInputStream.available,4,4,0,0
+
+
+#org/apache/commons/compress/archivers/cpio/CpioArchiveInputStream/close:
+Method org.apache.commons.compress.archivers.cpio.CpioArchiveInputStream.close graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.archivers.cpio.CpioArchiveInputStream.close,4,5,0,0
+
+
+#org/apache/commons/compress/archivers/cpio/CpioArchiveInputStream/closeEntry:
+Method org.apache.commons.compress.archivers.cpio.CpioArchiveInputStream.closeEntry graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.archivers.cpio.CpioArchiveInputStream.closeEntry,5,5,0,0
+
+
+#org/apache/commons/compress/archivers/cpio/CpioArchiveInputStream/ensureOpen:
+Method org.apache.commons.compress.archivers.cpio.CpioArchiveInputStream.ensureOpen graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.archivers.cpio.CpioArchiveInputStream.ensureOpen,4,4,0,0
+
+
+#org/apache/commons/compress/archivers/cpio/CpioArchiveInputStream/getNextCPIOEntry:
+Method org.apache.commons.compress.archivers.cpio.CpioArchiveInputStream.getNextCPIOEntry graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.archivers.cpio.CpioArchiveInputStream.getNextCPIOEntry,17,44,0,3
+
+
+#org/apache/commons/compress/archivers/cpio/CpioArchiveInputStream/pad:
+Method org.apache.commons.compress.archivers.cpio.CpioArchiveInputStream.pad graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.archivers.cpio.CpioArchiveInputStream.pad,4,8,0,1
+
+
+#org/apache/commons/compress/archivers/cpio/CpioArchiveInputStream/read:
+Method org.apache.commons.compress.archivers.cpio.CpioArchiveInputStream.read graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.archivers.cpio.CpioArchiveInputStream.read,5,6,0,0
+
+
+#org/apache/commons/compress/archivers/cpio/CpioArchiveInputStream/read:
+Method org.apache.commons.compress.archivers.cpio.CpioArchiveInputStream.read graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.archivers.cpio.CpioArchiveInputStream.read,26,79,0,5
+
+
+#org/apache/commons/compress/archivers/cpio/CpioArchiveInputStream/readFully:
+Method org.apache.commons.compress.archivers.cpio.CpioArchiveInputStream.readFully graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.archivers.cpio.CpioArchiveInputStream.readFully,9,22,0,1
+
+
+#org/apache/commons/compress/archivers/cpio/CpioArchiveInputStream/readNewEntry:
+Method org.apache.commons.compress.archivers.cpio.CpioArchiveInputStream.readNewEntry graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.archivers.cpio.CpioArchiveInputStream.readNewEntry,5,5,0,0
+
+
+#org/apache/commons/compress/archivers/cpio/CpioArchiveInputStream/skip:
+Method org.apache.commons.compress.archivers.cpio.CpioArchiveInputStream.skip graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.archivers.cpio.CpioArchiveInputStream.skip,11,33,0,2
+
+
+#org/apache/commons/compress/archivers/cpio/CpioArchiveInputStream/matches:
+Method org.apache.commons.compress.archivers.cpio.CpioArchiveInputStream.matches graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.archivers.cpio.CpioArchiveInputStream.matches,14,12,0,0
+
+
+#org/apache/commons/compress/archivers/cpio/CpioArchiveEntry/checkNewFormat:
+Method org.apache.commons.compress.archivers.cpio.CpioArchiveEntry.checkNewFormat graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.archivers.cpio.CpioArchiveEntry.checkNewFormat,4,4,0,0
+
+
+#org/apache/commons/compress/archivers/cpio/CpioArchiveEntry/checkOldFormat:
+Method org.apache.commons.compress.archivers.cpio.CpioArchiveEntry.checkOldFormat graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.archivers.cpio.CpioArchiveEntry.checkOldFormat,4,4,0,0
+
+
+#org/apache/commons/compress/archivers/cpio/CpioArchiveEntry/isBlockDevice:
+Method org.apache.commons.compress.archivers.cpio.CpioArchiveEntry.isBlockDevice graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.archivers.cpio.CpioArchiveEntry.isBlockDevice,5,4,0,0
+
+
+#org/apache/commons/compress/archivers/cpio/CpioArchiveEntry/isCharacterDevice:
+Method org.apache.commons.compress.archivers.cpio.CpioArchiveEntry.isCharacterDevice graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.archivers.cpio.CpioArchiveEntry.isCharacterDevice,5,4,0,0
+
+
+#org/apache/commons/compress/archivers/cpio/CpioArchiveEntry/isDirectory:
+Method org.apache.commons.compress.archivers.cpio.CpioArchiveEntry.isDirectory graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.archivers.cpio.CpioArchiveEntry.isDirectory,5,4,0,0
+
+
+#org/apache/commons/compress/archivers/cpio/CpioArchiveEntry/isNetwork:
+Method org.apache.commons.compress.archivers.cpio.CpioArchiveEntry.isNetwork graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.archivers.cpio.CpioArchiveEntry.isNetwork,5,4,0,0
+
+
+#org/apache/commons/compress/archivers/cpio/CpioArchiveEntry/isPipe:
+Method org.apache.commons.compress.archivers.cpio.CpioArchiveEntry.isPipe graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.archivers.cpio.CpioArchiveEntry.isPipe,5,4,0,0
+
+
+#org/apache/commons/compress/archivers/cpio/CpioArchiveEntry/isRegularFile:
+Method org.apache.commons.compress.archivers.cpio.CpioArchiveEntry.isRegularFile graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.archivers.cpio.CpioArchiveEntry.isRegularFile,5,4,0,0
+
+
+#org/apache/commons/compress/archivers/cpio/CpioArchiveEntry/isSocket:
+Method org.apache.commons.compress.archivers.cpio.CpioArchiveEntry.isSocket graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.archivers.cpio.CpioArchiveEntry.isSocket,5,4,0,0
+
+
+#org/apache/commons/compress/archivers/cpio/CpioArchiveEntry/isSymbolicLink:
+Method org.apache.commons.compress.archivers.cpio.CpioArchiveEntry.isSymbolicLink graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.archivers.cpio.CpioArchiveEntry.isSymbolicLink,5,4,0,0
+
+
+#org/apache/commons/compress/archivers/cpio/CpioArchiveEntry/setSize:
+Method org.apache.commons.compress.archivers.cpio.CpioArchiveEntry.setSize graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.archivers.cpio.CpioArchiveEntry.setSize,5,7,0,0
+
+
+#org/apache/commons/compress/archivers/cpio/CpioArchiveEntry/setFormat:
+Method org.apache.commons.compress.archivers.cpio.CpioArchiveEntry.setFormat graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.archivers.cpio.CpioArchiveEntry.setFormat,8,9,0,1
+
+
+#org/apache/commons/compress/archivers/cpio/CpioArchiveEntry/setMode:
+Method org.apache.commons.compress.archivers.cpio.CpioArchiveEntry.setMode graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.archivers.cpio.CpioArchiveEntry.setMode,5,5,0,0
+
+
+#org/apache/commons/compress/utils/IOUtils/copy:
+Method org.apache.commons.compress.utils.IOUtils.copy graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.utils.IOUtils.copy,5,9,0,0
+
+
+#org/apache/commons/compress/compressors/CompressorStreamFactory/createCompressorInputStream:
+Method org.apache.commons.compress.compressors.CompressorStreamFactory.createCompressorInputStream graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.compressors.CompressorStreamFactory.createCompressorInputStream,9,11,0,1
+
+
+#org/apache/commons/compress/compressors/CompressorStreamFactory/createCompressorOutputStream:
+Method org.apache.commons.compress.compressors.CompressorStreamFactory.createCompressorOutputStream graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.compressors.CompressorStreamFactory.createCompressorOutputStream,9,11,0,1
+
+
+#org/apache/commons/compress/compressors/bzip2/BZip2CompressorInputStream$Data/initTT:
+Method org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream$Data.initTT graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream$Data.initTT,5,10,0,0
+
+
+#org/apache/commons/compress/compressors/bzip2/BZip2CompressorOutputStream/makeMaps:
+Method org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream.makeMaps graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream.makeMaps,7,21,0,1
+
+
+#org/apache/commons/compress/compressors/bzip2/BZip2CompressorOutputStream/hbMakeCodeLengths:
+Method org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream.hbMakeCodeLengths graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream.hbMakeCodeLengths,56,222,0,121
+
+
+#org/apache/commons/compress/compressors/bzip2/BZip2CompressorOutputStream/<init>:
+Method org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream.<init> graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream.<init>,6,10,0,1
+
+
+#org/apache/commons/compress/compressors/bzip2/BZip2CompressorOutputStream/write:
+Method org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream.write graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream.write,8,22,0,1
+
+
+#org/apache/commons/compress/compressors/bzip2/BZip2CompressorOutputStream/writeRun:
+Method org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream.writeRun graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream.writeRun,12,49,0,2
+
+
+#org/apache/commons/compress/compressors/bzip2/BZip2CompressorOutputStream/close:
+Method org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream.close graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream.close,4,6,0,0
+
+
+#org/apache/commons/compress/compressors/bzip2/BZip2CompressorOutputStream/finish:
+Method org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream.finish graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream.finish,6,10,0,0
+
+
+#org/apache/commons/compress/compressors/bzip2/BZip2CompressorOutputStream/initBlock:
+Method org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream.initBlock graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream.initBlock,5,10,0,0
+
+
+#org/apache/commons/compress/compressors/bzip2/BZip2CompressorOutputStream/endBlock:
+Method org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream.endBlock graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream.endBlock,7,14,0,1
+
+
+#org/apache/commons/compress/compressors/bzip2/BZip2CompressorOutputStream/hbAssignCodes:
+Method org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream.hbAssignCodes graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream.hbAssignCodes,10,35,0,1
+
+
+#org/apache/commons/compress/compressors/bzip2/BZip2CompressorOutputStream/bsFinishedWithStream:
+Method org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream.bsFinishedWithStream graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream.bsFinishedWithStream,4,9,0,0
+
+
+#org/apache/commons/compress/compressors/bzip2/BZip2CompressorOutputStream/bsW:
+Method org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream.bsW graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream.bsW,4,14,0,1
+
+
+#org/apache/commons/compress/compressors/bzip2/BZip2CompressorOutputStream/sendMTFValues:
+Method org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream.sendMTFValues graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream.sendMTFValues,158,797,0,495
+
+
+#org/apache/commons/compress/compressors/bzip2/BZip2CompressorOutputStream/simpleSort:
+Method org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream.simpleSort graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream.simpleSort,32,155,0,32
+
+
+#org/apache/commons/compress/compressors/bzip2/BZip2CompressorOutputStream/vswap:
+Method org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream.vswap graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream.vswap,5,12,0,1
+
+
+#org/apache/commons/compress/compressors/bzip2/BZip2CompressorOutputStream/med3:
+Method org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream.med3 graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream.med3,8,29,0,1
+
+
+#org/apache/commons/compress/compressors/bzip2/BZip2CompressorOutputStream/qSort3:
+Method org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream.qSort3 graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream.qSort3,37,218,0,74
+
+
+#org/apache/commons/compress/compressors/bzip2/BZip2CompressorOutputStream/mainSort:
+Method org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream.mainSort graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream.mainSort,81,315,0,145
+
+
+#org/apache/commons/compress/compressors/bzip2/BZip2CompressorOutputStream/randomiseBlock:
+Method org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream.randomiseBlock graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream.randomiseBlock,14,36,0,3
+
+
+#org/apache/commons/compress/compressors/bzip2/BZip2CompressorOutputStream/doReversibleTransformation:
+Method org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream.doReversibleTransformation graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream.doReversibleTransformation,12,39,0,3
+
+
+#org/apache/commons/compress/compressors/bzip2/BZip2CompressorOutputStream/fullGtU:
+Method org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream.fullGtU graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream.fullGtU,78,207,0,47
+
+
+#org/apache/commons/compress/compressors/bzip2/BZip2CompressorOutputStream/allocateCompressStructures:
+Method org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream.allocateCompressStructures graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream.allocateCompressStructures,6,16,0,1
+
+
+#org/apache/commons/compress/compressors/bzip2/BZip2CompressorOutputStream/generateMTFValues:
+Method org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream.generateMTFValues graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream.generateMTFValues,33,146,0,32
+
+
+#org/apache/commons/compress/compressors/bzip2/CRC/updateCRC:
+Method org.apache.commons.compress.compressors.bzip2.CRC.updateCRC graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.compressors.bzip2.CRC.updateCRC,4,8,0,0
+
+
+#org/apache/commons/compress/compressors/bzip2/CRC/updateCRC:
+Method org.apache.commons.compress.compressors.bzip2.CRC.updateCRC graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.compressors.bzip2.CRC.updateCRC,8,16,0,0
+
+
+#org/apache/commons/compress/compressors/bzip2/BZip2CompressorInputStream/read:
+Method org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.read graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.read,4,5,0,0
+
+
+#org/apache/commons/compress/compressors/bzip2/BZip2CompressorInputStream/read:
+Method org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.read graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.read,17,43,0,2
+
+
+#org/apache/commons/compress/compressors/bzip2/BZip2CompressorInputStream/makeMaps:
+Method org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.makeMaps graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.makeMaps,7,20,0,1
+
+
+#org/apache/commons/compress/compressors/bzip2/BZip2CompressorInputStream/read0:
+Method org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.read0 graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.read0,12,23,0,0
+
+
+#org/apache/commons/compress/compressors/bzip2/BZip2CompressorInputStream/init:
+Method org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.init graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.init,9,17,0,1
+
+
+#org/apache/commons/compress/compressors/bzip2/BZip2CompressorInputStream/checkMagicChar:
+Method org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.checkMagicChar graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.checkMagicChar,4,7,0,0
+
+
+#org/apache/commons/compress/compressors/bzip2/BZip2CompressorInputStream/initBlock:
+Method org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.initBlock graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.initBlock,22,38,0,2
+
+
+#org/apache/commons/compress/compressors/bzip2/BZip2CompressorInputStream/endBlock:
+Method org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.endBlock graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.endBlock,4,12,0,1
+
+
+#org/apache/commons/compress/compressors/bzip2/BZip2CompressorInputStream/complete:
+Method org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.complete graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.complete,4,6,0,0
+
+
+#org/apache/commons/compress/compressors/bzip2/BZip2CompressorInputStream/close:
+Method org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.close graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.close,6,8,0,0
+
+
+#org/apache/commons/compress/compressors/bzip2/BZip2CompressorInputStream/bsR:
+Method org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.bsR graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.bsR,8,26,0,0
+
+
+#org/apache/commons/compress/compressors/bzip2/BZip2CompressorInputStream/bsGetBit:
+Method org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.bsGetBit graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.bsGetBit,9,21,0,0
+
+
+#org/apache/commons/compress/compressors/bzip2/BZip2CompressorInputStream/hbCreateDecodeTables:
+Method org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.hbCreateDecodeTables graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.hbCreateDecodeTables,25,85,0,5
+
+
+#org/apache/commons/compress/compressors/bzip2/BZip2CompressorInputStream/recvDecodingTables:
+Method org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.recvDecodingTables graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.recvDecodingTables,45,126,0,20
+
+
+#org/apache/commons/compress/compressors/bzip2/BZip2CompressorInputStream/createHuffmanDecodingTables:
+Method org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.createHuffmanDecodingTables graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.createHuffmanDecodingTables,12,42,0,3
+
+
+#org/apache/commons/compress/compressors/bzip2/BZip2CompressorInputStream/getAndMoveToFrontDecode:
+Method org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.getAndMoveToFrontDecode graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.getAndMoveToFrontDecode,62,378,0,161
+
+
+#org/apache/commons/compress/compressors/bzip2/BZip2CompressorInputStream/getAndMoveToFrontDecode0:
+Method org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.getAndMoveToFrontDecode0 graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.getAndMoveToFrontDecode0,10,47,0,3
+
+
+#org/apache/commons/compress/compressors/bzip2/BZip2CompressorInputStream/setupBlock:
+Method org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.setupBlock graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.setupBlock,16,51,0,3
+
+
+#org/apache/commons/compress/compressors/bzip2/BZip2CompressorInputStream/setupRandPartA:
+Method org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.setupRandPartA graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.setupRandPartA,12,37,0,1
+
+
+#org/apache/commons/compress/compressors/bzip2/BZip2CompressorInputStream/setupNoRandPartA:
+Method org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.setupNoRandPartA graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.setupNoRandPartA,5,15,0,0
+
+
+#org/apache/commons/compress/compressors/bzip2/BZip2CompressorInputStream/setupRandPartB:
+Method org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.setupRandPartB graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.setupRandPartB,13,43,0,1
+
+
+#org/apache/commons/compress/compressors/bzip2/BZip2CompressorInputStream/setupRandPartC:
+Method org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.setupRandPartC graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.setupRandPartC,5,12,0,0
+
+
+#org/apache/commons/compress/compressors/bzip2/BZip2CompressorInputStream/setupNoRandPartB:
+Method org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.setupNoRandPartB graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.setupNoRandPartB,7,19,0,0
+
+
+#org/apache/commons/compress/compressors/bzip2/BZip2CompressorInputStream/setupNoRandPartC:
+Method org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.setupNoRandPartC graphduas were calculated in 0 minutes and 0 seconds
+@@ org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.setupNoRandPartC,5,12,0,1
+
+Failed to analyze: /Users/marcoschaim/experimentos/subsumption-experiment/scripts/../subsumption-data/Compress/graphdua
+Failed to analyze: /Users/marcoschaim/experimentos/subsumption-experiment/scripts/../subsumption-data/Compress/graphdua
+221 methods have their graphdua generated in 0 minutes and 2 seconds
+Graphduas time (ms):2495

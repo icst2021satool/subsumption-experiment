@@ -15,39 +15,39 @@ org.apache.commons.compress.changes.Change.<init>;4;2;2;10;
 
 
 #org/apache/commons/compress/changes/Change/<init>:
-Method <init> reduced in 0 minutes and 0 seconds. Total em milliseconds 4
+Method <init> reduced in 0 minutes and 0 seconds. Total em milliseconds 3
 ## nodes: 5
 ## edges: 6
 ## duas: 7
 ## Unconstrained duas: 3
 ## Reduction nodes: 4
-@@ org.apache.commons.compress.changes.Change.<init>,5,6,7,3,4,42.857142857142854,57.14285714285714,0,4
+@@ org.apache.commons.compress.changes.Change.<init>,5,6,7,3,4,42.857142857142854,57.14285714285714,0,3
 
-org.apache.commons.compress.changes.Change.<init>;7;3;4;4;
+org.apache.commons.compress.changes.Change.<init>;7;3;4;3;
 
 
 #org/apache/commons/compress/changes/ChangeSet/perform:
-Method perform reduced in 0 minutes and 0 seconds. Total em milliseconds 99
+Method perform reduced in 0 minutes and 0 seconds. Total em milliseconds 88
 ## nodes: 19
 ## edges: 27
 ## duas: 39
 ## Unconstrained duas: 13
 ## Reduction nodes: 22
-@@ org.apache.commons.compress.changes.ChangeSet.perform,19,27,39,13,22,33.33333333333333,56.41025641025641,0,99
+@@ org.apache.commons.compress.changes.ChangeSet.perform,19,27,39,13,22,33.33333333333333,56.41025641025641,0,88
 
-org.apache.commons.compress.changes.ChangeSet.perform;39;13;22;99;
+org.apache.commons.compress.changes.ChangeSet.perform;39;13;22;88;
 
 
 #org/apache/commons/compress/changes/ChangeSet/addDeletion:
-Method addDeletion reduced in 0 minutes and 0 seconds. Total em milliseconds 24
+Method addDeletion reduced in 0 minutes and 0 seconds. Total em milliseconds 18
 ## nodes: 15
 ## edges: 22
 ## duas: 32
 ## Unconstrained duas: 8
 ## Reduction nodes: 15
-@@ org.apache.commons.compress.changes.ChangeSet.addDeletion,15,22,32,8,15,25.0,46.875,0,24
+@@ org.apache.commons.compress.changes.ChangeSet.addDeletion,15,22,32,8,15,25.0,46.875,0,18
 
-org.apache.commons.compress.changes.ChangeSet.addDeletion;32;8;15;24;
+org.apache.commons.compress.changes.ChangeSet.addDeletion;32;8;15;18;
 
 
 #org/apache/commons/compress/changes/ChangeSet/isDeletedLater:
@@ -75,39 +75,39 @@ org.apache.commons.compress.archivers.ArchiveStreamFactory.createArchiveInputStr
 
 
 #org/apache/commons/compress/archivers/ArchiveStreamFactory/createArchiveOutputStream:
-Method createArchiveOutputStream reduced in 0 minutes and 0 seconds. Total em milliseconds 10
+Method createArchiveOutputStream reduced in 0 minutes and 0 seconds. Total em milliseconds 5
 ## nodes: 15
 ## edges: 21
 ## duas: 20
 ## Unconstrained duas: 8
 ## Reduction nodes: 14
-@@ org.apache.commons.compress.archivers.ArchiveStreamFactory.createArchiveOutputStream,15,21,20,8,14,40.0,70.0,0,10
+@@ org.apache.commons.compress.archivers.ArchiveStreamFactory.createArchiveOutputStream,15,21,20,8,14,40.0,70.0,0,5
 
-org.apache.commons.compress.archivers.ArchiveStreamFactory.createArchiveOutputStream;20;8;14;10;
+org.apache.commons.compress.archivers.ArchiveStreamFactory.createArchiveOutputStream;20;8;14;5;
 
 
 #org/apache/commons/compress/archivers/ArchiveStreamFactory/createArchiveInputStream:
-Method createArchiveInputStream reduced in 0 minutes and 0 seconds. Total em milliseconds 11
+Method createArchiveInputStream reduced in 0 minutes and 0 seconds. Total em milliseconds 8
 ## nodes: 16
 ## edges: 22
 ## duas: 30
 ## Unconstrained duas: 8
 ## Reduction nodes: 14
-@@ org.apache.commons.compress.archivers.ArchiveStreamFactory.createArchiveInputStream,16,22,30,8,14,26.666666666666668,46.666666666666664,0,11
+@@ org.apache.commons.compress.archivers.ArchiveStreamFactory.createArchiveInputStream,16,22,30,8,14,26.666666666666668,46.666666666666664,0,8
 
-org.apache.commons.compress.archivers.ArchiveStreamFactory.createArchiveInputStream;30;8;14;11;
+org.apache.commons.compress.archivers.ArchiveStreamFactory.createArchiveInputStream;30;8;14;8;
 
 
 #org/apache/commons/compress/archivers/jar/JarArchiveEntry/getCertificates:
-Method getCertificates reduced in 0 minutes and 0 seconds. Total em milliseconds 0
+Method getCertificates reduced in 0 minutes and 0 seconds. Total em milliseconds 1
 ## nodes: 4
 ## edges: 4
 ## duas: 6
 ## Unconstrained duas: 2
 ## Reduction nodes: 2
-@@ org.apache.commons.compress.archivers.jar.JarArchiveEntry.getCertificates,4,4,6,2,2,33.33333333333333,33.33333333333333,0,0
+@@ org.apache.commons.compress.archivers.jar.JarArchiveEntry.getCertificates,4,4,6,2,2,33.33333333333333,33.33333333333333,0,1
 
-org.apache.commons.compress.archivers.jar.JarArchiveEntry.getCertificates;6;2;2;0;
+org.apache.commons.compress.archivers.jar.JarArchiveEntry.getCertificates;6;2;2;1;
 
 
 #org/apache/commons/compress/archivers/jar/JarArchiveOutputStream/putNextEntry:
@@ -135,15 +135,15 @@ org.apache.commons.compress.archivers.jar.JarArchiveInputStream.getNextJarEntry;
 
 
 #org/apache/commons/compress/archivers/zip/ZipEncodingHelper/growBuffer:
-Method growBuffer reduced in 0 minutes and 0 seconds. Total em milliseconds 2
+Method growBuffer reduced in 0 minutes and 0 seconds. Total em milliseconds 1
 ## nodes: 5
 ## edges: 5
 ## duas: 6
 ## Unconstrained duas: 2
 ## Reduction nodes: 3
-@@ org.apache.commons.compress.archivers.zip.ZipEncodingHelper.growBuffer,5,5,6,2,3,33.33333333333333,50.0,0,2
+@@ org.apache.commons.compress.archivers.zip.ZipEncodingHelper.growBuffer,5,5,6,2,3,33.33333333333333,50.0,0,1
 
-org.apache.commons.compress.archivers.zip.ZipEncodingHelper.growBuffer;6;2;3;2;
+org.apache.commons.compress.archivers.zip.ZipEncodingHelper.growBuffer;6;2;3;1;
 
 
 #org/apache/commons/compress/archivers/zip/ZipEncodingHelper/getZipEncoding:
@@ -159,27 +159,27 @@ org.apache.commons.compress.archivers.zip.ZipEncodingHelper.getZipEncoding;11;4;
 
 
 #org/apache/commons/compress/archivers/zip/ZipEncodingHelper/isUTF8:
-Method isUTF8 reduced in 0 minutes and 0 seconds. Total em milliseconds 1
+Method isUTF8 reduced in 0 minutes and 0 seconds. Total em milliseconds 2
 ## nodes: 8
 ## edges: 10
 ## duas: 10
 ## Unconstrained duas: 6
 ## Reduction nodes: 10
-@@ org.apache.commons.compress.archivers.zip.ZipEncodingHelper.isUTF8,8,10,10,6,10,60.0,100.0,0,1
+@@ org.apache.commons.compress.archivers.zip.ZipEncodingHelper.isUTF8,8,10,10,6,10,60.0,100.0,0,2
 
-org.apache.commons.compress.archivers.zip.ZipEncodingHelper.isUTF8;10;6;10;1;
+org.apache.commons.compress.archivers.zip.ZipEncodingHelper.isUTF8;10;6;10;2;
 
 
 #org/apache/commons/compress/archivers/zip/ZipShort/equals:
-Method equals reduced in 0 minutes and 0 seconds. Total em milliseconds 1
+Method equals reduced in 0 minutes and 0 seconds. Total em milliseconds 2
 ## nodes: 8
 ## edges: 10
 ## duas: 10
 ## Unconstrained duas: 4
 ## Reduction nodes: 6
-@@ org.apache.commons.compress.archivers.zip.ZipShort.equals,8,10,10,4,6,40.0,60.0,0,1
+@@ org.apache.commons.compress.archivers.zip.ZipShort.equals,8,10,10,4,6,40.0,60.0,0,2
 
-org.apache.commons.compress.archivers.zip.ZipShort.equals;10;4;6;1;
+org.apache.commons.compress.archivers.zip.ZipShort.equals;10;4;6;2;
 
 
 #org/apache/commons/compress/archivers/zip/ZipEncodingHelper$SimpleEncodingHolder/getEncoding:
@@ -195,39 +195,39 @@ org.apache.commons.compress.archivers.zip.ZipEncodingHelper$SimpleEncodingHolder
 
 
 #org/apache/commons/compress/archivers/zip/NioZipEncoding/encode:
-Method encode reduced in 0 minutes and 0 seconds. Total em milliseconds 47
+Method encode reduced in 0 minutes and 0 seconds. Total em milliseconds 41
 ## nodes: 17
 ## edges: 23
 ## duas: 49
 ## Unconstrained duas: 19
 ## Reduction nodes: 36
-@@ org.apache.commons.compress.archivers.zip.NioZipEncoding.encode,17,23,49,19,36,38.775510204081634,73.46938775510205,0,47
+@@ org.apache.commons.compress.archivers.zip.NioZipEncoding.encode,17,23,49,19,36,38.775510204081634,73.46938775510205,0,41
 
-org.apache.commons.compress.archivers.zip.NioZipEncoding.encode;49;19;36;47;
+org.apache.commons.compress.archivers.zip.NioZipEncoding.encode;49;19;36;41;
 
 
 #org/apache/commons/compress/archivers/zip/ZipArchiveEntry/<init>:
-Method <init> reduced in 0 minutes and 0 seconds. Total em milliseconds 2
+Method <init> reduced in 0 minutes and 0 seconds. Total em milliseconds 0
 ## nodes: 5
 ## edges: 5
 ## duas: 5
 ## Unconstrained duas: 2
 ## Reduction nodes: 2
-@@ org.apache.commons.compress.archivers.zip.ZipArchiveEntry.<init>,5,5,5,2,2,40.0,40.0,0,2
+@@ org.apache.commons.compress.archivers.zip.ZipArchiveEntry.<init>,5,5,5,2,2,40.0,40.0,0,0
 
-org.apache.commons.compress.archivers.zip.ZipArchiveEntry.<init>;5;2;2;2;
+org.apache.commons.compress.archivers.zip.ZipArchiveEntry.<init>;5;2;2;0;
 
 
 #org/apache/commons/compress/archivers/zip/ZipArchiveEntry/clone:
-Method clone reduced in 0 minutes and 0 seconds. Total em milliseconds 1
+Method clone reduced in 0 minutes and 0 seconds. Total em milliseconds 0
 ## nodes: 5
 ## edges: 5
 ## duas: 7
 ## Unconstrained duas: 2
 ## Reduction nodes: 3
-@@ org.apache.commons.compress.archivers.zip.ZipArchiveEntry.clone,5,5,7,2,3,28.57142857142857,42.857142857142854,0,1
+@@ org.apache.commons.compress.archivers.zip.ZipArchiveEntry.clone,5,5,7,2,3,28.57142857142857,42.857142857142854,0,0
 
-org.apache.commons.compress.archivers.zip.ZipArchiveEntry.clone;7;2;3;1;
+org.apache.commons.compress.archivers.zip.ZipArchiveEntry.clone;7;2;3;0;
 
 
 #org/apache/commons/compress/archivers/zip/ZipArchiveEntry/setUnixMode:
@@ -255,15 +255,15 @@ org.apache.commons.compress.archivers.zip.ZipArchiveEntry.getUnixMode;5;2;3;0;
 
 
 #org/apache/commons/compress/archivers/zip/ZipArchiveEntry/setExtraFields:
-Method setExtraFields reduced in 0 minutes and 0 seconds. Total em milliseconds 3
+Method setExtraFields reduced in 0 minutes and 0 seconds. Total em milliseconds 2
 ## nodes: 5
 ## edges: 5
 ## duas: 12
 ## Unconstrained duas: 2
 ## Reduction nodes: 4
-@@ org.apache.commons.compress.archivers.zip.ZipArchiveEntry.setExtraFields,5,5,12,2,4,16.666666666666664,33.33333333333333,0,3
+@@ org.apache.commons.compress.archivers.zip.ZipArchiveEntry.setExtraFields,5,5,12,2,4,16.666666666666664,33.33333333333333,0,2
 
-org.apache.commons.compress.archivers.zip.ZipArchiveEntry.setExtraFields;12;2;4;3;
+org.apache.commons.compress.archivers.zip.ZipArchiveEntry.setExtraFields;12;2;4;2;
 
 
 #org/apache/commons/compress/archivers/zip/ZipArchiveEntry/getExtraFields:
@@ -279,15 +279,15 @@ org.apache.commons.compress.archivers.zip.ZipArchiveEntry.getExtraFields;6;2;2;1
 
 
 #org/apache/commons/compress/archivers/zip/ZipArchiveEntry/addExtraField:
-Method addExtraField reduced in 0 minutes and 0 seconds. Total em milliseconds 1
+Method addExtraField reduced in 0 minutes and 0 seconds. Total em milliseconds 0
 ## nodes: 4
 ## edges: 4
 ## duas: 9
 ## Unconstrained duas: 2
 ## Reduction nodes: 3
-@@ org.apache.commons.compress.archivers.zip.ZipArchiveEntry.addExtraField,4,4,9,2,3,22.22222222222222,33.33333333333333,0,1
+@@ org.apache.commons.compress.archivers.zip.ZipArchiveEntry.addExtraField,4,4,9,2,3,22.22222222222222,33.33333333333333,0,0
 
-org.apache.commons.compress.archivers.zip.ZipArchiveEntry.addExtraField;9;2;3;1;
+org.apache.commons.compress.archivers.zip.ZipArchiveEntry.addExtraField;9;2;3;0;
 
 
 #org/apache/commons/compress/archivers/zip/ZipArchiveEntry/addAsFirstExtraField:
@@ -303,15 +303,15 @@ org.apache.commons.compress.archivers.zip.ZipArchiveEntry.addAsFirstExtraField;7
 
 
 #org/apache/commons/compress/archivers/zip/ZipArchiveEntry/removeExtraField:
-Method removeExtraField reduced in 0 minutes and 0 seconds. Total em milliseconds 0
+Method removeExtraField reduced in 0 minutes and 0 seconds. Total em milliseconds 1
 ## nodes: 6
 ## edges: 7
 ## duas: 11
 ## Unconstrained duas: 3
 ## Reduction nodes: 4
-@@ org.apache.commons.compress.archivers.zip.ZipArchiveEntry.removeExtraField,6,7,11,3,4,27.27272727272727,36.36363636363637,0,0
+@@ org.apache.commons.compress.archivers.zip.ZipArchiveEntry.removeExtraField,6,7,11,3,4,27.27272727272727,36.36363636363637,0,1
 
-org.apache.commons.compress.archivers.zip.ZipArchiveEntry.removeExtraField;11;3;4;0;
+org.apache.commons.compress.archivers.zip.ZipArchiveEntry.removeExtraField;11;3;4;1;
 
 
 #org/apache/commons/compress/archivers/zip/ZipArchiveEntry/getExtraField:
@@ -339,75 +339,75 @@ org.apache.commons.compress.archivers.zip.ZipArchiveEntry.getLocalFileDataExtra;
 
 
 #org/apache/commons/compress/archivers/zip/ZipArchiveEntry/getName:
-Method getName reduced in 0 minutes and 0 seconds. Total em milliseconds 0
+Method getName reduced in 0 minutes and 0 seconds. Total em milliseconds 1
 ## nodes: 5
 ## edges: 5
 ## duas: 6
 ## Unconstrained duas: 2
 ## Reduction nodes: 3
-@@ org.apache.commons.compress.archivers.zip.ZipArchiveEntry.getName,5,5,6,2,3,33.33333333333333,50.0,0,0
+@@ org.apache.commons.compress.archivers.zip.ZipArchiveEntry.getName,5,5,6,2,3,33.33333333333333,50.0,0,1
 
-org.apache.commons.compress.archivers.zip.ZipArchiveEntry.getName;6;2;3;0;
+org.apache.commons.compress.archivers.zip.ZipArchiveEntry.getName;6;2;3;1;
 
 
 #org/apache/commons/compress/archivers/zip/ZipArchiveEntry/mergeExtraFields:
-Method mergeExtraFields reduced in 0 minutes and 0 seconds. Total em milliseconds 17
+Method mergeExtraFields reduced in 0 minutes and 0 seconds. Total em milliseconds 14
 ## nodes: 13
 ## edges: 16
 ## duas: 35
 ## Unconstrained duas: 8
 ## Reduction nodes: 15
-@@ org.apache.commons.compress.archivers.zip.ZipArchiveEntry.mergeExtraFields,13,16,35,8,15,22.857142857142858,42.857142857142854,0,17
+@@ org.apache.commons.compress.archivers.zip.ZipArchiveEntry.mergeExtraFields,13,16,35,8,15,22.857142857142858,42.857142857142854,0,14
 
-org.apache.commons.compress.archivers.zip.ZipArchiveEntry.mergeExtraFields;35;8;15;17;
+org.apache.commons.compress.archivers.zip.ZipArchiveEntry.mergeExtraFields;35;8;15;14;
 
 
 #org/apache/commons/compress/archivers/zip/ExtraFieldUtils/createExtraField:
-Method createExtraField reduced in 0 minutes and 0 seconds. Total em milliseconds 1
+Method createExtraField reduced in 0 minutes and 0 seconds. Total em milliseconds 0
 ## nodes: 4
 ## edges: 4
 ## duas: 4
 ## Unconstrained duas: 2
 ## Reduction nodes: 2
-@@ org.apache.commons.compress.archivers.zip.ExtraFieldUtils.createExtraField,4,4,4,2,2,50.0,50.0,0,1
+@@ org.apache.commons.compress.archivers.zip.ExtraFieldUtils.createExtraField,4,4,4,2,2,50.0,50.0,0,0
 
-org.apache.commons.compress.archivers.zip.ExtraFieldUtils.createExtraField;4;2;2;1;
+org.apache.commons.compress.archivers.zip.ExtraFieldUtils.createExtraField;4;2;2;0;
 
 
 #org/apache/commons/compress/archivers/zip/ExtraFieldUtils/parse:
-Method parse reduced in 0 minutes and 0 seconds. Total em milliseconds 6
+Method parse reduced in 0 minutes and 0 seconds. Total em milliseconds 5
 ## nodes: 10
 ## edges: 12
 ## duas: 38
 ## Unconstrained duas: 8
 ## Reduction nodes: 16
-@@ org.apache.commons.compress.archivers.zip.ExtraFieldUtils.parse,10,12,38,8,16,21.052631578947366,42.10526315789473,0,6
+@@ org.apache.commons.compress.archivers.zip.ExtraFieldUtils.parse,10,12,38,8,16,21.052631578947366,42.10526315789473,0,5
 
-org.apache.commons.compress.archivers.zip.ExtraFieldUtils.parse;38;8;16;6;
+org.apache.commons.compress.archivers.zip.ExtraFieldUtils.parse;38;8;16;5;
 
 
 #org/apache/commons/compress/archivers/zip/ExtraFieldUtils/mergeLocalFileDataData:
-Method mergeLocalFileDataData reduced in 0 minutes and 0 seconds. Total em milliseconds 3
+Method mergeLocalFileDataData reduced in 0 minutes and 0 seconds. Total em milliseconds 2
 ## nodes: 8
 ## edges: 9
 ## duas: 26
 ## Unconstrained duas: 4
 ## Reduction nodes: 7
-@@ org.apache.commons.compress.archivers.zip.ExtraFieldUtils.mergeLocalFileDataData,8,9,26,4,7,15.384615384615385,26.923076923076923,0,3
+@@ org.apache.commons.compress.archivers.zip.ExtraFieldUtils.mergeLocalFileDataData,8,9,26,4,7,15.384615384615385,26.923076923076923,0,2
 
-org.apache.commons.compress.archivers.zip.ExtraFieldUtils.mergeLocalFileDataData;26;4;7;3;
+org.apache.commons.compress.archivers.zip.ExtraFieldUtils.mergeLocalFileDataData;26;4;7;2;
 
 
 #org/apache/commons/compress/archivers/zip/ExtraFieldUtils/mergeCentralDirectoryData:
-Method mergeCentralDirectoryData reduced in 0 minutes and 0 seconds. Total em milliseconds 4
+Method mergeCentralDirectoryData reduced in 0 minutes and 0 seconds. Total em milliseconds 3
 ## nodes: 8
 ## edges: 9
 ## duas: 26
 ## Unconstrained duas: 4
 ## Reduction nodes: 7
-@@ org.apache.commons.compress.archivers.zip.ExtraFieldUtils.mergeCentralDirectoryData,8,9,26,4,7,15.384615384615385,26.923076923076923,0,4
+@@ org.apache.commons.compress.archivers.zip.ExtraFieldUtils.mergeCentralDirectoryData,8,9,26,4,7,15.384615384615385,26.923076923076923,0,3
 
-org.apache.commons.compress.archivers.zip.ExtraFieldUtils.mergeCentralDirectoryData;26;4;7;4;
+org.apache.commons.compress.archivers.zip.ExtraFieldUtils.mergeCentralDirectoryData;26;4;7;3;
 
 
 #org/apache/commons/compress/archivers/zip/ZipUtil/toDosTime:
@@ -459,51 +459,51 @@ org.apache.commons.compress.archivers.zip.ZipFile.closeQuietly;3;2;2;0;
 
 
 #org/apache/commons/compress/archivers/zip/ZipFile/getInputStream:
-Method getInputStream reduced in 0 minutes and 0 seconds. Total em milliseconds 0
+Method getInputStream reduced in 0 minutes and 0 seconds. Total em milliseconds 2
 ## nodes: 7
 ## edges: 9
 ## duas: 11
 ## Unconstrained duas: 4
 ## Reduction nodes: 5
-@@ org.apache.commons.compress.archivers.zip.ZipFile.getInputStream,7,9,11,4,5,36.36363636363637,45.45454545454545,0,0
+@@ org.apache.commons.compress.archivers.zip.ZipFile.getInputStream,7,9,11,4,5,36.36363636363637,45.45454545454545,0,2
 
-org.apache.commons.compress.archivers.zip.ZipFile.getInputStream;11;4;5;0;
+org.apache.commons.compress.archivers.zip.ZipFile.getInputStream;11;4;5;2;
 
 
 #org/apache/commons/compress/archivers/zip/ZipFile/populateFromCentralDirectory:
-Method populateFromCentralDirectory reduced in 0 minutes and 0 seconds. Total em milliseconds 18
+Method populateFromCentralDirectory reduced in 0 minutes and 0 seconds. Total em milliseconds 10
 ## nodes: 16
 ## edges: 22
 ## duas: 40
 ## Unconstrained duas: 12
 ## Reduction nodes: 16
-@@ org.apache.commons.compress.archivers.zip.ZipFile.populateFromCentralDirectory,16,22,40,12,16,30.0,40.0,0,18
+@@ org.apache.commons.compress.archivers.zip.ZipFile.populateFromCentralDirectory,16,22,40,12,16,30.0,40.0,0,10
 
-org.apache.commons.compress.archivers.zip.ZipFile.populateFromCentralDirectory;40;12;16;18;
+org.apache.commons.compress.archivers.zip.ZipFile.populateFromCentralDirectory;40;12;16;10;
 
 
 #org/apache/commons/compress/archivers/zip/ZipFile/positionAtCentralDirectory:
-Method positionAtCentralDirectory reduced in 0 minutes and 0 seconds. Total em milliseconds 17
+Method positionAtCentralDirectory reduced in 0 minutes and 0 seconds. Total em milliseconds 13
 ## nodes: 14
 ## edges: 21
 ## duas: 52
 ## Unconstrained duas: 18
 ## Reduction nodes: 32
-@@ org.apache.commons.compress.archivers.zip.ZipFile.positionAtCentralDirectory,14,21,52,18,32,34.61538461538461,61.53846153846154,0,17
+@@ org.apache.commons.compress.archivers.zip.ZipFile.positionAtCentralDirectory,14,21,52,18,32,34.61538461538461,61.53846153846154,0,13
 
-org.apache.commons.compress.archivers.zip.ZipFile.positionAtCentralDirectory;52;18;32;17;
+org.apache.commons.compress.archivers.zip.ZipFile.positionAtCentralDirectory;52;18;32;13;
 
 
 #org/apache/commons/compress/archivers/zip/ZipFile/resolveLocalFileHeaderData:
-Method resolveLocalFileHeaderData reduced in 0 minutes and 0 seconds. Total em milliseconds 12
+Method resolveLocalFileHeaderData reduced in 0 minutes and 0 seconds. Total em milliseconds 10
 ## nodes: 12
 ## edges: 15
 ## duas: 33
 ## Unconstrained duas: 7
 ## Reduction nodes: 12
-@@ org.apache.commons.compress.archivers.zip.ZipFile.resolveLocalFileHeaderData,12,15,33,7,12,21.21212121212121,36.36363636363637,0,12
+@@ org.apache.commons.compress.archivers.zip.ZipFile.resolveLocalFileHeaderData,12,15,33,7,12,21.21212121212121,36.36363636363637,0,10
 
-org.apache.commons.compress.archivers.zip.ZipFile.resolveLocalFileHeaderData;33;7;12;12;
+org.apache.commons.compress.archivers.zip.ZipFile.resolveLocalFileHeaderData;33;7;12;10;
 
 
 #org/apache/commons/compress/archivers/zip/ZipFile/startsWithLocalFileHeader:
@@ -531,27 +531,27 @@ org.apache.commons.compress.archivers.zip.ZipFile.setNameAndCommentFromExtraFiel
 
 
 #org/apache/commons/compress/archivers/zip/ZipFile/getUnicodeStringIfOriginalMatches:
-Method getUnicodeStringIfOriginalMatches reduced in 0 minutes and 0 seconds. Total em milliseconds 1
+Method getUnicodeStringIfOriginalMatches reduced in 0 minutes and 0 seconds. Total em milliseconds 0
 ## nodes: 5
 ## edges: 6
 ## duas: 9
 ## Unconstrained duas: 3
 ## Reduction nodes: 4
-@@ org.apache.commons.compress.archivers.zip.ZipFile.getUnicodeStringIfOriginalMatches,5,6,9,3,4,33.33333333333333,44.44444444444444,0,1
+@@ org.apache.commons.compress.archivers.zip.ZipFile.getUnicodeStringIfOriginalMatches,5,6,9,3,4,33.33333333333333,44.44444444444444,0,0
 
-org.apache.commons.compress.archivers.zip.ZipFile.getUnicodeStringIfOriginalMatches;9;3;4;1;
+org.apache.commons.compress.archivers.zip.ZipFile.getUnicodeStringIfOriginalMatches;9;3;4;0;
 
 
 #org/apache/commons/compress/archivers/zip/Simple8BitZipEncoding/<init>:
-Method <init> reduced in 0 minutes and 0 seconds. Total em milliseconds 1
+Method <init> reduced in 0 minutes and 0 seconds. Total em milliseconds 4
 ## nodes: 5
 ## edges: 5
 ## duas: 17
 ## Unconstrained duas: 2
 ## Reduction nodes: 4
-@@ org.apache.commons.compress.archivers.zip.Simple8BitZipEncoding.<init>,5,5,17,2,4,11.76470588235294,23.52941176470588,0,1
+@@ org.apache.commons.compress.archivers.zip.Simple8BitZipEncoding.<init>,5,5,17,2,4,11.76470588235294,23.52941176470588,0,4
 
-org.apache.commons.compress.archivers.zip.Simple8BitZipEncoding.<init>;17;2;4;1;
+org.apache.commons.compress.archivers.zip.Simple8BitZipEncoding.<init>;17;2;4;4;
 
 
 #org/apache/commons/compress/archivers/zip/Simple8BitZipEncoding/decodeByte:
@@ -567,15 +567,15 @@ org.apache.commons.compress.archivers.zip.Simple8BitZipEncoding.decodeByte;6;2;2
 
 
 #org/apache/commons/compress/archivers/zip/Simple8BitZipEncoding/canEncodeChar:
-Method canEncodeChar reduced in 0 minutes and 0 seconds. Total em milliseconds 4
+Method canEncodeChar reduced in 0 minutes and 0 seconds. Total em milliseconds 1
 ## nodes: 8
 ## edges: 10
 ## duas: 8
 ## Unconstrained duas: 5
 ## Reduction nodes: 7
-@@ org.apache.commons.compress.archivers.zip.Simple8BitZipEncoding.canEncodeChar,8,10,8,5,7,62.5,87.5,0,4
+@@ org.apache.commons.compress.archivers.zip.Simple8BitZipEncoding.canEncodeChar,8,10,8,5,7,62.5,87.5,0,1
 
-org.apache.commons.compress.archivers.zip.Simple8BitZipEncoding.canEncodeChar;8;5;7;4;
+org.apache.commons.compress.archivers.zip.Simple8BitZipEncoding.canEncodeChar;8;5;7;1;
 
 
 #org/apache/commons/compress/archivers/zip/Simple8BitZipEncoding/pushEncodedChar:
@@ -591,15 +591,15 @@ org.apache.commons.compress.archivers.zip.Simple8BitZipEncoding.pushEncodedChar;
 
 
 #org/apache/commons/compress/archivers/zip/Simple8BitZipEncoding/encodeHighChar:
-Method encodeHighChar reduced in 0 minutes and 0 seconds. Total em milliseconds 11
+Method encodeHighChar reduced in 0 minutes and 0 seconds. Total em milliseconds 10
 ## nodes: 14
 ## edges: 18
 ## duas: 48
 ## Unconstrained duas: 11
 ## Reduction nodes: 19
-@@ org.apache.commons.compress.archivers.zip.Simple8BitZipEncoding.encodeHighChar,14,18,48,11,19,22.916666666666664,39.58333333333333,0,11
+@@ org.apache.commons.compress.archivers.zip.Simple8BitZipEncoding.encodeHighChar,14,18,48,11,19,22.916666666666664,39.58333333333333,0,10
 
-org.apache.commons.compress.archivers.zip.Simple8BitZipEncoding.encodeHighChar;48;11;19;11;
+org.apache.commons.compress.archivers.zip.Simple8BitZipEncoding.encodeHighChar;48;11;19;10;
 
 
 #org/apache/commons/compress/archivers/zip/Simple8BitZipEncoding/canEncode:
@@ -615,15 +615,15 @@ org.apache.commons.compress.archivers.zip.Simple8BitZipEncoding.canEncode;15;4;8
 
 
 #org/apache/commons/compress/archivers/zip/Simple8BitZipEncoding/encode:
-Method encode reduced in 0 minutes and 0 seconds. Total em milliseconds 7
+Method encode reduced in 0 minutes and 0 seconds. Total em milliseconds 6
 ## nodes: 9
 ## edges: 11
 ## duas: 30
 ## Unconstrained duas: 7
 ## Reduction nodes: 15
-@@ org.apache.commons.compress.archivers.zip.Simple8BitZipEncoding.encode,9,11,30,7,15,23.333333333333332,50.0,0,7
+@@ org.apache.commons.compress.archivers.zip.Simple8BitZipEncoding.encode,9,11,30,7,15,23.333333333333332,50.0,0,6
 
-org.apache.commons.compress.archivers.zip.Simple8BitZipEncoding.encode;30;7;15;7;
+org.apache.commons.compress.archivers.zip.Simple8BitZipEncoding.encode;30;7;15;6;
 
 
 #org/apache/commons/compress/archivers/zip/Simple8BitZipEncoding/decode:
@@ -651,39 +651,39 @@ org.apache.commons.compress.archivers.zip.JarMarker.parseFromLocalFileData;2;2;2
 
 
 #org/apache/commons/compress/archivers/zip/ZipFile$BoundedInputStream/read:
-Method read reduced in 0 minutes and 0 seconds. Total em milliseconds 0
+Method read reduced in 0 minutes and 0 seconds. Total em milliseconds 1
 ## nodes: 6
 ## edges: 7
 ## duas: 12
 ## Unconstrained duas: 3
 ## Reduction nodes: 4
-@@ org.apache.commons.compress.archivers.zip.ZipFile$BoundedInputStream.read,6,7,12,3,4,25.0,33.33333333333333,0,0
+@@ org.apache.commons.compress.archivers.zip.ZipFile$BoundedInputStream.read,6,7,12,3,4,25.0,33.33333333333333,0,1
 
-org.apache.commons.compress.archivers.zip.ZipFile$BoundedInputStream.read;12;3;4;0;
+org.apache.commons.compress.archivers.zip.ZipFile$BoundedInputStream.read;12;3;4;1;
 
 
 #org/apache/commons/compress/archivers/zip/ZipFile$BoundedInputStream/read:
-Method read reduced in 0 minutes and 0 seconds. Total em milliseconds 2
+Method read reduced in 0 minutes and 0 seconds. Total em milliseconds 3
 ## nodes: 12
 ## edges: 16
 ## duas: 35
 ## Unconstrained duas: 7
 ## Reduction nodes: 10
-@@ org.apache.commons.compress.archivers.zip.ZipFile$BoundedInputStream.read,12,16,35,7,10,20.0,28.57142857142857,0,2
+@@ org.apache.commons.compress.archivers.zip.ZipFile$BoundedInputStream.read,12,16,35,7,10,20.0,28.57142857142857,0,3
 
-org.apache.commons.compress.archivers.zip.ZipFile$BoundedInputStream.read;35;7;10;2;
+org.apache.commons.compress.archivers.zip.ZipFile$BoundedInputStream.read;35;7;10;3;
 
 
 #org/apache/commons/compress/archivers/zip/UnrecognizedExtraField/getCentralDirectoryLength:
-Method getCentralDirectoryLength reduced in 0 minutes and 0 seconds. Total em milliseconds 1
+Method getCentralDirectoryLength reduced in 0 minutes and 0 seconds. Total em milliseconds 0
 ## nodes: 4
 ## edges: 4
 ## duas: 7
 ## Unconstrained duas: 2
 ## Reduction nodes: 2
-@@ org.apache.commons.compress.archivers.zip.UnrecognizedExtraField.getCentralDirectoryLength,4,4,7,2,2,28.57142857142857,28.57142857142857,0,1
+@@ org.apache.commons.compress.archivers.zip.UnrecognizedExtraField.getCentralDirectoryLength,4,4,7,2,2,28.57142857142857,28.57142857142857,0,0
 
-org.apache.commons.compress.archivers.zip.UnrecognizedExtraField.getCentralDirectoryLength;7;2;2;1;
+org.apache.commons.compress.archivers.zip.UnrecognizedExtraField.getCentralDirectoryLength;7;2;2;0;
 
 
 #org/apache/commons/compress/archivers/zip/UnrecognizedExtraField/getCentralDirectoryData:
@@ -711,15 +711,15 @@ org.apache.commons.compress.archivers.zip.UnrecognizedExtraField.parseFromCentra
 
 
 #org/apache/commons/compress/archivers/zip/UnrecognizedExtraField/copy:
-Method copy reduced in 0 minutes and 0 seconds. Total em milliseconds 0
+Method copy reduced in 0 minutes and 0 seconds. Total em milliseconds 1
 ## nodes: 4
 ## edges: 4
 ## duas: 3
 ## Unconstrained duas: 2
 ## Reduction nodes: 2
-@@ org.apache.commons.compress.archivers.zip.UnrecognizedExtraField.copy,4,4,3,2,2,66.66666666666666,66.66666666666666,0,0
+@@ org.apache.commons.compress.archivers.zip.UnrecognizedExtraField.copy,4,4,3,2,2,66.66666666666666,66.66666666666666,0,1
 
-org.apache.commons.compress.archivers.zip.UnrecognizedExtraField.copy;3;2;2;0;
+org.apache.commons.compress.archivers.zip.UnrecognizedExtraField.copy;3;2;2;1;
 
 
 #org/apache/commons/compress/archivers/zip/AbstractUnicodeExtraField/assembleData:
@@ -759,39 +759,39 @@ org.apache.commons.compress.archivers.zip.AbstractUnicodeExtraField.getCentralDi
 
 
 #org/apache/commons/compress/archivers/zip/AbstractUnicodeExtraField/parseFromLocalFileData:
-Method parseFromLocalFileData reduced in 0 minutes and 0 seconds. Total em milliseconds 1
+Method parseFromLocalFileData reduced in 0 minutes and 0 seconds. Total em milliseconds 0
 ## nodes: 6
 ## edges: 7
 ## duas: 11
 ## Unconstrained duas: 3
 ## Reduction nodes: 4
-@@ org.apache.commons.compress.archivers.zip.AbstractUnicodeExtraField.parseFromLocalFileData,6,7,11,3,4,27.27272727272727,36.36363636363637,0,1
+@@ org.apache.commons.compress.archivers.zip.AbstractUnicodeExtraField.parseFromLocalFileData,6,7,11,3,4,27.27272727272727,36.36363636363637,0,0
 
-org.apache.commons.compress.archivers.zip.AbstractUnicodeExtraField.parseFromLocalFileData;11;3;4;1;
+org.apache.commons.compress.archivers.zip.AbstractUnicodeExtraField.parseFromLocalFileData;11;3;4;0;
 
 
 #org/apache/commons/compress/archivers/zip/ZipArchiveOutputStream/isSeekable:
-Method isSeekable reduced in 0 minutes and 0 seconds. Total em milliseconds 0
+Method isSeekable reduced in 0 minutes and 0 seconds. Total em milliseconds 1
 ## nodes: 5
 ## edges: 5
 ## duas: 4
 ## Unconstrained duas: 2
 ## Reduction nodes: 2
-@@ org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream.isSeekable,5,5,4,2,2,50.0,50.0,0,0
+@@ org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream.isSeekable,5,5,4,2,2,50.0,50.0,0,1
 
-org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream.isSeekable;4;2;2;0;
+org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream.isSeekable;4;2;2;1;
 
 
 #org/apache/commons/compress/archivers/zip/ZipArchiveOutputStream/setUseLanguageEncodingFlag:
-Method setUseLanguageEncodingFlag reduced in 0 minutes and 0 seconds. Total em milliseconds 0
+Method setUseLanguageEncodingFlag reduced in 0 minutes and 0 seconds. Total em milliseconds 1
 ## nodes: 6
 ## edges: 7
 ## duas: 7
 ## Unconstrained duas: 3
 ## Reduction nodes: 5
-@@ org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream.setUseLanguageEncodingFlag,6,7,7,3,5,42.857142857142854,71.42857142857143,0,0
+@@ org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream.setUseLanguageEncodingFlag,6,7,7,3,5,42.857142857142854,71.42857142857143,0,1
 
-org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream.setUseLanguageEncodingFlag;7;3;5;0;
+org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream.setUseLanguageEncodingFlag;7;3;5;1;
 
 
 #org/apache/commons/compress/archivers/zip/ZipArchiveOutputStream/finish:
@@ -807,39 +807,39 @@ org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream.finish;9;1;2;1;
 
 
 #org/apache/commons/compress/archivers/zip/ZipArchiveOutputStream/closeEntry:
-Method closeEntry reduced in 0 minutes and 0 seconds. Total em milliseconds 6
+Method closeEntry reduced in 0 minutes and 0 seconds. Total em milliseconds 7
 ## nodes: 17
 ## edges: 23
 ## duas: 62
 ## Unconstrained duas: 8
 ## Reduction nodes: 14
-@@ org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream.closeEntry,17,23,62,8,14,12.903225806451612,22.58064516129032,0,6
+@@ org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream.closeEntry,17,23,62,8,14,12.903225806451612,22.58064516129032,0,7
 
-org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream.closeEntry;62;8;14;6;
+org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream.closeEntry;62;8;14;7;
 
 
 #org/apache/commons/compress/archivers/zip/ZipArchiveOutputStream/putNextEntry:
-Method putNextEntry reduced in 0 minutes and 0 seconds. Total em milliseconds 6
+Method putNextEntry reduced in 0 minutes and 0 seconds. Total em milliseconds 5
 ## nodes: 16
 ## edges: 23
 ## duas: 44
 ## Unconstrained duas: 12
 ## Reduction nodes: 17
-@@ org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream.putNextEntry,16,23,44,12,17,27.27272727272727,38.63636363636363,0,6
+@@ org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream.putNextEntry,16,23,44,12,17,27.27272727272727,38.63636363636363,0,5
 
-org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream.putNextEntry;44;12;17;6;
+org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream.putNextEntry;44;12;17;5;
 
 
 #org/apache/commons/compress/archivers/zip/ZipArchiveOutputStream/setLevel:
-Method setLevel reduced in 0 minutes and 0 seconds. Total em milliseconds 1
+Method setLevel reduced in 0 minutes and 0 seconds. Total em milliseconds 0
 ## nodes: 8
 ## edges: 10
 ## duas: 13
 ## Unconstrained duas: 4
 ## Reduction nodes: 7
-@@ org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream.setLevel,8,10,13,4,7,30.76923076923077,53.84615384615385,0,1
+@@ org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream.setLevel,8,10,13,4,7,30.76923076923077,53.84615384615385,0,0
 
-org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream.setLevel;13;4;7;1;
+org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream.setLevel;13;4;7;0;
 
 
 #org/apache/commons/compress/archivers/zip/ZipArchiveOutputStream/write:
@@ -891,15 +891,15 @@ org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream.deflate;5;2;2;0
 
 
 #org/apache/commons/compress/archivers/zip/ZipArchiveOutputStream/writeLocalFileHeader:
-Method writeLocalFileHeader reduced in 0 minutes and 0 seconds. Total em milliseconds 20
+Method writeLocalFileHeader reduced in 0 minutes and 0 seconds. Total em milliseconds 21
 ## nodes: 23
 ## edges: 35
 ## duas: 77
 ## Unconstrained duas: 19
 ## Reduction nodes: 33
-@@ org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream.writeLocalFileHeader,23,35,77,19,33,24.675324675324674,42.857142857142854,0,20
+@@ org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream.writeLocalFileHeader,23,35,77,19,33,24.675324675324674,42.857142857142854,0,21
 
-org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream.writeLocalFileHeader;77;19;33;20;
+org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream.writeLocalFileHeader;77;19;33;21;
 
 
 #org/apache/commons/compress/archivers/zip/ZipArchiveOutputStream/writeDataDescriptor:
@@ -915,15 +915,15 @@ org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream.writeDataDescri
 
 
 #org/apache/commons/compress/archivers/zip/ZipArchiveOutputStream/writeCentralFileHeader:
-Method writeCentralFileHeader reduced in 0 minutes and 0 seconds. Total em milliseconds 6
+Method writeCentralFileHeader reduced in 0 minutes and 0 seconds. Total em milliseconds 5
 ## nodes: 12
 ## edges: 16
 ## duas: 37
 ## Unconstrained duas: 8
 ## Reduction nodes: 12
-@@ org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream.writeCentralFileHeader,12,16,37,8,12,21.62162162162162,32.432432432432435,0,6
+@@ org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream.writeCentralFileHeader,12,16,37,8,12,21.62162162162162,32.432432432432435,0,5
 
-org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream.writeCentralFileHeader;37;8;12;6;
+org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream.writeCentralFileHeader;37;8;12;5;
 
 
 #org/apache/commons/compress/archivers/zip/ZipArchiveOutputStream/writeOut:
@@ -940,27 +940,27 @@ org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream.writeOut;14;2;2
 Warning: Method:org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream.deflateUntilInputIsNeeded has incoming edges.
 
 #org/apache/commons/compress/archivers/zip/ZipArchiveOutputStream/writeVersionNeededToExtractAndGeneralPurposeBits:
-Method writeVersionNeededToExtractAndGeneralPurposeBits reduced in 0 minutes and 0 seconds. Total em milliseconds 2
+Method writeVersionNeededToExtractAndGeneralPurposeBits reduced in 0 minutes and 0 seconds. Total em milliseconds 1
 ## nodes: 9
 ## edges: 12
 ## duas: 18
 ## Unconstrained duas: 6
 ## Reduction nodes: 10
-@@ org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream.writeVersionNeededToExtractAndGeneralPurposeBits,9,12,18,6,10,33.33333333333333,55.55555555555556,0,2
+@@ org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream.writeVersionNeededToExtractAndGeneralPurposeBits,9,12,18,6,10,33.33333333333333,55.55555555555556,0,1
 
-org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream.writeVersionNeededToExtractAndGeneralPurposeBits;18;6;10;2;
+org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream.writeVersionNeededToExtractAndGeneralPurposeBits;18;6;10;1;
 
 
 #org/apache/commons/compress/archivers/zip/FallbackZipEncoding/encode:
-Method encode reduced in 0 minutes and 0 seconds. Total em milliseconds 0
+Method encode reduced in 0 minutes and 0 seconds. Total em milliseconds 1
 ## nodes: 4
 ## edges: 4
 ## duas: 8
 ## Unconstrained duas: 2
 ## Reduction nodes: 2
-@@ org.apache.commons.compress.archivers.zip.FallbackZipEncoding.encode,4,4,8,2,2,25.0,25.0,0,0
+@@ org.apache.commons.compress.archivers.zip.FallbackZipEncoding.encode,4,4,8,2,2,25.0,25.0,0,1
 
-org.apache.commons.compress.archivers.zip.FallbackZipEncoding.encode;8;2;2;0;
+org.apache.commons.compress.archivers.zip.FallbackZipEncoding.encode;8;2;2;1;
 
 
 #org/apache/commons/compress/archivers/zip/FallbackZipEncoding/decode:
@@ -976,15 +976,15 @@ org.apache.commons.compress.archivers.zip.FallbackZipEncoding.decode;8;2;2;0;
 
 
 #org/apache/commons/compress/archivers/zip/ZipArchiveInputStream/getNextZipEntry:
-Method getNextZipEntry reduced in 0 minutes and 0 seconds. Total em milliseconds 1
+Method getNextZipEntry reduced in 0 minutes and 0 seconds. Total em milliseconds 0
 ## nodes: 4
 ## edges: 4
 ## duas: 3
 ## Unconstrained duas: 2
 ## Reduction nodes: 2
-@@ org.apache.commons.compress.archivers.zip.ZipArchiveInputStream.getNextZipEntry,4,4,3,2,2,66.66666666666666,66.66666666666666,0,1
+@@ org.apache.commons.compress.archivers.zip.ZipArchiveInputStream.getNextZipEntry,4,4,3,2,2,66.66666666666666,66.66666666666666,0,0
 
-org.apache.commons.compress.archivers.zip.ZipArchiveInputStream.getNextZipEntry;3;2;2;1;
+org.apache.commons.compress.archivers.zip.ZipArchiveInputStream.getNextZipEntry;3;2;2;0;
 
 
 #org/apache/commons/compress/archivers/zip/ZipArchiveInputStream/matches:
@@ -1000,15 +1000,15 @@ org.apache.commons.compress.archivers.zip.ZipArchiveInputStream.matches;20;6;12;
 
 
 #org/apache/commons/compress/archivers/zip/ZipLong/equals:
-Method equals reduced in 0 minutes and 0 seconds. Total em milliseconds 1
+Method equals reduced in 0 minutes and 0 seconds. Total em milliseconds 0
 ## nodes: 8
 ## edges: 10
 ## duas: 10
 ## Unconstrained duas: 4
 ## Reduction nodes: 6
-@@ org.apache.commons.compress.archivers.zip.ZipLong.equals,8,10,10,4,6,40.0,60.0,0,1
+@@ org.apache.commons.compress.archivers.zip.ZipLong.equals,8,10,10,4,6,40.0,60.0,0,0
 
-org.apache.commons.compress.archivers.zip.ZipLong.equals;10;4;6;1;
+org.apache.commons.compress.archivers.zip.ZipLong.equals;10;4;6;0;
 
 
 #org/apache/commons/compress/archivers/zip/AsiExtraField/isLink:
@@ -1060,27 +1060,27 @@ org.apache.commons.compress.archivers.zip.AsiExtraField.getMode;8;3;5;0;
 
 
 #org/apache/commons/compress/archivers/ar/ArArchiveInputStream/getNextArEntry:
-Method getNextArEntry reduced in 0 minutes and 0 seconds. Total em milliseconds 12
+Method getNextArEntry reduced in 0 minutes and 0 seconds. Total em milliseconds 13
 ## nodes: 21
 ## edges: 29
 ## duas: 58
 ## Unconstrained duas: 16
 ## Reduction nodes: 30
-@@ org.apache.commons.compress.archivers.ar.ArArchiveInputStream.getNextArEntry,21,29,58,16,30,27.586206896551722,51.724137931034484,0,12
+@@ org.apache.commons.compress.archivers.ar.ArArchiveInputStream.getNextArEntry,21,29,58,16,30,27.586206896551722,51.724137931034484,0,13
 
-org.apache.commons.compress.archivers.ar.ArArchiveInputStream.getNextArEntry;58;16;30;12;
+org.apache.commons.compress.archivers.ar.ArArchiveInputStream.getNextArEntry;58;16;30;13;
 
 
 #org/apache/commons/compress/archivers/ar/ArArchiveInputStream/matches:
-Method matches reduced in 0 minutes and 0 seconds. Total em milliseconds 1
+Method matches reduced in 0 minutes and 0 seconds. Total em milliseconds 2
 ## nodes: 20
 ## edges: 28
 ## duas: 18
 ## Unconstrained duas: 10
 ## Reduction nodes: 18
-@@ org.apache.commons.compress.archivers.ar.ArArchiveInputStream.matches,20,28,18,10,18,55.55555555555556,100.0,0,1
+@@ org.apache.commons.compress.archivers.ar.ArArchiveInputStream.matches,20,28,18,10,18,55.55555555555556,100.0,0,2
 
-org.apache.commons.compress.archivers.ar.ArArchiveInputStream.matches;18;10;18;1;
+org.apache.commons.compress.archivers.ar.ArArchiveInputStream.matches;18;10;18;2;
 
 
 #org/apache/commons/compress/archivers/ar/ArArchiveOutputStream/closeArchiveEntry:
@@ -1096,15 +1096,15 @@ org.apache.commons.compress.archivers.ar.ArArchiveOutputStream.closeArchiveEntry
 
 
 #org/apache/commons/compress/archivers/ar/ArArchiveOutputStream/putArchiveEntry:
-Method putArchiveEntry reduced in 0 minutes and 0 seconds. Total em milliseconds 1
+Method putArchiveEntry reduced in 0 minutes and 0 seconds. Total em milliseconds 0
 ## nodes: 7
 ## edges: 8
 ## duas: 20
 ## Unconstrained duas: 3
 ## Reduction nodes: 5
-@@ org.apache.commons.compress.archivers.ar.ArArchiveOutputStream.putArchiveEntry,7,8,20,3,5,15.0,25.0,0,1
+@@ org.apache.commons.compress.archivers.ar.ArArchiveOutputStream.putArchiveEntry,7,8,20,3,5,15.0,25.0,0,0
 
-org.apache.commons.compress.archivers.ar.ArArchiveOutputStream.putArchiveEntry;20;3;5;1;
+org.apache.commons.compress.archivers.ar.ArArchiveOutputStream.putArchiveEntry;20;3;5;0;
 
 
 #org/apache/commons/compress/archivers/ar/ArArchiveOutputStream/fill:
@@ -1144,27 +1144,27 @@ org.apache.commons.compress.archivers.tar.TarArchiveEntry.<init>;6;2;3;0;
 
 
 #org/apache/commons/compress/archivers/tar/TarArchiveEntry/<init>:
-Method <init> reduced in 0 minutes and 0 seconds. Total em milliseconds 0
+Method <init> reduced in 0 minutes and 0 seconds. Total em milliseconds 1
 ## nodes: 8
 ## edges: 9
 ## duas: 6
 ## Unconstrained duas: 4
 ## Reduction nodes: 5
-@@ org.apache.commons.compress.archivers.tar.TarArchiveEntry.<init>,8,9,6,4,5,66.66666666666666,83.33333333333334,0,0
+@@ org.apache.commons.compress.archivers.tar.TarArchiveEntry.<init>,8,9,6,4,5,66.66666666666666,83.33333333333334,0,1
 
-org.apache.commons.compress.archivers.tar.TarArchiveEntry.<init>;6;4;5;0;
+org.apache.commons.compress.archivers.tar.TarArchiveEntry.<init>;6;4;5;1;
 
 
 #org/apache/commons/compress/archivers/tar/TarArchiveEntry/<init>:
-Method <init> reduced in 0 minutes and 0 seconds. Total em milliseconds 1
+Method <init> reduced in 0 minutes and 0 seconds. Total em milliseconds 2
 ## nodes: 8
 ## edges: 10
 ## duas: 19
 ## Unconstrained duas: 4
 ## Reduction nodes: 8
-@@ org.apache.commons.compress.archivers.tar.TarArchiveEntry.<init>,8,10,19,4,8,21.052631578947366,42.10526315789473,0,1
+@@ org.apache.commons.compress.archivers.tar.TarArchiveEntry.<init>,8,10,19,4,8,21.052631578947366,42.10526315789473,0,2
 
-org.apache.commons.compress.archivers.tar.TarArchiveEntry.<init>;19;4;8;1;
+org.apache.commons.compress.archivers.tar.TarArchiveEntry.<init>;19;4;8;2;
 
 
 #org/apache/commons/compress/archivers/tar/TarArchiveEntry/equals:
@@ -1204,27 +1204,27 @@ org.apache.commons.compress.archivers.tar.TarArchiveEntry.isDirectory;12;4;6;1;
 
 
 #org/apache/commons/compress/archivers/tar/TarArchiveEntry/getDirectoryEntries:
-Method getDirectoryEntries reduced in 0 minutes and 0 seconds. Total em milliseconds 3
+Method getDirectoryEntries reduced in 0 minutes and 0 seconds. Total em milliseconds 2
 ## nodes: 8
 ## edges: 10
 ## duas: 23
 ## Unconstrained duas: 4
 ## Reduction nodes: 7
-@@ org.apache.commons.compress.archivers.tar.TarArchiveEntry.getDirectoryEntries,8,10,23,4,7,17.391304347826086,30.434782608695656,0,3
+@@ org.apache.commons.compress.archivers.tar.TarArchiveEntry.getDirectoryEntries,8,10,23,4,7,17.391304347826086,30.434782608695656,0,2
 
-org.apache.commons.compress.archivers.tar.TarArchiveEntry.getDirectoryEntries;23;4;7;3;
+org.apache.commons.compress.archivers.tar.TarArchiveEntry.getDirectoryEntries;23;4;7;2;
 
 
 #org/apache/commons/compress/archivers/tar/TarArchiveEntry/writeEntryHeader:
-Method writeEntryHeader reduced in 0 minutes and 0 seconds. Total em milliseconds 8
+Method writeEntryHeader reduced in 0 minutes and 0 seconds. Total em milliseconds 4
 ## nodes: 8
 ## edges: 9
 ## duas: 31
 ## Unconstrained duas: 4
 ## Reduction nodes: 7
-@@ org.apache.commons.compress.archivers.tar.TarArchiveEntry.writeEntryHeader,8,9,31,4,7,12.903225806451612,22.58064516129032,0,8
+@@ org.apache.commons.compress.archivers.tar.TarArchiveEntry.writeEntryHeader,8,9,31,4,7,12.903225806451612,22.58064516129032,0,4
 
-org.apache.commons.compress.archivers.tar.TarArchiveEntry.writeEntryHeader;31;4;7;8;
+org.apache.commons.compress.archivers.tar.TarArchiveEntry.writeEntryHeader;31;4;7;4;
 
 
 #org/apache/commons/compress/archivers/tar/TarArchiveEntry/normalizeFileName:
@@ -1252,39 +1252,39 @@ org.apache.commons.compress.archivers.tar.TarUtils.parseOctal;43;18;39;17;
 
 
 #org/apache/commons/compress/archivers/tar/TarUtils/parseName:
-Method parseName reduced in 0 minutes and 0 seconds. Total em milliseconds 2
+Method parseName reduced in 0 minutes and 0 seconds. Total em milliseconds 3
 ## nodes: 7
 ## edges: 8
 ## duas: 17
 ## Unconstrained duas: 5
 ## Reduction nodes: 11
-@@ org.apache.commons.compress.archivers.tar.TarUtils.parseName,7,8,17,5,11,29.411764705882355,64.70588235294117,0,2
+@@ org.apache.commons.compress.archivers.tar.TarUtils.parseName,7,8,17,5,11,29.411764705882355,64.70588235294117,0,3
 
-org.apache.commons.compress.archivers.tar.TarUtils.parseName;17;5;11;2;
+org.apache.commons.compress.archivers.tar.TarUtils.parseName;17;5;11;3;
 
 
 #org/apache/commons/compress/archivers/tar/TarUtils/getNameBytes:
-Method getNameBytes reduced in 0 minutes and 0 seconds. Total em milliseconds 3
+Method getNameBytes reduced in 0 minutes and 0 seconds. Total em milliseconds 4
 ## nodes: 8
 ## edges: 10
 ## duas: 32
 ## Unconstrained duas: 10
 ## Reduction nodes: 17
-@@ org.apache.commons.compress.archivers.tar.TarUtils.getNameBytes,8,10,32,10,17,31.25,53.125,0,3
+@@ org.apache.commons.compress.archivers.tar.TarUtils.getNameBytes,8,10,32,10,17,31.25,53.125,0,4
 
-org.apache.commons.compress.archivers.tar.TarUtils.getNameBytes;32;10;17;3;
+org.apache.commons.compress.archivers.tar.TarUtils.getNameBytes;32;10;17;4;
 
 
 #org/apache/commons/compress/archivers/tar/TarUtils/getOctalBytes:
-Method getOctalBytes reduced in 0 minutes and 0 seconds. Total em milliseconds 6
+Method getOctalBytes reduced in 0 minutes and 0 seconds. Total em milliseconds 5
 ## nodes: 10
 ## edges: 13
 ## duas: 36
 ## Unconstrained duas: 12
 ## Reduction nodes: 19
-@@ org.apache.commons.compress.archivers.tar.TarUtils.getOctalBytes,10,13,36,12,19,33.33333333333333,52.77777777777778,0,6
+@@ org.apache.commons.compress.archivers.tar.TarUtils.getOctalBytes,10,13,36,12,19,33.33333333333333,52.77777777777778,0,5
 
-org.apache.commons.compress.archivers.tar.TarUtils.getOctalBytes;36;12;19;6;
+org.apache.commons.compress.archivers.tar.TarUtils.getOctalBytes;36;12;19;5;
 
 
 #org/apache/commons/compress/archivers/tar/TarUtils/computeCheckSum:
@@ -1312,123 +1312,123 @@ org.apache.commons.compress.archivers.tar.TarArchiveOutputStream.close;7;2;2;0;
 
 
 #org/apache/commons/compress/archivers/tar/TarArchiveOutputStream/putNextEntry:
-Method putNextEntry reduced in 0 minutes and 0 seconds. Total em milliseconds 2
+Method putNextEntry reduced in 0 minutes and 0 seconds. Total em milliseconds 1
 ## nodes: 10
 ## edges: 13
 ## duas: 24
 ## Unconstrained duas: 6
 ## Reduction nodes: 9
-@@ org.apache.commons.compress.archivers.tar.TarArchiveOutputStream.putNextEntry,10,13,24,6,9,25.0,37.5,0,2
+@@ org.apache.commons.compress.archivers.tar.TarArchiveOutputStream.putNextEntry,10,13,24,6,9,25.0,37.5,0,1
 
-org.apache.commons.compress.archivers.tar.TarArchiveOutputStream.putNextEntry;24;6;9;2;
+org.apache.commons.compress.archivers.tar.TarArchiveOutputStream.putNextEntry;24;6;9;1;
 
 
 #org/apache/commons/compress/archivers/tar/TarArchiveOutputStream/closeEntry:
-Method closeEntry reduced in 0 minutes and 0 seconds. Total em milliseconds 4
+Method closeEntry reduced in 0 minutes and 0 seconds. Total em milliseconds 2
 ## nodes: 9
 ## edges: 11
 ## duas: 36
 ## Unconstrained duas: 6
 ## Reduction nodes: 11
-@@ org.apache.commons.compress.archivers.tar.TarArchiveOutputStream.closeEntry,9,11,36,6,11,16.666666666666664,30.555555555555557,0,4
+@@ org.apache.commons.compress.archivers.tar.TarArchiveOutputStream.closeEntry,9,11,36,6,11,16.666666666666664,30.555555555555557,0,2
 
-org.apache.commons.compress.archivers.tar.TarArchiveOutputStream.closeEntry;36;6;11;4;
+org.apache.commons.compress.archivers.tar.TarArchiveOutputStream.closeEntry;36;6;11;2;
 
 
 #org/apache/commons/compress/archivers/tar/TarArchiveOutputStream/write:
-Method write reduced in 0 minutes and 0 seconds. Total em milliseconds 11
+Method write reduced in 0 minutes and 0 seconds. Total em milliseconds 9
 ## nodes: 12
 ## edges: 16
 ## duas: 88
 ## Unconstrained duas: 13
 ## Reduction nodes: 28
-@@ org.apache.commons.compress.archivers.tar.TarArchiveOutputStream.write,12,16,88,13,28,14.772727272727273,31.818181818181817,0,11
+@@ org.apache.commons.compress.archivers.tar.TarArchiveOutputStream.write,12,16,88,13,28,14.772727272727273,31.818181818181817,0,9
 
-org.apache.commons.compress.archivers.tar.TarArchiveOutputStream.write;88;13;28;11;
+org.apache.commons.compress.archivers.tar.TarArchiveOutputStream.write;88;13;28;9;
 
 
 #org/apache/commons/compress/archivers/tar/TarArchiveOutputStream/writeEOFRecord:
-Method writeEOFRecord reduced in 0 minutes and 0 seconds. Total em milliseconds 1
+Method writeEOFRecord reduced in 0 minutes and 0 seconds. Total em milliseconds 0
 ## nodes: 5
 ## edges: 5
 ## duas: 15
 ## Unconstrained duas: 2
 ## Reduction nodes: 4
-@@ org.apache.commons.compress.archivers.tar.TarArchiveOutputStream.writeEOFRecord,5,5,15,2,4,13.333333333333334,26.666666666666668,0,1
+@@ org.apache.commons.compress.archivers.tar.TarArchiveOutputStream.writeEOFRecord,5,5,15,2,4,13.333333333333334,26.666666666666668,0,0
 
-org.apache.commons.compress.archivers.tar.TarArchiveOutputStream.writeEOFRecord;15;2;4;1;
+org.apache.commons.compress.archivers.tar.TarArchiveOutputStream.writeEOFRecord;15;2;4;0;
 
 
 #org/apache/commons/compress/archivers/tar/TarArchiveInputStream/available:
-Method available reduced in 0 minutes and 0 seconds. Total em milliseconds 1
+Method available reduced in 0 minutes and 0 seconds. Total em milliseconds 0
 ## nodes: 4
 ## edges: 4
 ## duas: 9
 ## Unconstrained duas: 2
 ## Reduction nodes: 2
-@@ org.apache.commons.compress.archivers.tar.TarArchiveInputStream.available,4,4,9,2,2,22.22222222222222,22.22222222222222,0,1
+@@ org.apache.commons.compress.archivers.tar.TarArchiveInputStream.available,4,4,9,2,2,22.22222222222222,22.22222222222222,0,0
 
-org.apache.commons.compress.archivers.tar.TarArchiveInputStream.available;9;2;2;1;
+org.apache.commons.compress.archivers.tar.TarArchiveInputStream.available;9;2;2;0;
 
 
 #org/apache/commons/compress/archivers/tar/TarArchiveInputStream/skip:
-Method skip reduced in 0 minutes and 0 seconds. Total em milliseconds 4
+Method skip reduced in 0 minutes and 0 seconds. Total em milliseconds 2
 ## nodes: 10
 ## edges: 12
 ## duas: 22
 ## Unconstrained duas: 8
 ## Reduction nodes: 15
-@@ org.apache.commons.compress.archivers.tar.TarArchiveInputStream.skip,10,12,22,8,15,36.36363636363637,68.18181818181817,0,4
+@@ org.apache.commons.compress.archivers.tar.TarArchiveInputStream.skip,10,12,22,8,15,36.36363636363637,68.18181818181817,0,2
 
-org.apache.commons.compress.archivers.tar.TarArchiveInputStream.skip;22;8;15;4;
+org.apache.commons.compress.archivers.tar.TarArchiveInputStream.skip;22;8;15;2;
 
 
 #org/apache/commons/compress/archivers/tar/TarArchiveInputStream/getNextTarEntry:
-Method getNextTarEntry reduced in 0 minutes and 0 seconds. Total em milliseconds 41
+Method getNextTarEntry reduced in 0 minutes and 0 seconds. Total em milliseconds 33
 ## nodes: 36
 ## edges: 52
 ## duas: 116
 ## Unconstrained duas: 32
 ## Reduction nodes: 59
-@@ org.apache.commons.compress.archivers.tar.TarArchiveInputStream.getNextTarEntry,36,52,116,32,59,27.586206896551722,50.86206896551724,0,41
+@@ org.apache.commons.compress.archivers.tar.TarArchiveInputStream.getNextTarEntry,36,52,116,32,59,27.586206896551722,50.86206896551724,0,33
 
-org.apache.commons.compress.archivers.tar.TarArchiveInputStream.getNextTarEntry;116;32;59;41;
+org.apache.commons.compress.archivers.tar.TarArchiveInputStream.getNextTarEntry;116;32;59;33;
 
 
 #org/apache/commons/compress/archivers/tar/TarArchiveInputStream/read:
-Method read reduced in 0 minutes and 0 seconds. Total em milliseconds 1
+Method read reduced in 0 minutes and 0 seconds. Total em milliseconds 0
 ## nodes: 5
 ## edges: 5
 ## duas: 4
 ## Unconstrained duas: 2
 ## Reduction nodes: 3
-@@ org.apache.commons.compress.archivers.tar.TarArchiveInputStream.read,5,5,4,2,3,50.0,75.0,0,1
+@@ org.apache.commons.compress.archivers.tar.TarArchiveInputStream.read,5,5,4,2,3,50.0,75.0,0,0
 
-org.apache.commons.compress.archivers.tar.TarArchiveInputStream.read;4;2;3;1;
+org.apache.commons.compress.archivers.tar.TarArchiveInputStream.read;4;2;3;0;
 
 
 #org/apache/commons/compress/archivers/tar/TarArchiveInputStream/read:
-Method read reduced in 0 minutes and 0 seconds. Total em milliseconds 34
+Method read reduced in 0 minutes and 0 seconds. Total em milliseconds 32
 ## nodes: 21
 ## edges: 28
 ## duas: 106
 ## Unconstrained duas: 23
 ## Reduction nodes: 46
-@@ org.apache.commons.compress.archivers.tar.TarArchiveInputStream.read,21,28,106,23,46,21.69811320754717,43.39622641509434,0,34
+@@ org.apache.commons.compress.archivers.tar.TarArchiveInputStream.read,21,28,106,23,46,21.69811320754717,43.39622641509434,0,32
 
-org.apache.commons.compress.archivers.tar.TarArchiveInputStream.read;106;23;46;34;
+org.apache.commons.compress.archivers.tar.TarArchiveInputStream.read;106;23;46;32;
 
 
 #org/apache/commons/compress/archivers/tar/TarArchiveInputStream/copyEntryContents:
-Method copyEntryContents reduced in 0 minutes and 0 seconds. Total em milliseconds 0
+Method copyEntryContents reduced in 0 minutes and 0 seconds. Total em milliseconds 1
 ## nodes: 5
 ## edges: 5
 ## duas: 7
 ## Unconstrained duas: 1
 ## Reduction nodes: 2
-@@ org.apache.commons.compress.archivers.tar.TarArchiveInputStream.copyEntryContents,5,5,7,1,2,14.285714285714285,28.57142857142857,0,0
+@@ org.apache.commons.compress.archivers.tar.TarArchiveInputStream.copyEntryContents,5,5,7,1,2,14.285714285714285,28.57142857142857,0,1
 
-org.apache.commons.compress.archivers.tar.TarArchiveInputStream.copyEntryContents;7;1;2;0;
+org.apache.commons.compress.archivers.tar.TarArchiveInputStream.copyEntryContents;7;1;2;1;
 
 
 #org/apache/commons/compress/archivers/tar/TarArchiveInputStream/matches:
@@ -1444,15 +1444,15 @@ org.apache.commons.compress.archivers.tar.TarArchiveInputStream.matches;18;10;18
 
 
 #org/apache/commons/compress/archivers/tar/TarBuffer/initialize:
-Method initialize reduced in 0 minutes and 0 seconds. Total em milliseconds 0
+Method initialize reduced in 0 minutes and 0 seconds. Total em milliseconds 1
 ## nodes: 5
 ## edges: 5
 ## duas: 7
 ## Unconstrained duas: 2
 ## Reduction nodes: 2
-@@ org.apache.commons.compress.archivers.tar.TarBuffer.initialize,5,5,7,2,2,28.57142857142857,28.57142857142857,0,0
+@@ org.apache.commons.compress.archivers.tar.TarBuffer.initialize,5,5,7,2,2,28.57142857142857,28.57142857142857,0,1
 
-org.apache.commons.compress.archivers.tar.TarBuffer.initialize;7;2;2;0;
+org.apache.commons.compress.archivers.tar.TarBuffer.initialize;7;2;2;1;
 
 
 #org/apache/commons/compress/archivers/tar/TarBuffer/isEOFRecord:
@@ -1468,27 +1468,27 @@ org.apache.commons.compress.archivers.tar.TarBuffer.isEOFRecord;14;5;10;2;
 
 
 #org/apache/commons/compress/archivers/tar/TarBuffer/skipRecord:
-Method skipRecord reduced in 0 minutes and 0 seconds. Total em milliseconds 3
+Method skipRecord reduced in 0 minutes and 0 seconds. Total em milliseconds 2
 ## nodes: 9
 ## edges: 12
 ## duas: 22
 ## Unconstrained duas: 6
 ## Reduction nodes: 9
-@@ org.apache.commons.compress.archivers.tar.TarBuffer.skipRecord,9,12,22,6,9,27.27272727272727,40.909090909090914,0,3
+@@ org.apache.commons.compress.archivers.tar.TarBuffer.skipRecord,9,12,22,6,9,27.27272727272727,40.909090909090914,0,2
 
-org.apache.commons.compress.archivers.tar.TarBuffer.skipRecord;22;6;9;3;
+org.apache.commons.compress.archivers.tar.TarBuffer.skipRecord;22;6;9;2;
 
 
 #org/apache/commons/compress/archivers/tar/TarBuffer/readRecord:
-Method readRecord reduced in 0 minutes and 0 seconds. Total em milliseconds 2
+Method readRecord reduced in 0 minutes and 0 seconds. Total em milliseconds 4
 ## nodes: 9
 ## edges: 12
 ## duas: 24
 ## Unconstrained duas: 6
 ## Reduction nodes: 9
-@@ org.apache.commons.compress.archivers.tar.TarBuffer.readRecord,9,12,24,6,9,25.0,37.5,0,2
+@@ org.apache.commons.compress.archivers.tar.TarBuffer.readRecord,9,12,24,6,9,25.0,37.5,0,4
 
-org.apache.commons.compress.archivers.tar.TarBuffer.readRecord;24;6;9;2;
+org.apache.commons.compress.archivers.tar.TarBuffer.readRecord;24;6;9;4;
 
 
 #org/apache/commons/compress/archivers/tar/TarBuffer/readBlock:
@@ -1504,15 +1504,15 @@ org.apache.commons.compress.archivers.tar.TarBuffer.readBlock;57;13;21;15;
 
 
 #org/apache/commons/compress/archivers/tar/TarBuffer/writeRecord:
-Method writeRecord reduced in 0 minutes and 0 seconds. Total em milliseconds 4
+Method writeRecord reduced in 0 minutes and 0 seconds. Total em milliseconds 2
 ## nodes: 10
 ## edges: 13
 ## duas: 33
 ## Unconstrained duas: 6
 ## Reduction nodes: 8
-@@ org.apache.commons.compress.archivers.tar.TarBuffer.writeRecord,10,13,33,6,8,18.181818181818183,24.242424242424242,0,4
+@@ org.apache.commons.compress.archivers.tar.TarBuffer.writeRecord,10,13,33,6,8,18.181818181818183,24.242424242424242,0,2
 
-org.apache.commons.compress.archivers.tar.TarBuffer.writeRecord;33;6;8;4;
+org.apache.commons.compress.archivers.tar.TarBuffer.writeRecord;33;6;8;2;
 
 
 #org/apache/commons/compress/archivers/tar/TarBuffer/writeRecord:
@@ -1528,39 +1528,39 @@ org.apache.commons.compress.archivers.tar.TarBuffer.writeRecord;37;6;8;3;
 
 
 #org/apache/commons/compress/archivers/tar/TarBuffer/writeBlock:
-Method writeBlock reduced in 0 minutes and 0 seconds. Total em milliseconds 1
+Method writeBlock reduced in 0 minutes and 0 seconds. Total em milliseconds 2
 ## nodes: 6
 ## edges: 7
 ## duas: 16
 ## Unconstrained duas: 4
 ## Reduction nodes: 4
-@@ org.apache.commons.compress.archivers.tar.TarBuffer.writeBlock,6,7,16,4,4,25.0,25.0,0,1
+@@ org.apache.commons.compress.archivers.tar.TarBuffer.writeBlock,6,7,16,4,4,25.0,25.0,0,2
 
-org.apache.commons.compress.archivers.tar.TarBuffer.writeBlock;16;4;4;1;
+org.apache.commons.compress.archivers.tar.TarBuffer.writeBlock;16;4;4;2;
 
 
 #org/apache/commons/compress/archivers/tar/TarBuffer/flushBlock:
-Method flushBlock reduced in 0 minutes and 0 seconds. Total em milliseconds 0
+Method flushBlock reduced in 0 minutes and 0 seconds. Total em milliseconds 2
 ## nodes: 8
 ## edges: 10
 ## duas: 14
 ## Unconstrained duas: 5
 ## Reduction nodes: 6
-@@ org.apache.commons.compress.archivers.tar.TarBuffer.flushBlock,8,10,14,5,6,35.714285714285715,42.857142857142854,0,0
+@@ org.apache.commons.compress.archivers.tar.TarBuffer.flushBlock,8,10,14,5,6,35.714285714285715,42.857142857142854,0,2
 
-org.apache.commons.compress.archivers.tar.TarBuffer.flushBlock;14;5;6;0;
+org.apache.commons.compress.archivers.tar.TarBuffer.flushBlock;14;5;6;2;
 
 
 #org/apache/commons/compress/archivers/tar/TarBuffer/close:
-Method close reduced in 0 minutes and 0 seconds. Total em milliseconds 2
+Method close reduced in 0 minutes and 0 seconds. Total em milliseconds 3
 ## nodes: 11
 ## edges: 16
 ## duas: 36
 ## Unconstrained duas: 8
 ## Reduction nodes: 12
-@@ org.apache.commons.compress.archivers.tar.TarBuffer.close,11,16,36,8,12,22.22222222222222,33.33333333333333,0,2
+@@ org.apache.commons.compress.archivers.tar.TarBuffer.close,11,16,36,8,12,22.22222222222222,33.33333333333333,0,3
 
-org.apache.commons.compress.archivers.tar.TarBuffer.close;36;8;12;2;
+org.apache.commons.compress.archivers.tar.TarBuffer.close;36;8;12;3;
 
 
 #org/apache/commons/compress/archivers/cpio/CpioArchiveOutputStream/ensureOpen:
@@ -1612,27 +1612,27 @@ org.apache.commons.compress.archivers.cpio.CpioArchiveOutputStream.writeHeader;1
 
 
 #org/apache/commons/compress/archivers/cpio/CpioArchiveOutputStream/closeArchiveEntry:
-Method closeArchiveEntry reduced in 0 minutes and 0 seconds. Total em milliseconds 3
+Method closeArchiveEntry reduced in 0 minutes and 0 seconds. Total em milliseconds 2
 ## nodes: 11
 ## edges: 15
 ## duas: 32
 ## Unconstrained duas: 7
 ## Reduction nodes: 11
-@@ org.apache.commons.compress.archivers.cpio.CpioArchiveOutputStream.closeArchiveEntry,11,15,32,7,11,21.875,34.375,0,3
+@@ org.apache.commons.compress.archivers.cpio.CpioArchiveOutputStream.closeArchiveEntry,11,15,32,7,11,21.875,34.375,0,2
 
-org.apache.commons.compress.archivers.cpio.CpioArchiveOutputStream.closeArchiveEntry;32;7;11;3;
+org.apache.commons.compress.archivers.cpio.CpioArchiveOutputStream.closeArchiveEntry;32;7;11;2;
 
 
 #org/apache/commons/compress/archivers/cpio/CpioArchiveOutputStream/write:
-Method write reduced in 0 minutes and 0 seconds. Total em milliseconds 9
+Method write reduced in 0 minutes and 0 seconds. Total em milliseconds 7
 ## nodes: 16
 ## edges: 23
 ## duas: 46
 ## Unconstrained duas: 9
 ## Reduction nodes: 17
-@@ org.apache.commons.compress.archivers.cpio.CpioArchiveOutputStream.write,16,23,46,9,17,19.565217391304348,36.95652173913043,0,9
+@@ org.apache.commons.compress.archivers.cpio.CpioArchiveOutputStream.write,16,23,46,9,17,19.565217391304348,36.95652173913043,0,7
 
-org.apache.commons.compress.archivers.cpio.CpioArchiveOutputStream.write;46;9;17;9;
+org.apache.commons.compress.archivers.cpio.CpioArchiveOutputStream.write;46;9;17;7;
 
 
 #org/apache/commons/compress/archivers/cpio/CpioArchiveOutputStream/finish:
@@ -1648,75 +1648,75 @@ org.apache.commons.compress.archivers.cpio.CpioArchiveOutputStream.finish;11;3;4
 
 
 #org/apache/commons/compress/archivers/cpio/CpioArchiveOutputStream/close:
-Method close reduced in 0 minutes and 0 seconds. Total em milliseconds 0
+Method close reduced in 0 minutes and 0 seconds. Total em milliseconds 1
 ## nodes: 4
 ## edges: 4
 ## duas: 5
 ## Unconstrained duas: 2
 ## Reduction nodes: 2
-@@ org.apache.commons.compress.archivers.cpio.CpioArchiveOutputStream.close,4,4,5,2,2,40.0,40.0,0,0
+@@ org.apache.commons.compress.archivers.cpio.CpioArchiveOutputStream.close,4,4,5,2,2,40.0,40.0,0,1
 
-org.apache.commons.compress.archivers.cpio.CpioArchiveOutputStream.close;5;2;2;0;
+org.apache.commons.compress.archivers.cpio.CpioArchiveOutputStream.close;5;2;2;1;
 
 
 #org/apache/commons/compress/archivers/cpio/CpioArchiveOutputStream/pad:
-Method pad reduced in 0 minutes and 0 seconds. Total em milliseconds 1
+Method pad reduced in 0 minutes and 0 seconds. Total em milliseconds 0
 ## nodes: 4
 ## edges: 4
 ## duas: 6
 ## Unconstrained duas: 2
 ## Reduction nodes: 2
-@@ org.apache.commons.compress.archivers.cpio.CpioArchiveOutputStream.pad,4,4,6,2,2,33.33333333333333,33.33333333333333,0,1
+@@ org.apache.commons.compress.archivers.cpio.CpioArchiveOutputStream.pad,4,4,6,2,2,33.33333333333333,33.33333333333333,0,0
 
-org.apache.commons.compress.archivers.cpio.CpioArchiveOutputStream.pad;6;2;2;1;
+org.apache.commons.compress.archivers.cpio.CpioArchiveOutputStream.pad;6;2;2;0;
 
 
 #org/apache/commons/compress/archivers/cpio/CpioArchiveOutputStream/writeAsciiLong:
-Method writeAsciiLong reduced in 0 minutes and 0 seconds. Total em milliseconds 8
+Method writeAsciiLong reduced in 0 minutes and 0 seconds. Total em milliseconds 3
 ## nodes: 13
 ## edges: 16
 ## duas: 32
 ## Unconstrained duas: 6
 ## Reduction nodes: 10
-@@ org.apache.commons.compress.archivers.cpio.CpioArchiveOutputStream.writeAsciiLong,13,16,32,6,10,18.75,31.25,0,8
+@@ org.apache.commons.compress.archivers.cpio.CpioArchiveOutputStream.writeAsciiLong,13,16,32,6,10,18.75,31.25,0,3
 
-org.apache.commons.compress.archivers.cpio.CpioArchiveOutputStream.writeAsciiLong;32;6;10;8;
+org.apache.commons.compress.archivers.cpio.CpioArchiveOutputStream.writeAsciiLong;32;6;10;3;
 
 
 #org/apache/commons/compress/archivers/cpio/CpioUtil/byteArray2long:
-Method byteArray2long reduced in 0 minutes and 0 seconds. Total em milliseconds 2
+Method byteArray2long reduced in 0 minutes and 0 seconds. Total em milliseconds 4
 ## nodes: 11
 ## edges: 14
 ## duas: 27
 ## Unconstrained duas: 6
 ## Reduction nodes: 10
-@@ org.apache.commons.compress.archivers.cpio.CpioUtil.byteArray2long,11,14,27,6,10,22.22222222222222,37.03703703703704,0,2
+@@ org.apache.commons.compress.archivers.cpio.CpioUtil.byteArray2long,11,14,27,6,10,22.22222222222222,37.03703703703704,0,4
 
-org.apache.commons.compress.archivers.cpio.CpioUtil.byteArray2long;27;6;10;2;
+org.apache.commons.compress.archivers.cpio.CpioUtil.byteArray2long;27;6;10;4;
 
 
 #org/apache/commons/compress/archivers/cpio/CpioUtil/long2byteArray:
-Method long2byteArray reduced in 0 minutes and 0 seconds. Total em milliseconds 3
+Method long2byteArray reduced in 0 minutes and 0 seconds. Total em milliseconds 4
 ## nodes: 12
 ## edges: 16
 ## duas: 27
 ## Unconstrained duas: 7
 ## Reduction nodes: 12
-@@ org.apache.commons.compress.archivers.cpio.CpioUtil.long2byteArray,12,16,27,7,12,25.925925925925924,44.44444444444444,0,3
+@@ org.apache.commons.compress.archivers.cpio.CpioUtil.long2byteArray,12,16,27,7,12,25.925925925925924,44.44444444444444,0,4
 
-org.apache.commons.compress.archivers.cpio.CpioUtil.long2byteArray;27;7;12;3;
+org.apache.commons.compress.archivers.cpio.CpioUtil.long2byteArray;27;7;12;4;
 
 
 #org/apache/commons/compress/archivers/cpio/CpioArchiveInputStream/available:
-Method available reduced in 0 minutes and 0 seconds. Total em milliseconds 1
+Method available reduced in 0 minutes and 0 seconds. Total em milliseconds 0
 ## nodes: 4
 ## edges: 4
 ## duas: 4
 ## Unconstrained duas: 2
 ## Reduction nodes: 2
-@@ org.apache.commons.compress.archivers.cpio.CpioArchiveInputStream.available,4,4,4,2,2,50.0,50.0,0,1
+@@ org.apache.commons.compress.archivers.cpio.CpioArchiveInputStream.available,4,4,4,2,2,50.0,50.0,0,0
 
-org.apache.commons.compress.archivers.cpio.CpioArchiveInputStream.available;4;2;2;1;
+org.apache.commons.compress.archivers.cpio.CpioArchiveInputStream.available;4;2;2;0;
 
 
 #org/apache/commons/compress/archivers/cpio/CpioArchiveInputStream/close:
@@ -1732,15 +1732,15 @@ org.apache.commons.compress.archivers.cpio.CpioArchiveInputStream.close;5;2;2;1;
 
 
 #org/apache/commons/compress/archivers/cpio/CpioArchiveInputStream/closeEntry:
-Method closeEntry reduced in 0 minutes and 0 seconds. Total em milliseconds 1
+Method closeEntry reduced in 0 minutes and 0 seconds. Total em milliseconds 0
 ## nodes: 5
 ## edges: 5
 ## duas: 5
 ## Unconstrained duas: 1
 ## Reduction nodes: 2
-@@ org.apache.commons.compress.archivers.cpio.CpioArchiveInputStream.closeEntry,5,5,5,1,2,20.0,40.0,0,1
+@@ org.apache.commons.compress.archivers.cpio.CpioArchiveInputStream.closeEntry,5,5,5,1,2,20.0,40.0,0,0
 
-org.apache.commons.compress.archivers.cpio.CpioArchiveInputStream.closeEntry;5;1;2;1;
+org.apache.commons.compress.archivers.cpio.CpioArchiveInputStream.closeEntry;5;1;2;0;
 
 
 #org/apache/commons/compress/archivers/cpio/CpioArchiveInputStream/ensureOpen:
@@ -1756,15 +1756,15 @@ org.apache.commons.compress.archivers.cpio.CpioArchiveInputStream.ensureOpen;4;2
 
 
 #org/apache/commons/compress/archivers/cpio/CpioArchiveInputStream/getNextCPIOEntry:
-Method getNextCPIOEntry reduced in 0 minutes and 0 seconds. Total em milliseconds 6
+Method getNextCPIOEntry reduced in 0 minutes and 0 seconds. Total em milliseconds 5
 ## nodes: 17
 ## edges: 23
 ## duas: 44
 ## Unconstrained duas: 13
 ## Reduction nodes: 26
-@@ org.apache.commons.compress.archivers.cpio.CpioArchiveInputStream.getNextCPIOEntry,17,23,44,13,26,29.545454545454547,59.09090909090909,0,6
+@@ org.apache.commons.compress.archivers.cpio.CpioArchiveInputStream.getNextCPIOEntry,17,23,44,13,26,29.545454545454547,59.09090909090909,0,5
 
-org.apache.commons.compress.archivers.cpio.CpioArchiveInputStream.getNextCPIOEntry;44;13;26;6;
+org.apache.commons.compress.archivers.cpio.CpioArchiveInputStream.getNextCPIOEntry;44;13;26;5;
 
 
 #org/apache/commons/compress/archivers/cpio/CpioArchiveInputStream/pad:
@@ -1780,27 +1780,27 @@ org.apache.commons.compress.archivers.cpio.CpioArchiveInputStream.pad;8;2;2;0;
 
 
 #org/apache/commons/compress/archivers/cpio/CpioArchiveInputStream/read:
-Method read reduced in 0 minutes and 0 seconds. Total em milliseconds 1
+Method read reduced in 0 minutes and 0 seconds. Total em milliseconds 0
 ## nodes: 5
 ## edges: 5
 ## duas: 6
 ## Unconstrained duas: 2
 ## Reduction nodes: 3
-@@ org.apache.commons.compress.archivers.cpio.CpioArchiveInputStream.read,5,5,6,2,3,33.33333333333333,50.0,0,1
+@@ org.apache.commons.compress.archivers.cpio.CpioArchiveInputStream.read,5,5,6,2,3,33.33333333333333,50.0,0,0
 
-org.apache.commons.compress.archivers.cpio.CpioArchiveInputStream.read;6;2;3;1;
+org.apache.commons.compress.archivers.cpio.CpioArchiveInputStream.read;6;2;3;0;
 
 
 #org/apache/commons/compress/archivers/cpio/CpioArchiveInputStream/read:
-Method read reduced in 0 minutes and 0 seconds. Total em milliseconds 13
+Method read reduced in 0 minutes and 0 seconds. Total em milliseconds 12
 ## nodes: 26
 ## edges: 39
 ## duas: 79
 ## Unconstrained duas: 16
 ## Reduction nodes: 29
-@@ org.apache.commons.compress.archivers.cpio.CpioArchiveInputStream.read,26,39,79,16,29,20.253164556962027,36.708860759493675,0,13
+@@ org.apache.commons.compress.archivers.cpio.CpioArchiveInputStream.read,26,39,79,16,29,20.253164556962027,36.708860759493675,0,12
 
-org.apache.commons.compress.archivers.cpio.CpioArchiveInputStream.read;79;16;29;13;
+org.apache.commons.compress.archivers.cpio.CpioArchiveInputStream.read;79;16;29;12;
 
 
 #org/apache/commons/compress/archivers/cpio/CpioArchiveInputStream/readFully:
@@ -1828,15 +1828,15 @@ org.apache.commons.compress.archivers.cpio.CpioArchiveInputStream.readNewEntry;5
 
 
 #org/apache/commons/compress/archivers/cpio/CpioArchiveInputStream/skip:
-Method skip reduced in 0 minutes and 0 seconds. Total em milliseconds 4
+Method skip reduced in 0 minutes and 0 seconds. Total em milliseconds 5
 ## nodes: 11
 ## edges: 14
 ## duas: 33
 ## Unconstrained duas: 7
 ## Reduction nodes: 13
-@@ org.apache.commons.compress.archivers.cpio.CpioArchiveInputStream.skip,11,14,33,7,13,21.21212121212121,39.39393939393939,0,4
+@@ org.apache.commons.compress.archivers.cpio.CpioArchiveInputStream.skip,11,14,33,7,13,21.21212121212121,39.39393939393939,0,5
 
-org.apache.commons.compress.archivers.cpio.CpioArchiveInputStream.skip;33;7;13;4;
+org.apache.commons.compress.archivers.cpio.CpioArchiveInputStream.skip;33;7;13;5;
 
 
 #org/apache/commons/compress/archivers/cpio/CpioArchiveInputStream/matches:
@@ -1852,27 +1852,27 @@ org.apache.commons.compress.archivers.cpio.CpioArchiveInputStream.matches;12;7;1
 
 
 #org/apache/commons/compress/archivers/cpio/CpioArchiveEntry/checkNewFormat:
-Method checkNewFormat reduced in 0 minutes and 0 seconds. Total em milliseconds 1
+Method checkNewFormat reduced in 0 minutes and 0 seconds. Total em milliseconds 0
 ## nodes: 4
 ## edges: 4
 ## duas: 4
 ## Unconstrained duas: 2
 ## Reduction nodes: 2
-@@ org.apache.commons.compress.archivers.cpio.CpioArchiveEntry.checkNewFormat,4,4,4,2,2,50.0,50.0,0,1
+@@ org.apache.commons.compress.archivers.cpio.CpioArchiveEntry.checkNewFormat,4,4,4,2,2,50.0,50.0,0,0
 
-org.apache.commons.compress.archivers.cpio.CpioArchiveEntry.checkNewFormat;4;2;2;1;
+org.apache.commons.compress.archivers.cpio.CpioArchiveEntry.checkNewFormat;4;2;2;0;
 
 
 #org/apache/commons/compress/archivers/cpio/CpioArchiveEntry/checkOldFormat:
-Method checkOldFormat reduced in 0 minutes and 0 seconds. Total em milliseconds 1
+Method checkOldFormat reduced in 0 minutes and 0 seconds. Total em milliseconds 0
 ## nodes: 4
 ## edges: 4
 ## duas: 4
 ## Unconstrained duas: 2
 ## Reduction nodes: 2
-@@ org.apache.commons.compress.archivers.cpio.CpioArchiveEntry.checkOldFormat,4,4,4,2,2,50.0,50.0,0,1
+@@ org.apache.commons.compress.archivers.cpio.CpioArchiveEntry.checkOldFormat,4,4,4,2,2,50.0,50.0,0,0
 
-org.apache.commons.compress.archivers.cpio.CpioArchiveEntry.checkOldFormat;4;2;2;1;
+org.apache.commons.compress.archivers.cpio.CpioArchiveEntry.checkOldFormat;4;2;2;0;
 
 
 #org/apache/commons/compress/archivers/cpio/CpioArchiveEntry/isBlockDevice:
@@ -1912,15 +1912,15 @@ org.apache.commons.compress.archivers.cpio.CpioArchiveEntry.isDirectory;4;2;2;0;
 
 
 #org/apache/commons/compress/archivers/cpio/CpioArchiveEntry/isNetwork:
-Method isNetwork reduced in 0 minutes and 0 seconds. Total em milliseconds 0
+Method isNetwork reduced in 0 minutes and 0 seconds. Total em milliseconds 1
 ## nodes: 5
 ## edges: 5
 ## duas: 4
 ## Unconstrained duas: 2
 ## Reduction nodes: 2
-@@ org.apache.commons.compress.archivers.cpio.CpioArchiveEntry.isNetwork,5,5,4,2,2,50.0,50.0,0,0
+@@ org.apache.commons.compress.archivers.cpio.CpioArchiveEntry.isNetwork,5,5,4,2,2,50.0,50.0,0,1
 
-org.apache.commons.compress.archivers.cpio.CpioArchiveEntry.isNetwork;4;2;2;0;
+org.apache.commons.compress.archivers.cpio.CpioArchiveEntry.isNetwork;4;2;2;1;
 
 
 #org/apache/commons/compress/archivers/cpio/CpioArchiveEntry/isPipe:
@@ -1936,15 +1936,15 @@ org.apache.commons.compress.archivers.cpio.CpioArchiveEntry.isPipe;4;2;2;0;
 
 
 #org/apache/commons/compress/archivers/cpio/CpioArchiveEntry/isRegularFile:
-Method isRegularFile reduced in 0 minutes and 0 seconds. Total em milliseconds 0
+Method isRegularFile reduced in 0 minutes and 0 seconds. Total em milliseconds 1
 ## nodes: 5
 ## edges: 5
 ## duas: 4
 ## Unconstrained duas: 2
 ## Reduction nodes: 2
-@@ org.apache.commons.compress.archivers.cpio.CpioArchiveEntry.isRegularFile,5,5,4,2,2,50.0,50.0,0,0
+@@ org.apache.commons.compress.archivers.cpio.CpioArchiveEntry.isRegularFile,5,5,4,2,2,50.0,50.0,0,1
 
-org.apache.commons.compress.archivers.cpio.CpioArchiveEntry.isRegularFile;4;2;2;0;
+org.apache.commons.compress.archivers.cpio.CpioArchiveEntry.isRegularFile;4;2;2;1;
 
 
 #org/apache/commons/compress/archivers/cpio/CpioArchiveEntry/isSocket:
@@ -1972,27 +1972,27 @@ org.apache.commons.compress.archivers.cpio.CpioArchiveEntry.isSymbolicLink;4;2;2
 
 
 #org/apache/commons/compress/archivers/cpio/CpioArchiveEntry/setSize:
-Method setSize reduced in 0 minutes and 0 seconds. Total em milliseconds 1
+Method setSize reduced in 0 minutes and 0 seconds. Total em milliseconds 0
 ## nodes: 5
 ## edges: 6
 ## duas: 7
 ## Unconstrained duas: 3
 ## Reduction nodes: 5
-@@ org.apache.commons.compress.archivers.cpio.CpioArchiveEntry.setSize,5,6,7,3,5,42.857142857142854,71.42857142857143,0,1
+@@ org.apache.commons.compress.archivers.cpio.CpioArchiveEntry.setSize,5,6,7,3,5,42.857142857142854,71.42857142857143,0,0
 
-org.apache.commons.compress.archivers.cpio.CpioArchiveEntry.setSize;7;3;5;1;
+org.apache.commons.compress.archivers.cpio.CpioArchiveEntry.setSize;7;3;5;0;
 
 
 #org/apache/commons/compress/archivers/cpio/CpioArchiveEntry/setFormat:
-Method setFormat reduced in 0 minutes and 0 seconds. Total em milliseconds 1
+Method setFormat reduced in 0 minutes and 0 seconds. Total em milliseconds 0
 ## nodes: 8
 ## edges: 11
 ## duas: 9
 ## Unconstrained duas: 5
 ## Reduction nodes: 5
-@@ org.apache.commons.compress.archivers.cpio.CpioArchiveEntry.setFormat,8,11,9,5,5,55.55555555555556,55.55555555555556,0,1
+@@ org.apache.commons.compress.archivers.cpio.CpioArchiveEntry.setFormat,8,11,9,5,5,55.55555555555556,55.55555555555556,0,0
 
-org.apache.commons.compress.archivers.cpio.CpioArchiveEntry.setFormat;9;5;5;1;
+org.apache.commons.compress.archivers.cpio.CpioArchiveEntry.setFormat;9;5;5;0;
 
 
 #org/apache/commons/compress/archivers/cpio/CpioArchiveEntry/setMode:
@@ -2008,15 +2008,15 @@ org.apache.commons.compress.archivers.cpio.CpioArchiveEntry.setMode;5;2;3;0;
 
 
 #org/apache/commons/compress/utils/IOUtils/copy:
-Method copy reduced in 0 minutes and 0 seconds. Total em milliseconds 1
+Method copy reduced in 0 minutes and 0 seconds. Total em milliseconds 0
 ## nodes: 5
 ## edges: 5
 ## duas: 9
 ## Unconstrained duas: 1
 ## Reduction nodes: 2
-@@ org.apache.commons.compress.utils.IOUtils.copy,5,5,9,1,2,11.11111111111111,22.22222222222222,0,1
+@@ org.apache.commons.compress.utils.IOUtils.copy,5,5,9,1,2,11.11111111111111,22.22222222222222,0,0
 
-org.apache.commons.compress.utils.IOUtils.copy;9;1;2;1;
+org.apache.commons.compress.utils.IOUtils.copy;9;1;2;0;
 
 
 #org/apache/commons/compress/compressors/CompressorStreamFactory/createCompressorInputStream:
@@ -2056,27 +2056,27 @@ org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream$Data.in
 
 
 #org/apache/commons/compress/compressors/bzip2/BZip2CompressorOutputStream/makeMaps:
-Method makeMaps reduced in 0 minutes and 0 seconds. Total em milliseconds 3
+Method makeMaps reduced in 0 minutes and 0 seconds. Total em milliseconds 4
 ## nodes: 7
 ## edges: 8
 ## duas: 21
 ## Unconstrained duas: 5
 ## Reduction nodes: 10
-@@ org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream.makeMaps,7,8,21,5,10,23.809523809523807,47.61904761904761,0,3
+@@ org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream.makeMaps,7,8,21,5,10,23.809523809523807,47.61904761904761,0,4
 
-org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream.makeMaps;21;5;10;3;
+org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream.makeMaps;21;5;10;4;
 
 
 #org/apache/commons/compress/compressors/bzip2/BZip2CompressorOutputStream/hbMakeCodeLengths:
-Method hbMakeCodeLengths reduced in 0 minutes and 0 seconds. Total em milliseconds 418
+Method hbMakeCodeLengths reduced in 0 minutes and 0 seconds. Total em milliseconds 355
 ## nodes: 56
 ## edges: 77
 ## duas: 222
 ## Unconstrained duas: 56
 ## Reduction nodes: 83
-@@ org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream.hbMakeCodeLengths,56,77,222,56,83,25.225225225225223,37.38738738738739,0,418
+@@ org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream.hbMakeCodeLengths,56,77,222,56,83,25.225225225225223,37.38738738738739,0,355
 
-org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream.hbMakeCodeLengths;222;56;83;418;
+org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream.hbMakeCodeLengths;222;56;83;355;
 
 
 #org/apache/commons/compress/compressors/bzip2/BZip2CompressorOutputStream/<init>:
@@ -2092,39 +2092,39 @@ org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream.<init>
 
 
 #org/apache/commons/compress/compressors/bzip2/BZip2CompressorOutputStream/write:
-Method write reduced in 0 minutes and 0 seconds. Total em milliseconds 3
+Method write reduced in 0 minutes and 0 seconds. Total em milliseconds 2
 ## nodes: 8
 ## edges: 10
 ## duas: 22
 ## Unconstrained duas: 4
 ## Reduction nodes: 6
-@@ org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream.write,8,10,22,4,6,18.181818181818183,27.27272727272727,0,3
+@@ org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream.write,8,10,22,4,6,18.181818181818183,27.27272727272727,0,2
 
-org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream.write;22;4;6;3;
+org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream.write;22;4;6;2;
 
 
 #org/apache/commons/compress/compressors/bzip2/BZip2CompressorOutputStream/writeRun:
-Method writeRun reduced in 0 minutes and 0 seconds. Total em milliseconds 7
+Method writeRun reduced in 0 minutes and 0 seconds. Total em milliseconds 4
 ## nodes: 12
 ## edges: 16
 ## duas: 49
 ## Unconstrained duas: 7
 ## Reduction nodes: 9
-@@ org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream.writeRun,12,16,49,7,9,14.285714285714285,18.367346938775512,0,7
+@@ org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream.writeRun,12,16,49,7,9,14.285714285714285,18.367346938775512,0,4
 
-org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream.writeRun;49;7;9;7;
+org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream.writeRun;49;7;9;4;
 
 
 #org/apache/commons/compress/compressors/bzip2/BZip2CompressorOutputStream/close:
-Method close reduced in 0 minutes and 0 seconds. Total em milliseconds 0
+Method close reduced in 0 minutes and 0 seconds. Total em milliseconds 1
 ## nodes: 4
 ## edges: 4
 ## duas: 6
 ## Unconstrained duas: 2
 ## Reduction nodes: 2
-@@ org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream.close,4,4,6,2,2,33.33333333333333,33.33333333333333,0,0
+@@ org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream.close,4,4,6,2,2,33.33333333333333,33.33333333333333,0,1
 
-org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream.close;6;2;2;0;
+org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream.close;6;2;2;1;
 
 
 #org/apache/commons/compress/compressors/bzip2/BZip2CompressorOutputStream/finish:
@@ -2164,77 +2164,77 @@ org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream.endBlo
 
 
 #org/apache/commons/compress/compressors/bzip2/BZip2CompressorOutputStream/hbAssignCodes:
-Method hbAssignCodes reduced in 0 minutes and 0 seconds. Total em milliseconds 12
+Method hbAssignCodes reduced in 0 minutes and 0 seconds. Total em milliseconds 11
 ## nodes: 10
 ## edges: 12
 ## duas: 35
 ## Unconstrained duas: 12
 ## Reduction nodes: 20
-@@ org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream.hbAssignCodes,10,12,35,12,20,34.285714285714285,57.14285714285714,0,12
+@@ org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream.hbAssignCodes,10,12,35,12,20,34.285714285714285,57.14285714285714,0,11
 
-org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream.hbAssignCodes;35;12;20;12;
+org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream.hbAssignCodes;35;12;20;11;
 
 Warning: Method:org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream.bsFinishedWithStream has incoming edges.
 Warning: Method:org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream.bsW has incoming edges.
 
 #org/apache/commons/compress/compressors/bzip2/BZip2CompressorOutputStream/sendMTFValues:
-Method sendMTFValues reduced in 0 minutes and 2 seconds. Total em milliseconds 2,258
+Method sendMTFValues reduced in 0 minutes and 2 seconds. Total em milliseconds 2,037
 ## nodes: 158
 ## edges: 220
 ## duas: 797
 ## Unconstrained duas: 268
 ## Reduction nodes: 426
-@@ org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream.sendMTFValues,158,220,797,268,426,33.626097867001256,53.4504391468005,2,2258
+@@ org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream.sendMTFValues,158,220,797,268,426,33.626097867001256,53.4504391468005,2,2037
 
-org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream.sendMTFValues;797;268;426;2258;
+org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream.sendMTFValues;797;268;426;2037;
 
 
 #org/apache/commons/compress/compressors/bzip2/BZip2CompressorOutputStream/simpleSort:
-Method simpleSort reduced in 0 minutes and 0 seconds. Total em milliseconds 99
+Method simpleSort reduced in 0 minutes and 0 seconds. Total em milliseconds 104
 ## nodes: 32
 ## edges: 45
 ## duas: 155
 ## Unconstrained duas: 26
 ## Reduction nodes: 45
-@@ org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream.simpleSort,32,45,155,26,45,16.7741935483871,29.03225806451613,0,99
+@@ org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream.simpleSort,32,45,155,26,45,16.7741935483871,29.03225806451613,0,104
 
-org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream.simpleSort;155;26;45;99;
+org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream.simpleSort;155;26;45;104;
 
 
 #org/apache/commons/compress/compressors/bzip2/BZip2CompressorOutputStream/vswap:
-Method vswap reduced in 0 minutes and 0 seconds. Total em milliseconds 1
+Method vswap reduced in 0 minutes and 0 seconds. Total em milliseconds 0
 ## nodes: 5
 ## edges: 5
 ## duas: 12
 ## Unconstrained duas: 2
 ## Reduction nodes: 3
-@@ org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream.vswap,5,5,12,2,3,16.666666666666664,25.0,0,1
+@@ org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream.vswap,5,5,12,2,3,16.666666666666664,25.0,0,0
 
-org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream.vswap;12;2;3;1;
+org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream.vswap;12;2;3;0;
 
 
 #org/apache/commons/compress/compressors/bzip2/BZip2CompressorOutputStream/med3:
-Method med3 reduced in 0 minutes and 0 seconds. Total em milliseconds 2
+Method med3 reduced in 0 minutes and 0 seconds. Total em milliseconds 1
 ## nodes: 8
 ## edges: 10
 ## duas: 29
 ## Unconstrained duas: 8
 ## Reduction nodes: 19
-@@ org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream.med3,8,10,29,8,19,27.586206896551722,65.51724137931035,0,2
+@@ org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream.med3,8,10,29,8,19,27.586206896551722,65.51724137931035,0,1
 
-org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream.med3;29;8;19;2;
+org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream.med3;29;8;19;1;
 
 
 #org/apache/commons/compress/compressors/bzip2/BZip2CompressorOutputStream/qSort3:
-Method qSort3 reduced in 0 minutes and 0 seconds. Total em milliseconds 280
+Method qSort3 reduced in 0 minutes and 0 seconds. Total em milliseconds 287
 ## nodes: 37
 ## edges: 52
 ## duas: 218
 ## Unconstrained duas: 79
 ## Reduction nodes: 142
-@@ org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream.qSort3,37,52,218,79,142,36.23853211009174,65.13761467889908,0,280
+@@ org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream.qSort3,37,52,218,79,142,36.23853211009174,65.13761467889908,0,287
 
-org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream.qSort3;218;79;142;280;
+org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream.qSort3;218;79;142;287;
 
 Warning: Method:org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream.mainSort has auto edges.
 
@@ -2263,39 +2263,39 @@ org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream.doReve
 
 
 #org/apache/commons/compress/compressors/bzip2/BZip2CompressorOutputStream/fullGtU:
-Method fullGtU reduced in 0 minutes and 0 seconds. Total em milliseconds 93
+Method fullGtU reduced in 0 minutes and 0 seconds. Total em milliseconds 87
 ## nodes: 78
 ## edges: 108
 ## duas: 207
 ## Unconstrained duas: 34
 ## Reduction nodes: 75
-@@ org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream.fullGtU,78,108,207,34,75,16.425120772946862,36.231884057971016,0,93
+@@ org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream.fullGtU,78,108,207,34,75,16.425120772946862,36.231884057971016,0,87
 
-org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream.fullGtU;207;34;75;93;
+org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream.fullGtU;207;34;75;87;
 
 
 #org/apache/commons/compress/compressors/bzip2/BZip2CompressorOutputStream/allocateCompressStructures:
-Method allocateCompressStructures reduced in 0 minutes and 0 seconds. Total em milliseconds 0
+Method allocateCompressStructures reduced in 0 minutes and 0 seconds. Total em milliseconds 1
 ## nodes: 6
 ## edges: 8
 ## duas: 16
 ## Unconstrained duas: 4
 ## Reduction nodes: 7
-@@ org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream.allocateCompressStructures,6,8,16,4,7,25.0,43.75,0,0
+@@ org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream.allocateCompressStructures,6,8,16,4,7,25.0,43.75,0,1
 
-org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream.allocateCompressStructures;16;4;7;0;
+org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream.allocateCompressStructures;16;4;7;1;
 
 
 #org/apache/commons/compress/compressors/bzip2/BZip2CompressorOutputStream/generateMTFValues:
-Method generateMTFValues reduced in 0 minutes and 0 seconds. Total em milliseconds 78
+Method generateMTFValues reduced in 0 minutes and 0 seconds. Total em milliseconds 80
 ## nodes: 33
 ## edges: 45
 ## duas: 146
 ## Unconstrained duas: 58
 ## Reduction nodes: 79
-@@ org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream.generateMTFValues,33,45,146,58,79,39.726027397260275,54.109589041095894,0,78
+@@ org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream.generateMTFValues,33,45,146,58,79,39.726027397260275,54.109589041095894,0,80
 
-org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream.generateMTFValues;146;58;79;78;
+org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream.generateMTFValues;146;58;79;80;
 
 
 #org/apache/commons/compress/compressors/bzip2/CRC/updateCRC:
@@ -2323,51 +2323,51 @@ org.apache.commons.compress.compressors.bzip2.CRC.updateCRC;16;4;6;2;
 
 
 #org/apache/commons/compress/compressors/bzip2/BZip2CompressorInputStream/read:
-Method read reduced in 0 minutes and 0 seconds. Total em milliseconds 0
+Method read reduced in 0 minutes and 0 seconds. Total em milliseconds 1
 ## nodes: 4
 ## edges: 4
 ## duas: 5
 ## Unconstrained duas: 2
 ## Reduction nodes: 2
-@@ org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.read,4,4,5,2,2,40.0,40.0,0,0
+@@ org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.read,4,4,5,2,2,40.0,40.0,0,1
 
-org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.read;5;2;2;0;
+org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.read;5;2;2;1;
 
 
 #org/apache/commons/compress/compressors/bzip2/BZip2CompressorInputStream/read:
-Method read reduced in 0 minutes and 0 seconds. Total em milliseconds 3
+Method read reduced in 0 minutes and 0 seconds. Total em milliseconds 6
 ## nodes: 17
 ## edges: 23
 ## duas: 43
 ## Unconstrained duas: 12
 ## Reduction nodes: 23
-@@ org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.read,17,23,43,12,23,27.906976744186046,53.48837209302325,0,3
+@@ org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.read,17,23,43,12,23,27.906976744186046,53.48837209302325,0,6
 
-org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.read;43;12;23;3;
+org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.read;43;12;23;6;
 
 
 #org/apache/commons/compress/compressors/bzip2/BZip2CompressorInputStream/makeMaps:
-Method makeMaps reduced in 0 minutes and 0 seconds. Total em milliseconds 2
+Method makeMaps reduced in 0 minutes and 0 seconds. Total em milliseconds 3
 ## nodes: 7
 ## edges: 8
 ## duas: 20
 ## Unconstrained duas: 5
 ## Reduction nodes: 12
-@@ org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.makeMaps,7,8,20,5,12,25.0,60.0,0,2
+@@ org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.makeMaps,7,8,20,5,12,25.0,60.0,0,3
 
-org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.makeMaps;20;5;12;2;
+org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.makeMaps;20;5;12;3;
 
 
 #org/apache/commons/compress/compressors/bzip2/BZip2CompressorInputStream/read0:
-Method read0 reduced in 0 minutes and 0 seconds. Total em milliseconds 4
+Method read0 reduced in 0 minutes and 0 seconds. Total em milliseconds 0
 ## nodes: 12
 ## edges: 19
 ## duas: 23
 ## Unconstrained duas: 9
 ## Reduction nodes: 10
-@@ org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.read0,12,19,23,9,10,39.130434782608695,43.47826086956522,0,4
+@@ org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.read0,12,19,23,9,10,39.130434782608695,43.47826086956522,0,0
 
-org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.read0;23;9;10;4;
+org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.read0;23;9;10;0;
 
 
 #org/apache/commons/compress/compressors/bzip2/BZip2CompressorInputStream/init:
@@ -2395,39 +2395,39 @@ org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.checkMa
 
 
 #org/apache/commons/compress/compressors/bzip2/BZip2CompressorInputStream/initBlock:
-Method initBlock reduced in 0 minutes and 0 seconds. Total em milliseconds 2
+Method initBlock reduced in 0 minutes and 0 seconds. Total em milliseconds 5
 ## nodes: 22
 ## edges: 35
 ## duas: 38
 ## Unconstrained duas: 17
 ## Reduction nodes: 29
-@@ org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.initBlock,22,35,38,17,29,44.73684210526316,76.31578947368422,0,2
+@@ org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.initBlock,22,35,38,17,29,44.73684210526316,76.31578947368422,0,5
 
-org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.initBlock;38;17;29;2;
+org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.initBlock;38;17;29;5;
 
 
 #org/apache/commons/compress/compressors/bzip2/BZip2CompressorInputStream/endBlock:
-Method endBlock reduced in 0 minutes and 0 seconds. Total em milliseconds 0
+Method endBlock reduced in 0 minutes and 0 seconds. Total em milliseconds 1
 ## nodes: 4
 ## edges: 4
 ## duas: 12
 ## Unconstrained duas: 2
 ## Reduction nodes: 2
-@@ org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.endBlock,4,4,12,2,2,16.666666666666664,16.666666666666664,0,0
+@@ org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.endBlock,4,4,12,2,2,16.666666666666664,16.666666666666664,0,1
 
-org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.endBlock;12;2;2;0;
+org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.endBlock;12;2;2;1;
 
 
 #org/apache/commons/compress/compressors/bzip2/BZip2CompressorInputStream/complete:
-Method complete reduced in 0 minutes and 0 seconds. Total em milliseconds 0
+Method complete reduced in 0 minutes and 0 seconds. Total em milliseconds 1
 ## nodes: 4
 ## edges: 4
 ## duas: 6
 ## Unconstrained duas: 2
 ## Reduction nodes: 2
-@@ org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.complete,4,4,6,2,2,33.33333333333333,33.33333333333333,0,0
+@@ org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.complete,4,4,6,2,2,33.33333333333333,33.33333333333333,0,1
 
-org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.complete;6;2;2;0;
+org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.complete;6;2;2;1;
 
 
 #org/apache/commons/compress/compressors/bzip2/BZip2CompressorInputStream/close:
@@ -2443,15 +2443,15 @@ org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.close;8
 
 
 #org/apache/commons/compress/compressors/bzip2/BZip2CompressorInputStream/bsR:
-Method bsR reduced in 0 minutes and 0 seconds. Total em milliseconds 1
+Method bsR reduced in 0 minutes and 0 seconds. Total em milliseconds 2
 ## nodes: 8
 ## edges: 10
 ## duas: 26
 ## Unconstrained duas: 4
 ## Reduction nodes: 8
-@@ org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.bsR,8,10,26,4,8,15.384615384615385,30.76923076923077,0,1
+@@ org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.bsR,8,10,26,4,8,15.384615384615385,30.76923076923077,0,2
 
-org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.bsR;26;4;8;1;
+org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.bsR;26;4;8;2;
 
 
 #org/apache/commons/compress/compressors/bzip2/BZip2CompressorInputStream/bsGetBit:
@@ -2467,87 +2467,87 @@ org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.bsGetBi
 
 
 #org/apache/commons/compress/compressors/bzip2/BZip2CompressorInputStream/hbCreateDecodeTables:
-Method hbCreateDecodeTables reduced in 0 minutes and 0 seconds. Total em milliseconds 20
+Method hbCreateDecodeTables reduced in 0 minutes and 0 seconds. Total em milliseconds 31
 ## nodes: 25
 ## edges: 32
 ## duas: 85
 ## Unconstrained duas: 20
 ## Reduction nodes: 31
-@@ org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.hbCreateDecodeTables,25,32,85,20,31,23.52941176470588,36.470588235294116,0,20
+@@ org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.hbCreateDecodeTables,25,32,85,20,31,23.52941176470588,36.470588235294116,0,31
 
-org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.hbCreateDecodeTables;85;20;31;20;
+org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.hbCreateDecodeTables;85;20;31;31;
 
 
 #org/apache/commons/compress/compressors/bzip2/BZip2CompressorInputStream/recvDecodingTables:
-Method recvDecodingTables reduced in 0 minutes and 0 seconds. Total em milliseconds 64
+Method recvDecodingTables reduced in 0 minutes and 0 seconds. Total em milliseconds 93
 ## nodes: 45
 ## edges: 60
 ## duas: 126
 ## Unconstrained duas: 35
 ## Reduction nodes: 52
-@@ org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.recvDecodingTables,45,60,126,35,52,27.77777777777778,41.269841269841265,0,64
+@@ org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.recvDecodingTables,45,60,126,35,52,27.77777777777778,41.269841269841265,0,93
 
-org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.recvDecodingTables;126;35;52;64;
+org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.recvDecodingTables;126;35;52;93;
 
 
 #org/apache/commons/compress/compressors/bzip2/BZip2CompressorInputStream/createHuffmanDecodingTables:
-Method createHuffmanDecodingTables reduced in 0 minutes and 0 seconds. Total em milliseconds 12
+Method createHuffmanDecodingTables reduced in 0 minutes and 0 seconds. Total em milliseconds 13
 ## nodes: 12
 ## edges: 15
 ## duas: 42
 ## Unconstrained duas: 10
 ## Reduction nodes: 17
-@@ org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.createHuffmanDecodingTables,12,15,42,10,17,23.809523809523807,40.476190476190474,0,12
+@@ org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.createHuffmanDecodingTables,12,15,42,10,17,23.809523809523807,40.476190476190474,0,13
 
-org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.createHuffmanDecodingTables;42;10;17;12;
+org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.createHuffmanDecodingTables;42;10;17;13;
 
 
 #org/apache/commons/compress/compressors/bzip2/BZip2CompressorInputStream/getAndMoveToFrontDecode:
-Method getAndMoveToFrontDecode reduced in 0 minutes and 0 seconds. Total em milliseconds 919
+Method getAndMoveToFrontDecode reduced in 0 minutes and 0 seconds. Total em milliseconds 813
 ## nodes: 62
 ## edges: 84
 ## duas: 378
 ## Unconstrained duas: 140
 ## Reduction nodes: 249
-@@ org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.getAndMoveToFrontDecode,62,84,378,140,249,37.03703703703704,65.87301587301587,0,919
+@@ org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.getAndMoveToFrontDecode,62,84,378,140,249,37.03703703703704,65.87301587301587,0,813
 
-org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.getAndMoveToFrontDecode;378;140;249;919;
+org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.getAndMoveToFrontDecode;378;140;249;813;
 
 
 #org/apache/commons/compress/compressors/bzip2/BZip2CompressorInputStream/getAndMoveToFrontDecode0:
-Method getAndMoveToFrontDecode0 reduced in 0 minutes and 0 seconds. Total em milliseconds 6
+Method getAndMoveToFrontDecode0 reduced in 0 minutes and 0 seconds. Total em milliseconds 7
 ## nodes: 10
 ## edges: 12
 ## duas: 47
 ## Unconstrained duas: 8
 ## Reduction nodes: 22
-@@ org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.getAndMoveToFrontDecode0,10,12,47,8,22,17.02127659574468,46.808510638297875,0,6
+@@ org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.getAndMoveToFrontDecode0,10,12,47,8,22,17.02127659574468,46.808510638297875,0,7
 
-org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.getAndMoveToFrontDecode0;47;8;22;6;
+org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.getAndMoveToFrontDecode0;47;8;22;7;
 
 
 #org/apache/commons/compress/compressors/bzip2/BZip2CompressorInputStream/setupBlock:
-Method setupBlock reduced in 0 minutes and 0 seconds. Total em milliseconds 6
+Method setupBlock reduced in 0 minutes and 0 seconds. Total em milliseconds 5
 ## nodes: 16
 ## edges: 21
 ## duas: 51
 ## Unconstrained duas: 9
 ## Reduction nodes: 14
-@@ org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.setupBlock,16,21,51,9,14,17.647058823529413,27.450980392156865,0,6
+@@ org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.setupBlock,16,21,51,9,14,17.647058823529413,27.450980392156865,0,5
 
-org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.setupBlock;51;9;14;6;
+org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.setupBlock;51;9;14;5;
 
 
 #org/apache/commons/compress/compressors/bzip2/BZip2CompressorInputStream/setupRandPartA:
-Method setupRandPartA reduced in 0 minutes and 0 seconds. Total em milliseconds 3
+Method setupRandPartA reduced in 0 minutes and 0 seconds. Total em milliseconds 2
 ## nodes: 12
 ## edges: 15
 ## duas: 37
 ## Unconstrained duas: 7
 ## Reduction nodes: 12
-@@ org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.setupRandPartA,12,15,37,7,12,18.91891891891892,32.432432432432435,0,3
+@@ org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.setupRandPartA,12,15,37,7,12,18.91891891891892,32.432432432432435,0,2
 
-org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.setupRandPartA;37;7;12;3;
+org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.setupRandPartA;37;7;12;2;
 
 
 #org/apache/commons/compress/compressors/bzip2/BZip2CompressorInputStream/setupNoRandPartA:
@@ -2563,15 +2563,15 @@ org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.setupNo
 
 
 #org/apache/commons/compress/compressors/bzip2/BZip2CompressorInputStream/setupRandPartB:
-Method setupRandPartB reduced in 0 minutes and 0 seconds. Total em milliseconds 3
+Method setupRandPartB reduced in 0 minutes and 0 seconds. Total em milliseconds 2
 ## nodes: 13
 ## edges: 17
 ## duas: 43
 ## Unconstrained duas: 8
 ## Reduction nodes: 14
-@@ org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.setupRandPartB,13,17,43,8,14,18.6046511627907,32.55813953488372,0,3
+@@ org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.setupRandPartB,13,17,43,8,14,18.6046511627907,32.55813953488372,0,2
 
-org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.setupRandPartB;43;8;14;3;
+org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.setupRandPartB;43;8;14;2;
 
 
 #org/apache/commons/compress/compressors/bzip2/BZip2CompressorInputStream/setupRandPartC:
@@ -2587,27 +2587,27 @@ org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.setupRa
 
 
 #org/apache/commons/compress/compressors/bzip2/BZip2CompressorInputStream/setupNoRandPartB:
-Method setupNoRandPartB reduced in 0 minutes and 0 seconds. Total em milliseconds 1
+Method setupNoRandPartB reduced in 0 minutes and 0 seconds. Total em milliseconds 0
 ## nodes: 7
 ## edges: 8
 ## duas: 19
 ## Unconstrained duas: 3
 ## Reduction nodes: 4
-@@ org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.setupNoRandPartB,7,8,19,3,4,15.789473684210526,21.052631578947366,0,1
+@@ org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.setupNoRandPartB,7,8,19,3,4,15.789473684210526,21.052631578947366,0,0
 
-org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.setupNoRandPartB;19;3;4;1;
+org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.setupNoRandPartB;19;3;4;0;
 
 
 #org/apache/commons/compress/compressors/bzip2/BZip2CompressorInputStream/setupNoRandPartC:
-Method setupNoRandPartC reduced in 0 minutes and 0 seconds. Total em milliseconds 1
+Method setupNoRandPartC reduced in 0 minutes and 0 seconds. Total em milliseconds 0
 ## nodes: 5
 ## edges: 5
 ## duas: 12
 ## Unconstrained duas: 2
 ## Reduction nodes: 2
-@@ org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.setupNoRandPartC,5,5,12,2,2,16.666666666666664,16.666666666666664,0,1
+@@ org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.setupNoRandPartC,5,5,12,2,2,16.666666666666664,16.666666666666664,0,0
 
-org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.setupNoRandPartC;12;2;2;1;
+org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.setupNoRandPartC;12;2;2;0;
 
-217 methods analyzed in 0 minutes and 6 seconds
-Unconstrained DUAs time (ms):6367
+217 methods analyzed in 0 minutes and 5 seconds
+Unconstrained DUAs time (ms):5793

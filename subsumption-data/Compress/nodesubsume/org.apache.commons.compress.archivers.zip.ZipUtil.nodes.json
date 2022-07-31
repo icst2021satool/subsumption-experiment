@@ -1,0 +1,16 @@
+{
+"Class" : "org.apache.commons.compress.archivers.zip.ZipUtil", 
+"Methods" : [{ "Name" : "toDosTime" ,
+"Nodes" : 4,
+"0" : [ 49,50,46 ]
+"1" : [ 53,54,60 ]
+"2" : [ 51 ]
+"3" : [  ]
+},{ "Name" : "adjustToLong" ,
+"Nodes" : 4,
+"0" : [ 71 ]
+"1" : [ 74 ]
+"2" : [ 72 ]
+"3" : [  ]
+}]
+}

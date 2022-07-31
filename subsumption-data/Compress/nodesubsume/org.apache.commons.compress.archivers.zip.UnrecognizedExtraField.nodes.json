@@ -1,0 +1,28 @@
+{
+"Class" : "org.apache.commons.compress.archivers.zip.UnrecognizedExtraField", 
+"Methods" : [{ "Name" : "getCentralDirectoryLength" ,
+"Nodes" : 4,
+"0" : [ 103 ]
+"1" : [ 106 ]
+"2" : [ 104 ]
+"3" : [  ]
+},{ "Name" : "getCentralDirectoryData" ,
+"Nodes" : 4,
+"0" : [ 114 ]
+"1" : [ 117 ]
+"2" : [ 115 ]
+"3" : [  ]
+},{ "Name" : "parseFromCentralDirectoryData" ,
+"Nodes" : 4,
+"0" : [ 140,141,142,143 ]
+"1" : [ 146 ]
+"2" : [ 144 ]
+"3" : [  ]
+},{ "Name" : "copy" ,
+"Nodes" : 4,
+"0" : [ 149 ]
+"1" : [ 154 ]
+"2" : [ 150,151,152 ]
+"3" : [  ]
+}]
+}

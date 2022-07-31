@@ -1,0 +1,25 @@
+{
+"Class" : "org.apache.commons.compress.archivers.zip.ZipArchiveInputStream", 
+"Methods" : [{ "Name" : "getNextZipEntry" ,
+"Nodes" : 4,
+"0" : [ ],
+"1" : [ 1, 2],
+"2" : [ 0],
+"3" : [ ],
+"CoveredDUAsByNodes" : 3,
+"Duas" : 3
+},{ "Name" : "matches" ,
+"Nodes" : 9,
+"0" : [ ],
+"1" : [ 3, 5],
+"2" : [ 3, 5],
+"3" : [ 3, 5, 7],
+"4" : [ 3, 5, 6, 10],
+"5" : [ 1, 3, 5, 6, 9, 10, 13, 14],
+"6" : [ 0, 3, 5, 6, 8, 10],
+"7" : [ 2, 4],
+"8" : [ ],
+"CoveredDUAsByNodes" : 13,
+"Duas" : 20
+}]
+}

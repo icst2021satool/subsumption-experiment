@@ -1,0 +1,14 @@
+{
+"Class" : "org.apache.commons.compress.archivers.zip.ZipShort", 
+"Methods" : [{ "Name" : "equals" ,
+"Nodes" : 8,
+"0" : [ 115 ]
+"1" : [ 116 ]
+"2" : [ 115 ]
+"3" : [ 118 ]
+"4" : [ 118 ]
+"5" : [ 118 ]
+"6" : [ 118 ]
+"7" : [  ]
+}]
+}

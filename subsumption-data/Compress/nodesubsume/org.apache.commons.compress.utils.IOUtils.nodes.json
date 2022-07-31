@@ -1,0 +1,11 @@
+{
+"Class" : "org.apache.commons.compress.utils.IOUtils", 
+"Methods" : [{ "Name" : "copy" ,
+"Nodes" : 5,
+"0" : [ 55,56 ]
+"1" : [ 57 ]
+"2" : [ 60 ]
+"3" : [ 58 ]
+"4" : [  ]
+}]
+}

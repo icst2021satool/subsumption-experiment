@@ -8,11 +8,11 @@
 ## DUAs: 4
 ## Subsumed DUAs: 4
 ## Edge DUA coverage: 100.0
-@@ org.apache.commons.compress.changes.Change.<init>,4,4,4,4,100.0,0,6
+@@ org.apache.commons.compress.changes.Change.<init>,4,4,4,4,100.0,0,10
 
 
 #org/apache/commons/compress/changes/Change/<init>:
-Local DUA-Edge subsumption of method org.apache.commons.compress.changes.Change.<init>  calculated in 0 minutes, 0 seconds, and 6 milliseconds
+Local DUA-Edge subsumption of method org.apache.commons.compress.changes.Change.<init>  calculated in 0 minutes, 0 seconds, and 10 milliseconds
 
 #org/apache/commons/compress/changes/Change/<init>:
 ## nodes: 5
@@ -32,11 +32,11 @@ Local DUA-Edge subsumption of method org.apache.commons.compress.changes.Change.
 ## DUAs: 39
 ## Subsumed DUAs: 33
 ## Edge DUA coverage: 84.61538461538461
-@@ org.apache.commons.compress.changes.ChangeSet.perform,19,27,39,33,84.61538461538461,0,4
+@@ org.apache.commons.compress.changes.ChangeSet.perform,19,27,39,33,84.61538461538461,0,6
 
 
 #org/apache/commons/compress/changes/ChangeSet/perform:
-Local DUA-Edge subsumption of method org.apache.commons.compress.changes.ChangeSet.perform  calculated in 0 minutes, 0 seconds, and 4 milliseconds
+Local DUA-Edge subsumption of method org.apache.commons.compress.changes.ChangeSet.perform  calculated in 0 minutes, 0 seconds, and 6 milliseconds
 
 #org/apache/commons/compress/changes/ChangeSet/addDeletion:
 ## nodes: 15
@@ -56,11 +56,11 @@ Local DUA-Edge subsumption of method org.apache.commons.compress.changes.ChangeS
 ## DUAs: 18
 ## Subsumed DUAs: 18
 ## Edge DUA coverage: 100.0
-@@ org.apache.commons.compress.changes.ChangeSet.isDeletedLater,10,13,18,18,100.0,0,0
+@@ org.apache.commons.compress.changes.ChangeSet.isDeletedLater,10,13,18,18,100.0,0,2
 
 
 #org/apache/commons/compress/changes/ChangeSet/isDeletedLater:
-Local DUA-Edge subsumption of method org.apache.commons.compress.changes.ChangeSet.isDeletedLater  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method org.apache.commons.compress.changes.ChangeSet.isDeletedLater  calculated in 0 minutes, 0 seconds, and 2 milliseconds
 
 #org/apache/commons/compress/archivers/ArchiveStreamFactory/createArchiveInputStream:
 ## nodes: 15
@@ -92,11 +92,11 @@ Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.Archi
 ## DUAs: 30
 ## Subsumed DUAs: 30
 ## Edge DUA coverage: 100.0
-@@ org.apache.commons.compress.archivers.ArchiveStreamFactory.createArchiveInputStream,16,22,30,30,100.0,0,2
+@@ org.apache.commons.compress.archivers.ArchiveStreamFactory.createArchiveInputStream,16,22,30,30,100.0,0,1
 
 
 #org/apache/commons/compress/archivers/ArchiveStreamFactory/createArchiveInputStream:
-Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.ArchiveStreamFactory.createArchiveInputStream  calculated in 0 minutes, 0 seconds, and 2 milliseconds
+Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.ArchiveStreamFactory.createArchiveInputStream  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #org/apache/commons/compress/archivers/jar/JarArchiveEntry/getCertificates:
 ## nodes: 4
@@ -104,11 +104,11 @@ Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.Archi
 ## DUAs: 6
 ## Subsumed DUAs: 6
 ## Edge DUA coverage: 100.0
-@@ org.apache.commons.compress.archivers.jar.JarArchiveEntry.getCertificates,4,4,6,6,100.0,0,0
+@@ org.apache.commons.compress.archivers.jar.JarArchiveEntry.getCertificates,4,4,6,6,100.0,0,2
 
 
 #org/apache/commons/compress/archivers/jar/JarArchiveEntry/getCertificates:
-Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.jar.JarArchiveEntry.getCertificates  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.jar.JarArchiveEntry.getCertificates  calculated in 0 minutes, 0 seconds, and 2 milliseconds
 
 #org/apache/commons/compress/archivers/jar/JarArchiveOutputStream/putNextEntry:
 ## nodes: 4
@@ -128,11 +128,11 @@ Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.jar.J
 ## DUAs: 3
 ## Subsumed DUAs: 3
 ## Edge DUA coverage: 100.0
-@@ org.apache.commons.compress.archivers.jar.JarArchiveInputStream.getNextJarEntry,5,5,3,3,100.0,0,0
+@@ org.apache.commons.compress.archivers.jar.JarArchiveInputStream.getNextJarEntry,5,5,3,3,100.0,0,1
 
 
 #org/apache/commons/compress/archivers/jar/JarArchiveInputStream/getNextJarEntry:
-Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.jar.JarArchiveInputStream.getNextJarEntry  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.jar.JarArchiveInputStream.getNextJarEntry  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #org/apache/commons/compress/archivers/zip/ZipEncodingHelper/growBuffer:
 ## nodes: 5
@@ -140,11 +140,11 @@ Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.jar.J
 ## DUAs: 6
 ## Subsumed DUAs: 6
 ## Edge DUA coverage: 100.0
-@@ org.apache.commons.compress.archivers.zip.ZipEncodingHelper.growBuffer,5,5,6,6,100.0,0,1
+@@ org.apache.commons.compress.archivers.zip.ZipEncodingHelper.growBuffer,5,5,6,6,100.0,0,2
 
 
 #org/apache/commons/compress/archivers/zip/ZipEncodingHelper/growBuffer:
-Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.zip.ZipEncodingHelper.growBuffer  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.zip.ZipEncodingHelper.growBuffer  calculated in 0 minutes, 0 seconds, and 2 milliseconds
 
 #org/apache/commons/compress/archivers/zip/ZipEncodingHelper/getZipEncoding:
 ## nodes: 8
@@ -152,11 +152,11 @@ Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.zip.Z
 ## DUAs: 11
 ## Subsumed DUAs: 11
 ## Edge DUA coverage: 100.0
-@@ org.apache.commons.compress.archivers.zip.ZipEncodingHelper.getZipEncoding,8,10,11,11,100.0,0,0
+@@ org.apache.commons.compress.archivers.zip.ZipEncodingHelper.getZipEncoding,8,10,11,11,100.0,0,1
 
 
 #org/apache/commons/compress/archivers/zip/ZipEncodingHelper/getZipEncoding:
-Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.zip.ZipEncodingHelper.getZipEncoding  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.zip.ZipEncodingHelper.getZipEncoding  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #org/apache/commons/compress/archivers/zip/ZipEncodingHelper/isUTF8:
 ## nodes: 8
@@ -164,11 +164,11 @@ Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.zip.Z
 ## DUAs: 10
 ## Subsumed DUAs: 2
 ## Edge DUA coverage: 20.0
-@@ org.apache.commons.compress.archivers.zip.ZipEncodingHelper.isUTF8,8,10,10,2,20.0,0,0
+@@ org.apache.commons.compress.archivers.zip.ZipEncodingHelper.isUTF8,8,10,10,2,20.0,0,1
 
 
 #org/apache/commons/compress/archivers/zip/ZipEncodingHelper/isUTF8:
-Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.zip.ZipEncodingHelper.isUTF8  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.zip.ZipEncodingHelper.isUTF8  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #org/apache/commons/compress/archivers/zip/ZipShort/equals:
 ## nodes: 8
@@ -176,11 +176,11 @@ Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.zip.Z
 ## DUAs: 10
 ## Subsumed DUAs: 10
 ## Edge DUA coverage: 100.0
-@@ org.apache.commons.compress.archivers.zip.ZipShort.equals,8,10,10,10,100.0,0,0
+@@ org.apache.commons.compress.archivers.zip.ZipShort.equals,8,10,10,10,100.0,0,1
 
 
 #org/apache/commons/compress/archivers/zip/ZipShort/equals:
-Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.zip.ZipShort.equals  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.zip.ZipShort.equals  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #org/apache/commons/compress/archivers/zip/ZipEncodingHelper$SimpleEncodingHolder/getEncoding:
 ## nodes: 4
@@ -200,11 +200,11 @@ Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.zip.Z
 ## DUAs: 49
 ## Subsumed DUAs: 22
 ## Edge DUA coverage: 44.89795918367347
-@@ org.apache.commons.compress.archivers.zip.NioZipEncoding.encode,17,23,49,22,44.89795918367347,0,2
+@@ org.apache.commons.compress.archivers.zip.NioZipEncoding.encode,17,23,49,22,44.89795918367347,0,1
 
 
 #org/apache/commons/compress/archivers/zip/NioZipEncoding/encode:
-Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.zip.NioZipEncoding.encode  calculated in 0 minutes, 0 seconds, and 2 milliseconds
+Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.zip.NioZipEncoding.encode  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #org/apache/commons/compress/archivers/zip/ZipArchiveEntry/<init>:
 ## nodes: 5
@@ -212,11 +212,11 @@ Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.zip.N
 ## DUAs: 5
 ## Subsumed DUAs: 5
 ## Edge DUA coverage: 100.0
-@@ org.apache.commons.compress.archivers.zip.ZipArchiveEntry.<init>,5,5,5,5,100.0,0,1
+@@ org.apache.commons.compress.archivers.zip.ZipArchiveEntry.<init>,5,5,5,5,100.0,0,0
 
 
 #org/apache/commons/compress/archivers/zip/ZipArchiveEntry/<init>:
-Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.zip.ZipArchiveEntry.<init>  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.zip.ZipArchiveEntry.<init>  calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #org/apache/commons/compress/archivers/zip/ZipArchiveEntry/clone:
 ## nodes: 5
@@ -224,11 +224,11 @@ Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.zip.Z
 ## DUAs: 7
 ## Subsumed DUAs: 7
 ## Edge DUA coverage: 100.0
-@@ org.apache.commons.compress.archivers.zip.ZipArchiveEntry.clone,5,5,7,7,100.0,0,0
+@@ org.apache.commons.compress.archivers.zip.ZipArchiveEntry.clone,5,5,7,7,100.0,0,1
 
 
 #org/apache/commons/compress/archivers/zip/ZipArchiveEntry/clone:
-Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.zip.ZipArchiveEntry.clone  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.zip.ZipArchiveEntry.clone  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #org/apache/commons/compress/archivers/zip/ZipArchiveEntry/setUnixMode:
 ## nodes: 8
@@ -236,11 +236,11 @@ Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.zip.Z
 ## DUAs: 6
 ## Subsumed DUAs: 6
 ## Edge DUA coverage: 100.0
-@@ org.apache.commons.compress.archivers.zip.ZipArchiveEntry.setUnixMode,8,9,6,6,100.0,0,1
+@@ org.apache.commons.compress.archivers.zip.ZipArchiveEntry.setUnixMode,8,9,6,6,100.0,0,2
 
 
 #org/apache/commons/compress/archivers/zip/ZipArchiveEntry/setUnixMode:
-Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.zip.ZipArchiveEntry.setUnixMode  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.zip.ZipArchiveEntry.setUnixMode  calculated in 0 minutes, 0 seconds, and 2 milliseconds
 
 #org/apache/commons/compress/archivers/zip/ZipArchiveEntry/getUnixMode:
 ## nodes: 5
@@ -248,11 +248,11 @@ Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.zip.Z
 ## DUAs: 5
 ## Subsumed DUAs: 5
 ## Edge DUA coverage: 100.0
-@@ org.apache.commons.compress.archivers.zip.ZipArchiveEntry.getUnixMode,5,5,5,5,100.0,0,0
+@@ org.apache.commons.compress.archivers.zip.ZipArchiveEntry.getUnixMode,5,5,5,5,100.0,0,1
 
 
 #org/apache/commons/compress/archivers/zip/ZipArchiveEntry/getUnixMode:
-Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.zip.ZipArchiveEntry.getUnixMode  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.zip.ZipArchiveEntry.getUnixMode  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #org/apache/commons/compress/archivers/zip/ZipArchiveEntry/setExtraFields:
 ## nodes: 5
@@ -260,11 +260,11 @@ Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.zip.Z
 ## DUAs: 12
 ## Subsumed DUAs: 8
 ## Edge DUA coverage: 66.66666666666666
-@@ org.apache.commons.compress.archivers.zip.ZipArchiveEntry.setExtraFields,5,5,12,8,66.66666666666666,0,0
+@@ org.apache.commons.compress.archivers.zip.ZipArchiveEntry.setExtraFields,5,5,12,8,66.66666666666666,0,1
 
 
 #org/apache/commons/compress/archivers/zip/ZipArchiveEntry/setExtraFields:
-Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.zip.ZipArchiveEntry.setExtraFields  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.zip.ZipArchiveEntry.setExtraFields  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #org/apache/commons/compress/archivers/zip/ZipArchiveEntry/getExtraFields:
 ## nodes: 4
@@ -272,11 +272,11 @@ Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.zip.Z
 ## DUAs: 6
 ## Subsumed DUAs: 6
 ## Edge DUA coverage: 100.0
-@@ org.apache.commons.compress.archivers.zip.ZipArchiveEntry.getExtraFields,4,4,6,6,100.0,0,0
+@@ org.apache.commons.compress.archivers.zip.ZipArchiveEntry.getExtraFields,4,4,6,6,100.0,0,2
 
 
 #org/apache/commons/compress/archivers/zip/ZipArchiveEntry/getExtraFields:
-Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.zip.ZipArchiveEntry.getExtraFields  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.zip.ZipArchiveEntry.getExtraFields  calculated in 0 minutes, 0 seconds, and 2 milliseconds
 
 #org/apache/commons/compress/archivers/zip/ZipArchiveEntry/addExtraField:
 ## nodes: 4
@@ -284,11 +284,11 @@ Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.zip.Z
 ## DUAs: 9
 ## Subsumed DUAs: 8
 ## Edge DUA coverage: 88.88888888888889
-@@ org.apache.commons.compress.archivers.zip.ZipArchiveEntry.addExtraField,4,4,9,8,88.88888888888889,0,1
+@@ org.apache.commons.compress.archivers.zip.ZipArchiveEntry.addExtraField,4,4,9,8,88.88888888888889,0,0
 
 
 #org/apache/commons/compress/archivers/zip/ZipArchiveEntry/addExtraField:
-Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.zip.ZipArchiveEntry.addExtraField  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.zip.ZipArchiveEntry.addExtraField  calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #org/apache/commons/compress/archivers/zip/ZipArchiveEntry/addAsFirstExtraField:
 ## nodes: 4
@@ -296,11 +296,11 @@ Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.zip.Z
 ## DUAs: 7
 ## Subsumed DUAs: 7
 ## Edge DUA coverage: 100.0
-@@ org.apache.commons.compress.archivers.zip.ZipArchiveEntry.addAsFirstExtraField,4,4,7,7,100.0,0,1
+@@ org.apache.commons.compress.archivers.zip.ZipArchiveEntry.addAsFirstExtraField,4,4,7,7,100.0,0,0
 
 
 #org/apache/commons/compress/archivers/zip/ZipArchiveEntry/addAsFirstExtraField:
-Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.zip.ZipArchiveEntry.addAsFirstExtraField  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.zip.ZipArchiveEntry.addAsFirstExtraField  calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #org/apache/commons/compress/archivers/zip/ZipArchiveEntry/removeExtraField:
 ## nodes: 6
@@ -308,11 +308,11 @@ Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.zip.Z
 ## DUAs: 11
 ## Subsumed DUAs: 11
 ## Edge DUA coverage: 100.0
-@@ org.apache.commons.compress.archivers.zip.ZipArchiveEntry.removeExtraField,6,7,11,11,100.0,0,0
+@@ org.apache.commons.compress.archivers.zip.ZipArchiveEntry.removeExtraField,6,7,11,11,100.0,0,2
 
 
 #org/apache/commons/compress/archivers/zip/ZipArchiveEntry/removeExtraField:
-Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.zip.ZipArchiveEntry.removeExtraField  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.zip.ZipArchiveEntry.removeExtraField  calculated in 0 minutes, 0 seconds, and 2 milliseconds
 
 #org/apache/commons/compress/archivers/zip/ZipArchiveEntry/getExtraField:
 ## nodes: 4
@@ -320,11 +320,11 @@ Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.zip.Z
 ## DUAs: 7
 ## Subsumed DUAs: 7
 ## Edge DUA coverage: 100.0
-@@ org.apache.commons.compress.archivers.zip.ZipArchiveEntry.getExtraField,4,4,7,7,100.0,0,0
+@@ org.apache.commons.compress.archivers.zip.ZipArchiveEntry.getExtraField,4,4,7,7,100.0,0,1
 
 
 #org/apache/commons/compress/archivers/zip/ZipArchiveEntry/getExtraField:
-Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.zip.ZipArchiveEntry.getExtraField  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.zip.ZipArchiveEntry.getExtraField  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #org/apache/commons/compress/archivers/zip/ZipArchiveEntry/getLocalFileDataExtra:
 ## nodes: 5
@@ -380,11 +380,11 @@ Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.zip.E
 ## DUAs: 38
 ## Subsumed DUAs: 24
 ## Edge DUA coverage: 63.1578947368421
-@@ org.apache.commons.compress.archivers.zip.ExtraFieldUtils.parse,10,12,38,24,63.1578947368421,0,0
+@@ org.apache.commons.compress.archivers.zip.ExtraFieldUtils.parse,10,12,38,24,63.1578947368421,0,5
 
 
 #org/apache/commons/compress/archivers/zip/ExtraFieldUtils/parse:
-Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.zip.ExtraFieldUtils.parse  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.zip.ExtraFieldUtils.parse  calculated in 0 minutes, 0 seconds, and 5 milliseconds
 
 #org/apache/commons/compress/archivers/zip/ExtraFieldUtils/mergeLocalFileDataData:
 ## nodes: 8
@@ -392,11 +392,11 @@ Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.zip.E
 ## DUAs: 26
 ## Subsumed DUAs: 14
 ## Edge DUA coverage: 53.84615384615385
-@@ org.apache.commons.compress.archivers.zip.ExtraFieldUtils.mergeLocalFileDataData,8,9,26,14,53.84615384615385,0,0
+@@ org.apache.commons.compress.archivers.zip.ExtraFieldUtils.mergeLocalFileDataData,8,9,26,14,53.84615384615385,0,1
 
 
 #org/apache/commons/compress/archivers/zip/ExtraFieldUtils/mergeLocalFileDataData:
-Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.zip.ExtraFieldUtils.mergeLocalFileDataData  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.zip.ExtraFieldUtils.mergeLocalFileDataData  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #org/apache/commons/compress/archivers/zip/ExtraFieldUtils/mergeCentralDirectoryData:
 ## nodes: 8
@@ -416,11 +416,11 @@ Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.zip.E
 ## DUAs: 5
 ## Subsumed DUAs: 5
 ## Edge DUA coverage: 100.0
-@@ org.apache.commons.compress.archivers.zip.ZipUtil.toDosTime,4,4,5,5,100.0,0,0
+@@ org.apache.commons.compress.archivers.zip.ZipUtil.toDosTime,4,4,5,5,100.0,0,1
 
 
 #org/apache/commons/compress/archivers/zip/ZipUtil/toDosTime:
-Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.zip.ZipUtil.toDosTime  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.zip.ZipUtil.toDosTime  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #org/apache/commons/compress/archivers/zip/ZipUtil/adjustToLong:
 ## nodes: 4
@@ -428,11 +428,11 @@ Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.zip.Z
 ## DUAs: 4
 ## Subsumed DUAs: 4
 ## Edge DUA coverage: 100.0
-@@ org.apache.commons.compress.archivers.zip.ZipUtil.adjustToLong,4,4,4,4,100.0,0,0
+@@ org.apache.commons.compress.archivers.zip.ZipUtil.adjustToLong,4,4,4,4,100.0,0,2
 
 
 #org/apache/commons/compress/archivers/zip/ZipUtil/adjustToLong:
-Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.zip.ZipUtil.adjustToLong  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.zip.ZipUtil.adjustToLong  calculated in 0 minutes, 0 seconds, and 2 milliseconds
 
 #org/apache/commons/compress/archivers/zip/ZipFile/<init>:
 ## nodes: 4
@@ -440,11 +440,11 @@ Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.zip.Z
 ## DUAs: 4
 ## Subsumed DUAs: 4
 ## Edge DUA coverage: 100.0
-@@ org.apache.commons.compress.archivers.zip.ZipFile.<init>,4,4,4,4,100.0,0,0
+@@ org.apache.commons.compress.archivers.zip.ZipFile.<init>,4,4,4,4,100.0,0,1
 
 
 #org/apache/commons/compress/archivers/zip/ZipFile/<init>:
-Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.zip.ZipFile.<init>  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.zip.ZipFile.<init>  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #org/apache/commons/compress/archivers/zip/ZipFile/closeQuietly:
 ## nodes: 4
@@ -452,11 +452,11 @@ Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.zip.Z
 ## DUAs: 3
 ## Subsumed DUAs: 3
 ## Edge DUA coverage: 100.0
-@@ org.apache.commons.compress.archivers.zip.ZipFile.closeQuietly,4,4,3,3,100.0,0,1
+@@ org.apache.commons.compress.archivers.zip.ZipFile.closeQuietly,4,4,3,3,100.0,0,0
 
 
 #org/apache/commons/compress/archivers/zip/ZipFile/closeQuietly:
-Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.zip.ZipFile.closeQuietly  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.zip.ZipFile.closeQuietly  calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #org/apache/commons/compress/archivers/zip/ZipFile/getInputStream:
 ## nodes: 7
@@ -464,11 +464,11 @@ Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.zip.Z
 ## DUAs: 11
 ## Subsumed DUAs: 11
 ## Edge DUA coverage: 100.0
-@@ org.apache.commons.compress.archivers.zip.ZipFile.getInputStream,7,9,11,11,100.0,0,1
+@@ org.apache.commons.compress.archivers.zip.ZipFile.getInputStream,7,9,11,11,100.0,0,0
 
 
 #org/apache/commons/compress/archivers/zip/ZipFile/getInputStream:
-Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.zip.ZipFile.getInputStream  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.zip.ZipFile.getInputStream  calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #org/apache/commons/compress/archivers/zip/ZipFile/populateFromCentralDirectory:
 ## nodes: 16
@@ -476,11 +476,11 @@ Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.zip.Z
 ## DUAs: 40
 ## Subsumed DUAs: 37
 ## Edge DUA coverage: 92.5
-@@ org.apache.commons.compress.archivers.zip.ZipFile.populateFromCentralDirectory,16,22,40,37,92.5,0,2
+@@ org.apache.commons.compress.archivers.zip.ZipFile.populateFromCentralDirectory,16,22,40,37,92.5,0,14
 
 
 #org/apache/commons/compress/archivers/zip/ZipFile/populateFromCentralDirectory:
-Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.zip.ZipFile.populateFromCentralDirectory  calculated in 0 minutes, 0 seconds, and 2 milliseconds
+Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.zip.ZipFile.populateFromCentralDirectory  calculated in 0 minutes, 0 seconds, and 14 milliseconds
 
 #org/apache/commons/compress/archivers/zip/ZipFile/positionAtCentralDirectory:
 ## nodes: 14
@@ -500,11 +500,11 @@ Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.zip.Z
 ## DUAs: 33
 ## Subsumed DUAs: 28
 ## Edge DUA coverage: 84.84848484848484
-@@ org.apache.commons.compress.archivers.zip.ZipFile.resolveLocalFileHeaderData,12,15,33,28,84.84848484848484,0,0
+@@ org.apache.commons.compress.archivers.zip.ZipFile.resolveLocalFileHeaderData,12,15,33,28,84.84848484848484,0,1
 
 
 #org/apache/commons/compress/archivers/zip/ZipFile/resolveLocalFileHeaderData:
-Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.zip.ZipFile.resolveLocalFileHeaderData  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.zip.ZipFile.resolveLocalFileHeaderData  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #org/apache/commons/compress/archivers/zip/ZipFile/startsWithLocalFileHeader:
 ## nodes: 7
@@ -512,11 +512,11 @@ Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.zip.Z
 ## DUAs: 16
 ## Subsumed DUAs: 9
 ## Edge DUA coverage: 56.25
-@@ org.apache.commons.compress.archivers.zip.ZipFile.startsWithLocalFileHeader,7,8,16,9,56.25,0,0
+@@ org.apache.commons.compress.archivers.zip.ZipFile.startsWithLocalFileHeader,7,8,16,9,56.25,0,1
 
 
 #org/apache/commons/compress/archivers/zip/ZipFile/startsWithLocalFileHeader:
-Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.zip.ZipFile.startsWithLocalFileHeader  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.zip.ZipFile.startsWithLocalFileHeader  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #org/apache/commons/compress/archivers/zip/ZipFile/setNameAndCommentFromExtraFields:
 ## nodes: 9
@@ -524,11 +524,11 @@ Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.zip.Z
 ## DUAs: 23
 ## Subsumed DUAs: 23
 ## Edge DUA coverage: 100.0
-@@ org.apache.commons.compress.archivers.zip.ZipFile.setNameAndCommentFromExtraFields,9,13,23,23,100.0,0,0
+@@ org.apache.commons.compress.archivers.zip.ZipFile.setNameAndCommentFromExtraFields,9,13,23,23,100.0,0,1
 
 
 #org/apache/commons/compress/archivers/zip/ZipFile/setNameAndCommentFromExtraFields:
-Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.zip.ZipFile.setNameAndCommentFromExtraFields  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.zip.ZipFile.setNameAndCommentFromExtraFields  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #org/apache/commons/compress/archivers/zip/ZipFile/getUnicodeStringIfOriginalMatches:
 ## nodes: 5
@@ -572,11 +572,11 @@ Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.zip.S
 ## DUAs: 8
 ## Subsumed DUAs: 8
 ## Edge DUA coverage: 100.0
-@@ org.apache.commons.compress.archivers.zip.Simple8BitZipEncoding.canEncodeChar,8,10,8,8,100.0,0,0
+@@ org.apache.commons.compress.archivers.zip.Simple8BitZipEncoding.canEncodeChar,8,10,8,8,100.0,0,1
 
 
 #org/apache/commons/compress/archivers/zip/Simple8BitZipEncoding/canEncodeChar:
-Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.zip.Simple8BitZipEncoding.canEncodeChar  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.zip.Simple8BitZipEncoding.canEncodeChar  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #org/apache/commons/compress/archivers/zip/Simple8BitZipEncoding/pushEncodedChar:
 ## nodes: 7
@@ -584,11 +584,11 @@ Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.zip.S
 ## DUAs: 13
 ## Subsumed DUAs: 13
 ## Edge DUA coverage: 100.0
-@@ org.apache.commons.compress.archivers.zip.Simple8BitZipEncoding.pushEncodedChar,7,9,13,13,100.0,0,0
+@@ org.apache.commons.compress.archivers.zip.Simple8BitZipEncoding.pushEncodedChar,7,9,13,13,100.0,0,1
 
 
 #org/apache/commons/compress/archivers/zip/Simple8BitZipEncoding/pushEncodedChar:
-Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.zip.Simple8BitZipEncoding.pushEncodedChar  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.zip.Simple8BitZipEncoding.pushEncodedChar  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #org/apache/commons/compress/archivers/zip/Simple8BitZipEncoding/encodeHighChar:
 ## nodes: 14
@@ -632,11 +632,11 @@ Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.zip.S
 ## DUAs: 12
 ## Subsumed DUAs: 8
 ## Edge DUA coverage: 66.66666666666666
-@@ org.apache.commons.compress.archivers.zip.Simple8BitZipEncoding.decode,5,5,12,8,66.66666666666666,0,0
+@@ org.apache.commons.compress.archivers.zip.Simple8BitZipEncoding.decode,5,5,12,8,66.66666666666666,0,1
 
 
 #org/apache/commons/compress/archivers/zip/Simple8BitZipEncoding/decode:
-Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.zip.Simple8BitZipEncoding.decode  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.zip.Simple8BitZipEncoding.decode  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #org/apache/commons/compress/archivers/zip/JarMarker/parseFromLocalFileData:
 ## nodes: 4
@@ -656,11 +656,11 @@ Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.zip.J
 ## DUAs: 12
 ## Subsumed DUAs: 12
 ## Edge DUA coverage: 100.0
-@@ org.apache.commons.compress.archivers.zip.ZipFile$BoundedInputStream.read,6,7,12,12,100.0,0,0
+@@ org.apache.commons.compress.archivers.zip.ZipFile$BoundedInputStream.read,6,7,12,12,100.0,0,1
 
 
 #org/apache/commons/compress/archivers/zip/ZipFile$BoundedInputStream/read:
-Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.zip.ZipFile$BoundedInputStream.read  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.zip.ZipFile$BoundedInputStream.read  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #org/apache/commons/compress/archivers/zip/ZipFile$BoundedInputStream/read:
 ## nodes: 12
@@ -668,11 +668,11 @@ Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.zip.Z
 ## DUAs: 35
 ## Subsumed DUAs: 34
 ## Edge DUA coverage: 97.14285714285714
-@@ org.apache.commons.compress.archivers.zip.ZipFile$BoundedInputStream.read,12,16,35,34,97.14285714285714,0,1
+@@ org.apache.commons.compress.archivers.zip.ZipFile$BoundedInputStream.read,12,16,35,34,97.14285714285714,0,0
 
 
 #org/apache/commons/compress/archivers/zip/ZipFile$BoundedInputStream/read:
-Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.zip.ZipFile$BoundedInputStream.read  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.zip.ZipFile$BoundedInputStream.read  calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #org/apache/commons/compress/archivers/zip/UnrecognizedExtraField/getCentralDirectoryLength:
 ## nodes: 4
@@ -716,11 +716,11 @@ Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.zip.U
 ## DUAs: 3
 ## Subsumed DUAs: 3
 ## Edge DUA coverage: 100.0
-@@ org.apache.commons.compress.archivers.zip.UnrecognizedExtraField.copy,4,4,3,3,100.0,0,1
+@@ org.apache.commons.compress.archivers.zip.UnrecognizedExtraField.copy,4,4,3,3,100.0,0,0
 
 
 #org/apache/commons/compress/archivers/zip/UnrecognizedExtraField/copy:
-Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.zip.UnrecognizedExtraField.copy  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.zip.UnrecognizedExtraField.copy  calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #org/apache/commons/compress/archivers/zip/AbstractUnicodeExtraField/assembleData:
 ## nodes: 4
@@ -728,11 +728,11 @@ Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.zip.U
 ## DUAs: 7
 ## Subsumed DUAs: 7
 ## Edge DUA coverage: 100.0
-@@ org.apache.commons.compress.archivers.zip.AbstractUnicodeExtraField.assembleData,4,4,7,7,100.0,0,0
+@@ org.apache.commons.compress.archivers.zip.AbstractUnicodeExtraField.assembleData,4,4,7,7,100.0,0,1
 
 
 #org/apache/commons/compress/archivers/zip/AbstractUnicodeExtraField/assembleData:
-Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.zip.AbstractUnicodeExtraField.assembleData  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.zip.AbstractUnicodeExtraField.assembleData  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #org/apache/commons/compress/archivers/zip/AbstractUnicodeExtraField/getCentralDirectoryData:
 ## nodes: 4
@@ -764,11 +764,11 @@ Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.zip.A
 ## DUAs: 11
 ## Subsumed DUAs: 11
 ## Edge DUA coverage: 100.0
-@@ org.apache.commons.compress.archivers.zip.AbstractUnicodeExtraField.parseFromLocalFileData,6,7,11,11,100.0,0,1
+@@ org.apache.commons.compress.archivers.zip.AbstractUnicodeExtraField.parseFromLocalFileData,6,7,11,11,100.0,0,2
 
 
 #org/apache/commons/compress/archivers/zip/AbstractUnicodeExtraField/parseFromLocalFileData:
-Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.zip.AbstractUnicodeExtraField.parseFromLocalFileData  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.zip.AbstractUnicodeExtraField.parseFromLocalFileData  calculated in 0 minutes, 0 seconds, and 2 milliseconds
 
 #org/apache/commons/compress/archivers/zip/ZipArchiveOutputStream/isSeekable:
 ## nodes: 5
@@ -788,11 +788,11 @@ Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.zip.Z
 ## DUAs: 7
 ## Subsumed DUAs: 7
 ## Edge DUA coverage: 100.0
-@@ org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream.setUseLanguageEncodingFlag,6,7,7,7,100.0,0,1
+@@ org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream.setUseLanguageEncodingFlag,6,7,7,7,100.0,0,0
 
 
 #org/apache/commons/compress/archivers/zip/ZipArchiveOutputStream/setUseLanguageEncodingFlag:
-Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream.setUseLanguageEncodingFlag  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream.setUseLanguageEncodingFlag  calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #org/apache/commons/compress/archivers/zip/ZipArchiveOutputStream/finish:
 ## nodes: 5
@@ -800,11 +800,11 @@ Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.zip.Z
 ## DUAs: 9
 ## Subsumed DUAs: 9
 ## Edge DUA coverage: 100.0
-@@ org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream.finish,5,5,9,9,100.0,0,1
+@@ org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream.finish,5,5,9,9,100.0,0,0
 
 
 #org/apache/commons/compress/archivers/zip/ZipArchiveOutputStream/finish:
-Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream.finish  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream.finish  calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #org/apache/commons/compress/archivers/zip/ZipArchiveOutputStream/closeEntry:
 ## nodes: 17
@@ -824,11 +824,11 @@ Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.zip.Z
 ## DUAs: 44
 ## Subsumed DUAs: 44
 ## Edge DUA coverage: 100.0
-@@ org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream.putNextEntry,16,23,44,44,100.0,0,3
+@@ org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream.putNextEntry,16,23,44,44,100.0,0,1
 
 
 #org/apache/commons/compress/archivers/zip/ZipArchiveOutputStream/putNextEntry:
-Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream.putNextEntry  calculated in 0 minutes, 0 seconds, and 3 milliseconds
+Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream.putNextEntry  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #org/apache/commons/compress/archivers/zip/ZipArchiveOutputStream/setLevel:
 ## nodes: 8
@@ -836,11 +836,11 @@ Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.zip.Z
 ## DUAs: 13
 ## Subsumed DUAs: 13
 ## Edge DUA coverage: 100.0
-@@ org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream.setLevel,8,10,13,13,100.0,0,0
+@@ org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream.setLevel,8,10,13,13,100.0,0,1
 
 
 #org/apache/commons/compress/archivers/zip/ZipArchiveOutputStream/setLevel:
-Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream.setLevel  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream.setLevel  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #org/apache/commons/compress/archivers/zip/ZipArchiveOutputStream/write:
 ## nodes: 14
@@ -860,11 +860,11 @@ Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.zip.Z
 ## DUAs: 12
 ## Subsumed DUAs: 12
 ## Edge DUA coverage: 100.0
-@@ org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream.close,6,7,12,12,100.0,0,0
+@@ org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream.close,6,7,12,12,100.0,0,1
 
 
 #org/apache/commons/compress/archivers/zip/ZipArchiveOutputStream/close:
-Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream.close  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream.close  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #org/apache/commons/compress/archivers/zip/ZipArchiveOutputStream/flush:
 ## nodes: 4
@@ -872,11 +872,11 @@ Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.zip.Z
 ## DUAs: 6
 ## Subsumed DUAs: 6
 ## Edge DUA coverage: 100.0
-@@ org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream.flush,4,4,6,6,100.0,0,1
+@@ org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream.flush,4,4,6,6,100.0,0,0
 
 
 #org/apache/commons/compress/archivers/zip/ZipArchiveOutputStream/flush:
-Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream.flush  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream.flush  calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #org/apache/commons/compress/archivers/zip/ZipArchiveOutputStream/deflate:
 ## nodes: 4
@@ -884,11 +884,11 @@ Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.zip.Z
 ## DUAs: 5
 ## Subsumed DUAs: 5
 ## Edge DUA coverage: 100.0
-@@ org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream.deflate,4,4,5,5,100.0,0,1
+@@ org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream.deflate,4,4,5,5,100.0,0,0
 
 
 #org/apache/commons/compress/archivers/zip/ZipArchiveOutputStream/deflate:
-Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream.deflate  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream.deflate  calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #org/apache/commons/compress/archivers/zip/ZipArchiveOutputStream/writeLocalFileHeader:
 ## nodes: 23
@@ -920,11 +920,11 @@ Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.zip.Z
 ## DUAs: 37
 ## Subsumed DUAs: 32
 ## Edge DUA coverage: 86.48648648648648
-@@ org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream.writeCentralFileHeader,12,16,37,32,86.48648648648648,0,0
+@@ org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream.writeCentralFileHeader,12,16,37,32,86.48648648648648,0,1
 
 
 #org/apache/commons/compress/archivers/zip/ZipArchiveOutputStream/writeCentralFileHeader:
-Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream.writeCentralFileHeader  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream.writeCentralFileHeader  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #org/apache/commons/compress/archivers/zip/ZipArchiveOutputStream/writeOut:
 ## nodes: 5
@@ -957,11 +957,11 @@ Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.zip.Z
 ## DUAs: 8
 ## Subsumed DUAs: 8
 ## Edge DUA coverage: 100.0
-@@ org.apache.commons.compress.archivers.zip.FallbackZipEncoding.encode,4,4,8,8,100.0,0,0
+@@ org.apache.commons.compress.archivers.zip.FallbackZipEncoding.encode,4,4,8,8,100.0,0,1
 
 
 #org/apache/commons/compress/archivers/zip/FallbackZipEncoding/encode:
-Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.zip.FallbackZipEncoding.encode  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.zip.FallbackZipEncoding.encode  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #org/apache/commons/compress/archivers/zip/FallbackZipEncoding/decode:
 ## nodes: 4
@@ -969,11 +969,11 @@ Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.zip.F
 ## DUAs: 8
 ## Subsumed DUAs: 8
 ## Edge DUA coverage: 100.0
-@@ org.apache.commons.compress.archivers.zip.FallbackZipEncoding.decode,4,4,8,8,100.0,0,1
+@@ org.apache.commons.compress.archivers.zip.FallbackZipEncoding.decode,4,4,8,8,100.0,0,0
 
 
 #org/apache/commons/compress/archivers/zip/FallbackZipEncoding/decode:
-Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.zip.FallbackZipEncoding.decode  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.zip.FallbackZipEncoding.decode  calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #org/apache/commons/compress/archivers/zip/ZipArchiveInputStream/getNextZipEntry:
 ## nodes: 4
@@ -993,11 +993,11 @@ Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.zip.Z
 ## DUAs: 20
 ## Subsumed DUAs: 13
 ## Edge DUA coverage: 65.0
-@@ org.apache.commons.compress.archivers.zip.ZipArchiveInputStream.matches,9,11,20,13,65.0,0,1
+@@ org.apache.commons.compress.archivers.zip.ZipArchiveInputStream.matches,9,11,20,13,65.0,0,0
 
 
 #org/apache/commons/compress/archivers/zip/ZipArchiveInputStream/matches:
-Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.zip.ZipArchiveInputStream.matches  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.zip.ZipArchiveInputStream.matches  calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #org/apache/commons/compress/archivers/zip/ZipLong/equals:
 ## nodes: 8
@@ -1005,11 +1005,11 @@ Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.zip.Z
 ## DUAs: 10
 ## Subsumed DUAs: 10
 ## Edge DUA coverage: 100.0
-@@ org.apache.commons.compress.archivers.zip.ZipLong.equals,8,10,10,10,100.0,0,0
+@@ org.apache.commons.compress.archivers.zip.ZipLong.equals,8,10,10,10,100.0,0,1
 
 
 #org/apache/commons/compress/archivers/zip/ZipLong/equals:
-Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.zip.ZipLong.equals  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.zip.ZipLong.equals  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #org/apache/commons/compress/archivers/zip/AsiExtraField/isLink:
 ## nodes: 5
@@ -1029,11 +1029,11 @@ Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.zip.A
 ## DUAs: 6
 ## Subsumed DUAs: 6
 ## Edge DUA coverage: 100.0
-@@ org.apache.commons.compress.archivers.zip.AsiExtraField.isDirectory,6,7,6,6,100.0,0,1
+@@ org.apache.commons.compress.archivers.zip.AsiExtraField.isDirectory,6,7,6,6,100.0,0,0
 
 
 #org/apache/commons/compress/archivers/zip/AsiExtraField/isDirectory:
-Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.zip.AsiExtraField.isDirectory  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.zip.AsiExtraField.isDirectory  calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #org/apache/commons/compress/archivers/zip/AsiExtraField/parseFromLocalFileData:
 ## nodes: 10
@@ -1041,11 +1041,11 @@ Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.zip.A
 ## DUAs: 18
 ## Subsumed DUAs: 18
 ## Edge DUA coverage: 100.0
-@@ org.apache.commons.compress.archivers.zip.AsiExtraField.parseFromLocalFileData,10,12,18,18,100.0,0,0
+@@ org.apache.commons.compress.archivers.zip.AsiExtraField.parseFromLocalFileData,10,12,18,18,100.0,0,1
 
 
 #org/apache/commons/compress/archivers/zip/AsiExtraField/parseFromLocalFileData:
-Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.zip.AsiExtraField.parseFromLocalFileData  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.zip.AsiExtraField.parseFromLocalFileData  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #org/apache/commons/compress/archivers/zip/AsiExtraField/getMode:
 ## nodes: 6
@@ -1065,11 +1065,11 @@ Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.zip.A
 ## DUAs: 58
 ## Subsumed DUAs: 44
 ## Edge DUA coverage: 75.86206896551724
-@@ org.apache.commons.compress.archivers.ar.ArArchiveInputStream.getNextArEntry,21,29,58,44,75.86206896551724,0,2
+@@ org.apache.commons.compress.archivers.ar.ArArchiveInputStream.getNextArEntry,21,29,58,44,75.86206896551724,0,1
 
 
 #org/apache/commons/compress/archivers/ar/ArArchiveInputStream/getNextArEntry:
-Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.ar.ArArchiveInputStream.getNextArEntry  calculated in 0 minutes, 0 seconds, and 2 milliseconds
+Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.ar.ArArchiveInputStream.getNextArEntry  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #org/apache/commons/compress/archivers/ar/ArArchiveInputStream/matches:
 ## nodes: 20
@@ -1149,11 +1149,11 @@ Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.tar.T
 ## DUAs: 6
 ## Subsumed DUAs: 6
 ## Edge DUA coverage: 100.0
-@@ org.apache.commons.compress.archivers.tar.TarArchiveEntry.<init>,8,9,6,6,100.0,0,1
+@@ org.apache.commons.compress.archivers.tar.TarArchiveEntry.<init>,8,9,6,6,100.0,0,0
 
 
 #org/apache/commons/compress/archivers/tar/TarArchiveEntry/<init>:
-Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.tar.TarArchiveEntry.<init>  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.tar.TarArchiveEntry.<init>  calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #org/apache/commons/compress/archivers/tar/TarArchiveEntry/<init>:
 ## nodes: 8
@@ -1245,11 +1245,11 @@ Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.tar.T
 ## DUAs: 43
 ## Subsumed DUAs: 15
 ## Edge DUA coverage: 34.883720930232556
-@@ org.apache.commons.compress.archivers.tar.TarUtils.parseOctal,14,19,43,15,34.883720930232556,0,1
+@@ org.apache.commons.compress.archivers.tar.TarUtils.parseOctal,14,19,43,15,34.883720930232556,0,2
 
 
 #org/apache/commons/compress/archivers/tar/TarUtils/parseOctal:
-Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.tar.TarUtils.parseOctal  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.tar.TarUtils.parseOctal  calculated in 0 minutes, 0 seconds, and 2 milliseconds
 
 #org/apache/commons/compress/archivers/tar/TarUtils/parseName:
 ## nodes: 7
@@ -1281,11 +1281,11 @@ Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.tar.T
 ## DUAs: 36
 ## Subsumed DUAs: 16
 ## Edge DUA coverage: 44.44444444444444
-@@ org.apache.commons.compress.archivers.tar.TarUtils.getOctalBytes,10,13,36,16,44.44444444444444,0,1
+@@ org.apache.commons.compress.archivers.tar.TarUtils.getOctalBytes,10,13,36,16,44.44444444444444,0,0
 
 
 #org/apache/commons/compress/archivers/tar/TarUtils/getOctalBytes:
-Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.tar.TarUtils.getOctalBytes  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.tar.TarUtils.getOctalBytes  calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #org/apache/commons/compress/archivers/tar/TarUtils/computeCheckSum:
 ## nodes: 5
@@ -1305,11 +1305,11 @@ Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.tar.T
 ## DUAs: 7
 ## Subsumed DUAs: 7
 ## Edge DUA coverage: 100.0
-@@ org.apache.commons.compress.archivers.tar.TarArchiveOutputStream.close,4,4,7,7,100.0,0,0
+@@ org.apache.commons.compress.archivers.tar.TarArchiveOutputStream.close,4,4,7,7,100.0,0,1
 
 
 #org/apache/commons/compress/archivers/tar/TarArchiveOutputStream/close:
-Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.tar.TarArchiveOutputStream.close  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.tar.TarArchiveOutputStream.close  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #org/apache/commons/compress/archivers/tar/TarArchiveOutputStream/putNextEntry:
 ## nodes: 10
@@ -1317,11 +1317,11 @@ Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.tar.T
 ## DUAs: 24
 ## Subsumed DUAs: 24
 ## Edge DUA coverage: 100.0
-@@ org.apache.commons.compress.archivers.tar.TarArchiveOutputStream.putNextEntry,10,13,24,24,100.0,0,1
+@@ org.apache.commons.compress.archivers.tar.TarArchiveOutputStream.putNextEntry,10,13,24,24,100.0,0,2
 
 
 #org/apache/commons/compress/archivers/tar/TarArchiveOutputStream/putNextEntry:
-Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.tar.TarArchiveOutputStream.putNextEntry  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.tar.TarArchiveOutputStream.putNextEntry  calculated in 0 minutes, 0 seconds, and 2 milliseconds
 
 #org/apache/commons/compress/archivers/tar/TarArchiveOutputStream/closeEntry:
 ## nodes: 9
@@ -1353,11 +1353,11 @@ Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.tar.T
 ## DUAs: 15
 ## Subsumed DUAs: 11
 ## Edge DUA coverage: 73.33333333333333
-@@ org.apache.commons.compress.archivers.tar.TarArchiveOutputStream.writeEOFRecord,5,5,15,11,73.33333333333333,0,0
+@@ org.apache.commons.compress.archivers.tar.TarArchiveOutputStream.writeEOFRecord,5,5,15,11,73.33333333333333,0,4
 
 
 #org/apache/commons/compress/archivers/tar/TarArchiveOutputStream/writeEOFRecord:
-Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.tar.TarArchiveOutputStream.writeEOFRecord  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.tar.TarArchiveOutputStream.writeEOFRecord  calculated in 0 minutes, 0 seconds, and 4 milliseconds
 
 #org/apache/commons/compress/archivers/tar/TarArchiveInputStream/available:
 ## nodes: 4
@@ -1365,11 +1365,11 @@ Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.tar.T
 ## DUAs: 9
 ## Subsumed DUAs: 9
 ## Edge DUA coverage: 100.0
-@@ org.apache.commons.compress.archivers.tar.TarArchiveInputStream.available,4,4,9,9,100.0,0,1
+@@ org.apache.commons.compress.archivers.tar.TarArchiveInputStream.available,4,4,9,9,100.0,0,0
 
 
 #org/apache/commons/compress/archivers/tar/TarArchiveInputStream/available:
-Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.tar.TarArchiveInputStream.available  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.tar.TarArchiveInputStream.available  calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #org/apache/commons/compress/archivers/tar/TarArchiveInputStream/skip:
 ## nodes: 10
@@ -1425,11 +1425,11 @@ Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.tar.T
 ## DUAs: 7
 ## Subsumed DUAs: 7
 ## Edge DUA coverage: 100.0
-@@ org.apache.commons.compress.archivers.tar.TarArchiveInputStream.copyEntryContents,5,5,7,7,100.0,0,0
+@@ org.apache.commons.compress.archivers.tar.TarArchiveInputStream.copyEntryContents,5,5,7,7,100.0,0,2
 
 
 #org/apache/commons/compress/archivers/tar/TarArchiveInputStream/copyEntryContents:
-Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.tar.TarArchiveInputStream.copyEntryContents  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.tar.TarArchiveInputStream.copyEntryContents  calculated in 0 minutes, 0 seconds, and 2 milliseconds
 
 #org/apache/commons/compress/archivers/tar/TarArchiveInputStream/matches:
 ## nodes: 20
@@ -1437,11 +1437,11 @@ Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.tar.T
 ## DUAs: 18
 ## Subsumed DUAs: 18
 ## Edge DUA coverage: 100.0
-@@ org.apache.commons.compress.archivers.tar.TarArchiveInputStream.matches,20,28,18,18,100.0,0,0
+@@ org.apache.commons.compress.archivers.tar.TarArchiveInputStream.matches,20,28,18,18,100.0,0,1
 
 
 #org/apache/commons/compress/archivers/tar/TarArchiveInputStream/matches:
-Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.tar.TarArchiveInputStream.matches  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.tar.TarArchiveInputStream.matches  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #org/apache/commons/compress/archivers/tar/TarBuffer/initialize:
 ## nodes: 5
@@ -1473,11 +1473,11 @@ Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.tar.T
 ## DUAs: 22
 ## Subsumed DUAs: 22
 ## Edge DUA coverage: 100.0
-@@ org.apache.commons.compress.archivers.tar.TarBuffer.skipRecord,9,12,22,22,100.0,0,0
+@@ org.apache.commons.compress.archivers.tar.TarBuffer.skipRecord,9,12,22,22,100.0,0,1
 
 
 #org/apache/commons/compress/archivers/tar/TarBuffer/skipRecord:
-Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.tar.TarBuffer.skipRecord  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.tar.TarBuffer.skipRecord  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #org/apache/commons/compress/archivers/tar/TarBuffer/readRecord:
 ## nodes: 9
@@ -1497,11 +1497,11 @@ Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.tar.T
 ## DUAs: 57
 ## Subsumed DUAs: 42
 ## Edge DUA coverage: 73.68421052631578
-@@ org.apache.commons.compress.archivers.tar.TarBuffer.readBlock,16,22,57,42,73.68421052631578,0,1
+@@ org.apache.commons.compress.archivers.tar.TarBuffer.readBlock,16,22,57,42,73.68421052631578,0,0
 
 
 #org/apache/commons/compress/archivers/tar/TarBuffer/readBlock:
-Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.tar.TarBuffer.readBlock  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.tar.TarBuffer.readBlock  calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #org/apache/commons/compress/archivers/tar/TarBuffer/writeRecord:
 ## nodes: 10
@@ -1509,11 +1509,11 @@ Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.tar.T
 ## DUAs: 33
 ## Subsumed DUAs: 33
 ## Edge DUA coverage: 100.0
-@@ org.apache.commons.compress.archivers.tar.TarBuffer.writeRecord,10,13,33,33,100.0,0,0
+@@ org.apache.commons.compress.archivers.tar.TarBuffer.writeRecord,10,13,33,33,100.0,0,1
 
 
 #org/apache/commons/compress/archivers/tar/TarBuffer/writeRecord:
-Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.tar.TarBuffer.writeRecord  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.tar.TarBuffer.writeRecord  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #org/apache/commons/compress/archivers/tar/TarBuffer/writeRecord:
 ## nodes: 10
@@ -1521,11 +1521,11 @@ Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.tar.T
 ## DUAs: 37
 ## Subsumed DUAs: 37
 ## Edge DUA coverage: 100.0
-@@ org.apache.commons.compress.archivers.tar.TarBuffer.writeRecord,10,13,37,37,100.0,0,1
+@@ org.apache.commons.compress.archivers.tar.TarBuffer.writeRecord,10,13,37,37,100.0,0,0
 
 
 #org/apache/commons/compress/archivers/tar/TarBuffer/writeRecord:
-Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.tar.TarBuffer.writeRecord  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.tar.TarBuffer.writeRecord  calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #org/apache/commons/compress/archivers/tar/TarBuffer/writeBlock:
 ## nodes: 6
@@ -1545,11 +1545,11 @@ Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.tar.T
 ## DUAs: 14
 ## Subsumed DUAs: 14
 ## Edge DUA coverage: 100.0
-@@ org.apache.commons.compress.archivers.tar.TarBuffer.flushBlock,8,10,14,14,100.0,0,0
+@@ org.apache.commons.compress.archivers.tar.TarBuffer.flushBlock,8,10,14,14,100.0,0,1
 
 
 #org/apache/commons/compress/archivers/tar/TarBuffer/flushBlock:
-Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.tar.TarBuffer.flushBlock  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.tar.TarBuffer.flushBlock  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #org/apache/commons/compress/archivers/tar/TarBuffer/close:
 ## nodes: 11
@@ -1557,11 +1557,11 @@ Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.tar.T
 ## DUAs: 36
 ## Subsumed DUAs: 36
 ## Edge DUA coverage: 100.0
-@@ org.apache.commons.compress.archivers.tar.TarBuffer.close,11,16,36,36,100.0,0,0
+@@ org.apache.commons.compress.archivers.tar.TarBuffer.close,11,16,36,36,100.0,0,1
 
 
 #org/apache/commons/compress/archivers/tar/TarBuffer/close:
-Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.tar.TarBuffer.close  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.tar.TarBuffer.close  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #org/apache/commons/compress/archivers/cpio/CpioArchiveOutputStream/ensureOpen:
 ## nodes: 4
@@ -1569,11 +1569,11 @@ Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.tar.T
 ## DUAs: 4
 ## Subsumed DUAs: 4
 ## Edge DUA coverage: 100.0
-@@ org.apache.commons.compress.archivers.cpio.CpioArchiveOutputStream.ensureOpen,4,4,4,4,100.0,0,0
+@@ org.apache.commons.compress.archivers.cpio.CpioArchiveOutputStream.ensureOpen,4,4,4,4,100.0,0,1
 
 
 #org/apache/commons/compress/archivers/cpio/CpioArchiveOutputStream/ensureOpen:
-Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.cpio.CpioArchiveOutputStream.ensureOpen  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.cpio.CpioArchiveOutputStream.ensureOpen  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #org/apache/commons/compress/archivers/cpio/CpioArchiveOutputStream/setFormat:
 ## nodes: 4
@@ -1593,11 +1593,11 @@ Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.cpio.
 ## DUAs: 22
 ## Subsumed DUAs: 22
 ## Edge DUA coverage: 100.0
-@@ org.apache.commons.compress.archivers.cpio.CpioArchiveOutputStream.putNextEntry,10,13,22,22,100.0,0,2
+@@ org.apache.commons.compress.archivers.cpio.CpioArchiveOutputStream.putNextEntry,10,13,22,22,100.0,0,0
 
 
 #org/apache/commons/compress/archivers/cpio/CpioArchiveOutputStream/putNextEntry:
-Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.cpio.CpioArchiveOutputStream.putNextEntry  calculated in 0 minutes, 0 seconds, and 2 milliseconds
+Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.cpio.CpioArchiveOutputStream.putNextEntry  calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #org/apache/commons/compress/archivers/cpio/CpioArchiveOutputStream/writeHeader:
 ## nodes: 7
@@ -1605,11 +1605,11 @@ Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.cpio.
 ## DUAs: 16
 ## Subsumed DUAs: 16
 ## Edge DUA coverage: 100.0
-@@ org.apache.commons.compress.archivers.cpio.CpioArchiveOutputStream.writeHeader,7,10,16,16,100.0,0,5
+@@ org.apache.commons.compress.archivers.cpio.CpioArchiveOutputStream.writeHeader,7,10,16,16,100.0,0,1
 
 
 #org/apache/commons/compress/archivers/cpio/CpioArchiveOutputStream/writeHeader:
-Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.cpio.CpioArchiveOutputStream.writeHeader  calculated in 0 minutes, 0 seconds, and 5 milliseconds
+Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.cpio.CpioArchiveOutputStream.writeHeader  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #org/apache/commons/compress/archivers/cpio/CpioArchiveOutputStream/closeArchiveEntry:
 ## nodes: 11
@@ -1617,11 +1617,11 @@ Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.cpio.
 ## DUAs: 32
 ## Subsumed DUAs: 32
 ## Edge DUA coverage: 100.0
-@@ org.apache.commons.compress.archivers.cpio.CpioArchiveOutputStream.closeArchiveEntry,11,15,32,32,100.0,0,1
+@@ org.apache.commons.compress.archivers.cpio.CpioArchiveOutputStream.closeArchiveEntry,11,15,32,32,100.0,0,0
 
 
 #org/apache/commons/compress/archivers/cpio/CpioArchiveOutputStream/closeArchiveEntry:
-Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.cpio.CpioArchiveOutputStream.closeArchiveEntry  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.cpio.CpioArchiveOutputStream.closeArchiveEntry  calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #org/apache/commons/compress/archivers/cpio/CpioArchiveOutputStream/write:
 ## nodes: 16
@@ -1629,11 +1629,11 @@ Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.cpio.
 ## DUAs: 46
 ## Subsumed DUAs: 41
 ## Edge DUA coverage: 89.13043478260869
-@@ org.apache.commons.compress.archivers.cpio.CpioArchiveOutputStream.write,16,23,46,41,89.13043478260869,0,1
+@@ org.apache.commons.compress.archivers.cpio.CpioArchiveOutputStream.write,16,23,46,41,89.13043478260869,0,0
 
 
 #org/apache/commons/compress/archivers/cpio/CpioArchiveOutputStream/write:
-Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.cpio.CpioArchiveOutputStream.write  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.cpio.CpioArchiveOutputStream.write  calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #org/apache/commons/compress/archivers/cpio/CpioArchiveOutputStream/finish:
 ## nodes: 6
@@ -1677,11 +1677,11 @@ Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.cpio.
 ## DUAs: 32
 ## Subsumed DUAs: 26
 ## Edge DUA coverage: 81.25
-@@ org.apache.commons.compress.archivers.cpio.CpioArchiveOutputStream.writeAsciiLong,13,16,32,26,81.25,0,0
+@@ org.apache.commons.compress.archivers.cpio.CpioArchiveOutputStream.writeAsciiLong,13,16,32,26,81.25,0,1
 
 
 #org/apache/commons/compress/archivers/cpio/CpioArchiveOutputStream/writeAsciiLong:
-Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.cpio.CpioArchiveOutputStream.writeAsciiLong  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.cpio.CpioArchiveOutputStream.writeAsciiLong  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #org/apache/commons/compress/archivers/cpio/CpioUtil/byteArray2long:
 ## nodes: 11
@@ -1725,11 +1725,11 @@ Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.cpio.
 ## DUAs: 5
 ## Subsumed DUAs: 5
 ## Edge DUA coverage: 100.0
-@@ org.apache.commons.compress.archivers.cpio.CpioArchiveInputStream.close,4,4,5,5,100.0,0,1
+@@ org.apache.commons.compress.archivers.cpio.CpioArchiveInputStream.close,4,4,5,5,100.0,0,0
 
 
 #org/apache/commons/compress/archivers/cpio/CpioArchiveInputStream/close:
-Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.cpio.CpioArchiveInputStream.close  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.cpio.CpioArchiveInputStream.close  calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #org/apache/commons/compress/archivers/cpio/CpioArchiveInputStream/closeEntry:
 ## nodes: 5
@@ -1737,11 +1737,11 @@ Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.cpio.
 ## DUAs: 5
 ## Subsumed DUAs: 5
 ## Edge DUA coverage: 100.0
-@@ org.apache.commons.compress.archivers.cpio.CpioArchiveInputStream.closeEntry,5,5,5,5,100.0,0,0
+@@ org.apache.commons.compress.archivers.cpio.CpioArchiveInputStream.closeEntry,5,5,5,5,100.0,0,1
 
 
 #org/apache/commons/compress/archivers/cpio/CpioArchiveInputStream/closeEntry:
-Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.cpio.CpioArchiveInputStream.closeEntry  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.cpio.CpioArchiveInputStream.closeEntry  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #org/apache/commons/compress/archivers/cpio/CpioArchiveInputStream/ensureOpen:
 ## nodes: 4
@@ -1761,11 +1761,11 @@ Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.cpio.
 ## DUAs: 44
 ## Subsumed DUAs: 29
 ## Edge DUA coverage: 65.9090909090909
-@@ org.apache.commons.compress.archivers.cpio.CpioArchiveInputStream.getNextCPIOEntry,17,23,44,29,65.9090909090909,0,1
+@@ org.apache.commons.compress.archivers.cpio.CpioArchiveInputStream.getNextCPIOEntry,17,23,44,29,65.9090909090909,0,0
 
 
 #org/apache/commons/compress/archivers/cpio/CpioArchiveInputStream/getNextCPIOEntry:
-Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.cpio.CpioArchiveInputStream.getNextCPIOEntry  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.cpio.CpioArchiveInputStream.getNextCPIOEntry  calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #org/apache/commons/compress/archivers/cpio/CpioArchiveInputStream/pad:
 ## nodes: 4
@@ -1785,11 +1785,11 @@ Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.cpio.
 ## DUAs: 6
 ## Subsumed DUAs: 6
 ## Edge DUA coverage: 100.0
-@@ org.apache.commons.compress.archivers.cpio.CpioArchiveInputStream.read,5,5,6,6,100.0,0,1
+@@ org.apache.commons.compress.archivers.cpio.CpioArchiveInputStream.read,5,5,6,6,100.0,0,0
 
 
 #org/apache/commons/compress/archivers/cpio/CpioArchiveInputStream/read:
-Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.cpio.CpioArchiveInputStream.read  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.cpio.CpioArchiveInputStream.read  calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #org/apache/commons/compress/archivers/cpio/CpioArchiveInputStream/read:
 ## nodes: 26
@@ -1797,11 +1797,11 @@ Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.cpio.
 ## DUAs: 79
 ## Subsumed DUAs: 74
 ## Edge DUA coverage: 93.67088607594937
-@@ org.apache.commons.compress.archivers.cpio.CpioArchiveInputStream.read,26,39,79,74,93.67088607594937,0,1
+@@ org.apache.commons.compress.archivers.cpio.CpioArchiveInputStream.read,26,39,79,74,93.67088607594937,0,0
 
 
 #org/apache/commons/compress/archivers/cpio/CpioArchiveInputStream/read:
-Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.cpio.CpioArchiveInputStream.read  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.cpio.CpioArchiveInputStream.read  calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #org/apache/commons/compress/archivers/cpio/CpioArchiveInputStream/readFully:
 ## nodes: 9
@@ -1809,11 +1809,11 @@ Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.cpio.
 ## DUAs: 22
 ## Subsumed DUAs: 15
 ## Edge DUA coverage: 68.18181818181817
-@@ org.apache.commons.compress.archivers.cpio.CpioArchiveInputStream.readFully,9,11,22,15,68.18181818181817,0,1
+@@ org.apache.commons.compress.archivers.cpio.CpioArchiveInputStream.readFully,9,11,22,15,68.18181818181817,0,0
 
 
 #org/apache/commons/compress/archivers/cpio/CpioArchiveInputStream/readFully:
-Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.cpio.CpioArchiveInputStream.readFully  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.cpio.CpioArchiveInputStream.readFully  calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #org/apache/commons/compress/archivers/cpio/CpioArchiveInputStream/readNewEntry:
 ## nodes: 5
@@ -1821,11 +1821,11 @@ Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.cpio.
 ## DUAs: 5
 ## Subsumed DUAs: 3
 ## Edge DUA coverage: 60.0
-@@ org.apache.commons.compress.archivers.cpio.CpioArchiveInputStream.readNewEntry,5,5,5,3,60.0,0,1
+@@ org.apache.commons.compress.archivers.cpio.CpioArchiveInputStream.readNewEntry,5,5,5,3,60.0,0,0
 
 
 #org/apache/commons/compress/archivers/cpio/CpioArchiveInputStream/readNewEntry:
-Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.cpio.CpioArchiveInputStream.readNewEntry  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.cpio.CpioArchiveInputStream.readNewEntry  calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #org/apache/commons/compress/archivers/cpio/CpioArchiveInputStream/skip:
 ## nodes: 11
@@ -1845,11 +1845,11 @@ Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.cpio.
 ## DUAs: 12
 ## Subsumed DUAs: 12
 ## Edge DUA coverage: 100.0
-@@ org.apache.commons.compress.archivers.cpio.CpioArchiveInputStream.matches,14,19,12,12,100.0,0,1
+@@ org.apache.commons.compress.archivers.cpio.CpioArchiveInputStream.matches,14,19,12,12,100.0,0,0
 
 
 #org/apache/commons/compress/archivers/cpio/CpioArchiveInputStream/matches:
-Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.cpio.CpioArchiveInputStream.matches  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.cpio.CpioArchiveInputStream.matches  calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #org/apache/commons/compress/archivers/cpio/CpioArchiveEntry/checkNewFormat:
 ## nodes: 4
@@ -1857,11 +1857,11 @@ Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.cpio.
 ## DUAs: 4
 ## Subsumed DUAs: 4
 ## Edge DUA coverage: 100.0
-@@ org.apache.commons.compress.archivers.cpio.CpioArchiveEntry.checkNewFormat,4,4,4,4,100.0,0,0
+@@ org.apache.commons.compress.archivers.cpio.CpioArchiveEntry.checkNewFormat,4,4,4,4,100.0,0,1
 
 
 #org/apache/commons/compress/archivers/cpio/CpioArchiveEntry/checkNewFormat:
-Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.cpio.CpioArchiveEntry.checkNewFormat  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.cpio.CpioArchiveEntry.checkNewFormat  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #org/apache/commons/compress/archivers/cpio/CpioArchiveEntry/checkOldFormat:
 ## nodes: 4
@@ -1869,11 +1869,11 @@ Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.cpio.
 ## DUAs: 4
 ## Subsumed DUAs: 4
 ## Edge DUA coverage: 100.0
-@@ org.apache.commons.compress.archivers.cpio.CpioArchiveEntry.checkOldFormat,4,4,4,4,100.0,0,1
+@@ org.apache.commons.compress.archivers.cpio.CpioArchiveEntry.checkOldFormat,4,4,4,4,100.0,0,0
 
 
 #org/apache/commons/compress/archivers/cpio/CpioArchiveEntry/checkOldFormat:
-Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.cpio.CpioArchiveEntry.checkOldFormat  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method org.apache.commons.compress.archivers.cpio.CpioArchiveEntry.checkOldFormat  calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #org/apache/commons/compress/archivers/cpio/CpioArchiveEntry/isBlockDevice:
 ## nodes: 5
@@ -2037,11 +2037,11 @@ Local DUA-Edge subsumption of method org.apache.commons.compress.compressors.Com
 ## DUAs: 11
 ## Subsumed DUAs: 11
 ## Edge DUA coverage: 100.0
-@@ org.apache.commons.compress.compressors.CompressorStreamFactory.createCompressorOutputStream,9,12,11,11,100.0,0,1
+@@ org.apache.commons.compress.compressors.CompressorStreamFactory.createCompressorOutputStream,9,12,11,11,100.0,0,0
 
 
 #org/apache/commons/compress/compressors/CompressorStreamFactory/createCompressorOutputStream:
-Local DUA-Edge subsumption of method org.apache.commons.compress.compressors.CompressorStreamFactory.createCompressorOutputStream  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method org.apache.commons.compress.compressors.CompressorStreamFactory.createCompressorOutputStream  calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #org/apache/commons/compress/compressors/bzip2/BZip2CompressorInputStream$Data/initTT:
 ## nodes: 5
@@ -2049,11 +2049,11 @@ Local DUA-Edge subsumption of method org.apache.commons.compress.compressors.Com
 ## DUAs: 10
 ## Subsumed DUAs: 9
 ## Edge DUA coverage: 90.0
-@@ org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream$Data.initTT,5,6,10,9,90.0,0,0
+@@ org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream$Data.initTT,5,6,10,9,90.0,0,1
 
 
 #org/apache/commons/compress/compressors/bzip2/BZip2CompressorInputStream$Data/initTT:
-Local DUA-Edge subsumption of method org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream$Data.initTT  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream$Data.initTT  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #org/apache/commons/compress/compressors/bzip2/BZip2CompressorOutputStream/makeMaps:
 ## nodes: 7
@@ -2061,11 +2061,11 @@ Local DUA-Edge subsumption of method org.apache.commons.compress.compressors.bzi
 ## DUAs: 21
 ## Subsumed DUAs: 10
 ## Edge DUA coverage: 47.61904761904761
-@@ org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream.makeMaps,7,8,21,10,47.61904761904761,0,0
+@@ org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream.makeMaps,7,8,21,10,47.61904761904761,0,1
 
 
 #org/apache/commons/compress/compressors/bzip2/BZip2CompressorOutputStream/makeMaps:
-Local DUA-Edge subsumption of method org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream.makeMaps  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream.makeMaps  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #org/apache/commons/compress/compressors/bzip2/BZip2CompressorOutputStream/hbMakeCodeLengths:
 ## nodes: 56
@@ -2085,11 +2085,11 @@ Local DUA-Edge subsumption of method org.apache.commons.compress.compressors.bzi
 ## DUAs: 10
 ## Subsumed DUAs: 3
 ## Edge DUA coverage: 30.0
-@@ org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream.<init>,6,7,10,3,30.0,0,1
+@@ org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream.<init>,6,7,10,3,30.0,0,0
 
 
 #org/apache/commons/compress/compressors/bzip2/BZip2CompressorOutputStream/<init>:
-Local DUA-Edge subsumption of method org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream.<init>  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream.<init>  calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #org/apache/commons/compress/compressors/bzip2/BZip2CompressorOutputStream/write:
 ## nodes: 8
@@ -2109,11 +2109,11 @@ Local DUA-Edge subsumption of method org.apache.commons.compress.compressors.bzi
 ## DUAs: 49
 ## Subsumed DUAs: 45
 ## Edge DUA coverage: 91.83673469387756
-@@ org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream.writeRun,12,16,49,45,91.83673469387756,0,1
+@@ org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream.writeRun,12,16,49,45,91.83673469387756,0,0
 
 
 #org/apache/commons/compress/compressors/bzip2/BZip2CompressorOutputStream/writeRun:
-Local DUA-Edge subsumption of method org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream.writeRun  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream.writeRun  calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #org/apache/commons/compress/compressors/bzip2/BZip2CompressorOutputStream/close:
 ## nodes: 4
@@ -2183,11 +2183,11 @@ Warning: Method:org.apache.commons.compress.compressors.bzip2.BZip2CompressorOut
 ## DUAs: 797
 ## Subsumed DUAs: 244
 ## Edge DUA coverage: 30.61480552070264
-@@ org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream.sendMTFValues,158,220,797,244,30.61480552070264,0,3
+@@ org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream.sendMTFValues,158,220,797,244,30.61480552070264,0,5
 
 
 #org/apache/commons/compress/compressors/bzip2/BZip2CompressorOutputStream/sendMTFValues:
-Local DUA-Edge subsumption of method org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream.sendMTFValues  calculated in 0 minutes, 0 seconds, and 3 milliseconds
+Local DUA-Edge subsumption of method org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream.sendMTFValues  calculated in 0 minutes, 0 seconds, and 5 milliseconds
 
 #org/apache/commons/compress/compressors/bzip2/BZip2CompressorOutputStream/simpleSort:
 ## nodes: 32
@@ -2195,11 +2195,11 @@ Local DUA-Edge subsumption of method org.apache.commons.compress.compressors.bzi
 ## DUAs: 155
 ## Subsumed DUAs: 121
 ## Edge DUA coverage: 78.06451612903226
-@@ org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream.simpleSort,32,45,155,121,78.06451612903226,0,0
+@@ org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream.simpleSort,32,45,155,121,78.06451612903226,0,1
 
 
 #org/apache/commons/compress/compressors/bzip2/BZip2CompressorOutputStream/simpleSort:
-Local DUA-Edge subsumption of method org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream.simpleSort  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream.simpleSort  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #org/apache/commons/compress/compressors/bzip2/BZip2CompressorOutputStream/vswap:
 ## nodes: 5
@@ -2231,11 +2231,11 @@ Local DUA-Edge subsumption of method org.apache.commons.compress.compressors.bzi
 ## DUAs: 218
 ## Subsumed DUAs: 72
 ## Edge DUA coverage: 33.02752293577982
-@@ org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream.qSort3,37,52,218,72,33.02752293577982,0,2
+@@ org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream.qSort3,37,52,218,72,33.02752293577982,0,1
 
 
 #org/apache/commons/compress/compressors/bzip2/BZip2CompressorOutputStream/qSort3:
-Local DUA-Edge subsumption of method org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream.qSort3  calculated in 0 minutes, 0 seconds, and 2 milliseconds
+Local DUA-Edge subsumption of method org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream.qSort3  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 Warning: Method:org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream.mainSort has auto edges.
 
 #org/apache/commons/compress/compressors/bzip2/BZip2CompressorOutputStream/randomiseBlock:
@@ -2244,11 +2244,11 @@ Warning: Method:org.apache.commons.compress.compressors.bzip2.BZip2CompressorOut
 ## DUAs: 36
 ## Subsumed DUAs: 20
 ## Edge DUA coverage: 55.55555555555556
-@@ org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream.randomiseBlock,14,18,36,20,55.55555555555556,0,0
+@@ org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream.randomiseBlock,14,18,36,20,55.55555555555556,0,1
 
 
 #org/apache/commons/compress/compressors/bzip2/BZip2CompressorOutputStream/randomiseBlock:
-Local DUA-Edge subsumption of method org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream.randomiseBlock  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream.randomiseBlock  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #org/apache/commons/compress/compressors/bzip2/BZip2CompressorOutputStream/doReversibleTransformation:
 ## nodes: 12
@@ -2256,11 +2256,11 @@ Local DUA-Edge subsumption of method org.apache.commons.compress.compressors.bzi
 ## DUAs: 39
 ## Subsumed DUAs: 26
 ## Edge DUA coverage: 66.66666666666666
-@@ org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream.doReversibleTransformation,12,16,39,26,66.66666666666666,0,0
+@@ org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream.doReversibleTransformation,12,16,39,26,66.66666666666666,0,1
 
 
 #org/apache/commons/compress/compressors/bzip2/BZip2CompressorOutputStream/doReversibleTransformation:
-Local DUA-Edge subsumption of method org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream.doReversibleTransformation  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream.doReversibleTransformation  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #org/apache/commons/compress/compressors/bzip2/BZip2CompressorOutputStream/fullGtU:
 ## nodes: 78
@@ -2280,11 +2280,11 @@ Local DUA-Edge subsumption of method org.apache.commons.compress.compressors.bzi
 ## DUAs: 16
 ## Subsumed DUAs: 14
 ## Edge DUA coverage: 87.5
-@@ org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream.allocateCompressStructures,6,8,16,14,87.5,0,1
+@@ org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream.allocateCompressStructures,6,8,16,14,87.5,0,0
 
 
 #org/apache/commons/compress/compressors/bzip2/BZip2CompressorOutputStream/allocateCompressStructures:
-Local DUA-Edge subsumption of method org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream.allocateCompressStructures  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream.allocateCompressStructures  calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #org/apache/commons/compress/compressors/bzip2/BZip2CompressorOutputStream/generateMTFValues:
 ## nodes: 33
@@ -2292,11 +2292,11 @@ Local DUA-Edge subsumption of method org.apache.commons.compress.compressors.bzi
 ## DUAs: 146
 ## Subsumed DUAs: 55
 ## Edge DUA coverage: 37.67123287671233
-@@ org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream.generateMTFValues,33,45,146,55,37.67123287671233,0,1
+@@ org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream.generateMTFValues,33,45,146,55,37.67123287671233,0,0
 
 
 #org/apache/commons/compress/compressors/bzip2/BZip2CompressorOutputStream/generateMTFValues:
-Local DUA-Edge subsumption of method org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream.generateMTFValues  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream.generateMTFValues  calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #org/apache/commons/compress/compressors/bzip2/CRC/updateCRC:
 ## nodes: 4
@@ -2304,11 +2304,11 @@ Local DUA-Edge subsumption of method org.apache.commons.compress.compressors.bzi
 ## DUAs: 8
 ## Subsumed DUAs: 7
 ## Edge DUA coverage: 87.5
-@@ org.apache.commons.compress.compressors.bzip2.CRC.updateCRC,4,4,8,7,87.5,0,0
+@@ org.apache.commons.compress.compressors.bzip2.CRC.updateCRC,4,4,8,7,87.5,0,1
 
 
 #org/apache/commons/compress/compressors/bzip2/CRC/updateCRC:
-Local DUA-Edge subsumption of method org.apache.commons.compress.compressors.bzip2.CRC.updateCRC  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method org.apache.commons.compress.compressors.bzip2.CRC.updateCRC  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #org/apache/commons/compress/compressors/bzip2/CRC/updateCRC:
 ## nodes: 8
@@ -2316,11 +2316,11 @@ Local DUA-Edge subsumption of method org.apache.commons.compress.compressors.bzi
 ## DUAs: 16
 ## Subsumed DUAs: 11
 ## Edge DUA coverage: 68.75
-@@ org.apache.commons.compress.compressors.bzip2.CRC.updateCRC,8,9,16,11,68.75,0,1
+@@ org.apache.commons.compress.compressors.bzip2.CRC.updateCRC,8,9,16,11,68.75,0,0
 
 
 #org/apache/commons/compress/compressors/bzip2/CRC/updateCRC:
-Local DUA-Edge subsumption of method org.apache.commons.compress.compressors.bzip2.CRC.updateCRC  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method org.apache.commons.compress.compressors.bzip2.CRC.updateCRC  calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #org/apache/commons/compress/compressors/bzip2/BZip2CompressorInputStream/read:
 ## nodes: 4
@@ -2340,11 +2340,11 @@ Local DUA-Edge subsumption of method org.apache.commons.compress.compressors.bzi
 ## DUAs: 43
 ## Subsumed DUAs: 33
 ## Edge DUA coverage: 76.74418604651163
-@@ org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.read,17,23,43,33,76.74418604651163,0,0
+@@ org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.read,17,23,43,33,76.74418604651163,0,1
 
 
 #org/apache/commons/compress/compressors/bzip2/BZip2CompressorInputStream/read:
-Local DUA-Edge subsumption of method org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.read  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.read  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #org/apache/commons/compress/compressors/bzip2/BZip2CompressorInputStream/makeMaps:
 ## nodes: 7
@@ -2412,11 +2412,11 @@ Local DUA-Edge subsumption of method org.apache.commons.compress.compressors.bzi
 ## DUAs: 12
 ## Subsumed DUAs: 12
 ## Edge DUA coverage: 100.0
-@@ org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.endBlock,4,4,12,12,100.0,0,1
+@@ org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.endBlock,4,4,12,12,100.0,0,0
 
 
 #org/apache/commons/compress/compressors/bzip2/BZip2CompressorInputStream/endBlock:
-Local DUA-Edge subsumption of method org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.endBlock  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.endBlock  calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #org/apache/commons/compress/compressors/bzip2/BZip2CompressorInputStream/complete:
 ## nodes: 4
@@ -2448,11 +2448,11 @@ Local DUA-Edge subsumption of method org.apache.commons.compress.compressors.bzi
 ## DUAs: 26
 ## Subsumed DUAs: 22
 ## Edge DUA coverage: 84.61538461538461
-@@ org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.bsR,8,10,26,22,84.61538461538461,0,0
+@@ org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.bsR,8,10,26,22,84.61538461538461,0,1
 
 
 #org/apache/commons/compress/compressors/bzip2/BZip2CompressorInputStream/bsR:
-Local DUA-Edge subsumption of method org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.bsR  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.bsR  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #org/apache/commons/compress/compressors/bzip2/BZip2CompressorInputStream/bsGetBit:
 ## nodes: 9
@@ -2460,11 +2460,11 @@ Local DUA-Edge subsumption of method org.apache.commons.compress.compressors.bzi
 ## DUAs: 21
 ## Subsumed DUAs: 12
 ## Edge DUA coverage: 57.14285714285714
-@@ org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.bsGetBit,9,11,21,12,57.14285714285714,0,2
+@@ org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.bsGetBit,9,11,21,12,57.14285714285714,0,0
 
 
 #org/apache/commons/compress/compressors/bzip2/BZip2CompressorInputStream/bsGetBit:
-Local DUA-Edge subsumption of method org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.bsGetBit  calculated in 0 minutes, 0 seconds, and 2 milliseconds
+Local DUA-Edge subsumption of method org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.bsGetBit  calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #org/apache/commons/compress/compressors/bzip2/BZip2CompressorInputStream/hbCreateDecodeTables:
 ## nodes: 25
@@ -2484,11 +2484,11 @@ Local DUA-Edge subsumption of method org.apache.commons.compress.compressors.bzi
 ## DUAs: 126
 ## Subsumed DUAs: 69
 ## Edge DUA coverage: 54.761904761904766
-@@ org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.recvDecodingTables,45,60,126,69,54.761904761904766,0,3
+@@ org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.recvDecodingTables,45,60,126,69,54.761904761904766,0,0
 
 
 #org/apache/commons/compress/compressors/bzip2/BZip2CompressorInputStream/recvDecodingTables:
-Local DUA-Edge subsumption of method org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.recvDecodingTables  calculated in 0 minutes, 0 seconds, and 3 milliseconds
+Local DUA-Edge subsumption of method org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.recvDecodingTables  calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #org/apache/commons/compress/compressors/bzip2/BZip2CompressorInputStream/createHuffmanDecodingTables:
 ## nodes: 12
@@ -2496,11 +2496,11 @@ Local DUA-Edge subsumption of method org.apache.commons.compress.compressors.bzi
 ## DUAs: 42
 ## Subsumed DUAs: 26
 ## Edge DUA coverage: 61.904761904761905
-@@ org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.createHuffmanDecodingTables,12,15,42,26,61.904761904761905,0,1
+@@ org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.createHuffmanDecodingTables,12,15,42,26,61.904761904761905,0,0
 
 
 #org/apache/commons/compress/compressors/bzip2/BZip2CompressorInputStream/createHuffmanDecodingTables:
-Local DUA-Edge subsumption of method org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.createHuffmanDecodingTables  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.createHuffmanDecodingTables  calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #org/apache/commons/compress/compressors/bzip2/BZip2CompressorInputStream/getAndMoveToFrontDecode:
 ## nodes: 62
@@ -2508,11 +2508,11 @@ Local DUA-Edge subsumption of method org.apache.commons.compress.compressors.bzi
 ## DUAs: 378
 ## Subsumed DUAs: 84
 ## Edge DUA coverage: 22.22222222222222
-@@ org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.getAndMoveToFrontDecode,62,84,378,84,22.22222222222222,0,1
+@@ org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.getAndMoveToFrontDecode,62,84,378,84,22.22222222222222,0,2
 
 
 #org/apache/commons/compress/compressors/bzip2/BZip2CompressorInputStream/getAndMoveToFrontDecode:
-Local DUA-Edge subsumption of method org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.getAndMoveToFrontDecode  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.getAndMoveToFrontDecode  calculated in 0 minutes, 0 seconds, and 2 milliseconds
 
 #org/apache/commons/compress/compressors/bzip2/BZip2CompressorInputStream/getAndMoveToFrontDecode0:
 ## nodes: 10
@@ -2520,11 +2520,11 @@ Local DUA-Edge subsumption of method org.apache.commons.compress.compressors.bzi
 ## DUAs: 47
 ## Subsumed DUAs: 16
 ## Edge DUA coverage: 34.04255319148936
-@@ org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.getAndMoveToFrontDecode0,10,12,47,16,34.04255319148936,0,1
+@@ org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.getAndMoveToFrontDecode0,10,12,47,16,34.04255319148936,0,0
 
 
 #org/apache/commons/compress/compressors/bzip2/BZip2CompressorInputStream/getAndMoveToFrontDecode0:
-Local DUA-Edge subsumption of method org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.getAndMoveToFrontDecode0  calculated in 0 minutes, 0 seconds, and 1 milliseconds
+Local DUA-Edge subsumption of method org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.getAndMoveToFrontDecode0  calculated in 0 minutes, 0 seconds, and 0 milliseconds
 
 #org/apache/commons/compress/compressors/bzip2/BZip2CompressorInputStream/setupBlock:
 ## nodes: 16
@@ -2532,11 +2532,11 @@ Local DUA-Edge subsumption of method org.apache.commons.compress.compressors.bzi
 ## DUAs: 51
 ## Subsumed DUAs: 42
 ## Edge DUA coverage: 82.35294117647058
-@@ org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.setupBlock,16,21,51,42,82.35294117647058,0,0
+@@ org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.setupBlock,16,21,51,42,82.35294117647058,0,1
 
 
 #org/apache/commons/compress/compressors/bzip2/BZip2CompressorInputStream/setupBlock:
-Local DUA-Edge subsumption of method org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.setupBlock  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.setupBlock  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #org/apache/commons/compress/compressors/bzip2/BZip2CompressorInputStream/setupRandPartA:
 ## nodes: 12
@@ -2580,11 +2580,11 @@ Local DUA-Edge subsumption of method org.apache.commons.compress.compressors.bzi
 ## DUAs: 12
 ## Subsumed DUAs: 12
 ## Edge DUA coverage: 100.0
-@@ org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.setupRandPartC,5,5,12,12,100.0,0,0
+@@ org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.setupRandPartC,5,5,12,12,100.0,0,1
 
 
 #org/apache/commons/compress/compressors/bzip2/BZip2CompressorInputStream/setupRandPartC:
-Local DUA-Edge subsumption of method org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.setupRandPartC  calculated in 0 minutes, 0 seconds, and 0 milliseconds
+Local DUA-Edge subsumption of method org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.setupRandPartC  calculated in 0 minutes, 0 seconds, and 1 milliseconds
 
 #org/apache/commons/compress/compressors/bzip2/BZip2CompressorInputStream/setupNoRandPartB:
 ## nodes: 7
@@ -2610,4 +2610,4 @@ Local DUA-Edge subsumption of method org.apache.commons.compress.compressors.bzi
 #org/apache/commons/compress/compressors/bzip2/BZip2CompressorInputStream/setupNoRandPartC:
 Local DUA-Edge subsumption of method org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream.setupNoRandPartC  calculated in 0 minutes, 0 seconds, and 0 milliseconds
 217 methods had the edge subsumption relationship calculated in 0 minutes and 1 seconds
-Local DUA-Edge subsumption time (ms):1248
+Local DUA-Edge subsumption time (ms):1660

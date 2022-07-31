@@ -1,0 +1,73 @@
+{
+"Class" : "org.apache.commons.compress.archivers.cpio.CpioArchiveEntry", 
+"Methods" : [{ "Name" : "checkNewFormat" ,
+"Duas" : "4" ,
+"Subsumers" : 2,
+"0" : [ 2, 0], "S0" : [0, 2 ],
+"1" : [ 3, 1], "S1" : [1, 3 ]
+},{ "Name" : "checkOldFormat" ,
+"Duas" : "4" ,
+"Subsumers" : 2,
+"0" : [ 2, 0], "S0" : [0, 2 ],
+"1" : [ 3, 1], "S1" : [1, 3 ]
+},{ "Name" : "isBlockDevice" ,
+"Duas" : "4" ,
+"Subsumers" : 2,
+"0" : [ 2, 0], "S0" : [0, 2 ],
+"1" : [ 3, 1], "S1" : [1, 3 ]
+},{ "Name" : "isCharacterDevice" ,
+"Duas" : "4" ,
+"Subsumers" : 2,
+"0" : [ 2, 0], "S0" : [0, 2 ],
+"1" : [ 3, 1], "S1" : [1, 3 ]
+},{ "Name" : "isDirectory" ,
+"Duas" : "4" ,
+"Subsumers" : 2,
+"0" : [ 2, 0], "S0" : [0, 2 ],
+"1" : [ 3, 1], "S1" : [1, 3 ]
+},{ "Name" : "isNetwork" ,
+"Duas" : "4" ,
+"Subsumers" : 2,
+"0" : [ 2, 0], "S0" : [0, 2 ],
+"1" : [ 3, 1], "S1" : [1, 3 ]
+},{ "Name" : "isPipe" ,
+"Duas" : "4" ,
+"Subsumers" : 2,
+"0" : [ 2, 0], "S0" : [0, 2 ],
+"1" : [ 3, 1], "S1" : [1, 3 ]
+},{ "Name" : "isRegularFile" ,
+"Duas" : "4" ,
+"Subsumers" : 2,
+"0" : [ 2, 0], "S0" : [0, 2 ],
+"1" : [ 3, 1], "S1" : [1, 3 ]
+},{ "Name" : "isSocket" ,
+"Duas" : "4" ,
+"Subsumers" : 2,
+"0" : [ 2, 0], "S0" : [0, 2 ],
+"1" : [ 3, 1], "S1" : [1, 3 ]
+},{ "Name" : "isSymbolicLink" ,
+"Duas" : "4" ,
+"Subsumers" : 2,
+"0" : [ 2, 0], "S0" : [0, 2 ],
+"1" : [ 3, 1], "S1" : [1, 3 ]
+},{ "Name" : "setSize" ,
+"Duas" : "7" ,
+"Subsumers" : 3,
+"0" : [ 6, 5, 0], "S0" : [0, 1, 5, 6 ],
+"1" : [ 4], "S1" : [1, 3, 4 ],
+"2" : [ 2], "S2" : [2, 3 ]
+},{ "Name" : "setFormat" ,
+"Duas" : "13" ,
+"Subsumers" : 5,
+"0" : [ 12, 0, 1], "S0" : [0, 1, 12 ],
+"1" : [ 11, 2, 3], "S1" : [2, 3, 11 ],
+"2" : [ 10, 4, 5], "S2" : [4, 5, 10 ],
+"3" : [ 9, 6, 7], "S3" : [6, 7, 9 ],
+"4" : [ 8], "S4" : [8 ]
+},{ "Name" : "setMode" ,
+"Duas" : "5" ,
+"Subsumers" : 2,
+"0" : [ 4, 1], "S0" : [0, 1, 3, 4 ],
+"1" : [ 2], "S1" : [0, 2, 3 ]
+}]
+}
