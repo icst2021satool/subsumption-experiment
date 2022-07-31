@@ -1,0 +1,12 @@
+{
+"Class" : "org.jfree.chart.labels.StandardXYToolTipGenerator", 
+"Methods" : [{ "Name" : "equals" ,
+"Edges" : 7,
+"Duas" : 8,
+"0" : 5, 
+ "1" : 6, 
+ "3" : 5, 
+ "4" : 6, 
+ "5" : 3, 
+ "6" : 4}]
+}

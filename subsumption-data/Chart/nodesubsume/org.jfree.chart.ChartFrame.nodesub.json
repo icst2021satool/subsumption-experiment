@@ -1,0 +1,13 @@
+{
+"Class" : "org.jfree.chart.ChartFrame", 
+"Methods" : [{ "Name" : "<init>" ,
+"Nodes" : 5,
+"0" : [ ],
+"1" : [ 0, 4, 5],
+"3" : [ 1, 2, 3, 6],
+"2" : [ ],
+"4" : [ ],
+"CoveredDUAsByNodes" : 7,
+"Duas" : 7
+}]
+}

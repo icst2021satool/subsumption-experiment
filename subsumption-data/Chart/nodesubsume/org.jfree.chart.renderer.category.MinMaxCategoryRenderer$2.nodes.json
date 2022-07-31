@@ -1,0 +1,12 @@
+{
+"Class" : "org.jfree.chart.renderer.category.MinMaxCategoryRenderer$2", 
+"Methods" : [{ "Name" : "paintIcon" ,
+"Nodes" : 6,
+"0" : [ 516,517,518 ]
+"1" : [ 521 ]
+"2" : [ 524,525 ]
+"3" : [ 522 ]
+"4" : [ 519 ]
+"5" : [  ]
+}]
+}

@@ -1,0 +1,23 @@
+{
+"Class" : "org.jfree.chart.plot.junit.MultiplePiePlotTests", 
+"Methods" : [{ "Name" : "suite" ,
+"Duas" : 4,
+"0" :  "(89,(89,89), class$org$jfree$chart$plot$junit$MultiplePiePlotTests)",
+"1" :  "(89,(89,89), class$org$jfree$chart$plot$junit$MultiplePiePlotTests)",
+"2" :  "(89,89, class$org$jfree$chart$plot$junit$MultiplePiePlotTests)",
+"3" :  "(89,89, class$org$jfree$chart$plot$junit$MultiplePiePlotTests)"},{ "Name" : "testCloning" ,
+"Duas" : 13,
+"0" :  "(171,(181,181), p1)",
+"1" :  "(171,(181,181), p1)",
+"2" :  "(171,(182,182), p1)",
+"3" :  "(171,(182,182), p1)",
+"4" :  "(171,183, p1)",
+"5" :  "(171,187, p1)",
+"6" :  "(172,186, rect)",
+"7" :  "(176,(181,181), p2)",
+"8" :  "(176,(181,181), p2)",
+"9" :  "(176,(182,182), p2)",
+"10" :  "(176,(182,182), p2)",
+"11" :  "(176,183, p2)",
+"12" :  "(176,187, p2)"}]
+}

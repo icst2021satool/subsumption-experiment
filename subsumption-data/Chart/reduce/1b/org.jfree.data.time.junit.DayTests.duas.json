@@ -1,0 +1,14 @@
+{
+"Class" : "org.jfree.data.time.junit.DayTests", 
+"Methods" : [{ "Name" : "suite" ,
+"Duas" : 4,
+"0" :  "(85,(85,85), class$org$jfree$data$time$junit$DayTests)",
+"1" :  "(85,(85,85), class$org$jfree$data$time$junit$DayTests)",
+"2" :  "(85,85, class$org$jfree$data$time$junit$DayTests)",
+"3" :  "(85,85, class$org$jfree$data$time$junit$DayTests)"},{ "Name" : "testParseDay" ,
+"Duas" : 4,
+"0" :  "(221,(224,226), gc)",
+"1" :  "(221,(224,231), gc)",
+"2" :  "(223,(224,226), reference)",
+"3" :  "(223,(224,231), reference)"}]
+}

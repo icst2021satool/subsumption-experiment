@@ -1,0 +1,18 @@
+{
+"Class" : "org.jfree.chart.util.junit.HashUtilitiesTests", 
+"Methods" : [{ "Name" : "suite" ,
+"Duas" : 4,
+"0" :  "(60,(60,60), class$org$jfree$chart$util$junit$HashUtilitiesTests)",
+"1" :  "(60,(60,60), class$org$jfree$chart$util$junit$HashUtilitiesTests)",
+"2" :  "(60,60, class$org$jfree$chart$util$junit$HashUtilitiesTests)",
+"3" :  "(60,60, class$org$jfree$chart$util$junit$HashUtilitiesTests)"},{ "Name" : "testHashCodeForDoubleArray" ,
+"Duas" : 8,
+"0" :  "(78,(80,80), h1)",
+"1" :  "(78,(80,80), h1)",
+"2" :  "(78,(84,84), h1)",
+"3" :  "(78,(84,84), h1)",
+"4" :  "(79,(80,80), h2)",
+"5" :  "(79,(80,80), h2)",
+"6" :  "(83,(84,84), h3)",
+"7" :  "(83,(84,84), h3)"}]
+}

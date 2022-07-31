@@ -1,0 +1,18 @@
+{
+"Class" : "org.jfree.data.xml.KeyHandler", 
+"Methods" : [{ "Name" : "startElement" ,
+"Edges" : 4,
+"Duas" : 4,
+"1" : 0, 
+ "2" : 1},{ "Name" : "endElement" ,
+"Edges" : 4,
+"Duas" : 12,
+"4" : 0, 
+ "5" : 1},{ "Name" : "characters" ,
+"Edges" : 4,
+"Duas" : 9,
+"0" : 1, 
+ "1" : 2, 
+ "6" : 1, 
+ "7" : 2}]
+}

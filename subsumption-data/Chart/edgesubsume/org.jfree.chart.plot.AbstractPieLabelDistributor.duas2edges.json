@@ -1,0 +1,8 @@
+{
+"Class" : "org.jfree.chart.plot.AbstractPieLabelDistributor", 
+"Methods" : [{ "Name" : "addPieLabelRecord" ,
+"Edges" : 4,
+"Duas" : 5,
+"1" : 0, 
+ "2" : 1}]
+}

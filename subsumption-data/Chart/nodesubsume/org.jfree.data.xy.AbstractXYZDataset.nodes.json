@@ -1,0 +1,10 @@
+{
+"Class" : "org.jfree.data.xy.AbstractXYZDataset", 
+"Methods" : [{ "Name" : "getZValue" ,
+"Nodes" : 4,
+"0" : [ 60,61,62 ]
+"1" : [ 65 ]
+"2" : [ 63 ]
+"3" : [  ]
+}]
+}

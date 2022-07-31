@@ -1,0 +1,20 @@
+{
+"Class" : "org.jfree.data.xy.AbstractIntervalXYDataset", 
+"Methods" : [{ "Name" : "getStartXValue" ,
+"Edges" : 4,
+"Duas" : 5,
+"1" : 1, 
+ "2" : 2},{ "Name" : "getEndXValue" ,
+"Edges" : 4,
+"Duas" : 5,
+"1" : 0, 
+ "2" : 1},{ "Name" : "getStartYValue" ,
+"Edges" : 4,
+"Duas" : 5,
+"1" : 2, 
+ "2" : 3},{ "Name" : "getEndYValue" ,
+"Edges" : 4,
+"Duas" : 5,
+"1" : 2, 
+ "2" : 3}]
+}

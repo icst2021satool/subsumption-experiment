@@ -1,0 +1,9 @@
+{
+"Class" : "org.jfree.chart.renderer.junit.RendererUtilitiesTests", 
+"Methods" : [{ "Name" : "suite" ,
+"Duas" : 4,
+"0" :  "(62,(62,62), class$org$jfree$chart$renderer$junit$RendererUtilitiesTests)",
+"1" :  "(62,(62,62), class$org$jfree$chart$renderer$junit$RendererUtilitiesTests)",
+"2" :  "(62,62, class$org$jfree$chart$renderer$junit$RendererUtilitiesTests)",
+"3" :  "(62,62, class$org$jfree$chart$renderer$junit$RendererUtilitiesTests)"}]
+}

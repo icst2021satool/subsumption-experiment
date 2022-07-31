@@ -1,0 +1,20 @@
+{
+"Class" : "org.jfree.chart.plot.junit.RingPlotTests", 
+"Methods" : [{ "Name" : "suite" ,
+"Duas" : 4,
+"0" :  "(72,(72,72), class$org$jfree$chart$plot$junit$RingPlotTests)",
+"1" :  "(72,(72,72), class$org$jfree$chart$plot$junit$RingPlotTests)",
+"2" :  "(72,72, class$org$jfree$chart$plot$junit$RingPlotTests)",
+"3" :  "(72,72, class$org$jfree$chart$plot$junit$RingPlotTests)"},{ "Name" : "testCloning" ,
+"Duas" : 10,
+"0" :  "(139,(150,150), p1)",
+"1" :  "(139,(150,150), p1)",
+"2" :  "(139,(151,151), p1)",
+"3" :  "(139,(151,151), p1)",
+"4" :  "(139,152, p1)",
+"5" :  "(145,(150,150), p2)",
+"6" :  "(145,(150,150), p2)",
+"7" :  "(145,(151,151), p2)",
+"8" :  "(145,(151,151), p2)",
+"9" :  "(145,152, p2)"}]
+}

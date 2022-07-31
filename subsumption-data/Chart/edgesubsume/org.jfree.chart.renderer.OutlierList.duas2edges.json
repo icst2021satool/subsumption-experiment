@@ -1,0 +1,12 @@
+{
+"Class" : "org.jfree.chart.renderer.OutlierList", 
+"Methods" : [{ "Name" : "isOverlapped" ,
+"Edges" : 4,
+"Duas" : 4,
+"1" : 1, 
+ "2" : 2},{ "Name" : "updateAveragedOutlier" ,
+"Edges" : 5,
+"Duas" : 13,
+"6" : 1, 
+ "7" : 2}]
+}

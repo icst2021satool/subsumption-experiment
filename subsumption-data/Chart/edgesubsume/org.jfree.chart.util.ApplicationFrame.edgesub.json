@@ -1,0 +1,12 @@
+{
+"Class" : "org.jfree.chart.util.ApplicationFrame", 
+"Methods" : [{ "Name" : "windowClosing" ,
+"Edges" : 4,
+"2" : [ 0, 2, 3],
+"3" : [ 1, 4],
+"0" : [ 0, 2, 3],
+"1" : [ ],
+"CoveredDUAsByEdges" : 5,
+"Duas" : 5
+}]
+}

@@ -1,0 +1,17 @@
+{
+"Class" : "org.jfree.chart.ui.StrokeSample", 
+"Methods" : [{ "Name" : "paintComponent" ,
+"Nodes" : 5,
+"0" : [ 128,129,131,132,134,135,136,137,140,141,118,119,121,122,123,124,125,126 ]
+"1" : [ 145 ]
+"2" : [ 147,149 ]
+"3" : [ 142 ]
+"4" : [  ]
+},{ "Name" : "getListCellRendererComponent" ,
+"Nodes" : 4,
+"0" : [ 165 ]
+"1" : [ 169 ]
+"2" : [ 166,167 ]
+"3" : [  ]
+}]
+}

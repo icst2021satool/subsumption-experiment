@@ -1,0 +1,14 @@
+{
+"Class" : "org.jfree.chart.axis.junit.LogarithmicAxisTests", 
+"Methods" : [{ "Name" : "suite" ,
+"Duas" : 4,
+"0" :  "(96,(96,96), class$org$jfree$chart$axis$junit$LogarithmicAxisTests)",
+"1" :  "(96,(96,96), class$org$jfree$chart$axis$junit$LogarithmicAxisTests)",
+"2" :  "(96,96, class$org$jfree$chart$axis$junit$LogarithmicAxisTests)",
+"3" :  "(96,96, class$org$jfree$chart$axis$junit$LogarithmicAxisTests)"},{ "Name" : "main" ,
+"Duas" : 4,
+"0" :  "(291,(291,291), class$org$jfree$chart$axis$junit$LogarithmicAxisTests)",
+"1" :  "(291,(291,291), class$org$jfree$chart$axis$junit$LogarithmicAxisTests)",
+"2" :  "(291,291, class$org$jfree$chart$axis$junit$LogarithmicAxisTests)",
+"3" :  "(291,291, class$org$jfree$chart$axis$junit$LogarithmicAxisTests)"}]
+}

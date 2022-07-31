@@ -1,0 +1,10 @@
+{
+"Class" : "org.jfree.chart.editor.ChartEditorManager", 
+"Methods" : [{ "Name" : "setChartEditorFactory" ,
+"Nodes" : 4,
+"0" : [ 78 ]
+"1" : [ 81,82 ]
+"2" : [ 79 ]
+"3" : [  ]
+}]
+}

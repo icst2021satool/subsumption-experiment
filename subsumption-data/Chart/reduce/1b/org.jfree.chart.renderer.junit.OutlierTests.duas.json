@@ -1,0 +1,9 @@
+{
+"Class" : "org.jfree.chart.renderer.junit.OutlierTests", 
+"Methods" : [{ "Name" : "suite" ,
+"Duas" : 4,
+"0" :  "(64,(64,64), class$org$jfree$chart$renderer$junit$OutlierTests)",
+"1" :  "(64,(64,64), class$org$jfree$chart$renderer$junit$OutlierTests)",
+"2" :  "(64,64, class$org$jfree$chart$renderer$junit$OutlierTests)",
+"3" :  "(64,64, class$org$jfree$chart$renderer$junit$OutlierTests)"}]
+}

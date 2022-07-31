@@ -1,0 +1,14 @@
+{
+"Class" : "org.jfree.chart.JFreeChartInfo", 
+"Methods" : [{ "Name" : "getLogo" ,
+"Edges" : 6,
+"4" : [ 0, 2],
+"5" : [ 3, 4],
+"1" : [ 0, 1, 2, 5, 7],
+"2" : [ 4, 6],
+"3" : [ 0, 1, 2, 5, 7],
+"0" : [ ],
+"CoveredDUAsByEdges" : 8,
+"Duas" : 9
+}]
+}

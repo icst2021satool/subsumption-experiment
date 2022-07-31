@@ -1,0 +1,12 @@
+{
+"Class" : "org.jfree.data.time.ohlc.OHLCSeries", 
+"Methods" : [{ "Name" : "add" ,
+"Edges" : 6,
+"Duas" : 13,
+"0" : 4, 
+ "1" : 5, 
+ "5" : 2, 
+ "6" : 3, 
+ "11" : 2, 
+ "12" : 3}]
+}

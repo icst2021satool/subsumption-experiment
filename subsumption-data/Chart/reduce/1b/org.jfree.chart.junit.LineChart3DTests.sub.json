@@ -1,0 +1,26 @@
+{
+"Class" : "org.jfree.chart.junit.LineChart3DTests", 
+"Methods" : [{ "Name" : "suite" ,
+"Duas" : "4" ,
+"Subsumers" : 2,
+"0" : [ 3, 0], "S0" : [0, 3 ],
+"1" : [ 2, 1], "S1" : [1, 2 ]
+},{ "Name" : "testReplaceDataset" ,
+"Duas" : "6" ,
+"Subsumers" : 4,
+"0" : [ 0], "S0" : [0, 2, 5 ],
+"1" : [ 1], "S1" : [1, 2, 5 ],
+"2" : [ 3], "S2" : [2, 3, 5 ],
+"3" : [ 4], "S3" : [2, 4, 5 ]
+},{ "Name" : "testSetSeriesToolTipGenerator" ,
+"Duas" : "4" ,
+"Subsumers" : 2,
+"0" : [ 2, 0], "S0" : [0, 2 ],
+"1" : [ 3, 1], "S1" : [1, 3 ]
+},{ "Name" : "testSetSeriesURLGenerator" ,
+"Duas" : "4" ,
+"Subsumers" : 2,
+"0" : [ 2, 0], "S0" : [0, 2 ],
+"1" : [ 3, 1], "S1" : [1, 3 ]
+}]
+}

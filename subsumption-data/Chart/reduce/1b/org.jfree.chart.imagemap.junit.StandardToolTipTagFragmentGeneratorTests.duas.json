@@ -1,0 +1,9 @@
+{
+"Class" : "org.jfree.chart.imagemap.junit.StandardToolTipTagFragmentGeneratorTests", 
+"Methods" : [{ "Name" : "suite" ,
+"Duas" : 4,
+"0" :  "(60,(60,60), class$org$jfree$chart$imagemap$junit$StandardToolTipTagFragmentGeneratorTests)",
+"1" :  "(60,(60,60), class$org$jfree$chart$imagemap$junit$StandardToolTipTagFragmentGeneratorTests)",
+"2" :  "(60,60, class$org$jfree$chart$imagemap$junit$StandardToolTipTagFragmentGeneratorTests)",
+"3" :  "(60,60, class$org$jfree$chart$imagemap$junit$StandardToolTipTagFragmentGeneratorTests)"}]
+}

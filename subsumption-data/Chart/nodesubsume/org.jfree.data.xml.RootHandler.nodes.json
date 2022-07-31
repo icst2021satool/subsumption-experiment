@@ -1,0 +1,18 @@
+{
+"Class" : "org.jfree.data.xml.RootHandler", 
+"Methods" : [{ "Name" : "characters" ,
+"Nodes" : 4,
+"0" : [ 83,84 ]
+"1" : [ 87 ]
+"2" : [ 85 ]
+"3" : [  ]
+},{ "Name" : "getCurrentHandler" ,
+"Nodes" : 6,
+"0" : [ 96,95 ]
+"1" : [ 104 ]
+"2" : [ 97 ]
+"3" : [ 98,99 ]
+"4" : [ 100 ]
+"5" : [  ]
+}]
+}

@@ -1,0 +1,20 @@
+{
+"Class" : "org.jfree.chart.plot.junit.ThermometerPlotTests", 
+"Methods" : [{ "Name" : "suite" ,
+"Duas" : 4,
+"0" :  "(78,(78,78), class$org$jfree$chart$plot$junit$ThermometerPlotTests)",
+"1" :  "(78,(78,78), class$org$jfree$chart$plot$junit$ThermometerPlotTests)",
+"2" :  "(78,78, class$org$jfree$chart$plot$junit$ThermometerPlotTests)",
+"3" :  "(78,78, class$org$jfree$chart$plot$junit$ThermometerPlotTests)"},{ "Name" : "testCloning" ,
+"Duas" : 10,
+"0" :  "(198,(206,206), p1)",
+"1" :  "(198,(206,206), p1)",
+"2" :  "(198,(207,207), p1)",
+"3" :  "(198,(207,207), p1)",
+"4" :  "(198,208, p1)",
+"5" :  "(201,(206,206), p2)",
+"6" :  "(201,(206,206), p2)",
+"7" :  "(201,(207,207), p2)",
+"8" :  "(201,(207,207), p2)",
+"9" :  "(201,208, p2)"}]
+}

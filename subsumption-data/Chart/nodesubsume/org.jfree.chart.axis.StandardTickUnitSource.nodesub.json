@@ -1,0 +1,12 @@
+{
+"Class" : "org.jfree.chart.axis.StandardTickUnitSource", 
+"Methods" : [{ "Name" : "equals" ,
+"Nodes" : 4,
+"0" : [ ],
+"1" : [ 1, 3, 4],
+"2" : [ 0, 2],
+"3" : [ ],
+"CoveredDUAsByNodes" : 5,
+"Duas" : 5
+}]
+}

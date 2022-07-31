@@ -1,0 +1,14 @@
+{
+"Class" : "org.jfree.chart.axis.junit.AxisLocationTests", 
+"Methods" : [{ "Name" : "suite" ,
+"Duas" : 4,
+"0" :  "(68,(68,68), class$org$jfree$chart$axis$junit$AxisLocationTests)",
+"1" :  "(68,(68,68), class$org$jfree$chart$axis$junit$AxisLocationTests)",
+"2" :  "(68,68, class$org$jfree$chart$axis$junit$AxisLocationTests)",
+"3" :  "(68,68, class$org$jfree$chart$axis$junit$AxisLocationTests)"},{ "Name" : "testSerialization" ,
+"Duas" : 4,
+"0" :  "(107,(124,124), location1)",
+"1" :  "(107,(124,124), location1)",
+"2" :  "(117,(124,124), location2)",
+"3" :  "(117,(124,124), location2)"}]
+}

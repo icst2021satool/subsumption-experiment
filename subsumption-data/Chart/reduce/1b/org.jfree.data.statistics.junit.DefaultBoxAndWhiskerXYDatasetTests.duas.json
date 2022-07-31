@@ -1,0 +1,23 @@
+{
+"Class" : "org.jfree.data.statistics.junit.DefaultBoxAndWhiskerXYDatasetTests", 
+"Methods" : [{ "Name" : "suite" ,
+"Duas" : 4,
+"0" :  "(71,(71,71), class$org$jfree$data$statistics$junit$DefaultBoxAndWhiskerXYDatasetTests)",
+"1" :  "(71,(71,71), class$org$jfree$data$statistics$junit$DefaultBoxAndWhiskerXYDatasetTests)",
+"2" :  "(71,71, class$org$jfree$data$statistics$junit$DefaultBoxAndWhiskerXYDatasetTests)",
+"3" :  "(71,71, class$org$jfree$data$statistics$junit$DefaultBoxAndWhiskerXYDatasetTests)"},{ "Name" : "testCloning" ,
+"Duas" : 13,
+"0" :  "(138,(149,149), d1)",
+"1" :  "(138,(149,149), d1)",
+"2" :  "(138,(150,150), d1)",
+"3" :  "(138,(150,150), d1)",
+"4" :  "(138,151, d1)",
+"5" :  "(138,154, d1)",
+"6" :  "(138,156, d1)",
+"7" :  "(144,(149,149), d2)",
+"8" :  "(144,(149,149), d2)",
+"9" :  "(144,(150,150), d2)",
+"10" :  "(144,(150,150), d2)",
+"11" :  "(144,151, d2)",
+"12" :  "(144,156, d2)"}]
+}

@@ -1,0 +1,16 @@
+{
+"Class" : "org.jfree.data.xy.XIntervalDataItem", 
+"Methods" : [{ "Name" : "getYValue" ,
+"Edges" : 4,
+"Duas" : 3,
+"0" : 1, 
+ "1" : 2},{ "Name" : "getXLowValue" ,
+"Edges" : 4,
+"Duas" : 3,
+"0" : 1, 
+ "1" : 2},{ "Name" : "getXHighValue" ,
+"Edges" : 4,
+"Duas" : 3,
+"0" : 0, 
+ "1" : 1}]
+}

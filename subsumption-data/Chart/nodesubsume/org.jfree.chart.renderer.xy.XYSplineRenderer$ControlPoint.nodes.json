@@ -1,0 +1,14 @@
+{
+"Class" : "org.jfree.chart.renderer.xy.XYSplineRenderer$ControlPoint", 
+"Methods" : [{ "Name" : "equals" ,
+"Nodes" : 8,
+"0" : [ 355 ]
+"1" : [ 358 ]
+"2" : [ 361,362 ]
+"3" : [ 366 ]
+"4" : [ 363 ]
+"5" : [ 359 ]
+"6" : [ 356 ]
+"7" : [  ]
+}]
+}

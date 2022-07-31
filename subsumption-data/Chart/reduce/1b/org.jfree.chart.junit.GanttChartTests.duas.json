@@ -1,0 +1,19 @@
+{
+"Class" : "org.jfree.chart.junit.GanttChartTests", 
+"Methods" : [{ "Name" : "suite" ,
+"Duas" : 4,
+"0" :  "(85,(85,85), class$org$jfree$chart$junit$GanttChartTests)",
+"1" :  "(85,(85,85), class$org$jfree$chart$junit$GanttChartTests)",
+"2" :  "(85,85, class$org$jfree$chart$junit$GanttChartTests)",
+"3" :  "(85,85, class$org$jfree$chart$junit$GanttChartTests)"},{ "Name" : "testSetSeriesToolTipGenerator" ,
+"Duas" : 4,
+"0" :  "(163,(168,168), tt)",
+"1" :  "(163,(168,168), tt)",
+"2" :  "(166,(168,168), tt2)",
+"3" :  "(166,(168,168), tt2)"},{ "Name" : "testSetSeriesURLGenerator" ,
+"Duas" : 4,
+"0" :  "(178,(182,182), url1)",
+"1" :  "(178,(182,182), url1)",
+"2" :  "(181,(182,182), url2)",
+"3" :  "(181,(182,182), url2)"}]
+}

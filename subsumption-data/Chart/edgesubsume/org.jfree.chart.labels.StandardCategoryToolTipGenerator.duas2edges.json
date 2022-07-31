@@ -1,0 +1,12 @@
+{
+"Class" : "org.jfree.chart.labels.StandardCategoryToolTipGenerator", 
+"Methods" : [{ "Name" : "equals" ,
+"Edges" : 7,
+"Duas" : 8,
+"0" : 5, 
+ "1" : 6, 
+ "3" : 5, 
+ "4" : 6, 
+ "5" : 0, 
+ "6" : 1}]
+}

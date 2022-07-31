@@ -1,0 +1,8 @@
+{
+"Class" : "org.jfree.chart.editor.ChartEditorManager", 
+"Methods" : [{ "Name" : "setChartEditorFactory" ,
+"Duas" : 3,
+"0" :  "(78,(78,79), f)",
+"1" :  "(78,(78,81), f)",
+"2" :  "(78,81, f)"}]
+}

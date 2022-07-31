@@ -1,0 +1,9 @@
+{
+"Class" : "org.jfree.data.time.DynamicTimeSeriesCollection$ValueSequence", 
+"Methods" : [{ "Name" : "<init>" ,
+"Duas" : "12" ,
+"Subsumers" : 2,
+"0" : [ 10, 11, 8], "S0" : [0, 1, 2, 3, 4, 6, 7, 8, 9, 10, 11 ],
+"1" : [ 5], "S1" : [2, 5 ]
+}]
+}

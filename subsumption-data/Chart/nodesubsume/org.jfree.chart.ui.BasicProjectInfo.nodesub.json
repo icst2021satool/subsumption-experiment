@@ -1,0 +1,39 @@
+{
+"Class" : "org.jfree.chart.ui.BasicProjectInfo", 
+"Methods" : [{ "Name" : "addLibrary" ,
+"Nodes" : 4,
+"0" : [ ],
+"1" : [ 0, 2, 3, 4],
+"2" : [ 1],
+"3" : [ ],
+"CoveredDUAsByNodes" : 5,
+"Duas" : 5
+},{ "Name" : "getOptionalLibraries" ,
+"Nodes" : 7,
+"0" : [ ],
+"1" : [ ],
+"2" : [ 1, 4, 6],
+"6" : [ 1, 4, 6],
+"3" : [ 0, 2, 3, 5, 8, 10],
+"5" : [ 0, 2, 3, 5, 7, 8, 10, 12, 14],
+"4" : [ 0, 2, 3, 5, 8, 10, 11],
+"CoveredDUAsByNodes" : 13,
+"Duas" : 19
+},{ "Name" : "addOptionalLibrary" ,
+"Nodes" : 4,
+"0" : [ ],
+"1" : [ 0, 2, 3, 4],
+"2" : [ 1],
+"3" : [ ],
+"CoveredDUAsByNodes" : 5,
+"Duas" : 5
+},{ "Name" : "addOptionalLibrary" ,
+"Nodes" : 4,
+"0" : [ ],
+"1" : [ 0, 2, 3, 4],
+"2" : [ 1],
+"3" : [ ],
+"CoveredDUAsByNodes" : 5,
+"Duas" : 5
+}]
+}

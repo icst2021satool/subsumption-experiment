@@ -1,0 +1,20 @@
+{
+"Class" : "org.jfree.chart.renderer.xy.junit.XYStepRendererTests", 
+"Methods" : [{ "Name" : "suite" ,
+"Duas" : 4,
+"0" :  "(75,(75,75), class$org$jfree$chart$renderer$xy$junit$XYStepRendererTests)",
+"1" :  "(75,(75,75), class$org$jfree$chart$renderer$xy$junit$XYStepRendererTests)",
+"2" :  "(75,75, class$org$jfree$chart$renderer$xy$junit$XYStepRendererTests)",
+"3" :  "(75,75, class$org$jfree$chart$renderer$xy$junit$XYStepRendererTests)"},{ "Name" : "testCloning" ,
+"Duas" : 10,
+"0" :  "(125,(133,133), r1)",
+"1" :  "(125,(133,133), r1)",
+"2" :  "(125,(134,134), r1)",
+"3" :  "(125,(134,134), r1)",
+"4" :  "(125,135, r1)",
+"5" :  "(128,(133,133), r2)",
+"6" :  "(128,(133,133), r2)",
+"7" :  "(128,(134,134), r2)",
+"8" :  "(128,(134,134), r2)",
+"9" :  "(128,135, r2)"}]
+}

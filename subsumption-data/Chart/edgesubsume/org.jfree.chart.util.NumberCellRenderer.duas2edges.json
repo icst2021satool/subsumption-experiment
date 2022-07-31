@@ -1,0 +1,10 @@
+{
+"Class" : "org.jfree.chart.util.NumberCellRenderer", 
+"Methods" : [{ "Name" : "getTableCellRendererComponent" ,
+"Edges" : 9,
+"Duas" : 12,
+"6" : 7, 
+ "7" : 8, 
+ "9" : 4, 
+ "10" : 5}]
+}

@@ -1,0 +1,9 @@
+{
+"Class" : "org.jfree.data.junit.RangeTests", 
+"Methods" : [{ "Name" : "suite" ,
+"Duas" : 4,
+"0" :  "(68,(68,68), class$org$jfree$data$junit$RangeTests)",
+"1" :  "(68,(68,68), class$org$jfree$data$junit$RangeTests)",
+"2" :  "(68,68, class$org$jfree$data$junit$RangeTests)",
+"3" :  "(68,68, class$org$jfree$data$junit$RangeTests)"}]
+}

@@ -1,0 +1,12 @@
+{
+"Class" : "org.jfree.data.xy.AbstractXYDataset", 
+"Methods" : [{ "Name" : "getXValue" ,
+"Edges" : 4,
+"Duas" : 5,
+"1" : 2, 
+ "2" : 3},{ "Name" : "getYValue" ,
+"Edges" : 4,
+"Duas" : 5,
+"1" : 1, 
+ "2" : 2}]
+}

@@ -1,0 +1,16 @@
+{
+"Class" : "org.jfree.chart.util.HexNumberFormat", 
+"Methods" : [{ "Name" : "format" ,
+"Nodes" : 8,
+"0" : [ ],
+"1" : [ 2],
+"6" : [ 1],
+"2" : [ 3],
+"3" : [ 3],
+"4" : [ 0, 3, 5, 6, 7],
+"7" : [ 0, 3, 5, 6, 7],
+"5" : [ 3, 4, 8, 9, 11],
+"CoveredDUAsByNodes" : 11,
+"Duas" : 15
+}]
+}

@@ -1,0 +1,16 @@
+{
+"Class" : "org.jfree.data.xy.AbstractXYDataset", 
+"Methods" : [{ "Name" : "getXValue" ,
+"Duas" : 5,
+"0" :  "(76,81, result)",
+"1" :  "(77,(78,79), x)",
+"2" :  "(77,(78,81), x)",
+"3" :  "(77,79, x)",
+"4" :  "(79,81, result)"},{ "Name" : "getYValue" ,
+"Duas" : 5,
+"0" :  "(93,98, result)",
+"1" :  "(94,(95,96), y)",
+"2" :  "(94,(95,98), y)",
+"3" :  "(94,96, y)",
+"4" :  "(96,98, result)"}]
+}

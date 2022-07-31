@@ -1,0 +1,16 @@
+{
+"Class" : "org.jfree.chart.encoders.SunJPEGEncoderAdapter", 
+"Methods" : [{ "Name" : "setQuality" ,
+"Edges" : 6,
+"Duas" : 6,
+"1" : 3, 
+ "2" : 4, 
+ "3" : 0, 
+ "4" : 1},{ "Name" : "encode" ,
+"Edges" : 7,
+"Duas" : 8,
+"1" : 1, 
+ "2" : 2, 
+ "4" : 5, 
+ "5" : 6}]
+}

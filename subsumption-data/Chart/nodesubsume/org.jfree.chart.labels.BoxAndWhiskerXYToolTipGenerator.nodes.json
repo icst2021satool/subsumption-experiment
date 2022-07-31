@@ -1,0 +1,21 @@
+{
+"Class" : "org.jfree.chart.labels.BoxAndWhiskerXYToolTipGenerator", 
+"Methods" : [{ "Name" : "createItemArray" ,
+"Nodes" : 7,
+"0" : [ 128,129,130,127 ]
+"1" : [ 134 ]
+"2" : [ 136,138 ]
+"3" : [ 147 ]
+"4" : [ 144,145,139,140,141,142,143 ]
+"5" : [ 131 ]
+"6" : [  ]
+},{ "Name" : "equals" ,
+"Nodes" : 6,
+"0" : [ 158 ]
+"1" : [ 161 ]
+"2" : [ 164 ]
+"3" : [ 162 ]
+"4" : [ 159 ]
+"5" : [  ]
+}]
+}

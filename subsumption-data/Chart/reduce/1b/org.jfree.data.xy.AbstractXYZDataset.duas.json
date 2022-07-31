@@ -1,0 +1,10 @@
+{
+"Class" : "org.jfree.data.xy.AbstractXYZDataset", 
+"Methods" : [{ "Name" : "getZValue" ,
+"Duas" : 5,
+"0" :  "(60,65, result)",
+"1" :  "(61,(62,63), z)",
+"2" :  "(61,(62,65), z)",
+"3" :  "(61,63, z)",
+"4" :  "(63,65, result)"}]
+}

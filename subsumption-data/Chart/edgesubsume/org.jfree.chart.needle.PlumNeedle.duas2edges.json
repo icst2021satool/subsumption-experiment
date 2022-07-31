@@ -1,0 +1,22 @@
+{
+"Class" : "org.jfree.chart.needle.PlumNeedle", 
+"Methods" : [{ "Name" : "drawNeedle" ,
+"Edges" : 6,
+"Duas" : 12,
+"4" : 2, 
+ "5" : 3, 
+ "7" : 0, 
+ "8" : 1},{ "Name" : "equals" ,
+"Edges" : 10,
+"Duas" : 10,
+"0" : 7, 
+ "1" : 8, 
+ "2" : 2, 
+ "3" : 3, 
+ "4" : 7, 
+ "5" : 8, 
+ "6" : 5, 
+ "7" : 6, 
+ "8" : 2, 
+ "9" : 3}]
+}

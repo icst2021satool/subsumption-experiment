@@ -1,0 +1,12 @@
+{
+"Class" : "org.jfree.chart.encoders.SunPNGEncoderAdapter", 
+"Methods" : [{ "Name" : "encode" ,
+"Nodes" : 6,
+"0" : [ 121 ]
+"1" : [ 124 ]
+"2" : [ 128,127 ]
+"3" : [ 125 ]
+"4" : [ 122 ]
+"5" : [  ]
+}]
+}

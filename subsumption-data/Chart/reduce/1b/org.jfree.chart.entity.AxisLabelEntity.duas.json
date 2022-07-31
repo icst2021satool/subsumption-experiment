@@ -1,0 +1,9 @@
+{
+"Class" : "org.jfree.chart.entity.AxisLabelEntity", 
+"Methods" : [{ "Name" : "<init>" ,
+"Duas" : 4,
+"0" :  "(68,72, this)",
+"1" :  "(68,(69,70), axis)",
+"2" :  "(68,(69,72), axis)",
+"3" :  "(68,72, axis)"}]
+}

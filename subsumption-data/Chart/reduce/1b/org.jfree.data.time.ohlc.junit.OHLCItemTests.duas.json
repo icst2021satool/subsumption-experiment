@@ -1,0 +1,20 @@
+{
+"Class" : "org.jfree.data.time.ohlc.junit.OHLCItemTests", 
+"Methods" : [{ "Name" : "suite" ,
+"Duas" : 4,
+"0" :  "(68,(68,68), class$org$jfree$data$time$ohlc$junit$OHLCItemTests)",
+"1" :  "(68,(68,68), class$org$jfree$data$time$ohlc$junit$OHLCItemTests)",
+"2" :  "(68,68, class$org$jfree$data$time$ohlc$junit$OHLCItemTests)",
+"3" :  "(68,68, class$org$jfree$data$time$ohlc$junit$OHLCItemTests)"},{ "Name" : "testCloning" ,
+"Duas" : 10,
+"0" :  "(138,(146,146), item1)",
+"1" :  "(138,(146,146), item1)",
+"2" :  "(138,(147,147), item1)",
+"3" :  "(138,(147,147), item1)",
+"4" :  "(138,148, item1)",
+"5" :  "(141,(146,146), item2)",
+"6" :  "(141,(146,146), item2)",
+"7" :  "(141,(147,147), item2)",
+"8" :  "(141,(147,147), item2)",
+"9" :  "(141,148, item2)"}]
+}

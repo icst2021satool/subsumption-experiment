@@ -1,0 +1,24 @@
+{
+"Class" : "org.jfree.data.xml.PieDatasetHandler", 
+"Methods" : [{ "Name" : "startElement" ,
+"Nodes" : 8,
+"0" : [ ],
+"1" : [ 1, 18],
+"2" : [ 1, 18, 10],
+"4" : [ 1, 2, 18, 3, 5, 7, 10, 11, 13, 15],
+"5" : [ 1, 18, 4, 9],
+"6" : [ 0, 16, 17, 19, 6, 8, 14],
+"3" : [ ],
+"7" : [ ],
+"CoveredDUAsByNodes" : 19,
+"Duas" : 20
+},{ "Name" : "endElement" ,
+"Nodes" : 4,
+"0" : [ ],
+"2" : [ 0, 2, 3, 4, 5, 7],
+"1" : [ ],
+"3" : [ ],
+"CoveredDUAsByNodes" : 6,
+"Duas" : 8
+}]
+}

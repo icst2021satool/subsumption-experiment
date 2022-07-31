@@ -1,0 +1,11 @@
+{
+"Class" : "org.jfree.chart.JFreeChartInfo", 
+"Methods" : [{ "Name" : "getLogo" ,
+"Nodes" : 5,
+"0" : [ 1881,1882 ]
+"1" : [ 1892 ]
+"2" : [ 1883,1885 ]
+"3" : [ 1888,1889,1886 ]
+"4" : [  ]
+}]
+}

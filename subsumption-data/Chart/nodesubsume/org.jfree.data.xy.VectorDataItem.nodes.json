@@ -1,0 +1,16 @@
+{
+"Class" : "org.jfree.data.xy.VectorDataItem", 
+"Methods" : [{ "Name" : "getVectorX" ,
+"Nodes" : 4,
+"0" : [ 103,104 ]
+"1" : [ 108 ]
+"2" : [ 105 ]
+"3" : [  ]
+},{ "Name" : "getVectorY" ,
+"Nodes" : 4,
+"0" : [ 118,119 ]
+"1" : [ 123 ]
+"2" : [ 120 ]
+"3" : [  ]
+}]
+}

@@ -1,0 +1,36 @@
+{
+"Class" : "org.jfree.chart.labels.SymbolicXYItemLabelGenerator", 
+"Methods" : [{ "Name" : "generateToolTip" ,
+"Nodes" : 10,
+"0" : [ ],
+"1" : [ 16, 1, 2, 11],
+"8" : [ 0, 20, 10, 15],
+"2" : [ ],
+"3" : [ 4],
+"4" : [ 17, 4, 6, 7, 12],
+"6" : [ 18, 4, 5, 8, 13],
+"7" : [ 3, 19, 9, 14],
+"5" : [ ],
+"9" : [ ],
+"CoveredDUAsByNodes" : 21,
+"Duas" : 26
+},{ "Name" : "round" ,
+"Nodes" : 4,
+"0" : [ ],
+"1" : [ 0, 3, 4],
+"2" : [ 1, 2],
+"3" : [ ],
+"CoveredDUAsByNodes" : 5,
+"Duas" : 5
+},{ "Name" : "equals" ,
+"Nodes" : 6,
+"0" : [ ],
+"1" : [ 1, 3],
+"2" : [ 1, 3, 5],
+"3" : [ 1, 3, 4],
+"4" : [ 0, 2],
+"5" : [ ],
+"CoveredDUAsByNodes" : 6,
+"Duas" : 6
+}]
+}

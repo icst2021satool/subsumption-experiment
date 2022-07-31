@@ -1,0 +1,23 @@
+{
+"Class" : "org.jfree.chart.plot.dial.junit.StandardDialFrameTests", 
+"Methods" : [{ "Name" : "suite" ,
+"Duas" : 4,
+"0" :  "(70,(70,70), class$org$jfree$chart$plot$dial$junit$StandardDialFrameTests)",
+"1" :  "(70,(70,70), class$org$jfree$chart$plot$dial$junit$StandardDialFrameTests)",
+"2" :  "(70,70, class$org$jfree$chart$plot$dial$junit$StandardDialFrameTests)",
+"3" :  "(70,70, class$org$jfree$chart$plot$dial$junit$StandardDialFrameTests)"},{ "Name" : "testCloning" ,
+"Duas" : 13,
+"0" :  "(141,(149,149), f1)",
+"1" :  "(141,(149,149), f1)",
+"2" :  "(141,(150,150), f1)",
+"3" :  "(141,(150,150), f1)",
+"4" :  "(141,151, f1)",
+"5" :  "(141,155, f1)",
+"6" :  "(141,156, f1)",
+"7" :  "(144,(149,149), f2)",
+"8" :  "(144,(149,149), f2)",
+"9" :  "(144,(150,150), f2)",
+"10" :  "(144,(150,150), f2)",
+"11" :  "(144,151, f2)",
+"12" :  "(144,157, f2)"}]
+}

@@ -1,0 +1,13 @@
+{
+"Class" : "org.jfree.chart.ui.ExtensionFileFilter", 
+"Methods" : [{ "Name" : "accept" ,
+"Edges" : 7,
+"0" : [ 0,4 ],
+"1" : [ 0,1 ],
+"2" : [ 2,5 ],
+"3" : [ 4,5 ],
+"4" : [ 1,3 ],
+"5" : [ 1,2 ],
+"6" : [ 3,5 ]
+}]
+}

@@ -1,0 +1,9 @@
+{
+"Class" : "org.jfree.data.time.junit.MovingAverageTests", 
+"Methods" : [{ "Name" : "suite" ,
+"Duas" : 4,
+"0" :  "(67,(67,67), class$org$jfree$data$time$junit$MovingAverageTests)",
+"1" :  "(67,(67,67), class$org$jfree$data$time$junit$MovingAverageTests)",
+"2" :  "(67,67, class$org$jfree$data$time$junit$MovingAverageTests)",
+"3" :  "(67,67, class$org$jfree$data$time$junit$MovingAverageTests)"}]
+}

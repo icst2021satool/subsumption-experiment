@@ -1,0 +1,21 @@
+{
+"Class" : "org.jfree.chart.ui.StrokeSample", 
+"Methods" : [{ "Name" : "paintComponent" ,
+"Duas" : 10,
+"0" :  "(118,(141,142), this)",
+"1" :  "(118,(141,145), this)",
+"2" :  "(118,142, this)",
+"3" :  "(118,(141,142), this.stroke)",
+"4" :  "(118,(141,145), this.stroke)",
+"5" :  "(118,142, this.stroke)",
+"6" :  "(118,145, g2)",
+"7" :  "(118,147, g2)",
+"8" :  "(118,142, g2)",
+"9" :  "(140,147, line)"},{ "Name" : "getListCellRendererComponent" ,
+"Duas" : 5,
+"0" :  "(165,169, this)",
+"1" :  "(165,167, this)",
+"2" :  "(165,(165,166), value)",
+"3" :  "(165,(165,169), value)",
+"4" :  "(165,166, value)"}]
+}

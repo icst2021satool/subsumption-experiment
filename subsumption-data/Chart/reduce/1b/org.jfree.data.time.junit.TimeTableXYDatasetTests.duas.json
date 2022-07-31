@@ -1,0 +1,20 @@
+{
+"Class" : "org.jfree.data.time.junit.TimeTableXYDatasetTests", 
+"Methods" : [{ "Name" : "suite" ,
+"Duas" : 4,
+"0" :  "(70,(70,70), class$org$jfree$data$time$junit$TimeTableXYDatasetTests)",
+"1" :  "(70,(70,70), class$org$jfree$data$time$junit$TimeTableXYDatasetTests)",
+"2" :  "(70,70, class$org$jfree$data$time$junit$TimeTableXYDatasetTests)",
+"3" :  "(70,70, class$org$jfree$data$time$junit$TimeTableXYDatasetTests)"},{ "Name" : "testEquals" ,
+"Duas" : 10,
+"0" :  "(118,(128,128), d1)",
+"1" :  "(118,(128,128), d1)",
+"2" :  "(118,128, d1)",
+"3" :  "(118,129, d1)",
+"4" :  "(118,131, d1)",
+"5" :  "(119,129, d2)",
+"6" :  "(119,(130,130), d2)",
+"7" :  "(119,(130,130), d2)",
+"8" :  "(119,130, d2)",
+"9" :  "(119,131, d2)"}]
+}

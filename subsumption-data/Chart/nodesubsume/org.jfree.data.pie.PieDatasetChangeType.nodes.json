@@ -1,0 +1,20 @@
+{
+"Class" : "org.jfree.data.pie.PieDatasetChangeType", 
+"Methods" : [{ "Name" : "equals" ,
+"Nodes" : 8,
+"0" : [ 123 ]
+"1" : [ 126 ]
+"2" : [ 129,130 ]
+"3" : [ 133 ]
+"4" : [ 131 ]
+"5" : [ 127 ]
+"6" : [ 124 ]
+"7" : [  ]
+},{ "Name" : "readResolve" ,
+"Nodes" : 4,
+"0" : [ 153,154 ]
+"1" : [ 158 ]
+"2" : [ 155 ]
+"3" : [  ]
+}]
+}

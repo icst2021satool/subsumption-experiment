@@ -1,0 +1,20 @@
+{
+"Class" : "org.jfree.chart.annotations.junit.XYTitleAnnotationTests", 
+"Methods" : [{ "Name" : "suite" ,
+"Duas" : 4,
+"0" :  "(75,(75,75), class$org$jfree$chart$annotations$junit$XYTitleAnnotationTests)",
+"1" :  "(75,(75,75), class$org$jfree$chart$annotations$junit$XYTitleAnnotationTests)",
+"2" :  "(75,75, class$org$jfree$chart$annotations$junit$XYTitleAnnotationTests)",
+"3" :  "(75,75, class$org$jfree$chart$annotations$junit$XYTitleAnnotationTests)"},{ "Name" : "testCloning" ,
+"Duas" : 10,
+"0" :  "(131,(139,139), a1)",
+"1" :  "(131,(139,139), a1)",
+"2" :  "(131,(140,140), a1)",
+"3" :  "(131,(140,140), a1)",
+"4" :  "(131,141, a1)",
+"5" :  "(134,(139,139), a2)",
+"6" :  "(134,(139,139), a2)",
+"7" :  "(134,(140,140), a2)",
+"8" :  "(134,(140,140), a2)",
+"9" :  "(134,141, a2)"}]
+}

@@ -1,0 +1,21 @@
+{
+"Class" : "org.jfree.chart.ui.StrokeSample", 
+"Methods" : [{ "Name" : "paintComponent" ,
+"Nodes" : 5,
+"0" : [ ],
+"1" : [ 1, 4, 6],
+"3" : [ 0, 2, 3, 5, 8],
+"2" : [ 7, 9],
+"4" : [ 7, 9],
+"CoveredDUAsByNodes" : 10,
+"Duas" : 10
+},{ "Name" : "getListCellRendererComponent" ,
+"Nodes" : 4,
+"0" : [ ],
+"2" : [ 1, 2, 4],
+"1" : [ 0],
+"3" : [ 0],
+"CoveredDUAsByNodes" : 4,
+"Duas" : 5
+}]
+}

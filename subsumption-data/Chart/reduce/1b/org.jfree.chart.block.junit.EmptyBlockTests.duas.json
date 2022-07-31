@@ -1,0 +1,20 @@
+{
+"Class" : "org.jfree.chart.block.junit.EmptyBlockTests", 
+"Methods" : [{ "Name" : "suite" ,
+"Duas" : 4,
+"0" :  "(67,(67,67), class$org$jfree$chart$block$junit$EmptyBlockTests)",
+"1" :  "(67,(67,67), class$org$jfree$chart$block$junit$EmptyBlockTests)",
+"2" :  "(67,67, class$org$jfree$chart$block$junit$EmptyBlockTests)",
+"3" :  "(67,67, class$org$jfree$chart$block$junit$EmptyBlockTests)"},{ "Name" : "testCloning" ,
+"Duas" : 10,
+"0" :  "(103,(112,112), b1)",
+"1" :  "(103,(112,112), b1)",
+"2" :  "(103,(113,113), b1)",
+"3" :  "(103,(113,113), b1)",
+"4" :  "(103,114, b1)",
+"5" :  "(107,(112,112), b2)",
+"6" :  "(107,(112,112), b2)",
+"7" :  "(107,(113,113), b2)",
+"8" :  "(107,(113,113), b2)",
+"9" :  "(107,114, b2)"}]
+}

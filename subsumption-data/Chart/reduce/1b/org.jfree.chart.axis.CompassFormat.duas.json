@@ -1,0 +1,11 @@
+{
+"Class" : "org.jfree.chart.axis.CompassFormat", 
+"Methods" : [{ "Name" : "getDirectionCode" ,
+"Duas" : 6,
+"0" :  "(86,91, DIRECTIONS)",
+"1" :  "(86,(87,88), direction)",
+"2" :  "(86,(87,90), direction)",
+"3" :  "(86,90, direction)",
+"4" :  "(86,88, direction)",
+"5" :  "(88,90, direction)"}]
+}

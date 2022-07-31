@@ -1,0 +1,14 @@
+{
+"Class" : "org.jfree.chart.plot.junit.PlotOrientationTests", 
+"Methods" : [{ "Name" : "suite" ,
+"Duas" : 4,
+"0" :  "(68,(68,68), class$org$jfree$chart$plot$junit$PlotOrientationTests)",
+"1" :  "(68,(68,68), class$org$jfree$chart$plot$junit$PlotOrientationTests)",
+"2" :  "(68,68, class$org$jfree$chart$plot$junit$PlotOrientationTests)",
+"3" :  "(68,68, class$org$jfree$chart$plot$junit$PlotOrientationTests)"},{ "Name" : "testSerialization" ,
+"Duas" : 4,
+"0" :  "(99,(118,118), orientation1)",
+"1" :  "(99,(118,118), orientation1)",
+"2" :  "(111,(118,118), orientation2)",
+"3" :  "(111,(118,118), orientation2)"}]
+}

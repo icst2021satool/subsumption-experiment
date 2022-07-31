@@ -1,0 +1,10 @@
+{
+"Class" : "org.jfree.chart.labels.StandardCategoryItemLabelGenerator", 
+"Methods" : [{ "Name" : "equals" ,
+"Duas" : "8" ,
+"Subsumers" : 3,
+"0" : [ 3, 0], "S0" : [0, 3 ],
+"1" : [ 7, 6, 2], "S1" : [1, 2, 4, 6, 7 ],
+"2" : [ 5], "S2" : [1, 4, 5 ]
+}]
+}

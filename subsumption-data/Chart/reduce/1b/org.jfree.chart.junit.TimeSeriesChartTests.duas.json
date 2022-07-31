@@ -1,0 +1,21 @@
+{
+"Class" : "org.jfree.chart.junit.TimeSeriesChartTests", 
+"Methods" : [{ "Name" : "suite" ,
+"Duas" : 4,
+"0" :  "(79,(79,79), class$org$jfree$chart$junit$TimeSeriesChartTests)",
+"1" :  "(79,(79,79), class$org$jfree$chart$junit$TimeSeriesChartTests)",
+"2" :  "(79,79, class$org$jfree$chart$junit$TimeSeriesChartTests)",
+"3" :  "(79,79, class$org$jfree$chart$junit$TimeSeriesChartTests)"},{ "Name" : "testReplaceDataset" ,
+"Duas" : 6,
+"0" :  "(140,(141,141), range)",
+"1" :  "(140,(141,141), range)",
+"2" :  "(140,141, range)",
+"3" :  "(140,(143,143), range)",
+"4" :  "(140,(143,143), range)",
+"5" :  "(140,143, range)"},{ "Name" : "testSetSeriesToolTipGenerator" ,
+"Duas" : 4,
+"0" :  "(155,(158,158), tt)",
+"1" :  "(155,(158,158), tt)",
+"2" :  "(157,(158,158), tt2)",
+"3" :  "(157,(158,158), tt2)"}]
+}

@@ -1,0 +1,22 @@
+{
+"Class" : "org.jfree.chart.labels.BoxAndWhiskerToolTipGenerator", 
+"Methods" : [{ "Name" : "createItemArray" ,
+"Nodes" : 4,
+"0" : [ ],
+"2" : [ 0, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27],
+"1" : [ 15],
+"3" : [ 15],
+"CoveredDUAsByNodes" : 27,
+"Duas" : 28
+},{ "Name" : "equals" ,
+"Nodes" : 6,
+"0" : [ ],
+"1" : [ 1, 4],
+"2" : [ 1, 4, 6],
+"3" : [ 1, 2, 4, 5, 7],
+"4" : [ 0, 3],
+"5" : [ ],
+"CoveredDUAsByNodes" : 8,
+"Duas" : 8
+}]
+}

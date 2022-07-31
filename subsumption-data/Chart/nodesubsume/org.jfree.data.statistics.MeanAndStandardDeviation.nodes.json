@@ -1,0 +1,28 @@
+{
+"Class" : "org.jfree.data.statistics.MeanAndStandardDeviation", 
+"Methods" : [{ "Name" : "getMeanValue" ,
+"Nodes" : 4,
+"0" : [ 109,110 ]
+"1" : [ 113 ]
+"2" : [ 111 ]
+"3" : [  ]
+},{ "Name" : "getStandardDeviationValue" ,
+"Nodes" : 4,
+"0" : [ 135,136 ]
+"1" : [ 139 ]
+"2" : [ 137 ]
+"3" : [  ]
+},{ "Name" : "equals" ,
+"Nodes" : 10,
+"0" : [ 150 ]
+"1" : [ 153 ]
+"2" : [ 156,157 ]
+"3" : [ 160 ]
+"4" : [ 165 ]
+"5" : [ 163 ]
+"6" : [ 158 ]
+"7" : [ 154 ]
+"8" : [ 151 ]
+"9" : [  ]
+}]
+}

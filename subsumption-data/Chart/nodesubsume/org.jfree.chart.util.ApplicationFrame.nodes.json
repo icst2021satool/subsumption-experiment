@@ -1,0 +1,10 @@
+{
+"Class" : "org.jfree.chart.util.ApplicationFrame", 
+"Methods" : [{ "Name" : "windowClosing" ,
+"Nodes" : 4,
+"0" : [ 73 ]
+"1" : [ 77 ]
+"2" : [ 74,75 ]
+"3" : [  ]
+}]
+}

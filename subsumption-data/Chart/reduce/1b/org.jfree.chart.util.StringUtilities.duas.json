@@ -1,0 +1,18 @@
+{
+"Class" : "org.jfree.chart.util.StringUtilities", 
+"Methods" : [{ "Name" : "startsWithIgnoreCase" ,
+"Duas" : 6,
+"0" :  "(65,(65,66), base)",
+"1" :  "(65,(65,68), base)",
+"2" :  "(65,68, base)",
+"3" :  "(65,(65,66), start)",
+"4" :  "(65,(65,68), start)",
+"5" :  "(65,68, start)"},{ "Name" : "endsWithIgnoreCase" ,
+"Duas" : 6,
+"0" :  "(81,(81,82), base)",
+"1" :  "(81,(81,84), base)",
+"2" :  "(81,84, base)",
+"3" :  "(81,(81,82), end)",
+"4" :  "(81,(81,84), end)",
+"5" :  "(81,84, end)"}]
+}

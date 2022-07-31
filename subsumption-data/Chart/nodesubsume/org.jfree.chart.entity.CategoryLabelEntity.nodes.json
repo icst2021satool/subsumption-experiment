@@ -1,0 +1,14 @@
+{
+"Class" : "org.jfree.chart.entity.CategoryLabelEntity", 
+"Methods" : [{ "Name" : "equals" ,
+"Nodes" : 8,
+"0" : [ 91 ]
+"1" : [ 94 ]
+"2" : [ 97,98 ]
+"3" : [ 101 ]
+"4" : [ 99 ]
+"5" : [ 95 ]
+"6" : [ 92 ]
+"7" : [  ]
+}]
+}

@@ -1,0 +1,17 @@
+{
+"Class" : "org.jfree.chart.renderer.OutlierList", 
+"Methods" : [{ "Name" : "isOverlapped" ,
+"Nodes" : 4,
+"0" : [ 158 ]
+"1" : [ 162,163 ]
+"2" : [ 159 ]
+"3" : [  ]
+},{ "Name" : "updateAveragedOutlier" ,
+"Nodes" : 5,
+"0" : [ 172,173,174,175 ]
+"1" : [ 176 ]
+"2" : [ 181,184 ]
+"3" : [ 177,178,179,180 ]
+"4" : [  ]
+}]
+}

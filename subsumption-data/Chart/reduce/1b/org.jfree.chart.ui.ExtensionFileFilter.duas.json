@@ -1,0 +1,14 @@
+{
+"Class" : "org.jfree.chart.ui.ExtensionFileFilter", 
+"Methods" : [{ "Name" : "accept" ,
+"Duas" : 9,
+"0" :  "(80,(85,86), this)",
+"1" :  "(80,(85,89), this)",
+"2" :  "(80,(80,81), file)",
+"3" :  "(80,(80,84), file)",
+"4" :  "(80,84, file)",
+"5" :  "(80,(85,86), this.extension)",
+"6" :  "(80,(85,89), this.extension)",
+"7" :  "(84,(85,86), name)",
+"8" :  "(84,(85,89), name)"}]
+}

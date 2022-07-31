@@ -1,0 +1,20 @@
+{
+"Class" : "org.jfree.chart.renderer.xy.CyclicXYItemRenderer$OverwriteDataSet", 
+"Methods" : [{ "Name" : "<init>" ,
+"Edges" : 5,
+"Duas" : 22,
+"2" : 2, 
+ "3" : 3, 
+ "8" : 2, 
+ "9" : 3, 
+ "15" : 2, 
+ "16" : 3},{ "Name" : "getXValue" ,
+"Edges" : 4,
+"Duas" : 5,
+"1" : 1, 
+ "2" : 2},{ "Name" : "getYValue" ,
+"Edges" : 4,
+"Duas" : 5,
+"1" : 2, 
+ "2" : 3}]
+}

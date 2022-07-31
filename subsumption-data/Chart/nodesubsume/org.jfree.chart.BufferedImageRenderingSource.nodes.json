@@ -1,0 +1,19 @@
+{
+"Class" : "org.jfree.chart.BufferedImageRenderingSource", 
+"Methods" : [{ "Name" : "<init>" ,
+"Nodes" : 4,
+"0" : [ 64,71,72 ]
+"1" : [ 75,76 ]
+"2" : [ 73 ]
+"3" : [  ]
+},{ "Name" : "getSelectionState" ,
+"Nodes" : 7,
+"0" : [ 97 ]
+"1" : [ 98 ]
+"2" : [ 105 ]
+"3" : [ 99,100 ]
+"4" : [ 103 ]
+"5" : [ 101 ]
+"6" : [  ]
+}]
+}

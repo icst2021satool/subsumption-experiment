@@ -1,0 +1,20 @@
+{
+"Class" : "org.jfree.chart.annotations.junit.CategoryLineAnnotationTests", 
+"Methods" : [{ "Name" : "suite" ,
+"Duas" : 4,
+"0" :  "(71,(71,71), class$org$jfree$chart$annotations$junit$CategoryLineAnnotationTests)",
+"1" :  "(71,(71,71), class$org$jfree$chart$annotations$junit$CategoryLineAnnotationTests)",
+"2" :  "(71,71, class$org$jfree$chart$annotations$junit$CategoryLineAnnotationTests)",
+"3" :  "(71,71, class$org$jfree$chart$annotations$junit$CategoryLineAnnotationTests)"},{ "Name" : "testCloning" ,
+"Duas" : 10,
+"0" :  "(152,(161,161), a1)",
+"1" :  "(152,(161,161), a1)",
+"2" :  "(152,(162,162), a1)",
+"3" :  "(152,(162,162), a1)",
+"4" :  "(152,163, a1)",
+"5" :  "(156,(161,161), a2)",
+"6" :  "(156,(161,161), a2)",
+"7" :  "(156,(162,162), a2)",
+"8" :  "(156,(162,162), a2)",
+"9" :  "(156,163, a2)"}]
+}

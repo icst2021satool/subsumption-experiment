@@ -1,0 +1,8 @@
+{
+"Class" : "org.jfree.chart.axis.CompassFormat", 
+"Methods" : [{ "Name" : "getDirectionCode" ,
+"Edges" : 4,
+"Duas" : 6,
+"1" : 1, 
+ "2" : 2}]
+}

@@ -1,0 +1,14 @@
+{
+"Class" : "org.jfree.chart.axis.DateAxis$DefaultTimeline", 
+"Methods" : [{ "Name" : "equals" ,
+"Edges" : 10,
+"Duas" : 8,
+"0" : 3, 
+ "1" : 4, 
+ "2" : 0, 
+ "3" : 1, 
+ "4" : 3, 
+ "5" : 4, 
+ "6" : 6, 
+ "7" : 7}]
+}

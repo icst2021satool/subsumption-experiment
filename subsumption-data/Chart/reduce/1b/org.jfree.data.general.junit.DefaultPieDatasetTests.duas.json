@@ -1,0 +1,20 @@
+{
+"Class" : "org.jfree.data.general.junit.DefaultPieDatasetTests", 
+"Methods" : [{ "Name" : "suite" ,
+"Duas" : 4,
+"0" :  "(83,(83,83), class$org$jfree$data$general$junit$DefaultPieDatasetTests)",
+"1" :  "(83,(83,83), class$org$jfree$data$general$junit$DefaultPieDatasetTests)",
+"2" :  "(83,83, class$org$jfree$data$general$junit$DefaultPieDatasetTests)",
+"3" :  "(83,83, class$org$jfree$data$general$junit$DefaultPieDatasetTests)"},{ "Name" : "testCloning" ,
+"Duas" : 10,
+"0" :  "(166,(177,177), d1)",
+"1" :  "(166,(177,177), d1)",
+"2" :  "(166,(178,178), d1)",
+"3" :  "(166,(178,178), d1)",
+"4" :  "(166,179, d1)",
+"5" :  "(172,(177,177), d2)",
+"6" :  "(172,(177,177), d2)",
+"7" :  "(172,(178,178), d2)",
+"8" :  "(172,(178,178), d2)",
+"9" :  "(172,179, d2)"}]
+}

@@ -1,0 +1,20 @@
+{
+"Class" : "org.jfree.data.xy.VectorDataItem", 
+"Methods" : [{ "Name" : "getVectorX" ,
+"Edges" : 4,
+"1" : [ 0, 2],
+"2" : [ 1],
+"3" : [ 1],
+"0" : [ 0, 2],
+"CoveredDUAsByEdges" : 3,
+"Duas" : 3
+},{ "Name" : "getVectorY" ,
+"Edges" : 4,
+"2" : [ 0, 2],
+"3" : [ 1],
+"0" : [ 1],
+"1" : [ 0, 2],
+"CoveredDUAsByEdges" : 3,
+"Duas" : 3
+}]
+}

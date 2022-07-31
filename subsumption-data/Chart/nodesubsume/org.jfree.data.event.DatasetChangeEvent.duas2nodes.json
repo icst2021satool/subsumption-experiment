@@ -1,0 +1,12 @@
+{
+"Class" : "org.jfree.data.event.DatasetChangeEvent", 
+"Methods" : [{ "Name" : "<init>" ,
+"Nodes" : 4,
+"Duas" : 6,
+"0" :  [ 0,1 ],
+"1" :  [ 0,1 ],
+"2" :  [ 0,1 ],
+"3" :  [ 0,2 ],
+"4" :  [ 0,1 ],
+"5" :  [ 0,1 ]}]
+}

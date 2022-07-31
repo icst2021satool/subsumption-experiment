@@ -1,0 +1,12 @@
+{
+"Class" : "org.jfree.chart.ui.FontDisplayField", 
+"Methods" : [{ "Name" : "fontToString" ,
+"Edges" : 4,
+"0" : [ 0, 2],
+"1" : [ 1, 3],
+"3" : [ 1, 3],
+"2" : [ 0, 2],
+"CoveredDUAsByEdges" : 4,
+"Duas" : 4
+}]
+}

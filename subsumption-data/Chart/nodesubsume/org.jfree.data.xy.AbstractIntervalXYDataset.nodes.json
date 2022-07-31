@@ -1,0 +1,28 @@
+{
+"Class" : "org.jfree.data.xy.AbstractIntervalXYDataset", 
+"Methods" : [{ "Name" : "getStartXValue" ,
+"Nodes" : 4,
+"0" : [ 64,65,66 ]
+"1" : [ 69 ]
+"2" : [ 67 ]
+"3" : [  ]
+},{ "Name" : "getEndXValue" ,
+"Nodes" : 4,
+"0" : [ 82,83,84 ]
+"1" : [ 87 ]
+"2" : [ 85 ]
+"3" : [  ]
+},{ "Name" : "getStartYValue" ,
+"Nodes" : 4,
+"0" : [ 100,101,102 ]
+"1" : [ 105 ]
+"2" : [ 103 ]
+"3" : [  ]
+},{ "Name" : "getEndYValue" ,
+"Nodes" : 4,
+"0" : [ 118,119,120 ]
+"1" : [ 123 ]
+"2" : [ 121 ]
+"3" : [  ]
+}]
+}

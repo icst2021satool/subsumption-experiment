@@ -1,0 +1,20 @@
+{
+"Class" : "org.jfree.data.xy.junit.XYDataItemTests", 
+"Methods" : [{ "Name" : "suite" ,
+"Duas" : 4,
+"0" :  "(67,(67,67), class$org$jfree$data$xy$junit$XYDataItemTests)",
+"1" :  "(67,(67,67), class$org$jfree$data$xy$junit$XYDataItemTests)",
+"2" :  "(67,67, class$org$jfree$data$xy$junit$XYDataItemTests)",
+"3" :  "(67,67, class$org$jfree$data$xy$junit$XYDataItemTests)"},{ "Name" : "testCloning" ,
+"Duas" : 10,
+"0" :  "(101,(104,104), i1)",
+"1" :  "(101,(104,104), i1)",
+"2" :  "(101,(105,105), i1)",
+"3" :  "(101,(105,105), i1)",
+"4" :  "(101,106, i1)",
+"5" :  "(103,(104,104), i2)",
+"6" :  "(103,(104,104), i2)",
+"7" :  "(103,(105,105), i2)",
+"8" :  "(103,(105,105), i2)",
+"9" :  "(103,106, i2)"}]
+}

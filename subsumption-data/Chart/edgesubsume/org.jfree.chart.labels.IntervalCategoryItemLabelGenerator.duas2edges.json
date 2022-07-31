@@ -1,0 +1,16 @@
+{
+"Class" : "org.jfree.chart.labels.IntervalCategoryItemLabelGenerator", 
+"Methods" : [{ "Name" : "createItemArray" ,
+"Edges" : 15,
+"Duas" : 34,
+"0" : 1, 
+ "1" : 2, 
+ "2" : 11, 
+ "3" : 12, 
+ "4" : 3, 
+ "5" : 4, 
+ "6" : 7, 
+ "7" : 8, 
+ "14" : 5, 
+ "15" : 6}]
+}

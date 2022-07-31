@@ -1,0 +1,20 @@
+{
+"Class" : "org.jfree.chart.plot.junit.CompassPlotTests", 
+"Methods" : [{ "Name" : "suite" ,
+"Duas" : 4,
+"0" :  "(72,(72,72), class$org$jfree$chart$plot$junit$CompassPlotTests)",
+"1" :  "(72,(72,72), class$org$jfree$chart$plot$junit$CompassPlotTests)",
+"2" :  "(72,72, class$org$jfree$chart$plot$junit$CompassPlotTests)",
+"3" :  "(72,72, class$org$jfree$chart$plot$junit$CompassPlotTests)"},{ "Name" : "testCloning" ,
+"Duas" : 10,
+"0" :  "(171,(179,179), p1)",
+"1" :  "(171,(179,179), p1)",
+"2" :  "(171,(180,180), p1)",
+"3" :  "(171,(180,180), p1)",
+"4" :  "(171,181, p1)",
+"5" :  "(174,(179,179), p2)",
+"6" :  "(174,(179,179), p2)",
+"7" :  "(174,(180,180), p2)",
+"8" :  "(174,(180,180), p2)",
+"9" :  "(174,181, p2)"}]
+}

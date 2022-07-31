@@ -1,0 +1,23 @@
+{
+"Class" : "org.jfree.chart.needle.LineNeedle", 
+"Methods" : [{ "Name" : "drawNeedle" ,
+"Nodes" : 5,
+"0" : [ ],
+"2" : [ 4],
+"3" : [ 1, 2, 4, 6, 7, 9, 11],
+"1" : [ 0, 3],
+"4" : [ 0, 3],
+"CoveredDUAsByNodes" : 9,
+"Duas" : 13
+},{ "Name" : "equals" ,
+"Nodes" : 6,
+"0" : [ ],
+"1" : [ 1, 4],
+"2" : [ 1, 2, 4, 6, 7],
+"3" : [ 1, 4, 5],
+"4" : [ 0, 3],
+"5" : [ ],
+"CoveredDUAsByNodes" : 8,
+"Duas" : 8
+}]
+}

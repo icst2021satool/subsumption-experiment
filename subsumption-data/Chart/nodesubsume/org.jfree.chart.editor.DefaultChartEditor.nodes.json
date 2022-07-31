@@ -1,0 +1,16 @@
+{
+"Class" : "org.jfree.chart.editor.DefaultChartEditor", 
+"Methods" : [{ "Name" : "actionPerformed" ,
+"Nodes" : 4,
+"0" : [ 234,235 ]
+"1" : [ 238 ]
+"2" : [ 236 ]
+"3" : [  ]
+},{ "Name" : "attemptModifyBackgroundPaint" ,
+"Nodes" : 4,
+"0" : [ 247,249 ]
+"1" : [ 252 ]
+"2" : [ 250 ]
+"3" : [  ]
+}]
+}

@@ -1,0 +1,19 @@
+{
+"Class" : "org.jfree.data.general.DefaultValueDataset", 
+"Methods" : [{ "Name" : "equals" ,
+"Nodes" : 6,
+"0" : [ 123 ]
+"1" : [ 126 ]
+"2" : [ 130 ]
+"3" : [ 128,127 ]
+"4" : [ 124 ]
+"5" : [  ]
+},{ "Name" : "hashCode" ,
+"Nodes" : 5,
+"0" : [ 139 ]
+"1" : [ 139 ]
+"2" : [ 139 ]
+"3" : [ 139 ]
+"4" : [  ]
+}]
+}

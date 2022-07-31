@@ -1,0 +1,9 @@
+{
+"Class" : "org.jfree.chart.axis.junit.NumberTickUnitTests", 
+"Methods" : [{ "Name" : "suite" ,
+"Duas" : 4,
+"0" :  "(68,(68,68), class$org$jfree$chart$axis$junit$NumberTickUnitTests)",
+"1" :  "(68,(68,68), class$org$jfree$chart$axis$junit$NumberTickUnitTests)",
+"2" :  "(68,68, class$org$jfree$chart$axis$junit$NumberTickUnitTests)",
+"3" :  "(68,68, class$org$jfree$chart$axis$junit$NumberTickUnitTests)"}]
+}

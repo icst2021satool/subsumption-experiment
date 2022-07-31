@@ -1,0 +1,13 @@
+{
+"Class" : "org.jfree.chart.labels.StandardCategoryItemLabelGenerator", 
+"Methods" : [{ "Name" : "equals" ,
+"Duas" : 8,
+"0" :  "(141,(141,142), this)",
+"1" :  "(141,(141,144), this)",
+"2" :  "(141,147, this)",
+"3" :  "(141,(141,142), obj)",
+"4" :  "(141,(141,144), obj)",
+"5" :  "(141,(144,145), obj)",
+"6" :  "(141,(144,147), obj)",
+"7" :  "(141,147, obj)"}]
+}

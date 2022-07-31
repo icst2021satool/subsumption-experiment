@@ -1,0 +1,36 @@
+{
+"Class" : "org.jfree.chart.ui.BasicProjectInfo$OptionalLibraryHolder", 
+"Methods" : [{ "Name" : "<init>" ,
+"Nodes" : 4,
+"0" : [ ],
+"1" : [ 0, 2, 3],
+"2" : [ 1],
+"3" : [ ],
+"CoveredDUAsByNodes" : 4,
+"Duas" : 4
+},{ "Name" : "<init>" ,
+"Nodes" : 4,
+"0" : [ ],
+"1" : [ 0, 1, 3, 4, 5],
+"2" : [ 2],
+"3" : [ ],
+"CoveredDUAsByNodes" : 6,
+"Duas" : 6
+},{ "Name" : "getLibrary" ,
+"Nodes" : 4,
+"0" : [ ],
+"2" : [ 0, 3, 4, 7],
+"1" : [ 2],
+"3" : [ 2],
+"CoveredDUAsByNodes" : 5,
+"Duas" : 9
+},{ "Name" : "loadLibrary" ,
+"Nodes" : 4,
+"0" : [ ],
+"1" : [ 0, 2, 3],
+"2" : [ 1],
+"3" : [ ],
+"CoveredDUAsByNodes" : 4,
+"Duas" : 4
+}]
+}

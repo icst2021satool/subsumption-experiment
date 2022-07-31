@@ -1,0 +1,13 @@
+{
+"Class" : "org.jfree.chart.labels.StandardXYItemLabelGenerator", 
+"Methods" : [{ "Name" : "equals" ,
+"Duas" : 8,
+"0" :  "(206,(206,207), this)",
+"1" :  "(206,(206,209), this)",
+"2" :  "(206,212, this)",
+"3" :  "(206,(206,207), obj)",
+"4" :  "(206,(206,209), obj)",
+"5" :  "(206,(209,210), obj)",
+"6" :  "(206,(209,212), obj)",
+"7" :  "(206,212, obj)"}]
+}

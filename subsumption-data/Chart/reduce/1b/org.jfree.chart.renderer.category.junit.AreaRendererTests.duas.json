@@ -1,0 +1,20 @@
+{
+"Class" : "org.jfree.chart.renderer.category.junit.AreaRendererTests", 
+"Methods" : [{ "Name" : "suite" ,
+"Duas" : 4,
+"0" :  "(79,(79,79), class$org$jfree$chart$renderer$category$junit$AreaRendererTests)",
+"1" :  "(79,(79,79), class$org$jfree$chart$renderer$category$junit$AreaRendererTests)",
+"2" :  "(79,79, class$org$jfree$chart$renderer$category$junit$AreaRendererTests)",
+"3" :  "(79,79, class$org$jfree$chart$renderer$category$junit$AreaRendererTests)"},{ "Name" : "testCloning" ,
+"Duas" : 10,
+"0" :  "(121,(129,129), r1)",
+"1" :  "(121,(129,129), r1)",
+"2" :  "(121,(130,130), r1)",
+"3" :  "(121,(130,130), r1)",
+"4" :  "(121,131, r1)",
+"5" :  "(124,(129,129), r2)",
+"6" :  "(124,(129,129), r2)",
+"7" :  "(124,(130,130), r2)",
+"8" :  "(124,(130,130), r2)",
+"9" :  "(124,131, r2)"}]
+}

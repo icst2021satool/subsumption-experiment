@@ -1,0 +1,24 @@
+{
+"Class" : "org.jfree.data.general.SeriesChangeType", 
+"Methods" : [{ "Name" : "equals" ,
+"Nodes" : 8,
+"0" : [ ],
+"1" : [ 1, 5],
+"2" : [ 1, 5, 7, 8],
+"3" : [ 1, 3, 5, 7, 8, 10, 12],
+"4" : [ 1, 2, 5, 7, 8, 9, 11],
+"5" : [ 1, 5, 6],
+"6" : [ 0, 4],
+"7" : [ ],
+"CoveredDUAsByNodes" : 13,
+"Duas" : 13
+},{ "Name" : "readResolve" ,
+"Nodes" : 4,
+"0" : [ ],
+"2" : [ 0, 2, 4],
+"1" : [ ],
+"3" : [ ],
+"CoveredDUAsByNodes" : 3,
+"Duas" : 7
+}]
+}

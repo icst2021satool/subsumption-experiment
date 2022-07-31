@@ -1,0 +1,16 @@
+{
+"Class" : "org.jfree.chart.util.StringUtilities", 
+"Methods" : [{ "Name" : "startsWithIgnoreCase" ,
+"Nodes" : 4,
+"0" : [ 65 ]
+"1" : [ 68 ]
+"2" : [ 66 ]
+"3" : [  ]
+},{ "Name" : "endsWithIgnoreCase" ,
+"Nodes" : 4,
+"0" : [ 81 ]
+"1" : [ 84 ]
+"2" : [ 82 ]
+"3" : [  ]
+}]
+}

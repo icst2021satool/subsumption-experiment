@@ -1,0 +1,42 @@
+{
+"Class" : "org.jfree.chart.annotations.AbstractAnnotation", 
+"Methods" : [{ "Name" : "addChangeListener" ,
+"Nodes" : 5,
+"0" : [ 90 ]
+"1" : [ 90 ]
+"2" : [ 90,91 ]
+"3" : [ 90 ]
+"4" : [  ]
+},{ "Name" : "removeChangeListener" ,
+"Nodes" : 5,
+"0" : [ 102 ]
+"1" : [ 102 ]
+"2" : [ 102,103 ]
+"3" : [ 102 ]
+"4" : [  ]
+},{ "Name" : "fireAnnotationChanged" ,
+"Nodes" : 4,
+"0" : [ 128 ]
+"1" : [ 131 ]
+"2" : [ 129 ]
+"3" : [  ]
+},{ "Name" : "notifyListeners" ,
+"Nodes" : 10,
+"0" : [ 144,145 ]
+"1" : [ 145 ]
+"2" : [ 152 ]
+"3" : [ 146 ]
+"4" : [ 146 ]
+"5" : [ 146 ]
+"6" : [ 145 ]
+"7" : [ 147 ]
+"8" : [ 146 ]
+"9" : [  ]
+},{ "Name" : "setNotify" ,
+"Nodes" : 4,
+"0" : [ 176,175 ]
+"1" : [ 179 ]
+"2" : [ 177 ]
+"3" : [  ]
+}]
+}

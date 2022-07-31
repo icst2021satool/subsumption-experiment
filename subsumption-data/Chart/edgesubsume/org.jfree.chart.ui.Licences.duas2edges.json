@@ -1,0 +1,8 @@
+{
+"Class" : "org.jfree.chart.ui.Licences", 
+"Methods" : [{ "Name" : "getInstance" ,
+"Edges" : 4,
+"Duas" : 4,
+"0" : 1, 
+ "1" : 2}]
+}

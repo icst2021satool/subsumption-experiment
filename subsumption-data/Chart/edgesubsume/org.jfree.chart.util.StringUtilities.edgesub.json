@@ -1,0 +1,20 @@
+{
+"Class" : "org.jfree.chart.util.StringUtilities", 
+"Methods" : [{ "Name" : "startsWithIgnoreCase" ,
+"Edges" : 4,
+"1" : [ 0, 3],
+"2" : [ 1, 2, 4, 5],
+"3" : [ 1, 2, 4, 5],
+"0" : [ 0, 3],
+"CoveredDUAsByEdges" : 6,
+"Duas" : 6
+},{ "Name" : "endsWithIgnoreCase" ,
+"Edges" : 4,
+"0" : [ 0, 3],
+"1" : [ 1, 2, 4, 5],
+"2" : [ 1, 2, 4, 5],
+"3" : [ 0, 3],
+"CoveredDUAsByEdges" : 6,
+"Duas" : 6
+}]
+}

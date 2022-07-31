@@ -1,0 +1,9 @@
+{
+"Class" : "org.jfree.data.category.junit.CategoryToPieDatasetTests", 
+"Methods" : [{ "Name" : "suite" ,
+"Duas" : 4,
+"0" :  "(72,(72,72), class$org$jfree$data$category$junit$CategoryToPieDatasetTests)",
+"1" :  "(72,(72,72), class$org$jfree$data$category$junit$CategoryToPieDatasetTests)",
+"2" :  "(72,72, class$org$jfree$data$category$junit$CategoryToPieDatasetTests)",
+"3" :  "(72,72, class$org$jfree$data$category$junit$CategoryToPieDatasetTests)"}]
+}

@@ -1,0 +1,23 @@
+{
+"Class" : "org.jfree.data.function.PolynomialFunction2D", 
+"Methods" : [{ "Name" : "<init>" ,
+"Nodes" : 4,
+"0" : [ 66,67 ]
+"1" : [ 70,71 ]
+"2" : [ 68 ]
+"3" : [  ]
+},{ "Name" : "getValue" ,
+"Nodes" : 5,
+"0" : [ 100,101 ]
+"1" : [ 101 ]
+"2" : [ 104 ]
+"3" : [ 101,102 ]
+"4" : [  ]
+},{ "Name" : "equals" ,
+"Nodes" : 4,
+"0" : [ 115 ]
+"1" : [ 118,119 ]
+"2" : [ 116 ]
+"3" : [  ]
+}]
+}

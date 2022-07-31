@@ -1,0 +1,26 @@
+{
+"Class" : "org.jfree.chart.labels.StandardXYSeriesLabelGenerator", 
+"Methods" : [{ "Name" : "<init>" ,
+"Nodes" : 4,
+"0" : [ 86,87 ]
+"1" : [ 90,91 ]
+"2" : [ 88 ]
+"3" : [  ]
+},{ "Name" : "generateLabel" ,
+"Nodes" : 4,
+"0" : [ 103 ]
+"1" : [ 106,109 ]
+"2" : [ 104 ]
+"3" : [  ]
+},{ "Name" : "equals" ,
+"Nodes" : 8,
+"0" : [ 148 ]
+"1" : [ 151 ]
+"2" : [ 154,156 ]
+"3" : [ 159 ]
+"4" : [ 157 ]
+"5" : [ 152 ]
+"6" : [ 149 ]
+"7" : [  ]
+}]
+}

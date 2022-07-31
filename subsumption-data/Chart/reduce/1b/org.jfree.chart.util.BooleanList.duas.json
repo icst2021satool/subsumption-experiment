@@ -1,0 +1,9 @@
+{
+"Class" : "org.jfree.chart.util.BooleanList", 
+"Methods" : [{ "Name" : "equals" ,
+"Duas" : 4,
+"0" :  "(93,94, this)",
+"1" :  "(93,(93,94), obj)",
+"2" :  "(93,(93,96), obj)",
+"3" :  "(93,94, obj)"}]
+}

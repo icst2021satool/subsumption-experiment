@@ -1,0 +1,9 @@
+{
+"Class" : "org.jfree.chart.plot.junit.MeterIntervalTests", 
+"Methods" : [{ "Name" : "suite" ,
+"Duas" : 4,
+"0" :  "(70,(70,70), class$org$jfree$chart$plot$junit$MeterIntervalTests)",
+"1" :  "(70,(70,70), class$org$jfree$chart$plot$junit$MeterIntervalTests)",
+"2" :  "(70,70, class$org$jfree$chart$plot$junit$MeterIntervalTests)",
+"3" :  "(70,70, class$org$jfree$chart$plot$junit$MeterIntervalTests)"}]
+}

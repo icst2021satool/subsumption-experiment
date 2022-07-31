@@ -1,0 +1,23 @@
+{
+"Class" : "org.jfree.chart.urls.junit.CustomPieURLGeneratorTests", 
+"Methods" : [{ "Name" : "suite" ,
+"Duas" : 4,
+"0" :  "(71,(71,71), class$org$jfree$chart$urls$junit$CustomPieURLGeneratorTests)",
+"1" :  "(71,(71,71), class$org$jfree$chart$urls$junit$CustomPieURLGeneratorTests)",
+"2" :  "(71,71, class$org$jfree$chart$urls$junit$CustomPieURLGeneratorTests)",
+"3" :  "(71,71, class$org$jfree$chart$urls$junit$CustomPieURLGeneratorTests)"},{ "Name" : "testCloning" ,
+"Duas" : 13,
+"0" :  "(103,(114,114), g1)",
+"1" :  "(103,(114,114), g1)",
+"2" :  "(103,(115,115), g1)",
+"3" :  "(103,(115,115), g1)",
+"4" :  "(103,116, g1)",
+"5" :  "(103,121, g1)",
+"6" :  "(103,122, g1)",
+"7" :  "(109,(114,114), g2)",
+"8" :  "(109,(114,114), g2)",
+"9" :  "(109,(115,115), g2)",
+"10" :  "(109,(115,115), g2)",
+"11" :  "(109,116, g2)",
+"12" :  "(109,122, g2)"}]
+}

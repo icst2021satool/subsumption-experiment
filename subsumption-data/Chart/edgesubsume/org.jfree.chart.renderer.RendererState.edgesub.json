@@ -1,0 +1,14 @@
+{
+"Class" : "org.jfree.chart.renderer.RendererState", 
+"Methods" : [{ "Name" : "getEntityCollection" ,
+"Edges" : 6,
+"3" : [ 0, 2, 3, 5],
+"4" : [ 1, 4, 6],
+"0" : [ 0, 2, 3, 5, 7, 9],
+"1" : [ 6, 8],
+"2" : [ 0, 2, 3, 5, 7, 9],
+"5" : [ ],
+"CoveredDUAsByEdges" : 10,
+"Duas" : 11
+}]
+}

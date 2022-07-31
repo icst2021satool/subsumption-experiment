@@ -1,0 +1,20 @@
+{
+"Class" : "org.jfree.chart.title.junit.ImageTitleTests", 
+"Methods" : [{ "Name" : "suite" ,
+"Duas" : 4,
+"0" :  "(66,(66,66), class$org$jfree$chart$title$junit$ImageTitleTests)",
+"1" :  "(66,(66,66), class$org$jfree$chart$title$junit$ImageTitleTests)",
+"2" :  "(66,66, class$org$jfree$chart$title$junit$ImageTitleTests)",
+"3" :  "(66,66, class$org$jfree$chart$title$junit$ImageTitleTests)"},{ "Name" : "testCloning" ,
+"Duas" : 10,
+"0" :  "(103,(111,111), t1)",
+"1" :  "(103,(111,111), t1)",
+"2" :  "(103,(112,112), t1)",
+"3" :  "(103,(112,112), t1)",
+"4" :  "(103,113, t1)",
+"5" :  "(106,(111,111), t2)",
+"6" :  "(106,(111,111), t2)",
+"7" :  "(106,(112,112), t2)",
+"8" :  "(106,(112,112), t2)",
+"9" :  "(106,113, t2)"}]
+}

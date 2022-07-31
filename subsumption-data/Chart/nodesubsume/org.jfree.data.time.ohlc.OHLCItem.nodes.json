@@ -1,0 +1,28 @@
+{
+"Class" : "org.jfree.data.time.ohlc.OHLCItem", 
+"Methods" : [{ "Name" : "getOpenValue" ,
+"Nodes" : 4,
+"0" : [ 91,92 ]
+"1" : [ 96 ]
+"2" : [ 93 ]
+"3" : [  ]
+},{ "Name" : "getHighValue" ,
+"Nodes" : 4,
+"0" : [ 106,107 ]
+"1" : [ 111 ]
+"2" : [ 108 ]
+"3" : [  ]
+},{ "Name" : "getLowValue" ,
+"Nodes" : 4,
+"0" : [ 121,122 ]
+"1" : [ 126 ]
+"2" : [ 123 ]
+"3" : [  ]
+},{ "Name" : "getCloseValue" ,
+"Nodes" : 4,
+"0" : [ 136,137 ]
+"1" : [ 141 ]
+"2" : [ 138 ]
+"3" : [  ]
+}]
+}

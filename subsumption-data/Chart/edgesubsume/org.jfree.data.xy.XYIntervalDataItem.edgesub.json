@@ -1,0 +1,44 @@
+{
+"Class" : "org.jfree.data.xy.XYIntervalDataItem", 
+"Methods" : [{ "Name" : "getYValue" ,
+"Edges" : 4,
+"2" : [ 0, 2],
+"3" : [ 1],
+"1" : [ 1],
+"0" : [ 0, 2],
+"CoveredDUAsByEdges" : 3,
+"Duas" : 3
+},{ "Name" : "getXLowValue" ,
+"Edges" : 4,
+"0" : [ 0, 2],
+"1" : [ 1],
+"3" : [ 1],
+"2" : [ 0, 2],
+"CoveredDUAsByEdges" : 3,
+"Duas" : 3
+},{ "Name" : "getXHighValue" ,
+"Edges" : 4,
+"1" : [ 0, 2],
+"2" : [ 1],
+"0" : [ 1],
+"3" : [ 0, 2],
+"CoveredDUAsByEdges" : 3,
+"Duas" : 3
+},{ "Name" : "getYLowValue" ,
+"Edges" : 4,
+"2" : [ 0, 2],
+"3" : [ 1],
+"1" : [ 1],
+"0" : [ 0, 2],
+"CoveredDUAsByEdges" : 3,
+"Duas" : 3
+},{ "Name" : "getYHighValue" ,
+"Edges" : 4,
+"0" : [ 0, 2],
+"1" : [ 1],
+"3" : [ 1],
+"2" : [ 0, 2],
+"CoveredDUAsByEdges" : 3,
+"Duas" : 3
+}]
+}

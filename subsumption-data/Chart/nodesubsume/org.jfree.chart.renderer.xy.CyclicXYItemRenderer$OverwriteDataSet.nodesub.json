@@ -1,0 +1,29 @@
+{
+"Class" : "org.jfree.chart.renderer.xy.CyclicXYItemRenderer$OverwriteDataSet", 
+"Methods" : [{ "Name" : "<init>" ,
+"Nodes" : 5,
+"0" : [ ],
+"1" : [ ],
+"2" : [ 3],
+"4" : [ 3],
+"3" : [ 0, 1, 2, 4, 5, 6, 7, 8, 10, 11, 12, 13, 14],
+"CoveredDUAsByNodes" : 14,
+"Duas" : 22
+},{ "Name" : "getXValue" ,
+"Nodes" : 4,
+"0" : [ ],
+"2" : [ 1, 3],
+"1" : [ ],
+"3" : [ ],
+"CoveredDUAsByNodes" : 2,
+"Duas" : 5
+},{ "Name" : "getYValue" ,
+"Nodes" : 4,
+"0" : [ ],
+"2" : [ 1, 3],
+"1" : [ ],
+"3" : [ ],
+"CoveredDUAsByNodes" : 2,
+"Duas" : 5
+}]
+}

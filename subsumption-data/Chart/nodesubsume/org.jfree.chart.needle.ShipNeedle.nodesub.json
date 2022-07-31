@@ -1,0 +1,26 @@
+{
+"Class" : "org.jfree.chart.needle.ShipNeedle", 
+"Methods" : [{ "Name" : "drawNeedle" ,
+"Nodes" : 5,
+"0" : [ ],
+"2" : [ 4],
+"3" : [ 1, 2, 4, 6, 7, 9, 11],
+"1" : [ 0, 3, 10],
+"4" : [ 0, 3, 10],
+"CoveredDUAsByNodes" : 10,
+"Duas" : 12
+},{ "Name" : "equals" ,
+"Nodes" : 9,
+"0" : [ ],
+"1" : [ 5],
+"2" : [ 1, 5, 7],
+"4" : [ 1, 2, 5, 7, 8],
+"3" : [ 1, 5, 7],
+"5" : [ 1, 2, 5, 7, 8, 10],
+"6" : [ 0, 5, 6],
+"7" : [ 4],
+"8" : [ ],
+"CoveredDUAsByNodes" : 9,
+"Duas" : 12
+}]
+}

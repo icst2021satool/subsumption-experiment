@@ -1,0 +1,9 @@
+{
+"Class" : "org.jfree.data.time.junit.YearTests", 
+"Methods" : [{ "Name" : "suite" ,
+"Duas" : 4,
+"0" :  "(80,(80,80), class$org$jfree$data$time$junit$YearTests)",
+"1" :  "(80,(80,80), class$org$jfree$data$time$junit$YearTests)",
+"2" :  "(80,80, class$org$jfree$data$time$junit$YearTests)",
+"3" :  "(80,80, class$org$jfree$data$time$junit$YearTests)"}]
+}

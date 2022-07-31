@@ -1,0 +1,23 @@
+{
+"Class" : "org.jfree.chart.renderer.category.MinMaxCategoryRenderer$2", 
+"Methods" : [{ "Name" : "paintIcon" ,
+"Duas" : 18,
+"0" :  "(516,(518,519), this)",
+"1" :  "(516,(518,521), this)",
+"2" :  "(516,(521,522), this)",
+"3" :  "(516,(521,524), this)",
+"4" :  "(516,524, this)",
+"5" :  "(516,522, this)",
+"6" :  "(516,519, this)",
+"7" :  "(516,524, x)",
+"8" :  "(516,524, y)",
+"9" :  "(516,524, this.val$path)",
+"10" :  "(516,522, this.val$path)",
+"11" :  "(516,519, this.val$path)",
+"12" :  "(516,(518,519), this.val$fill)",
+"13" :  "(516,(518,521), this.val$fill)",
+"14" :  "(516,(521,522), this.val$outline)",
+"15" :  "(516,(521,524), this.val$outline)",
+"16" :  "(516,522, g2)",
+"17" :  "(516,519, g2)"}]
+}

@@ -1,0 +1,10 @@
+{
+"Class" : "org.jfree.chart.axis.StandardTickUnitSource", 
+"Methods" : [{ "Name" : "equals" ,
+"Duas" : 5,
+"0" :  "(115,(115,116), this)",
+"1" :  "(115,(115,118), this)",
+"2" :  "(115,(115,116), obj)",
+"3" :  "(115,(115,118), obj)",
+"4" :  "(115,118, obj)"}]
+}

@@ -1,0 +1,14 @@
+{
+"Class" : "org.jfree.chart.renderer.junit.AreaRendererEndTypeTests", 
+"Methods" : [{ "Name" : "suite" ,
+"Duas" : 4,
+"0" :  "(67,(67,67), class$org$jfree$chart$renderer$junit$AreaRendererEndTypeTests)",
+"1" :  "(67,(67,67), class$org$jfree$chart$renderer$junit$AreaRendererEndTypeTests)",
+"2" :  "(67,67, class$org$jfree$chart$renderer$junit$AreaRendererEndTypeTests)",
+"3" :  "(67,67, class$org$jfree$chart$renderer$junit$AreaRendererEndTypeTests)"},{ "Name" : "testSerialization" ,
+"Duas" : 4,
+"0" :  "(95,(114,114), t1)",
+"1" :  "(95,(114,114), t1)",
+"2" :  "(107,(114,114), t2)",
+"3" :  "(107,(114,114), t2)"}]
+}

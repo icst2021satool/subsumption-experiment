@@ -1,0 +1,8 @@
+{
+"Class" : "org.jfree.chart.util.BooleanList", 
+"Methods" : [{ "Name" : "equals" ,
+"Edges" : 4,
+"Duas" : 4,
+"1" : 2, 
+ "2" : 3}]
+}

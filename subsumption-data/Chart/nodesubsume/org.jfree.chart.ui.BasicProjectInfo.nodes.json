@@ -1,0 +1,31 @@
+{
+"Class" : "org.jfree.chart.ui.BasicProjectInfo", 
+"Methods" : [{ "Name" : "addLibrary" ,
+"Nodes" : 4,
+"0" : [ 253 ]
+"1" : [ 256,257 ]
+"2" : [ 254 ]
+"3" : [  ]
+},{ "Name" : "getOptionalLibraries" ,
+"Nodes" : 7,
+"0" : [ 265,266 ]
+"1" : [ 266 ]
+"2" : [ 274 ]
+"3" : [ 267,269,270 ]
+"4" : [ 266 ]
+"5" : [ 271 ]
+"6" : [  ]
+},{ "Name" : "addOptionalLibrary" ,
+"Nodes" : 4,
+"0" : [ 283 ]
+"1" : [ 288,286 ]
+"2" : [ 284 ]
+"3" : [  ]
+},{ "Name" : "addOptionalLibrary" ,
+"Nodes" : 4,
+"0" : [ 299 ]
+"1" : [ 302,303 ]
+"2" : [ 300 ]
+"3" : [  ]
+}]
+}

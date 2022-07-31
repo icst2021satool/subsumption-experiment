@@ -1,0 +1,26 @@
+{
+"Class" : "org.jfree.chart.labels.StandardCategorySeriesLabelGenerator", 
+"Methods" : [{ "Name" : "<init>" ,
+"Nodes" : 4,
+"0" : [ 83,84 ]
+"1" : [ 87,88 ]
+"2" : [ 85 ]
+"3" : [  ]
+},{ "Name" : "generateLabel" ,
+"Nodes" : 4,
+"0" : [ 99 ]
+"1" : [ 102,104 ]
+"2" : [ 100 ]
+"3" : [  ]
+},{ "Name" : "equals" ,
+"Nodes" : 8,
+"0" : [ 141 ]
+"1" : [ 144 ]
+"2" : [ 147,149 ]
+"3" : [ 152 ]
+"4" : [ 150 ]
+"5" : [ 145 ]
+"6" : [ 142 ]
+"7" : [  ]
+}]
+}

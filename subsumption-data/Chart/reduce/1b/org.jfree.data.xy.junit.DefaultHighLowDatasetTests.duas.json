@@ -1,0 +1,20 @@
+{
+"Class" : "org.jfree.data.xy.junit.DefaultHighLowDatasetTests", 
+"Methods" : [{ "Name" : "suite" ,
+"Duas" : 4,
+"0" :  "(70,(70,70), class$org$jfree$data$xy$junit$DefaultHighLowDatasetTests)",
+"1" :  "(70,(70,70), class$org$jfree$data$xy$junit$DefaultHighLowDatasetTests)",
+"2" :  "(70,70, class$org$jfree$data$xy$junit$DefaultHighLowDatasetTests)",
+"3" :  "(70,70, class$org$jfree$data$xy$junit$DefaultHighLowDatasetTests)"},{ "Name" : "testCloning" ,
+"Duas" : 10,
+"0" :  "(172,(183,183), d1)",
+"1" :  "(172,(183,183), d1)",
+"2" :  "(172,(184,184), d1)",
+"3" :  "(172,(184,184), d1)",
+"4" :  "(172,185, d1)",
+"5" :  "(178,(183,183), d2)",
+"6" :  "(178,(183,183), d2)",
+"7" :  "(178,(184,184), d2)",
+"8" :  "(178,(184,184), d2)",
+"9" :  "(178,185, d2)"}]
+}

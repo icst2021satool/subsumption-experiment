@@ -1,0 +1,23 @@
+{
+"Class" : "org.jfree.chart.renderer.xy.junit.ClusteredXYBarRendererTests", 
+"Methods" : [{ "Name" : "suite" ,
+"Duas" : 4,
+"0" :  "(73,(73,73), class$org$jfree$chart$renderer$xy$junit$ClusteredXYBarRendererTests)",
+"1" :  "(73,(73,73), class$org$jfree$chart$renderer$xy$junit$ClusteredXYBarRendererTests)",
+"2" :  "(73,73, class$org$jfree$chart$renderer$xy$junit$ClusteredXYBarRendererTests)",
+"3" :  "(73,73, class$org$jfree$chart$renderer$xy$junit$ClusteredXYBarRendererTests)"},{ "Name" : "testCloning" ,
+"Duas" : 10,
+"0" :  "(121,(129,129), r1)",
+"1" :  "(121,(129,129), r1)",
+"2" :  "(121,(130,130), r1)",
+"3" :  "(121,(130,130), r1)",
+"4" :  "(121,131, r1)",
+"5" :  "(124,(129,129), r2)",
+"6" :  "(124,(129,129), r2)",
+"7" :  "(124,(130,130), r2)",
+"8" :  "(124,(130,130), r2)",
+"9" :  "(124,131, r2)"},{ "Name" : "testFindDomainBounds" ,
+"Duas" : 2,
+"0" :  "(181,(187,187), renderer)",
+"1" :  "(181,(187,187), renderer)"}]
+}

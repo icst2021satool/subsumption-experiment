@@ -1,0 +1,20 @@
+{
+"Class" : "org.jfree.chart.renderer.category.junit.StackedBarRendererTests", 
+"Methods" : [{ "Name" : "suite" ,
+"Duas" : 4,
+"0" :  "(71,(71,71), class$org$jfree$chart$renderer$category$junit$StackedBarRendererTests)",
+"1" :  "(71,(71,71), class$org$jfree$chart$renderer$category$junit$StackedBarRendererTests)",
+"2" :  "(71,71, class$org$jfree$chart$renderer$category$junit$StackedBarRendererTests)",
+"3" :  "(71,71, class$org$jfree$chart$renderer$category$junit$StackedBarRendererTests)"},{ "Name" : "testCloning" ,
+"Duas" : 10,
+"0" :  "(114,(122,122), r1)",
+"1" :  "(114,(122,122), r1)",
+"2" :  "(114,(123,123), r1)",
+"3" :  "(114,(123,123), r1)",
+"4" :  "(114,124, r1)",
+"5" :  "(117,(122,122), r2)",
+"6" :  "(117,(122,122), r2)",
+"7" :  "(117,(123,123), r2)",
+"8" :  "(117,(123,123), r2)",
+"9" :  "(117,124, r2)"}]
+}

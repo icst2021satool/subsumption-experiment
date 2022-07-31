@@ -1,0 +1,11 @@
+{
+"Class" : "org.jfree.chart.encoders.SunPNGEncoderAdapter", 
+"Methods" : [{ "Name" : "encode" ,
+"Duas" : 6,
+"0" :  "(121,(121,122), bufferedImage)",
+"1" :  "(121,(121,124), bufferedImage)",
+"2" :  "(121,127, bufferedImage)",
+"3" :  "(121,(124,125), outputStream)",
+"4" :  "(121,(124,127), outputStream)",
+"5" :  "(121,127, outputStream)"}]
+}

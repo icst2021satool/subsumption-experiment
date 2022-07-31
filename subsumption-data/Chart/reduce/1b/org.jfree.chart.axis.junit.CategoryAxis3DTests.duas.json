@@ -1,0 +1,20 @@
+{
+"Class" : "org.jfree.chart.axis.junit.CategoryAxis3DTests", 
+"Methods" : [{ "Name" : "suite" ,
+"Duas" : 4,
+"0" :  "(67,(67,67), class$org$jfree$chart$axis$junit$CategoryAxis3DTests)",
+"1" :  "(67,(67,67), class$org$jfree$chart$axis$junit$CategoryAxis3DTests)",
+"2" :  "(67,67, class$org$jfree$chart$axis$junit$CategoryAxis3DTests)",
+"3" :  "(67,67, class$org$jfree$chart$axis$junit$CategoryAxis3DTests)"},{ "Name" : "testCloning" ,
+"Duas" : 10,
+"0" :  "(83,(91,91), a1)",
+"1" :  "(83,(91,91), a1)",
+"2" :  "(83,(92,92), a1)",
+"3" :  "(83,(92,92), a1)",
+"4" :  "(83,93, a1)",
+"5" :  "(86,(91,91), a2)",
+"6" :  "(86,(91,91), a2)",
+"7" :  "(86,(92,92), a2)",
+"8" :  "(86,(92,92), a2)",
+"9" :  "(86,93, a2)"}]
+}

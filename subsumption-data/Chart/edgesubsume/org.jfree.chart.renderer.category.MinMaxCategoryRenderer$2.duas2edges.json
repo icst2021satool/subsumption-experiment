@@ -1,0 +1,14 @@
+{
+"Class" : "org.jfree.chart.renderer.category.MinMaxCategoryRenderer$2", 
+"Methods" : [{ "Name" : "paintIcon" ,
+"Edges" : 7,
+"Duas" : 18,
+"0" : 1, 
+ "1" : 2, 
+ "2" : 3, 
+ "3" : 4, 
+ "12" : 1, 
+ "13" : 2, 
+ "14" : 3, 
+ "15" : 4}]
+}

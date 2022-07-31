@@ -1,0 +1,14 @@
+{
+"Class" : "org.jfree.chart.util.NumberCellRenderer", 
+"Methods" : [{ "Name" : "getTableCellRendererComponent" ,
+"Nodes" : 8,
+"0" : [ 84,85,86 ]
+"1" : [ 90 ]
+"2" : [ 92 ]
+"3" : [ 96 ]
+"4" : [ 98 ]
+"5" : [ 93 ]
+"6" : [ 87 ]
+"7" : [  ]
+}]
+}

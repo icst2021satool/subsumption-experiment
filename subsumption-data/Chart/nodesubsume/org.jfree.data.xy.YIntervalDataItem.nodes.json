@@ -1,0 +1,22 @@
+{
+"Class" : "org.jfree.data.xy.YIntervalDataItem", 
+"Methods" : [{ "Name" : "getYValue" ,
+"Nodes" : 4,
+"0" : [ 80,79 ]
+"1" : [ 84 ]
+"2" : [ 81 ]
+"3" : [  ]
+},{ "Name" : "getYLowValue" ,
+"Nodes" : 4,
+"0" : [ 94,95 ]
+"1" : [ 99 ]
+"2" : [ 96 ]
+"3" : [  ]
+},{ "Name" : "getYHighValue" ,
+"Nodes" : 4,
+"0" : [ 109,110 ]
+"1" : [ 114 ]
+"2" : [ 111 ]
+"3" : [  ]
+}]
+}

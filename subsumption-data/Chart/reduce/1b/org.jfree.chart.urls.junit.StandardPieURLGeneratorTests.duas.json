@@ -1,0 +1,9 @@
+{
+"Class" : "org.jfree.chart.urls.junit.StandardPieURLGeneratorTests", 
+"Methods" : [{ "Name" : "suite" ,
+"Duas" : 4,
+"0" :  "(73,(73,73), class$org$jfree$chart$urls$junit$StandardPieURLGeneratorTests)",
+"1" :  "(73,(73,73), class$org$jfree$chart$urls$junit$StandardPieURLGeneratorTests)",
+"2" :  "(73,73, class$org$jfree$chart$urls$junit$StandardPieURLGeneratorTests)",
+"3" :  "(73,73, class$org$jfree$chart$urls$junit$StandardPieURLGeneratorTests)"}]
+}

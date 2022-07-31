@@ -1,0 +1,16 @@
+{
+"Class" : "org.jfree.chart.util.NumberCellRenderer", 
+"Methods" : [{ "Name" : "getTableCellRendererComponent" ,
+"Nodes" : 8,
+"0" : [ ],
+"1" : [ 0, 7],
+"6" : [ 4, 6, 8, 11],
+"2" : [ ],
+"3" : [ 1, 10],
+"5" : [ 3, 5, 9],
+"4" : [ 2],
+"7" : [ 2],
+"CoveredDUAsByNodes" : 12,
+"Duas" : 12
+}]
+}

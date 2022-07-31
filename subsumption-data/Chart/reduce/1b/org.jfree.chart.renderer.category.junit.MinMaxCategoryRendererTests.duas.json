@@ -1,0 +1,20 @@
+{
+"Class" : "org.jfree.chart.renderer.category.junit.MinMaxCategoryRendererTests", 
+"Methods" : [{ "Name" : "suite" ,
+"Duas" : 4,
+"0" :  "(78,(78,78), class$org$jfree$chart$renderer$category$junit$MinMaxCategoryRendererTests)",
+"1" :  "(78,(78,78), class$org$jfree$chart$renderer$category$junit$MinMaxCategoryRendererTests)",
+"2" :  "(78,78, class$org$jfree$chart$renderer$category$junit$MinMaxCategoryRendererTests)",
+"3" :  "(78,78, class$org$jfree$chart$renderer$category$junit$MinMaxCategoryRendererTests)"},{ "Name" : "testCloning" ,
+"Duas" : 10,
+"0" :  "(132,(140,140), r1)",
+"1" :  "(132,(140,140), r1)",
+"2" :  "(132,(141,141), r1)",
+"3" :  "(132,(141,141), r1)",
+"4" :  "(132,142, r1)",
+"5" :  "(135,(140,140), r2)",
+"6" :  "(135,(140,140), r2)",
+"7" :  "(135,(141,141), r2)",
+"8" :  "(135,(141,141), r2)",
+"9" :  "(135,142, r2)"}]
+}

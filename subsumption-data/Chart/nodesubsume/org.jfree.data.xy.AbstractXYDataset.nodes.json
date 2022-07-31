@@ -1,0 +1,16 @@
+{
+"Class" : "org.jfree.data.xy.AbstractXYDataset", 
+"Methods" : [{ "Name" : "getXValue" ,
+"Nodes" : 4,
+"0" : [ 76,77,78 ]
+"1" : [ 81 ]
+"2" : [ 79 ]
+"3" : [  ]
+},{ "Name" : "getYValue" ,
+"Nodes" : 4,
+"0" : [ 93,94,95 ]
+"1" : [ 98 ]
+"2" : [ 96 ]
+"3" : [  ]
+}]
+}

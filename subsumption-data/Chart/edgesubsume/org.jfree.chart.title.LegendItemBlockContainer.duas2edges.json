@@ -1,0 +1,10 @@
+{
+"Class" : "org.jfree.chart.title.LegendItemBlockContainer", 
+"Methods" : [{ "Name" : "draw" ,
+"Edges" : 6,
+"Duas" : 14,
+"5" : 3, 
+ "6" : 4, 
+ "12" : 1, 
+ "13" : 2}]
+}

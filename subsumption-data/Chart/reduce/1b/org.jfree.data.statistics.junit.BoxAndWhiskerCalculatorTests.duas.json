@@ -1,0 +1,9 @@
+{
+"Class" : "org.jfree.data.statistics.junit.BoxAndWhiskerCalculatorTests", 
+"Methods" : [{ "Name" : "suite" ,
+"Duas" : 4,
+"0" :  "(64,(64,64), class$org$jfree$data$statistics$junit$BoxAndWhiskerCalculatorTests)",
+"1" :  "(64,(64,64), class$org$jfree$data$statistics$junit$BoxAndWhiskerCalculatorTests)",
+"2" :  "(64,64, class$org$jfree$data$statistics$junit$BoxAndWhiskerCalculatorTests)",
+"3" :  "(64,64, class$org$jfree$data$statistics$junit$BoxAndWhiskerCalculatorTests)"}]
+}

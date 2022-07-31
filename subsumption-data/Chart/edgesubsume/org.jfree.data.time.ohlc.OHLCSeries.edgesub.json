@@ -1,0 +1,14 @@
+{
+"Class" : "org.jfree.data.time.ohlc.OHLCSeries", 
+"Methods" : [{ "Name" : "add" ,
+"Edges" : 6,
+"4" : [ 0, 3],
+"5" : [ 1, 2, 4, 7, 8, 9, 10],
+"2" : [ 0, 3, 5, 11],
+"3" : [ 2, 4, 6, 7, 8, 9, 10, 12],
+"0" : [ 2, 4, 7, 8, 9, 10],
+"1" : [ 0, 3, 5, 11],
+"CoveredDUAsByEdges" : 13,
+"Duas" : 13
+}]
+}

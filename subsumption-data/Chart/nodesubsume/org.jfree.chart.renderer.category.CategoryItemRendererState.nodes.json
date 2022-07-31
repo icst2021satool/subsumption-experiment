@@ -1,0 +1,27 @@
+{
+"Class" : "org.jfree.chart.renderer.category.CategoryItemRendererState", 
+"Methods" : [{ "Name" : "getVisibleSeriesIndex" ,
+"Nodes" : 9,
+"0" : [ 180 ]
+"1" : [ 183,184 ]
+"2" : [ 184 ]
+"3" : [ 190 ]
+"4" : [ 185 ]
+"5" : [ 184 ]
+"6" : [ 186,187 ]
+"7" : [ 181 ]
+"8" : [  ]
+},{ "Name" : "getVisibleSeriesCount" ,
+"Nodes" : 4,
+"0" : [ 202 ]
+"1" : [ 205 ]
+"2" : [ 203 ]
+"3" : [  ]
+},{ "Name" : "getVisibleSeriesArray" ,
+"Nodes" : 4,
+"0" : [ 216 ]
+"1" : [ 219,220,222 ]
+"2" : [ 217 ]
+"3" : [  ]
+}]
+}

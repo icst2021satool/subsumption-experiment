@@ -1,0 +1,20 @@
+{
+"Class" : "org.jfree.data.xy.junit.YIntervalDataItemTests", 
+"Methods" : [{ "Name" : "suite" ,
+"Duas" : 4,
+"0" :  "(67,(67,67), class$org$jfree$data$xy$junit$YIntervalDataItemTests)",
+"1" :  "(67,(67,67), class$org$jfree$data$xy$junit$YIntervalDataItemTests)",
+"2" :  "(67,67, class$org$jfree$data$xy$junit$YIntervalDataItemTests)",
+"3" :  "(67,67, class$org$jfree$data$xy$junit$YIntervalDataItemTests)"},{ "Name" : "testCloning" ,
+"Duas" : 10,
+"0" :  "(130,(138,138), item1)",
+"1" :  "(130,(138,138), item1)",
+"2" :  "(130,(139,139), item1)",
+"3" :  "(130,(139,139), item1)",
+"4" :  "(130,140, item1)",
+"5" :  "(133,(138,138), item2)",
+"6" :  "(133,(138,138), item2)",
+"7" :  "(133,(139,139), item2)",
+"8" :  "(133,(139,139), item2)",
+"9" :  "(133,140, item2)"}]
+}

@@ -1,0 +1,12 @@
+{
+"Class" : "org.jfree.data.xy.VectorDataItem", 
+"Methods" : [{ "Name" : "getVectorX" ,
+"Duas" : 3,
+"0" :  "(103,(104,105), vi)",
+"1" :  "(103,(104,108), vi)",
+"2" :  "(103,105, vi)"},{ "Name" : "getVectorY" ,
+"Duas" : 3,
+"0" :  "(118,(119,120), vi)",
+"1" :  "(118,(119,123), vi)",
+"2" :  "(118,120, vi)"}]
+}

@@ -1,0 +1,11 @@
+{
+"Class" : "org.jfree.chart.renderer.RendererState", 
+"Methods" : [{ "Name" : "getEntityCollection" ,
+"Nodes" : 5,
+"0" : [ 83,84 ]
+"1" : [ 90 ]
+"2" : [ 85,86 ]
+"3" : [ 87 ]
+"4" : [  ]
+}]
+}

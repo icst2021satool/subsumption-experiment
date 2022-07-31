@@ -1,0 +1,21 @@
+{
+"Class" : "org.jfree.data.jdbc.JDBCPieDataset", 
+"Methods" : [{ "Name" : "<init>" ,
+"Edges" : 4,
+"Duas" : 4,
+"1" : 1, 
+ "2" : 2},{ "Name" : "executeQuery" ,
+"Edges" : 20,
+"Duas" : 23,
+"4" : 6, 
+ "5" : 7, 
+ "7" : 16, 
+ "8" : 17, 
+ "9" : 1, 
+ "10" : 2, 
+ "16" : 10, 
+ "17" : 11, 
+ "18" : 13, 
+ "19" : 14, 
+ "20" : 15}]
+}

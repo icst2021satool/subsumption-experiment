@@ -1,0 +1,54 @@
+{
+"Class" : "org.jfree.chart.editor.DefaultAxisEditor", 
+"Methods" : [{ "Name" : "getInstance" ,
+"Nodes" : 6,
+"0" : [ 150 ]
+"1" : [ 161 ]
+"2" : [ 153 ]
+"3" : [ 157 ]
+"4" : [ 154 ]
+"5" : [  ]
+},{ "Name" : "getTickLabelInsets" ,
+"Nodes" : 5,
+"0" : [ 362 ]
+"1" : [ 362 ]
+"2" : [ 362 ]
+"3" : [ 362 ]
+"4" : [  ]
+},{ "Name" : "getLabelInsets" ,
+"Nodes" : 5,
+"0" : [ 373 ]
+"1" : [ 373 ]
+"2" : [ 373 ]
+"3" : [ 373 ]
+"4" : [  ]
+},{ "Name" : "actionPerformed" ,
+"Nodes" : 8,
+"0" : [ 393,394 ]
+"1" : [ 397 ]
+"2" : [ 400 ]
+"3" : [ 409 ]
+"4" : [ 401 ]
+"5" : [ 398 ]
+"6" : [ 395 ]
+"7" : [  ]
+},{ "Name" : "attemptLabelFontSelection" ,
+"Nodes" : 4,
+"0" : [ 416,417,421 ]
+"1" : [ 428 ]
+"2" : [ 422,423 ]
+"3" : [  ]
+},{ "Name" : "attemptModifyLabelPaint" ,
+"Nodes" : 4,
+"0" : [ 435,438 ]
+"1" : [ 441 ]
+"2" : [ 439 ]
+"3" : [  ]
+},{ "Name" : "attemptTickLabelFontSelection" ,
+"Nodes" : 4,
+"0" : [ 448,449,453 ]
+"1" : [ 461 ]
+"2" : [ 454,455 ]
+"3" : [  ]
+}]
+}

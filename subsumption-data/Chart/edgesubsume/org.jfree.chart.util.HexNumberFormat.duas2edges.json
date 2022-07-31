@@ -1,0 +1,14 @@
+{
+"Class" : "org.jfree.chart.util.HexNumberFormat", 
+"Methods" : [{ "Name" : "format" ,
+"Edges" : 9,
+"Duas" : 15,
+"1" : 4, 
+ "2" : 5, 
+ "4" : 6, 
+ "5" : 7, 
+ "9" : 6, 
+ "10" : 7, 
+ "12" : 6, 
+ "13" : 7}]
+}

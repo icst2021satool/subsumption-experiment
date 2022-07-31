@@ -1,0 +1,20 @@
+{
+"Class" : "org.jfree.chart.entity.junit.CategoryItemEntityTests", 
+"Methods" : [{ "Name" : "suite" ,
+"Duas" : 4,
+"0" :  "(70,(70,70), class$org$jfree$chart$entity$junit$CategoryItemEntityTests)",
+"1" :  "(70,(70,70), class$org$jfree$chart$entity$junit$CategoryItemEntityTests)",
+"2" :  "(70,70, class$org$jfree$chart$entity$junit$CategoryItemEntityTests)",
+"3" :  "(70,70, class$org$jfree$chart$entity$junit$CategoryItemEntityTests)"},{ "Name" : "testCloning" ,
+"Duas" : 10,
+"0" :  "(133,(143,143), e1)",
+"1" :  "(133,(143,143), e1)",
+"2" :  "(133,(144,144), e1)",
+"3" :  "(133,(144,144), e1)",
+"4" :  "(133,145, e1)",
+"5" :  "(138,(143,143), e2)",
+"6" :  "(138,(143,143), e2)",
+"7" :  "(138,(144,144), e2)",
+"8" :  "(138,(144,144), e2)",
+"9" :  "(138,145, e2)"}]
+}
