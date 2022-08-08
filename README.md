@@ -207,12 +207,12 @@ Weka,
 and CoreNLP, are the version 1b obtained from Defects4J repository. Collections is version 25b (first buggy version of this program) from Defects4J and Elki is commit 6465675,
 SystemDS is version 3.0.0,
 Weka is version 3.8 ,
-and CoreNLP is version 4.4.0 from their own repository. To save space, we just post in this repository the file for Weka because we used a specifict version (3.8) of it. The other programs can be obtained from the defect4j directory (https://github.com/rjust/defects4j). The instructions on how extract the programs from defect4j repository is given below.  These directory constitutes the input for satool and before running any script or program all defects4j programs should be extacted and compiled and their test suite run.
+and CoreNLP is version 4.4.0 from their own repository. To save space, we just post in this repository the file for Elki, SystemDS, Weka, and CoreNLP because we used a specifict versions  of them. The other programs can be obtained from the defect4j directory (https://github.com/rjust/defects4j). The instructions on how extract the programs from defect4j repository is given below.  These directory constitutes the input for satool and before running any script or program all defects4j programs should be extacted and compiled and their test suite run.
 
 
 ## ```jaguar-data``` directory. 
 
-We utilized a modified version of Jaguar (https://github.com/saeg/jaguar) to collect data flow coverage data for every Junit method of the test suites of the subject programs. Each of these methods are considered a separated test. 
+We utilized a modified version of [Jaguar](https://github.com/marioconcilio/jaguar-df) to collect data flow coverage data for every Junit method of the test suites of the subject programs. Each of these methods are considered a separated test. 
 
 The data in this directory are zipped tar files. They should be expanded before being used.
 
@@ -224,6 +224,7 @@ commons-collections (Collections),
 commons-compress (Compress),
 commons-csv (Csv),
 commons-jxpath (JxPath),
+commons-lang (Lang),
 commons-math (Math),
 gson (Gson),
 jackson-core (JacksonCore),
@@ -231,10 +232,9 @@ jackson-databind (JacksonDatabind),
 jackson-dataformat-xml (JacksonXml),
 jfreechart (Chart),
 joda-time (Time),
-jsoup (Jsoup), and
+jsoup (Jsoup), 
+mockito (Mockito) and
 Weka (Weka).
-
-Note that Lang and Mockito are not in this directory because we could not collect data for them using the modified jaguar.
 
 In all directories, excepting commons-collections and Weka, there are the following subdirectories:
 
