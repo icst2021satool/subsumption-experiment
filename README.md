@@ -323,8 +323,10 @@ Example:
 
 ## Using docker
 
-You can skip the above steps by using docker, but you should install it before starting the replication of the subsumption experiment. 
-We highly recommend using docker; we kept the steps because there was no Dockerfile in the original github created for the ICST 2021 submission.
+You can skip the above steps by using docker, but you should install it before starting the replication of the subsumption experiment. The docker file 
+will clone [this](https://github.com/icst2021satool/subsumption-experiment) repository,  install the tools and expand and download all the programs and data needed.
+
+We highly recommend using docker; we kept the steps above because they were part of the original github  repository created for the ICST 2021 submission.
 
 In what follows, we present the steps to create the docker container for running the subsumption experiment. 
 
