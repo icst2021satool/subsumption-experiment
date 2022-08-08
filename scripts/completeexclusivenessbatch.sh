@@ -7,7 +7,7 @@ subsumptiondir="../subsumption-data/"
 
 file="../subsumption-data/checks-output/completeexclusiveness/completeexclusiveness-"
 
-Identifiers="Chart Cli Closure Codec Collections Compress Csv Gson JacksonCore JacksonDatabind JacksonXml Jsoup JxPath Lang Math Mockito Time Weka"
+Identifiers="Chart Cli Closure Codec Collections Compress Csv Gson JacksonCore JacksonDatabind JacksonXml Jsoup JxPath Lang Math Mockito Time Weka systemds-3.0.0-rc2 elki-6465675 stanford-corenlp-4.4.0"
 
 for project in $Identifiers
 do
