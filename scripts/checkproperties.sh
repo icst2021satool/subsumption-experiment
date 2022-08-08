@@ -1,6 +1,6 @@
 #!/bin/bash
 
-for v in `cat ../subsumption-data/project-identifiers.txt ` # Lang and Mockito do not have testing data and will not be verified.
+for v in `cat ../subsumption-data/project-identifiers.txt `
 do
   echo "==> $v <==";
 # Completeness property
