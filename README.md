@@ -343,7 +343,7 @@ Run the command below on the ``probabilistic-coupling`` directory.
 * ``docker build -t subsumption-experiment .``
 
 The above command will create an docker image that clones [this](https://github.com/icst2021satool/subsumption-experiment) 
-repository and install all tools needed to run the experiment. Additionally, 
+repository and install all tools needed to run the experiment. Additionally, it will download d4j 1b faulty versions and expand Jaguar data flow coverage data.
 
 ### Run the container
 
