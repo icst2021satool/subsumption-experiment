@@ -273,6 +273,7 @@ commons-collections (Collections),
 commons-compress (Compress),
 commons-csv (Csv),
 commons-jxpath (JxPath),
+commons-lang (Lang),
 commons-math (Math),
 gson (Gson),
 jackson-core (JacksonCore),
@@ -280,7 +281,8 @@ jackson-databind (JacksonDatabind),
 jackson-dataformat-xml (JacksonXml),
 jfreechart (Chart),
 joda-time (Time),
-jsoup (Jsoup), and
+jsoup (Jsoup),
+mockito (Mockito), and
 Weka (Weka).
 
 2. ``tar xcf  <program>.tar``
