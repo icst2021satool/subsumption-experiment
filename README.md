@@ -319,9 +319,37 @@ Example:
   
 6. For Collections, the first buggy version is 25b. So the same steps above should be repeated but with version 25b.
 
-7. Weka files are already presented in github repository and in the cloned directory.
+7. Elki, SystemDS, Weka, and CoreNLP files are already presented in github repository and in the cloned directory.
 
-The following scripts and programs should be run from the ``scripts`` directory. Do not forget setting up **python** and **numpy** package before running the scripts below.
+## Using docker
+
+You can skip the above steps by using docker, but you should install it before starting the replication of the subsumption experiment. 
+We highly recommend using docker; we kept the steps because there was no Dockerfile in the original github created for the ICST 2021 submission.
+
+In what follows, we present the steps to create the docker container for running the subsumption experiment. 
+
+### Clone docker repository
+
+1. Clone the repository: git clone https://github.com/icst2021satool/dockers.git in the target computer.
+2. Access the **Dockerfile** in  directory the ``subsumption``.
+* ``cd subsumption``
+* ``ls Dockerfile``
+
+### Build docker image
+Run the command below on the ``probabilistic-coupling`` directory.
+
+* ``docker build -t subsumption-experiment .``
+
+The above command will create an docker image that clones [this](https://github.com/icst2021satool/subsumption-experiment) 
+repository and install all tools needed to run the experiment. Additionally, 
+
+### Run the container
+
+* ``docker container run -ti subsumption-experiment``
+
+## Running the experiment
+
+The following scripts and programs should be run from the ``scripts`` directory. Do not forget setting up **python** and **numpy** package before running the scripts below (you do not need to worry with installing these programs if you use the Dockerfile as described above)
 
 
 ## Comparison of modified Jaguar and SAtool DUAs
