@@ -145,6 +145,10 @@ There will be the following files inside each ```<ProjectId>/<subsumption>``` di
 
 ``a = 1; if (n>10) System.out.println(a+1); else System.out.println(a-1);``
 
+```nodesubsume```  directories  include files ```<classname>.nodes.json``` and ```<classname>.nodesub.json``` which contain, respectively, the set of nodes and the DUAs subsumed by the nodes for each method of the class. The numbers in the ```<classname>.nodesub.json``` file refer to DUAs of the method described in the ```<classname>.duas.json``` in which the ids of the DUAs are defined.  The ```<classname>.duas.json``` are located in the ``reduce`` directories. ```nodesubsume```  directories  also contains the files ```<classname>.duas2nodes.json``` which maps those nodes exercised whenever a particular DUA is. The DUAs are referred to by their ids defined in ```<classname>.duas.json```.
+
+```edgesubsume```  directories  include files ```<classname>.edges.json``` and ```<classname>.edgesub.json``` which contain, respectively, the set of edges and the DUAs subsumed by the edges for each method of the class. The numbers in the ```<classname>.edgesub.json``` file refer to DUAs of the method described in the ```<classname>.duas.json``` in which the ids of the DUAs are defined.  The ```<classname>.duas.json``` are located in the ``reduce`` directories. ```edgesubsume```  directories  also contains the files ```<classname>.duas2edges.json``` which maps those edges exercised whenever a particular DUA is. The DUAs are referred to by their ids defined in ```<classname>.duas.json```.
+
 
 ``` checks-output``` directory has the following structure:
 
