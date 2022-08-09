@@ -351,7 +351,7 @@ repository and install all tools needed to run the experiment. Additionally, it 
 
 ## Running the experiment
 
-The following scripts and programs should be run from the ``scripts`` directory. Do not forget setting up **python** and **numpy** package before running the scripts below (you do not need to worry with installing these programs if you use the Dockerfile as described above)
+The following scripts and programs should be run from the ``scripts`` directory. Do not forget setting up **python** and **numpy** package before running the scripts below (you do not need to worry about installing these programs if you use the Dockerfile as described above)
 
 
 ## Comparison of modified Jaguar and SAtool DUAs
