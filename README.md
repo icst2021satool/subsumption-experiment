@@ -35,9 +35,9 @@ The scripts described below are supposed to be run on the ``scripts`` folder.
 
 * **javancssbatch.sh**. Runs javancss for all programs to collect metrics. Data are saved on ```subsumption-data/checks-output/metrics```.
 
-* **countmethodsjaguarexec.sh**. Counts the number of methods executed by the tests of Defects4J programs versions 1b (all Defects4J programs, excepting Collections) and 25b (Collections) and Elki commit 6465675, SystemDS version 3.0.0, Weka 3.8, and CoreNLP version 4.4.0. for the experiment. 
+* **countmethodsjaguarexec.sh**. Counts the number of methods executed by the tests of Defects4J programs versions 1b (all Defects4J programs, excepting Collections) and 25b (Collections), and Weka 3.8.  Elki commit 6465675, SystemDS version 3.0.0,  and CoreNLP version 4.4.0 have not they data flow coverage collected for the experiment. 
 
-* **assertbatch.sh**. Calculates DUA coverage for all Defects4J's 1b (or 25b, in the case of Collections) versions. It also calculates DUA coverage for Weka 3.8. This script calls **assert_project.sh**, which is a script that provides the correct parameters for each project to python program **assert_jaguar.py**. We could not collected data flow coverage for Elki, SystemDS, and CoreNLP.
+* **assertbatch.sh**. Calculates DUA coverage for all Defects4J's 1b (or 25b, in the case of Collections) versions. It also calculates DUA coverage for Weka 3.8. This script calls **assert_project.sh**, which is a script that provides the correct parameters for each project to python program **assert_jaguar.py**. We did not collect data flow coverage for Elki, SystemDS, and CoreNLP.
 
 ### Subsumption Algorithm (SA) correctness scripts
 
@@ -130,7 +130,7 @@ We have the following directories below each ```<ProjectId>``` directory:
 +-- reduce
 ```
   
-Directories ```duaduasubsume, edgesubsume```, and ```nodesubsume``` contain  data used to calculate data flow subsumption effectiveness. They were obtained from **satool** execution to collect, respectively, the set of unconstrained DUAs, and local DUA-edge and local DUA-node subsumptions. Data flow subsumptions were calculated but not save on json files (see ``reduce`` folder and **reducebatch.sh** script).
+Directories ```duaduasubsume, edgesubsume```, and ```nodesubsume``` contain  data used to calculate data flow subsumption effectiveness. They were obtained from **satool** execution to collect, respectively, the set of unconstrained DUAs, and local DUA-edge and local DUA-node subsumptions. DUA-node and DUA-edge subsumptions were calculated and saved in ``nodesubsume``and ``edgesubsume`` as json files. DUA-DUA subsumptions are saved in the ``reduce`` directory. (see ``reduce`` folder and **reducebatch.sh** script).
 
 There will be the following files inside each ```<ProjectId>/<subsumption>``` directory where  ```<subsumption>``` means ```duaduasubsume, edgesubsume```, and ```nodesubsume```: ```<subsumption>-<ProjectId>```, which contains **satool**'s output, and ``<subsumption>-<ProjectId>.csv``, which contians the tabulation of the data as follows. For few programs, there are ``<subsumption>-<ProjectId>.ods`` files.
  
